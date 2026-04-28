@@ -1,107 +1,188 @@
 {
-  "generatedAt": "2026-04-27T22:30:00.959932+00:00",
+  "generatedAt": "2026-04-28T07:57:16.278438+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Steam Controller è ufficiale ed esce fra pochissimo",
-      "link": "https://www.tomshw.it/videogioco/steam-controller-ufficiale-data-e-prezzo-c651ede",
-      "excerpt": "99 euro e una data cerchiata in rosso sul calendario: 4 maggio 2026. Con queste due informazioni, Valve chiude settimane di speculazioni e ufficializza il ritorno del suo…",
+      "title": "OnePlus Nord CE 6 e Lite ufficiali il 7 maggio: tante specifiche in anteprima",
+      "link": "https://www.hdblog.it/smartphone/articoli/n656552/oneplus-nord-ce-6-lite-specifiche-anteprima/",
+      "excerpt": "La serie OnePlus Nord CE 6 sarà presentata il 7 maggio in India: due modelli con specifiche diverse ma accomunati da alte prestazioni e grande autonomia",
+      "image": "https://hd2.tudocdn.net/1338956?w=660",
+      "publishedAt": "2026-04-28T07:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "XChat è disponibile per iOS: Elon Musk ha rinunciato al sogno di una super app",
+      "link": "https://www.hdblog.it/apple/articoli/n656538/xchat-download-ios-elon-musk-rinunciato-super-app/",
+      "excerpt": "XChat è arrivata su iOS: la nuova applicazione standalone di Elon Musk con messaggi, chiamate e crittografia end-to-end integrata.",
+      "image": "https://hd2.tudocdn.net/1338942?w=660",
+      "publishedAt": "2026-04-28T07:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Denuvo è ormai definitivamente sconfitto?",
+      "link": "https://www.hdblog.it/windows/articoli/n656550/denuvo-pirateria-sconfitta-definitiva/",
+      "excerpt": "Una delle grandi protagoniste della scena, FitGirl, dice che ormai è una tecnologia inutile.",
+      "image": "https://hd2.tudocdn.net/738106?w=660",
+      "publishedAt": "2026-04-28T07:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Scrivi Palestina, leggi Ucraina: per Canva incidente diplomatico sfiorato",
+      "link": "https://www.hdblog.it/applicazioni/articoli/n656539/canva-bug-palestina-ucraina-risolto/",
+      "excerpt": "Con la risoluzione del bug sono arrivate anche le scuse.",
+      "image": "https://hd2.tudocdn.net/1338949?w=660",
+      "publishedAt": "2026-04-28T07:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nothing Warp torna disponibile, con una grossa differenza",
+      "link": "https://www.hdblog.it/nothing/articoli/n656544/nothing-warp-disponibile-solo-apk/",
+      "excerpt": "Nothing fa passi indietro sulla distribuzione della sua app",
+      "image": "https://hd2.tudocdn.net/1335890?w=660",
+      "publishedAt": "2026-04-28T07:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il gadget che converte l’accendisigari in un caricatore per i tuoi dispositivi",
+      "link": "https://www.tomshw.it/automotive/caricabatterie-auto-cellularline-in-offerta-a-soli-20eur-2026-04-28",
+      "excerpt": "Su Amazon è disponibile il caricabatterie da auto Cellularline con attacco accendisigari 12/24V, dotato di 2 porte USB da 18W e 1 porta USB-C con Power Delivery da 20W, per una…",
       "image": null,
-      "publishedAt": "2026-04-27T18:49:45+00:00",
+      "publishedAt": "2026-04-28T07:32:11+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Come caricare lo smartphone senza danni alla batteria: consigli e falsi miti | VIDEO",
-      "link": "https://www.hdblog.it/accessori/guide/n654911/come-caricare-smartphone-no-danni-guida-accessori/",
-      "excerpt": "Calore, cicli di carica e accessori sbagliati: cosa rovina davvero la batteria del tuo smartphone e come evitarlo. Guida completa con test e consigli pratici.",
-      "image": "https://hd2.tudocdn.net/1336467?w=660",
-      "publishedAt": "2026-04-27T18:20:00+00:00",
+      "title": "Apple aggiunge una soluzione agli abbonamenti su App Store: si paga ogni mese, ma il vincolo dura un anno",
+      "link": "https://images.dday.it/k5rAQ1e_CCSS8nqp3wMN0HDlzkykwJ3n-jiEn-m7PmY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57245/d30d59_small_Depositphotos_651971168_XL_copia.jpg",
+      "excerpt": "Anche sull’App Store arriva la formula del mensile con impegno annuale. Meno anticipo per l’utente, ma le rate già accettate restano dovute... Leggi tutto",
+      "image": "https://images.dday.it/k5rAQ1e_CCSS8nqp3wMN0HDlzkykwJ3n-jiEn-m7PmY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57245/d30d59_small_Depositphotos_651971168_XL_copia.jpg",
+      "publishedAt": "2026-04-28T07:31:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Chery Tiggo X, tutti i dettagli del SUV pronto a sfidare il mercato premium",
+      "link": "https://www.hdmotori.it/chery-tiggo-x-suv-premium/",
+      "excerpt": "Chery Tiggo X, tutti i dettagli del SUV pronto a sfidare il mercato premium",
+      "image": "https://hd2.tudocdn.net/1338952?w=660",
+      "publishedAt": "2026-04-28T07:30:06+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Prime Video: tutti i film e le serie TV in arrivo a maggio 2026",
-      "link": "https://www.hdblog.it/amazon/articoli/n656418/prime-video-film-serie-tv-maggio-2026/",
-      "excerpt": "Ecco le novità del mese",
-      "image": "https://hd2.tudocdn.net/1338705?w=660",
-      "publishedAt": "2026-04-27T18:19:00+00:00",
+      "title": "Dal VGA al Thunderbolt 3 in un attimo: l’adattatore ora in sconto",
+      "link": "https://www.tomshw.it/hardware/adattatore-usb-c-a-vga-benfei-in-offerta-a-soli-10eur-2026-04-28",
+      "excerpt": "Su Amazon è disponibile l'adattatore BENFEI Thunderbolt 3 / USB-C a VGA in versione alluminio, compatibile con MacBook e numerosi altri dispositivi. Supporta risoluzioni fino a…",
+      "image": null,
+      "publishedAt": "2026-04-28T07:25:37+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "House of the Dragon 3: svelata la data d'uscita e il nuovo teaser",
+      "link": "https://www.hdblog.it/spettacolo/articoli/n656540/house-of-the-dragon-stagione-3-uscita/",
+      "excerpt": "La terza stagione di House of the Dragon arriva il 21 giugno su HBO con otto nuovi episodi.",
+      "image": "https://hd2.tudocdn.net/1166564?w=660",
+      "publishedAt": "2026-04-28T07:25:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Musk contro OpenAI: al via il processo che scuote la Silicon Valley",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n656478/musk-altman-processo-openai/",
-      "excerpt": "Elon Musk e Sam Altman si affrontano in tribunale per il controllo e il futuro di OpenAI.",
-      "image": "https://hd2.tudocdn.net/1338842?w=660",
-      "publishedAt": "2026-04-27T18:18:00+00:00",
+      "title": "Samsung Galaxy S27, modulo fotocamera diverso dopo tanti anni? Ecco perché",
+      "link": "https://www.hdblog.it/smartphone/articoli/n656542/samsung-galaxy-s27-modulo-fotocamera-magneti/",
+      "excerpt": "Potrebbe essere questione di ricarica magnetica.",
+      "image": "https://hd2.tudocdn.net/1334302?w=660",
+      "publishedAt": "2026-04-28T07:15:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Valve Steam Controller arriva il 4 maggio a 99 euro, è ufficiale",
-      "link": "https://www.hdblog.it/android/articoli/n656521/valve-steam-controller-quando-prezzi/",
-      "excerpt": "Ma per quanto riguarda la Steam Machine ancora non si sa niente.",
-      "image": "https://hd2.tudocdn.net/1335592?w=660",
-      "publishedAt": "2026-04-27T17:50:00+00:00",
+      "title": "Più di 30 premi: sono la garanzia giusta per scegliere Surfshark VPN a 1,78€/mese?",
+      "link": "https://www.tomshw.it/hardware/piu-di-30-premi-sono-la-garanzia-giusta-per-scegliere-surfshark-vpn-a-178eurmese",
+      "excerpt": "Surfshark festeggia un nuovo anniversario e lo fa con una promozione che merita attenzione. Per chi sta pensando di dotarsi di una VPN solida e completa, questa potrebbe essere la…",
+      "image": null,
+      "publishedAt": "2026-04-28T07:13:01+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La Cina blocca Meta: stop all’acquisizione di Manus AI da 2 miliardi di dollari",
+      "link": "https://www.hdblog.it/business/articoli/n656536/cina-ferma-meta-stop-manus/",
+      "excerpt": "L'operazione diventa un caso politico",
+      "image": "https://hd2.tudocdn.net/1338944?w=660",
+      "publishedAt": "2026-04-28T07:10:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Android 17 QPR1, in arrivo novità importanti per il terminale Linux",
-      "link": "https://www.hdblog.it/google/articoli/n656520/android-17-qpr1-terminale-novita-beta/",
-      "excerpt": "L'utente potrà scegliere tra diverse risoluzioni, migliorando (o peggiorando, naturalmente) le prestazioni complessive.",
-      "image": "https://hd2.tudocdn.net/1338448?w=660",
-      "publishedAt": "2026-04-27T17:25:00+00:00",
+      "title": "Con i camion elettrici una miniera australiana risparmia 400 milioni l'anno",
+      "link": "https://www.hdmotori.it/camion-elettrici-miniera-risparmia-400-milioni/",
+      "excerpt": "La crisi dello Stretto di Hormuz ha reso ancora più evidente la scommessa del colosso minerario australiano. Elettrificare la flotta non è solo una scelta ambientale, ma una…",
+      "image": "https://hd2.tudocdn.net/1338943?w=660",
+      "publishedAt": "2026-04-28T07:00:53+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Addio lanciatori ingombranti: ecco come Lockheed Martin abbatterà i droni",
-      "link": "https://www.hdblog.it/droni/articoli/n656505/difesa-droni-missile-jagm/",
-      "excerpt": "Lockheed Martin testa il JQL per lanci verticali di precisione contro la minaccia dei droni moderni.",
-      "image": "https://hd2.tudocdn.net/1338871?w=660",
-      "publishedAt": "2026-04-27T17:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Adobe Firefly AI Assistant cambia il modo di creare contenuti",
+      "link": "https://www.tomshw.it/hardware/adobe-firefly-ai-assistant-beta-pubblica-disponibile-2026-04-28",
+      "excerpt": "Adobe ha compiuto un passo significativo con l'annuncio della public beta di Firefly AI Assistant, un assistente creativo basato su tecnologia di intelligenza artificiale…",
+      "image": null,
+      "publishedAt": "2026-04-28T06:55:12+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Energia pulita: a Brasimone il primo test al mondo con piombo",
-      "link": "https://www.hdblog.it/green/articoli/n656386/reattore-piombo-liquido-enea/",
-      "excerpt": "Iniziati i lavori per Precursor, il sistema di Newcleo che simula i reattori a piombo liquido.",
-      "image": "https://hd2.tudocdn.net/1338862?w=660",
-      "publishedAt": "2026-04-27T16:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Gravidanze a rischio: ecco la cura che fa la differenza",
+      "link": "https://www.tomshw.it/scienze/gravidanze-rischio-cura-guadagna-10-giorni",
+      "excerpt": "Una nuova terapia sperimentale ha provato a guadagnare tempo nelle gravidanze colpite dalla forma più grave e precoce di preeclampsia. Il trattamento non somministra un farmaco…",
+      "image": null,
+      "publishedAt": "2026-04-28T06:29:19+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Anche Amazon ottiene l'esenzione dal ban americano dei router Wi-Fi",
-      "link": "https://www.hdblog.it/hardware/articoli/n656516/amazon-eero-esenzione-ban-router-america/",
-      "excerpt": "Come Netgear. La grazia è solo temporanea: durerà fino al 31 ottobre 2027.",
-      "image": "https://hd2.tudocdn.net/1317641?w=660",
-      "publishedAt": "2026-04-27T16:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Neonati, cambia la cura: farmaci solo se i sintomi peggiorano",
+      "link": "https://www.tomshw.it/scienze/neonati-esposti-oppioidi-due-giorni-meno",
+      "excerpt": "Una sperimentazione clinica su 383 neonati con astinenza da oppioidi indica che il trattamento può essere più breve quando i farmaci vengono somministrati solo in base ai sintomi,…",
+      "image": null,
+      "publishedAt": "2026-04-28T06:27:49+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
-      "title": "NASA scopre TOI-201: il sistema planetario che cambia in tempo reale",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n656161/scoperta-sistema-planetario-toi-201/",
-      "excerpt": "La NASA individua il sistema TOI-201 dove i pianeti cambiano orbita sotto i nostri occhi.",
-      "image": "https://hd2.tudocdn.net/1338180?w=660",
-      "publishedAt": "2026-04-27T16:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Tumore alla prostata, il bersaglio ora è colpibile",
+      "link": "https://www.tomshw.it/scienze/tumore-alla-prostata-bersaglio-colpibile",
+      "excerpt": "Una linea di ricerca canadese ha appena portato un bersaglio del tumore alla prostata dentro una zona che i farmaci potevano solo sfiorare. Il team di University of British…",
+      "image": null,
+      "publishedAt": "2026-04-28T06:24:16+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Bosch testa la guida autonoma di Livello 3: mani libere fino a 120 km/h",
-      "link": "https://www.hdmotori.it/bosch-guida-autonoma-livello-3/",
-      "excerpt": "Al Salone di Pechino il gruppo tedesco ottiene il via libera ai test su strada e annuncia la collaborazione con Chery sul sistema elettrico a 48 V.",
-      "image": "https://hd2.tudocdn.net/1338891?w=660",
-      "publishedAt": "2026-04-27T16:30:08+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Betting social: perché gli uomini sono i più bersagliati",
+      "link": "https://www.tomshw.it/scienze/scommesse-social-uomini-raggiunti-piu-del-doppio",
+      "excerpt": "Uno studio guidato dall’Università di Cambridge, pubblicato il 28 aprile sul Journal of Behavioral Addictions, mostra che gli annunci di scommesse su Facebook e Instagram non…",
+      "image": null,
+      "publishedAt": "2026-04-28T06:22:28+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Recensione Motorola Moto G77, equilibrato e affidabile",
+      "link": "https://www.tomshw.it/smartphone/recensione-motorola-moto-g77-equilibrato-e-affidabile",
+      "excerpt": "Dopo qualche giorno in compagnia del Motorola Moto G77, mi sono reso conto del perché in molti temevano che il recente sbarco di Motorola nel tortuoso settore dei top di gamma,…",
+      "image": null,
+      "publishedAt": "2026-04-28T05:57:44+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "TV TCL SQD-Mini LED in offerta: ne compri uno e hai il tablet TCL NXTPAPER praticamente in regalo",
@@ -131,15 +212,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Recensione Ecovacs Deebot X12 Pro Omni, lavaggio pavimento al top",
-      "link": "https://www.tomshw.it/altro/recensione-ecovacs-deebot-x12-pro-omni",
-      "excerpt": "L'Ecovacs Deebot X12 Pro Omni rappresenta la proposta più ambiziosa del produttore cinese nel segmento dei robot aspirapolvere e lavapavimenti di fascia alta. Con un prezzo di…",
-      "image": null,
-      "publishedAt": "2026-04-27T15:29:45+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "CD Projekt Red ha spiegato come ha portato Cyberpunk 2077 su Mac. Non è stata una passeggiata",
       "link": "https://images.dday.it/tuHsusPHqNN3MwgM9pY3HzGritgBT09WUHB0lVCeUlA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57239/f2fbab_cp.jpg",
       "excerpt": "Due sviluppatori di CD Projekt Red hanno spiegato il mese scorso durante la Game Developer Conference come hanno affrontato il porting di Cyberpunk 2077 su Mac. ... Leggi tutto",
@@ -156,15 +228,6 @@
       "publishedAt": "2026-04-27T14:47:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Back to Basics: perché definire la cultura viene prima del definire la struttura",
-      "link": "https://www.tomshw.it/business/back-to-basics-perche-definire-la-cultura-viene-prima-del-definire-la-struttura",
-      "excerpt": "Siamo pieni di task, to do e liste infinite di cose da fare. Ma a cosa dovremmo realmente dedicarci? E poi, perché? Sulla base di cosa operiamo le nostre scelte quotidiane? Qual è…",
-      "image": null,
-      "publishedAt": "2026-04-27T14:25:05+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Tutti gli annunci di BYD al Salone di Pechino. Svelata la supercar Denza Z: da 0 a 100 kmh in meno di due secondi",
@@ -185,6 +248,15 @@
       "sourceColor": "#E63946"
     },
     {
+      "title": "Migliori purificatori d'aria economici (aprile 2026)",
+      "link": "https://www.tomshw.it/offerte/migliori-purificatori-daria-economici",
+      "excerpt": "Se state cercando un modo per migliorare l'aria interna della vostra abitazione, allora la risposta potrebbe essere l'investimento in un purificatore d'aria. Questi prodotti sono…",
+      "image": null,
+      "publishedAt": "2026-04-27T12:49:07+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "Offerta incredibile: auricolari Sennheiser ACCENTUM a meno di 87€",
       "link": "https://images.dday.it/-8pkw_-S6xT6rvVALTkIi2-8Q4dKphoXY19311BDDuU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57236/2debd2_ape2.jpg",
       "excerpt": "Scopri l'offerta del giorno: gli auricolari ACCENTUM True Wireless del marchio Sennheiser offrono un suono nitido e bilanciato, buona cancellazione dei rumori e la massima libertà…",
@@ -201,78 +273,6 @@
       "publishedAt": "2026-04-27T10:22:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Amazon, dal 13 al 19 maggio torna la vetrina promozionale dei Made in Italy Days",
-      "link": "https://images.dday.it/WWPAPGl4SjuJ9T3jXancGBd7rUcIHz4-a43ccsYJV-k/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57234/119b68_small_Remo_Sartori_copia.jpg",
-      "excerpt": "3 milioni di prodotti sulla vetrina del Made in Italy di Amazon che, per circa una settimana, a maggio, avrà un posto di primo piano nella home dell’e-commerce con offerte e…",
-      "image": "https://images.dday.it/WWPAPGl4SjuJ9T3jXancGBd7rUcIHz4-a43ccsYJV-k/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57234/119b68_small_Remo_Sartori_copia.jpg",
-      "publishedAt": "2026-04-27T10:02:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migliori VPN per Mac (aprile 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-vpn-per-mac",
-      "excerpt": "Al giorno d'oggi, scegliere la migliore VPN per Mac non è più un'opzione, ma una necessità. Con l’aumento delle minacce informatiche, della sorveglianza digitale e delle vul...",
-      "image": null,
-      "publishedAt": "2026-04-27T09:15:38+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori robot per piscina (aprile 2026)",
-      "link": "https://www.tomshw.it/altro/migliori-robot-per-piscina",
-      "excerpt": "Quando arriva la bella stagione, avere una piscina sempre pulita è fondamentale per godersi momenti di relax senza pensieri. Ma mantenerla in perfette condizioni richiede tempo,…",
-      "image": null,
-      "publishedAt": "2026-04-27T09:02:57+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori purificatori d'aria Dyson (aprile 2026)",
-      "link": "https://www.tomshw.it/offerte/quale-purificatore-dyson-acquistare",
-      "excerpt": "Nel caso in cui stiate valutando di migliorare la qualità dell'aria nella vostra abitazione con un purificatore d'aria e vi sia venuto in mente di optare per un modello prodotto…",
-      "image": null,
-      "publishedAt": "2026-04-27T08:48:02+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori cloud storage (aprile 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-cloud-storage",
-      "excerpt": "Al giorno d'oggi, affidarsi a un servizio di cloud storage affidabile e sicuro non è più un'opzione, ma una necessità per chiunque gestisca dati personali o professionali. Dai…",
-      "image": null,
-      "publishedAt": "2026-04-27T08:45:02+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori lavasciuga (aprile 2026)",
-      "link": "https://www.tomshw.it/offerte/lavasciuga-migliore",
-      "excerpt": "Se dopo un'attenta analisi avete deciso di acquistare una lavasciuga al posto di due elettrodomestici separati per il bucato, ma le varie proposte del mercato vi mandano in…",
-      "image": null,
-      "publishedAt": "2026-04-27T08:42:34+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori VPN iOS per iPhone e iPad (aprile 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-vpn-iphone",
-      "excerpt": "Al giorno d'oggi, scegliere la migliore VPN per iPhone e iOS è diventato un passaggio fondamentale per garantire privacy online, protezione dei dati personali e accesso sicuro ai…",
-      "image": null,
-      "publishedAt": "2026-04-27T08:39:42+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori strisce LED per casa e esterno (aprile 2026)",
-      "link": "https://www.tomshw.it/offerte/strisce-led",
-      "excerpt": "Rendere più bella una stanza, una postazione da gaming o gli interni di un automobile è oggi più semplice che mai. Il merito è delle strisce LED, prodotti che ormai siamo s...",
-      "image": null,
-      "publishedAt": "2026-04-27T07:38:42+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     }
   ]
 }
