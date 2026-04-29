@@ -1,71 +1,197 @@
 {
-  "generatedAt": "2026-04-29T13:11:15.322800+00:00",
+  "generatedAt": "2026-04-29T18:58:03.382174+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Iliad presenta GigaPrime: cosa include l’offerta da 300GB con Prime",
-      "link": "https://www.tomshw.it/smartphone/iliad-presenta-gigaprime-cosa-include-lofferta-da-300gb-con-prime",
-      "excerpt": "Iliad torna a rinnovare il proprio catalogo mobile introducendo una proposta pensata per chi cerca molti giga senza dover gestire opzioni complicate. La nuova GigaPrime punta a…",
+      "title": "Motorola, ufficiali i nuovi pieghevoli Razr 70, 70 Plus, 70 Ultra e il Moto G87 | VIDEO",
+      "link": "https://www.hdblog.it/smartphone/articoli/n656674/motorola-ufficiali-razr-70-plus-ultra-moto-g87/",
+      "excerpt": "Motorola rinnova la sua gamma di smartphone pieghevoli",
+      "image": "https://hd2.tudocdn.net/1339349?w=660",
+      "publishedAt": "2026-04-29T18:21:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Gravi errori nella Certificazione Unica 2026: 730 a rischio per migliaia di lavoratori",
+      "link": "https://www.hdblog.it/mercato/articoli/n656784/certificazione-unica-errori-precompilata-2026/",
+      "excerpt": "L'allarme a meno di 24 ore dalla disponibilità del modello 730 sul sito dell'Agenzia delle Entrate.",
+      "image": "https://hd2.tudocdn.net/1339667?w=660",
+      "publishedAt": "2026-04-29T18:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Gemini ora può creare file completi",
+      "link": "https://www.hdblog.it/google/articoli/n656818/google-gemini-ai-generazione-file/",
+      "excerpt": "Pronti da scaricare e condividere.",
+      "image": "https://hd2.tudocdn.net/1297922?w=660",
+      "publishedAt": "2026-04-29T18:09:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Honor Watch 6 Plus sta arrivando, e avrà un'autonomia da record",
+      "link": "https://www.hdblog.it/indossabili/articoli/n656813/honor-watch-6-plus-batteria-specifiche-autonomia/",
+      "excerpt": "Un teaser svelato design e alcune caratteristiche del prossimo smartwatch di Honor.",
+      "image": "https://hd2.tudocdn.net/1339706?w=660",
+      "publishedAt": "2026-04-29T17:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "L'iniziativa \"We are Xbox\" di Asha Sharma passa anche dalle email aziendali",
+      "link": "https://www.hdblog.it/microsoft/articoli/n656814/microsoft-xbox-indirizzo-email-asha-sharma/",
+      "excerpt": "L'indirizzo email di tutti i dipendenti della divisione gaming di Microsoft passerà per default al dominio @xbox.com.",
+      "image": "https://hd2.tudocdn.net/1306801?w=660",
+      "publishedAt": "2026-04-29T17:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Vine è tornato (e sarà il social senza AI slop)",
+      "link": "https://www.hdblog.it/smartphone/articoli/n656759/vine-e-tornato-e-sara-il-social-senza-ai-slop/",
+      "excerpt": "Il nuovo nome – Divine – la dice lunga",
+      "image": "https://hd2.tudocdn.net/520811?w=660",
+      "publishedAt": "2026-04-29T17:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Bimby a basso costo? Domani da LIDL arriva Monsieur Cuisine Compact!",
+      "link": "https://www.hdblog.it/home/articoli/n656811/lidl-monsiur-cuisine-compact-quando-prezzi-dove/",
+      "excerpt": "Il nuovo robot di Silvercrest dovrebbe costare intorno ai 250 euro.",
+      "image": "https://hd2.tudocdn.net/1339702?w=660",
+      "publishedAt": "2026-04-29T17:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Robot umanoide debutta in un cantiere del Regno Unito",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n656800/robot-umanoide-cantiere-douglas/",
+      "excerpt": "Il robot Douglas debutta nei cantieri inglesi per gestire dati e burocrazia in autonomia.",
+      "image": "https://hd2.tudocdn.net/1339684?w=660",
+      "publishedAt": "2026-04-29T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Philips Hue si aggiorna con la funzionalità SpatialAware",
+      "link": "https://www.hdblog.it/domotica/articoli/n656804/philips-hue-aggiorna-spatialaware/",
+      "excerpt": "Disponibile per gli utenti che utilizzano dispositivi Android e iOS.",
+      "image": "https://hd2.tudocdn.net/1339688?w=660",
+      "publishedAt": "2026-04-29T17:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Galax come OnePlus con Oppo, è diventata un brand di Palit",
+      "link": "https://www.hdblog.it/hardware/articoli/n656805/galax-palit-assorbimento-team-fusione/",
+      "excerpt": "A quanto pare è in corso una \"razionalizzazione\" delle due società.",
+      "image": "https://hd2.tudocdn.net/930561?w=660",
+      "publishedAt": "2026-04-29T17:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Razr 70 Ultra, Plus e base: Motorola democratizza i foldable con stile",
+      "link": "https://www.tomshw.it/smartphone/razr-70-ultra-plus-e-base-motorola-democratizza-i-foldable-con-stile-2026-04-29",
+      "excerpt": "Il mercato degli smartphone pieghevoli sta vivendo una fase di accelerazione e Motorola intende giocare un ruolo da protagonista con un'offerta articolata su tre livelli distinti.…",
       "image": null,
-      "publishedAt": "2026-04-29T13:08:50+00:00",
+      "publishedAt": "2026-04-29T15:52:33+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "MacBook Pro M5 Max, TV 98\" e Bose Ultra: le migliori offerte di oggi",
-      "link": "https://www.hdblog.it/ebay/offerte/n656758/offerte-tech-29-aprile-2026-amazon-ebay/",
-      "excerpt": "Dalle cuffie Bose ai MacBook Pro M5 Max, passando per TV giganti e gadget sotto i 10 euro: ecco le migliori offerte tech di oggi su Amazon ed eBay.",
-      "image": "https://hd2.tudocdn.net/1329176?w=660",
-      "publishedAt": "2026-04-29T13:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Krups Coffee Crush, la compatta per chi è “cotto” del caffè",
+      "link": "https://images.dday.it/c8WevBEESXZw59EI1nW2bQsPBV9bh8rTwGnU7d79-fs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57276/0130a7_KRUPS_COFFEE-CRUSH_experience.jpg",
+      "excerpt": "Compatta, elegante e completamente automatica: la Coffee Crush di Krups funziona solo con caffè in grani o pre-macinato... Leggi tutto",
+      "image": "https://images.dday.it/c8WevBEESXZw59EI1nW2bQsPBV9bh8rTwGnU7d79-fs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57276/0130a7_KRUPS_COFFEE-CRUSH_experience.jpg",
+      "publishedAt": "2026-04-29T15:52:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
-      "title": "Nuova BMW Serie 7, l'esclusiva vernice non è fatta per l'autolavaggio",
-      "link": "https://www.hdmotori.it/nuova-bmw-serie-7-debutta-lesclusiva-vernice-dual-finish/",
-      "excerpt": "La nuova vernice BMW sfuma dall'opaco al metallizzato. Un capolavoro da 16.000 dollari che richiede una manutenzione da vera Rolls-Royce",
-      "image": "https://hd2.tudocdn.net/1339616?w=660",
-      "publishedAt": "2026-04-29T13:00:14+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Vine è tornato col nome di Divine: ha reso i video brevi una moda prima di TikTok",
+      "link": "https://images.dday.it/DoL_u4w25ClFYleY3IO0jGqURDrbNcdKnNFJ5T1UQvs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57275/8b4b23_snak_Screenshot_2026-04-29_alle_17.14.24_copia.png",
+      "excerpt": "Divine e i suoi video da 6 secondi sono di nuovo tra noi con un archivio di 500.000 filmati di Vine e con la possibilità di registrarsi tramite lista di attesa. La finanziatrice è…",
+      "image": "https://images.dday.it/DoL_u4w25ClFYleY3IO0jGqURDrbNcdKnNFJ5T1UQvs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57275/8b4b23_snak_Screenshot_2026-04-29_alle_17.14.24_copia.png",
+      "publishedAt": "2026-04-29T15:16:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
-      "title": "Under 13 su Instagram e Facebook: Meta non ha fatto abbastanza, lo dice l'Europa",
-      "link": "https://www.hdblog.it/social/articoli/n656750/under-13-instagram-facebook-meta-europa/",
-      "excerpt": "Instagram e Facebook rischiano grosso in Europa: Meta sotto accusa sulla protezione dei minori, dovrà rafforzare i controlli sull'età.",
-      "image": "https://hd2.tudocdn.net/1339613?w=660",
-      "publishedAt": "2026-04-29T12:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Subito 400€ di coupon sul Galaxy S26+: valido solo per una colorazione",
-      "link": "https://www.tomshw.it/smartphone/samsung-galaxy-s26-sky-blue-a-soli-629eur-con-coupon-2026-04-29",
-      "excerpt": "Su Samsung è disponibile un'offerta sul Samsung Galaxy S26+ nella elegante colorazione Sky Blue e nella versione da 512GB. Grazie al coupon SKY400 da 400€, il prezzo scende a…",
+      "title": "Apple sorpassa Dell: è il terzo produttore laptop",
+      "link": "https://www.tomshw.it/hardware/apple-sorpassa-dell-e-il-terzo-produttore-laptop-2026-04-29",
+      "excerpt": "Apple sta compiendo una mossa strategica di notevole portata: il MacBook Neo si posiziona come un dispositivo di fascia d'ingresso capace di ridefinire le aspettative di chi cerca…",
       "image": null,
-      "publishedAt": "2026-04-29T12:49:23+00:00",
+      "publishedAt": "2026-04-29T15:01:12+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Xbox: partono i saldi Golden Week 2026 con centinaia di giochi",
-      "link": "https://www.tomshw.it/videogioco/xbox-saldi-golden-week-2026-con-centinaia-di-giochi-2026-04-29",
-      "excerpt": "Il calendario videoludico di maggio 2026 si apre con un'offerta decisamente interessante per i possessori di Xbox: la Golden Week Sale 2026 è ora attiva sull'Xbox Store e resterà…",
+      "title": "TSMC punta tutto sui 2nm con cinque fab attive",
+      "link": "https://www.tomshw.it/hardware/tsmc-cinque-fab-a-2nm-output-doppio-vs-3nm-2026-04-29",
+      "excerpt": "TSMC si appresta a compiere un salto di scala senza precedenti nella storia recente dell'industria dei chip. La taiwanese Taiwan Semiconductor Manufacturing Company ha avviato la…",
       "image": null,
-      "publishedAt": "2026-04-29T12:45:03+00:00",
+      "publishedAt": "2026-04-29T14:59:33+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Motorola Moto G87, conferme sul design e spunta fotocamera da 200 MP",
-      "link": "https://www.hdblog.it/smartphone/articoli/n656754/motorola-moto-g87-immagini-colori-rumor/",
-      "excerpt": "Il prossimo Moto G87 appare in immagini stampa con dettagli su hardware, colori e prezzo previsto intorno ai 400 euro",
-      "image": "https://hd2.tudocdn.net/1339604?w=660",
-      "publishedAt": "2026-04-29T12:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "LEGO, scattano gli sconti: NASA, Porsche e fantasy tra i set più interessanti",
+      "link": "https://images.dday.it/-PheZwdfocpdvQi6JWD1IeaMPVP1VSEZ6NxccP6O_UM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57271/792763_ape2.jpg",
+      "excerpt": "Esplora le nuove offerte sui set LEGO con sconti esclusivi: dai razzi spaziali ai modelli di auto da corsa, fino alle iconiche fortezze fantasy, c'è qualcosa per ogni…",
+      "image": "https://images.dday.it/-PheZwdfocpdvQi6JWD1IeaMPVP1VSEZ6NxccP6O_UM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57271/792763_ape2.jpg",
+      "publishedAt": "2026-04-29T14:54:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Soluzioni Pro per chi lavora da Pro: iPad in super sconto da -500€",
+      "link": "https://www.tomshw.it/smartphone/ipad-pro-13-m5-in-offerta-su-amazon-a-soli-1469eur-2026-04-29",
+      "excerpt": "Su Amazon è disponibile una straordinaria offerta sull'Apple iPad Pro 13 (M5), il tablet più potente della casa di Cupertino, dotato di chip M5, display Ultra Retina XDR, 512 GB…",
+      "image": null,
+      "publishedAt": "2026-04-29T14:15:51+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Basta una data falsa per entrare su Facebook e Instagram: l’UE accusa Meta sulla facilità di accesso ai minori",
+      "link": "https://images.dday.it/TPmGphR4bxMVJIXDkbn56GTuJNOMX3Mr9_Xzcg5R-JE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57273/4a4228_small_Depositphotos_546548258_XL_copia.jpg",
+      "excerpt": "Secondo l’UE, Facebook e Instagram non fermano né rimuovono abbastanza rapidamente gli under 13. Meta rischia una sanzione fino al 6% del fatturato mondiale. Sullo sfondo l’app…",
+      "image": "https://images.dday.it/TPmGphR4bxMVJIXDkbn56GTuJNOMX3Mr9_Xzcg5R-JE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57273/4a4228_small_Depositphotos_546548258_XL_copia.jpg",
+      "publishedAt": "2026-04-29T13:41:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Ecco Volkswagen ID. Polo: fino a 455 km di autonomia e prezzo da 24.995 euro",
+      "link": "https://images.dday.it/fJ0UEUr4CxucXpq-HrSsbXXOoPjrDinb-GW--_PKvw4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57272/936271_idpolo_thumb.jpg",
+      "excerpt": "Tre motorizzazioni, fino a 455 km di autonomia e guida one-pedal. Aperti i preordini della ID. Polo... Leggi tutto",
+      "image": "https://images.dday.it/fJ0UEUr4CxucXpq-HrSsbXXOoPjrDinb-GW--_PKvw4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57272/936271_idpolo_thumb.jpg",
+      "publishedAt": "2026-04-29T13:37:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Quando una chiavetta USB è il rischio più grande",
+      "link": "https://www.tomshw.it/business/quando-una-chiavetta-usb-e-il-rischio-piu-grande",
+      "excerpt": "Usare una chiavetta USB per installare patch di sicurezza? Se nel mondo IT suona come un retaggio del passato, si tratta però di una realtà ancora oggi molto presente negli…",
+      "image": null,
+      "publishedAt": "2026-04-29T13:35:03+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori scrivanie per casa e ufficio (aprile 2026)",
+      "link": "https://www.tomshw.it/offerte/scrivania-da-ufficio-pc-migliori",
+      "excerpt": "Negli ultimi anni è diventato sempre più importante possedere una scrivania da ufficio nella propria abitazione, soprattutto per tutti coloro che lavorano da remoto in smart…",
+      "image": null,
+      "publishedAt": "2026-04-29T12:44:49+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Tesla prova a calmare le proteste: FSD “Lite” anche per le auto più vecchie. Ma senza tempi certi",
@@ -77,110 +203,20 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Nuova Audi RS6, il test finisce male: botto contro le barriere del Nürburgring",
-      "link": "https://www.hdmotori.it/nuova-audi-rs6-incident-test-nurburgring/",
-      "excerpt": "A guidare nei test auto camuffate in strada e sulle piste sono driver professionisti, ma persino loro possono commettere errori",
-      "image": "https://hd2.tudocdn.net/1339612?w=660",
-      "publishedAt": "2026-04-29T12:30:43+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Resident Evil 9: tagliato un \"Capitolo 2 fantasma\"",
-      "link": "https://www.tomshw.it/videogioco/resident-evil-9-tagliato-un-capitolo-2-fantasma-2026-04-29",
-      "excerpt": "Resident Evil Requiem si è imposto come uno dei capitoli più solidi della saga Capcom, riuscendo a condensare in circa 10 ore di gameplay un mix efficace di jumpscare, puzzle…",
+      "title": "Migliori monitor portatili esterni (aprile 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-monitor-portatili-esterni",
+      "excerpt": "Negli ultimi anni, la necessità di disporre di soluzioni tecnologiche flessibili e adatte a un utilizzo in mobilità ha portato a una crescente diffusione dei monitor portatili,…",
       "image": null,
-      "publishedAt": "2026-04-29T12:28:30+00:00",
+      "publishedAt": "2026-04-29T12:34:59+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Quanto ne sai sullo ZX Spectrum? Il quiz definitivo per i nostalgici degli anni '80",
-      "link": "https://www.tomshw.it/hardware/quanto-ne-sai-sullo-zx-spectrum-il-quiz-definitivo-per-i-nostalgici-degli-anni-80",
-      "excerpt": "C'è una generazione di appassionati che, alla sola vista di una tastiera in gomma nera e di un arcobaleno stilizzato nell'angolo in basso a destra, sente un brivido di nostalgia…",
+      "title": "Migliori etilometri portatili (aprile 2026)",
+      "link": "https://www.tomshw.it/automotive/migliori-etilometri-portatili",
+      "excerpt": "Con il nuovo codice della strada, entrato in vigore il 14 dicembre 2024 e che riguarda anche i possessori di monopattini elettrici, sono previste sanzioni più severe per chi non…",
       "image": null,
-      "publishedAt": "2026-04-29T12:25:40+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Compra ora, paga dopo: rivoluzione utile o trappola nascosta? [SONDAGGIO]",
-      "link": "https://www.tomshw.it/altro/compra-ora-paga-dopo-rivoluzione-utile-o-trappola-nascosta-sondaggio",
-      "excerpt": "Negli ultimi anni il compra ora, paga dopo – noto anche come Buy Now Pay Later o BNPL – è diventato una delle modalità di pagamento più diffuse negli e-commerce e nei negozi…",
-      "image": null,
-      "publishedAt": "2026-04-29T12:24:34+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "OpenAI sotto accusa per la strage in Canada",
-      "link": "https://www.tomshw.it/hardware/openai-accusata-di-nascondere-utenti-violenti-2026-04-29",
-      "excerpt": "Una delle più gravi sparatorie di massa nella storia recente del Canada avrebbe potuto essere evitata se OpenAI avesse seguito le raccomandazioni del proprio team interno di…",
-      "image": null,
-      "publishedAt": "2026-04-29T12:20:30+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Xiaomi presenta il fornello a gas smart che si accorge se la fiamma si spegne",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n656748/xiaomi-fornello-smart-mijia-gas-stove-3c-prezzo/",
-      "excerpt": "Xiaomi presenta Mijia 3C, fornello a gas smart da 5200W con doppio bruciatore potente, sicurezza avanzata e controllo tramite app Mi Home",
-      "image": "https://hd2.tudocdn.net/1339602?w=660",
-      "publishedAt": "2026-04-29T12:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "MotoGP 26 debutta oggi: scegli la piattaforma e sfrutta gli sconti fino al 37%",
-      "link": "https://www.tomshw.it/videogioco/motogp-26-in-offerta-su-instant-gaming-37-2026-04-29",
-      "excerpt": "Su Instant Gaming è disponibile un'ottima offerta su MotoGP 26, il nuovo capitolo della celebre serie di simulazione motociclistica! Lo trovate a soli 37,99€ (+IVA), rispetto al…",
-      "image": null,
-      "publishedAt": "2026-04-29T12:14:29+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Framework Laptop 16, arriva la RTX 5070 da 12 GB, ma i prezzi...",
-      "link": "https://www.hdblog.it/hardware/articoli/n656749/framework-laptop-16-rtx-5070-12-gb-modulo-prezzi/",
-      "excerpt": "Ogni singolo GB extra rispetto alla variante da 8 GB costa la bellezza di 120 dollari.",
-      "image": "https://hd2.tudocdn.net/1282769?w=660",
-      "publishedAt": "2026-04-29T12:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il futuro ha radici profonde, BMW presenta il Concorso d'Eleganza di Villa d'Este 2026",
-      "link": "https://www.hdmotori.it/bmw-concorso-eleganza-villa-este-2026/",
-      "excerpt": "Dalle celebrazioni per i 40 anni della M3 E30 al debutto assoluto di BMW ALPINA: la kermesse sul Lago di Como unirà icone storiche e lusso",
-      "image": "https://hd2.tudocdn.net/1339603?w=660",
-      "publishedAt": "2026-04-29T12:00:16+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "HBO Max: una settimana di prova gratis per gli iscritti a Prime Video",
-      "link": "https://www.hdblog.it/amazon/articoli/n656733/hbo-max-settimana-gratis-prime-video/",
-      "excerpt": "La promozione è valida fino al 10 maggio 2026.",
-      "image": "https://hd2.tudocdn.net/1339558?w=660",
-      "publishedAt": "2026-04-29T11:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Mova P70 Pro Ultra arriva in Italia con IA, autopulizia e una promo lancio | PREZZO",
-      "link": "https://www.hdblog.it/home/articoli/n656745/mova-p70-pro-ultra-disponibilita-sconto-italia/",
-      "excerpt": "Il nuovo Mova P70 Pro Ultra combina aspirazione potente, panni rotanti e stazione base automatica per una pulizia completa e a bassa manutenzione",
-      "image": "https://hd2.tudocdn.net/1339596?w=660",
-      "publishedAt": "2026-04-29T11:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "In Italia preferiamo un unico fornitore IT, ma non è una granché come strategia",
-      "link": "https://www.tomshw.it/business/l-italia-ama-il-fornitore-it-unico-germania-e-spagna-no",
-      "excerpt": "Le aziende italiane preferiscono ancora un fornitore IT unico per gestire la propria trasformazione digitale, mentre Germania e Spagna si orientano verso specialisti per singola…",
-      "image": null,
-      "publishedAt": "2026-04-29T10:59:54+00:00",
+      "publishedAt": "2026-04-29T12:24:20+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -221,58 +257,22 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Il Giappone sperimenterà l'utilizzo di robot umanoidi per le operazioni di terra negli aeroporti",
-      "link": "https://images.dday.it/8QrbqYFBxWcy3zZpYu8FupXHEcIh0EZb5yzClrF-dvM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57264/6d0604_UNI_Aeroporto_2.jpg",
-      "excerpt": "Per far fronte all'aumento del traffico aereo ma soprattutto al calo di disponibilità di mano d'opera, Japan Airlines ha annunciato l'avvio di una sperimentazione per l'utilizzo…",
-      "image": "https://images.dday.it/8QrbqYFBxWcy3zZpYu8FupXHEcIh0EZb5yzClrF-dvM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57264/6d0604_UNI_Aeroporto_2.jpg",
-      "publishedAt": "2026-04-29T09:38:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Offerta speciale: lo spioncino Digitale EZVIZ CP2 a soli 64.99 euro",
-      "link": "https://images.dday.it/WN_Y1j2J5xCfqrdNpc2H-Rnqzgv1OT_bhJ2oUfAec7U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/56130/1dd63a_ape2.jpg",
-      "excerpt": "Scopri EZVIZ CP2, lo spioncino digitale con schermo a colori e visione grandangolare, ora disponibile in offerta su Amazon... Leggi tutto",
-      "image": "https://images.dday.it/WN_Y1j2J5xCfqrdNpc2H-Rnqzgv1OT_bhJ2oUfAec7U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/56130/1dd63a_ape2.jpg",
-      "publishedAt": "2026-04-29T09:09:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migliori smartphone (aprile 2026)",
-      "link": "https://www.tomshw.it/guide/migliori-smartphone",
-      "excerpt": "In questa guida troverete i migliori smartphone in assoluto presenti ad oggi sul mercato, quelli che secondo noi meritano di essere tenuti in considerazione quando si cerca un…",
+      "title": "Migliori tastiere wireless (aprile 2026)",
+      "link": "https://www.tomshw.it/guide/migliori-tastiere-wireless",
+      "excerpt": "L’interesse verso le tastiere wireless è in costante crescita, alimentato dalla necessità di creare spazi di lavoro e intrattenimento sempre più ordinati, funzionali e liber...",
       "image": null,
-      "publishedAt": "2026-04-29T09:04:58+00:00",
+      "publishedAt": "2026-04-29T09:15:29+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Fiat e Peugeot fra i pilastri del futuro di Stellantis. Trapela il piano del gruppo per cambiare rotta",
-      "link": "https://images.dday.it/vAgbrY-4ywC7zxgkAEPhhNGEXW-njp5sddet89MrUMM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57262/10f6ed_fiat_thumb.jpg",
-      "excerpt": "Il piano dell'amministratore delegato Filosa punta a rafforzare i marchi più redditizi mentre gli altri diventano leve locali per recuperare competitività... Leggi tutto",
-      "image": "https://images.dday.it/vAgbrY-4ywC7zxgkAEPhhNGEXW-njp5sddet89MrUMM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57262/10f6ed_fiat_thumb.jpg",
-      "publishedAt": "2026-04-29T08:47:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Cosa sta succedendo con i giochi della Playstation e le licenze digitali temporanee",
-      "link": "https://images.dday.it/e-l3BJSsniQYYIM5amWrGbFeSnAB24X4aoiBx6VO6RI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57263/1969c8_ps.jpg",
-      "excerpt": "Negli ultimi giorni la community PlayStation si è “scaldata” dopo aver scoperto che i giochi digitali acquistati recentemente su PlayStation Store presentano una licenza offline…",
-      "image": "https://images.dday.it/e-l3BJSsniQYYIM5amWrGbFeSnAB24X4aoiBx6VO6RI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57263/1969c8_ps.jpg",
-      "publishedAt": "2026-04-29T08:44:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Apple prova a inseguire Google nelle foto IA: con iOS 27 potrebbero arrivare nuovi strumenti di editing",
-      "link": "https://images.dday.it/0vejbTliLaTpMk-5kknkdC-3g9ASdrLcuhDrC1nkXsY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57261/1a96da_small_Screenshot_2026-04-29_alle_10.07.16_copia.png",
-      "excerpt": "Con iOS 27, Apple proverà a ridurre il divario con Google Foto, dove Magic Editor offre già strumenti IA più maturi... Leggi tutto",
-      "image": "https://images.dday.it/0vejbTliLaTpMk-5kknkdC-3g9ASdrLcuhDrC1nkXsY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57261/1a96da_small_Screenshot_2026-04-29_alle_10.07.16_copia.png",
-      "publishedAt": "2026-04-29T08:10:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
+      "title": "Migliori proiettori (aprile 2026)",
+      "link": "https://www.tomshw.it/guide/migliori-proiettori",
+      "excerpt": "Volete ottenere un'esperienza cinematografica in casa andando oltre le dimensioni massime dei pannelli di una smart TV? Allora non potete che acquistare un proiettore. Non sapete…",
+      "image": null,
+      "publishedAt": "2026-04-29T09:09:31+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     }
   ]
 }
