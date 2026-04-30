@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-04-30T18:00:58.280730+00:00",
+  "generatedAt": "2026-04-30T22:37:42.301019+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Google lancia \"Fonti preferite\" in Italia: più controllo sui risultati delle ricerche",
+      "title": "Apple, altro trimestre record: iPhone 17 traina i ricavi, nuovo massimo per i servizi",
+      "link": "https://www.hdblog.it/smartphone/articoli/n656955/apple-trimestre-record-iphone-17/",
+      "excerpt": "iPhone e servizi si confermano le principali fonti di ricavo per Apple",
+      "image": "https://hd2.tudocdn.net/1251200?w=660",
+      "publishedAt": "2026-04-30T22:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung avverte: crisi delle RAM destinata a peggiorare, carenze ancora a lungo",
+      "link": "https://www.hdblog.it/hardware/articoli/n656950/samsung-crisi-ram-memorie-2027-carenza-prezzi/",
+      "excerpt": "Non è una nube passeggera, ma una crisi strutturale.",
+      "image": "https://hd2.tudocdn.net/1250273?w=660",
+      "publishedAt": "2026-04-30T18:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google lancia \"Fonti Preferite\" in Italia: più controllo sui risultati delle ricerche",
       "link": "https://www.hdblog.it/google/articoli/n656949/google-fonti-preferite-italia-ricera-notizie-come/",
       "excerpt": "È il momento di selezionare HDBlog: ecco cos'è e come funziona l'ultima novità per la ricerca Google.",
       "image": "https://hd2.tudocdn.net/1174154?w=660",
@@ -86,47 +104,11 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Skoda è diventato il secondo brand auto più venduto in Europa",
-      "link": "https://www.hdmotori.it/skoda-vendite-primo-trimestre-2026/",
-      "excerpt": "225.000 auto consegnate in Europa nei primi tre mesi dell'anno, con una crescita del 17%. È il miglior trimestre della storia del marchio",
-      "image": "https://hd2.tudocdn.net/1339934?w=660",
-      "publishedAt": "2026-04-30T15:30:48+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "OnePlus Pad 4 ufficiale: processore aggiornato e display più luminoso",
-      "link": "https://www.hdblog.it/tablet/articoli/n656926/oneplus-pad-4-ufficiale/",
-      "excerpt": "Il tablet sarà disponibile a partire dal 5 maggio in India.",
-      "image": "https://hd2.tudocdn.net/1339915?w=660",
-      "publishedAt": "2026-04-30T15:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Giocare su PC col DualSense? Ora puoi senza compromessi",
       "link": "https://www.tomshw.it/videogioco/dualsense-wireless-pc-senza-rinunce",
       "excerpt": "DualSense può già funzionare su PC, ma spesso perde proprio le funzioni che lo rendono diverso da un controller qualsiasi quando viene usato in wireless. Il progetto DS5Dongle…",
       "image": null,
       "publishedAt": "2026-04-30T14:35:47+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Spotify mette un bollino contro la musica IA",
-      "link": "https://www.tomshw.it/hardware/spotify-bollino-contro-musica-ia",
-      "excerpt": "Spotify prepara un nuovo segnale visivo per distinguere gli artisti reali dai profili creati o impersonati con l'intelligenza artificiale. Il badge Verified by Spotify sarà…",
-      "image": null,
-      "publishedAt": "2026-04-30T14:27:58+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Installare Linux su PS5? Ora si può, ma non per tutti",
-      "link": "https://www.tomshw.it/videogioco/ps5-pc-linux-solo-per-pochi",
-      "excerpt": "PS5 torna al centro della scena hacking con una novità concreta: il loader ps5-linux è stato pubblicato e permette di avviare Ubuntu 24.04 su alcune console Phat. Il progetto non…",
-      "image": null,
-      "publishedAt": "2026-04-30T14:23:10+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -147,6 +129,15 @@
       "publishedAt": "2026-04-30T14:09:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
+    },
+    {
+      "title": "Mezzo trilione in AI da Big Tech, ma il mercato premia solo Google",
+      "link": "https://www.tomshw.it/business/mezzo-trilione-in-ai-da-big-tech-ma-il-mercato-premia-solo-google",
+      "excerpt": "I tre maggiori hyperscaler statunitensi alzano la spesa AI nel 2026 a livelli mai visti. Alphabet ha aggiornato la guidance di capex annuale a 180-190 miliardi di dollari,…",
+      "image": null,
+      "publishedAt": "2026-04-30T13:35:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Pacchetti SAP compromessi su npm, le credenziali degli sviluppatori a rischio",
@@ -228,6 +219,15 @@
       "publishedAt": "2026-04-30T10:12:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
+    },
+    {
+      "title": "Migliori case economici (aprile 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-case-economici",
+      "excerpt": "Assemblare un PC economico ma efficiente al giorno d'oggi richiede scelte oculate, specialmente quando si tratta del case, un componente spesso sottovalutato ma fondamentale per…",
+      "image": null,
+      "publishedAt": "2026-04-30T09:44:50+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Migliori Chromebook (aprile 2026)",
