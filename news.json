@@ -1,62 +1,188 @@
 {
-  "generatedAt": "2026-04-30T13:09:59.848966+00:00",
+  "generatedAt": "2026-04-30T18:00:58.280730+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Google vola con l'AI: ricerche al massimo storico e ricavi in forte crescita",
-      "link": "https://www.hdblog.it/google/articoli/n656899/google-ai-ricerca-search-record-2026-gemini-ricavi/",
-      "excerpt": "Motore di ricerca, motore di crescita.",
-      "image": "https://hd2.tudocdn.net/1213256?w=660",
-      "publishedAt": "2026-04-30T13:05:00+00:00",
+      "title": "Google lancia \"Fonti preferite\" in Italia: più controllo sui risultati delle ricerche",
+      "link": "https://www.hdblog.it/google/articoli/n656949/google-fonti-preferite-italia-ricera-notizie-come/",
+      "excerpt": "È il momento di selezionare HDBlog: ecco cos'è e come funziona l'ultima novità per la ricerca Google.",
+      "image": "https://hd2.tudocdn.net/1174154?w=660",
+      "publishedAt": "2026-04-30T17:36:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "YouTube libera il mini player, ma non per tutto",
-      "link": "https://www.tomshw.it/hardware/youtube-libera-mini-player-non-per-tutto",
-      "excerpt": "YouTube sta portando il picture-in-picture gratuito a tutti gli utenti nel mondo, anche fuori dagli Stati Uniti. La novità riguarda Android e iOS e permette di lasciare l'app…",
-      "image": null,
-      "publishedAt": "2026-04-30T13:03:34+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Anche se stampi poco, questa Epson a 61€ è un affare da non perdere",
-      "link": "https://www.tomshw.it/hardware/epson-xp-4200-in-offerta-su-amazon-37-2026-04-30",
-      "excerpt": "Su Amazon è disponibile un'ottima offerta sulla Epson Expression Home XP-4200, la stampante multifunzione A4 a getto d'inchiostro che combina stampa, scansione e copia in un unico…",
-      "image": null,
-      "publishedAt": "2026-04-30T13:03:01+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "FIAT 500 Hybrid: Mirafiori riparte, ma i numeri sono al di sotto delle aspettative",
-      "link": "https://www.hdmotori.it/fiat-500-hybrid-mirafiori-numeri/",
-      "excerpt": "I vertici del Gruppo Stellantis si aspettavano grandi progressi con la FIAT 500 Hybrid. Il tanto atteso exploit per ora non si è verificato",
-      "image": "https://hd2.tudocdn.net/1339875?w=660",
-      "publishedAt": "2026-04-30T13:00:43+00:00",
+      "title": "Stellantis, la cura Filosa funziona: primo trimestre di solida crescita",
+      "link": "https://www.hdmotori.it/stellantis-la-cura-filosa-funziona-primo-trimestre-di-solida-crescita/",
+      "excerpt": "Ricavi a 38,1 miliardi, utile netto di 377 milioni e volumi in crescita del 12%: il primo trimestre 2026 di Stellantis è molto positivo",
+      "image": "https://hd2.tudocdn.net/1339948?w=660",
+      "publishedAt": "2026-04-30T17:00:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Xbox Free Play Days: ecco i giochi in prova gratis del weekend",
-      "link": "https://www.tomshw.it/videogioco/xbox-free-play-days-giochi-gratis-fino-al-3-maggio-2026-04-30",
-      "excerpt": "Il programma Xbox Free Play Days torna protagonista questo weekend, offrendo agli abbonati e non solo la possibilità di provare gratuitamente una selezione di titoli sulla…",
+      "title": "Cellule cerebrali e microchip: il nuovo computer ibrido di Princeton",
+      "link": "https://www.hdblog.it/hardware/articoli/n656826/bio-computer-princeton-neuroni-3d/",
+      "excerpt": "Creato a Princeton un sistema 3D che unisce neuroni vivi e circuiti per il calcolo a basso consumo.",
+      "image": "https://hd2.tudocdn.net/1339740?w=660",
+      "publishedAt": "2026-04-30T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "FIAT Grizzly avvistata in strada: ecco come appare nel traffico",
+      "link": "https://www.hdmotori.it/fiat-grizzly-avvistata-versione-definitiva/",
+      "excerpt": "Fiat punta a rendere il SUV uno dei bestseller della gamma. La Grizzly sta per arrivare a prezzi interessanti",
+      "image": "https://hd2.tudocdn.net/1339945?w=660",
+      "publishedAt": "2026-04-30T16:30:27+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Tesla Semi, al via la produzione in serie del camion elettrico di Musk",
+      "link": "https://www.hdmotori.it/tesla-semi-al-via-la-produzione-in-serie-del-camion-elettrico-di-musk/",
+      "excerpt": "Tesla Semi, 1.072 CV e ricarica rapida in 30 minuti con autonomia fino a 800 km. Dalle promesse del 2017 alla produzione in serie in Nevada",
+      "image": "https://hd2.tudocdn.net/1339938?w=660",
+      "publishedAt": "2026-04-30T16:00:05+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Tiberius Sceptre: il primo proiettile ramjet sparato da un obice NATO",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n656853/tiberius-aerospace-sceptre-ramjet/",
+      "excerpt": "Tiberius Aerospace testa Sceptre, un proiettile ramjet a combustibile liquido per obici NATO da 155 millimetri.",
+      "image": "https://hd2.tudocdn.net/1339780?w=660",
+      "publishedAt": "2026-04-30T15:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Netflix cambia l'app per smartphone: arrivano le Clip in stile TikTok",
+      "link": "https://www.hdblog.it/android/articoli/n656933/netflix-app-smartphone-aggiornamento-clip-feed/",
+      "excerpt": "Un feed verticale per scoprire nuovi contenuti: come funziona.",
+      "image": "https://hd2.tudocdn.net/1316068?w=660",
+      "publishedAt": "2026-04-30T15:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Prezzo mai visto sul Roborock QV 35A: impossibile non approfittarne!",
+      "link": "https://images.dday.it/D2u3c6_NVNdvba2X16v7NF8QZy0Zs9_GzgNzo8uern0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/54421/414871_ape2.jpg",
+      "excerpt": "Approfitta dell’offerta Amazon per il Roborock QV 35A: aspirazione da 8.000 Pa, stazione di ricarica automatica con lavaggio dei mop e navigazione LiDAR per una pulizia veloce,…",
+      "image": "https://images.dday.it/D2u3c6_NVNdvba2X16v7NF8QZy0Zs9_GzgNzo8uern0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/54421/414871_ape2.jpg",
+      "publishedAt": "2026-04-30T15:44:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Fotovoltaico, doppio record d'efficienza per moduli e celle HIBC",
+      "link": "https://www.hdblog.it/green/articoli/n656927/pannelli-fotovoltaici-celle-record-efficienza/",
+      "excerpt": "I risultati ottenuti da LONGi.",
+      "image": "https://hd2.tudocdn.net/1339925?w=660",
+      "publishedAt": "2026-04-30T15:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Skoda è diventato il secondo brand auto più venduto in Europa",
+      "link": "https://www.hdmotori.it/skoda-vendite-primo-trimestre-2026/",
+      "excerpt": "225.000 auto consegnate in Europa nei primi tre mesi dell'anno, con una crescita del 17%. È il miglior trimestre della storia del marchio",
+      "image": "https://hd2.tudocdn.net/1339934?w=660",
+      "publishedAt": "2026-04-30T15:30:48+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "OnePlus Pad 4 ufficiale: processore aggiornato e display più luminoso",
+      "link": "https://www.hdblog.it/tablet/articoli/n656926/oneplus-pad-4-ufficiale/",
+      "excerpt": "Il tablet sarà disponibile a partire dal 5 maggio in India.",
+      "image": "https://hd2.tudocdn.net/1339915?w=660",
+      "publishedAt": "2026-04-30T15:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Giocare su PC col DualSense? Ora puoi senza compromessi",
+      "link": "https://www.tomshw.it/videogioco/dualsense-wireless-pc-senza-rinunce",
+      "excerpt": "DualSense può già funzionare su PC, ma spesso perde proprio le funzioni che lo rendono diverso da un controller qualsiasi quando viene usato in wireless. Il progetto DS5Dongle…",
       "image": null,
-      "publishedAt": "2026-04-30T12:59:08+00:00",
+      "publishedAt": "2026-04-30T14:35:47+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Domina l’illuminazione di casa con Philips: ora al prezzo più basso con questo kit",
-      "link": "https://www.tomshw.it/hardware/philips-hue-starter-kit-in-offerta-a-soli-69eur-2026-04-30",
-      "excerpt": "Philips Hue White Starter Kit è ora disponibile su Amazon a un prezzo imperdibile! Il kit include il Bridge Hue, 2 lampadine E27 dimmerabili con Bluetooth e uno Smart Button per…",
+      "title": "Spotify mette un bollino contro la musica IA",
+      "link": "https://www.tomshw.it/hardware/spotify-bollino-contro-musica-ia",
+      "excerpt": "Spotify prepara un nuovo segnale visivo per distinguere gli artisti reali dai profili creati o impersonati con l'intelligenza artificiale. Il badge Verified by Spotify sarà…",
       "image": null,
-      "publishedAt": "2026-04-30T12:58:36+00:00",
+      "publishedAt": "2026-04-30T14:27:58+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Installare Linux su PS5? Ora si può, ma non per tutti",
+      "link": "https://www.tomshw.it/videogioco/ps5-pc-linux-solo-per-pochi",
+      "excerpt": "PS5 torna al centro della scena hacking con una novità concreta: il loader ps5-linux è stato pubblicato e permette di avviare Ubuntu 24.04 su alcune console Phat. Il progetto non…",
+      "image": null,
+      "publishedAt": "2026-04-30T14:23:10+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Arrivano le Fonti preferite su Google: il modo per vedere più spesso DDay.it nella ricerca",
+      "link": "https://images.dday.it/AnzLvWypXoH4oRVyxcUNDzc3WAapvrExaT_zbCnIIPY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57287/c249b9_small_ChatGPT_Image_30_apr_2026__16_09_42_copia.png",
+      "excerpt": "Google porta anche in Italia le Fonti Preferite. I lettori possono scegliere i siti da vedere più spesso nelle Notizie principali. Per DDay è un modo semplice per restare visibile…",
+      "image": "https://images.dday.it/AnzLvWypXoH4oRVyxcUNDzc3WAapvrExaT_zbCnIIPY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57287/c249b9_small_ChatGPT_Image_30_apr_2026__16_09_42_copia.png",
+      "publishedAt": "2026-04-30T14:19:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "SSD portatile Lexar da 1 TB con set magnetico, ora in offerta su Amazon",
+      "link": "https://images.dday.it/gn0S9Q8XslNsjIAi-ArQCC3l20O7qZI8P_asI1sFQqM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/56933/bedd49_ape2.jpg",
+      "excerpt": "Scopri Lexar ES4, ora disponibile a un prezzo scontato. Con velocità di lettura fino a 1050 MB/s e compatibilità iPhone, è l'accessorio perfetto per chi cerca elevate prestazioni…",
+      "image": "https://images.dday.it/gn0S9Q8XslNsjIAi-ArQCC3l20O7qZI8P_asI1sFQqM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/56933/bedd49_ape2.jpg",
+      "publishedAt": "2026-04-30T14:09:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Pacchetti SAP compromessi su npm, le credenziali degli sviluppatori a rischio",
+      "link": "https://www.tomshw.it/business/pacchetti-sap-compromessi-su-npm-le-credenziali-degli-sviluppatori-a-rischio",
+      "excerpt": "Quattro pacchetti ufficiali SAP distribuiti tramite npm sono stati compromessi con malware che ruba credenziali agli sviluppatori. I pacchetti coinvolti sono `@cap-js/sqlite…",
+      "image": null,
+      "publishedAt": "2026-04-30T13:35:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "L'AI Act non si ammorbidisce, l'accordo UE non arriva in tempo",
+      "link": "https://www.tomshw.it/business/l-ai-act-non-si-ammorbidisce-l-accordo-ue-non-arriva-in-tempo",
+      "excerpt": "I negoziati per ammorbidire l'AI Act europeo sono falliti il 29 aprile dopo dodici ore di trattativa. Gli stati membri e il Parlamento Europeo non hanno trovato un accordo…",
+      "image": null,
+      "publishedAt": "2026-04-30T13:35:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Cloud e AI sotto il DMA, l'UE allarga il cerchio dei gatekeeper",
+      "link": "https://www.tomshw.it/business/cloud-e-ai-sotto-il-dma-l-ue-allarga-il-cerchio-dei-gatekeeper",
+      "excerpt": "L'UE estende il proprio Digital Markets Act ai servizi cloud e all'intelligenza artificiale. La Commissione Europea ha annunciato il 28 aprile la decisione di applicare la stessa…",
+      "image": null,
+      "publishedAt": "2026-04-30T13:35:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Windows 11, troppi errori. Nadella: “Torniamo alle basi per riconquistare gli utenti”",
+      "link": "https://images.dday.it/5KU8Jmq0zTiFC0M7DRr05T4KYGfaUd6ZRcn54RVy_IA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57286/56b2d2_w11_thumb.jpg",
+      "excerpt": "Un indiretto \"mea culpa\" da parte di Microsoft. Il CEO Satya Nadella ha sottolineato che ora il lavoro è sui fondamentali per \"riconquistare\" le persone... Leggi tutto",
+      "image": "https://images.dday.it/5KU8Jmq0zTiFC0M7DRr05T4KYGfaUd6ZRcn54RVy_IA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57286/56b2d2_w11_thumb.jpg",
+      "publishedAt": "2026-04-30T13:25:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Come funziona una memoria DRAM e perché è difficile da produrre",
@@ -68,119 +194,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "HarmonyOS cresce, a marzo era su 55 milioni di smartphone",
-      "link": "https://www.hdblog.it/smartphone/articoli/n656902/harmonyos-diffusione-huawei/",
-      "excerpt": "Oltre 55 milioni di smartphone nel mondo utilizzano HarmonyOS, il sistema operativo di Huawei nato dopo il ban USA del 2019 e sempre più diffuso soprattutto in Cina",
-      "image": "https://hd2.tudocdn.net/1213217?w=660",
-      "publishedAt": "2026-04-30T12:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "RailEvo, debutta il primo taxi ferroviario al mondo e lo fa in Italia",
-      "link": "https://www.hdmotori.it/railevo-taxi-ferroviario-prototipo-trentino/",
-      "excerpt": "Una startup italiana ha presentato il prototipo di un piccolo veicolo elettrico a guida autonoma, prenotabile via app, che viaggia sui binari",
-      "image": "https://hd2.tudocdn.net/1339869?w=660",
-      "publishedAt": "2026-04-30T12:30:34+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Dove vedere Sassuolo vs Milan in TV e streaming",
-      "link": "https://www.tomshw.it/altro/dove-vedere-sassuolo-vs-milan-in-tv-e-streaming",
-      "excerpt": "La sfida tra Sassuolo e Milan, valida per il campionato di Serie A, è in programma il 3 maggio alle ore 14:30 e si preannuncia come uno degli incontri più interessanti del turno.…",
+      "title": "Dove vedere Inter vs Parma in TV e streaming",
+      "link": "https://www.tomshw.it/altro/dove-vedere-inter-vs-parma-in-tv-e-streaming",
+      "excerpt": "La sfida tra Inter e Parma, in programma il 3 maggio alle 20:30, rappresenta uno degli appuntamenti più interessanti del finale di stagione di Serie A. Per chi non vuole perdersi…",
       "image": null,
-      "publishedAt": "2026-04-30T12:13:15+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Samsung lancia Spatial Signage 32”, il display 3D senza occhiali per aziende",
-      "link": "https://www.hdblog.it/samsung/articoli/n656897/samsung-display-3d-aziende-32-pollici/",
-      "excerpt": "Il nuovo Samsung Spatial Signage SMHX da 32 pollici mostra prodotti in 3D con rotazione a 360 gradi, formato verticale Full HD e installazione semplificata",
-      "image": "https://hd2.tudocdn.net/1339859?w=660",
-      "publishedAt": "2026-04-30T12:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Dove vedere Como vs Napoli in TV e streaming",
-      "link": "https://www.tomshw.it/altro/dove-vedere-como-vs-napoli-in-tv-e-streaming",
-      "excerpt": "La sfida tra Como e Napoli, in programma il 2 maggio alle ore 17:30, si inserisce in un momento cruciale della stagione di Serie A. Per chi non vuole perdersi neanche un minuto,…",
-      "image": null,
-      "publishedAt": "2026-04-30T12:08:19+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "F1 GP Miami: orari e info del Gran Premio 2026",
-      "link": "https://www.tomshw.it/altro/f1-gp-miami-orari-e-info-del-gran-premio-2026",
-      "excerpt": "La Formula 1 torna negli Stati Uniti per il Gran Premio di Miami 2026, uno degli appuntamenti più attesi del calendario e ormai diventato un classico moderno del Mondiale. Dopo…",
-      "image": null,
-      "publishedAt": "2026-04-30T12:02:30+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Scadono le accise ed Eni taglia il prezzo del diesel di 7,5 centesimi",
-      "link": "https://www.hdmotori.it/eni-taglio-prezzo-diesel/",
-      "excerpt": "Il gruppo energetico va oltre le indicazioni del MIMIT. Anche IP, Q8 e Tamoil ritoccano i listini. Oggi il CdM decide sulla proroga.",
-      "image": "https://hd2.tudocdn.net/1275769?w=660",
-      "publishedAt": "2026-04-30T12:00:12+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung supera Apple e torna in vetta: è di nuovo il primo produttore di smartphone",
-      "link": "https://www.hdblog.it/smartphone/articoli/n656895/samsung-apple-classifica-smartphone-q1-2026-dati/",
-      "excerpt": "Dopo un 2025 in seconda posizione, Samsung si riprende la corona.",
-      "image": "https://hd2.tudocdn.net/1327031?w=660",
-      "publishedAt": "2026-04-30T11:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Dreame per la skincare: ecco la maschera LED antietà",
-      "link": "https://www.hdblog.it/home/articoli/n656894/dreame-maschera-viso-funzioni-prezzo/",
-      "excerpt": "Dreame presenta Chrona LED Light Therapy Mask, maschera per il viso con 280 LED e cinque modalità per migliorare pelle, elasticità e ridurre rughe e acne",
-      "image": "https://hd2.tudocdn.net/1339850?w=660",
-      "publishedAt": "2026-04-30T11:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Moto G37 ufficiale, c'è anche la variante Power da 7000mAh | PREZZI",
-      "link": "https://www.hdblog.it/smartphone/articoli/n656890/motorola-g37-power-ufficiali-prezzi-italia/",
-      "excerpt": "Disponibili da oggi in Italia i due nuovi smartphone.",
-      "image": "https://hd2.tudocdn.net/1339848?w=660",
-      "publishedAt": "2026-04-30T11:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "L'auto cinese più costosa di sempre vale più di una Ferrari",
-      "link": "https://www.hdmotori.it/salone-pechino-2026-record-vendita-yangwang-u9-xtreme-prezzo/",
-      "excerpt": "Record al Salone di Pechino 2026: la Yangwang U9 Xtreme venduta per 2,76 milioni di dollari. È l'auto cinese più costosa di sempre",
-      "image": "https://hd2.tudocdn.net/1339856?w=660",
-      "publishedAt": "2026-04-30T11:30:32+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Xbox Game Pass: ecco i quattro nuovi giochi gratis",
-      "link": "https://www.tomshw.it/videogioco/xbox-game-pass-quattro-nuovi-giochi-da-oggi-2026-04-30",
-      "excerpt": "Il catalogo di Xbox Game Pass si arricchisce ulteriormente, confermando la strategia di Microsoft di puntare su varietà e frequenza degli aggiornamenti per mantenere alta…",
-      "image": null,
-      "publishedAt": "2026-04-30T11:30:09+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "L'IA può davvero creare GTA? Per EA la risposta è no",
-      "link": "https://www.tomshw.it/hardware/ea-frena-sogno-ia-non-basta-fare-gta",
-      "excerpt": "Electronic Arts usa già l'intelligenza artificiale nello sviluppo, ma il suo CEO Andrew Wilson non crede alla fantasia del singolo creator capace di costruire presto un nuovo GTA…",
-      "image": null,
-      "publishedAt": "2026-04-30T11:21:45+00:00",
+      "publishedAt": "2026-04-30T12:23:38+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -194,6 +212,15 @@
       "sourceColor": "#E63946"
     },
     {
+      "title": "TP-Link, sconti attivi su Amazon: cosa conviene comprare ora",
+      "link": "https://images.dday.it/ufE2qsPsta_KzF6QmiUUcKGdCRxA7sYPR14WLvtIEmo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57285/76d1ff_ape2.jpg",
+      "excerpt": "Scopri i router e dispositivi TP-Link attualmente in offerta su Amazon: Router 5G, Router Mesh WiFi, Router WiFi con SIM e Router WiFi 6 Dual-Band. Tante soluzioni diverse pensate…",
+      "image": "https://images.dday.it/ufE2qsPsta_KzF6QmiUUcKGdCRxA7sYPR14WLvtIEmo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57285/76d1ff_ape2.jpg",
+      "publishedAt": "2026-04-30T10:35:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
       "title": "Se ti stanno truffando al telefono il tuo Pixel se ne accorge: attiva anche in Italia la Protezione antifrode",
       "link": "https://images.dday.it/Fl4AkzWpkhCGuGlXaoxvyrNaXWa8BT6rFxjz_wugwos/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57284/8faa54_small_Screenshot_2026-04-30_alle_12.10.38_copia.png",
       "excerpt": "Usa Gemini Nano in locale per analizzare la chiamata mentre si sta parlando con l’interlocutore. Il Pixel può quindi avvisare se dall’altra parte del telefono stanno provando a…",
@@ -201,6 +228,33 @@
       "publishedAt": "2026-04-30T10:12:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
+    },
+    {
+      "title": "Migliori Chromebook (aprile 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-chromebook",
+      "excerpt": "Scegliere uno dei migliori Chromebook significa puntare su un portatile progettato per offrire reattività, sicurezza e semplicità d’uso a un prezzo accessibile. Questi notebook…",
+      "image": null,
+      "publishedAt": "2026-04-30T09:40:06+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori chiavette USB (aprile 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-chiavette-usb",
+      "excerpt": "Le chiavette USB, conosciute anche come PenDrive, restano uno degli strumenti di archiviazione portatile più utilizzati e apprezzati, grazie alla loro versatilità, affidabilità…",
+      "image": null,
+      "publishedAt": "2026-04-30T09:34:05+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori Hub USB portatili e da scrivania (aprile 2026)",
+      "link": "https://www.tomshw.it/guide/hub-usb-migliori",
+      "excerpt": "Al giorno d'oggi, l’evoluzione di notebook ultra-sottili, tablet 2-in-1 e PC compatti ha reso la presenza di hub USB un elemento essenziale nella quotidianità digitale. Nonostante…",
+      "image": null,
+      "publishedAt": "2026-04-30T09:31:55+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Il compact disc è morto? Per NAD e Fosi Audio gode ancora di ottima salute",
@@ -217,60 +271,6 @@
       "excerpt": "Nella proposta primavera-estate 2026, Nilox concentra l’attenzione soprattutto sulla fascia media del mercato, scegliendo di presidiare un segmento dove prezzo, contenuti tecnici…",
       "image": "https://images.dday.it/4yAZk71s8JUof-4ZGq2aI4CTYWzczhwnHIkt3O0_9Cw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57280/ba4519_Nilox_J1_Pro_arancio_amb_2.jpg",
       "publishedAt": "2026-04-30T09:09:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Youtube, il Picture in Picture è disponibile anche per gli utenti non abbonati. Con un limite importante",
-      "link": "https://images.dday.it/2n0GJkospsw77jYjsWPPlxbQW9Q13OipNXbwpFc48v8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57281/73a762_small_fgfgfgd_copia.jpg",
-      "excerpt": "Dopo il debutto negli Stati Uniti, YouTube prepara il rilascio globale del Picture in Picture per gli utenti senza Premium. Ci sono delle impostazioni da cambiare... Leggi tutto",
-      "image": "https://images.dday.it/2n0GJkospsw77jYjsWPPlxbQW9Q13OipNXbwpFc48v8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57281/73a762_small_fgfgfgd_copia.jpg",
-      "publishedAt": "2026-04-30T08:26:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "La confezione KitKat diventa una gabbia di Faraday per smartphone. La curiosa trovata",
-      "link": "https://images.dday.it/4j91Ju5ealqtpt7OiLh0WA0VNgFTVQAkUu__s29hw70/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57279/aa5702_kitkat_thumb.jpg",
-      "excerpt": "La confezione sperimentale blocca completamente i segnali dello smartphone, trasformando la pausa in una disconnessione reale e senza notifiche... Leggi tutto",
-      "image": "https://images.dday.it/4j91Ju5ealqtpt7OiLh0WA0VNgFTVQAkUu__s29hw70/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57279/aa5702_kitkat_thumb.jpg",
-      "publishedAt": "2026-04-30T08:04:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Dreame svela la Nebula NEXT 01 JET Edition, la supercar elettrica con motori a razzo",
-      "link": "https://images.dday.it/AB12m8hQGJoWoIYW7OKosxI12zzvFO-zbJT4_ykm2zc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57278/119ed1_Dreame_Launches_Nebula_NEXT_01_JET_Edition_at_DREAME_NEXT.webp.jpg",
-      "excerpt": "Esercizio di stile, tecnologico o provocazione? la proposta Dreame è ai limiti della attuale tecnologia, lo fa con un piglio molto serio ma non crediamo proprio vedrà mai la…",
-      "image": "https://images.dday.it/AB12m8hQGJoWoIYW7OKosxI12zzvFO-zbJT4_ykm2zc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57278/119ed1_Dreame_Launches_Nebula_NEXT_01_JET_Edition_at_DREAME_NEXT.webp.jpg",
-      "publishedAt": "2026-04-30T07:51:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "La piscina è fatta per nuotare, non per passare il retino: le pulizie facciamole fare ai robot Scuba di Aiper",
-      "link": "https://images.dday.it/wLzg1jiy9Q18V76N0R75QPaGCJmpCu-tmMFaXdUiRWk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57230/d46269_small_yhrthyhthtry_copia.jpg",
-      "excerpt": "Con i robot di Aiper la piscina torna a essere il posto dove tuffarsi, non quello dove inseguire foglie con il retino. La gamma Scuba automatizza la pulizia della piscina con…",
-      "image": "https://images.dday.it/wLzg1jiy9Q18V76N0R75QPaGCJmpCu-tmMFaXdUiRWk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57230/d46269_small_yhrthyhthtry_copia.jpg",
-      "publishedAt": "2026-04-30T07:32:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migliori SSD esterni (aprile 2026)",
-      "link": "https://www.tomshw.it/guide/migliori-ssd-esterni",
-      "excerpt": "Al giorno d'oggi, i migliori SSD esterni rappresentano la soluzione definitiva per chi cerca un sistema di archiviazione veloce, affidabile e facile da trasportare. In un’epoca…",
-      "image": null,
-      "publishedAt": "2026-04-30T07:31:40+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Narwal Flow 2 al banco di prova: lava e igienizza benissimo, naviga con precisione",
-      "link": "https://images.dday.it/fow99pgt5KPSjLxs1o7-T5mbmOgICwSRpgVgHFi9Gvo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57249/aa13d5_DSC03305.jpg",
-      "excerpt": "Sbarca in Italia Flow 2, il top di gamma Narwal che punta tutto sul sistema di lavaggio FlowWash e sul sistema di AI capace di riconoscere adattativamente ogni tipo di oggetto e…",
-      "image": "https://images.dday.it/fow99pgt5KPSjLxs1o7-T5mbmOgICwSRpgVgHFi9Gvo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57249/aa13d5_DSC03305.jpg",
-      "publishedAt": "2026-04-30T07:19:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
