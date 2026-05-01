@@ -1,11 +1,137 @@
 {
-  "generatedAt": "2026-04-30T22:37:42.301019+00:00",
+  "generatedAt": "2026-05-01T07:53:23.179229+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Apple, altro trimestre record: iPhone 17 traina i ricavi, nuovo massimo per i servizi",
+      "title": "Galaxy Glasses: Samsung conferma ufficialmente di starci lavorando",
+      "link": "https://www.hdblog.it/indossabili/articoli/n656968/samsung-conferma-glasses-nuove-buds/",
+      "excerpt": "La conferma arriva durante l'ultima chiamata con gli investitori",
+      "image": "https://hd2.tudocdn.net/1336912?w=660",
+      "publishedAt": "2026-05-01T07:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Copilot si evolve: arrivano i modelli di Anthropic dentro Word",
+      "link": "https://www.hdblog.it/microsoft/articoli/n656960/microsoft-word-anthropic-copilot-update/",
+      "excerpt": "Anthropic arriva su Microsoft Word tramite Copilot per migliorare la gestione dei documenti.",
+      "image": "https://hd2.tudocdn.net/1339963?w=660",
+      "publishedAt": "2026-05-01T07:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Microsoft Flight Simulator 2024 si aggiorna su PS5: ora è compatibile con PS VR2",
+      "link": "https://www.hdblog.it/microsoft/articoli/n656963/microsoft-flight-simulator-2024-versione-ps-vr2/",
+      "excerpt": "Il titolo non è mai stato così immersivo anche su PlayStation 5",
+      "image": "https://hd2.tudocdn.net/1339962?w=660",
+      "publishedAt": "2026-05-01T07:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Galaxy S27 Ultra, Samsung è pronta a rivoluzionare le fotocamere per i rumor",
+      "link": "https://www.hdblog.it/smartphone/articoli/n656951/samsung-galaxy-s27-fotocamera-teleobiettivo-novita/",
+      "excerpt": "E a farlo a partire da un taglio, quello del teleobiettivo 3x da 10 MP.",
+      "image": "https://hd2.tudocdn.net/1327031?w=660",
+      "publishedAt": "2026-05-01T07:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Audi Q3 2.0 TDI S tronic 150 CV: un diesel che conquista",
+      "link": "https://www.hdmotori.it/prove/audi-q3-20-tdi-150-cv-diesel/",
+      "excerpt": "Abbiamo provato su strada la nuova Audi Q3 di terza generazione nella versione diesel da 150 CV. Ecco pregi e difetti.",
+      "image": "https://hd2.tudocdn.net/1339964?w=660",
+      "publishedAt": "2026-05-01T07:00:42+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Pro-Ject Wireless Box E, il modulo che trasforma un diffusore passivo in un monitor attivo per lo streaming",
+      "link": "https://images.dday.it/QzrDylxfhJYAPZfz7Z3BwN48JrQpOV1VDMME-cdBzTA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57282/46d73f_wireless-box-e-in-use-3-big.jpeg",
+      "excerpt": "Pro-Ject lancia un piccolo e curioso amplificatore senza fili da fissare direttamente ai morsetti di un diffusore passivo, trasformandolo in un diffusore attivo con streaming…",
+      "image": "https://images.dday.it/QzrDylxfhJYAPZfz7Z3BwN48JrQpOV1VDMME-cdBzTA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57282/46d73f_wireless-box-e-in-use-3-big.jpeg",
+      "publishedAt": "2026-05-01T07:00:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "A quasi 10 anni dall’annuncio, il Tesla Semi entra in produzione \"ad alto volume\"",
+      "link": "https://images.dday.it/0PikaRjH3gPjzKBy2E5h7EugY6iPMJkJkeI6dMMJ35w/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57289/c8c59c_Screenshot_2026-04-30_at_11.44.50.png",
+      "excerpt": "Passaggio epocale per uno dei prodotti meno industrializzati, fino ad oggi, della gamma Tesla, il Semi entra in una fase di produzione ad alti volumi... Leggi tutto",
+      "image": "https://images.dday.it/0PikaRjH3gPjzKBy2E5h7EugY6iPMJkJkeI6dMMJ35w/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57289/c8c59c_Screenshot_2026-04-30_at_11.44.50.png",
+      "publishedAt": "2026-05-01T06:47:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Taglio delle accise prorogato fino al 21 maggio: perché sarà poco efficace",
+      "link": "https://www.hdmotori.it/taglio-accise-prorogato-21-maggio/",
+      "excerpt": "Il Consiglio dei ministri ha approvato la proroga di 21 giorni con uno schema differenziato: 20 centesimi di sconto sul diesel, ma solo 5 sulla benzina. Per quest'ultima, quindi,…",
+      "image": "https://hd2.tudocdn.net/1330469?w=660",
+      "publishedAt": "2026-05-01T06:30:11+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Ray-Ban Meta e privacy: filmati intimi finiti in mano ai revisori",
+      "link": "https://www.hdblog.it/indossabili/articoli/n656958/scandalo-privacy-meta-ray-ban/",
+      "excerpt": "Oltre mille licenziamenti dopo la scoperta di video privati registrati dagli occhiali Meta.",
+      "image": "https://hd2.tudocdn.net/1288438?w=660",
+      "publishedAt": "2026-05-01T06:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Migliori case economici (maggio 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-case-economici",
+      "excerpt": "Assemblare un PC economico ma ben bilanciato significa scegliere con attenzione anche il case, non solo CPU, GPU e memoria. Il telaio determina quanto spazio avrete per installare…",
+      "image": null,
+      "publishedAt": "2026-05-01T01:10:43+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La piscina è fatta per nuotare, non per passare il retino: le pulizie facciamole fare ai robot Scuba di Aiper",
+      "link": "https://images.dday.it/wLzg1jiy9Q18V76N0R75QPaGCJmpCu-tmMFaXdUiRWk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57230/d46269_small_yhrthyhthtry_copia.jpg",
+      "excerpt": "Con i robot di Aiper la piscina torna a essere il posto dove tuffarsi, non quello dove inseguire foglie con il retino. La gamma Scuba automatizza la pulizia della piscina con…",
+      "image": "https://images.dday.it/wLzg1jiy9Q18V76N0R75QPaGCJmpCu-tmMFaXdUiRWk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57230/d46269_small_yhrthyhthtry_copia.jpg",
+      "publishedAt": "2026-05-01T01:03:05+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Migliori Chromebook (maggio 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-chromebook",
+      "excerpt": "Scegliere uno dei migliori Chromebook significa puntare su un portatile veloce nell'avvio, semplice da gestire e pensato per chi lavora molto tra browser, documenti condivisi,…",
+      "image": null,
+      "publishedAt": "2026-05-01T01:02:36+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori chiavette USB (maggio 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-chiavette-usb",
+      "excerpt": "Le chiavette USB, o pen drive, restano uno degli accessori più comodi quando bisogna spostare file tra computer, smartphone, tablet, console e dispositivi di lavoro senza…",
+      "image": null,
+      "publishedAt": "2026-05-01T00:52:40+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori Hub USB portatili e da scrivania (maggio 2026)",
+      "link": "https://www.tomshw.it/guide/hub-usb-migliori",
+      "excerpt": "Notebook ultrasottili, tablet 2-in-1, mini PC e portatili da lavoro hanno ridotto molto lo spazio dedicato alle porte fisiche. Per questo un hub USB non è più soltanto un…",
+      "image": null,
+      "publishedAt": "2026-05-01T00:44:43+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Apple, nuovo trimestre record: iPhone 17 traina i ricavi, nuovo massimo per i servizi",
       "link": "https://www.hdblog.it/smartphone/articoli/n656955/apple-trimestre-record-iphone-17/",
       "excerpt": "iPhone e servizi si confermano le principali fonti di ricavo per Apple",
       "image": "https://hd2.tudocdn.net/1251200?w=660",
@@ -32,60 +158,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Stellantis, la cura Filosa funziona: primo trimestre di solida crescita",
-      "link": "https://www.hdmotori.it/stellantis-la-cura-filosa-funziona-primo-trimestre-di-solida-crescita/",
-      "excerpt": "Ricavi a 38,1 miliardi, utile netto di 377 milioni e volumi in crescita del 12%: il primo trimestre 2026 di Stellantis è molto positivo",
-      "image": "https://hd2.tudocdn.net/1339948?w=660",
-      "publishedAt": "2026-04-30T17:00:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Cellule cerebrali e microchip: il nuovo computer ibrido di Princeton",
-      "link": "https://www.hdblog.it/hardware/articoli/n656826/bio-computer-princeton-neuroni-3d/",
-      "excerpt": "Creato a Princeton un sistema 3D che unisce neuroni vivi e circuiti per il calcolo a basso consumo.",
-      "image": "https://hd2.tudocdn.net/1339740?w=660",
-      "publishedAt": "2026-04-30T16:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "FIAT Grizzly avvistata in strada: ecco come appare nel traffico",
-      "link": "https://www.hdmotori.it/fiat-grizzly-avvistata-versione-definitiva/",
-      "excerpt": "Fiat punta a rendere il SUV uno dei bestseller della gamma. La Grizzly sta per arrivare a prezzi interessanti",
-      "image": "https://hd2.tudocdn.net/1339945?w=660",
-      "publishedAt": "2026-04-30T16:30:27+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Tesla Semi, al via la produzione in serie del camion elettrico di Musk",
-      "link": "https://www.hdmotori.it/tesla-semi-al-via-la-produzione-in-serie-del-camion-elettrico-di-musk/",
-      "excerpt": "Tesla Semi, 1.072 CV e ricarica rapida in 30 minuti con autonomia fino a 800 km. Dalle promesse del 2017 alla produzione in serie in Nevada",
-      "image": "https://hd2.tudocdn.net/1339938?w=660",
-      "publishedAt": "2026-04-30T16:00:05+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Tiberius Sceptre: il primo proiettile ramjet sparato da un obice NATO",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n656853/tiberius-aerospace-sceptre-ramjet/",
-      "excerpt": "Tiberius Aerospace testa Sceptre, un proiettile ramjet a combustibile liquido per obici NATO da 155 millimetri.",
-      "image": "https://hd2.tudocdn.net/1339780?w=660",
-      "publishedAt": "2026-04-30T15:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Netflix cambia l'app per smartphone: arrivano le Clip in stile TikTok",
-      "link": "https://www.hdblog.it/android/articoli/n656933/netflix-app-smartphone-aggiornamento-clip-feed/",
-      "excerpt": "Un feed verticale per scoprire nuovi contenuti: come funziona.",
-      "image": "https://hd2.tudocdn.net/1316068?w=660",
-      "publishedAt": "2026-04-30T15:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Prezzo mai visto sul Roborock QV 35A: impossibile non approfittarne!",
       "link": "https://images.dday.it/D2u3c6_NVNdvba2X16v7NF8QZy0Zs9_GzgNzo8uern0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/54421/414871_ape2.jpg",
       "excerpt": "Approfitta dell’offerta Amazon per il Roborock QV 35A: aspirazione da 8.000 Pa, stazione di ricarica automatica con lavaggio dei mop e navigazione LiDAR per una pulizia veloce,…",
@@ -93,24 +165,6 @@
       "publishedAt": "2026-04-30T15:44:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Fotovoltaico, doppio record d'efficienza per moduli e celle HIBC",
-      "link": "https://www.hdblog.it/green/articoli/n656927/pannelli-fotovoltaici-celle-record-efficienza/",
-      "excerpt": "I risultati ottenuti da LONGi.",
-      "image": "https://hd2.tudocdn.net/1339925?w=660",
-      "publishedAt": "2026-04-30T15:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Giocare su PC col DualSense? Ora puoi senza compromessi",
-      "link": "https://www.tomshw.it/videogioco/dualsense-wireless-pc-senza-rinunce",
-      "excerpt": "DualSense può già funzionare su PC, ma spesso perde proprio le funzioni che lo rendono diverso da un controller qualsiasi quando viene usato in wireless. Il progetto DS5Dongle…",
-      "image": null,
-      "publishedAt": "2026-04-30T14:35:47+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Arrivano le Fonti preferite su Google: il modo per vedere più spesso DDay.it nella ricerca",
@@ -129,6 +183,15 @@
       "publishedAt": "2026-04-30T14:09:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
+    },
+    {
+      "title": "Claude Opus distrugge un database in 9 secondi. L'AI agentica non è ancora pronta?",
+      "link": "https://www.tomshw.it/business/claude-opus-distrugge-un-database-in-9-secondi-l-ai-agentica-non-e-ancora-pronta",
+      "excerpt": "Un agente AI ha cancellato l'intero database di produzione di un'azienda in nove secondi, e i backup associati nello stesso momento. La vicenda riguarda PocketOS, una software…",
+      "image": null,
+      "publishedAt": "2026-04-30T13:35:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Mezzo trilione in AI da Big Tech, ma il mercato premia solo Google",
@@ -208,69 +271,6 @@
       "excerpt": "Scopri i router e dispositivi TP-Link attualmente in offerta su Amazon: Router 5G, Router Mesh WiFi, Router WiFi con SIM e Router WiFi 6 Dual-Band. Tante soluzioni diverse pensate…",
       "image": "https://images.dday.it/ufE2qsPsta_KzF6QmiUUcKGdCRxA7sYPR14WLvtIEmo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57285/76d1ff_ape2.jpg",
       "publishedAt": "2026-04-30T10:35:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Se ti stanno truffando al telefono il tuo Pixel se ne accorge: attiva anche in Italia la Protezione antifrode",
-      "link": "https://images.dday.it/Fl4AkzWpkhCGuGlXaoxvyrNaXWa8BT6rFxjz_wugwos/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57284/8faa54_small_Screenshot_2026-04-30_alle_12.10.38_copia.png",
-      "excerpt": "Usa Gemini Nano in locale per analizzare la chiamata mentre si sta parlando con l’interlocutore. Il Pixel può quindi avvisare se dall’altra parte del telefono stanno provando a…",
-      "image": "https://images.dday.it/Fl4AkzWpkhCGuGlXaoxvyrNaXWa8BT6rFxjz_wugwos/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57284/8faa54_small_Screenshot_2026-04-30_alle_12.10.38_copia.png",
-      "publishedAt": "2026-04-30T10:12:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migliori case economici (aprile 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-case-economici",
-      "excerpt": "Assemblare un PC economico ma efficiente al giorno d'oggi richiede scelte oculate, specialmente quando si tratta del case, un componente spesso sottovalutato ma fondamentale per…",
-      "image": null,
-      "publishedAt": "2026-04-30T09:44:50+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori Chromebook (aprile 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-chromebook",
-      "excerpt": "Scegliere uno dei migliori Chromebook significa puntare su un portatile progettato per offrire reattività, sicurezza e semplicità d’uso a un prezzo accessibile. Questi notebook…",
-      "image": null,
-      "publishedAt": "2026-04-30T09:40:06+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori chiavette USB (aprile 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-chiavette-usb",
-      "excerpt": "Le chiavette USB, conosciute anche come PenDrive, restano uno degli strumenti di archiviazione portatile più utilizzati e apprezzati, grazie alla loro versatilità, affidabilità…",
-      "image": null,
-      "publishedAt": "2026-04-30T09:34:05+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori Hub USB portatili e da scrivania (aprile 2026)",
-      "link": "https://www.tomshw.it/guide/hub-usb-migliori",
-      "excerpt": "Al giorno d'oggi, l’evoluzione di notebook ultra-sottili, tablet 2-in-1 e PC compatti ha reso la presenza di hub USB un elemento essenziale nella quotidianità digitale. Nonostante…",
-      "image": null,
-      "publishedAt": "2026-04-30T09:31:55+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il compact disc è morto? Per NAD e Fosi Audio gode ancora di ottima salute",
-      "link": "https://images.dday.it/NSmIHOY-Qwgdt0IEVWNCw_luXtVKvGhrqPaOqxnCz5I/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57250/197830_004-3-1d768bb7-fb39-4f7b-a53d-697dcc70b0a8.jpeg",
-      "excerpt": "Le novità in tema di lettori CD sono ormai un evento raro, ora invece ne arrivano due ed estremamente diverse tra loro dallo storico marchio Nad e dall’emergente cinese Fosi Audio…",
-      "image": "https://images.dday.it/NSmIHOY-Qwgdt0IEVWNCw_luXtVKvGhrqPaOqxnCz5I/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57250/197830_004-3-1d768bb7-fb39-4f7b-a53d-697dcc70b0a8.jpeg",
-      "publishedAt": "2026-04-30T09:12:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Nilox presenta la gamma 2026 di e-bike: dalle Fat Bike alla nuova Mountain Bike, tutte le novità a batteria",
-      "link": "https://images.dday.it/4yAZk71s8JUof-4ZGq2aI4CTYWzczhwnHIkt3O0_9Cw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57280/ba4519_Nilox_J1_Pro_arancio_amb_2.jpg",
-      "excerpt": "Nella proposta primavera-estate 2026, Nilox concentra l’attenzione soprattutto sulla fascia media del mercato, scegliendo di presidiare un segmento dove prezzo, contenuti tecnici…",
-      "image": "https://images.dday.it/4yAZk71s8JUof-4ZGq2aI4CTYWzczhwnHIkt3O0_9Cw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57280/ba4519_Nilox_J1_Pro_arancio_amb_2.jpg",
-      "publishedAt": "2026-04-30T09:09:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
