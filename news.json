@@ -1,44 +1,269 @@
 {
-  "generatedAt": "2026-05-04T08:44:30.790787+00:00",
+  "generatedAt": "2026-05-04T16:21:18.733762+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Windows 11 continua a crescere tra gli utenti Steam: è usato dal 67,74%",
-      "link": "https://www.hdblog.it/windows/articoli/n657116/windows-11-sondaggio-valve-aprile-2026/",
-      "excerpt": "Windows 10 continua comunque ad essere molto rilevante",
-      "image": "https://hd2.tudocdn.net/1336518?w=660",
-      "publishedAt": "2026-05-04T08:40:00+00:00",
+      "title": "LOL Halloween Special: svelato il cast ufficiale dello show",
+      "link": "https://www.hdblog.it/amazon/articoli/n657102/lol-halloween-special-cast-uscita/",
+      "excerpt": "Prime Video annuncia il cast dello speciale di LOL a tema Halloween con nuove regole e premi.",
+      "image": "https://hd2.tudocdn.net/1340157?w=660",
+      "publishedAt": "2026-05-04T16:20:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "LEGO, in arrivo il set dedicato al mitico SEGA Mega Drive",
-      "link": "https://www.hdblog.it/games/articoli/n657130/lego-sega-mega-drive-prezzo-quando/",
-      "excerpt": "Appuntamento per il 2 giugno! Prezzi tutto sommato onesti",
-      "image": "https://hd2.tudocdn.net/1340183?w=660",
-      "publishedAt": "2026-05-04T08:35:00+00:00",
+      "title": "OnePlus Ace 7 potrebbe adottare una ventola per il raffreddamento",
+      "link": "https://www.hdblog.it/smartphone/articoli/n657195/oneplus-ace-7-ventola-raffreddamento/",
+      "excerpt": "Apparsi online i primi rumor sul dispositivo OnePlus.",
+      "image": "https://hd2.tudocdn.net/1340281?w=660",
+      "publishedAt": "2026-05-04T16:10:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "DeepSeek, Mistral e NOVA AI dovranno avvisare meglio sul rischio \"allucinazioni\"",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n657128/deepseek-mistral-nova-ai-allucinazioni/",
-      "excerpt": "Al centro dei procedimenti c’è la trasparenza",
-      "image": "https://hd2.tudocdn.net/1267348?w=660",
-      "publishedAt": "2026-05-04T08:25:00+00:00",
+      "title": "Windows 11, Microsoft continua la rivoluzione dello stack di stampa",
+      "link": "https://www.hdblog.it/hardware/articoli/n657203/windows-11-stack-stampa-mopria-icona-sicurezza/",
+      "excerpt": "Nella sezione dedicata compaiono le icone con scudo e spunta verde per le stampanti più sicure e compatibili con il nuovo sistema WPP.",
+      "image": "https://hd2.tudocdn.net/1244942?w=660",
+      "publishedAt": "2026-05-04T16:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "eBay rilancia le promo: due codici sconto per tech, casa e fai da te",
-      "link": "https://www.tomshw.it/altro/ebay-rilancia-le-promo-due-codici-sconto-per-tech-casa-e-fai-da-te",
-      "excerpt": "eBay lancia due nuove promozioni attive da oggi 4 maggio fino al 17 maggio, pensate per incentivare gli acquisti su un’ampia selezione di categorie. Le offerte si presentano come…",
+      "title": "Tokyo punta sull'eolico galleggiante: un parco da 1 GW entro il 2035",
+      "link": "https://www.hdblog.it/green/articoli/n657105/eolico-galleggiante-tokyo/",
+      "excerpt": "Tokyo progetta il più grande parco eolico galleggiante al mondo per generare 1 gigawatt di energia.",
+      "image": "https://hd2.tudocdn.net/1340162?w=660",
+      "publishedAt": "2026-05-04T15:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Droni agricoli, 55enne finisce nei guai per uso non autorizzato",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n657171/droni-agricoli-uso-non-autorizzato/",
+      "excerpt": "Avrebbe messo in pericolo il traffico aereo",
+      "image": "https://hd2.tudocdn.net/1340275?w=660",
+      "publishedAt": "2026-05-04T15:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Homebridge 2.0 finalmente è stabile: arriva il supporto a Matter",
+      "link": "https://www.hdblog.it/apple/articoli/n657198/homebridge-apple-home-2-0-matter-novita/",
+      "excerpt": "Dopo oltre tre anni di Beta testing!",
+      "image": "https://hd2.tudocdn.net/1340283?w=660",
+      "publishedAt": "2026-05-04T15:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Ronde notturne? I cani robot di Boston Dynamics sorvegliano h24",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n657112/dromedog-boston-dynamics-sicurezza-ai/",
+      "excerpt": "Spot diventa DroneDog: il robot di Boston Dynamics ora usa l'AI per ronde e sicurezza continua.",
+      "image": "https://hd2.tudocdn.net/1340166?w=660",
+      "publishedAt": "2026-05-04T15:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "The Crown non finisce qui: in arrivo la nuova serie prequel",
+      "link": "https://www.hdblog.it/curiosita/articoli/n657094/netflix-prequel-the-crown-news/",
+      "excerpt": "Nuova serie Netflix sulla famiglia reale britannica dai primi del Novecento.",
+      "image": "https://hd2.tudocdn.net/1130519?w=660",
+      "publishedAt": "2026-05-04T15:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La mobilità urbana dipende ancora dalle auto, molto più di quello che crediamo",
+      "link": "https://www.hdmotori.it/mobilita-urbana-dipende-auto/",
+      "excerpt": "Il Car Dependency Index ha analizzato il trasporto pubblico in 18 città europee e nordamericane, rilevando un'elevata dipendenza dall'auto. Roma ha ottenuto il risultato peggiore.",
+      "image": "https://hd2.tudocdn.net/1340284?w=660",
+      "publishedAt": "2026-05-04T15:30:36+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "VPN gratis o VPN a pagamento: quali sono le differenze?",
+      "link": "https://www.tomshw.it/hardware/vpn-gratis-o-vpn-a-pagamento-quali-sono-le-differenze",
+      "excerpt": "Proteggere la propria privacy online è diventato sempre più importante. Ogni giorno navighiamo, lavoriamo da remoto, accediamo a servizi bancari, guardiamo contenuti in streaming…",
       "image": null,
-      "publishedAt": "2026-05-04T08:21:54+00:00",
+      "publishedAt": "2026-05-04T15:20:51+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Xteink X3 è l'eBook reader magnetico da 3,7 pollici che puoi agganciare all'iPhone",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n657183/xteink-x3-ebook-reader-magnetico/",
+      "excerpt": "Prezzo tutto sommato contenuto e design fuori dall'ordinario per Xteink X3, il piccolo eBook reader magnetico unico nel suo genere.",
+      "image": "https://hd2.tudocdn.net/1340262?w=660",
+      "publishedAt": "2026-05-04T15:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Cinema 4K in formato mini: Hisense M2SE Pro ora con 400€ di sconto",
+      "link": "https://images.dday.it/CL30cD7xkET2fFxYYTR0XR-E-xU9JD21x-OzUsDyniY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/56118/ea8015_ape2.jpg",
+      "excerpt": "Risoluzione 4K, Triplo Laser DLP, Dolby Vision e integrazione smart: Hisense M2SE Pro è ora in offerta speciale su Amazon... Leggi tutto",
+      "image": "https://images.dday.it/CL30cD7xkET2fFxYYTR0XR-E-xU9JD21x-OzUsDyniY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/56118/ea8015_ape2.jpg",
+      "publishedAt": "2026-05-04T15:09:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Recensione Uperfect Delta Max, per chi vuole il doppio monitor ovunque",
+      "link": "https://www.tomshw.it/hardware/recensione-uperfect-delta-max-doppio-monitor-portatile",
+      "excerpt": "Il mercato dei monitor portatili si è evoluto rapidamente negli ultimi anni, passando da semplici pannelli esterni a soluzioni sempre più integrate e orientate alla…",
+      "image": null,
+      "publishedAt": "2026-05-04T15:05:36+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Fotovoltaico, l'Europa dice basta agli incentivi per chi usa inverter cinesi. Problemi di sicurezza",
+      "link": "https://images.dday.it/ppk4ELJCqDOX3JylJWIETboHNi92KvcHVHd3bJ9oS20/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57302/da3cf2_huawinv.jpg",
+      "excerpt": "Bruxelles ha confermato il blocco dei finanziamenti UE per impianti fotovoltaici con componenti da fornitori \"ad alto rischio\". Nel mirino c'è Huawei, leader mondiale del settore…",
+      "image": "https://images.dday.it/ppk4ELJCqDOX3JylJWIETboHNi92KvcHVHd3bJ9oS20/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57302/da3cf2_huawinv.jpg",
+      "publishedAt": "2026-05-04T15:01:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Dopo un mese con vivo V70, non voglio tornare al mio smartphone",
+      "link": "https://www.tomshw.it/smartphone/un-mese-con-vivo-v70",
+      "excerpt": "Onestamente, se c’è un marchio di smartphone che senza fare troppo rumore ha avuto una delle annate migliori, quello è vivo. Per capirlo basta guardare la line-up di smartphone…",
+      "image": null,
+      "publishedAt": "2026-05-04T14:50:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Dark Souls, remake in arrivo per la trilogia?",
+      "link": "https://www.tomshw.it/videogioco/dark-souls-i-remake-della-trilogia-in-sviluppo-2026-05-04",
+      "excerpt": "Il mondo dei soulslike è in fermento: secondo un'indiscrezione circolata nelle ultime ore, l'intera trilogia di Dark Souls potrebbe essere in fase di remake. Si tratta di una…",
+      "image": null,
+      "publishedAt": "2026-05-04T14:43:23+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Nuove voci sui Pixel 11: torneranno gli 8 GB di RAM? Ma processore su nodo da 2nm e glifo LED come i Nothing",
+      "link": "https://images.dday.it/-hzZ8GsSiO8RAXxkrj8DaXQWuXHQtpwKp7WO9ULVr_s/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57300/a2265b_small_ChatGPT_Image_4_mag_2026__16_31_47_copia.png",
+      "excerpt": "Se gli schermi resteranno gli stessi, cambierà tutto il resto, non necessariamente in meglio. Però il processore Tensor G6 sarebbe su nodo N2, la camera principale salirebbe a 50…",
+      "image": "https://images.dday.it/-hzZ8GsSiO8RAXxkrj8DaXQWuXHQtpwKp7WO9ULVr_s/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57300/a2265b_small_ChatGPT_Image_4_mag_2026__16_31_47_copia.png",
+      "publishedAt": "2026-05-04T14:36:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Blindfire diventa gratis su Xbox questa settimana",
+      "link": "https://www.tomshw.it/videogioco/blindfire-gratis-su-xbox-series-xs-questa-settimana-2026-05-04",
+      "excerpt": "Blindfire, lo shooter in prima persona ambientato nell'oscurità totale, sta per diventare completamente gratuito su tutte le piattaforme. La notizia arriva dopo un percorso di…",
+      "image": null,
+      "publishedAt": "2026-05-04T14:35:57+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "I giochi da non perdere di aprile! Le nuove uscite già in sconto",
+      "link": "https://www.tomshw.it/videogioco/i-giochi-da-non-perdere-le-nuove-uscite-gia-in-sconto",
+      "excerpt": "Aprile è passato, e per voi appassionati di videogiochi questi giorni si prospettano ricchi di occasioni imperdibili. Diverse nuove uscite hanno già fatto il loro debutto, e…",
+      "image": null,
+      "publishedAt": "2026-05-04T14:26:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Italia attaccata dagli hacker cinesi, ecco come sono entrati (e sono rimasti settimane)",
+      "link": "https://www.tomshw.it/business/pa-italiana-sotto-attacco-la-porta-di-ibm-era-aperta",
+      "excerpt": "Il gruppo cinese Salt Typhoon ha violato Sistemi Informativi, la società controllata al 100% da IBM che gestisce l'infrastruttura tecnologica della Pubblica Amministrazione…",
+      "image": null,
+      "publishedAt": "2026-05-04T14:20:05+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Attenzione alle Mini Apps Telegram: nascondono malware Android",
+      "link": "https://www.tomshw.it/smartphone/telegram-mini-apps-malware-android",
+      "excerpt": "Le Telegram Mini Apps finiscono al centro di una nuova campagna che unisce phishing, truffe cripto e distribuzione di malware Android. Secondo i ricercatori, la piattaforma…",
+      "image": null,
+      "publishedAt": "2026-05-04T14:16:31+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La frenata by-wire di Brembo entra in produzione per un \"importante costruttore globale\"",
+      "link": "https://images.dday.it/M68q3a5_2r0IDtcauuQwA9mFL3yD3JQKcj83ONzJpjw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57299/91866b_brembo_thumb.jpg",
+      "excerpt": "Il sistema by-wire elimina l’idraulica e controlla ogni ruota singolarmente. Ora Sensify è entrato in produzione su scala... Leggi tutto",
+      "image": "https://images.dday.it/M68q3a5_2r0IDtcauuQwA9mFL3yD3JQKcj83ONzJpjw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57299/91866b_brembo_thumb.jpg",
+      "publishedAt": "2026-05-04T13:41:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "L'Inter vince lo scudetto e su DAZN arriva subito il docufilm \"Interna21onale\"",
+      "link": "https://images.dday.it/haAMgYayQNx07X9HyWdPmyq7v3eDj6gaMeJubtvC6rc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57298/ac0e85_inter_thumb.jpg",
+      "excerpt": "Racconta il 21esimo scudetto dell'Inter, fra narrazione e immagini delle partite. Condotto da Pierluigi Pardo, è visibile anche a chi non ha un abbonamento... Leggi tutto",
+      "image": "https://images.dday.it/haAMgYayQNx07X9HyWdPmyq7v3eDj6gaMeJubtvC6rc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57298/ac0e85_inter_thumb.jpg",
+      "publishedAt": "2026-05-04T12:19:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Piani cottura a induzione in offerta su Amazon: i migliori modelli da non perdere",
+      "link": "https://images.dday.it/8pXDenrXPBcMqWQwgXrTuk-cpLnMqqa7M8uOaD1nuhU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57296/b5f4cf_ape2.jpg",
+      "excerpt": "Scopri le offerte del momento su Amazon dedicate ai piani cottura a induzione: Hisense, AEG ed Electrolux per rinnovare la tua cucina. Approfitta degli sconti per passare…",
+      "image": "https://images.dday.it/8pXDenrXPBcMqWQwgXrTuk-cpLnMqqa7M8uOaD1nuhU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57296/b5f4cf_ape2.jpg",
+      "publishedAt": "2026-05-04T11:18:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Dieci tool AI che fanno cose impossibili fino a ieri",
+      "link": "https://www.tomshw.it/business/dieci-tool-ai-che-fanno-cose-impossibili-fino-a-ieri",
+      "excerpt": "Il 2026 ha portato una nuova ondata di strumenti AI che vale la pena conoscere, anche se non si lavora direttamente in tecnologia. Alcuni sono agenti autonomi, altri sono modelli…",
+      "image": null,
+      "publishedAt": "2026-05-04T10:55:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Intervista a JK Liu, fondatore di Insta360: “La scintilla? Innamorato del 360, ma usare sei GoPro costava troppo”",
+      "link": "https://images.dday.it/DPKpoO2FjWRRDkIIxwSoU-sCRteeYZQ5NXHl294rjSY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57297/c3c4fe_jk.jpg",
+      "excerpt": "Abbiamo incontrato per caso Liu Jingkang, o JK Liu, come ama farsi chiamare: ha 34 anni e 13 anni fa ha fondato Insta360. Nei pochi minuti che abbiamo avuto a disposizione non…",
+      "image": "https://images.dday.it/DPKpoO2FjWRRDkIIxwSoU-sCRteeYZQ5NXHl294rjSY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57297/c3c4fe_jk.jpg",
+      "publishedAt": "2026-05-04T10:31:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Usare l'IA per scrivere le email non aiuta veramente",
+      "link": "https://www.tomshw.it/business/usare-l-ia-per-scrivere-le-email-non-aiuta-veramente",
+      "excerpt": "L'AI generativa applicata alle email aumenta il lavoro invece di ridurlo. Lo sostiene Daniel Angus, ricercatore dell'ARC Centre of Excellence for Automated Decision Making &…",
+      "image": null,
+      "publishedAt": "2026-05-04T10:05:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Plex, guardare lo streaming da remoto costerà il 50% in più",
+      "link": "https://images.dday.it/Iz_x7slUpRAygMwa_oYbZrjwjh1tr_Eq22Bek1pGax4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57294/08e610_small_April26-Blog-Hero-v2-1800x1013_copia.jpg",
+      "excerpt": "Plex chiude il prezzo promozionale del Remote Watch Pass: dal 1° giugno il piano per lo streaming remoto personale passerà al listino standard... Leggi tutto",
+      "image": "https://images.dday.it/Iz_x7slUpRAygMwa_oYbZrjwjh1tr_Eq22Bek1pGax4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57294/08e610_small_April26-Blog-Hero-v2-1800x1013_copia.jpg",
+      "publishedAt": "2026-05-04T09:13:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "AGCOM porta Google davanti alla Commissione europea: AI Overviews nel mirino del DSA",
+      "link": "https://images.dday.it/N8H0LzWFw0dbAPjYZrnD0BIR3c670TukUHd407CsMDE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57288/4a713c_Screenshot_2026-05-04_alle_10.52.44.jpg",
+      "excerpt": "Agcom si è rivolto alla Commissione Europea per capire se Google stesse violando il DSA: il tema è quello di AI Overview, che sta facendo crollare le visite di molti siti…",
+      "image": "https://images.dday.it/N8H0LzWFw0dbAPjYZrnD0BIR3c670TukUHd407CsMDE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57288/4a713c_Screenshot_2026-05-04_alle_10.52.44.jpg",
+      "publishedAt": "2026-05-04T08:55:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Google Gemini debutta sulle auto Volvo e Polestar",
@@ -46,231 +271,6 @@
       "excerpt": "Evoluzione del sistema di comandi vacali, grazie all'integrazione di Google Gemini. Serve un aggiornamento OTA... Leggi tutto",
       "image": "https://images.dday.it/xqzSFNXW_bHxDB64EpixbZmBIExEcyocKQl6pfO86sU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57293/ff5be1_acf302f8-4466-4307-9c8d-b43c00f434b0_ea9e5099-7428-462f-8901-bc7474c22c54_Prev.jpg",
       "publishedAt": "2026-05-04T08:21:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "GameStop lancia l'offerta per eBay: 55 miliardi per l'acquisizione del secolo",
-      "link": "https://www.hdblog.it/games/articoli/n657120/gamestop-acquista-ebay-offerta/",
-      "excerpt": "GameStop propone l'acquisto di eBay per 55,5 miliardi di dollari e punta a tagliare i costi.",
-      "image": "https://hd2.tudocdn.net/721752?w=660",
-      "publishedAt": "2026-05-04T08:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "GameStop vuole comprare eBay per 56 miliardi di dollari",
-      "link": "https://images.dday.it/6k6SclsU9VcbVC3U_pOx1FfKs-2nc50Rwp-r8bVtxJM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57291/7b4406_small_Depositphotos_805660916_XL_copia.jpg",
-      "excerpt": "L’amministratore delegato di GameStop considera eBay sottovalutata e propone un’acquisizione da 56 miliardi per farne un rivale più forte di Amazon... Leggi tutto",
-      "image": "https://images.dday.it/6k6SclsU9VcbVC3U_pOx1FfKs-2nc50Rwp-r8bVtxJM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57291/7b4406_small_Depositphotos_805660916_XL_copia.jpg",
-      "publishedAt": "2026-05-04T08:12:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Abbiamo provato il Silence S02, lo scooter elettrico a ruota alta anche per chi non ha un garage",
-      "link": "https://images.dday.it/3Iu-ilfSJqv--b54M8vdRRI3m1jhwdAtjWAsfISpSr0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57292/4a7695_Silence-S02-Sutdio-Gateone-Studio-08072025-SAA09865-HQ.jpg",
-      "excerpt": "Silence ha presentato la variante a ruota alta del suo scooter dotato di batteria rimovibile \"Trolley\", perfetto per chi non ha un garage o un punto di ricarica esterno... Leggi…",
-      "image": "https://images.dday.it/3Iu-ilfSJqv--b54M8vdRRI3m1jhwdAtjWAsfISpSr0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57292/4a7695_Silence-S02-Sutdio-Gateone-Studio-08072025-SAA09865-HQ.jpg",
-      "publishedAt": "2026-05-04T08:11:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Auricolari Huawei FreeBuds Pro 5 in prova: quando la qualità di un prodotto ti fa cambiare stato d’animo",
-      "link": "https://images.dday.it/M0yWVUjbtGDzr6dCdw9_sF3cbt5FnvdMkUwhTqhKmco/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57030/0cd266_cover9_7.jpg",
-      "excerpt": "La sorpresa dei FreeBuds Pro 5 non è in una singola funzione, ma nella somma. Suono neutro e arioso, ANC solida, modalità ambiente “direzionale” e uso semplice su Android e anche…",
-      "image": "https://images.dday.it/M0yWVUjbtGDzr6dCdw9_sF3cbt5FnvdMkUwhTqhKmco/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57030/0cd266_cover9_7.jpg",
-      "publishedAt": "2026-05-04T08:05:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "PS6, SSD PCIe Gen 5, retrocompatibilità con giochi PS5 e altri dettagli",
-      "link": "https://www.hdblog.it/sony/articoli/n657124/sony-ps6-ssd-retrocompatibilita-cloud/",
-      "excerpt": "Si punterà sempre di più anche sul cloud gaming.",
-      "image": "https://hd2.tudocdn.net/885992?w=660",
-      "publishedAt": "2026-05-04T08:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Marathon, Bungie ha piani per supportarlo per anni",
-      "link": "https://www.tomshw.it/videogioco/marathon-bungie-ha-piani-narrativi-per-anni-2026-05-04",
-      "excerpt": "Bungie ha le idee chiare sul futuro di Marathon, il suo nuovo extraction shooter lanciato il 5 marzo su PC, PlayStation 5 e Xbox Series X|S. La software house americana, celebre…",
-      "image": null,
-      "publishedAt": "2026-05-04T08:04:52+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Trump alza i dazi sulle auto europee al 25%: la dura reazione di Bruxelles",
-      "link": "https://www.hdmotori.it/trump-dazi-auto-europee-25/",
-      "excerpt": "Il presidente degli Stati Uniti, Donald Trump, ha deciso di aumentare i dazi per l’Ue, portando al 25% la tariffa su auto e camion",
-      "image": "https://hd2.tudocdn.net/1340181?w=660",
-      "publishedAt": "2026-05-04T08:01:18+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "G-Shock e Star Wars: arrivano gli orologi ispirati al Mandaloriano",
-      "link": "https://www.hdblog.it/indossabili/articoli/n657113/casio-g-shock-star-wars-mandalorian/",
-      "excerpt": "Casio lancia due nuovi orologi G-Shock e Baby-G dedicati a The Mandalorian e Grogu.",
-      "image": "https://hd2.tudocdn.net/1340174?w=660",
-      "publishedAt": "2026-05-04T07:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Torna a comandare gli eserciti: Heroes of Might & Magic è di nuovo qui (e costa meno di 22€)",
-      "link": "https://www.tomshw.it/videogioco/torna-a-comandare-gli-eserciti-heroes-of-might-magic-e-di-nuovo-qui-e-costa-meno-di-22eur",
-      "excerpt": "Il ritorno di Heroes of Might & Magic: Olden Era sta già facendo battere il cuore ai fan storici della strategia a turni. Una serie che ha segnato un’epoca del gaming PC torna con…",
-      "image": null,
-      "publishedAt": "2026-05-04T07:39:08+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Addio agli avatar di WhatsApp: un altro ramo secco da tagliare per Meta",
-      "link": "https://www.hdblog.it/android/articoli/n657108/addio-avatar-whatsapp/",
-      "excerpt": "Gli avatar di WhatsApp non sono mai stati davvero in grado di conquistare gli utenti: Meta ha deciso di eliminare la funzionalità.",
-      "image": "https://hd2.tudocdn.net/1340163?w=660",
-      "publishedAt": "2026-05-04T07:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Coupon Amazon: i migliori della settimana",
-      "link": "https://www.tomshw.it/offerte/migliori-coupon-amazon",
-      "excerpt": "Navigando attraverso le numerose pagine di Amazon, è probabile che abbiate notato la presenza di coupon sconto per specifici articoli. È importante però notare che ciascun…",
-      "image": null,
-      "publishedAt": "2026-05-04T07:30:49+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Apple verso l’era Ternus: meno soldi agli azionisti, più risorse per AI e acquisizioni",
-      "link": "https://www.hdblog.it/business/articoli/n657110/apple-ternus-soldi-azionisti-risorse-acquisizioni/",
-      "excerpt": "La fine dell’obiettivo \"net cash neutral\" lascia alla società più margine per acquisizioni, ricerca, AI e nuovi prodotti",
-      "image": "https://hd2.tudocdn.net/1144472?w=660",
-      "publishedAt": "2026-05-04T07:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Missione compiuta per SpaceX: i satelliti italiani Iride sono in orbita",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n657107/programma-spaziale-iride-argotec/",
-      "excerpt": "L'Italia lancia con successo altri 7 satelliti Iride dalla California per monitorare la Terra.",
-      "image": "https://hd2.tudocdn.net/1212202?w=660",
-      "publishedAt": "2026-05-04T07:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "VMware gestito, dati in Italia: il private cloud che conosci già senza il peso di gestirlo",
-      "link": "https://www.tomshw.it/business/vmware-gestito-dati-in-italia-il-private-cloud-che-conosci-gia-senza-il-peso-di-gestirlo",
-      "excerpt": "VMware resta lo standard infrastrutturale nella maggior parte delle imprese italiane strutturate, della Pubblica Amministrazione e dei settori regolamentati. L'ecosistema ha alle…",
-      "image": null,
-      "publishedAt": "2026-05-04T07:12:13+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Oppo Find X9 Ultra batte iPhone 17 Pro Max, abbiamo un nuovo re del punta e scatta",
-      "link": "https://www.tomshw.it/smartphone/oppo-find-x9-ultra-batte-iphone-17-pro-max-abbiamo-un-nuovo-re-del-punta-e-scatta",
-      "excerpt": "Negli ultimi giorni mi sono ritrovato con due smartphone molto diversi tra le mani: OPPO Find X9 Ultra e il mio iPhone 17 Pro Max. Due approcci quasi opposti sia nel concetto di…",
-      "image": null,
-      "publishedAt": "2026-05-04T06:55:59+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Come nascondere il proprio indirizzo IP",
-      "link": "https://www.tomshw.it/hardware/come-nascondere-il-proprio-indirizzo-ip",
-      "excerpt": "Ogni volta che ti connetti a Internet, il tuo indirizzo IP rende visibili informazioni come la tua posizione approssimativa, il provider Internet e alcune tracce della tua…",
-      "image": null,
-      "publishedAt": "2026-05-04T06:39:15+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "La piscina è fatta per nuotare, non per passare il retino: le pulizie facciamole fare ai robot Scuba di Aiper",
-      "link": "https://images.dday.it/wLzg1jiy9Q18V76N0R75QPaGCJmpCu-tmMFaXdUiRWk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57230/d46269_small_yhrthyhthtry_copia.jpg",
-      "excerpt": "Con i robot di Aiper la piscina torna a essere il posto dove tuffarsi, non quello dove inseguire foglie con il retino. La gamma Scuba automatizza la pulizia della piscina con…",
-      "image": "https://images.dday.it/wLzg1jiy9Q18V76N0R75QPaGCJmpCu-tmMFaXdUiRWk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57230/d46269_small_yhrthyhthtry_copia.jpg",
-      "publishedAt": "2026-05-04T01:03:05+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Recensione FRITZ!Box 5690 Pro, FRITZ! ha fatto jackpot",
-      "link": "https://www.tomshw.it/hardware/recensione-fritzbox-5690-pro-fritz-ha-fatto-jackpot",
-      "excerpt": "Lo so, arrivo tardi alla festa, ma visto che di recente ho avuto bisogno di gestire un problema di connessione, molto diffuso in realtà, mentre mi trovavo all’estero e il…",
-      "image": null,
-      "publishedAt": "2026-05-03T21:31:02+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Sull'AI le PMI italiane devono decidere quanto in fretta reagire",
-      "link": "https://www.tomshw.it/business/sull-ai-le-pmi-italiane-devono-decidere-quanto-in-fretta-reagire",
-      "excerpt": "Le PMI italiane si confrontano con l'AI da una posizione paradossale: dispongono delle infrastrutture, dei fondi pubblici e delle competenze base per adottarla, ma il tasso di…",
-      "image": null,
-      "publishedAt": "2026-05-02T12:50:24+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "L’espansione dell’AI e la volatilità della rete spingono la domanda di trasferimento energetico",
-      "link": "https://www.tomshw.it/business/lespansione-dellai-e-la-volatilita-della-rete-spingono-la-domanda-di-trasferimento-energetico",
-      "excerpt": "Le interruzioni di energia che si sono verificate di recente in diverse aree geografiche hanno evidenziato una realtà chiara: la fragilità delle reti energetiche sta entrando in…",
-      "image": null,
-      "publishedAt": "2026-05-02T12:23:31+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Niente più Mac mini da 256 GB, ora si parte da un taglio mimino di 512 GB e 979 euro",
-      "link": "https://images.dday.it/NdpHdxKmdjuPsz5ZjTkw4uMohdhH6qBJS5AZzZlJpyg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57290/a252f3_small_Screenshot_2026-05-02_alle_11.42.15_copia.png",
-      "excerpt": "La domanda del Mac mini, cresciuta soprattutto dopo il successo di strumenti agentici come OpenClaw, ha messo in difficoltà Apple nel soddisfare la domanda, quindi il taglio da…",
-      "image": "https://images.dday.it/NdpHdxKmdjuPsz5ZjTkw4uMohdhH6qBJS5AZzZlJpyg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57290/a252f3_small_Screenshot_2026-05-02_alle_11.42.15_copia.png",
-      "publishedAt": "2026-05-02T09:44:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Pro-Ject Wireless Box E, il modulo che trasforma un diffusore passivo in un monitor attivo per lo streaming",
-      "link": "https://images.dday.it/QzrDylxfhJYAPZfz7Z3BwN48JrQpOV1VDMME-cdBzTA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57282/46d73f_wireless-box-e-in-use-3-big.jpeg",
-      "excerpt": "Pro-Ject lancia un piccolo e curioso amplificatore senza fili da fissare direttamente ai morsetti di un diffusore passivo, trasformandolo in un diffusore attivo con streaming…",
-      "image": "https://images.dday.it/QzrDylxfhJYAPZfz7Z3BwN48JrQpOV1VDMME-cdBzTA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57282/46d73f_wireless-box-e-in-use-3-big.jpeg",
-      "publishedAt": "2026-05-01T07:00:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "A quasi 10 anni dall’annuncio, il Tesla Semi entra in produzione \"ad alto volume\"",
-      "link": "https://images.dday.it/0PikaRjH3gPjzKBy2E5h7EugY6iPMJkJkeI6dMMJ35w/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57289/c8c59c_Screenshot_2026-04-30_at_11.44.50.png",
-      "excerpt": "Passaggio epocale per uno dei prodotti meno industrializzati, fino ad oggi, della gamma Tesla, il Semi entra in una fase di produzione ad alti volumi... Leggi tutto",
-      "image": "https://images.dday.it/0PikaRjH3gPjzKBy2E5h7EugY6iPMJkJkeI6dMMJ35w/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57289/c8c59c_Screenshot_2026-04-30_at_11.44.50.png",
-      "publishedAt": "2026-05-01T06:47:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Prezzo mai visto sul Roborock QV 35A: impossibile non approfittarne!",
-      "link": "https://images.dday.it/D2u3c6_NVNdvba2X16v7NF8QZy0Zs9_GzgNzo8uern0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/54421/414871_ape2.jpg",
-      "excerpt": "Approfitta dell’offerta Amazon per il Roborock QV 35A: aspirazione da 8.000 Pa, stazione di ricarica automatica con lavaggio dei mop e navigazione LiDAR per una pulizia veloce,…",
-      "image": "https://images.dday.it/D2u3c6_NVNdvba2X16v7NF8QZy0Zs9_GzgNzo8uern0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/54421/414871_ape2.jpg",
-      "publishedAt": "2026-04-30T15:44:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Arrivano le Fonti preferite su Google: il modo per vedere più spesso DDay.it nella ricerca",
-      "link": "https://images.dday.it/AnzLvWypXoH4oRVyxcUNDzc3WAapvrExaT_zbCnIIPY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57287/c249b9_small_ChatGPT_Image_30_apr_2026__16_09_42_copia.png",
-      "excerpt": "Google porta anche in Italia le Fonti Preferite. I lettori possono scegliere i siti da vedere più spesso nelle Notizie principali. Per DDay è un modo semplice per restare visibile…",
-      "image": "https://images.dday.it/AnzLvWypXoH4oRVyxcUNDzc3WAapvrExaT_zbCnIIPY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57287/c249b9_small_ChatGPT_Image_30_apr_2026__16_09_42_copia.png",
-      "publishedAt": "2026-04-30T14:19:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
