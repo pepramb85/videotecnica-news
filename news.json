@@ -1,114 +1,231 @@
 {
-  "generatedAt": "2026-05-03T22:06:44.345872+00:00",
+  "generatedAt": "2026-05-04T08:44:30.790787+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Steam Machine sembra vicina: Valve prepara il lancio tra scorte e incognite sui prezzi",
-      "link": "https://www.hdblog.it/games/articoli/n657080/steam-machine-lancio-vicino-quando-esce-prezzo/",
-      "excerpt": "Qualcosa si sta muovendo, a quanto pare: cosa dicono gli ultimi rumor.",
-      "image": "https://hd2.tudocdn.net/1302076?w=660",
-      "publishedAt": "2026-05-03T15:25:00+00:00",
+      "title": "Windows 11 continua a crescere tra gli utenti Steam: è usato dal 67,74%",
+      "link": "https://www.hdblog.it/windows/articoli/n657116/windows-11-sondaggio-valve-aprile-2026/",
+      "excerpt": "Windows 10 continua comunque ad essere molto rilevante",
+      "image": "https://hd2.tudocdn.net/1336518?w=660",
+      "publishedAt": "2026-05-04T08:40:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Mercedes-Benz, a Sindelfingen parte la produzione di tre auto di puro lusso",
-      "link": "https://www.hdmotori.it/mercedes-benz-sindelfingen/",
-      "excerpt": "Dalla Classe S all'elettrica EQS: Mercedes-Benz celebra il lancio di tre ammiraglie in soli tre mesi, confermando Sindelfingen come centro di eccellenza",
-      "image": "https://hd2.tudocdn.net/1340117?w=660",
-      "publishedAt": "2026-05-03T12:00:34+00:00",
+      "title": "LEGO, in arrivo il set dedicato al mitico SEGA Mega Drive",
+      "link": "https://www.hdblog.it/games/articoli/n657130/lego-sega-mega-drive-prezzo-quando/",
+      "excerpt": "Appuntamento per il 2 giugno! Prezzi tutto sommato onesti",
+      "image": "https://hd2.tudocdn.net/1340183?w=660",
+      "publishedAt": "2026-05-04T08:35:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Confronto migliori smartphone top di gamma compatti (android) | VIDEO",
-      "link": "https://www.hdblog.it/smartphone/comparazioni/n654949/confronto-top-di-gamma-android-compatti/",
-      "excerpt": "Quale è il migliore smartphone compatto del 2026? In Italia ne sono arrivati diversi, ma oggi analizziamo i quattro più importanti con a bordo Android. S26 e Pixel 10 Pro reggono…",
-      "image": "https://hd2.tudocdn.net/1339795?w=660",
-      "publishedAt": "2026-05-03T11:01:00+00:00",
+      "title": "DeepSeek, Mistral e NOVA AI dovranno avvisare meglio sul rischio \"allucinazioni\"",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n657128/deepseek-mistral-nova-ai-allucinazioni/",
+      "excerpt": "Al centro dei procedimenti c’è la trasparenza",
+      "image": "https://hd2.tudocdn.net/1267348?w=660",
+      "publishedAt": "2026-05-04T08:25:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Samsung Galaxy S26: a meno di 640€ è da acquistare al volo (-38%)",
-      "link": "https://www.hdblog.it/smartphone/offerte/n657075/samsung-galaxy-s26-a-meno-di-640e-su-ebay/",
-      "excerpt": "Crolla il prezzo del Samsung Galaxy S26 da 256GB: con il doppio sconto eBay, lo smartphone AI con display Dynamic AMOLED 2X è inferiore a 640€.",
-      "image": "https://hd2.tudocdn.net/1340115?w=660",
-      "publishedAt": "2026-05-03T10:08:00+00:00",
+      "title": "eBay rilancia le promo: due codici sconto per tech, casa e fai da te",
+      "link": "https://www.tomshw.it/altro/ebay-rilancia-le-promo-due-codici-sconto-per-tech-casa-e-fai-da-te",
+      "excerpt": "eBay lancia due nuove promozioni attive da oggi 4 maggio fino al 17 maggio, pensate per incentivare gli acquisti su un’ampia selezione di categorie. Le offerte si presentano come…",
+      "image": null,
+      "publishedAt": "2026-05-04T08:21:54+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Google Gemini debutta sulle auto Volvo e Polestar",
+      "link": "https://images.dday.it/xqzSFNXW_bHxDB64EpixbZmBIExEcyocKQl6pfO86sU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57293/ff5be1_acf302f8-4466-4307-9c8d-b43c00f434b0_ea9e5099-7428-462f-8901-bc7474c22c54_Prev.jpg",
+      "excerpt": "Evoluzione del sistema di comandi vacali, grazie all'integrazione di Google Gemini. Serve un aggiornamento OTA... Leggi tutto",
+      "image": "https://images.dday.it/xqzSFNXW_bHxDB64EpixbZmBIExEcyocKQl6pfO86sU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57293/ff5be1_acf302f8-4466-4307-9c8d-b43c00f434b0_ea9e5099-7428-462f-8901-bc7474c22c54_Prev.jpg",
+      "publishedAt": "2026-05-04T08:21:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "GameStop lancia l'offerta per eBay: 55 miliardi per l'acquisizione del secolo",
+      "link": "https://www.hdblog.it/games/articoli/n657120/gamestop-acquista-ebay-offerta/",
+      "excerpt": "GameStop propone l'acquisto di eBay per 55,5 miliardi di dollari e punta a tagliare i costi.",
+      "image": "https://hd2.tudocdn.net/721752?w=660",
+      "publishedAt": "2026-05-04T08:15:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Nucleare: la tecnologia orbitale che non lascia scampo ai test segreti",
-      "link": "https://www.hdblog.it/green/articoli/n657032/sensori-spaziali-sicurezza-nucleare/",
-      "excerpt": "Nuove tecnologie satellitari per individuare ogni attività nucleare nascosta dallo spazio.",
-      "image": "https://hd2.tudocdn.net/1340062?w=660",
-      "publishedAt": "2026-05-03T10:05:00+00:00",
+      "title": "GameStop vuole comprare eBay per 56 miliardi di dollari",
+      "link": "https://images.dday.it/6k6SclsU9VcbVC3U_pOx1FfKs-2nc50Rwp-r8bVtxJM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57291/7b4406_small_Depositphotos_805660916_XL_copia.jpg",
+      "excerpt": "L’amministratore delegato di GameStop considera eBay sottovalutata e propone un’acquisizione da 56 miliardi per farne un rivale più forte di Amazon... Leggi tutto",
+      "image": "https://images.dday.it/6k6SclsU9VcbVC3U_pOx1FfKs-2nc50Rwp-r8bVtxJM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57291/7b4406_small_Depositphotos_805660916_XL_copia.jpg",
+      "publishedAt": "2026-05-04T08:12:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Abbiamo provato il Silence S02, lo scooter elettrico a ruota alta anche per chi non ha un garage",
+      "link": "https://images.dday.it/3Iu-ilfSJqv--b54M8vdRRI3m1jhwdAtjWAsfISpSr0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57292/4a7695_Silence-S02-Sutdio-Gateone-Studio-08072025-SAA09865-HQ.jpg",
+      "excerpt": "Silence ha presentato la variante a ruota alta del suo scooter dotato di batteria rimovibile \"Trolley\", perfetto per chi non ha un garage o un punto di ricarica esterno... Leggi…",
+      "image": "https://images.dday.it/3Iu-ilfSJqv--b54M8vdRRI3m1jhwdAtjWAsfISpSr0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57292/4a7695_Silence-S02-Sutdio-Gateone-Studio-08072025-SAA09865-HQ.jpg",
+      "publishedAt": "2026-05-04T08:11:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Auricolari Huawei FreeBuds Pro 5 in prova: quando la qualità di un prodotto ti fa cambiare stato d’animo",
+      "link": "https://images.dday.it/M0yWVUjbtGDzr6dCdw9_sF3cbt5FnvdMkUwhTqhKmco/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57030/0cd266_cover9_7.jpg",
+      "excerpt": "La sorpresa dei FreeBuds Pro 5 non è in una singola funzione, ma nella somma. Suono neutro e arioso, ANC solida, modalità ambiente “direzionale” e uso semplice su Android e anche…",
+      "image": "https://images.dday.it/M0yWVUjbtGDzr6dCdw9_sF3cbt5FnvdMkUwhTqhKmco/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57030/0cd266_cover9_7.jpg",
+      "publishedAt": "2026-05-04T08:05:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "PS6, SSD PCIe Gen 5, retrocompatibilità con giochi PS5 e altri dettagli",
+      "link": "https://www.hdblog.it/sony/articoli/n657124/sony-ps6-ssd-retrocompatibilita-cloud/",
+      "excerpt": "Si punterà sempre di più anche sul cloud gaming.",
+      "image": "https://hd2.tudocdn.net/885992?w=660",
+      "publishedAt": "2026-05-04T08:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Toyota studia lo scooter a idrogeno con il serbatoio intercambiabile",
-      "link": "https://www.hdmotori.it/toyota-scooter-idrogeno-serbatoio-intercambiabile/",
-      "excerpt": "Alcuni nuovi brevetti del colosso giapponese rivelano una strategia per la micromobilità urbana che punta sul fuel cell con in più la facilità del \"tank-swap\".",
-      "image": "https://hd2.tudocdn.net/1340114?w=660",
-      "publishedAt": "2026-05-03T10:00:39+00:00",
+      "title": "Marathon, Bungie ha piani per supportarlo per anni",
+      "link": "https://www.tomshw.it/videogioco/marathon-bungie-ha-piani-narrativi-per-anni-2026-05-04",
+      "excerpt": "Bungie ha le idee chiare sul futuro di Marathon, il suo nuovo extraction shooter lanciato il 5 marzo su PC, PlayStation 5 e Xbox Series X|S. La software house americana, celebre…",
+      "image": null,
+      "publishedAt": "2026-05-04T08:04:52+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Trump alza i dazi sulle auto europee al 25%: la dura reazione di Bruxelles",
+      "link": "https://www.hdmotori.it/trump-dazi-auto-europee-25/",
+      "excerpt": "Il presidente degli Stati Uniti, Donald Trump, ha deciso di aumentare i dazi per l’Ue, portando al 25% la tariffa su auto e camion",
+      "image": "https://hd2.tudocdn.net/1340181?w=660",
+      "publishedAt": "2026-05-04T08:01:18+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Toto: dai bidet al successo miliardario nel settore dei chip",
-      "link": "https://www.hdblog.it/hardware/articoli/n657068/toto-successo-chip-memoria/",
-      "excerpt": "Il produttore di sanitari Toto ottiene profitti record grazie alla fornitura di componenti per chip.",
-      "image": "https://hd2.tudocdn.net/1340106?w=660",
-      "publishedAt": "2026-05-03T09:05:00+00:00",
+      "title": "G-Shock e Star Wars: arrivano gli orologi ispirati al Mandaloriano",
+      "link": "https://www.hdblog.it/indossabili/articoli/n657113/casio-g-shock-star-wars-mandalorian/",
+      "excerpt": "Casio lancia due nuovi orologi G-Shock e Baby-G dedicati a The Mandalorian e Grogu.",
+      "image": "https://hd2.tudocdn.net/1340174?w=660",
+      "publishedAt": "2026-05-04T07:45:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "iPhone 17e (256 GB) in offerta a meno di 600€, solo per oggi: un'occasione da cogliere al volo",
-      "link": "https://www.hdblog.it/smartphone/offerte/n657072/iphone-17e-256-gb-offerta-psprapr26-2/",
-      "excerpt": "iPhone 17e da 256 GB è in offerta e diventa, sempre di più, un best buy: a meno di 600 euro è da prendere subito.",
-      "image": "https://hd2.tudocdn.net/1326791?w=660",
-      "publishedAt": "2026-05-03T08:30:00+00:00",
+      "title": "Torna a comandare gli eserciti: Heroes of Might & Magic è di nuovo qui (e costa meno di 22€)",
+      "link": "https://www.tomshw.it/videogioco/torna-a-comandare-gli-eserciti-heroes-of-might-magic-e-di-nuovo-qui-e-costa-meno-di-22eur",
+      "excerpt": "Il ritorno di Heroes of Might & Magic: Olden Era sta già facendo battere il cuore ai fan storici della strategia a turni. Una serie che ha segnato un’epoca del gaming PC torna con…",
+      "image": null,
+      "publishedAt": "2026-05-04T07:39:08+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Addio agli avatar di WhatsApp: un altro ramo secco da tagliare per Meta",
+      "link": "https://www.hdblog.it/android/articoli/n657108/addio-avatar-whatsapp/",
+      "excerpt": "Gli avatar di WhatsApp non sono mai stati davvero in grado di conquistare gli utenti: Meta ha deciso di eliminare la funzionalità.",
+      "image": "https://hd2.tudocdn.net/1340163?w=660",
+      "publishedAt": "2026-05-04T07:35:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Xiaomi MIX 5: lo smartphone sperimentale con full-screen arriverà anche in Europa",
-      "link": "https://www.hdblog.it/smartphone/articoli/n657065/xiaomi-mix-5-europa-italia-ritorno-global-rumor/",
-      "excerpt": "Il ritorno di una serie innovativa.",
-      "image": "https://hd2.tudocdn.net/1340105?w=660",
-      "publishedAt": "2026-05-03T08:05:00+00:00",
+      "title": "Coupon Amazon: i migliori della settimana",
+      "link": "https://www.tomshw.it/offerte/migliori-coupon-amazon",
+      "excerpt": "Navigando attraverso le numerose pagine di Amazon, è probabile che abbiate notato la presenza di coupon sconto per specifici articoli. È importante però notare che ciascun…",
+      "image": null,
+      "publishedAt": "2026-05-04T07:30:49+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Apple verso l’era Ternus: meno soldi agli azionisti, più risorse per AI e acquisizioni",
+      "link": "https://www.hdblog.it/business/articoli/n657110/apple-ternus-soldi-azionisti-risorse-acquisizioni/",
+      "excerpt": "La fine dell’obiettivo \"net cash neutral\" lascia alla società più margine per acquisizioni, ricerca, AI e nuovi prodotti",
+      "image": "https://hd2.tudocdn.net/1144472?w=660",
+      "publishedAt": "2026-05-04T07:25:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Guerra tra studios per Battlefield: il film che tutti vogliono",
-      "link": "https://www.hdblog.it/games/articoli/n657067/battlefield-6-successo-film-studios/",
-      "excerpt": "I grandi studios di Hollywood si contendono il film di Battlefield con Michael B. Jordan.",
-      "image": "https://hd2.tudocdn.net/1308617?w=660",
-      "publishedAt": "2026-05-03T07:35:00+00:00",
+      "title": "Missione compiuta per SpaceX: i satelliti italiani Iride sono in orbita",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n657107/programma-spaziale-iride-argotec/",
+      "excerpt": "L'Italia lancia con successo altri 7 satelliti Iride dalla California per monitorare la Terra.",
+      "image": "https://hd2.tudocdn.net/1212202?w=660",
+      "publishedAt": "2026-05-04T07:15:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "VMware gestito, dati in Italia: il private cloud che conosci già senza il peso di gestirlo",
+      "link": "https://www.tomshw.it/business/vmware-gestito-dati-in-italia-il-private-cloud-che-conosci-gia-senza-il-peso-di-gestirlo",
+      "excerpt": "VMware resta lo standard infrastrutturale nella maggior parte delle imprese italiane strutturate, della Pubblica Amministrazione e dei settori regolamentati. L'ecosistema ha alle…",
+      "image": null,
+      "publishedAt": "2026-05-04T07:12:13+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Oppo Find X9 Ultra batte iPhone 17 Pro Max, abbiamo un nuovo re del punta e scatta",
+      "link": "https://www.tomshw.it/smartphone/oppo-find-x9-ultra-batte-iphone-17-pro-max-abbiamo-un-nuovo-re-del-punta-e-scatta",
+      "excerpt": "Negli ultimi giorni mi sono ritrovato con due smartphone molto diversi tra le mani: OPPO Find X9 Ultra e il mio iPhone 17 Pro Max. Due approcci quasi opposti sia nel concetto di…",
+      "image": null,
+      "publishedAt": "2026-05-04T06:55:59+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Come nascondere il proprio indirizzo IP",
+      "link": "https://www.tomshw.it/hardware/come-nascondere-il-proprio-indirizzo-ip",
+      "excerpt": "Ogni volta che ti connetti a Internet, il tuo indirizzo IP rende visibili informazioni come la tua posizione approssimativa, il provider Internet e alcune tracce della tua…",
+      "image": null,
+      "publishedAt": "2026-05-04T06:39:15+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "La piscina è fatta per nuotare, non per passare il retino: le pulizie facciamole fare ai robot Scuba di Aiper",
       "link": "https://images.dday.it/wLzg1jiy9Q18V76N0R75QPaGCJmpCu-tmMFaXdUiRWk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57230/d46269_small_yhrthyhthtry_copia.jpg",
       "excerpt": "Con i robot di Aiper la piscina torna a essere il posto dove tuffarsi, non quello dove inseguire foglie con il retino. La gamma Scuba automatizza la pulizia della piscina con…",
       "image": "https://images.dday.it/wLzg1jiy9Q18V76N0R75QPaGCJmpCu-tmMFaXdUiRWk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57230/d46269_small_yhrthyhthtry_copia.jpg",
-      "publishedAt": "2026-05-03T01:03:04+00:00",
+      "publishedAt": "2026-05-04T01:03:05+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     },
     {
-      "title": "Inizia il processo di Elon Musk contro Sam Altman",
-      "link": "https://www.tomshw.it/business/inizia-il-processo-di-elon-musk-contro-sam-altman",
-      "excerpt": "Acquista il Pass AI WEEK -18 giorni alla AI WEEK 2026: oggi alle 23:59 aumenta il prezzo dei Pass. Inizia il processo di Elon Musk contro Sam Altman Oggi vogli...",
+      "title": "Recensione FRITZ!Box 5690 Pro, FRITZ! ha fatto jackpot",
+      "link": "https://www.tomshw.it/hardware/recensione-fritzbox-5690-pro-fritz-ha-fatto-jackpot",
+      "excerpt": "Lo so, arrivo tardi alla festa, ma visto che di recente ho avuto bisogno di gestire un problema di connessione, molto diffuso in realtà, mentre mi trovavo all’estero e il…",
       "image": null,
-      "publishedAt": "2026-05-02T10:55:04+00:00",
+      "publishedAt": "2026-05-03T21:31:02+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Sull'AI le PMI italiane devono decidere quanto in fretta reagire",
+      "link": "https://www.tomshw.it/business/sull-ai-le-pmi-italiane-devono-decidere-quanto-in-fretta-reagire",
+      "excerpt": "Le PMI italiane si confrontano con l'AI da una posizione paradossale: dispongono delle infrastrutture, dei fondi pubblici e delle competenze base per adottarla, ma il tasso di…",
+      "image": null,
+      "publishedAt": "2026-05-02T12:50:24+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "L’espansione dell’AI e la volatilità della rete spingono la domanda di trasferimento energetico",
+      "link": "https://www.tomshw.it/business/lespansione-dellai-e-la-volatilita-della-rete-spingono-la-domanda-di-trasferimento-energetico",
+      "excerpt": "Le interruzioni di energia che si sono verificate di recente in diverse aree geografiche hanno evidenziato una realtà chiara: la fragilità delle reti energetiche sta entrando in…",
+      "image": null,
+      "publishedAt": "2026-05-02T12:23:31+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -120,78 +237,6 @@
       "publishedAt": "2026-05-02T09:44:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Narwal estende la promo: Flow 2 e tutta la gamma robot a prezzo ridotto",
-      "link": "https://www.tomshw.it/altro/narwal-estende-la-promo-flow-2-e-tutta-la-gamma-robot-a-prezzo-ridotto",
-      "excerpt": "Narwal prolunga la sua promozione dedicata al nuovo Flow 2 e amplia l’iniziativa a tutta la gamma di robot per la pulizia domestica. Fino al 10 maggio, infatti, l’offerta lancio…",
-      "image": null,
-      "publishedAt": "2026-05-01T13:28:05+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Sconti assurdi su AliExpress: questa dash cam top costa poco più di 100€",
-      "link": "https://www.tomshw.it/automotive/dash-cam-70mai-4k-a810-in-offerta-70-2026-05-01",
-      "excerpt": "Su AliExpress è disponibile un'ottima offerta sulla Dash Cam 70mai 4K A810, il set completo con telecamera anteriore e posteriore, modulo 4G LTE UP04, controllo remoto, GPS e…",
-      "image": null,
-      "publishedAt": "2026-05-01T09:48:23+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il Mini PC da acquistare oggi su AliExpress (1 maggio): coupon + sconto PayPal attivi",
-      "link": "https://www.tomshw.it/hardware/mini-pc-mllse-g10-amd-ryzen-7-scontato-del-70-2026-05-01",
-      "excerpt": "Su AliExpress è disponibile un'offerta imperdibile sul Mini PC Mllse G10, equipaggiato con il potente processore AMD Ryzen 7 H255, 24GB di RAM, 1TB SSD, Wi-Fi 6, BT5.2, USB4.0 e…",
-      "image": null,
-      "publishedAt": "2026-05-01T09:42:44+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "AliExpress: ecco i coupon del 1° maggio da usare per risparmiare",
-      "link": "https://www.tomshw.it/altro/aliexpress-ecco-i-coupon-del-1-maggio-da-usare-per-risparmiare",
-      "excerpt": "Con l’arrivo del 1° maggio, la nuova ondata di sconti AliExpress è ufficialmente iniziata: i coupon esclusivi annunciati nei giorni scorsi sono ora attivi e pronti per essere…",
-      "image": null,
-      "publishedAt": "2026-05-01T09:35:32+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Solo online, il vero Sottocosto: MediaWorld rende lo shopping ancora più conveniente",
-      "link": "https://www.tomshw.it/altro/solo-online-il-vero-sottocosto-mediaworld-rende-lo-shopping-ancora-piu-conveniente",
-      "excerpt": "Il nuovo Sottocosto MediaWorld arriva con una formula pensata per rendere lo shopping online ancora più conveniente e immediato. Si tratta di una promozione disponibile…",
-      "image": null,
-      "publishedAt": "2026-05-01T09:30:17+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "NordVPN Standard: il prezzo scende a 10,61€ su Amazon (-18%)",
-      "link": "https://www.tomshw.it/hardware/nordvpn-standard-a-1061eur-su-amazon-2026-05-01",
-      "excerpt": "NordVPN Standard è un abbonamento digitale da 1 mese utilizzabile su un massimo di 10 dispositivi, pensato per proteggere la connessione, mascherare l'indirizzo IP e aggiungere…",
-      "image": null,
-      "publishedAt": "2026-05-01T09:16:42+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "DJI Neo Fly More a 259€: il 4K che entra in tasca e decolla ovunque",
-      "link": "https://www.tomshw.it/hardware/dji-neo-fly-more-a-259eur-su-amazon-2026-05-01",
-      "excerpt": "DJI Neo Combo Fly More è un drone compatto da 135 grammi pensato per riprese rapide, vlog e contenuti social senza portarsi dietro un kit ingombrante. La confezione include…",
-      "image": null,
-      "publishedAt": "2026-05-01T09:14:14+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Da top a deal: iPhone 16 128GB a 689€ su Amazon",
-      "link": "https://www.tomshw.it/smartphone/iphone-16-128gb-a-689eur-su-amazon-2026-05-01",
-      "excerpt": "Apple iPhone 16 in versione da 128GB e colore blu oltremare è uno smartphone 5G con chip A18, display Super Retina XDR da 6,1 pollici, USB-C, MagSafe e nuovo Controllo fotocamera.…",
-      "image": null,
-      "publishedAt": "2026-05-01T09:12:45+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Pro-Ject Wireless Box E, il modulo che trasforma un diffusore passivo in un monitor attivo per lo streaming",
@@ -226,51 +271,6 @@
       "excerpt": "Google porta anche in Italia le Fonti Preferite. I lettori possono scegliere i siti da vedere più spesso nelle Notizie principali. Per DDay è un modo semplice per restare visibile…",
       "image": "https://images.dday.it/AnzLvWypXoH4oRVyxcUNDzc3WAapvrExaT_zbCnIIPY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57287/c249b9_small_ChatGPT_Image_30_apr_2026__16_09_42_copia.png",
       "publishedAt": "2026-04-30T14:19:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "SSD portatile Lexar da 1 TB con set magnetico, ora in offerta su Amazon",
-      "link": "https://images.dday.it/gn0S9Q8XslNsjIAi-ArQCC3l20O7qZI8P_asI1sFQqM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/56933/bedd49_ape2.jpg",
-      "excerpt": "Scopri Lexar ES4, ora disponibile a un prezzo scontato. Con velocità di lettura fino a 1050 MB/s e compatibilità iPhone, è l'accessorio perfetto per chi cerca elevate prestazioni…",
-      "image": "https://images.dday.it/gn0S9Q8XslNsjIAi-ArQCC3l20O7qZI8P_asI1sFQqM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/56933/bedd49_ape2.jpg",
-      "publishedAt": "2026-04-30T14:09:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "ChatGPT arriva su AWS, l'esclusiva di Microsoft è finita veramente",
-      "link": "https://www.tomshw.it/business/openai-sbarca-su-aws-con-gli-agenti-gestiti-l-esclusiva-microsoft-cede-sul-piano-enterprise",
-      "excerpt": "OpenAI e AWS hanno lanciato Bedrock Managed Agents, un servizio che combina i modelli frontier OpenAI con l'infrastruttura AWS per la distribuzione di agenti AI in azienda. Sam…",
-      "image": null,
-      "publishedAt": "2026-04-30T13:40:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Windows 11, troppi errori. Nadella: “Torniamo alle basi per riconquistare gli utenti”",
-      "link": "https://images.dday.it/5KU8Jmq0zTiFC0M7DRr05T4KYGfaUd6ZRcn54RVy_IA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57286/56b2d2_w11_thumb.jpg",
-      "excerpt": "Un indiretto \"mea culpa\" da parte di Microsoft. Il CEO Satya Nadella ha sottolineato che ora il lavoro è sui fondamentali per \"riconquistare\" le persone... Leggi tutto",
-      "image": "https://images.dday.it/5KU8Jmq0zTiFC0M7DRr05T4KYGfaUd6ZRcn54RVy_IA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57286/56b2d2_w11_thumb.jpg",
-      "publishedAt": "2026-04-30T13:25:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Come funziona una memoria DRAM e perché è difficile da produrre",
-      "link": "https://images.dday.it/IOXWdeXnF5_FGjuun6t64hO4vv-6hkibrL6AWcD_TTA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57274/389005_mamorie.jpg",
-      "excerpt": "Abbiamo parlato tante volte di processori ma non abbiamo mai affrontato le memorie. Che sono sempre semiconduttori, nascono sempre da un wafer ma sono diverse sia nella struttura…",
-      "image": "https://images.dday.it/IOXWdeXnF5_FGjuun6t64hO4vv-6hkibrL6AWcD_TTA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57274/389005_mamorie.jpg",
-      "publishedAt": "2026-04-30T12:50:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Rinnovato l'accordo Sky-Warner Bros Discovery: tornano i canali in chiaro e prime visioni in esclusiva",
-      "link": "https://images.dday.it/GXwSi4H9NhUFqciH7v3JtVW0npv-shQAGEsmKOvTNpg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57283/68b78f_skywbd_thumb.jpg",
-      "excerpt": "Da oggi è scattato il nuovo accordo fra Sky e Warner. Torna anche l'applicazione di Discovery+... Leggi tutto",
-      "image": "https://images.dday.it/GXwSi4H9NhUFqciH7v3JtVW0npv-shQAGEsmKOvTNpg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57283/68b78f_skywbd_thumb.jpg",
-      "publishedAt": "2026-04-30T10:36:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
