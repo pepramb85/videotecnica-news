@@ -1,9 +1,72 @@
 {
-  "generatedAt": "2026-05-05T17:08:06.401147+00:00",
+  "generatedAt": "2026-05-05T21:40:11.669353+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Solo top di gamma \"occidentali\" nella classifica degli smartphone più venduti del mese | VIDEO",
+      "link": "https://www.hdblog.it/smartphone/speciali/n656653/smartphone-piu-venduti-aprile-2026-video/",
+      "excerpt": "Ecco i vincitori",
+      "image": "https://hd2.tudocdn.net/1340311?w=660",
+      "publishedAt": "2026-05-05T19:01:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Le auto più vendute in Italia ad aprile 2026",
+      "link": "https://www.hdmotori.it/auto-piu-vendute-italia-aprile-2026/",
+      "excerpt": "Ecco la classifica dei modelli più venduti in Italia nel mese di aprile 2026 e le classifiche per alimentazione.",
+      "image": "https://hd2.tudocdn.net/1340577?w=660",
+      "publishedAt": "2026-05-05T19:00:38+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Snap ci parla di Specs: cosa aspettarsi dagli occhiali AR in arrivo entro fine anno",
+      "link": "https://www.hdblog.it/indossabili/articoli/n657279/specs-snap-occhiali-ar-2026/",
+      "excerpt": "Intervista ad Antoine Gilbert, responsabile dell’AR Studio di Parigi di Snap",
+      "image": "https://hd2.tudocdn.net/1340518?w=660",
+      "publishedAt": "2026-05-05T19:00:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Game Pass, inizio maggio col botto: in arrivo Forza Horizon 6",
+      "link": "https://www.hdblog.it/microsoft/articoli/n657350/microsoft-xbox-game-pass-novita-maggio/",
+      "excerpt": "In arrivo anche la versione Preview di Subnautica 2.",
+      "image": "https://hd2.tudocdn.net/1340453?w=660",
+      "publishedAt": "2026-05-05T18:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Daemon Tools è stato compromesso: Kaspersky individua backdoor cinese",
+      "link": "https://www.hdblog.it/windows/articoli/n657346/daemon-tools-backdoor-hackerato-kaspersky/",
+      "excerpt": "A quanto pare ci sono già diverse migliaia di computer infetti.",
+      "image": "https://hd2.tudocdn.net/1197803?w=660",
+      "publishedAt": "2026-05-05T17:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Le \"Big AI\" acconsentono ai test di sicurezza governativi dei modelli pre-lancio",
+      "link": "https://www.hdblog.it/google/articoli/n657344/big-ai-controllo-sicurezza-modelli-governo-caisi/",
+      "excerpt": "L'obiettivo è assicurarsi che i modelli non divulghino informazioni estremamente pericolose, come la procedura per fare in casa una bomba o per hackerare un sito.",
+      "image": "https://hd2.tudocdn.net/1297209?w=660",
+      "publishedAt": "2026-05-05T17:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Microsoft reimposta i widget su Windows 11: via i feed automatici di MSN",
+      "link": "https://www.hdblog.it/windows-os/articoli/n657340/microsoft-widget-windows-11-disattivati/",
+      "excerpt": "Gli utenti avranno la possibilità di decidere quali widget visualizzare.",
+      "image": "https://hd2.tudocdn.net/1340553?w=660",
+      "publishedAt": "2026-05-05T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Mercedes G63 da 1,3 milioni livrea Al-Nassr, l'ultima follia di CR7",
       "link": "https://www.hdmotori.it/cristiano-ronaldo-mercedes-amg-g63-cabriolet/",
@@ -32,51 +95,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Volvo avvia l’integrazione di Google Gemini su oltre 2,5 milioni di auto",
-      "link": "https://www.hdmotori.it/volvo-google-gemini/",
-      "excerpt": "Gemini sostituisce Google Assistant portando a bordo tutti i vantaggi dell’intelligenza artificiale. Un nuovo di fruire la tecnologia a bordo",
-      "image": "https://hd2.tudocdn.net/1340552?w=660",
-      "publishedAt": "2026-05-05T16:30:40+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Meta analizzerà struttura ossea e altri indizi per identificare i bambini sui social",
-      "link": "https://www.hdblog.it/smartphone/articoli/n657308/meta-analisi-ai-bambini-instagram/",
-      "excerpt": "L'analisi sarà basata su AI",
-      "image": "https://hd2.tudocdn.net/1206879?w=660",
-      "publishedAt": "2026-05-05T16:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "CachyOS, la distro Linux gaming migliora ancora le prestazioni",
-      "link": "https://www.hdblog.it/games/articoli/n657336/linux-cachyos-prestazioni-python/",
-      "excerpt": "Il nuovo software riduce notevolmente l'overhead nell'esecuzione delle istruzioni a livello bytecode.",
-      "image": "https://hd2.tudocdn.net/1246331?w=660",
-      "publishedAt": "2026-05-05T16:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Solo top di gamma \"occidentali\" nella classifica degli smartphone più venduti del mese | VIDEO",
-      "link": "https://www.hdblog.it/smartphone/speciali/n656653/smartphone-piu-venduti-aprile-2026-video/",
-      "excerpt": "Ecco i vincitori",
-      "image": "https://hd2.tudocdn.net/1340311?w=660",
-      "publishedAt": "2026-05-05T16:01:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Renault 4 E-Tech Plein Sud, ed è subito Costa Azzurra: aperti gli ordini",
-      "link": "https://www.hdmotori.it/renault-4-e-tech-plein-sud/",
-      "excerpt": "Dal tetto apribile in tessuto da 92 cm alla ricarica ultra-rapida anche sotto zero: ecco la nuova versione Plein Sud di Renault 4 E-Tech",
-      "image": "https://hd2.tudocdn.net/1340550?w=660",
-      "publishedAt": "2026-05-05T16:00:08+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "NVIDIA a zero in Cina è un autogol clamoroso del governo USA",
       "link": "https://www.tomshw.it/hardware/nvidia-a-zero-in-cina-e-un-autogol-clamoroso-del-governo-usa",
       "excerpt": "Oggi, in Cina, siamo scesi a zero. Jensen Huang, CEO di NVIDIA, non ha usato mezzi termini qualche giorno fa, intervenendo al podcast Memos to the President dello Special…",
@@ -84,24 +102,6 @@
       "publishedAt": "2026-05-05T15:50:49+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "GameStop, le azioni crollano del 10% dopo l'offerta per comprare eBay",
-      "link": "https://www.hdblog.it/games/articoli/n657333/gamestop-ebay-acquisizione-proposta-crollo-azioni/",
-      "excerpt": "Il problema è che non si capisce bene da dove arriverebbero i soldi per l'acquisizione.",
-      "image": "https://hd2.tudocdn.net/961065?w=660",
-      "publishedAt": "2026-05-05T15:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Non è un paese per single: il bestseller di Felicia Kingsley su Prime Video | Clip",
-      "link": "https://www.hdblog.it/spettacolo/articoli/n601126/prime-video-bestseller-felicia-kingsley/",
-      "excerpt": "Matilde Gioli e Cristiano Caccamo protagonisti della commedia romantica tratta dal romanzo di Felicia Kingsley, in arrivo su Prime Video nel 2026.",
-      "image": "https://hd2.tudocdn.net/1213437?w=660",
-      "publishedAt": "2026-05-05T15:43:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "SSD guasto? Recuperare i dati non è impossibile",
@@ -158,20 +158,20 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Upgrade aspirapolvere: il modello che sta spopolando (ora in offerta)",
-      "link": "https://www.tomshw.it/hardware/dreame-r30-scontato-del-34-su-amazon-2026-05-05",
-      "excerpt": "Su Amazon è disponibile un'ottima offerta sul DREAME R30, l'aspirapolvere senza fili multifunzione 6 in 1 con aspirazione da 190 AW e autonomia fino a 90 minuti. Dotato di…",
+      "title": "Sotto assedio: come proteggere le infrastrutture industriali dagli attacchi moderni",
+      "link": "https://www.tomshw.it/business/sotto-assedio-come-proteggere-le-infrastrutture-industriali-dagli-attacchi-moderni",
+      "excerpt": "Evoluzione delle minacce informatiche Negli anni il comparto della cybersecurity è cresciuto in modo costante. Per le imprese che operano in ambito industriale, comprendere le…",
       "image": null,
-      "publishedAt": "2026-05-05T14:18:53+00:00",
+      "publishedAt": "2026-05-05T14:05:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Google paga 1,5 milioni per bucare Android",
-      "link": "https://www.tomshw.it/smartphone/google-android-premi-exploit",
-      "excerpt": "Google ha alzato in modo netto la posta per chi riesce a trovare e dimostrare le vulnerabilità più gravi in Android. Il nuovo tetto arriva fino a 1,5 milioni di dollari per alcune…",
+      "title": "IA e trasformazione digitale: una visione strategica",
+      "link": "https://www.tomshw.it/business/ia-e-trasformazione-digitale-una-visione-strategica",
+      "excerpt": "Da anni si discute di trasformazione digitale e molte organizzazioni già si trovano lungo questo percorso evolutivo. Nel frattempo, l’intelligenza artificiale è emersa come una…",
       "image": null,
-      "publishedAt": "2026-05-05T14:03:44+00:00",
+      "publishedAt": "2026-05-05T14:05:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
