@@ -1,116 +1,215 @@
 {
-  "generatedAt": "2026-05-08T10:54:36.330815+00:00",
+  "generatedAt": "2026-05-08T16:53:06.906010+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Huawei Mate 90: finalmente arriva il sensore di impronte ultrasonico",
-      "link": "https://www.hdblog.it/smartphone/articoli/n657714/huawei-mate-90-sensore-impronte-ultrasonico/",
-      "excerpt": "Dopo anni di sensore di impronte laterale",
-      "image": "https://hd2.tudocdn.net/1330176?w=660",
-      "publishedAt": "2026-05-08T10:50:00+00:00",
+      "title": "I nuovi modelli audio di OpenAI puntano al realismo più estremo per gli agenti vocali",
+      "link": "https://www.hdblog.it/business/articoli/n657767/nuovi-modelli-audio-openai/",
+      "excerpt": "OpenAI presenta tre nuovi modelli audio che sono già disponibili tramite API per gli sviluppatori.",
+      "image": "https://hd2.tudocdn.net/1341430?w=660",
+      "publishedAt": "2026-05-08T16:40:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Sembra Claude, ma non è: sito falso diffonde malware per installare backdoor",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n657691/sembra-claude-sito-falso-diffonde-malware-backdoor/",
-      "excerpt": "Scoperto un sito che imita quello ufficiale di Claude per diffondere malware e backdoor, quasi certamente non si tratta di un caso isolato.",
-      "image": "https://hd2.tudocdn.net/1341310?w=660",
-      "publishedAt": "2026-05-08T10:45:00+00:00",
+      "title": "Toyota Professional, al via il nuovo Programma Allestimenti",
+      "link": "https://www.hdmotori.it/toyota-professional-al-via-il-nuovo-programma-allestimenti/",
+      "excerpt": "Con 3 anni di garanzia integrata e canoni da 149 euro: l’offerta Toyota Professional che azzera i pensieri degli artigiani e delle aziende",
+      "image": "https://hd2.tudocdn.net/1341444?w=660",
+      "publishedAt": "2026-05-08T16:30:51+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Windows 11 è ancorato al passato: il codice di Windows 95 non va in pensione",
-      "link": "https://www.hdblog.it/microsoft/articoli/n657690/windows-11-codice-95/",
-      "excerpt": "Windows 11 ne ha fatti di passi in avanti, ma non dimentica le sue origini più profonde.",
-      "image": "https://hd2.tudocdn.net/1301141?w=660",
-      "publishedAt": "2026-05-08T10:40:00+00:00",
+      "title": "ASUS Gold Store, tasso zero più kasko: ROG, Zenbook e ProArt in promo fino al 1° giugno",
+      "link": "https://www.hdblog.it/portatili/offerte/n657624/asus-gold-store-tasso-zero-kasko-notebook/",
+      "excerpt": "Dal 5 maggio al 1° giugno ASUS attiva nei Gold Store una promo esclusiva che unisce finanziamento a Tasso Zero, copertura Kasko per 12 mesi e garanzia estesa a 3 anni su una…",
+      "image": "https://hd2.tudocdn.net/1341173?w=660",
+      "publishedAt": "2026-05-08T16:30:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Basta vederlo per capire: questo router è una scheggia, ora a -33%",
-      "link": "https://www.tomshw.it/hardware/tp-link-archer-ge550-wi-fi-7-gaming-in-offerta-33-2026-05-08",
-      "excerpt": "Su Amazon è disponibile un'offerta imperdibile per il TP-Link Wi-Fi 7 Archer GE550, il router gaming tri-band BE9300Mbps con 2 porte 5Gbps e 3 porte 2.5G. Perfetto per i giocatori…",
-      "image": null,
-      "publishedAt": "2026-05-08T10:38:08+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Android 17 QPR1, c'è la beta numero 2: le novità",
-      "link": "https://www.hdblog.it/google/articoli/n657712/android-17-qpr1-beta-2-disponibile-novita/",
-      "excerpt": "Google corre con Android 17!",
-      "image": "https://hd2.tudocdn.net/1333327?w=660",
-      "publishedAt": "2026-05-08T10:35:00+00:00",
+      "title": "La crisi dei chip di memoria mette in difficoltà anche l'Internet Archive",
+      "link": "https://www.hdblog.it/hardware/articoli/n657776/crisi-chip-internet-archive-wikimedia-hdd/",
+      "excerpt": "I prezzi degli hard disk meccanici, usati per l'archiviazione delle vecchie istanze del Web, è triplicato nell'ultimo periodo. E internet continua a espandersi...",
+      "image": "https://hd2.tudocdn.net/1198508?w=660",
+      "publishedAt": "2026-05-08T16:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Solo per il weekend: i 5 migliori elettrodomestici Unieuro con il massimo sconto IVA",
-      "link": "https://www.tomshw.it/altro/solo-per-il-weekend-i-5-migliori-elettrodomestici-unieuro-con-il-massimo-sconto-iva",
-      "excerpt": "Fino all’11 maggio, da Unieuro potete approfittare di una delle promozioni più interessanti del momento: il 36% di sconto direttamente nel carrello sugli elettrodomestici, con una…",
-      "image": null,
-      "publishedAt": "2026-05-08T10:34:21+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "La MG 4X debutta con le batterie allo stato semi-solido",
-      "link": "https://www.hdmotori.it/mg-4x-batterie-allo-stato-semi-solido/",
-      "excerpt": "Il primo SUV elettrico MG con batterie allo stato semi-solido promette di offrire comfort e sicurezza con una efficienza da sogno",
-      "image": "https://hd2.tudocdn.net/1341347?w=660",
-      "publishedAt": "2026-05-08T10:30:18+00:00",
+      "title": "Ho provato OPPO Find X9 Ultra in Cina tra skyline e panda | VIDEO",
+      "link": "https://www.hdblog.it/smartphone/speciali/n657434/oppo-find-x9-ultra-test-viaggio-foto-video/",
+      "excerpt": "Abbiamo provato le fotocamere di OPPO Find X9 Ultra in giro per Chengdu e Chongqing. Probabilmente è il miglior top di gamma come completezza per le fotocamere. Ci ha convinto?",
+      "image": "https://hd2.tudocdn.net/1341323?w=660",
+      "publishedAt": "2026-05-08T16:01:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "TCL stupisce con la TV LCD più grande del mondo: ben 130 pollici",
-      "link": "https://www.hdblog.it/tv/articoli/n657705/tcl-schermi-novita-tv-display/",
-      "excerpt": "TCL CSOT ha presentato alla SID Display Week 2026 il più grande pannello LCD per TV al mondo: 130 pollici con profilo ultra sottile da 29,8 mm",
-      "image": "https://hd2.tudocdn.net/1341330?w=660",
-      "publishedAt": "2026-05-08T10:15:00+00:00",
+      "title": "BMW non tradisce le sue origini: salvi i mitici 6 cilindri delle M",
+      "link": "https://www.hdmotori.it/bmw-motori-6-cilindri-serie-m/",
+      "excerpt": "La nuova offensiva BMW con le serie M offrirà ai clienti un divertimento che promette più efficienza senza modificare potenza e cilindrata",
+      "image": "https://hd2.tudocdn.net/1341438?w=660",
+      "publishedAt": "2026-05-08T16:00:20+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Videocamere e videocitofoni Ring in sconto su Amazon: approfittane subito!",
-      "link": "https://images.dday.it/AXd8FXDQ5inorjrf0pj4vuVNJrIRfOFxmHKcfCX0l4o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57347/ac042a_ape2.jpg",
-      "excerpt": "Su Amazon sono ora attive offerte su videocamere e videocitofoni Ring, con funzioni come video in alta definizione, notifiche di movimento, audio bidirezionale e integrazione con…",
-      "image": "https://images.dday.it/AXd8FXDQ5inorjrf0pj4vuVNJrIRfOFxmHKcfCX0l4o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57347/ac042a_ape2.jpg",
-      "publishedAt": "2026-05-08T10:14:00+00:00",
+      "title": "OnePlus sta riducendo drasticamente il supporto software dei suoi smartphone?",
+      "link": "https://www.hdblog.it/smartphone/articoli/n657772/oneplus-nord-ce-6-supporto-software-major-patch/",
+      "excerpt": "A quanto pare il recentissimo Nord CE6 riceverà solo 2 major e 4 anni di patch, a differenza della formula 4+6 del diretto predecessore CE5. E il marketing della società è anche…",
+      "image": "https://hd2.tudocdn.net/790038?w=660",
+      "publishedAt": "2026-05-08T15:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Kia Sportage TriFuel al debutto: ecco le prime impressioni al volante - Video",
+      "link": "https://www.hdmotori.it/prove/kia-sportage-trifuel-primo-contatto-su-strada/",
+      "excerpt": "Abbiamo provato la nuova Kia Sportage nella motorizzazione TriFuel che abbina al Full Hybrid benzina l'alimentazione a GPL",
+      "image": "https://hd2.tudocdn.net/1341433?w=660",
+      "publishedAt": "2026-05-08T15:30:04+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Mouse caldi alle 19.00 di questa sera: Valve aprirà le prenotazioni dello Steam Controller andato a ruba",
+      "link": "https://images.dday.it/71Hu0f2LayOJtE3d6RW0Ihzk0kZFpvNLgsduGPJunF4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57351/06ccd8_small_Screenshot_2026-05-08_alle_17.24.20_copia.png",
+      "excerpt": "Il 4 maggio il nuovo controller è andato esaurito in 30 minuti. Non sappiamo quali quantità fossero a disposizione ma i dannosi scalper hanno aiutato il rapido esaurimento delle…",
+      "image": "https://images.dday.it/71Hu0f2LayOJtE3d6RW0Ihzk0kZFpvNLgsduGPJunF4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57351/06ccd8_small_Screenshot_2026-05-08_alle_17.24.20_copia.png",
+      "publishedAt": "2026-05-08T15:26:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     },
     {
-      "title": "Nintendo aumenta il prezzo di Switch 2 da settembre: è ufficiale",
-      "link": "https://www.hdblog.it/nintendo/articoli/n657701/nintendo-aumento-prezzo-switch-2-ufficiale/",
-      "excerpt": "Intanto Switch 2 raggiunge quota 19,86 milioni di unità vendute in un anno",
-      "image": "https://hd2.tudocdn.net/1266532?w=660",
-      "publishedAt": "2026-05-08T10:10:00+00:00",
+      "title": "Offerta Amazon sullo spazzolino elettrico Philips Sonicare: mai così conveniente",
+      "link": "https://images.dday.it/sFM92Z7paGdHi3qNS2Szz56NKoGYFSuTqZhholz0ikY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57350/719b3d_ape2.jpg",
+      "excerpt": "Scopri lo spazzolino elettrico Philips Sonicare Serie 4100, ora disponibile in sconto su Amazon: tecnologia sonica, design ergonomico e funzioni dedicate all’igiene orale…",
+      "image": "https://images.dday.it/sFM92Z7paGdHi3qNS2Szz56NKoGYFSuTqZhholz0ikY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57350/719b3d_ape2.jpg",
+      "publishedAt": "2026-05-08T15:24:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Galaxy S26 a 829€ con Galaxy Tab in regalo: minimo storico su Amazon",
+      "link": "https://www.hdblog.it/smartphone/offerte/n657765/samsung-galaxy-s26-tab-s10-fe-gratis/",
+      "excerpt": "Il Samsung Galaxy S26 256GB scende a 829€ su Amazon, 200€ in meno del listino. In più Samsung regala un Galaxy Tab S10 FE 5G con tastiera. Promo valida fino al 31 maggio.",
+      "image": "https://hd2.tudocdn.net/1336665?w=660",
+      "publishedAt": "2026-05-08T15:15:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Dall’AI generativa all’agentic AI: la trasformazione delle aziende, automotive e non solo",
-      "link": "https://www.hdmotori.it/ai-generativa-agentic-ai-trasformazione-aziende/",
-      "excerpt": "Dall’intelligenza artificiale come strumento di supporto all’autonomia dei \"colleghi digitali\". Al summit 2026 di EOS Solutions abbiamo dato uno sguardo al futuro dei processi...",
-      "image": "https://hd2.tudocdn.net/1341341?w=660",
-      "publishedAt": "2026-05-08T10:00:25+00:00",
+      "title": "WWE Backlash arriva su Netflix: sfida tra Reigns e Jacob Fatu",
+      "link": "https://www.hdblog.it/curiosita/articoli/n657750/wwe-backlash-netflix-reigns-fatu/",
+      "excerpt": "Backlash va in onda su Netflix con Roman Reigns che difende il titolo contro Jacob Fatu da Tampa.",
+      "image": "https://hd2.tudocdn.net/1341400?w=660",
+      "publishedAt": "2026-05-08T15:15:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Addio HBO Max su milioni di Fire TV: ecco i modelli che perdono l'app",
-      "link": "https://www.hdblog.it/tv/articoli/n657687/fire-tv-amazon-hbo-max-app-os-compatibilita/",
-      "excerpt": "Dipende tutto dalla versione del sistema operativo installato.",
-      "image": "https://hd2.tudocdn.net/1341335?w=660",
-      "publishedAt": "2026-05-08T09:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Il prezzo della dipendenza tecnologica. Quando il fornitore diventa infrastruttura.",
+      "link": "https://www.tomshw.it/business/il-prezzo-della-dipendenza-tecnologica-vendor-lock-in-2026-05-08",
+      "excerpt": "Nel panorama dell’Information Technology, la stabilità è spesso una promessa seducente. Un unico vendor, una roadmap chiara, un contratto pluriennale, un supporto centralizzato,…",
+      "image": null,
+      "publishedAt": "2026-05-08T14:55:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Galaxy S26 al prezzo più basso su Amazon: in omaggio anche il tablet",
+      "link": "https://www.tomshw.it/smartphone/samsung-galaxy-s26-in-offerta-a-soli-829eur-su-amazon-2026-05-08",
+      "excerpt": "Su Amazon è disponibile una straordinaria offerta sul Samsung Galaxy S26, lo smartphone AI da 256GB con fotocamera da 50 MP, batteria da 4300 mAh e resistenza IP68. Grazie a un…",
+      "image": null,
+      "publishedAt": "2026-05-08T14:54:36+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Sony compie 80 anni con sempre più entertainment e meno elettronica di consumo",
+      "link": "https://images.dday.it/aAY7JJepHUI1SQFG0e3G9XUI1g_uHC-dh_gj2J2kKm0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57348/5dd8ce_Sony_2.jpg",
+      "excerpt": "Sony fa il punto sulla propria strategia aziendale che prosegue nello spostamento del focus del business del gruppo verso l'intrattenimento e la creazione di contenuti: cinema,…",
+      "image": "https://images.dday.it/aAY7JJepHUI1SQFG0e3G9XUI1g_uHC-dh_gj2J2kKm0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57348/5dd8ce_Sony_2.jpg",
+      "publishedAt": "2026-05-08T14:18:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Slate Auto in crisi: Bezos si sfila nel momento peggiore",
+      "link": "https://www.tomshw.it/automotive/slate-auto-bezos-board-uscita-momento-chiave",
+      "excerpt": "Slate Auto perde il collegamento più diretto con Jeff Bezos nel proprio consiglio di amministrazione. Secondo documenti societari esaminati da TechCrunch, Melinda Lewison,…",
+      "image": null,
+      "publishedAt": "2026-05-08T14:16:38+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Windows 11 si regge ancora su una tecnologia nata negli anni ’90",
+      "link": "https://www.tomshw.it/hardware/windows-11-win32-anni-novanta",
+      "excerpt": "Windows 11 continua a poggiare su fondamenta molto più vecchie della sua interfaccia. Mark Russinovich, CTO di Microsoft Azure e figura storica dell'ecosistema Windows, ha…",
+      "image": null,
+      "publishedAt": "2026-05-08T14:10:08+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "DeepMind userà EVE Online per addestrare l’IA del futuro",
+      "link": "https://www.tomshw.it/hardware/deepmind-eve-online-ia",
+      "excerpt": "Google DeepMind ha trovato un nuovo laboratorio per studiare l'intelligenza artificiale: l'universo di EVE Online. Il gioco, noto per economia interna, alleanze, guerre, logistica…",
+      "image": null,
+      "publishedAt": "2026-05-08T14:05:11+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "One UI 8.5 arriva sui Galaxy: Samsung accelera sull’IA",
+      "link": "https://www.tomshw.it/smartphone/one-ui-85-galaxy-rollout",
+      "excerpt": "Samsung ha avviato una nuova fase del rollout stabile di One UI 8.5. L'aggiornamento sta raggiungendo i beta tester di Galaxy S25 FE, Galaxy Z Fold 7 e Galaxy Z Flip 7, dopo il…",
+      "image": null,
+      "publishedAt": "2026-05-08T14:04:46+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Quel milione di token è un miraggio, l'AI è ancora smemorata",
+      "link": "https://www.tomshw.it/business/agenti-ai-memoria-knowledge-graph-context-window-2026-05-08",
+      "excerpt": "I large language model sono stateless per design. Ogni chiamata API parte da zero, il context window iniettato a inizio sessione è tutto quello che l'agente sa di te, del tuo…",
+      "image": null,
+      "publishedAt": "2026-05-08T13:15:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Skill.md, il nuovo formato che dà cervello agli agenti AI e una superficie d'attacco",
+      "link": "https://www.tomshw.it/business/skill-md-formato-aperto-agenti-ai-superficie-attacco",
+      "excerpt": "Standard aperto adottato da Claude Code e OpenAI Codex. È un file con codice eseguibile e accesso al sistema: nuova categoria di rischio supply chain. I large language model…",
+      "image": null,
+      "publishedAt": "2026-05-08T13:15:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori condizionatori portatili (maggio 2026)",
+      "link": "https://www.tomshw.it/offerte/migliori-condizionatori-portatili",
+      "excerpt": "Optare per un eccellente climatizzatore rappresenta senza dubbio il modo migliore per mantenere la propria casa fresca durante l'ardente periodo estivo. Ci rendiamo conto, però,…",
+      "image": null,
+      "publishedAt": "2026-05-08T11:29:27+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori fotocamere istantanee (maggio 2026)",
+      "link": "https://www.tomshw.it/altro/migliori-macchine-fotografiche-istantanee",
+      "excerpt": "Le macchine fotografiche istantanee sono un affascinante ritorno al passato. Diventate iconiche negli anni '90, sono ancora molto apprezzate oggi, grazie a innovazioni che le…",
+      "image": null,
+      "publishedAt": "2026-05-08T11:25:51+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Anthropic ha trovato un modo per trasformare i “pensieri” di Claude in testo",
@@ -122,76 +221,13 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Steam Controller, Valve annuncia le misure anti speculatori",
-      "link": "https://www.hdblog.it/hardware/articoli/n657704/valve-steam-controller-prenotazioni-code-bagarini/",
-      "excerpt": "Al via stasera un sistema di prenotazioni e coda per soli account Steam genuini.",
-      "image": "https://hd2.tudocdn.net/1335592?w=660",
+      "title": "AirPods Pro 3 in offerta a 199 euro. Non sono mai costate così poco su Amazon",
+      "link": "https://images.dday.it/b14j9PTA2vFEcBk9b59gyZHTmdPs8TdhpUzOifO7jMY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/55797/d660d8_airpods_thumb.jpg",
+      "excerpt": "Un'offerta interessante per chi deve aggiornare le sue AirPods e stava aspettando l'occasione giusta... Leggi tutto",
+      "image": "https://images.dday.it/b14j9PTA2vFEcBk9b59gyZHTmdPs8TdhpUzOifO7jMY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/55797/d660d8_airpods_thumb.jpg",
       "publishedAt": "2026-05-08T09:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Acquistare 12 TB oggi sembra impossibile? Amazon ha uno sconto che potrebbe sorprenderti",
-      "link": "https://www.tomshw.it/hardware/wd-elements-12tb-in-offerta-su-amazon-a-soli-285eur-2026-05-08",
-      "excerpt": "Su Amazon è disponibile un'ottima offerta sull'WD Elements Hard Disk Esterno da 12 TB, perfetto per espandere lo spazio di archiviazione del vostro desktop e conservare foto,…",
-      "image": null,
-      "publishedAt": "2026-05-08T09:43:33+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "NordVPN Base 1 anno al -40%: privacy online per 10 dispositivi a 29,99€",
-      "link": "https://www.tomshw.it/hardware/nordvpn-base-1-anno-2999",
-      "excerpt": "NordVPN Base da 1 anno in codice digitale è disponibile su Amazon a 29,99€ invece di 49,99€, con uno sconto del 40%. L'offerta riguarda il piano Base per 10 dispositivi, quindi…",
-      "image": null,
-      "publishedAt": "2026-05-08T09:40:11+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Forza Horizon 5 a metà prezzo: il codice Xbox e PC scende a 34,99€",
-      "link": "https://www.tomshw.it/videogioco/forza-horizon-5-xbox-pc-3499",
-      "excerpt": "Forza Horizon 5 Standard in codice download per Xbox e Windows scende a 34,99€ su Amazon, rispetto ai 70,56€ indicati, con uno sconto del 50%. È un prezzo interessante perché p...",
-      "image": null,
-      "publishedAt": "2026-05-08T09:36:38+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "EA Sports FC 25 per PS5 a 16,79€: il calcio costa quasi la metà",
-      "link": "https://www.tomshw.it/videogioco/ea-sports-fc-25-ps5-1679",
-      "excerpt": "EA Sports FC 25 Standard Edition per PS5 scende a un prezzo molto aggressivo su Amazon: 16,79€ invece di 29,99€, con uno sconto del 44%. Per un capitolo calcistico ancora attuale,…",
-      "image": null,
-      "publishedAt": "2026-05-08T09:35:05+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Recensione Invincible VS: brutale, tecnico ma incompleto",
-      "link": "https://www.tomshw.it/videogioco/recensione-invincible-vs-brutale-tecnico-ma-incompleto",
-      "excerpt": "Per anni i tag fighter sono sembrati una specie di sottogenere in via d’estinzione. Certo, Dragon Ball FighterZ ha dimostrato che esiste ancora un pubblico enorme disposto a…",
-      "image": null,
-      "publishedAt": "2026-05-08T09:33:10+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Xiaomi TV F 32 con Fire TV a 129€: smart TV compatta in offerta",
-      "link": "https://www.tomshw.it/hardware/xiaomi-tv-f-32-fire-tv-129",
-      "excerpt": "La Xiaomi TV F 32 è una smart TV da 32 pollici pensata per chi vuole un secondo schermo compatto, economico e già pronto per lo streaming. Su Amazon costa 129€ invece di 149€,...",
-      "image": null,
-      "publishedAt": "2026-05-08T09:31:41+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Lavasciuga LG AI da 9/6 kg: il calo di prezzo che fa girare il cestello",
-      "link": "https://www.tomshw.it/altro/lg-ai-dd-d4r3009nswb-lavasciuga-50995",
-      "excerpt": "La LG AI DD D4R3009NSWB è una lavasciuga da 9 kg in lavaggio e 6 kg in asciugatura che oggi scende a un prezzo molto più interessante su Amazon. Costa 509,95€ invece di 649€, c...",
-      "image": null,
-      "publishedAt": "2026-05-08T09:28:30+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Ecco i prezzi della gamma 2026 di TV Samsung: il Micro RGB parte da 1799 euro. Fino al 17 maggio c'è il cashback",
@@ -199,6 +235,15 @@
       "excerpt": "Samsung ha annunciato i prezzi dei nuovi modelli di TV per il 2026 compresa la nuova gamma di televisori in tecnologia micro RGB e i nuovi modelli OLED. Fino al 17 maggio,…",
       "image": "https://images.dday.it/gH0vh0x-COYwoXsgGu1ZJjdrxRYYF2A8P42IHwOsBDo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57259/901b22_Samsung_1.jpg",
       "publishedAt": "2026-05-08T09:23:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Nilox X8 Pro in offerta su Amazon: la bici elettrica pieghevole che cercavi",
+      "link": "https://images.dday.it/VkKrCxdN9AN6-J3qzdYJQxyMUEPioNDubLCjNweSgC0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57349/39d7ee_ape2.jpg",
+      "excerpt": "La Nilox X8 Pro è in offerta su Amazon: una bici elettrica pieghevole pensata per la città, comoda da trasportare e adatta anche agli spostamenti nel tempo libero. Scopri subito…",
+      "image": "https://images.dday.it/VkKrCxdN9AN6-J3qzdYJQxyMUEPioNDubLCjNweSgC0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57349/39d7ee_ape2.jpg",
+      "publishedAt": "2026-05-08T09:05:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     },
@@ -226,51 +271,6 @@
       "excerpt": "È il primo risultato dell'estensione della collaborazione Stellantis-Leapmotor... Leggi tutto",
       "image": "https://images.dday.it/WeurylJ-0CfdxmzyRTVBxMzKyeC7adPNp47uWul3y3k/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57344/0d48f6_OpelannuncialintenzionediprodurreunnuovoC-SUVinEuropaprimomodellodellapartnershipampliataprevistaconLeapmotor.jpg",
       "publishedAt": "2026-05-08T07:48:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Google a tutto fitness con il nuovo braccialetto Fitbit Air che userà Gemini come coach",
-      "link": "https://images.dday.it/erx4OAxK-qd-M4-BHlprs7giLQIpNrxQdBC786POYvA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57342/77ad19_small_Lavender_Dance_copia.png",
-      "excerpt": "È un fitness tracker senza schermo che può essere usato anche senza abbonamento, ma che dà il meglio di sé con una sottoscrizione da 8,99 euro al mese e con Gemini come personal…",
-      "image": "https://images.dday.it/erx4OAxK-qd-M4-BHlprs7giLQIpNrxQdBC786POYvA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57342/77ad19_small_Lavender_Dance_copia.png",
-      "publishedAt": "2026-05-08T07:25:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migliori stampanti laser economiche (maggio 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-stampanti-economiche-laser-multifunzione",
-      "excerpt": "Al giorno d'oggi, le stampanti laser economiche si confermano come una delle soluzioni più richieste da utenti privati, studenti e piccoli uffici che necessitano di una stampa…",
-      "image": null,
-      "publishedAt": "2026-05-08T06:30:23+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "HUAWEI Watch Fit 5: leggero e completo. E per la Festa della Mamma c'è uno sconto speciale",
-      "link": "https://images.dday.it/0DYxj75dyedQ1OvQKgIdAFUScYGjtIM_GmqIRbS7VIc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57295/e70645_ape2.jpg",
-      "excerpt": "Uno smartwatch accessibile, completo e con una lunga autonomia. Cos'altro si può chiedere per la Festa della Mamma?... Leggi tutto",
-      "image": "https://images.dday.it/0DYxj75dyedQ1OvQKgIdAFUScYGjtIM_GmqIRbS7VIc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57295/e70645_ape2.jpg",
-      "publishedAt": "2026-05-08T06:00:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "La Formula 1 resta su Sky fino al 2032: rinnovato l’accordo per i diritti TV esclusivi in Italia",
-      "link": "https://images.dday.it/wAIN9H21M2cUV6pa086tfuTseH7uhvI9Yl2Ze6boGyc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57340/07ff3c_f1_thumb.jpg",
-      "excerpt": "Il rinnovo vale anche per Irlanda e Regno Unito e comprende anche Formula 2, Formula 3, Porsche Supercup e F1 Academy... Leggi tutto",
-      "image": "https://images.dday.it/wAIN9H21M2cUV6pa086tfuTseH7uhvI9Yl2Ze6boGyc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57340/07ff3c_f1_thumb.jpg",
-      "publishedAt": "2026-05-07T14:03:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Samsung non venderà più elettrodomestici e TV in Cina",
-      "link": "https://images.dday.it/DR_-7fOaxMh0GXqvyhoKMHrxtaMzDF3xYIcS2MXNVfI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57339/386178_Samsung_2.jpg",
-      "excerpt": "Samsung Electronics ha deciso di ritirarsi dal mercato cinese, almeno per quanto riguarda i settori degli elettrodomestici e dei TV. Rimarrà per il momento presente con gli…",
-      "image": "https://images.dday.it/DR_-7fOaxMh0GXqvyhoKMHrxtaMzDF3xYIcS2MXNVfI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57339/386178_Samsung_2.jpg",
-      "publishedAt": "2026-05-07T13:16:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
