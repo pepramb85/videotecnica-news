@@ -1,15 +1,96 @@
 {
-  "generatedAt": "2026-05-09T06:27:35.326744+00:00",
+  "generatedAt": "2026-05-09T11:13:27.496702+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Meta punta sui robot umanoidi con intelligenza agentica",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n657106/meta-robot-umanoidi-ai--agentica/",
-      "excerpt": "Ecco come si muove Meta in tema di Robotica",
-      "image": "https://hd2.tudocdn.net/1340161?w=660",
-      "publishedAt": "2026-05-09T06:25:00+00:00",
+      "title": "Tappy è il telecomando wireless di Boox per sfogliare gli eBook",
+      "link": "https://www.hdblog.it/tablet/articoli/n657782/boox-tappy-telecomando-wireless-sfogliare-ebook/",
+      "excerpt": "Tappy è compatibile con tutti i dispositivi Android.",
+      "image": "https://hd2.tudocdn.net/1341451?w=660",
+      "publishedAt": "2026-05-09T10:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Vinted, chi vende deve stare attento a questa nuova truffa",
+      "link": "https://www.hdblog.it/smartphone/articoli/n657740/vinted-venditori-attenti-truffa-ai/",
+      "excerpt": "AI sfruttata per ricevere rimborsi illeciti",
+      "image": "https://hd2.tudocdn.net/1341464?w=660",
+      "publishedAt": "2026-05-09T10:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La revisione auto potrebbe cambiare, l'UE ipotizza test più numerosi e severi",
+      "link": "https://www.hdmotori.it/revisione-auto-bozza-ue/",
+      "excerpt": "Revisioni valide in tutta l'Unione e lotta dura ai contachilometri schilometrati: le novità della bozza UE per proteggere i consumatori",
+      "image": "https://hd2.tudocdn.net/1341494?w=660",
+      "publishedAt": "2026-05-09T10:00:41+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Simulazioni spaziali 100 volte più veloci con la nuova Physics AI",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n657667/physics-ai-simulazioni-spazio-northrop-grumman/",
+      "excerpt": "La Physics AI di Flexcompute e Northrop Grumman accelera le simulazioni spaziali di 100 volte.",
+      "image": "https://hd2.tudocdn.net/1341260?w=660",
+      "publishedAt": "2026-05-09T09:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Hyundai sviluppa il telaio body-on-frame per l'off-road elettrico",
+      "link": "https://www.hdmotori.it/hyundai-telaio-body-on-frame-off-road-elettrico/",
+      "excerpt": "Svelato da un brevetto, il nuovo layout della batteria offrirà robustezza e prestazioni senza precedenti su un inedito pick-up del marchio.",
+      "image": "https://hd2.tudocdn.net/1341492?w=660",
+      "publishedAt": "2026-05-09T09:00:20+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Tablet a mano di 200€ su Amazon? Questo Xiaomi è il modello giusto",
+      "link": "https://www.hdblog.it/tablet/offerte/n657809/tablet-xioami-offerta-amazon-200-euro-mag26/",
+      "excerpt": "Lo Xiaomi Redi Pad 2 è in offerta su Amazon e ora costa meno di 200 euro: per tanti è un best buy.",
+      "image": "https://hd2.tudocdn.net/1317035?w=660",
+      "publishedAt": "2026-05-09T08:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Prime Video come TikTok: ecco i video verticali per scoprire film e serie",
+      "link": "https://www.hdblog.it/amazon/articoli/n657800/prime-video-clips-verticali/",
+      "excerpt": "Prime Video introduce Clips, un feed di video verticali per trovare nuovi contenuti da vedere.",
+      "image": "https://hd2.tudocdn.net/1341484?w=660",
+      "publishedAt": "2026-05-09T08:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "iPhone 17 (256 GB) cala di prezzo: è sempre più il best buy della gamma Apple",
+      "link": "https://www.hdblog.it/smartphone/offerte/n657805/iphone-17-256-gb-offerta-maggio-2026-769e/",
+      "excerpt": "iPhone 17 da 256 GB è in offerta e ora costa 769 euro, diventando un vero e proprio best buy per tutti.",
+      "image": "https://hd2.tudocdn.net/1333371?w=660",
+      "publishedAt": "2026-05-09T08:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nuova batosta per il DOGE di Musk: tagli alle sovvenzioni incostituzionali",
+      "link": "https://www.hdblog.it/mercato/articoli/n657798/elon-musk-doge-ai-incostituzionale-sovvenzioni/",
+      "excerpt": "Il \"dipartimento\" usava ChatGPT per stabilire se i progetti sovvenzionati facevano parte di iniziative DEI; se sì, addio sovvenzioni. Niente controlli, niente verifiche.",
+      "image": "https://hd2.tudocdn.net/1264998?w=660",
+      "publishedAt": "2026-05-09T08:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La Classe G si veste di azzurro: Mansory crea la versione più disturbante di sempre",
+      "link": "https://www.hdmotori.it/mercedes-classe-g-cabrio-mansory/",
+      "excerpt": "Persino gli appassionati delle varianti più assurde della Mercedes Classe G rimarranno a bocca aperta. Scopriamo l’ultima opera di Mansory",
+      "image": "https://hd2.tudocdn.net/1341488?w=660",
+      "publishedAt": "2026-05-09T08:00:28+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -21,87 +102,6 @@
       "publishedAt": "2026-05-09T01:03:04+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Ho provato OPPO Find X9 Ultra in Cina tra skyline e panda | VIDEO",
-      "link": "https://www.hdblog.it/smartphone/speciali/n657434/oppo-find-x9-ultra-test-viaggio-foto-video/",
-      "excerpt": "Abbiamo provato le fotocamere di OPPO Find X9 Ultra in giro per Chengdu e Chongqing. Probabilmente è il miglior top di gamma come completezza per le fotocamere. Ci ha convinto?",
-      "image": "https://hd2.tudocdn.net/1341323?w=660",
-      "publishedAt": "2026-05-08T18:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Crisi dei chip, Samsung alle prese anche con le proteste dei lavoratori",
-      "link": "https://www.hdblog.it/hardware/articoli/n657796/crisi-memorie-samsung-proteste-lavoratori-scioperi/",
-      "excerpt": "I dipendenti cercano condizioni economiche migliori e minacciano di incrociare le braccia per 18 giorni. In un mercato già incredibilmente sotto pressione potrebbe costare…",
-      "image": "https://hd2.tudocdn.net/1341472?w=660",
-      "publishedAt": "2026-05-08T18:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Google Meet migliora le riunioni affollate: chi arriva tardi non sarà più escluso",
-      "link": "https://www.hdblog.it/google/articoli/n657789/google-meet-live-stream-riunioni-adaptive-come/",
-      "excerpt": "Tutto grazie alla nuova modalità live stream: come funziona.",
-      "image": "https://hd2.tudocdn.net/1341467?w=660",
-      "publishedAt": "2026-05-08T17:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "AI nei videogiochi? Per Sony è uno strumento molto potente",
-      "link": "https://www.hdblog.it/sony/articoli/n657791/sony-ai-giochi-playstation-strumento-utile/",
-      "excerpt": "Ma, ci tiene a precisare, il talento umano è ancora insostituibile.",
-      "image": "https://hd2.tudocdn.net/1308368?w=660",
-      "publishedAt": "2026-05-08T17:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Gigabyte lancia una RTX 5090 incredibile: doppio flow-through, overclock massiccio",
-      "link": "https://www.hdblog.it/hardware/articoli/n657788/gigabyte-aorus-rtx-5090-infinity-specifiche-novita/",
-      "excerpt": "Un PCB in stile Founders Edition ancora più estremo ed efficace.",
-      "image": "https://hd2.tudocdn.net/1341459?w=660",
-      "publishedAt": "2026-05-08T17:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Xiaomi OmniVoice: AI di sintesi vocale super potente libera e open-source",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n657783/xiaomi-ai-modello-omnivoice-open-source/",
-      "excerpt": "Può creare sintesi vocali di qualità anche con meno di 10 ore di materiale sorgente. OK, chi si mette a provare con il Dothraki?",
-      "image": "https://hd2.tudocdn.net/1341452?w=660",
-      "publishedAt": "2026-05-08T17:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Addio elettrolisi: il nuovo pannello crea idrogeno senza corrente",
-      "link": "https://www.hdblog.it/green/articoli/n657664/pannelli-idrogeno-solare-photreon/",
-      "excerpt": "Photreon presenta pannelli che estraggono idrogeno dall'acqua usando solo la luce solare diretta.",
-      "image": "https://hd2.tudocdn.net/1341257?w=660",
-      "publishedAt": "2026-05-08T16:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "I nuovi modelli audio di OpenAI puntano al realismo più estremo per gli agenti vocali",
-      "link": "https://www.hdblog.it/business/articoli/n657767/nuovi-modelli-audio-openai/",
-      "excerpt": "OpenAI presenta tre nuovi modelli audio che sono già disponibili tramite API per gli sviluppatori.",
-      "image": "https://hd2.tudocdn.net/1341430?w=660",
-      "publishedAt": "2026-05-08T16:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Toyota Professional, al via il nuovo Programma Allestimenti",
-      "link": "https://www.hdmotori.it/toyota-professional-al-via-il-nuovo-programma-allestimenti/",
-      "excerpt": "Con 3 anni di garanzia integrata e canoni da 149 euro: l’offerta Toyota Professional che azzera i pensieri degli artigiani e delle aziende",
-      "image": "https://hd2.tudocdn.net/1341444?w=660",
-      "publishedAt": "2026-05-08T16:30:51+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Mouse caldi alle 19.00 di questa sera: Valve aprirà le prenotazioni dello Steam Controller andato a ruba",
@@ -167,20 +167,20 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "DeepMind userà EVE Online per addestrare l’IA del futuro",
-      "link": "https://www.tomshw.it/hardware/deepmind-eve-online-ia",
-      "excerpt": "Google DeepMind ha trovato un nuovo laboratorio per studiare l'intelligenza artificiale: l'universo di EVE Online. Il gioco, noto per economia interna, alleanze, guerre, logistica…",
+      "title": "Quanto potresti risparmiare con ENGIE? Simulalo e scopri il prezzo fisso",
+      "link": "https://www.tomshw.it/altro/quanto-potresti-risparmiare-con-engie-simulalo-e-scopri-il-prezzo-fisso",
+      "excerpt": "In un contesto in cui i costi dell’energia possono variare in modo significativo, valutare con attenzione la propria offerta di luce e gas diventa sempre più importante. Per chi…",
       "image": null,
-      "publishedAt": "2026-05-08T14:05:11+00:00",
+      "publishedAt": "2026-05-08T14:07:51+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "One UI 8.5 arriva sui Galaxy: Samsung accelera sull’IA",
-      "link": "https://www.tomshw.it/smartphone/one-ui-85-galaxy-rollout",
-      "excerpt": "Samsung ha avviato una nuova fase del rollout stabile di One UI 8.5. L'aggiornamento sta raggiungendo i beta tester di Galaxy S25 FE, Galaxy Z Fold 7 e Galaxy Z Flip 7, dopo il…",
+      "title": "Le offerte energia deludono spesso. Con OCTOPUS hai un prezzo fisso e zero sorprese",
+      "link": "https://www.tomshw.it/altro/le-offerte-energia-deludono-spesso-con-octopus-hai-un-prezzo-fisso-e-zero-sorprese",
+      "excerpt": "Le offerte nel settore dell’energia vengono spesso percepite come poco chiare, variabili e, in molti casi, deludenti per chi cerca stabilità nei costi domestici. In un mercato in…",
       "image": null,
-      "publishedAt": "2026-05-08T14:04:46+00:00",
+      "publishedAt": "2026-05-08T13:59:47+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
