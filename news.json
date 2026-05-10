@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-05-10T19:46:06.618836+00:00",
+  "generatedAt": "2026-05-10T22:29:32.392540+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Kia Sportage Tri-Fuel: ibrido e GPL per risparmiare",
+      "link": "https://www.tomshw.it/automotive/kia-sportage-tri-fuel-ibrido-e-gpl-per-risparmiare",
+      "excerpt": "La Kia Sportage Tri-Fuel mantiene il design grintoso e personale che la caratterizza, con le caratteristiche luci a LED a forma di 7 e, nell'allestimento Black Edition, dettagli…",
+      "image": null,
+      "publishedAt": "2026-05-10T20:26:30+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "Recensione Kiln, un multiplayer fuori di testa",
       "link": "https://www.tomshw.it/videogioco/recensione-kiln-un-multiplayer-fuori-di-testa",
@@ -188,15 +197,6 @@
       "title": "Quel milione di token è un miraggio, l'AI è ancora smemorata",
       "link": "https://www.tomshw.it/business/agenti-ai-memoria-knowledge-graph-context-window-2026-05-08",
       "excerpt": "I large language model sono stateless per design. Ogni chiamata API parte da zero, il context window iniettato a inizio sessione è tutto quello che l'agente sa di te, del tuo…",
-      "image": null,
-      "publishedAt": "2026-05-08T13:15:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Skill.md, il nuovo formato che dà cervello agli agenti AI e una superficie d'attacco",
-      "link": "https://www.tomshw.it/business/skill-md-formato-aperto-agenti-ai-superficie-attacco",
-      "excerpt": "Standard aperto adottato da Claude Code e OpenAI Codex. È un file con codice eseguibile e accesso al sistema: nuova categoria di rischio supply chain. I large language model…",
       "image": null,
       "publishedAt": "2026-05-08T13:15:04+00:00",
       "source": "Tom's Hardware",
