@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-05-10T15:16:56.311625+00:00",
+  "generatedAt": "2026-05-10T19:46:06.618836+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Recensione Kiln, un multiplayer fuori di testa",
+      "link": "https://www.tomshw.it/videogioco/recensione-kiln-un-multiplayer-fuori-di-testa",
+      "excerpt": "In un panorama videoludico colmo di titoli spesso e volentieri uguali e che puntano a cavalcare i trend del momento è sempre una boccata d’aria fresca vedere all’orizzonte un…",
+      "image": null,
+      "publishedAt": "2026-05-10T15:59:59+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "Sistema mesh Wi-Fi 7 Tenda, nuovo minimo storico: due unità a poco più di 110€",
       "link": "https://www.hdblog.it/hardware/offerte/n657835/sistema-mesh-wi-fi-7-tenda-minimo-storico-amazon/",
@@ -147,15 +156,6 @@
       "publishedAt": "2026-05-08T14:18:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Slate Auto in crisi: Bezos si sfila nel momento peggiore",
-      "link": "https://www.tomshw.it/automotive/slate-auto-bezos-board-uscita-momento-chiave",
-      "excerpt": "Slate Auto perde il collegamento più diretto con Jeff Bezos nel proprio consiglio di amministrazione. Secondo documenti societari esaminati da TechCrunch, Melinda Lewison,…",
-      "image": null,
-      "publishedAt": "2026-05-08T14:16:38+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Luce sotto i 10 centesimi/kWh? Con E.ON l’offerta va oltre il prezzo",
