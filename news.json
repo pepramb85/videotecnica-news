@@ -1,161 +1,215 @@
 {
-  "generatedAt": "2026-05-11T11:47:21.435995+00:00",
+  "generatedAt": "2026-05-11T18:22:50.118216+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Google Finanza diventa più smart con l'AI di Gemini, anche in Italia",
-      "link": "https://www.hdblog.it/google/articoli/n657914/google-finanza-gemini-ai-italia/",
-      "excerpt": "Dopo mesi di attesa, il nuovo strumento debutta in beta anche Italia",
-      "image": "https://hd2.tudocdn.net/1299496?w=660",
-      "publishedAt": "2026-05-11T11:45:00+00:00",
+      "title": "iOS, watchOS, macOS e tutti gli altri, arriva la versione 26.5: tutte le novità",
+      "link": "https://www.hdblog.it/apple/articoli/n657982/apple-ios-macos-watchos-visionos-26-5-novita/",
+      "excerpt": "Su iOS e watchOS spicca uno sfondo / quadrante dedicato al Pride, chiamato Pride Luminance.",
+      "image": "https://hd2.tudocdn.net/1341835?w=660",
+      "publishedAt": "2026-05-11T18:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "57 pollici: è ancora un monitor? Con 400€ di sconto è difficile ignorarlo",
-      "link": "https://www.tomshw.it/hardware/samsung-odyssey-neo-g9-57-in-offerta-a-soli-2099eur-2026-05-11",
-      "excerpt": "Su Amazon è disponibile un'ottima offerta sul Samsung Monitor Gaming Odyssey Neo G9 da 57'', un mostro di tecnologia con pannello Mini LED VA curvo (1000R), risoluzione Dual UHD…",
+      "title": "Skoda Epiq: un nuovo teaser prima del debutto",
+      "link": "https://www.hdmotori.it/skoda-epiq-nuovo-teaser/",
+      "excerpt": "Il nuovo modello elettrico sarà caratterizzato da un design minimalista, un’autonomia fino a 430 km e un prezzo base di 25.000 euro.",
+      "image": "https://hd2.tudocdn.net/1341834?w=660",
+      "publishedAt": "2026-05-11T18:00:59+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Discord Nitro ora include Xbox Game Pass: come funziona l'accordo con Microsoft",
+      "link": "https://www.hdblog.it/microsoft/articoli/n657977/xbox-game-pass-discord-nitro-incluso-prezzo-italia/",
+      "excerpt": "Xbox e Discord uniscono le forze.",
+      "image": "https://hd2.tudocdn.net/1341829?w=660",
+      "publishedAt": "2026-05-11T17:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Huawei sta lavorando a uno smartphone con batteria mostruosa: oltre 10.000 mAh",
+      "link": "https://www.hdblog.it/smartphone/articoli/n657973/huawei-smartphone-batteria-10000-mah-rumor-silicio/",
+      "excerpt": "Userà un'altra soluzione rispetto al silicio-carbonio?",
+      "image": "https://hd2.tudocdn.net/1341824?w=660",
+      "publishedAt": "2026-05-11T17:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Vespa Newtron: il kit retrofit per trasformare la Vespa in elettrica",
+      "link": "https://www.hdmotori.it/vespa-newtron-retrofit-elettrico/",
+      "excerpt": "Trasformare la Vespa in elettrica con il kit Newtron è possibile: fino a 14 kW di potenza, ricarica in 4 ore e incentivi statali.",
+      "image": "https://hd2.tudocdn.net/1341831?w=660",
+      "publishedAt": "2026-05-11T17:30:06+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google sta per lanciare Gemini \"Omnia\", un nuovo modello AI per i video",
+      "link": "https://www.hdblog.it/google/articoli/n657975/google-gemini-omnia-video-ai-generazione/",
+      "excerpt": "La qualità è decisamente impressionante, e sta migliorando drasticamente a velocità forsennata.",
+      "image": "https://hd2.tudocdn.net/1216538?w=660",
+      "publishedAt": "2026-05-11T17:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Addio droni russi e spia: la tecnologia tedesca usa le catene",
+      "link": "https://www.hdblog.it/droni/articoli/n657847/sistema-anti-drone-catene-kit/",
+      "excerpt": "Ricercatori tedeschi creano un sistema a catene per bloccare i rotori dei droni in volo.",
+      "image": "https://hd2.tudocdn.net/1327175?w=660",
+      "publishedAt": "2026-05-11T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Display OLED cinesi su Galaxy S27? Samsung vuole provarci",
+      "link": "https://www.hdblog.it/smartphone/articoli/n657933/samsung-galaxy-s27-display-oled/",
+      "excerpt": "Samsung starebbe valutando l'utilizzo di display OLED di produzione cinese sui Galaxy S27 base.",
+      "image": "https://hd2.tudocdn.net/1341758?w=660",
+      "publishedAt": "2026-05-11T17:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nucleare: il nuovo combustibile al torio dura 8 volte più del normale",
+      "link": "https://www.hdblog.it/green/articoli/n657860/nucleare-torio-uranio-aneel/",
+      "excerpt": "Il combustibile ANEEL supera i test: dura 8 volte più dell'uranio e riduce drasticamente le scorie.",
+      "image": "https://hd2.tudocdn.net/1341557?w=660",
+      "publishedAt": "2026-05-11T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Dreame Pocket P10 Cake, phon veloce e prestante anche in viaggio",
+      "link": "https://www.hdblog.it/home/articoli/n657969/dreame-pocket-p10-cake-phon-viaggio-compatto/",
+      "excerpt": "Dispensa addirittura l'olio nutriente mentre asciuga i capelli.",
+      "image": "https://hd2.tudocdn.net/1341816?w=660",
+      "publishedAt": "2026-05-11T16:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Oggi i monitor OLED si trovano anche sotto i 500€. Questo LG vale ancora 1500€?",
+      "link": "https://www.tomshw.it/hardware/lg-ultragear-oled-45-in-offerta-a-soli-1555eur-su-amazon-2026-05-11",
+      "excerpt": "Su Amazon è disponibile il monitor gaming LG UltraGear OLED 45GX950A, un display da 45 con pannello OLED e risoluzione 5K2K (5120x2160) in formato 21:9 curvo. Offre una frequenza…",
       "image": null,
-      "publishedAt": "2026-05-11T11:43:44+00:00",
+      "publishedAt": "2026-05-11T15:29:47+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Huawei Pura X Max è magnifico finché funziona: poi c'è il calvario della riparazione",
-      "link": "https://www.hdblog.it/smartphone/articoli/n657880/huawei-pura-x-max-riparazione/",
-      "excerpt": "Il teardown di Huawei Pura X Max ne mette in evidenza la complessità tecnica in ottica di riparazione.",
-      "image": "https://hd2.tudocdn.net/1341585?w=660",
-      "publishedAt": "2026-05-11T11:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "GrapheneOS contro Google: Play Integrity può penalizzare sistemi Android alternativi",
-      "link": "https://www.hdblog.it/smartphone/articoli/n657911/grapheneos-attacca-google-play-integrity/",
-      "excerpt": "GrapheneOS torna ad attaccare Google e Apple sull’attestazione hardware",
-      "image": "https://hd2.tudocdn.net/1341642?w=660",
-      "publishedAt": "2026-05-11T11:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Dimenticate i laser: il nuovo anti-drone tedesco spara catene",
-      "link": "https://www.tomshw.it/hardware/catene-acciaio-anti-drone-ricercatori-tedeschi",
-      "excerpt": "La corsa ai sistemi anti-drone non passa solo da laser, jammer e sensori sofisticati. Un gruppo di ricercatori tedeschi propone una soluzione molto più fisica: un lanciatore…",
+      "title": "Corsair low cost? 3 case PC su AliExpress che stanno rubando la scena",
+      "link": "https://www.tomshw.it/hardware/corsair-low-cost-3-case-pc-su-aliexpress-che-stanno-rubando-la-scena",
+      "excerpt": "Nel mondo dei case PC, il nome Corsair è da sempre sinonimo di qualità e prestazioni, ma negli ultimi mesi si sta diffondendo un’interessante tendenza: la possibilità di tro...",
       "image": null,
-      "publishedAt": "2026-05-11T11:34:11+00:00",
+      "publishedAt": "2026-05-11T14:59:19+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Roblox vuole giochi fotorealistici, ma i developer frenano",
-      "link": "https://www.tomshw.it/videogioco/roblox-fotorealismo-ia-sviluppatori-dubbiosi",
-      "excerpt": "Roblox sta spingendo l’intelligenza artificiale verso un obiettivo molto visibile: rendere i mondi creati dagli utenti più fotorealistici. L’idea è usare strumenti generativi per…",
+      "title": "Come navigare sicuri in vacanza",
+      "link": "https://www.tomshw.it/hardware/come-navigare-sicuri-in-vacanza",
+      "excerpt": "In vacanza lo smartphone diventa il centro di tutto: carte d’imbarco, prenotazioni, pagamenti, mappe, home banking, documenti digitali, streaming, cloud e messaggi di lavoro. Il…",
       "image": null,
-      "publishedAt": "2026-05-11T11:31:33+00:00",
+      "publishedAt": "2026-05-11T14:40:18+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Toyota \"assume\" tre robot umanoidi nella sua fabbrica in Canada",
-      "link": "https://www.hdmotori.it/toyota-robot-umanoidi-canada/",
-      "excerpt": "Dopo un anno di sperimentazione, Toyota Motor Manufacturing Canada ha firmato un accordo commerciale con Agility Robotics per impiegare il robot Digit nello stabilimento di…",
-      "image": "https://hd2.tudocdn.net/1341653?w=660",
-      "publishedAt": "2026-05-11T11:30:58+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Claude ricattava nei test: Anthropic ora spiega perché",
-      "link": "https://www.tomshw.it/hardware/claude-ricatto-anthropic-ia-cattiva",
-      "excerpt": "Anthropic ha fornito una spiegazione più precisa per uno degli episodi più discussi nei test di sicurezza di Claude. In alcune prove pre-release, il modello aveva tentato di…",
+      "title": "Parrot OS 7.2 risolve Copy Fail e potenzia gli strumenti",
+      "link": "https://www.tomshw.it/hardware/parrot-os-72-copy-fail-linux",
+      "excerpt": "Parrot OS 7.2 è disponibile e il cambiamento più importante riguarda la sicurezza del kernel. La distribuzione Debian-based, usata da ricercatori, pentester e utenti attenti alla…",
       "image": null,
-      "publishedAt": "2026-05-11T11:30:15+00:00",
+      "publishedAt": "2026-05-11T14:25:24+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Niente stop alle patch per droni e router vietati",
-      "link": "https://www.tomshw.it/hardware/fcc-aggiornamenti-droni-router-vietati-2029",
-      "excerpt": "La FCC ha scelto una linea più pragmatica sui dispositivi già vietati o limitati negli Stati Uniti. Droni e router inseriti nella Covered List potranno continuare a ricevere…",
+      "title": "Logitech prepara un mouse pieghevole che sfida il trackpad",
+      "link": "https://www.tomshw.it/hardware/logitech-mouse-pieghevole-leak",
+      "excerpt": "Logitech starebbe lavorando a un mouse wireless capace di piegarsi a metà, almeno secondo immagini marketing trapelate nelle ultime ore. L’idea è semplice da raccontare ma…",
       "image": null,
-      "publishedAt": "2026-05-11T11:28:11+00:00",
+      "publishedAt": "2026-05-11T14:23:59+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "I cavi di Hormuz diventano un nuovo bersaglio digitale",
-      "link": "https://www.tomshw.it/hardware/cavi-sottomarini-hormuz-iran-tassa-controllo",
-      "excerpt": "Lo Stretto di Hormuz è già uno dei punti più delicati del commercio mondiale, ma ora il dossier non riguarda soltanto petroliere e rotte energetiche. Un media vicino ai Guardiani…",
+      "title": "macOS 26.4 ha alzato (in silenzio) le barriere contro il social engineering. Ecco come",
+      "link": "https://images.dday.it/B4sBU0i4jhGGGJzTSLsf7h-5BMW2JIbXuIQFIcyHqW0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57365/472c8e_temrinal.jpg",
+      "excerpt": "Con una serie di novità passate un po' in sordina Apple è intervenuta per rendere più sicuro quello che ad oggi è l'elemento di accesso più usato dai malintenzionati tramite…",
+      "image": "https://images.dday.it/B4sBU0i4jhGGGJzTSLsf7h-5BMW2JIbXuIQFIcyHqW0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57365/472c8e_temrinal.jpg",
+      "publishedAt": "2026-05-11T13:56:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Cloudflare taglia circa il 20% della forza lavoro: la ristrutturazione passa dagli agenti IA",
+      "link": "https://images.dday.it/vZCbaAEOlx0UByRugalDRTis7_t91q9GyxENOIKNFUc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57364/c20c60_smalk_Immagine_1_generata_copia.png",
+      "excerpt": "L’IA entra nei processi interni di Cloudflare e cambia anche l’organizzazione. Oltre 1.100 dipendenti lasceranno l’azienda entro il 2026... Leggi tutto",
+      "image": "https://images.dday.it/vZCbaAEOlx0UByRugalDRTis7_t91q9GyxENOIKNFUc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57364/c20c60_smalk_Immagine_1_generata_copia.png",
+      "publishedAt": "2026-05-11T13:07:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "WhatCable è l’app che legge i cavi USB-C dal Mac e svela ricarica, dati e Thunderbolt",
+      "link": "https://images.dday.it/AyDYL9zBZ1YugJwXnfNyvuVm_B1Yg6sg1vDwoM3hm5w/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57363/4093bb_cove_rsmall_Depositphotos_294598440_XL_copia.jpg",
+      "excerpt": "Due cavi USB-C possono sembrare identici e comportarsi in modo opposto. WhatCable legge i dati disponibili sul Mac e spiega se reggono ricarica, dati, monitor e Thunderbolt...…",
+      "image": "https://images.dday.it/AyDYL9zBZ1YugJwXnfNyvuVm_B1Yg6sg1vDwoM3hm5w/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57363/4093bb_cove_rsmall_Depositphotos_294598440_XL_copia.jpg",
+      "publishedAt": "2026-05-11T12:24:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Formazione AI gratis per le PMI, bene ma potrebbe non bastare",
+      "link": "https://www.tomshw.it/business/formazione-ai-gratis-pmi-divario-interno",
+      "excerpt": "OpenAI lancia con Confartigianato il programma per le PMI, dove l'adozione dell'AI è ferma all'8,2%. Le grandi imprese intanto sono al 71%, e non è chiaro se il distacco sia…",
       "image": null,
-      "publishedAt": "2026-05-11T11:25:47+00:00",
+      "publishedAt": "2026-05-11T12:15:07+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "NVIDIA, i \"lavoratori AI\" sono diventati più costosi di quelli umani",
-      "link": "https://www.hdblog.it/nvidia/articoli/n657913/nvidia-ai-costi-lavoratori-umani-paragone/",
-      "excerpt": "Le dichiarazioni del VP Bryan Catanzaro indicano che i costi della tecnologia stanno diventando sempre più alti per tutti.",
-      "image": "https://hd2.tudocdn.net/1341643?w=660",
-      "publishedAt": "2026-05-11T11:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Cloudflare licenzia 1100 dipendenti, al loro posto l'AI: il mercato reagisce male",
-      "link": "https://www.hdblog.it/mercato/articoli/n657891/cloudflare-licenzia-1100-dipendenti-ai-mercato/",
-      "excerpt": "Un dipendente di Cloudflare su cinque rischia il posto, sostituito dall'intelligenza artificiale: il mercato azionario non la prende bene.",
-      "image": "https://hd2.tudocdn.net/1341612?w=660",
-      "publishedAt": "2026-05-11T11:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Audible celebra dieci anni di audiolibri in italiano: le top 10 dei libri più ascoltati",
-      "link": "https://www.hdblog.it/amazon/articoli/n657910/audible-dieci-anni-evento-classifica-top-10/",
-      "excerpt": "Durante il Salone del Libro di Torino, Audible ripercorre l’evoluzione dell’audiolibro in Italia tra classici, fantasy e narrativa contemporanea",
-      "image": "https://hd2.tudocdn.net/1269511?w=660",
-      "publishedAt": "2026-05-11T11:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Devil May Cry 1 remake e altri dettagli sui prossimi Resident Evil: le ultime dai leak",
-      "link": "https://www.hdblog.it/games/articoli/n657906/devil-may-cry-resident-evil-remake-rumor/",
-      "excerpt": "La fonte non è il solito Dusk Golem, ma alcune informazioni vale la pena considerarle",
-      "image": "https://hd2.tudocdn.net/1341637?w=660",
-      "publishedAt": "2026-05-11T11:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Comet abbassa i prezzi: tech in sottocosto e offerte online imperdibili",
-      "link": "https://www.tomshw.it/altro/comet-abbassa-i-prezzi-tech-in-sottocosto-e-offerte-online-imperdibili",
-      "excerpt": "In un momento in cui il risparmio è diventato una priorità per molti, Comet rilancia la sua proposta commerciale con un’iniziativa pensata per chi vuole approfittare di prezzi…",
+      "title": "La stampa professionale in Italia ormai è full digital, ma non è proprio una scelta",
+      "link": "https://www.tomshw.it/business/stampa-professionale-italia-full-digital-xerox",
+      "excerpt": "Il settore della stampa italiana sta vivendo una transizione che non è guidata dalla modernità ma da tre pressioni convergenti: il marketing che ha smesso di pianificare e produce…",
       "image": null,
-      "publishedAt": "2026-05-11T11:05:53+00:00",
+      "publishedAt": "2026-05-11T12:15:07+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Ban USA di router e droni, la FCC allenta le regole sugli aggiornamenti software",
-      "link": "https://www.hdblog.it/hardware/articoli/n657909/ban-router-droni-fcc-aggiornamenti-sofware-patch/",
-      "excerpt": "Sarebbe stato un rischio per la sicurezza troppo grande.",
-      "image": "https://hd2.tudocdn.net/1245401?w=660",
-      "publishedAt": "2026-05-11T11:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "L'Italia (e l'Europa) è in affitto e ora ha paura dello sfratto",
+      "link": "https://www.tomshw.it/business/italia-europa-affitto-sfratto-sovranita-digitale-yarix",
+      "excerpt": "Il 95% della tecnologia che fa girare imprese e PA italiane viene da fornitori extra-europei. NIS2 accende il problema, la risposta non c'è. C'è un'analogia che restituisce con…",
+      "image": null,
+      "publishedAt": "2026-05-11T12:15:07+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Un robot al Met Gala: l'automa Agibot A2 sfila con Alexander Wang",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n657871/agibot-a2-met-gala-2026/",
-      "excerpt": "Il robot umanoide A2 di Agibot debutta al Met Gala 2026 a New York con lo stilista Alexander Wang.",
-      "image": "https://hd2.tudocdn.net/1341576?w=660",
-      "publishedAt": "2026-05-11T10:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Sconto flash: PHILIPS Airfryer 2000 da 6,2 litri a prezzo ribassato ora!",
+      "link": "https://images.dday.it/i22fBugWKxDhHWEI0E_qvr5as7eRFFeIb2eBSpqXRe4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/52878/b97fae_ape2.jpg",
+      "excerpt": "In offerta su Amazon la friggitrice ad aria PHILIPS Airfryer Serie 2000: 13 funzioni, tecnologia RapidAir, display touchscreen e griglia lavabile in lavastoviglie, ora al prezzo…",
+      "image": "https://images.dday.it/i22fBugWKxDhHWEI0E_qvr5as7eRFFeIb2eBSpqXRe4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/52878/b97fae_ape2.jpg",
+      "publishedAt": "2026-05-11T12:15:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Migliori adattatori e hub usb-c (maggio 2026)",
+      "link": "https://www.tomshw.it/guide/adattatore-usb-c-migliori",
+      "excerpt": "Se state cercando un modo per collegare un dispositivo moderno dotato di porta USB-C a un dispositivo sprovvisto di quest'ultima, non potete far altro che ricorrere agli…",
+      "image": null,
+      "publishedAt": "2026-05-11T11:36:39+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "CMF Watch Pro 2 a 43 euro su Amazon: ne vale davvero la pena",
@@ -167,15 +221,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Ultime ore per il -30% sui monitor Samsung: il coupon sta per scadere",
-      "link": "https://www.tomshw.it/hardware/ultime-ore-per-il-30-sui-monitor-samsung-il-coupon-sta-per-scadere",
-      "excerpt": "In queste ultime ore si sta chiudendo una delle promozioni più interessanti dedicate al mondo del gaming e della produttività: i monitor Samsung sono disponibili con uno sconto…",
-      "image": null,
-      "publishedAt": "2026-05-11T10:19:03+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Google Finanza ora si esplora con l’IA anche in Italia",
       "link": "https://images.dday.it/b34F-16POFimIVHQCRzgUS6X5lzZOS068rIy5JBQ3CI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57362/97fbc3_small_Google_Finance_adds_AI_features_.width-2200.format-webp_copia.jpg",
       "excerpt": "Le informazioni finanziarie possono ricevere l’aiuto dell’IA di Google, a cui si possono fare domande su titoli, tendenze e ottenere risposte con link per approfondire. Arrivano…",
@@ -183,15 +228,6 @@
       "publishedAt": "2026-05-11T10:10:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Le migliori offerte della settimana su Instant Gaming",
-      "link": "https://www.tomshw.it/videogioco/migliori-offerte-della-settimana-su-instant-gaming",
-      "excerpt": "Oggi il panorama videoludico è più vasto che mai: tra blockbuster dalle produzioni mastodontiche e titoli indie pieni di creatività, trovare un gioco che faccia al caso vostro…",
-      "image": null,
-      "publishedAt": "2026-05-11T10:07:02+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Abbiamo provato la Urus SE, ibrido mozzafiato da 800 cavalli",
@@ -230,47 +266,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "I sogni possono a volte si possono toccare: Lamborghini Fenomeno Roadster, V12 ibrido a cielo aperto da 1080 CV",
-      "link": "https://images.dday.it/_qVfR4EYLZeMpD3a8hoWsQQLYtdH2HUMhJHiBGKWStU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57357/4f12e5_IMG_2853.jpeg",
-      "excerpt": "Nuovo capolavoro a tiratura limitatissima per Lamborghini, che con la Fenomeno Roadster realizza la sua opera top più potente di sempre... Leggi tutto",
-      "image": "https://images.dday.it/_qVfR4EYLZeMpD3a8hoWsQQLYtdH2HUMhJHiBGKWStU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57357/4f12e5_IMG_2853.jpeg",
-      "publishedAt": "2026-05-11T07:41:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Alla guida di Nexo, l'auto a idrogeno di Hyundai. Un rifornimento da 826 km in pochi minuti",
-      "link": "https://images.dday.it/JluC6OASI8zJcnU-CV9Ccm5MxV0Gv-mKK8tA3em1iiU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57352/e2e132_nexo_thumb.jpg",
-      "excerpt": "Per presentare la prossima apertura della stazione di ricarica a idrogeno di Rho, parte di un piano da cinque stazioni di Milano Serravalle - Milano Tangenziali... Leggi tutto",
-      "image": "https://images.dday.it/JluC6OASI8zJcnU-CV9Ccm5MxV0Gv-mKK8tA3em1iiU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57352/e2e132_nexo_thumb.jpg",
-      "publishedAt": "2026-05-11T07:34:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il camion autonomo di Humble Robotics perde la cabina: se guida da solo, a cosa serve?",
-      "link": "https://images.dday.it/q_osKhDcRqQP0-LIalU-2q3QPV_Z9rRw2KwpFc0N3Hw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57356/6be297_small_Screenshot_2026-05-11_alle_09.27.24_copia.png",
-      "excerpt": "Humble Robotics ha presentato un veicolo elettrico autonomo per container che elimina la cabina e ripensa il camion partendo dal carico, non dal conducente... Leggi tutto",
-      "image": "https://images.dday.it/q_osKhDcRqQP0-LIalU-2q3QPV_Z9rRw2KwpFc0N3Hw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57356/6be297_small_Screenshot_2026-05-11_alle_09.27.24_copia.png",
-      "publishedAt": "2026-05-11T07:30:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il nuovo reCAPTCHA richiede uno smartphone Android certificato. Si stringe la morsa di Google sul web",
-      "link": "https://images.dday.it/Mc6q1ITJa0eucCY7MtjAStMmiLA27cYPYNrLGs6LgGc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57355/e7c66a_Depositphotos_88111306_XL.jpg",
-      "excerpt": "Google Cloud Fraud Defense, annunciato ad aprile come \"evoluzione\" del sistema anti-bot più diffuso al mondo, introduce un requisito che sta sollevando polemiche: per superare…",
-      "image": "https://images.dday.it/Mc6q1ITJa0eucCY7MtjAStMmiLA27cYPYNrLGs6LgGc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57355/e7c66a_Depositphotos_88111306_XL.jpg",
-      "publishedAt": "2026-05-11T07:06:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migliori ventole per PC (maggio 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-ventole-pc",
-      "excerpt": "Mantenere il PC ben raffreddato è più importante che mai, soprattutto considerando l’aumento di prestazioni e consumi energetici dei componenti moderni. Le ventole per PC…",
+      "title": "Battlefield 6 Stagione 3, tutto quello da sapere",
+      "link": "https://www.tomshw.it/videogioco/battlefield-6-stagione-3-tutto-sulla-nuova-stagione-2026-05-08",
+      "excerpt": "Dal 12 maggio 2026, Battlefield torna a fare sul serio. La Stagione 3 del capitolo più recente della storica serie sparatutto di Electronic Arts si preannuncia come uno degli…",
       "image": null,
-      "publishedAt": "2026-05-11T06:40:11+00:00",
+      "publishedAt": "2026-05-08T13:39:12+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
