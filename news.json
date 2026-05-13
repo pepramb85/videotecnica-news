@@ -1,17 +1,269 @@
 {
-  "generatedAt": "2026-05-13T08:21:30.839758+00:00",
+  "generatedAt": "2026-05-13T17:36:39.764672+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Si avvicina il prossimo Samsung Galaxy Unpacked: primi rumor sulla data",
-      "link": "https://www.hdblog.it/samsung/articoli/n658149/samsung-galaxy-unpacked-data-rumor/",
-      "excerpt": "Dovrebbe essere il palco su cui debutteranno i nuovi pieghevoli, i Glasses e il Watch 9",
-      "image": "https://hd2.tudocdn.net/1323867?w=660",
-      "publishedAt": "2026-05-13T08:20:00+00:00",
+      "title": "Spotify: gli account per bambini disponibili da oggi per il piano free",
+      "link": "https://www.hdblog.it/applicazioni/articoli/n658257/spotify-account-bambini-piano-free/",
+      "excerpt": "Si potrà controllare l’accesso a brani e artisti specifici.",
+      "image": "https://hd2.tudocdn.net/1342484?w=660",
+      "publishedAt": "2026-05-13T17:35:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Oliver Zipse lascia la carica di CEO del BMW Group, si chiude un'era",
+      "link": "https://www.hdmotori.it/oliver-zipse-ceo-bmw-group-addio/",
+      "excerpt": "Dopo 35 anni di servizio e il lancio della NEUE KLASSE, Oliver Zipse cede la guida del Gruppo a Milan Nedeljković per un nuovo corso BMW",
+      "image": "https://hd2.tudocdn.net/1342494?w=660",
+      "publishedAt": "2026-05-13T17:30:10+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "iOS e iPadOS 26.5 portano in Italia una nuova feature per la privacy",
+      "link": "https://www.hdblog.it/smartphone/articoli/n658259/apple-iphone-privacy-modem-c1-c1x-operatore/",
+      "excerpt": "Tutti i dispositivi dotati di modem proprietario Apple possono disattivare la condivisione della posizione precisa con l'operatore di rete.",
+      "image": "https://hd2.tudocdn.net/1326774?w=660",
+      "publishedAt": "2026-05-13T17:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "ASUS ROG celebra i 20 anni con una scheda madre effetto nostalgia",
+      "link": "https://www.hdblog.it/hardware/articoli/n658255/asus-rog-crosshair-20th-anniversary-edition/",
+      "excerpt": "A quanto pare avremo una 20th anniversary Edition della prima scheda madre lanciata dal brand ROG.",
+      "image": "https://hd2.tudocdn.net/1342481?w=660",
+      "publishedAt": "2026-05-13T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Amanda Seyfried ne Il Testamento di Ann Lee. Dal 20 maggio su Disney+",
+      "link": "https://www.hdblog.it/curiosita/articoli/n641245/il-testamento-di-ann-lee-trailer-film-seyfried/",
+      "excerpt": "Trailer e poster de Il Testamento di Ann Lee, il biopic su Ann Lee diretto da Mona Fastvold.",
+      "image": "https://hd2.tudocdn.net/1308117?w=660",
+      "publishedAt": "2026-05-13T17:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Stellantis Pro One al Transpotec: numeri da leader e la novità TRIS",
+      "link": "https://www.hdmotori.it/stellantis-pro-one-transpotec-leadership-mercato-italia/",
+      "excerpt": "Stellantis Pro One domina il mercato italiano: 39% di quota e gamma rinnovata, i numeri del successo e il nuovo Fiat TRIS",
+      "image": "https://hd2.tudocdn.net/1342491?w=660",
+      "publishedAt": "2026-05-13T17:00:55+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Luci misteriose sulla Luna: pubblicati i file segreti sulle missioni Apollo",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n658240/pentagono-ufo-file-apollo-17/",
+      "excerpt": "Il Pentagono pubblica 162 file segreti su avvistamenti UFO e anomalie nelle missioni Apollo.",
+      "image": "https://hd2.tudocdn.net/1342437?w=660",
+      "publishedAt": "2026-05-13T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung Galaxy Z Wide Fold, anticipazioni sul comparto fotografico",
+      "link": "https://www.hdblog.it/smartphone/articoli/n658253/samsung-galaxy-wide-fold-8-fotocamere/",
+      "excerpt": "Probabilmente niente tele, due sensori da 50 MP.",
+      "image": "https://hd2.tudocdn.net/1341512?w=660",
+      "publishedAt": "2026-05-13T16:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Hyundai NEXO, appena 5 minuti per un pieno di idrogeno: autonomia di 826 km",
+      "link": "https://www.hdmotori.it/hyundai-nexo-idrogeno-autonomia/",
+      "excerpt": "Dall'autonomia record di 826 km al rifornimento in soli 5 minuti: la terza generazione di Hyundai NEXO debutta sul mercato italiano",
+      "image": "https://hd2.tudocdn.net/1342471?w=660",
+      "publishedAt": "2026-05-13T16:30:39+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Emissioni di gas serra: nell’UE diminuiscono, ma senza decrescita economica",
+      "link": "https://www.hdblog.it/green/articoli/n658213/emissioni-gas-serra-ue-decrescita-economica/",
+      "excerpt": "Dati incoraggianti",
+      "image": "https://hd2.tudocdn.net/1188698?w=660",
+      "publishedAt": "2026-05-13T16:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Hermes Agent trasforma il tuo PC RTX in un agente IA evoluto",
+      "link": "https://www.tomshw.it/hardware/hermes-agent-pc-nvidia-rtx-ai",
+      "excerpt": "Hermes Agent, il framework open source di Nous Research, entra al centro del nuovo appuntamento di RTX AI Garage dedicato agli agenti IA locali. La novità non è solo la…",
+      "image": null,
+      "publishedAt": "2026-05-13T16:00:38+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "JBL rinnova l'intera gamma di cuffie Live con più colori, audio Hi-Res e una nuova smart charging case",
+      "link": "https://images.dday.it/kEt8ZnIdnMcO48VPuyJatWrQwBkTysw57xNmOpBSLdE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57405/f9a91c_IMG_6436_small.jpg",
+      "excerpt": "Presentate le nuove cuffie JBL Live 780NC over-ear e JBL Live 680NC on-ear e le nuove JBL Live 4 nei tre formati Buds, Beam e Flex. Tutti i modelli sono compatibili con audio…",
+      "image": "https://images.dday.it/kEt8ZnIdnMcO48VPuyJatWrQwBkTysw57xNmOpBSLdE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57405/f9a91c_IMG_6436_small.jpg",
+      "publishedAt": "2026-05-13T15:48:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Il vero \"Slim gaming\" è realtà: prestazioni desktop in meno di 2 cm grazie a NVIDIA",
+      "link": "https://www.tomshw.it/hardware/il-vero-slim-gaming-e-realta-prestazioni-desktop-in-meno-di-2-cm-grazie-a-nvidia",
+      "excerpt": "Per anni il gaming su laptop ha avuto un'estetica precisa e immediatamente riconoscibile: chassis spessi, prese d'aria imponenti e un peso che rendeva questi laptop davvero poco…",
+      "image": null,
+      "publishedAt": "2026-05-13T15:14:41+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Malware nascosto per 20 mesi: la multa è salatissima",
+      "link": "https://www.tomshw.it/hardware/south-staffordshire-water-multa-data-breach",
+      "excerpt": "South Staffordshire Water e la controllante South Staffordshire hanno ricevuto una multa da 963.900 sterline dopo un cyberattacco che ha esposto dati personali di clienti e…",
+      "image": null,
+      "publishedAt": "2026-05-13T14:33:27+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Sony Alpha 7R VI ufficiale, l’alta risoluzione smette di essere una cosa da treppiede",
+      "link": "https://images.dday.it/6fdj5vV87n_EdP-YfIogsuo5X_BYtrfItGTNdviz2XE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57388/65caf0_small_Screenshot_2026-05-13_alle_16.14.29_copia.png",
+      "excerpt": "Sony cambia passo con la Alpha 7R VI. Resta una mirrorless da altissima risoluzione, ma sensore stacked, AF più rapido e precattura la rendono meno legata allo studio e la…",
+      "image": "https://images.dday.it/6fdj5vV87n_EdP-YfIogsuo5X_BYtrfItGTNdviz2XE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57388/65caf0_small_Screenshot_2026-05-13_alle_16.14.29_copia.png",
+      "publishedAt": "2026-05-13T14:26:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Anthropic chiude la porta alle vendite non autorizzate",
+      "link": "https://www.tomshw.it/hardware/anthropic-azioni-private-warning-investitori",
+      "excerpt": "Anthropic ha avvertito gli investitori che diverse piattaforme secondarie non sono autorizzate a offrire accesso alle sue azioni. Il messaggio è netto: qualunque vendita o…",
+      "image": null,
+      "publishedAt": "2026-05-13T14:25:31+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Non solo Ring Intercom: oggi a 45€ includi anche la Ring Indoor Camera",
+      "link": "https://www.tomshw.it/hardware/ring-intercom-indoor-camera-plus-sconto-del-68-2026-05-13",
+      "excerpt": "Su Amazon è disponibile un'offerta imperdibile sul bundle Ring Intercom di Amazon + Ring Indoor Camera Plus, la soluzione completa per la sicurezza domestica intelligente. Il kit…",
+      "image": null,
+      "publishedAt": "2026-05-13T14:22:34+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Phishing su Signal? Ora è molto più difficile cascarci",
+      "link": "https://www.tomshw.it/hardware/signal-avvisi-phishing-social-engineering",
+      "excerpt": "Signal introduce nuovi avvisi nell’app per rendere più difficile una delle forme di attacco più efficaci: convincere l’utente a fare da solo il passo sbagliato. Le modifiche…",
+      "image": null,
+      "publishedAt": "2026-05-13T14:22:28+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Foxconn sotto attacco: Nitrogen punta alla supply chain",
+      "link": "https://www.tomshw.it/hardware/foxconn-attacco-nitrogen-ransomware",
+      "excerpt": "Foxconn ha confermato che alcune fabbriche nordamericane sono state colpite da un cyberattacco, con gli impianti interessati ora in fase di ritorno alla normale operatività. La…",
+      "image": null,
+      "publishedAt": "2026-05-13T14:20:56+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il nuovo geniale microfono JBL EasySing Mic Mini trasforma qualsiasi speaker in una macchina da karaoke",
+      "link": "https://images.dday.it/KRI6_HUGqH8uRen1uydFM9OZZ_vh36CaAdNR62qHfR4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57404/b74773_671107-JBL_EasySing_Mic_Mini_-cde11b-original-1777553096.jpg",
+      "excerpt": "JBL lancia un microfono wireless estremamente versatile, adatto sia a creatori di contenuti che a chi ama cimentarsi nel karaoke. È ottimizzato per gli speaker portatili JBL, ma…",
+      "image": "https://images.dday.it/KRI6_HUGqH8uRen1uydFM9OZZ_vh36CaAdNR62qHfR4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57404/b74773_671107-JBL_EasySing_Mic_Mini_-cde11b-original-1777553096.jpg",
+      "publishedAt": "2026-05-13T14:20:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "L'Italia (e l'Europa) è in affitto e ora ha paura dello sfratto",
+      "link": "https://www.tomshw.it/business/italia-europa-affitto-sfratto-sovranita-digitale-yarix",
+      "excerpt": "Il 95% della tecnologia che fa girare imprese e PA italiane viene da fornitori extra-europei. NIS2 accende il problema, la risposta non c'è. C'è un'analogia che restituisce con…",
+      "image": null,
+      "publishedAt": "2026-05-13T14:05:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Offerta ghiotta sul Pixel 10 su Amazon: 256 GB a 699 euro",
+      "link": "https://images.dday.it/hzT0WjixwTaTx3zxXl2c-L371MH5psLYl67Ddl_fges/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57402/626027_pixel10_thumb.jpg",
+      "excerpt": "Su Amazon il Pixel 10, sia nero sia blu, è in vendita con uno sconto interessante... Leggi tutto",
+      "image": "https://images.dday.it/hzT0WjixwTaTx3zxXl2c-L371MH5psLYl67Ddl_fges/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57402/626027_pixel10_thumb.jpg",
+      "publishedAt": "2026-05-13T13:05:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Canon EOS R6 V porta il video in full frame ai creator: RAW 7K, Open Gate e raffreddamento attivo",
+      "link": "https://images.dday.it/jo6pRS_06EHz_evCpIHQWlMJ7af_dnc6VPlyNJXawbY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57400/17c343_small_EOS_R6V_Full_frame_Opengate_Sensor_copia.jpg",
+      "excerpt": "EOS R6 V si colloca tra mirrorless ibride e Cinema EOS compatte. Non è una C50 ridotta, ma una R6 ripensata per il video... Leggi tutto",
+      "image": "https://images.dday.it/jo6pRS_06EHz_evCpIHQWlMJ7af_dnc6VPlyNJXawbY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57400/17c343_small_EOS_R6V_Full_frame_Opengate_Sensor_copia.jpg",
+      "publishedAt": "2026-05-13T13:03:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Le piattaforme non possono usare le notizie senza trattare con gli editori: la Corte UE dà ragione all’Italia",
+      "link": "https://images.dday.it/c_vVmeJwjaceVyzmiFI_CfHHdbzshDod4R3fguo8jpk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57403/711a7e_small_corte_Immagine_1_generata_copia.png",
+      "excerpt": "La sentenza rafforza la posizione degli editori nelle trattative con le piattaforme. Chi usa le notizie online può essere tenuto a negoziare e a condividere dati economici...…",
+      "image": "https://images.dday.it/c_vVmeJwjaceVyzmiFI_CfHHdbzshDod4R3fguo8jpk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57403/711a7e_small_corte_Immagine_1_generata_copia.png",
+      "publishedAt": "2026-05-13T12:55:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Migliori dissipatori ad aria per CPU (maggio 2026)",
+      "link": "https://www.tomshw.it/hardware/dissipatori-aria-cpu-migliori",
+      "excerpt": "Scegliere il miglior dissipatore ad aria per CPU è una decisione cruciale per chi desidera mantenere il proprio sistema stabile, performante e silenzioso. Con i più recenti…",
+      "image": null,
+      "publishedAt": "2026-05-13T11:27:53+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori stampanti laser (maggio 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-stampanti-laser",
+      "excerpt": "Al giorno d'oggi, scegliere una stampante laser di qualità rappresenta una decisione strategica sia per l’uso professionale che domestico. Grazie ai continui progressi…",
+      "image": null,
+      "publishedAt": "2026-05-13T11:20:32+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Googlebook è la mossa più ambiziosa di Google da anni, ma non è quello che tutti si aspettavano",
+      "link": "https://images.dday.it/9TTT01iemqgaWAJ40r7tcBnbpTYZi_SjCOk4vGi-lS0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57401/af9710_Gemini_Generated_Image_iys53eiys53eiys5.jpg",
+      "excerpt": "Ieri Google ha annunciato i Googlebook con il nuovo sistema operativo conosciuto come \"aluminium\". Sono costruiti attorno all'IA e per l'IA, come prevedibile, ma chi sperava in un…",
+      "image": "https://images.dday.it/9TTT01iemqgaWAJ40r7tcBnbpTYZi_SjCOk4vGi-lS0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57401/af9710_Gemini_Generated_Image_iys53eiys53eiys5.jpg",
+      "publishedAt": "2026-05-13T10:55:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Lo spazzolino elettrico Oral-B iO 6N torna al prezzo più basso: kit con 2 testine, custodia da viaggio e dentifricio",
+      "link": "https://images.dday.it/DUpbwLT1BObp7Xe_SKxL0KSom-x4HmkfPIXPG3LqBls/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57398/ac3a01_small_61kSZOMek9L._AC_SL1080__copia.jpg",
+      "excerpt": "Oral-B iO 6N torna in offerta su Amazon con un kit completo: due testine, custodia da viaggio e dentifricio. Questo prezzo non si vedeva da marzo... Leggi tutto",
+      "image": "https://images.dday.it/DUpbwLT1BObp7Xe_SKxL0KSom-x4HmkfPIXPG3LqBls/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57398/ac3a01_small_61kSZOMek9L._AC_SL1080__copia.jpg",
+      "publishedAt": "2026-05-13T09:36:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Trump phone, cambiano le clausole del contratto: il deposito da 100 dollari non garantisce più che il telefono arrivi",
+      "link": "https://images.dday.it/uW6YdoCTpWib3zRYSNEMj1NJYvm6csPASRF9gJSViOk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57397/0c23a5_small_wwcua4txm5_1_copia.png",
+      "excerpt": "Dopo mesi di rinvii, Trump Mobile cambia i termini del deposito. Il preodine resta aperto, ma il telefono potrebbe anche non essere prodotto... Leggi tutto",
+      "image": "https://images.dday.it/uW6YdoCTpWib3zRYSNEMj1NJYvm6csPASRF9gJSViOk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57397/0c23a5_small_wwcua4txm5_1_copia.png",
+      "publishedAt": "2026-05-13T09:01:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "La \"Dune Buggy\" torna tra noi con Renault JP4X4 Concept",
@@ -19,258 +271,6 @@
       "excerpt": "Voglia di spensieratezza e di vita da spiaggia, la nuova concept car francese richiama le Dune Buggy degli anni 60 in chiave elettrica e tech... Leggi tutto",
       "image": "https://images.dday.it/qadn4ejpYw43924ePDa3WHhUXxMP4jCkur8u2cV2ctg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57396/ae913a_22867b7fb48179e481c7b0c48ac009ef-l.jpg.jpeg",
       "publishedAt": "2026-05-13T08:15:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il Magic Pointer dei Googlebook è sulla carta molto promettente: demo ed esempi",
-      "link": "https://www.hdblog.it/google/articoli/n658156/googlebook-magic-pointer-ai-demo-esempi-video/",
-      "excerpt": "Resta da capire: quanto affidabile sarà?",
-      "image": "https://hd2.tudocdn.net/1341592?w=660",
-      "publishedAt": "2026-05-13T08:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Telemarketing aggressivo: per le telco, le stesse regole del settore energia",
-      "link": "https://www.hdblog.it/tariffe/articoli/n658143/telemarketing-aggressivo-telco-regole-energia/",
-      "excerpt": "Verso l'approvazione delle norme per il contrato al telemarketing aggressivo nel settore delle telecomunicazioni, come per luce e gas.",
-      "image": "https://hd2.tudocdn.net/1342273?w=660",
-      "publishedAt": "2026-05-13T08:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Polestar aggiorna i suoi modelli 3 e 4, migliorano autonomia, tempi di ricarica e prestazioni",
-      "link": "https://images.dday.it/aTUXuiAyUS0_vuSuNWpZVbx3jQo975nStrtStC5bdHM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57394/629b8e_Original-5661-polestar-260126-1964-v002-1.jpg",
-      "excerpt": "Architettura a 800 volt, sospensioni ed interni evoluti, maggiore capacità di calcolo alla base degli aggiornamenti della gamma Polestar... Leggi tutto",
-      "image": "https://images.dday.it/aTUXuiAyUS0_vuSuNWpZVbx3jQo975nStrtStC5bdHM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57394/629b8e_Original-5661-polestar-260126-1964-v002-1.jpg",
-      "publishedAt": "2026-05-13T08:09:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Foxconn colpita da un attacco ransomware. Gli hacker parlano di 8 TB di dati rubati",
-      "link": "https://images.dday.it/coqYUuE10aDYiykVT1wZFc3LjxDKyw07A3Z6381ujsY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57395/f2c309_foxconn_thumb.jpg",
-      "excerpt": "Le fabbriche sono già ripartite, ma resta il dubbio su cosa c'è dentro ai file sottratti. Fra i clienti di Foxconn ci sono grandi società come Apple e Nvidia... Leggi tutto",
-      "image": "https://images.dday.it/coqYUuE10aDYiykVT1wZFc3LjxDKyw07A3Z6381ujsY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57395/f2c309_foxconn_thumb.jpg",
-      "publishedAt": "2026-05-13T08:07:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Seat Ibiza e Arona 2026: nuovi colori e dotazione più ricca",
-      "link": "https://www.hdmotori.it/seat-ibiza-arona-2026-nuovi-colori-dotazione/",
-      "excerpt": "Debuttano le nuove tonalità Liminal e Hypnotic, mentre la dotazione di serie è più completa per i modelli 2026.",
-      "image": "https://hd2.tudocdn.net/1342304?w=660",
-      "publishedAt": "2026-05-13T08:00:01+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Che webcam incredibile a 24€: qualità video sorprendente e microfoni eccellenti",
-      "link": "https://www.tomshw.it/hardware/svbony-2k-webcam-in-offerta-a-soli-24eur-su-amazon-2026-05-13",
-      "excerpt": "Su Amazon è disponibile la SVBONY 2K, una soluzione completa per videoconferenze con doppi microfoni AI, autofocus CAF e compatibilità con Windows, MacOS e Linux. Offre immagini…",
-      "image": null,
-      "publishedAt": "2026-05-13T07:51:28+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Novità in arrivo per la fotocamera di iPhone: sarà personalizzabile",
-      "link": "https://www.hdblog.it/smartphone/articoli/n658136/wwdc-2026-novita-app-fotocamera-ios27/",
-      "excerpt": "Alla prossima WWDC di Apple, in programma per giugno, sono previste grosse novità anche per quanto riguarda l'app fotocamera di iPhone: finalmente sarà personalizzabile.",
-      "image": "https://hd2.tudocdn.net/1335060?w=660",
-      "publishedAt": "2026-05-13T07:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Endoscopia portatile: usa il tuo smartphone come display con questo accessorio",
-      "link": "https://www.tomshw.it/smartphone/endoscopio-industriale-1080p-in-offerta-a-soli-123eur-2026-05-13",
-      "excerpt": "Su Amazon è disponibile la Telecamera Endoscopica Ralcam, un boroscopio industriale con sonda da 8,5mm e risoluzione 1080P, dotato di sterzo bidirezionale a 180°, cavo semirigido…",
-      "image": null,
-      "publishedAt": "2026-05-13T07:41:28+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Gli Anelli del Potere S3 torna a novembre su Prime Video| Tutti i dettagli",
-      "link": "https://www.hdblog.it/amazon/articoli/n658142/anelli-potere-stagione-3-data-uscita/",
-      "excerpt": "La terza stagione de Gli Anelli del Potere arriva su Prime Video l'11 novembre 2026.",
-      "image": "https://hd2.tudocdn.net/1342274?w=660",
-      "publishedAt": "2026-05-13T07:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "La VPN rallenta la connessione Internet? Scopri come funziona davvero!",
-      "link": "https://www.tomshw.it/hardware/la-vpn-rallenta-la-tua-connessione-internet-scopri-come-funziona-davvero",
-      "excerpt": "Negli ultimi anni le VPN sono diventate uno strumento sempre più utilizzato per proteggere la privacy online, rendere più sicura la navigazione e accedere a contenuti disponibili…",
-      "image": null,
-      "publishedAt": "2026-05-13T07:37:21+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Essenziale, monocromatica, irresistibile: la tastiera che oggi ha una marcia in più grazie allo sconto",
-      "link": "https://www.tomshw.it/hardware/tastiera-gaming-meccanica-60-in-offerta-a-soli-24eur-2026-05-13",
-      "excerpt": "Su Amazon è disponibile la Dierya×TMKB T68se, tastiera gaming meccanica 60% con 68 tasti, switch blu tattili, retroilluminazione monocromatica con 19 modalità e supporto…",
-      "image": null,
-      "publishedAt": "2026-05-13T07:37:01+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Lidl, ora la spesa si paga con i buoni pasto: ecco quali, c'è anche Satispay",
-      "link": "https://www.hdblog.it/mercato/articoli/n658139/lidl-buoni-pasto-satispay-spesa/",
-      "excerpt": "In tutti gli 800 punti vendita in Italia.",
-      "image": "https://hd2.tudocdn.net/1342268?w=660",
-      "publishedAt": "2026-05-13T07:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il MagSafe che trasforma il tuo iPhone in un portafoglio tascabile",
-      "link": "https://www.tomshw.it/smartphone/portafoglio-magsafe-esr-in-offerta-a-soli-24eur-2026-05-13",
-      "excerpt": "Su Amazon è disponibile il portafoglio MagSafe ESR in pelle vegana, compatibile con iPhone serie 17e/17/16/15/14/13/12 e alcuni dispositivi Samsung. Offre 5 slot per carte,…",
-      "image": null,
-      "publishedAt": "2026-05-13T07:33:16+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Prova Fiat Grande Panda Turbo 100: quella con il manuale (a meno di 18.000 euro!) - Video",
-      "link": "https://www.hdmotori.it/prove/fiat-grande-panda-turbo-100-manuale-a-meno-di-18-000-euro-video/",
-      "excerpt": "Con l'arrivo del cambio manuale su Fiat Grande Panda Turbo 100 si aprono tante possibilità per chi non vuole \"puntare\" a ibrido o automatico!",
-      "image": "https://hd2.tudocdn.net/1342282?w=660",
-      "publishedAt": "2026-05-13T07:30:49+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Kindle Scribe Colorsoft arriva in Italia: il taccuino Amazon ora scrive anche a colori",
-      "link": "https://images.dday.it/dy_mI28WmFi7coPcpl_yxU5rK98BLHaIr-ZQ5tLztyM/w:329/h:256/rt:fill/plain/s3%3A%2F%2Fdday-production%2Fsystem%2Fuploads%2Fnews%2Fsquare_crop_img%2F57393%2F2b56fa_sammo%CC%80_Kindle-Scribe-Colorsoft_Weekly-project-notes_copia.png",
-      "excerpt": "I nuovi Kindle Scribe arrivano in Italia con schermo da 11\", penna premium e funzioni IA per note, ricerca e riassunti. Due in bianco e nero, e il Colorsoft che introduce la…",
-      "image": "https://images.dday.it/dy_mI28WmFi7coPcpl_yxU5rK98BLHaIr-ZQ5tLztyM/w:329/h:256/rt:fill/plain/s3%3A%2F%2Fdday-production%2Fsystem%2Fuploads%2Fnews%2Fsquare_crop_img%2F57393%2F2b56fa_sammo%CC%80_Kindle-Scribe-Colorsoft_Weekly-project-notes_copia.png",
-      "publishedAt": "2026-05-13T07:30:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Panini Select su eBay Live: carte rare in diretta con Emiliano Viviano",
-      "link": "https://www.hdblog.it/hardware/offerte/n658140/panini-select-su-ebay-live-con-sportycardsit/",
-      "excerpt": "Il 13 maggio alle ore 22, SportyCardsIT porta su eBay Live una diretta dedicata alle carte Panini Select con la partecipazione dell'ex portiere Emiliano Viviano. Aste, acquisti in…",
-      "image": "https://hd2.tudocdn.net/1342279?w=660",
-      "publishedAt": "2026-05-13T07:30:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Dai una marcia in più al tuo iPad con la Magic Keyboard ora in forte sconto",
-      "link": "https://www.tomshw.it/smartphone/magic-keyboard-ipad-air-13-in-offerta-a-soli-267eur-2026-05-13",
-      "excerpt": "Su Amazon è disponibile un'ottima offerta sulla Apple Magic Keyboard per iPad Air 13'' (M2/M3), la tastiera sottile e portatile con trackpad integrato, 14 tasti funzione e…",
-      "image": null,
-      "publishedAt": "2026-05-13T07:27:13+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "TSMC mette 20 miliardi in Arizona, ma i problemi restano",
-      "link": "https://www.tomshw.it/hardware/tsmc-arizona-fab21-20-miliardi-problemi",
-      "excerpt": "TSMC ha approvato un'iniezione di capitale da 20 miliardi di dollari per la controllata TSMC Arizona, fondi destinati a proseguire l'espansione del sito Fab 21. La decisione…",
-      "image": null,
-      "publishedAt": "2026-05-13T07:21:40+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "I moduli cellulari cinesi rischiano il bando negli USA",
-      "link": "https://www.tomshw.it/hardware/moduli-cellulari-cinesi-bando-usa-iot",
-      "excerpt": "L'amministrazione statunitense starebbe valutando un bando dei moduli cellulari cinesi, piccoli componenti che permettono a dispositivi di ogni tipo di connettersi alle reti 4G e…",
-      "image": null,
-      "publishedAt": "2026-05-13T07:20:13+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Google e SpaceX guardano ai data center nello spazio",
-      "link": "https://www.tomshw.it/hardware/google-spacex-data-center-orbitali-ia",
-      "excerpt": "Google e SpaceX starebbero discutendo il lancio di data center in orbita, una delle idee più estreme nate dalla corsa al calcolo per l'intelligenza artificiale. Il progetto,…",
-      "image": null,
-      "publishedAt": "2026-05-13T07:18:42+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "6G: è la Cina a dettare il ritmo con i primi test su banda a 6 GHz",
-      "link": "https://www.hdblog.it/business/articoli/n658122/6g-test-cina/",
-      "excerpt": "In Cina sono ufficialmente cominciati i test per il 6G su banda a 6 GHz, coinvolti anche colossi come Huawei.",
-      "image": "https://hd2.tudocdn.net/1342222?w=660",
-      "publishedAt": "2026-05-13T07:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Migliori chiavette Internet e router wifi portatili (maggio 2026)",
-      "link": "https://www.tomshw.it/hardware/chiavette-internet-migliori",
-      "excerpt": "Nel panorama digitale odierno, la possibilità di navigare su Internet in modo rapido e affidabile ovunque ci si trovi è diventata una necessità più che un lusso. Che si tra...",
-      "image": null,
-      "publishedAt": "2026-05-13T06:12:36+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Sony Xperia 1 VIII cambia aspetto per la prima volta dopo anni. Nuovo blocco fotocamere e scatti più “semplici”",
-      "link": "https://images.dday.it/4Lhf7TXe0zCgFHhNWkkGpgQxbucmPTR6fNWAnatpnOY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57383/3f0478_small_Xperia_1_VIII_group_blacklowres_copia.jpg",
-      "excerpt": "Un quadrato invece del classico semaforo per il modulo delle fotocamere, che ha un tele con un sensore molto più grande. Cambia anche la finitura esterna che ricorda la pietra…",
-      "image": "https://images.dday.it/4Lhf7TXe0zCgFHhNWkkGpgQxbucmPTR6fNWAnatpnOY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57383/3f0478_small_Xperia_1_VIII_group_blacklowres_copia.jpg",
-      "publishedAt": "2026-05-13T04:35:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Svelata la nuova MG4. Ma la vera sorpresa è la Urban: prezzo di lancio di 19.490 euro",
-      "link": "https://images.dday.it/eNZs0sfT_fna5agHet84fqHcytHC_Al8TGrVGEm587U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57392/8446a0_mg4u_thumb.jpg",
-      "excerpt": "MG4 si sdoppia e la Urban prende di mira le city car. A meno di 20 mila euro (con bonus e finanziaria) è più equipaggiata e ha più autonomia di tanti concorrenti... Leggi tutto",
-      "image": "https://images.dday.it/eNZs0sfT_fna5agHet84fqHcytHC_Al8TGrVGEm587U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57392/8446a0_mg4u_thumb.jpg",
-      "publishedAt": "2026-05-12T22:05:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Gli AirPods Pro diventano apparecchi acustici in Italia. Come usarli",
-      "link": "https://images.dday.it/Rf1B-szifjy1ydm1vXtdc2-mMYuHZc7vZ3Hg_d68W34/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57391/195e46_Apple-AirPods-Pro-3-Hearing-Aid-IT-lifestyle.jpg",
-      "excerpt": "Da oggi la funzione \"Apparecchio acustico\" degli AirPods Pro è finalmente disponibile anche in Italia. Già disponibile anche in altri paesi europei, la feature software ha…",
-      "image": "https://images.dday.it/Rf1B-szifjy1ydm1vXtdc2-mMYuHZc7vZ3Hg_d68W34/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57391/195e46_Apple-AirPods-Pro-3-Hearing-Aid-IT-lifestyle.jpg",
-      "publishedAt": "2026-05-12T17:02:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Con Gemini Intelligence Android diventa un’IA di sistema, non solo un sistema operativo",
-      "link": "https://images.dday.it/mtPUGbFJSyZ0V6K28n0ISEacFmC2vnRwpPZvgJhS0BM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57366/3aeaa9_small_2Immagine_1_generata_copia.png",
-      "excerpt": "Google ha presentato Gemini Intelligence, il nuovo “strato IA” di Android: automazioni tra app, Chrome più agentico, widget generati e prime integrazioni su auto, watch e…",
-      "image": "https://images.dday.it/mtPUGbFJSyZ0V6K28n0ISEacFmC2vnRwpPZvgJhS0BM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57366/3aeaa9_small_2Immagine_1_generata_copia.png",
-      "publishedAt": "2026-05-12T17:01:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Ecco i Googlebook: Google ripensa il laptop inserendo Gemini nel puntatore del mouse",
-      "link": "https://images.dday.it/K7wgcFrs-DOTmdg9qdzhkDY2UiFXjF5tU9R8eRHJ_GI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57384/1fda06_HW-Zoom-2.jpg",
-      "excerpt": "Magic Pointer, widget generativi, app Android che girano dal telefono e un glowbar arcobaleno: dopo 15 anni dai primi Chromebook arriva un nuovo concetto di laptop firmato Google.…",
-      "image": "https://images.dday.it/K7wgcFrs-DOTmdg9qdzhkDY2UiFXjF5tU9R8eRHJ_GI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57384/1fda06_HW-Zoom-2.jpg",
-      "publishedAt": "2026-05-12T17:01:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Android 17 strizza l’occhio ai creator con il supporto nativo a Instagram. Arriva anche Adobe Premiere",
-      "link": "https://images.dday.it/aqe49weczV-9jyBKi2vH4DbbIqUrPF3sS6vEcjqVaxM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57390/40966a_andr.jpg",
-      "excerpt": "Google annuncia le novità della prossima versione di Android: oltre al pacchetto di feature in chiave IA, che abbiamo trattato a parte, arrivano interessanti novità per i creator.…",
-      "image": "https://images.dday.it/aqe49weczV-9jyBKi2vH4DbbIqUrPF3sS6vEcjqVaxM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57390/40966a_andr.jpg",
-      "publishedAt": "2026-05-12T17:00:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
