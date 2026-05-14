@@ -1,105 +1,258 @@
 {
-  "generatedAt": "2026-05-13T22:42:44.921548+00:00",
+  "generatedAt": "2026-05-14T09:39:30.931519+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Il futuro di ChromeOS: cosa ne sarà dei Chromebook dopo l'arrivo dei Googlebook?",
-      "link": "https://www.hdblog.it/portatili/articoli/n658169/futuro-chromeos-chromebook-dopo-arrivo-googlebook/",
-      "excerpt": "Google dovrà valutare bene se accantonare ChromeOS e i Chromebook per fare spazio al suo nuovo progetto fortemente incentrato sull'AI.",
-      "image": "https://hd2.tudocdn.net/1342317?w=660",
-      "publishedAt": "2026-05-13T18:31:00+00:00",
+      "title": "Puoi chattare con Meta AI in incognito su WhatsApp. Ecco come funziona",
+      "link": "https://images.dday.it/HfK4DJtVgvgiHDejnBpLRPIkwl9t_IxzLTngQeBz1TQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57415/79e186_malalEnglish_WhatsApp_incognito-chat-with-meta-ai-1_copia.png",
+      "excerpt": "La funzione è in distribuzione e permetterà di non salvare la chat e di escludere completamente Meta dalla stessa, perché l’interazione con l’assistente sarà blindata nel Private…",
+      "image": "https://images.dday.it/HfK4DJtVgvgiHDejnBpLRPIkwl9t_IxzLTngQeBz1TQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57415/79e186_malalEnglish_WhatsApp_incognito-chat-with-meta-ai-1_copia.png",
+      "publishedAt": "2026-05-14T09:35:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Incredibile: al Rally di Portogallo un furgone sul percorso della prova speciale",
+      "link": "https://www.hdmotori.it/rally-portogallo-furgone-prova-speciale/",
+      "excerpt": "Durante la SS7 del Rally Portogallo, la Toyota di Elfyn Evans ha incontrato un carro attrezzi sul tracciato in gara.",
+      "image": "https://hd2.tudocdn.net/1342621?w=660",
+      "publishedAt": "2026-05-14T09:30:51+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "L'ultima novità di WhatsApp per la privacy: le chat in incognito con Meta AI",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n658232/novita-whatsapp-privacy-chat-incognito-meta-ai/",
-      "excerpt": "Sono arrivate le chat in incognito con Meta AI all'interno di WhatsApp: nessuno può leggere i messaggi scambiati, ma non era già così?",
-      "image": "https://hd2.tudocdn.net/1342411?w=660",
-      "publishedAt": "2026-05-13T18:30:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Canon EOS R6 V, mirrorless full-frame per vloggers con ventola e video 7K",
-      "link": "https://www.hdblog.it/fotografia/articoli/n658266/canon-eos-r6-v-full-frame-mirrorless-vlogger/",
-      "excerpt": "Niente mirino elettronico, però!",
-      "image": "https://hd2.tudocdn.net/1342506?w=660",
-      "publishedAt": "2026-05-13T18:11:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Stellantis entra nella WCM Association: un nuovo capitolo",
-      "link": "https://www.hdmotori.it/stellantis-entra-wcm-association/",
-      "excerpt": "\"Un impegno verso l'eccellenza industriale\": Francesco Ciancia e i vertici dell'Associazione celebrano una collaborazione destinata a ridefinire gli standard del settore",
-      "image": "https://hd2.tudocdn.net/1342501?w=660",
-      "publishedAt": "2026-05-13T18:00:26+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Apple si schiera con Google contro l'UE nelle consultazioni per l'AI in Android",
-      "link": "https://www.hdblog.it/apple/articoli/n658263/apple-google-ai-android-pericolo-privacy-sicurezza/",
-      "excerpt": "Il colosso di Cupertino dice che l'apertura di Android alle AI di terze parti è un rischio per la sicurezza e la privacy degli utenti.",
-      "image": "https://hd2.tudocdn.net/1108284?w=660",
-      "publishedAt": "2026-05-13T17:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Spotify: gli account per bambini disponibili da oggi per il piano free",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n658257/spotify-account-bambini-piano-free/",
-      "excerpt": "Si potrà controllare l’accesso a brani e artisti specifici.",
-      "image": "https://hd2.tudocdn.net/1342484?w=660",
-      "publishedAt": "2026-05-13T17:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Oliver Zipse lascia la carica di CEO del BMW Group, si chiude un'era",
-      "link": "https://www.hdmotori.it/oliver-zipse-ceo-bmw-group-addio/",
-      "excerpt": "Dopo 35 anni di servizio e il lancio della NEUE KLASSE, Oliver Zipse cede la guida del Gruppo a Milan Nedeljković per un nuovo corso BMW",
-      "image": "https://hd2.tudocdn.net/1342494?w=660",
-      "publishedAt": "2026-05-13T17:30:10+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iOS e iPadOS 26.5 portano in Italia una nuova feature per la privacy",
-      "link": "https://www.hdblog.it/smartphone/articoli/n658259/apple-iphone-privacy-modem-c1-c1x-operatore/",
-      "excerpt": "Tutti i dispositivi dotati di modem proprietario Apple possono disattivare la condivisione della posizione precisa con l'operatore di rete.",
-      "image": "https://hd2.tudocdn.net/1326774?w=660",
-      "publishedAt": "2026-05-13T17:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "ASUS ROG celebra i 20 anni con una scheda madre effetto nostalgia",
-      "link": "https://www.hdblog.it/hardware/articoli/n658255/asus-rog-crosshair-20th-anniversary-edition/",
-      "excerpt": "A quanto pare avremo una 20th anniversary Edition della prima scheda madre lanciata dal brand ROG.",
-      "image": "https://hd2.tudocdn.net/1342481?w=660",
-      "publishedAt": "2026-05-13T17:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Amanda Seyfried ne Il Testamento di Ann Lee. Dal 20 maggio su Disney+",
-      "link": "https://www.hdblog.it/curiosita/articoli/n641245/il-testamento-di-ann-lee-trailer-film-seyfried/",
-      "excerpt": "Trailer e poster de Il Testamento di Ann Lee, il biopic su Ann Lee diretto da Mona Fastvold.",
-      "image": "https://hd2.tudocdn.net/1308117?w=660",
-      "publishedAt": "2026-05-13T17:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Hermes Agent trasforma il tuo PC RTX in un agente IA evoluto",
-      "link": "https://www.tomshw.it/hardware/hermes-agent-pc-nvidia-rtx-ai",
-      "excerpt": "Hermes Agent, il framework open source di Nous Research, entra al centro del nuovo appuntamento di RTX AI Garage dedicato agli agenti IA locali. La novità non è solo la…",
+      "title": "Non è solo una TV Amazon: con soundbar inclusa, questo bundle è un vero affare",
+      "link": "https://www.tomshw.it/hardware/amazon-ember-43-con-soundbar-in-offerta-a-soli-380eur-2026-05-14",
+      "excerpt": "Su Amazon è disponibile un'ottima offerta sul bundle Amazon Ember Serie 4 da 43 con Fire TV Soundbar: una smart TV 4K Ultra HD con HDR10+, Dolby Audio e telecomando Alexa,…",
       "image": null,
-      "publishedAt": "2026-05-13T16:00:38+00:00",
+      "publishedAt": "2026-05-14T09:25:20+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Motorola razr 70 a 799€ con 100€ di sconto extra: il pieghevole 'economico' in offerta su Amazon",
+      "link": "https://www.hdblog.it/smartphone/offerte/n658307/motorola-razr-70-offerta-amazon-sconto/",
+      "excerpt": "Motorola Razr 70 è in offerta su Amazon al minimo storico: 100€ extra sconto direttamente a carrello.",
+      "image": "https://hd2.tudocdn.net/1342610?w=660",
+      "publishedAt": "2026-05-14T09:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "L'actigrafo brasiliano che ha accompagnato Artemis 2 verso la Luna per studiare il sonno degli astronauti",
+      "link": "https://images.dday.it/bm9OL9CC937B8E_XZZop6RoRCpjiq5emhMC8OHcrJEw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57413/99c358_artemis_thumb.jpg",
+      "excerpt": "Lo indossava l'intero equipaggio per monitorare con precisione il ciclo del sonno, un tema molto importante nello spazio... Leggi tutto",
+      "image": "https://images.dday.it/bm9OL9CC937B8E_XZZop6RoRCpjiq5emhMC8OHcrJEw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57413/99c358_artemis_thumb.jpg",
+      "publishedAt": "2026-05-14T09:17:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Cristallo anomalo scoperto tra le sabbie del primo test atomico della storia",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n658290/scoperta-nuovo-cristallo-test-trinity/",
+      "excerpt": "Scienziati scoprono un clatrato mai visto prima tra i resti vetrificati della prima esplosione nucleare.",
+      "image": "https://hd2.tudocdn.net/1342602?w=660",
+      "publishedAt": "2026-05-14T09:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Asciugatrice premium in offerta: prezzo bomba e ritiro gratuito della vecchia su Amazon",
+      "link": "https://www.tomshw.it/hardware/asciugatrice-haier-10kg-in-offerta-a-soli-500eur-2026-05-14",
+      "excerpt": "Su Amazon è disponibile l'Asciugatrice Haier I-Pro Serie 3 da 10 Kg, dotata di motore Inverter e pompa di calore, con classe energetica D. Questo elettrodomestico offre accesso a…",
+      "image": null,
+      "publishedAt": "2026-05-14T09:12:50+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Scrivania gaming funzionale con ottima gestione cavi, oggi in super sconto",
+      "link": "https://www.tomshw.it/videogioco/scrivania-gaming-con-led-rgb-scontata-del-35-2026-05-14",
+      "excerpt": "Su Amazon è disponibile la Berserker, una postazione ideale per i gamer più esigenti. Con una superficie di 113 x 60 x 75 cm, illuminazione LED RGB personalizzabile, gestione cavi…",
+      "image": null,
+      "publishedAt": "2026-05-14T09:07:39+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "I migliori titoli indie in sconto su Instant Gaming",
+      "link": "https://www.tomshw.it/videogioco/i-migliori-titoli-indie-in-sconto-su-instant-gaming",
+      "excerpt": "Se siete appassionati di videogiochi, probabilmente avrete già sentito parlare dei cosiddetti giochi indie. Questi titoli, sviluppati da piccoli studi o da singoli creatori, si…",
+      "image": null,
+      "publishedAt": "2026-05-14T09:02:15+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Recensione HONOR 600 Pro: gran display, buone foto e super batteria | VIDEO",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n657761/honor-600-pro-recensione-video/",
+      "excerpt": "Abbiamo testato a fondo il nuovo HONOR 600 Pro. La prestazioni fotografiche, la batteria e il display sono gli elementi che ci hanno convinto maggiormente.",
+      "image": "https://hd2.tudocdn.net/1342587?w=660",
+      "publishedAt": "2026-05-14T09:01:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "L’auto autonoma che evita le collisioni... quando è parcheggiata",
+      "link": "https://www.hdmotori.it/auto-autonoma-evita-collisioni-parcheggiata/",
+      "excerpt": "Una nuova tecnologia basata sull'intelligenza artificiale permetterà ai veicoli di spostarsi in modo autonomo da fermi per evitare urti con altri veicoli o oggetti in movimento.",
+      "image": "https://hd2.tudocdn.net/1342612?w=660",
+      "publishedAt": "2026-05-14T09:00:36+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Oblivion Remastered: il richiamo dell’Impero costa meno oggi (-25%)",
+      "link": "https://www.tomshw.it/videogioco/oblivion-remastered-in-offerta-a-soli-41eur-su-instant-gaming-2026-05-14",
+      "excerpt": "Su Instant Gaming è disponibile un'ottima offerta su The Elder Scrolls IV: Oblivion Remastered, il celebre remaster dell'iconico RPG di Bethesda. Il titolo è acquistabile al…",
+      "image": null,
+      "publishedAt": "2026-05-14T08:59:13+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Grand Theft Auto VI, i preordini partiranno la settimana prossima?",
+      "link": "https://www.hdblog.it/games/articoli/n658305/gta-6-preordini-leak-settimana-prossima/",
+      "excerpt": "Secondo Best Buy, il giorno X è il 18 maggio.",
+      "image": "https://hd2.tudocdn.net/1342018?w=660",
+      "publishedAt": "2026-05-14T08:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Rubavano dati di calciatori e persone dello spettacolo: due poliziotti arrestati",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n658299/furto-dati-calciatori-vip-arresto-poliziotti/",
+      "excerpt": "Usavano le loro password per entrare nei database e rivendere le informazioni.",
+      "image": "https://hd2.tudocdn.net/1342605?w=660",
+      "publishedAt": "2026-05-14T08:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Basta una chiavetta USB per entrare nei PC Microsoft: addio BitLocker",
+      "link": "https://www.hdblog.it/microsoft/articoli/n658294/exploit-yellowkey-bitlocker-windows/",
+      "excerpt": "Un ricercatore scopre YellowKey, un exploit che sblocca i drive BitLocker con una semplice USB.",
+      "image": "https://hd2.tudocdn.net/1342598?w=660",
+      "publishedAt": "2026-05-14T08:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Indiana Jones e l'Antico Cerchio, com'è su Nintendo Switch 2?",
+      "link": "https://www.tomshw.it/videogioco/indiana-jones-e-lantico-cerchio-recensione-nintendo-switch-2",
+      "excerpt": "Certe icone sembrano semplicemente immortali: Indiana Jones appartiene a quella ristrettissima cerchia di personaggi che hanno attraversato decenni di cinema, videogiochi e…",
+      "image": null,
+      "publishedAt": "2026-05-14T08:44:21+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Con la sua pubblicità Netflix raggiunge 250 milioni di spettatori nel mondo. Il calcolo però è “fatto in casa”",
+      "link": "https://images.dday.it/i2MqxlnLvSxm2i8QoQ9NUzoec6OaxjToZhgCXHBsCvc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57411/a0cb44_small_Depositphotos_356995474_XL_copia.jpg",
+      "excerpt": "Netflix presenta agli inserzionisti un pubblico pubblicitario globale enorme, ma il numero va letto con cautela, perché dietro i 250 milioni c’è una metrica proprietaria non…",
+      "image": "https://images.dday.it/i2MqxlnLvSxm2i8QoQ9NUzoec6OaxjToZhgCXHBsCvc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57411/a0cb44_small_Depositphotos_356995474_XL_copia.jpg",
+      "publishedAt": "2026-05-14T08:40:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "WhatsApp, in test una novità per gli stati: le reazioni con emoji diventano più rapide",
+      "link": "https://www.hdblog.it/smartphone/articoli/n658303/whatsapp-reazioni-rapide-emoji/",
+      "excerpt": "Le novità in test su Android",
+      "image": "https://hd2.tudocdn.net/1342603?w=660",
+      "publishedAt": "2026-05-14T08:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Display Colorsoft da 7″ e autonomia fino a 8 settimane: Kindle Colorsoft ora in offerta",
+      "link": "https://images.dday.it/W4DavS93bBPDzb-h74cDrtHPky9OM2Z0P5af0CesgnA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/55967/b83df5_ape2.jpg",
+      "excerpt": "Kindle Colorsoft è l’e-reader a colori di Amazon pensato per libri, riviste e documenti, con schermo da 7 pollici, 16 GB di spazio di archiviazione e un’autonomia che può arrivare…",
+      "image": "https://images.dday.it/W4DavS93bBPDzb-h74cDrtHPky9OM2Z0P5af0CesgnA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/55967/b83df5_ape2.jpg",
+      "publishedAt": "2026-05-14T08:35:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Questo monitor OLED segue il calo dei prezzi dei pannelli: sconto record",
+      "link": "https://www.tomshw.it/hardware/msi-qd-oled-4k-240hz-in-offerta-a-soli-664eur-2026-05-14",
+      "excerpt": "Su Amazon è disponibile un'offerta imperdibile per il monitor da gaming MSI MPG 321URXW QD-OLED, un pannello Quantum Dot OLED da 31,5 con risoluzione 4K UHD, frequenza di…",
+      "image": null,
+      "publishedAt": "2026-05-14T08:32:31+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La Golf elettrica? Verso il 2030. Volkswagen prende tempo per il suo modello più atteso",
+      "link": "https://images.dday.it/YNKKawxpxkuRxUYRKtz0k_I0clyNRAOnES1vNJAEw7o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57410/3e4338_vw_thumb.jpg",
+      "excerpt": "La compatta elettrica di Volkswagen slitta oltre il 2028. Il gruppo aspetta la nuova piattaforma SSP e punta prima sui modelli elettrici già in arrivo nella gamma ID... Leggi tutto",
+      "image": "https://images.dday.it/YNKKawxpxkuRxUYRKtz0k_I0clyNRAOnES1vNJAEw7o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57410/3e4338_vw_thumb.jpg",
+      "publishedAt": "2026-05-14T08:31:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "JBL non pensa solo agli audiofili: queste cuffie gaming ora costano meno che mai",
+      "link": "https://www.tomshw.it/videogioco/jbl-quantum-650-in-offerta-a-soli-119eur-su-amazon-2026-05-14",
+      "excerpt": "Su Amazon è disponibile un'ottima offerta sulle JBL Quantum 650, cuffie gaming wireless con driver dinamici da 50 mm e JBL Quantum Spatial Sound di nuova generazione. Dotate di…",
+      "image": null,
+      "publishedAt": "2026-05-14T08:29:06+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Netflix, il piano con pubblicità ha più di 250 milioni di utenti mensili",
+      "link": "https://www.hdblog.it/mercato/articoli/n658295/netflix-250-milioni-abbonamenti-pubblicita/",
+      "excerpt": "Gli utenti premiano il risparmio",
+      "image": "https://hd2.tudocdn.net/1331635?w=660",
+      "publishedAt": "2026-05-14T08:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Warhammer 40.000: Mechanicus 2 arriva prima del previsto",
+      "link": "https://www.tomshw.it/videogioco/warhammer-40000-mechanicus-2-uscita-skulls",
+      "excerpt": "Warhammer 40.000: Mechanicus 2 arriverà prima di quanto molti si aspettassero. Il tattico a turni uscirà il 21 maggio, in coincidenza con Warhammer Skulls. L’evento annuale di…",
+      "image": null,
+      "publishedAt": "2026-05-14T08:06:30+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Finalmente con iOS 26.5 i wearable non Apple in Europa ottengono il pairing degli AirPods e le notifiche di Apple Watch",
+      "link": "https://images.dday.it/9N0-kCEBiqb2b1tnHmPt0S4r3UxNLykUNdSDSgBsR2g/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57409/86f3bc_small_Depositphotos_870411470_XL_copia.jpg",
+      "excerpt": "Apple apre agli accessori di terze parti funzioni storicamente esclusive di Watch e AirPods. Proximity pairing, notifiche interattive e Live Activities, solo per gli utenti…",
+      "image": "https://images.dday.it/9N0-kCEBiqb2b1tnHmPt0S4r3UxNLykUNdSDSgBsR2g/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57409/86f3bc_small_Depositphotos_870411470_XL_copia.jpg",
+      "publishedAt": "2026-05-14T07:56:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Il robot Figure 03 smista pacchi 24 ore su 24, 7 giorni su 7: la diretta sui social",
+      "link": "https://images.dday.it/AgJzE-mgYnbvPXcRsObCOhWwFhl-EvDKRWOCM4kV1U8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57408/0231b9_small_Screenshot_2026-05-14_alle_09.26.13_copia.png",
+      "excerpt": "Il CEO di Figure ha prolungato la demo di Figure 03 da 8 ore a 7 giorni continui. Il robot umanoide lavora senza pause e viene sostituito automaticamente dal sistema Helix-02…",
+      "image": "https://images.dday.it/AgJzE-mgYnbvPXcRsObCOhWwFhl-EvDKRWOCM4kV1U8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57408/0231b9_small_Screenshot_2026-05-14_alle_09.26.13_copia.png",
+      "publishedAt": "2026-05-14T07:27:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Il nuovo aggiornamento di Android Auto sfrutta anche schermi con forme strane",
+      "link": "https://images.dday.it/C6DbMSKB54SYZEWC8cG8zJkL0ULoRL3kAZ1r5Bi-lYc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57407/bc61f2_Screenshot_2026-05-14_at_08.54.41.png",
+      "excerpt": "Una nuova interfaccia pensata per sfruttare l’intera superficie dei display, anche quando tonda o asimmetrica, widget sempre in vista e Gemini integrato per la nuova versione di…",
+      "image": "https://images.dday.it/C6DbMSKB54SYZEWC8cG8zJkL0ULoRL3kAZ1r5Bi-lYc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57407/bc61f2_Screenshot_2026-05-14_at_08.54.41.png",
+      "publishedAt": "2026-05-14T07:06:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Migliori stampanti 3D a resina (maggio 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-stampanti-3d-resina",
+      "excerpt": "La stampa 3D ha trasformato il modo in cui progettiamo e realizziamo oggetti fisici, portando nelle mani di hobbisti, artigiani e professionisti uno strumento un tempo riservato a…",
+      "image": null,
+      "publishedAt": "2026-05-14T06:23:16+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -113,164 +266,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Il vero \"Slim gaming\" è realtà: prestazioni desktop in meno di 2 cm grazie a NVIDIA",
-      "link": "https://www.tomshw.it/hardware/il-vero-slim-gaming-e-realta-prestazioni-desktop-in-meno-di-2-cm-grazie-a-nvidia",
-      "excerpt": "Per anni il gaming su laptop ha avuto un'estetica precisa e immediatamente riconoscibile: chassis spessi, prese d'aria imponenti e un peso che rendeva questi laptop davvero poco…",
-      "image": null,
-      "publishedAt": "2026-05-13T15:14:41+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Malware nascosto per 20 mesi: la multa è salatissima",
-      "link": "https://www.tomshw.it/hardware/south-staffordshire-water-multa-data-breach",
-      "excerpt": "South Staffordshire Water e la controllante South Staffordshire hanno ricevuto una multa da 963.900 sterline dopo un cyberattacco che ha esposto dati personali di clienti e…",
-      "image": null,
-      "publishedAt": "2026-05-13T14:33:27+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Sony Alpha 7R VI ufficiale, l’alta risoluzione smette di essere una cosa da treppiede",
       "link": "https://images.dday.it/6fdj5vV87n_EdP-YfIogsuo5X_BYtrfItGTNdviz2XE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57388/65caf0_small_Screenshot_2026-05-13_alle_16.14.29_copia.png",
       "excerpt": "Sony cambia passo con la Alpha 7R VI. Resta una mirrorless da altissima risoluzione, ma sensore stacked, AF più rapido e precattura la rendono meno legata allo studio e la…",
       "image": "https://images.dday.it/6fdj5vV87n_EdP-YfIogsuo5X_BYtrfItGTNdviz2XE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57388/65caf0_small_Screenshot_2026-05-13_alle_16.14.29_copia.png",
       "publishedAt": "2026-05-13T14:26:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Anthropic chiude la porta alle vendite non autorizzate",
-      "link": "https://www.tomshw.it/hardware/anthropic-azioni-private-warning-investitori",
-      "excerpt": "Anthropic ha avvertito gli investitori che diverse piattaforme secondarie non sono autorizzate a offrire accesso alle sue azioni. Il messaggio è netto: qualunque vendita o…",
-      "image": null,
-      "publishedAt": "2026-05-13T14:25:31+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Non solo Ring Intercom: oggi a 45€ includi anche la Ring Indoor Camera",
-      "link": "https://www.tomshw.it/hardware/ring-intercom-indoor-camera-plus-sconto-del-68-2026-05-13",
-      "excerpt": "Su Amazon è disponibile un'offerta imperdibile sul bundle Ring Intercom di Amazon + Ring Indoor Camera Plus, la soluzione completa per la sicurezza domestica intelligente. Il kit…",
-      "image": null,
-      "publishedAt": "2026-05-13T14:22:34+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Phishing su Signal? Ora è molto più difficile cascarci",
-      "link": "https://www.tomshw.it/hardware/signal-avvisi-phishing-social-engineering",
-      "excerpt": "Signal introduce nuovi avvisi nell’app per rendere più difficile una delle forme di attacco più efficaci: convincere l’utente a fare da solo il passo sbagliato. Le modifiche…",
-      "image": null,
-      "publishedAt": "2026-05-13T14:22:28+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Foxconn sotto attacco: Nitrogen punta alla supply chain",
-      "link": "https://www.tomshw.it/hardware/foxconn-attacco-nitrogen-ransomware",
-      "excerpt": "Foxconn ha confermato che alcune fabbriche nordamericane sono state colpite da un cyberattacco, con gli impianti interessati ora in fase di ritorno alla normale operatività. La…",
-      "image": null,
-      "publishedAt": "2026-05-13T14:20:56+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il nuovo geniale microfono JBL EasySing Mic Mini trasforma qualsiasi speaker in una macchina da karaoke",
-      "link": "https://images.dday.it/KRI6_HUGqH8uRen1uydFM9OZZ_vh36CaAdNR62qHfR4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57404/b74773_671107-JBL_EasySing_Mic_Mini_-cde11b-original-1777553096.jpg",
-      "excerpt": "JBL lancia un microfono wireless estremamente versatile, adatto sia a creatori di contenuti che a chi ama cimentarsi nel karaoke. È ottimizzato per gli speaker portatili JBL, ma…",
-      "image": "https://images.dday.it/KRI6_HUGqH8uRen1uydFM9OZZ_vh36CaAdNR62qHfR4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57404/b74773_671107-JBL_EasySing_Mic_Mini_-cde11b-original-1777553096.jpg",
-      "publishedAt": "2026-05-13T14:20:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "L'Italia (e l'Europa) è in affitto e ora ha paura dello sfratto",
-      "link": "https://www.tomshw.it/business/italia-europa-affitto-sfratto-sovranita-digitale-yarix",
-      "excerpt": "Il 95% della tecnologia che fa girare imprese e PA italiane viene da fornitori extra-europei. NIS2 accende il problema, la risposta non c'è. C'è un'analogia che restituisce con…",
-      "image": null,
-      "publishedAt": "2026-05-13T14:05:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Offerta ghiotta sul Pixel 10 su Amazon: 256 GB a 699 euro",
-      "link": "https://images.dday.it/hzT0WjixwTaTx3zxXl2c-L371MH5psLYl67Ddl_fges/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57402/626027_pixel10_thumb.jpg",
-      "excerpt": "Su Amazon il Pixel 10, sia nero sia blu, è in vendita con uno sconto interessante... Leggi tutto",
-      "image": "https://images.dday.it/hzT0WjixwTaTx3zxXl2c-L371MH5psLYl67Ddl_fges/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57402/626027_pixel10_thumb.jpg",
-      "publishedAt": "2026-05-13T13:05:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Canon EOS R6 V porta il video in full frame ai creator: RAW 7K, Open Gate e raffreddamento attivo",
-      "link": "https://images.dday.it/jo6pRS_06EHz_evCpIHQWlMJ7af_dnc6VPlyNJXawbY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57400/17c343_small_EOS_R6V_Full_frame_Opengate_Sensor_copia.jpg",
-      "excerpt": "EOS R6 V si colloca tra mirrorless ibride e Cinema EOS compatte. Non è una C50 ridotta, ma una R6 ripensata per il video... Leggi tutto",
-      "image": "https://images.dday.it/jo6pRS_06EHz_evCpIHQWlMJ7af_dnc6VPlyNJXawbY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57400/17c343_small_EOS_R6V_Full_frame_Opengate_Sensor_copia.jpg",
-      "publishedAt": "2026-05-13T13:03:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Le piattaforme non possono usare le notizie senza trattare con gli editori: la Corte UE dà ragione all’Italia",
-      "link": "https://images.dday.it/c_vVmeJwjaceVyzmiFI_CfHHdbzshDod4R3fguo8jpk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57403/711a7e_small_corte_Immagine_1_generata_copia.png",
-      "excerpt": "La sentenza rafforza la posizione degli editori nelle trattative con le piattaforme. Chi usa le notizie online può essere tenuto a negoziare e a condividere dati economici...…",
-      "image": "https://images.dday.it/c_vVmeJwjaceVyzmiFI_CfHHdbzshDod4R3fguo8jpk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57403/711a7e_small_corte_Immagine_1_generata_copia.png",
-      "publishedAt": "2026-05-13T12:55:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migliori dissipatori ad aria per CPU (maggio 2026)",
-      "link": "https://www.tomshw.it/hardware/dissipatori-aria-cpu-migliori",
-      "excerpt": "Scegliere il miglior dissipatore ad aria per CPU è una decisione cruciale per chi desidera mantenere il proprio sistema stabile, performante e silenzioso. Con i più recenti…",
-      "image": null,
-      "publishedAt": "2026-05-13T11:27:53+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori stampanti laser (maggio 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-stampanti-laser",
-      "excerpt": "Al giorno d'oggi, scegliere una stampante laser di qualità rappresenta una decisione strategica sia per l’uso professionale che domestico. Grazie ai continui progressi…",
-      "image": null,
-      "publishedAt": "2026-05-13T11:20:32+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Googlebook è la mossa più ambiziosa di Google da anni, ma non è quello che tutti si aspettavano",
-      "link": "https://images.dday.it/9TTT01iemqgaWAJ40r7tcBnbpTYZi_SjCOk4vGi-lS0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57401/af9710_Gemini_Generated_Image_iys53eiys53eiys5.jpg",
-      "excerpt": "Ieri Google ha annunciato i Googlebook con il nuovo sistema operativo conosciuto come \"aluminium\". Sono costruiti attorno all'IA e per l'IA, come prevedibile, ma chi sperava in un…",
-      "image": "https://images.dday.it/9TTT01iemqgaWAJ40r7tcBnbpTYZi_SjCOk4vGi-lS0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57401/af9710_Gemini_Generated_Image_iys53eiys53eiys5.jpg",
-      "publishedAt": "2026-05-13T10:55:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Lo spazzolino elettrico Oral-B iO 6N torna al prezzo più basso: kit con 2 testine, custodia da viaggio e dentifricio",
-      "link": "https://images.dday.it/DUpbwLT1BObp7Xe_SKxL0KSom-x4HmkfPIXPG3LqBls/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57398/ac3a01_small_61kSZOMek9L._AC_SL1080__copia.jpg",
-      "excerpt": "Oral-B iO 6N torna in offerta su Amazon con un kit completo: due testine, custodia da viaggio e dentifricio. Questo prezzo non si vedeva da marzo... Leggi tutto",
-      "image": "https://images.dday.it/DUpbwLT1BObp7Xe_SKxL0KSom-x4HmkfPIXPG3LqBls/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57398/ac3a01_small_61kSZOMek9L._AC_SL1080__copia.jpg",
-      "publishedAt": "2026-05-13T09:36:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Trump phone, cambiano le clausole del contratto: il deposito da 100 dollari non garantisce più che il telefono arrivi",
-      "link": "https://images.dday.it/uW6YdoCTpWib3zRYSNEMj1NJYvm6csPASRF9gJSViOk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57397/0c23a5_small_wwcua4txm5_1_copia.png",
-      "excerpt": "Dopo mesi di rinvii, Trump Mobile cambia i termini del deposito. Il preodine resta aperto, ma il telefono potrebbe anche non essere prodotto... Leggi tutto",
-      "image": "https://images.dday.it/uW6YdoCTpWib3zRYSNEMj1NJYvm6csPASRF9gJSViOk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57397/0c23a5_small_wwcua4txm5_1_copia.png",
-      "publishedAt": "2026-05-13T09:01:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "La \"Dune Buggy\" torna tra noi con Renault JP4X4 Concept",
-      "link": "https://images.dday.it/qadn4ejpYw43924ePDa3WHhUXxMP4jCkur8u2cV2ctg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57396/ae913a_22867b7fb48179e481c7b0c48ac009ef-l.jpg.jpeg",
-      "excerpt": "Voglia di spensieratezza e di vita da spiaggia, la nuova concept car francese richiama le Dune Buggy degli anni 60 in chiave elettrica e tech... Leggi tutto",
-      "image": "https://images.dday.it/qadn4ejpYw43924ePDa3WHhUXxMP4jCkur8u2cV2ctg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57396/ae913a_22867b7fb48179e481c7b0c48ac009ef-l.jpg.jpeg",
-      "publishedAt": "2026-05-13T08:15:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
