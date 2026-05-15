@@ -1,15 +1,96 @@
 {
-  "generatedAt": "2026-05-15T16:24:59.323945+00:00",
+  "generatedAt": "2026-05-15T21:38:52.877116+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Batterie stampate in 3D: raddoppia la capacità di energia",
-      "link": "https://www.hdblog.it/green/articoli/n658403/batterie-3d-raddoppio-capacita/",
-      "excerpt": "Nuovi elettrodi 3D raddoppiano la capacità delle batterie mantenendo ricariche ultra veloci.",
-      "image": "https://hd2.tudocdn.net/1342864?w=660",
-      "publishedAt": "2026-05-15T16:20:00+00:00",
+      "title": "Xiaomi, gli auricolari clip-on promettono molto bene: leggerissimi e premium",
+      "link": "https://www.hdblog.it/indossabili/articoli/n658530/xiaomi-auricolari-clip-titanio-specifiche-peso/",
+      "excerpt": "La società ha impiegato addirittura il titanio per ottenere un peso super contenuto.",
+      "image": "https://hd2.tudocdn.net/1343038?w=660",
+      "publishedAt": "2026-05-15T18:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Svolta CMU: robot umanoidi manipolano oggetti fragili senza romperli",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n658411/intelligenza-artificiale-robotica-movimento/",
+      "excerpt": "Nuovo sistema AI HTD permette ai robot umanoidi di coordinare equilibrio e tatto con precisione.",
+      "image": "https://hd2.tudocdn.net/1342869?w=660",
+      "publishedAt": "2026-05-15T17:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Intel torna in Formula 1 e non solo: partnership con McLaren",
+      "link": "https://www.hdblog.it/hardware/articoli/n658529/intel-mclaren-partnership-formula-1-indycar/",
+      "excerpt": "Coinvolta anche la divisione Indycar.",
+      "image": "https://hd2.tudocdn.net/1343032?w=660",
+      "publishedAt": "2026-05-15T17:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Niente GPS? Nessun problema per il nuovo drone d'attacco SkyLance",
+      "link": "https://www.hdblog.it/droni/articoli/n658421/skylance-drone-test-rotron/",
+      "excerpt": "SkyLance supera i test: il drone d'attacco economico che vola senza GPS e sfida i radar.",
+      "image": "https://hd2.tudocdn.net/1342881?w=660",
+      "publishedAt": "2026-05-15T17:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Android Quick Share, arriva il metodo \"universale\" per inviare file a iPhone",
+      "link": "https://www.hdblog.it/google/articoli/n658526/google-android-file-iphone-codice-qr-quick-share/",
+      "excerpt": "Con un codice QR. Ma, un momento... quindi vuol dire che non tutti gli smartphone Android potranno interfacciarsi con AirDrop?",
+      "image": "https://hd2.tudocdn.net/1090524?w=660",
+      "publishedAt": "2026-05-15T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google vuole essere trattata come Apple: chiede la priorità per i chip a TSMC",
+      "link": "https://www.hdblog.it/hardware/articoli/n658513/google-apple-tsmc-ai-priorita-tensor-chip-taiwan/",
+      "excerpt": "Da Taiwan arrivano indiscrezioni su una mossa strategica importante.",
+      "image": "https://hd2.tudocdn.net/1001816?w=660",
+      "publishedAt": "2026-05-15T17:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Energia nucleare: nuovi dati sui sali fusi riaprono le speranze",
+      "link": "https://www.hdblog.it/green/articoli/n658437/nucleare-sali-fusi-dati-ornl/",
+      "excerpt": "Scienziati dell'ORNL svelano dati inediti sui sali fusi per reattori nucleari avanzati.",
+      "image": "https://hd2.tudocdn.net/1342983?w=660",
+      "publishedAt": "2026-05-15T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Computer quantistici e supercomputer: simulata proteina da 12.000 atomi",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n658405/simulazione-quantistica-proteine-12000-atomi/",
+      "excerpt": "Record storico: simulata proteina da 12.000 atomi unendo calcolo quantistico e supercomputer.",
+      "image": "https://hd2.tudocdn.net/1284602?w=660",
+      "publishedAt": "2026-05-15T16:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Centinaia di militari britannici espongono informazioni sensibili su Strava",
+      "link": "https://www.hdblog.it/android/articoli/n658522/strava-500-militari-uk-dati-privacy-basi-nucleari/",
+      "excerpt": "Oltre 500, solo dall'inizio dell'anno. Svelati dettagli anche di basi con armi nucleari.",
+      "image": "https://hd2.tudocdn.net/1294617?w=660",
+      "publishedAt": "2026-05-15T16:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Quando il lusso di Rolls-Royce incontra l'energia del \"Kongoverse\"",
+      "link": "https://www.hdmotori.it/rolls-royce-kongoverse/",
+      "excerpt": "Solo cinque esemplari al mondo per un'opera d'arte itinerante che fonde il lusso Bespoke con il \"Kongoverse\": originalità made in Rolls-Royce",
+      "image": "https://hd2.tudocdn.net/1343021?w=660",
+      "publishedAt": "2026-05-15T16:30:15+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -23,60 +104,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Cape Fear arriva su Apple TV: Spielberg e Scorsese tornano al thriller | Trailer e data",
-      "link": "https://www.hdblog.it/apple/articoli/n647102/apple-tv-cape-fear-serie-thriller/",
-      "excerpt": "Cape Fear debutta su Apple TV a giugno con Bardem e Adams, prodotta da Spielberg e Scorsese",
-      "image": "https://hd2.tudocdn.net/1319213?w=660",
-      "publishedAt": "2026-05-15T16:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "MV Agusta e ABT, nasce la \"Hyper-Naked\" da 208 CV in serie limitata",
-      "link": "https://www.hdmotori.it/mv-agusta-abt-nasce-hyper-naked-208-cv/",
-      "excerpt": "Meccanica di lusso e tuning tedesco: la MV Agusta Brutale 1000 ABT unisce fibra di carbonio, sospensioni Öhlins e 208 CV",
-      "image": "https://hd2.tudocdn.net/1343013?w=660",
-      "publishedAt": "2026-05-15T16:00:31+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Satan II, il missile russo da 35.000 km che spaventa l’Occidente",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n658418/test-missile-sarmat-russia/",
-      "excerpt": "La Russia ha testato con successo il missile Sarmat, capace di colpire obiettivi a distanze record.",
-      "image": "https://hd2.tudocdn.net/1342876?w=660",
-      "publishedAt": "2026-05-15T15:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "TIMVISION: aumentano i prezzi per alcune offerte fino a 72 euro l’anno",
-      "link": "https://www.hdblog.it/curiosita/articoli/n658499/timvision-aumentano-i-prezzi-fino-a-72-euro-anno/",
-      "excerpt": "Le rimodulazioni partiranno dal 1° agosto 2026.",
-      "image": "https://hd2.tudocdn.net/1342996?w=660",
-      "publishedAt": "2026-05-15T15:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Mindy Kaling torna su Disney+ con la nuova comedy Not Suitable for Work | Trailer",
-      "link": "https://www.hdblog.it/spettacolo/articoli/n654586/not-suitable-for-work-disney-plus/",
-      "excerpt": "Mindy Kaling racconta la scalata al successo di cinque ventenni a Manhattan su Disney+.",
-      "image": "https://hd2.tudocdn.net/1334561?w=660",
-      "publishedAt": "2026-05-15T15:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Opel, con Leapmotor non sarà un’operazione rebadging",
-      "link": "https://www.hdmotori.it/opel-leapmotor-rebadging/",
-      "excerpt": "Opel, brand nell’universo Stellantis, ha spiegato che l’alleanza con Leapmotor non porterà a un modello rimarchiato",
-      "image": "https://hd2.tudocdn.net/1343005?w=660",
-      "publishedAt": "2026-05-15T15:30:16+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Videocamere e videocitofoni Ring in sconto su Amazon: approfittane subito!",
       "link": "https://images.dday.it/AXd8FXDQ5inorjrf0pj4vuVNJrIRfOFxmHKcfCX0l4o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57347/ac042a_ape2.jpg",
       "excerpt": "Su Amazon sono ora attive offerte su videocamere e videocitofoni Ring, con funzioni come video in alta definizione, notifiche di movimento, audio bidirezionale e integrazione con…",
@@ -84,24 +111,6 @@
       "publishedAt": "2026-05-15T15:17:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Cosori Twinfry Compact: la friggitrice ad aria cuoce perfettamente su tutti i lati",
-      "link": "https://www.hdblog.it/home/articoli/n658493/cosori-twinfry-compact-friggitrice-aria-prezzo-ita/",
-      "excerpt": "Prezzo Italia.",
-      "image": "https://hd2.tudocdn.net/1342977?w=660",
-      "publishedAt": "2026-05-15T15:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Patente B, le nuove regole volute dall'UE: dalla licenza a 17 anni a esami più duri",
-      "link": "https://www.hdmotori.it/patente-b-nuove-regole/",
-      "excerpt": "L'Unione Europea ha tracciato le nuove regole per la Patente B, dalla licenza di guida a chi ha 17 anni a esami più rigidi a prova di ADAS",
-      "image": "https://hd2.tudocdn.net/1342995?w=660",
-      "publishedAt": "2026-05-15T15:00:31+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Segway Navimow spinge i robot rasaerba oltre il giardino domestico",
@@ -131,15 +140,6 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Batterie scariche in orbita? Arriva il primo Wi-Fi dell’energia",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n658415/rete-energetica-spaziale-star-catcher/",
-      "excerpt": "Star Catcher ottiene 65 milioni di dollari per creare la prima rete elettrica solare in orbita.",
-      "image": "https://hd2.tudocdn.net/1342873?w=660",
-      "publishedAt": "2026-05-15T14:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "I delist Xbox di maggio diventano ancora più pesanti",
       "link": "https://www.tomshw.it/videogioco/lego-2k-drive-rimosso-xbox-store-maggio-2026",
       "excerpt": "LEGO 2K Drive si aggiunge alla lista dei giochi Xbox destinati a sparire dagli store digitali tra maggio e giugno 2026. La novità è importante soprattutto perché cambia il quadro…",
@@ -163,24 +163,6 @@
       "excerpt": "Su AliExpress è disponibile un'offerta sul Ventilatore da collo portatile ricaricabile, dotato di batteria da 6000 mAh, design senza pale e 4 velocità regolabili. Perfetto per…",
       "image": null,
       "publishedAt": "2026-05-15T14:20:45+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "AT&T, T-Mobile e Verizon vogliono cancellare le zone morte",
-      "link": "https://www.tomshw.it/smartphone/operatori-usa-rete-satellitare-smartphone",
-      "excerpt": "AT&T, T-Mobile e Verizon stanno preparando una collaborazione rara per affrontare uno dei problemi più ostinati della telefonia mobile: le aree senza segnale. Secondo Android…",
-      "image": null,
-      "publishedAt": "2026-05-15T14:13:23+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Osaurus porta l’AI locale sul Mac, ma non rinuncia al cloud",
-      "link": "https://www.tomshw.it/hardware/osaurus-ai-locale-mac-cloud",
-      "excerpt": "Osaurus prova a mettere ordine in una fase in cui gli utenti Mac possono scegliere tra modelli locali, servizi cloud e strumenti agentici sempre più simili tra loro. Il progetto,…",
-      "image": null,
-      "publishedAt": "2026-05-15T14:12:26+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -210,6 +192,24 @@
       "publishedAt": "2026-05-15T13:16:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
+    },
+    {
+      "title": "Migliori zaini per l'aereo, Ryanair e non solo (maggio 2026)",
+      "link": "https://www.tomshw.it/altro/migliori-zaini-da-viaggio-in-aereo-ryanair-e-non-solo",
+      "excerpt": "Organizzare un viaggio in aereo, specialmente con compagnie low cost come Ryanair, richiede una pianificazione attenta, soprattutto quando si tratta del bagaglio a mano. Tra tutte…",
+      "image": null,
+      "publishedAt": "2026-05-15T11:36:22+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori caricatori wireless (maggio 2026)",
+      "link": "https://www.tomshw.it/smartphone/migliori-caricatori-wireless",
+      "excerpt": "La ricarica wireless è ormai una tecnologia diffusa e sempre più raffinata, rendendo più pratico e veloce il modo in cui alimentiamo i nostri dispositivi. I migliori caricatori…",
+      "image": null,
+      "publishedAt": "2026-05-15T11:33:20+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Migliori password manager (maggio 2026)",
