@@ -1,170 +1,251 @@
 {
-  "generatedAt": "2026-05-21T11:56:29.960118+00:00",
+  "generatedAt": "2026-05-21T18:28:24.675984+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "CD Projekt RED ha un asso nella manica per lo sviluppo dei suoi prossimi giochi",
-      "link": "https://www.hdblog.it/games/articoli/n659082/cd-projekt-red-witcher-cyberpunk-documentazione/",
-      "excerpt": "Molte più risorse e attenzione alla documentazione tecnica: se è completa e bene aggiornata, lo sviluppo diventa molto più semplice e veloce.",
-      "image": "https://hd2.tudocdn.net/1221958?w=660",
-      "publishedAt": "2026-05-21T11:55:00+00:00",
+      "title": "Ferrari, ritorna il cambio manuale? L’idea di una frizione fake divide",
+      "link": "https://www.hdmotori.it/ferrari-ritorno-cambio-manuale-frizione/",
+      "excerpt": "La Casa modenese vuole riportare in auge il cambio manuale con una soluzione inedita. Scopriamo le caratteristiche",
+      "image": "https://hd2.tudocdn.net/1344336?w=660",
+      "publishedAt": "2026-05-21T17:30:50+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Non pensare che iPhone sia fuori budget: su eBay l’iPhone 17e ora costa meno di 590€",
-      "link": "https://www.tomshw.it/smartphone/apple-iphone-17e-256gb-in-offerta-a-soli-589eur-2026-05-21",
-      "excerpt": "Su eBay è disponibile un'ottima offerta sull'Apple iPhone 17e 5G da 256GB, con display da 6,1, nella colorazione Bianco White. Si tratta di uno smartphone nuovo e originale,…",
+      "title": "Kobo, in arrivo su tutti gli eReader uno strumento simile a Goodreads",
+      "link": "https://www.hdblog.it/tablet/articoli/n659095/kobo-ereader-integrazione-goodreads-storygraph/",
+      "excerpt": "L'integrazione parte da giugno",
+      "image": "https://hd2.tudocdn.net/1344328?w=660",
+      "publishedAt": "2026-05-21T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple, una partita di calcio della MLS sarà ripresa interamente con gli iPhone 17 Pro",
+      "link": "https://www.hdblog.it/smartphone/articoli/n659140/apple-partita-iphone-17-pro/",
+      "excerpt": "iPhone verrà utilizzato per acquisire l'intera copertura video",
+      "image": "https://hd2.tudocdn.net/1344333?w=660",
+      "publishedAt": "2026-05-21T17:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google Beam si aggiorna: le videochiamate 3D ora sembrano reali",
+      "link": "https://www.hdblog.it/google/articoli/n659124/google-io-beam-audio-spaziale/",
+      "excerpt": "Google Beam si aggiorna: i partecipanti in 2D ora appaiono a grandezza naturale e con audio spaziale.",
+      "image": "https://hd2.tudocdn.net/1344304?w=660",
+      "publishedAt": "2026-05-21T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Starlink aumenta di nuovo i prezzi: ecco quanto costerà navigare adesso",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n659130/starlink-aumento-prezzi-italia/",
+      "excerpt": "Starlink aumenta i prezzi in Italia di sei euro al mese su tutti i piani residenziali fissi.",
+      "image": "https://hd2.tudocdn.net/1334514?w=660",
+      "publishedAt": "2026-05-21T16:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Astraux AL6 e AL7: due microcar elettriche al debutto in Italia",
+      "link": "https://www.hdmotori.it/astraux-al6-al7-microcar-elettriche/",
+      "excerpt": "China Car Company ha annunciato due microcar che si distinguono per il design non convenzionale e per la dotazione tecnologica completa.",
+      "image": "https://hd2.tudocdn.net/1344317?w=660",
+      "publishedAt": "2026-05-21T16:30:23+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Xiaomi Smart Band 10 Pro è ufficiale: così sembra uno smartwatch",
+      "link": "https://www.hdblog.it/indossabili/articoli/n659128/xiaomi-smart-band-10-pro-ufficiale-prezzo-funzioni/",
+      "excerpt": "Design curato, tanta autonomia e c'è pure una modalità gaming.",
+      "image": "https://hd2.tudocdn.net/1344325?w=660",
+      "publishedAt": "2026-05-21T16:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "N26 lancia in Italia la sua eSIM solo dati per navigare in oltre 100 Paesi",
+      "link": "https://www.hdblog.it/virtuali/articoli/n659125/n26-esim-solo-dati-per-navigare-in-100-paesi/",
+      "excerpt": "L’eSIM è attivabile sia dai clienti privati che con conto business.",
+      "image": "https://hd2.tudocdn.net/1344297?w=660",
+      "publishedAt": "2026-05-21T16:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "BMW M3 CS col cambio manuale: il canto del cigno si celebra in America",
+      "link": "https://www.hdmotori.it/bmw-m3-cs-cambio-manuale/",
+      "excerpt": "Con una edizione limitata BMW ha deciso di offrire l’attuale serie della M3 con cambio manuale negli Stati Uniti",
+      "image": "https://hd2.tudocdn.net/1344316?w=660",
+      "publishedAt": "2026-05-21T16:00:10+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Le fabbriche Hyundai si popolano di robot: arriva l'esercito Atlas",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n659026/hyundai-robot-atlas-fabbriche/",
+      "excerpt": "Hyundai schiera 25 mila umanoidi Atlas di Boston Dynamics nelle sue fabbriche americane.",
+      "image": "https://hd2.tudocdn.net/1312712?w=660",
+      "publishedAt": "2026-05-21T15:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Migliori RAM DDR5 (maggio 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-ram-ddr5",
+      "excerpt": "Con l’evoluzione costante del settore hardware, le RAM DDR5 sono diventate un componente imprescindibile per chi desidera realizzare un PC performante e al passo coi tempi.…",
       "image": null,
-      "publishedAt": "2026-05-21T11:54:17+00:00",
+      "publishedAt": "2026-05-21T15:40:01+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Un nuovo sparatutto sci-fi debutta oggi gratis su Xbox Game Pass",
-      "link": "https://www.tomshw.it/videogioco/luna-abyss-game-pass-recensioni-day-one-2026-05-21",
-      "excerpt": "Luna Abyss entra oggi, 21 maggio 2026, nel catalogo Xbox Game Pass come uscita day one. Il titolo è disponibile per gli abbonati Game Pass Ultimate e PC Game Pass su Xbox Series…",
+      "title": "Apple trasmetterà una partita intera di calcio ripresa con iPhone 17 Pro: è la prima volta nello sport professionistico",
+      "link": "https://images.dday.it/J4DFfPK0WzQuQgIeXrh2rbN6JgMXJt5dsCzF_IgExeY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57500/bb0b03_small_Apple-TV-MLS-logo-lockup_quick-read-16x9.jpg.large_2x_copia.jpg",
+      "excerpt": "Dopo gli inserti nel baseball e nella MLS Cup dell’anno scorso, Apple userà iPhone 17 Pro per catturare tutta LA Galaxy Houston Dynamo in diretta su Apple TV... Leggi tutto",
+      "image": "https://images.dday.it/J4DFfPK0WzQuQgIeXrh2rbN6JgMXJt5dsCzF_IgExeY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57500/bb0b03_small_Apple-TV-MLS-logo-lockup_quick-read-16x9.jpg.large_2x_copia.jpg",
+      "publishedAt": "2026-05-21T15:37:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "LG e TPV annunciano i primi monitor da gaming full HD che viaggiano a 1000 Hz",
+      "link": "https://images.dday.it/7pXMS0We_wKBHSwctL85bRAX_Rei28JeHiANLs4hNPs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57498/174e86_LG1000_1.jpg",
+      "excerpt": "Debuttano i primi monitor full HD con frequenza di quadro nativa a 1000 Hz, dedicati ai videogiocatori che competono nei tornei di eSport. I primi modelli sono di LG e AOC a brand…",
+      "image": "https://images.dday.it/7pXMS0We_wKBHSwctL85bRAX_Rei28JeHiANLs4hNPs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57498/174e86_LG1000_1.jpg",
+      "publishedAt": "2026-05-21T14:54:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Anthropic pagherà 15 miliardi di dollari all’anno a SpaceX per usare i suoi data center",
+      "link": "https://images.dday.it/K1-NsoJwhZxOTR9dFjKQCxlCaQl_IAaZ64NdxdzsAQ8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57499/f4b8a9_colossusSite_copia.jpg",
+      "excerpt": "Mentre Grok perde traffico, SpaceX monetizza Colossus con Anthropic. Il contratto da 1,25 miliardi al mese mostra quanto pesi ormai il calcolo IA nei conti di Musk, e quanto ne…",
+      "image": "https://images.dday.it/K1-NsoJwhZxOTR9dFjKQCxlCaQl_IAaZ64NdxdzsAQ8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57499/f4b8a9_colossusSite_copia.jpg",
+      "publishedAt": "2026-05-21T14:44:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "PinTheft porta root su Arch Linux: l'exploit ora è pubblico",
+      "link": "https://www.tomshw.it/hardware/pintheft-arch-linux-exploit-root",
+      "excerpt": "PinTheft ha ora un exploit proof-of-concept pubblico capace di ottenere privilegi root su sistemi Arch Linux in condizioni specifiche. La vulnerabilità riguarda il percorso RDS…",
       "image": null,
-      "publishedAt": "2026-05-21T11:51:30+00:00",
+      "publishedAt": "2026-05-21T14:11:51+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Devi vedere a quanto è sceso questo monitor oggi: ha demolito il suo minimo storico",
-      "link": "https://www.tomshw.it/hardware/monitor-msi-mag-274updf-mini-led-4k-scontato-del-36-2026-05-21",
-      "excerpt": "Su Amazon è disponibile un'ottima offerta sul monitor gaming MSI MAG 274UPDF E16M, un display da 27 4K UHD con pannello Mini-LED Rapid IPS, tempo di risposta di 0,5 ms e supporto…",
+      "title": "YellowKey, Microsoft corre ai ripari: BitLocker non basta da solo",
+      "link": "https://www.tomshw.it/hardware/yellowkey-microsoft-mitigazioni-bitlocker",
+      "excerpt": "Microsoft ha pubblicato le prime mitigazioni per YellowKey, la vulnerabilità zero-day che può aggirare la protezione di BitLocker in scenari specifici. La falla è ora tracciata…",
       "image": null,
-      "publishedAt": "2026-05-21T11:48:04+00:00",
+      "publishedAt": "2026-05-21T14:08:49+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Chromium, una falla può trasformare il browser in parte di una botnet",
-      "link": "https://www.hdblog.it/google/articoli/n659079/chromium-falla-browser-botnet/",
-      "excerpt": "La vulnerabilità sarebbe rimasta senza correzione per 29 mesi.",
-      "image": "https://hd2.tudocdn.net/1344195?w=660",
-      "publishedAt": "2026-05-21T11:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Hell Grind, il primo lungometraggio interamente generato con l'IA debutta a Cannes. È costato solo 500mila dollari",
+      "link": "https://images.dday.it/kduYqOrZgdsDwnngv67FdY972SPk5mRSnQb63dzgN90/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57497/a2471c_sallfsfsfssfd_copia.jpg",
+      "excerpt": "Un action-adventure con toni da dark fantasy infernale che nel trailer ha diversi momenti convincenti. Chissà cosa accadrà tra uno o due anni con l'evoluzione delle tecnologie,…",
+      "image": "https://images.dday.it/kduYqOrZgdsDwnngv67FdY972SPk5mRSnQb63dzgN90/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57497/a2471c_sallfsfsfssfd_copia.jpg",
+      "publishedAt": "2026-05-21T14:07:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
-      "title": "IrisGo vuole un agente desktop che impara guardando il PC",
-      "link": "https://www.tomshw.it/hardware/irisgo-agente-desktop-ai-impara-workflow-pc",
-      "excerpt": "IrisGo sta provando a trasformare l'agente AI da chatbot a presenza continua sul desktop. La startup ha lanciato le beta per macOS e Windows con un'idea precisa: osservare come…",
+      "title": "Drupal corregge una falla SQL: gli exploit possono arrivare presto",
+      "link": "https://www.tomshw.it/hardware/drupal-cve-2026-9082-sql-injection-postgresql",
+      "excerpt": "Drupal ha distribuito una serie di patch urgenti per chiudere CVE-2026-9082, una vulnerabilità SQL injection classificata come altamente critica nel core del CMS. Il problema…",
       "image": null,
-      "publishedAt": "2026-05-21T11:42:32+00:00",
+      "publishedAt": "2026-05-21T14:06:42+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Airbnb annuncia hotel e più IA: l'app vuole gestire tutto il viaggio",
-      "link": "https://www.tomshw.it/hardware/airbnb-hotel-ia-host-assistenza-viaggio-app",
-      "excerpt": "Airbnb sta allargando il perimetro della propria app oltre gli affitti brevi tradizionali. La società aggiunge hotel, nuovi servizi di viaggio e una serie di funzioni basate su…",
+      "title": "Un grave errore ha esposto chiavi cloud legate alla sicurezza USA",
+      "link": "https://www.tomshw.it/hardware/cisa-chiavi-cloud-password-github",
+      "excerpt": "CISA, l’agenzia statunitense che coordina la sicurezza informatica federale, è finita al centro di un incidente imbarazzante: credenziali in chiaro, token e chiavi cloud sarebbero…",
       "image": null,
-      "publishedAt": "2026-05-21T11:41:29+00:00",
+      "publishedAt": "2026-05-21T14:04:07+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Empulse vuole cambiare il ritmo degli shooter competitivi",
-      "link": "https://www.tomshw.it/videogioco/empulse-1047-games-shooter-movimento-accesso-anticipato",
-      "excerpt": "1047 Games ha tolto il velo a Empulse, un nuovo shooter competitivo 6 contro 6 che mette la mobilità al centro di ogni scontro. Il team di Splitgate aveva anticipato di essere al…",
+      "title": "Per NVIDIA una nuova trimestrale da record: 81,6 miliardi di dollari di ricavi, in crescita dell'85%",
+      "link": "https://images.dday.it/_5Ls5Qa1lfqHrOZn0DMeo0_NzkZQs_Ex26nPrVHFGy8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57495/0e9c54_DH1L4415-HDR-20220527-r5.jpg",
+      "excerpt": "L'IA continua a spingere la crescita di NVIDIA che continua a macinare ricavi e utili, questi ultimi con tassi di crescita a tre cifre. Nel segmento delle soluzioni per data…",
+      "image": "https://images.dday.it/_5Ls5Qa1lfqHrOZn0DMeo0_NzkZQs_Ex26nPrVHFGy8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57495/0e9c54_DH1L4415-HDR-20220527-r5.jpg",
+      "publishedAt": "2026-05-21T13:18:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "LG OLED Evo AI C5 da 65\" in offerta su Amazon: il migliore per rapporto qualità/prezzo",
+      "link": "https://images.dday.it/4867YZNmEMHNtqnXPpwWcW1HHuHluwC6Hqk0vPiOo0c/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/55189/de6694_ape2.jpg",
+      "excerpt": "Con la sua attuale offerta su Amazon, LG OLED EVO C5 si conferma una scelta ideale per chi desidera un TV premium con prestazioni da top di gamma a un prezzo più accessibile...…",
+      "image": "https://images.dday.it/4867YZNmEMHNtqnXPpwWcW1HHuHluwC6Hqk0vPiOo0c/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/55189/de6694_ape2.jpg",
+      "publishedAt": "2026-05-21T13:12:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Attenzione se ti arrivano e-mail da questo account ufficiale Microsoft: viene usato per inviare spam “credibile”",
+      "link": "https://images.dday.it/z_YuZy_zWexwYg-hWTVFGyYLPoF0e2LKLY8iIzYhIns/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57496/03d947_small_11d25e64e4db0f91_copia.png",
+      "excerpt": "L’account è ufficiale Microsoft e non desta sospetti, ma il contenuto può essere manipolato. Una falla permette di inviare spam credibile da un indirizzo usato per gli avvisi di…",
+      "image": "https://images.dday.it/z_YuZy_zWexwYg-hWTVFGyYLPoF0e2LKLY8iIzYhIns/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57496/03d947_small_11d25e64e4db0f91_copia.png",
+      "publishedAt": "2026-05-21T12:58:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Migliori conti correnti B2B con le commissioni più basse sul mercato (maggio 2026)",
+      "link": "https://www.tomshw.it/altro/i-migliori-conti-correnti-b2b-con-le-commissioni-piu-basse-sul-mercato",
+      "excerpt": "Nel panorama finanziario attuale, scegliere un conto corrente business con commissioni basse non significa solo cercare il canone più economico. Per un'azienda, una partita IVA o…",
       "image": null,
-      "publishedAt": "2026-05-21T11:40:41+00:00",
+      "publishedAt": "2026-05-21T11:39:16+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Truecaller lancia le eSIM: l'app ora punta anche ai viaggiatori",
-      "link": "https://www.tomshw.it/smartphone/truecaller-lancia-esim-viaggiatori-italia-29-paesi",
-      "excerpt": "Truecaller non vuole più essere soltanto l'app che identifica le chiamate in arrivo e blocca lo spam telefonico. La società ha lanciato un servizio eSIM per chi viaggia,…",
+      "title": "Migliori software di fotoritocco ed editing fotografico (maggio 2026)",
+      "link": "https://www.tomshw.it/guide/migliori-software-di-fotoritocco-e-editing-fotografico-gennaio-2026",
+      "excerpt": "Scegliere il software di editing fotografico giusto oggi è più complesso di quanto sembri. Il mercato non è più diviso solo tra programmi professionali e applicazioni semplici:…",
       "image": null,
-      "publishedAt": "2026-05-21T11:38:10+00:00",
+      "publishedAt": "2026-05-21T11:33:45+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Google nega la riparazione e lui s’ingegna: nuova vita (low cost) per un Pixel 8",
-      "link": "https://www.hdblog.it/smartphone/articoli/n659077/pixel-8-trasformato-in-console-gaming/",
-      "excerpt": "Dopo il rifiuto della riparazione da parte di Google, un Pixel 8 è stato recuperato con un progetto gaming fai-da-te diventato virale online",
-      "image": "https://hd2.tudocdn.net/1161433?w=660",
-      "publishedAt": "2026-05-21T11:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Bambu Lab resta sotto pressione: lo scontro AGPL non si chiude",
-      "link": "https://www.tomshw.it/hardware/bambu-lab-agpl-scontro-open-source-non-si-chiude",
-      "excerpt": "Bambu Lab resta al centro di una disputa sempre più tecnica e politica sul rapporto tra stampanti 3D, cloud e software open source. Dopo le contestazioni legate a OrcaSlicer e al…",
+      "title": "I migliori conti correnti B2B (maggio 2026)",
+      "link": "https://www.tomshw.it/altro/i-migliori-conti-correnti-b2b",
+      "excerpt": "Nel contesto attuale, caratterizzato da una crescente digitalizzazione e da una concorrenza sempre più serrata, scegliere il conto corrente aziendale giusto significa decidere…",
       "image": null,
-      "publishedAt": "2026-05-21T11:32:57+00:00",
+      "publishedAt": "2026-05-21T11:30:51+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Auto usate, ecco i modelli che fanno perdere più soldi agli italiani",
-      "link": "https://www.hdmotori.it/auto-usate-ecco-i-modelli-che-fanno-perdere-piu-soldi-agli-italiani/",
-      "excerpt": "Uno studio di carVertical rivela quali sono le auto che si svalutano più rapidamente in Italia: ecco i modelli che rischiano di trasformarsi in un salasso al momento della…",
-      "image": "https://hd2.tudocdn.net/1344193?w=660",
-      "publishedAt": "2026-05-21T11:30:35+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Migliori POS portatili (maggio 2026)",
+      "link": "https://www.tomshw.it/altro/pos-mobili-migliori",
+      "excerpt": "Se desiderate offrire ai vostri clienti la comodità di effettuare pagamenti con il POS ovunque vi troviate, in sicurezza e senza dipendere da una cassa fissa, un POS portatile è…",
+      "image": null,
+      "publishedAt": "2026-05-21T11:21:55+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
-      "title": "AMD Ryzen AI Halo, ecco il \"supercomputer casalingo\" per l'AI locale (con Windows)",
-      "link": "https://www.hdblog.it/hardware/articoli/n659075/amd-ryzen-ai-halo-windows-dgx-spark/",
-      "excerpt": "Guanto di sfida lanciato a NVIDIA DGX Spark e Mac Mini.",
-      "image": "https://hd2.tudocdn.net/1344185?w=660",
-      "publishedAt": "2026-05-21T11:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Elicotteri da trasporto? il nuovo super drone ibrido volerà per sedici ore di fila",
-      "link": "https://www.hdblog.it/droni/articoli/n659017/airo-jx250-drone-ibrido-vtol/",
-      "excerpt": "Il nuovo drone ibrido JX250 di Airo promette autonomia record e trasporto merci pesante dal 2027.",
-      "image": "https://hd2.tudocdn.net/1344055?w=660",
-      "publishedAt": "2026-05-21T11:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Bezos non teme la bolla AI: i successi di pochi copriranno i fallimenti di tanti",
-      "link": "https://www.hdblog.it/mercato/articoli/n659066/bezos-bolla-ai-nessuna-preoccupazione/",
-      "excerpt": "Anche se dovesse essere una bolla, gli effetti degli investimenti sul mercato saranno comunque tangibili",
-      "image": "https://hd2.tudocdn.net/1344149?w=660",
-      "publishedAt": "2026-05-21T11:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Xiaomi, nuove lavatrici a carica dall'alto: compatte, capienti ed economiche",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n659074/xiaomi-mijia-lavatrici-alto-12-kg-economiche/",
-      "excerpt": "Solo 140 euro per una lavatrice (sulla carta) ultra silenziosa da 12 kg? Speriamo arrivi anche da noi!",
-      "image": "https://hd2.tudocdn.net/1344162?w=660",
-      "publishedAt": "2026-05-21T11:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "BYD Great Tang già 100.000 ordini, ma il lancio è rinviato: manca un elemento chiave",
-      "link": "https://www.hdmotori.it/byd-great-tang-record-ordini-problemi-produzione/",
-      "excerpt": "Il colosso cinese, BYD, non riesce a produrre abbastanza batterie di seconda generazione per soddisfare la domanda",
-      "image": "https://hd2.tudocdn.net/1344174?w=660",
-      "publishedAt": "2026-05-21T11:00:36+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Occhiali smart, Google e Samsung possono fare \"bingo\": scricchiola il dominio Meta",
-      "link": "https://www.hdblog.it/indossabili/articoli/n659072/occhiali-smart-google-samsung-possono-fare-quotbingoquot-scricchiola-il-dominio-meta/",
-      "excerpt": "Secondo gli analisti, gli smart glasses Google-Samsung potrebbero conquistare il 18% del mercato globale entro fine anno",
-      "image": "https://hd2.tudocdn.net/1344161?w=660",
-      "publishedAt": "2026-05-21T10:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Un power bank da 30000 mAh a soli 24 euro? Ecco l'offerta su Amazon",
+      "link": "https://images.dday.it/t3qbUygZ3ipijtznfiIrWH84P2ybFdgutSqpFbdosWg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57491/eb0a2f_ape2.jpg",
+      "excerpt": "Scopri il power bank da 30000mAh con ricarica rapida a un prezzo eccezionale. Approfitta dello sconto e assicurati una carica affidabile per i tuoi dispositivi... Leggi tutto",
+      "image": "https://images.dday.it/t3qbUygZ3ipijtznfiIrWH84P2ybFdgutSqpFbdosWg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57491/eb0a2f_ape2.jpg",
+      "publishedAt": "2026-05-21T11:00:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Meta licenzia circa il 10% del personale per far fronte agli investimenti sull'IA",
@@ -176,15 +257,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "GoPro Hero 13: i codici sconto sono spariti, ma il prezzo è ancora da record",
-      "link": "https://www.tomshw.it/smartphone/gopro-hero-13-black-in-offerta-a-soli-281eur-58-2026-05-21",
-      "excerpt": "La GoPro Hero 13 Black è ora disponibile su AliExpress a un prezzo straordinario. Questa fotocamera sportiva offre video in HD 5.3K, una batteria da 1900mAh e una potente…",
-      "image": null,
-      "publishedAt": "2026-05-21T10:33:01+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Un nuovo marchio cinese debutta in Italia: è Bestune. Ecco i primi veicoli",
       "link": "https://images.dday.it/eJK-lufm6qZDtLE-aQXdTgTWjtYLn9zUIP3Jol1qObc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57489/933e4e_bestune_thumb.jpg",
       "excerpt": "Importato da China Car Company, arriva in italia con due SUV, a benzina e ibrido, che promette fino a 210 km di percorrenza solo elettrica... Leggi tutto",
@@ -194,85 +266,13 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Con la crisi delle memorie, 4 GB di RAM saranno lo standard per gli smartphone economici?",
-      "link": "https://images.dday.it/wpXMuCTVwGS5q1l__RcqP4cCZaCem1RT65aqH86uwGs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57493/b3c37b_small_c100_copia.jpg",
-      "excerpt": "Il nuovo realme C100 5G parte da 240 euro ma offre solo 4 GB di RAM. Un dettaglio che può anticipare una fase più severa per gli smartphone economici... Leggi tutto",
-      "image": "https://images.dday.it/wpXMuCTVwGS5q1l__RcqP4cCZaCem1RT65aqH86uwGs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57493/b3c37b_small_c100_copia.jpg",
-      "publishedAt": "2026-05-21T09:54:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "SpaceX pronta a quotarsi in borsa. Cosa dicono i documenti, fra cui una perdita di quasi 5 miliardi di dollari nel 2025",
-      "link": "https://images.dday.it/otFAedDRpGaV7-rfE0KzLSTviyzRuOa6ihdYt5TSZb8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57490/0d923f_spacex_thumb.jpg",
-      "excerpt": "SpaceX potrebbe essere valutata più di 1.750 miliardi di dollari. Ma fra i rischi per la sua attività c'è persino Elon Musk stesso... Leggi tutto",
-      "image": "https://images.dday.it/otFAedDRpGaV7-rfE0KzLSTviyzRuOa6ihdYt5TSZb8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57490/0d923f_spacex_thumb.jpg",
-      "publishedAt": "2026-05-21T08:50:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Google pubblica per errore un exploit di Chromium senza averlo corretto: Chrome e gli altri browser restano senza patch",
-      "link": "https://images.dday.it/612YxxmJPcF1zBMlc-1ZIFPZa3qwqq71qbw0k5Fg4YU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57488/6f6ef1_small_chromium_bug_copia.jpg",
-      "excerpt": "Un sito malevolo può usare il bug per controllare in parte il browser anche dopo il riavvio. Google ha pubblicato l’exploit per errore e la patch non c’è... Leggi tutto",
-      "image": "https://images.dday.it/612YxxmJPcF1zBMlc-1ZIFPZa3qwqq71qbw0k5Fg4YU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57488/6f6ef1_small_chromium_bug_copia.jpg",
-      "publishedAt": "2026-05-21T08:43:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Polestar torna ai comandi fisici: il feedback dei clienti cambia gli interni delle prossime auto",
-      "link": "https://images.dday.it/bp9LbbzxLG96K_neXkQiHgilTAIAMnqVEuN6uvmZ05o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57486/9854cb_683203_20240428_Polestar_4_in_Snow_with_Mist_Tailored_Knit_interior_and_Performance_Pack.jpg",
-      "excerpt": "Anche Polestar fa retromarcia rispetto alla visione \"touch screen centrica\" delle attuali versioni: più controlli fisici e ADAS meno invasivi... Leggi tutto",
-      "image": "https://images.dday.it/bp9LbbzxLG96K_neXkQiHgilTAIAMnqVEuN6uvmZ05o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57486/9854cb_683203_20240428_Polestar_4_in_Snow_with_Mist_Tailored_Knit_interior_and_Performance_Pack.jpg",
-      "publishedAt": "2026-05-21T08:34:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Plex alza ancora il conto: il Lifetime Pass vola verso i 749,99 euro. +525% in un anno",
-      "link": "https://images.dday.it/fK9Q1OAjm0Xj1bAgitvUfGoTSPWFtD78OjbsR6LcEg8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57485/d19b51_small_ChatGPT_Image_21_mag_2026__09_40_14_copia.png",
-      "excerpt": "Prima il rincaro di aprile 2025, poi quello previsto per luglio 2026: il piano a vita di Plex arriva a costare oltre sei volte il prezzo precedente... Leggi tutto",
-      "image": "https://images.dday.it/fK9Q1OAjm0Xj1bAgitvUfGoTSPWFtD78OjbsR6LcEg8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57485/d19b51_small_ChatGPT_Image_21_mag_2026__09_40_14_copia.png",
-      "publishedAt": "2026-05-21T07:41:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "QNAP lancia il server Edge AI per chi vuole l'intelligenza artificiale in casa",
-      "link": "https://images.dday.it/OpvsrsXSO6Q46fCeqY-Gf4fU3zAAs_gkKzbXSPDPuuA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57435/8499b4_qnap01.jpg",
-      "excerpt": "Con QAI-h1290FX, QNAP porta sul mercato un server Edge AI pensato per sviluppare LLM e applicazioni di AI generativa interamente in locale. Hardware AMD EPYC, GPU NVIDIA opzionale…",
-      "image": "https://images.dday.it/OpvsrsXSO6Q46fCeqY-Gf4fU3zAAs_gkKzbXSPDPuuA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57435/8499b4_qnap01.jpg",
-      "publishedAt": "2026-05-21T07:17:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migliori monitor gaming (maggio 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-monitor-gaming",
-      "excerpt": "Scegliere il miglior monitor gaming non significa inseguire il dato più alto in scheda tecnica, ma capire quale combinazione di risoluzione, refresh rate, pannello e connessioni…",
+      "title": "Assassin's Creed Black Flag Resynced, provato per oltre tre ore",
+      "link": "https://www.tomshw.it/videogioco/assassins-creed-black-flag-resynced-provato",
+      "excerpt": "Sono trascorsi più di dieci anni da quando Edward Kenway solcò per la prima volta le acque dei Caraibi, eppure Assassin's Creed 4: Black Flag continua a occupare un posto speciale…",
       "image": null,
-      "publishedAt": "2026-05-21T06:32:06+00:00",
+      "publishedAt": "2026-05-21T09:23:49+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Tineco FLOOR ONE STATION S9 Artist è la lavapavimenti per chi ha una casa grande",
-      "link": "https://images.dday.it/pWX1N8JISSLYb_Elna06LDQJwvLw4p-YIKSsFEyBlUY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57434/464c09_lifestyle-8.jpg",
-      "excerpt": "Le lavapavimenti wet & dry hanno un serbatoio che basta per poche stanze, soprattutto se si usa un programma di lavaggio intenso. Tineco FLOOR ONE STATION S9 Artist è la prima con…",
-      "image": "https://images.dday.it/pWX1N8JISSLYb_Elna06LDQJwvLw4p-YIKSsFEyBlUY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57434/464c09_lifestyle-8.jpg",
-      "publishedAt": "2026-05-21T01:03:05+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Sono tornati gli sconti HUAWEI. Risparmia su Watch Fit 5 e GT Runner 2, MatePad 11.5 S 2026 e FreeClip 2",
-      "link": "https://images.dday.it/HFw-_ZbFLqHnTjboNXCBjZmL_Rhhy7ajz5MjsDlVlgE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57430/7ee80a_scontihuawei_thumb.jpg",
-      "excerpt": "Dai nuovi Watch Fit 5 e Watch GT Runner 2 fino ai FreeClip 2 e al MatePad 11.5 S 2026. Un ecosistema di prodotti evoluti e innovativi: scopri gli sconti speciali, fino al 22…",
-      "image": "https://images.dday.it/HFw-_ZbFLqHnTjboNXCBjZmL_Rhhy7ajz5MjsDlVlgE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57430/7ee80a_scontihuawei_thumb.jpg",
-      "publishedAt": "2026-05-21T01:03:05+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
     }
   ]
 }
