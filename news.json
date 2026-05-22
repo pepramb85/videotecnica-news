@@ -1,44 +1,233 @@
 {
-  "generatedAt": "2026-05-22T10:36:41.166285+00:00",
+  "generatedAt": "2026-05-22T18:20:45.072204+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Nuova Citroen 2CV, confermata la nuova serie: arriverà nel 2028",
-      "link": "https://www.hdmotori.it/nuova-citroen-2cv-2028/",
-      "excerpt": "La nuova Citroen 2CV sarà full electric e accessibile al popolo. Al Salone di Parigi verranno svelate le linee dell'utilitaria francese",
-      "image": "https://hd2.tudocdn.net/1344506?w=660",
-      "publishedAt": "2026-05-22T10:30:32+00:00",
+      "title": "Apple TV riunisce Matthew McConaughey e Woody Harrelson: \"Brothers\" in autunno",
+      "link": "https://www.hdblog.it/apple/articoli/n659280/apple-tv-brothers-mcconaughey-harrelson-autunno/",
+      "excerpt": "Appuntamento quest'autunno con la serie commedia Brothers.",
+      "image": "https://hd2.tudocdn.net/1344642?w=660",
+      "publishedAt": "2026-05-22T17:25:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Satispay corre veloce: più funzionalità in meno tempo grazie a Claude di Anthropic",
-      "link": "https://www.hdblog.it/business/articoli/n659195/satispay-claude-anthropic-ai-codice/",
-      "excerpt": "Il 75% del codice si scrive con l'AI.",
-      "image": "https://hd2.tudocdn.net/1344498?w=660",
-      "publishedAt": "2026-05-22T10:20:00+00:00",
+      "title": "DAZN, parte domenica il Roland-Garros: ecco come vedere tutti i match",
+      "link": "https://www.hdblog.it/eventi/articoli/n659274/dazn-roland-garros-ecco-come-vedere/",
+      "excerpt": "Il torneo di tennis sarà trasmesso tramite i canali Eurosport.",
+      "image": "https://hd2.tudocdn.net/1344633?w=660",
+      "publishedAt": "2026-05-22T17:15:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Nostalgia dell'interfaccia di Windows 7? Classic 7 porta Aero su Windows 10",
-      "link": "https://www.hdblog.it/microsoft/articoli/n659202/windows-7-nostalgia-interfaccia-classic7/",
-      "excerpt": "Basta recuperare una licenza legittima di Windows 10 IoT Enterprise LTSC.",
-      "image": "https://hd2.tudocdn.net/1344489?w=660",
-      "publishedAt": "2026-05-22T10:15:00+00:00",
+      "title": "Thirdreality, ecco il sensore di presenza che funziona anche se stai fermo",
+      "link": "https://www.hdblog.it/domotica/articoli/n659277/thirdreality-smart-presence-sensor-r3/",
+      "excerpt": "Grazie a un radar mmWave in grado di rilevare anche micro-movimenti, come la respirazione.",
+      "image": "https://hd2.tudocdn.net/1344638?w=660",
+      "publishedAt": "2026-05-22T17:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "L'ultima GPU da gaming cinese funziona bene, ma va come una 3060 a 500 dollari",
-      "link": "https://www.hdblog.it/hardware/articoli/n659199/gpu-cinese-prestazioni-vs-nvidia-amd/",
-      "excerpt": "Nvidia e AMD possono dormire sonni tranquilli, per ora",
-      "image": "https://hd2.tudocdn.net/1344478?w=660",
-      "publishedAt": "2026-05-22T10:05:00+00:00",
+      "title": "Il nuovo stile delle concessionarie Ferrari per aumentare l'aura di esclusività",
+      "link": "https://www.hdmotori.it/ferrari-concessionarie/",
+      "excerpt": "Showroom, officina e spazi per la community si fondono in un unico ecosistema: debutta in Svizzera la nuova visione retail di Ferrari",
+      "image": "https://hd2.tudocdn.net/1344639?w=660",
+      "publishedAt": "2026-05-22T17:00:53+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Stress da notifiche su smartphone: per la mente non è uno scherzo",
+      "link": "https://www.hdblog.it/smartphone/articoli/n659237/stress-da-notifiche-smartphone/",
+      "excerpt": "Le notifiche su smartphone continuano ad essere un importante motivo di stress mentale.",
+      "image": "https://hd2.tudocdn.net/1344567?w=660",
+      "publishedAt": "2026-05-22T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Geely Innovation Design Center, lo stile del futuro parte da Milano",
+      "link": "https://www.hdmotori.it/geely-innovation-design-center/",
+      "excerpt": "Inaugurato nel 2023, il centro creativo di Geely fonde l'eccellenza progettuale europea con l'avanguardia tecnologica del gruppo cinese",
+      "image": "https://hd2.tudocdn.net/1344634?w=660",
+      "publishedAt": "2026-05-22T16:30:44+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "ADT Blu, nuovo sistema di sicurezza avanzato per amanti del fai-da-te",
+      "link": "https://www.hdblog.it/domotica/articoli/n659272/adt-blu-sistema-sicurezza-smart-fai-da-te/",
+      "excerpt": "Si può anche ampliare con dispositivi Google Nest... ma c'è qualche paradosso di troppo.",
+      "image": "https://hd2.tudocdn.net/1344631?w=660",
+      "publishedAt": "2026-05-22T16:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Frode pubblicitaria Android, centinaia di app per 24 mln di download",
+      "link": "https://www.hdblog.it/android/articoli/n659269/malware-play-store-campagna-trapdoor/",
+      "excerpt": "Google ha già provveduto a cancellare tutte le app compromesse.",
+      "image": "https://hd2.tudocdn.net/1344628?w=660",
+      "publishedAt": "2026-05-22T16:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Changan, all'Automotive Dealer Day 2026 con un nuovo modello per l'Europa",
+      "link": "https://www.hdmotori.it/changan-automotive-dealer-day-2026-deepal/",
+      "excerpt": "Dall'anteprima della Deepal S05 Ultra Hybrid al rafforzamento della rete vendita: così il colosso cinese Changan punta sull'Italia",
+      "image": "https://hd2.tudocdn.net/1344629?w=660",
+      "publishedAt": "2026-05-22T16:00:36+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Pavimenti impeccabili prima dell'estate: ecco le offerte shock di Tineco sulla serie S9",
+      "link": "https://www.tomshw.it/altro/pavimenti-impeccabili-prima-dellestate-ecco-le-offerte-shock-di-tineco-sulla-serie-s9",
+      "excerpt": "Con l’arrivo dei primi caldi, la gestione delle pulizie domestiche rischia di diventare ancora più faticosa ed esigente. Per fortuna, la tecnologia corre in nostro aiuto: Tineco,…",
+      "image": null,
+      "publishedAt": "2026-05-22T15:56:49+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il Sole ha inviato un segnale continuo mai visto prima | Ecco cosa sappiamo",
+      "link": "https://www.hdblog.it/curiosita/articoli/n659253/segnale-radio-sole-19-giorni/",
+      "excerpt": "Il Sole ha emesso un segnale radio record per ben 19 giorni consecutivi, monitorato da quattro sonde.",
+      "image": "https://hd2.tudocdn.net/1344610?w=660",
+      "publishedAt": "2026-05-22T15:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "SpaceX vuole portare Starlink sulla Luna",
+      "link": "https://images.dday.it/dCo1xpExywMbruQoDn3qJ0VGDM8kOaSkfBhMcgAv6Ps/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57513/27e794_HI34QhhbEAACOl2.jpeg",
+      "excerpt": "SpaceX vorrebbe fornire connettività di livello gigabit sulla Luna per connettere rover, basi spaziali e astronauti sulla superficie. Ma come?... Leggi tutto",
+      "image": "https://images.dday.it/dCo1xpExywMbruQoDn3qJ0VGDM8kOaSkfBhMcgAv6Ps/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57513/27e794_HI34QhhbEAACOl2.jpeg",
+      "publishedAt": "2026-05-22T15:03:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Dove vedere Torino vs Juventus in TV e streaming",
+      "link": "https://www.tomshw.it/altro/dove-vedere-torino-vs-juventus-in-tv-e-streaming",
+      "excerpt": "Il grande calcio di Serie A torna protagonista con uno dei derby più attesi d’Italia! Il 24 maggio 2026, alle ore 20:45, il derby della Mole tra Torino FC e Juventus FC accende lo…",
+      "image": null,
+      "publishedAt": "2026-05-22T14:43:45+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Perché abbiamo accettato di pagare 80 euro per fare i beta tester?",
+      "link": "https://www.tomshw.it/videogioco/perche-abbiamo-accettato-di-pagare-80-euro-per-fare-i-beta-tester",
+      "excerpt": "Ormai succede spesso e ammetto che ormai sia stanco e avvilente: abbiamo atteso un videogioco per anni, guardato ogni singolo trailer, analizzato le interviste degli sviluppatori,…",
+      "image": null,
+      "publishedAt": "2026-05-22T14:28:13+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Dove vedere Milan vs Cagliari in TV e streaming",
+      "link": "https://www.tomshw.it/altro/dove-vedere-milan-vs-cagliari-in-tv-e-streaming",
+      "excerpt": "Il grande calcio di Serie A torna protagonista a San Siro! Il 24 maggio 2026, alle ore 20:45, l’AC Milan ospita l’Cagliari Calcio in una sfida che chiude la stagione davanti al…",
+      "image": null,
+      "publishedAt": "2026-05-22T14:26:43+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Spotify apre ai remix IA, ma ora servono consenso e ricavi",
+      "link": "https://www.tomshw.it/altro/spotify-universal-remix-cover-ia-consenso-artisti",
+      "excerpt": "Spotify e Universal Music Group hanno raggiunto un accordo per portare cover e remix generati con intelligenza artificiale dentro un perimetro licenziato. L'idea è permettere ai…",
+      "image": null,
+      "publishedAt": "2026-05-22T14:08:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "TCL SQD-Mini LED X11L first look: gamut esagerato, anche senza LED RGB",
+      "link": "https://images.dday.it/LVOMHx14i_pXhtM41idTvg8du2miOeNzB2fC4rjgibY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57458/ba265e_IMG_6368.jpg",
+      "excerpt": "In occasione del seminario Experts meet the Experts di TCL Europe, abbiamo avuto modo di mettere finalmente le mani (e gli occhi) sul nuovo top di gamma di TCL con i \"super…",
+      "image": "https://images.dday.it/LVOMHx14i_pXhtM41idTvg8du2miOeNzB2fC4rjgibY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57458/ba265e_IMG_6368.jpg",
+      "publishedAt": "2026-05-22T13:48:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Il glorioso “numero 10” in tasca: Lexar veste gli SSD portatili Elite Legends Series con i colori dell’Argentina",
+      "link": "https://images.dday.it/IVn9ksU3-ptzp2rNiKge4BKruN_qv0DP7h7c3uWPlDg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57511/5978fe_small_SL500-SL260-D500-Elite-Legends-Series-KV-16x9-EN_copia.png",
+      "excerpt": "Dalla maglia più pesante del calcio alla memoria portatile. Lexar dedica all’Argentina una serie con SSD veloci, chiavetta USB-C/USB-A e design biancoazzurro... Leggi tutto",
+      "image": "https://images.dday.it/IVn9ksU3-ptzp2rNiKge4BKruN_qv0DP7h7c3uWPlDg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57511/5978fe_small_SL500-SL260-D500-Elite-Legends-Series-KV-16x9-EN_copia.png",
+      "publishedAt": "2026-05-22T13:38:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Abbiamo provato i Soundcore Liberty 5, i primi auricolari al mondo con la memoria che fa calcoli IA",
+      "link": "https://images.dday.it/zyIwqWz-MtZWAm5OTWpZCIU1tbS3J2Y0frqjp2QhO_4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57502/30e12d_anker_3.JPG",
+      "excerpt": "Anker riscrive l’architettura dei processori per auricolari integrando calcolo e memoria nello stesso chip per elaborare un modello di cancellazione acustica più grande. Nasce AI…",
+      "image": "https://images.dday.it/zyIwqWz-MtZWAm5OTWpZCIU1tbS3J2Y0frqjp2QhO_4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57502/30e12d_anker_3.JPG",
+      "publishedAt": "2026-05-22T13:30:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Samsung Galaxy S25 FE in super offerta a 499 euro su Amazon",
+      "link": "https://images.dday.it/EvpViB6Jf75omlHWZBF9TW2g-3vi6ZBjVL8CCK6AEZI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57512/5890ff_s25fe_thumb.jpg",
+      "excerpt": "Sotto la soglia psicologica dei 500 euro il Galaxy S25 Fe diventa ancora più interessante. Tripla fotocamera posteriore, schermo AMOLED e Galaxy AI... Leggi tutto",
+      "image": "https://images.dday.it/EvpViB6Jf75omlHWZBF9TW2g-3vi6ZBjVL8CCK6AEZI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57512/5890ff_s25fe_thumb.jpg",
+      "publishedAt": "2026-05-22T13:26:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Migliori console portatili (maggio 2026)",
+      "link": "https://www.tomshw.it/videogioco/migliori-console-portatili",
+      "excerpt": "Nel 2026 il mercato delle console portatili è molto più maturo di quanto fosse solo pochi anni fa. Oggi convivono tre mondi diversi: handheld PC pensati per Steam e store…",
+      "image": null,
+      "publishedAt": "2026-05-22T12:29:50+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori visori VR per giocare (maggio 2026)",
+      "link": "https://www.tomshw.it/videogioco/migliori-visori-vr-per-giocare",
+      "excerpt": "I migliori visori VR per giocare nel 2026 non sono più prodotti sperimentali per pochi appassionati: oggi la realtà virtuale ha raggiunto un equilibrio molto più concreto tra…",
+      "image": null,
+      "publishedAt": "2026-05-22T12:28:19+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori cuffie per Xbox (maggio 2026)",
+      "link": "https://www.tomshw.it/videogioco/migliori-cuffie-xbox",
+      "excerpt": "Quando si sceglie un headset per Xbox, la tentazione è quella di guardare solo la scheda tecnica o l’etichetta “gaming”, ma nel 2026 la differenza reale la fanno soprattutto…",
+      "image": null,
+      "publishedAt": "2026-05-22T12:26:46+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori controller per PS5 (maggio 2026)",
+      "link": "https://www.tomshw.it/videogioco/migliori-controller-ps5",
+      "excerpt": "Se giocate su PlayStation 5, o state per entrare nell'ecosistema Sony, il controller resta uno degli accessori che incidono di più sull'esperienza reale: non solo per comfort ed…",
+      "image": null,
+      "publishedAt": "2026-05-22T12:25:08+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Bonus medio di 339.000 dollari ai dipendenti per non scioperare. Samsung si è accordata con la divisione chip",
+      "link": "https://images.dday.it/fWwrH0RMM655-dqHW7S0xL39BpxVPI8Cg14SI7eQFeA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57510/f80733_samsung_thumb.jpg",
+      "excerpt": "La società sudcoreana sta guadagnando molto di più dalle memorie. I lavoratori ne volevano una fetta e avevano minacciato uno sciopero di 18 giorni, che avrebbe aggravato la…",
+      "image": "https://images.dday.it/fWwrH0RMM655-dqHW7S0xL39BpxVPI8Cg14SI7eQFeA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57510/f80733_samsung_thumb.jpg",
+      "publishedAt": "2026-05-22T10:30:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Il paradosso ElevenLabs: per sfidare Audible porta su ElevenReader 200.000 audiolibri letti da persone",
@@ -50,24 +239,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Unieuro rende l’ultima parte di maggio il momento giusto per acquistare tecnologia",
-      "link": "https://www.tomshw.it/altro/unieuro-rende-lultima-parte-di-maggio-il-momento-giusto-per-acquistare-tecnologia",
-      "excerpt": "L’ultima parte di maggio si conferma un periodo particolarmente interessante per chi di voi è alla ricerca di nuove offerte tecnologiche. Unieuro, infatti, ha deciso di rendere…",
-      "image": null,
-      "publishedAt": "2026-05-22T10:01:52+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Stellantis, pronta nel 2027 la rivoluzionaria piattaforma STLA One",
-      "link": "https://www.hdmotori.it/stellantis-piattaforma-stla-one/",
-      "excerpt": "Per un salto di qualità netto il Gruppo Stellantis sta elaborando una nuova piattaforma che sostituirà cinque architetture attuali",
-      "image": "https://hd2.tudocdn.net/1344495?w=660",
-      "publishedAt": "2026-05-22T10:00:14+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Stellantis, 60 miliardi di investimenti in 5 anni. Svelato il maxi-piano Fastlane 2030",
       "link": "https://images.dday.it/2Bja9aN4EzNIrjEZCxoDWpDm29JFYEl_96KMtcvKnxE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57508/3f3596_stellantis_thumb.jpg",
       "excerpt": "Nuova piattaforma (STLA One), partnership industriali e tecnologiche e soprattutto una visione che punta a mettere ordine nel gruppo: questa la base del piano Fastlane 2030...…",
@@ -77,121 +248,22 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Il monitor portatile che puoi portare sempre con te (a 66€ è un affare)",
-      "link": "https://www.tomshw.it/hardware/monitor-portatile-156-in-offerta-a-soli-66eur-2026-05-22",
-      "excerpt": "Su Amazon è disponibile il COOLHOOD da 15,6 Pollici, uno schermo esterno con pannello IPS Full HD 1080P, copertura colori 100% sRGB e compatibilità con laptop, PC, telefono e PS5…",
+      "title": "Migliori SSD interni per PS5 (maggio 2026)",
+      "link": "https://www.tomshw.it/videogioco/ssd-interni-piu-veloci-ps5",
+      "excerpt": "Se cercate gli SSD interni più veloci per PS5, il punto non è solo comprare il modello con il numero più alto sulla scheda tecnica: conta soprattutto scegliere un drive davvero…",
       "image": null,
-      "publishedAt": "2026-05-22T09:46:28+00:00",
+      "publishedAt": "2026-05-22T08:50:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "I limiti di Antigravity sono troppo bassi: Google li triplica per la seconda volta",
-      "link": "https://www.hdblog.it/google/articoli/n659184/google-triplica-quote-antigravity/",
-      "excerpt": "In tanti si stanno lamentando delle quote d'utilizzo troppo basse dei nuovi prodotti legati a Gemini",
-      "image": "https://hd2.tudocdn.net/1344472?w=660",
-      "publishedAt": "2026-05-22T09:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Lancia, DS e Abarth non sono più marchi autonomi: cosa vuol dire?",
-      "link": "https://www.hdmotori.it/lancia-ds-abarth-non-sono-marchi-autonomi/",
-      "excerpt": "Stellantis ha stabilito una nuova gerarchia tra brand che comporta il ridimensionamento di marchi come Lancia, DS e Abarth. Ecco cosa sappiamo al momento.",
-      "image": "https://hd2.tudocdn.net/1344486?w=660",
-      "publishedAt": "2026-05-22T09:30:14+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Kobo aumenta i prezzi di e-reader \"vecchi\" di due anni: rincari fino a 40 euro",
-      "link": "https://www.hdblog.it/tablet/articoli/n659196/kobo-aumenta-i-prezzi-italia/",
-      "excerpt": "Kobo ha aumentato i prezzi dei suoi e-reader in Italia: Libra Colour e Clara ora costano fino a 40 euro in più rispetto al lancio del 2024",
-      "image": "https://hd2.tudocdn.net/1162952?w=660",
-      "publishedAt": "2026-05-22T09:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Cinemagoal, il pezzotto evoluto non ha funzionato: multe fino a 5.000 euro",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n659197/cinemagoal-pezzotto-multe-5000-euro/",
-      "excerpt": "L’indagine ha portato a oltre 100 perquisizioni e sequestri in tutta Italia",
-      "image": "https://hd2.tudocdn.net/1344483?w=660",
-      "publishedAt": "2026-05-22T09:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "ChatGPT sbarca su PowerPoint: ora può creare e modificare le slide",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n659176/chatgpt-microsoft-powerpoint-slide/",
-      "excerpt": "ChatGPT arriva su Microsoft PowerPoint in versione beta, disponibile anche per gli utenti gratuiti.",
-      "image": "https://hd2.tudocdn.net/1344448?w=660",
-      "publishedAt": "2026-05-22T09:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "285W e tante porte: il caricatore multi-device che sorprende sotto i 30€",
-      "link": "https://www.tomshw.it/smartphone/caricatore-usb-c-285w-gan-6-porte-a-soli-29eur-2026-05-22",
-      "excerpt": "Su Amazon è disponibile un'ottima offerta sulla Stazione di Ricarica YSYFAD 285W, un caricatore GaN 6 porte con display LED che permette di ricaricare fino a sei dispositivi…",
-      "image": null,
-      "publishedAt": "2026-05-22T08:54:22+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Photoshop + McAfee: la combo software ora al -60% su Amazon",
-      "link": "https://www.tomshw.it/hardware/adobe-lightroom-mcafee-2025-in-offerta-60-2026-05-22",
-      "excerpt": "Su Amazon è disponibile un'ottima offerta su Adobe Photoshop Lightroom con 1TB di memoria cloud e McAfee Total Protection 2025 per 6 dispositivi, con 12 mesi di abbonamento e…",
-      "image": null,
-      "publishedAt": "2026-05-22T08:48:34+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori alimentatori per PC (maggio 2026)",
-      "link": "https://www.tomshw.it/guide/migliori-alimentatori-pc",
-      "excerpt": "Scegliere il miglior alimentatore per PC è una delle decisioni più importanti per garantire prestazioni stabili e affidabili del proprio sistema. Spesso sottovalutato,…",
-      "image": null,
-      "publishedAt": "2026-05-22T08:47:34+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori dissipatori a liquido per CPU (maggio 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-dissipatori-liquido-cpu",
-      "excerpt": "Nel panorama attuale del PC gaming e della produttività avanzata, affidarsi a uno dei migliori dissipatori a liquido per CPU rappresenta una scelta essenziale per chi desidera…",
-      "image": null,
-      "publishedAt": "2026-05-22T08:45:59+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Questo case PC ATX ti sembrerà familiare, ma il prezzo oggi è un’altra storia",
-      "link": "https://www.tomshw.it/hardware/case-pc-gaming-foifkin-k6-in-offerta-a-soli-57eur-2026-05-22",
-      "excerpt": "Su Amazon è disponibile il FOIFKIN K6, un ottimo case Mid-Tower ATX in mesh con 6 ventole PWM ARGB (3x140mm e 3x120mm), pannello laterale trasparente e connettività Type-C 3.0.…",
-      "image": null,
-      "publishedAt": "2026-05-22T08:45:35+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Un solo gesto, niente cavi: benvenuto nella ricarica smart con questo caricatore scontato",
-      "link": "https://www.tomshw.it/smartphone/caricatore-wireless-3-in-1-magsafe-in-offerta-a-soli-25eur-2026-05-22",
-      "excerpt": "Su Amazon è disponibile il Caricatore Wireless 3 in 1 Compatibile MagSafe, una stazione di ricarica magnetica pieghevole da 15W compatibile con iPhone 16/15/14, Apple Watch e…",
-      "image": null,
-      "publishedAt": "2026-05-22T08:40:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Con questa offerta Amazon non serve cercare altrove: un mini PC performante al giusto prezzo",
-      "link": "https://www.tomshw.it/hardware/acemagic-m1-mini-pc-con-ryzen-7-in-offerta-a-soli-427eur-2026-05-22",
-      "excerpt": "ACEMAGIC M1 è ora disponibile su Amazon a un prezzo imperdibile! Equipaggiato con il potente processore AMD Ryzen 7 7735HS, 8 core e 16 thread fino a 4,75 GHz, abbinato a 16GB…",
-      "image": null,
-      "publishedAt": "2026-05-22T08:30:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
+      "title": "Apple sorprende: MacBook Air e MacBook Pro M5 in sconto",
+      "link": "https://images.dday.it/w3BNUMpo0Fk_nf1dS97KvrxSSCz5drQgP0hVBPxL6_w/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57507/2f7f6a_ape2.jpg",
+      "excerpt": "Approfitta delle offerte speciali sui nuovi Apple MacBook Air e MacBook Pro, progettati per offrire prestazioni straordinarie e massima efficienza energetica ... Leggi tutto",
+      "image": "https://images.dday.it/w3BNUMpo0Fk_nf1dS97KvrxSSCz5drQgP0hVBPxL6_w/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57507/2f7f6a_ape2.jpg",
+      "publishedAt": "2026-05-22T08:45:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Destiny 2, ultimo aggiornamento a giugno. Bungie si concentrerà su Marathon",
@@ -199,78 +271,6 @@
       "excerpt": "Bungie concluderà lo sviluppo attivo di Destiny 2 il 9 giugno. Dopo nove anni, lo studio vuole concentrarsi sui nuovi progetti e sul futuro post-Destiny... Leggi tutto",
       "image": "https://images.dday.it/_WVzDVXOJ3VliRXKqmT5-NEFBeDXuy5_vIySe7P-ygI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57506/9eebde_destiny_thumb.jpg",
       "publishedAt": "2026-05-22T07:43:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Big Tech chiama, Trump ascolta: salta l’ordine sui controlli ai modelli IA da parte del governo",
-      "link": "https://images.dday.it/leplHRnsRz2TcUlRGuPAC5Gp-gGWyjz6fejzZeYdKWQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57505/9570ce_small_Depositphotos_876524080_XL_copia.jpg",
-      "excerpt": "Il provvedimento avrebbe permesso al governo di esaminare i modelli di frontiera prima del lancio pubblico. La Casa Bianca lo rivedrà, ma la nuova forma resta incerta... Leggi…",
-      "image": "https://images.dday.it/leplHRnsRz2TcUlRGuPAC5Gp-gGWyjz6fejzZeYdKWQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57505/9570ce_small_Depositphotos_876524080_XL_copia.jpg",
-      "publishedAt": "2026-05-22T07:34:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migliori kit fotovoltaici con accumulo (maggio 2026)",
-      "link": "https://www.tomshw.it/altro/kit-fotovoltaici-accumulo-i-migliori",
-      "excerpt": "Se il nostro approfondimento sui pannelli fotovoltaici ha suscitato il vostro interesse, tanto da considerare l'acquisto di uno dei migliori modelli plug & play sul mercato, siamo…",
-      "image": null,
-      "publishedAt": "2026-05-22T07:28:10+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Meta lancia Forum: serve un’app separata per ritrovare le persone dentro Facebook",
-      "link": "https://images.dday.it/iYdhi4mt8PqhZ4v6spU1yFB_d4luaWXWL-He98QFM_A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57504/f3f004_small_Screenshot_2026-05-22_alle_09.08.15_copia.png",
-      "excerpt": "Forum porta i gruppi Facebook in un’app separata, con nickname, funzione Ask e risposte da comunità diverse. Meta insiste sulle “persone reali”, quasi fosse una novità... Leggi…",
-      "image": "https://images.dday.it/iYdhi4mt8PqhZ4v6spU1yFB_d4luaWXWL-He98QFM_A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57504/f3f004_small_Screenshot_2026-05-22_alle_09.08.15_copia.png",
-      "publishedAt": "2026-05-22T07:13:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "SpaceX rimanda il lancio di Starship: conto alla rovescia interrotto a 40 secondi dalla partenza",
-      "link": "https://images.dday.it/f3pUPi4M9eDObMNjBjTq-o3R6rNIzP9pCsRr13lXwJ4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57501/e3767c_Starship_2.jpg",
-      "excerpt": "Un problema ai sistemi della torre di lanci ha costretto SpaceX ha interrompere il lancio della nuova versione di Starship. Ci si riprova questa notte... Leggi tutto",
-      "image": "https://images.dday.it/f3pUPi4M9eDObMNjBjTq-o3R6rNIzP9pCsRr13lXwJ4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57501/e3767c_Starship_2.jpg",
-      "publishedAt": "2026-05-22T06:53:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Chiuso Cinemagoal: con l’operazione \"Tutto chiaro” la GDF scopre una forma di pirateria totalmente inedita",
-      "link": "https://images.dday.it/Ld7biHmKZHRSq_gCGioGTXx6WGfs6in49_m4eyWXlUY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57503/01bb7d_Depositphotos_184263342_XL.jpg",
-      "excerpt": "Nessun “pezzotto” e neppure IPTV classica: quello che ha scoperto e smantellato la Guardia di Finanza di Ravenna con oltre 100 perquisizioni è un sistema totalmente inedito che…",
-      "image": "https://images.dday.it/Ld7biHmKZHRSq_gCGioGTXx6WGfs6in49_m4eyWXlUY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57503/01bb7d_Depositphotos_184263342_XL.jpg",
-      "publishedAt": "2026-05-22T06:46:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Sono tornati gli sconti HUAWEI. Risparmia su Watch Fit 5 e GT Runner 2, MatePad 11.5 S 2026 e FreeClip 2",
-      "link": "https://images.dday.it/HFw-_ZbFLqHnTjboNXCBjZmL_Rhhy7ajz5MjsDlVlgE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57430/7ee80a_scontihuawei_thumb.jpg",
-      "excerpt": "Dai nuovi Watch Fit 5 e Watch GT Runner 2 fino ai FreeClip 2 e al MatePad 11.5 S 2026. Un ecosistema di prodotti evoluti e innovativi: scopri gli sconti speciali, fino al 22…",
-      "image": "https://images.dday.it/HFw-_ZbFLqHnTjboNXCBjZmL_Rhhy7ajz5MjsDlVlgE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57430/7ee80a_scontihuawei_thumb.jpg",
-      "publishedAt": "2026-05-22T01:03:05+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Tineco FLOOR ONE STATION S9 Artist è la lavapavimenti per chi ha una casa grande",
-      "link": "https://images.dday.it/pWX1N8JISSLYb_Elna06LDQJwvLw4p-YIKSsFEyBlUY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57434/464c09_lifestyle-8.jpg",
-      "excerpt": "Le lavapavimenti wet & dry hanno un serbatoio che basta per poche stanze, soprattutto se si usa un programma di lavaggio intenso. Tineco FLOOR ONE STATION S9 Artist è la prima con…",
-      "image": "https://images.dday.it/pWX1N8JISSLYb_Elna06LDQJwvLw4p-YIKSsFEyBlUY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57434/464c09_lifestyle-8.jpg",
-      "publishedAt": "2026-05-22T01:03:05+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Apple trasmetterà una partita intera di calcio ripresa con iPhone 17 Pro: è la prima volta nello sport professionistico",
-      "link": "https://images.dday.it/J4DFfPK0WzQuQgIeXrh2rbN6JgMXJt5dsCzF_IgExeY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57500/bb0b03_small_Apple-TV-MLS-logo-lockup_quick-read-16x9.jpg.large_2x_copia.jpg",
-      "excerpt": "Dopo gli inserti nel baseball e nella MLS Cup dell’anno scorso, Apple userà iPhone 17 Pro per catturare tutta LA Galaxy Houston Dynamo in diretta su Apple TV... Leggi tutto",
-      "image": "https://images.dday.it/J4DFfPK0WzQuQgIeXrh2rbN6JgMXJt5dsCzF_IgExeY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57500/bb0b03_small_Apple-TV-MLS-logo-lockup_quick-read-16x9.jpg.large_2x_copia.jpg",
-      "publishedAt": "2026-05-21T15:37:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
