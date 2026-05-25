@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-05-25T19:07:38.784494+00:00",
+  "generatedAt": "2026-05-25T23:44:35.299234+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Ferrari Luce: la prima elettrica del Cavallino",
+      "link": "https://www.tomshw.it/automotive/ferrari-luce-la-prima-elettrica-del-cavallino-2026-05-25",
+      "excerpt": "Roma ha fatto da cornice a un momento che molti appassionati consideravano impossibile fino a pochi anni fa: la Ferrari ha alzato il sipario sulla sua prima automobile…",
+      "image": null,
+      "publishedAt": "2026-05-25T22:01:11+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Ecco Ferrari Luce, diversa da tutte le altre \"rosse\" e non perché è elettrica",
+      "link": "https://images.dday.it/KmfzoSeNs8-zTBQ3P1rqG18UPhhBLl-V6jRy7YfwQTY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57530/b93f95_6a146abf2d10b80021148a30-ferrari_luce_front_3q_16x9_rgb_web_socials.jpeg",
+      "excerpt": "Ferrari ha tolto i veli alla sua prima vettura elettrica, Luce. Ma il powertrain elettrico, che in parte era già stato annunciato, non è l'aspetto più sorprendente: disegnata in…",
+      "image": "https://images.dday.it/KmfzoSeNs8-zTBQ3P1rqG18UPhhBLl-V6jRy7YfwQTY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57530/b93f95_6a146abf2d10b80021148a30-ferrari_luce_front_3q_16x9_rgb_web_socials.jpeg",
+      "publishedAt": "2026-05-25T20:58:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Recensione Ecovacs Winbot Mini 2: mini robot lavavetri con nebulizzazione ultrasonica",
+      "link": "https://www.hdblog.it/home/recensioni/n659078/winbot-mini-2-ecovacs-recensione-lavavetri/",
+      "excerpt": "Abbiamo provato il nuovo robot lavavetri di Ecovacs: il Mini 2 che come suggerisce il nome offre in dimensioni compatte e peso contenuto (poco più di 1kg) le prestazioni di robot…",
+      "image": "https://hd2.tudocdn.net/1344210?w=660",
+      "publishedAt": "2026-05-25T19:00:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il WiFi può diventare uno strumento di identificazione anche a telefono spento",
+      "link": "https://www.hdblog.it/hardware/articoli/n659393/normali-router-wifi-strumenti-identificazione/",
+      "excerpt": "Una normale rete WiFi può bastare per riconoscere una persona",
+      "image": "https://hd2.tudocdn.net/1344823?w=660",
+      "publishedAt": "2026-05-25T18:59:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Xiaomi 15T Pro è in offerta, un flagship killer nella fascia media",
       "link": "https://www.hdblog.it/smartphone/offerte/n659433/xiaomi-15t-pro-offerta-frit26/",
@@ -77,24 +113,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Samsung accelera sulle memorie flash: primo prototipo di V-NAND da 900 strati",
-      "link": "https://www.hdblog.it/hardware/articoli/n659418/samsung-nand-record-900-strati/",
-      "excerpt": "È ancora un prototipo, naturalmente.",
-      "image": "https://hd2.tudocdn.net/1067761?w=660",
-      "publishedAt": "2026-05-25T16:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Pogea Racing trasforma una Porsche 964: restomod folle da 500 CV",
-      "link": "https://www.hdmotori.it/pogea-racing-porsche-964-restomod-500-cv/",
-      "excerpt": "I noti preparatori tedeschi hanno cambiato alcuni connotati alla leggendaria Porsche 964, creando un capolavoro senza precedenti",
-      "image": "https://hd2.tudocdn.net/1344874?w=660",
-      "publishedAt": "2026-05-25T16:00:47+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Grandi, ma anche lo sconto lo è! Queste cuffie Razer crollano di prezzo",
       "link": "https://www.tomshw.it/videogioco/razer-blackshark-v3-wireless-in-offerta-a-soli-129eur-2026-05-25",
       "excerpt": "Su Amazon è disponibile un'ottima offerta sulle Razer BlackShark V3, le cuffie wireless progettate per l'eSport di alto livello. Dotate di driver TriForce in Titanio da 50 mm,…",
@@ -136,15 +154,6 @@
       "excerpt": "Lenovo sta trasformando uno dei problemi più fastidiosi del mercato PC in una leva sui margini. Mentre i rincari di DRAM e NAND pesano sui produttori e sugli acquirenti, il gruppo…",
       "image": null,
       "publishedAt": "2026-05-25T14:23:53+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Claude Mythos promette una svolta, ma la sicurezza ora si complica",
-      "link": "https://www.tomshw.it/hardware/claude-mythos-23000-vulnerabilita-open-source",
-      "excerpt": "Claude Mythos è uscito dalla fase di semplice promessa con numeri difficili da ignorare. Anthropic afferma che il modello ha individuato oltre 23.000 possibili falle in più di…",
-      "image": null,
-      "publishedAt": "2026-05-25T14:22:25+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -262,15 +271,6 @@
       "excerpt": "Junior sarà il modello d’accesso, Giulia e Stelvio resteranno fino al 2027, mentre Alfa Romeo prepara un nuovo C-SUV italiano e una compatta erede dello spirito di 147 e…",
       "image": "https://images.dday.it/11psPP2sEvwbdAX0Ma_3Y8nJBeuyESe8MSnBzEca4Cw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57522/80c836_alfa_thumb.jpg",
       "publishedAt": "2026-05-25T09:41:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Dyson V11 Advanced in super-sconto su Amazon. Ancora oggi è fra i migliori",
-      "link": "https://images.dday.it/J3BXL2zjb5boeMAB7Du9R3HvknYDvT5sKYAMch5-enQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/56291/12a078_dysonv11_thumb.jpg",
-      "excerpt": "Dyson V11 Advance rimane fra le migliori aspirapolveri senza filo in circolazione. E ora al prezzo più basso di sempre... Leggi tutto",
-      "image": "https://images.dday.it/J3BXL2zjb5boeMAB7Du9R3HvknYDvT5sKYAMch5-enQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/56291/12a078_dysonv11_thumb.jpg",
-      "publishedAt": "2026-05-25T08:48:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
