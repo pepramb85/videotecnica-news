@@ -1,9 +1,171 @@
 {
-  "generatedAt": "2026-05-25T12:49:47.654740+00:00",
+  "generatedAt": "2026-05-25T19:07:38.784494+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Xiaomi 15T Pro è in offerta, un flagship killer nella fascia media",
+      "link": "https://www.hdblog.it/smartphone/offerte/n659433/xiaomi-15t-pro-offerta-frit26/",
+      "excerpt": "Lo Xiaomi 15T Pro è in offerta e diventa uno dei best buy della fascia media e rappresenta la scelta giusta per un flagship killer.",
+      "image": "https://hd2.tudocdn.net/1290016?w=660",
+      "publishedAt": "2026-05-25T18:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Doom gira anche su un paio di walkie-talkie per bambini",
+      "link": "https://www.hdblog.it/games/articoli/n659428/doom-walkie-talkie-bambini-hacking-hardware/",
+      "excerpt": "Il Doom Guy conquista l'ennesima piattaforma improbabile.",
+      "image": "https://hd2.tudocdn.net/1344882?w=660",
+      "publishedAt": "2026-05-25T17:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Svolta per il settore auto: sbloccati 1,34 miliardi con il DPCM automotive",
+      "link": "https://www.hdmotori.it/settore-auto-dpcm-automotive/",
+      "excerpt": "Le risorse del nuovo DPCM verranno ripartite con un focus su ricerca, innovazione della filiera e rinnovo dei veicoli commerciali.",
+      "image": "https://hd2.tudocdn.net/1270180?w=660",
+      "publishedAt": "2026-05-25T17:30:56+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Xreal è convinta, i prossimi anni saranno quelli del boom degli occhiali smart",
+      "link": "https://www.hdblog.it/indossabili/articoli/n659426/xreal-project-aura-occhiali-smart-vendita/",
+      "excerpt": "Gli occhiali basati su Android XR saranno in vendita entro fine anno.",
+      "image": "https://hd2.tudocdn.net/1344880?w=660",
+      "publishedAt": "2026-05-25T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Bill Gates e Hyundai insieme per i nuovi reattori nucleari Natrium",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n659416/gates-hyundai-nucleare-natrium/",
+      "excerpt": "TerraPower collabora con HD Hyundai per produrre i componenti chiave dei nuovi reattori Natrium.",
+      "image": "https://hd2.tudocdn.net/1344873?w=660",
+      "publishedAt": "2026-05-25T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La prima partita di calcio professionale trasmessa in diretta solo con smartphone",
+      "link": "https://www.hdblog.it/smartphone/articoli/n659424/apple-iphone-17-pro-diretta-calcio-mls/",
+      "excerpt": "L'esperimento ha prodotto alcuni risultati molto interessanti, ma non è stato esente da difetti.",
+      "image": "https://hd2.tudocdn.net/1344876?w=660",
+      "publishedAt": "2026-05-25T16:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Opera di Ansel Adams ridipinta con l’AI senza permesso: fondazione insorge",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n659417/opera-adams-ridipinta-con-ai-senza-permesso/",
+      "excerpt": "L’opera è stata esposta nel corso del The Photography Show.",
+      "image": "https://hd2.tudocdn.net/1344872?w=660",
+      "publishedAt": "2026-05-25T16:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google eliminerà l’obbligo delle cuffie per la traduzione vocale in tempo reale?",
+      "link": "https://www.hdblog.it/google/articoli/n659384/google-traduzione-live-auricolari/",
+      "excerpt": "Per le traduzioni live con Google Translate potrebbe non essere più necessario l'uso di cuffie.",
+      "image": "https://hd2.tudocdn.net/1342765?w=660",
+      "publishedAt": "2026-05-25T16:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung accelera sulle memorie flash: primo prototipo di V-NAND da 900 strati",
+      "link": "https://www.hdblog.it/hardware/articoli/n659418/samsung-nand-record-900-strati/",
+      "excerpt": "È ancora un prototipo, naturalmente.",
+      "image": "https://hd2.tudocdn.net/1067761?w=660",
+      "publishedAt": "2026-05-25T16:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Pogea Racing trasforma una Porsche 964: restomod folle da 500 CV",
+      "link": "https://www.hdmotori.it/pogea-racing-porsche-964-restomod-500-cv/",
+      "excerpt": "I noti preparatori tedeschi hanno cambiato alcuni connotati alla leggendaria Porsche 964, creando un capolavoro senza precedenti",
+      "image": "https://hd2.tudocdn.net/1344874?w=660",
+      "publishedAt": "2026-05-25T16:00:47+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Grandi, ma anche lo sconto lo è! Queste cuffie Razer crollano di prezzo",
+      "link": "https://www.tomshw.it/videogioco/razer-blackshark-v3-wireless-in-offerta-a-soli-129eur-2026-05-25",
+      "excerpt": "Su Amazon è disponibile un'ottima offerta sulle Razer BlackShark V3, le cuffie wireless progettate per l'eSport di alto livello. Dotate di driver TriForce in Titanio da 50 mm,…",
+      "image": null,
+      "publishedAt": "2026-05-25T14:46:24+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Notebook sì, ma al prezzo giusto: oggi questo Vivobook è super conveniente",
+      "link": "https://www.tomshw.it/hardware/asus-vivobook-15-in-offerta-a-soli-549eur-su-amazon-2026-05-25",
+      "excerpt": "Su Amazon è disponibile un'ottima offerta sull'ASUS Vivobook 15 M1502YA, notebook da 15,6 con processore AMD Ryzen 7 7730U, 16GB di RAM e 512GB SSD. Ideale per lavoro, studio e…",
+      "image": null,
+      "publishedAt": "2026-05-25T14:42:11+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Per mesi sopra i 500€: oggi questo ECOVACS costa meno del solito",
+      "link": "https://www.tomshw.it/hardware/ecovacs-deebot-t80-omni-in-offerta-a-soli-499eur-2026-05-25",
+      "excerpt": "Su Amazon è disponibile un'ottima offerta sull'ECOVACS DEEBOT T80 OMNI, il robot aspirapolvere e lavapavimenti dotato di tecnologia OZMO ROLLER, aspirazione da 18.000 Pa e sistema…",
+      "image": null,
+      "publishedAt": "2026-05-25T14:38:52+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Non vuoi ancora un robot? Questo aspirapolvere senza fili a meno di 170€ fa ancora il suo dovere",
+      "link": "https://www.tomshw.it/hardware/dreame-r20-se-a-in-offerta-a-soli-169eur-su-amazon-2026-05-25",
+      "excerpt": "Su Amazon è disponibile un'ottima offerta sul DREAME R20 SE-A, l'aspirapolvere senza fili con aspirazione da 20.000 PA / 150 AW e autonomia fino a 90 minuti. Dotato di spazzola…",
+      "image": null,
+      "publishedAt": "2026-05-25T14:34:33+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "RAM e SSD costano di più, ma Lenovo trova il modo di guadagnarci",
+      "link": "https://www.tomshw.it/hardware/lenovo-memoria-prezzi-pc-premium",
+      "excerpt": "Lenovo sta trasformando uno dei problemi più fastidiosi del mercato PC in una leva sui margini. Mentre i rincari di DRAM e NAND pesano sui produttori e sugli acquirenti, il gruppo…",
+      "image": null,
+      "publishedAt": "2026-05-25T14:23:53+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Claude Mythos promette una svolta, ma la sicurezza ora si complica",
+      "link": "https://www.tomshw.it/hardware/claude-mythos-23000-vulnerabilita-open-source",
+      "excerpt": "Claude Mythos è uscito dalla fase di semplice promessa con numeri difficili da ignorare. Anthropic afferma che il modello ha individuato oltre 23.000 possibili falle in più di…",
+      "image": null,
+      "publishedAt": "2026-05-25T14:22:25+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Honor MagicBook 16 2026 arriva in Italia: grande schermo e peso contenuto. Il prezzo è meno leggero",
+      "link": "https://images.dday.it/m87X0zyl1v8q7FCNJLNRETN_ZJjWYOgIS6CKqjjireU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57528/9bc092_small_Screenshot_2026-05-25_alle_15.54.31_copia.png",
+      "excerpt": "Il nuovo notebook Honor punta su peso ridotto, autonomia e praticità quotidiana. La versione italiana parte da Full HD+ e 512 GB di SSD... Leggi tutto",
+      "image": "https://images.dday.it/m87X0zyl1v8q7FCNJLNRETN_ZJjWYOgIS6CKqjjireU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57528/9bc092_small_Screenshot_2026-05-25_alle_15.54.31_copia.png",
+      "publishedAt": "2026-05-25T13:58:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Il TAR sospende il decreto sulla copia privata per il cloud: AWS ricorre e vince (per ora)",
+      "link": "https://images.dday.it/GNmGlH2QQyRySNIMuggAqkNRDb5gwH1W9mCe3_frNQ0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57527/75a22a_decreto.jpg",
+      "excerpt": "Amazon Web Services ha impugnato il decreto Giuli che estendeva per la prima volta al mondo il compenso copia privata ai servizi di storage in cloud. Il tribunale amministrativo…",
+      "image": "https://images.dday.it/GNmGlH2QQyRySNIMuggAqkNRDb5gwH1W9mCe3_frNQ0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57527/75a22a_decreto.jpg",
+      "publishedAt": "2026-05-25T13:02:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
     {
       "title": "Notebook HP da diverse migliaia di euro bloccati all’avvio: colpa di un aggiornamento del BIOS",
       "link": "https://images.dday.it/6NIMs6aKzc4d6ITOEb2JUApjL6p_1mOrGecjv4r17Ro/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57526/77bb81_small_Screenshot_2026-05-25_alle_14.45.15_copia.png",
@@ -12,24 +174,6 @@
       "publishedAt": "2026-05-25T12:46:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "I LEGO che vuoi sono più vicini: -20% con questo coupon",
-      "link": "https://www.tomshw.it/videogioco/i-lego-che-vuoi-sono-piu-vicini-20-con-questo-coupon",
-      "excerpt": "Approfittare di un’offerta sui set di costruzioni più amati al mondo è oggi più semplice: i LEGO che desiderate sono più vicini, con uno sconto del 20% disponibile gr...",
-      "image": null,
-      "publishedAt": "2026-05-25T12:45:34+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Trump vuole l’app della Casa Bianca su tutti gli iPhone dei dipendenti governativi",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n659392/trump-app-imposta-dipendenti-federali/",
-      "excerpt": "La Casa Bianca starebbe valutando di rendere obbligatoria l’app ufficiale sui dispositivi governativi dopo il basso numero di download registrati",
-      "image": "https://hd2.tudocdn.net/1308560?w=660",
-      "publishedAt": "2026-05-25T12:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "iPhone con iOS 16 nel mirino: WhatsApp invia messaggi al posto vostro. Di nascosto",
@@ -41,157 +185,40 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "WhatsApp ha una soluzione per la pagina di info delle chat di gruppo",
-      "link": "https://www.hdblog.it/android/articoli/n659375/whatsapp-info-chat-gruppo-navigazione-schede/",
-      "excerpt": "Minimo intervento, massima resa.",
-      "image": "https://hd2.tudocdn.net/1295281?w=660",
-      "publishedAt": "2026-05-25T12:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "BYD Dolphin DM-i: la nuova plug-in hybrid pronta a invadere l’Europa",
-      "link": "https://www.hdmotori.it/byd-dolphin-dm-i-hybrid/",
-      "excerpt": "Il colosso cinese BYD continua il suo processo di espansione nel Vecchio Continente con la BYD Dolphin DM-in versione ibrida plug-in",
-      "image": "https://hd2.tudocdn.net/1344821?w=660",
-      "publishedAt": "2026-05-25T12:30:43+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Migliori termostati smart e Wi‑Fi (maggio 2026)",
-      "link": "https://www.tomshw.it/guide/termostati-smart-wi-fi-migliori",
-      "excerpt": "I termostati smart e Wi‑Fi non sono più un accessorio per pochi appassionati di domotica: nel 2026 sono diventati uno dei modi più pratici per rendere il riscaldamento di casa più…",
+      "title": "Migliori proiettori economici (maggio 2026)",
+      "link": "https://www.tomshw.it/altro/migliori-proiettori-economici",
+      "excerpt": "Chi vuole uno schermo grande senza arrivare al costo di una TV molto ampia finisce quasi sempre per guardare ai proiettori economici. Il problema è che questa fascia è anche la…",
       "image": null,
-      "publishedAt": "2026-05-25T12:21:39+00:00",
+      "publishedAt": "2026-05-25T12:25:01+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Unreal Engine 6 debutta con Rocket League, e Project Helix è già sullo sfondo",
-      "link": "https://www.tomshw.it/videogioco/unreal-engine-6-rocket-league-project-helix",
-      "excerpt": "Unreal Engine 6 è stato mostrato per la prima volta in un contesto piuttosto inatteso: non una conferenza tecnica dedicata agli sviluppatori, ma il palco competitivo di Rocket…",
+      "title": "Migliori VPN (maggio 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-vpn",
+      "excerpt": "Al giorno d'oggi, utilizzare una delle migliori VPN è diventato imprescindibile per chiunque voglia proteggere la privacy online, navigare in modo sicuro e accedere senza…",
       "image": null,
-      "publishedAt": "2026-05-25T12:16:02+00:00",
+      "publishedAt": "2026-05-25T12:23:55+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "In Cina un sistema per controllare e tracciare ogni robot umanoide",
-      "link": "https://www.hdblog.it/robotica/articoli/n659389/robot-umanoidi-carta-didentita-cina-schedatura/",
-      "excerpt": "Ogni robot umanoide prodotto in Cina potrebbe ricevere un codice univoco con dati su produttore, modello e singola unità",
-      "image": "https://hd2.tudocdn.net/1344816?w=660",
-      "publishedAt": "2026-05-25T12:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Un drone da corsa ha raggiunto una velocità quasi impossibile",
-      "link": "https://www.tomshw.it/hardware/drone-blackbird-record-453-mph",
-      "excerpt": "Blackbird ha raggiunto 453 mph in un test di velocità, pari a circa 729 km/h, spingendo un drone da corsa in un territorio normalmente associato ad aeromobili ben più grandi. Il…",
+      "title": "Migliori lavatrici (maggio 2026)",
+      "link": "https://www.tomshw.it/offerte/lavatrici-migliori",
+      "excerpt": "Scegliere una lavatrice nel 2026 non significa solo trovare un modello capiente o inseguire l'offerta del momento. È un acquisto che incide per anni sulla gestione del bucato, sui…",
       "image": null,
-      "publishedAt": "2026-05-25T12:01:24+00:00",
+      "publishedAt": "2026-05-25T12:23:24+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Micron apre una nuova fase per la memoria prodotta negli USA",
-      "link": "https://www.tomshw.it/hardware/micron-fab-dram-virginia-ddr4",
-      "excerpt": "Micron ha avviato la produzione nello stabilimento di Manassas, in Virginia, indicandolo come il sito DRAM più avanzato attivo negli Stati Uniti. La notizia arriva in una fase in…",
+      "title": "Migliori notebook economici (maggio 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-notebook-economici-sotto-500-euro",
+      "excerpt": "Scegliere uno dei migliori notebook economici nel 2026 richiede più attenzione rispetto a qualche anno fa. Nella fascia più accessibile, infatti, convivono portatili sorprendenti…",
       "image": null,
-      "publishedAt": "2026-05-25T12:00:16+00:00",
+      "publishedAt": "2026-05-25T12:21:18+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "I numeri che proiettano Antonelli nella storia della F1: ecclissato Hamilton",
-      "link": "https://www.hdmotori.it/numeri-antonelli-storia-f1/",
-      "excerpt": "Kimi Antonelli sta oscurando il vincitore del maggior numero di GP nella storia della F1. Confrontiamo i record dell’italiano con quelli di Hamilton al secondo anno nel circus.",
-      "image": "https://hd2.tudocdn.net/1344817?w=660",
-      "publishedAt": "2026-05-25T12:00:12+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Huawei sfida i limiti degli SSD con una soluzione estrema",
-      "link": "https://www.tomshw.it/hardware/huawei-ssd-122tb-die-on-board",
-      "excerpt": "Huawei sta provando a spingere la capacità degli SSD enterprise senza dipendere dalla NAND più avanzata che le restrizioni statunitensi rendono più difficile ottenere. La nuova…",
-      "image": null,
-      "publishedAt": "2026-05-25T11:58:26+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "L'IA doveva far risparmiare, ora alcune aziende frenano",
-      "link": "https://www.tomshw.it/hardware/ia-tokenmaxxing-costi-big-tech",
-      "excerpt": "Tokenmaxxing è il nome informale di una pratica che sta trasformando l'adozione aziendale dell'intelligenza artificiale in una voce di costo difficile da ignorare. Diverse grandi…",
-      "image": null,
-      "publishedAt": "2026-05-25T11:56:49+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il Wi-Fi può riconoscervi anche senza smartphone in tasca",
-      "link": "https://www.tomshw.it/hardware/wifi-router-identificazione-persone-995",
-      "excerpt": "Router Wi-Fi ordinari potrebbero diventare strumenti di identificazione molto più precisi di quanto sembri. Una ricerca tedesca ha mostrato che le informazioni radio già scambiate…",
-      "image": null,
-      "publishedAt": "2026-05-25T11:55:55+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Frenate l'entusiasmo per il Pixel Glow: questo potrebbe non essere il Pixel 11",
-      "link": "https://www.hdblog.it/smartphone/articoli/n659372/pixel-11-google-glow-led/",
-      "excerpt": "Il Pixel Glow esiste davvero, ma potrebbe essere implementato in modo diverso sui nuovi Pixel 11 di Google.",
-      "image": "https://hd2.tudocdn.net/1344815?w=660",
-      "publishedAt": "2026-05-25T11:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "L'AI hacker di Anthropic ha scovato oltre 10.000 vulnerabilità in un solo mese",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n659388/claude-mythos-preview-vulnerabilita-primo-mese/",
-      "excerpt": "Il modello \"Mythos Preview\" non è stato certo con le mani in mano.",
-      "image": "https://hd2.tudocdn.net/1341310?w=660",
-      "publishedAt": "2026-05-25T11:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "DeepSeek taglia i costi: lo sconto del 75% su V4 Pro diventa definitivo",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n659380/deepseek-sconto-v4-permanente/",
-      "excerpt": "Il modello di punta di DeepSeek diventa più economico",
-      "image": "https://hd2.tudocdn.net/1338401?w=660",
-      "publishedAt": "2026-05-25T11:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Cristiano Ronaldo entra nella famiglia Dreame come ambassador mondiale",
-      "link": "https://www.hdblog.it/mercato/articoli/n659385/cristiano-ronaldo-dreame-cr7/",
-      "excerpt": "Dreame ha annunciato una partnership globale con Cristiano Ronaldo per rafforzare la presenza internazionale del marchio nel settore smart home premium",
-      "image": "https://hd2.tudocdn.net/1344810?w=660",
-      "publishedAt": "2026-05-25T11:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Un pezzo di storia dei supercomputer è finito all’asta",
-      "link": "https://www.tomshw.it/hardware/primo-cray-t3d-asta-gigante-81000-dollari",
-      "excerpt": "Il primo Cray T3D mai prodotto è finito all'asta con una base di circa 81.000 dollari. L'esemplare ha numero di serie 6001 ed è noto come Typhoon, nome che porta con sé una storia…",
-      "image": null,
-      "publishedAt": "2026-05-25T11:16:53+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Eufy C15 è un robot tagliaerba economico e semplice da usare",
-      "link": "https://www.hdblog.it/home/articoli/n659381/anker-eufy-c15-tagliaerba-robot-economico/",
-      "excerpt": "Niente paletti, niente antenne: fa tutto l'intelligenza artificiale con un paio di videocamere.",
-      "image": "https://hd2.tudocdn.net/1344809?w=660",
-      "publishedAt": "2026-05-25T11:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "La Cina unifica i suoi programmi di esplorazione lunare: il primo astronauta cinese sulla Luna entro il 2030",
@@ -246,33 +273,6 @@
       "publishedAt": "2026-05-25T08:48:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Micron ha avviato in Virginia la produzione delle memorie made in USA più sofisticate di sempre",
-      "link": "https://images.dday.it/ZLORFSItLolIolRRnElVQlaDsp361GXjt2Wdg6Mu38o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57520/eca3c9_event-manassas-virginia-102426-8547.jpg",
-      "excerpt": "La produzione basata sul nodo 1-alpha è la più avanzata mai realizzata all'interno degli Stati Uniti. Rifornirà i mercati strategici, come automotive, difesa, networking e…",
-      "image": "https://images.dday.it/ZLORFSItLolIolRRnElVQlaDsp361GXjt2Wdg6Mu38o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57520/eca3c9_event-manassas-virginia-102426-8547.jpg",
-      "publishedAt": "2026-05-25T08:30:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Huawei sfida TSMC e Intel: chip “equivalenti” a 1,4 nm senza litografia avanzata",
-      "link": "https://images.dday.it/_N5MAQER7VxDM9kwzRLnr7gvvdayTr1QVsM-jC6y1OQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57519/4a564a_small_Depositphotos_461646930_XL_copia.jpg",
-      "excerpt": "Non avendo accesso alla litografia avanzata, Huawei si getta nello spazio 3D logico. Con Tau Scaling Law e LogicFolding, promette più densità e meno ritardi nei segnali. Il primo…",
-      "image": "https://images.dday.it/_N5MAQER7VxDM9kwzRLnr7gvvdayTr1QVsM-jC6y1OQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57519/4a564a_small_Depositphotos_461646930_XL_copia.jpg",
-      "publishedAt": "2026-05-25T07:48:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migliori mini PC (maggio 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-mini-pc",
-      "excerpt": "Se non volete comprare né un desktop tradizionale né un portatile, il mini PC resta una delle soluzioni più intelligenti da valutare nel 2026. Occupa pochissimo spazio, consuma…",
-      "image": null,
-      "publishedAt": "2026-05-25T07:13:43+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     }
   ]
 }
