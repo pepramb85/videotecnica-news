@@ -1,276 +1,276 @@
 {
-  "generatedAt": "2026-05-25T23:44:35.299234+00:00",
+  "generatedAt": "2026-05-26T19:33:51.449880+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Ferrari Luce: la prima elettrica del Cavallino",
-      "link": "https://www.tomshw.it/automotive/ferrari-luce-la-prima-elettrica-del-cavallino-2026-05-25",
-      "excerpt": "Roma ha fatto da cornice a un momento che molti appassionati consideravano impossibile fino a pochi anni fa: la Ferrari ha alzato il sipario sulla sua prima automobile…",
+      "title": "Riciclare un vecchio Kindle come dashboard smart home non è tanto difficile",
+      "link": "https://www.hdblog.it/domotica/articoli/n659488/amazon-kindle-dashboard-home-assistant-jailbreak/",
+      "excerpt": "Un jailbreak, un paio di app e via!",
+      "image": "https://hd2.tudocdn.net/1344989?w=660",
+      "publishedAt": "2026-05-26T18:46:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Megan Gale testimonial di Iliad, il Giurì ha deciso sul ricorso di Fastweb",
+      "link": "https://www.hdblog.it/iliad/articoli/n659526/megan-gale-campagna-iliad-fastweb/",
+      "excerpt": "a decisione sul ricorso presentato da Fastweb è attesa oggi",
+      "image": "https://hd2.tudocdn.net/1345126?w=660",
+      "publishedAt": "2026-05-26T18:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La nuova GPU gaming cinese fa il botto nonostante prezzo alto e prestazioni scarse",
+      "link": "https://www.hdblog.it/hardware/articoli/n659559/lisuan-lx-7g100-successo-vendite-cina-gpu-gaming/",
+      "excerpt": "30.000 unità vendute in preordine in appena 48 ore. Per una scheda che costa come una RTX 5060 Ti 16 GB e va poco più di una RTX 3060.",
+      "image": "https://hd2.tudocdn.net/1345451?w=660",
+      "publishedAt": "2026-05-26T17:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "AGIBOT A2 si esibisce a Giacarta prima di entrare nelle fabbriche",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n659471/agibot-robot-umanoide-giacarta/",
+      "excerpt": "L'umanoide AGIBOT A2 stupisce a Giacarta ballando e scrivendo in un evento culturale.",
+      "image": "https://hd2.tudocdn.net/1344983?w=660",
+      "publishedAt": "2026-05-26T17:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Backup dei vecchi videogiochi con un comune drive Blu-Ray grazie a OmniDrive",
+      "link": "https://www.hdblog.it/hardware/articoli/n659558/backup-videogiochi-blu-ray-omnidrive/",
+      "excerpt": "Un firmware open-source per tutti i drive basati su uno specifico chipset MediaTek.",
+      "image": "https://hd2.tudocdn.net/1345447?w=660",
+      "publishedAt": "2026-05-26T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Teledyne lancia un mini cingolato robot per spiare i nemici",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n659456/mini-robot-militare-lanciabile-flir/",
+      "excerpt": "Teledyne FLIR lancia FirstLook 125, un mini robot da ricognizione lanciabile e resistente agli urti.",
+      "image": "https://hd2.tudocdn.net/1344938?w=660",
+      "publishedAt": "2026-05-26T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Xiaomi, il 2026 parte male: calo spedizioni smartphone, crollo degli utili",
+      "link": "https://www.hdblog.it/smartphone/articoli/n659556/xiaomi-risultati-q1-2026-calo-smartphone/",
+      "excerpt": "Tra i primi cinque produttori globali è stata quella che ha osservato il calo peggiore.",
+      "image": "https://hd2.tudocdn.net/1344248?w=660",
+      "publishedAt": "2026-05-26T16:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Alfa Romeo 33 Stradale, la \"bellezza necessaria\" trionfa al Compasso d'Oro",
+      "link": "https://www.hdmotori.it/alfa-romeo-33-stradale-compasso-oro/",
+      "excerpt": "L'Alfa Romeo 33 Stradale riceve la Menzione d'Onore nella categoria “Design per la mobilità”, confermando l'eccellenza stilistica del marchio",
+      "image": "https://hd2.tudocdn.net/1345439?w=660",
+      "publishedAt": "2026-05-26T16:30:55+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il nuovo drone ULTRA Turbo della US Air Force vola verso il Medio Oriente",
+      "link": "https://www.hdblog.it/droni/articoli/n659480/us-air-force-drone-ultra-turbo/",
+      "excerpt": "Il drone ULTRA Turbo della US Air Force debutta in Medio Oriente con 60 ore di autonomia.",
+      "image": "https://hd2.tudocdn.net/1345430?w=660",
+      "publishedAt": "2026-05-26T16:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Fine di un'era, il mitico NVIDIA Control Panel sul viale del tramonto",
+      "link": "https://www.hdblog.it/hardware/articoli/n659551/nvidia-control-panel-pensione-app-novita-grd/",
+      "excerpt": "Ormai il porting delle funzioni verso la nuova NVIDIA app è completo.",
+      "image": "https://hd2.tudocdn.net/1345434?w=660",
+      "publishedAt": "2026-05-26T16:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Tastiera mini? Questa Logitech è tra le migliori da comprare oggi",
+      "link": "https://www.tomshw.it/hardware/logitech-mx-keys-mini-in-offerta-su-amazon-50-2026-05-26",
+      "excerpt": "Su Amazon è disponibile un'ottima offerta sulla Logitech MX Keys Mini, la tastiera wireless compatta e illuminata compatibile con macOS, iOS, Windows, Linux e Android. Grazie ai…",
       "image": null,
-      "publishedAt": "2026-05-25T22:01:11+00:00",
+      "publishedAt": "2026-05-26T15:52:26+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Ecco Ferrari Luce, diversa da tutte le altre \"rosse\" e non perché è elettrica",
-      "link": "https://images.dday.it/KmfzoSeNs8-zTBQ3P1rqG18UPhhBLl-V6jRy7YfwQTY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57530/b93f95_6a146abf2d10b80021148a30-ferrari_luce_front_3q_16x9_rgb_web_socials.jpeg",
-      "excerpt": "Ferrari ha tolto i veli alla sua prima vettura elettrica, Luce. Ma il powertrain elettrico, che in parte era già stato annunciato, non è l'aspetto più sorprendente: disegnata in…",
-      "image": "https://images.dday.it/KmfzoSeNs8-zTBQ3P1rqG18UPhhBLl-V6jRy7YfwQTY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57530/b93f95_6a146abf2d10b80021148a30-ferrari_luce_front_3q_16x9_rgb_web_socials.jpeg",
-      "publishedAt": "2026-05-25T20:58:00+00:00",
+      "title": "Abbiamo fatto interpretare all'IA l'enciclica sull'IA di Papa Leone XIV",
+      "link": "https://images.dday.it/5WUtH_lrGeze_09_OiWkwk9AcDeS4aGyWO3pw-JlSGI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57541/df2823_small_5Immagine_1_generata_copia.png",
+      "excerpt": "Tre agenti, un supervisore e 245 paragrafi. Così Codex ha analizzato l’enciclica di Leone XIV sull’IA. L’IA può davvero estrarre il senso da un testo così denso, politico e…",
+      "image": "https://images.dday.it/5WUtH_lrGeze_09_OiWkwk9AcDeS4aGyWO3pw-JlSGI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57541/df2823_small_5Immagine_1_generata_copia.png",
+      "publishedAt": "2026-05-26T15:33:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     },
     {
-      "title": "Recensione Ecovacs Winbot Mini 2: mini robot lavavetri con nebulizzazione ultrasonica",
-      "link": "https://www.hdblog.it/home/recensioni/n659078/winbot-mini-2-ecovacs-recensione-lavavetri/",
-      "excerpt": "Abbiamo provato il nuovo robot lavavetri di Ecovacs: il Mini 2 che come suggerisce il nome offre in dimensioni compatte e peso contenuto (poco più di 1kg) le prestazioni di robot…",
-      "image": "https://hd2.tudocdn.net/1344210?w=660",
-      "publishedAt": "2026-05-25T19:00:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il WiFi può diventare uno strumento di identificazione anche a telefono spento",
-      "link": "https://www.hdblog.it/hardware/articoli/n659393/normali-router-wifi-strumenti-identificazione/",
-      "excerpt": "Una normale rete WiFi può bastare per riconoscere una persona",
-      "image": "https://hd2.tudocdn.net/1344823?w=660",
-      "publishedAt": "2026-05-25T18:59:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Xiaomi 15T Pro è in offerta, un flagship killer nella fascia media",
-      "link": "https://www.hdblog.it/smartphone/offerte/n659433/xiaomi-15t-pro-offerta-frit26/",
-      "excerpt": "Lo Xiaomi 15T Pro è in offerta e diventa uno dei best buy della fascia media e rappresenta la scelta giusta per un flagship killer.",
-      "image": "https://hd2.tudocdn.net/1290016?w=660",
-      "publishedAt": "2026-05-25T18:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Doom gira anche su un paio di walkie-talkie per bambini",
-      "link": "https://www.hdblog.it/games/articoli/n659428/doom-walkie-talkie-bambini-hacking-hardware/",
-      "excerpt": "Il Doom Guy conquista l'ennesima piattaforma improbabile.",
-      "image": "https://hd2.tudocdn.net/1344882?w=660",
-      "publishedAt": "2026-05-25T17:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Svolta per il settore auto: sbloccati 1,34 miliardi con il DPCM automotive",
-      "link": "https://www.hdmotori.it/settore-auto-dpcm-automotive/",
-      "excerpt": "Le risorse del nuovo DPCM verranno ripartite con un focus su ricerca, innovazione della filiera e rinnovo dei veicoli commerciali.",
-      "image": "https://hd2.tudocdn.net/1270180?w=660",
-      "publishedAt": "2026-05-25T17:30:56+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Xreal è convinta, i prossimi anni saranno quelli del boom degli occhiali smart",
-      "link": "https://www.hdblog.it/indossabili/articoli/n659426/xreal-project-aura-occhiali-smart-vendita/",
-      "excerpt": "Gli occhiali basati su Android XR saranno in vendita entro fine anno.",
-      "image": "https://hd2.tudocdn.net/1344880?w=660",
-      "publishedAt": "2026-05-25T17:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Bill Gates e Hyundai insieme per i nuovi reattori nucleari Natrium",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n659416/gates-hyundai-nucleare-natrium/",
-      "excerpt": "TerraPower collabora con HD Hyundai per produrre i componenti chiave dei nuovi reattori Natrium.",
-      "image": "https://hd2.tudocdn.net/1344873?w=660",
-      "publishedAt": "2026-05-25T16:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "La prima partita di calcio professionale trasmessa in diretta solo con smartphone",
-      "link": "https://www.hdblog.it/smartphone/articoli/n659424/apple-iphone-17-pro-diretta-calcio-mls/",
-      "excerpt": "L'esperimento ha prodotto alcuni risultati molto interessanti, ma non è stato esente da difetti.",
-      "image": "https://hd2.tudocdn.net/1344876?w=660",
-      "publishedAt": "2026-05-25T16:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Opera di Ansel Adams ridipinta con l’AI senza permesso: fondazione insorge",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n659417/opera-adams-ridipinta-con-ai-senza-permesso/",
-      "excerpt": "L’opera è stata esposta nel corso del The Photography Show.",
-      "image": "https://hd2.tudocdn.net/1344872?w=660",
-      "publishedAt": "2026-05-25T16:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Google eliminerà l’obbligo delle cuffie per la traduzione vocale in tempo reale?",
-      "link": "https://www.hdblog.it/google/articoli/n659384/google-traduzione-live-auricolari/",
-      "excerpt": "Per le traduzioni live con Google Translate potrebbe non essere più necessario l'uso di cuffie.",
-      "image": "https://hd2.tudocdn.net/1342765?w=660",
-      "publishedAt": "2026-05-25T16:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Grandi, ma anche lo sconto lo è! Queste cuffie Razer crollano di prezzo",
-      "link": "https://www.tomshw.it/videogioco/razer-blackshark-v3-wireless-in-offerta-a-soli-129eur-2026-05-25",
-      "excerpt": "Su Amazon è disponibile un'ottima offerta sulle Razer BlackShark V3, le cuffie wireless progettate per l'eSport di alto livello. Dotate di driver TriForce in Titanio da 50 mm,…",
-      "image": null,
-      "publishedAt": "2026-05-25T14:46:24+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Notebook sì, ma al prezzo giusto: oggi questo Vivobook è super conveniente",
-      "link": "https://www.tomshw.it/hardware/asus-vivobook-15-in-offerta-a-soli-549eur-su-amazon-2026-05-25",
-      "excerpt": "Su Amazon è disponibile un'ottima offerta sull'ASUS Vivobook 15 M1502YA, notebook da 15,6 con processore AMD Ryzen 7 7730U, 16GB di RAM e 512GB SSD. Ideale per lavoro, studio e…",
-      "image": null,
-      "publishedAt": "2026-05-25T14:42:11+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Per mesi sopra i 500€: oggi questo ECOVACS costa meno del solito",
-      "link": "https://www.tomshw.it/hardware/ecovacs-deebot-t80-omni-in-offerta-a-soli-499eur-2026-05-25",
-      "excerpt": "Su Amazon è disponibile un'ottima offerta sull'ECOVACS DEEBOT T80 OMNI, il robot aspirapolvere e lavapavimenti dotato di tecnologia OZMO ROLLER, aspirazione da 18.000 Pa e sistema…",
-      "image": null,
-      "publishedAt": "2026-05-25T14:38:52+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Non vuoi ancora un robot? Questo aspirapolvere senza fili a meno di 170€ fa ancora il suo dovere",
-      "link": "https://www.tomshw.it/hardware/dreame-r20-se-a-in-offerta-a-soli-169eur-su-amazon-2026-05-25",
-      "excerpt": "Su Amazon è disponibile un'ottima offerta sul DREAME R20 SE-A, l'aspirapolvere senza fili con aspirazione da 20.000 PA / 150 AW e autonomia fino a 90 minuti. Dotato di spazzola…",
-      "image": null,
-      "publishedAt": "2026-05-25T14:34:33+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "RAM e SSD costano di più, ma Lenovo trova il modo di guadagnarci",
-      "link": "https://www.tomshw.it/hardware/lenovo-memoria-prezzi-pc-premium",
-      "excerpt": "Lenovo sta trasformando uno dei problemi più fastidiosi del mercato PC in una leva sui margini. Mentre i rincari di DRAM e NAND pesano sui produttori e sugli acquirenti, il gruppo…",
-      "image": null,
-      "publishedAt": "2026-05-25T14:23:53+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Honor MagicBook 16 2026 arriva in Italia: grande schermo e peso contenuto. Il prezzo è meno leggero",
-      "link": "https://images.dday.it/m87X0zyl1v8q7FCNJLNRETN_ZJjWYOgIS6CKqjjireU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57528/9bc092_small_Screenshot_2026-05-25_alle_15.54.31_copia.png",
-      "excerpt": "Il nuovo notebook Honor punta su peso ridotto, autonomia e praticità quotidiana. La versione italiana parte da Full HD+ e 512 GB di SSD... Leggi tutto",
-      "image": "https://images.dday.it/m87X0zyl1v8q7FCNJLNRETN_ZJjWYOgIS6CKqjjireU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57528/9bc092_small_Screenshot_2026-05-25_alle_15.54.31_copia.png",
-      "publishedAt": "2026-05-25T13:58:00+00:00",
+      "title": "Svelata la nuova Lancia Gamma. Ecco le prime immagini",
+      "link": "https://images.dday.it/dU9RedL5iXyD64ytD-BFDvAoUuKXEPPeKlnyW_ffWfw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57539/f0b025_gamma_thumb.jpg",
+      "excerpt": "Il nuovo crossover sarà prodotto a Melfi su piattaforma STLA Medium, con motorizzazioni ibride ed elettriche e autonomie dichiarate fino a oltre 740 km... Leggi tutto",
+      "image": "https://images.dday.it/dU9RedL5iXyD64ytD-BFDvAoUuKXEPPeKlnyW_ffWfw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57539/f0b025_gamma_thumb.jpg",
+      "publishedAt": "2026-05-26T13:17:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     },
     {
-      "title": "Il TAR sospende il decreto sulla copia privata per il cloud: AWS ricorre e vince (per ora)",
-      "link": "https://images.dday.it/GNmGlH2QQyRySNIMuggAqkNRDb5gwH1W9mCe3_frNQ0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57527/75a22a_decreto.jpg",
-      "excerpt": "Amazon Web Services ha impugnato il decreto Giuli che estendeva per la prima volta al mondo il compenso copia privata ai servizi di storage in cloud. Il tribunale amministrativo…",
-      "image": "https://images.dday.it/GNmGlH2QQyRySNIMuggAqkNRDb5gwH1W9mCe3_frNQ0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57527/75a22a_decreto.jpg",
-      "publishedAt": "2026-05-25T13:02:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Notebook HP da diverse migliaia di euro bloccati all’avvio: colpa di un aggiornamento del BIOS",
-      "link": "https://images.dday.it/6NIMs6aKzc4d6ITOEb2JUApjL6p_1mOrGecjv4r17Ro/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57526/77bb81_small_Screenshot_2026-05-25_alle_14.45.15_copia.png",
-      "excerpt": "ZBook ed EliteBook professionali finiscono in boot loop dopo firmware distribuiti anche via Windows Update. HP indaga, ma un nuovo BIOS potrebbe avere corretto il problema...…",
-      "image": "https://images.dday.it/6NIMs6aKzc4d6ITOEb2JUApjL6p_1mOrGecjv4r17Ro/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57526/77bb81_small_Screenshot_2026-05-25_alle_14.45.15_copia.png",
-      "publishedAt": "2026-05-25T12:46:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "iPhone con iOS 16 nel mirino: WhatsApp invia messaggi al posto vostro. Di nascosto",
-      "link": "https://images.dday.it/XQF0jh3-huCI2EAGa0PPCX-w4OWIkwtfTxpijgsOmw8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57525/9b7506_whats.jpg",
-      "excerpt": "Ricercatori italiani di Forenser hanno identificato una nuova tipologia di attacco 0-click che consente a terzi di inviare messaggi dal profilo WhatsApp della vittima, senza…",
-      "image": "https://images.dday.it/XQF0jh3-huCI2EAGa0PPCX-w4OWIkwtfTxpijgsOmw8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57525/9b7506_whats.jpg",
-      "publishedAt": "2026-05-25T12:38:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migliori proiettori economici (maggio 2026)",
-      "link": "https://www.tomshw.it/altro/migliori-proiettori-economici",
-      "excerpt": "Chi vuole uno schermo grande senza arrivare al costo di una TV molto ampia finisce quasi sempre per guardare ai proiettori economici. Il problema è che questa fascia è anche la…",
+      "title": "Migliori friggitrici ad aria (maggio 2026)",
+      "link": "https://www.tomshw.it/offerte/migliori-friggitrici-ad-aria",
+      "excerpt": "Se volete cucinare in modo più pratico e con meno olio, una friggitrice ad aria resta uno degli elettrodomestici più interessanti da avere in cucina. Il principio di funzionamento…",
       "image": null,
-      "publishedAt": "2026-05-25T12:25:01+00:00",
+      "publishedAt": "2026-05-26T12:01:21+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Migliori VPN (maggio 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-vpn",
-      "excerpt": "Al giorno d'oggi, utilizzare una delle migliori VPN è diventato imprescindibile per chiunque voglia proteggere la privacy online, navigare in modo sicuro e accedere senza…",
+      "title": "Migliori asciugatrici (maggio 2026)",
+      "link": "https://www.tomshw.it/offerte/asciugatrici-migliori",
+      "excerpt": "Scegliere una buona asciugatrice nel 2026 non significa solo trovare un modello capiente o inseguire l’offerta del momento. È un acquisto che incide per anni sulla gestione del…",
       "image": null,
-      "publishedAt": "2026-05-25T12:23:55+00:00",
+      "publishedAt": "2026-05-26T12:00:34+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Migliori lavatrici (maggio 2026)",
-      "link": "https://www.tomshw.it/offerte/lavatrici-migliori",
-      "excerpt": "Scegliere una lavatrice nel 2026 non significa solo trovare un modello capiente o inseguire l'offerta del momento. È un acquisto che incide per anni sulla gestione del bucato, sui…",
+      "title": "Migliori videocamere di sorveglianza wi-fi (maggio 2026)",
+      "link": "https://www.tomshw.it/guide/migliore-telecamera-ip-videosorveglianza",
+      "excerpt": "Le videocamere di sorveglianza Wi-Fi sono diventate uno dei pilastri della smart home moderna, ma scegliere bene è molto meno banale di quanto sembri. Oggi il mercato offre…",
       "image": null,
-      "publishedAt": "2026-05-25T12:23:24+00:00",
+      "publishedAt": "2026-05-26T11:59:54+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Migliori notebook economici (maggio 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-notebook-economici-sotto-500-euro",
-      "excerpt": "Scegliere uno dei migliori notebook economici nel 2026 richiede più attenzione rispetto a qualche anno fa. Nella fascia più accessibile, infatti, convivono portatili sorprendenti…",
+      "title": "Noleggi l'auto per 5 anni, ma ogni 12 mesi puoi uscire dal contratto. Locauto torna nel noleggio a lungo termine",
+      "link": "https://images.dday.it/r6HXFT3uTsPXd5qhJW1izomrq4aqbdqynXlPDfX-ei4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57538/ed585c_noleggio_thumb.jpg",
+      "excerpt": "La società italiana rilancia una business unit dedicata e prepara Locauto One+, formula per privati e partite IVA con durata di 60 mesi e possibilità di uscita annuale dal…",
+      "image": "https://images.dday.it/r6HXFT3uTsPXd5qhJW1izomrq4aqbdqynXlPDfX-ei4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57538/ed585c_noleggio_thumb.jpg",
+      "publishedAt": "2026-05-26T10:52:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "È il momento giusto per acquistare il condizionatore portatile De’Longhi Pinguino, ora in offerta su Amazon",
+      "link": "https://images.dday.it/gB0r_gxL3ULTWZWkDxmvZBCuc9bykkVpi6yjzc7sHqc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57536/d90ecd_ape2.jpg",
+      "excerpt": "Approfitta subito dell’offerta e porta a casa il comfort del De’Longhi Pinguino, ideale per affrontare le giornate più calde ... Leggi tutto",
+      "image": "https://images.dday.it/gB0r_gxL3ULTWZWkDxmvZBCuc9bykkVpi6yjzc7sHqc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57536/d90ecd_ape2.jpg",
+      "publishedAt": "2026-05-26T10:07:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Migliori smartphone rugged (maggio 2026)",
+      "link": "https://www.tomshw.it/smartphone/migliori-smartphone-rugged",
+      "excerpt": "State cercando uno smartphone da usare mentre siete al lavoro e che debba resistere a cadute, botte, alla pioggia e a qualsiasi altra disgrazia possa capitare a uno smartphone?…",
       "image": null,
-      "publishedAt": "2026-05-25T12:21:18+00:00",
+      "publishedAt": "2026-05-26T09:58:53+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "La Cina unifica i suoi programmi di esplorazione lunare: il primo astronauta cinese sulla Luna entro il 2030",
-      "link": "https://images.dday.it/K2F0qTiIto8Ob8fI4ulxnZdZTAj7LdUwFyDVj0EYlQY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57524/af60d7_Moon_China_1.jpg",
-      "excerpt": "L'Agenzia Spaziale Cinese ha deciso di integrare in un unico nuovo programma lunare le missioni robotiche e quelle con equipaggio, per mettere a fattor comune esperienze e risorse…",
-      "image": "https://images.dday.it/K2F0qTiIto8Ob8fI4ulxnZdZTAj7LdUwFyDVj0EYlQY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57524/af60d7_Moon_China_1.jpg",
-      "publishedAt": "2026-05-25T11:10:00+00:00",
+      "title": "NordVPN vince il primo round contro LaLiga in Spagna: il blocco IP non ferma i veri pirati",
+      "link": "https://images.dday.it/dyYFOFdoULJ7QGFQdPrX20d_8SwRV54QqGXAbWXvOig/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57537/e49777_nvpn.jpg",
+      "excerpt": "Il tribunale di Córdoba dà ragione a NordVPN che sostiene che il blocco indiscriminato degli IP per combattere la pirateria crea solo un disagio, i pirati non sono stupidi:…",
+      "image": "https://images.dday.it/dyYFOFdoULJ7QGFQdPrX20d_8SwRV54QqGXAbWXvOig/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57537/e49777_nvpn.jpg",
+      "publishedAt": "2026-05-26T09:55:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     },
     {
-      "title": "Operai cercasi, laureati disoccupati: il paradosso del mercato del lavoro nell'era dell'IA",
-      "link": "https://images.dday.it/3KiCMBX8sr9BG6bzzpIY8HhKDff4dlpKezojsxnd7x8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57518/3f2930_Depositphotos_181505266_XL.jpg",
-      "excerpt": "Con un calo dell'occupazione per i giovani laureati che non si vedeva da anni, gli Usa reagiscono per affrontare la crisi del reparto manufatturiero, che non trova lavoratori:…",
-      "image": "https://images.dday.it/3KiCMBX8sr9BG6bzzpIY8HhKDff4dlpKezojsxnd7x8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57518/3f2930_Depositphotos_181505266_XL.jpg",
-      "publishedAt": "2026-05-25T10:22:00+00:00",
+      "title": "Migliori dash cam (maggio 2026)",
+      "link": "https://www.tomshw.it/automotive/migliori-dashcam",
+      "excerpt": "Le dashcam sono prodotti utilizzati da moltissimi automobilisti. Sono in grado di soddisfare diverse esigenze, come quella di migliorare la sicurezza alla guida (la registrazione…",
+      "image": null,
+      "publishedAt": "2026-05-26T09:49:24+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori schede madri gaming (maggio 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-schede-madri-gaming",
+      "excerpt": "Nel panorama del gaming su PC, la scelta della scheda madre ideale rappresenta un passaggio fondamentale nella costruzione di una macchina performante e duratura. Oltre alla…",
+      "image": null,
+      "publishedAt": "2026-05-26T09:47:15+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Unitree Robotics verso una IPO lampo e una valutazione di oltre 5 miliardi di euro",
+      "link": "https://images.dday.it/MTtL-2niVIlZJJn6dgSMX6APpA_DJi7wp3FWxddClXM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57534/85e9de_4a3dc51a7edb45bb9e9e0d1d240d8cd0_1920x1080.jpg",
+      "excerpt": "La startup di Hangzhou nota per i suoi onnipresenti robot umanoidi è alle battute finali per il suo debutto sulla borsa di Shanghai con una quotazione stellare. Ma si comunica…",
+      "image": "https://images.dday.it/MTtL-2niVIlZJJn6dgSMX6APpA_DJi7wp3FWxddClXM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57534/85e9de_4a3dc51a7edb45bb9e9e0d1d240d8cd0_1920x1080.jpg",
+      "publishedAt": "2026-05-26T08:57:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     },
     {
-      "title": "Solo per poco tempo: telecamere Tapo da esterno a prezzo ribassato",
-      "link": "https://images.dday.it/AzFIa3LlbDiWH-4cqbCwSyKksVPekvWdfzQXrfIBIcQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/55108/f88fd1_ape2.jpg",
-      "excerpt": "Approfitta subito della promozione su Amazon e rendi la tua casa più sicura con le telecamere WiFi da esterno Tapo ... Leggi tutto",
-      "image": "https://images.dday.it/AzFIa3LlbDiWH-4cqbCwSyKksVPekvWdfzQXrfIBIcQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/55108/f88fd1_ape2.jpg",
-      "publishedAt": "2026-05-25T10:05:00+00:00",
+      "title": "La causa Sony-Udio può diventare pesantissima: in ballo oltre 30.000 brani usati per l’IA",
+      "link": "https://images.dday.it/meXcCSwECu1hX0GhKxb866-63asnwXODoLaLBokYzGk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57535/eb09a9_small_3Immagine_1_generata_copia.png",
+      "excerpt": "Sony accusa Udio di avere addestrato i modelli con registrazioni protette. Ma Udio contesta la modifica alla causa e avverte: così si riparte da zero... Leggi tutto",
+      "image": "https://images.dday.it/meXcCSwECu1hX0GhKxb866-63asnwXODoLaLBokYzGk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57535/eb09a9_small_3Immagine_1_generata_copia.png",
+      "publishedAt": "2026-05-26T08:56:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     },
     {
-      "title": "OpenAI smonta una congettura geometrica di 80 anni, ma Google risolve 9 problemi di Erdős con meno clamore",
-      "link": "https://images.dday.it/kivMAgeFK4i_nWaeam3itTu1eQbWkTqeOIk7PAmK0J4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57523/f061a5_small_Immagine_1_generata_copia.png",
-      "excerpt": "Il caso OpenAI ha attirato l’attenzione, ma AlphaProof Nexus ha chiuso 9 problemi di Erdős con verifiche formali in Lean. Il contributo dell’IA nella matematica è comunque ormai…",
-      "image": "https://images.dday.it/kivMAgeFK4i_nWaeam3itTu1eQbWkTqeOIk7PAmK0J4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57523/f061a5_small_Immagine_1_generata_copia.png",
-      "publishedAt": "2026-05-25T09:56:00+00:00",
+      "title": "Momentum 5 Wireless: Sennheiser migliora ANC e codec, ma la novità è la batteria sostituibile",
+      "link": "https://images.dday.it/l8UNzUGOpT9xzr4wm3Dt0YL_Nybh3HBL_jz8413RUZk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57533/bb0e54_smnall_Screenshot_2026-05-26_alle_10.15.19_copia.png",
+      "excerpt": "Sennheiser aggiorna le Momentum dopo quasi quattro anni: meno rivoluzione nel design, più lavoro su cancellazione del rumore, connettività e “riparabilità” della batteria... Leggi…",
+      "image": "https://images.dday.it/l8UNzUGOpT9xzr4wm3Dt0YL_Nybh3HBL_jz8413RUZk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57533/bb0e54_smnall_Screenshot_2026-05-26_alle_10.15.19_copia.png",
+      "publishedAt": "2026-05-26T08:18:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     },
     {
-      "title": "La nuova fase di Alfa Romeo: Junior, un C-SUV italiano e una hatchback erede di 147 e Giulietta",
-      "link": "https://images.dday.it/11psPP2sEvwbdAX0Ma_3Y8nJBeuyESe8MSnBzEca4Cw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57522/80c836_alfa_thumb.jpg",
-      "excerpt": "Junior sarà il modello d’accesso, Giulia e Stelvio resteranno fino al 2027, mentre Alfa Romeo prepara un nuovo C-SUV italiano e una compatta erede dello spirito di 147 e…",
-      "image": "https://images.dday.it/11psPP2sEvwbdAX0Ma_3Y8nJBeuyESe8MSnBzEca4Cw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57522/80c836_alfa_thumb.jpg",
-      "publishedAt": "2026-05-25T09:41:00+00:00",
+      "title": "Samsung si sposta con forza sulla produzione di memoria HBM e l’IA toglierà memoria a smartphone e PC",
+      "link": "https://images.dday.it/uXD7uOtRWwyHSSZbLOWqiHYJQiMSXXSjWUai1wT4FM8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57532/037af1_small_Depositphotos_108741908_XL_copia.jpg",
+      "excerpt": "Samsung avrebbe già venduto tutta la capacità HBM4 preparata, mentre Nvidia potrebbe assorbire da sola più LPDDR di Apple e Samsung insieme nel 2027... Leggi tutto",
+      "image": "https://images.dday.it/uXD7uOtRWwyHSSZbLOWqiHYJQiMSXXSjWUai1wT4FM8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57532/037af1_small_Depositphotos_108741908_XL_copia.jpg",
+      "publishedAt": "2026-05-26T07:49:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Il caso JPMorgan: 450 use case AI in produzione, 200 mila dipendenti su LLM proprietaria, 1,5 miliardi di valore annuo previsto",
+      "link": "https://www.tomshw.it/business/jpmorgan-450-use-case-ai-200mila-dipendenti",
+      "excerpt": "JPMorgan Chase ha portato in produzione 450 casi d'uso AI distribuiti su back-office, customer service, risk management e operations. Il dato emerge dalla documentazione…",
+      "image": null,
+      "publishedAt": "2026-05-26T07:48:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "I data center AI consumeranno 1.050 TWh entro fine 2026, più dell'intera energia elettrica italiana",
+      "link": "https://www.tomshw.it/business/data-center-ai-1050-twh-2026-grid-europa",
+      "excerpt": "Il consumo elettrico globale dei data center raggiungerà circa 1.050 TWh entro fine 2026, con un tasso di crescita annuo composto del 30% trainato quasi interamente dai workload…",
+      "image": null,
+      "publishedAt": "2026-05-26T07:47:11+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Le competenze AI sono la prima posizione \"impossibile da riempire\" nel 2026, davanti a ingegneria e IT",
+      "link": "https://www.tomshw.it/business/ai-skills-prima-posizione-impossibile-riempire-2026",
+      "excerpt": "Il 72% dei datori di lavoro globali segnala difficoltà a riempire posizioni che richiedono competenze AI specifiche, secondo il rapporto Talent Shortage 2026 di ManpowerGroup. Le…",
+      "image": null,
+      "publishedAt": "2026-05-26T07:46:16+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Garanzia europea sui prodotti, cosa cambia a settembre con la nuova etichetta GARAN",
+      "link": "https://images.dday.it/t4xhhZtz3xzfrnVl4RbwOD0qAwsz59vAjd04ge-9XFY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57531/b18e68_Depositphotos2.jpg",
+      "excerpt": "Dal 27 settembre 2026 entrano in vigore in tutta l'UE due nuovi strumenti per rendere le garanzie sui prodotti più chiare e confrontabili. Il primo è un avviso obbligatorio sulla…",
+      "image": "https://images.dday.it/t4xhhZtz3xzfrnVl4RbwOD0qAwsz59vAjd04ge-9XFY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57531/b18e68_Depositphotos2.jpg",
+      "publishedAt": "2026-05-26T07:08:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
