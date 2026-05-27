@@ -1,170 +1,179 @@
 {
-  "generatedAt": "2026-05-27T12:33:53.997623+00:00",
+  "generatedAt": "2026-05-27T21:15:24.126651+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "ZXMoto MX250: la nuova moto da cross e i piani di Zhang Xue",
-      "link": "https://www.hdmotori.it/zxmoto-mx250-moto-cross/",
-      "excerpt": "Dopo i trionfi a sorpresa nella Supersport, ZXMoto debutta nel motocross con la MX250. Una mossa strategica per conquistare il mercato europeo.",
-      "image": "https://hd2.tudocdn.net/1345738?w=660",
-      "publishedAt": "2026-05-27T12:30:20+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Rambus accelera la DDR5 per AMD Zen 6 e Intel Nova Lake",
-      "link": "https://www.tomshw.it/hardware/rambus-accelera-la-ddr5-per-amd-zen-6-e-intel-nova-lake",
-      "excerpt": "Rambus ha presentato una nuova piattaforma di chip per moduli di memoria client capace di portare la DDR5 fino a 9600 MT/s, un valore che punta direttamente alla prossima ondata…",
-      "image": null,
-      "publishedAt": "2026-05-27T12:30:06+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "WhatsApp: gli aggiornamenti di stato arrivano anche sui canali",
-      "link": "https://www.hdblog.it/android/articoli/n659641/whatsapp-aggiornamenti-di-stato-sui-canali/",
-      "excerpt": "La funzionalità è disponibile su Android e iOS.",
-      "image": "https://hd2.tudocdn.net/1345727?w=660",
-      "publishedAt": "2026-05-27T12:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Spotify continua a diversificare: ora si potranno ascoltare gli articoli delle riviste",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n659639/spotify-streaming-audio-articoli-riviste/",
-      "excerpt": "La novità arriva come parte delle ore incluse per l'ascolto di audiolibri per gli utenti premium",
-      "image": "https://hd2.tudocdn.net/1342484?w=660",
-      "publishedAt": "2026-05-27T12:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Recensione REDMAGIC 11S Pro, il PC handheld travestito da smartphone",
-      "link": "https://www.tomshw.it/smartphone/recensione-redmagic-11s-pro-il-pc-handheld-travestito-da-smartphone",
-      "excerpt": "Quando si estrae il REDMAGIC 11S Pro Plus dalla scatola, la sensazione è la stessa con il precedente 11 Pro: anello di raffreddamento a liquido sul retro illuminato da RGB,…",
-      "image": null,
-      "publishedAt": "2026-05-27T12:16:08+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Su oltre 500 aerei American Airlines è in arrivo il Wi-Fi di Starlink",
-      "link": "https://www.hdblog.it/internet/articoli/n659643/starlink-aerei-american-airlines-internet-wifi/",
-      "excerpt": "L’accordo tra American Airlines e Starlink partirà nel primo trimestre del 2027 coinvolgendo oltre 500 velivoli a fusoliera stretta",
-      "image": "https://hd2.tudocdn.net/1345730?w=660",
-      "publishedAt": "2026-05-27T12:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Spotify, il CEO difende l'accordo con Universal per i remix AI",
-      "link": "https://www.hdblog.it/android/articoli/n659640/spotify-ceo-accordo-ai-remix-universal/",
-      "excerpt": "Una possibilità di introiti per gli artisti, altro che \"sbobba\"!",
-      "image": "https://hd2.tudocdn.net/1345729?w=660",
-      "publishedAt": "2026-05-27T12:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Migliori macchine da caffè portatili (maggio 2026)",
-      "link": "https://www.tomshw.it/altro/migliori-macchine-da-caffe-portatili",
-      "excerpt": "Quando si desidera preparare un buon caffè, il pensiero corre quasi sempre ai metodi più familiari: la moka, le macchine a capsule, le soluzioni a cialde o le macchine…",
-      "image": null,
-      "publishedAt": "2026-05-27T12:02:31+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "REDMAGIC 11S Pro arriva in Italia: ventola, liquido visibile e batteria da 7.500 mAh",
-      "link": "https://www.hdblog.it/smartphone/articoli/n659608/redmagic-11s-pro-gaming-phone-raffreddamento/",
-      "excerpt": "Prezzi e promo di lancio",
-      "image": "https://hd2.tudocdn.net/1345637?w=660",
-      "publishedAt": "2026-05-27T12:01:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "REDMAGIC 11S Pro provato: dopo sei mesi arriva anche la ricarica wireless inversa | VIDEO",
       "link": "https://www.hdblog.it/smartphone/recensioni/n659413/redmagic-11s-pro-test-gaming/",
       "excerpt": "Abbiamo provato il nuovo aggiornamento di metà anno dello smartphone da gaming più chiacchierato: selfie camera noscosta, batteria incredibile, raffreddamento a liquido e ventole…",
       "image": "https://hd2.tudocdn.net/1345680?w=660",
-      "publishedAt": "2026-05-27T12:01:00+00:00",
+      "publishedAt": "2026-05-27T19:32:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Ferrari Luce, la location del reveal mette tutti d’accordo",
-      "link": "https://www.hdmotori.it/ferrari-luce-location-reveal/",
-      "excerpt": "Se il design della vettura ha scatenato infinite polemiche, non si può dire lo stesso del luogo in cui è stata presentata la Ferrari Luce.",
-      "image": "https://hd2.tudocdn.net/1345733?w=660",
-      "publishedAt": "2026-05-27T12:00:21+00:00",
+      "title": "Steam Deck OLED, Valve aumenta (e tanto) i prezzi anche in Italia: oltre 200 euro in più",
+      "link": "https://www.hdblog.it/games/articoli/n659693/steam-deck-valve-aumento-prezzi-italia-oled/",
+      "excerpt": "Rincari da capogiro: la colpa è della crisi delle memorie.",
+      "image": "https://hd2.tudocdn.net/1346018?w=660",
+      "publishedAt": "2026-05-27T19:31:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Ezviz, nuovo videocampanello con AI, doppia camera e riconoscimento pacchi",
-      "link": "https://www.hdblog.it/domotica/articoli/n659636/ezviz-videocampanello-smart-ep8-ultra-funzioni-prezzo/",
-      "excerpt": "Il videocampanello smart di Ezviz offre memoria interna da 32 GB, batterie removibili da 9.600 mAh e supporto Alexa e Google Assistant",
-      "image": "https://hd2.tudocdn.net/1345725?w=660",
-      "publishedAt": "2026-05-27T11:55:00+00:00",
+      "title": "Paramount+: tutti i film e le serie TV in arrivo a giugno 2026",
+      "link": "https://www.hdblog.it/curiosita/articoli/n659654/paramount-film-serie-tv-giugno-2026/",
+      "excerpt": "Ecco le novità di Giugno 2026 su Paramount+",
+      "image": "https://hd2.tudocdn.net/1345901?w=660",
+      "publishedAt": "2026-05-27T18:33:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "I migliori titoli indie in sconto su Instant Gaming",
-      "link": "https://www.tomshw.it/videogioco/i-migliori-titoli-indie-in-sconto-su-instant-gaming",
-      "excerpt": "Se siete appassionati di videogiochi, probabilmente avrete già sentito parlare dei cosiddetti giochi indie. Questi titoli, sviluppati da piccoli studi o da singoli creatori, si…",
-      "image": null,
-      "publishedAt": "2026-05-27T11:52:23+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Sicurezza potenziata e maxi sconto: NordVPN fino al 76% con mesi extra",
-      "link": "https://www.tomshw.it/hardware/sicurezza-potenziata-e-maxi-sconto-nordvpn-fino-al-76-con-mesi-extra",
-      "excerpt": "Non basta essere leader in un settore competitivo come quello delle VPN: occorre dimostrare costantemente di meritarlo. In questa direzione si muove NordVPN, che di recente ha…",
-      "image": null,
-      "publishedAt": "2026-05-27T11:45:10+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il prossimo Kirin di Huawei promette prestazioni da chip occidentale",
-      "link": "https://www.hdblog.it/hardware/articoli/n659634/kirin-9050-pro-prestazioni-huawei-mate-90/",
-      "excerpt": "Secondo le ultime indiscrezioni, il nuovo Kirin 9050 Pro debutterà sulla serie Mate 90 attesa in Cina entro ottobre",
-      "image": "https://hd2.tudocdn.net/1345710?w=660",
-      "publishedAt": "2026-05-27T11:45:00+00:00",
+      "title": "Motorola, risolto il caso Amazon: i link affiliati \"non erano intenzionali\"",
+      "link": "https://www.hdblog.it/smartphone/articoli/n659663/motorola-risolto-caso-amazon-link-affiliati/",
+      "excerpt": "Motorola ha corretto il comportamento anomalo rilevato su alcuni suoi smartphone",
+      "image": "https://hd2.tudocdn.net/1345952?w=660",
+      "publishedAt": "2026-05-27T18:32:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "8GB sono pochi? Forse, ma la RTX 5060 Ti oggi costa meno su Amazon",
-      "link": "https://www.tomshw.it/hardware/msi-rtx-5060-ti-8g-ventus-in-offerta-a-soli-327eur-2026-05-27",
-      "excerpt": "Su Amazon è disponibile un'ottima offerta sulla MSI GeForce RTX 5060 Ti 8G VENTUS 2X OC PLUS, scheda video con 8GB di memoria GDDR7, interfaccia PCIe Gen 5 x16 e ben 4608 core…",
+      "title": "YouTube, giro di vite sull'identificazione dei contenuti generati con l'AI",
+      "link": "https://www.hdblog.it/google/articoli/n659692/youtube-rilevamento-automatico-video-ai-etichette/",
+      "excerpt": "Arriveranno gli algoritmi di rilevamento automatico, e saranno applicate etichette ben visibili e in primo piano.",
+      "image": "https://hd2.tudocdn.net/1299570?w=660",
+      "publishedAt": "2026-05-27T18:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il mitico flipper \"Space Cadet\" di Windows XP diventerà realtà",
+      "link": "https://www.hdblog.it/windows/articoli/n659689/windows-xp-me-space-cadet-flipper-reale/",
+      "excerpt": "O almeno, uno YouTuber ci sta provando: il progetto è molto ambizioso, chissà se lo porterà a termine?",
+      "image": "https://hd2.tudocdn.net/1346009?w=660",
+      "publishedAt": "2026-05-27T17:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Rover marziano: nuota nella sabbia ispirandosi a una lucertola | Video",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n659605/rover-marte-nuota-sabbia/",
+      "excerpt": "Un rover ispirato al pesce di sabbia si muove su Marte oscillando per non bloccarsi mai.",
+      "image": "https://hd2.tudocdn.net/1345602?w=660",
+      "publishedAt": "2026-05-27T17:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Shanghai schiera Lingxi X2: il robot assistente dei vigili urbani",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n659672/robot-umanoide-vigili-shanghai/",
+      "excerpt": "A Shanghai il robot umanoide Lingxi X2 affianca gli agenti per spiegare le regole ai commercianti.",
+      "image": "https://hd2.tudocdn.net/1345979?w=660",
+      "publishedAt": "2026-05-27T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "007 First Light, prestazioni convincenti su PS5 Pro, un po' meno su PS5.",
+      "link": "https://www.hdblog.it/games/articoli/n659684/007-first-light-ps5-pro-digital-foundry-analisi/",
+      "excerpt": "L'algoritmo di upscaling PSSR (e la GPU che ne permette l'esecuzione) si conferma ancora una volta un gran vantaggio.",
+      "image": "https://hd2.tudocdn.net/1345999?w=660",
+      "publishedAt": "2026-05-27T17:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "“Captain Slow” si è innamorato della Ferrari Luce, ma è forse l'unico",
+      "link": "https://www.hdmotori.it/ferrari-luce-james-may/",
+      "excerpt": "James May, il celebre volto di Top Gear e The Grand Tour, ha speso parole positive nei riguardi della Ferrari Luce. Ed è l'unico al momento",
+      "image": "https://hd2.tudocdn.net/1346002?w=660",
+      "publishedAt": "2026-05-27T17:00:11+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Svelati i nuovi TV 2026 di Sony: Bravia 9 II e 7 II puntano su RGB MiniLED. \" Ma non siamo come gli altri, il nostro è vero RGB\"",
+      "link": "https://images.dday.it/2q-aT2f-p5Ac5VdeS5rH5JKp50ynXl9_-qGDkBufgw8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57529/0bedc0_DSC09672.jpg",
+      "excerpt": "Svelata a Londra la parte alta del gamma TV Sony per il 2026: le nuove edizioni di Bravia 9 e 7 puntano tutto sul pannello RGB MiniLED, costato 5 anni di ricerca e sviluppo per…",
+      "image": "https://images.dday.it/2q-aT2f-p5Ac5VdeS5rH5JKp50ynXl9_-qGDkBufgw8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57529/0bedc0_DSC09672.jpg",
+      "publishedAt": "2026-05-27T16:00:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Recensione ASUS Zenbook Duo UX8407: il laptop con due schermi OLED",
+      "link": "https://www.tomshw.it/hardware/asus-zenbook-duo-ux8407-due-schermi-oled-3k",
+      "excerpt": "Il concetto di laptop a doppio schermo non è più una novità, ma resta una nicchia in cui pochissimi produttori investono con convinzione. ASUS è tra questi, e con lo Zenboo...",
       "image": null,
-      "publishedAt": "2026-05-27T11:31:39+00:00",
+      "publishedAt": "2026-05-27T15:56:41+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Tryx annuncia Holo 360, il nuovo AIO con effetto olografico",
-      "link": "https://www.tomshw.it/hardware/tryx-holo-360-aio-effetto-ologramma",
-      "excerpt": "Tryx ha presentato Holo 360, un dissipatore AIO a liquido che punta a distinguersi con un effetto visivo integrato nel blocco pompa. L'idea è creare un'immagine flottante, simile…",
+      "title": "The Witcher 3 avrà un nuovo DLC, 12 anni dopo l'uscita del gioco originale",
+      "link": "https://images.dday.it/4CV0IYqjJxHeESV4tot8HpdPT0Ur2au7PUpI-QycrUA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57554/0d2dcf_e324e2b78ef513254e4a92f80f557876_1.png",
+      "excerpt": "CD PROJEKT RED ha ufficialmente confermato l'uscita di una nuova espansione denominata Songs of the Past. Uscirà nel 2027 su PlayStation 5, Xbox Series X e S e PC... Leggi tutto",
+      "image": "https://images.dday.it/4CV0IYqjJxHeESV4tot8HpdPT0Ur2au7PUpI-QycrUA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57554/0d2dcf_e324e2b78ef513254e4a92f80f557876_1.png",
+      "publishedAt": "2026-05-27T15:52:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Dietro i video più virali ci sono questi occhiali Ray-Ban, e ora costano meno",
+      "link": "https://www.tomshw.it/smartphone/ray-ban-meta-wayfarer-gen-2-in-offerta-a-soli-355eur-2026-05-27",
+      "excerpt": "Su MediaWorld sono disponibili i nuovissimi Ray-Ban Meta Wayfarer (Gen 2) nella colorazione nero lucido con lenti verde, il connubio perfetto tra stile iconico e tecnologia…",
       "image": null,
-      "publishedAt": "2026-05-27T11:25:57+00:00",
+      "publishedAt": "2026-05-27T14:56:20+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Media Molecule potrebbe aver cambiato strada dopo Dreams",
-      "link": "https://www.tomshw.it/videogioco/media-molecule-nuova-ip-open-world-report",
-      "excerpt": "Media Molecule starebbe lavorando a una nuova proprietà intellettuale con struttura open-world. L'indizio arriva da un portfolio online attribuito a un senior environment designer…",
+      "title": "Più veloce, compatta e scontata: la nuova Fire TV Stick HD debutta su Amazon (in sconto)",
+      "link": "https://www.tomshw.it/altro/piu-veloce-compatta-e-scontata-la-nuova-fire-tv-stick-hd-debutta-su-amazon-in-sconto",
+      "excerpt": "Amazon ha ufficialmente lanciato oggi in Italia la nuovissima Fire TV Stick HD, introducendo un aggiornamento significativo per la sua celebre chiavetta multimediale. La chiavetta…",
       "image": null,
-      "publishedAt": "2026-05-27T11:25:03+00:00",
+      "publishedAt": "2026-05-27T14:38:15+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Robot, frigo, lavatrici, lettini per gatti riscaldati: tutti i prodotti che Dreame porterà in Italia nei prossimi mesi",
+      "link": "https://images.dday.it/WFMtaCpSVS6hNBW-w3t3Qk05GY4bcCFgjiF1l4NZAIQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57553/e3cdb1_dremaet.jpg",
+      "excerpt": "Dreame ha presentato a Parigi una gamma di prodotti che va ben oltre la pulizia: robot che salgono le scale, frigoriferi con acqua frizzante integrata, lavatrici con AI, lettini…",
+      "image": "https://images.dday.it/WFMtaCpSVS6hNBW-w3t3Qk05GY4bcCFgjiF1l4NZAIQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57553/e3cdb1_dremaet.jpg",
+      "publishedAt": "2026-05-27T13:57:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "YouTube ora ti avvisa meglio se il video che stai guardando è fatto con l’IA",
+      "link": "https://images.dday.it/qhItFcNGNyg3nrNVScl-eEDoYUtrdV-gtwrVfT-YPDk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57552/9735a7_smal_dsdd_copia.jpg",
+      "excerpt": "Etichette molto più facili da vedere per tutti quei contenuti su YouTube fotorealistici, generati o modificati in modo significativo con l’IA... Leggi tutto",
+      "image": "https://images.dday.it/qhItFcNGNyg3nrNVScl-eEDoYUtrdV-gtwrVfT-YPDk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57552/9735a7_smal_dsdd_copia.jpg",
+      "publishedAt": "2026-05-27T13:29:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Dopo Udio, tocca a Suno: Sony e Universal vogliono centuplicare i brani contestati",
+      "link": "https://images.dday.it/1Ln-_ql7xkjBjpNrvE1bPsZmKNx-sYUDEplP3NwOngQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57551/a33f89_smalll_kImmagine_1_generata_copia.png",
+      "excerpt": "Sony e Universal chiedono di portare da 560 a oltre 61.000 le registrazioni contestate nella causa contro Suno. La piattaforma si oppone e chiede di decidere prima sul fair use...…",
+      "image": "https://images.dday.it/1Ln-_ql7xkjBjpNrvE1bPsZmKNx-sYUDEplP3NwOngQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57551/a33f89_smalll_kImmagine_1_generata_copia.png",
+      "publishedAt": "2026-05-27T13:04:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Per i PC il problema non è la RAM: sono i processori, secondo Acer",
+      "link": "https://images.dday.it/rqb2za8zOuAbx5-zJmYPxd8b4bBGx8FT9hCLPhjauEY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57550/a52cbd_acer_thumb.jpg",
+      "excerpt": "La disponibilità limitata di processori e l’aumento dei costi dei componenti pesano sul settore: Acer prevede spedizioni PC in calo tra il 6% e il 9% nel 2026... Leggi tutto",
+      "image": "https://images.dday.it/rqb2za8zOuAbx5-zJmYPxd8b4bBGx8FT9hCLPhjauEY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57550/a52cbd_acer_thumb.jpg",
+      "publishedAt": "2026-05-27T12:58:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "La Lombardia balla da sola: approvata legge regionale che regolamenta la costruzione di nuovi data center",
@@ -185,6 +194,24 @@
       "sourceColor": "#E63946"
     },
     {
+      "title": "Cronaca giudiziaria e privacy: il richiamo del Garante nel caso Garlasco",
+      "link": "https://www.tomshw.it/business/cronaca-giudiziaria-privacy-richiamo-garante-caso-garlasco",
+      "excerpt": "Avv. Giuseppe Croari – Dott.ssa Silvia Di Paola È notizia recente che su una piattaforma televisiva online siano stati diffusi gli audio – corredati dalle relative trascrizioni –…",
+      "image": null,
+      "publishedAt": "2026-05-27T10:40:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Google rilascia Agent eXecutor, il runtime open source per agenti AI che durano giorni",
+      "link": "https://www.tomshw.it/business/google-agent-executor-ax-runtime-open-source-agenti",
+      "excerpt": "Google ha rilasciato Agent eXecutor (AX), il runtime distribuito open source usato per fare girare agenti AI di lunga durata. Il codice è su GitHub sotto licenza Apache 2.0,…",
+      "image": null,
+      "publishedAt": "2026-05-27T10:37:39+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "Su alcuni telefoni Motorola l’app Amazon si apre con un tag affiliato: un fatto grave, ma per ora l’Italia sembra esclusa",
       "link": "https://images.dday.it/QmMEuZyzchNYYj5ZB3Z7wW3LZOdf6tYmCYhq0Fi3nTM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57548/ffca18_small_Screenshot_2026-05-27_alle_12.09.32_copia.png",
       "excerpt": "Aprendo Amazon dal drawer, alcuni Motorola passano da un link con tag affiliato. La situazione non appare uniforme, e in Italia i nostri test non hanno mostrato il problema...…",
@@ -192,15 +219,6 @@
       "publishedAt": "2026-05-27T10:10:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Gartner: il 40% dei progetti AI agentici fallirà entro il 2027, governance permettendo",
-      "link": "https://www.tomshw.it/business/gartner-40-percento-progetti-ai-agentici-falliranno-2027",
-      "excerpt": "Gartner ha previsto che oltre il 40% dei progetti di AI agentica verrà cancellato entro la fine del 2027. La cifra arriva da una nota ufficiale di giugno 2025 firmata da Anushree…",
-      "image": null,
-      "publishedAt": "2026-05-27T10:02:05+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "La Volvo la ricarichi anche al Supercharger Tesla direttamente dall'app. Tutto pronto entro fine anno",
@@ -212,67 +230,49 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "La NASA fa sul serio con la base lunare. Le prime tre missioni partono quest'anno",
-      "link": "https://images.dday.it/xOGmUKrbXSUCCo6sv6GR6Np7rPODkv4CRyyWn1fDw8Y/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57542/b37948_stmd-exteriorlunarbase-hdlandscapeversion-2026-0521.png",
-      "excerpt": "La NASA ha delineato le prime missioni propedeutiche alla costruzione di una base sulla superficie del polo sud della Luna. Le prime tre partiranno quest'anno portando sulla Luna…",
-      "image": "https://images.dday.it/xOGmUKrbXSUCCo6sv6GR6Np7rPODkv4CRyyWn1fDw8Y/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57542/b37948_stmd-exteriorlunarbase-hdlandscapeversion-2026-0521.png",
-      "publishedAt": "2026-05-27T09:37:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Iliad potrà continuare a usare il volto di Megan Gale per farsi pubblicità: respinto il ricorso di Fastweb-Vodafone",
-      "link": "https://images.dday.it/NjwF8pHgVDiVOqLHQc2hQZmrgHQhnFkAIFAbf0scfYM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57546/16ec78_small_Depositphotos_268120294_XL_copia.jpg",
-      "excerpt": "Non c’è violazione del codice di autodisciplina, quindi Megan Gale potrà continuare a vestirsi di rosso e fare pubblicità a Iliad... Leggi tutto",
-      "image": "https://images.dday.it/NjwF8pHgVDiVOqLHQc2hQZmrgHQhnFkAIFAbf0scfYM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57546/16ec78_small_Depositphotos_268120294_XL_copia.jpg",
-      "publishedAt": "2026-05-27T08:41:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "La dash cam che registra tutto in 4K ora è in promo su Amazon",
-      "link": "https://images.dday.it/UUHnS_1vMkHnvmrvgqbHMaxB8zxobYuJAyeaNXYqF2A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57545/f8382d_ape2.jpg",
-      "excerpt": "Compatta, intelligente e affidabile: la 70mai M310 Plus 4K offre riprese ultra nitide, funzioni di sicurezza e massima tranquillità durante ogni viaggio. Ora disponibile in sconto…",
-      "image": "https://images.dday.it/UUHnS_1vMkHnvmrvgqbHMaxB8zxobYuJAyeaNXYqF2A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57545/f8382d_ape2.jpg",
-      "publishedAt": "2026-05-27T08:41:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Google verso la multa DMA più alta di sempre: per l’UE le modifiche a Search potrebbero non bastare",
-      "link": "https://images.dday.it/nWSP35I9JJu9IwbsA9VVi9gBP8aECjVJvIp3uFxdT8U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57543/20e394_snall_Depositphotos_620269130_XL_copia.jpg",
-      "excerpt": "Google ha cambiato Search in Europa, ma l’UE valuta ancora una maxi-sanzione. Sotto osservazione anche le AI Overviews, che trattengono gli utenti nei risultati... Leggi tutto",
-      "image": "https://images.dday.it/nWSP35I9JJu9IwbsA9VVi9gBP8aECjVJvIp3uFxdT8U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57543/20e394_snall_Depositphotos_620269130_XL_copia.jpg",
-      "publishedAt": "2026-05-27T08:12:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migliori proiettori portatili (maggio 2026)",
-      "link": "https://www.tomshw.it/altro/migliori-proiettori-portatili",
-      "excerpt": "Un buon proiettore portatile non deve essere solo piccolo: deve essere abbastanza luminoso per l'ambiente in cui lo userete, semplice da posizionare e coerente con il tipo di…",
+      "title": "Migliori smartphone pieghevoli (maggio 2026)",
+      "link": "https://www.tomshw.it/smartphone/migliori-smartphone-pieghevoli",
+      "excerpt": "Gli smartphone pieghevoli Android rappresentano l'ultima frontiera della telefonia mobile, nonché una delle innovazioni più significative nel form factor e nelle tecnologie…",
       "image": null,
-      "publishedAt": "2026-05-27T07:11:43+00:00",
+      "publishedAt": "2026-05-27T09:01:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Il glorioso “numero 10” in tasca: Lexar veste gli SSD portatili Elite Legends Series con i colori dell’Argentina",
-      "link": "https://images.dday.it/IVn9ksU3-ptzp2rNiKge4BKruN_qv0DP7h7c3uWPlDg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57511/5978fe_small_SL500-SL260-D500-Elite-Legends-Series-KV-16x9-EN_copia.png",
-      "excerpt": "Dalla maglia più pesante del calcio alla memoria portatile. Lexar dedica all’Argentina una serie con SSD veloci, chiavetta USB-C/USB-A e design biancoazzurro... Leggi tutto",
-      "image": "https://images.dday.it/IVn9ksU3-ptzp2rNiKge4BKruN_qv0DP7h7c3uWPlDg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57511/5978fe_small_SL500-SL260-D500-Elite-Legends-Series-KV-16x9-EN_copia.png",
-      "publishedAt": "2026-05-27T01:03:04+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
+      "title": "Migliori smartwatch con eSIM (maggio 2026)",
+      "link": "https://www.tomshw.it/smartphone/smartwatch-sim-esim-migliori",
+      "excerpt": "Gli smartwatch nascono come “companion” per gli smartphone, ossia dispositivi che consentono di aumentare la produttività perché permettono il multitasking anche quando ad es...",
+      "image": null,
+      "publishedAt": "2026-05-27T08:59:10+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
-      "title": "HERE mappa l’Italia in 3D: sulle strade i veicoli per censire anche i cartelli e i negozi",
-      "link": "https://images.dday.it/mXmBT-K4R1JAoY8xVyZSyARVHoD8WD7Kfr88CH7eJw8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57445/85f9b8_here_thumb.jpg",
-      "excerpt": "Fino a luglio, i veicoli HERE percorreranno le strade in diverse città italiane per raccogliere dati ad alta precisione e creare mappe più realistiche e più dettagliate... Leggi…",
-      "image": "https://images.dday.it/mXmBT-K4R1JAoY8xVyZSyARVHoD8WD7Kfr88CH7eJw8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57445/85f9b8_here_thumb.jpg",
-      "publishedAt": "2026-05-27T01:03:04+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
+      "title": "Migliori smartphone con eSIM (maggio 2026)",
+      "link": "https://www.tomshw.it/smartphone/migliori-smartphone-con-esim",
+      "excerpt": "Il mondo della tecnologia mobile è in continua evoluzione, e una delle innovazioni più interessanti degli ultimi anni è sicuramente l'avvento delle eSIM. Questa piccola…",
+      "image": null,
+      "publishedAt": "2026-05-27T08:56:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori micro SD per Steam Deck (maggio 2026)",
+      "link": "https://www.tomshw.it/videogioco/migliori-micro-sd-steam-deck",
+      "excerpt": "La console portatile di Valve ha un catalogo di videogiochi da cui scegliere talmente vasto che probabilmente non vi basterebbe una vita intera per completarli tutti, ma presenta…",
+      "image": null,
+      "publishedAt": "2026-05-27T08:51:13+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Sony presenta BRAVIA 9 II e 7 II, l'era del True RGB",
+      "link": "https://www.tomshw.it/altro/sony-bravia-9-ii-e-7-ii-lera-del-true-rgb-2026-05-25",
+      "excerpt": "Sony sembra aver trovato il momento del vero cambiamento con il lancio di tre nuovi prodotti destinati a ridefinire l'intrattenimento domestico: i televisori BRAVIA 9 II e BRAVIA…",
+      "image": null,
+      "publishedAt": "2026-05-25T17:17:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     }
   ]
 }
