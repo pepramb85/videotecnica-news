@@ -1,15 +1,96 @@
 {
-  "generatedAt": "2026-05-28T15:34:18.789751+00:00",
+  "generatedAt": "2026-05-28T18:30:57.730987+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "MINI Paul Smith Edition, l'edizione speciale dall'eleganza british",
-      "link": "https://www.hdmotori.it/mini-paul-smith-edition/",
-      "excerpt": "Un omaggio alla storia del brand tra tinte esclusive e humour inglese: dettagli creativi e non solo nella nuova MINI Paul Smith Edition",
-      "image": "https://hd2.tudocdn.net/1346428?w=660",
-      "publishedAt": "2026-05-28T15:30:35+00:00",
+      "title": "Gucci arriva in Formula 1: dal 2027 sarà Title Sponsor del team Alpine",
+      "link": "https://www.hdmotori.it/f1-gucci-title-sponsor-alpine/",
+      "excerpt": "Grande colpo per l’Alpine che dal prossimo anno sulle monoposto sfoggerà anche lo sponsor della nota casa di moda Gucci",
+      "image": "https://hd2.tudocdn.net/1346472?w=660",
+      "publishedAt": "2026-05-28T18:00:51+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Brado Carbon Buggy: pura meccanica e carbonio per divertirsi",
+      "link": "https://www.hdmotori.it/brado-carbon-buggy/",
+      "excerpt": "La Carbon Buggy non ricerca le prestazioni assolute, ma si propone come un veicolo esclusivo per chi cerca avventura e piacere di guida.",
+      "image": "https://hd2.tudocdn.net/1346471?w=660",
+      "publishedAt": "2026-05-28T17:30:44+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Robot che imparano dagli scienziati, il nuovo approccio USA",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n659745/robot-ai-laboratorio-argonne/",
+      "excerpt": "Robot guidati dall AI imparano le procedure di laboratorio osservando i ricercatori americani.",
+      "image": "https://hd2.tudocdn.net/1346154?w=660",
+      "publishedAt": "2026-05-28T17:30:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il CEO della Lamborghini boccia l’elettrico: rifiuto ribadito dopo il lancio della Ferrari Luce",
+      "link": "https://www.hdmotori.it/ceo-lamborghini-boccia-elettrico-ferrari-luce/",
+      "excerpt": "Il numero 1 di Lamborghini, Stephan Winkelmann, non ha nessuna intenzione di piegarsi alle logiche europee sul full electric",
+      "image": "https://hd2.tudocdn.net/1346468?w=660",
+      "publishedAt": "2026-05-28T17:00:02+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Luna, il nuovo robot umanoide di LimX Dynamics per eventi dal vivo | Video",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n659703/robot-umanoide-luna-limx/",
+      "excerpt": "LimX Dynamics lancia Luna, robot umanoide da 41.000 dollari che balla, sfila e interagisce dal vivo.",
+      "image": "https://hd2.tudocdn.net/1346033?w=660",
+      "publishedAt": "2026-05-28T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "AI monitora lo stress dei dipendenti: il Garante Privacy chiede più tutele",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n659811/ai-monitora-stess-dipendenti-garante-chiede-tutele/",
+      "excerpt": "Inviato avvertimento agli sviluppatori della piattaforma.",
+      "image": "https://hd2.tudocdn.net/1346465?w=660",
+      "publishedAt": "2026-05-28T16:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Scansione 3D del cervello otto volte più veloce con il metodo AIMED",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n659700/microscopia-3d-cervello-aimed/",
+      "excerpt": "Il sistema AIMED accelera i campionamenti volumetrici del cervello riducendo i danni da luce.",
+      "image": "https://hd2.tudocdn.net/1346030?w=660",
+      "publishedAt": "2026-05-28T16:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Per acquistare queste GR Yaris è necessario essere sorteggiati",
+      "link": "https://www.hdmotori.it/acquistare-gr-yaris-sorteggio/",
+      "excerpt": "Solo 100 esemplari per le esclusive versioni Morizo RR e Sébastien Ogier Edition, che saranno assegnate ai clienti interessati tramite un sorteggio.",
+      "image": "https://hd2.tudocdn.net/1346467?w=660",
+      "publishedAt": "2026-05-28T16:30:36+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung Display si impone con il primo pannello QD-OLED 4K da 360Hz al mondo",
+      "link": "https://www.hdblog.it/hardware/articoli/n659781/samsung-display-4k-360hz/",
+      "excerpt": "Samsung presenterà al COMPUTEX 2026 un pannello QD-OLED da 31,5 pollici 4K da 360Hz con Dual Mode.",
+      "image": "https://hd2.tudocdn.net/1346374?w=660",
+      "publishedAt": "2026-05-28T16:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Boston Dynamics porta Atlas ai Mondiali: ecco come si allena",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n659713/atlas-robot-calcio-mondiali/",
+      "excerpt": "Il robot umanoide Atlas di Boston Dynamics si allena per i Mondiali studiando le azioni dei calciatori.",
+      "image": "https://hd2.tudocdn.net/1346058?w=660",
+      "publishedAt": "2026-05-28T16:15:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -32,92 +113,11 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Multa da pagare? Potrebbe essere solo una truffa (che sfrutta il nome di PagoPA)",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n659785/multa-da-pagare-truffa-send-pagopa/",
-      "excerpt": "Non tutte le notifiche sono attendibili",
-      "image": "https://hd2.tudocdn.net/1346423?w=660",
-      "publishedAt": "2026-05-28T15:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il supercomputer Leonardo si potenzia con Lisa per dominare l'AI",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n659793/supercomputer-leonardo-lisa-ai/",
-      "excerpt": "Il supercomputer Leonardo di Bologna si potenzia con Lisa, il primo sistema europeo per l'AI.",
-      "image": "https://hd2.tudocdn.net/1346412?w=660",
-      "publishedAt": "2026-05-28T15:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iOS 27, Apple prepara tante novità in chiave AI: le anticipazioni",
-      "link": "https://www.hdblog.it/smartphone/articoli/n659804/apple-ios-27-fotocamera-ai-comandi-rapidi/",
-      "excerpt": "Fotocamera, galleria e Comandi Rapidi nell'ultimo report di Bloomberg",
-      "image": "https://hd2.tudocdn.net/1336757?w=660",
-      "publishedAt": "2026-05-28T15:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "BMW, si allungano i tempi di consegna: problema con un SUV richiestissimo",
-      "link": "https://www.hdmotori.it/bmw-tempi-consegna-ix1/",
-      "excerpt": "La Casa bavarese deve gestire una carenza di cerchioni per il SUV elettrico iX1. Tempi di consegna dilatati",
-      "image": "https://hd2.tudocdn.net/1346421?w=660",
-      "publishedAt": "2026-05-28T15:00:33+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Intel rialza la testa nel mondo consumer: ecco il suo primo chip per handheld gaming",
-      "link": "https://www.hdblog.it/hardware/articoli/n659801/intel-arc-g3-chip-handheld-gaming-panther-lake/",
-      "excerpt": "Probabilmente sono varianti speciali dell'architettura Panther Lake. Acer in prima fila con Predator Atlas 8.",
-      "image": "https://hd2.tudocdn.net/1346413?w=660",
-      "publishedAt": "2026-05-28T14:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "MSI porta in Italia i nuovi notebook gaming con RTX 50 e Core Ultra 200HX",
-      "link": "https://www.tomshw.it/hardware/nuovi-notebook-gaming-msi-italia-intel-core-ultra-200hx-rtx-50",
-      "excerpt": "MSI aggiorna la sua gamma di notebook gaming per il mercato italiano con le nuove serie Titan, Raider, Stealth e Cyborg, portando nei listini locali configurazioni basate sui…",
-      "image": null,
-      "publishedAt": "2026-05-28T14:53:01+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "MediaTek guarda oltre il 5G e punta tutto sull'AI agentica",
       "link": "https://www.tomshw.it/hardware/mediatek-guarda-oltre-il-5g-e-punta-tutto-sullai-agentica",
       "excerpt": "MediaTek sta spostando il baricentro della propria strategia oltre il classico racconto sui modem 5G e sui SoC mobile. A Computex 2026 l'azienda taiwanese ha presentato una…",
       "image": null,
       "publishedAt": "2026-05-28T14:51:56+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "GIGABYTE porta l'AI nel settore consumer: ecco ENTER INFINITY",
-      "link": "https://www.tomshw.it/hardware/gigabyte-enter-infinity-computex-2026",
-      "excerpt": "GIGABYTE porterà al COMPUTEX 2026 il concept ENTER INFINITY, una vetrina pensata per raccontare la nuova fase del suo ecosistema consumer. La presenza alla fiera di Taipei, in…",
-      "image": null,
-      "publishedAt": "2026-05-28T14:50:26+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "C'è un luogo negli Stati Uniti dove Amazon consegna pacchi a cavallo",
-      "link": "https://www.hdblog.it/amazon/articoli/n659748/amazon-consegna-pacchi-a-cavallo/",
-      "excerpt": "Mackinac Island è un'isola degli Stati Uniti dove il tempo si è fermato al 1898, data in cui è stata proibita la circolazione di mezzi a motore. Per le sue consegne anche Amazon…",
-      "image": "https://hd2.tudocdn.net/1346185?w=660",
-      "publishedAt": "2026-05-28T14:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Intel Arc G3 vuole sfidare AMD nelle console handheld",
-      "link": "https://www.tomshw.it/hardware/intel-arc-g3-vuole-sfidare-amd-nelle-console-handheld",
-      "excerpt": "Intel Arc G3 entra ufficialmente nel mercato dei PC gaming portatili con una proposta pensata per ridurre il vantaggio accumulato da AMD nelle console handheld Windows. La nuova…",
-      "image": null,
-      "publishedAt": "2026-05-28T14:44:48+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -131,31 +131,13 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Prezzi carburanti, benzina e diesel in calo (di poco) sulla rete ordinaria",
-      "link": "https://www.hdmotori.it/calo-prezzi-carburanti-benzina-diesel/",
-      "excerpt": "Benzina a 1,965 euro/litro (-3 millesimi), diesel a 2,052 euro/litro (-5 millesimi). Lieve calo dei carburanti lungo l'Italia",
-      "image": "https://hd2.tudocdn.net/1328692?w=660",
-      "publishedAt": "2026-05-28T14:30:30+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Merach S29R2 è la cyclette smart che si autoalimenta mentre pedali",
-      "link": "https://www.hdblog.it/home/articoli/n659791/merach-s29r2-cyclette-smart-autoalimentata/",
-      "excerpt": "L’elettronica e il display a bordo funzionano senza presa elettrica.",
-      "image": "https://hd2.tudocdn.net/1346381?w=660",
-      "publishedAt": "2026-05-28T14:30:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Call of Duty Modern Warfare 4 per Switch 2: il ritorno della serie su Nintendo è vicino?",
-      "link": "https://www.hdblog.it/nintendo/articoli/n659786/call-of-duty-modern-warfare-4-nintendo-switch-2/",
-      "excerpt": "Dopo 13 anni di assenza.",
-      "image": "https://hd2.tudocdn.net/1216696?w=660",
-      "publishedAt": "2026-05-28T14:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Smartwatch, smart band e poi clima, cucina, pulizia e TV. L’Europa sempre più mercato chiave per Xiaomi",
+      "link": "https://images.dday.it/vwfq_7si_qcEikXTVmZ2U7a7KRtZWlsoJe8Sttiulh4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57566/6b7a26_Gemini_Generated_Image_dl8j1xdl8j1xdl8j.jpg",
+      "excerpt": "Oltre a Xiaomi 17T e 17T Pro sbarcano in Europa nuovi wearables e anche gli elettrodomestici. Condizionatori, frigorifero e lavasciuga guidano lo sbarco del brand Mijia, del quale…",
+      "image": "https://images.dday.it/vwfq_7si_qcEikXTVmZ2U7a7KRtZWlsoJe8Sttiulh4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57566/6b7a26_Gemini_Generated_Image_dl8j1xdl8j1xdl8j.jpg",
+      "publishedAt": "2026-05-28T14:21:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Tesla sta pensando a micro-tergicristalli per le camere della guida autonoma",
@@ -203,6 +185,24 @@
       "sourceColor": "#E63946"
     },
     {
+      "title": "Migliori VPN per la Cina (maggio 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-vpn-cina",
+      "excerpt": "La censura di internet in Cina è notoriamente tra le più severe al mondo. Il cosiddetto Great Firewall (letteralmente “Grande Firewall”, in assonanza con la Grande Muraglia)...",
+      "image": null,
+      "publishedAt": "2026-05-28T12:10:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori VPN streaming - non solo Netflix (maggio 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-vpn-streaming",
+      "excerpt": "Al giorno d'oggi, scegliere la migliore VPN per lo streaming non significa soltanto cambiare indirizzo IP per vedere un catalogo estero. Le piattaforme riconoscono sempre meglio…",
+      "image": null,
+      "publishedAt": "2026-05-28T12:08:52+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "Migliori droni (maggio 2026)",
       "link": "https://www.tomshw.it/offerte/droni-migliori",
       "excerpt": "Se le tipiche riprese video effettuate con uno dei migliori smartphone o con la videocamera non vi bastano o volete aggiungere qualche ripresa dall'alto, i droni sono la soluzione…",
@@ -239,27 +239,27 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "“Sniffare” l’accesso all’SSD dal browser per profilare gli utenti: l’attacco FROST è incredibile",
-      "link": "https://images.dday.it/TV1CxMH28hJyF0Z7QwRQcx4S5H1_W3tUkPRLIEeUo30/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57559/dd6674_small_Depositphotos_625508150_XL_copia.jpg",
-      "excerpt": "Non ruba file, password o cookie, ma può capire cosa l’utente sta usando. FROST mostra come una pagina web possa profilare attività locali osservando la “contesa sull’SSD”...…",
-      "image": "https://images.dday.it/TV1CxMH28hJyF0Z7QwRQcx4S5H1_W3tUkPRLIEeUo30/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57559/dd6674_small_Depositphotos_625508150_XL_copia.jpg",
-      "publishedAt": "2026-05-28T09:25:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
+      "title": "L'etichetta energetica arriva sull'AI, le aziende dovranno stare attente kilowatt",
+      "link": "https://www.tomshw.it/business/ue-etichetta-energetica-modelli-ai-imprese-28-mag",
+      "excerpt": "La Commissione Europea ha aperto una consultazione mirata sulla misurazione di consumo energetico ed emissioni dei modelli AI, finestra aperta fino al 10 maggio 2026 per chi…",
+      "image": null,
+      "publishedAt": "2026-05-28T08:25:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Aumentare il fatturato del 50% senza assumere, mito o realtà?",
+      "link": "https://www.tomshw.it/business/remote-payroll-revenue-per-employee-ai-28-mag",
+      "excerpt": "Remote, piattaforma di payroll e compliance internazionale fondata ad Amsterdam sette anni fa, dichiara di aver superato i trecento milioni di dollari di ARR e di essere diventata…",
+      "image": null,
+      "publishedAt": "2026-05-28T08:25:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "La Lombardia ha la sua legge sui data center, gli agricoltori non ci stanno",
       "link": "https://www.tomshw.it/business/data-center-lombardia-cia-suolo-agricolo-28-mag",
       "excerpt": "Il Consiglio regionale della Lombardia ha approvato martedì 26 maggio la prima legge italiana che disciplina la realizzazione dei data center sul territorio. Il voto è passato con…",
-      "image": null,
-      "publishedAt": "2026-05-28T08:20:03+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Snowflake brucia 6 miliardi su AWS, si compra l'hardware del rivale",
-      "link": "https://www.tomshw.it/business/snowflake-6-miliardi-aws-graviton-28-mag",
-      "excerpt": "Snowflake ha annunciato il 27 maggio un impegno quinquennale da 6 miliardi di dollari con Amazon Web Services per accelerare l'adozione enterprise di AI agentica. L'accordo,…",
       "image": null,
       "publishedAt": "2026-05-28T08:20:03+00:00",
       "source": "Tom's Hardware",
