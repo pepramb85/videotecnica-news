@@ -1,15 +1,69 @@
 {
-  "generatedAt": "2026-05-29T18:28:04.665068+00:00",
+  "generatedAt": "2026-05-29T21:47:29.708528+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Groq cerca nuovi fondi dopo il maxi accordo con NVIDIA",
+      "link": "https://www.tomshw.it/hardware/groq-cerca-nuovi-fondi-dopo-il-maxi-accordo-con-nvidia",
+      "excerpt": "Groq starebbe cercando di raccogliere 650 milioni di dollari in nuovi fondi, con l'obiettivo di accelerare il proprio business nel cloud per l'inferenza AI. La notizia conta…",
+      "image": null,
+      "publishedAt": "2026-05-29T19:36:44+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "NVIDIA esce vincitrice dal trimestre da record di Dell",
+      "link": "https://www.tomshw.it/hardware/nvidia-esce-vincitrice-dal-trimestre-da-record-di-dell",
+      "excerpt": "NVIDIA esce rafforzata dal trimestre record di Dell, che ha messo nero su bianco numeri molto superiori alle attese grazie alla corsa ai server per l'intelligenza artificiale. Il…",
+      "image": null,
+      "publishedAt": "2026-05-29T18:56:52+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Microsoft e NVIDIA fanno salire l'attesa per il chip N1X",
+      "link": "https://www.tomshw.it/hardware/microsoft-e-nvidia-fanno-salire-lattesa-per-il-chip-n1x",
+      "excerpt": "Microsoft e NVIDIA hanno acceso l'attesa per un annuncio congiunto legato al mondo PC, usando lo stesso messaggio promozionale e una serie di coordinate che rimandano al Computex…",
+      "image": null,
+      "publishedAt": "2026-05-29T18:36:11+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Meno RAM, ma più batteria e funzioni: il nuovo patto degli smartphone low cost",
+      "link": "https://www.hdblog.it/smartphone/speciali/n654975/realme-c100-5g-test-ram-batteria/",
+      "excerpt": "La crisi delle RAM sta cambiando il mercato degli smartphone di fascia bassa. I brand stanno diminuendo la RAM, ma compensando con più batteria, miglior display e funzioni AI.",
+      "image": "https://hd2.tudocdn.net/1345456?w=660",
+      "publishedAt": "2026-05-29T18:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Scontrini e POS allineati fanno emergere 5 miliardi di euro: è magia o era evasione?",
+      "link": "https://www.hdblog.it/mercato/articoli/n659896/pos-scontrini-evasione-dati-inizio-2026/",
+      "excerpt": "Secondo l’Agenzia delle Entrate, la maggiore tracciabilità dei pagamenti elettronici ha generato circa un miliardo di euro di extra gettito IVA",
+      "image": "https://hd2.tudocdn.net/1346617?w=660",
+      "publishedAt": "2026-05-29T18:24:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Fable è stato rinviato ancora: c'è l'annuncio ufficiale di Xbox. Colpa di GTA 6?",
       "link": "https://www.hdblog.it/microsoft/articoli/n659942/fable-rinvio-xbox-quando-esce-febbraio-2027-data/",
       "excerpt": "Ecco qual è la nuova finestra di lancio.",
       "image": "https://hd2.tudocdn.net/1346703?w=660",
       "publishedAt": "2026-05-29T18:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Quasi al 50% gli auricolari Marshall Minor IV: conquistano già con il design",
+      "link": "https://www.hdblog.it/indossabili/offerte/n659941/auricolari-marshall-minor-iv-doppio-sconto-amazon/",
+      "excerpt": "Doppio sconto su Amazon per i Marshall Minor IV, auricolari con un design ricercato, autonomia di 30 ore, controlli touch e connessione multipoint.",
+      "image": "https://hd2.tudocdn.net/1346705?w=660",
+      "publishedAt": "2026-05-29T18:01:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -77,33 +131,6 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "G.Skill e Cooler Master lanciano le prime RAM DDR5 con ventola",
-      "link": "https://www.hdblog.it/hardware/articoli/n659938/g-skill-cooler-master-ram-ddr5-ventola-blower/",
-      "excerpt": "I dissipatori sono talmente spessi che occupano due slot.",
-      "image": "https://hd2.tudocdn.net/1346696?w=660",
-      "publishedAt": "2026-05-29T17:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Nucleare pulito, progetto italo-francese: Newcleo installa il cuore di Precursor",
-      "link": "https://www.hdblog.it/green/articoli/n659860/newcleo-reattore-piombo-precursor/",
-      "excerpt": "Newcleo installa il recipiente principale del reattore Precursor, al via i test entro l'anno.",
-      "image": "https://hd2.tudocdn.net/1346550?w=660",
-      "publishedAt": "2026-05-29T16:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Sandisk crede ancora negli SSD SATA: due drive in arrivo contro la crisi",
-      "link": "https://www.hdblog.it/hardware/articoli/n659936/sandisk-ssd-sata-320-520-specifiche/",
-      "excerpt": "I drive 320 e 520 sono stati avvistati su Amazon UK. Il lancio potrebbe essere molto vicino.",
-      "image": "https://hd2.tudocdn.net/1346682?w=660",
-      "publishedAt": "2026-05-29T16:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Droni DJI sotto accusa negli USA per la sicurezza nazionale, ma l’audit non trova falle gravi né canali nascosti",
       "link": "https://images.dday.it/UvP5JiNg5LwJV6kpD4_XgvoacK1N6aTE8ZyqyAjzoHE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57578/28f4eb_small_Screenshot_2026-05-29_alle_16.43.19_copia.png",
       "excerpt": "OnDefend ha testato Air 3S e Matrice 4E contro rischi di fuga dati, manomissione e vulnerabilità hardware. Il risultato rafforza la difesa di DJI, che dice che i suoi droni sono…",
@@ -129,33 +156,6 @@
       "publishedAt": "2026-05-29T14:07:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "ASRock rilancia Taichi con OLED a 540 Hz e nuovi AIO",
-      "link": "https://www.tomshw.it/hardware/asrock-rilancia-taichi-con-oled-a-540-hz-e-nuovi-aio",
-      "excerpt": "ASRock ha scelto il decimo anniversario della linea Taichi per allargare in modo deciso il proprio catalogo enthusiast, preparando una nuova ondata di componenti PC che include…",
-      "image": null,
-      "publishedAt": "2026-05-29T13:53:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Mondiali 2026: ogni gol come allo stadio, con TV e audio in super offerta",
-      "link": "https://www.tomshw.it/altro/mondiali-2026-ogni-gol-come-allo-stadio-con-tv-e-audio-in-super-offerta",
-      "excerpt": "Con l’arrivo dei Mondiali di calcio 2026, l’attesa degli appassionati cresce in tutta Europa e non solo. A partire dall’11 giugno, l’evento sportivo più seguito al mondo...",
-      "image": null,
-      "publishedAt": "2026-05-29T13:46:01+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Sandisk rispolvera gli SSD SATA mentre i prezzi salgono",
-      "link": "https://www.tomshw.it/hardware/sandisk-320-520-ssd-sata-prezzi",
-      "excerpt": "Sandisk sta riportando al centro della scena una tecnologia che molti avevano già relegato agli upgrade economici. I nuovi Sandisk 320 e Sandisk 520 sono SSD SATA da 2,5 pollici,…",
-      "image": null,
-      "publishedAt": "2026-05-29T13:40:26+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "La Commissione Ue congela l'ingresso dei cinesi in MediaWorld: sospetto aiuto di Stato",
