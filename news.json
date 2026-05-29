@@ -1,80 +1,197 @@
 {
-  "generatedAt": "2026-05-29T11:21:36.523703+00:00",
+  "generatedAt": "2026-05-29T14:46:38.506626+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Scontrini e POS allineati fanno emergere 5 miliardi di euro: è magia o era evasione?",
-      "link": "https://www.hdblog.it/mercato/articoli/n659896/pos-scontrini-evasione-dati-inizio-2026/",
-      "excerpt": "Secondo l’Agenzia delle Entrate, la maggiore tracciabilità dei pagamenti elettronici ha generato circa un miliardo di euro di extra gettito IVA",
-      "image": "https://hd2.tudocdn.net/1346617?w=660",
-      "publishedAt": "2026-05-29T11:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Droni DJI sotto accusa negli USA per la sicurezza nazionale, ma l’audit non trova falle gravi né canali nascosti",
+      "link": "https://images.dday.it/UvP5JiNg5LwJV6kpD4_XgvoacK1N6aTE8ZyqyAjzoHE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57578/28f4eb_small_Screenshot_2026-05-29_alle_16.43.19_copia.png",
+      "excerpt": "OnDefend ha testato Air 3S e Matrice 4E contro rischi di fuga dati, manomissione e vulnerabilità hardware. Il risultato rafforza la difesa di DJI, che dice che i suoi droni sono…",
+      "image": "https://images.dday.it/UvP5JiNg5LwJV6kpD4_XgvoacK1N6aTE8ZyqyAjzoHE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57578/28f4eb_small_Screenshot_2026-05-29_alle_16.43.19_copia.png",
+      "publishedAt": "2026-05-29T14:45:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
-      "title": "Anthropic sfiora il trilione, ma ora deve dimostrare di valere tanto",
-      "link": "https://www.tomshw.it/hardware/anthropic-65-miliardi-valutazione-trilione",
-      "excerpt": "Anthropic ha chiuso un round da 65 miliardi di dollari e si porta a una valutazione post-money di 965 miliardi. La cifra mette il laboratorio di Claude a ridosso della soglia…",
+      "title": "Noctua prepara il suo primo AIO, e punta tutto sul silenzio",
+      "link": "https://www.tomshw.it/hardware/noctua-prepara-il-suo-primo-aio-e-punta-tutto-sul-silenzio",
+      "excerpt": "Noctua ha anticipato il suo primo AIO a liquido per CPU, un passaggio importante per un marchio che finora ha costruito la propria reputazione soprattutto su dissipatori ad aria e…",
       "image": null,
-      "publishedAt": "2026-05-29T11:14:01+00:00",
+      "publishedAt": "2026-05-29T14:37:58+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Claude brucia 500 milioni: il conto dell’IA sfugge di mano",
-      "link": "https://www.tomshw.it/hardware/claude-500-milioni-costi-ia",
-      "excerpt": "Claude finisce al centro di un caso che rende molto concreta la discussione sui costi dell’intelligenza artificiale in azienda. Secondo una ricostruzione giornalistica, una…",
+      "title": "Licenze Microsoft a vita: Windows 11 Pro e Office 2024 in offerta su DR Informatica",
+      "link": "https://www.hdblog.it/windows-os/articoli/n659822/licenze-microsoft-windows-office-sconto-offerte/",
+      "excerpt": "Scopri le offerte di DR Informatica su Windows 11 Pro e le nuove suite Office 2024. Aggiorna il tuo PC con licenze originali a vita, prezzi scontati e risparmio extra grazie alle…",
+      "image": "https://hd2.tudocdn.net/1342759?w=660",
+      "publishedAt": "2026-05-29T14:31:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Che sensazioni trasmette la Ferrari Luce? Il test di Hamilton e Leclerc",
+      "link": "https://www.hdmotori.it/ferrari-luce-test-hamilton-leclerc/",
+      "excerpt": "I due piloti della Scuderia Ferrari si sono messi alla guida della prima Ferrari elettrica della storia sulla pista di Balocco.",
+      "image": "https://hd2.tudocdn.net/1346663?w=660",
+      "publishedAt": "2026-05-29T14:30:52+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Numeri casuali perfetti: creati per la prima volta da chip quantistici a Zurigo",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n659840/numeri-casuali-perfetti-chip-quantistici/",
+      "excerpt": "Fisici di Zurigo usano chip quantistici uniti per generare numeri casuali perfetti e sicuri.",
+      "image": "https://hd2.tudocdn.net/1346515?w=660",
+      "publishedAt": "2026-05-29T14:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "BYD annuncia il processore da 4nm per la guida autonoma e la copertura totale contro gli incidenti",
+      "link": "https://images.dday.it/Xz_i2pTZbbQDVRnT9AAgbB4R32F7KNoo5RWxE4cLidA/w:329/h:256/rt:fill/plain/s3%3A%2F%2Fdday-production%2Fsystem%2Fuploads%2Fnews%2Fsquare_crop_img%2F57577%2Fc0b528_%E9%85%8D%E5%9B%BE2.jpg",
+      "excerpt": "BYD è la prima azienda automobilistica a offrire una copertura totale sugli eventuali incidenti provocati dal sistema di guida autonoma. Presentato il primo processore cinese a…",
+      "image": "https://images.dday.it/Xz_i2pTZbbQDVRnT9AAgbB4R32F7KNoo5RWxE4cLidA/w:329/h:256/rt:fill/plain/s3%3A%2F%2Fdday-production%2Fsystem%2Fuploads%2Fnews%2Fsquare_crop_img%2F57577%2Fc0b528_%E9%85%8D%E5%9B%BE2.jpg",
+      "publishedAt": "2026-05-29T14:07:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Mitsubishi, torna un mito del passato: pubblicato il teaser della nuova Pajero",
+      "link": "https://www.hdmotori.it/mitsubishi-torna-pajero-teaser/",
+      "excerpt": "Mitsubishi produrrà un nuovo SUV chiamato Pajero ed è previsto il ritorno anche del nome Montero sul mercato spagnolo",
+      "image": "https://hd2.tudocdn.net/1346659?w=660",
+      "publishedAt": "2026-05-29T14:00:24+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "ASRock rilancia Taichi con OLED a 540 Hz e nuovi AIO",
+      "link": "https://www.tomshw.it/hardware/asrock-rilancia-taichi-con-oled-a-540-hz-e-nuovi-aio",
+      "excerpt": "ASRock ha scelto il decimo anniversario della linea Taichi per allargare in modo deciso il proprio catalogo enthusiast, preparando una nuova ondata di componenti PC che include…",
       "image": null,
-      "publishedAt": "2026-05-29T11:12:46+00:00",
+      "publishedAt": "2026-05-29T13:53:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "GigaAI lancerà SeeLight S1, un maggiordomo robotico a meno di 15.000 euro",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n659750/robot-maggiordomo-casa-gigaai-seelight/",
-      "excerpt": "La startup GigaAI lancia SeeLight S1, il robot maggiordomo per le faccende domestiche dal 2027.",
-      "image": "https://hd2.tudocdn.net/1346156?w=660",
-      "publishedAt": "2026-05-29T11:10:00+00:00",
+      "title": "Mondiali 2026: ogni gol come allo stadio, con TV e audio in super offerta",
+      "link": "https://www.tomshw.it/altro/mondiali-2026-ogni-gol-come-allo-stadio-con-tv-e-audio-in-super-offerta",
+      "excerpt": "Con l’arrivo dei Mondiali di calcio 2026, l’attesa degli appassionati cresce in tutta Europa e non solo. A partire dall’11 giugno, l’evento sportivo più seguito al mondo...",
+      "image": null,
+      "publishedAt": "2026-05-29T13:46:01+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Sandisk rispolvera gli SSD SATA mentre i prezzi salgono",
+      "link": "https://www.tomshw.it/hardware/sandisk-320-520-ssd-sata-prezzi",
+      "excerpt": "Sandisk sta riportando al centro della scena una tecnologia che molti avevano già relegato agli upgrade economici. I nuovi Sandisk 320 e Sandisk 520 sono SSD SATA da 2,5 pollici,…",
+      "image": null,
+      "publishedAt": "2026-05-29T13:40:26+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Amazfit Helio Strap 2 certificato alla FCC: in arrivo il fitness tracker senza schermo",
+      "link": "https://www.hdblog.it/indossabili/articoli/n659908/amazfit-helio-strap-2-quando-esce-2026-specifiche/",
+      "excerpt": "L'erede di Amazfit Helio Strap è in arrivo: cosa sappiamo.",
+      "image": "https://hd2.tudocdn.net/1269104?w=660",
+      "publishedAt": "2026-05-29T13:40:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "MediaTek Dimensity 7500: AI in locale anche per gli smartphone mainstream",
-      "link": "https://www.hdblog.it/hardware/articoli/n659893/mediatek-dimensity-7500-ufficiale-specifiche/",
-      "excerpt": "Ecco il primo chip basato sui design ARM C1.",
-      "image": "https://hd2.tudocdn.net/1346616?w=660",
-      "publishedAt": "2026-05-29T11:05:00+00:00",
+      "title": "Trump Mobile, il sito ufficiale indica ancora il T1 Phone come \"American-made\"",
+      "link": "https://www.hdblog.it/smartphone/articoli/n659911/trump-mobile-sito-ufficiale-t1-phone/",
+      "excerpt": "Una parola rimasta nel posto sbagliato",
+      "image": "https://hd2.tudocdn.net/1346655?w=660",
+      "publishedAt": "2026-05-29T13:35:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Honda CBR400R Four, i dettagli inediti del nuovo motore 4 in linea",
-      "link": "https://www.hdmotori.it/honda-cbr400r-four-e-clutch-concept/",
-      "excerpt": "La nuova CBR400R FOUR unisce il fascino del 4 cilindri in linea alla facilità d'uso della frizione E-Clutch. Ecco com'è fatta",
-      "image": "https://hd2.tudocdn.net/1346615?w=660",
-      "publishedAt": "2026-05-29T11:00:45+00:00",
+      "title": "Gonfiaggio pneumatici: su AliExpress spunta una nuova soluzione portatile sorprendente",
+      "link": "https://www.tomshw.it/automotive/pompa-gonfiagomme-portatile-12v-scontata-del-92-2026-05-29",
+      "excerpt": "Su AliExpress è disponibile un'ottima offerta sulla Pompa d'aria portatile a doppio cilindro 12V 150 PSI, ideale per gonfiare i pneumatici dell'auto in modo rapido e automatico.…",
+      "image": null,
+      "publishedAt": "2026-05-29T13:34:13+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Audi RS3 a 287 km/h in autostrada: maxi multa e sequestro, ma è record",
+      "link": "https://www.hdmotori.it/audi-287-kmh-autostrada-a40-chamonix/",
+      "excerpt": "Un'Audi RS3 è stata intercettata sulla A40 verso Chamonix alla velocità record di 287 km/h. Per il conducente scattano il ritiro della patente e il sequestro del mezzo",
+      "image": "https://hd2.tudocdn.net/1346654?w=660",
+      "publishedAt": "2026-05-29T13:30:04+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "The Witcher 3 continua a vendere tantissimo: raggiunti 65 mln di copie",
-      "link": "https://www.hdblog.it/games/articoli/n659887/the-witcher-3-wild-hunt-65-milioni-copie-vendute/",
-      "excerpt": "5 milioni di copie in un anno... a distanza di oltre 10 anni dal lancio.",
-      "image": "https://hd2.tudocdn.net/1346608?w=660",
-      "publishedAt": "2026-05-29T10:55:00+00:00",
+      "title": "Dimentica il metro: misura tutto in modo intelligente con questo strumento",
+      "link": "https://www.tomshw.it/smartphone/telemetro-laser-bosch-originale-scontato-del-60-2026-05-29",
+      "excerpt": "Su AliExpress è disponibile un'ottima offerta sul Telemetro Laser BOSCH originale, disponibile nei modelli GLM4000, GLM50-23G, GLM50-27CG, GLM30-23G e GLM400, con portate da 30m a…",
+      "image": null,
+      "publishedAt": "2026-05-29T13:30:03+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "I cavi sottomarini hanno un nuovo guardiano robotico",
+      "link": "https://www.tomshw.it/hardware/syos-su10-drone-cavi-sottomarini",
+      "excerpt": "SYOS ha presentato SU10, un veicolo subacqueo senza equipaggio pensato per ispezionare e proteggere infrastrutture sotto il livello del mare. Il bersaglio naturale sono i cavi…",
+      "image": null,
+      "publishedAt": "2026-05-29T13:27:21+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Hugging Face lancia il robot umanoide fai da te: per ora accontentatevi delle gambe",
+      "link": "https://www.hdblog.it/robotica/articoli/n659886/hugging-face-robot-umanoide/",
+      "excerpt": "Hugging Face presenta LeRobot Humanoid: 2.500 dollari per gambe robotiche stampabili.",
+      "image": "https://hd2.tudocdn.net/1346609?w=660",
+      "publishedAt": "2026-05-29T13:20:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Fedora 42 è ufficialmente al capolinea: stop anche agli aggiornamenti di sicurezza",
-      "link": "https://www.hdblog.it/linux/articoli/n659889/fedore-42-stop-supporto-aggiorna-pc/",
-      "excerpt": "Bisogna aggiornare a Fedora 43",
-      "image": "https://hd2.tudocdn.net/1346592?w=660",
-      "publishedAt": "2026-05-29T10:50:00+00:00",
+      "title": "Misurata l'energia più piccola di sempre: infranta la soglia dello zeptojoule",
+      "link": "https://www.hdblog.it/scienza/articoli/n659894/zeptojoule-energia-calcolo-quantistico-misura/",
+      "excerpt": "Le ricadute sul calcolo quantistico e l'astrofisica.",
+      "image": "https://hd2.tudocdn.net/1346651?w=660",
+      "publishedAt": "2026-05-29T13:15:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Auricolari Bose con cancellazione del rumore: prezzi in forte calo su Amazon",
+      "link": "https://www.hdblog.it/indossabili/offerte/n659904/bose-quietcomfort-e-ultra-2a-gen-doppio-sconto/",
+      "excerpt": "Il doppio sconto Amazon riduce notevolmente il costo degli auricolari Bose QuietComfort EarBuds e QuietComfort Ultra di seconda generazione.",
+      "image": "https://hd2.tudocdn.net/1346642?w=660",
+      "publishedAt": "2026-05-29T13:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La Commissione Ue congela l'ingresso dei cinesi in MediaWorld: sospetto aiuto di Stato",
+      "link": "https://images.dday.it/bVPoSRDjA5Z3ir9U2auLA9Y2I4xf-bRzmOwN96begns/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57576/f18366_Depositphotos_620916954_XL.jpg",
+      "excerpt": "Il sospetto è che JD.com abbia potuto fare una offerta così ghiotta perché ha ricevuto aiuto da Pechino. JD respinge le accuse, tra 90 giorni la decisione. ... Leggi tutto",
+      "image": "https://images.dday.it/bVPoSRDjA5Z3ir9U2auLA9Y2I4xf-bRzmOwN96begns/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57576/f18366_Depositphotos_620916954_XL.jpg",
+      "publishedAt": "2026-05-29T12:48:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Migliori monitor portatili esterni (maggio 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-monitor-portatili-esterni",
+      "excerpt": "Un monitor portatile esterno è uno degli accessori più utili quando il notebook, il tablet o la console non bastano più. La categoria è cresciuta molto perché risolve problemi…",
+      "image": null,
+      "publishedAt": "2026-05-29T12:04:05+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Ci sono buchi neri supermassicci nati prima delle loro galassie. Ora c'è la conferma",
@@ -86,24 +203,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "LG presenta i nuovi monitor gaming UltraGear evo da 52 e 39 pollici | PROMO",
-      "link": "https://www.hdblog.it/hardware/articoli/n659890/lg-nuovi-monitor-ultragear-gaming-prezzi-promo/",
-      "excerpt": "Il nuovo LG UltraGear evo G9 da 52 pollici è il monitor gaming 5K2K a 240 Hz più grande al mondo secondo l’azienda",
-      "image": "https://hd2.tudocdn.net/1346610?w=660",
-      "publishedAt": "2026-05-29T10:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Arriva la disconnessione sicura su WhatsApp: esci senza perdere i tuoi dati",
-      "link": "https://www.hdblog.it/android/articoli/n659851/whatsapp-pulsante-disconnessione-logout/",
-      "excerpt": "WhatsApp sta perfezionando un nuovo pulsante per disconnettersi dall'account mantenendo i dati salvati sul dispositivo.",
-      "image": "https://hd2.tudocdn.net/1346589?w=660",
-      "publishedAt": "2026-05-29T10:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Connessi ovunque con il router portatile TP-Link M7000: ora in offerta su Amazon a soli 39,99 euro",
       "link": "https://images.dday.it/93Z92QuQU9UWmifKeJVh6lU8tmb3niWmoNlEPVkU8pQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/53430/0da701_ape2.jpg",
       "excerpt": "Compatto, leggero e ideale per restare connessi ovunque: il router portatile TP-Link M7000 è in sconto su Amazon: la soluzione smart per avere Wi-Fi affidabile anche in viaggio…",
@@ -111,24 +210,6 @@
       "publishedAt": "2026-05-29T10:37:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Tim Sweeney sbeffeggia Valve per il prezzo di Steam Deck, ma non va come pensa",
-      "link": "https://www.hdblog.it/games/articoli/n659882/tim-sweeney-attacca-valve-brutta-figura/",
-      "excerpt": "Il boss di Epic Games rimedia una pessima figura su X",
-      "image": "https://hd2.tudocdn.net/1346575?w=660",
-      "publishedAt": "2026-05-29T10:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Meno RAM, ma più batteria e funzioni: il nuovo patto degli smartphone low cost",
-      "link": "https://www.hdblog.it/smartphone/speciali/n654975/realme-c100-5g-test-ram-batteria/",
-      "excerpt": "La crisi delle RAM sta cambiando il mercato degli smartphone di fascia bassa. I brand stanno diminuendo la RAM, ma compensando con più batteria, miglior display e funzioni AI.",
-      "image": "https://hd2.tudocdn.net/1345456?w=660",
-      "publishedAt": "2026-05-29T10:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Iliad oggi spegne 8 candeline in Italia. Riproposte due tariffe Plus “storiche” con 250 e 300 giga",
@@ -140,15 +221,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "MediaWorld senza IVA: torna la promo più attesa (e conveniente)",
-      "link": "https://www.tomshw.it/altro/mediaworld-senza-iva-torna-la-promo-piu-attesa-e-conveniente",
-      "excerpt": "La promozione “senza IVA” di MediaWorld torna anche quest’anno come una delle iniziative più attese da chi desidera acquistare tecnologia a condizioni vantaggiose. Si tratta d...",
-      "image": null,
-      "publishedAt": "2026-05-29T10:11:09+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Snapdragon C, Qualcomm è convinta che si possano fare laptop Windows ARM da 300 euro",
       "link": "https://images.dday.it/ME6TRx-YdwCNVij2rbqpRQebg-56F7b2DwW1dZkXCfI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57574/5396f1_Snapdragon-C-Lifestyle-Education-Badge.jpg",
       "excerpt": "Alle porte del Computex Qualcomm presenta una nuova piattaforma pensata per i laptop a basso costo. Non una i core Oryon e nessuno ha spiegato cosa ci sia all’interno. L’unico…",
@@ -156,24 +228,6 @@
       "publishedAt": "2026-05-29T09:36:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "007 First Light, c'è una bellissima notizia",
-      "link": "https://www.tomshw.it/videogioco/007-first-light-vendite-record-in-sole-24-ore-2026-05-29",
-      "excerpt": "Nelle prime ventiquattro ore dal lancio, 007 First Light ha già convinto oltre un milione e mezzo di giocatori ad acquistarlo su tutte le piattaforme disponibili: PlayStation 5,…",
-      "image": null,
-      "publishedAt": "2026-05-29T09:22:57+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Estetica premium, audio discreto: -39% su questi speaker 2.1",
-      "link": "https://www.tomshw.it/hardware/logitech-g560-in-offerta-con-sconto-del-39-su-amazon-2026-05-29",
-      "excerpt": "Su Amazon è disponibile un'ottima offerta sul Logitech G560, il sistema di speaker per gaming con illuminazione LIGHTSYNC RGB, suono surround DTS:X 7.1 e una potenza di picco di…",
-      "image": null,
-      "publishedAt": "2026-05-29T09:17:19+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Waymo porta su strada Ojai, il suo primo robotaxi progettato da zero",
@@ -203,76 +257,22 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Un razzo New Glenn di Blue Origin è esploso in un'enorme palla di fuoco",
-      "link": "https://images.dday.it/Sd2NEW5MWhz838SmncrtaLkUbMukeHYZt8ghIJxNX-8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57569/1e9a36_New_Glenn_1.jpg",
-      "excerpt": "Durante il test statico di accensione dei motori del primo stadio, un malfunzionamento ha portato ad una gigantesca esplosione. Ancora da calcolare i danni alla piattaforma di…",
-      "image": "https://images.dday.it/Sd2NEW5MWhz838SmncrtaLkUbMukeHYZt8ghIJxNX-8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57569/1e9a36_New_Glenn_1.jpg",
-      "publishedAt": "2026-05-29T07:56:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Opus 4.8 è più capace del suo predecessore, ma è troppo onesto",
-      "link": "https://images.dday.it/ArtDfstdkvSeHHI6H3DpsFOAkZJTRfjOLOqfPRJUKtM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57568/76578c_small_Screenshot_2026-05-29_alle_09.25.13_copia.png",
-      "excerpt": "Opus 4.8 migliora in coding, agenti e contesto lungo, ma Anthropic ammette un effetto inatteso: togliere una parte del training sul business lo ha reso più onesto e meno…",
-      "image": "https://images.dday.it/ArtDfstdkvSeHHI6H3DpsFOAkZJTRfjOLOqfPRJUKtM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57568/76578c_small_Screenshot_2026-05-29_alle_09.25.13_copia.png",
-      "publishedAt": "2026-05-29T07:32:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migliori supporti TV (maggio 2026)",
-      "link": "https://www.tomshw.it/guide/supporti-tv-monitor-migliori",
-      "excerpt": "Avete da poco acquistato una nuova smart TV e vi serve un supporto più adatto del piedistallo originale? La scelta può sembrare banale, ma diventa importante appena entrano in…",
+      "title": "Italia leader nel Super Calcolo, Leonardo più potente con LISA",
+      "link": "https://www.tomshw.it/business/italia-leader-nel-super-calcolo-leonardo-piu-potente-con-lisa",
+      "excerpt": "Anna Maria Bernini, ministra dell'Università e della Ricerca, ha annunciato LISA, prima infrastruttura europea dedicata alle applicazioni di intelligenza artificiale all'interno…",
       "image": null,
-      "publishedAt": "2026-05-29T07:01:08+00:00",
+      "publishedAt": "2026-05-29T06:45:32+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Migliori umidificatori (maggio 2026)",
-      "link": "https://www.tomshw.it/offerte/migliori-umidificatori",
-      "excerpt": "Se vivete in zone dove l'aria di casa tende a diventare secca, oppure se il riscaldamento, una pompa di calore o una stufa, ad esempio una delle migliori stufe a pellet, asciugano…",
+      "title": "Mistral si appoggia a Digital Realty, la sovranità AI europea ha un fornitore statunitense",
+      "link": "https://www.tomshw.it/business/digital-realty-mistral-data-center-sovranita-europea-29-mag",
+      "excerpt": "Mistral AI ha annunciato il 28 maggio 2026 un accordo con Digital Realty per ospitare un cluster di calcolo da dieci megawatt nel campus parigino del provider statunitense. La…",
       "image": null,
-      "publishedAt": "2026-05-29T07:00:20+00:00",
+      "publishedAt": "2026-05-29T06:38:10+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Anthropic apre a Milano e l'Italia entra nella mappa enterprise di Claude",
-      "link": "https://www.tomshw.it/aioperator/anthropic-milano-italia-enterprise-claude",
-      "excerpt": "Anthropic ha annunciato l'apertura di un ufficio a Milano il 28 maggio 2026, scelto come sede del sesto presidio europeo dopo Londra, Dublino, Zurigo, Parigi e Monaco di Baviera.…",
-      "image": null,
-      "publishedAt": "2026-05-29T06:43:55+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "I robot umanoidi al posto degli umani salveranno l'auto europea?",
-      "link": "https://www.tomshw.it/aioperator/i-robot-umanoidi-al-posto-degli-umani-salveranno-lauto-europea",
-      "excerpt": "BMW ha confermato il deployment di robot umanoidi nella propria fabbrica di Lipsia, prima applicazione in produzione europea per quella che l'azienda chiama Physical AI. Il robot…",
-      "image": null,
-      "publishedAt": "2026-05-29T06:42:29+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "AI e datacenter fanno aumentare la bolletta, ma la gente non lo sa",
-      "link": "https://www.tomshw.it/business/ai-e-datacenter-fanno-aumentare-la-bolletta-ma-la-gente-non-lo-sa",
-      "excerpt": "Le famiglie irlandesi hanno pagato in media trecentosessanta euro in più sulla bolletta elettrica tra il 2015 e il 2023 per finanziare l'espansione dei data center hyperscaler…",
-      "image": null,
-      "publishedAt": "2026-05-29T06:39:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "HERE mappa l’Italia in 3D: sulle strade i veicoli per censire anche i cartelli e i negozi",
-      "link": "https://images.dday.it/mXmBT-K4R1JAoY8xVyZSyARVHoD8WD7Kfr88CH7eJw8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57445/85f9b8_here_thumb.jpg",
-      "excerpt": "Fino a luglio, i veicoli HERE percorreranno le strade in diverse città italiane per raccogliere dati ad alta precisione e creare mappe più realistiche e più dettagliate... Leggi…",
-      "image": "https://images.dday.it/mXmBT-K4R1JAoY8xVyZSyARVHoD8WD7Kfr88CH7eJw8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57445/85f9b8_here_thumb.jpg",
-      "publishedAt": "2026-05-29T01:03:05+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
     }
   ]
 }
