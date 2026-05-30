@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-05-30T15:00:38.310368+00:00",
+  "generatedAt": "2026-05-30T16:54:04.083368+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Google Drive riceve una novità molto attesa: ma non è per tutti",
+      "link": "https://www.hdblog.it/google/articoli/n659977/google-drive-scanner-documenti-batch-8-gb-ram/",
+      "excerpt": "Così scannerizzare i documenti è molto più semplice. Anche se ci sono dei requisiti minimi.",
+      "image": "https://hd2.tudocdn.net/1346781?w=660",
+      "publishedAt": "2026-05-30T16:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Call of Duty Modern Warfare 4, Infinity Ward svela ambizioni e retroscena",
+      "link": "https://www.hdblog.it/games/articoli/n659976/call-of-duty-modern-warfare-4-infinity-ward-video/",
+      "excerpt": "Che gioco dobbiamo aspettarci? Parola agli sviluppatori.",
+      "image": "https://hd2.tudocdn.net/1346780?w=660",
+      "publishedAt": "2026-05-30T15:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "L'Italia chiede di cambiare il nome alla tensione elettrica: vuole Volta al posto di Volt",
+      "link": "https://images.dday.it/oW6Cg1R5VrvxWEeJ_6wnr1sbeytCJkzpxDvnb_aWdFE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57581/3d285e_volta.jpg",
+      "excerpt": "Newton, Hertz, Watt: la quasi totalità delle unità di misura che prendono il nome da uno scienziato ha il cognome integro. Tranne il Volt, dove si è persa la “a”. Butti è volato a…",
+      "image": "https://images.dday.it/oW6Cg1R5VrvxWEeJ_6wnr1sbeytCJkzpxDvnb_aWdFE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57581/3d285e_volta.jpg",
+      "publishedAt": "2026-05-30T15:22:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
     {
       "title": "Fiido M1 Pro - in prova la Fat Bike più stilosa sul mercato",
       "link": "https://www.hdblog.it/tecnologia/recensioni/n658756/fiido-m1-pro-la-fat-bike-piu-stilosa/",
@@ -73,24 +100,6 @@
       "excerpt": "Ben 7.200 mAh e Snapdragon 8s Gen 3 per un massimo di 555 euro. Arriverà da noi?",
       "image": "https://hd2.tudocdn.net/1346709?w=660",
       "publishedAt": "2026-05-30T08:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Apple Music valuta nuovi abbonamenti e limiti ai brani",
-      "link": "https://www.hdblog.it/apple/articoli/n659954/apple-music-nuovi-abbonamenti-limiti/",
-      "excerpt": "Indizi nell'app Android suggeriscono l'arrivo di nuovi piani e limiti di skip su Apple Music.",
-      "image": "https://hd2.tudocdn.net/1346722?w=660",
-      "publishedAt": "2026-05-30T08:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Prova Alpine A290: una hot hatch può essere elettrica? - Video",
-      "link": "https://www.hdmotori.it/prove/prova-alpine-a290-una-hot-hatch-puo-essere-elettrica-video/",
-      "excerpt": "La Alpine A290 è una hot hatch 100% elettrica non esagerata e molto divertente da guidare",
-      "image": "https://hd2.tudocdn.net/1346741?w=660",
-      "publishedAt": "2026-05-30T08:00:21+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -244,15 +253,6 @@
       "excerpt": "Alle porte del Computex Qualcomm presenta una nuova piattaforma pensata per i laptop a basso costo. Non una i core Oryon e nessuno ha spiegato cosa ci sia all’interno. L’unico…",
       "image": "https://images.dday.it/ME6TRx-YdwCNVij2rbqpRQebg-56F7b2DwW1dZkXCfI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57574/5396f1_Snapdragon-C-Lifestyle-Education-Badge.jpg",
       "publishedAt": "2026-05-29T09:36:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Waymo porta su strada Ojai, il suo primo robotaxi progettato da zero",
-      "link": "https://images.dday.it/BTZGhdFeyVoWxIHzJfamrAxT47iRoscLJs5iHtaIcMA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57572/ad6edb_ojai_thumb.jpg",
-      "excerpt": "Non è un'auto adattata alla guida autonoma. Già su strada nelle aree di San Francisco, Los Angeles e Phoenix... Leggi tutto",
-      "image": "https://images.dday.it/BTZGhdFeyVoWxIHzJfamrAxT47iRoscLJs5iHtaIcMA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57572/ad6edb_ojai_thumb.jpg",
-      "publishedAt": "2026-05-29T09:16:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     },
