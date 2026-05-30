@@ -1,9 +1,99 @@
 {
-  "generatedAt": "2026-05-30T06:41:13.020406+00:00",
+  "generatedAt": "2026-05-30T09:52:41.418024+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Spotify introduce tre nuove funzioni per gestire le playlist da smartphone",
+      "link": "https://www.hdblog.it/android/articoli/n659957/spotify-aggiornamento-playlist-smartphone/",
+      "excerpt": "Spotify introduce la gestione in blocco delle playlist e nuove funzioni per Android e iOS.",
+      "image": "https://hd2.tudocdn.net/1346725?w=660",
+      "publishedAt": "2026-05-30T09:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Vivo S60 ufficiale, anche in \"Vitality Edition\": upper midrange solidissimi",
+      "link": "https://www.hdblog.it/smartphone/articoli/n659945/vivo-s60-vitality-specifiche-immagini-prezzi/",
+      "excerpt": "Ben 7.200 mAh e Snapdragon 8s Gen 3 per un massimo di 555 euro. Arriverà da noi?",
+      "image": "https://hd2.tudocdn.net/1346709?w=660",
+      "publishedAt": "2026-05-30T08:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple Music valuta nuovi abbonamenti e limiti ai brani",
+      "link": "https://www.hdblog.it/apple/articoli/n659954/apple-music-nuovi-abbonamenti-limiti/",
+      "excerpt": "Indizi nell'app Android suggeriscono l'arrivo di nuovi piani e limiti di skip su Apple Music.",
+      "image": "https://hd2.tudocdn.net/1346722?w=660",
+      "publishedAt": "2026-05-30T08:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Prova Alpine A290: una hot hatch può essere elettrica? - Video",
+      "link": "https://www.hdmotori.it/prove/prova-alpine-a290-una-hot-hatch-puo-essere-elettrica-video/",
+      "excerpt": "La Alpine A290 è una hot hatch 100% elettrica non esagerata e molto divertente da guidare",
+      "image": "https://hd2.tudocdn.net/1346741?w=660",
+      "publishedAt": "2026-05-30T08:00:21+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Musk costruirà lo scudo spaziale di Trump: accordo da 4 miliardi per Golden Dome",
+      "link": "https://www.hdblog.it/mercato/articoli/n659956/spacex-contratto-satelliti-golden-dome/",
+      "excerpt": "SpaceX ottiene un contratto da 4,16 miliardi di dollari per i satelliti dello scudo Golden Dome.",
+      "image": "https://hd2.tudocdn.net/1346727?w=660",
+      "publishedAt": "2026-05-30T07:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "House of the Dragon 3: il trailer promette fuoco, fiamme e tradimenti",
+      "link": "https://www.hdblog.it/curiosita/articoli/n659953/house-of-the-dragon-3-trailer-hbo/",
+      "excerpt": "Il trailer di House of the Dragon 3 anticipa una stagione di battaglie aeree e tradimenti.",
+      "image": "https://hd2.tudocdn.net/1346723?w=660",
+      "publishedAt": "2026-05-30T07:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Motorola Razr 60 Ultra, con lo sconto su Amazon (-50%) è sempre più il pieghevole da scegliere oggi",
+      "link": "https://www.hdblog.it/smartphone/offerte/n659963/motorola-razr-60-ultra-offerta-amazon-649e-mag26/",
+      "excerpt": "Il Motorola Razr 60 Ultra è in offerta su Amazon, con uno sconto del 50% che rende il pieghevole un vero e proprio best buy.",
+      "image": "https://hd2.tudocdn.net/1256115?w=660",
+      "publishedAt": "2026-05-30T07:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Bugatti W16 Mistral 'Le Retour du Jeune Prince': il W16 omaggia la letteratura",
+      "link": "https://www.hdmotori.it/bugatti-w16-mistral-retour-jeune-prince/",
+      "excerpt": "Il programma Sur Mesure ha trasformato la W16 Mistral in un omaggio a un’opera letteraria ispirata al capolavoro di Antoine de Saint-Exupéry.",
+      "image": "https://hd2.tudocdn.net/1346732?w=660",
+      "publishedAt": "2026-05-30T07:00:30+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il mercato foldable rallenta, ma Samsung vola: quasi raddoppiata la quota nel Q1 '26",
+      "link": "https://www.hdblog.it/smartphone/articoli/n659944/samsung-pieghevoli-huawei-q1-2026-mercato-dati/",
+      "excerpt": "Anche se grazie al mercato cinese il leader globale è Huawei.",
+      "image": "https://hd2.tudocdn.net/1274296?w=660",
+      "publishedAt": "2026-05-30T06:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "NVIDIA N1X, ci siamo. Il processore ARM per Windows arriva domani: “Nuova era per i PC”",
+      "link": "https://images.dday.it/uquaLfcDIObIpAJCUTlTUOzBX3yUfsN8UPyeZ4NbS7E/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57579/d3a08f_n1xt.jpg",
+      "excerpt": "Un post congiunto di Microsoft e NVIDIA anticipa quella che per entrambi è una nuova era per i computer. Il tanto atteso processore per Windows arriverà domani. ... Leggi tutto",
+      "image": "https://images.dday.it/uquaLfcDIObIpAJCUTlTUOzBX3yUfsN8UPyeZ4NbS7E/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57579/d3a08f_n1xt.jpg",
+      "publishedAt": "2026-05-30T06:50:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
     {
       "title": "La \"Magnifica Humanitas\" della AI WEEK 2026",
       "link": "https://www.tomshw.it/business/la-magnifica-humanitas-della-ai-week-2026",
@@ -66,87 +156,6 @@
       "publishedAt": "2026-05-29T18:56:52+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Meno RAM, ma più batteria e funzioni: il nuovo patto degli smartphone low cost",
-      "link": "https://www.hdblog.it/smartphone/speciali/n654975/realme-c100-5g-test-ram-batteria/",
-      "excerpt": "La crisi delle RAM sta cambiando il mercato degli smartphone di fascia bassa. I brand stanno diminuendo la RAM, ma compensando con più batteria, miglior display e funzioni AI.",
-      "image": "https://hd2.tudocdn.net/1345456?w=660",
-      "publishedAt": "2026-05-29T18:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Scontrini e POS allineati fanno emergere 5 miliardi di euro: è magia o era evasione?",
-      "link": "https://www.hdblog.it/mercato/articoli/n659896/pos-scontrini-evasione-dati-inizio-2026/",
-      "excerpt": "Secondo l’Agenzia delle Entrate, la maggiore tracciabilità dei pagamenti elettronici ha generato circa un miliardo di euro di extra gettito IVA",
-      "image": "https://hd2.tudocdn.net/1346617?w=660",
-      "publishedAt": "2026-05-29T18:24:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Fable è stato rinviato ancora: c'è l'annuncio ufficiale di Xbox. Colpa di GTA 6?",
-      "link": "https://www.hdblog.it/microsoft/articoli/n659942/fable-rinvio-xbox-quando-esce-febbraio-2027-data/",
-      "excerpt": "Ecco qual è la nuova finestra di lancio.",
-      "image": "https://hd2.tudocdn.net/1346703?w=660",
-      "publishedAt": "2026-05-29T18:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Quasi al 50% gli auricolari Marshall Minor IV: conquistano già con il design",
-      "link": "https://www.hdblog.it/indossabili/offerte/n659941/auricolari-marshall-minor-iv-doppio-sconto-amazon/",
-      "excerpt": "Doppio sconto su Amazon per i Marshall Minor IV, auricolari con un design ricercato, autonomia di 30 ore, controlli touch e connessione multipoint.",
-      "image": "https://hd2.tudocdn.net/1346705?w=660",
-      "publishedAt": "2026-05-29T18:01:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "L'incredibile ASUS ROG Zephyrus Duo 2026 arriva in Italia, ma i prezzi...",
-      "link": "https://www.hdblog.it/portatili/articoli/n659943/asus-rog-zephyrus-duo-2026-italia-prezzi/",
-      "excerpt": "Si parte da 4.999 euro... per arrivare addirittura a 6.299.",
-      "image": "https://hd2.tudocdn.net/1346700?w=660",
-      "publishedAt": "2026-05-29T17:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "MediaWorld ai cinesi di JD.com, l'UE vuole vederci chiaro e blocca l'acquisizione",
-      "link": "https://www.hdblog.it/business/articoli/n659939/mediaworld-jd-com-europa-blocca-acquisizione/",
-      "excerpt": "Il sospetto è che dietro ci siano agevolazioni dal governo di Pechino.",
-      "image": "https://hd2.tudocdn.net/1307455?w=660",
-      "publishedAt": "2026-05-29T17:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Energia nucleare pulita: dagli USA arriva la svolta sui rifiuti",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n659753/energia-nucleare-riciclo-scorie/",
-      "excerpt": "Startup USA trasforma scorie nucleari in combustibile aumentando l'energia di 100 volte.",
-      "image": "https://hd2.tudocdn.net/1346160?w=660",
-      "publishedAt": "2026-05-29T17:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Con One UI 9 i Galaxy somigliano un po' più agli iPhone nella gestione delle chiamate",
-      "link": "https://www.hdblog.it/smartphone/articoli/n659931/samsung-galaxy-one-ui-9-registro-chiamate-iphone/",
-      "excerpt": "Cosa cambia nell'ultima beta.",
-      "image": "https://hd2.tudocdn.net/1336665?w=660",
-      "publishedAt": "2026-05-29T17:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Creative Sound Blaster AE-X ufficiale: ecco la scheda audio per audiofili",
-      "link": "https://www.hdblog.it/hardware/articoli/n659940/creative-scheda-audio-sound-blaster-audiofili/",
-      "excerpt": "DAC ESS Sabre e preamplificatore integrato per cuffie.",
-      "image": "https://hd2.tudocdn.net/1346699?w=660",
-      "publishedAt": "2026-05-29T17:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Fable non ce la fa, è stato rinviato e ora ha una nuova data",
@@ -244,15 +253,6 @@
       "excerpt": "Non è un'auto adattata alla guida autonoma. Già su strada nelle aree di San Francisco, Los Angeles e Phoenix... Leggi tutto",
       "image": "https://images.dday.it/BTZGhdFeyVoWxIHzJfamrAxT47iRoscLJs5iHtaIcMA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57572/ad6edb_ojai_thumb.jpg",
       "publishedAt": "2026-05-29T09:16:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Anthropic apre a Milano. E intanto raccoglie 65 miliardi di dollari che portano la valutazione a 965 miliardi",
-      "link": "https://images.dday.it/b_IlbMHFAEighEEW03fL5sY5wKiTMACNvEA63JmQVp4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57571/e3cb95_small_ChatGPT_Image_29_mag_2026__10_59_02_copia.png",
-      "excerpt": "Milano diventa la sesta sede europea di Anthropic. L’apertura arriva insieme a un nuovo maxi-round che fa salire la valutazione in vista della IPO a 965 miliardi di dollari...…",
-      "image": "https://images.dday.it/b_IlbMHFAEighEEW03fL5sY5wKiTMACNvEA63JmQVp4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57571/e3cb95_small_ChatGPT_Image_29_mag_2026__10_59_02_copia.png",
-      "publishedAt": "2026-05-29T09:00:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     },
