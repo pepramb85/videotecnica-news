@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-05-29T23:06:16.093734+00:00",
+  "generatedAt": "2026-05-30T02:29:00.840509+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "HERE mappa l’Italia in 3D: sulle strade i veicoli per censire anche i cartelli e i negozi",
+      "link": "https://images.dday.it/mXmBT-K4R1JAoY8xVyZSyARVHoD8WD7Kfr88CH7eJw8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57445/85f9b8_here_thumb.jpg",
+      "excerpt": "Fino a luglio, i veicoli HERE percorreranno le strade in diverse città italiane per raccogliere dati ad alta precisione e creare mappe più realistiche e più dettagliate... Leggi…",
+      "image": "https://images.dday.it/mXmBT-K4R1JAoY8xVyZSyARVHoD8WD7Kfr88CH7eJw8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57445/85f9b8_here_thumb.jpg",
+      "publishedAt": "2026-05-30T01:03:04+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
     {
       "title": "Groq cerca nuovi fondi dopo il maxi accordo con NVIDIA",
       "link": "https://www.tomshw.it/hardware/groq-cerca-nuovi-fondi-dopo-il-maxi-accordo-con-nvidia",
@@ -246,15 +255,6 @@
       "publishedAt": "2026-05-29T08:35:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il nuovo Oura Ring 5 sembra quasi un anello normale",
-      "link": "https://images.dday.it/YvKxYylipEfcGYSBH185-bZwLBT9esxcT9O_S7TxG0A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57570/59c76d_ring5_thumb.jpg",
-      "excerpt": "È molto più piccolo della generazione precedente, nonostante abbia più funzioni... Leggi tutto",
-      "image": "https://images.dday.it/YvKxYylipEfcGYSBH185-bZwLBT9esxcT9O_S7TxG0A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57570/59c76d_ring5_thumb.jpg",
-      "publishedAt": "2026-05-29T07:59:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
     },
     {
       "title": "Italia leader nel Super Calcolo, Leonardo più potente con LISA",
