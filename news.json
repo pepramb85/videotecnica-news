@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T20:51:47.444796+00:00",
+  "generatedAt": "2026-05-31T22:53:18.874746+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
@@ -203,6 +203,15 @@
       "sourceColor": "#9B2D2D"
     },
     {
+      "title": "AliExpress shock! Arrivano gli sconti più incredibili dell'anno, ma devi agire ora!",
+      "link": "https://www.tomshw.it/altro/aliexpress-shock-arrivano-gli-sconti-piu-incredibili-dellanno-ma-devi-agire-ora",
+      "excerpt": "Se pensavi di aver già visto le migliori offerte dell'anno, preparati a ricrederti. AliExpress ha appena dato il via a una campagna promozionale senza precedenti, rilasciando una…",
+      "image": null,
+      "publishedAt": "2026-05-29T15:02:13+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "Droni DJI sotto accusa negli USA per la sicurezza nazionale, ma l’audit non trova falle gravi né canali nascosti",
       "link": "https://images.dday.it/UvP5JiNg5LwJV6kpD4_XgvoacK1N6aTE8ZyqyAjzoHE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57578/28f4eb_small_Screenshot_2026-05-29_alle_16.43.19_copia.png",
       "excerpt": "OnDefend ha testato Air 3S e Matrice 4E contro rischi di fuga dati, manomissione e vulnerabilità hardware. Il risultato rafforza la difesa di DJI, che dice che i suoi droni sono…",
@@ -264,15 +273,6 @@
       "publishedAt": "2026-05-29T10:25:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Mistral si appoggia a Digital Realty, la sovranità AI europea ha un fornitore statunitense",
-      "link": "https://www.tomshw.it/business/digital-realty-mistral-data-center-sovranita-europea-29-mag",
-      "excerpt": "Mistral AI ha annunciato il 28 maggio 2026 un accordo con Digital Realty per ospitare un cluster di calcolo da dieci megawatt nel campus parigino del provider statunitense. La…",
-      "image": null,
-      "publishedAt": "2026-05-29T06:38:10+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     }
   ]
 }
