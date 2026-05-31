@@ -1,9 +1,63 @@
 {
-  "generatedAt": "2026-05-31T07:39:24.372508+00:00",
+  "generatedAt": "2026-05-31T10:08:43.518141+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Un mese con le cuffie ultraleggere da gaming e ufficio: Sony Inzone H6 Air",
+      "link": "https://www.hdblog.it/indossabili/recensioni/n659744/sony-inzone-h6-air-test-prezzo-recensione/",
+      "excerpt": "Abbiamo provato le nuove cuffie open-back di Sony ultraleggere. Pesano 200 grammi e quasi non si avvertono anche dopo ore di gaming o lavoro. Il microfono cardioide staccabile è…",
+      "image": "https://hd2.tudocdn.net/1346192?w=660",
+      "publishedAt": "2026-05-31T09:31:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Motorola Edge 70 Pro+ senza segreti: specifiche svelate in anticipo sul lancio",
+      "link": "https://www.hdblog.it/smartphone/articoli/n659985/motorola-edge-70-pro-plus-specifiche-ufficiali/",
+      "excerpt": "E sono caratteristiche interessanti.",
+      "image": "https://hd2.tudocdn.net/1344725?w=660",
+      "publishedAt": "2026-05-31T09:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Radar invisibili per salvare i carri armati USA dai droni",
+      "link": "https://www.hdblog.it/droni/articoli/n659962/bae-systems-protezione-veicoli-usa/",
+      "excerpt": "L'esercito USA adotta i sistemi BAE Systems contro droni e missili per proteggere i carri armati.",
+      "image": "https://hd2.tudocdn.net/1346736?w=660",
+      "publishedAt": "2026-05-31T08:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Bose SoundTouch: come farlo rinascere con un chip ESP32 dopo lo stop del cloud",
+      "link": "https://www.hdblog.it/hardware/articoli/n659921/bose-soundtouch-hack-esp32-cloud-come-fare/",
+      "excerpt": "Una soluzione davvero geniale.",
+      "image": "https://hd2.tudocdn.net/1346676?w=660",
+      "publishedAt": "2026-05-31T08:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il migliore chatbot vocale al mondo ora ha un’app per iPhone: Sesame per il momento è gratis",
+      "link": "https://images.dday.it/1OA5fLCAR5Eaatwe8dGlO-PVmzX_mVUYG-eE_np_caU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57582/2b7092_small_sesame-personal-agents_copia.png",
+      "excerpt": "Quella per Android ha una lista di attesa. Ora ci sono 4 agenti diversi per personalità, ma i modelli vocali restano allo stato dell’arte. L’LLM che li governa è passato da Gemma…",
+      "image": "https://images.dday.it/1OA5fLCAR5Eaatwe8dGlO-PVmzX_mVUYG-eE_np_caU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57582/2b7092_small_sesame-personal-agents_copia.png",
+      "publishedAt": "2026-05-31T08:01:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Mano robotica impara a suonare il pianoforte: ci mette solo due minuti",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n659960/mano-robotica-pianoforte-medicina/",
+      "excerpt": "Una mano robotica impara a suonare il pianoforte in due metri e apre a nuove terapie mediche.",
+      "image": "https://hd2.tudocdn.net/1346734?w=660",
+      "publishedAt": "2026-05-31T07:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Ti pulisco casa gratis, tu mi dai i dati: l'idea di Shift per addestrare i robot domestici",
       "link": "https://www.hdblog.it/home/articoli/n659913/pulizie-casa-gratis-robot-video-come-funziona/",
@@ -50,15 +104,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Call of Duty Modern Warfare 4, Infinity Ward svela ambizioni e retroscena",
-      "link": "https://www.hdblog.it/games/articoli/n659976/call-of-duty-modern-warfare-4-infinity-ward-video/",
-      "excerpt": "Che gioco dobbiamo aspettarci? Parola agli sviluppatori.",
-      "image": "https://hd2.tudocdn.net/1346780?w=660",
-      "publishedAt": "2026-05-30T15:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "L'Italia chiede di cambiare il nome alla tensione elettrica: vuole Volta al posto di Volt",
       "link": "https://images.dday.it/oW6Cg1R5VrvxWEeJ_6wnr1sbeytCJkzpxDvnb_aWdFE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57581/3d285e_volta.jpg",
       "excerpt": "Newton, Hertz, Watt: la quasi totalità delle unità di misura che prendono il nome da uno scienziato ha il cognome integro. Tranne il Volt, dove si è persa la “a”. Butti è volato a…",
@@ -66,42 +111,6 @@
       "publishedAt": "2026-05-30T15:22:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Fiido M1 Pro - in prova la Fat Bike più stilosa sul mercato",
-      "link": "https://www.hdblog.it/tecnologia/recensioni/n658756/fiido-m1-pro-la-fat-bike-piu-stilosa/",
-      "excerpt": "Abbiamo provato la nuova Fiido M1 Pro, una Fat Bike dalle caratteristiche molto interessanti e uniche per questa categoria.",
-      "image": "https://hd2.tudocdn.net/1343569?w=660",
-      "publishedAt": "2026-05-30T13:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone 18 Pro, la fotocamera avrà una novità importante e molto costosa",
-      "link": "https://www.hdblog.it/smartphone/articoli/n659975/iphone-18-pro-apple-apertura-variabile-prezzo/",
-      "excerpt": "Dobbiamo aspettarci un incremento dei prezzi?",
-      "image": "https://hd2.tudocdn.net/1335060?w=660",
-      "publishedAt": "2026-05-30T12:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Acer annuncia Nitro Blaze Link: handheld Linux per lo streaming con 1 GB di RAM",
-      "link": "https://www.hdblog.it/acer/articoli/n659966/acer-nitro-blaze-link-console-portatile-streaming/",
-      "excerpt": "Le possibilità della nuova piattaforma di Acer non sono poi così ampie",
-      "image": "https://hd2.tudocdn.net/1346739?w=660",
-      "publishedAt": "2026-05-30T11:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Un immenso cimitero di rottami spaziali minaccia la Terra, sono oltre 33.000",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n659955/detriti-spaziali-pericolo-orbita/",
-      "excerpt": "Oltre 33mila detriti sfrecciano intorno alla Terra minacciando satelliti e future missioni.",
-      "image": "https://hd2.tudocdn.net/1346729?w=660",
-      "publishedAt": "2026-05-30T10:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "NVIDIA N1X, ci siamo. Il processore ARM per Windows arriva domani: “Nuova era per i PC”",
@@ -244,15 +253,6 @@
       "excerpt": "TOP 250 PLUS e TOP 300 PLUS sono già attive ma chiuderanno i battenti nel pomeriggio del 30 giugno... Leggi tutto",
       "image": "https://images.dday.it/dJ_0EsfNyiG7lTTL7o_6Q1z_JLfvmQzAJKvQpNi1h8A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57575/dd8ad5_small_snapshot_copia.jpg",
       "publishedAt": "2026-05-29T10:25:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Snapdragon C, Qualcomm è convinta che si possano fare laptop Windows ARM da 300 euro",
-      "link": "https://images.dday.it/ME6TRx-YdwCNVij2rbqpRQebg-56F7b2DwW1dZkXCfI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57574/5396f1_Snapdragon-C-Lifestyle-Education-Badge.jpg",
-      "excerpt": "Alle porte del Computex Qualcomm presenta una nuova piattaforma pensata per i laptop a basso costo. Non una i core Oryon e nessuno ha spiegato cosa ci sia all’interno. L’unico…",
-      "image": "https://images.dday.it/ME6TRx-YdwCNVij2rbqpRQebg-56F7b2DwW1dZkXCfI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57574/5396f1_Snapdragon-C-Lifestyle-Education-Badge.jpg",
-      "publishedAt": "2026-05-29T09:36:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     },
