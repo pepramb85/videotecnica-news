@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-05-31T13:21:23.488836+00:00",
+  "generatedAt": "2026-05-31T15:14:16.257714+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "One UI 8.5 anche sui modelli economici: update per Galaxy A16 5G, A17 5G e M55",
+      "link": "https://www.hdblog.it/smartphone/articoli/n659994/one-ui-85-samsung-galaxy-a16-a17-5g-m55-stabile/",
+      "excerpt": "Non solo flagship: Samsung pensa anche alla fascia bassa.",
+      "image": "https://hd2.tudocdn.net/1284029?w=660",
+      "publishedAt": "2026-05-31T14:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Amazfit T-Rex 3: sconto del 40% per chiudere maggio al meglio",
+      "link": "https://www.hdblog.it/indossabili/offerte/n659993/smartwatch-amazfit-t-rex-3-sconto-amazon/",
+      "excerpt": "L'Amazfit T-Rex 3 è uno smartwatch che garantisce resistenza, autonomia, qualità del display e monitoraggio completo di salute e sport. Oggi è scontato del 40% su Amazon.",
+      "image": "https://hd2.tudocdn.net/1346846?w=660",
+      "publishedAt": "2026-05-31T14:26:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "WhatsApp riporta una funzione dimenticata su Android",
+      "link": "https://www.hdblog.it/android/articoli/n659992/whatsapp-foto-rubrica-contatti-immagine-profilo/",
+      "excerpt": "Ve la ricordate?",
+      "image": "https://hd2.tudocdn.net/1340382?w=660",
+      "publishedAt": "2026-05-31T14:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Acer Swift Air 14 sfida MacBook Neo: arriverà a 799 euro",
+      "link": "https://www.tomshw.it/hardware/acer-swift-air-14-e-il-nuovo-notebook-ultraleggero-con-intel-core-series-3",
+      "excerpt": "Acer Swift Air 14 entra nella gamma Swift con una proposta molto chiara: portare i nuovi Intel Core Series 3 in un notebook da 14 pollici sottile, leggero, pensato per l’uso…",
+      "image": null,
+      "publishedAt": "2026-05-31T13:24:09+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "Acer anticipa Computex con Predator Atlas 8, Swift Spin 14 AI, Aspire Go 15",
       "link": "https://www.tomshw.it/hardware/acer-computex-swift-spin-14-ai-aspire-go-15-predator-atlas-8",
@@ -86,24 +122,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Radar invisibili per salvare i carri armati USA dai droni",
-      "link": "https://www.hdblog.it/droni/articoli/n659962/bae-systems-protezione-veicoli-usa/",
-      "excerpt": "L'esercito USA adotta i sistemi BAE Systems contro droni e missili per proteggere i carri armati.",
-      "image": "https://hd2.tudocdn.net/1346736?w=660",
-      "publishedAt": "2026-05-31T08:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Bose SoundTouch: come farlo rinascere con un chip ESP32 dopo lo stop del cloud",
-      "link": "https://www.hdblog.it/hardware/articoli/n659921/bose-soundtouch-hack-esp32-cloud-come-fare/",
-      "excerpt": "Una soluzione davvero geniale.",
-      "image": "https://hd2.tudocdn.net/1346676?w=660",
-      "publishedAt": "2026-05-31T08:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Il migliore chatbot vocale al mondo ora ha un’app per iPhone: Sesame per il momento è gratis",
       "link": "https://images.dday.it/1OA5fLCAR5Eaatwe8dGlO-PVmzX_mVUYG-eE_np_caU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57582/2b7092_small_sesame-personal-agents_copia.png",
       "excerpt": "Quella per Android ha una lista di attesa. Ora ci sono 4 agenti diversi per personalità, ma i modelli vocali restano allo stato dell’arte. L’LLM che li governa è passato da Gemma…",
@@ -111,15 +129,6 @@
       "publishedAt": "2026-05-31T08:01:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Mano robotica impara a suonare il pianoforte: ci mette solo due minuti",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n659960/mano-robotica-pianoforte-medicina/",
-      "excerpt": "Una mano robotica impara a suonare il pianoforte in due metri e apre a nuove terapie mediche.",
-      "image": "https://hd2.tudocdn.net/1346734?w=660",
-      "publishedAt": "2026-05-31T07:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "L'Italia chiede di cambiare il nome alla tensione elettrica: vuole Volta al posto di Volt",
@@ -154,15 +163,6 @@
       "excerpt": "Microsoft e NVIDIA hanno acceso l'attesa per un annuncio congiunto legato al mondo PC, usando lo stesso messaggio promozionale e una serie di coordinate che rimandano al Computex…",
       "image": null,
       "publishedAt": "2026-05-30T06:35:40+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Noctua prepara il suo primo AIO, e punta tutto sul silenzio",
-      "link": "https://www.tomshw.it/hardware/noctua-prepara-il-suo-primo-aio-e-punta-tutto-sul-silenzio",
-      "excerpt": "Noctua ha anticipato il suo primo AIO a liquido per CPU, un passaggio importante per un marchio che finora ha costruito la propria reputazione soprattutto su dissipatori ad aria e…",
-      "image": null,
-      "publishedAt": "2026-05-30T06:34:26+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
