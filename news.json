@@ -1,134 +1,233 @@
 {
-  "generatedAt": "2026-06-01T02:54:03.144603+00:00",
+  "generatedAt": "2026-06-01T09:15:00.390397+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "AMD festeggia i 10 anni di 3D V-Cache con un nuovo 5800X3D (e non solo)",
-      "link": "https://www.tomshw.it/hardware/amd-al-computex-nuovi-ryzen-x3d-rx-9070-gre-e-am5-fino-al-2029",
-      "excerpt": "AMD ha scelto Computex 2026 per rafforzare il proprio messaggio più riconoscibile nel mercato PC: continuità delle piattaforme, attenzione al gaming e una gamma hardware che prova…",
+      "title": "Telegram torna su Wear OS con l'app dedicata: avvistata nell'ultima beta",
+      "link": "https://www.hdblog.it/android/articoli/n660038/telegram-app-nativa-wear-os-avvistata/",
+      "excerpt": "Era stata rimossa nel 2021, ma sta per tornare",
+      "image": "https://hd2.tudocdn.net/1346938?w=660",
+      "publishedAt": "2026-06-01T09:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Un tempo “mattoni”, oggi smartphone rugged. Questo costa meno che mai",
+      "link": "https://www.tomshw.it/smartphone/lagenio-rhino-1-pro-in-offerta-a-soli-235eur-2026-06-01",
+      "excerpt": "Su Amazon è disponibile un'ottima offerta sul LAGENIO Rhino 1 Pro, lo smartphone rugged con Android 16, batteria da 12000 mAh, display da 6,9 a 120Hz e certificazioni IP68/IP69K.…",
       "image": null,
-      "publishedAt": "2026-06-01T02:20:13+00:00",
+      "publishedAt": "2026-06-01T08:58:21+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Gli Apple Glass sono in arrivo, ma il lancio slitta in avanti: cosa dicono gli ultimi rumor",
-      "link": "https://www.hdblog.it/indossabili/articoli/n660002/apple-glass-quando-escono-2027-smart-design/",
-      "excerpt": "Che tipo di prodotto saranno?",
-      "image": "https://hd2.tudocdn.net/1164869?w=660",
-      "publishedAt": "2026-05-31T17:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Su One UI 9 c'è una piccola novità che potrebbe migliorare la sicurezza dei Galaxy",
-      "link": "https://www.hdblog.it/smartphone/articoli/n660001/one-ui-9-samsung-menu-spegimento-sicurezza-blocco/",
-      "excerpt": "Dettagli che possono fare la differenza.",
-      "image": "https://hd2.tudocdn.net/1345437?w=660",
-      "publishedAt": "2026-05-31T16:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung Galaxy Watch 9 sarà anche Classic? Spunta l'indizio",
-      "link": "https://www.hdblog.it/indossabili/articoli/n660000/samsung-galaxy-watch-9-classic-leak-wear-os-ultra/",
-      "excerpt": "Una mossa inattesa: Samsung cambia strategia?",
-      "image": "https://hd2.tudocdn.net/1261227?w=660",
-      "publishedAt": "2026-05-31T16:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Huawei Mate 90 punterà forte sulla fotografia con teleconverter e novità per lo zoom",
-      "link": "https://www.hdblog.it/smartphone/articoli/n659999/huawei-mate-90-teleconverter-zoom-10x-fotocamera/",
-      "excerpt": "Cosa dicono gli ultimi rumor in arrivo dalla Cina.",
-      "image": "https://hd2.tudocdn.net/1346853?w=660",
-      "publishedAt": "2026-05-31T16:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Google Foto trasforma i Ricordi: in arrivo un editor video più avanzato",
-      "link": "https://www.hdblog.it/google/articoli/n659995/google-foto-ricordi-editor-video-come-modificare/",
-      "excerpt": "Google Foto diventa uno spazio sempre più creativo.",
-      "image": "https://hd2.tudocdn.net/1346850?w=660",
-      "publishedAt": "2026-05-31T15:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "One UI 8.5 anche sui modelli economici: update per Galaxy A16 5G, A17 5G e M55",
-      "link": "https://www.hdblog.it/smartphone/articoli/n659994/one-ui-85-samsung-galaxy-a16-a17-5g-m55-stabile/",
-      "excerpt": "Non solo flagship: Samsung pensa anche alla fascia bassa.",
-      "image": "https://hd2.tudocdn.net/1284029?w=660",
-      "publishedAt": "2026-05-31T14:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Amazfit T-Rex 3: sconto del 40% per chiudere maggio al meglio",
-      "link": "https://www.hdblog.it/indossabili/offerte/n659993/smartwatch-amazfit-t-rex-3-sconto-amazon/",
-      "excerpt": "L'Amazfit T-Rex 3 è uno smartwatch che garantisce resistenza, autonomia, qualità del display e monitoraggio completo di salute e sport. Oggi è scontato del 40% su Amazon.",
-      "image": "https://hd2.tudocdn.net/1346846?w=660",
-      "publishedAt": "2026-05-31T14:26:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "WhatsApp riporta una funzione dimenticata su Android",
-      "link": "https://www.hdblog.it/android/articoli/n659992/whatsapp-foto-rubrica-contatti-immagine-profilo/",
-      "excerpt": "Ve la ricordate?",
-      "image": "https://hd2.tudocdn.net/1340382?w=660",
-      "publishedAt": "2026-05-31T14:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Acer Swift Air 14 sfida MacBook Neo: arriverà a 799 euro",
-      "link": "https://www.tomshw.it/hardware/acer-swift-air-14-e-il-nuovo-notebook-ultraleggero-con-intel-core-series-3",
-      "excerpt": "Acer Swift Air 14 entra nella gamma Swift con una proposta molto chiara: portare i nuovi Intel Core Series 3 in un notebook da 14 pollici sottile, leggero, pensato per l’uso…",
+      "title": "Sembra una sedia da 100€, ma ti massaggia come una da 1000€",
+      "link": "https://www.tomshw.it/videogioco/sedia-gaming-massaggiante-in-offerta-a-soli-100eur-2026-06-01",
+      "excerpt": "Su Amazon è disponibile la Soberine, una poltrona ergonomica dotata di poggiatesta regolabile, poggiapiedi imbottito e cuscino lombare USB massaggiante. Grazie alle 24 molle…",
       "image": null,
-      "publishedAt": "2026-05-31T13:24:09+00:00",
+      "publishedAt": "2026-06-01T08:50:37+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Acer anticipa Computex con Predator Atlas 8, Swift Spin 14 AI, Aspire Go 15",
-      "link": "https://www.tomshw.it/hardware/acer-computex-swift-spin-14-ai-aspire-go-15-predator-atlas-8",
-      "excerpt": "Acer apre il percorso verso Computex 2026 con un trittico di prodotti che copre tre aree diverse del mercato PC: un convertibile premium per l'AI, un notebook mainstream basato su…",
+      "title": "Batterie al sodio, CATL punta alla produzione di massa già quest'anno",
+      "link": "https://images.dday.it/h4QIemdae9717JHdv7wFU9OQEmHVZT6hBC5tRD8JQlA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57586/dd2f23_catl_thumb.jpg",
+      "excerpt": "Il colosso cinese prepara la produzione di massa delle batterie agli ioni di sodio, puntando su materie prime più abbondanti, costi inferiori e applicazioni che vanno dalle auto…",
+      "image": "https://images.dday.it/h4QIemdae9717JHdv7wFU9OQEmHVZT6hBC5tRD8JQlA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57586/dd2f23_catl_thumb.jpg",
+      "publishedAt": "2026-06-01T08:49:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Dai un braccio al tuo monitor e trasforma il tuo modo di lavorare (ora in sconto)",
+      "link": "https://www.tomshw.it/hardware/braccio-monitor-nb-ergonomic-sconto-del-31-su-amazon-2026-06-01",
+      "excerpt": "Su Amazon è disponibile un'ottima offerta sul NB Ergonomic, compatibile con schermi da 32 a 60 pollici, piatti, ultrawide e curvi, con un carico massimo di 20 kg e supporto VESA…",
       "image": null,
-      "publishedAt": "2026-05-31T12:08:56+00:00",
+      "publishedAt": "2026-06-01T08:46:28+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Anche Acer ha i suoi occhiali smart: si parte da 399 euro",
-      "link": "https://www.tomshw.it/hardware/acer-occhiali-ai-ar-tablet-iconia-duo-computex-2026",
-      "excerpt": "Acer sposta il baricentro delle sue novità mobile verso occhiali intelligenti e realtà aumentata. Dopo aver già anticipato alcuni prodotti per il Computex 2026, l’azienda am...",
+      "title": "“Cambia questa email”: così Meta AI consegna gli account Instagram agli attaccanti",
+      "link": "https://images.dday.it/wXrQg1zhhDm5mVP3ut3hlUo7Kj7vLxppoUSnbZqk8Nw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57587/9a1d81_small_Depositphotos_383725762_XL_copia.jpg",
+      "excerpt": "Una falla nel supporto IA di Meta permette di ottenere codici di recupero per account Instagram altrui. Non è ancora chiaro se Meta abbia corretto il bug. Attivare subito la…",
+      "image": "https://images.dday.it/wXrQg1zhhDm5mVP3ut3hlUo7Kj7vLxppoUSnbZqk8Nw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57587/9a1d81_small_Depositphotos_383725762_XL_copia.jpg",
+      "publishedAt": "2026-06-01T08:46:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "NVIDIA GeForce RTX, tutte le nuove schede e PC annunciati al Computex",
+      "link": "https://www.hdblog.it/hardware/articoli/n660037/nvidia-geforce-rtx-50-computex-novita-schede/",
+      "excerpt": "Schede desktop, PC fissi preassemblati, laptop e anche qualche monitor.",
+      "image": "https://hd2.tudocdn.net/1346937?w=660",
+      "publishedAt": "2026-06-01T08:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Non solo sconti e VPN: con NordVPN hai anche un antivirus di ultima generazione",
+      "link": "https://www.tomshw.it/hardware/non-solo-sconti-e-vpn-con-nordvpn-hai-anche-un-antivirus-di-ultima-generazione",
+      "excerpt": "In un mercato altamente competitivo come quello delle VPN, mantenere la leadership non è sufficiente: bisogna continuare a innovare e dimostrare il proprio valore. È in questa…",
       "image": null,
-      "publishedAt": "2026-05-31T11:56:03+00:00",
+      "publishedAt": "2026-06-01T08:42:58+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Galaxy Z Fold 8 paparazzato: eccolo dal vivo e a confronto con Fold 8 Ultra",
-      "link": "https://www.hdblog.it/smartphone/articoli/n659989/galaxy-z-fold-8-ultra-wide-foto-leak-confronto/",
-      "excerpt": "Indovinate quale dei due è il \"liscio\" e quale l'Ultra.",
-      "image": "https://hd2.tudocdn.net/1343921?w=660",
-      "publishedAt": "2026-05-31T11:35:00+00:00",
+      "title": "Forse c'è un vero rivale per MacBook Neo: è il nuovo Dell XPS 13",
+      "link": "https://www.hdblog.it/portatili/articoli/n660025/dell-xps13-rivale-macbook-neo/",
+      "excerpt": "Ma 8 GB di RAM su Windows sono davvero sufficienti?",
+      "image": "https://hd2.tudocdn.net/1346906?w=660",
+      "publishedAt": "2026-06-01T08:40:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Hell Grind, il film girato interamente con l’AI non convince il pubblico",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n659925/hell-grind-girato-con-ai-non-convince-il-pubblico/",
-      "excerpt": "I movimenti risultano poco fluidi e la trama debole.",
-      "image": "https://hd2.tudocdn.net/1346667?w=660",
-      "publishedAt": "2026-05-31T11:25:00+00:00",
+      "title": "Sconti freschi fino al 31 agosto: la tua estate parte da PcComponentes",
+      "link": "https://www.tomshw.it/altro/sconti-freschi-fino-al-31-agosto-la-tua-estate-parte-da-pccomponentes",
+      "excerpt": "L’estate è finalmente arrivata e, con lei, anche la necessità di affrontare le giornate più calde nel modo più confortevole possibile. In questo periodo, PcComponente...",
+      "image": null,
+      "publishedAt": "2026-06-01T08:36:57+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "AMD lancia nuovi processori Ryzen 7 5800X3D e 7700X3D per gamer",
+      "link": "https://www.hdblog.it/hardware/articoli/n660029/amd-ryzen-7700x3d-5800x3d-computex-2026/",
+      "excerpt": "AMD presenta a Computex 2026 i chip octa-core Ryzen 7 7700X3D e 5800X3D dedicati ai videogiocatori.",
+      "image": "https://hd2.tudocdn.net/1346908?w=660",
+      "publishedAt": "2026-06-01T08:35:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Ducati Panigale V4 Tricolore: celebra la Repubblica nell'anno del centenario",
+      "link": "https://www.hdmotori.it/ducati-panigale-v4-tricolore/",
+      "excerpt": "Ducati celebra i 100 anni di storia e l'80° della Repubblica esponendo la nuova Panigale V4 Tricolore in Regione Emilia-Romagna.",
+      "image": "https://hd2.tudocdn.net/1346910?w=660",
+      "publishedAt": "2026-06-01T08:30:59+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Android e iOS: cosa cambia da oggi per gli utenti con le novità del DMA",
+      "link": "https://www.hdblog.it/smartphone/articoli/n658220/apple-google-dma-novita-quando-ios-android/",
+      "excerpt": "Prime novità da oggi, tanto altro in arrivo nei prossimi mesi.",
+      "image": "https://hd2.tudocdn.net/1346909?w=660",
+      "publishedAt": "2026-06-01T08:26:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Parti all’ultimo minuto e risparmia sulla tua prossima vacanza con questo coupon",
+      "link": "https://www.tomshw.it/altro/parti-allultimo-minuto-e-risparmia-sulla-tua-prossima-vacanza-con-questo-coupon",
+      "excerpt": "Partire all’ultimo minuto è diventata una scelta sempre più comune per chi desidera viaggiare senza troppi vincoli e, soprattutto, senza spendere cifre eccessive. Le offerte last…",
+      "image": null,
+      "publishedAt": "2026-06-01T08:23:29+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Wi-Fi in tutta la casa a 89€: il sistema mesh Tenda MW12 in kit da 3 è al minimo storico",
+      "link": "https://www.hdblog.it/hardware/offerte/n660028/tenda-mw12-sistema-mesh-wifi-offerta-amazon/",
+      "excerpt": "Il Tenda MW12, sistema Wi-Fi mesh tri-band AC1200 in confezione da 3 unità con porte Gigabit, crolla a 89,99€ su Amazon. Circa 30€ a nodo.",
+      "image": "https://hd2.tudocdn.net/1346903?w=660",
+      "publishedAt": "2026-06-01T08:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Fino al 40% di sconto: esplodono le offerte Days of Play su PCComponentes",
+      "link": "https://www.tomshw.it/videogioco/fino-al-40-di-sconto-esplodono-le-offerte-days-of-play-su-pccomponentes",
+      "excerpt": "Le offerte dei Days of Play su PCComponentes stanno registrando un forte interesse, grazie a sconti che arrivano fino al 40% su una vasta gamma di prodotti PlayStation. Si tratta…",
+      "image": null,
+      "publishedAt": "2026-06-01T08:09:21+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "NVIDIA al Computex lancia DLSS 4.5 Ray Reconstruction, come funziona",
+      "link": "https://www.hdblog.it/hardware/articoli/n660031/nvidia-dlss-4-5-ray-reconstruction-computex/",
+      "excerpt": "Da agosto su tutte le GeForce RTX.",
+      "image": "https://hd2.tudocdn.net/1346900?w=660",
+      "publishedAt": "2026-06-01T08:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "AMD lancia la Radeon RX 9070 GRE da 12 GB | Prezzi",
+      "link": "https://www.hdblog.it/hardware/articoli/n660020/amd-radeon-rx-9070-gre-prezzo-specifiche/",
+      "excerpt": "AMD lancia la Radeon RX 9070 GRE con architettura RDNA 4 e 12 GB di memoria a 549 dollari.",
+      "image": "https://hd2.tudocdn.net/1346892?w=660",
+      "publishedAt": "2026-06-01T07:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Da oggi scattano i rimborsi per i ritardi in autostrada a causa dei cantieri. Come funziona",
+      "link": "https://images.dday.it/0yfYGxqfQoKbnA0P7muZcAPcD74CHW0x8IlKvz_qMZQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57584/0e2de2_autostrada_thumb.jpg",
+      "excerpt": "L'importo del rimborso dipenderà dal ritardo e dalla lunghezza del viaggio... Leggi tutto",
+      "image": "https://images.dday.it/0yfYGxqfQoKbnA0P7muZcAPcD74CHW0x8IlKvz_qMZQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57584/0e2de2_autostrada_thumb.jpg",
+      "publishedAt": "2026-06-01T07:42:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Bolletta energetica in Italia: i prezzi di luce e gas a maggio",
+      "link": "https://www.hdblog.it/green/articoli/n660018/luce-gas-maggio-bolletta-energia-italia/",
+      "excerpt": "Il peso della crisi medio-orientale sui costi energetici delle famiglie italiane.",
+      "image": "https://hd2.tudocdn.net/1346895?w=660",
+      "publishedAt": "2026-06-01T07:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Con PICO Apple prova a superare i codec d’immagine tradizionali: meno bitrate, stessa qualità percepita",
+      "link": "https://images.dday.it/lycr1UMXxW-MGJwIKbikxdPRiUl31POh5p8oNdqsk6s/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57585/8a728a_small_Screenshot_2026-06-01_alle_09.23.03_copia.png",
+      "excerpt": "Apple sperimenta un codec che guarda meno ai pixel e più alla percezione umana. PICO promette file molto più leggeri ed è già abbastanza veloce da funzionare su iPhone... Leggi…",
+      "image": "https://images.dday.it/lycr1UMXxW-MGJwIKbikxdPRiUl31POh5p8oNdqsk6s/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57585/8a728a_small_Screenshot_2026-06-01_alle_09.23.03_copia.png",
+      "publishedAt": "2026-06-01T07:25:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Migliori smartphone sotto i 300€ (giugno 2026)",
+      "link": "https://www.tomshw.it/smartphone/migliori-smartphone-200-300-euro",
+      "excerpt": "Sempre più produttori stanno alzando l'asticella nella fascia media, e oggi uno smartphone sotto i 300 euro può offrire un'esperienza molto più completa rispetto al passato.…",
+      "image": null,
+      "publishedAt": "2026-06-01T06:35:29+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori smartwatch (giugno 2026)",
+      "link": "https://www.tomshw.it/guide/migliori-smartwatch",
+      "excerpt": "Lo smartwatch è diventato uno degli accessori tecnologici più utili da indossare ogni giorno, ma scegliere quello giusto è meno immediato di quanto sembri. I modelli migliori non…",
+      "image": null,
+      "publishedAt": "2026-06-01T06:33:50+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "RTX Spark: NVIDIA prova a reinventare il PC Windows nell'era degli agenti AI",
+      "link": "https://images.dday.it/eyYwwqQd9RrF4vrnaJM01AGL6WWPM_cnHd9MgDS6jcs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57583/7baee5_rtxmain.jpg",
+      "excerpt": "Si chiamerà RTX Spark la piattaforma basata su processore ARM sviluppata da NVIDIA con la collaborazione di Microsoft per portare Windows nell'era degli agenti AI. NVIDIA parla di…",
+      "image": "https://images.dday.it/eyYwwqQd9RrF4vrnaJM01AGL6WWPM_cnHd9MgDS6jcs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57583/7baee5_rtxmain.jpg",
+      "publishedAt": "2026-06-01T06:11:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Anthropic siede accanto al Papa, e l'etica rischia di diventare brand",
+      "link": "https://www.tomshw.it/business/anthropic-siede-accanto-al-papa-e-letica-rischia-di-diventare-brand-2026-06-01",
+      "excerpt": "Anthropic si è seduta accanto a Papa Leone XIV per la presentazione dell'enciclica Magnifica Humanitas, il testo dedicato alla tutela della persona nell'epoca dell'intelligenza…",
+      "image": null,
+      "publishedAt": "2026-06-01T06:02:07+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Il migliore chatbot vocale al mondo ora ha un’app per iPhone: Sesame per il momento è gratis",
@@ -158,15 +257,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Microsoft e NVIDIA fanno salire l'attesa per il chip N1X",
-      "link": "https://www.tomshw.it/hardware/microsoft-e-nvidia-fanno-salire-lattesa-per-il-chip-n1x",
-      "excerpt": "Microsoft e NVIDIA hanno acceso l'attesa per un annuncio congiunto legato al mondo PC, usando lo stesso messaggio promozionale e una serie di coordinate che rimandano al Computex…",
-      "image": null,
-      "publishedAt": "2026-05-30T06:35:40+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "HERE mappa l’Italia in 3D: sulle strade i veicoli per censire anche i cartelli e i negozi",
       "link": "https://images.dday.it/mXmBT-K4R1JAoY8xVyZSyARVHoD8WD7Kfr88CH7eJw8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57445/85f9b8_here_thumb.jpg",
       "excerpt": "Fino a luglio, i veicoli HERE percorreranno le strade in diverse città italiane per raccogliere dati ad alta precisione e creare mappe più realistiche e più dettagliate... Leggi…",
@@ -176,42 +266,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Groq cerca nuovi fondi dopo il maxi accordo con NVIDIA",
-      "link": "https://www.tomshw.it/hardware/groq-cerca-nuovi-fondi-dopo-il-maxi-accordo-con-nvidia",
-      "excerpt": "Groq starebbe cercando di raccogliere 650 milioni di dollari in nuovi fondi, con l'obiettivo di accelerare il proprio business nel cloud per l'inferenza AI. La notizia conta…",
-      "image": null,
-      "publishedAt": "2026-05-29T19:36:44+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "NVIDIA esce vincitrice dal trimestre da record di Dell",
-      "link": "https://www.tomshw.it/hardware/nvidia-esce-vincitrice-dal-trimestre-da-record-di-dell",
-      "excerpt": "NVIDIA esce rafforzata dal trimestre record di Dell, che ha messo nero su bianco numeri molto superiori alle attese grazie alla corsa ai server per l'intelligenza artificiale. Il…",
-      "image": null,
-      "publishedAt": "2026-05-29T18:56:52+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Fable non ce la fa, è stato rinviato e ora ha una nuova data",
-      "link": "https://www.tomshw.it/videogioco/fable-rinviato-svelata-la-nuova-data-di-uscita-2026-05-29",
-      "excerpt": "Nel panorama videoludico del 2026, già affollato di titoli attesi con grande trepidazione, Microsoft ha scelto di fare un passo indietro strategico riguardo a uno dei suoi…",
-      "image": null,
-      "publishedAt": "2026-05-29T17:05:27+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "AliExpress shock! Arrivano gli sconti più incredibili dell'anno, ma devi agire ora!",
-      "link": "https://www.tomshw.it/altro/aliexpress-shock-arrivano-gli-sconti-piu-incredibili-dellanno-ma-devi-agire-ora",
-      "excerpt": "Se pensavi di aver già visto le migliori offerte dell'anno, preparati a ricrederti. AliExpress ha appena dato il via a una campagna promozionale senza precedenti, rilasciando una…",
-      "image": null,
-      "publishedAt": "2026-05-29T15:02:13+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Droni DJI sotto accusa negli USA per la sicurezza nazionale, ma l’audit non trova falle gravi né canali nascosti",
       "link": "https://images.dday.it/UvP5JiNg5LwJV6kpD4_XgvoacK1N6aTE8ZyqyAjzoHE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57578/28f4eb_small_Screenshot_2026-05-29_alle_16.43.19_copia.png",
       "excerpt": "OnDefend ha testato Air 3S e Matrice 4E contro rischi di fuga dati, manomissione e vulnerabilità hardware. Il risultato rafforza la difesa di DJI, che dice che i suoi droni sono…",
@@ -219,60 +273,6 @@
       "publishedAt": "2026-05-29T14:45:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "BYD annuncia il processore da 4nm per la guida autonoma e la copertura totale contro gli incidenti",
-      "link": "https://images.dday.it/Xz_i2pTZbbQDVRnT9AAgbB4R32F7KNoo5RWxE4cLidA/w:329/h:256/rt:fill/plain/s3%3A%2F%2Fdday-production%2Fsystem%2Fuploads%2Fnews%2Fsquare_crop_img%2F57577%2Fc0b528_%E9%85%8D%E5%9B%BE2.jpg",
-      "excerpt": "BYD è la prima azienda automobilistica a offrire una copertura totale sugli eventuali incidenti provocati dal sistema di guida autonoma. Presentato il primo processore cinese a…",
-      "image": "https://images.dday.it/Xz_i2pTZbbQDVRnT9AAgbB4R32F7KNoo5RWxE4cLidA/w:329/h:256/rt:fill/plain/s3%3A%2F%2Fdday-production%2Fsystem%2Fuploads%2Fnews%2Fsquare_crop_img%2F57577%2Fc0b528_%E9%85%8D%E5%9B%BE2.jpg",
-      "publishedAt": "2026-05-29T14:07:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "La Commissione Ue congela l'ingresso dei cinesi in MediaWorld: sospetto aiuto di Stato",
-      "link": "https://images.dday.it/bVPoSRDjA5Z3ir9U2auLA9Y2I4xf-bRzmOwN96begns/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57576/f18366_Depositphotos_620916954_XL.jpg",
-      "excerpt": "Il sospetto è che JD.com abbia potuto fare una offerta così ghiotta perché ha ricevuto aiuto da Pechino. JD respinge le accuse, tra 90 giorni la decisione. ... Leggi tutto",
-      "image": "https://images.dday.it/bVPoSRDjA5Z3ir9U2auLA9Y2I4xf-bRzmOwN96begns/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57576/f18366_Depositphotos_620916954_XL.jpg",
-      "publishedAt": "2026-05-29T12:48:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Ci sono buchi neri supermassicci nati prima delle loro galassie. Ora c'è la conferma",
-      "link": "https://images.dday.it/9QwEs3-aorQrMni9wnlFvcF5M2qGXjkNGqHhT7HABWg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57573/fdd687_STScI-01KR482A7ZQEB4NJCM25BP8GA8.png",
-      "excerpt": "Sono nati prima i buchi neri supermassicci o le galassie? Grazie al telescopio spaziale James Webb abbiamo una risposta che mette in discussione la nostra comprensione…",
-      "image": "https://images.dday.it/9QwEs3-aorQrMni9wnlFvcF5M2qGXjkNGqHhT7HABWg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57573/fdd687_STScI-01KR482A7ZQEB4NJCM25BP8GA8.png",
-      "publishedAt": "2026-05-29T10:48:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Connessi ovunque con il router portatile TP-Link M7000: ora in offerta su Amazon a soli 39,99 euro",
-      "link": "https://images.dday.it/93Z92QuQU9UWmifKeJVh6lU8tmb3niWmoNlEPVkU8pQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/53430/0da701_ape2.jpg",
-      "excerpt": "Compatto, leggero e ideale per restare connessi ovunque: il router portatile TP-Link M7000 è in sconto su Amazon: la soluzione smart per avere Wi-Fi affidabile anche in viaggio…",
-      "image": "https://images.dday.it/93Z92QuQU9UWmifKeJVh6lU8tmb3niWmoNlEPVkU8pQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/53430/0da701_ape2.jpg",
-      "publishedAt": "2026-05-29T10:37:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Iliad oggi spegne 8 candeline in Italia. Riproposte due tariffe Plus “storiche” con 250 e 300 giga",
-      "link": "https://images.dday.it/dJ_0EsfNyiG7lTTL7o_6Q1z_JLfvmQzAJKvQpNi1h8A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57575/dd8ad5_small_snapshot_copia.jpg",
-      "excerpt": "TOP 250 PLUS e TOP 300 PLUS sono già attive ma chiuderanno i battenti nel pomeriggio del 30 giugno... Leggi tutto",
-      "image": "https://images.dday.it/dJ_0EsfNyiG7lTTL7o_6Q1z_JLfvmQzAJKvQpNi1h8A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57575/dd8ad5_small_snapshot_copia.jpg",
-      "publishedAt": "2026-05-29T10:25:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Alienware festeggia i 30 anni con quattro monitor gaming (e c'è anche un XPS 13)",
-      "link": "https://www.tomshw.it/hardware/alienware-computex-2026-monitor-oled-xps-13",
-      "excerpt": "Dell porta a Computex una nuova generazione di prodotti pensati per il gaming e la produttività mobile, con Alienware al centro della scena. La novità più importante è una...",
-      "image": null,
-      "publishedAt": "2026-05-28T14:43:16+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     }
   ]
 }
