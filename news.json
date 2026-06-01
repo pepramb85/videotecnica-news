@@ -1,17 +1,125 @@
 {
-  "generatedAt": "2026-06-01T15:52:00.283192+00:00",
+  "generatedAt": "2026-06-01T20:12:14.247340+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "La fortezza mobile di Rezvani, il pick-up a prova di apocalisse",
-      "link": "https://www.hdmotori.it/rezvani-fortress-pick-up/",
-      "excerpt": "Il Rezvani Fortress sfida l'apocalisse con un kit di sopravvivenza estremo e prezzi che superano i 580.000 dollari",
-      "image": "https://hd2.tudocdn.net/1347064?w=660",
-      "publishedAt": "2026-06-01T15:30:48+00:00",
+      "title": "Anthropic starebbe considerando di far usare Mythos all’Agenzia per la cybersicurezza europea",
+      "link": "https://images.dday.it/HEOsNWBOhZozqr7SB5pbUd6A4lQ_rG8T_HjPfC7lxJg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57595/617501_Screenshot_2026-06-01_alle_20.13.02.png",
+      "excerpt": "Voci raccolte da Bloomberg e non smentite completamente dal portavoce della difesa e della sovranità tecnologica Thomas Regnier ... Leggi tutto",
+      "image": "https://images.dday.it/HEOsNWBOhZozqr7SB5pbUd6A4lQ_rG8T_HjPfC7lxJg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57595/617501_Screenshot_2026-06-01_alle_20.13.02.png",
+      "publishedAt": "2026-06-01T18:14:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Intel prepara la sua GPU AI: più efficiente ed economica rispetto a NVIDIA e AMD",
+      "link": "https://www.hdblog.it/hardware/articoli/n660107/intel-gpu-ai-inferenza-lpddr5-dissipatore-aria/",
+      "excerpt": "Sono pensate per le operazioni di inferenza, non di addestramento, e userà memorie economiche e si potrà raffreddare ad aria.",
+      "image": "https://hd2.tudocdn.net/879897?w=660",
+      "publishedAt": "2026-06-01T18:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Microsoft Build 2026: cosa aspettarsi. Focus su AI e Windows 11",
+      "link": "https://www.hdblog.it/microsoft/articoli/n660103/microsoft-build-2026-novita-windows-11-ai/",
+      "excerpt": "Le anticipazioni di Tom Warren di The Verge.",
+      "image": "https://hd2.tudocdn.net/1347095?w=660",
+      "publishedAt": "2026-06-01T17:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "MSI, ecco Claw 8 EX AI+, il suo primo handheld basato su Intel Arc G3",
+      "link": "https://www.hdblog.it/hardware/articoli/n660101/msi-computex-claw-8-ex-ai-intel-arc-g3/",
+      "excerpt": "Il prezzo potrebbe essere proibitivo, però. 1.500 dollari, si vocifera.",
+      "image": "https://hd2.tudocdn.net/1347092?w=660",
+      "publishedAt": "2026-06-01T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Beats, nuove cuffie in arrivo: teaser con Lamine Yamal del Barça",
+      "link": "https://www.hdblog.it/indossabili/articoli/n660098/beats-teaser-nuove-cuffie-lamine-yamal/",
+      "excerpt": "Forse le eredi di Beats Studio Pro con un nuovo design e una colorazione piuttosto insolita.",
+      "image": "https://hd2.tudocdn.net/1347088?w=660",
+      "publishedAt": "2026-06-01T17:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Rolls-Royce Silver Shadow I, la capsula del tempo da poco più di 900 km",
+      "link": "https://www.hdmotori.it/rolls-royce-silver-shadow-capsula-tempo/",
+      "excerpt": "Questa Rolls-Royce Silver Shadow del 1977 è considerata un pezzo irripetibile, che non ricapiterà più nel mondo del collezionismo",
+      "image": "https://hd2.tudocdn.net/1347091?w=660",
+      "publishedAt": "2026-06-01T17:00:53+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nuovo metodo del MIT permette di estrarre litio a temperatura ambiente",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n660016/estrazione-litio-temperatura-ambiente-mit/",
+      "excerpt": "Scienziati del MIT estraggono litio a temperatura ambiente azzerando i rifiuti minerari.",
+      "image": "https://hd2.tudocdn.net/1347033?w=660",
+      "publishedAt": "2026-06-01T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "BYD pagherà per gli incidenti causati dal suo FSD: così sfida Tesla",
+      "link": "https://www.hdmotori.it/byd-paghera-incidenti-fsd/",
+      "excerpt": "Il colosso cinese si assume la responsabilità legale ed economica degli incidenti causati dal proprio sistema di guida autonoma supervisionata, in contrapposizione con il modello…",
+      "image": "https://hd2.tudocdn.net/1347087?w=660",
+      "publishedAt": "2026-06-01T16:30:12+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "ASUS ROG festeggia i suoi 20 anni al Computex con tanti prodotti a tema anniversario",
+      "link": "https://www.tomshw.it/hardware/asus-rog-edition-20-computex-2026",
+      "excerpt": "ASUS Republic of Gamers ha scelto il Computex 2026 per presentare la nuova famiglia ROG Edition 20, una collezione speciale pensata per celebrare i vent'anni del marchio. Non si…",
+      "image": null,
+      "publishedAt": "2026-06-01T16:27:51+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "ASUS Sfida i MacBook Pro con i laptop ProArt basati su NVIDIA RTX Spark",
+      "link": "https://www.hdblog.it/portatili/articoli/n660096/asus-proart-p14-p16-nvidia-rtx-spark-macbook-pro/",
+      "excerpt": "Macchine estremamente ambiziose che arriveranno quest'autunno. Prezzi ancora ignoti per il momento.",
+      "image": "https://hd2.tudocdn.net/1347084?w=660",
+      "publishedAt": "2026-06-01T16:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Social vietati ai minori di 15 anni in Italia: la legge è pronta",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n660068/social-vietati-ai-minori-15-anni-in-italia-legge/",
+      "excerpt": "Manca solo l'OK del governo",
+      "image": "https://hd2.tudocdn.net/1206880?w=660",
+      "publishedAt": "2026-06-01T16:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Xiaomi ha prodotto un condizionatore a pavimento super potente",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n660094/xiaomi-mijia-condizionatore-pavimento-3-cv/",
+      "excerpt": "Ideale per ambienti molto grandi... E portafogli belli profondi.",
+      "image": "https://hd2.tudocdn.net/1347065?w=660",
+      "publishedAt": "2026-06-01T16:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "HP svela OmniDesk Mini, PC AI con Intel Core Ultra",
+      "link": "https://www.tomshw.it/hardware/hp-svela-omnidesk-mini-pc-ai-con-intel-core-ultra",
+      "excerpt": "HP OmniDesk Mini è il nuovo mini PC annunciato da HP per portare capacità di intelligenza artificiale locale in una macchina compatta, pensata per creator, sviluppatori e…",
+      "image": null,
+      "publishedAt": "2026-06-01T15:54:49+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Crolla il prezzo del Philips Serie 3000X: ora costa solo 44,90 €",
@@ -23,24 +131,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Smart TV Samsung bloccate da misterioso pop-up: cosa succede e come risolvere",
-      "link": "https://www.hdblog.it/tv/articoli/n660082/samsung-smart-tv-pop-up-polyfill-come-risolvere/",
-      "excerpt": "Meglio non inserire nessun dato.",
-      "image": "https://hd2.tudocdn.net/1347051?w=660",
-      "publishedAt": "2026-06-01T15:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Android, il supporto ad Apple AirDrop tramite Quick Share arriva anche su Xiaomi",
-      "link": "https://www.hdblog.it/smartphone/articoli/n660090/xiaomi-17t-pro-airdrop-supporto-apple-iphone-mac/",
-      "excerpt": "Per ora solo su 17T Pro, ma speriamo sia solo il primo di tanti!",
-      "image": "https://hd2.tudocdn.net/1345956?w=660",
-      "publishedAt": "2026-06-01T15:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Intel Arc G3 da nuova vita al mondo handheld",
       "link": "https://www.tomshw.it/hardware/intel-arc-g3-nuova-vita-handheld-2026-06-01",
       "excerpt": "Intel ha deciso di giocare le sue carte con una mossa che potrebbe ridisegnare gli equilibri del settore handheld. La casa di Santa Clara ha presentato ufficialmente la famiglia…",
@@ -48,24 +138,6 @@
       "publishedAt": "2026-06-01T15:00:52+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Ritorna un mito balcanico per fronteggiare Dacia con prezzi più economici",
-      "link": "https://www.hdmotori.it/yugo-ritorno-sfida-dacia/",
-      "excerpt": "Yugo lancia il guanto di sfida a Dacia con un'utilitaria da soli 12.000 euro. Prototipo su strada già nel 2027",
-      "image": "https://hd2.tudocdn.net/1347048?w=660",
-      "publishedAt": "2026-06-01T15:00:28+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Poco X8 Pro arriva anche in colorazione Bold Yellow: nuovo colore e nuovo prezzo",
-      "link": "https://www.hdblog.it/smartphone/articoli/n660086/poco-x8-pro-nuovo-colore-bold-yellow/",
-      "excerpt": "Xiaomi punta a rivitalizzare il suo medio gamma più interessante",
-      "image": "https://hd2.tudocdn.net/1347040?w=660",
-      "publishedAt": "2026-06-01T14:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "ASUS ProArt abbraccia RTX Spark per i nuovi PC AI",
@@ -77,15 +149,6 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Samsung porterà sul mercato un nuovo modello di Galaxy Fit",
-      "link": "https://www.hdblog.it/indossabili/articoli/n660084/samsung-sviluppa-nuovo-modello-galaxy-fit/",
-      "excerpt": "Il nuovo Galaxy Fit 4 arriverà a settembre.",
-      "image": "https://hd2.tudocdn.net/1347036?w=660",
-      "publishedAt": "2026-06-01T14:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Pensavi che gli eBook reader avrebbero scansato l’IA? Ti sbagliavi",
       "link": "https://images.dday.it/UGP1cdgMzhpH3F4tmrn1L4gqoQzBUFQVzhk6-RJoci0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57593/fa56a2_small_Immagine_1_generata__1__copia.png",
       "excerpt": "E Ink e MediaTek hanno unito le forze per lanciare due SoC con capacità di calcoli IA che governeranno i futuri dispositivi a inchiostro elettronico. 7,4 TOPS saranno sufficienti…",
@@ -93,42 +156,6 @@
       "publishedAt": "2026-06-01T14:37:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "L'ascesa dei brand cinesi nel mercato TV: gli storici accordi di Sony e Panasonic | VIDEO",
-      "link": "https://www.hdblog.it/tv/articoli/n659796/mercato-tv-sony-tcl-panasonic-skyworth-cina/",
-      "excerpt": "L'ascesa dei brand cinesi pare inarrestabile anche nel mercato delle televisioni. Capiamo la situazione analizzando i recenti accordi tra Sony-TCL e Panasonic-Skyworth.",
-      "image": "https://hd2.tudocdn.net/1346388?w=660",
-      "publishedAt": "2026-06-01T14:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "BMW: in arrivo una nuova versione per il SUV iX3",
-      "link": "https://www.hdmotori.it/bmw-nuova-versione-suv-ix3/",
-      "excerpt": "La Casa bavarese si prepara al lancio dell'iX3 40 con 635 km WLTP, Black Package per M Performance e tante tecnologie all’avanguardia",
-      "image": "https://hd2.tudocdn.net/1347045?w=660",
-      "publishedAt": "2026-06-01T14:30:30+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Due Spicci di Zerocalcare: la serie sulla precarietà accusata di sfruttamento",
-      "link": "https://www.hdblog.it/mercato/articoli/n660074/zerocalcare-due-spicci-accuse-sfruttamento-lavoro/",
-      "excerpt": "Accuse respinte categoricamente dalla casa produttrice.",
-      "image": "https://hd2.tudocdn.net/1347034?w=660",
-      "publishedAt": "2026-06-01T14:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Linux 7.1-rc6 è più contenuta della rc5: per Linus Torvalds il ciclo resta regolare",
-      "link": "https://www.hdblog.it/linux/articoli/n660078/linux-71-rc6-ciclo-regolare-torvalds/",
-      "excerpt": "Il grosso delle modifiche riguarda i driver",
-      "image": "https://hd2.tudocdn.net/1347028?w=660",
-      "publishedAt": "2026-06-01T14:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "QD-OLED 4K a 360 Hz, è record: Samsung Display prepara il pannello per i monitor gaming più spinti",
@@ -194,15 +221,6 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Acer annuncia un monitor portatile che sembra fatto per l’auto",
-      "link": "https://www.tomshw.it/hardware/acer-pm131qt-monitor-portatile-auto",
-      "excerpt": "Acer ha presentato un monitor portatile che prova a uscire dal formato classico del secondo schermo da viaggio. Il modello si chiama PM131QT e usa un pannello largo e basso, più…",
-      "image": null,
-      "publishedAt": "2026-06-01T13:16:57+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Lo switch off delle reti in rame previsto dal Digital Networks Act potrebbe essere illegittimo. Ecco perché",
       "link": "https://images.dday.it/w5P1hIO2hM7RZG1FdEm1RsEdd6IPdcn5JfI0y26Tb4c/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57590/01f26c_guillaume-perigois-wVqC9dty3VQ-unsplash.jpg",
       "excerpt": "Un esperto di diritto europeo, su richiesta di Connect Europe, ha evidenziato come il piano di switch off del rame nei Paesi membri, mirato a favorire l'adozione della FTTH,…",
@@ -210,15 +228,6 @@
       "publishedAt": "2026-06-01T13:12:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "I robot finiscono negli Airbnb: una startup è nei guai",
-      "link": "https://www.tomshw.it/hardware/robot-startup-affitti-brevi-san-francisco",
-      "excerpt": "Una startup da miliardi sta finendo al centro di una disputa molto concreta: appartamenti affittati, cavi ovunque e robot testati lontano dai laboratori tradizionali. Alcuni host…",
-      "image": null,
-      "publishedAt": "2026-06-01T13:09:03+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "In vigore la direttiva case green, l’Europa chiede edifici più efficienti anche nelle ristrutturazioni. L’Italia parte in ritardo",
@@ -253,15 +262,6 @@
       "excerpt": "Una falla nel supporto IA di Meta permette di ottenere codici di recupero per account Instagram altrui. Non è ancora chiaro se Meta abbia corretto il bug. Attivare subito la…",
       "image": "https://images.dday.it/wXrQg1zhhDm5mVP3ut3hlUo7Kj7vLxppoUSnbZqk8Nw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57587/9a1d81_small_Depositphotos_383725762_XL_copia.jpg",
       "publishedAt": "2026-06-01T08:46:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Da oggi scattano i rimborsi per i ritardi in autostrada a causa dei cantieri. Come funziona",
-      "link": "https://images.dday.it/0yfYGxqfQoKbnA0P7muZcAPcD74CHW0x8IlKvz_qMZQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57584/0e2de2_autostrada_thumb.jpg",
-      "excerpt": "L'importo del rimborso dipenderà dal ritardo e dalla lunghezza del viaggio... Leggi tutto",
-      "image": "https://images.dday.it/0yfYGxqfQoKbnA0P7muZcAPcD74CHW0x8IlKvz_qMZQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57584/0e2de2_autostrada_thumb.jpg",
-      "publishedAt": "2026-06-01T07:42:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     },
