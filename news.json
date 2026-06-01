@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-05-31T22:53:18.874746+00:00",
+  "generatedAt": "2026-06-01T02:54:03.144603+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "AMD festeggia i 10 anni di 3D V-Cache con un nuovo 5800X3D (e non solo)",
+      "link": "https://www.tomshw.it/hardware/amd-al-computex-nuovi-ryzen-x3d-rx-9070-gre-e-am5-fino-al-2029",
+      "excerpt": "AMD ha scelto Computex 2026 per rafforzare il proprio messaggio più riconoscibile nel mercato PC: continuità delle piattaforme, attenzione al gaming e una gamma hardware che prova…",
+      "image": null,
+      "publishedAt": "2026-06-01T02:20:13+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "Gli Apple Glass sono in arrivo, ma il lancio slitta in avanti: cosa dicono gli ultimi rumor",
       "link": "https://www.hdblog.it/indossabili/articoli/n660002/apple-glass-quando-escono-2027-smart-design/",
@@ -149,15 +158,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "La \"Magnifica Humanitas\" della AI WEEK 2026",
-      "link": "https://www.tomshw.it/business/la-magnifica-humanitas-della-ai-week-2026",
-      "excerpt": "La Magnifica Humanitas della AI WEEK 2026 Prima di tutto: grazie. Grazie a chi è passato a salutare Pasquale Viscanti e Giacinto Fiore durante la AI WEEK, a chi li ha fermati…",
-      "image": null,
-      "publishedAt": "2026-05-30T06:35:51+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Microsoft e NVIDIA fanno salire l'attesa per il chip N1X",
       "link": "https://www.tomshw.it/hardware/microsoft-e-nvidia-fanno-salire-lattesa-per-il-chip-n1x",
       "excerpt": "Microsoft e NVIDIA hanno acceso l'attesa per un annuncio congiunto legato al mondo PC, usando lo stesso messaggio promozionale e una serie di coordinate che rimandano al Computex…",
@@ -239,15 +239,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Migliori scrivanie per casa e ufficio (maggio 2026)",
-      "link": "https://www.tomshw.it/offerte/scrivania-da-ufficio-pc-migliori",
-      "excerpt": "Una buona scrivania per casa e ufficio non serve soltanto a poggiare notebook, monitor e documenti: è il centro della postazione, quindi incide su ordine, postura e continuità del…",
-      "image": null,
-      "publishedAt": "2026-05-29T12:05:48+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Ci sono buchi neri supermassicci nati prima delle loro galassie. Ora c'è la conferma",
       "link": "https://images.dday.it/9QwEs3-aorQrMni9wnlFvcF5M2qGXjkNGqHhT7HABWg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57573/fdd687_STScI-01KR482A7ZQEB4NJCM25BP8GA8.png",
       "excerpt": "Sono nati prima i buchi neri supermassicci o le galassie? Grazie al telescopio spaziale James Webb abbiamo una risposta che mette in discussione la nostra comprensione…",
@@ -273,6 +264,15 @@
       "publishedAt": "2026-05-29T10:25:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
+    },
+    {
+      "title": "Alienware festeggia i 30 anni con quattro monitor gaming (e c'è anche un XPS 13)",
+      "link": "https://www.tomshw.it/hardware/alienware-computex-2026-monitor-oled-xps-13",
+      "excerpt": "Dell porta a Computex una nuova generazione di prodotti pensati per il gaming e la produttività mobile, con Alienware al centro della scena. La novità più importante è una...",
+      "image": null,
+      "publishedAt": "2026-05-28T14:43:16+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     }
   ]
 }
