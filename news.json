@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-06-01T23:22:06.861158+00:00",
+  "generatedAt": "2026-06-02T02:51:14.016114+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "ASUS ExpertBook B5 Flip G2 è il convertibile business da portare dappertutto",
+      "link": "https://www.tomshw.it/hardware/asus-expertbook-b5-flip-g2-convertibile-computex-2026",
+      "excerpt": "ASUS amplia la famiglia ExpertBook con ExpertBook B5 Flip G2 (B5406FMA), un portatile convertibile da 14 pollici pensato per aziende, professionisti, studenti e docenti che hanno…",
+      "image": null,
+      "publishedAt": "2026-06-02T02:44:50+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Corsair porta a Computex case, dissipatori e alimentatori di nuova generazione",
+      "link": "https://www.tomshw.it/hardware/corsair-porta-al-computex-case-alimentatori-e-raffreddamento-per-pc-fai-da-te",
+      "excerpt": "Corsair ha scelto il Computex 2026 per mostrare una nuova ondata di componenti dedicati a chi assembla il PC in autonomia, con un catalogo che copre case, alimentatori, sistemi di…",
+      "image": null,
+      "publishedAt": "2026-06-02T02:28:47+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "ASUS: tante novità al Computex per un'AI più accessibile",
+      "link": "https://www.hdblog.it/hardware/articoli/n660027/asus-laptop-copilot-ai-novita-computex-2026/",
+      "excerpt": "Laptop, AiO e ASUS Pad tra le novità.",
+      "image": "https://hd2.tudocdn.net/1346943?w=660",
+      "publishedAt": "2026-06-02T01:31:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "ASUS Ascent QN10: l'AI entra nel mondo dei mini-PC grazie a Snapdragon X2 Elite",
+      "link": "https://www.hdblog.it/hardware/articoli/n659789/asus-ascent-qn10-mini-pc-snapdragon-x2-elite-ai/",
+      "excerpt": "Potenza di calcolo ed efficienza energetica in meno di 0,7 litri.",
+      "image": "https://hd2.tudocdn.net/1346397?w=660",
+      "publishedAt": "2026-06-02T01:30:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Tapo D205 in super offerta: il videocitofono che tutti vogliono, ora costa meno",
       "link": "https://images.dday.it/rE7MeG87Y2R42PECKrRYvLck6zFDIBR7peQadhkG5Ww/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57596/508b41_ape1.jpg",
@@ -104,24 +140,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Social vietati ai minori di 15 anni in Italia: la legge è pronta",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n660068/social-vietati-ai-minori-15-anni-in-italia-legge/",
-      "excerpt": "Manca solo l'OK del governo",
-      "image": "https://hd2.tudocdn.net/1206880?w=660",
-      "publishedAt": "2026-06-01T16:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Xiaomi ha prodotto un condizionatore a pavimento super potente",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n660094/xiaomi-mijia-condizionatore-pavimento-3-cv/",
-      "excerpt": "Ideale per ambienti molto grandi... E portafogli belli profondi.",
-      "image": "https://hd2.tudocdn.net/1347065?w=660",
-      "publishedAt": "2026-06-01T16:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "HP svela OmniDesk Mini, PC AI con Intel Core Ultra",
       "link": "https://www.tomshw.it/hardware/hp-svela-omnidesk-mini-pc-ai-con-intel-core-ultra",
       "excerpt": "HP OmniDesk Mini è il nuovo mini PC annunciato da HP per portare capacità di intelligenza artificiale locale in una macchina compatta, pensata per creator, sviluppatori e…",
@@ -176,11 +194,20 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Galaxy Buds4 Pro: oggi il colore bianco è l’affare più conveniente",
-      "link": "https://www.tomshw.it/smartphone/samsung-galaxy-buds4-pro-in-offerta-a-soli-204eur-su-amazon-2026-06-01",
-      "excerpt": "Su Amazon è disponibile un'ottima offerta per le Samsung Galaxy Buds4 Pro White, gli auricolari premium con altoparlante a 2 vie, ANC migliorata e Galaxy AI con comandi vocali.…",
+      "title": "Recensione AMD Radeon RX 9070 GRE: la Golden Rabbit Edition debutta in Europa",
+      "link": "https://www.tomshw.it/hardware/recensione-amd-radeon-rx-9070-gre-la-golden-rabbit-edition-debutta-in-europa",
+      "excerpt": "AMD amplia la gamma Europea di RX 9000 con una variante che fino a oggi era rimasta confinata al mercato cinese: la Radeon RX 9070 GRE. La sigla “GRE”, acronimo di Golden Rabbit…",
       "image": null,
-      "publishedAt": "2026-06-01T13:53:02+00:00",
+      "publishedAt": "2026-06-01T13:51:37+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "ASUS porta l'AI PC ovunque: nuovi Zenbook, Vivobook, desktop e tablet",
+      "link": "https://www.tomshw.it/hardware/asus-porta-lai-pc-ovunque-nuovi-zenbook-vivobook-desktop-e-tablet",
+      "excerpt": "ASUS ha scelto il Computex 2026 per allargare la propria idea di AI PC. La nuova gamma non si limita ai portatili premium, ma mette insieme notebook, desktop, all-in-one, tablet e…",
+      "image": null,
+      "publishedAt": "2026-06-01T13:46:20+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -192,42 +219,6 @@
       "publishedAt": "2026-06-01T13:45:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "RTX 5060 e prezzo shock: questo notebook è già in modalità Prime Day",
-      "link": "https://www.tomshw.it/hardware/asus-v16-con-rtx-5060-in-offerta-a-soli-1449eur-2026-06-01",
-      "excerpt": "Su Amazon è disponibile un'ottima offerta sull'ASUS V16 V3607VM, notebook da 16 con display LED Anti-glare a 144Hz, scheda video NVIDIA GeForce RTX 5060, processore Intel Core 7…",
-      "image": null,
-      "publishedAt": "2026-06-01T13:44:58+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "MacBook Air M5 a prezzo minimo storico: ora sì che conviene",
-      "link": "https://www.tomshw.it/hardware/macbook-air-m5-in-offerta-su-amazon-a-soli-1099eur-2026-06-01",
-      "excerpt": "Su Amazon è disponibile il nuovo Apple MacBook Air 13'' con chip M5 nella colorazione Celeste, una macchina pensata per l'intelligenza artificiale con 16GB di memoria unificata,…",
-      "image": null,
-      "publishedAt": "2026-06-01T13:39:37+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Anno 117: Pax Romana incontra il Black Deal! Quasi a metà prezzo oggi su Amazon",
-      "link": "https://www.tomshw.it/videogioco/anno-117-pax-romana-ps5-sconto-del-42-su-amazon-2026-06-01",
-      "excerpt": "Su Amazon è disponibile una straordinaria offerta su ANNO 117: Pax Romana per PS5, il nuovo capitolo della celebre saga di city-building ambientato all'apice dell'Impero romano.…",
-      "image": null,
-      "publishedAt": "2026-06-01T13:35:47+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Portala ovunque. Al mare, in montagna, ovunque: suono potente e resistente all’acqua",
-      "link": "https://www.tomshw.it/smartphone/ue-miniroll-in-offerta-su-amazon-47-2026-06-01",
-      "excerpt": "Su Amazon è disponibile l'Ultimate Ears MINIROLL, l'altoparlante Bluetooth ultraportatile con protezione IP67, resistente ad acqua e polvere. Offre un suono potente con bassi…",
-      "image": null,
-      "publishedAt": "2026-06-01T13:32:36+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Lo switch off delle reti in rame previsto dal Digital Networks Act potrebbe essere illegittimo. Ecco perché",
@@ -271,6 +262,15 @@
       "excerpt": "Past Maps è un sito che georeferenzia centottantacinquemila mappe storiche su due secoli, e da qualche mese costruisce il proprio pubblico con strumenti che il marketing digitale…",
       "image": null,
       "publishedAt": "2026-06-01T06:10:12+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Snapdragon X2 Elite arriva sui desktop: ecco ASUS Ascent QN10",
+      "link": "https://www.tomshw.it/hardware/snapdragon-x2-elite-arriva-sui-desktop-ecco-asus-ascent-qn10-2026-05-28",
+      "excerpt": "Nel panorama dei personal computer, la miniaturizzazione ha spesso significato compromessi prestazionali. Con il lancio dell'ASUS Ascent QN10, presentato al Computex 2026, questo…",
+      "image": null,
+      "publishedAt": "2026-05-28T14:43:51+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
