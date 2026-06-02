@@ -1,168 +1,186 @@
 {
-  "generatedAt": "2026-06-02T13:54:37.082619+00:00",
+  "generatedAt": "2026-06-02T18:01:32.125945+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "La modalità Xbox inizia a comparire su Windows 11",
-      "link": "https://www.hdblog.it/microsoft/articoli/n660159/windows-11-modalita-xbox-pc/",
-      "excerpt": "I PC Windows 11 si trasformano in console grazie alla nuova interfaccia Xbox gestibile da controller.",
-      "image": "https://hd2.tudocdn.net/1347157?w=660",
-      "publishedAt": "2026-06-02T13:45:00+00:00",
+      "title": "Microsoft, ecco il primo miniPC Surface: un dev kit basato su NVIDIA RTX Spark",
+      "link": "https://www.hdblog.it/hardware/articoli/n660176/microsoft-surface-rtx-spark-dev-box-ufficiale/",
+      "excerpt": "Per ora non sappiamo quanto costerà né quando arriverà, ma è molto probabile che sarà parecchio caro.",
+      "image": "https://hd2.tudocdn.net/1347180?w=660",
+      "publishedAt": "2026-06-02T17:45:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Samsung porta le opere più famose di Much sui TV The Frame",
-      "link": "https://www.hdblog.it/tv/articoli/n660153/samsung-opere-di-much-sui-tv-the-frame/",
-      "excerpt": "La selezione include opere come “L’Urlo” e “Il Sole”.",
-      "image": "https://hd2.tudocdn.net/1347153?w=660",
-      "publishedAt": "2026-06-02T13:25:00+00:00",
+      "title": "Age of Empires II, la Definitive Edition è finalmente arrivata su Mac!",
+      "link": "https://www.hdblog.it/apple/articoli/n660174/age-of-empires-ii-definitive-edition-macos/",
+      "excerpt": "Per ora solo passando da Steam: chi vuole una versione App Store dovrà pazientare ancora qualche settimana / mese.",
+      "image": "https://hd2.tudocdn.net/1347177?w=660",
+      "publishedAt": "2026-06-02T17:15:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Mercato moto e scooter maggio 2026: le vendite crescono del 8,45%",
-      "link": "https://www.hdmotori.it/mercato-moto-scooter-maggio-2026-dati-ancma/",
-      "excerpt": "Boom di scooter a maggio (+14%), stabili le moto. Il mercato delle due ruote cresce del 13% nei primi cinque mesi del 2026",
-      "image": "https://hd2.tudocdn.net/1347156?w=660",
-      "publishedAt": "2026-06-02T13:00:34+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Al Mugello con Lenovo e Ducati per scoprire i segreti tech della MotoGP",
-      "link": "https://www.hdblog.it/lenovo/speciali/n659991/al-mugello-con-lenovo-e-ducati-a-scoprire-i-segreti-tech-della-motogp/",
-      "excerpt": "La partnership tra Lenovo e Ducati in MotoGP non è soltanto una sponsorizzazione, bensì una collaborazione strategica dalla quale entrambe le parti traggono benefici importanti.",
-      "image": "https://hd2.tudocdn.net/1346827?w=660",
-      "publishedAt": "2026-06-02T12:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Google Foto: arriva la funzione per esportare foto e video più recenti",
-      "link": "https://www.hdblog.it/google/articoli/n660138/google-foto-esportare-foto-e-video-recenti/",
-      "excerpt": "L’opzione apparirà in Google Takeout.",
-      "image": "https://hd2.tudocdn.net/1347135?w=660",
-      "publishedAt": "2026-06-02T12:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Reolink, arrivano due nuove famiglie di videocamere di sorveglianza",
-      "link": "https://www.hdblog.it/domotica/articoli/n660152/reolink-omvi-power-efficient-videosorveglianza/",
-      "excerpt": "OMVI racchiude le soluzioni più potenti e sofisticate, Power-Efficient invece è per ridurre i consumi.",
-      "image": "https://hd2.tudocdn.net/1347154?w=660",
-      "publishedAt": "2026-06-02T12:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Le auto più vendute in Italia a maggio 2026: la classifica completa",
-      "link": "https://www.hdmotori.it/auto-piu-vendute-italia-maggio-2026-classifica/",
-      "excerpt": "Il mercato italiano sta attraversando una fase positiva. A maggio, in base ai dati diffusi dal MIT, le immatricolazioni sono state 150.096",
-      "image": "https://hd2.tudocdn.net/1347155?w=660",
-      "publishedAt": "2026-06-02T12:00:05+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Microsoft, nuovo mega-caso Antitrust all'orizzonte? La FTC indaga su cloud e AI",
-      "link": "https://www.hdblog.it/microsoft/articoli/n660151/microsoft-antitrust-usa-ftc-ai-cloud-azure/",
-      "excerpt": "A quanto pare la pratica è stata aperta già nel 2024 ma è ancora in fase preliminare.",
-      "image": "https://hd2.tudocdn.net/1347095?w=660",
-      "publishedAt": "2026-06-02T11:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "OpenAI copia il mitico Clippy: la novità è dentro Codex",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n660125/openai-copia-il-mitico-clippy-la-novita-e-dentro-codex/",
-      "excerpt": "Nuovi compagni animati guidati dall'AI arrivano su OpenAI Codex per assistere i programmatori.",
-      "image": "https://hd2.tudocdn.net/1347130?w=660",
-      "publishedAt": "2026-06-02T11:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Microsoft rilascia le nuove ISO per le versioni preview di Windows 11",
-      "link": "https://www.hdblog.it/microsoft/articoli/n660147/microsoft-nuove-iso-windows-11/",
-      "excerpt": "Arrivano le nuove ISO per le installazioni pulite delle ultime versioni di Windows 11",
-      "image": "https://hd2.tudocdn.net/1336518?w=660",
-      "publishedAt": "2026-06-02T11:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Apple AirPods 4: auricolari USB-C più accessibili per chi usa iPhone",
-      "link": "https://www.tomshw.it/smartphone/apple-airpods-4-auricolari-usb-c-amazon-2026-06-02",
-      "excerpt": "Apple AirPods 4 sono gli auricolari wireless pensati per chi vuole restare nell'ecosistema Apple con un modello aggiornato, più comodo e con custodia USB-C. Il prezzo attuale è di…",
+      "title": "HYTE porta al Computex 2026 un sacco di accessori RGB da abbinare ai case",
+      "link": "https://www.tomshw.it/hardware/hyte-computex-2026-ventole-rgb-hub-argb-accessori",
+      "excerpt": "HYTE porta al Computex 2026 una lineup pensata per allargare il proprio ecosistema PC oltre i case più noti. Oltre al Y50 RGB Essential, l'azienda presenta una serie di componenti…",
       "image": null,
-      "publishedAt": "2026-06-02T09:34:51+00:00",
+      "publishedAt": "2026-06-02T17:10:21+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "USB-C 3 pezzi: il kit di cavi conveniente da tenere tra scrivania e zaino",
-      "link": "https://www.tomshw.it/smartphone/iniu-usb-c-3-pezzi-kit-cavi-amazon-2026-06-02",
-      "excerpt": "Il kit INIU USB-C da 3 pezzi è una di quelle offerte piccole ma utili, perché i cavi sono accessori che servono sempre tra scrivania, zaino e comodino. Il prezzo attuale è di…",
+      "title": "HYTE Y50 RGB debutta al Computex: costa meno di 100 dollari",
+      "link": "https://www.tomshw.it/hardware/hyte-y50-rgb-computex-2026",
+      "excerpt": "HYTE sceglie Computex 2026 per allargare verso il basso la propria famiglia di case panoramici. Il nuovo Y50 RGB Essential Aesthetic Case nasce con un obiettivo molto chiaro:…",
       "image": null,
-      "publishedAt": "2026-06-02T09:34:20+00:00",
+      "publishedAt": "2026-06-02T17:09:34+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "JBL Quantum 100X: headset gaming cablato economico, ora più facile da consigliare",
-      "link": "https://www.tomshw.it/videogioco/jbl-quantum-100x-headset-gaming-amazon-2026-06-02",
-      "excerpt": "JBL Quantum 100X è un headset gaming cablato pensato per chi vuole spendere poco ma avere cuffie dedicate a gioco e chat vocale. L'offerta lo porta a 29,99€ con sconto del 25%,…",
+      "title": "iPhone Ultra, iOS 27 adatterà in automatico le app al display interno | Rumor",
+      "link": "https://www.hdblog.it/smartphone/articoli/n660171/ios-27-iphone--ultra-split-screen-app-automatico/",
+      "excerpt": "La Mela si accerta di avere tutto pronto per il suo primo \"Fold\".",
+      "image": "https://hd2.tudocdn.net/1321644?w=660",
+      "publishedAt": "2026-06-02T17:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "MSI mostra a Computex il primo monitor triple mode, insieme a tante altre novità",
+      "link": "https://www.tomshw.it/hardware/msi-computex-2026-componenti-pc-diy",
+      "excerpt": "MSI ha scelto COMPUTEX 2026 per mostrare una nuova ondata di componenti dedicati al PC fai-da-te, con un messaggio molto chiaro: non basta più inseguire solo le prestazioni,…",
       "image": null,
-      "publishedAt": "2026-06-02T09:33:04+00:00",
+      "publishedAt": "2026-06-02T17:03:33+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Gli agenti AI che funzionano, per funzione aziendale",
-      "link": "https://www.tomshw.it/aioperator/gli-agenti-ai-che-funzionano-per-funzione-aziendale-2026-06-02",
-      "excerpt": "Decidere dove iniziare con gli agenti AI in azienda è la domanda che riceve più richieste di consulenza nei team IT del 2026, e quasi mai si risponde con un framework concreto. La…",
+      "title": "MSI porta a Computex la nuova Claw 8 EX AI+ e una versione speciale di Titan 18 HX",
+      "link": "https://www.tomshw.it/hardware/msi-porta-a-computex-la-nuova-claw-8-ex-ai-e-una-versione-speciale-di-titan-18-hx-2026-05-28",
+      "excerpt": "Quarant'anni di storia nel mondo dell'hardware: MSI sceglie il palcoscenico di COMPUTEX 2026 a Taipei per presentare una lineup che racconta quanto l'azienda taiwanese abbia…",
       "image": null,
-      "publishedAt": "2026-06-02T08:54:41+00:00",
+      "publishedAt": "2026-06-02T16:43:08+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Come usiamo davvero l'AI nel 2026, e perché non assomiglia a quello che racconta il marketing",
-      "link": "https://www.tomshw.it/business/come-usiamo-davvero-lai-nel-2026-e-perche-non-assomiglia-a-quello-che-racconta-i-2026-06-02",
-      "excerpt": "Un'inchiesta pubblicata da Harvard Business Review nel giugno 2026 racconta cosa fanno davvero le persone con l'AI generativa, e il quadro che emerge è molto distante dalle slide…",
+      "title": "MSI Prestige N16 Flip AI+ è il primo laptop MSI con NVIDIA RTX Spark",
+      "link": "https://www.tomshw.it/hardware/msi-prestige-n16-flip-ai-plus-nvidia-rtx-spark",
+      "excerpt": "MSI apre un nuovo capitolo per la famiglia Prestige a COMPUTEX 2026 con Prestige N16 Flip AI+, il primo laptop dell'azienda sviluppato con NVIDIA e basato sulla nuova piattaforma…",
       "image": null,
-      "publishedAt": "2026-06-02T08:54:40+00:00",
+      "publishedAt": "2026-06-02T16:37:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "L'illusione dell'automazione, i direttori operativi soffrono mentre i CEO festeggiano",
-      "link": "https://www.tomshw.it/business/lillusione-dellautomazione-i-direttori-operativi-soffrono-mentre-i-ceo-festeggia-2026-06-02",
-      "excerpt": "I direttori operativi di Nike, Sysco e Box raccontano una storia molto diversa da quella che gli amministratori delegati delle stesse aziende portano agli investitori. Nelle…",
+      "title": "ASUS, nuovo VivoWatch al Computex: sempre più funzioni healthcare",
+      "link": "https://www.hdblog.it/indossabili/articoli/n660169/asus-vivowatch-6-computex-specifiche-novita/",
+      "excerpt": "Migliorano i materiali, display più grande, e monitoraggio più avanzato.",
+      "image": "https://hd2.tudocdn.net/1347173?w=660",
+      "publishedAt": "2026-06-02T16:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Computex 2026, l'IA esce dagli schermi e diventa sistema",
+      "link": "https://www.tomshw.it/hardware/computex-2026-ia-esce-schermi-diventa-sistema",
+      "excerpt": "Computex 2026 si apre a Taipei con un messaggio molto netto: l'intelligenza artificiale non è più soltanto un software da interrogare attraverso uno schermo, ma una nuova…",
       "image": null,
-      "publishedAt": "2026-06-02T08:54:39+00:00",
+      "publishedAt": "2026-06-02T16:29:06+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Anthropic si prepara a entrare in borsa, sarà la quotazione più grande di sempre",
-      "link": "https://www.tomshw.it/business/anthropic-si-prepara-a-entrare-in-borsa-sara-la-quotazione-piu-grande-di-sempre-2026-06-02",
-      "excerpt": "Anthropic ha depositato confidenzialmente il modulo S-1 alla Securities and Exchange Commission statunitense, primo passo formale verso la quotazione in borsa. La notizia…",
+      "title": "ChatGPT di nuovo in tribunale: \"cultura tossica di menzogne\"",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n660156/chatgpt-tribunale-cultura-tossica-menzogne/",
+      "excerpt": "Succede in Florida",
+      "image": "https://hd2.tudocdn.net/1347170?w=660",
+      "publishedAt": "2026-06-02T16:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Microsoft Teams, in arrivo un Download Manager per ridurre le notifiche",
+      "link": "https://www.hdblog.it/microsoft/articoli/n660167/microsoft-teams-download-manager-notifiche/",
+      "excerpt": "In distribuzione su Web e desktop, entro fine mese per tutti.",
+      "image": "https://hd2.tudocdn.net/1347168?w=660",
+      "publishedAt": "2026-06-02T16:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Computex 2026: le novità be quiet! tra case, PSU e cooler con LCD",
+      "link": "https://www.tomshw.it/hardware/be-quiet-porta-al-computex-2026-alimentatori-dissipatori-lcd-e-periferiche-io",
+      "excerpt": "be quiet! ha scelto il Computex 2026 per mostrare una roadmap particolarmente ampia, costruita attorno al nuovo ecosistema IO Center e a una serie di prodotti pensati per PC…",
       "image": null,
-      "publishedAt": "2026-06-02T08:54:39+00:00",
+      "publishedAt": "2026-06-02T15:58:53+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "L'AI non è per tagliare costi, è per crescere",
-      "link": "https://www.tomshw.it/business/lai-non-e-per-tagliare-costi-e-per-crescere-2026-06-02",
-      "excerpt": "Harvard Business Review ha pubblicato un'analisi che ribalta il senso comune sul ritorno degli investimenti in AI. La maggior parte delle aziende oggi adotta l'intelligenza…",
+      "title": "Meta acquisisce ARI, la startup che vuole dare un cervello ai robot",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n660126/meta-acquisizione-robot-umanoidi/",
+      "excerpt": "Meta acquisisce la startup ARI per sviluppare il software di controllo dei futuri robot umanoidi.",
+      "image": "https://hd2.tudocdn.net/1347160?w=660",
+      "publishedAt": "2026-06-02T15:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Clutch è un Forza Horizon con più storia e più personalizzazione delle auto | Trailer",
+      "link": "https://www.hdblog.it/games/articoli/n660165/clutch-arcade-racing-open-world-narrativa/",
+      "excerpt": "Un veterano di Playground Games si è messo in testa di raccontare anche una bella storia.",
+      "image": "https://hd2.tudocdn.net/1347166?w=660",
+      "publishedAt": "2026-06-02T15:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Galaxy Z Fold 8 Ultra: rumor su fotocamere, batteria e peso",
+      "link": "https://www.hdblog.it/smartphone/articoli/n660162/samsung-galaxy-z-fold-8-wide-fotocamera-batteria/",
+      "excerpt": "L'identikit si fa sempre più completo.",
+      "image": "https://hd2.tudocdn.net/1273127?w=660",
+      "publishedAt": "2026-06-02T14:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google Pixel 9a in offerta su Amazon a 309€: nuovo minimo storico per lo smartphone",
+      "link": "https://www.hdblog.it/smartphone/offerte/n660161/google-pixel-9a-offerta-amazon-giugno-2026/",
+      "excerpt": "Il Google Pixel 9a è in offerta su Amazon ed è ora disponibile al prezzo minimo storico pari a 309 euro.",
+      "image": "https://hd2.tudocdn.net/1249727?w=660",
+      "publishedAt": "2026-06-02T14:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nvidia gioca tutto sulla physical AI, dal world model al robot umanoide open",
+      "link": "https://www.tomshw.it/business/nvidia-gioca-tutto-sulla-physical-ai-dal-world-model-al-robot-umanoide-open-2026-06-02",
+      "excerpt": "Nvidia ha trasformato il GTC di Taipei in un keynote sulla physical AI, presentando un world model generativo (Cosmos), un computer di guida autonoma di nuova generazione (Drive…",
       "image": null,
-      "publishedAt": "2026-06-02T08:54:34+00:00",
+      "publishedAt": "2026-06-02T08:54:46+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Pacchetti Red Hat backdoorati sul canale NPM ufficiale, la catena del software perde un pezzo",
+      "link": "https://www.tomshw.it/business/pacchetti-red-hat-backdoorati-sul-canale-npm-ufficiale-la-catena-del-software-pe-2026-06-02",
+      "excerpt": "Decine di pacchetti pubblicati sul canale ufficiale Red Hat del registry NPM sono risultati compromessi da backdoor che esfiltrano credenziali, token cloud e chiavi di firma. La…",
+      "image": null,
+      "publishedAt": "2026-06-02T08:54:45+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "L'oversight degli agenti AI è ancora debole, dobbiamo renderlo più forte",
+      "link": "https://www.tomshw.it/aioperator/loversight-degli-agenti-ai-e-ancora-debole-dobbiamo-renderlo-piu-forte-2026-06-02",
+      "excerpt": "L'oversight sugli agenti AI in azienda è ancora un'infrastruttura immatura, mentre le capability dei modelli avanzano di settimana in settimana. Jack Clark scriveva di recente su…",
+      "image": null,
+      "publishedAt": "2026-06-02T08:54:44+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -174,15 +192,6 @@
       "publishedAt": "2026-06-02T08:41:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il rollout confuso dell'AI fa già male alle aziende, ecco come metterlo a posto",
-      "link": "https://www.tomshw.it/aioperator/il-rollout-confuso-dellai-fa-gia-male-alle-aziende-ecco-come-metterlo-a-posto-2026-06-02",
-      "excerpt": "Il rollout disordinato dell'intelligenza artificiale dentro le aziende sta producendo costi che superano i benefici dichiarati. La BBC racconta in un reportage come l'adozione AI…",
-      "image": null,
-      "publishedAt": "2026-06-02T08:09:14+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Tapo D205 in super offerta: il videocitofono che tutti vogliono, ora costa meno",
@@ -246,15 +255,6 @@
       "publishedAt": "2026-06-01T13:12:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Su Spotify il nuovo episodio di Tech IT Easy: si possono davvero stampare le case in 3D?",
-      "link": "https://www.tomshw.it/scienze/su-spotify-il-nuovo-episodio-di-tech-it-easy-si-possono-davvero-stampare-le-case-in-3d",
-      "excerpt": "Dalle piccole stampanti 3D presenti nelle case di molti appassionati fino a macchine grandi abbastanza da costruire edifici interi. Sembra fantascienza, eppure è una tecnologia…",
-      "image": null,
-      "publishedAt": "2026-06-01T10:38:05+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "In vigore la direttiva case green, l’Europa chiede edifici più efficienti anche nelle ristrutturazioni. L’Italia parte in ritardo",
