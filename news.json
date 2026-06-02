@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T18:01:32.125945+00:00",
+  "generatedAt": "2026-06-02T22:18:21.928759+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
@@ -113,15 +113,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Computex 2026: le novità be quiet! tra case, PSU e cooler con LCD",
-      "link": "https://www.tomshw.it/hardware/be-quiet-porta-al-computex-2026-alimentatori-dissipatori-lcd-e-periferiche-io",
-      "excerpt": "be quiet! ha scelto il Computex 2026 per mostrare una roadmap particolarmente ampia, costruita attorno al nuovo ecosistema IO Center e a una serie di prodotti pensati per PC…",
-      "image": null,
-      "publishedAt": "2026-06-02T15:58:53+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Meta acquisisce ARI, la startup che vuole dare un cervello ai robot",
       "link": "https://www.hdblog.it/tecnologia/articoli/n660126/meta-acquisizione-robot-umanoidi/",
       "excerpt": "Meta acquisisce la startup ARI per sviluppare il software di controllo dei futuri robot umanoidi.",
@@ -140,10 +131,10 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Galaxy Z Fold 8 Ultra: rumor su fotocamere, batteria e peso",
+      "title": "Galaxy Z Fold 8 \"Wide\" ancora protagonista: rumor su fotocamere, batteria e peso",
       "link": "https://www.hdblog.it/smartphone/articoli/n660162/samsung-galaxy-z-fold-8-wide-fotocamera-batteria/",
       "excerpt": "L'identikit si fa sempre più completo.",
-      "image": "https://hd2.tudocdn.net/1273127?w=660",
+      "image": "https://hd2.tudocdn.net/1341512?w=660",
       "publishedAt": "2026-06-02T14:45:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
@@ -273,6 +264,15 @@
       "publishedAt": "2026-06-01T10:07:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
+    },
+    {
+      "title": "Provato Rayman Legends: Retold, un remake che potrebbe stupirvi",
+      "link": "https://www.tomshw.it/videogioco/provato-rayman-legends-retold",
+      "excerpt": "C'era una volta un platform che riusciva a far sentire ogni livello come una piccola opera d'arte in movimento; non un gioco che puntava sull'epica o sulla narrativa, ma…",
+      "image": null,
+      "publishedAt": "2026-06-01T07:34:32+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     }
   ]
 }
