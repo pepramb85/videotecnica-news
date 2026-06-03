@@ -1,35 +1,215 @@
 {
-  "generatedAt": "2026-06-03T14:23:07.831691+00:00",
+  "generatedAt": "2026-06-03T19:42:37.546004+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Windrose mette il data center AI dentro un container",
-      "link": "https://www.tomshw.it/automotive/windrose-mette-il-data-center-ai-dentro-un-container",
-      "excerpt": "Windrose ha avviato una partnership strategica con LiFe-Younger per provare a trasformare in prodotto reale il suo concept di data center AI mobile: non un edificio, ma un sistema…",
-      "image": null,
-      "publishedAt": "2026-06-03T14:18:49+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "L’AI ha un problema enorme, e non sono solo i chip",
-      "link": "https://www.tomshw.it/hardware/big-tech-costruisce-data-center-ma-lai-resta-frenata",
-      "excerpt": "Meta, Apple, Microsoft, Amazon e Alphabet stanno accelerando sugli investimenti per l’AI, ma la costruzione di nuovi impianti non basta a eliminare il collo di bottiglia…",
-      "image": null,
-      "publishedAt": "2026-06-03T14:15:24+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Google Home, ora Nest Cam riconosce gli animali domestici con Pet Memory",
-      "link": "https://www.hdblog.it/google/articoli/n660247/google-home-pet-memory-ask-gemini-italia-update/",
-      "excerpt": "E Ask Home arriva anche in Italia.",
-      "image": "https://hd2.tudocdn.net/1292952?w=660",
-      "publishedAt": "2026-06-03T14:15:00+00:00",
+      "title": "MacBook Neo in sconto: per tanti è la scelta giusta per un nuovo notebook",
+      "link": "https://www.hdblog.it/portatili/offerte/n660305/macbook-neo-offerta-psprgiu26/",
+      "excerpt": "Il MacBook Neo è in offerta e diventa uno dei notebook più interessanti sul mercato, soprattutto per gli utenti alla ricerca di un modello economico e di qualità.",
+      "image": "https://hd2.tudocdn.net/1328356?w=660",
+      "publishedAt": "2026-06-03T19:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Smartphone più venduti del mese: vince Galaxy S26 grazie ai Tab in omaggio | VIDEO",
+      "link": "https://www.hdblog.it/smartphone/speciali/n659932/smartphone-piu-venduti-galaxy-s26-ultra-offerta/",
+      "excerpt": "Tra gli smartphone più venduti a maggio era scontato trovare Galaxy S26 Ultra: si trova a 999 euro con un tablet da circa 600 euro di valore in omaggio. Probabilmente è l'affare…",
+      "image": "https://hd2.tudocdn.net/1327645?w=660",
+      "publishedAt": "2026-06-03T19:00:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Switch 2, c'è un Nintendo Direct dietro l'angolo: ecco la data anticipata dai leak",
+      "link": "https://www.hdblog.it/nintendo/articoli/n660300/nintendo-direct-giugno-ora-data-quando-switch-2/",
+      "excerpt": "Finalmente stiamo per scoprire il futuro di Switch 2?",
+      "image": "https://hd2.tudocdn.net/1347447?w=660",
+      "publishedAt": "2026-06-03T18:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "HP porta RTX Spark sui nuovi OmniBook: AI locale per creator e gamer",
+      "link": "https://www.tomshw.it/hardware/hp-omnibook-rtx-spark-computex-2026",
+      "excerpt": "HP ha scelto il Computex 2026 per spingere ancora più avanti il concetto di AI PC, presentando una nuova generazione di dispositivi Windows pensati per sviluppatori, creator e…",
+      "image": null,
+      "publishedAt": "2026-06-03T18:16:56+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "TRYX ha fatto un dissipatore con schermo olografico: questa e altre novità dal COMPUTEX",
+      "link": "https://www.tomshw.it/hardware/tryx-ha-fatto-un-dissipatore-con-schermo-olografico-questa-e-altre-novita-dal-computex-2026-06-03",
+      "excerpt": "TRYX ha scelto il palcoscenico del COMPUTEX 2026 di Taipei per presentare una visione ambiziosa e coerente del proprio futuro, portando in mostra prodotti capaci di ridisegnare il…",
+      "image": null,
+      "publishedAt": "2026-06-03T17:41:46+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Google sceglie Marvell, le sue TPU AI hanno un nuovo alleato",
+      "link": "https://www.tomshw.it/hardware/google-sceglie-marvell-le-sue-tpu-ai-hanno-un-nuovo-alleato",
+      "excerpt": "Google avrebbe affidato a Marvell lo sviluppo di un chip di rete personalizzato per la prossima generazione delle sue TPU, un passaggio importante perché sposta l’attenzione dal…",
+      "image": null,
+      "publishedAt": "2026-06-03T17:31:16+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Apple Music Classical annuncia partnership con una prestigiosa sala concerti",
+      "link": "https://www.hdblog.it/smartphone/articoli/n660263/apple-music-classical-partnership-sala-concerti/",
+      "excerpt": "Un'istituzione londinese",
+      "image": "https://hd2.tudocdn.net/1347439?w=660",
+      "publishedAt": "2026-06-03T17:30:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "L’AI sta mostrando i limiti delle infrastrutture aziendali",
+      "link": "https://www.tomshw.it/business/ai-limiti-infrastrutture-aziendali",
+      "excerpt": "C’è un momento in cui molti progetti basati su intelligenza artificiale iniziano a non funzionare come previsto. Non in fase di test, ma quando entrano in produzione. È lì c...",
+      "image": null,
+      "publishedAt": "2026-06-03T17:01:14+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Bombardieri B-1B: ora sono pronti per le armi ipersoniche",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n660192/b1b-lancer-missili-ipersonici/",
+      "excerpt": "Boeing e l'aviazione Usa aggiornano il B-1B Lancer per trasportare missili ipersonici.",
+      "image": "https://hd2.tudocdn.net/1347206?w=660",
+      "publishedAt": "2026-06-03T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Meta ha fatto strage di account fasulli: chiusi oltre 1 milione di profili",
+      "link": "https://www.hdblog.it/business/articoli/n660264/meta-chiude-account-falsi/",
+      "excerpt": "Meta ha contribuito a smantellare una rete asiatica che perpetrava truffe online, cancellando milioni di account.",
+      "image": "https://hd2.tudocdn.net/1346991?w=660",
+      "publishedAt": "2026-06-03T16:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "realme C100 5G, lo smartphone economico che punta tutto sulla resistenza",
+      "link": "https://www.hdblog.it/realme/articoli/n660240/realme-c100-5g-lo-smartphone-economico-che-punta-tutto-sulla-resistenza/",
+      "excerpt": "C’è una cosa che succede più spesso di quanto vorremmo ammettere: lo smartphone cade. Dalla tasca, dal tavolo, dal divano, dallo zaino, dal supporto dell’auto, magari...",
+      "image": "https://hd2.tudocdn.net/1347315?w=660",
+      "publishedAt": "2026-06-03T16:31:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Toyota, il più grande colosso dell'auto al mondo non è più la prima azienda del Giappone",
+      "link": "https://www.hdmotori.it/toyota-seconda-azienda-giappone/",
+      "excerpt": "Sorpasso storico in Borsa per SoftBank, che dopo 23 anni toglie la vetta a Toyota come punto di riferimento per valore in Giappone",
+      "image": "https://hd2.tudocdn.net/1347440?w=660",
+      "publishedAt": "2026-06-03T16:30:21+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Pokémon Champions su smartphone è vicino: l'app Android e iOS ha una data",
+      "link": "https://www.hdblog.it/games/articoli/n660293/pokemon-champions-data-android-ios-smartphone/",
+      "excerpt": "Pronti a megaevolvere Charizard Y direttamente dallo smartphone?",
+      "image": "https://hd2.tudocdn.net/1331038?w=660",
+      "publishedAt": "2026-06-03T16:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Silo torna su Apple TV: ecco la data e il trailer ufficiale della stagione 3",
+      "link": "https://www.hdblog.it/apple/articoli/n655868/trailer-silo-apple-tv-luglio/",
+      "excerpt": "La stagione 3 di Silo arriva il 3 luglio su Apple TV esplorando le origini dei bunker.",
+      "image": "https://hd2.tudocdn.net/1337578?w=660",
+      "publishedAt": "2026-06-03T16:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "LYNK+ torna a COMPUTEX con nuovi prodotti per il raffreddamento liquido",
+      "link": "https://www.tomshw.it/hardware/lynk-torna-a-computex-con-un-ecosistema-di-raffreddamento-liquido-2026-06-03",
+      "excerpt": "L'azienda berlinese LYNK+ ha portato al COMPUTEX la versione più completa e ambiziosa del suo ecosistema di raffreddamento a liquido modulare, un sistema pensato per rendere…",
+      "image": null,
+      "publishedAt": "2026-06-03T16:08:11+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Prime Day? Da Narwal è già iniziato: risparmi fino a 1000€",
+      "link": "https://www.tomshw.it/altro/prime-day-da-narwal-e-gia-iniziato-risparmi-fino-a-1000eur",
+      "excerpt": "L'estate è ormai alle porte e, con essa, arrivano anche le grandi occasioni dedicate allo shopping tecnologico. Narwal ha deciso di anticipare il Prime Day lanciando una campagna…",
+      "image": null,
+      "publishedAt": "2026-06-03T15:31:21+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La NASA saluta definitivamente il satellite marziano MAVEN dopo 11 anni di onorato servizio",
+      "link": "https://images.dday.it/Mmg43kviPnzKWmXdAd6bvTtzAO6rzpoCwN_0jkuLp1o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57615/e6b768_c-original.jpg",
+      "excerpt": "I contatti con il satellite in orbita intorno a Marte da 11 anni erano stati persi lo scorso dicembre. La NASA ha determinato che il satellite non è più recuperabile ... Leggi…",
+      "image": "https://images.dday.it/Mmg43kviPnzKWmXdAd6bvTtzAO6rzpoCwN_0jkuLp1o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57615/e6b768_c-original.jpg",
+      "publishedAt": "2026-06-03T15:27:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "In Corea i bonus dei chip fanno esplodere il lusso",
+      "link": "https://www.tomshw.it/hardware/in-corea-i-bonus-dei-chip-fanno-esplodere-il-lusso",
+      "excerpt": "Samsung Electronics e SK hynix stanno trasformando il boom dei chip in un fenomeno visibile anche fuori dalle fabbriche: nella provincia sudcoreana del Gyeonggi, cuore della…",
+      "image": null,
+      "publishedAt": "2026-06-03T15:15:17+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "LG Electronics acquista macchinari per la produzione di OLED tramite stampa a getto",
+      "link": "https://images.dday.it/JDd6-D7Pequ8j4euYkfdGNk8z3Q8j0cot8LKO3R7UgY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57613/8d2230_Inkjet.jpg",
+      "excerpt": "La coreana NainTech ha annunciato un contratto da oltre 14 milioni di euro per la fornitura a LG Electronics di macchinari per una linea di produzione di display OLED Gen 8.6 con…",
+      "image": "https://images.dday.it/JDd6-D7Pequ8j4euYkfdGNk8z3Q8j0cot8LKO3R7UgY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57613/8d2230_Inkjet.jpg",
+      "publishedAt": "2026-06-03T14:50:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "AMD pensa a un Ryzen X3D più economico per il gaming",
+      "link": "https://www.tomshw.it/hardware/amd-avverte-pc-cari-ancora-a-lungo-spunta-ryzen-5-9600x3d",
+      "excerpt": "AMD ha aperto alla possibilità di ampliare la famiglia Ryzen 9000 con un processore X3D più accessibile, mentre avverte che la pressione sui prezzi dei componenti per PC non è…",
+      "image": null,
+      "publishedAt": "2026-06-03T14:49:08+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Un taglio di prezzo senza precedenti per il microfono wireless DJI",
+      "link": "https://www.tomshw.it/smartphone/dji-mic-2-in-offerta-su-amazon-33-2026-06-03",
+      "excerpt": "Su Amazon è disponibile un'ottima offerta sul DJI Mic 2 (1 TX + 1 RX), il microfono wireless professionale con eliminazione intelligente del rumore e registrazione interna in…",
+      "image": null,
+      "publishedAt": "2026-06-03T14:43:05+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Streaming 4K low-cost: Xiaomi TV Stick sfida Amazon e scende sotto i 50€",
+      "link": "https://www.tomshw.it/smartphone/xiaomi-tv-stick-4k-su-ebay-a-soli-50eur-con-coupon-2026-06-03",
+      "excerpt": "Su eBay è disponibile un'ottima offerta sul Xiaomi TV Stick 4K (2a Gen), il dispositivo di streaming portatile con Google TV, risoluzione 4K UHD, Wi-Fi 6 e supporto Dolby.…",
+      "image": null,
+      "publishedAt": "2026-06-03T14:39:33+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Qwant prende il posto di Google come motore di ricerca sui PC del Parlamento Europeo",
+      "link": "https://images.dday.it/aITfCqRrno0vmgxcwaXmH9M7HcCuSapt5Zm59CMx5AE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57614/36d005_small_Screenshot_2026-06-03_alle_16.22.24_copia.png",
+      "excerpt": "Google sostituito dal motore francese Qwant. La notizia arriva nel giorno in cui la Commissione Europea ha presentato il pacchetto sulla sovranità tecnologica dell’Unione... Leggi…",
+      "image": "https://images.dday.it/aITfCqRrno0vmgxcwaXmH9M7HcCuSapt5Zm59CMx5AE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57614/36d005_small_Screenshot_2026-06-03_alle_16.22.24_copia.png",
+      "publishedAt": "2026-06-03T14:27:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "SodaStream finalmente in sconto: tutti lo vogliono!",
@@ -41,42 +221,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "L'Europa vuole essere indipendente: il piano in quattro punti per la sovranità tecnologica",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n660265/europa-indipendente-piano-sovranita-tecnologica/",
-      "excerpt": "Bruxelles ha presentato il piano per rafforzare la sovranità tecnologica: focus su semiconduttori, AI, cloud, open source ed energia.",
-      "image": "https://hd2.tudocdn.net/1347381?w=660",
-      "publishedAt": "2026-06-03T14:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il nuovo mostro GRMN di Toyota, la Corolla GR si fa bella al Nürburgring",
-      "link": "https://www.hdmotori.it/toyota-grmn-corolla-gr-nurburgring/",
-      "excerpt": "",
-      "image": "https://hd2.tudocdn.net/1347383?w=660",
-      "publishedAt": "2026-06-03T14:00:47+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "AliExpress oggi: le offerte più folli e convenienti tra sconti e coupon",
-      "link": "https://www.tomshw.it/altro/aliexpress-oggi-le-offerte-piu-folli-e-convenienti-tra-sconti-e-coupon",
-      "excerpt": "Oggi su AliExpress si sta assistendo a una delle ondate promozionali più aggressive e convenienti degli ultimi tempi. Sconti, coupon e ulteriori risparmi legati anche ai metodi di…",
-      "image": null,
-      "publishedAt": "2026-06-03T13:35:41+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Apple, ecco le migliori app e giochi del 2026: c’è anche un'italiana tra i vincitori",
-      "link": "https://www.hdblog.it/smartphone/articoli/n660270/apple-premia-migliori-app-2026/",
-      "excerpt": "I vincitori in sei categorie saranno premiati alla WWDC26",
-      "image": "https://hd2.tudocdn.net/1347380?w=660",
-      "publishedAt": "2026-06-03T13:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "SoftBank investirà 75 miliardi di euro in data center IA in Europa. Scelta la Francia per la disponibilità del nucleare",
       "link": "https://images.dday.it/RIHxUSv-oNNtVFSrmaXg-BWQkX94z2ofIE4JXut8CJo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57610/bce0b9_small_ChatGPT_Image_3_giu_2026__15_33_44_copia.png",
       "excerpt": "Il gruppo giapponese sceglie la Francia per il più grande investimento europeo nei data center IA. 75 miliardi, 5 GW di capacità e una dipendenza diretta da energia e rete…",
@@ -86,105 +230,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Più scegli, più risparmi: -5% acquistando 3 prodotti su Mediaworld",
-      "link": "https://www.tomshw.it/altro/piu-scegli-piu-risparmi-5-acquistando-3-prodotti-su-mediaworld",
-      "excerpt": "Chi desidera rinnovare i propri dispositivi tecnologici, acquistare nuovi elettrodomestici o semplicemente approfittare di offerte vantaggiose, può contare su una nuova iniziativa…",
-      "image": null,
-      "publishedAt": "2026-06-03T13:22:54+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Samsung prepara HBM5 a una nuova sfida: il calore",
-      "link": "https://www.tomshw.it/hardware/samsung-prepara-hbm5-a-una-nuova-sfida-il-calore",
-      "excerpt": "Samsung ha mostrato una prima anticipazione della sua futura memoria HBM5 con una nuova soluzione termica chiamata HPB, pensata per affrontare uno dei limiti più concreti delle…",
-      "image": null,
-      "publishedAt": "2026-06-03T13:22:05+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Corsair annuncia un mouse con il tasto Stream Deck integrato",
-      "link": "https://www.tomshw.it/hardware/corsair-mouse-tasto-stream-deck-wireless-8k-2026-06-03",
-      "excerpt": "Corsair ha mostrato un nuovo mouse gaming wireless con una scelta insolita: un pulsante dedicato per richiamare Stream Deck. Non è la prima volta che l'ecosistema Elgato entra in…",
-      "image": null,
-      "publishedAt": "2026-06-03T13:13:05+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Trump vuole vedere le AI più potenti prima del pubblico",
-      "link": "https://www.tomshw.it/hardware/usa-modelli-ai-frontier-accesso-governo-30-giorni-2026-06-03",
-      "excerpt": "Gli Stati Uniti stanno preparando un nuovo passaggio di controllo sui modelli AI frontier prima che arrivino al pubblico. L'ordine esecutivo firmato da Donald Trump punta a creare…",
-      "image": null,
-      "publishedAt": "2026-06-03T13:11:51+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Polaroid lancia la nuova istantanea Go Generation 3 con ottica migliorata",
-      "link": "https://www.hdblog.it/fotografia/articoli/n660262/polaroid-nuova-istantanea-go-generation-3-prezzo/",
-      "excerpt": "Design rinnovato e cinque diversi colori per l’istantanea più piccola di Polaroid.",
-      "image": "https://hd2.tudocdn.net/1347358?w=660",
-      "publishedAt": "2026-06-03T13:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Microsoft Solara porta gli agenti AI fuori dal PC",
-      "link": "https://www.tomshw.it/hardware/microsoft-project-solara-android-dispositivi-agent-ai-2026-06-03",
-      "excerpt": "Microsoft Project Solara mostra una direzione diversa per i dispositivi AI aziendali. La piattaforma è stata presentata come un sistema chip-to-cloud per hardware agent-first,…",
-      "image": null,
-      "publishedAt": "2026-06-03T13:09:27+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Google cambia le regole per chi non vuole finire nelle risposte AI",
-      "link": "https://www.tomshw.it/hardware/google-uscita-ai-overviews-traffico-search-2026-06-03",
-      "excerpt": "Google AI Overviews sta per diventare meno obbligatorio per i siti che non vogliono vedere i propri contenuti usati nelle risposte generative della ricerca. Google testerà un…",
-      "image": null,
-      "publishedAt": "2026-06-03T13:06:05+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "La RAM DDR5 ora costa quanto una CPU: colpa dell’AI",
-      "link": "https://www.tomshw.it/hardware/ddr5-32gb-375-dollari-prezzi-pc-ai-2026-06-03",
-      "excerpt": "Il taglio da 32GB di DDR5, per anni considerato il punto di equilibrio per un PC moderno, sta diventando una spesa molto più pesante. I prezzi minimi rilevati sul mercato…",
-      "image": null,
-      "publishedAt": "2026-06-03T13:05:09+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Fitbit Air, gli accessori ufficiali non vi piacciono? Google vi invita a stamparveli",
-      "link": "https://www.hdblog.it/google/articoli/n660259/fitbit-air-file-cad-stampa-accessori/",
-      "excerpt": "Google rilascia i file per la stampa 3D degli accessori di Fitbit Air",
-      "image": "https://hd2.tudocdn.net/1340997?w=660",
-      "publishedAt": "2026-06-03T13:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Mercedes 300 SL ritrovata in un capannone, le immagini fanno il giro del mondo",
-      "link": "https://www.hdmotori.it/mercedes-300-sl-capannone/",
-      "excerpt": "Come in un film è stata rinvenuta dopo anni all’interno di un fienile in Portogallo una Mercedes 300 SL Ali di Gabbiano",
-      "image": "https://hd2.tudocdn.net/1347370?w=660",
-      "publishedAt": "2026-06-03T13:00:14+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Apple aprirà a Berlino il suo primo Developer Center europeo",
-      "link": "https://www.hdblog.it/smartphone/articoli/n660266/apple-aprira-berlino-developer-center-europeo/",
-      "excerpt": "La struttura nascerà nel quartiere Mitte",
-      "image": "https://hd2.tudocdn.net/1347366?w=660",
-      "publishedAt": "2026-06-03T12:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Ecco i nuovi SUV Fiat: Grizzly e Grizzly Fastback",
       "link": "https://images.dday.it/AHpOlSDdW_CZSvLuGho1tbJVadiZXfKh1UEfm2UahRw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57609/d1e352_grizzly_thumb.jpg",
       "excerpt": "Appartengono al segmento C, non superano i 4,5 m di lunghezza. Due modelli, uno più slanciato... Leggi tutto",
@@ -192,24 +237,6 @@
       "publishedAt": "2026-06-03T12:33:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Le voci false generate con l'AI fanno paura e Google corre ai ripari: la novità su Android",
-      "link": "https://www.hdblog.it/smartphone/articoli/n660260/google-telefono-chiamate-false-protezione/",
-      "excerpt": "La nuova protezione di Google verifica in tempo reale l’identità del chiamante per contrastare le truffe in cui qualcuno si spaccia per qualcun altro",
-      "image": "https://hd2.tudocdn.net/1347357?w=660",
-      "publishedAt": "2026-06-03T12:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il Cybertruck che non ti aspetti, in Kazakistan per servizi di emergenza",
-      "link": "https://www.hdmotori.it/cybertruck-soccorsi-kazakistan-ministero-emergenze/",
-      "excerpt": "Nuovi ordini in Asia centrale per il pickup Tesla, promosso sul campo per i soccorsi alpini. Ma i dati finanziari confermano il crollo dei volumi",
-      "image": "https://hd2.tudocdn.net/1347354?w=660",
-      "publishedAt": "2026-06-03T12:00:52+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Volkswagen blocca l'accesso ai dati delle auto: \"I tuoi dati non sono tuoi\". Eppure l'Europa lo vieta",
@@ -244,33 +271,6 @@
       "excerpt": "Dopo la terribile esplosione avvenuta durante il test statico dei motori del razzo New Glenn, Blue Origin prevede di poter riparare sul posto la torre di supporto, mentre altre…",
       "image": "https://images.dday.it/uyja9iflh5gwBJkSCwADcDuzNoCmdz_cG4GMEBwqOb0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57606/c3b193_HJhyho4XcAAKy5F.jpeg",
       "publishedAt": "2026-06-03T10:12:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "L’alluminio sfida l’acciaio: il telaio BYD regge 12 tonnellate ed è più leggero",
-      "link": "https://images.dday.it/oN2KiEeZoo3-OeuGTinK2KAkwI8kefdLKcxy5A9U0-Y/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57605/0b912c_byd_thumb.jpg",
-      "excerpt": "Il maxi SUV elettrico del marchio premium Yangwang usa una struttura in alluminio aerospaziale più leggera di 56 kg rispetto all’acciaio, ma capace secondo BYD di superare un test…",
-      "image": "https://images.dday.it/oN2KiEeZoo3-OeuGTinK2KAkwI8kefdLKcxy5A9U0-Y/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57605/0b912c_byd_thumb.jpg",
-      "publishedAt": "2026-06-03T09:12:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Abbandonare Google e Microsoft è possibile? Le 4 alternative 100% europee che puntano su privacy e sovranità digitale",
-      "link": "https://images.dday.it/_dp4dkIfnjOqwZ83qGmP6S6mr6an_nksLeQvOniilO8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57597/0b12e3_Gemini_Generated_Image_dlgq00dlgq00dlgq.png",
-      "excerpt": "In un mercato cloud dominato da aziende statunitensi, il tema della sovranità digitale sta diventando sempre più rilevante. Le alternative basate in Europa esistono e sono…",
-      "image": "https://images.dday.it/_dp4dkIfnjOqwZ83qGmP6S6mr6an_nksLeQvOniilO8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57597/0b12e3_Gemini_Generated_Image_dlgq00dlgq00dlgq.png",
-      "publishedAt": "2026-06-03T09:04:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "MG, in Spagna la sua prima fabbrica europea: investimento da 200 milioni e produzione dal 2028",
-      "link": "https://images.dday.it/9ie6lIThjmg5xTMFeGIwMS7--gdbOjIbXftf9HtlTkQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57602/20a5db_mg_thumb.jpg",
-      "excerpt": "Il marchio di SAIC investirà circa 200 milioni di euro in Galizia per produrre fino a 120.000 veicoli l’anno dal 2028... Leggi tutto",
-      "image": "https://images.dday.it/9ie6lIThjmg5xTMFeGIwMS7--gdbOjIbXftf9HtlTkQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57602/20a5db_mg_thumb.jpg",
-      "publishedAt": "2026-06-03T09:01:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
