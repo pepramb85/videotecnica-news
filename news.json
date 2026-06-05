@@ -1,9 +1,216 @@
 {
-  "generatedAt": "2026-06-05T08:01:05.544240+00:00",
+  "generatedAt": "2026-06-05T12:32:19.174988+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "AI a bordo delle auto: quale è la reale fiducia degli automobilisti europei?",
+      "link": "https://www.hdmotori.it/ai-auto-fiducia-automobilisti-europei/",
+      "excerpt": "C’è fiducia o meno da parte degli utilizzatori dell’intelligenza artificiale? Ecco quello che si evince da un sondaggio lanciato da Xpeng.",
+      "image": "https://hd2.tudocdn.net/1347905?w=660",
+      "publishedAt": "2026-06-05T12:30:39+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Un fulmine entra dal cavo Internet e distrugge un PC",
+      "link": "https://www.tomshw.it/hardware/fulmine-cavo-coassiale-distrugge-pc-router",
+      "excerpt": "Un temporale può trasformare la rete domestica nel punto d'ingresso più pericoloso per un PC. Un utente Reddit ha raccontato che un fulmine avrebbe colpito il complesso in cui…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/95446/fulmine-cavo-coassiale-distrugge-pc-router.webp",
+      "publishedAt": "2026-06-05T12:17:50+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Questo dock trasforma il Mac mini in una piccola console retrò",
+      "link": "https://www.tomshw.it/hardware/mac-mini-dock-retro-wokyis-g7",
+      "excerpt": "Nel mezzo del Computex 2026, Wokyis ha mostrato una famiglia di dock che prova a trasformare Mac mini e Mac Studio in oggetti da scrivania molto meno anonimi. L'idea è semplice:…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/95444/mac-mini-dock-retro-wokyis-g7.webp",
+      "publishedAt": "2026-06-05T12:15:53+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Switch 2 avrà batterie sostituibili, ma solo in Europa",
+      "link": "https://www.tomshw.it/videogioco/switch-2-batterie-sostituibili-europa",
+      "excerpt": "Nintendo Switch 2 dovrà cambiare in Europa per adeguarsi alle nuove regole sulle batterie sostituibili. Nintendo ha aggiornato la propria pagina di compliance indicando che sta…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/95442/switch-2-batterie-sostituibili-europa.webp",
+      "publishedAt": "2026-06-05T12:14:39+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "SpaceX ottiene maxi sconto fiscale per la sua Terafab",
+      "link": "https://www.tomshw.it/hardware/spacex-sconto-fiscale-terafab-texas",
+      "excerpt": "SpaceX ha ottenuto dalla contea di Grimes, in Texas, un'esenzione del 100% sulla property tax per la futura Terafab, una fabbrica di semiconduttori stimata in 55 miliardi di…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/95441/spacex-sconto-fiscale-terafab-texas.webp",
+      "publishedAt": "2026-06-05T12:14:26+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La DDR4 torna in produzione: il PC economico cambia rotta",
+      "link": "https://www.tomshw.it/hardware/ddr4-torna-produzione-pc-economici-crisi-ddr5",
+      "excerpt": "Il mercato PC sta facendo un passo indietro che fino a pochi mesi fa sarebbe sembrato improbabile. La combinazione tra carenza di memoria, prezzi fuori scala e domanda dei data…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/95440/ddr4-torna-produzione-pc-economici-crisi-ddr5.webp",
+      "publishedAt": "2026-06-05T12:14:02+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "App Store da record: il giro d’affari supera 1.400 miliardi, il digitale è solo una parte",
+      "link": "https://www.hdblog.it/smartphone/articoli/n660496/app-store-record-giro-affari-1400-miliardi/",
+      "excerpt": "È il valore più alto registrato finora dalla piattaforma",
+      "image": "https://hd2.tudocdn.net/1347897?w=660",
+      "publishedAt": "2026-06-05T12:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Windows 11, come ricevere le build Insider senza account Microsoft",
+      "link": "https://www.hdblog.it/microsoft/articoli/n660498/windows-11-insider-ricevere-senza-account/",
+      "excerpt": "C'è uno script ufficioso (open-source) che recentemente si è aggiornato per supportare i nuovi canali del programma.",
+      "image": "https://hd2.tudocdn.net/1297430?w=660",
+      "publishedAt": "2026-06-05T12:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Non lo sapevi? Amazon vende un suo lettore microSD (a 8€ in sconto)",
+      "link": "https://www.tomshw.it/smartphone/lettore-microsd-usb-c-in-offerta-a-soli-8eur-su-amazon-2026-06-05",
+      "excerpt": "Su Amazon è disponibile l'Amazon Basics Lettore di schede microSD con attacco USB C 3.0, un accessorio compatto e versatile per trasferire foto, video e file ad alta velocità,…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/95447/lettore-microsd-usb-c-in-offerta-a-soli-8eur-su-amazon-2026-06-ldvgign0jegb2k5hxSb.png",
+      "publishedAt": "2026-06-05T12:04:26+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori smart TV (giugno 2026)",
+      "link": "https://www.tomshw.it/guide/miglior-tv-guida-acquisto-4k-smart-hdr",
+      "excerpt": "Una smart TV oggi non è più soltanto un televisore con Netflix, Prime Video o Disney+ installati. È il centro dell'intrattenimento domestico: gestisce app di streaming, console,…",
+      "image": "https://www.tomshw.it/storage/media/2026/04/89631/migliori-smart-tv-copertina.jpg",
+      "publishedAt": "2026-06-05T12:02:32+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Di solito costano una fortuna: oggi questa Sony da 399€ sorprende tutti",
+      "link": "https://www.tomshw.it/hardware/sony-bravia-3-43-in-offerta-a-soli-399eur-su-amazon-2026-06-05",
+      "excerpt": "Su Amazon è disponibile un'ottima offerta sulla Sony BRAVIA 3 da 43 pollici, il televisore con tecnologia Direct LED e intelligenza artificiale che porta a casa un'esperienza…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/95445/sony-bravia-3-43-in-offerta-a-soli-399eur-su-amazon-2026-06-05-cdqlq71oljskdOksEuE.jpg",
+      "publishedAt": "2026-06-05T12:00:12+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Instagram Plus ufficiale: caratteristiche e prezzo dell’abbonamento in Italia",
+      "link": "https://www.hdblog.it/android/articoli/n660488/instagram-plus-ufficiale-funzioni-prezzo/",
+      "excerpt": "Il piano a pagamento in arrivo anche in Italia.",
+      "image": "https://hd2.tudocdn.net/1347880?w=660",
+      "publishedAt": "2026-06-05T11:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Fotovoltaico in difficoltà: le imprese chiedono serietà, non incentivi",
+      "link": "https://www.hdblog.it/green/articoli/n660495/rinnovabili-solare-frenata-perche-rimedi/",
+      "excerpt": "Secondo un’indagine di Anie Rinnovabili, il principale ostacolo alla crescita del settore non è la domanda ma l’incertezza normativa e amministrativa",
+      "image": "https://hd2.tudocdn.net/1336339?w=660",
+      "publishedAt": "2026-06-05T11:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Smartphone, giugno di fuoco per la fascia media: ecco 4 novità in arrivo",
+      "link": "https://www.hdblog.it/smartphone/articoli/n660475/smartphone-giugno-motorola-realme-galaxy-oneplus/",
+      "excerpt": "Una selezione tra modelli più attesi.",
+      "image": "https://hd2.tudocdn.net/1347894?w=660",
+      "publishedAt": "2026-06-05T11:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Una Vespa sulle spalle in salita: l'assurda impresa di Gunter Schachermayr",
+      "link": "https://www.hdmotori.it/vespa-impresa-gunter-schachermayr/",
+      "excerpt": "Lo stuntman Gunter Schachermayr scala la torre Salzkammergut con una Vespa PK da 112 cc sulla schiena per festeggiare gli ottant'anni dello scooter.",
+      "image": "https://hd2.tudocdn.net/1347899?w=660",
+      "publishedAt": "2026-06-05T11:30:16+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Sistemi di filtraggio dell’acqua in offerta su Amazon: ora è il momento!",
+      "link": "https://images.dday.it/Dz4PDD_fQ4ybMVCLecTWY8z0W5ZemQuk8LYPQkN35dg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57644/db592b_ape2.jpg",
+      "excerpt": "Scopri le offerte sui sistemi di filtraggio dell’acqua e bevi acqua filtrata direttamente dal rubinetto di casa... Leggi tutto",
+      "image": "https://images.dday.it/Dz4PDD_fQ4ybMVCLecTWY8z0W5ZemQuk8LYPQkN35dg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57644/db592b_ape2.jpg",
+      "publishedAt": "2026-06-05T11:24:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Apple approva il primo agente AI su Messages for Business: arriva Poke",
+      "link": "https://www.hdblog.it/smartphone/articoli/n660492/apple-primo-agente-ai-messages-business/",
+      "excerpt": "Poke è il primo agente AI indipendente approvato da Apple per funzionare su Messages for Business",
+      "image": "https://hd2.tudocdn.net/1347893?w=660",
+      "publishedAt": "2026-06-05T11:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "LG, arrivano i TV Micro e Mini RGB Evo: fedeltà cromatica al top",
+      "link": "https://www.hdblog.it/tv/articoli/n660494/lg-micro-mini-rgb-2026-ai-specifiche-quando/",
+      "excerpt": "La qualità massima non è appannaggio degli OLED.",
+      "image": "https://hd2.tudocdn.net/1347892?w=660",
+      "publishedAt": "2026-06-05T11:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Ultimi giorni per salvare numero e SIM per alcuni clienti Vodafone: perché e cosa fare",
+      "link": "https://www.hdblog.it/mobile/articoli/n660491/vodafone-disattiva-sim-perdita-numero-cosa-fare/",
+      "excerpt": "Vodafone ha avviato la dismissione di alcune SIM prepagate legate a vecchi sistemi informatici. I clienti coinvolti devono agire entro il 30 giugno 2026",
+      "image": "https://hd2.tudocdn.net/897252?w=660",
+      "publishedAt": "2026-06-05T11:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "ChatGPT “sogna” e ricorda molto meglio i fatti dell'utente",
+      "link": "https://images.dday.it/2mm4VpS5Z80SNX4Za4vPlHK7jzypc1Z8xmv8FPNf4QU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57646/74737c_Immagine_1_generata__2_.png",
+      "excerpt": "Non più soltanto note salvate nella memoria. La capacità Dreaming di ChatGPT rielabora la cronologia delle chat per distinguere i dettagli ancora utili da quelli scaduti... Leggi…",
+      "image": "https://images.dday.it/2mm4VpS5Z80SNX4Za4vPlHK7jzypc1Z8xmv8FPNf4QU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57646/74737c_Immagine_1_generata__2_.png",
+      "publishedAt": "2026-06-05T10:27:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Anthropic tira il freno: lo sviluppo dei sistemi più IA più potenti deve rallentare ed essere regolamentato",
+      "link": "https://images.dday.it/Bx0yTwTpoVkcLEasuvWZzkHSi9lhB10w9JxZhhzNHqQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57643/f2e107_small_Screenshot_2026-06-05_alle_11.37.02_copia.png",
+      "excerpt": "Claude genera ormai oltre l’80% del codice integrato da Anthropic. L’azienda teme che l’accelerazione della ricerca superi la capacità di governi e autorità di intervenire. E…",
+      "image": "https://images.dday.it/Bx0yTwTpoVkcLEasuvWZzkHSi9lhB10w9JxZhhzNHqQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57643/f2e107_small_Screenshot_2026-06-05_alle_11.37.02_copia.png",
+      "publishedAt": "2026-06-05T09:40:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Fusione nucleare: le simulazioni riducono le stime di potenza del reattore ARC finanziato da Google ed Eni",
+      "link": "https://images.dday.it/Mgdd5iRS-bHCIz28Lejda1YTifFwPXSCkAupNNPOEgM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57640/121b32_20260401-TH-4-scaled.jpg",
+      "excerpt": "Commonwealth Fusion Systems pubblica una nuova serie di articoli scientifici, tutti peer reviewed, che validano il design della centrale a fusione nucleare ARC. Ma la potenza di 1…",
+      "image": "https://images.dday.it/Mgdd5iRS-bHCIz28Lejda1YTifFwPXSCkAupNNPOEgM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57640/121b32_20260401-TH-4-scaled.jpg",
+      "publishedAt": "2026-06-05T09:08:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "La prima supercar di Audi plug-in. Presentata Nuvolari: ce ne saranno meno di 500",
+      "link": "https://images.dday.it/vJPA9cg_nyzuCpobDw9VmdP5QMI6qih6FrGOVHPnRIA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57641/14567f_audi_thumb.jpg",
+      "excerpt": "Audi ha presentato Nuvolari, la sua prima supercar ibrida plug-in: 1.001 CV, oltre 350 km/h e produzione limitata a 499 esemplari... Leggi tutto",
+      "image": "https://images.dday.it/vJPA9cg_nyzuCpobDw9VmdP5QMI6qih6FrGOVHPnRIA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57641/14567f_audi_thumb.jpg",
+      "publishedAt": "2026-06-05T08:46:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
     {
       "title": "I bot hanno superato il traffico umano sul web, secondo Cloudflare",
       "link": "https://images.dday.it/K_oNwY_DE-3E-fqfvylaB8wo5qUgI2dewPddeOGhYao/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57639/2fa245_ChatGPT_Image_5_giu_2026__09_54_08.png",
@@ -12,114 +219,6 @@
       "publishedAt": "2026-06-05T07:55:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Monitor Alienware e laptop Dell in arrivo in Italia: prezzi e specifiche",
-      "link": "https://www.hdblog.it/portatili/articoli/n660454/alienware-monitor-dell-precision-pro-prezzi-italia/",
-      "excerpt": "Occhi puntati su un OLED da record, in arrivo quest'autunno.",
-      "image": "https://hd2.tudocdn.net/1347807?w=660",
-      "publishedAt": "2026-06-05T07:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Maturità 2026, online le commissioni: come cercare commissari esterni e presidente",
-      "link": "https://www.hdblog.it/curiosita/articoli/n660451/maturita-2026-online-commissioni-esame/",
-      "excerpt": "Il servizio è raggiungibile dal portale dedicato del MIM",
-      "image": "https://hd2.tudocdn.net/1347799?w=660",
-      "publishedAt": "2026-06-05T07:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Dyson ti omaggia con l’esclusiva travel bag acquistando il nuovo Supersonic Travel",
-      "link": "https://www.tomshw.it/hardware/dyson-supersonic-travel-in-offerta-a-soli-299eur-2026-06-05",
-      "excerpt": "Su Dyson è disponibile il fantastico Dyson Supersonic Travel nell'elegante colorazione Cipria/Oro Rosa, l'asciugacapelli compatto pensato per chi è sempre in movimento. Grazie…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/95387/dyson-supersonic-travel-in-offerta-a-soli-299eur-2026-06-05-8GF3okn6akbjmss8DyiLuY.png",
-      "publishedAt": "2026-06-05T07:49:22+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Broadcom fa tremare l'AI, crollano i titoli tech asiatici",
-      "link": "https://www.tomshw.it/hardware/broadcom-fa-tremare-lai-crollano-i-titoli-tech-asiatici",
-      "excerpt": "Broadcom ha acceso un campanello d'allarme su una delle scommesse più affollate del mercato tech: la crescita dell'intelligenza artificiale. Dopo risultati e indicazioni giudicati…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/95389/broadcom-fa-tremare-lai-crollano-i-titoli-tech-asiatici.png",
-      "publishedAt": "2026-06-05T07:49:14+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Fifa+ in esclusiva su Dazn: si amplia così l’offerta per gli appassionati",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n660446/fifa-plus-su-dazn-esclusiva-contenuti/",
-      "excerpt": "La partnership tra Dazn e Fifa si rafforza con l’arrivo di Fifa+ sulla piattaforma, creando un hub globale dedicato al calcio internazionale",
-      "image": "https://hd2.tudocdn.net/1347786?w=660",
-      "publishedAt": "2026-06-05T07:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "L'85% di sconto attira l'attenzione. Le funzionalità di PureVPN la mantengono",
-      "link": "https://www.tomshw.it/hardware/l85-di-sconto-attira-lattenzione-le-funzionalita-di-purevpn-la-mantengono",
-      "excerpt": "L'85% di sconto è senza dubbio l'elemento che cattura l'attenzione di chi è alla ricerca di una VPN affidabile e conveniente. Una promozione di questo livello consente infatti di…",
-      "image": "https://www.tomshw.it/storage/media/2026/05/94570/Il-primo-passo-verso-una-navigazione-sicura-PureVPN-scontata-fino-all’85-.png",
-      "publishedAt": "2026-06-05T07:41:15+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "MacBook Ultra con schermo OLED e touch: il lancio è più vicino del previsto?",
-      "link": "https://www.hdblog.it/portatili/articoli/n660440/apple-macbook-ultra-oled-touch-quando-lancio-2026/",
-      "excerpt": "Per lo schermo Apple avrebbe optato per una tecnologia OLED ibrida.",
-      "image": "https://hd2.tudocdn.net/1342131?w=660",
-      "publishedAt": "2026-06-05T07:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Qualcomm prepara i PC Snapdragon all'era degli agenti AI",
-      "link": "https://www.tomshw.it/hardware/qualcomm-prepara-i-pc-snapdragon-allera-degli-agenti-ai",
-      "excerpt": "Qualcomm ha chiarito la strategia con cui vuole portare i PC Snapdragon nella fase degli agenti AI: una nuova piattaforma economica, Snapdragon C, pensata per notebook Windows…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/95386/qualcomm-prepara-i-pc-snapdragon-allera-degli-agenti-ai.png",
-      "publishedAt": "2026-06-05T07:31:37+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Sony WH-CH720N a 70€: cuffie ANC leggere per lavoro e viaggi",
-      "link": "https://www.tomshw.it/hardware/sony-wh-ch720n-a-70eur-cuffie-anc-leggere-lavoro-viaggi-2026-06-05",
-      "excerpt": "Le Sony WH-CH720N sono cuffie wireless over-ear con cancellazione del rumore, pensate per chi vuole un prodotto comodo e leggero senza arrivare ai prezzi dei modelli Sony top. In…",
-      "image": "https://www.tomshw.it/storage/media/2026/05/93037/sony-wh-ch720n-cuffie-wireless-offerta-amazon-2026-05-18-G6CRVfi4iq1lt4tuqoa7in2y5.png",
-      "publishedAt": "2026-06-05T07:30:10+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il maxi data center AI in Utah si restringe, ma resta enorme",
-      "link": "https://www.tomshw.it/hardware/il-maxi-data-center-ai-in-utah-si-restringe-ma-resta-enorme",
-      "excerpt": "Kevin O'Leary ha accettato di ridimensionare Project Stratos, il gigantesco data center AI previsto nello Utah. La modifica conta perché arriva dopo settimane di pressione da…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/95384/il-maxi-data-center-ai-in-utah-si-restringe-ma-resta-enorme.png",
-      "publishedAt": "2026-06-05T07:28:38+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "GKU dash cam 4K a 80€: doppia camera, GPS e Wi-Fi in un solo kit",
-      "link": "https://www.tomshw.it/automotive/gku-dash-cam-4k-a-80eur-doppia-camera-gps-wifi-2026-06-05",
-      "excerpt": "La GKU 4K Dash Cam è una doppia telecamera per auto pensata per registrare sia la strada davanti sia ciò che avviene dietro il veicolo. In questa offerta costa 79,99€, con il 20%…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/95385/GKU-4K-Dash-Cam.jpg",
-      "publishedAt": "2026-06-05T07:28:17+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Sony WF-1000XM5 tornano a 199€: auricolari ANC premium più accessibili",
-      "link": "https://www.tomshw.it/smartphone/sony-wf-1000xm5-a-199eur-auricolari-anc-premium-accessibili-2026-06-05",
-      "excerpt": "Le Sony WF-1000XM5 sono auricolari true wireless premium per chi cerca cancellazione del rumore avanzata, qualità audio e un formato compatto da usare ogni giorno. In questa…",
-      "image": "https://www.tomshw.it/storage/media/2026/05/91472/sony-wf-1000xm5-a-199eur-su-amazon-2026-05-01-3e0VSLX9ui0biae08rr9rrHq5Q.png",
-      "publishedAt": "2026-06-05T07:25:13+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Dieci agenti IA in una città 3D simulata: Claude non ha commesso crimini, Grok si è estinto in cinque giorni",
@@ -131,74 +230,20 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Xiaomi Smoke Detector 2 ufficiale: più autonomia e più sensori",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n660447/xiaomi-smoke-detector-2-specifiche-novita/",
-      "excerpt": "Costa l'equivalente di 19 euro circa in Cina.",
-      "image": "https://hd2.tudocdn.net/1347787?w=660",
-      "publishedAt": "2026-06-05T07:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "UGREEN Nexode 300W a 133€: caricatore GaN per scrivanie piene di device",
-      "link": "https://www.tomshw.it/smartphone/ugreen-nexode-300w-a-133eur-caricatore-gan-scrivanie-device-2026-06-05",
-      "excerpt": "L'UGREEN Nexode 300W è un caricatore GaN da scrivania pensato per alimentare più dispositivi contemporaneamente, dai notebook agli smartphone, passando per tablet, console…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/95360/ugreen-nexode-300w-a-133eur-caricatore-gan-scrivanie-device-202rgqqe1mnccmgfLX41bJ.png",
-      "publishedAt": "2026-06-05T07:23:10+00:00",
+      "title": "I grafici mandano ancora in crisi l'AI, MIT prova a risolvere",
+      "link": "https://www.tomshw.it/business/mit-chartnet-grafici-ai-modelli",
+      "excerpt": "I modelli vision-language continuano a sbagliare davanti ai grafici. Il MIT e il MIT-IBM Computing Research Lab hanno presentato ChartNet, un dataset con oltre un milione di…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/95381/14-mit-chartnet-cover.jpg",
+      "publishedAt": "2026-06-05T07:12:14+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Satispay debutta nel food delivery: accordo con Deliveroo",
-      "link": "https://www.hdblog.it/pagamenti/articoli/n660442/deliveroo-satispay-pagamento-ordini-domicilio/",
-      "excerpt": "La partnership tra Deliveroo e Satispay segna l’ingresso della fintech italiana nel settore del food delivery",
-      "image": "https://hd2.tudocdn.net/1347779?w=660",
-      "publishedAt": "2026-06-05T07:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Casio lancia il G-Shock di Gundam: introvabile dopo solo un'ora",
-      "link": "https://www.hdblog.it/indossabili/articoli/n660437/nuovo-casio-gundam-5600-corea/",
-      "excerpt": "Casio lancia il G-Shock DW-5600GM26-7DR dedicato a Gundam, subito esaurito.",
-      "image": "https://hd2.tudocdn.net/1347771?w=660",
-      "publishedAt": "2026-06-05T07:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "ChatGPT ha una memoria migliore: meno risposte da zero, più contesto tra le chat",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n660439/chatgpt-migliora-memoria-meno-risposte-zero/",
-      "excerpt": "OpenAI ha avviato il rilascio di una nuova architettura per la memoria di ChatGPT",
-      "image": "https://hd2.tudocdn.net/1347781?w=660",
-      "publishedAt": "2026-06-05T07:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Messaggi che si autodistruggono: l'ultima novità in arrivo su WhatsApp",
-      "link": "https://www.hdblog.it/android/articoli/n660436/whatsapp-messaggi-autodistruzione-una-volta-sola/",
-      "excerpt": "Messaggi che si \"autodistruggono\" dopo essere stati visualizzati: è questa l'ultima novità in arrivo su WhatsApp. Da tempo l'opzione è già disponibile...",
-      "image": "https://hd2.tudocdn.net/1347766?w=660",
-      "publishedAt": "2026-06-05T07:01:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Mansory P720, la Mercedes Classe G finisce nell’oro",
-      "link": "https://www.hdmotori.it/mansory-p720-mercedes-classe-oro/",
-      "excerpt": "L’azienda tedesca specializzata nell'elaborazione di vetture ad alte prestazioni ha reinterpretato la Mercedes-AMG G 63 con una carrozzeria a effetto dorato",
-      "image": "https://hd2.tudocdn.net/1347780?w=660",
-      "publishedAt": "2026-06-05T07:00:45+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Dai chip al cloud, ecco la Sovranità Digitale Europea",
-      "link": "https://www.tomshw.it/business/dai-chip-al-cloud-ecco-la-sovranita-digitale-europea",
-      "excerpt": "La Commissione europea ha presentato un pacchetto per costruire una sovranità digitale più concreta, dai semiconduttori al cloud, dall'intelligenza artificiale all'open source. Il…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/95324/07-sovranita-digitale-europea-cover.jpg",
-      "publishedAt": "2026-06-04T18:05:09+00:00",
+      "title": "Migliori microfoni per PC (giugno 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-microfoni-pc",
+      "excerpt": "Scegliere il miglior microfono per PC non significa comprare il modello con la scheda tecnica più vistosa, ma individuare quello che risolve davvero il problema della vostra…",
+      "image": "https://www.tomshw.it/storage/media/2026/03/88520/migliori-microfoni-pc-copertina.jpg",
+      "publishedAt": "2026-06-05T07:05:43+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -226,51 +271,6 @@
       "excerpt": "Ideale per backup, foto, video e file di grandi dimensioni, l’SSD portatile Lexar da 2 TB con set magnetico unisce velocità, praticità e un’ampia capacità di archiviazione. E ora…",
       "image": "https://images.dday.it/WYejwRYmaN6UMTG4Uos2dOw9u0m-QdI5dD0TELVmn58/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57634/adddec_ape2.jpg",
       "publishedAt": "2026-06-04T14:19:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Leica potrebbe diventare cinese: il fondo HSG avrebbe puntato gli occhi sullo storico bollino rosso",
-      "link": "https://images.dday.it/QEo_KZdfuDsqqAB-ShK1jk0qJrNS6Is5QrfoRs56Deg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57635/8e822d_small_Depositphotos_178765326_XL_copia.jpg",
-      "excerpt": "Il fondo HongShan, ex Sequoia China, sarebbe il candidato principale per rilevare la quota di Blackstone. Sul tavolo potrebbe finire anche il 55% legato alla famiglia Kaufmann...…",
-      "image": "https://images.dday.it/QEo_KZdfuDsqqAB-ShK1jk0qJrNS6Is5QrfoRs56Deg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57635/8e822d_small_Depositphotos_178765326_XL_copia.jpg",
-      "publishedAt": "2026-06-04T13:53:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Apple, l’App Store e 1.400 miliardi di motivi per cui Siri non potrà essere come Gemini",
-      "link": "https://images.dday.it/KwDImkHMNMCQbN-_LkBXqDZvxXlXJMKj1WnNoI2SUhE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57633/6bc219_appstore.jpg",
-      "excerpt": "A pochi giorni dall’inizio della WWDC 2026, dove presumibilmente verrà svelata la nuova Siri agentica (dopo la pausa di riflessione degli ultimi due anni), Apple mostra i numeri…",
-      "image": "https://images.dday.it/KwDImkHMNMCQbN-_LkBXqDZvxXlXJMKj1WnNoI2SUhE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57633/6bc219_appstore.jpg",
-      "publishedAt": "2026-06-04T13:01:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "BMW iX3, arriva la versione 40. Fino a 637 km di autonomia",
-      "link": "https://images.dday.it/pYvIiPypmfSL-1OyTyDYWFDHjpWXKVutLW3LRkAQE8M/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57632/4bdc8e_ix340_thumb.jpg",
-      "excerpt": "La nuova versione d’accesso della BMW iX3 porta 320 CV, architettura a 800 V e fino a 637 km di autonomia... Leggi tutto",
-      "image": "https://images.dday.it/pYvIiPypmfSL-1OyTyDYWFDHjpWXKVutLW3LRkAQE8M/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57632/4bdc8e_ix340_thumb.jpg",
-      "publishedAt": "2026-06-04T12:49:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "I conti di GoPro non tornano: la regina delle action cam sta valutando anche la vendita o la fusione",
-      "link": "https://images.dday.it/JPD9q3kzQpPnTnf14yRPexar2Epg6h2v-6RqUZS4ERs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57631/d46fa2_small_GoPro_News_M1P_LaunchSequence_1_copia.jpg",
-      "excerpt": "GoPro avverte che senza capitali o un’operazione strategica potrebbe dover ridurre, ristrutturare o cessare le attività. Ma non si parla ancora di fallimento... Leggi tutto",
-      "image": "https://images.dday.it/JPD9q3kzQpPnTnf14yRPexar2Epg6h2v-6RqUZS4ERs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57631/d46fa2_small_GoPro_News_M1P_LaunchSequence_1_copia.jpg",
-      "publishedAt": "2026-06-04T12:48:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "In Europa Switch 2 avrà la batteria facilmente sostituibile nel 2027, parola di Nintendo",
-      "link": "https://images.dday.it/KNoWatq6Kbhjha8UK-3S7xSLatyYVXqqNySy8PArs04/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57629/10ee49_small_Depositphotos_874560826_XL_copia.jpg",
-      "excerpt": "La Switch 2 oggi in vendita non sembra progettata per una batteria davvero accessibile, ma Nintendo indica già le future versioni europee conformi alle nuove regole UE del 2027.…",
-      "image": "https://images.dday.it/KNoWatq6Kbhjha8UK-3S7xSLatyYVXqqNySy8PArs04/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57629/10ee49_small_Depositphotos_874560826_XL_copia.jpg",
-      "publishedAt": "2026-06-04T10:32:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
