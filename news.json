@@ -1,15 +1,78 @@
 {
-  "generatedAt": "2026-06-07T07:49:05.524097+00:00",
+  "generatedAt": "2026-06-07T10:23:36.518718+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Mafia: The Old Country, annunciato un DLC narrativo",
-      "link": "https://www.tomshw.it/videogioco/mafia-the-old-country-in-arrivo-man-of-honor-2026-06-06",
-      "excerpt": "Quando Mafia: The Old Country è arrivato sugli scaffali digitali, la critica internazionale lo aveva accolto con parole come breve ma bellissimo, riconoscendo nella ricostruzione…",
-      "image": "https://www.tomshw.it/storage/media/2024/12/44346/mafia-the-old-country.webp",
-      "publishedAt": "2026-06-07T07:40:17+00:00",
+      "title": "Google chiede di liberare 32 milioni di zanzare sterili | Ecco perché",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n660571/progetto-debug-google-32-milioni-zanzare/",
+      "excerpt": "Google intende liberare 32 milioni di zanzare sterili contro i virus in California e Florida",
+      "image": "https://hd2.tudocdn.net/1348023?w=660",
+      "publishedAt": "2026-06-07T10:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google Messaggi corregge uno dei suoi difetti più fastidiosi",
+      "link": "https://www.hdtroll.it/google/articoli/n660576/google-messaggi-risposte-rapide-bozza-come-invio/",
+      "excerpt": "Dopo anni Google ha pensato ad una soluzione.",
+      "image": "https://hd2.tudocdn.net/1259034?w=660",
+      "publishedAt": "2026-06-07T09:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Ecco come farsi un MacBook Neo custom \"Arlecchino\" con solo parti originali",
+      "link": "https://www.hdblog.it/apple/articoli/n660534/apple-macbook-neo-custom-colori-pezzi-originali/",
+      "excerpt": "Basta un po' di pazienza e dimestichezza con il \"soft modding\" hardware... Ma i keycaps della tastiera sono molto rognosi.",
+      "image": "https://hd2.tudocdn.net/1347952?w=660",
+      "publishedAt": "2026-06-07T09:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "BYD venderà anche robot umanoidi nelle concessionarie",
+      "link": "https://www.hdmotori.it/byd-vendera-robot-umanoidi-concessionarie/",
+      "excerpt": "Dalle auto elettriche alla cosiddetta embodied AI: il colosso cinese punta sulla robotica umanoide e immagina le sue concessionarie come futuri centri tecnologici.",
+      "image": "https://hd2.tudocdn.net/1348031?w=660",
+      "publishedAt": "2026-06-07T09:00:03+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Smartphone sui 200 euro: i migliori secondo Altroconsumo",
+      "link": "https://www.hdblog.it/smartphone/articoli/n660507/smartphone-200-euro-altroconsumo-quale-scegliere/",
+      "excerpt": "I risultati del test.",
+      "image": "https://hd2.tudocdn.net/1347925?w=660",
+      "publishedAt": "2026-06-07T08:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "WWDC 2026, ci siamo: come seguire il keynote Apple e tutte le novità attese",
+      "link": "https://www.hdblog.it/smartphone/articoli/n660555/apple-wwdc-come-seguire-quando/",
+      "excerpt": "Cosa potrebbe essere annunciato",
+      "image": "https://hd2.tudocdn.net/1347990?w=660",
+      "publishedAt": "2026-06-07T08:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "SpaceX affitta anche a Google la sua capacità IA: accordo da 920 milioni al mese",
+      "link": "https://images.dday.it/giGV9FMInNa-ErnOlS4BxyUOmlzPK6p1Fyj_XuLEPz0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57655/f8c4c2_ChatGPT_Image_7_giu_2026__09_57_48.png",
+      "excerpt": "Google ha fame di calcoli IA e chiede aiuto a SpaceX e ai suoi data center Colossus. Un affitto da 920 milioni di dollari al mese... Leggi tutto",
+      "image": "https://images.dday.it/giGV9FMInNa-ErnOlS4BxyUOmlzPK6p1Fyj_XuLEPz0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57655/f8c4c2_ChatGPT_Image_7_giu_2026__09_57_48.png",
+      "publishedAt": "2026-06-07T07:59:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Alien Isolation 2 si è mostrato in un primo trailer",
+      "link": "https://www.tomshw.it/videogioco/alien-isolation-2-svelato-al-summer-game-fest-2026-06-06",
+      "excerpt": "Tra gli annunci più attesi dell'edizione 2026 del Summer Game Fest, la manifestazione digitale condotta dal produttore Geoff Keighley che ogni anno raduna milioni di appassionati…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/95486/Alien-Isolation-2-(1).jpg",
+      "publishedAt": "2026-06-07T07:49:59+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -18,16 +81,16 @@
       "link": "https://www.tomshw.it/videogioco/resident-evil-veronica-svelato-alla-summer-game-fest-2026-06-06",
       "excerpt": "Il palcoscenico digitale dell'estate videoludica si è aperto con uno dei colpi più attesi dagli appassionati di survival horror: Capcom ha scelto il Summer Game Fest 2026 per…",
       "image": "https://www.tomshw.it/storage/media/2026/06/95480/rESIDENT-eVIL-Veronica-(2).jpg",
-      "publishedAt": "2026-06-07T07:40:16+00:00",
+      "publishedAt": "2026-06-07T07:49:58+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Alien Isolation 2 si è mostrato in un primo trailer",
-      "link": "https://www.tomshw.it/videogioco/alien-isolation-2-svelato-al-summer-game-fest-2026-06-06",
-      "excerpt": "Tra gli annunci più attesi dell'edizione 2026 del Summer Game Fest, la manifestazione digitale condotta dal produttore Geoff Keighley che ogni anno raduna milioni di appassionati…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/95486/Alien-Isolation-2-(1).jpg",
-      "publishedAt": "2026-06-07T07:40:15+00:00",
+      "title": "Mafia: The Old Country, annunciato un DLC narrativo",
+      "link": "https://www.tomshw.it/videogioco/mafia-the-old-country-in-arrivo-man-of-honor-2026-06-06",
+      "excerpt": "Quando Mafia: The Old Country è arrivato sugli scaffali digitali, la critica internazionale lo aveva accolto con parole come breve ma bellissimo, riconoscendo nella ricostruzione…",
+      "image": "https://www.tomshw.it/storage/media/2024/12/44346/mafia-the-old-country.webp",
+      "publishedAt": "2026-06-07T07:49:57+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -100,60 +163,6 @@
       "excerpt": "La certificazione 3C indica un debutto imminente.",
       "image": "https://hd2.tudocdn.net/1277702?w=660",
       "publishedAt": "2026-06-06T17:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone Ultra: che colori ha scelto Apple per il suo pieghevole? Cosa dicono i rumor",
-      "link": "https://www.hdblog.it/apple/articoli/n660563/iphone-ultra-apple-pieghevole-colori-bianco-blu/",
-      "excerpt": "Gli ultimi rumor raccontano una scelta diversa dal previsto.",
-      "image": "https://hd2.tudocdn.net/1348009?w=660",
-      "publishedAt": "2026-06-06T16:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Nubia Air: ottimo schermo, design super sottile e prezzo (oggi) ridotto del 30%",
-      "link": "https://www.hdblog.it/smartphone/offerte/n660562/nubia-air-smartphone-design-sottile-sconto-amazon/",
-      "excerpt": "Design ultrasottile, batteria da 5000 mAh, display AMOLED luminoso e funzioni AI: il Nubia Air è in promo su Amazon a poco più di 170€.",
-      "image": "https://hd2.tudocdn.net/1348007?w=660",
-      "publishedAt": "2026-06-06T15:56:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Carburanti: proroga del taglio delle accise fino al 3 luglio, ma lo sconto si riduce",
-      "link": "https://www.hdmotori.it/carburanti-proroga-taglio-accise-3-luglio/",
-      "excerpt": "Il Governo estende il taglio delle accise fino al 3 luglio, ma dimezza il beneficio sul gasolio. Ecco quanto costerà fare il pieno dal 7 giugno.",
-      "image": "https://hd2.tudocdn.net/1339336?w=660",
-      "publishedAt": "2026-06-06T15:30:26+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "BFGoodrich All-Terrain T/A KO3: il nuovo riferimento per il 4x4 senza compromessi",
-      "link": "https://www.hdmotori.it/bfgoodrich-all-terrain-t-a-ko3-il-nuovo-riferimento-per-il-4x4-senza-compromessi/",
-      "excerpt": "Il nuovo pneumatico BFGoodrich punta a diventare il nuovo benchmark per chi cerca affidabilità, resistenza e versatilità nel segmento all-terrain",
-      "image": "https://hd2.tudocdn.net/1348003?w=660",
-      "publishedAt": "2026-06-06T15:00:09+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Prova Isuzu D-Max 2026: inarrestabile, concreto e con il nuovo motore DIESEL!",
-      "link": "https://www.hdmotori.it/prove/prova-isuzu-d-max-2026-inarrestabile-concreto-e-con-il-nuovo-motore-diesel/",
-      "excerpt": "Il D-Max di Isuzu si rinnova per il 2026 e prende vita con un nuovo motore e potenzialità in fuoristrada eccezionalmente migliorate, dando prova di maturità",
-      "image": "https://hd2.tudocdn.net/1347984?w=660",
-      "publishedAt": "2026-06-06T12:00:06+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Era l'ora: Google sistema due bug importanti dei Pixel Watch",
-      "link": "https://www.hdblog.it/indossabili/articoli/n660553/google-pixel-watch-trova-mio-telefono-ecg-bug-fix/",
-      "excerpt": "\"Trova il mio telefono\" e l'ECG tornano a funzionare.",
-      "image": "https://hd2.tudocdn.net/1307826?w=660",
-      "publishedAt": "2026-06-06T11:55:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -262,15 +271,6 @@
       "excerpt": "Non più soltanto note salvate nella memoria. La capacità Dreaming di ChatGPT rielabora la cronologia delle chat per distinguere i dettagli ancora utili da quelli scaduti... Leggi…",
       "image": "https://images.dday.it/2mm4VpS5Z80SNX4Za4vPlHK7jzypc1Z8xmv8FPNf4QU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57646/74737c_Immagine_1_generata__2_.png",
       "publishedAt": "2026-06-05T10:27:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Anthropic tira il freno: lo sviluppo dei sistemi più IA più potenti deve rallentare ed essere regolamentato",
-      "link": "https://images.dday.it/Bx0yTwTpoVkcLEasuvWZzkHSi9lhB10w9JxZhhzNHqQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57643/f2e107_small_Screenshot_2026-06-05_alle_11.37.02_copia.png",
-      "excerpt": "Claude genera ormai oltre l’80% del codice integrato da Anthropic. L’azienda teme che l’accelerazione della ricerca superi la capacità di governi e autorità di intervenire. E…",
-      "image": "https://images.dday.it/Bx0yTwTpoVkcLEasuvWZzkHSi9lhB10w9JxZhhzNHqQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57643/f2e107_small_Screenshot_2026-06-05_alle_11.37.02_copia.png",
-      "publishedAt": "2026-06-05T09:40:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
