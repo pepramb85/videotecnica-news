@@ -1,26 +1,161 @@
 {
-  "generatedAt": "2026-06-08T14:00:52.820873+00:00",
+  "generatedAt": "2026-06-08T18:20:38.371014+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "WeedHack è la campagna malware-as-a-service che colpisce i giocatori di Minecraft",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n660671/weedhack-campagna-malware-as-a-service-minecraft/",
-      "excerpt": "I ricercatori di McAfee hanno scoperto una campagna malevola molto estesa che prende di mira i giocatori di Minecraft, passando da YouTube.",
-      "image": "https://hd2.tudocdn.net/1348219?w=660",
-      "publishedAt": "2026-06-08T13:55:00+00:00",
+      "title": "Apple Intelligence cambia architettura: Siri riparte da Gemini e da nuovo modello AI",
+      "link": "https://www.hdblog.it/smartphone/articoli/n660726/apple-intelligence-cambia-architettura-siri/",
+      "excerpt": "Apple ha annunciato alla WWDC 2026 una revisione importante di Apple Intelligence, partendo da una nuova architettura costruita su Foundation Models sviluppati in collaborazione…",
+      "image": "https://hd2.tudocdn.net/1348342?w=660",
+      "publishedAt": "2026-06-08T17:50:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Google testa il monitoraggio cardiaco direttamente da smartphone",
-      "link": "https://www.hdblog.it/google/articoli/n660677/google-monitoraggio-cardiaco-tramite-smartphone/",
-      "excerpt": "L'obiettivo è rendere più accessibile il controllo dei parametri vitali.",
-      "image": "https://hd2.tudocdn.net/1348224?w=660",
-      "publishedAt": "2026-06-08T13:50:00+00:00",
+      "title": "Le schede video AMD Radeon di prossima generazione sono ancora distanti",
+      "link": "https://www.hdblog.it/hardware/articoli/n660722/amd-rdna-5-schede-video-gpu-quando/",
+      "excerpt": "Potrebbe volerci fino al 2028.",
+      "image": "https://hd2.tudocdn.net/1305074?w=660",
+      "publishedAt": "2026-06-08T17:35:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "iOS 27 e iPadOS 27 ufficiali: Apple migliora interfaccia, ricerca e accelera le app",
+      "link": "https://www.hdblog.it/smartphone/articoli/n660712/ios-27-ufficiale-apple-prestazioni/",
+      "excerpt": "Apple ha ufficializzato iOS 27, il prossimo grande aggiornamento software per iPhone. La nuova versione non si presenta come una release costruita attorno a una sola funzione, ma…",
+      "image": "https://hd2.tudocdn.net/1348335?w=660",
+      "publishedAt": "2026-06-08T17:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple annuncia ufficialmente iOS 27 per iPhone",
+      "link": "https://www.tomshw.it/smartphone/apple-annuncia-ufficialmente-ios-27-per-iphone-2026-06-08",
+      "excerpt": "Con il lancio ufficiale di iOS 27, Apple ha presentato quello che si preannuncia come uno degli aggiornamenti più articolati nella storia del sistema operativo per iPhone. Non si…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/95652/lcimg-3ea69153-baea-4b2b-b320-21d8ee33cacf.jpg",
+      "publishedAt": "2026-06-08T17:27:44+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "iOS 27 migliora la velocità di iPhone (e supporta iPhone 11)",
+      "link": "https://www.tomshw.it/smartphone/ios-27-migliora-la-velocita-di-iphone-e-supporta-iphone-11-2026-06-08",
+      "excerpt": "Durante la conferenza annuale WWDC, l'evento con cui ogni anno Apple svela le novità software destinate ai propri dispositivi, la casa di Cupertino ha annunciato che iOS 27…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/95651/Apple-WWDC-26.webp",
+      "publishedAt": "2026-06-08T17:26:12+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "macOS 27 Golden Gate ufficiale alla WWDC 2026, le principali novità",
+      "link": "https://www.hdblog.it/apple/articoli/n660723/macos-27-novita-liquid-glass-ufficiale/",
+      "excerpt": "Il sistema operativo dei Mac evolve ancora.",
+      "image": "https://hd2.tudocdn.net/1348331?w=660",
+      "publishedAt": "2026-06-08T17:24:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Android Auto, Google Maps non passa più al tema scuro di notte",
+      "link": "https://www.hdblog.it/google/articoli/n660717/google-maps-android-auto-bug-tema-scuro/",
+      "excerpt": "Può essere piuttosto fastidioso di notte quando è tutto buio.",
+      "image": "https://hd2.tudocdn.net/1348320?w=660",
+      "publishedAt": "2026-06-08T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "NSO continua a prendere di mira WhatsApp, Meta torna in tribunale",
+      "link": "https://www.hdblog.it/android/articoli/n660710/whatsapp-nso-pegasus-tribunale-spear-phishing/",
+      "excerpt": "Zuckerberg e soci accusano la controversa società israeliana di aver violato gli ordini del tribunale.",
+      "image": "https://hd2.tudocdn.net/1333100?w=660",
+      "publishedAt": "2026-06-08T17:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Addio a un'icona di concretezza: la Fiat Tipo è fuori produzione",
+      "link": "https://www.hdmotori.it/addio-fiat-tipo-fuori-produzione/",
+      "excerpt": "Dopo undici anni di successi, la Fiat Tipo esce dal configuratore e rimane disponibile unicamente in stock. A ottobre sarà sostituita dalla Grizzly.",
+      "image": "https://hd2.tudocdn.net/1348325?w=660",
+      "publishedAt": "2026-06-08T17:00:04+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Reattore a fusione ARC da 400 MW: sempre più vicino all'uso commerciale",
+      "link": "https://www.hdblog.it/green/articoli/n660602/fusione-nucleare-reattore-arc-cfs/",
+      "excerpt": "Il progetto del reattore ARC è realistico e produrrà 400 megawatt di elettricità netta.",
+      "image": "https://hd2.tudocdn.net/1348069?w=660",
+      "publishedAt": "2026-06-08T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung Galaxy Z Fold 8 Wide sarà un trionfo di pixel: densità da record",
+      "link": "https://www.hdblog.it/smartphone/articoli/n660673/galaxy-z-fold-8-wide-display/",
+      "excerpt": "I display di Samsung Galaxy Z Fold 8 Wide potrebbero avere una densità di pixel ancora più elevata.",
+      "image": "https://hd2.tudocdn.net/1343921?w=660",
+      "publishedAt": "2026-06-08T16:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Motore superconduttore da 100 KW: ecco il futuro degli aerei elettrici",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n660601/motore-superconduttore-aerei-elettrici/",
+      "excerpt": "Un team scozzese testa un motore superconduttore da 100 kW leggerissimo per aerei elettrici.",
+      "image": "https://hd2.tudocdn.net/1348065?w=660",
+      "publishedAt": "2026-06-08T16:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "AI PC: la grande scommessa di NVIDIA convince?",
+      "link": "https://www.tomshw.it/hardware/gli-ai-pc-sono-la-scommessa-nvidia-ma-il-mercato-esita",
+      "excerpt": "NVIDIA sta provando a trasformare il PC in una macchina pensata prima di tutto per l'intelligenza artificiale locale, ma la scommessa non è ancora sostenuta da una domanda di…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/95648/gli-ai-pc-sono-la-scommessa-nvidia-ma-il-mercato-esita.png",
+      "publishedAt": "2026-06-08T15:07:21+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "INNO3D mostra una GeForce RTX 50 dal look molto familiare",
+      "link": "https://www.tomshw.it/hardware/inno3d-mostra-geforce-rtx-50-dal-look-molto-familiare",
+      "excerpt": "INNO3D ha mostrato alla fiera di Taipei due nuovi prototipi di schede video GeForce RTX 50 di fascia alta, anticipando possibili design custom per i prossimi modelli premium. La…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/95649/inno3d-mostra-geforce-rtx-50-dal-look-molto-familiare.png",
+      "publishedAt": "2026-06-08T15:05:03+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La guerra dell’AI passa anche dai visti per assumere talenti",
+      "link": "https://www.tomshw.it/hardware/i-talenti-ai-costano-cari-ma-openai-e-nvidia-corrono",
+      "excerpt": "OpenAI, Anthropic e NVIDIA stanno aumentando il ricorso ai visti H-1B per assumere profili specializzati nell'intelligenza artificiale, in controtendenza rispetto a una parte…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/95647/i-talenti-ai-costano-cari-ma-openai-e-nvidia-corrono.png",
+      "publishedAt": "2026-06-08T15:03:18+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Mondiali 2026 on the road: come avere internet sempre attivo tra USA, Canada e Messico",
+      "link": "https://www.tomshw.it/smartphone/mondiali-2026-on-the-road-come-avere-internet-sempre-attivo-tra-usa-canada-e-messico",
+      "excerpt": "L'attesa è finita: l'11 giugno prenderanno il via i Mondiali di calcio 2026, un'edizione destinata a entrare nella storia. Per la prima volta il torneo sarà ospitato da tre paesi…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/95640/Mondiali-2026-on-the-road-come-avere-internet-sempre-attivo-tra-USA,-Canada-e-Messico.png",
+      "publishedAt": "2026-06-08T14:56:39+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "È tempo dei no-fibra: danneggiati armadi stradali perché emettono “radiazioni che fanno male alla salute”",
+      "link": "https://images.dday.it/1tiW83KhqswyIcpsc105jo3TNuYZwCF3Tl04t5ahgwQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57670/a479cf_Depositphotos_710237442_XL.jpg",
+      "excerpt": "Potevano mancare i no-fibra? A Fondi purtroppo no. I vandalismi su alcune colonnine sono stati seguiti da cartelli che accusano la rete di emettere “radiazioni dannose”... Leggi…",
+      "image": "https://images.dday.it/1tiW83KhqswyIcpsc105jo3TNuYZwCF3Tl04t5ahgwQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57670/a479cf_Depositphotos_710237442_XL.jpg",
+      "publishedAt": "2026-06-08T14:21:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "The Odyssey, il trailer cambia formato in tempo reale: ecco quanto “taglia” ogni sala",
@@ -32,42 +167,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Italia, via libera dell'UE all'aiuto di Stato da 23 miliardi di euro per le energie rinnovabili",
-      "link": "https://www.hdblog.it/green/articoli/n660675/italia-aiuto-23-miliardi-euro-energia-rinnovabile/",
-      "excerpt": "Per costruire impianti fotovoltaici, eolici, idroelettrici e a biogas.",
-      "image": "https://hd2.tudocdn.net/1348244?w=660",
-      "publishedAt": "2026-06-08T13:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Vivo X Fold 6 si fa vedere nelle prime immagini reali: batteria enorme e 200 MP",
-      "link": "https://www.hdblog.it/smartphone/articoli/n660678/vivo-x-fold-6-foto-reali-design-batteria-200-mp/",
-      "excerpt": "Un colore particolare e una batteria ancora più grande.",
-      "image": "https://hd2.tudocdn.net/1348230?w=660",
-      "publishedAt": "2026-06-08T13:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Caricabatterie da 65W e power bank Air Editions: la risposta di UGREEN per chi lavora in mobilità",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n660389/caricabatterie-65w-power-bank-magnetici-ugreen/",
-      "excerpt": "UGREEN MagFlow & Nexode Air Lineup debutta con caricabatterie GaN da 65W e power bank magnetici Qi2 ultracompatti, progettati per offrire ricarica veloce e massima portabilità.",
-      "image": "https://hd2.tudocdn.net/1347711?w=660",
-      "publishedAt": "2026-06-08T13:30:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il Regno Unito vuole un'AI tutta sua, con NVIDIA al centro",
-      "link": "https://www.tomshw.it/hardware/il-regno-unito-vuole-unai-tutta-sua-con-nvidia-al-centro",
-      "excerpt": "Il Regno Unito sta trasformando la sua strategia nazionale sull'intelligenza artificiale in infrastruttura concreta, con NVIDIA al centro di una rete che coinvolge cloud provider,…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/95638/il-regno-unito-vuole-unai-tutta-sua-con-nvidia-al-centro.png",
-      "publishedAt": "2026-06-08T13:23:40+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "FUJIFILM X half in offerta: la fotocamera compatta che rivoluziona il formato verticale",
       "link": "https://images.dday.it/1XgheJx0Dz8tj6jWgIsRg2OwY-4s2GVPvgXFak0BPTo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57659/ff5f7d_ape2.jpg",
       "excerpt": "Una fotocamera compatta pensata per scatti verticali immediati, con immagini 2-in-1 e la classica resa colore Fujifilm, ora disponibile a prezzo scontato su Amazon. Scopri…",
@@ -75,78 +174,6 @@
       "publishedAt": "2026-06-08T13:21:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Recensione GoPro Mission 1 Pro: non chiamatela solo action cam",
-      "link": "https://www.tomshw.it/hardware/gopro-mission-1-pro-la-recensione-completa",
-      "excerpt": "GoPro cambia passo con la serie Mission 1 e introduce un sensore da 1 pollice che segna una rottura netta rispetto alla tradizione Hero. La Mission 1 Pro è il modello di…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/95271/Gopro-mission-1-10.jpg",
-      "publishedAt": "2026-06-08T13:16:39+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "I giochi più attesi di giugno e dove ordinarli al minor prezzo",
-      "link": "https://www.tomshw.it/videogioco/giochi-piu-attesi-dove-ordinarli-miglior-prezzo",
-      "excerpt": "Giugno 2026 si prospetta un mese davvero interessante per tutti gli appassionati di videogiochi. Le novità non mancano: nuove uscite e aggiornamenti di titoli già conosciuti…",
-      "image": "https://www.tomshw.it/storage/media/2026/05/91734/I-giochi-più-attesi.png",
-      "publishedAt": "2026-06-08T13:08:19+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Huawei sfida NVIDIA: DeepSeek è stato addestrato con chip cinesi?",
-      "link": "https://www.tomshw.it/hardware/huawei-sfida-nvidia-deepseek-e-stato-addestrato-con-chip-cinesi",
-      "excerpt": "Huawei rivendica un risultato che tocca uno dei nodi più sensibili dell'industria IA: addestrare modelli avanzati senza dipendere dai chip statunitensi. Un gruppo di ricerca che…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/95636/huawei-sfida-nvidia-deepseek-e-stato-addestrato-con-chip-cinesi.webp",
-      "publishedAt": "2026-06-08T13:06:48+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "I giochi da non perdere di maggio! Le nuove uscite già in sconto",
-      "link": "https://www.tomshw.it/videogioco/i-giochi-da-non-perdere-le-nuove-uscite-gia-in-sconto",
-      "excerpt": "Maggio è passato, e per voi appassionati di videogiochi questi giorni si prospettano ricchi di occasioni imperdibili. Diverse nuove uscite hanno già fatto il loro debutto, e…",
-      "image": "https://www.tomshw.it/storage/media/2025/12/78156/I-giochi-da-non-perdere-di-dicembre!-Le-nuove-uscite-già-in-sconto.jpg",
-      "publishedAt": "2026-06-08T13:00:34+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Uber porta i robotaxi a Londra, ma Waymo è già lì ad aspettarla",
-      "link": "https://www.tomshw.it/automotive/uber-porta-i-robotaxi-a-londra-ma-waymo-e-gia-li-ad-aspettarla",
-      "excerpt": "Uber sta preparando il debutto dei suoi robotaxi a Londra insieme a Wayve, ma la partita non si giocherà in campo libero. Waymo ha già portato le sue auto autonome sulle strade…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/95635/uber-porta-i-robotaxi-a-londra-ma-waymo-e-gia-li-ad-aspettarla.webp",
-      "publishedAt": "2026-06-08T12:58:48+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Realizza i tuoi progetti con AGOS: finanziamenti personalizzabili e richiedibili online",
-      "link": "https://www.tomshw.it/business/realizza-i-tuoi-progetti-con-agos-finanziamenti-personalizzabili-e-richiedibili-online",
-      "excerpt": "AGOS rinnova la propria proposta dedicata al credito al consumo con un'offerta di prestito personale pensata per rispondere alle esigenze di chi desidera finanziare progetti,…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/95633/AGOS.jpg",
-      "publishedAt": "2026-06-08T12:48:36+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Addio abbonamenti cloud? I nuovi NASync DXP GT di UGREEN portano la velocità del 10GbE a casa tua",
-      "link": "https://www.tomshw.it/smartphone/addio-abbonamenti-cloud-i-nuovi-nasync-dxp-gt-di-ugreen-portano-la-velocita-del-10gbe-a-casa-tua",
-      "excerpt": "UGREEN ha ufficialmente alzato il velo sulla sua nuova generazione di server NAS ad alte prestazioni: la serie NASync DXP GT. Ispirata nello spirito al concetto di Grand Touring,…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/94800/Centralized-Storage-for-Smart-Home.jpg",
-      "publishedAt": "2026-06-08T12:46:25+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Nintendo sta per riportare in vita Zelda: Ocarina of Time col remake per Switch 2",
-      "link": "https://www.hdblog.it/giochi/articoli/n660667/nintendo-zelda-ocarina-of-time-remake-switch-2/",
-      "excerpt": "Dal prossimo Nintendo Direct potrebbe arrivare l'annuncio del remake per un titolo storico come The Legend of Zelda: Ocarina of Time.",
-      "image": "https://hd2.tudocdn.net/1348207?w=660",
-      "publishedAt": "2026-06-08T12:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Sony porta Direct Connect sui vecchi TV Bravia: subwoofer e canali posteriori sono collegati wireless",
@@ -158,15 +185,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Bending Spoons si prepara alla Borsa: chiesta la quotazione al Nasdaq",
-      "link": "https://www.hdblog.it/business/articoli/n660668/bending-spoons-borsa-quotazione-nasdaq/",
-      "excerpt": "La società milanese ha depositato presso la SEC il modulo F-1 per una proposta di offerta pubblica",
-      "image": "https://hd2.tudocdn.net/1348209?w=660",
-      "publishedAt": "2026-06-08T12:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Torna la Dodge Charger, anche in Europa. Sarà anche elettrica",
       "link": "https://images.dday.it/N3yQ9YwfT8TnoU_o2oPVXjKVl8A2cb-ZCuY9LskF_Ng/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57667/070ed1_Dodge_thumb.jpg",
       "excerpt": "La muscle car americana rientra nel mercato europeo con una gamma multi-energia: anche versioni elettriche Daytona fino a 670 CV... Leggi tutto",
@@ -176,38 +194,38 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "iPad Pro M5, TV LG e router WiFi 7: offerte tech da non perdere oggi",
-      "link": "https://www.hdblog.it/amazon/offerte/n660663/offerte-tech-8-giugno-2026-amazon-mediaworld/",
-      "excerpt": "Amazon e MediaWorld aprono la settimana con sconti su iPad Pro M5, TV 4K, notebook Copilot+, router WiFi 7, monitor, droni DJI e smart home.",
-      "image": "https://hd2.tudocdn.net/1348203?w=660",
-      "publishedAt": "2026-06-08T12:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Migliori stampanti laser economiche (giugno 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-stampanti-economiche-laser-multifunzione",
+      "excerpt": "Al giorno d'oggi, le stampanti laser economiche si confermano come una delle soluzioni più richieste da utenti privati, studenti e piccoli uffici che necessitano di una stampa…",
+      "image": "https://www.tomshw.it/storage/media/2026/04/88989/migliori-stampanti-laser-economiche-copertina.jpg",
+      "publishedAt": "2026-06-08T11:53:30+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Half-Life, il mitico FPS di Valve gira (bene) su un Nokia N95",
-      "link": "https://www.hdblog.it/games/articoli/n660665/half-life-nokia-n95-porting-30-fps/",
-      "excerpt": "30 FPS quasi stabili, supporto a tastiera e mouse esterni... Qualcuno ce l'ha ancora nel cassetto per provare?",
-      "image": "https://hd2.tudocdn.net/1348198?w=660",
-      "publishedAt": "2026-06-08T11:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Migliori casse Bluetooth economiche (giugno 2026)",
+      "link": "https://www.tomshw.it/offerte/migliori-casse-bluetooth-economiche",
+      "excerpt": "Sul mercato delle casse Bluetooth c’è una vasta scelta per ogni esigenza: dai modelli piccoli e portatili a quelli più grandi e potenti, fino a chi cerca un perfetto mix tra…",
+      "image": "https://www.tomshw.it/storage/media/2026/04/89622/migliori-casse-bluetooth-economiche-copertina.jpg",
+      "publishedAt": "2026-06-08T11:45:43+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
-      "title": "TIM lancia i TimVision Days Estate: ecco i pacchetti in sconto fino al 27 giugno",
-      "link": "https://www.hdblog.it/tim/articoli/n660664/timvision-offerte-novita-pacchetti/",
-      "excerpt": "TIM lancia i TimVision Days Estate: fino al 27 giugno i clienti possono attivare le offerte TimVision con prezzi promozionali validi per 12 mesi anziché 6",
-      "image": "https://hd2.tudocdn.net/1348195?w=660",
-      "publishedAt": "2026-06-08T11:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Migliori smartphone compatti (giugno 2026)",
+      "link": "https://www.tomshw.it/guide/migliori-smartphone-compatti",
+      "excerpt": "Negli anni in cui i cosiddetti padelloni stanno sempre più prendendo piede tra gli smartphone, risulta molto complicato trovare dispositivi in grado di offrire valide prestazioni…",
+      "image": "https://www.tomshw.it/storage/media/2026/03/88205/migliori-smartphone-compatti-copertina.jpg",
+      "publishedAt": "2026-06-08T11:39:10+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Migliori accessori per lo smart working (giugno 2026)",
-      "link": "https://www.tomshw.it/offerte/migliori-accessori-smart-working",
-      "excerpt": "Lo smart working non è più una soluzione d'emergenza: per molti professionisti è diventato un modo stabile di alternare casa, ufficio e lavoro in mobilità. Proprio per questo gli…",
-      "image": "https://www.tomshw.it/storage/media/2026/05/92063/migliori-accessori-smart-working-copertina.jpg",
-      "publishedAt": "2026-06-08T11:20:22+00:00",
+      "title": "Migliori mouse ergonomici e verticali (giugno 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-mouse-ergonomici",
+      "excerpt": "Al giorno d'oggi, individuare il miglior mouse ergonomico o verticale è diventato un passo essenziale per tutelare la salute durante l’uso prolungato del computer. L’evoluzione…",
+      "image": "https://www.tomshw.it/storage/media/2026/03/87666/migliori-mouse-ergonomici-e-verticali-copertina.jpg",
+      "publishedAt": "2026-06-08T11:31:54+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -255,24 +273,6 @@
       "publishedAt": "2026-06-08T09:22:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "I robot iperrealistici U1 di UBTech sono incredibili: c’è la versione maschile e femminile",
-      "link": "https://images.dday.it/V1vcqZwjELXtcfQCXflbM0xQcExzNpNNAfs0KYgx3TE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57661/5d5bba_HKQrptgXQAAAGtZ.jpg",
-      "excerpt": "Il nuovo U1 abbandona l’aspetto industriale dei Walker e viene proposto come compagno domestico in pelle sintetica e aspetto umano. Due le versioni disponibili, con autonomia fino…",
-      "image": "https://images.dday.it/V1vcqZwjELXtcfQCXflbM0xQcExzNpNNAfs0KYgx3TE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57661/5d5bba_HKQrptgXQAAAGtZ.jpg",
-      "publishedAt": "2026-06-08T09:14:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migliori TV per il gaming (giugno 2026)",
-      "link": "https://www.tomshw.it/videogioco/miglior-tv-gaming",
-      "excerpt": "Scegliere un buon TV gaming nel 2026 non significa inseguire la scheda tecnica più rumorosa, ma trovare il pannello giusto per valorizzare PS5, Xbox Series X|S e PC nel vostro…",
-      "image": "https://www.tomshw.it/storage/media/2026/04/90262/migliori-tv-gaming-copertina.jpg",
-      "publishedAt": "2026-06-08T07:13:21+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     }
   ]
 }
