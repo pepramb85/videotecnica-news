@@ -1,17 +1,206 @@
 {
-  "generatedAt": "2026-06-09T14:32:25.739337+00:00",
+  "generatedAt": "2026-06-09T17:54:54.697814+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "iPhone 17 Pro 256GB a 1.139€ e iPhone 17 Pro Max 512GB a 1.459€ su eBay con codice sconto",
-      "link": "https://www.hdblog.it/smartphone/offerte/n660838/apple-iphone-17-pro-pro-max-ebay-codice-sconto/",
-      "excerpt": "iPhone 17 Pro 256GB a 1.139€ e iPhone 17 Pro Max 512GB a 1.459€ su eBay con codice sconto. Venditori professionali e feedback molto alti.",
-      "image": "https://hd2.tudocdn.net/1348591?w=660",
-      "publishedAt": "2026-06-09T14:30:00+00:00",
+      "title": "Razer lancia il suo primo microfono XLR: ecco Seiren V3 Pro",
+      "link": "https://www.hdblog.it/hardware/articoli/n660867/razer-microfono-podcast-streaming-xlr-seiren/",
+      "excerpt": "Già disponibile negli USA a 250 dollari; per ora da noi non pervenuto.",
+      "image": "https://hd2.tudocdn.net/1348646?w=660",
+      "publishedAt": "2026-06-09T17:45:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Claude Fable 5 e Mythos 5 sono qui: perfetti per compiti più complessi",
+      "link": "https://www.tomshw.it/hardware/anthropic-claude-fable-5-mythos-5",
+      "excerpt": "Anthropic ha annunciato due nuovi modelli della famiglia Claude: Claude Fable 5 e Claude Mythos 5. Il primo viene presentato dall'azienda come un modello di classe Mythos reso…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/95796/Claude-Mythos-5.webp",
+      "publishedAt": "2026-06-09T17:37:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Oggi arriva Euro-Office, ma non mancano le critiche della Document Foundation",
+      "link": "https://www.hdblog.it/android/articoli/n660862/euro-office-critiche-libre-office-ooxml/",
+      "excerpt": "È davvero la prima suite europea libera? E poi: il formato OOXML di Microsoft è davvero la scelta migliore?",
+      "image": "https://hd2.tudocdn.net/1348642?w=660",
+      "publishedAt": "2026-06-09T17:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "ASUS ROG Cetra Open Wireless arrivano in Italia: prezzi e specifiche",
+      "link": "https://www.hdblog.it/indossabili/articoli/n660861/asus-rog-cetra-open-wireless-prezzi-italia-quando/",
+      "excerpt": "Poco più di 200 euro. Decisamente un prodotto premium.",
+      "image": "https://hd2.tudocdn.net/1348639?w=660",
+      "publishedAt": "2026-06-09T17:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nuovo reattore nucleare SMR compatto: primi test nel deserto dello Utah",
+      "link": "https://www.hdblog.it/green/articoli/n660743/reattore-nucleare-modulare-utah/",
+      "excerpt": "L'Utah sceglie il reattore modulare SMR-300 di Holtec per produrre energia pulita anche nel deserto.",
+      "image": "https://hd2.tudocdn.net/1348369?w=660",
+      "publishedAt": "2026-06-09T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple chiarisce il ruolo di Google nello sviluppo della nuova Apple Intelligence",
+      "link": "https://www.hdblog.it/google/articoli/n660860/apple-intelligence-federighi-google-gemini/",
+      "excerpt": "Craig Federighi spiega che Gemini è stato usato solo nella fase di distillazione dei nuovi modelli AFM.",
+      "image": "https://hd2.tudocdn.net/1348637?w=660",
+      "publishedAt": "2026-06-09T17:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Vola a Mach 5.5 e distrugge i radar nemici: ecco il nuovo missile indiano",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n660762/india-test-missile-ipersonico-rudram/",
+      "excerpt": "L'India testa con successo il missile ipersonico RudraM-II per distruggere i radar nemici.",
+      "image": "https://hd2.tudocdn.net/1348411?w=660",
+      "publishedAt": "2026-06-09T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La Commissione Europea risponde sul blocco di Siri AI: \"Una scelta commerciale di Apple”",
+      "link": "https://images.dday.it/qBTUKZm-_vP4j4C9joBCzU7n01fo1_NMfP8SkEVBy3M/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57688/bff9e8_eur.jpg",
+      "excerpt": "Nel corso del briefing odierno della Commissione Europea il portavoce Thomas Regnier ha risposto al duro statement di Apple sulla questione DMA. Mettendo in dubbio tutto quanto…",
+      "image": "https://images.dday.it/qBTUKZm-_vP4j4C9joBCzU7n01fo1_NMfP8SkEVBy3M/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57688/bff9e8_eur.jpg",
+      "publishedAt": "2026-06-09T16:46:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Meta userà i dati di siti esterni per personalizzare i feed degli utenti",
+      "link": "https://www.hdblog.it/android/articoli/n660857/meta-instagram-facebook-tracking-siti-terzi-feed/",
+      "excerpt": "Compri una tenda e ti si riempie il feed di contenuti relativi all'outdoor.",
+      "image": "https://hd2.tudocdn.net/1086835?w=660",
+      "publishedAt": "2026-06-09T16:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Opera per Android vi ricorda che i Mondiali di calcio 2026 stanno per iniziare",
+      "link": "https://www.hdblog.it/smartphone/articoli/n660830/opera-android-mondiali-fifa-2026/",
+      "excerpt": "Opera aggiorna il browser per Android con una nuova schermata iniziale per i Mondiali di calcio 2026.",
+      "image": "https://hd2.tudocdn.net/1251066?w=660",
+      "publishedAt": "2026-06-09T16:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "The Bear chiude i battenti su Disney+: ecco il trailer ufficiale della S5",
+      "link": "https://www.hdblog.it/curiosita/articoli/n660749/the-bear-5-trailer-uscita-disney/",
+      "excerpt": "Carmy lascia il ristorante e Sydney guida la squadra verso l'ultima stella Michelin dal 26 giugno.",
+      "image": "https://hd2.tudocdn.net/1348397?w=660",
+      "publishedAt": "2026-06-09T16:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Data center, così un terreno da 10 dollari è passato a valerne milioni",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n660823/data-center-terreno-10-dollari-milioni/",
+      "excerpt": "Agricoltore dona un terreno alla città perché venga trasformato in un parco, ma l'industria informatica se ne appropria",
+      "image": "https://hd2.tudocdn.net/1348631?w=660",
+      "publishedAt": "2026-06-09T16:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Taiwan valuta di trasformare i chip AI per la Cina in un reato",
+      "link": "https://www.tomshw.it/hardware/taiwan-valuta-di-trasformare-i-chip-ai-per-la-cina-in-un-reato",
+      "excerpt": "Taiwan sta valutando un giro di vite molto più duro sull’export di chip AI verso la Cina: non più soltanto limiti amministrativi o licenze per singole aziende inserite in…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/95793/taiwan-valuta-di-trasformare-i-chip-ai-per-la-cina-in-un-reato.png",
+      "publishedAt": "2026-06-09T16:22:40+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "L’AI di NVIDIA non vuole restare chiusa nei data center",
+      "link": "https://www.tomshw.it/hardware/lai-esce-dagli-schermi-nvidia-e-tesla-accelerano",
+      "excerpt": "NVIDIA ha spostato un altro pezzo della propria strategia AI dal cloud al mondo fisico: il nuovo riferimento umanoide basato su Unitree e sulla piattaforma Isaac GR00T nasce per…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/95794/l-ai-esce-dagli-schermi-nvidia-e-tesla-accelerano.png",
+      "publishedAt": "2026-06-09T16:21:30+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Sovranità digitale europea: smettiamo di difenderci e iniziamo a competere",
+      "link": "https://www.tomshw.it/business/sovranita-digitale-europea-difensiva-competitiva-bonfiglio",
+      "excerpt": "La corsa alla ‘sovranità digitale’ dell’Europa rischia di diventare un esercizio di protezione del mercato interno. Il vero problema non è tenere fuori gli americani, ma che non…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/95791/sovranita-digitale-europea-smettiamo-di-difenderci-e-iniziamo-a-competere.png",
+      "publishedAt": "2026-06-09T16:09:30+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Acer Swift Air 14 è la risposta di Acer al MacBook Neo e alla crisi delle RAM",
+      "link": "https://images.dday.it/Ydr4gpYmUsdiIDx1J_9hETKn_ILByiSDQBe5BWKfT7A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57686/5a3909_P1000476.jpg",
+      "excerpt": "In un anno difficilissimo per il mercato PC, Acer risponde con un portatile leggero e dal design premium pensato per contrastare sia l’ascesa del MacBook Neo di Apple che la crisi…",
+      "image": "https://images.dday.it/Ydr4gpYmUsdiIDx1J_9hETKn_ILByiSDQBe5BWKfT7A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57686/5a3909_P1000476.jpg",
+      "publishedAt": "2026-06-09T16:06:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "D-Matrix fa sul serio: il chip AI anti-NVIDIA va in produzione",
+      "link": "https://www.tomshw.it/hardware/d-matrix-fa-sul-serio-il-chip-ai-anti-nvidia-va-in-produzione",
+      "excerpt": "D-Matrix entra nella fase più concreta della sua sfida al dominio dei chip per intelligenza artificiale: l'azienda sta portando in produzione Corsair, un acceleratore progettato…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/95790/D-Matrix-fa-sul-serio-il-chip-AI-anti-NVIDIA-va-in-produzione.jpg",
+      "publishedAt": "2026-06-09T15:43:08+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "L'AI di Meta ha bisogno di operai, non solo di chip",
+      "link": "https://www.tomshw.it/hardware/lai-di-meta-ha-bisogno-di-operai-non-solo-di-chip",
+      "excerpt": "Meta ha lanciato di recente America’s Workforce Academy, un programma gratuito pensato per formare lavoratori specializzati destinati ai cantieri dei suoi data center. La mossa…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/95789/l-ai-di-meta-ha-bisogno-di-operai-non-solo-di-chip.png",
+      "publishedAt": "2026-06-09T15:37:48+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Un data center preoccupa lo zoo di Nashville: è troppo vicino",
+      "link": "https://www.tomshw.it/hardware/un-data-center-preoccupa-lo-zoo-di-nashville-e-troppo-vicino",
+      "excerpt": "DC Blox vuole costruire un data center accanto al Nashville Zoo, ma il progetto è finito al centro di una contestazione pubblica perché l'area scelta confina con habitat sensibili…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/95783/un-data-center-preoccupa-lo-zoo-di-nashville-e-troppo-vicino.png",
+      "publishedAt": "2026-06-09T15:16:24+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Alibaba, Baidu, BOE, BYD e Unitree considerate dal Pentagono aziende collegate all’esercito cinese e messe nella lista nera",
+      "link": "https://images.dday.it/GQYPSb5Ylw1DtyeGWrI8_ypw5kekPSrs6oPzn5x77Yo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57687/54a4a6_Depositphotos_687964832_XL.jpg",
+      "excerpt": "Robot, auto elettriche, panelli OLED e intelligenza artificiale entrano nella nuova offensiva americana contro la Cina. Il Pentagono inserisce Alibaba, Baidu, BOE, BYD, NIO,…",
+      "image": "https://images.dday.it/GQYPSb5Ylw1DtyeGWrI8_ypw5kekPSrs6oPzn5x77Yo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57687/54a4a6_Depositphotos_687964832_XL.jpg",
+      "publishedAt": "2026-06-09T15:12:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "SpaceX svela Gigasat, la fabbrica per l'AI nello spazio",
+      "link": "https://www.tomshw.it/hardware/spacex-svela-gigasat-la-fabbrica-per-lai-nello-spazio",
+      "excerpt": "SpaceX ha annunciato Gigasat, una nuova fabbrica a Bastrop, in Texas, pensata per costruire satelliti dedicati al calcolo AI nello spazio. Il progetto conta perché sposta il…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/95779/spacex-svela-gigasat-la-fabbrica-per-l-ai-nello-spazio.png",
+      "publishedAt": "2026-06-09T15:04:58+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Voli intercontinentali? Non partire per le vacanze senza questi prodotti essenziali",
+      "link": "https://www.tomshw.it/altro/voli-intercontinentali-non-partire-per-le-vacanze-senza-questi-prodotti-essenziali",
+      "excerpt": "Le vacanze dall'altra parte del mondo sono un'esperienza entusiasmante, ma anche quelle meglio organizzate possono trasformarsi in un incubo se si parte senza l'attrezzatura e i…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/95776/Voli-intercontinentali-Non-partire-per-le-vacanze-senza-questi-prodotti-essenziali.png",
+      "publishedAt": "2026-06-09T15:04:30+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "TCL lancia in Italia la gamma di monitor da gaming. I QD-Mini LED hanno un prezzo super",
@@ -23,33 +212,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Mondiali di calcio 2026 al via: quando il vero avversario è il clima",
-      "link": "https://www.hdblog.it/green/articoli/n660809/coppa-mondo-calcio-2026-allarme-clima-caldo/",
-      "excerpt": "I dubbi degli scienziati per temperature ed emissioni.",
-      "image": "https://hd2.tudocdn.net/1348590?w=660",
-      "publishedAt": "2026-06-09T14:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Follia in Cina: robot vestito da clown sferra un calcio a un bimbo | Video",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n660607/robot-umanoide-calcio-bambino-cina/",
-      "excerpt": "In Cina un robot Unitree G1 colpisce un bambino allo stomaco e riaccende il dibattito sulla AI.",
-      "image": "https://hd2.tudocdn.net/1348072?w=660",
-      "publishedAt": "2026-06-09T14:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Una RTX 5090 ha avuto il problema che il proprietario voleva evitare",
-      "link": "https://www.tomshw.it/hardware/il-connettore-della-rtx-5090-si-fonde-anche-con-i-controlli",
-      "excerpt": "Un possessore di RTX 5090 ha scoperto un connettore di alimentazione fuso durante un controllo periodico del proprio PC, nonostante una routine di verifiche pensata proprio per…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/95775/il-connettore-della-rtx-5090-si-fonde-anche-con-i-controlli.png",
-      "publishedAt": "2026-06-09T14:14:07+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Annunciata la nuova Audi Q7. Arriverà anche ibrida plug-in",
       "link": "https://images.dday.it/sxOLJ4pZGaQ9eOSnUae6wLlkqOzeCzT-k9hfx1u6-eA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57684/a7da13_q7_thumb.jpg",
       "excerpt": "La nuova Audi Q7 arriverà in Italia a settembre con motori V6 TDI mild hybrid plus, abitacolo fino a sette posti, nuova elettronica con IA e dotazioni evolute... Leggi tutto",
@@ -59,132 +221,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "BOOX Go 6 (Gen II): il nuovo ePaper Reader compatto si trasforma in taccuino smart",
-      "link": "https://www.hdblog.it/tablet/articoli/n660833/boox-go-6-gen-ii-ereader-leggere-scrivere-prezzo/",
-      "excerpt": "PREZZO.",
-      "image": "https://hd2.tudocdn.net/1348563?w=660",
-      "publishedAt": "2026-06-09T14:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Project Helix: ancora tutto da decidere per la nuova XBOX, pesa la crisi delle memorie",
-      "link": "https://www.hdblog.it/games/articoli/n660822/project-helix-nuova-xbox-pesa-crisi-memorie/",
-      "excerpt": "La console arriverà, ma non è dato sapere quando e con quali caratteristiche: Project Helix rimane un'incognita anche per la divisione XBOX.",
-      "image": "https://hd2.tudocdn.net/1348525?w=660",
-      "publishedAt": "2026-06-09T14:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Batterie litio-aria: la nuova tecnologia che promette 1.600 km di autonomia",
-      "link": "https://www.hdmotori.it/batterie-litio-aria-nuova-tecnologia/",
-      "excerpt": "La cinese CATL sta sviluppando una nuova batteria con celle \"traspiranti\" che eguagliano la densità energetica della benzina.",
-      "image": "https://hd2.tudocdn.net/1348567?w=660",
-      "publishedAt": "2026-06-09T14:00:26+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Origin Code mostra DDR5 raffreddate a liquido come una CPU",
-      "link": "https://www.tomshw.it/hardware/origin-code-mostra-ddr5-raffreddate-a-liquido-come-una-cpu",
-      "excerpt": "Origin Code, marchio ad alte prestazioni legato a Biwin, ha portato al Computex una dimostrazione concreta delle sue memorie Vortex DDR5: moduli ad alta capacità e alta frequenza…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/95774/origin-code-mostra-ddr5-raffreddate-a-liquido-come-una-cpu.png",
-      "publishedAt": "2026-06-09T13:55:12+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Bixby potrebbe battere Siri con questa nuova funzione ideata da Samsung",
-      "link": "https://www.hdblog.it/smartphone/articoli/n660797/bixby-nuova-funzione-siri/",
-      "excerpt": "Samsung sta studiando un nuovo modo per attivare Bixby: basterà un gesto semplicissimo.",
-      "image": "https://hd2.tudocdn.net/1083022?w=660",
-      "publishedAt": "2026-06-09T13:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Stronghold 4 è ufficiale, ecco il primo trailer in Unreal Engine",
-      "link": "https://www.tomshw.it/videogioco/stronghold-4-e-ufficiale-si-torna-allassedio-2026-06-09",
-      "excerpt": "Nel corso del PC Gaming Show 2026, tra gli annunci che hanno catalizzato maggiormente l'attenzione degli appassionati di strategici, spicca il ritorno di una serie storica:…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/95765/Stronghold-4-(1).webp",
-      "publishedAt": "2026-06-09T13:25:32+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "La batteria solid-state di Donut Lab finisce sotto accusa",
-      "link": "https://www.tomshw.it/automotive/batteria-solid-state-donut-lab-accusa",
-      "excerpt": "Donut Lab finisce sotto accusa per le sue affermazioni sulla batteria solid-state. Un’indagine pubblicata dal canale tecnico Ziroth e ripresa da The Verge sostiene che il progetto…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/95763/batteria-solid-state-donut-lab-accusa.webp",
-      "publishedAt": "2026-06-09T13:23:40+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il nuovo speaker Marshall dura il doppio e si ripara meglio",
-      "link": "https://www.tomshw.it/altro/marshall-stockwell-iii-batteria-sostituibile",
-      "excerpt": "Marshall Stockwell III è il nuovo speaker Bluetooth portatile del marchio e aggiorna una linea ferma dal 2019. Il design resta riconoscibile, con maniglia superiore e diffusione…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/95762/marshall-stockwell-iii-batteria-sostituibile.webp",
-      "publishedAt": "2026-06-09T13:21:18+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Samsung Galaxy Z Flip 8 e Watch 9 avvistati presso la FCC: il lancio si avvicina",
-      "link": "https://www.hdblog.it/samsung/articoli/n660824/galaxy-z-flip-8-watch-9-avvistati-fcc/",
-      "excerpt": "Manca ormai circa un mese alla presentazione ufficiale",
-      "image": "https://hd2.tudocdn.net/1347207?w=660",
-      "publishedAt": "2026-06-09T13:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Questo trailer ibrido vuole farvi dimenticare le colonnine",
-      "link": "https://www.tomshw.it/automotive/evotrex-camper-ibrido-off-grid-colonnine",
-      "excerpt": "Evotrex ha raccolto 30 milioni di dollari in un round Serie A per completare sviluppo e test del suo primo trailer ibrido. Il prodotto si chiama PG5 ed è pensato per chi vuole…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/95761/evotrex-camper-ibrido-off-grid-colonnine.webp",
-      "publishedAt": "2026-06-09T13:19:47+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "NotebookLM ora può costruire le fonti partendo da una domanda",
-      "link": "https://www.tomshw.it/hardware/notebooklm-gemini-35-computer-cloud",
-      "excerpt": "NotebookLM sta ricevendo un aggiornamento che sposta il servizio da taccuino intelligente a laboratorio di ricerca assistita. Google lo porta su Gemini 3.5 e introduce un flusso…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/95760/notebooklm-gemini-35-computer-cloud.webp",
-      "publishedAt": "2026-06-09T13:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Seattle prepara una pausa sui data center AI, e c'entra Amazon",
-      "link": "https://www.tomshw.it/hardware/seattle-data-center-ai-amazon-moratoria",
-      "excerpt": "Seattle sta valutando una moratoria di un anno sui nuovi data center AI, dopo che diversi operatori hanno proposto cinque strutture di grandi dimensioni dentro il perimetro…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/95759/seattle-data-center-ai-amazon-moratoria.webp",
-      "publishedAt": "2026-06-09T13:16:32+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Xiaomi presenta un nuovo rifinitore per i peli del naso premium (ed economico)",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n660816/rifinitore-peli-naso-xiaomi-caratteristiche-prezzo/",
-      "excerpt": "Xiaomi ha presentato in Cina il nuovo Mijia Electric Nose Hair Trimmer Pro, un rifinitore per peli del naso con corpo in lega di alluminio, impermeabilità IPX7 e fino a 150 minuti…",
-      "image": "https://hd2.tudocdn.net/1348508?w=660",
-      "publishedAt": "2026-06-09T13:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Galaxy S26 a 499€, Apple Watch 11, robot e altro: offerte tech da non perdere",
-      "link": "https://www.hdblog.it/amazon/offerte/n660821/offerte-tech-9-giugno-2026-amazon-mediaworld/",
-      "excerpt": "Samsung Galaxy S26 con supervalutazione usato, Apple Watch Series 11, robot ECOVACS, cuffie Bose e iPhone 17 Pro: ecco le migliori offerte tech del 9 giugno.",
-      "image": "https://hd2.tudocdn.net/1348528?w=660",
-      "publishedAt": "2026-06-09T13:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Amazon ha tempo fino al 30 luglio per arrivare a 1.616 satelliti Leo in orbita e operativi",
       "link": "https://images.dday.it/w7hqfSTX4djWZwj7EtTplkRM4G8uXszfj9T89-VR5fA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57682/5268f3_Screenshot_2026-06-09_alle_15.01.49.png",
       "excerpt": "Amazon prevede circa 700 satelliti operativi contro i 1.616 richiesti entro luglio. La FCC le concede una deroga limitata ma con una penalizzazione... Leggi tutto",
@@ -192,15 +228,6 @@
       "publishedAt": "2026-06-09T13:03:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "L’IA sta aiutando Linux a salvare vecchie GPU AMD",
-      "link": "https://www.tomshw.it/hardware/vecchie-radeon-salvate-ia-linux-copilot",
-      "excerpt": "Linux sta sperimentando un modo molto concreto di usare l'IA: mantenere vivo codice grafico vecchio di molti anni. Il driver R600 per GPU AMD e ATI dell'era Radeon HD 2000-6000 ha…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/95745/vecchie-radeon-salvate-ia-linux-copilot.webp",
-      "publishedAt": "2026-06-09T12:22:16+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Dall'UE 23 miliardi all'Italia per incentivare la produzione di energia rinnovabile",
@@ -239,38 +266,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Philips Bodygroom Serie 3000 in sconto su Amazon: progettato per radere tutto il corpo, anche le zone più delicate",
-      "link": "https://images.dday.it/SeN_7tL3iKOSJ_kCIK4ay8aTeNKT9aFz-eTYfQZ97-U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/56487/9f219e_ape2.jpg",
-      "excerpt": "Approfitta dello sconto Amazon sul Bodygroom Philips series 3000: il rifinitore per uomo progettato per garantire una rasatura precisa, confortevole su tutte le parti del corpo.…",
-      "image": "https://images.dday.it/SeN_7tL3iKOSJ_kCIK4ay8aTeNKT9aFz-eTYfQZ97-U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/56487/9f219e_ape2.jpg",
-      "publishedAt": "2026-06-09T08:46:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "NotebookLM è passato a Gemini 3.5 e ora può aggiungere fonti dalla chat",
-      "link": "https://images.dday.it/2sQPCA37ofT1GYfRmXZxW0U2Q1cuEF7S8_coqHtzutE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57679/00bc64_NotebookLM-Sources.jpeg",
-      "excerpt": "NotebookLM parte da una domanda, cerca le fonti e genera documenti, grafici, fogli e presentazioni modificabili. L’aggiornamento arriva inizialmente agli abbonati AI Ultra, ma…",
-      "image": "https://images.dday.it/2sQPCA37ofT1GYfRmXZxW0U2Q1cuEF7S8_coqHtzutE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57679/00bc64_NotebookLM-Sources.jpeg",
-      "publishedAt": "2026-06-09T08:30:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Microsoft ha bloccato 73 repository GitHub: un malware colpiva chi usava assistenti IA",
-      "link": "https://images.dday.it/gg7Swhw2rI-YfjfWFg-fNT8hMPH2fYJVaaUadVRVyLc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57678/dd8580_Depositphotos_341546496_XL.jpg",
-      "excerpt": "Il worm Miasma si attivava aprendo i progetti in VS Code, Cursor, Claude Code o Gemini CLI. Microsoft ha avvisato alcuni utenti potenzialmente coinvolti... Leggi tutto",
-      "image": "https://images.dday.it/gg7Swhw2rI-YfjfWFg-fNT8hMPH2fYJVaaUadVRVyLc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57678/dd8580_Depositphotos_341546496_XL.jpg",
-      "publishedAt": "2026-06-09T07:56:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Anthropic rinnova la minaccia esistenziale, chiede a tutti di rallentare",
-      "link": "https://www.tomshw.it/business/anthropic-pausa-globale-ai-auto-miglioramento-ricorsivo",
-      "excerpt": "Anthropic ha chiesto ai principali laboratori di AI di concordare una pausa coordinata nello sviluppo dei modelli di frontiera, perché l'auto-miglioramento ricorsivo potrebbe…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/95687/07-anthropic-pause.jpg",
-      "publishedAt": "2026-06-09T07:21:29+00:00",
+      "title": "Cosa significa disarmare l'AI, l'enciclica del Papa al microscopio (podcast)",
+      "link": "https://www.tomshw.it/business/two-humans-in-the-loop-disarmare-ai-enciclica-magnifica-humanitas",
+      "excerpt": "Nel nuovo episodio di Two Humans in the Loop, il podcast di Tom's Hardware dedicato all'intelligenza artificiale e al suo impatto sul lavoro, Valerio Porcu e Fabrizio Degni hanno…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/95689/09-podcast-disarm.jpg",
+      "publishedAt": "2026-06-09T06:49:45+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
