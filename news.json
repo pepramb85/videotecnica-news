@@ -1,9 +1,81 @@
 {
-  "generatedAt": "2026-06-10T16:55:08.354289+00:00",
+  "generatedAt": "2026-06-10T20:18:13.399918+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Cosa sono gli AGENTI AI e perché NVIDIA li vuole inserire nei vostri nuovi computer",
+      "link": "https://www.hdblog.it/portatili/speciali/n660476/nvidia-rtx-spark-cosa-sono-agenti-ai/",
+      "excerpt": "Tutte le novità dalla GTC",
+      "image": "https://hd2.tudocdn.net/1348216?w=660",
+      "publishedAt": "2026-06-10T18:30:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Xbox, tante novità all'interfaccia (e non solo) in distribuzione per gli Insider",
+      "link": "https://www.hdblog.it/microsoft/articoli/n661003/xbox-insider-novita-alimentazione-social/",
+      "excerpt": "Più personalizzazione, maggiore efficienza energetica e gestione più intuitiva dei propri contatti.",
+      "image": "https://hd2.tudocdn.net/1340087?w=660",
+      "publishedAt": "2026-06-10T18:06:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Valve Steam Machine, forse abbiamo la data di uscita esatta",
+      "link": "https://www.hdblog.it/games/articoli/n661000/valve-steam-machine-data-precisa-quando-uscita/",
+      "excerpt": "E potrebbe essere più vicina di quanto molti temevano.",
+      "image": "https://hd2.tudocdn.net/1349003?w=660",
+      "publishedAt": "2026-06-10T17:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung Galaxy Watch Ultra 2 farà un grande salto in avanti nell'autonomia?",
+      "link": "https://www.hdblog.it/indossabili/articoli/n660994/samsung-galaxy-watch-ultra-2-batteria-800-mah/",
+      "excerpt": "Più giorni con una sola carica potrebbero non essere un miraggio.",
+      "image": "https://hd2.tudocdn.net/1347549?w=660",
+      "publishedAt": "2026-06-10T17:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Cloudflare, arrivano le difese automatiche real-time contro gli attacchi",
+      "link": "https://www.hdblog.it/business/articoli/n660996/cloudflare-protezioni-automatiche-attacchi-waf/",
+      "excerpt": "La società promette una riduzione cospicua dei tempi di risposta alle minacce.",
+      "image": "https://hd2.tudocdn.net/1348995?w=660",
+      "publishedAt": "2026-06-10T17:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Una delle due è un killer, la folle fuga nella nuova serie Prime Video | Trailer",
+      "link": "https://www.hdblog.it/amazon/articoli/n660983/corri-o-muori-serie-prime-video-trailer/",
+      "excerpt": "Octavia Spencer e Hannah Waddingham sono le protagoniste della nuova serie Corri o muori su Prime Video.",
+      "image": "https://hd2.tudocdn.net/1348980?w=660",
+      "publishedAt": "2026-06-10T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google vuole rendere Gemini un tool sempre più indispensabile per le PMI",
+      "link": "https://www.hdblog.it/google/articoli/n660992/google-gemini-funzioni-pmi-integrazione-profili/",
+      "excerpt": "Due feature dedicate in roll-out!",
+      "image": "https://hd2.tudocdn.net/1348988?w=660",
+      "publishedAt": "2026-06-10T17:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Dalla Luna ai data center: la batteria che non teme il gelo spaziale",
+      "link": "https://www.hdblog.it/green/articoli/n660968/solidion-batterie-spazio-luna/",
+      "excerpt": "Solidion lancia una batteria al litio-metallo che resiste nello spazio da -80°C a +60°C.",
+      "image": "https://hd2.tudocdn.net/1306364?w=660",
+      "publishedAt": "2026-06-10T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Gli avvocati di entrambe le parti si affidano all’AI, processo finisce nel caos",
       "link": "https://www.hdblog.it/tecnologia/articoli/n660988/avvocati-ai-processo-annullato-allucinazioni/",
@@ -23,51 +95,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Olinia: la microcar elettrica messicana con spazio per sei persone",
-      "link": "https://www.hdmotori.it/olinia-microcar-elettrica-messicana/",
-      "excerpt": "La presidente del Messico ha presentato una microcar a basso costo pensata per rivoluzionare la mobilità urbana e sviluppare la filiera locale.",
-      "image": "https://hd2.tudocdn.net/1348985?w=660",
-      "publishedAt": "2026-06-10T16:30:33+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "WhatsApp: gli aggiornamenti di stato non spariranno più con il nuovo archivio",
-      "link": "https://www.hdblog.it/smartphone/articoli/n660955/whatsapp-aggiornamenti-di-stato-archivio/",
-      "excerpt": "WhatsApp prepara un nuovo archivio privato per conservare automaticamente gli aggiornamenti di stato scaduti.",
-      "image": "https://hd2.tudocdn.net/1348930?w=660",
-      "publishedAt": "2026-06-10T16:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Robot imbattibile nell'air hockey, ma si è allenato solo nel mondo virtuale | Video",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n660914/robot-air-hockey-ai-simulazione/",
-      "excerpt": "Studenti universitari creano un robot da air hockey che impara a giocare grazie a una simulazione imperfetta.",
-      "image": "https://hd2.tudocdn.net/1348971?w=660",
-      "publishedAt": "2026-06-10T16:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Crazy Taxi sta tornando con World Tour: ma l'uso dell'AI generativa fa discutere",
-      "link": "https://www.hdblog.it/games/articoli/n660965/crazy-taxi-world-tour-2027-data-ai-generativa/",
-      "excerpt": "SEGA ammette di averne fatto uso, ma solo \"a sostegno\" del lavoro degli sviluppatori.",
-      "image": "https://hd2.tudocdn.net/1348962?w=660",
-      "publishedAt": "2026-06-10T16:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Debutta l'hypercar da oltre 2.400 CV e 450 km/h di velocità",
-      "link": "https://www.hdmotori.it/elektron-quasar-hypercar-elettrica-2413-cv-caratteristiche-prezzo/",
-      "excerpt": "Presentata la hypercar elettrica da 2.413 CV, quattro motori e una velocità massima di 450 km/h. Produzione limitata a soli 99 esemplari",
-      "image": "https://hd2.tudocdn.net/1348979?w=660",
-      "publishedAt": "2026-06-10T16:00:09+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Fable si mostra in un gameplay di oltre 30 minuti",
       "link": "https://www.tomshw.it/videogioco/fable-il-gameplay-di-vivi-una-vita-straordinaria-2026-06-10",
       "excerpt": "Mancano meno di due anni all'uscita, ma il nuovo Fable sta già mostrando le proprie ambizioni con una generosità insolita per i tempi che corrono. Xbox Game Studios e il team di…",
@@ -75,15 +102,6 @@
       "publishedAt": "2026-06-10T15:58:13+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Stonehenge, segreto svelato: come ha viaggiato una pietra da 6 tonnellate",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n660882/scoperta-trasporto-pietra-stonehenge/",
-      "excerpt": "Uno studio svela che la pietra centrale di Stonehenge è stata mossa dall'uomo per 700 chilometri.",
-      "image": "https://hd2.tudocdn.net/1348672?w=660",
-      "publishedAt": "2026-06-10T15:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "I data center AI finiscono in mare, Samsung e Supermicro ci provano",
@@ -95,15 +113,6 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Apple TV pubblica il trailer di Trying 5: ecco le novità",
-      "link": "https://www.hdblog.it/apple/articoli/n660885/trying-5-trailer-apple-tv/",
-      "excerpt": "Nikki e Jason tornano su Apple TV il 8 luglio con la quinta stagione di Trying e un trailer caotico.",
-      "image": "https://hd2.tudocdn.net/1348686?w=660",
-      "publishedAt": "2026-06-10T15:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "30 cose che abbiamo scoperto provando Apple Intelligence e Siri AI",
       "link": "https://images.dday.it/DYNXyDrlCabiRVinnoqT9Qk29ZRuXMuTjwOVUySI7B4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57705/83799d_P1233255.jpg",
       "excerpt": "Gli HomePod riceveranno Siri AI? Possiamo cambiare la prospettiva di ogni tipo di foto? Cosa cambia tra i diversi modelli in locale di Apple Intelligence? Ecco la risposta a tutte…",
@@ -111,15 +120,6 @@
       "publishedAt": "2026-06-10T15:41:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Attenzione alle false agenzie di viaggio: l'allarme della Polizia sulla truffa dell'estate",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n660977/agenzia-viaggio-falsa-truffa-come-difendersi/",
-      "excerpt": "Alcuni consigli per evitare il peggio.",
-      "image": "https://hd2.tudocdn.net/1348969?w=660",
-      "publishedAt": "2026-06-10T15:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Halo: Campaign Evolved, provato in anteprima",
