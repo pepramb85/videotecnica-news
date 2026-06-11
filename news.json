@@ -1,44 +1,224 @@
 {
-  "generatedAt": "2026-06-11T13:53:39.725685+00:00",
+  "generatedAt": "2026-06-11T17:33:11.292036+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Arrivi all’estero e non hai internet? Ecco cosa fare nei primi 10 minuti",
-      "link": "https://www.tomshw.it/altro/arrivi-allestero-e-non-hai-internet-ecco-cosa-fare-nei-primi-10-minuti",
-      "excerpt": "Atterri, riattivi la connessione dati e ti accorgi che non funziona nulla. Nessuna rete stabile, niente messaggi, mappe che non caricano. È una situazione molto più comune di…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96155/Arrivi-all’estero-e-non-hai-internet-Ecco-cosa-fare-nei-primi-10-minuti.png",
-      "publishedAt": "2026-06-11T13:50:35+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Mondiali 2026, si comincia: tutte le partite in chiaro sulla RAI e le esclusive DAZN",
-      "link": "https://www.hdblog.it/spettacolo/articoli/n661093/mondiali-2026-partite-gratis-chiaro-rai-oggi-tutte/",
-      "excerpt": "Ecco l'elenco completo delle partite in chiaro dall'inizio alla fine del torneo.",
-      "image": "https://hd2.tudocdn.net/1349167?w=660",
-      "publishedAt": "2026-06-11T13:45:00+00:00",
+      "title": "La Cina fa passi in avanti nel calcolo quantistico, con le nuove memorie QRAM",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n661020/computer-quantistico-qram-cina/",
+      "excerpt": "Un team cinese sviluppa la memoria quantistica più veloce per connettere dati classici e qubit.",
+      "image": "https://hd2.tudocdn.net/1349047?w=660",
+      "publishedAt": "2026-06-11T17:30:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "L'AI avrà sempre più sete: i data center fanno paura",
-      "link": "https://www.tomshw.it/hardware/lai-avra-sempre-piu-sete-i-data-center-fanno-paura",
-      "excerpt": "I data center AI potrebbero arrivare a consumare fino a 600 miliardi di galloni d'acqua entro il 2030, una soglia che rende molto più concreto il costo ambientale…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96147/lai-avra-sempre-piu-sete-i-data-center-fanno-paura.png",
-      "publishedAt": "2026-06-11T13:41:45+00:00",
+      "title": "3,2 milioni di chili di spinta: i mostruosi motori NASA sono pronti per Artemis III",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n661024/motori-artemis-iii-nasa/",
+      "excerpt": "La NASA riceve gli ultimi componenti dei motori per la missione spaziale Artemis III.",
+      "image": "https://hd2.tudocdn.net/1349051?w=660",
+      "publishedAt": "2026-06-11T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "I 100 anni del Tridente con stile, svelata la Maserati MCPURA Cielo Tributo",
+      "link": "https://www.hdmotori.it/maserati-mcpura-cielo-tributo/",
+      "excerpt": "Maserati ha presentato MCPURA Cielo Tributo 1926, una one-off realizzata da Fuoriserie per festeggiare il centenario del Tridente",
+      "image": "https://hd2.tudocdn.net/1349270?w=660",
+      "publishedAt": "2026-06-11T17:00:31+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il primo fuoco umano? Forse lo abbiamo scoperto",
+      "link": "https://www.hdblog.it/curiosita/articoli/n661022/scoperta-fuoco-homo-erectus/",
+      "excerpt": "Nuovi studi in una grotta sudafricana anticipano l'uso del fuoco a 1.8 milioni di anni fa.",
+      "image": "https://hd2.tudocdn.net/1349048?w=660",
+      "publishedAt": "2026-06-11T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Xcode 27, spazio agli agenti AI: ottimizzano, localizzano, risolvono bug e creano app per chi non è capace di programmare",
+      "link": "https://images.dday.it/edecizukGZZZTRwgq8RNinNu8SKv95QoMI39Db_ahAU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57722/518e92_sqauredveb.jpg",
+      "excerpt": "Tra le tante cose che abbiamo visto a Cupertino durante la WWDC la demo più impressionante è quella del nuovo Xcode 27: abbraccia gli agenti, localizza le app, aiuta gli…",
+      "image": "https://images.dday.it/edecizukGZZZTRwgq8RNinNu8SKv95QoMI39Db_ahAU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57722/518e92_sqauredveb.jpg",
+      "publishedAt": "2026-06-11T16:43:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Miracolo green a Yale: carburante da energia solare e CO2",
+      "link": "https://www.hdblog.it/green/articoli/n661028/carburante-solare-co2-silicio/",
+      "excerpt": "Scienziati di Yale creano una foglia artificiale solare che trasforma la CO2 in metanolo liquido.",
+      "image": "https://hd2.tudocdn.net/1349061?w=660",
+      "publishedAt": "2026-06-11T16:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Auto da 400.000 km, sai quali sono le più affidabili? I marchi che sono una garanzia",
+      "link": "https://www.hdmotori.it/auto-400000-km-affidabili-garanzia/",
+      "excerpt": "I top brand più diffusi in grado di produrre auto che superano i 400.000 km sono emersi da una interessante indagine",
+      "image": "https://hd2.tudocdn.net/1349261?w=660",
+      "publishedAt": "2026-06-11T16:30:20+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Bologna, arrivano in centro i cestini dei rifiuti del futuro (a energia solare)",
+      "link": "https://www.hdblog.it/green/articoli/n661096/bologna-cestini-dei-rifiuti-smart-a-energia-solare/",
+      "excerpt": "L'energia serve a compattare i rifiuti",
+      "image": "https://hd2.tudocdn.net/1349206?w=660",
+      "publishedAt": "2026-06-11T16:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Addio pareti che bloccano il Wi-Fi: bastano dei pannelli economici per portare il 6G in ogni stanza",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n661032/pannelli-3d-segnale-6g/",
+      "excerpt": "Scienziati finlandesi creano pannelli in 3D che riflettono il segnale 6G oltre i muri senza usare corrente.",
+      "image": "https://hd2.tudocdn.net/1349062?w=660",
+      "publishedAt": "2026-06-11T16:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "iOS 27, iPadOS 27, macOS Golden Gate e WatchOS 27: tutto quello che Apple non ha raccontato",
+      "link": "https://images.dday.it/LBd4u7o7yjvDiCq7dv0Hp84TXzjOxEOyUl3MQ5Bd87g/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57713/a59132_27t.jpg",
+      "excerpt": "Durante keynote alle piattaforme è stato dedicato pochissimo spazio, ma nonostante questo ci sono novità importanti, anche perché non tutti hanno uno smartphone recente…",
+      "image": "https://images.dday.it/LBd4u7o7yjvDiCq7dv0Hp84TXzjOxEOyUl3MQ5Bd87g/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57713/a59132_27t.jpg",
+      "publishedAt": "2026-06-11T16:03:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Ricambi auto usati: con eBay e Neryus nasce il più grande catalogo digitale",
+      "link": "https://www.hdmotori.it/accordo-ebay-neryus-ricambi-auto-usati/",
+      "excerpt": "L'alleanza tra eBay e Neryus Pro porta i ricambi auto usati direttamente nelle officine. Nasce un maxicatalogo digitale per ottimizzare tempi, costi e sostenibilità",
+      "image": "https://hd2.tudocdn.net/1349258?w=660",
+      "publishedAt": "2026-06-11T16:00:32+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Missione Skyfall e i nuovi droni per Marte | Cosa sappiamo finora",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n661109/marte-skyfall-droni-nasa-missione/",
+      "excerpt": "Cosa sappiamo delle missione di esplorazione aerea di Marte, denominata Skyfall",
+      "image": "https://hd2.tudocdn.net/1349228?w=660",
+      "publishedAt": "2026-06-11T15:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Diario di un passaggio a Linux, episodio 2: come vanno le cose?",
+      "link": "https://www.tomshw.it/hardware/diario-di-un-passaggio-a-linux-episodio-2-come-vanno-le-cose",
+      "excerpt": "È passato parecchio dal primo episodio di questa rubrica: mi sarebbe piaciuto raccontarvi come andavano le cose prima, ma le recensioni di alcuni laptop arrivati in redazione e la…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96167/Lenovo-Linux-Ubuntu.jpg",
+      "publishedAt": "2026-06-11T15:21:21+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Ryanair, costi extra per sedersi vicino ai figli: scatta l’indagine nel Regno Unito",
-      "link": "https://www.hdblog.it/mercato/articoli/n661101/ryanair-costi-extra-figli-scatta-indagine/",
-      "excerpt": "Costi extra per permettere ai genitori di sedersi accanto ai figli durante il volo.",
-      "image": "https://hd2.tudocdn.net/1349213?w=660",
-      "publishedAt": "2026-06-11T13:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Ai Mondiali, Philips Hue celebra i gol (e non solo) con le luci di casa e rischia di svelarli prima della TV",
+      "link": "https://images.dday.it/Q1OGsVYEkqO6WVUeRZNELLTs2zv1F0PSV40BTYBrg84/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57721/1d0d99_SportsLive_Article.jpg",
+      "excerpt": "Gol, cartellini e rigori attivano effetti luminosi in tempo reale. Servono un Hue Bridge e almeno una lampada a colori. La configurazione richiede dai 5 ai 10 minuti... Leggi tutto",
+      "image": "https://images.dday.it/Q1OGsVYEkqO6WVUeRZNELLTs2zv1F0PSV40BTYBrg84/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57721/1d0d99_SportsLive_Article.jpg",
+      "publishedAt": "2026-06-11T15:13:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Xpeng accelera sugli umanoidi, e il CEO scende in campo",
+      "link": "https://www.tomshw.it/automotive/xpeng-accelera-sugli-umanoidi-e-il-ceo-scende-in-campo",
+      "excerpt": "Xpeng ha deciso di mettere la robotica umanoide direttamente nelle mani del suo fondatore e CEO, He Xiaopeng. La mossa conta perché arriva mentre il costruttore cinese di auto…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96165/xpeng-accelera-sugli-umanoidi-e-il-ceo-scende-in-campo.png",
+      "publishedAt": "2026-06-11T15:08:12+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Hai preso un AirTag? Allora questa custodia Belkin fa al caso tuo",
+      "link": "https://images.dday.it/EjLjm4psyLHP8uVx7WzMVv7dntWpMwqJuI3x-zKJGos/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57719/5dc234_ape2.jpg",
+      "excerpt": "Hai appena acquistato un AirTag e vuoi proteggerlo al meglio? Questa custodia Belkin è la soluzione ideale per tenerlo sempre al sicuro, pratico e pronto all’uso in ogni…",
+      "image": "https://images.dday.it/EjLjm4psyLHP8uVx7WzMVv7dntWpMwqJuI3x-zKJGos/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57719/5dc234_ape2.jpg",
+      "publishedAt": "2026-06-11T14:52:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Hai paura di perdere il bagaglio in vacanza? Ecco la soluzione definitiva",
+      "link": "https://www.tomshw.it/altro/hai-paura-di-perdere-il-bagaglio-in-vacanza-ecco-la-soluzione-definitiva",
+      "excerpt": "Perdere il bagaglio durante un viaggio è uno di quegli imprevisti che possono trasformare l’inizio di una vacanza in un’esperienza stressante. Attese infinite al nastro, sportelli…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96164/Hai-paura-di-perdere-il-bagaglio-in-vacanza-Ecco-la-soluzione-definitiva.png",
+      "publishedAt": "2026-06-11T14:50:10+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Xiaomi utilizzerà schermi OLED diversi da tutti quelli che abbiamo visto sino ad ora",
+      "link": "https://images.dday.it/D2I86iKzROAHwc30G2UwLHCJt87aLFrvH__HldGuVqU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57718/c3cc6f_bd7113_VIP_2.jpg",
+      "excerpt": "Xiaomi utilizzerà sui futuri smartphone e smartwatch i display OLED di Visionox prodotti con l'innovativo processo fotolitografico: promettono maggiore luminosità e soprattutto…",
+      "image": "https://images.dday.it/D2I86iKzROAHwc30G2UwLHCJt87aLFrvH__HldGuVqU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57718/c3cc6f_bd7113_VIP_2.jpg",
+      "publishedAt": "2026-06-11T14:19:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "F1 GP Spagna: orari e come seguire la gara in streaming e TV",
+      "link": "https://www.tomshw.it/altro/f1-gp-spagna-orari-e-come-seguire-la-gara-in-streaming-e-tv",
+      "excerpt": "Seguire la Formula 1 anche quando si è all’estero non è più un problema: grazie a una VPN è possibile accedere ai servizi di streaming italiani e guardare le dirette...",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96163/F1-GP-Spagna-orari-e-come-seguire-la-gara-in-streaming-e-TV.png",
+      "publishedAt": "2026-06-11T14:11:12+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Kingdom Hearts 3 su Switch 2 mostra il vero limite della console",
+      "link": "https://www.tomshw.it/videogioco/il-dlss-spinge-switch-2-ma-kingdom-hearts-3-resta-frenato",
+      "excerpt": "Nintendo Switch 2 sta mostrando quanto l’upscaling possa cambiare il profilo tecnico di una console portatile, ma la demo di Kingdom Hearts 3 ricorda anche il limite opposto:…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96161/il-dlss-spinge-switch-2-ma-kingdom-hearts-3-resta-frenato.png",
+      "publishedAt": "2026-06-11T14:02:06+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Google perde in tribunale: la ricerca non ha bisogno dell'AI",
+      "link": "https://www.tomshw.it/hardware/google-perde-in-tribunale-la-ricerca-non-ha-bisogno-dellai",
+      "excerpt": "Google ha incassato una decisione giudiziaria pesante in Germania: un tribunale ha stabilito che le risposte generate da AI Overviews non possono essere trattate come semplici…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96158/google-perde-in-tribunale-la-ricerca-non-ha-bisogno-dell-ai.png",
+      "publishedAt": "2026-06-11T13:55:57+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Anthropic fa dietrofront sulla policy che frenava la ricerca",
+      "link": "https://www.tomshw.it/hardware/anthropic-fa-dietrofront-sulla-policy-che-frenava-la-ricerca",
+      "excerpt": "Anthropic ha deciso di modificare una policy applicata a Claude Fable 5 dopo le critiche arrivate dalla comunità di ricerca: il modello non dovrà più degradare o deviare in modo…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96157/anthropic-fa-dietrofront-sulla-policy-che-frenava-la-ricerca.png",
+      "publishedAt": "2026-06-11T13:51:58+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "L'AI si prende i 3 nm: TSMC non riesce a stare al passo",
+      "link": "https://www.tomshw.it/hardware/lai-si-prende-i-3-nm-tsmc-non-riesce-a-stare-al-passo",
+      "excerpt": "TSMC avrebbe aumentato in modo significativo la produzione di wafer a 3 nm, ma la capacità disponibile non basterebbe ancora a soddisfare la domanda dei clienti legati…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96156/l-ai-si-prende-i-3-nm-tsmc-non-riesce-a-stare-al-passo.png",
+      "publishedAt": "2026-06-11T13:50:25+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Intel Wildcat Lake arriva nei sistemi edge di AAEON",
+      "link": "https://www.tomshw.it/hardware/intel-wildcat-lake-arriva-nei-sistemi-edge-di-aaeon",
+      "excerpt": "AAEON ha introdotto una nuova famiglia di sistemi edge e schede di sviluppo basata su Intel Wildcat Lake, portando i processori Core Ultra di nuova generazione in piattaforme…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96153/intel-wildcat-lake-arriva-nei-sistemi-edge-di-aaeon.png",
+      "publishedAt": "2026-06-11T13:45:02+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Il Trump Phone smontato da iFixit è un HTC U24 Pro con un'altra scocca",
@@ -50,24 +230,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Montage prepara la DDR5 da datacenter oltre quota 9000",
-      "link": "https://www.tomshw.it/hardware/montage-prepara-la-ddr5-da-datacenter-oltre-quota-9000",
-      "excerpt": "Montage Technology ha iniziato a campionare un nuovo clock-driver per memorie DDR5 RDIMM capace di arrivare a 9200 MT/s, un passaggio rilevante per i server di prossima…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96146/montage-prepara-la-ddr5-da-datacenter-oltre-quota-9000.png",
-      "publishedAt": "2026-06-11T13:26:03+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Fan della TV vintage? Questo \"VCR digitale\" basato su Raspberry Pi fa per voi",
-      "link": "https://www.hdblog.it/altadefinizione/articoli/n661106/raspberry-pi-vcr-vintage-interfaccia-player-video/",
-      "excerpt": "Una sorta di Kodi... ma con l'interfaccia testuale \"bianco su blu\" tipica dei videoregistratori dei tempi d'oro.",
-      "image": "https://hd2.tudocdn.net/1349210?w=660",
-      "publishedAt": "2026-06-11T13:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "La VPN gratuita integrata in Firefox arriva in Italia, ma senza la promo estiva",
       "link": "https://images.dday.it/xHw4-bAftNPeWNKUf9OdH_RpNoky8M6sTD89Ti0INE8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57716/1772ec_ChatGPT_Image_11_giu_2026__15_14_02.png",
       "excerpt": "La funzione richiede un account Mozilla e offre 50 GB al mese con cinque posizioni. Negli altri Paesi è attiva fino al 31 agosto una promozione con banda illimitata e 28…",
@@ -75,105 +237,6 @@
       "publishedAt": "2026-06-11T13:15:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "npm 12 vuole chiudere una delle falle più pericolose di JavaScript",
-      "link": "https://www.tomshw.it/hardware/npm-12-cambia-regole-supply-chain-perde-scorciatoie",
-      "excerpt": "npm 12 cambierà alcuni dei comportamenti più rischiosi dell'ecosistema JavaScript. GitHub ha anticipato che la prossima versione bloccherà di default diversi percorsi di…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96139/npm-12-cambia-regole-supply-chain-perde-scorciatoie.webp",
-      "publishedAt": "2026-06-11T13:14:13+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "GM punta sul sodio: batterie meno costose, ma non per le auto",
-      "link": "https://www.tomshw.it/automotive/gm-punta-sodio-batterie-meno-costose-non-per-auto",
-      "excerpt": "General Motors sta lavorando con Peak Energy su batterie sodio-ione, ma l'obiettivo non è mettere questa chimica dentro le prossime auto elettriche. Il progetto guarda allo…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96144/gm-punta-sodio-batterie-meno-costose-non-per-auto.webp",
-      "publishedAt": "2026-06-11T13:12:23+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Galaxy S25 recupera le funzioni AI che sembravano sparite",
-      "link": "https://www.tomshw.it/smartphone/galaxy-s25-recupera-funzioni-ai-che-sembravano-sparite",
-      "excerpt": "Galaxy S25 sta ricevendo un aggiornamento One UI 8.5 più sostanzioso di una normale patch mensile. Il rollout è partito dalla Corea del Sud e porta con sé alcune funzioni Galaxy…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96143/galaxy-s25-recupera-funzioni-ai-che-sembravano-sparite.webp",
-      "publishedAt": "2026-06-11T13:11:38+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Un accordo miliardario anticipa il futuro dei prezzi degli SSD",
-      "link": "https://www.tomshw.it/hardware/biwin-blocca-nand-ssd-rischiano-altro-giro-rincari",
-      "excerpt": "Biwin ha firmato un accordo pluriennale da 1,86 miliardi di dollari per assicurarsi memoria NAND a prezzo fisso. La mossa dice molto più del singolo contratto: nel mercato storage…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96141/biwin-blocca-nand-ssd-rischiano-altro-giro-rincari.webp",
-      "publishedAt": "2026-06-11T13:09:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Enel Mobile sarà il nome dell’operatore virtuale di Enel?",
-      "link": "https://www.hdblog.it/mobile/articoli/n661082/enel-mobile-nome-operatore-virtuale/",
-      "excerpt": "Opererà come Full MVNO",
-      "image": "https://hd2.tudocdn.net/1349144?w=660",
-      "publishedAt": "2026-06-11T13:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Langflow sotto attacco: gli agenti AI hanno un nuovo punto debole",
-      "link": "https://www.tomshw.it/hardware/langflow-sotto-attacco-agenti-ai-nuovo-punto-debole",
-      "excerpt": "Langflow è finita nel mirino degli attacchi reali, e il dettaglio più delicato è il tipo di ambienti che la piattaforma aiuta a costruire. Il progetto viene usato per creare…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96138/langflow-sotto-attacco-agenti-ai-nuovo-punto-debole.webp",
-      "publishedAt": "2026-06-11T13:04:29+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Napoli si fregia della prima Smart Road d’Italia: rivoluzione epocale",
-      "link": "https://www.hdmotori.it/napoli-prima-smart-road-italia/",
-      "excerpt": "La Tangenziale di Napoli entra nella storia della mobilità italiana con delle innovazioni che faranno scuola",
-      "image": "https://hd2.tudocdn.net/1349173?w=660",
-      "publishedAt": "2026-06-11T13:00:56+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "La Batmobile LEGO entra nel “budget low cost”: solo 24€",
-      "link": "https://www.tomshw.it/videogioco/lego-batmobile-di-batman-in-offerta-a-soli-24eur-2026-06-11",
-      "excerpt": "Su Amazon è disponibile un'ottima offerta sul LEGO DC Batmobile di Batman (set 76332), il kit da costruzione che celebra il 20° anniversario di LEGO DC Batman. Il set include la…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96145/lego-batmobile-di-batman-in-offerta-a-soli-24eur-2026-06-11-m5ws9tfe14jj457dJPn4S0.png",
-      "publishedAt": "2026-06-11T12:55:21+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Anche Oppo prepara il suo anti-iPhone Ultra: lancio a inizio 2027",
-      "link": "https://www.hdblog.it/smartphone/articoli/n661095/oppo-pieghevole-wide-fold-iphone-ultra/",
-      "excerpt": "Potrebbe arrivare sul mercato nel primo trimestre del 2027.",
-      "image": "https://hd2.tudocdn.net/1329865?w=660",
-      "publishedAt": "2026-06-11T12:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Benvenuto nel futuro della pulizia: il salto di qualità da 799€",
-      "link": "https://www.tomshw.it/hardware/eureka-j15-max-ultra-in-offerta-a-soli-800eur-su-amazon-2026-06-11",
-      "excerpt": "Su Amazon è disponibile il robot aspirapolvere lavapavimenti EUREKA J15 Max Ultra, un dispositivo all'avanguardia con aspirazione da 22.000 Pa, doppi bracci oscillanti, sistema…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96140/eureka-j15-max-ultra-in-offerta-a-soli-800eur-su-amazon-2026-06gb41fjqats9e3CPg9fM.png",
-      "publishedAt": "2026-06-11T12:51:40+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Galaxy S26 Ultra a 799€, Sony XM5 a 149€ e robot top: le offerte tech da non perdere",
-      "link": "https://www.hdblog.it/amazon/offerte/n661091/offerte-tech-11-giugno-2026-amazon-mediaworld/",
-      "excerpt": "Amazon e MediaWorld propongono sconti su Galaxy S26 Ultra con supervalutazione usato, Sony WF-1000XM5, robot lavapavimenti, smart TV e accessori smart home.",
-      "image": "https://hd2.tudocdn.net/1349170?w=660",
-      "publishedAt": "2026-06-11T12:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Google rilascia DiffusionGemma, il modello open che genera testo “come le immagini”",
@@ -194,33 +257,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Rowenta presenta una nuova lavapavimenti pratica, completa che si autopulisce",
-      "link": "https://www.hdblog.it/home/articoli/n661087/rowenta-lavapavimenti-xclean-12-offerta/",
-      "excerpt": "Rowenta lancia in Italia la nuova X-Clean 12, una lavapavimenti che combina aspirazione da 21.000 Pa, lavaggio dei pavimenti e funzioni automatiche",
-      "image": "https://hd2.tudocdn.net/1349155?w=660",
-      "publishedAt": "2026-06-11T12:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Mercato SoC mobile, Qualcomm e MediaTek risentono della crisi dei chip",
-      "link": "https://www.hdblog.it/hardware/articoli/n661094/mercato-chip-mobile-crisi-qualcomm-mediatek/",
-      "excerpt": "Samsung se la gode, però.",
-      "image": "https://hd2.tudocdn.net/1349166?w=660",
-      "publishedAt": "2026-06-11T12:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Sistema di osmosi inversa senza serbatoio Waterdrop G3P600: acqua potabile più fresca, più sana e più comoda",
-      "link": "https://www.hdblog.it/home/articoli/n660620/waterdrop-g3p600-acqua-filtrata-a-osmosi-inversa-senza-serbatoio/",
-      "excerpt": "Compatto, veloce e con monitoraggio smart della qualità dell’acqua: il sistema a osmosi inversa di Waterdrop punta tutto sulla praticità quotidiana.",
-      "image": "https://hd2.tudocdn.net/1348124?w=660",
-      "publishedAt": "2026-06-11T12:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "OpenAI starebbe valutando una riduzione consistente dei prezzi, ma per gli utenti consumer sarebbe un malus",
       "link": "https://images.dday.it/NFzSN2CRwvdRgmMLb9lNcy3VZ89uGk56Ot33DKDKoXk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57712/b691e9_Depositphotos_872683224_XL.jpg",
       "excerpt": "Le API potrebbero costare meno, ma per gli utenti consumer la conseguenza potrebbe essere opposta: meno novità incluse nei piani e accesso pieno riservato a chi paga a consumo...…",
@@ -230,49 +266,13 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Yamaha NX-70A, i diffusori attivi con MusicCast e YPAO",
-      "link": "https://images.dday.it/180h9KJbn5FDkF7RWoY19ktl_lw4YBt5h3u0d3WSY_k/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57711/5277ae_NX70A_ExperienceTheFinestSound_tcm123-3208686.jpg",
-      "excerpt": "Un nuovo importante concorrente entra nella categoria dei diffusori stereo attivi, con molte soluzioni prese dai migliori diffusori del marchio, controllato dall’app MusicCast,…",
-      "image": "https://images.dday.it/180h9KJbn5FDkF7RWoY19ktl_lw4YBt5h3u0d3WSY_k/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57711/5277ae_NX70A_ExperienceTheFinestSound_tcm123-3208686.jpg",
-      "publishedAt": "2026-06-11T09:53:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il top di gamma LG OLED evo G5 da 55 pollici a un prezzo mai visto. Scopri l'offerta",
-      "link": "https://images.dday.it/1cFOesJMs-_ByFcdiebrRagenuJPV6UcNrdJV-tbou8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/55034/0ec150_ape2.jpg",
-      "excerpt": "Design elegante, immagini perfette e un’intelligenza artificiale che capisce cosa ti piace: portati a casa LG OLED evo G5 da 55\" a 1199 euro... Leggi tutto",
-      "image": "https://images.dday.it/1cFOesJMs-_ByFcdiebrRagenuJPV6UcNrdJV-tbou8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/55034/0ec150_ape2.jpg",
-      "publishedAt": "2026-06-11T09:26:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Se AI Overview falsifica, Google può essere responsabile. La prima decisione arriva dalla Germania",
-      "link": "https://images.dday.it/LMpUEPSzobVIatGUZ1TOhZo6jf3tQ4Sd_sQ0Qyny7R0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57710/c9ab2d_google_thumb__1_.jpg",
-      "excerpt": "La decisione preliminare di un tribunale tedesco stabilisce che Google può essere responsabile delle affermazioni false generate dalle AI Overview... Leggi tutto",
-      "image": "https://images.dday.it/LMpUEPSzobVIatGUZ1TOhZo6jf3tQ4Sd_sQ0Qyny7R0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57710/c9ab2d_google_thumb__1_.jpg",
-      "publishedAt": "2026-06-11T09:21:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Arriva il mouse pieghevole di Logitech, Mobi Fold. Ma a chi serve un mouse che si piega?",
-      "link": "https://images.dday.it/IE9yVRfcavb2-opEWUPRWXeFCHUSvPvZW62lEmb1EqA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57708/b5a860_High_Resolution_JPG-Mobi_Fold_LIFE_Off_white_Portable_in_pocket_03_-_dimensioni_grandi.jpeg",
-      "excerpt": "Le dimensioni sono quelle di un classico mouse ma grazie alla cerniera centrale l'ingombro viene dimezzato, facilitando la portabilità. E la compattezza non comporta sacrifici dal…",
-      "image": "https://images.dday.it/IE9yVRfcavb2-opEWUPRWXeFCHUSvPvZW62lEmb1EqA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57708/b5a860_High_Resolution_JPG-Mobi_Fold_LIFE_Off_white_Portable_in_pocket_03_-_dimensioni_grandi.jpeg",
-      "publishedAt": "2026-06-11T09:20:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Fable 5 poteva mentirti senza che tu lo sapessi. Anthropic cambia rotta dopo le proteste",
-      "link": "https://images.dday.it/YYNBqx10ivWlZpI0l_keGDBAMG8gonlA-sYmERMIjSk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57709/196184_ChatGPT_Image_11_giu_2026__11_13_57.png",
-      "excerpt": "Il modello degradava in silenzio alcune risposte sullo sviluppo di IA concorrenti. Dopo le critiche, Anthropic renderà visibili i filtri e il passaggio a Opus 4.8... Leggi tutto",
-      "image": "https://images.dday.it/YYNBqx10ivWlZpI0l_keGDBAMG8gonlA-sYmERMIjSk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57709/196184_ChatGPT_Image_11_giu_2026__11_13_57.png",
-      "publishedAt": "2026-06-11T09:14:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
+      "title": "Scadenza NIS2 di giugno 2026: la caratterizzazione e categorizzazione delle attività e dei servizi",
+      "link": "https://www.tomshw.it/business/scadenza-nis2-giugno-2026-categorizzazione-attivita-servizi",
+      "excerpt": "Di Avv. Giuseppe Croari e Dott. Luigi Muraca Giugno sarà un mese importante per tutti quei soggetti che rientrano all'interno dell'ambito di applicazione della normativa NIS2. Con…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/95909/10-toms-legal-11-giu-cover.jpg",
+      "publishedAt": "2026-06-10T08:15:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     }
   ]
 }
