@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-06-11T17:33:11.292036+00:00",
+  "generatedAt": "2026-06-11T20:12:05.168579+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Storage con piano lifetime di pCloud: come funziona e se conviene",
+      "link": "https://www.hdblog.it/hardware/articoli/n653664/pcloud-storage-vita-come-funziona-prezzi/",
+      "excerpt": "Abbiamo provato Pcloud, una soluzione di storage molto interessante e completa, con possibilità di acquistare un piano lifetime.",
+      "image": "https://hd2.tudocdn.net/1348286?w=660",
+      "publishedAt": "2026-06-11T19:26:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Bolletta luce e gas: come risparmiare fino a 180 euro con il gruppo d'acquisto",
+      "link": "https://www.hdblog.it/green/articoli/n661113/bolletta-energia-luce-gas-gruppo-acquisto-come/",
+      "excerpt": "L'iniziativa di Altroconsumo.",
+      "image": "https://hd2.tudocdn.net/1349253?w=660",
+      "publishedAt": "2026-06-11T19:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "BYD cambia rotta in Europa: la nuova fabbrica può essere già pronta",
+      "link": "https://www.tomshw.it/automotive/byd-cambia-rotta-in-europa-la-nuova-fabbrica-puo-essere-gia-pronta",
+      "excerpt": "BYD sta valutando l’acquisizione di un impianto già operativo nel Sud Europa per accelerare la propria produzione locale di auto elettriche. La mossa conta perché sposterebbe una…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96166/byd-cambia-rotta-in-europa-la-nuova-fabbrica-puo-essere-gia-pronta.png",
+      "publishedAt": "2026-06-11T19:13:36+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "La Cina fa passi in avanti nel calcolo quantistico, con le nuove memorie QRAM",
       "link": "https://www.hdblog.it/tecnologia/articoli/n661020/computer-quantistico-qram-cina/",
@@ -93,24 +120,6 @@
       "publishedAt": "2026-06-11T16:03:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Ricambi auto usati: con eBay e Neryus nasce il più grande catalogo digitale",
-      "link": "https://www.hdmotori.it/accordo-ebay-neryus-ricambi-auto-usati/",
-      "excerpt": "L'alleanza tra eBay e Neryus Pro porta i ricambi auto usati direttamente nelle officine. Nasce un maxicatalogo digitale per ottimizzare tempi, costi e sostenibilità",
-      "image": "https://hd2.tudocdn.net/1349258?w=660",
-      "publishedAt": "2026-06-11T16:00:32+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Missione Skyfall e i nuovi droni per Marte | Cosa sappiamo finora",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n661109/marte-skyfall-droni-nasa-missione/",
-      "excerpt": "Cosa sappiamo delle missione di esplorazione aerea di Marte, denominata Skyfall",
-      "image": "https://hd2.tudocdn.net/1349228?w=660",
-      "publishedAt": "2026-06-11T15:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Diario di un passaggio a Linux, episodio 2: come vanno le cose?",
@@ -208,15 +217,6 @@
       "excerpt": "TSMC avrebbe aumentato in modo significativo la produzione di wafer a 3 nm, ma la capacità disponibile non basterebbe ancora a soddisfare la domanda dei clienti legati…",
       "image": "https://www.tomshw.it/storage/media/2026/06/96156/l-ai-si-prende-i-3-nm-tsmc-non-riesce-a-stare-al-passo.png",
       "publishedAt": "2026-06-11T13:50:25+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Intel Wildcat Lake arriva nei sistemi edge di AAEON",
-      "link": "https://www.tomshw.it/hardware/intel-wildcat-lake-arriva-nei-sistemi-edge-di-aaeon",
-      "excerpt": "AAEON ha introdotto una nuova famiglia di sistemi edge e schede di sviluppo basata su Intel Wildcat Lake, portando i processori Core Ultra di nuova generazione in piattaforme…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96153/intel-wildcat-lake-arriva-nei-sistemi-edge-di-aaeon.png",
-      "publishedAt": "2026-06-11T13:45:02+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
