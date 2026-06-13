@@ -1,9 +1,117 @@
 {
-  "generatedAt": "2026-06-13T02:41:56.485531+00:00",
+  "generatedAt": "2026-06-13T07:40:52.873251+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Il governo USA spegne Fable 5 e Mythos 5, sicurezza o geopolitica?",
+      "link": "https://www.tomshw.it/business/usa-spegne-fable-5-mythos-5-sicurezza-geopolitica-editoriale",
+      "excerpt": "Anthropic ha disabilitato l'accesso a Claude Fable 5 e Mythos 5 nella notte fra giovedì e venerdì, dopo aver ricevuto dal governo USA una direttiva di controllo all'export firmata…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96311/cover-takedown-fable5-mythos5.jpg",
+      "publishedAt": "2026-06-13T07:38:29+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Google denuncia i criminali che hanno sfruttato Gemini per gravi frodi finanziarie",
+      "link": "https://www.hdblog.it/business/articoli/n661264/google-denuncia-criminali-gemini/",
+      "excerpt": "Google denuncia una vasta rete criminale che sfruttava Gemini per truffare numerosi utenti americani.",
+      "image": "https://hd2.tudocdn.net/1349527?w=660",
+      "publishedAt": "2026-06-13T07:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Governo USA ordina il blocco di Anthropic Fable 5 e Mythos 5 | Cosa sta succedendo",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n661270/blocco-ai-anthropic-governo-usa/",
+      "excerpt": "Il governo degli Stati Uniti ordina il blocco globale dei modelli AI Claude Fable 5 e Mythos 5.",
+      "image": "https://hd2.tudocdn.net/1349532?w=660",
+      "publishedAt": "2026-06-13T06:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Eva, l'AI e il conto da pagare",
+      "link": "https://www.tomshw.it/business/eva-ai-conto-da-pagare-fable-5-siri-ai-ias",
+      "excerpt": "Eva, l'AI e il conto da pagare Eva è un nome che porta con sé un certo peso narrativo. È l'origine, il passaggio da un prima a un dopo, il momento in cui qualcosa cambia per…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96277/ias-02-eva-statiella.png",
+      "publishedAt": "2026-06-13T06:37:54+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "FromSoftware non vuole diventare una fabbrica di sequel",
+      "link": "https://www.tomshw.it/videogioco/fromsoftware-difende-i-suoi-giochi-dalla-trappola-dei-sequel",
+      "excerpt": "FromSoftware non intende trasformare il proprio catalogo in una catena di sequel prevedibili. Il presidente e director Hidetaka Miyazaki ha risposto alle pressioni arrivate dagli…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96299/fromsoftware-difende-i-suoi-giochi-dalla-trappola-dei-sequel.png",
+      "publishedAt": "2026-06-13T06:37:50+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Rivian R2 punta Tesla Model Y, ma non vuole copiarla",
+      "link": "https://www.tomshw.it/automotive/rivian-r2-punta-tesla-model-y-ma-non-vuole-copiarla",
+      "excerpt": "Rivian R2 è entrato nella fase più delicata: le prime consegne sono partite negli Stati Uniti e il CEO RJ Scaringe ha chiarito perché il nuovo SUV elettrico compatto non nasce…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96302/rivian-r2-punta-tesla-model-y-ma-non-vuole-copiarla.png",
+      "publishedAt": "2026-06-13T06:37:49+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Xbox ha un problema enorme, e Game Pass è solo una parte",
+      "link": "https://www.tomshw.it/videogioco/xbox-ha-un-problema-enorme-e-game-pass-e-solo-una-parte",
+      "excerpt": "Microsoft starebbe affrontando una fase molto delicata per Xbox: la divisione gaming avrebbe margini molto più compressi del previsto, con un indicatore interno fermo al 3% e una…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96306/xbox-ha-un-problema-enorme-e-game-pass-e-solo-una-parte.png",
+      "publishedAt": "2026-06-13T06:37:48+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La TV non incanta più: 6 ragazzi su 10 preferiscono i tablet",
+      "link": "https://www.tomshw.it/altro/gen-z-tv-dispositivi-personali-lenovo",
+      "excerpt": "La televisione tradizionale continua a perdere centralità nelle abitudini della Generazione Z, almeno quando si parla di intrattenimento domestico e streaming. Secondo una nuova…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96310/gen-z-tv-dispositivi-personali-lenovo.png",
+      "publishedAt": "2026-06-13T06:37:47+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "BYD porta in Europa una Dolphin ibrida pensata per sfidare Toyota",
+      "link": "https://www.tomshw.it/automotive/byd-porta-in-europa-una-dolphin-ibrida-pensata-per-sfidare-toyota",
+      "excerpt": "BYD ha presentato per il mercato europeo la Dolphin G DM-i, una compatta ibrida plug-in pensata per entrare nel segmento B con un'impostazione diversa rispetto alle full hybrid…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96309/byd-porta-in-europa-una-dolphin-ibrida-pensata-per-sfidare-toyota.png",
+      "publishedAt": "2026-06-13T06:37:34+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Mercato: a maggio vendute 151 auto usate per ogni 100 nuove",
+      "link": "https://www.hdmotori.it/mercato-maggio-auto-usate-nuove/",
+      "excerpt": "Dai dati dell'ultimo rapporto ANIASA emerge che l’usato prevale sul nuovo a livello proporzionale. Continua ad invecchiare il parco circolante.",
+      "image": "https://hd2.tudocdn.net/1349533?w=660",
+      "publishedAt": "2026-06-13T06:30:47+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple Watch Series 11: lo sconto di 120 euro è da cogliere al volo",
+      "link": "https://www.hdblog.it/indossabili/offerte/n661274/apple-watch-series-11-sconto-120-euro/",
+      "excerpt": "Offerta imperdibile sullo smartwatch di ultima generazione.",
+      "image": "https://hd2.tudocdn.net/1349531?w=660",
+      "publishedAt": "2026-06-13T06:30:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "SpaceX chiude in forte rialzo, Elon Musk centra l'obiettivo",
+      "link": "https://www.hdblog.it/business/articoli/n661271/spacex-chiude-rialzo-musk-trilionario/",
+      "excerpt": "Il debutto record di SpaceX sul Nasdaq fa volare il titolo e crea il primo trilionario della storia.",
+      "image": "https://hd2.tudocdn.net/1349530?w=660",
+      "publishedAt": "2026-06-13T06:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Mai più caricabatterie ingombranti: UGREEN porta 65 W e power bank magnetici in formato tascabile",
       "link": "https://images.dday.it/tgM11BbN6RJ4N62NSZdlFkXU-eHeRNXNQiDgrcze2As/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57630/12a227_ugreen_thumb.jpg",
@@ -59,60 +167,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Crisi memorie, cattive notizie anche da MSI | CPU in miglioramento a breve",
-      "link": "https://www.hdblog.it/hardware/articoli/n661255/crisi-memorie-msi-previsioni-ram-processori-gpu/",
-      "excerpt": "RAM e GPU sono ancora un problema, ma le CPU dovrebbero aumentare sia da Intel sia da AMD.",
-      "image": "https://hd2.tudocdn.net/1349499?w=660",
-      "publishedAt": "2026-06-12T16:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Amazon lancia Sleep Studio per aiutare i bambini ad addormentarsi",
-      "link": "https://www.hdblog.it/amazon/articoli/n661249/amazon-lancia-sleep-studio-per-sonno-bambini/",
-      "excerpt": "Disponibile per ora solo negli USA con abbonamento ad Amazon Kids+.",
-      "image": "https://hd2.tudocdn.net/1349490?w=660",
-      "publishedAt": "2026-06-12T16:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il radiocomandato più grande del mondo è un Boeing 777-9X gigante | Video",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n661153/boeing-777-9x-radiocomandato-record/",
-      "excerpt": "Costruito un Boeing 777-9X radiocomandato da 285 chili: il volo da record è un successo.",
-      "image": "https://hd2.tudocdn.net/1349319?w=660",
-      "publishedAt": "2026-06-12T15:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "PicoDMG è un ottimo progetto per modernizzare il mitico Game Boy",
-      "link": "https://www.hdblog.it/games/articoli/n661253/nintendo-game-boy-emulatore-modding-picodmg/",
-      "excerpt": "Display retroilluminato e piattaforma basata su Raspberry Pi... con NFC per caricare i giochi.",
-      "image": "https://hd2.tudocdn.net/1349495?w=660",
-      "publishedAt": "2026-06-12T15:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Nanotecnologie e prevenzione medica: cosa aspettarsi dal futuro",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n661247/nanotecnologie-prevenzione-medica-futuro/",
-      "excerpt": "Lo sviluppo tecnologico apre nuove speranze",
-      "image": "https://hd2.tudocdn.net/1349494?w=660",
-      "publishedAt": "2026-06-12T15:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "La TV non incanta più: 6 ragazzi su 10 preferiscono i tablet",
-      "link": "https://www.tomshw.it/altro/gen-z-tv-dispositivi-personali-lenovo",
-      "excerpt": "La televisione tradizionale continua a perdere centralità nelle abitudini della Generazione Z, almeno quando si parla di intrattenimento domestico e streaming. Secondo una nuova…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96310/gen-z-tv-dispositivi-personali-lenovo.png",
-      "publishedAt": "2026-06-12T15:09:09+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Pagavano il pezzotto fino a 40 euro al mese con bonifico: pioggia di multe in arrivo",
       "link": "https://images.dday.it/OGI4jstMcS9oc5vZoW4XMBnmd6p0Ahyo9kbCtaiNGiw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57735/e5908b_gdf_thumb.jpg",
       "excerpt": "La causale del bonifico riconduceva ad una piattaforma IPTV nota, che è stata smantellata. Così quasi 2800 utenti sono stati identificati in tutta Italia e a breve arriveranno le…",
@@ -129,24 +183,6 @@
       "publishedAt": "2026-06-12T14:36:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "BYD porta in Europa una Dolphin ibrida pensata per sfidare Toyota",
-      "link": "https://www.tomshw.it/automotive/byd-porta-in-europa-una-dolphin-ibrida-pensata-per-sfidare-toyota",
-      "excerpt": "BYD ha presentato per il mercato europeo la Dolphin G DM-i, una compatta ibrida plug-in pensata per entrare nel segmento B con un'impostazione diversa rispetto alle full hybrid…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96309/byd-porta-in-europa-una-dolphin-ibrida-pensata-per-sfidare-toyota.png",
-      "publishedAt": "2026-06-12T14:29:27+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Xbox ha un problema enorme, e Game Pass è solo una parte",
-      "link": "https://www.tomshw.it/videogioco/xbox-ha-un-problema-enorme-e-game-pass-e-solo-una-parte",
-      "excerpt": "Microsoft starebbe affrontando una fase molto delicata per Xbox: la divisione gaming avrebbe margini molto più compressi del previsto, con un indicatore interno fermo al 3% e una…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96306/xbox-ha-un-problema-enorme-e-game-pass-e-solo-una-parte.png",
-      "publishedAt": "2026-06-12T14:21:34+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Le nuove Insta360 Luna rischiano grosso negli Stati Uniti",
@@ -167,33 +203,6 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Rivian R2 punta Tesla Model Y, ma non vuole copiarla",
-      "link": "https://www.tomshw.it/automotive/rivian-r2-punta-tesla-model-y-ma-non-vuole-copiarla",
-      "excerpt": "Rivian R2 è entrato nella fase più delicata: le prime consegne sono partite negli Stati Uniti e il CEO RJ Scaringe ha chiarito perché il nuovo SUV elettrico compatto non nasce…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96302/rivian-r2-punta-tesla-model-y-ma-non-vuole-copiarla.png",
-      "publishedAt": "2026-06-12T14:12:10+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "FromSoftware non vuole diventare una fabbrica di sequel",
-      "link": "https://www.tomshw.it/videogioco/fromsoftware-difende-i-suoi-giochi-dalla-trappola-dei-sequel",
-      "excerpt": "FromSoftware non intende trasformare il proprio catalogo in una catena di sequel prevedibili. Il presidente e director Hidetaka Miyazaki ha risposto alle pressioni arrivate dagli…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96299/fromsoftware-difende-i-suoi-giochi-dalla-trappola-dei-sequel.png",
-      "publishedAt": "2026-06-12T14:11:27+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "I chip TSMC finiscono nel mirino dei brevetti USA",
-      "link": "https://www.tomshw.it/hardware/i-chip-tsmc-finiscono-nel-mirino-dei-brevetti-usa",
-      "excerpt": "Quattro parlamentari repubblicani statunitensi hanno chiesto alla ITC di bloccare l’importazione di chip prodotti all’estero qualora risultassero in violazione di brevetti…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96297/i-chip-tsmc-finiscono-nel-mirino-dei-brevetti-usa.png",
-      "publishedAt": "2026-06-12T14:04:56+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Cerchi un SSD esterno da 2TB? Lexar ES3 è ora in offerta su Amazon",
       "link": "https://images.dday.it/ItGDj0miYlGM5CIG5mECZ85FlwX4TsXORL9bZDuDFO8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57733/72db88_ape2.jpg",
       "excerpt": "Approfitta dello sconto su Lexar ES3 da 2 TB, un SSD esterno compatto e veloce ideale per archiviare foto, video, documenti e backup in tutta praticità... Leggi tutto",
@@ -208,15 +217,6 @@
       "excerpt": "Il segmento dei monitor da 27 pollici è diventato uno dei più competitivi nel panorama gaming, con i giocatori costretti spesso a scegliere tra la fedeltà visiva del 4K e le…",
       "image": "https://www.tomshw.it/storage/media/2026/05/92370/IMG_3697.jpg",
       "publishedAt": "2026-06-12T13:21:59+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Eva, l'AI e il conto da pagare",
-      "link": "https://www.tomshw.it/business/eva-ai-conto-da-pagare-fable-5-siri-ai-ias",
-      "excerpt": "Eva, l'AI e il conto da pagare Eva è un nome che porta con sé un certo peso narrativo. È l'origine, il passaggio da un prima a un dopo, il momento in cui qualcosa cambia per…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96277/ias-02-eva-statiella.png",
-      "publishedAt": "2026-06-12T13:11:10+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
