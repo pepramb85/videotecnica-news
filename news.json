@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-06-14T11:50:22.285754+00:00",
+  "generatedAt": "2026-06-14T13:45:33.425986+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "PocketCM5 sembra un Game Boy ma è un handheld Linux \"semi fai-da-te\"",
+      "link": "https://www.hdblog.it/hardware/articoli/n661260/pocketcm5-handheld-linux-kit-assemblare/",
+      "excerpt": "È un kit, sostanzialmente: il produttore fornisce i pezzi, l'utente integra e assembla senza troppe complicazioni.",
+      "image": "https://hd2.tudocdn.net/1349512?w=660",
+      "publishedAt": "2026-06-14T12:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Una rara Lamborghini, restaurata con 600.000 dollari, all'asta: valutazione record",
+      "link": "https://www.hdmotori.it/lamborghini-countach-lp5000-asta/",
+      "excerpt": "La più esclusiva Lamborghini Countach, all'apice della sua evoluzione tecnica, è la protagonista della prossima asta di RM Sotheby's",
+      "image": "https://hd2.tudocdn.net/1349648?w=660",
+      "publishedAt": "2026-06-14T12:00:17+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Primo contatto con Sony Xperia 1 VIII al Computex 2026 di Taipei | Video",
       "link": "https://www.hdblog.it/smartphone/articoli/n661257/xperia-1-viii-video-impressioni-computex/",
@@ -86,15 +104,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Terrore alla 1000 Miglia: una Talbot-Lago finisce rovesciata in un fosso",
-      "link": "https://www.hdmotori.it/1000-miglia-talbot-lago-rovesciata-fosso/",
-      "excerpt": "Attimi di paura per l'equipaggio olandese Soffers-Soffers, fortunatamente illeso dopo una brutta uscita di strada a Sustinente, nel mantovano, nel corso dell'ultima tappa.",
-      "image": "https://hd2.tudocdn.net/1349632?w=660",
-      "publishedAt": "2026-06-14T07:30:48+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Cosa potrebbe fare Asha Sharma per salvare XBOX?",
       "link": "https://www.tomshw.it/videogioco/cosa-potrebbe-fare-asha-sharma-per-salvare-xbox",
       "excerpt": "La diagnosi è stata spietata, cruda e necessaria. Con la sua ultima lettera aperta, Asha Sharma ha ufficialmente svestito i panni del dirigente rassicurante per indossare quello…",
@@ -111,15 +120,6 @@
       "publishedAt": "2026-06-14T07:21:10+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Tweaking della scheda video sotto Linux? Ecco tre grandi utility avanzate",
-      "link": "https://www.hdblog.it/hardware/articoli/n660982/gpu-tweak-linux-modding-gaming-overclock-undervolt/",
-      "excerpt": "Non è una cosa semplice come su Windows... ma si può fare.",
-      "image": "https://hd2.tudocdn.net/1348977?w=660",
-      "publishedAt": "2026-06-14T07:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Mai più caricabatterie ingombranti: UGREEN porta 65 W e power bank magnetici in formato tascabile",
