@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T19:29:11.823581+00:00",
+  "generatedAt": "2026-06-16T22:06:23.692451+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
@@ -212,15 +212,6 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Un survival senza mostri sta per arrivare su PS5",
-      "link": "https://www.tomshw.it/videogioco/the-planet-crafter-arriva-su-ps5-con-un-survival-senza-mostri",
-      "excerpt": "The Planet Crafter arriverà su PS5 dal 21 luglio, portando sulla console Sony un survival che prova a distinguersi da una parte consistente del genere: niente mostri, niente…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96809/The-Planet-Crafter.webp",
-      "publishedAt": "2026-06-16T14:13:46+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Questo adattatore Techly è il \"coltellino svizzero\" per gli SSD che ogni IT manager dovrebbe avere in borsa",
       "link": "https://images.dday.it/tAG9r4wg465N5-vpDEZYQzYhN64RyGqXgnMhO42uZ_I/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57642/62a16a_P1233193_t.jpg",
       "excerpt": "Accesso rapido a dischi SATA e NVME, copia bit per bit da un disco ad un altro, backup, recupero dati, boot da disco esterno. Questo piccolo adattatore da poco più di 50 euro ci…",
@@ -228,6 +219,15 @@
       "publishedAt": "2026-06-16T14:08:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
+    },
+    {
+      "title": "Intel 18A-P fa passi avanti: più prestazioni e consumi ridotti",
+      "link": "https://www.tomshw.it/hardware/intel-18a-p-risk-production-vlsi-2026",
+      "excerpt": "Intel Foundry ha aggiornato la propria roadmap produttiva durante il VLSI Symposium 2026, confermando che Intel 18A-P è entrato in risk production. Si tratta della prima…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96741/intel-18a-p-risk-production-vlsi-2026.png",
+      "publishedAt": "2026-06-16T13:07:05+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Recensione cuffie over ear JBL Live 780NC: tante funzioni e un buon rapporto qualità/prezzo",
