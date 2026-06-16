@@ -1,9 +1,243 @@
 {
-  "generatedAt": "2026-06-16T02:59:13.604408+00:00",
+  "generatedAt": "2026-06-16T09:19:43.103536+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "One UI 8.5, stop alle fastidiose notifiche pubblicitarie dalle app: ecco come",
+      "link": "https://www.hdblog.it/smartphone/articoli/n661514/samsung-one-ui-8-5-blocco-notifiche-pubblicita-app/",
+      "excerpt": "In tandem con un buon DNS ad blocker adeguato può migliorare in modo radicale l'esperienza d'uso del proprio dispositivo.",
+      "image": "https://hd2.tudocdn.net/1335256?w=660",
+      "publishedAt": "2026-06-16T09:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Taylor Swift e Bad Bunny nei dataset: scoperti 21 milioni di brani usati per addestrare l'AI",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n661502/taylor-swift-bad-bunny-dataset-brani-usati-ai/",
+      "excerpt": "The Atlantic pubblica database con milioni di brani usati per l'AI.",
+      "image": "https://hd2.tudocdn.net/1350067?w=660",
+      "publishedAt": "2026-06-16T09:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Sconti shock sul sito Roborock: il Prime Day che dimezza i prezzi dei top di gamma",
+      "link": "https://www.tomshw.it/altro/sconti-shock-sul-sito-roborock-il-prime-day-che-dimezza-i-prezzi-dei-top-di-gamma",
+      "excerpt": "La Festa delle Offerte Prime è ufficialmente iniziata sul sito ufficiale di Roborock, portando con sé una ventata di sconti dedicati a chi desidera una casa impeccabile senza…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96649/Sconti-shock-sul-sito-Roborock-il-Prime-Day-che-dimezza-i-prezzi-dei-top-di-gamma.png",
+      "publishedAt": "2026-06-16T09:09:26+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Realme lancia P4x e P4 Lite, con batterie enormi e prezzi in promo stracciati",
+      "link": "https://www.hdblog.it/smartphone/articoli/n661505/realme-p4x-p4-lite-novita-prezzi-promo-amazon/",
+      "excerpt": "Realme ha annunciato i nuovi P4x e P4 Lite, due smartphone che puntano su autonomia, resistenza e fluidità. Tra i punti di forza spiccano batterie fino a 7.500 mAh e display da…",
+      "image": "https://hd2.tudocdn.net/1350053?w=660",
+      "publishedAt": "2026-06-16T09:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Anthropic ha sospeso la separazione dei crediti per l’uso degli agenti: cosa era previsto e perché è saltato",
+      "link": "https://images.dday.it/520xIqDzqYrbx9cD6OO1Cb2-ENFnW_XGUTpvUO8mbnA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57754/626a6a_ChatGPT_Image_16_giu_2026__11_02_26.png",
+      "excerpt": "Dal 15 giugno gli script e le automazioni avrebbero smesso di attingere all'abbonamento, ma la retromarcia è arrivata poche ore prima dell'entrata in vigore... Leggi tutto",
+      "image": "https://images.dday.it/520xIqDzqYrbx9cD6OO1Cb2-ENFnW_XGUTpvUO8mbnA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57754/626a6a_ChatGPT_Image_16_giu_2026__11_02_26.png",
+      "publishedAt": "2026-06-16T09:03:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Skoda Peaq: oltre 1,5 milioni di km di test prima del debutto",
+      "link": "https://www.hdmotori.it/skoda-peaq-test/",
+      "excerpt": "Più di 1,5 milioni di km percorsi in condizioni estreme, dai ghiacci dell'Artico ai deserti dell'Arizona, per testare la nuova ammiraglia elettrica a ruote alte del marchio boemo.",
+      "image": "https://hd2.tudocdn.net/1350081?w=660",
+      "publishedAt": "2026-06-16T09:00:32+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Un intero kit con spazzolino elettrico Oral-B iO 6N al prezzo più basso su Amazon",
+      "link": "https://images.dday.it/-u9wwK9JhBdTiypbtV6XW-voVakgR6JrysELHPhyVNU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57756/a3da3e_6n_thumb__1_.jpg",
+      "excerpt": "Include due testine di ricambio, una custodia da viaggio e un dentifricio Oral-B Pro Expert... Leggi tutto",
+      "image": "https://images.dday.it/-u9wwK9JhBdTiypbtV6XW-voVakgR6JrysELHPhyVNU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57756/a3da3e_6n_thumb__1_.jpg",
+      "publishedAt": "2026-06-16T08:56:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Quanto costa davvero l'AI? La verità sui conti in rosso dietro i piani in abbonamento",
+      "link": "https://www.hdblog.it/business/articoli/n661485/ai-quanto-costa-chatgpt-claude-token-abbonamenti/",
+      "excerpt": "Se tutti pagassero a consumo sarebbe insostenibile.",
+      "image": "https://hd2.tudocdn.net/1350055?w=660",
+      "publishedAt": "2026-06-16T08:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Smetti di fare tutto con una sola telecamera. C’è il babymonitor (-37%)",
+      "link": "https://www.tomshw.it/smartphone/monitor-hellobaby-con-schermo-5-super-sconto-del-37-2026-06-16",
+      "excerpt": "Su Amazon è disponibile il HelloBaby Monitor con fotocamera e audio, dotato di un ampio schermo da 5'' e una batteria da 3500 mAh per un utilizzo continuativo fino a 30 ore. Tra…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96646/monitor-hellobaby-con-schermo-5-super-sconto-del-37-2026-06-16-ge2erromh0d3bQ9tAoJ.png",
+      "publishedAt": "2026-06-16T08:40:39+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Dispositivi smart home: i cybercriminali possono usarli a tua insaputa",
+      "link": "https://www.hdblog.it/home/articoli/n661488/milioni-dispositivi-domestici-cyberattacchi/",
+      "excerpt": "Milioni di dispositivi domestici possono essere sfruttati per cyberattacchi.",
+      "image": "https://hd2.tudocdn.net/1350029?w=660",
+      "publishedAt": "2026-06-16T08:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Questo piano a induzione è in sconto (-38%), e non è affatto banale",
+      "link": "https://www.tomshw.it/hardware/piano-induzione-hisense-hia64uk-in-offerta-su-amazon-38-2026-06-16",
+      "excerpt": "Su Amazon è disponibile un'ottima offerta sull'Hisense HIA64UK, piano cottura a induzione da 59 cm con 4 zone e una potenza totale di 7000W. Dotato di Zona Connect, Power Boost,…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96645/piano-induzione-hisense-hia64uk-in-offerta-su-amazon-38-2026-06qq9bllhqdca2adUYlXH.jpg",
+      "publishedAt": "2026-06-16T08:37:23+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Samsung ha tagliato un altro ramo secco: dopo Messaggi è toccato a Max VPN",
+      "link": "https://www.hdblog.it/samsung/articoli/n661482/samsung-tagliato-ramo-secco-max-vpn/",
+      "excerpt": "Dopo otto anni, il servizio non è più disponibile: al caricamento, l'applicazione Samsung Max VPN mostra solo un messaggio di addio.",
+      "image": "https://hd2.tudocdn.net/1350015?w=660",
+      "publishedAt": "2026-06-16T08:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple sotto indagine in Italia per l'interoperabilità di iCloud. L'accusa: \"Niente backup con altre piattaforme cloud\"",
+      "link": "https://images.dday.it/ThQhs_az_adThjUEamMvyvup9PjgQSsxhCbqupvHN5o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57753/1e4eb2_icl.jpg",
+      "excerpt": "Partendo da una segnalazione anonima, l'antitrust italiana ha aperto un'indagine nei confronti di Apple sul tema iCloud: la soluzione proprietaria taglierebbe fuori l'accesso ad…",
+      "image": "https://images.dday.it/ThQhs_az_adThjUEamMvyvup9PjgQSsxhCbqupvHN5o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57753/1e4eb2_icl.jpg",
+      "publishedAt": "2026-06-16T08:29:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Prime Day in anticipo: arriva il primo microonde in super offerta",
+      "link": "https://www.tomshw.it/hardware/hisense-forno-microonde-20l-in-offerta-32-2026-06-16",
+      "excerpt": "Su Amazon è disponibile il forno microonde Hisense H20MOMS4 da 20 litri, con design a specchio e comandi touch con display LED. Dotato di 6 programmi automatici e funzione di…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96643/hisense-forno-microonde-20l-in-offerta-32-2026-06-16-AqU6cy5hq5mqgfv9n7283mB565.png",
+      "publishedAt": "2026-06-16T08:28:56+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "iOS, macOS e tutti gli altri: arrivano le Beta 2 delle versioni 26.6",
+      "link": "https://www.hdblog.it/smartphone/articoli/n661495/apple-ios-macos-ipados-watchos-26-6-beta-2-novita/",
+      "excerpt": "Poche novità, per lo più bug fix e miglioramenti tecnici.",
+      "image": "https://hd2.tudocdn.net/1336001?w=660",
+      "publishedAt": "2026-06-16T08:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Un’offerta che fa ben sperare: il Prime Day si avvicina con possibili sconti sui notebook gaming",
+      "link": "https://www.tomshw.it/videogioco/msi-vector-16-hx-rtx-5080-in-offerta-a-soli-2699eur-2026-06-16",
+      "excerpt": "Su Amazon è disponibile il notebook gaming MSI Vector 16 HX AI A2XWIG-033IT, una macchina ad alte prestazioni equipaggiata con Intel Core Ultra 9 275HX, Nvidia RTX 5080 16GB GDDR7…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96642/msi-vector-16-hx-rtx-5080-in-offerta-a-soli-2699eur-2026-06-16-09ibajlc45j7cWiyyEe.png",
+      "publishedAt": "2026-06-16T08:24:20+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Trasforma il tuo SSD interno in un drive esterno spendendo la metà",
+      "link": "https://www.tomshw.it/hardware/inateck-alloggiamento-ssd-nvme-40gbps-scontato-del-45-2026-06-16",
+      "excerpt": "Su Amazon è disponibile l'Inateck FE2028, l'alloggiamento SSD NVMe in alluminio con connettività USB4.0/Thunderbolt 4 a 40Gbps, velocità di lettura fino a 2700 MB/s e supporto…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96640/inateck-alloggiamento-ssd-nvme-40gbps-scontato-del-45-2026-06-1qgf832kpfatv6qL1ZQq.png",
+      "publishedAt": "2026-06-16T08:20:53+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Vivo annuncia il lancio di X Fold6: ecco quando sarà presentato",
+      "link": "https://www.hdblog.it/smartphone/articoli/n661494/vivo-x-fold6-data-di-lancio/",
+      "excerpt": "Il prossimo pieghevole di Vivo è ormai vicino al debutto. X Fold6 arriverà con schermo interno da 8,02 pollici, pannelli Samsung M14 e una configurazione fotografica sviluppata…",
+      "image": "https://hd2.tudocdn.net/1350037?w=660",
+      "publishedAt": "2026-06-16T08:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Amazon abbatte il prezzo: Corsair 750W mai visto così economico",
+      "link": "https://www.tomshw.it/hardware/corsair-cx750-in-offerta-a-soli-65eur-su-amazon-2026-06-16",
+      "excerpt": "Su Amazon è disponibile un'ottima offerta sull'alimentatore CORSAIR CX750 ATX 750W, una soluzione affidabile e silenziosa con certificazione 80 PLUS Bronze e ventola da 120 mm a…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96639/corsair-cx750-in-offerta-a-soli-65eur-su-amazon-2026-06-16-sJQ07t6te0b45qrt8e269At.png",
+      "publishedAt": "2026-06-16T08:17:21+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Asus ha realizzato un datacenter AI da scrivania: chip NVIDIA e 748 GB di RAM",
+      "link": "https://www.hdblog.it/hardware/articoli/n661489/asus-supercomputer-ai-scrivania-nvidia-gb300/",
+      "excerpt": "Superchip GB300 con CPU ARM 72-core e GPU Blackwell Ultra.",
+      "image": "https://hd2.tudocdn.net/1350025?w=660",
+      "publishedAt": "2026-06-16T08:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "-43% + in più ti aspetta un 5% extra al carrello su questo Mini PC",
+      "link": "https://www.tomshw.it/hardware/beelink-mini-pc-ser3-in-offerta-su-amazon-46-2026-06-16",
+      "excerpt": "Su Amazon è disponibile un'ottima offerta sul Beelink Mini PC SER3, equipaggiato con processore AMD Ryzen 3 3200U, 8GB DDR4 e 480GB SSD PCIe. Questo mini computer compatto…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96638/beelink-mini-pc-ser3-in-offerta-su-amazon-46-2026-06-16-6aPrACA1ea4ufl5t08l70IPN4a.png",
+      "publishedAt": "2026-06-16T08:13:56+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Xiaomi 17T in offerta Prime: il primo top già scontato con tablet in bundle",
+      "link": "https://www.tomshw.it/smartphone/xiaomi-17t-redmi-pad-2-in-offerta-a-soli-801eur-2026-06-16",
+      "excerpt": "Su Amazon è disponibile un'ottima offerta sullo Xiaomi 17T, smartphone con display Eye-Care da 6,59 a 120Hz, batteria da 6500mAh, teleobiettivo Leica 5x e chip MediaTek Dimensity…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96637/xiaomi-17t-redmi-pad-2-in-offerta-a-soli-801eur-2026-06-16-Qmprv871sir184i17Nw4PIK.png",
+      "publishedAt": "2026-06-16T08:11:13+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Xbox, a rischio chiusura Ninja Theory e altri studi: stanno trattando per evitare la chiusura",
+      "link": "https://images.dday.it/nXL-ey9RG864q8Ugmn0DobEqVdoooX79AI25hHhj8LY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57752/03dbab_xbox_thumb.jpg",
+      "excerpt": "Ninja Theory, Compulsion Games e Double Fine sarebbero in trattativa con Xbox per tornare indipendenti... Leggi tutto",
+      "image": "https://images.dday.it/nXL-ey9RG864q8Ugmn0DobEqVdoooX79AI25hHhj8LY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57752/03dbab_xbox_thumb.jpg",
+      "publishedAt": "2026-06-16T07:52:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "A fine giugno Chrome e i browser Chromium diranno per sempre addio agli ad-blocker più potenti",
+      "link": "https://images.dday.it/GpGbQkdnCD8ArMBrEO5LF8K03uAbSDieL8RoB5dstks/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57751/4f3da1_ChatGPT_Image_16_giu_2026__09_45_30.png",
+      "excerpt": "Il supporto a Manifest V2 era già stato disattivato, ma alcuni utenti lo aggiravano con flag sperimentali. Chrome 150 rimuoverà anche questa possibilità non ufficiale... Leggi…",
+      "image": "https://images.dday.it/GpGbQkdnCD8ArMBrEO5LF8K03uAbSDieL8RoB5dstks/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57751/4f3da1_ChatGPT_Image_16_giu_2026__09_45_30.png",
+      "publishedAt": "2026-06-16T07:46:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Migliori powerbank (giugno 2026)",
+      "link": "https://www.tomshw.it/guide/migliori-power-bank-batteria-esterna",
+      "excerpt": "I power bank sono batterie portatili pensate per risolvere un problema molto concreto: arrivare a fine giornata, a fine viaggio o a una sessione di lavoro fuori casa senza…",
+      "image": "https://www.tomshw.it/storage/media/2026/04/89624/migliori-powerbank-copertina.jpg",
+      "publishedAt": "2026-06-16T07:03:27+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Narwal Flow o Flow 2: quale scegliere? Il confronto fra i due robot",
+      "link": "https://images.dday.it/z7kYsC9rRgmQzTzTgl19h0B3zmhGLvG7DGY5OO0anjQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57715/1ff6a0_flow_thumb.png",
+      "excerpt": "Sono già attive le offerte Narwal in vista del Prime Day. Grandi sconti sull'intera gamma: fino a 820 euro di risparmio... Leggi tutto",
+      "image": "https://images.dday.it/z7kYsC9rRgmQzTzTgl19h0B3zmhGLvG7DGY5OO0anjQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57715/1ff6a0_flow_thumb.png",
+      "publishedAt": "2026-06-16T06:00:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
     {
       "title": "Lexar JumpDrive D500, il mini SSD portatile con doppio connettore per chi viaggia leggero",
       "link": "https://images.dday.it/YmG54c7hrmNMbNEdkIxiZb0fyM5Y4M4dLnbfZrT8Eio/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57732/868bf0_cover_Screenshot_2026-06-12_alle_15.37.06_copia.png",
@@ -32,245 +266,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Migliori adattatori Android Auto wireless (giugno 2026)",
-      "link": "https://www.tomshw.it/automotive/migliori-adattatori-android-auto-wireless",
-      "excerpt": "Usare lo smartphone alla guida resta una delle abitudini più rischiose, perché basta distogliere lo sguardo per pochi secondi per perdere informazioni importanti su traffico,…",
-      "image": "https://www.tomshw.it/storage/media/2026/04/89422/migliori-adattatori-android-auto-wireless-copertina.jpg",
-      "publishedAt": "2026-06-16T00:54:30+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori cuffie wireless (giugno 2026)",
-      "link": "https://www.tomshw.it/offerte/cuffie-wireless-migliori",
-      "excerpt": "Le cuffie wireless sono diventate uno degli accessori più utili per ascoltare musica, lavorare, giocare o guardare film senza restare legati al cavo. La comodità, però, non basta…",
-      "image": "https://www.tomshw.it/storage/media/2026/04/89235/migliori-cuffie-wireless-copertina.jpg",
-      "publishedAt": "2026-06-16T00:47:47+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori docking station (giugno 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-docking-station",
-      "excerpt": "L'evoluzione dei notebook ultrasottili, dei MacBook e dei tablet usati come strumenti di lavoro ha reso le scrivanie più ordinate, ma anche più dipendenti da un singolo connettore…",
-      "image": "https://www.tomshw.it/storage/media/2026/04/89228/migliori-docking-station-copertina.jpg",
-      "publishedAt": "2026-06-16T00:37:27+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori adattatori Apple CarPlay wireless (giugno 2026)",
-      "link": "https://www.tomshw.it/automotive/migliori-adattatori-apple-carplay-wireless",
-      "excerpt": "Usare l'iPhone in auto per avviare la navigazione, rispondere a un messaggio o cambiare playlist può diventare una distrazione concreta se costringe a prendere in mano lo…",
-      "image": "https://www.tomshw.it/storage/media/2026/04/89209/migliori-adattatori-carplay-wireless-copertina.jpg",
-      "publishedAt": "2026-06-16T00:29:20+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Ho provato ANTHBOT M9: il robot tagliaerba con GPS che arriva dovunque",
-      "link": "https://www.hdblog.it/home/recensioni/n659972/anthbot-m9-robot-taglierba-gps-che-arriva-dovunque/",
-      "excerpt": "Questo nuovo ANTHBOT M9 potrebbe essere il robot perfetto per molti giardini, se hai grandi metrature e dislivelli importanti.",
-      "image": "https://hd2.tudocdn.net/1346755?w=660",
-      "publishedAt": "2026-06-15T19:00:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Perché le batterie degli smartphone cinesi durano di più? L'abbiamo chiesto a Honor",
-      "link": "https://www.hdblog.it/smartphone/speciali/n660716/batterie-smartphone-cinesi-silicio-carbonio/",
-      "excerpt": "Abbiamo intervistato HONOR per scoprire gli ultimi segreti dietro alle incredibili batteria che stanno arrivando dalla cina, al silicio-carbonio.",
-      "image": "https://hd2.tudocdn.net/1349523?w=660",
-      "publishedAt": "2026-06-15T18:59:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "BYD Flash Charging: a Bologna la prima stazione da 1,5 MW in Italia",
-      "link": "https://www.hdmotori.it/byd-flash-charging-bologna-stazione-15-mw/",
-      "excerpt": "La rivoluzione di BYD sbarca in Italia: inaugurata a Bologna la prima stazione con potenza fino a 1.500 kW e tempi di soli 9 minuti per una ricarica quasi completa.",
-      "image": "https://hd2.tudocdn.net/1349932?w=660",
-      "publishedAt": "2026-06-15T17:30:34+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Oppo Find X10 Pro potrebbe avere addirittura due fotocamere da 200 MP",
-      "link": "https://www.hdblog.it/smartphone/articoli/n661450/oppo-find-x10-pro-zoom-fotocamere-200-mp/",
-      "excerpt": "Sulla principale e sulla tele. Potrebbe esserci anche un sensore multispettrale da 3 MP.",
-      "image": "https://hd2.tudocdn.net/1298636?w=660",
-      "publishedAt": "2026-06-15T17:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Un satellite ha appena imparato a pattugliare da solo la Terra dallo spazio",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n661426/satellite-pattugliare-terra-dallo-spazio/",
-      "excerpt": "Ecco cosa significa",
-      "image": "https://hd2.tudocdn.net/1349914?w=660",
-      "publishedAt": "2026-06-15T17:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Xbox, ancora addii ai vertici: lascia il responsabile di Xbox Studios Craig Duncan",
-      "link": "https://www.hdblog.it/microsoft/articoli/n661449/xbox-licenziamenti-vertici-craig-duncan/",
-      "excerpt": "Abbandona anche Louise O'Connor, un'altra veterana proveniente da Rare come Duncan.",
-      "image": "https://hd2.tudocdn.net/1349928?w=660",
-      "publishedAt": "2026-06-15T17:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Drone tedesco CA-1EA da 4 tonnellate: oscurerà i radar nemici",
-      "link": "https://www.hdblog.it/droni/articoli/n661346/drone-guerra-elettronica-helsing-ca1ea/",
-      "excerpt": "La tedesca Helsing svela il drone CA-1EA da 4 tonnellate per oscurare i radar nemici dal 2031.",
-      "image": "https://hd2.tudocdn.net/1349782?w=660",
-      "publishedAt": "2026-06-15T16:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "La sovranità digitale europea passa anche dai router: ecco SAFENet",
-      "link": "https://www.hdblog.it/hardware/articoli/n661445/safenet-router-sovranita-digitale-europea-fritz/",
-      "excerpt": "L'alleanza sostiene che i router vengono troppo sottovalutati e marginalizzati nel dibattito sulla sovranità digitale, nonostante siano dispositivi cruciali e indispensabili per…",
-      "image": "https://hd2.tudocdn.net/1349924?w=660",
-      "publishedAt": "2026-06-15T16:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "NVIDIA e LG insieme per la robotica del futuro",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n661321/nvidia-lg-robotica-ai/",
-      "excerpt": "NVIDIA e LG alleate per integrare robotica, AI e auto del futuro in una fabbrica digitale.",
-      "image": "https://hd2.tudocdn.net/1349669?w=660",
-      "publishedAt": "2026-06-15T16:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Promo Dreame su Amazon: 5 offerte casa da non perdere, dal robot top alla cucina smart",
-      "link": "https://www.hdblog.it/amazon/offerte/n661150/promo-dreame-amazon-15-giugno-offerte-casa-robot/",
-      "excerpt": "Dreame lancia su Amazon una nuova campagna con robot aspirapolvere, aspirapolvere senza fili e prodotti smart per la cucina: offerte da 99€.",
-      "image": "https://hd2.tudocdn.net/1349314?w=660",
-      "publishedAt": "2026-06-15T16:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Recensione Soundcore Liberty 5 Pro e Pro Max, gli auricolari che non ti aspetti",
-      "link": "https://www.tomshw.it/smartphone/recensione-soundcore-liberty-5-pro-e-pro-max-gli-auricolari-che-non-ti-aspetti",
-      "excerpt": "Nelle ultime settimane ho utilizzato a lungo i nuovi Soundcore Liberty 5 Pro e Liberty 5 Pro Max, due paia di auricolari che condividono praticamente tutta la piattaforma tecnica…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96558/2026-06-15-19-25-11.jpg",
-      "publishedAt": "2026-06-15T16:27:54+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Xbox Game Studios, il capo lascia dopo due anni",
-      "link": "https://www.tomshw.it/videogioco/xbox-game-studios-il-capo-lascia-dopo-due-anni-2026-06-15",
-      "excerpt": "Il mondo Xbox è in piena tempesta. A pochi mesi da una serie di cambiamenti ai vertici che hanno già ridisegnato la struttura interna di Microsoft Gaming, Craig Duncan lascia il…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96557/craig-duncan.webp",
-      "publishedAt": "2026-06-15T16:26:51+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "La Russia ha risolto il problema delle perdite d'aria sulla Stazione Spaziale Internazionale, a modo suo",
       "link": "https://images.dday.it/niYpit-pF6EcVzqxVvbkXfs1ZEYePQoY7NEZLKLPMbA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57750/389a58_View_of_the_bottom_of_Zvezda.jpg",
       "excerpt": "Secondo i retroscena, la Russia ha deciso di “ritirare” il modulo affetto da perdite d’aria sulla Stazione Spaziale dopo la decisione della NASA di preparare i suoi…",
       "image": "https://images.dday.it/niYpit-pF6EcVzqxVvbkXfs1ZEYePQoY7NEZLKLPMbA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57750/389a58_View_of_the_bottom_of_Zvezda.jpg",
       "publishedAt": "2026-06-15T15:32:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "L'FBI smantella una fabbrica del phishing da 1 milione di URL",
-      "link": "https://www.tomshw.it/hardware/un-milione-di-url-per-rubare-dati-lfbi-spegne-il-phishing-ai",
-      "excerpt": "FBI ha smantellato Outsider Enterprise, una piattaforma di phishing gestita come servizio e usata per creare pagine fasulle, inviare messaggi fraudolenti e raccogliere…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96528/L'FBI-smantella-una-fabbrica-del-phishing-da-1-milione-di-URL.jpg",
-      "publishedAt": "2026-06-15T14:57:18+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Universal Android Debloater, ovvero come togliere il bloatware in modo sicuro",
-      "link": "https://images.dday.it/w7GvnfyBM1L8UnHvbI42XLOewnv_QiAM2EvjC6UD3yI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57749/52ee06_debloat.jpg",
-      "excerpt": "Quando una persona compra oggi uno smartphone, soprattutto quelli di fascia bassa, si trova già installate almeno 20 app che non vorrebbe. C'è un modo per rimuoverle senza…",
-      "image": "https://images.dday.it/w7GvnfyBM1L8UnHvbI42XLOewnv_QiAM2EvjC6UD3yI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57749/52ee06_debloat.jpg",
-      "publishedAt": "2026-06-15T14:49:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Samsung produrrà a 4 nm il nuovo chip Neuralink, rilanciando la sfida a TSMC",
-      "link": "https://www.tomshw.it/business/samsung-produrra-a-4-nm-il-nuovo-chip-neuralink-rilanciando-la-sfida-a-tsmc",
-      "excerpt": "Samsung punta a produrre sul proprio processo 4 nm il chip Neuralink di quarta generazione, secondo quanto riportato nella ricostruzione pubblicata da Wccftech. Il progetto,…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96490/samsung-produrra-a-4-nm-il-nuovo-chip-neuralink-rilanciando-la-sfida-a-tsmc.png",
-      "publishedAt": "2026-06-15T14:42:22+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Vele a luce verso le stelle, perché la spinta cala avvicinandosi alla velocità della luce",
-      "link": "https://images.dday.it/i7VfH6mwJBXmfOJhQVXtBBbNcnSy_vjb1aCoijXap8w/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57746/a02b50_Gemini_Generated_Image_5ztmpd5ztmpd5ztm.png",
-      "excerpt": "Due fisici hanno calcolato che, oltre il 75% della velocità della luce, la componente della radiazione diffusa smette di spingere la vela e inizia a frenarla. Ma perché?... Leggi…",
-      "image": "https://images.dday.it/i7VfH6mwJBXmfOJhQVXtBBbNcnSy_vjb1aCoijXap8w/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57746/a02b50_Gemini_Generated_Image_5ztmpd5ztmpd5ztm.png",
-      "publishedAt": "2026-06-15T14:21:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Denza, aperta la prima stazione Flash Charging in Italia: ricariche fino a 1.500 kW",
-      "link": "https://images.dday.it/2lQjjdRkq7_Pf3QPgKx18IFjw8m937_Rt8zA6Shs3bk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57748/48f56e_byd_thumb.jpg",
-      "excerpt": "Inaugurata la prima stazione Flash Charging italiana: potenze fino a 1.500 kW e ricarica dal 10% al 70% in 5 minuti... Leggi tutto",
-      "image": "https://images.dday.it/2lQjjdRkq7_Pf3QPgKx18IFjw8m937_Rt8zA6Shs3bk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57748/48f56e_byd_thumb.jpg",
-      "publishedAt": "2026-06-15T13:58:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Donut Lab risponde alle accuse: \"tutto falso, dietro a Ziroth ci sono i cinesi\"",
-      "link": "https://images.dday.it/UnXF0A1OTL0g8FBPuKIX0cyEhgdwT0QMe6XnGFxfdu0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57747/164ffa_DonutLab_1.jpg",
-      "excerpt": "Secondo Donut Lab la video inchiesta contiene solo illazioni infondate e accusa il canale YouTube di essere al soldo dei cinesi di CATL per denigrare la startup europea... Leggi…",
-      "image": "https://images.dday.it/UnXF0A1OTL0g8FBPuKIX0cyEhgdwT0QMe6XnGFxfdu0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57747/164ffa_DonutLab_1.jpg",
-      "publishedAt": "2026-06-15T13:36:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il robot lavapavimenti ECOVACS DEEBOT T80 OMNI, ora costa 100€ in meno: approfittane subito",
-      "link": "https://images.dday.it/1i6okW5ijsNUQbyKEmhmZdfCAjO0Exvf-lyhnGpGroQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57744/671a3c_ape2.jpg",
-      "excerpt": "Un robot 2-in-1 che aspira e lava al posto tuo, ora con 100€ di sconto per rendere le pulizie ancora più semplici e convenienti... Leggi tutto",
-      "image": "https://images.dday.it/1i6okW5ijsNUQbyKEmhmZdfCAjO0Exvf-lyhnGpGroQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57744/671a3c_ape2.jpg",
-      "publishedAt": "2026-06-15T13:00:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Bambu Lab PLA Pure promette stampa 3D domestica più sicura",
-      "link": "https://www.tomshw.it/hardware/bambu-lab-pla-pure-filamento-stampa-3d-casa",
-      "excerpt": "Bambu Lab presenta PLA Pure, un nuovo filamento pensato per chi usa la stampante 3D in casa e vuole ridurre le incognite legate a emissioni, sicurezza dei materiali e…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96448/bambu-lab-pla-pure-filamento-stampa-3d-casa.png",
-      "publishedAt": "2026-06-15T12:31:41+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Cinquanta prompt Claude da usare ogni giorno (e i tre che falliscono)",
-      "link": "https://www.tomshw.it/aioperator/cinquanta-prompt-claude-ogni-giorno",
-      "excerpt": "Un prompt vago produce una risposta vaga. È il problema numero uno di chi usa Claude per lavoro e poi conclude che tanto risponde sempre allo stesso modo. La differenza tra chi…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96431/03-b15-cover.jpg",
-      "publishedAt": "2026-06-15T11:16:20+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "L'IA, l'Europa e la fine dello smartphone come lo conosciamo oggi",
-      "link": "https://images.dday.it/oi3QiYIU5q_ldWqLHiL3vNIryQ8hLtynWdg_nRMSCO4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57745/f32876_gem.jpg",
-      "excerpt": "Il documento allegato al procedimento aperto dalla Commissione Europea contro Google per Gemini e Android, con l'elenco e la scadenza di tutte le modifiche da fare al sistema…",
-      "image": "https://images.dday.it/oi3QiYIU5q_ldWqLHiL3vNIryQ8hLtynWdg_nRMSCO4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57745/f32876_gem.jpg",
-      "publishedAt": "2026-06-15T11:12:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
