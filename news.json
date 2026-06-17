@@ -1,9 +1,99 @@
 {
-  "generatedAt": "2026-06-17T16:51:45.933764+00:00",
+  "generatedAt": "2026-06-17T20:03:37.602488+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Disney+ spegne il Dolby Vision, anche in Italia. Ha perso una disputa sui brevetti",
+      "link": "https://images.dday.it/ig6Pz3GmhPcZKLJMTdbslG2sqKZ2hs5Bygbc9OLB6TE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57783/2bd0c4_disn.jpg",
+      "excerpt": "La Unified Patent Court ha dato ragione a InterDigital in una disputa su brevetti video legati a HEVC. L'ingiunzione copre 11 paesi UE, Italia compresa: Dolby Vision e i film in…",
+      "image": "https://images.dday.it/ig6Pz3GmhPcZKLJMTdbslG2sqKZ2hs5Bygbc9OLB6TE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57783/2bd0c4_disn.jpg",
+      "publishedAt": "2026-06-17T19:43:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Gaming a 180Hz con 89€: MSI G255F è il monitor giusto ora",
+      "link": "https://www.tomshw.it/offerte/gaming-a-180hz-con-89eur-msi-g255f-e-il-monitor-giusto-ora",
+      "excerpt": "MSI G255F è in offerta a 89€ su Amazon. Il monitor gaming da 24,5 pollici scende dal listino di 151,99€ con uno sconto del 41%, una combinazione interessante per chi vuole passare…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97061/tomshw-offer-550954.png",
+      "publishedAt": "2026-06-17T19:17:15+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Adobe Photoshop finalmente mette il turbo su Windows 11",
+      "link": "https://www.hdblog.it/microsoft/articoli/n661728/photoshop-prestazioni-windows-11-spgo/",
+      "excerpt": "Microsoft e Adobe hanno collaborato per ottimizzare il modo di sfruttare le risorse hardware a disposizione del popolarissimo strumento di fotoritocco.",
+      "image": "https://hd2.tudocdn.net/1350654?w=660",
+      "publishedAt": "2026-06-17T18:08:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "GTA V, l'upgrade alla versione \"next gen\" diventa gratuito",
+      "link": "https://www.hdblog.it/windows/articoli/n661724/gta-v-upgrade-ps5-xsx-pc-gratis/",
+      "excerpt": "Forse lo studio americano sta iniziando a dire addio al supporto di PS4 e Xbox One.",
+      "image": "https://hd2.tudocdn.net/1350651?w=660",
+      "publishedAt": "2026-06-17T17:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Jeremy Clarkson spaventa il suo pubblico: \"Ho un tumore alla prostata\"",
+      "link": "https://www.hdmotori.it/jeremy-clarkson-tumore-prostata/",
+      "excerpt": "Jeremy Clarkson ha confessato di aver un tumore alla prostata aggressivo, ma di averlo scoperto con tempismo. Fans sconvolti",
+      "image": "https://hd2.tudocdn.net/1350650?w=660",
+      "publishedAt": "2026-06-17T17:30:38+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Mano bionica insegna ai robot il tocco umano",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n661611/mano-bionica-robot-abb-psyonic/",
+      "excerpt": "ABB e PSYONIC usano dati umani per rendere i robot più precisi e autonomi.",
+      "image": "https://hd2.tudocdn.net/1350400?w=660",
+      "publishedAt": "2026-06-17T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple Watch, una nuova medaglia per lo Yoga Day: ecco come si potrà ottenerla",
+      "link": "https://www.hdblog.it/indossabili/articoli/n661718/apple-watch-nuova-medaglia-yoga-day/",
+      "excerpt": "Apple attiverà una nuova Sfida Attività per chi usa Apple Watch.",
+      "image": "https://hd2.tudocdn.net/1350637?w=660",
+      "publishedAt": "2026-06-17T17:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "AMD rimuove in segreto una funzione di sicurezza dai Ryzen consumer",
+      "link": "https://www.hdblog.it/hardware/articoli/n661717/amd-ryzen-funzione-sicurezza-rimossa/",
+      "excerpt": "Comportamento decisamente poco trasparente da parte della società americana.",
+      "image": "https://hd2.tudocdn.net/1240614?w=660",
+      "publishedAt": "2026-06-17T17:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Bespoke Series by Mulliner, la nuova edizione esclusiva e colorata di Bentley",
+      "link": "https://www.hdmotori.it/bespoke-series-by-mulliner-bentley/",
+      "excerpt": "Bentley lancia 100 esemplari per clienti incontentabili. La Bespoke Series by Mulliner punta su colori ed elementi unici",
+      "image": "https://hd2.tudocdn.net/1350634?w=660",
+      "publishedAt": "2026-06-17T17:00:40+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Archimedes, il laser anti-drone del Pentagono: ha già abbattuto 25 droni",
+      "link": "https://www.hdblog.it/droni/articoli/n661637/archimedes-laser-anti-drone-pentagono/",
+      "excerpt": "Archimedes supera i test e neutralizza 25 droni in un'esercitazione USA.",
+      "image": "https://hd2.tudocdn.net/1350454?w=660",
+      "publishedAt": "2026-06-17T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Thread Direct renderà la configurazione degli impianti Matter ancora più semplice",
       "link": "https://www.hdblog.it/domotica/articoli/n661709/thread-direct-border-router-matter/",
@@ -23,15 +113,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Il prossimo robot umanoide non sembra così umano | VIDEO",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n661679/prossimo-robot-umanoide-non-sembra-umano-video/",
-      "excerpt": "Almeno nell'estetica",
-      "image": "https://hd2.tudocdn.net/1350622?w=660",
-      "publishedAt": "2026-06-17T16:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "JBL Flip 7 a 94,99€: speaker IP68 al minimo su Amazon",
       "link": "https://www.tomshw.it/offerte/jbl-flip-7-a-9499eur-speaker-ip68-al-minimo-su-amazon",
       "excerpt": "JBL Flip 7 è in offerta a 94,99€ su Amazon. Il prezzo scende dal listino di 149,99€ con uno sconto del 37%, arrivando al minimo storico indicato per questo speaker Bluetooth…",
@@ -39,69 +120,6 @@
       "publishedAt": "2026-06-17T16:32:03+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Prime Day UGREEN: 6 offerte da non perdere tra power bank, NAS e accessori per la produttività",
-      "link": "https://www.hdblog.it/tecnologia/offerte/n661427/prime-day-ugreen-offerte-power-bank-nas-caricatori/",
-      "excerpt": "In occasione del Prime Day Amazon, UGREEN propone sconti fino al 40% su alcuni dei suoi prodotti più interessanti: power bank ad alta capacità, caricabatterie GaN, docking…",
-      "image": "https://hd2.tudocdn.net/1350553?w=660",
-      "publishedAt": "2026-06-17T16:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Disney+ taglia Dolby Vision e 3D in Italia e non solo: utenti senza funzione premium",
-      "link": "https://www.hdblog.it/mercato/articoli/n661704/disney-plus-dolby-vision-3d-disattivati-europa/",
-      "excerpt": "Disney+ disattiva Dolby Vision e 3D in 11 Paesi UE dopo una disputa sui brevetti.",
-      "image": "https://hd2.tudocdn.net/1350616?w=660",
-      "publishedAt": "2026-06-17T16:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Windows 11 cambia gli aggiornamenti: meno riavvii con una novità in arrivo",
-      "link": "https://www.hdblog.it/microsoft/articoli/n661707/quante-volte-hai-riavviato-windows-per-un-aggiornamento-microsoft-vuole-cambiare-le-cose/",
-      "excerpt": "Aggiornare, riavviare, aggiornare, riavviare. Windows da anni è un pendolo che oscilla tra aggiornamento e riavvio. Ma presto le cose potrebbero cambiare in meglio: l'ultima build…",
-      "image": "https://hd2.tudocdn.net/1350621?w=660",
-      "publishedAt": "2026-06-17T16:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Husqvarna Enduro 2027: tecnologia e tradizione svedese per ridefinire l'offroad",
-      "link": "https://www.hdmotori.it/husqvarna-enduro-2027-gamma-prezzi/",
-      "excerpt": "Debutta la nuova gamma Husqvarna Enduro 2027 con sette modelli TE e FE. Prezzi da 10.390 euro per la TE 125, ciclistica WP e design che richiama le origini",
-      "image": "https://hd2.tudocdn.net/1350619?w=660",
-      "publishedAt": "2026-06-17T16:00:26+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Dal Belgio arriva LGR275 Proxy, il razzo laser economico per fermare i droni",
-      "link": "https://www.hdblog.it/droni/articoli/n661605/belgio-razzo-anti-drone-lgr275-proxy/",
-      "excerpt": "Thales lancia LGR275 Proxy, un razzo guidato progettato per abbattere droni a costi ridotti.",
-      "image": "https://hd2.tudocdn.net/1350388?w=660",
-      "publishedAt": "2026-06-17T15:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Noctua, finalmente i dissipatori a liquido AiO sono disponibili all'acquisto",
-      "link": "https://www.hdblog.it/hardware/articoli/n661706/noctua-dissipatori-liquido-prezzi-specifiche/",
-      "excerpt": "Si arriva a 300 euro per il modello più grande... e 20 euro per la ventola aggiuntiva da waterblock.",
-      "image": "https://hd2.tudocdn.net/1350615?w=660",
-      "publishedAt": "2026-06-17T15:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il CEO di Nothing sfida Apple: \"vi porterò via i clienti\"",
-      "link": "https://www.hdblog.it/smartphone/articoli/n661691/carl-pei-nothing-sfida-apple-iphone-video-clienti/",
-      "excerpt": "Il solito Carl Pei sopra le righe.",
-      "image": "https://hd2.tudocdn.net/1329671?w=660",
-      "publishedAt": "2026-06-17T15:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "NVIDIA Vera Rubin prepara data center dove il rame non basta più",
@@ -131,15 +149,6 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Secure Boot, dal 24 giugno scadono tre certificati: le imprese sono chiamate ad aggiornare",
-      "link": "https://www.tomshw.it/business/secure-boot-dal-24-giugno-scadono-tre-certificati-imprese-chiamate-ad-aggiornare",
-      "excerpt": "Per le aziende che gestiscono parchi Windows, Linux e macchine virtuali con avvio protetto si avvicina una scadenza tecnica ma rilevante per la continuità della sicurezza: a…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97033/secure-boot-dal-24-giugno-scadono-tre-certificati-imprese-chiamate-ad-aggiornare.png",
-      "publishedAt": "2026-06-17T14:55:29+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "L’anello wellness Oura Ring 4 scende del 25% su Amazon dopo il lancio del nuovo modello",
       "link": "https://images.dday.it/ok5RkN203zU02imHIvu4piBaAbDvTmqrl7jU-4XsKQY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57781/c27a7d_Screenshot_2026-06-17_alle_16.48.52.png",
       "excerpt": "Dopo il debutto del nuovo modello, Oura Ring 4 scende di prezzo su Amazon: un’occasione per provare uno smart ring discreto, leggero che non monitora solo il sonno, ma tanto di…",
@@ -149,20 +158,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "LG C6: il nuovo riferimento OLED 2026 ora a prezzo shock (-1000€)",
-      "link": "https://www.tomshw.it/hardware/lg-oled-evo-c6-77-in-offerta-a-soli-2599eur-su-amazon-2026-06-17",
-      "excerpt": "Su Amazon è disponibile il nuovissimo LG OLED evo AI 77 pollici Serie C6 (OLED77C64LA), il TV 4K del 2026 con tecnologia Hyper Radiant Color e processore α11 Gen3. Grazie al Dual…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97034/lg-oled-evo-c6-77-in-offerta-a-soli-2599eur-su-amazon-2026-06-119aa59iqoo172QLrHnj.jpg",
-      "publishedAt": "2026-06-17T14:42:48+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "LCD sul waterblock a 79,90€: Corsair Nautilus 240 RS è al -47%",
-      "link": "https://www.tomshw.it/offerte/lcd-sul-waterblock-a-7990eur-corsair-nautilus-240-rs-e-al-47",
-      "excerpt": "Corsair NAUTILUS 240 RS LCD è in offerta a 79,90€ su Amazon. Il prezzo è particolarmente interessante perché scende dal listino di 149,90€ con uno sconto del 47% e raggiunge il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97027/tomshw-offer-550862.png",
-      "publishedAt": "2026-06-17T14:33:04+00:00",
+      "title": "Si assume di meno e si lavora il triplo, ecco come l'IA peggiora il lavoro",
+      "link": "https://www.tomshw.it/business/si-assume-meno-lavora-triplo-ia-peggiora-lavoro",
+      "excerpt": "Un report SAP-Wakefield uscito in primavera dice che l'88% dei direttori delle risorse umane vede l'IA accelerare la crescita dei junior. Un paper Stanford rilasciato in autunno…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/96950/cover-si-assume-meno-lavora-triplo.jpg",
+      "publishedAt": "2026-06-17T14:43:18+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -203,6 +203,24 @@
       "sourceColor": "#E63946"
     },
     {
+      "title": "Migliori NAS (giugno 2026)",
+      "link": "https://www.tomshw.it/guide/migliori-nas",
+      "excerpt": "I NAS, ovvero Network Attached Storage, sono dispositivi di archiviazione collegati alla rete: non servono solo in azienda, ma anche in casa quando foto, video, backup dei PC e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/89857/migliori-nas-copertina.jpg",
+      "publishedAt": "2026-06-17T12:34:07+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori antivirus (giugno 2026)",
+      "link": "https://www.tomshw.it/guide/antivirus-vpn-sicurezza-migliori",
+      "excerpt": "La sicurezza informatica non riguarda più soltanto il PC di casa: oggi protegge documenti di lavoro, foto personali, home banking, account social, servizi cloud e dispositivi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/89856/migliori-antivirus-copertina.jpg",
+      "publishedAt": "2026-06-17T12:32:17+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "Migliori borracce termiche (giugno 2026)",
       "link": "https://www.tomshw.it/offerte/borracce-termiche-migliori",
       "excerpt": "Le borracce termiche sono diventate un accessorio quotidiano per chi vuole bere acqua fresca in ufficio, portare tè caldo durante il tragitto o affrontare sport e viaggi senza…",
@@ -219,15 +237,6 @@
       "publishedAt": "2026-06-17T12:25:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migliori spazzolini elettrici (giugno 2026)",
-      "link": "https://www.tomshw.it/offerte/spazzolini-elettrici-migliori",
-      "excerpt": "Gli spazzolini elettrici sono diventati una scelta molto comune per migliorare l'igiene orale quotidiana, ma non tutti i modelli rispondono allo stesso bisogno. Il vantaggio…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/89849/migliori-spazzolini-elettrici-copertina.jpg",
-      "publishedAt": "2026-06-17T12:24:13+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Fai la pre-denuncia online e poi concludi in commissariato di Polizia. Per lo smarrimento è tutto digitale",
@@ -264,15 +273,6 @@
       "publishedAt": "2026-06-17T10:07:34+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il mercato retail degli SSD è quasi scomparso",
-      "link": "https://images.dday.it/lu12G3f42_LfdPwznc7LwQFT1iFgT-HpUjO5DUuZv6k/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57772/d15b7f_Depositphotos_675067768_XL.jpg",
-      "excerpt": "Secondo Silicon Motion, la carenza di NAND ha svuotato gli scaffali, con le aziende che assemblano i prodotti finiti che ora producono quasi esclusivamente per gli OEM anziché per…",
-      "image": "https://images.dday.it/lu12G3f42_LfdPwznc7LwQFT1iFgT-HpUjO5DUuZv6k/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57772/d15b7f_Depositphotos_675067768_XL.jpg",
-      "publishedAt": "2026-06-17T09:43:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
     }
   ]
 }
