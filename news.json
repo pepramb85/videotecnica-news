@@ -1,17 +1,224 @@
 {
-  "generatedAt": "2026-06-17T08:55:11.361566+00:00",
+  "generatedAt": "2026-06-17T13:37:37.687666+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "macOS, ecco come funziona la nuova protezione anti-truffa del Terminale",
-      "link": "https://www.hdblog.it/apple/articoli/n661640/macos-protezione-truffa-terminale-incolla-comandi/",
-      "excerpt": "Apple finalmente pubblica il documento di supporto relativo alla feature rilasciata con macOS 26.4.",
-      "image": "https://hd2.tudocdn.net/1350444?w=660",
-      "publishedAt": "2026-06-17T08:55:00+00:00",
+      "title": "L'Europa dichiara guerra alle app nudifier che spogliano con l'AI, ma non basterà",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n661677/europa-guerra-app-nudifier-ai-non-bastera/",
+      "excerpt": "Approvata una misura per il contrasto alle app nudifier che generano deepfake sessuali con minori o senza consenso, ma quanto sarà efficace?",
+      "image": "https://hd2.tudocdn.net/1350545?w=660",
+      "publishedAt": "2026-06-17T13:35:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung sfrutterà l’AI per monitorare la salute degli animali domestici",
+      "link": "https://www.hdblog.it/samsung/articoli/n661671/samsung-usera-ai-per-monitorare-salute-animali/",
+      "excerpt": "La funzionalità farà parte dell’app Pet Care.",
+      "image": "https://hd2.tudocdn.net/1350530?w=660",
+      "publishedAt": "2026-06-17T13:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "WhatsApp prepara i messaggi che si leggono una sola volta",
+      "link": "https://www.tomshw.it/smartphone/whatsapp-prepara-i-messaggi-che-si-leggono-una-sola-volta",
+      "excerpt": "WhatsApp sta testando una nuova opzione per inviare messaggi di testo leggibili una sola volta, una funzione che porta nelle chat tradizionali lo stesso principio già visto con…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/96994/whatsapp-prepara-i-messaggi-che-si-leggono-una-sola-volta.png?width=1200&format=webp",
+      "publishedAt": "2026-06-17T13:20:13+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Tesla FSD sotto esame, i senatori USA vogliono chiarezza",
+      "link": "https://www.tomshw.it/automotive/tesla-fsd-sotto-esame-i-senatori-usa-vogliono-chiarezza",
+      "excerpt": "Due senatori statunitensi hanno chiesto alla NHTSA di esaminare in modo più severo i dati con cui Tesla FSD viene presentato come più sicuro della guida umana. Il punto non è solo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/96991/tesla-fsd-sotto-esame-i-senatori-usa-vogliono-chiarezza.png?width=1200&format=webp",
+      "publishedAt": "2026-06-17T13:09:35+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Prime Day 2026 in anticipo (giorno 3): le 10 migliori offerte Amazon",
+      "link": "https://www.hdblog.it/amazon/offerte/n661681/amazon-prime-day-2026-anticipo-giorno-3/",
+      "excerpt": "Robot lavapavimenti, videocamere eufy, TV OLED e Mini LED, Oura Ring e DJI Osmo 360: le 10 migliori offerte Amazon del terzo giorno di Prime Day in anticipo.",
+      "image": "https://hd2.tudocdn.net/1350546?w=660",
+      "publishedAt": "2026-06-17T13:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "NVIDIA mostra robot AI capaci di montare GPU senza aiuto",
+      "link": "https://www.tomshw.it/hardware/nvidia-mostra-robot-ai-capaci-di-montare-gpu-senza-aiuto",
+      "excerpt": "NVIDIA ha mostrato un sistema di robot capaci di imparare compiti fisici complessi senza una sequenza preprogrammata passo per passo. Il fatto nuovo è concreto: nella demo del…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/96989/nvidia-mostra-robot-ai-capaci-di-montare-gpu-senza-aiuto.png?width=1200&format=webp",
+      "publishedAt": "2026-06-17T13:02:57+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Google Home Speaker con Gemini è arrivato: la casa intelligente cambia volto",
+      "link": "https://www.hdblog.it/tv/articoli/n661553/google-home-speaker-gemini-prezzo-italia/",
+      "excerpt": "Disponibilità e prezzo.",
+      "image": "https://hd2.tudocdn.net/1350554?w=660",
+      "publishedAt": "2026-06-17T13:01:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Lepas L8: nuovo SUV premium ibrido plug-in con prezzi da 41.700 euro",
+      "link": "https://www.hdmotori.it/lepas-l8-prezzi/",
+      "excerpt": "Il SUV Lepas L8 sta per sbarcare in Italia con un propulsore ibrido da 279 CV. Il prezzo è il vero punto di forza.",
+      "image": "https://hd2.tudocdn.net/1350547?w=660",
+      "publishedAt": "2026-06-17T13:00:47+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Zenless Zone Zero alza l'asticella con ray tracing e DLSS 4.5",
+      "link": "https://www.tomshw.it/videogioco/zenless-zone-zero-alza-lasticella-con-ray-tracing-e-dlss-45",
+      "excerpt": "Zenless Zone Zero riceve con la versione 3.0 un aggiornamento tecnico importante su PC: il gioco di HoYoverse introduce ray tracing e supporto DLSS, una novità che pesa perché…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/96988/zenless-zone-zero-alza-l-asticella-con-ray-tracing-e-dlss-4-5.png?width=1200&format=webp",
+      "publishedAt": "2026-06-17T12:59:37+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Google aggiorna i Pixel Watch a Wear OS 7: più autonomia e non solo. Ecco le novità",
+      "link": "https://www.hdblog.it/indossabili/articoli/n661674/google-wear-os-7pixel-watch-update-gemini-novita/",
+      "excerpt": "Ma per Gemini Intelligence c'è ancora da aspettare.",
+      "image": "https://hd2.tudocdn.net/1350536?w=660",
+      "publishedAt": "2026-06-17T12:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Android 17 porterà i controlli parentali dei Pixel su tutti gli smartphone",
+      "link": "https://www.hdblog.it/smartphone/articoli/n661673/android-17-controlli-parentali-genitori-novita/",
+      "excerpt": "Con Android 17 i genitori potranno gestire tempi di utilizzo, bloccare applicazioni, limitare i contenuti scaricabili e accedere agli strumenti di Family Link da un'unica sezione…",
+      "image": "https://hd2.tudocdn.net/962502?w=660",
+      "publishedAt": "2026-06-17T12:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "NVIDIA sistema il G-Sync sulle RTX 40, addio scatti anomali",
+      "link": "https://www.tomshw.it/hardware/nvidia-sistema-il-g-sync-sulle-rtx-40-addio-scatti-anomali",
+      "excerpt": "NVIDIA ha pubblicato il driver GeForce Game Ready 610.62, un aggiornamento importante per chi usa monitor compatibili G-Sync insieme a schede video della serie RTX 40. La novità…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/96980/nvidia-sistema-il-g-sync-sulle-rtx-40-addio-scatti-anomali.png?width=1200&format=webp",
+      "publishedAt": "2026-06-17T12:44:51+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Prime Day inaugura il primo vero sconto sulla nuova TV LG del 2026",
+      "link": "https://www.tomshw.it/hardware/lg-nano-tv-4k-75-in-offerta-a-soli-785eur-su-amazon-2026-06-17",
+      "excerpt": "Su Amazon è disponibile un'ottima offerta sull'LG NANO Smart TV 4K UHD 75 pollici Serie NU8E, il televisore di ultima generazione con Nano Detail Enhancer, AI Chatbot, HDR10 Pro e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/96978/lg-nano-tv-4k-75-in-offerta-a-soli-785eur-su-amazon-2026-06-17-8oc1dmdm9sl65BHt7bv.png?width=1200&format=webp",
+      "publishedAt": "2026-06-17T12:38:58+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "DAZN Italia, cambio al vertice: Andrea Faelli nuovo CEO al posto di Stefano Azzi",
+      "link": "https://www.hdblog.it/business/articoli/n661678/cambio-vertice-dazn-italia-andrea-faelli/",
+      "excerpt": "Dal primo luglio, Andrea Faelli sarà il nuovo CEO per il mercato italiano",
+      "image": "https://hd2.tudocdn.net/1350539?w=660",
+      "publishedAt": "2026-06-17T12:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Prime Day anticipato: chi si muove ora risparmia già (con sorpresa: il pesto Barilla)",
+      "link": "https://www.tomshw.it/altro/prime-day-anticipato-chi-si-muove-ora-risparmia-gia-con-sorpresa-il-pesto-barilla",
+      "excerpt": "Con il Prime Day anticipato, Amazon sta già dando il via a una serie di offerte che permettono a chi possiede un abbonamento Prime di accedere in anticipo a sconti e promozioni…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/96969/Prime-Day-anticipato-chi-si-muove-ora-risparmia-già-(con-sorpresa-il-pesto-Barilla).jpg?width=1200&format=webp",
+      "publishedAt": "2026-06-17T12:33:30+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La carta d'identità cartacea non scade più il 3 agosto: prorogata la validità, ma solo in Italia",
+      "link": "https://images.dday.it/WDjZ93K_feKj2xAdeJT838rMZQEbmra3T8gt-Ge-D2c/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57775/4c5fa0_CI-cartacea.png",
+      "excerpt": "Ci si è attivati troppo tardi per riuscire a sostituirle tutti, quindi il governo ha disposto la proroga della validità fino a naturale scadenza. Per andare all'estero invece sarà…",
+      "image": "https://images.dday.it/WDjZ93K_feKj2xAdeJT838rMZQEbmra3T8gt-Ge-D2c/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57775/4c5fa0_CI-cartacea.png",
+      "publishedAt": "2026-06-17T12:25:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Migliori fornitori LUCE e GAS (giugno 2026)",
+      "link": "https://www.tomshw.it/altro/migliori-fornitori-luce-e-gas",
+      "excerpt": "Scegliere un fornitore luce e gas richiede più attenzione di una semplice occhiata al prezzo in evidenza. Nel mercato libero la differenza reale la fanno struttura dell'offerta,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/89844/migliori-fornitori-luce-gas-copertina.jpg?width=1200&format=webp",
+      "publishedAt": "2026-06-17T12:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "LG amplia l’offerta di pompe di calore con soluzioni ad alta efficienza",
+      "link": "https://www.hdblog.it/lg/articoli/n661661/lg-hvac-europa-offerta-privati/",
+      "excerpt": "LG amplia la propria gamma di pompe di calore per il mercato europeo con nuove soluzioni pensate per migliorare efficienza energetica, sostenibilità e semplicità di installazione",
+      "image": "https://hd2.tudocdn.net/1350497?w=660",
+      "publishedAt": "2026-06-17T12:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Huawei Pura X Max: il design che anticipa l'iPhone pieghevole piace al pubblico",
+      "link": "https://www.hdblog.it/smartphone/articoli/n661663/huawei-pura-x-max-vendite-dati-iphone-pieghevole/",
+      "excerpt": "Le vendite sono superiori alle alternative \"classiche\" di Huawei.",
+      "image": "https://hd2.tudocdn.net/1350505?w=660",
+      "publishedAt": "2026-06-17T12:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Fai la pre-denuncia online e poi concludi in commissariato di Polizia. Per lo smarrimento è tutto digitale",
+      "link": "https://images.dday.it/P0vNz6GUYdUQKmwEA_EH53--IX7m7yqwYaTlXMd0Axg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57776/4e0e77_Depositphotos_219724454_XL.jpg",
+      "excerpt": "Furti, frodi informatiche e indebito utilizzo delle carte: si può fare la \"pre-denuncia\" online. Per lo smarrimento invece non è necessario andare in commissariato... Leggi tutto",
+      "image": "https://images.dday.it/P0vNz6GUYdUQKmwEA_EH53--IX7m7yqwYaTlXMd0Axg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57776/4e0e77_Depositphotos_219724454_XL.jpg",
+      "publishedAt": "2026-06-17T12:02:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Doveva essere l’anti-MacBook Neo di Dell, ma XPS 13 costa quanto un Air. Si parte da 1.049 euro",
+      "link": "https://images.dday.it/NqEf6mHCpiIoju5WlkiAIVcN1Ox1UBXeCUaoImIgTac/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57774/4e3852_Screenshot_2026-06-17_alle_12.21.58.png",
+      "excerpt": "Il nuovo XPS 13 doveva competere sul prezzo con MacBook Neo, ma in Europa costa almeno 250 euro in più. Con 16 GB arriva fino a 1.299 euro. Ci si compra un Air con quei soldi...…",
+      "image": "https://images.dday.it/NqEf6mHCpiIoju5WlkiAIVcN1Ox1UBXeCUaoImIgTac/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57774/4e3852_Screenshot_2026-06-17_alle_12.21.58.png",
+      "publishedAt": "2026-06-17T10:23:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Il mercato retail degli SSD è quasi scomparso",
+      "link": "https://images.dday.it/lu12G3f42_LfdPwznc7LwQFT1iFgT-HpUjO5DUuZv6k/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57772/d15b7f_Depositphotos_675067768_XL.jpg",
+      "excerpt": "Secondo Silicon Motion, la carenza di NAND ha svuotato gli scaffali, con le aziende che assemblano i prodotti finiti che ora producono quasi esclusivamente per gli OEM anziché per…",
+      "image": "https://images.dday.it/lu12G3f42_LfdPwznc7LwQFT1iFgT-HpUjO5DUuZv6k/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57772/d15b7f_Depositphotos_675067768_XL.jpg",
+      "publishedAt": "2026-06-17T09:43:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "La ricetta di Octopus Energy contro il caro energia: ecco come funziona la flessibilità, tra Intelligent Octopus e Power Up",
+      "link": "https://images.dday.it/S0pa-kNWei-x6kxWKO-UkBqFUlKwFk9wbyCDp4PXntU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57763/6b81a8_Screenshot_2025-12-01_at_17.41.03.png",
+      "excerpt": "Octopus Energy Italia ci spiega come sta trasformando la flessibilità da un concetto per addetti ai lavori ad un valore concreto per il suo primo milioni di clienti: dalla…",
+      "image": "https://images.dday.it/S0pa-kNWei-x6kxWKO-UkBqFUlKwFk9wbyCDp4PXntU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57763/6b81a8_Screenshot_2025-12-01_at_17.41.03.png",
+      "publishedAt": "2026-06-17T09:17:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Computer use di Codex arriva in Europa con le “memorie”. L’IA si muove col suo mouse sul tuo PC",
+      "link": "https://images.dday.it/drydVoTxvxn0nmE3qc69jNmepeUNf-_WpnPjz-QyRMc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57771/f8eb34_IvgBVzAP.jpg",
+      "excerpt": "OpenAI ha esteso all’Europa, il Computer Use, l'estensione Chrome e le memorie. Queste ultime però sono disattivate per default e vanno abilitate manualmente... Leggi tutto",
+      "image": "https://images.dday.it/drydVoTxvxn0nmE3qc69jNmepeUNf-_WpnPjz-QyRMc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57771/f8eb34_IvgBVzAP.jpg",
+      "publishedAt": "2026-06-17T09:05:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Grande offerta sul Logitech G G29 SE Driving Force: a 218 euro con pedaliera e cambio",
@@ -23,42 +230,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "ChatGPT perde il dominio: sotto il 50% per la prima volta",
-      "link": "https://www.hdblog.it/mercato/articoli/n661627/mercato-ai-2026-gemini-claude-chatgpt/",
-      "excerpt": "ChatGPT resta primo, ma Gemini e Claude riducono il distacco nel mercato AI.",
-      "image": "https://hd2.tudocdn.net/1350424?w=660",
-      "publishedAt": "2026-06-17T08:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Un monitor gaming che gira anche in verticale: ora in super sconto!",
-      "link": "https://www.tomshw.it/hardware/monitor-gaming-4k-titan-army-p2712v-in-offerta-a-soli-214eur-2026-06-17",
-      "excerpt": "Su Amazon è disponibile un'ottima offerta sul TITAN ARMY P2712V, monitor gaming da 27 pollici con doppia modalità 4K@160Hz e FHD@320Hz, pannello Fast IPS da 1ms, HDR400 e…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96921/monitor-gaming-4k-titan-army-p2712v-in-offerta-a-soli-214eur-20qj6kcul27vei5RPDtZT.png",
-      "publishedAt": "2026-06-17T08:41:26+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Quanta AI c'è nei videogiochi? Molta, ce lo dicono i numeri dello Steam Next Fest",
-      "link": "https://www.hdblog.it/giochi/articoli/n661616/ai-videogiochi-numeri-steam-next-fest/",
-      "excerpt": "Quasi un quinto dei giochi che partecipano all'evento Steam Next Fest 2026 include contenuti generati con l'intelligenza artificiale.",
-      "image": "https://hd2.tudocdn.net/1350426?w=660",
-      "publishedAt": "2026-06-17T08:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Un micro-datacenter AI nel palmo della mano: Raspberry Pi stupisce ancora",
-      "link": "https://www.hdblog.it/curiosita/articoli/n661632/micro-datacenter-raspberry-pi-progetto-custom/",
-      "excerpt": "A prezzi tutto sommato contenuti... a parte per la faccenda della macchina CNC.",
-      "image": "https://hd2.tudocdn.net/1350428?w=660",
-      "publishedAt": "2026-06-17T08:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Android 17 è arrivato sui Pixel: più multitasking, IA più integrata e nuove regole per app e privacy",
       "link": "https://images.dday.it/9ObS-jtU1X6b7Qe3bbJi_iF-WzRt-TEdaTksx-aKaa4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57770/8656d3_android17_thumb.jpg",
       "excerpt": "Per gli altri produttori l’aggiornamento arriverà nel corso dell'anno, mentre alcune funzioni IA annunciate resteranno in attesa ancora per qualche mese... Leggi tutto",
@@ -68,128 +239,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Jason Statham si regala una iconica Lamborghini storica",
-      "link": "https://www.hdmotori.it/jason-statham-lamborghini-storica/",
-      "excerpt": "L'attore inglese Jason Statham ha inserito nella sua collezione di supercar un leggendario modello italiano.",
-      "image": "https://hd2.tudocdn.net/1350446?w=660",
-      "publishedAt": "2026-06-17T08:30:28+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "SmartTag2 a 18,89€: il tracker Samsung è al 53% su Amazon",
-      "link": "https://www.tomshw.it/offerte/smarttag2-a-1889eur-il-tracker-samsung-e-al-53-su-amazon",
-      "excerpt": "Samsung Galaxy SmartTag2 è in offerta a 18,89€ su Amazon. Il prezzo scende rispetto al listino di 39,90€ con uno sconto del 53%, una soglia interessante per chi usa già…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96918/tomshw-offer-550681.png",
-      "publishedAt": "2026-06-17T08:28:32+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Spotify cambia il login: stop all'accesso con il nome utente",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n661631/spotify-accesso-nome-utente-stop/",
-      "excerpt": "La piattaforma di streaming musicale cambia le modalità di login. Chi utilizza ancora il nome utente dovrà verificare che il proprio indirizzo email sia aggiornato e accessibile",
-      "image": "https://hd2.tudocdn.net/1350427?w=660",
-      "publishedAt": "2026-06-17T08:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "GentleOS trasforma i vecchi PC in gioielli vintage",
-      "link": "https://www.hdblog.it/hardware/articoli/n661622/gentleos-pc-anni-80-requisiti-come-funziona/",
-      "excerpt": "É open source.",
-      "image": "https://hd2.tudocdn.net/1350431?w=660",
-      "publishedAt": "2026-06-17T08:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iOS, iPadOS, macOS 26.6 e altri: Apple rilascia anche la Beta Pubblica 2",
-      "link": "https://www.hdblog.it/apple/articoli/n661626/ios-ipados-macos-26-6-beta-2-pubbliche/",
-      "excerpt": "Ad un giorno di distanza dalle versioni developer, arrivano anche le build pubbliche",
-      "image": "https://hd2.tudocdn.net/1349050?w=660",
-      "publishedAt": "2026-06-17T08:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Apple, nel 2027 gli AirPods con fotocamere, un nuovo foldable e iPhone del ventennale",
-      "link": "https://www.hdblog.it/smartphone/articoli/n661620/apple-prepara-2027-airpods-fotocamere-iphone/",
-      "excerpt": "Apple starebbe preparando per la fine del 2027 una delle fasi di lancio più importanti della sua storia recente.",
-      "image": "https://hd2.tudocdn.net/1350420?w=660",
-      "publishedAt": "2026-06-17T08:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Prestazioni da PC fisso, ora in formato notebook (con 700€ di sconto)",
-      "link": "https://www.tomshw.it/videogioco/acer-predator-helios-neo-16s-in-offerta-a-soli-2099eur-2026-06-17",
-      "excerpt": "Su Amazon è disponibile un'ottima offerta sull'Acer Predator Helios Neo 16S AI, notebook gaming di fascia alta equipaggiato con NVIDIA GeForce RTX 5070, processore Intel Core…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96914/acer-predator-helios-neo-16s-in-offerta-a-soli-2099eur-2026-06-1lrs0vfmhs8faW9fzb7.png",
-      "publishedAt": "2026-06-17T08:09:26+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Sembra iPhone 17, ma costa 549€ con Prime: è HONOR 600",
-      "link": "https://www.tomshw.it/smartphone/honor-600-in-offerta-a-soli-549eur-su-amazon-2026-06-17",
-      "excerpt": "Su Amazon è disponibile un'ottima offerta sull'HONOR 600 (8/256GB) Gold in bundle con le Earbuds S8 White: uno smartphone dotato di una fotocamera AI da 200 MP, display ultra…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96913/honor-600-in-offerta-a-soli-549eur-su-amazon-2026-06-17-6GRAjDurrnghiggp70hdZm4Eoy.png",
-      "publishedAt": "2026-06-17T08:06:05+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Crisi chip, il mercato degli SSD retail è praticamente scomparso",
-      "link": "https://www.hdblog.it/hardware/articoli/n661628/crisi-chip-mercato-ssd-h1-2026/",
-      "excerpt": "Lo sostiene uno degli alti dirigenti di uno dei principali produttori di controller per SSD al mondo.",
-      "image": "https://hd2.tudocdn.net/1346425?w=660",
-      "publishedAt": "2026-06-17T08:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Come calcolare il ROI del tuo progetto AI e far contento il CFO",
-      "link": "https://www.tomshw.it/aioperator/roi-progetto-ai-calcolo-cfo",
-      "excerpt": "Il direttore finanziario ti ha chiesto i numeri, e tu hai portato un entusiasmo. È lo scenario in cui salta la maggior parte dei progetti AI in azienda: l'idea è buona, il pilota…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96877/01-ai02-cover.jpg",
-      "publishedAt": "2026-06-17T08:03:55+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Se vuoi scattare le foto più belle dell’estate 2026, ti serve questo cavalletto fotografico",
-      "link": "https://www.tomshw.it/smartphone/treppiede-kf-concept-in-offerta-a-soli-108eur-2026-06-17",
-      "excerpt": "Su Amazon è disponibile il treppiede K&F CONCEPT K234A7, una soluzione professionale da 202 cm con testa idraulica per riprese fluide e panoramiche a 360°. Realizzato in…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96911/treppiede-kf-concept-in-offerta-a-soli-108eur-2026-06-17-QXI7rA74nlinh200970cKa8TK.jpg",
-      "publishedAt": "2026-06-17T08:03:33+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Musk compra Cursor per 60 miliardi e chiude la stagione delle AI per la programmazione indipendenti",
-      "link": "https://www.tomshw.it/business/musk-compra-cursor-60-miliardi-spacex-cognition",
-      "excerpt": "SpaceX acquisirà Anysphere, la società madre di Cursor, per un valore implicito di 60 miliardi di dollari in un'operazione interamente in azioni. L'accordo, annunciato il 16…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96904/cover-02-flux.jpg",
-      "publishedAt": "2026-06-17T08:01:58+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Norton 360 Deluxe crolla a 24€: 15 mesi di sicurezza a prezzo record",
-      "link": "https://www.tomshw.it/hardware/norton-360-deluxe-super-sconto-del-60-su-amazon-2026-06-17",
-      "excerpt": "Norton 360 Deluxe 2026 è disponibile su Amazon con uno sconto straordinario del 60%! La suite di sicurezza protegge fino a 5 dispositivi per 15 mesi, includendo antivirus, VPN,…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96901/norton-360-deluxe-super-sconto-del-60-su-amazon-2026-06-17-SZscq2fvpdga7vmecfldtPY.jpg",
-      "publishedAt": "2026-06-17T07:57:24+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Dimentica i soliti Edifier: questi nuovi modelli sono in super sconto Prime",
-      "link": "https://www.tomshw.it/hardware/edifier-m90-in-offerta-su-amazon-a-soli-220eur-2026-06-17",
-      "excerpt": "Su Amazon è disponibile un'ottima offerta sugli Edifier M90, diffusori da scaffale e scrivania da 100 W RMS con audio ad alta risoluzione, Bluetooth 6.0 con codec LDAC, ingressi…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96899/edifier-m90-in-offerta-su-amazon-a-soli-220eur-2026-06-17-dECx1huteu0471mi4de2Tfrk.png",
-      "publishedAt": "2026-06-17T07:51:59+00:00",
+      "title": "Startup fa 25x in sei mesi, propone il controllo degli agenti AI",
+      "link": "https://www.tomshw.it/business/arcade-startup-25x-sei-mesi-controllo-agenti-ai",
+      "excerpt": "Arcade.dev ha annunciato una Serie A da 60 milioni di dollari guidata da SYN Ventures, con investimenti strategici di Morgan Stanley e Wipro. La dotazione totale della startup di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/96910/cover-07-flux.jpg?width=1200&format=webp",
+      "publishedAt": "2026-06-17T08:03:24+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -212,67 +266,13 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Migliori siti per prenotare hotel (giugno 2026)",
-      "link": "https://www.tomshw.it/altro/migliori-siti-per-prenotare-hotel",
-      "excerpt": "Organizzare un viaggio è più semplice di qualche anno fa, ma scegliere il sito giusto per prenotare l'hotel resta una decisione meno banale di quanto sembri. Le piattaforme non…",
-      "image": "https://www.tomshw.it/storage/media/2026/04/89734/migliori-siti-hotel-copertina.jpg",
-      "publishedAt": "2026-06-17T07:01:51+00:00",
+      "title": "Migliori router 5G (giugno 2026)",
+      "link": "https://www.tomshw.it/smartphone/modem-router-5g",
+      "excerpt": "Un router 5G è utile quando serve una connessione Internet veloce e indipendente dalla linea fissa: può diventare la rete principale in una casa non raggiunta dalla fibra, una…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/89842/migliori-router-5g-copertina.jpg?width=1200&format=webp",
+      "publishedAt": "2026-06-17T07:09:45+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il gasolio torna sopra i 2 euro al litro. La rilevazione del MASE",
-      "link": "https://images.dday.it/D4objGhurf6Sxb9f9bJmU6M55_oqJOmL1WVKrPr6pB0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57759/e4cb31_fuel_thumb.jpg",
-      "excerpt": "In lieve calo invece il prezzo medio (al self-service) della benzina. Scende anche il GPL... Leggi tutto",
-      "image": "https://images.dday.it/D4objGhurf6Sxb9f9bJmU6M55_oqJOmL1WVKrPr6pB0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57759/e4cb31_fuel_thumb.jpg",
-      "publishedAt": "2026-06-17T07:00:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Un'unica app per gestire l'energia di casa e dell'auto: l'ecosistema E.ON si evolve con Car Connect",
-      "link": "https://images.dday.it/VhSwgnr3zGCQblEG1KAZj4kuAJZbjI7n4JBd9KxrOH8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57540/30a749_1920x1080_EONCarConnect_NOLogo.jpg",
-      "excerpt": "I possessori di auto elettrica che scelgono l'offerta E.ON Luce Drive Smarty, ora possono sfruttare i benefici della flessibilità energetica in modo ancora più fluido e integrato…",
-      "image": "https://images.dday.it/VhSwgnr3zGCQblEG1KAZj4kuAJZbjI7n4JBd9KxrOH8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57540/30a749_1920x1080_EONCarConnect_NOLogo.jpg",
-      "publishedAt": "2026-06-17T01:03:05+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Narwal Flow o Flow 2: quale scegliere? Il confronto fra i due robot",
-      "link": "https://images.dday.it/z7kYsC9rRgmQzTzTgl19h0B3zmhGLvG7DGY5OO0anjQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57715/1ff6a0_flow_thumb.png",
-      "excerpt": "Sono già attive le offerte Narwal in vista del Prime Day. Grandi sconti sull'intera gamma: fino a 820 euro di risparmio... Leggi tutto",
-      "image": "https://images.dday.it/z7kYsC9rRgmQzTzTgl19h0B3zmhGLvG7DGY5OO0anjQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57715/1ff6a0_flow_thumb.png",
-      "publishedAt": "2026-06-17T01:03:05+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Questo adattatore Techly è il \"coltellino svizzero\" per gli SSD che ogni IT manager dovrebbe avere in borsa",
-      "link": "https://images.dday.it/tAG9r4wg465N5-vpDEZYQzYhN64RyGqXgnMhO42uZ_I/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57642/62a16a_P1233193_t.jpg",
-      "excerpt": "Accesso rapido a dischi SATA e NVME, copia bit per bit da un disco ad un altro, backup, recupero dati, boot da disco esterno. Questo piccolo adattatore da poco più di 50 euro ci…",
-      "image": "https://images.dday.it/tAG9r4wg465N5-vpDEZYQzYhN64RyGqXgnMhO42uZ_I/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57642/62a16a_P1233193_t.jpg",
-      "publishedAt": "2026-06-17T01:03:05+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Anker Nano 70W, il prezzo precipita a 29,99 euro: caricatore GaN con tre porte. Più piccolo di un pacchetto di gomme",
-      "link": "https://images.dday.it/_SSTjJ4TjZvCCgHvO33WfT1TK3ShxIDc09tYqPVXWCU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57767/0cd3f6_71ps6Qk1yqL._AC_SL1500_.jpg",
-      "excerpt": "Il caricatore compatto raggiunge 70W su USB-C, integra il controllo termico ActiveShield 4.0 e ora costa davvero pochissimo... Leggi tutto",
-      "image": "https://images.dday.it/_SSTjJ4TjZvCCgHvO33WfT1TK3ShxIDc09tYqPVXWCU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57767/0cd3f6_71ps6Qk1yqL._AC_SL1500_.jpg",
-      "publishedAt": "2026-06-16T14:55:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "SpaceX spende e spande subito: 60 miliardi (in azioni) per Cursor e potenziare i servizi di IA",
-      "link": "https://images.dday.it/pE51X4tNIb_oX1FRe8gFvAKMB6hZtJJYIlgEFG9nGkU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57766/734284_Depositphotos_653323824_XL.jpg",
-      "excerpt": "L’acquisizione della startup di coding assistito dall'IA servirà a rafforzare le ambizioni di SpaceX nell’Intelligenza Artificiale... Leggi tutto",
-      "image": "https://images.dday.it/pE51X4tNIb_oX1FRe8gFvAKMB6hZtJJYIlgEFG9nGkU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57766/734284_Depositphotos_653323824_XL.jpg",
-      "publishedAt": "2026-06-16T14:34:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
     }
   ]
 }
