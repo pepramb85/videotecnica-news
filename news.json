@@ -1,15 +1,231 @@
 {
-  "generatedAt": "2026-06-17T02:56:03.851555+00:00",
+  "generatedAt": "2026-06-17T08:55:11.361566+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
+      "title": "macOS, ecco come funziona la nuova protezione anti-truffa del Terminale",
+      "link": "https://www.hdblog.it/apple/articoli/n661640/macos-protezione-truffa-terminale-incolla-comandi/",
+      "excerpt": "Apple finalmente pubblica il documento di supporto relativo alla feature rilasciata con macOS 26.4.",
+      "image": "https://hd2.tudocdn.net/1350444?w=660",
+      "publishedAt": "2026-06-17T08:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Grande offerta sul Logitech G G29 SE Driving Force: a 218 euro con pedaliera e cambio",
+      "link": "https://images.dday.it/nqYcztzLIvQB1NBgCXqhTFIeUTgcAIPom97S6hPIcpI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57769/be404b_g29_thumb.png",
+      "excerpt": "Si tratta della versione per PS4, PS5, PC e Mac. Uno sconto che sa di Natale... Leggi tutto",
+      "image": "https://images.dday.it/nqYcztzLIvQB1NBgCXqhTFIeUTgcAIPom97S6hPIcpI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57769/be404b_g29_thumb.png",
+      "publishedAt": "2026-06-17T08:52:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "ChatGPT perde il dominio: sotto il 50% per la prima volta",
+      "link": "https://www.hdblog.it/mercato/articoli/n661627/mercato-ai-2026-gemini-claude-chatgpt/",
+      "excerpt": "ChatGPT resta primo, ma Gemini e Claude riducono il distacco nel mercato AI.",
+      "image": "https://hd2.tudocdn.net/1350424?w=660",
+      "publishedAt": "2026-06-17T08:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Un monitor gaming che gira anche in verticale: ora in super sconto!",
+      "link": "https://www.tomshw.it/hardware/monitor-gaming-4k-titan-army-p2712v-in-offerta-a-soli-214eur-2026-06-17",
+      "excerpt": "Su Amazon è disponibile un'ottima offerta sul TITAN ARMY P2712V, monitor gaming da 27 pollici con doppia modalità 4K@160Hz e FHD@320Hz, pannello Fast IPS da 1ms, HDR400 e…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96921/monitor-gaming-4k-titan-army-p2712v-in-offerta-a-soli-214eur-20qj6kcul27vei5RPDtZT.png",
+      "publishedAt": "2026-06-17T08:41:26+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Quanta AI c'è nei videogiochi? Molta, ce lo dicono i numeri dello Steam Next Fest",
+      "link": "https://www.hdblog.it/giochi/articoli/n661616/ai-videogiochi-numeri-steam-next-fest/",
+      "excerpt": "Quasi un quinto dei giochi che partecipano all'evento Steam Next Fest 2026 include contenuti generati con l'intelligenza artificiale.",
+      "image": "https://hd2.tudocdn.net/1350426?w=660",
+      "publishedAt": "2026-06-17T08:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Un micro-datacenter AI nel palmo della mano: Raspberry Pi stupisce ancora",
+      "link": "https://www.hdblog.it/curiosita/articoli/n661632/micro-datacenter-raspberry-pi-progetto-custom/",
+      "excerpt": "A prezzi tutto sommato contenuti... a parte per la faccenda della macchina CNC.",
+      "image": "https://hd2.tudocdn.net/1350428?w=660",
+      "publishedAt": "2026-06-17T08:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Android 17 è arrivato sui Pixel: più multitasking, IA più integrata e nuove regole per app e privacy",
+      "link": "https://images.dday.it/9ObS-jtU1X6b7Qe3bbJi_iF-WzRt-TEdaTksx-aKaa4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57770/8656d3_android17_thumb.jpg",
+      "excerpt": "Per gli altri produttori l’aggiornamento arriverà nel corso dell'anno, mentre alcune funzioni IA annunciate resteranno in attesa ancora per qualche mese... Leggi tutto",
+      "image": "https://images.dday.it/9ObS-jtU1X6b7Qe3bbJi_iF-WzRt-TEdaTksx-aKaa4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57770/8656d3_android17_thumb.jpg",
+      "publishedAt": "2026-06-17T08:34:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Jason Statham si regala una iconica Lamborghini storica",
+      "link": "https://www.hdmotori.it/jason-statham-lamborghini-storica/",
+      "excerpt": "L'attore inglese Jason Statham ha inserito nella sua collezione di supercar un leggendario modello italiano.",
+      "image": "https://hd2.tudocdn.net/1350446?w=660",
+      "publishedAt": "2026-06-17T08:30:28+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "SmartTag2 a 18,89€: il tracker Samsung è al 53% su Amazon",
+      "link": "https://www.tomshw.it/offerte/smarttag2-a-1889eur-il-tracker-samsung-e-al-53-su-amazon",
+      "excerpt": "Samsung Galaxy SmartTag2 è in offerta a 18,89€ su Amazon. Il prezzo scende rispetto al listino di 39,90€ con uno sconto del 53%, una soglia interessante per chi usa già…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96918/tomshw-offer-550681.png",
+      "publishedAt": "2026-06-17T08:28:32+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Spotify cambia il login: stop all'accesso con il nome utente",
+      "link": "https://www.hdblog.it/applicazioni/articoli/n661631/spotify-accesso-nome-utente-stop/",
+      "excerpt": "La piattaforma di streaming musicale cambia le modalità di login. Chi utilizza ancora il nome utente dovrà verificare che il proprio indirizzo email sia aggiornato e accessibile",
+      "image": "https://hd2.tudocdn.net/1350427?w=660",
+      "publishedAt": "2026-06-17T08:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "GentleOS trasforma i vecchi PC in gioielli vintage",
+      "link": "https://www.hdblog.it/hardware/articoli/n661622/gentleos-pc-anni-80-requisiti-come-funziona/",
+      "excerpt": "É open source.",
+      "image": "https://hd2.tudocdn.net/1350431?w=660",
+      "publishedAt": "2026-06-17T08:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "iOS, iPadOS, macOS 26.6 e altri: Apple rilascia anche la Beta Pubblica 2",
+      "link": "https://www.hdblog.it/apple/articoli/n661626/ios-ipados-macos-26-6-beta-2-pubbliche/",
+      "excerpt": "Ad un giorno di distanza dalle versioni developer, arrivano anche le build pubbliche",
+      "image": "https://hd2.tudocdn.net/1349050?w=660",
+      "publishedAt": "2026-06-17T08:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple, nel 2027 gli AirPods con fotocamere, un nuovo foldable e iPhone del ventennale",
+      "link": "https://www.hdblog.it/smartphone/articoli/n661620/apple-prepara-2027-airpods-fotocamere-iphone/",
+      "excerpt": "Apple starebbe preparando per la fine del 2027 una delle fasi di lancio più importanti della sua storia recente.",
+      "image": "https://hd2.tudocdn.net/1350420?w=660",
+      "publishedAt": "2026-06-17T08:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Prestazioni da PC fisso, ora in formato notebook (con 700€ di sconto)",
+      "link": "https://www.tomshw.it/videogioco/acer-predator-helios-neo-16s-in-offerta-a-soli-2099eur-2026-06-17",
+      "excerpt": "Su Amazon è disponibile un'ottima offerta sull'Acer Predator Helios Neo 16S AI, notebook gaming di fascia alta equipaggiato con NVIDIA GeForce RTX 5070, processore Intel Core…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96914/acer-predator-helios-neo-16s-in-offerta-a-soli-2099eur-2026-06-1lrs0vfmhs8faW9fzb7.png",
+      "publishedAt": "2026-06-17T08:09:26+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Sembra iPhone 17, ma costa 549€ con Prime: è HONOR 600",
+      "link": "https://www.tomshw.it/smartphone/honor-600-in-offerta-a-soli-549eur-su-amazon-2026-06-17",
+      "excerpt": "Su Amazon è disponibile un'ottima offerta sull'HONOR 600 (8/256GB) Gold in bundle con le Earbuds S8 White: uno smartphone dotato di una fotocamera AI da 200 MP, display ultra…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96913/honor-600-in-offerta-a-soli-549eur-su-amazon-2026-06-17-6GRAjDurrnghiggp70hdZm4Eoy.png",
+      "publishedAt": "2026-06-17T08:06:05+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Crisi chip, il mercato degli SSD retail è praticamente scomparso",
+      "link": "https://www.hdblog.it/hardware/articoli/n661628/crisi-chip-mercato-ssd-h1-2026/",
+      "excerpt": "Lo sostiene uno degli alti dirigenti di uno dei principali produttori di controller per SSD al mondo.",
+      "image": "https://hd2.tudocdn.net/1346425?w=660",
+      "publishedAt": "2026-06-17T08:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Come calcolare il ROI del tuo progetto AI e far contento il CFO",
+      "link": "https://www.tomshw.it/aioperator/roi-progetto-ai-calcolo-cfo",
+      "excerpt": "Il direttore finanziario ti ha chiesto i numeri, e tu hai portato un entusiasmo. È lo scenario in cui salta la maggior parte dei progetti AI in azienda: l'idea è buona, il pilota…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96877/01-ai02-cover.jpg",
+      "publishedAt": "2026-06-17T08:03:55+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Se vuoi scattare le foto più belle dell’estate 2026, ti serve questo cavalletto fotografico",
+      "link": "https://www.tomshw.it/smartphone/treppiede-kf-concept-in-offerta-a-soli-108eur-2026-06-17",
+      "excerpt": "Su Amazon è disponibile il treppiede K&F CONCEPT K234A7, una soluzione professionale da 202 cm con testa idraulica per riprese fluide e panoramiche a 360°. Realizzato in…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96911/treppiede-kf-concept-in-offerta-a-soli-108eur-2026-06-17-QXI7rA74nlinh200970cKa8TK.jpg",
+      "publishedAt": "2026-06-17T08:03:33+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Musk compra Cursor per 60 miliardi e chiude la stagione delle AI per la programmazione indipendenti",
+      "link": "https://www.tomshw.it/business/musk-compra-cursor-60-miliardi-spacex-cognition",
+      "excerpt": "SpaceX acquisirà Anysphere, la società madre di Cursor, per un valore implicito di 60 miliardi di dollari in un'operazione interamente in azioni. L'accordo, annunciato il 16…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96904/cover-02-flux.jpg",
+      "publishedAt": "2026-06-17T08:01:58+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Norton 360 Deluxe crolla a 24€: 15 mesi di sicurezza a prezzo record",
+      "link": "https://www.tomshw.it/hardware/norton-360-deluxe-super-sconto-del-60-su-amazon-2026-06-17",
+      "excerpt": "Norton 360 Deluxe 2026 è disponibile su Amazon con uno sconto straordinario del 60%! La suite di sicurezza protegge fino a 5 dispositivi per 15 mesi, includendo antivirus, VPN,…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96901/norton-360-deluxe-super-sconto-del-60-su-amazon-2026-06-17-SZscq2fvpdga7vmecfldtPY.jpg",
+      "publishedAt": "2026-06-17T07:57:24+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Dimentica i soliti Edifier: questi nuovi modelli sono in super sconto Prime",
+      "link": "https://www.tomshw.it/hardware/edifier-m90-in-offerta-su-amazon-a-soli-220eur-2026-06-17",
+      "excerpt": "Su Amazon è disponibile un'ottima offerta sugli Edifier M90, diffusori da scaffale e scrivania da 100 W RMS con audio ad alta risoluzione, Bluetooth 6.0 con codec LDAC, ingressi…",
+      "image": "https://www.tomshw.it/storage/media/2026/06/96899/edifier-m90-in-offerta-su-amazon-a-soli-220eur-2026-06-17-dECx1huteu0471mi4de2Tfrk.png",
+      "publishedAt": "2026-06-17T07:51:59+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Una registrazione sul sito FIFA bastava per arrivare alle dirette TV dei Mondiali e trasmettere qualsiasi cosa",
+      "link": "https://images.dday.it/h-u_o3_LLjnYyOEebtXsJx7uqcZodqC4rvllzHgKL-U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57768/f8a3e4_cove_rfdp_match_overview_copia.png",
+      "excerpt": "La falla esponeva gli ingressi video del Mondiale 2026 e avrebbe permesso di inviare immagini alternative ai broadcaster. La FIFA non ha neppure un canale per segnalare…",
+      "image": "https://images.dday.it/h-u_o3_LLjnYyOEebtXsJx7uqcZodqC4rvllzHgKL-U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57768/f8a3e4_cove_rfdp_match_overview_copia.png",
+      "publishedAt": "2026-06-17T07:51:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
       "title": "Lexar JumpDrive D500, il mini SSD portatile con doppio connettore per chi viaggia leggero",
       "link": "https://images.dday.it/YmG54c7hrmNMbNEdkIxiZb0fyM5Y4M4dLnbfZrT8Eio/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57732/868bf0_cover_Screenshot_2026-06-12_alle_15.37.06_copia.png",
       "excerpt": "USB-C e USB-A nello stesso corpo in metallo da 26 grammi, velocità fino a 400 MB/s, tagli fino a 1TB e backup automatico delle foto con la Lexar App... Leggi tutto",
       "image": "https://images.dday.it/YmG54c7hrmNMbNEdkIxiZb0fyM5Y4M4dLnbfZrT8Eio/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57732/868bf0_cover_Screenshot_2026-06-12_alle_15.37.06_copia.png",
-      "publishedAt": "2026-06-17T01:03:05+00:00",
+      "publishedAt": "2026-06-17T07:37:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Migliori siti per prenotare hotel (giugno 2026)",
+      "link": "https://www.tomshw.it/altro/migliori-siti-per-prenotare-hotel",
+      "excerpt": "Organizzare un viaggio è più semplice di qualche anno fa, ma scegliere il sito giusto per prenotare l'hotel resta una decisione meno banale di quanto sembri. Le piattaforme non…",
+      "image": "https://www.tomshw.it/storage/media/2026/04/89734/migliori-siti-hotel-copertina.jpg",
+      "publishedAt": "2026-06-17T07:01:51+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il gasolio torna sopra i 2 euro al litro. La rilevazione del MASE",
+      "link": "https://images.dday.it/D4objGhurf6Sxb9f9bJmU6M55_oqJOmL1WVKrPr6pB0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57759/e4cb31_fuel_thumb.jpg",
+      "excerpt": "In lieve calo invece il prezzo medio (al self-service) della benzina. Scende anche il GPL... Leggi tutto",
+      "image": "https://images.dday.it/D4objGhurf6Sxb9f9bJmU6M55_oqJOmL1WVKrPr6pB0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57759/e4cb31_fuel_thumb.jpg",
+      "publishedAt": "2026-06-17T07:00:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     },
@@ -41,141 +257,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Un mese con FitBit Air: con l'AI vi fa davvero \"licenziare\" il personal trainer?",
-      "link": "https://www.hdblog.it/indossabili/recensioni/n661066/fitbit-air-test-prova-ai-coach/",
-      "excerpt": "Abbiamo provato la nuova FitBit Air, una fitness band che non ha un display e nulla di smart, se non una vibrazione per svegliarvi la mattina. Collegata alla nuova app Google…",
-      "image": "https://hd2.tudocdn.net/1349544?w=660",
-      "publishedAt": "2026-06-16T18:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Robot Atlas: in un'ora impara il lavoro di una vita",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n661461/robot-umanoide-atlas-intelligenza-generale/",
-      "excerpt": "Il robot Atlas di Boston Dynamics usa la AI per lavorare in fabbrica e impara nuove mansioni in un'ora.",
-      "image": "https://hd2.tudocdn.net/1349962?w=660",
-      "publishedAt": "2026-06-16T18:44:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Addio social, benvenuto Commodore: ecco Callback 8020, il telefono anti-stress",
-      "link": "https://www.hdblog.it/smartphone/articoli/n661526/commodore-callback-8020-telefono-prezzo/",
-      "excerpt": "5 versioni in arrivo: i prezzi.",
-      "image": "https://hd2.tudocdn.net/1350178?w=660",
-      "publishedAt": "2026-06-16T18:43:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Nintendo aggiorna Switch 2 e Switch, e c'è una bella differenza per l'eShop",
-      "link": "https://www.hdblog.it/nintendo/articoli/n661593/nintendo-switch-2-22-5-0-novita-eshop-update/",
-      "excerpt": "Non è un semplice aggiornamento di routine: cosa cambia.",
-      "image": "https://hd2.tudocdn.net/1266532?w=660",
-      "publishedAt": "2026-06-16T18:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone 18 potrebbe avere 12 GB di RAM: Apple prepara il salto per l'era di Siri AI",
-      "link": "https://www.hdblog.it/smartphone/articoli/n661588/iphone-18-ram-12-gb-siri-apple-intelligence-ai/",
-      "excerpt": "Nessun \"taglio\" all'AI sul prossimo iPhone base.",
-      "image": "https://hd2.tudocdn.net/1292208?w=660",
-      "publishedAt": "2026-06-16T18:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "SpaceX acquisirà la startup AI Cursor per 60 miliardi di dollari",
-      "link": "https://www.hdblog.it/business/articoli/n661590/spacex-compra-cursor-startup-ai-programmazione/",
-      "excerpt": "Prima mega acquisizione post-IPO.",
-      "image": "https://hd2.tudocdn.net/1214878?w=660",
-      "publishedAt": "2026-06-16T18:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Giugno caldo su Xbox Game Pass con EA Sports FC 26 e i Mondiali, COD e non solo",
-      "link": "https://www.hdblog.it/microsoft/articoli/n661585/xbox-game-pass-ea-fc-26-mondiali-cod-giugno/",
-      "excerpt": "Ecco i titoli in arrivo su Game Pass annunciati da Microsoft.",
-      "image": "https://hd2.tudocdn.net/1350362?w=660",
-      "publishedAt": "2026-06-16T17:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Dal letame al carburante per aerei: primi test negli USA",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n661558/letame-mucche-carburante-aerei-saf/",
-      "excerpt": "Una startup californiana converte il biogas del letame in carburante per aerei.",
-      "image": "https://hd2.tudocdn.net/1350294?w=660",
-      "publishedAt": "2026-06-16T17:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Home Assistant finalmente dialoga Alexa! Ma non tutto è perfetto",
-      "link": "https://www.hdblog.it/amazon/articoli/n661587/home-assistant-amazon-echo-alexa-integrazione/",
-      "excerpt": "Finalmente è possibile accedere in modo relativamente semplice e immediato a tante funzionalità e integrazioni. Ma la questione privacy è ancora da migliorare.",
-      "image": "https://hd2.tudocdn.net/1350363?w=660",
-      "publishedAt": "2026-06-16T17:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Threads festeggia 500 milioni di utenti attivi ogni mese: crescita inarrestabile",
-      "link": "https://www.hdblog.it/android/articoli/n661544/threads-500-milioni-utenti/",
-      "excerpt": "Threads ha raggiunto mezzo miliardo di utenti attivi al mese, potenziando community tematiche e feed.",
-      "image": "https://hd2.tudocdn.net/1350292?w=660",
-      "publishedAt": "2026-06-16T17:30:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iRobot Roomba Plus 505 Combo crolla a 385€ su Amazon",
-      "link": "https://www.tomshw.it/offerte/irobot-roomba-plus-505-combo-crolla-a-385eur-su-amazon",
-      "excerpt": "iRobot Roomba Plus 505 Combo è in offerta a 385€ su Amazon. Il prezzo è particolarmente interessante perché scende rispetto al listino di 799€ e include anche la stazione…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96836/tomshw-offer-550536.png",
-      "publishedAt": "2026-06-16T17:07:29+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Samsung Galaxy S25 crolla a 609€ su Amazon: -34% oggi",
-      "link": "https://www.tomshw.it/offerte/samsung-galaxy-s25-crolla-a-609eur-su-amazon-34-oggi",
-      "excerpt": "Samsung Galaxy S25 è in offerta a 609€ su Amazon. Il prezzo è interessante perché porta un modello Samsung recente e molto cercato a 320€ in meno rispetto al listino indicato, con…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96835/tomshw-offer-550533.png",
-      "publishedAt": "2026-06-16T16:56:39+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Google Pixel 10 Pro crolla a 782,99€ su Amazon",
-      "link": "https://www.tomshw.it/offerte/google-pixel-10-pro-crolla-a-78299eur-su-amazon",
-      "excerpt": "Google Pixel 10 Pro è in offerta a 782,99€ su Amazon. Il prezzo verificato coincide con il minimo storico indicato e porta il top di gamma Google sotto quota 800€, con 381€ in…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96830/tomshw-offer-550530.png",
-      "publishedAt": "2026-06-16T15:55:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "L'ultimo disco di plastica, la morte del prestito e l'illusione della proprietà",
-      "link": "https://www.tomshw.it/videogioco/lultimo-disco-di-plastica-la-morte-del-prestito-e-lillusione-della-proprieta",
-      "excerpt": "Una volta era tutto più semplice con i videogiochi, si passava il fine settimana immersi in una nuova avventura, lottando contro il sonno per sconfiggere il boss finale la…",
-      "image": "https://www.tomshw.it/storage/media/2024/03/16870/GameStop.png",
-      "publishedAt": "2026-06-16T14:57:54+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Spectrum si ferma ancora: il razzo europeo resta sulla rampa",
-      "link": "https://www.tomshw.it/altro/isar-ferma-ancora-il-razzo-spectrum-sulla-rampa",
-      "excerpt": "Isar Aerospace ha fermato di nuovo Spectrum sulla rampa di lancio, rinviando una missione che pesa molto più di un semplice test tecnico. Il razzo della startup tedesca dovrebbe…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96820/isar-ferma-ancora-il-razzo-spectrum-sulla-rampa.png",
-      "publishedAt": "2026-06-16T14:57:36+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Anker Nano 70W, il prezzo precipita a 29,99 euro: caricatore GaN con tre porte. Più piccolo di un pacchetto di gomme",
       "link": "https://images.dday.it/_SSTjJ4TjZvCCgHvO33WfT1TK3ShxIDc09tYqPVXWCU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57767/0cd3f6_71ps6Qk1yqL._AC_SL1500_.jpg",
       "excerpt": "Il caricatore compatto raggiunge 70W su USB-C, integra il controllo termico ActiveShield 4.0 e ora costa davvero pochissimo... Leggi tutto",
@@ -185,92 +266,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "L'Italia indaga Apple, i backup iPhone finiscono nel mirino",
-      "link": "https://www.tomshw.it/smartphone/litalia-indaga-apple-i-backup-iphone-finiscono-nel-mirino",
-      "excerpt": "L’Autorità Garante della Concorrenza e del Mercato ha aperto un’indagine su Apple per verificare se l’integrazione di iCloud in iPhone e iPad rispetti gli obblighi europei…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96818/l-italia-indaga-apple-i-backup-iphone-finiscono-nel-mirino.png",
-      "publishedAt": "2026-06-16T14:52:41+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Tesla l’aveva promessa, un suo ex dirigente prova a farla davvero",
-      "link": "https://www.tomshw.it/automotive/lex-tesla-che-riporta-in-vita-la-pompa-di-calore-mancata",
-      "excerpt": "Drew Baglino, ex responsabile powertrain ed energia di Tesla, ha fondato Sadi Thermal Machines per sviluppare il prodotto che l'azienda di Elon Musk aveva solo anticipato: una…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96817/l-ex-tesla-che-riporta-in-vita-la-pompa-di-calore-mancata.png",
-      "publishedAt": "2026-06-16T14:51:09+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "SpaceX spende e spande subito: 60 miliardi (in azioni) per Cursor e potenziare i servizi di IA",
       "link": "https://images.dday.it/pE51X4tNIb_oX1FRe8gFvAKMB6hZtJJYIlgEFG9nGkU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57766/734284_Depositphotos_653323824_XL.jpg",
       "excerpt": "L’acquisizione della startup di coding assistito dall'IA servirà a rafforzare le ambizioni di SpaceX nell’Intelligenza Artificiale... Leggi tutto",
       "image": "https://images.dday.it/pE51X4tNIb_oX1FRe8gFvAKMB6hZtJJYIlgEFG9nGkU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57766/734284_Depositphotos_653323824_XL.jpg",
       "publishedAt": "2026-06-16T14:34:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Microsoft, ecco i nuovi Surface Pro e Laptop con Snapdragon X2. Per 64 GB di RAM e 1 TB di SSD servono 4300 euro",
-      "link": "https://images.dday.it/VB3txmpKaD_JErzdQr8Cx46pjCVi0dDoV3AaUR-Cahs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57765/4907af_surt.jpg",
-      "excerpt": "La nuova gamma di dispositivi consumer è già disponibile per il preorder anche in Italia. Si conferma la strategia di puntare su ARM come piattaforma, lasciando x86 ai prodotti…",
-      "image": "https://images.dday.it/VB3txmpKaD_JErzdQr8Cx46pjCVi0dDoV3AaUR-Cahs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57765/4907af_surt.jpg",
-      "publishedAt": "2026-06-16T14:32:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Comprare online sarà facile anche da annullare: il 19 giugno arriva la nuova funzione di recesso",
-      "link": "https://images.dday.it/wowHORGdskLJre-vZ4BKD0r7fZEi4-69YyZmSgkvAlw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57764/b90248_Depositphotos_849407938_XL.jpg",
-      "excerpt": "La procedura non dovrà essere nascosta tra le condizioni di vendita. Il consumatore potrà esercitare il diritto senza affidarsi soltanto all’assistenza, ecco perché si parla di…",
-      "image": "https://images.dday.it/wowHORGdskLJre-vZ4BKD0r7fZEi4-69YyZmSgkvAlw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57764/b90248_Depositphotos_849407938_XL.jpg",
-      "publishedAt": "2026-06-16T14:25:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Secretlab Summer Sale: fino a 227€ di sconto per la postazione gaming e smart working definitiva",
-      "link": "https://www.tomshw.it/videogioco/secretlab-summer-sale-fino-a-227eur-di-sconto-per-la-postazione-gaming-e-smart-working-definitiva",
-      "excerpt": "L'estate si accende all'insegna del comfort assoluto grazie al lancio del Secretlab Summer Sale 2026, l'attesissimo evento promozionale a tempo limitato che porta sconti esclusivi…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96810/Secretlab-Summer-Sale-fino-a-227€-di-sconto-per-la-postazione-gaming-e-smart-working-definitiva.png",
-      "publishedAt": "2026-06-16T14:20:20+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "RTX Spark dal vivo è impressionante, ma non è per tutti",
-      "link": "https://www.tomshw.it/hardware/rtx-spark-dal-vivo-e-impressionante-ma-non-e-per-tutti",
-      "excerpt": "A COMPUTEX 2026 NVIDIA ha tolto i veli a RTX Spark, il suo primo system-on-a-chip pensato per i PC Windows. Sul palco di Taipei, Jensen Huang lo ha presentato come l'inizio di una…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96789/NVIDIA-DEMO-Computex-RTX-Spark-(38).jpg",
-      "publishedAt": "2026-06-16T14:18:09+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Intel 18A-P fa passi avanti: più prestazioni e consumi ridotti",
-      "link": "https://www.tomshw.it/hardware/intel-18a-p-risk-production-vlsi-2026",
-      "excerpt": "Intel Foundry ha aggiornato la propria roadmap produttiva durante il VLSI Symposium 2026, confermando che Intel 18A-P è entrato in risk production. Si tratta della prima…",
-      "image": "https://www.tomshw.it/storage/media/2026/06/96741/intel-18a-p-risk-production-vlsi-2026.png",
-      "publishedAt": "2026-06-16T13:07:05+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Recensione cuffie over ear JBL Live 780NC: tante funzioni e un buon rapporto qualità/prezzo",
-      "link": "https://images.dday.it/8BlX4aFYZf5jMW1irrxEuC-G0J01FJOy4psXLdZxEp0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57651/622daf_671269-01.LS_JBL_Live_780NC_Lifestyle_Image_White-687d91-original-1777651313.jpg",
-      "excerpt": "La nuova generazione di cuffie JBL Live 780NC offrono un nuovo design colorato, tante funzioni e un buon sistema di cancellazione attiva del rumore, per un rapporto qualità/prezzo…",
-      "image": "https://images.dday.it/8BlX4aFYZf5jMW1irrxEuC-G0J01FJOy4psXLdZxEp0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57651/622daf_671269-01.LS_JBL_Live_780NC_Lifestyle_Image_White-687d91-original-1777651313.jpg",
-      "publishedAt": "2026-06-16T12:34:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Pagamenti sotto i 30 euro, c'è un accordo (non vincolante) per ridurre le commissioni agli esercenti",
-      "link": "https://images.dday.it/EBcm0g2DSFasKLI069RGwOp3UEvp6XmJ2UYAcsrFFJU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57760/f1fc9a_carte_thumb.jpg",
-      "excerpt": "Banche, operatori dei pagamenti digitali e associazioni di categoria hanno siglato un’intesa non vincolante per favorire offerte più competitive sui piccoli importi, con…",
-      "image": "https://images.dday.it/EBcm0g2DSFasKLI069RGwOp3UEvp6XmJ2UYAcsrFFJU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57760/f1fc9a_carte_thumb.jpg",
-      "publishedAt": "2026-06-16T12:12:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
