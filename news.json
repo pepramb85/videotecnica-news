@@ -1,179 +1,224 @@
 {
-  "generatedAt": "2026-06-18T12:46:34.062848+00:00",
+  "generatedAt": "2026-06-18T16:52:29.979794+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Immagina di non dover guardare il telefono per orientarti: Google ci sta lavorando",
-      "link": "https://www.hdblog.it/indossabili/articoli/n661804/android-xr-navigazione-ar-gemini-smart-glasses/",
-      "excerpt": "L'ultima demo di Android XR mostra un caso d'uso decisamente concreto per gli occhiali intelligenti del futuro.",
-      "image": "https://hd2.tudocdn.net/1350829?w=660",
-      "publishedAt": "2026-06-18T12:45:00+00:00",
+      "title": "OnePlus Pad 3 Pro ufficiale: le specifiche parlano chiaro, è il più potente visto finora",
+      "link": "https://www.hdblog.it/tablet/articoli/n661795/oneplus-3-pro-tablet/",
+      "excerpt": "OnePlus presenta in Cina il nuovo tablet Pad 3 Pro, con schermo enorme e specifiche tecniche eccellenti.",
+      "image": "https://hd2.tudocdn.net/1350840?w=660",
+      "publishedAt": "2026-06-18T16:40:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "La scommessa da 85€ che potrebbe cambiarti l'ascolto con le cuffie",
-      "link": "https://www.tomshw.it/videogioco/cuffie-gaming-mchose-x9-wireless-scontate-dell89-2026-06-18",
-      "excerpt": "Su AliExpress sono disponibili le MCHOSE X9, cuffie da gaming wireless con suono surround 7.1, microfono con cancellazione del rumore e latenza di soli 15 ms, ideali per i giochi…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97191/cuffie-gaming-mchose-x9-wireless-scontate-dell89-2026-06-18-Cizs7v0vm1c1dbpd5gJrLA.jpg",
-      "publishedAt": "2026-06-18T12:41:23+00:00",
+      "title": "Origin Wukong supera 1 milione di task e sfida il futuro della crittografia",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n661745/origin-wukong-1-milione-task-crittografia/",
+      "excerpt": "Origin Wukong supera 1 milione di task e testa la sicurezza post-quantistica.",
+      "image": "https://hd2.tudocdn.net/1350697?w=660",
+      "publishedAt": "2026-06-18T16:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Sim racing con cambio incluso: Logitech G923 a 313€ su Amazon",
+      "link": "https://www.tomshw.it/offerte/sim-racing-con-cambio-incluso-logitech-g923-a-313eur-su-amazon",
+      "excerpt": "Logitech G923 con volante, pedali e leva Driving Force è a 313€ su Amazon, passando dai 508,99€ di riferimento a un taglio del 40%. È il tipo di kit che cambia davvero il modo di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97241/tomshw-offer-551419.png",
+      "publishedAt": "2026-06-18T16:33:38+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Bosch nei guai per Huawei, arriva una multa da 36 milioni",
-      "link": "https://www.tomshw.it/business/bosch-nei-guai-per-huawei-arriva-una-multa-da-36-milioni",
-      "excerpt": "Bosch ha accettato di pagare una sanzione da 36 milioni di dollari per vendite non autorizzate a Huawei, un caso che pesa perché riguarda componenti e software soggetti ai…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97190/Bosch-nei-guai-per-Huawei,-arriva-una-multa-da-36-milioni.jpg",
-      "publishedAt": "2026-06-18T12:37:46+00:00",
+      "title": "La Volkswagen ID.Cross è pronta: motorizzazioni e prezzi",
+      "link": "https://www.hdmotori.it/volkswagen-id-cross-motorizzazioni-prezzi/",
+      "excerpt": "Volkswagen continua ad ampliare la famiglia di vetture compatte full electric basate sulla piattaforma MEB+, presto ci sarà la ID. Cross",
+      "image": "https://hd2.tudocdn.net/1350946?w=660",
+      "publishedAt": "2026-06-18T16:30:07+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Logitech G305 X Superlight: leggerissimo, 44.000 DPI e fino a 8.000Hz | Prezzo",
+      "link": "https://www.hdblog.it/tecnologia/comparazioni/n661836/logitech-g305-x-superlight-specifiche-prezzo/",
+      "excerpt": "Logitech aggiorna il G305 con 59 grammi, 44.000 DPI e batteria integrata.",
+      "image": "https://hd2.tudocdn.net/1350891?w=660",
+      "publishedAt": "2026-06-18T16:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "GPL morto? Non per Hyundai: le novità di Kona, i20 e Bayon",
+      "link": "https://www.hdmotori.it/hyundai-kona-i20-bayon-gpl-prezzi/",
+      "excerpt": "Chi ha detto che il GPL è arrivato ai titoli di coda si sbagliava perché un colosso come Hyundai ha deciso di rilanciarlo su Kona, i20 e Bayon",
+      "image": "https://hd2.tudocdn.net/1350939?w=660",
+      "publishedAt": "2026-06-18T16:00:37+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple aumenterà i prezzi e la colpa è anche dell'AI",
+      "link": "https://www.tomshw.it/hardware/apple-aumentera-i-prezzi-e-la-colpa-e-anche-dellai",
+      "excerpt": "Apple si prepara ad aumentare i prezzi dei suoi prodotti perché il costo delle memorie e dello storage è salito a livelli che l'azienda non ritiene più sostenibili da assorbire…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97229/Apple-aumenterà-i-prezzi-e-la-colpa-è-anche-dell'AI.jpg",
+      "publishedAt": "2026-06-18T15:56:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Samsung, display XR con luminosità fuori scala: fino a 40.000 nit!",
-      "link": "https://www.hdblog.it/samsung/articoli/n661807/samsung-display-xr-luminosita-40000-nit/",
-      "excerpt": "Più luminoso della Stella Polare!",
-      "image": "https://hd2.tudocdn.net/1350823?w=660",
-      "publishedAt": "2026-06-18T12:35:00+00:00",
+      "title": "Perseverance completa una maratona su Marte: ma cosa accadrebbe se ci provassimo noi?",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n661834/perseverance-maratona-marte-42-km/",
+      "excerpt": "Perseverance supera i 42 km su Marte e riapre il dibattito sulle missioni umane.",
+      "image": "https://hd2.tudocdn.net/1350885?w=660",
+      "publishedAt": "2026-06-18T15:55:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Intel sale del 9% dopo l'annuncio Trump sull'accordo con Apple per i chip USA",
-      "link": "https://www.tomshw.it/business/intel-sale-del-9-dopo-lannuncio-trump-sullaccordo-con-apple-per-i-chip-usa",
-      "excerpt": "Intel ha guadagnato il 9% nel premarket del 18 giugno 2026, dopo che il presidente Donald Trump ha dichiarato che il gruppo dei semiconduttori avrebbe raggiunto un accordo con…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97188/Intel-sale-del-9--dopo-l'annuncio-Trump-sull'accordo-con-Apple-per-i-chip-USA.jpg",
-      "publishedAt": "2026-06-18T12:32:53+00:00",
+      "title": "L'elogio silenzioso dei modder",
+      "link": "https://www.tomshw.it/videogioco/lelogio-silenzioso-dei-modder",
+      "excerpt": "Il mondo dei videogiochi è ormai diviso in questo modo: da una parte, abbiamo colossi dell'intrattenimento da miliardi di dollari, aziende capaci di mobilitare migliaia di…",
+      "image": "https://cdn.tomshw.it/storage/media/2025/01/45621/SKYBLIVION.webp",
+      "publishedAt": "2026-06-18T15:47:07+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Rivoluzione Mac: esegui app Windows e Linux a prezzi stracciati con i saldi Parallels",
-      "link": "https://www.tomshw.it/hardware/rivoluzione-mac-esegui-app-windows-e-linux-a-prezzi-stracciati-con-i-saldi-parallels",
-      "excerpt": "In occasione delle celebrazioni del suo compleanno, Parallels ha lanciato una campagna promozionale che offre uno sconto del 35% su tutta la gamma di prodotti Parallels Desktop…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97187/Rivoluzione-Mac-esegui-app-Windows-e-Linux-a-prezzi-stracciati-con-i-saldi-Parallels.png",
-      "publishedAt": "2026-06-18T12:32:48+00:00",
+      "title": "Il ritorno dell'iPod: la nuova ossessione vintage della Gen Z",
+      "link": "https://www.hdblog.it/tv/articoli/n661837/apple-ipod-gen-z-ascolare-musica-smartphone-perche/",
+      "excerpt": "Basta notifiche sullo smartphone, meglio un lettore disconnesso degli anni 2000.",
+      "image": "https://hd2.tudocdn.net/1350934?w=660",
+      "publishedAt": "2026-06-18T15:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Una mod di Bloodborne per PS5 dimostra che forse Sony ha sprecato un'opportunità",
+      "link": "https://www.hdblog.it/sony/articoli/n661838/bloodborne-ps5-4k-100-fps-mod-sony-digital-foundry/",
+      "excerpt": "Basta poco per una versione PS5 con upgrade importanti.",
+      "image": "https://hd2.tudocdn.net/1226688?w=660",
+      "publishedAt": "2026-06-18T15:31:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Porsche Taycan MY2027, dietrofront: il cambio marcia artificiale è realtà",
+      "link": "https://www.hdmotori.it/porsche-taycan-2027-marce-simulate-e-shift/",
+      "excerpt": "La Taycan MY2027 cede alle marce virtuali con il sistema E-Shift. Da Stoccarda arriva la svolta acustica e sensoriale che imita la Panamera per conquistare i puristi",
+      "image": "https://hd2.tudocdn.net/1350935?w=660",
+      "publishedAt": "2026-06-18T15:30:34+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Missile europeo sfida il Tomahawk: oltre 1.000 km di gittata",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n661759/risposta-europea-tomahawk-mbda/",
+      "excerpt": "MBDA svela il nuovo missile da crociera europeo con gittata superiore a 1.000 km.",
+      "image": "https://hd2.tudocdn.net/1350728?w=660",
+      "publishedAt": "2026-06-18T15:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "TSMC è satura e Samsung attira AMD, Google e Tesla",
+      "link": "https://www.tomshw.it/hardware/tsmc-e-satura-e-samsung-attira-amd-google-e-tesla",
+      "excerpt": "TSMC avrebbe esaurito gran parte della capacità produttiva sui processi più avanzati, spingendo clienti di peso come AMD, Google, Tesla e Groq a valutare con maggiore attenzione…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97226/TSMC-è-satura-e-Samsung-attira-AMD,-Google-e-Tesla.jpg",
+      "publishedAt": "2026-06-18T15:11:56+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Linkuadro: il quadro e-paper che si fonde con l'arredo",
-      "link": "https://www.tomshw.it/altro/linkuadro-quadro-digitale-e-paper-arredo",
-      "excerpt": "Linkuadro prova a rispondere a un problema molto concreto: portare le immagini digitali dentro casa senza aggiungere un altro schermo luminoso alla parete. Il progetto di CAB si…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97186/Z62_3402.jpg",
-      "publishedAt": "2026-06-18T12:32:41+00:00",
+      "title": "Il Regno Unito userà l'AI sui richiedenti asilo, è polemica sul nuovo fronte per la sorveglianza",
+      "link": "https://www.tomshw.it/business/il-regno-unito-usera-lai-sui-richiedenti-asilo-nuovo-fronte-per-la-sorveglianza-contestata",
+      "excerpt": "Il governo britannico ha in programma di introdurre dal 2027 sistemi di stima dell'età tramite volto per supportare le decisioni sui richiedenti asilo che arrivano al confine del…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97224/Il-Regno-Unito-userà-l'AI-sui-richiedenti-asilo,-contestato-il-nuovo-fronte-per-la-sorveglianza.jpg",
+      "publishedAt": "2026-06-18T15:08:01+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "La più smart tra le cornici digitali è in sconto: approfittane ora (-27%)",
-      "link": "https://www.tomshw.it/smartphone/switchbot-ki-art-frame-in-offerta-a-soli-110eur-2026-06-18",
-      "excerpt": "Su Amazon è disponibile la SwitchBot KI Art Frame 7.3'', la cornice digitale con display a inchiostro elettronico che unisce tecnologia e design. Completamente wireless grazie…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97185/switchbot-ki-art-frame-in-offerta-a-soli-110eur-2026-06-18-DR6ipi8cvu92fmnc84axTBo.jpg",
-      "publishedAt": "2026-06-18T12:21:17+00:00",
+      "title": "Fortnite, le skin potranno uscire dal gioco grazie a UE6",
+      "link": "https://www.tomshw.it/videogioco/epic-vuole-far-viaggiare-le-skin-di-fortnite-tra-i-giochi",
+      "excerpt": "Epic Games ha delineato un passaggio concreto per trasformare Fortnite da gioco-servizio a piattaforma più ampia: con Unreal Engine 6, gli sviluppatori potranno creare giochi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97223/fortnite-anti-cheat-update.webp",
+      "publishedAt": "2026-06-18T15:02:36+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Edifier MR3 rivoluzionano il budget audio: qualità da studio, prezzo da affare Prime",
-      "link": "https://www.tomshw.it/hardware/edifier-mr3-in-offerta-a-soli-88eur-su-amazon-2026-06-18",
-      "excerpt": "Su Amazon è disponibile un'ottima offerta sugli Edifier MR3, altoparlanti da studio compatti 2.0 con Hi-Res Audio e Bluetooth V5.4. Questi speaker da 2 x 18W offrono una qualità…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97181/edifier-mr3-in-offerta-a-soli-88eur-su-amazon-2026-06-18-0f8YO24v2c53ov572ja0Ewo4G.png",
-      "publishedAt": "2026-06-18T12:16:46+00:00",
+      "title": "Un'unica app per gestire l'energia di casa e dell'auto: l'ecosistema E.ON si evolve con Car Connect",
+      "link": "https://images.dday.it/VhSwgnr3zGCQblEG1KAZj4kuAJZbjI7n4JBd9KxrOH8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57540/30a749_1920x1080_EONCarConnect_NOLogo.jpg",
+      "excerpt": "I possessori di auto elettrica che scelgono l'offerta E.ON Luce Drive Smarty, ora possono sfruttare i benefici della flessibilità energetica in modo ancora più fluido e integrato…",
+      "image": "https://images.dday.it/VhSwgnr3zGCQblEG1KAZj4kuAJZbjI7n4JBd9KxrOH8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57540/30a749_1920x1080_EONCarConnect_NOLogo.jpg",
+      "publishedAt": "2026-06-18T14:21:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Svelata Cupra Raval Edge Plus: arriva in Italia la nuova versione da 211 CV",
+      "link": "https://images.dday.it/Ub86XV6E_yHxJeAs3glb-ebaOp8KVmpvsPoJN_ae4Z8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57791/0f1de7_cupra_thumb.jpg",
+      "excerpt": "La compatta elettrica amplia la gamma italiana a breve distanza dal debutto. Autonomia fino a 446 km... Leggi tutto",
+      "image": "https://images.dday.it/Ub86XV6E_yHxJeAs3glb-ebaOp8KVmpvsPoJN_ae4Z8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57791/0f1de7_cupra_thumb.jpg",
+      "publishedAt": "2026-06-18T14:18:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Uno degli inventori dei modelli Transformer lascia Google (e Gemini) per OpenAI",
+      "link": "https://images.dday.it/n5UTGCqlKherte42-sAh-ddP1aTDOmV4nVHoatLodVA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57796/404a3b_ChatGPT_Image_18_giu_2026__16_16_21.png",
+      "excerpt": "Noam Shazeer, co-autore del paper fondativo del 2017 e co-direttore di Gemini, andrà a lavorare per Sam Altman. Google lo aveva ripreso nel 2024... Leggi tutto",
+      "image": "https://images.dday.it/n5UTGCqlKherte42-sAh-ddP1aTDOmV4nVHoatLodVA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57796/404a3b_ChatGPT_Image_18_giu_2026__16_16_21.png",
+      "publishedAt": "2026-06-18T14:18:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Cuffie Sennheiser HD 599: 10 anni sul mercato e ancora difficile batterle. Su Amazon sconto del 56% rispetto al negozio tedesco",
+      "link": "https://images.dday.it/ZsoDtnVJMih3MybdEhmllPpsyne5JKZGulzHTrJ-DiM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57795/4ea97e_91DTbYPLvlL._AC_SL1500_.jpg",
+      "excerpt": "Cuffie aperte over-ear con trasduttore SYS 38 e membrana Duofol. Le HD 599 di Sennheiser restano una delle scelte più solide per l'ascolto domestico comodo e di alta qualità...…",
+      "image": "https://images.dday.it/ZsoDtnVJMih3MybdEhmllPpsyne5JKZGulzHTrJ-DiM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57795/4ea97e_91DTbYPLvlL._AC_SL1500_.jpg",
+      "publishedAt": "2026-06-18T13:40:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "GTA VI si avvicina. Confermata la data di inizio dei pre-ordini",
+      "link": "https://images.dday.it/F8vLTLSQfVLtb-R2lRXn_xHwjpIsUFm-srGiRa9Wy4Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57794/c16a97_gta6_thumb.jpg",
+      "excerpt": "A piccoli passi ci si avvicina all'uscita. A fine giugno aperti i pre-ordini per PS5 e Xbox Series X|S... Leggi tutto",
+      "image": "https://images.dday.it/F8vLTLSQfVLtb-R2lRXn_xHwjpIsUFm-srGiRa9Wy4Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57794/c16a97_gta6_thumb.jpg",
+      "publishedAt": "2026-06-18T13:33:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Yann LeCun punge: \"I modelli AI attuali non porteranno mai all'AGI. E chi blocca l'open source è un oscurantista medievale\"",
+      "link": "https://images.dday.it/L9uJT56fr-C3fGBezZCbm50BXDx27eG1END-aBhtDPo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57793/3ac554_IMG_5251_t.jpg",
+      "excerpt": "Il padre del deep learning, uscito da Meta per fondare AMI, dal palco del Vivatech smonta due dogmi dell'industria AI: la fede nella scalabilità dei modelli linguistici e l'idea…",
+      "image": "https://images.dday.it/L9uJT56fr-C3fGBezZCbm50BXDx27eG1END-aBhtDPo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57793/3ac554_IMG_5251_t.jpg",
+      "publishedAt": "2026-06-18T13:30:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Migliori TV per PlayStation 5 (giugno 2026)",
+      "link": "https://www.tomshw.it/videogioco/Migliori-TV-PS5",
+      "excerpt": "Scegliere una TV per PlayStation 5 nel 2026 significa partire da come giocate davvero, non dalla sigla più vistosa sulla confezione. Per sfruttare bene la console contano…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/90265/migliori-tv-ps5-copertina.jpg",
+      "publishedAt": "2026-06-18T12:27:42+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Honor presenta 600 Smart, promette fino a (quasi) 4 giorni di autonomia",
-      "link": "https://www.hdblog.it/smartphone/articoli/n661803/honor-600-smart-specifiche-batteria-enorme/",
-      "excerpt": "Con una batteria da 7.700 mAh e ricarica rapida da 45 watt, Honor 600 Smart promette fino a 93 ore di utilizzo e oltre un giorno di streaming video continuo",
-      "image": "https://hd2.tudocdn.net/1350809?w=660",
-      "publishedAt": "2026-06-18T12:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "VIVO X300 Ultra a prezzo shock: MediaWorld ribalta tutto sotto i 2000€",
-      "link": "https://www.tomshw.it/smartphone/vivo-x300-ultra-1tb-in-offerta-a-soli-1640eur-2026-06-18",
-      "excerpt": "Su MediaWorld è disponibile il potente VIVO X300 Ultra da 1TB nella colorazione Black, uno smartphone di fascia altissima pensato per chi non vuole compromessi. Applicando lo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97178/vivo-x300-ultra-1tb-in-offerta-a-soli-1640eur-2026-06-18-wwD72c3ru30ei2foml5y5PjEC.png",
-      "publishedAt": "2026-06-18T12:12:41+00:00",
+      "title": "Migliori mouse gaming economici (giugno 2026)",
+      "link": "https://www.tomshw.it/videogioco/migliori-mouse-economici",
+      "excerpt": "Nel PC gaming il mouse resta una delle periferiche più importanti, perché incide direttamente su precisione, comfort e rapidità di esecuzione. Sceglierne uno valido non è sempre…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/90253/migliori-mouse-gaming-economici-copertina.jpg",
+      "publishedAt": "2026-06-18T12:23:48+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Con le nuove offerte Prime, lo stesso budget può portarti a uno smartphone migliore",
-      "link": "https://www.tomshw.it/smartphone/motorola-edge-70-fusion-fifa-edition-30-su-amazon-2026-06-18",
-      "excerpt": "Su Amazon è disponibile un'offerta imperdibile sul Motorola Edge 70 Fusion FIFA World Cup 26 Edition, lo smartphone pensato per i grandi appassionati di calcio. Con design…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97177/motorola-edge-70-fusion-fifa-edition-30-su-amazon-2026-06-18-RJt022r9kpnhuf8qMsYpl.png",
-      "publishedAt": "2026-06-18T12:07:49+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Ducati 750 SS, una moto da 100.000€ modificata per amore del padre",
-      "link": "https://www.hdmotori.it/ducati-750-ss-1974-carter-tondo-asta-bonhams/",
-      "excerpt": "Una rara Ducati 750 SS del 1974 a carter tondo va all'asta da Bonhams. Stimata fino a 106.000 euro, unisce valore storico e una storia familiare",
-      "image": "https://hd2.tudocdn.net/1350819?w=660",
-      "publishedAt": "2026-06-18T12:00:09+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Una stazione meteo da un anno e mezzo di autonomia? Un utente c’è riuscito",
-      "link": "https://www.hdblog.it/home/articoli/n661797/stazione-meteo-minimal-grande-autonomia/",
-      "excerpt": "Un appassionato è riuscito a progettare una stazione meteo che potrebbe funzionare per circa 500 giorni con una sola carica, grazie a un lavoro di ottimizzazione particolarmente…",
-      "image": "https://hd2.tudocdn.net/1350800?w=660",
-      "publishedAt": "2026-06-18T11:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Telecamere di sicurezza urbana: niente multe senza una base di legge",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n661801/telecamere-sicurezza-urbana-niente-multe/",
-      "excerpt": "I filmati non possono essere riutilizzati per altre finalità",
-      "image": "https://hd2.tudocdn.net/1350807?w=660",
-      "publishedAt": "2026-06-18T11:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Anche Sennheiser si cimenta con gli auricolari \"open\" a clip",
-      "link": "https://www.hdblog.it/indossabili/articoli/n661800/sennheiser-accentum-clip-prezzi-specifiche-quando/",
-      "excerpt": "Arriveranno da noi tra un paio di mesi almeno.",
-      "image": "https://hd2.tudocdn.net/1350804?w=660",
-      "publishedAt": "2026-06-18T11:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Android 17: alcuni utenti stanno avendo problemi di connettività sotto Wi-Fi",
-      "link": "https://www.hdblog.it/google/articoli/n661792/androdi-17-problemi-wifi-connessione/",
-      "excerpt": "Sembra succedere principalmente durante l'utilizzo di alcune app",
-      "image": "https://hd2.tudocdn.net/1343740?w=660",
-      "publishedAt": "2026-06-18T11:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Smartwatch, momento positivo: +4% nel primo trimestre, ma non tutti sorridono",
-      "link": "https://www.hdblog.it/indossabili/articoli/n661791/mercato-smartwatch-inizio-2026-apple-samsung/",
-      "excerpt": "Secondo Counterpoint, il mercato globale degli smartwatch è cresciuto del 4% nel primo trimestre 2026. Apple rafforza la leadership mentre Samsung registra una forte contrazione",
-      "image": "https://hd2.tudocdn.net/1334543?w=660",
-      "publishedAt": "2026-06-18T11:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Allarme privacy su PS5: spuntano giochi per adulti mai scaricati da nessuno",
-      "link": "https://www.hdblog.it/sony/articoli/n661764/ps5-giochi-adulti-privacy-sony/",
-      "excerpt": "Una falla di sistema su PS5 mostrerebbe giochi per adulti fra i titoli recenti, senza alcun reale acquisto.",
-      "image": "https://hd2.tudocdn.net/1350799?w=660",
-      "publishedAt": "2026-06-18T11:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "La videocamera da esterno Ring costa la metà. Facile da installare e alimentata a batteria",
@@ -194,6 +239,15 @@
       "sourceColor": "#E63946"
     },
     {
+      "title": "I data center corrono più della rete elettrica",
+      "link": "https://www.tomshw.it/business/i-data-center-corrono-piu-della-rete-elettrica",
+      "excerpt": "Vertiv descrive il mercato dei data center in Italia come una molla caricata a metà: molti progetti annunciati, molti meno cantieri davvero arrivati a terra. La domanda cresce…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97130/02-vertiv-data-center-cover.jpg",
+      "publishedAt": "2026-06-18T09:11:41+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "Jeff Bezos: “L'AI non vi ruberà il lavoro. Vi permetterà finalmente di fare quello che avete sempre voluto fare”",
       "link": "https://images.dday.it/CmcPhe_03mqXag7sg-9wLa7l_IIW8FyPWd07evGXEQE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57789/039b94_bezt.jpg",
       "excerpt": "Il fondatore di Amazon e Blue Origin smonta l'allarmismo sulla crisi del lavoro dovuta all’IA con una tesi precisa: oggi siamo limitati da quello che riusciamo a fare, non da…",
@@ -212,67 +266,13 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Anche la Porsche Taycan ora simula le marce. Le novità della nuova versione",
-      "link": "https://images.dday.it/nr1pLTrB2FEFKe9LLGhQp4nsz7Bu3PBamTQJI4g0gUI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57787/b3f38f_taycan_thumb.jpg",
-      "excerpt": "La sportiva elettrica introduce il sistema E-Shift con otto rapporti simulati, un Electric Sport Sound più coinvolgente e fino a 700 km sulle versioni a trazione posteriore...…",
-      "image": "https://images.dday.it/nr1pLTrB2FEFKe9LLGhQp4nsz7Bu3PBamTQJI4g0gUI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57787/b3f38f_taycan_thumb.jpg",
-      "publishedAt": "2026-06-18T08:37:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Henna Virkkunen: \"L'Europa smetta di regolare la tech e cominci a costruirla\"",
-      "link": "https://images.dday.it/qPo3GQztMgbqobPnx6Ahm6zyc33N_e706_g_eabD1Gw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57786/407444_henna.jpg",
-      "excerpt": "La vicepresidente esecutiva della Commissione europea ha presentato a Parigi un'agenda ambiziosa: Chips Act 2.0, AI Gigafactory e un veicolo da centinaia di miliardi per…",
-      "image": "https://images.dday.it/qPo3GQztMgbqobPnx6Ahm6zyc33N_e706_g_eabD1Gw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57786/407444_henna.jpg",
-      "publishedAt": "2026-06-18T08:15:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "BOE ha avviato la produzione nella prima fabbrica OLED cinese G8.6 eguagliando il primato di Samsung",
-      "link": "https://images.dday.it/SxNLHZCbzCuL3qN3RdTkTr1JQZLab97l-pjXPGqk1Ow/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57784/4e5efb_640-1.jpeg",
-      "excerpt": "BOE ha annunciato l’inizio della produzione di massa e le prime consegne di display OLED prodotti nel suo nuovo impianto per substrati G8.6. È la prima fabbrica cinese di questo…",
-      "image": "https://images.dday.it/SxNLHZCbzCuL3qN3RdTkTr1JQZLab97l-pjXPGqk1Ow/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57784/4e5efb_640-1.jpeg",
-      "publishedAt": "2026-06-18T08:08:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "La nuova Midjourney non genera immagini: scansiona il corpo in una vasca d’acqua in 60 secondi",
-      "link": "https://images.dday.it/3cP3dd-d50kmuIGR9kqWRPPDsOePoaE8r2Fg56fnl_w/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57785/e8791b_Screenshot_2026-06-18_alle_10.04.04.png",
-      "excerpt": "Il dispositivo usa una vasca d’acqua, 358.000 trasduttori e un calcolo intensivo per ricostruire l’interno del corpo senza radiazioni né campi magnetici. Le immagini IA non…",
-      "image": "https://images.dday.it/3cP3dd-d50kmuIGR9kqWRPPDsOePoaE8r2Fg56fnl_w/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57785/e8791b_Screenshot_2026-06-18_alle_10.04.04.png",
-      "publishedAt": "2026-06-18T08:04:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Bezos sbaglia domanda: il lavoro non finisce, cambia prezzo",
-      "link": "https://www.tomshw.it/business/bezos-lavoro-ai-cambia-prezzo",
-      "excerpt": "Jeff Bezos ha detto che l'AI potrebbe creare una carenza di lavoro invece di disoccupazione di massa. La tesi, rilanciata dopo il suo intervento a VivaTech e ripresa da Business…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97097/06-bezos-ai-lavoro-cover.jpg",
-      "publishedAt": "2026-06-18T06:45:04+00:00",
+      "title": "Instagram e IA: il bug nel recupero account che ha esposto migliaia di utenti",
+      "link": "https://www.tomshw.it/business/instagram-ia-bug-recupero-account-meta-gdpr-croari",
+      "excerpt": "L'utilizzo dell'intelligenza artificiale nei servizi di assistenza clienti promette maggiore efficienza e tempi di risposta più rapidi (per saperne di più su questi servizi clicca…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/96922/cover-croari-instagram.jpg",
+      "publishedAt": "2026-06-17T08:45:51+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Lexar JumpDrive D500, il mini SSD portatile con doppio connettore per chi viaggia leggero",
-      "link": "https://images.dday.it/YmG54c7hrmNMbNEdkIxiZb0fyM5Y4M4dLnbfZrT8Eio/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57732/868bf0_cover_Screenshot_2026-06-12_alle_15.37.06_copia.png",
-      "excerpt": "USB-C e USB-A nello stesso corpo in metallo da 26 grammi, velocità fino a 400 MB/s, tagli fino a 1TB e backup automatico delle foto con la Lexar App... Leggi tutto",
-      "image": "https://images.dday.it/YmG54c7hrmNMbNEdkIxiZb0fyM5Y4M4dLnbfZrT8Eio/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57732/868bf0_cover_Screenshot_2026-06-12_alle_15.37.06_copia.png",
-      "publishedAt": "2026-06-18T01:03:04+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Un'unica app per gestire l'energia di casa e dell'auto: l'ecosistema E.ON si evolve con Car Connect",
-      "link": "https://images.dday.it/VhSwgnr3zGCQblEG1KAZj4kuAJZbjI7n4JBd9KxrOH8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57540/30a749_1920x1080_EONCarConnect_NOLogo.jpg",
-      "excerpt": "I possessori di auto elettrica che scelgono l'offerta E.ON Luce Drive Smarty, ora possono sfruttare i benefici della flessibilità energetica in modo ancora più fluido e integrato…",
-      "image": "https://images.dday.it/VhSwgnr3zGCQblEG1KAZj4kuAJZbjI7n4JBd9KxrOH8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57540/30a749_1920x1080_EONCarConnect_NOLogo.jpg",
-      "publishedAt": "2026-06-18T01:03:04+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
     }
   ]
 }
