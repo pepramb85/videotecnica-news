@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-06-20T17:18:03.142119+00:00",
+  "generatedAt": "2026-06-20T19:13:35.416609+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "SSD PCIe 5 Samsung a 219,88€: 1TB con heatsink su Amazon",
+      "link": "https://www.tomshw.it/offerte/ssd-pcie-5-samsung-a-21988eur-1tb-con-heatsink-su-amazon",
+      "excerpt": "Samsung 9100 PRO SSD interno da 1TB con dissipatore è a 219,88€ su Amazon, con uno sconto del 45% rispetto ai 399,90€ di partenza. L’angolo interessante è tutto nelle prestazioni…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97606/tomshw-offer-552007.png",
+      "publishedAt": "2026-06-20T18:32:57+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "Samsung Galaxy S26 FE si fa vedere su Geekbench: cosa sappiamo",
       "link": "https://www.hdblog.it/smartphone/articoli/n662028/samsung-galaxy-s26-fe-benchmark-exynos-prezzo/",
@@ -77,6 +86,15 @@
       "sourceColor": "#0066CC"
     },
     {
+      "title": "G7, Big Tech vorrebbe un'AI sotto il controllo USA ma l'Europa non è d'accordo",
+      "link": "https://www.tomshw.it/business/g7-evian-altman-amodei-hassabis-coalizione-ai-sovranita-2026",
+      "excerpt": "Tre amministratori delegati dell'intelligenza artificiale hanno pranzato con i capi di governo del G7 il 17 giugno ad Évian-les-Bains, e non come ospiti di cortesia. Sam Altman,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97571/10-g7-ai-cover.jpg",
+      "publishedAt": "2026-06-20T09:32:28+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "Accenture perde il 20%, l'Ia mette in crisi il mondo della consulenza",
       "link": "https://www.tomshw.it/business/accenture-crollo-borsa-ai-consulenza-it-modello-ore-2026",
       "excerpt": "Accenture ha perso il 20% in borsa in una sola seduta, il peggior calo giornaliero della sua storia. Il motivo non è un trimestre disastroso — i ricavi del Q3 FY2026 si attestano…",
@@ -86,20 +104,20 @@
       "sourceColor": "#9B2D2D"
     },
     {
+      "title": "Le aziende cominciano a mettere un tetto di spesa alle IA e ai token",
+      "link": "https://www.tomshw.it/business/aziende-tetto-spesa-ai-cfo-token-budget-2026",
+      "excerpt": "Uber ha bruciato l'intero budget AI per il 2026 nei primi quattro mesi dell'anno e ha introdotto un tetto di spesa mensile per dipendente: 1.500 dollari per tool, applicato a…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97568/07-costi-ai-cover.jpg",
+      "publishedAt": "2026-06-20T09:32:26+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "Un database di nuova generazione riduce le allucinazioni AI del 78%",
       "link": "https://www.tomshw.it/business/kaist-akasicdb-omni-rag-allucinazioni-ai-78-percento",
       "excerpt": "Un team di KAIST e della startup GraphAI Co., Ltd. ha sviluppato un sistema di database che riduce le allucinazioni dei modelli di linguaggio del 78% rispetto ai sistemi RAG…",
       "image": "https://cdn.tomshw.it/storage/media/2026/06/97567/06-kaist-database-cover.jpg",
       "publishedAt": "2026-06-20T09:32:25+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "C'è un collo di bottiglia che frena gli LLM, e forse è stato sbloccato",
-      "link": "https://www.tomshw.it/business/subquadratic-subq-sparse-attention-llm-bottleneck-2026",
-      "excerpt": "Subquadratic, una startup di Miami, afferma di aver costruito un modello linguistico che aggira uno dei limiti strutturali dei transformer moderni: la crescita quadratica del…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97566/05-llm-bottleneck-cover.jpg",
-      "publishedAt": "2026-06-20T09:32:24+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -118,15 +136,6 @@
       "excerpt": "Sam Altman ha pubblicato un lungo post in cui traccia la visione di OpenAI per i prossimi anni, annunciando l'ingresso in quella che chiama \"terza fase\": un'AI abbondante,…",
       "image": "https://cdn.tomshw.it/storage/media/2026/06/97564/02-openai-altman-cover.jpg",
       "publishedAt": "2026-06-20T09:32:22+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "I creativi non devono temere l'IA, dice una società di IA per creativi",
-      "link": "https://www.tomshw.it/business/figma-ceo-field-ai-design-creativi",
-      "excerpt": "Figma ha pubblicato una ricerca su 1.199 professionisti del design, dello sviluppo e del marketing, e il CEO Dylan Field ha offerto un'interpretazione tecnica dei risultati: i…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97563/01-figma-ceo-cover.jpg",
-      "publishedAt": "2026-06-20T09:32:21+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -228,15 +237,6 @@
       "publishedAt": "2026-06-19T14:33:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Bollette più leggere con E.ON: arriva lo sconto del 10% per chi unisce Luce e Gas",
-      "link": "https://www.tomshw.it/altro/bollette-piu-leggere-con-eon-arriva-lo-sconto-del-10-per-chi-unisce-luce-e-gas",
-      "excerpt": "In un mercato dell'energia caratterizzato da continue oscillazioni, E.ON lancia una nuova e competitiva risposta per la serenità delle famiglie: l'offerta E.ON Luce e Gas Insieme.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97541/Bollette-più-leggere-con-E-ON-arriva-lo-sconto-del-10--per-chi-unisce-Luce-e-Gas.png",
-      "publishedAt": "2026-06-19T14:16:54+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Dal 1° luglio arriva il dazio UE da 3 euro sui “pacchi”, ma non si calcola come molti pensano",
