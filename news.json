@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-06-20T13:44:49.141085+00:00",
+  "generatedAt": "2026-06-20T15:41:16.551718+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "iPhone 17, ora a 769€ con l'offerta del weekend: è lo smartphone Apple da prendere oggi?",
+      "link": "https://www.hdblog.it/smartphone/offerte/n662024/iphone-17-offerta-prezzo-769e-giugno-2026/",
+      "excerpt": "iPhone 17 è in offerta con un prezzo che si riduce fino a 769 euro: ora è la scelta giusta per un nuovo iPhone.",
+      "image": "https://hd2.tudocdn.net/1333371?w=660",
+      "publishedAt": "2026-06-20T14:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "200€ sul volante Logitech G923: TRUEFORCE a 239€ su Amazon",
       "link": "https://www.tomshw.it/offerte/200eur-sul-volante-logitech-g923-trueforce-a-239eur-su-amazon",
@@ -48,6 +57,15 @@
       "publishedAt": "2026-06-20T10:00:46+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Un database di nuova generazione riduce le allucinazioni AI del 78%",
+      "link": "https://www.tomshw.it/business/kaist-akasicdb-omni-rag-allucinazioni-ai-78-percento",
+      "excerpt": "Un team di KAIST e della startup GraphAI Co., Ltd. ha sviluppato un sistema di database che riduce le allucinazioni dei modelli di linguaggio del 78% rispetto ai sistemi RAG…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97567/06-kaist-database-cover.jpg",
+      "publishedAt": "2026-06-20T09:32:25+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "C'è un collo di bottiglia che frena gli LLM, e forse è stato sbloccato",
@@ -149,15 +167,6 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Motorola Razr 60 Ultra, sconti di fine serie su Amazon: -53% con la promo del weekend",
-      "link": "https://www.hdblog.it/smartphone/offerte/n662014/motorola-razr-60-ultra-offerta-amazon-53-giu26/",
-      "excerpt": "Il Motorola Razr 60 Ultra è in offerta ed è ora disponibile con il 53% di sconto su Amazon: è il pieghevole da scegliere oggi.",
-      "image": "https://hd2.tudocdn.net/1256147?w=660",
-      "publishedAt": "2026-06-20T07:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Un'unica app per gestire l'energia di casa e dell'auto: l'ecosistema E.ON si evolve con Car Connect",
       "link": "https://images.dday.it/VhSwgnr3zGCQblEG1KAZj4kuAJZbjI7n4JBd9KxrOH8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57540/30a749_1920x1080_EONCarConnect_NOLogo.jpg",
       "excerpt": "I possessori di auto elettrica che scelgono l'offerta E.ON Luce Drive Smarty, ora possono sfruttare i benefici della flessibilità energetica in modo ancora più fluido e integrato…",
@@ -237,15 +246,6 @@
       "publishedAt": "2026-06-19T13:42:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Estate senza sorprese in bolletta: arriva la nuova offerta Energia PuntoFisso di ENGIE",
-      "link": "https://www.tomshw.it/altro/estate-senza-sorprese-in-bolletta-arriva-la-nuova-offerta-energia-puntofisso-di-engie",
-      "excerpt": "Con l'arrivo dell'estate e le tipiche incertezze che caratterizzano il mercato energetico, ENGIE ha lanciato la sua nuova promozione Energia PuntoFisso 12 Mesi in occasione degli…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97520/Estate-senza-sorprese-in-bolletta-arriva-la-nuova-offerta-Energia-PuntoFisso-di-ENGIE.png",
-      "publishedAt": "2026-06-19T13:36:22+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Google e il blocco del sideloading, il 30 settembre si parte. In Italia nel 2027",
