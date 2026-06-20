@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-06-20T02:40:47.911758+00:00",
+  "generatedAt": "2026-06-20T07:44:15.326576+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "L'ultima release del kernel Linux gira sul processore dei primi Macintosh",
+      "link": "https://www.hdblog.it/apple/articoli/n661999/linux-kernel-7-1-rc6-motorola-68000/",
+      "excerpt": "Il mitico Motorola 68000, per la precisione la variante economica 68008. Era anche alla base di diversi Atari, Amiga e console SEGA.",
+      "image": "https://hd2.tudocdn.net/1351264?w=660",
+      "publishedAt": "2026-06-20T07:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung ha brevettato un... mattone: è uno smartphone che diventa tablet",
+      "link": "https://www.hdblog.it/smartphone/articoli/n661996/samsung-smartphone-brevetto-mattone-tablet-fold/",
+      "excerpt": "Un design decisamente insolito.",
+      "image": "https://hd2.tudocdn.net/1351257?w=660",
+      "publishedAt": "2026-06-20T07:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il GPS ottimizza l'efficienza della batteria: il nuovo brevetto di BYD",
+      "link": "https://www.hdmotori.it/gps-efficienza-batteria-brevetto-byd/",
+      "excerpt": "La nuova tecnologia che il colosso cinese sta sviluppando utilizza la navigazione GPS per migliorare la gestione termica e aumentare l'autonomia.",
+      "image": "https://hd2.tudocdn.net/1351279?w=660",
+      "publishedAt": "2026-06-20T06:30:53+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Un'unica app per gestire l'energia di casa e dell'auto: l'ecosistema E.ON si evolve con Car Connect",
       "link": "https://images.dday.it/VhSwgnr3zGCQblEG1KAZj4kuAJZbjI7n4JBd9KxrOH8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57540/30a749_1920x1080_EONCarConnect_NOLogo.jpg",
@@ -131,15 +158,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Xiaosai, il primo umanoide di Seres per controlli e produzione",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n661918/seres-xiaosai-robot-umanoide-fabbrica/",
-      "excerpt": "Seres svela Xiaosai, il robot umanoide destinato a ispezioni e produzione.",
-      "image": "https://hd2.tudocdn.net/1351088?w=660",
-      "publishedAt": "2026-06-19T16:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Sony ULT WEAR a 99€ su Amazon: ANC e bassi con chip da top",
       "link": "https://www.tomshw.it/offerte/sony-ult-wear-a-99eur-su-amazon-anc-e-bassi-con-chip-da-top",
       "excerpt": "Sony ULT WEAR a 99€ su Amazon porta le cuffie wireless noise cancelling di Sony sotto quota 100€, con listino da 149€ e sconto del 34%. La caratteristica che pesa di più è la…",
@@ -147,24 +165,6 @@
       "publishedAt": "2026-06-19T16:32:20+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "HONOR CHOICE Projector Air Pro, il nuovo proiettore compatto per film e streaming in casa",
-      "link": "https://www.hdblog.it/home/offerte/n661934/honor-choice-projector-air-pro-il-nuovo-proiettore-compatto-per-film-e-streaming-in-casa/",
-      "excerpt": "HONOR presenta Projector Air Pro, il nuovo proiettore Full HD compatto con Netflix nativo, supporto orientabile e configurazione automatica.",
-      "image": "https://hd2.tudocdn.net/1351117?w=660",
-      "publishedAt": "2026-06-19T16:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Changan Deepal S05 Ultra Hybrid arriva in Italia: a partire da 33.900 euro",
-      "link": "https://www.hdmotori.it/changan-deepal-s05-ultra-hybrid-prezzi/",
-      "excerpt": "Changan amplia la gamma italiana con il nuovo Deepal S05 Ultra Hybrid. Fino a 100 km in elettrico, 1.060 km complessivi",
-      "image": "https://hd2.tudocdn.net/1351246?w=660",
-      "publishedAt": "2026-06-19T16:30:51+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Philips Serie 5000: il frullatore da 1200W che trasforma anche il ghiaccio in crema, scontato su Amazon",
@@ -176,15 +176,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Sotto 35€ per giocare: Razer BlackShark V2 X al -57%",
-      "link": "https://www.tomshw.it/offerte/sotto-35eur-per-giocare-razer-blackshark-v2-x-al-57",
-      "excerpt": "Razer BlackShark V2 X a 34,78€ su Amazon entra nella fascia sotto i 35€ con uno sconto del 57% rispetto ai 79,99€ di listino. L'angolo più interessante è semplice: sono cuffie…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97543/tomshw-offer-551810.png",
-      "publishedAt": "2026-06-19T14:32:31+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Dal 1° luglio arriva il dazio UE da 3 euro sui “pacchi”, ma non si calcola come molti pensano",
       "link": "https://images.dday.it/QcKFOKCC2Q44x7xMabCBG9maDglVOrxwc9FO9Oh0gBY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57806/9791a8_Depositphotos_672604040_XL.jpg",
       "excerpt": "Il nuovo dazio UE sui pacchi sotto i 150 euro può moltiplicarsi se nella spedizione ci sono beni dichiarati su righe doganali diverse. Restano aperti anche il contributo italiano…",
@@ -192,6 +183,15 @@
       "publishedAt": "2026-06-19T13:42:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
+    },
+    {
+      "title": "Estate senza sorprese in bolletta: arriva la nuova offerta Energia PuntoFisso di ENGIE",
+      "link": "https://www.tomshw.it/altro/estate-senza-sorprese-in-bolletta-arriva-la-nuova-offerta-energia-puntofisso-di-engie",
+      "excerpt": "Con l'arrivo dell'estate e le tipiche incertezze che caratterizzano il mercato energetico, ENGIE ha lanciato la sua nuova promozione Energia PuntoFisso 12 Mesi in occasione degli…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97520/Estate-senza-sorprese-in-bolletta-arriva-la-nuova-offerta-Energia-PuntoFisso-di-ENGIE.png",
+      "publishedAt": "2026-06-19T13:36:22+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Google e il blocco del sideloading, il 30 settembre si parte. In Italia nel 2027",
