@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-06-20T15:41:16.551718+00:00",
+  "generatedAt": "2026-06-20T17:18:03.142119+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Samsung Galaxy S26 FE si fa vedere su Geekbench: cosa sappiamo",
+      "link": "https://www.hdblog.it/smartphone/articoli/n662028/samsung-galaxy-s26-fe-benchmark-exynos-prezzo/",
+      "excerpt": "I rumor parlano di qualche scelta per contenere i costi.",
+      "image": "https://hd2.tudocdn.net/1351307?w=660",
+      "publishedAt": "2026-06-20T16:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "DEX da esport sotto quota 100€: Logitech G Pro X a 94,49€",
+      "link": "https://www.tomshw.it/offerte/dex-da-esport-sotto-quota-100eur-logitech-g-pro-x-a-9449eur",
+      "excerpt": "Logitech G PRO X SUPERLIGHT 2 DEX a 94,49€ su Amazon porta il mouse wireless esport da 179€ al 47% di sconto. Qui contano soprattutto i 60 grammi, il sensore HERO 2 da 44.000 DPI…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97587/tomshw-offer-551985.png",
+      "publishedAt": "2026-06-20T15:32:02+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "iPhone 17, ora a 769€ con l'offerta del weekend: è lo smartphone Apple da prendere oggi?",
       "link": "https://www.hdblog.it/smartphone/offerte/n662024/iphone-17-offerta-prezzo-769e-giugno-2026/",
@@ -59,6 +77,15 @@
       "sourceColor": "#0066CC"
     },
     {
+      "title": "Accenture perde il 20%, l'Ia mette in crisi il mondo della consulenza",
+      "link": "https://www.tomshw.it/business/accenture-crollo-borsa-ai-consulenza-it-modello-ore-2026",
+      "excerpt": "Accenture ha perso il 20% in borsa in una sola seduta, il peggior calo giornaliero della sua storia. Il motivo non è un trimestre disastroso — i ricavi del Q3 FY2026 si attestano…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97570/09-accenture-consulenza-cover.jpg",
+      "publishedAt": "2026-06-20T09:32:27+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "Un database di nuova generazione riduce le allucinazioni AI del 78%",
       "link": "https://www.tomshw.it/business/kaist-akasicdb-omni-rag-allucinazioni-ai-78-percento",
       "excerpt": "Un team di KAIST e della startup GraphAI Co., Ltd. ha sviluppato un sistema di database che riduce le allucinazioni dei modelli di linguaggio del 78% rispetto ai sistemi RAG…",
@@ -77,6 +104,15 @@
       "sourceColor": "#9B2D2D"
     },
     {
+      "title": "Le aziende sono più ricche che mai, ma con 300mila lavoratori in meno",
+      "link": "https://www.tomshw.it/business/fortune-500-record-ricavi-profitti-occupati-meno-2026",
+      "excerpt": "Le grandi aziende americane hanno chiuso il 2025 con ricavi e profitti da record, riducendo al contempo il numero di dipendenti per il secondo anno consecutivo. I dati della…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97565/04-fortune-500-cover.jpg",
+      "publishedAt": "2026-06-20T09:32:23+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "\"Automatizzare tutto non è il futuro che vogliamo\", dice il creatore di OpenAI",
       "link": "https://www.tomshw.it/business/openai-terza-fase-altman-automazione-agi-personale",
       "excerpt": "Sam Altman ha pubblicato un lungo post in cui traccia la visione di OpenAI per i prossimi anni, annunciando l'ingresso in quella che chiama \"terza fase\": un'AI abbondante,…",
@@ -91,15 +127,6 @@
       "excerpt": "Figma ha pubblicato una ricerca su 1.199 professionisti del design, dello sviluppo e del marketing, e il CEO Dylan Field ha offerto un'interpretazione tecnica dei risultati: i…",
       "image": "https://cdn.tomshw.it/storage/media/2026/06/97563/01-figma-ceo-cover.jpg",
       "publishedAt": "2026-06-20T09:32:21+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Galaxy S25 Ultra sotto 900€: su Amazon il 41%",
-      "link": "https://www.tomshw.it/offerte/galaxy-s25-ultra-sotto-900eur-su-amazon-il-41",
-      "excerpt": "Samsung Galaxy S25 Ultra 256GB è a 879,99€ su Amazon con il 41% di sconto rispetto ai 1.499€ di partenza. L’elemento che pesa davvero è la combinazione da flagship completo:…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97575/tomshw-offer-551927.png",
-      "publishedAt": "2026-06-20T09:32:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -147,24 +174,6 @@
       "publishedAt": "2026-06-20T08:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
-    },
-    {
-      "title": "L'ultima release del kernel Linux gira sul processore dei primi Macintosh",
-      "link": "https://www.hdblog.it/apple/articoli/n661999/linux-kernel-7-1-rc6-motorola-68000/",
-      "excerpt": "Il mitico Motorola 68000, per la precisione la variante economica 68008. Era anche alla base di diversi Atari, Amiga e console SEGA.",
-      "image": "https://hd2.tudocdn.net/1351264?w=660",
-      "publishedAt": "2026-06-20T07:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "60 g e 44.000 DPI: Logitech PRO X Superlight 2 a 94,49€",
-      "link": "https://www.tomshw.it/offerte/60-g-e-44000-dpi-logitech-pro-x-superlight-2-a-9449eur",
-      "excerpt": "Logitech G PRO X Superlight 2 è a 94,49€ su Amazon con uno sconto del 44% rispetto ai 169€ ufficiali. Il richiamo è tutto nella scheda tecnica da mouse competitivo: 60 g, sensore…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97559/tomshw-offer-551921.png",
-      "publishedAt": "2026-06-20T07:32:42+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Un'unica app per gestire l'energia di casa e dell'auto: l'ecosistema E.ON si evolve con Car Connect",
@@ -226,15 +235,6 @@
       "excerpt": "In un mercato dell'energia caratterizzato da continue oscillazioni, E.ON lancia una nuova e competitiva risposta per la serenità delle famiglie: l'offerta E.ON Luce e Gas Insieme.…",
       "image": "https://cdn.tomshw.it/storage/media/2026/06/97541/Bollette-più-leggere-con-E-ON-arriva-lo-sconto-del-10--per-chi-unisce-Luce-e-Gas.png",
       "publishedAt": "2026-06-19T14:16:54+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Recensione Gigabyte Z890 Aorus Elite WiFi 7 Plus, cosa offre a meno di 300 euro?",
-      "link": "https://www.tomshw.it/hardware/gigabyte-z890-aorus-elite-wifi-7-plus-la-recensione",
-      "excerpt": "La Gigabyte Z890 Aorus Elite WiFi 7 Plus si colloca nella fascia media del catalogo dedicato alla più recente piattaforma Intel, quella che ruota attorno al socket LGA1851 e ai…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97523/Gigabyte-Z890-Aorus-Elite-WiFi-7-Plus-2.jpg",
-      "publishedAt": "2026-06-19T13:42:50+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
