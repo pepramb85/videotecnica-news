@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-06-20T10:27:53.266479+00:00",
+  "generatedAt": "2026-06-20T13:44:49.141085+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "200€ sul volante Logitech G923: TRUEFORCE a 239€ su Amazon",
+      "link": "https://www.tomshw.it/offerte/200eur-sul-volante-logitech-g923-trueforce-a-239eur-su-amazon",
+      "excerpt": "Con 200€ di taglio sul listino, Logitech G923 è a 239€ su Amazon invece di 439€, con uno sconto del 46%. Per chi vuole trasformare Gran Turismo, F1 o i simulatori PC in qualcosa…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97578/tomshw-offer-551953.png",
+      "publishedAt": "2026-06-20T12:32:45+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Google Telefono e Contatti si rinnovano su Wear OS: cosa cambia",
+      "link": "https://www.hdblog.it/indossabili/articoli/n662019/google-telefono-contatti-app-redesign-wear-os/",
+      "excerpt": "Un look più moderno e funzionale.",
+      "image": "https://hd2.tudocdn.net/1294719?w=660",
+      "publishedAt": "2026-06-20T12:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "RapidStriker, il nuovo scudo anti-drone colpisce in pochi secondi",
+      "link": "https://www.hdblog.it/droni/articoli/n661919/rapidstriker-thales-sistema-anti-drone/",
+      "excerpt": "RapidStriker di Thales integra sensori e fuoco automatizzato contro i droni.",
+      "image": "https://hd2.tudocdn.net/1351089?w=660",
+      "publishedAt": "2026-06-20T11:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Addio a Bobby Prince, lo storico compositore delle musiche di Doom",
       "link": "https://www.hdblog.it/games/articoli/n662010/bobby-prince-morto-compositore-doom/",
@@ -21,6 +48,24 @@
       "publishedAt": "2026-06-20T10:00:46+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "C'è un collo di bottiglia che frena gli LLM, e forse è stato sbloccato",
+      "link": "https://www.tomshw.it/business/subquadratic-subq-sparse-attention-llm-bottleneck-2026",
+      "excerpt": "Subquadratic, una startup di Miami, afferma di aver costruito un modello linguistico che aggira uno dei limiti strutturali dei transformer moderni: la crescita quadratica del…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97566/05-llm-bottleneck-cover.jpg",
+      "publishedAt": "2026-06-20T09:32:24+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "\"Automatizzare tutto non è il futuro che vogliamo\", dice il creatore di OpenAI",
+      "link": "https://www.tomshw.it/business/openai-terza-fase-altman-automazione-agi-personale",
+      "excerpt": "Sam Altman ha pubblicato un lungo post in cui traccia la visione di OpenAI per i prossimi anni, annunciando l'ingresso in quella che chiama \"terza fase\": un'AI abbondante,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97564/02-openai-altman-cover.jpg",
+      "publishedAt": "2026-06-20T09:32:22+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "I creativi non devono temere l'IA, dice una società di IA per creativi",
@@ -48,6 +93,15 @@
       "publishedAt": "2026-06-20T09:31:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google DeepMind pubblica la roadmap contro gli agenti AI fuori controllo: sorveglianza, accessi e interruttori d'emergenza",
+      "link": "https://www.tomshw.it/business/deepmind-roadmap-agenti-ai-rogue-controllo-sicurezza-2026",
+      "excerpt": "Google DeepMind ha pubblicato una roadmap operativa per prevenire e contenere il comportamento fuori controllo dei propri agenti AI. Il documento introduce TRAIT&R, una tassonomia…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97569/08-deepmind-agenti-cover.jpg",
+      "publishedAt": "2026-06-20T09:30:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Essere condannati per spaccio di CD audio masterizzati nel 2026",
@@ -104,24 +158,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Samsung ha brevettato un... mattone: è uno smartphone che diventa tablet",
-      "link": "https://www.hdblog.it/smartphone/articoli/n661996/samsung-smartphone-brevetto-mattone-tablet-fold/",
-      "excerpt": "Un design decisamente insolito.",
-      "image": "https://hd2.tudocdn.net/1351257?w=660",
-      "publishedAt": "2026-06-20T07:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il GPS ottimizza l'efficienza della batteria: il nuovo brevetto di BYD",
-      "link": "https://www.hdmotori.it/gps-efficienza-batteria-brevetto-byd/",
-      "excerpt": "La nuova tecnologia che il colosso cinese sta sviluppando utilizza la navigazione GPS per migliorare la gestione termica e aumentare l'autonomia.",
-      "image": "https://hd2.tudocdn.net/1351279?w=660",
-      "publishedAt": "2026-06-20T06:30:53+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Un'unica app per gestire l'energia di casa e dell'auto: l'ecosistema E.ON si evolve con Car Connect",
       "link": "https://images.dday.it/VhSwgnr3zGCQblEG1KAZj4kuAJZbjI7n4JBd9KxrOH8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57540/30a749_1920x1080_EONCarConnect_NOLogo.jpg",
       "excerpt": "I possessori di auto elettrica che scelgono l'offerta E.ON Luce Drive Smarty, ora possono sfruttare i benefici della flessibilità energetica in modo ancora più fluido e integrato…",
@@ -149,24 +185,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Corsair FRAME 4500X dimezzato: case panoramico a 119,99€ su Amazon",
-      "link": "https://www.tomshw.it/offerte/corsair-frame-4500x-dimezzato-case-panoramico-a-11999eur-su-amazon",
-      "excerpt": "Corsair FRAME 4500X LX-R RGB LINK a 119,99€ su Amazon è una delle offerte hardware più interessanti per chi sta preparando una nuova build PC, con prezzo di listino di 249,90€ e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97556/tomshw-offer-551886.png",
-      "publishedAt": "2026-06-19T19:17:20+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Recensione Uwant V800: la scopa senza rullo e stazione di pulizia",
-      "link": "https://www.tomshw.it/altro/uwant-v800-la-scopa-senza-rullo-alla-prova",
-      "excerpt": "L'aspirapolvere senza fili è diventato negli ultimi anni il punto di riferimento per la pulizia domestica quotidiana, e la categoria si è arricchita di funzioni un tempo riservate…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97446/Uwant-V800-8.jpg",
-      "publishedAt": "2026-06-19T17:35:49+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "UWant sbarca in Italia: aspirapolvere e lavapavimenti originali all'attacco di un mercato affollato",
       "link": "https://images.dday.it/Swiw4iDlefsD0xywAzm1DYdBYmlA2N4BtXwXmfgghQ0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57809/597b37_UWANT_V800_15.jpg",
       "excerpt": "Il marchio cinese UWant si è presentato alla stampa italiana e inaugura la sua presenza sul nostro mercato con il lancio di V800, un aspiravolvere a batteria con alcuni elementi…",
@@ -185,15 +203,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Sony ULT WEAR a 99€ su Amazon: ANC e bassi con chip da top",
-      "link": "https://www.tomshw.it/offerte/sony-ult-wear-a-99eur-su-amazon-anc-e-bassi-con-chip-da-top",
-      "excerpt": "Sony ULT WEAR a 99€ su Amazon porta le cuffie wireless noise cancelling di Sony sotto quota 100€, con listino da 149€ e sconto del 34%. La caratteristica che pesa di più è la…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97555/tomshw-offer-551866.png",
-      "publishedAt": "2026-06-19T16:32:20+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Philips Serie 5000: il frullatore da 1200W che trasforma anche il ghiaccio in crema, scontato su Amazon",
       "link": "https://images.dday.it/AqoM_hVVRdl1K-BHdEDK5ahtRs0Sil8RuYcv0s81GX8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57807/7d82fe_cove_rf3676d46-1949-4fa7-8e2d-5b5c8570e3fc.__CR0_0_1464_600_PT0_SX1464_V1____copia.jpg",
       "excerpt": "Motore ProBlend Plus, lame estese e caraffa in vetro scanalato: il frullatore Philips pensato per chi non vuole compromessi nella consistenza... Leggi tutto",
@@ -201,6 +210,15 @@
       "publishedAt": "2026-06-19T14:33:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
+    },
+    {
+      "title": "Bollette più leggere con E.ON: arriva lo sconto del 10% per chi unisce Luce e Gas",
+      "link": "https://www.tomshw.it/altro/bollette-piu-leggere-con-eon-arriva-lo-sconto-del-10-per-chi-unisce-luce-e-gas",
+      "excerpt": "In un mercato dell'energia caratterizzato da continue oscillazioni, E.ON lancia una nuova e competitiva risposta per la serenità delle famiglie: l'offerta E.ON Luce e Gas Insieme.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97541/Bollette-più-leggere-con-E-ON-arriva-lo-sconto-del-10--per-chi-unisce-Luce-e-Gas.png",
+      "publishedAt": "2026-06-19T14:16:54+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Recensione Gigabyte Z890 Aorus Elite WiFi 7 Plus, cosa offre a meno di 300 euro?",
@@ -214,7 +232,7 @@
     {
       "title": "Dal 1° luglio arriva il dazio UE da 3 euro sui “pacchi”, ma non si calcola come molti pensano",
       "link": "https://images.dday.it/QcKFOKCC2Q44x7xMabCBG9maDglVOrxwc9FO9Oh0gBY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57806/9791a8_Depositphotos_672604040_XL.jpg",
-      "excerpt": "Il nuovo dazio UE sui pacchi sotto i 150 euro può moltiplicarsi se nella spedizione ci sono beni dichiarati su righe doganali diverse. Restano aperti anche il contributo italiano…",
+      "excerpt": "Il nuovo dazio UE sui pacchi sotto i 150 euro può moltiplicarsi se nella spedizione ci sono beni dichiarati su categorie doganali diverse. Restano aperti anche il contributo…",
       "image": "https://images.dday.it/QcKFOKCC2Q44x7xMabCBG9maDglVOrxwc9FO9Oh0gBY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57806/9791a8_Depositphotos_672604040_XL.jpg",
       "publishedAt": "2026-06-19T13:42:00+00:00",
       "source": "DDay.it",
@@ -237,24 +255,6 @@
       "publishedAt": "2026-06-19T13:24:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migliori mouse wireless (giugno 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-mouse-wireless",
-      "excerpt": "Oggi scegliere il mouse wireless ideale non significa soltanto liberare la scrivania da un cavo. La differenza vera si vede quando il puntatore resta stabile durante una giornata…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/87012/migliori-mouse-wireless-copertina.jpg",
-      "publishedAt": "2026-06-19T12:07:19+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori VPN per giocare (giugno 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-vpn-per-giocare-gaming",
-      "excerpt": "Usare una VPN per il gaming non è una scorciatoia magica per abbassare il ping: nella maggior parte dei casi aggiunge un passaggio extra alla connessione e va quindi valutata con…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/87010/migliori-vpn-per-giocare-copertina.jpg",
-      "publishedAt": "2026-06-19T12:05:10+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Due Echo Show 5 a soli 108 euro. La grande offerta per ampliare la smart home",
