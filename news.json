@@ -1,114 +1,168 @@
 {
-  "generatedAt": "2026-06-22T15:14:59.690575+00:00",
+  "generatedAt": "2026-06-22T19:19:11.195959+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "WhatsApp, cambio al vertice: il numero uno Will Cathcart lascia il posto a Kunal Shah",
-      "link": "https://www.hdblog.it/business/articoli/n662144/whatsapp-cambio-vertice-will-cathcart-kunal-shah/",
-      "excerpt": "Will Cathcart lascia WhatsApp, ma resta in Meta; la nomina di Kunal Shah potrebbe rafforzare l'attenzione verso i pagamenti digitali.",
-      "image": "https://hd2.tudocdn.net/1351534?w=660",
-      "publishedAt": "2026-06-22T15:06:00+00:00",
+      "title": "Steam Machine, ci siamo! Prezzi Europa, quando esce e tutti gli altri dettagli",
+      "link": "https://www.hdblog.it/games/articoli/n662179/valve-steam-machine-prezzi-quando-come-comprare/",
+      "excerpt": "La crisi delle memorie ha avuto un impatto deciso sul prezzo finale.",
+      "image": "https://hd2.tudocdn.net/1351608?w=660",
+      "publishedAt": "2026-06-22T18:34:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Nichols N1A: zero elettronica, cambio manuale e 700 CV di puro godimento",
-      "link": "https://www.hdmotori.it/nichols-n1a-700-cv/",
-      "excerpt": "La nuova supercar per puristi si chiama Nichols N1A ed è strettamente connessa al mondo McLaren e al concetto di “less is more”",
-      "image": "https://hd2.tudocdn.net/1351536?w=660",
-      "publishedAt": "2026-06-22T15:00:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "OnePlus 16T nei primi rumor: potenza e dimensioni compatte",
-      "link": "https://www.hdblog.it/smartphone/articoli/n662149/oneplus-16t-rumor-specifiche-display-soc/",
-      "excerpt": "Sembra trattarsi di un compatto estremamente potente",
-      "image": "https://hd2.tudocdn.net/1329345?w=660",
-      "publishedAt": "2026-06-22T14:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Risparmiare in bolletta con le nuove batterie di Octopus Energy: tutti i dettagli",
-      "link": "https://www.hdblog.it/home/articoli/n662139/octopus-nook-cube-colossus-batterie-bolletta/",
-      "excerpt": "Due soluzioni, anche per chi vive in affitto.",
-      "image": "https://hd2.tudocdn.net/1351527?w=660",
-      "publishedAt": "2026-06-22T14:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone Ultra: nessun ritardo per il pieghevole, verrà presentato a settembre",
-      "link": "https://www.hdblog.it/smartphone/articoli/n662138/iphone-ultra-no-ritardo-presentazione-settembre/",
-      "excerpt": "Sembra che i rumor sui ritardi siano stati smentiti",
-      "image": "https://hd2.tudocdn.net/1351067?w=660",
-      "publishedAt": "2026-06-22T14:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Data center galleggianti: l'AI alimentata dalle onde dell'oceano",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n662100/data-center-galleggianti-onde-oceano/",
-      "excerpt": "Una soluzione efficace",
-      "image": "https://hd2.tudocdn.net/1351478?w=660",
-      "publishedAt": "2026-06-22T14:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Tablet 2.5K a 120Hz sotto 270€: HONOR Pad 10 su Amazon",
-      "link": "https://www.tomshw.it/offerte/tablet-25k-a-120hz-sotto-270eur-honor-pad-10-su-amazon",
-      "excerpt": "HONOR Pad 10 è a 269,90€ su Amazon, invece dei 399€ di listino, con uno sconto del 32%. La carta più interessante è il formato: display da 12,1 pollici 2.5K a 120Hz, piattaforma…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97755/tomshw-offer-552414.png",
-      "publishedAt": "2026-06-22T14:33:19+00:00",
+      "title": "NVIDIA rafforza l'AI europea con 35 nuovi supercomputer",
+      "link": "https://www.tomshw.it/hardware/nvidia-rafforza-lai-europea-con-35-nuovi-supercomputer",
+      "excerpt": "NVIDIA ha annunciato una nuova ondata di 35 supercomputer AI HPC in sviluppo in Europa, un passaggio rilevante perché amplia l’accesso a infrastrutture di calcolo avanzato per…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97787/nvidia-rafforza-l-ai-europea-con-35-nuovi-supercomputer.png",
+      "publishedAt": "2026-06-22T18:26:46+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Un nanorobot si monta da solo e apre una pista contro il cancro",
-      "link": "https://www.tomshw.it/scienze/un-nanorobot-si-monta-da-solo-e-apre-una-pista-contro-il-cancro",
-      "excerpt": "Un gruppo dell'Università di Basilea ha descritto un nanorobot modulare capace di assemblarsi da solo, muoversi grazie a una componente magnetica e trasportare un carico…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97754/un-nanorobot-si-monta-da-solo-e-apre-una-pista-contro-il-cancro.png",
-      "publishedAt": "2026-06-22T14:27:00+00:00",
+      "title": "VIDIA investe nella startup che vuole cambiare i data center AI",
+      "link": "https://www.tomshw.it/business/upscale-ai-raccoglie-190-milioni-per-linfrastruttura-ai",
+      "excerpt": "Upscale AI ha raccolto 190 milioni di dollari in un round Series A-1 per accelerare lo sviluppo della propria infrastruttura di rete dedicata all'intelligenza artificiale. La…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97788/Upscale-AI-raccoglie-190-milioni-per-l'infrastruttura-AI.jpg",
+      "publishedAt": "2026-06-22T18:02:52+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "X down in Italia, negli USA va peggio con problemi anche per Cloudflare e AWS",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n662142/x-twitter-down-problemi-cosa-succede-aws/",
-      "excerpt": "Twitter - ora X - non funziona. Il problema ancora una volta non è limitato all'Italia, estendendosi infatti ad altre aree d'Europa fino agli Stati Uniti, dove il down sta…",
-      "image": "https://hd2.tudocdn.net/1351499?w=660",
-      "publishedAt": "2026-06-22T14:25:00+00:00",
+      "title": "BYD: ben 8 anteprime al Goodwood Festival of Speed 2026",
+      "link": "https://www.hdmotori.it/byd-8-anteprime-goodwood/",
+      "excerpt": "",
+      "image": "https://hd2.tudocdn.net/1351578?w=660",
+      "publishedAt": "2026-06-22T18:00:24+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Come il videogioco ha smesso di essere un passatempo per pochi",
-      "link": "https://www.tomshw.it/videogioco/come-il-videogioco-ha-smesso-di-essere-un-passatempo-per-pochi",
-      "excerpt": "Ogni tanto ricordo ancora, con una fitta di nostalgia e un fantasma di dolore lombare (ed ero solo un ragazzino), il peso spaccaschiena del monitor a tubo catodico da 17 pollici…",
-      "image": "https://cdn.tomshw.it/storage/media/2025/09/70281/UNREAL-TOURNAMENT.png",
-      "publishedAt": "2026-06-22T14:23:08+00:00",
+      "title": "Le memorie costeranno di più, l'AI spinge fino al 2028",
+      "link": "https://www.tomshw.it/hardware/le-memorie-costeranno-di-piu-lai-spinge-fino-al-2028",
+      "excerpt": "Il mercato delle memorie entra in una fase sempre più tesa: una nuova analisi di Jefferies indica che i prezzi della memoria potrebbero continuare a salire con forza nella seconda…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97786/Le-memorie-costeranno-di-più,-l'AI-spinge-fino-al-2028.jpg",
+      "publishedAt": "2026-06-22T17:58:31+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Honor X80 Pro Max ufficiale: un medio di gamma con batteria da 11.000 mAh",
-      "link": "https://www.hdblog.it/smartphone/articoli/n662141/honor-x80-pro-max-ufficiale-11000mah/",
-      "excerpt": "Ha ottenuto un Guinness World Record per la diretta streaming continua più lunga mai realizzata da uno smartphone",
-      "image": "https://hd2.tudocdn.net/1351497?w=660",
-      "publishedAt": "2026-06-22T14:20:00+00:00",
+      "title": "HBM4 più economica per l'AI, JEDEC approva SPHBM4",
+      "link": "https://www.tomshw.it/hardware/hbm4-piu-economica-per-lai-jedec-approva-sphbm4",
+      "excerpt": "JEDEC ha approvato SPHBM4, un nuovo standard pensato per rendere più accessibile la memoria ad alta banda usata negli acceleratori per intelligenza artificiale e calcolo HPC. La…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97782/hbm4-piu-economica-per-l-ai-jedec-approva-sphbm4.png",
+      "publishedAt": "2026-06-22T17:52:46+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Steam Machine ha finalmente un prezzo ed è salato",
+      "link": "https://www.tomshw.it/videogioco/steam-machine-arriva-prezzi-da-1049-dollari-2026-06-22",
+      "excerpt": "Il mercato dei PC da gioco si trova di fronte a una nuova proposta da parte di Valve, che ha finalmente svelato i prezzi ufficiali della Steam Machine, il personal computer da…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97783/steam-machine-arrivasr9cs1qd0pscexSaZeQ.webp",
+      "publishedAt": "2026-06-22T17:39:51+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Un timer fai-da-te super versatile ed economico? Ecco il progetto Tomato32",
+      "link": "https://www.hdblog.it/domotica/articoli/n662174/tomato32-esp32-timer-scrivania-touch-fai-da-te/",
+      "excerpt": "Per chi cerca uno strumento semplice ma versatile per gestire meglio il proprio tempo.",
+      "image": "https://hd2.tudocdn.net/1351577?w=660",
+      "publishedAt": "2026-06-22T17:35:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Smart #2, svelati gli interni: addio ai sedili come li conosciamo",
-      "link": "https://www.hdmotori.it/smart-2-interni-addio-sedili/",
-      "excerpt": "La nuova citycar dice addio ai sedili separati: al loro posto una panca che consente di massimizzare lo spazio in abitacolo, il tutto senza rinunciare alla tecnologia e alle…",
-      "image": "https://hd2.tudocdn.net/1351498?w=660",
-      "publishedAt": "2026-06-22T14:00:20+00:00",
+      "title": "Texas A&M ospiterà i test del reattore IMSR di Terrestrial Energy",
+      "link": "https://www.hdblog.it/green/articoli/n662162/reattore-nucleare-imsr-terrestrial-energy-rellis/",
+      "excerpt": "Terrestrial Energy avvia i test in Texas per il reattore nucleare IMSR a sali fusi.",
+      "image": "https://hd2.tudocdn.net/1351550?w=660",
+      "publishedAt": "2026-06-22T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "AMD e Intel lavorano per migliorare le capacità AI delle CPU x86",
+      "link": "https://www.hdblog.it/hardware/articoli/n662173/intel-amd-ace-cpu-ai-estensioni/",
+      "excerpt": "Sostanzialmente si tratta di estensioni che migliorano le capacità delle CPU di fare le moltiplicazioni di matrici, l'operazione matematica su cui si basa la maggior parte degli…",
+      "image": "https://hd2.tudocdn.net/1351573?w=660",
+      "publishedAt": "2026-06-22T17:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Trump valuta quote statali nei colossi dell'AI per gli americani",
+      "link": "https://www.tomshw.it/hardware/trump-valuta-quote-statali-nei-colossi-dellai-per-gli-americani",
+      "excerpt": "L’amministrazione Trump sta valutando una formula per far entrare il governo statunitense nel capitale dei grandi operatori dell’intelligenza artificiale, con l’obiettivo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97781/trump-valuta-quote-statali-nei-colossi-dell-ai-per-gli-americani.png",
+      "publishedAt": "2026-06-22T17:07:29+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Wyze Scale BodyScan: la nuova versione della bilancia smart con prezzo ridotto",
+      "link": "https://www.hdblog.it/home/articoli/n662164/wyze-scale-bodyscan-bilancia-smart-prezzo-ridotto/",
+      "excerpt": "Disponibile per ora per il solo mercato statunitense.",
+      "image": "https://hd2.tudocdn.net/1351560?w=660",
+      "publishedAt": "2026-06-22T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Microsoft, il Game Pass dovrebbe puntare più sulla qualità che sulla quantità?",
+      "link": "https://www.hdblog.it/microsoft/articoli/n662169/microsoft-game-pass-qualita-quantita/",
+      "excerpt": "Secondo il CEO di Moon Studios (Ori) sì, e cita l'esempio di Netflix. Forse non esattamente il più azzeccato di sempre?",
+      "image": "https://hd2.tudocdn.net/1245320?w=660",
+      "publishedAt": "2026-06-22T16:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Epic rifà da zero il launcher, sarà cinque volte più veloce",
+      "link": "https://www.tomshw.it/videogioco/epic-rifa-da-zero-il-launcher-sara-cinque-volte-piu-veloce",
+      "excerpt": "Epic Games sta ricostruendo da zero il launcher dell'Epic Games Store, con l'obiettivo dichiarato di risolvere uno dei problemi più criticati dagli utenti PC: lentezza, pesantezza…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97777/Epic-Games.webp",
+      "publishedAt": "2026-06-22T16:37:30+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La guerra dei droni ora si combatte coi dataset",
+      "link": "https://www.tomshw.it/hardware/lai-militare-si-addestra-con-500mila-ore-di-video-ucraini",
+      "excerpt": "Un archivio di circa 500mila ore di video raccolti nel conflitto ucraino sarà usato per addestrare nuovi modelli di AI militare destinati ai droni. Il punto non è soltanto la…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97776/L'AI-militare-si-addestra-con-500mila-ore-di-video-ucraini.jpg",
+      "publishedAt": "2026-06-22T16:35:57+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Nuovo impianto cerebrale cinese, segnali stabili per 18 mesi",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n662166/chip-cerebrale-flessibile-94-efficienza-18-mesi/",
+      "excerpt": "Impianto cerebrale flessibile con segnali stabili e alta efficienza per 18 mesi.",
+      "image": "https://hd2.tudocdn.net/1351565?w=660",
+      "publishedAt": "2026-06-22T16:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Maserati, in gamma tornerà presto anche una berlina: l'erede della Quattroporte",
+      "link": "https://www.hdmotori.it/maserati-quattroporte-ritorno/",
+      "excerpt": "Maserati è pronta a rimettere in gamma una grande ammiraglia, erede spirituale delle recenti Quattroporte e Ghibli",
+      "image": "https://hd2.tudocdn.net/1351567?w=660",
+      "publishedAt": "2026-06-22T16:30:47+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "L'elevato calore della GeForce RTX 5090 scolorisce le schede madri in pochi mesi",
+      "link": "https://www.hdblog.it/hardware/articoli/n662115/asus-geforce-rtx-5090-scolorisce/",
+      "excerpt": "Il calore della scheda video ASUS ROG Astral GeForce RTX 5090 ha scolorito il dissipatore della scheda madre dopo sei mesi.",
+      "image": "https://hd2.tudocdn.net/1351477?w=660",
+      "publishedAt": "2026-06-22T16:25:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -122,15 +176,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Galaxy S27 Pro avrà un display da Ultra, anche sul fronte della privacy",
-      "link": "https://www.hdblog.it/smartphone/articoli/n662135/galaxy-s27-pro-conferme-privacy-display/",
-      "excerpt": "Poco meno di 6,52 e Privacy Display: non sembra mancare nulla",
-      "image": "https://hd2.tudocdn.net/1351495?w=660",
-      "publishedAt": "2026-06-22T13:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Il consorzio EUROPA guidato dall’italiana Domyn realizzerà un modello IA dell’Unione Europea con almeno 400 miliardi di parametri",
       "link": "https://images.dday.it/6eaI4-p1HKDTMIqqtliDL_lCli44-zoamDoIg0dnVgQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57822/51fa8b_ChatGPT_Image_22_giu_2026__15_36_01.png",
       "excerpt": "Il consorzio avrà accesso per un anno a una quota della capacità EuroHPC per addestrare un modello IA europeo general purpose, open source e multilingue... Leggi tutto",
@@ -138,15 +183,6 @@
       "publishedAt": "2026-06-22T13:36:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "È il momento di risparmiare: arrivano gli HP Store Days con il 15% di sconto",
-      "link": "https://www.tomshw.it/hardware/e-il-momento-di-risparmiare-arrivano-gli-hp-store-days-con-il-15-di-sconto",
-      "excerpt": "Gli HP Store Days tornano con un’imperdibile iniziativa dedicata a chi desidera rinnovare la propria dotazione tecnologica approfittando di vantaggi esclusivi. Dal 22 giugno al 5…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97741/È-il-momento-di-risparmiare-arrivano-gli-HP-Store-Days-con-il-15--di-sconto.png",
-      "publishedAt": "2026-06-22T13:18:28+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Fotovoltaico, servono sempre più anni per ripagarsi l'impianto domestico. Analisi di un caso reale",
@@ -158,29 +194,20 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Migliori monitor gaming (giugno 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-monitor-gaming",
-      "excerpt": "Scegliere il miglior monitor gaming non significa inseguire il dato più alto in scheda tecnica, ma capire quale combinazione di risoluzione, refresh rate, pannello e connessioni…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/87508/migliori-monitor-gaming-copertina.jpg",
-      "publishedAt": "2026-06-22T11:26:58+00:00",
+      "title": "Migliori Chromebook (giugno 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-chromebook",
+      "excerpt": "Scegliere uno dei migliori Chromebook significa puntare su un portatile veloce nell'avvio, semplice da gestire e pensato per chi lavora molto tra browser, documenti condivisi,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/87517/migliori-chromebook-copertina.jpg",
+      "publishedAt": "2026-06-22T11:47:23+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Migliori SSD esterni (giugno 2026)",
-      "link": "https://www.tomshw.it/guide/migliori-ssd-esterni",
-      "excerpt": "Al giorno d'oggi, i migliori SSD esterni sono una delle soluzioni più pratiche per chi deve spostare file pesanti, liberare spazio dal notebook o mantenere una copia locale dei…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/87505/migliori-ssd-esterni-copertina.jpg",
-      "publishedAt": "2026-06-22T11:16:35+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori sedie gaming (giugno 2026)",
-      "link": "https://www.tomshw.it/videogioco/migliori-sedie-gaming",
-      "excerpt": "Una buona sedia da gaming non serve soltanto a completare il setup: deve sostenere schiena, braccia e gambe mentre giocate, lavorate o seguite una live per molte ore. La…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/87503/migliori-sedie-gaming-copertina.jpg",
-      "publishedAt": "2026-06-22T11:11:01+00:00",
+      "title": "Migliori stampanti economiche a getto d'inchiostro (giugno 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-stampanti-economiche-getto-inchiostro",
+      "excerpt": "Scegliere una delle migliori stampanti a getto d’inchiostro economiche resta una soluzione sensata per casa, studio, università e piccoli uffici quando si vuole stampare a colori…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/87511/migliori-stampanti-economiche-getto-copertina.jpg",
+      "publishedAt": "2026-06-22T11:37:52+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -246,33 +273,6 @@
       "publishedAt": "2026-06-22T07:39:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migliori deumidificatori per ogni ambiente (giugno 2026)",
-      "link": "https://www.tomshw.it/offerte/migliori-deumidificatori",
-      "excerpt": "Umidità alta, condensa sui vetri, odore di chiuso e piccoli aloni vicino agli angoli sono segnali da non ignorare: spesso indicano che l'ambiente trattiene più vapore acqueo di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/87500/migliori-deumidificatori-copertina.jpg",
-      "publishedAt": "2026-06-22T07:06:31+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Gli agenti AI non falliscono per mancanza di budget: falliscono per dati sbagliati",
-      "link": "https://www.tomshw.it/business/agenti-ai-dati-infrastruttura-confluent-2026",
-      "excerpt": "Il 72% degli IT leader mondiali dichiara che la mancanza di infrastruttura dati in tempo reale blocca la scalabilità dell'AI nelle proprie organizzazioni. È il dato principale del…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97652/08-problema-dati-ai-cover.jpg",
-      "publishedAt": "2026-06-22T06:52:16+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Troppi strumenti AI in azienda e poca organizzazione, le aziende sono nel caos",
-      "link": "https://www.tomshw.it/business/ai-sprawl-tool-proliferazione-aziende-glean-2026",
-      "excerpt": "Un dipendente di Travelport ha bruciato 160 volte i token del secondo utente più attivo dell'azienda in appena quattro giorni. Non era un esperimento, non era un progetto…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97655/04-ai-sprawl-cover.jpg",
-      "publishedAt": "2026-06-22T06:48:52+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     }
   ]
 }
