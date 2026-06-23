@@ -1,9 +1,189 @@
 {
-  "generatedAt": "2026-06-23T02:34:35.542281+00:00",
+  "generatedAt": "2026-06-23T07:41:37.880937+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Valve apre SteamOS alle schede NVIDIA e sfida Windows",
+      "link": "https://www.tomshw.it/hardware/valve-apre-steamos-alle-schede-nvidia-e-sfida-windows",
+      "excerpt": "Valve sta preparando SteamOS a uscire dal perimetro dello Steam Deck e delle future macchine preassemblate: con la versione SteamOS 3.8, l'obiettivo dichiarato è permettere agli…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97838/valve-apre-steamos-alle-schede-nvidia-e-sfida-windows.png",
+      "publishedAt": "2026-06-23T07:40:17+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Google entra ad A24 con 75 milioni: nasce l’AI per il cinema del futuro",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n662202/google-a24-investimento-ai-cinema/",
+      "excerpt": "Google investe in A24 e sviluppa strumenti AI per registi e produzioni.",
+      "image": "https://hd2.tudocdn.net/1351685?w=660",
+      "publishedAt": "2026-06-23T07:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "L’app di Instagram colonizza anche i televisori Samsung",
+      "link": "https://images.dday.it/MRqWUSkFCZSZf36pEJxEp_X2x6BaeRgzcdg_846FbxQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57826/e39fb2_01_WIDESCREEN.jpg",
+      "excerpt": "Si parte come al solito dagli Stati Uniti, ma il TV, elettrodomestico centenario, sta diventando sempre più terreno di conquista per applicazioni e usi diversi dalla televisione…",
+      "image": "https://images.dday.it/MRqWUSkFCZSZf36pEJxEp_X2x6BaeRgzcdg_846FbxQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57826/e39fb2_01_WIDESCREEN.jpg",
+      "publishedAt": "2026-06-23T07:35:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Very Mobile, 300 GIGA a 5,99 euro: tutto sulle nuove Promo Meta",
+      "link": "https://www.hdblog.it/virtuali/articoli/n662205/very-mobile-promo-meta-300-giga-quanto-costa/",
+      "excerpt": "C'è anche un'alternativa per chi vuole spendere ancora meno.",
+      "image": "https://hd2.tudocdn.net/1351683?w=660",
+      "publishedAt": "2026-06-23T07:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "BLUETTI Summer Power Sale: fino al 45% di sconto sulle power station Elite e coupon extra",
+      "link": "https://www.hdblog.it/tecnologia/offerte/n660827/bluetti-prime-day-2026-nuovi-sconti-estivi-su-power-station-e-kit-solari/",
+      "excerpt": "Offerte BLUETTI per il Prime Day 2026: power station portatili, bundle con pannelli solari e coupon extra HDBLOG5.",
+      "image": "https://hd2.tudocdn.net/1348532?w=660",
+      "publishedAt": "2026-06-23T07:31:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "L'AI spinge i server Arm, i chip x86 perdono terreno",
+      "link": "https://www.tomshw.it/hardware/lai-spinge-i-server-arm-i-chip-x86-perdono-terreno",
+      "excerpt": "La crescita dei server Arm nei data center accelera con la spinta dell'intelligenza artificiale: nel primo trimestre 2026 le piattaforme non-x86 hanno generato 58,7 miliardi di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97825/l-ai-spinge-i-server-arm-i-chip-x86-perdono-terreno.png",
+      "publishedAt": "2026-06-23T07:20:58+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "TheFork arriva su Alexa+: ora si può prenotare il ristorante con la voce",
+      "link": "https://www.tomshw.it/hardware/thefork-alexa-plus-italia",
+      "excerpt": "TheFork è ora disponibile su Alexa+ in Italia, portando la ricerca e la prenotazione dei ristoranti dentro l’assistente personale di Amazon basato su intelligenza artificiale…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/89896/Alexa+.jpg",
+      "publishedAt": "2026-06-23T07:18:10+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Prime Day 2026: tutte le offerte top per categoria, sempre aggiornate",
+      "link": "https://www.tomshw.it/altro/prime-day-2026-tutte-le-offerte-top-per-categoria-sempre-aggiornate",
+      "excerpt": "Il Prime Day 2026 di Amazon si conferma anche quest’anno come uno degli appuntamenti più attesi per chi vuole approfittare di sconti importanti su una vasta gamma di prodotti.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97743/Prime-Day-2026-tutte-le-offerte-top-per-categoria,-sempre-aggiornate.jpg",
+      "publishedAt": "2026-06-23T07:17:57+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "WhatsApp beta per iPhone completa il passaggio al Liquid Glass",
+      "link": "https://www.hdblog.it/apple/articoli/n662209/whatsapp-liquid-glass-chat-design/",
+      "excerpt": "Il cambiamento è attualmente disponibile nella versione beta per iPhone e dovrebbe arrivare presto anche nella release stabile",
+      "image": "https://hd2.tudocdn.net/1351680?w=660",
+      "publishedAt": "2026-06-23T07:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google finanzia l'IA per la produzione di film e serie TV",
+      "link": "https://www.tomshw.it/hardware/a24-accetta-i-fondi-di-google-e-lai-entra-nel-cinema-indie",
+      "excerpt": "Google investirà 75 milioni di dollari in A24 con un accordo pluriennale pensato per sviluppare strumenti di intelligenza artificiale destinati alla produzione cinematografica. Il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97822/a24-accetta-i-fondi-di-google-e-l-ai-entra-nel-cinema-indie.png",
+      "publishedAt": "2026-06-23T07:11:59+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Upscale AI incassa nuovi fondi e punta a diventare la nuova Cisco",
+      "link": "https://www.tomshw.it/business/upscale-ai-incassa-nuovi-fondi-e-punta-a-diventare-la-nuova-cisco",
+      "excerpt": "Upscale AI ha raccolto altri 190 milioni di dollari in un round Series A-1, portando il finanziamento complessivo a 500 milioni e la valutazione a 2 miliardi di dollari in meno di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97824/Upscale-AI-incassa-nuovi-fondi-e-punta-a-diventare-la-nuova-Cisco.jpg",
+      "publishedAt": "2026-06-23T07:09:52+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La Lego PlayStation 1 potrebbe essere presto realtà: prezzi e data di uscita",
+      "link": "https://www.hdblog.it/games/articoli/n662207/lego-sony-ps1-set-ufficiale-quando-prezzi/",
+      "excerpt": "Potrebbe costare 160 euro, per ora le feature e il design sono sconosciuti.",
+      "image": "https://hd2.tudocdn.net/1351677?w=660",
+      "publishedAt": "2026-06-23T07:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Amazon Prime Day 2026: tutte le offerte, sconti e promo in diretta | Live",
+      "link": "https://www.hdblog.it/amazon/offerte/n661557/amazon-prime-day-2026-offerte-in-diretta--live/",
+      "excerpt": "Le migliori offerte Amazon Prime selezionate dalla redazione di HDblog: live dal 23 al 26 giugno.",
+      "image": "https://hd2.tudocdn.net/1350308?w=660",
+      "publishedAt": "2026-06-23T06:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Sconti shock Tineco su Amazon! Ecco quale modello comprare (e perché) per i Prime Day",
+      "link": "https://www.tomshw.it/altro/sconti-shock-tineco-su-amazon-ecco-quale-modello-comprare-e-perche-per-il-prime-day",
+      "excerpt": "Il momento perfetto per dare una svolta alle pulizie di casa è arrivato. Dal 23 al 26 giugno 2026, Tineco (leader mondiale nel settore degli elettrodomestici intelligenti)…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/96823/Sconti-shock-Tineco-su-Amazon!-Ecco-quale-modello-comprare-(e-perché)-per-il-Prime-Day.jpg",
+      "publishedAt": "2026-06-23T06:47:51+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Nvidia promette data center AI senza sprechi d’acqua: ecco come",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n662194/nvidia-data-center-ai-raffreddamento-liquido/",
+      "excerpt": "Nvidia presenta data center AI a liquido che possono quasi azzerare il consumo d’acqua.",
+      "image": "https://hd2.tudocdn.net/1351639?w=660",
+      "publishedAt": "2026-06-23T06:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple rilascia agli sviluppatori le beta 2 di iOS 27, iPadOS 27 e macOS 27: le novità",
+      "link": "https://www.hdblog.it/smartphone/articoli/n662197/apple-rilascia-sviluppatori-beta-2-ios-27/",
+      "excerpt": "Tutte le novità di queste beta",
+      "image": "https://hd2.tudocdn.net/1348343?w=660",
+      "publishedAt": "2026-06-23T06:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Waterdrop in offerta Prime Day: osmosi inversa per casa e cucina",
+      "link": "https://www.hdblog.it/home/offerte/n660961/waterdrop-in-offerta-prime-day-osmosi-inversa-per-casa-e-cucina/",
+      "excerpt": "Waterdrop propone su Amazon due sistemi a osmosi inversa in offerta Prime Day: X12 sottolavello e K19-HG da banco.",
+      "image": "https://hd2.tudocdn.net/1348947?w=660",
+      "publishedAt": "2026-06-23T06:31:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nuovo studio sul destino della Terra: forse non sarà inghiottita dal Sole",
+      "link": "https://www.hdblog.it/curiosita/articoli/n662183/terra-sopravvive-morte-sole-studio/",
+      "excerpt": "Nuovi modelli indicano che la Terra potrebbe evitare di essere inghiottita dal Sole.",
+      "image": "https://hd2.tudocdn.net/1351630?w=660",
+      "publishedAt": "2026-06-23T06:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Ripartono le promozioni HUAWEI. Grandi sconti e offerte lampo su smartwatch, tablet, auricolari e smartphone",
+      "link": "https://images.dday.it/Ad7sEXfFaMFRiGWgkiBqiG7owV3wNF7nBpBbwCQQxp4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57742/485471_sw_thumb.jpg",
+      "excerpt": "Per le offerte Summer Wave, grandi sconti su WATCH FIT 5, MatePad, nova 14 Pro e tanto altro... Leggi tutto",
+      "image": "https://images.dday.it/Ad7sEXfFaMFRiGWgkiBqiG7owV3wNF7nBpBbwCQQxp4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57742/485471_sw_thumb.jpg",
+      "publishedAt": "2026-06-23T06:00:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Google Pixel 10 da 256GB a 635€: il prezzo ora fa gola",
+      "link": "https://www.tomshw.it/offerte/google-pixel-10-da-256gb-gia-a-350eur-il-prezzo-ora-fa-gola",
+      "excerpt": "Se state cercando uno smartphone Android compatto ma completo, Google Pixel 10 da 256GB torna al centro della scena grazie a un taglio prezzo molto concreto: lo trovate in offerta…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97235/B0FHL23X3Z.png",
+      "publishedAt": "2026-06-23T05:27:53+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "Ecco le migliori offerte di Tineco per il Prime Day. Risparmi fino a 240 euro",
       "link": "https://images.dday.it/yTh5jmY0mK2Rc6WuHFvmOEq0zyTTfy36fSJRiwDpWzY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57761/f34e8d_Tineco_thumb.jpg",
@@ -14,51 +194,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Migliori Chromebook (giugno 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-chromebook",
-      "excerpt": "Scegliere uno dei migliori Chromebook significa puntare su un portatile veloce nell'avvio, semplice da gestire e pensato per chi lavora molto tra browser, documenti condivisi,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/87517/migliori-chromebook-copertina.jpg",
-      "publishedAt": "2026-06-23T01:00:07+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Nothing e CMF: le migliori offerte al Prime Day 2026",
-      "link": "https://www.hdblog.it/indossabili/offerte/n662129/nothing-cmf-migliori-offerte-prime-day-2026-amazon/",
-      "excerpt": "Nothing e CMF protagonisti al Prime Day 2026: Phone (3) a 551€, Phone (3a), Ear (a), Ear (3), CMF Watch 3 Pro e Buds in forte sconto su Amazon.",
-      "image": "https://hd2.tudocdn.net/1351472?w=660",
-      "publishedAt": "2026-06-22T23:00:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Cuffie: i modelli in sconto al Prime Day 2026",
-      "link": "https://www.hdblog.it/indossabili/offerte/n662125/prime-day-2026-migliori-cuffie-offerta-amazon/",
-      "excerpt": "Le migliori cuffie in offerta al Prime Day 2026: Sony WH-1000XM6, Bose QuietComfort, Sennheiser, JBL, Beats, Soundcore e modelli gaming scontati.",
-      "image": "https://hd2.tudocdn.net/1351464?w=660",
-      "publishedAt": "2026-06-22T22:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Prime Day 2026: gli auricolari in offerta",
-      "link": "https://www.hdblog.it/indossabili/offerte/n662095/prime-day-2026-gli-auricolari-offerta-amazon/",
-      "excerpt": "I migliori auricolari in offerta al Prime Day 2026: AirPods 4, Sony WF-1000XM6, Bose QuietComfort, Beats, JBL, Soundcore e tanti altri modelli scontati.",
-      "image": "https://hd2.tudocdn.net/1351440?w=660",
-      "publishedAt": "2026-06-22T22:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Prime Day 2026: le SmartTV da comprare",
-      "link": "https://www.hdblog.it/tv/offerte/n661779/migliori-smart-tv-offerta-prime-day-2026/",
-      "excerpt": "Il Prime Day 2026 porta in offerta tante Smart TV 4K, QLED, Mini LED e OLED: dai modelli economici per camera e cucina ai grandi tagli da salotto.",
-      "image": "https://hd2.tudocdn.net/1350759?w=660",
-      "publishedAt": "2026-06-22T22:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Le migliori offerte del Prime Day 2026, in aggiornamento",
       "link": "https://images.dday.it/4619sf21vHbjHWfryg4m7I0CSNtDUtSnMIKyzLOROYY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57818/0abd91_PD26_BoxProductStack_9_MAIN_jw_v2-1.jpg",
       "excerpt": "Robot lavapavimenti, TV, console da gioco, smartphone, cuffie e altro. Tutte le migliori offerte del Prime Day in un unico articolo in aggiornamento... Leggi tutto",
@@ -66,141 +201,6 @@
       "publishedAt": "2026-06-22T22:00:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Robot aspirapolvere, modelli da comprare al Prime Day 2026",
-      "link": "https://www.hdblog.it/amazon/offerte/n661753/migliori-robot-offerta-prime-day-amazon-2026/",
-      "excerpt": "Il Prime Day 2026 è partito e tra le offerte più interessanti ci sono diversi robot aspirapolvere e lavapavimenti: Roborock, Dreame, Xiaomi, iRobot, eufy, Philips, Mova e altri…",
-      "image": "https://hd2.tudocdn.net/1350718?w=660",
-      "publishedAt": "2026-06-22T22:00:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Amazon Prime Day 2026: tutte le offerte, sconti e promo in diretta | Live",
-      "link": "https://www.hdblog.it/amazon/offerte/n661557/amazon-prime-day-2026-offerte-in-diretta--live/",
-      "excerpt": "Le migliori offerte Amazon Prime selezionate dalla redazione di HDblog: live dal 23 al 26 giugno.",
-      "image": "https://hd2.tudocdn.net/1350308?w=660",
-      "publishedAt": "2026-06-22T21:30:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "NVIDIA investe nella startup che vuole cambiare i data center AI",
-      "link": "https://www.tomshw.it/business/upscale-ai-raccoglie-190-milioni-per-linfrastruttura-ai",
-      "excerpt": "Upscale AI ha raccolto 190 milioni di dollari in un round Series A-1 per accelerare lo sviluppo della propria infrastruttura di rete dedicata all'intelligenza artificiale. La…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97788/Upscale-AI-raccoglie-190-milioni-per-l'infrastruttura-AI.jpg",
-      "publishedAt": "2026-06-22T19:30:28+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Peli sul tappeto? eufy X8 Pro SES a 259€ su Amazon",
-      "link": "https://www.tomshw.it/offerte/peli-sul-tappeto-eufy-x8-pro-ses-a-259eur-su-amazon",
-      "excerpt": "eufy Clean X8 Pro SES a 259€ su Amazon mette in offerta un robot aspirapolvere con stazione di svuotamento automatico, partendo da 499,99€ e con uno sconto del 48%. La leva più…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97789/tomshw-offer-552538.png",
-      "publishedAt": "2026-06-22T19:17:07+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Steam Machine, ci siamo! Prezzi Europa, quando esce e tutti gli altri dettagli",
-      "link": "https://www.hdblog.it/games/articoli/n662179/valve-steam-machine-prezzi-quando-come-comprare/",
-      "excerpt": "La crisi delle memorie ha avuto un impatto deciso sul prezzo finale.",
-      "image": "https://hd2.tudocdn.net/1351608?w=660",
-      "publishedAt": "2026-06-22T18:34:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "NVIDIA rafforza l'AI europea con 35 nuovi supercomputer",
-      "link": "https://www.tomshw.it/hardware/nvidia-rafforza-lai-europea-con-35-nuovi-supercomputer",
-      "excerpt": "NVIDIA ha annunciato una nuova ondata di 35 supercomputer AI HPC in sviluppo in Europa, un passaggio rilevante perché amplia l’accesso a infrastrutture di calcolo avanzato per…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97787/nvidia-rafforza-l-ai-europea-con-35-nuovi-supercomputer.png",
-      "publishedAt": "2026-06-22T18:26:46+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "BYD: ben 8 anteprime al Goodwood Festival of Speed 2026",
-      "link": "https://www.hdmotori.it/byd-8-anteprime-goodwood/",
-      "excerpt": "",
-      "image": "https://hd2.tudocdn.net/1351578?w=660",
-      "publishedAt": "2026-06-22T18:00:24+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Le memorie costeranno di più, l'AI spinge fino al 2028",
-      "link": "https://www.tomshw.it/hardware/le-memorie-costeranno-di-piu-lai-spinge-fino-al-2028",
-      "excerpt": "Il mercato delle memorie entra in una fase sempre più tesa: una nuova analisi di Jefferies indica che i prezzi della memoria potrebbero continuare a salire con forza nella seconda…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97786/Le-memorie-costeranno-di-più,-l'AI-spinge-fino-al-2028.jpg",
-      "publishedAt": "2026-06-22T17:58:31+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Un timer fai-da-te super versatile ed economico? Ecco il progetto Tomato32",
-      "link": "https://www.hdblog.it/domotica/articoli/n662174/tomato32-esp32-timer-scrivania-touch-fai-da-te/",
-      "excerpt": "Per chi cerca uno strumento semplice ma versatile per gestire meglio il proprio tempo.",
-      "image": "https://hd2.tudocdn.net/1351577?w=660",
-      "publishedAt": "2026-06-22T17:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Texas A&M ospiterà i test del reattore IMSR di Terrestrial Energy",
-      "link": "https://www.hdblog.it/green/articoli/n662162/reattore-nucleare-imsr-terrestrial-energy-rellis/",
-      "excerpt": "Terrestrial Energy avvia i test in Texas per il reattore nucleare IMSR a sali fusi.",
-      "image": "https://hd2.tudocdn.net/1351550?w=660",
-      "publishedAt": "2026-06-22T17:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Prime Day 2026: la caccia agli smartphone in offerta è aperta",
-      "link": "https://www.tomshw.it/smartphone/prime-day-2026-la-caccia-agli-smartphone-in-offerta-e-aperta",
-      "excerpt": "Nel Prime Day 2026, anche gli smartphone occupano un ruolo centrale tra le offerte più seguite, con sconti che coprono una vasta gamma di dispositivi, dai modelli entry-level fino…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97768/Prime-Day-2026-la-caccia-agli-smartphone-in-offerta-è-aperta.jpg",
-      "publishedAt": "2026-06-22T16:01:53+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Prime Day 2026: i migliori TV da comprare in sconto",
-      "link": "https://www.tomshw.it/altro/prime-day-2026-i-migliori-tv-da-comprare-in-sconto",
-      "excerpt": "Nel Prime Day 2026, le smart TV rientrano tra le categorie più richieste, con offerte interessanti su modelli di tutte le fasce, dai più economici ai top di gamma. Durante…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97767/Prime-Day-2026-i-migliori-TV-da-comprare-in-sconto.jpg",
-      "publishedAt": "2026-06-22T15:53:43+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Prime Day 2026: le offerte più forti sui notebook gaming",
-      "link": "https://www.tomshw.it/hardware/prime-day-2026-le-offerte-piu-forti-sui-notebook-gaming",
-      "excerpt": "Nel Prime Day 2026, anche i notebook da gaming si confermano tra le categorie più interessanti per chi cerca potenza e portabilità a prezzi ridotti. Durante l’evento è possi...",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97766/Prime-Day-2026-le-offerte-più-forti-sui-notebook-gaming.jpg",
-      "publishedAt": "2026-06-22T15:45:33+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Prime Day 2026: guida alle migliori offerte sui componenti per PC",
-      "link": "https://www.tomshw.it/hardware/prime-day-2026-guida-alle-migliori-offerte-sui-componenti-per-pc",
-      "excerpt": "Nel contesto del Prime Day 2026, una delle categorie più interessanti per gli appassionati di informatica riguarda senza dubbio i componenti per PC, dove si concentrano alcune…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97765/Prime-Day-2026-guida-alle-migliori-offerte-sui-componenti-per-PC.jpg",
-      "publishedAt": "2026-06-22T15:36:24+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Prime Day 2026: tutte le offerte top per categoria, sempre aggiornate",
-      "link": "https://www.tomshw.it/altro/prime-day-2026-tutte-le-offerte-top-per-categoria-sempre-aggiornate",
-      "excerpt": "Il Prime Day 2026 di Amazon si conferma anche quest’anno come uno degli appuntamenti più attesi per chi vuole approfittare di sconti importanti su una vasta gamma di prodotti.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97743/Prime-Day-2026-tutte-le-offerte-top-per-categoria,-sempre-aggiornate.jpg",
-      "publishedAt": "2026-06-22T14:13:07+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Octopus e CATL insieme per creare una rete di stazioni di cambio batteria per veicoli pesanti elettrici",
@@ -257,22 +257,22 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "ST rivoluziona il LiDAR: la visione 3D ora è alla portata di tutti",
-      "link": "https://images.dday.it/3xkaGcpesuXfuaNEcE9s2qIEDmRVgwxSj8_i0gQH-48/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57817/99fa74_lidar.jpg",
-      "excerpt": "STMicroelectronics ha presentato oggi un nuovo modulo LiDAR 3D che, per dimensioni e risoluzione, potrebbe portare a una rivoluzione nel modo in cui le macchine percepiscono il…",
-      "image": "https://images.dday.it/3xkaGcpesuXfuaNEcE9s2qIEDmRVgwxSj8_i0gQH-48/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57817/99fa74_lidar.jpg",
-      "publishedAt": "2026-06-22T09:00:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
+      "title": "Apple AirPods 4 al 31% di sconto: ora costano poco più di 100€",
+      "link": "https://www.tomshw.it/offerte/apple-airpods-4-al-31-di-sconto-ora-costano-poco-piu-di-100eur",
+      "excerpt": "Apple AirPods 4 tornano al centro delle offerte per chi vuole auricolari wireless comodi, semplici da usare e ben integrati con iPhone, iPad e Mac. Il prezzo scende da 149,00 € a…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97234/B0DGHWD7CT.png",
+      "publishedAt": "2026-06-18T16:09:50+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Nuova Renault Megane E-Tech electric: batteria LFP da 67 kWh, 500 km di autonomia e ricarica più rapida",
-      "link": "https://images.dday.it/EUt0mKLgnVjIdNygWAeUHsFGMBg-OM5mAGruAZLW41k/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57814/ff9ee4_megane_thumb.jpg",
-      "excerpt": "La nuova Renault Megane E-Tech electric introduce anche la ricarica rapida a 165 kW e la videocamera integrata può riconoscere il conducente... Leggi tutto",
-      "image": "https://images.dday.it/EUt0mKLgnVjIdNygWAeUHsFGMBg-OM5mAGruAZLW41k/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57814/ff9ee4_megane_thumb.jpg",
-      "publishedAt": "2026-06-22T08:56:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
+      "title": "Corsair si scatena per il Prime Day 2026! Maxi sconti su Amazon e sullo store",
+      "link": "https://www.tomshw.it/hardware/corsair-si-scatena-per-il-prime-day-2026-maxi-sconti-su-amazon-e-sullo-store",
+      "excerpt": "Il momento tanto atteso dai videogiocatori e dagli appassionati di tecnologia è arrivato. Corsair ha annunciato la sua nuova campagna promozionale in concomitanza con il Prime Day…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/96815/Corsair-si-scatena-per-il-Prime-Day-2026!-Maxi-sconti-su-Amazon-e-sullo-store.png",
+      "publishedAt": "2026-06-17T13:29:46+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     }
   ]
 }
