@@ -1,26 +1,188 @@
 {
-  "generatedAt": "2026-06-23T10:56:29.645549+00:00",
+  "generatedAt": "2026-06-23T14:32:50.073681+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "OpenAI amplia Daybreak e potenzia GPT-5.5 per la cybersicurezza",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n662263/daybreak-espansione-openai-sicurezza-informatica/",
-      "excerpt": "OpenAI ha annunciato importanti aggiornamenti per Daybreak, il programma dedicato alla sicurezza informatica che sfrutta l’intelligenza artificiale avanzata",
-      "image": "https://hd2.tudocdn.net/1351793?w=660",
-      "publishedAt": "2026-06-23T10:55:00+00:00",
+      "title": "SwitchBot Prime Day 2026: offerte fino al 50% sulla smart home",
+      "link": "https://www.hdblog.it/domotica/offerte/n661686/switchbot-prime-day-2026-offerte-fino-al-50-sulla-smart-home/",
+      "excerpt": "Dal 23 al 26 giugno SwitchBot sconta smart lock, AI Art Frame, ventilatore smart e altri dispositivi per la casa connessa.",
+      "image": "https://hd2.tudocdn.net/1350552?w=660",
+      "publishedAt": "2026-06-23T14:31:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Oura Ring 5 rimane un dispositivo usa-e-getta: teardown senza danni impossibile",
-      "link": "https://www.hdblog.it/indossabili/articoli/n662261/oura-ring-5-teardown-riparazione-batteria/",
-      "excerpt": "Una volta che la batteria si deteriora troppo, il device diventa spazzatura.",
-      "image": "https://hd2.tudocdn.net/1351787?w=660",
-      "publishedAt": "2026-06-23T10:40:00+00:00",
+      "title": "BYD è pronta a diventare europea, la mossa per il dominio globale",
+      "link": "https://www.hdmotori.it/byd-europa-colosso-cinese/",
+      "excerpt": "La Cina si avvicina con strategie commerciali senza precedenti storici. Scopriamo gli obiettivi di BYD nel Vecchio Continente",
+      "image": "https://hd2.tudocdn.net/1351894?w=660",
+      "publishedAt": "2026-06-23T14:30:38+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Recensione Sony REON Pocket Pro Plus, il climatizzatore da collo migliora è ancora più fresco",
+      "link": "https://www.tomshw.it/hardware/reon-pocket-pro-plus-la-recensione-del-climatizzatore-da-collo",
+      "excerpt": "Sony continua a esplorare la nicchia dei dispositivi termici indossabili con il nuovo REON Pocket Pro Plus, modello di punta della gamma per il 2026. Si tratta di un…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97932/Sony-Reon-Pocket-Pro-Plus-1.jpg",
+      "publishedAt": "2026-06-23T14:28:19+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "I bestseller del Day 1 del Prime Day 2026: i prodotti più cliccati",
+      "link": "https://www.tomshw.it/altro/i-bestseller-del-day-1-del-prime-day-2026-i-prodotti-piu-cliccati",
+      "excerpt": "Il Prime Day 2026, nel suo primo giorno, si è confermato ancora una volta come un appuntamento centrale per lo shopping online, caratterizzato da un’elevata partecipazione e da un…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97953/I-bestseller-del-Day-1-del-Prime-Day-2026-i-prodotti-più-cliccati.jpg",
+      "publishedAt": "2026-06-23T14:17:24+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Gazelle porta il nuovo motore Bosch su una e-bike elegante",
+      "link": "https://www.tomshw.it/altro/gazelle-porta-il-nuovo-motore-bosch-su-una-e-bike-elegante",
+      "excerpt": "Gazelle Curb è la nuova e-bike urbana con cui il marchio olandese porta su strada il recente sistema a motore posteriore di Bosch. La notizia conta perché mostra una direzione…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97955/Gazelle-porta-il-nuovo-motore-Bosch-su-una-e-bike-elegante.jpg",
+      "publishedAt": "2026-06-23T14:15:20+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Meta sfida il mercato: arrivano i nuovi smart glass a partire da 309 euro",
+      "link": "https://www.hdblog.it/indossabili/articoli/n662283/meta-glasses-occhiali-ai-modelli-prezzo-italia/",
+      "excerpt": "Senza marchio Ray-Ban.",
+      "image": "https://hd2.tudocdn.net/1351890?w=660",
+      "publishedAt": "2026-06-23T14:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple, fuga di dati da Tata Electronics: sul dark web presunti file riservati sugli iPhone",
+      "link": "https://www.hdblog.it/smartphone/articoli/n662284/apple-fuga-dati-tata-electronics-iphone/",
+      "excerpt": "Tata Electronics ha confermato di aver rilevato un recente incidente di cybersecurity su alcuni dei propri sistemi",
+      "image": "https://hd2.tudocdn.net/1351837?w=660",
+      "publishedAt": "2026-06-23T14:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Le vincite virali di Polymarket nascondevano puntate finte",
+      "link": "https://www.tomshw.it/hardware/le-vincite-virali-di-polymarket-nascondevano-puntate-finte",
+      "excerpt": "Polymarket è finita sotto esame per una campagna social costruita attorno a vincite apparentemente reali, ma basate su scommesse simulate. Il punto non è solo promozionale: la…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97952/Le-vincite-virali-di-Polymarket-nascondevano-puntate-finte.jpg",
+      "publishedAt": "2026-06-23T14:08:06+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Benzina più cara con l'AI? In California scatta la causa",
+      "link": "https://www.tomshw.it/automotive/benzina-piu-cara-con-lai-in-california-scatta-la-causa",
+      "excerpt": "In California è stata avviata una class action contro diversi operatori delle stazioni di servizio, accusati di aver usato uno strumento di intelligenza artificiale per…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97951/Benzina-più-cara-con-l'AI-In-California-scatta-la-causa.jpg",
+      "publishedAt": "2026-06-23T14:05:18+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Meta lancia i suoi Glasses: sparisce Ray-Ban (almeno nel nome). Si parte da 309 euro",
+      "link": "https://images.dday.it/bGFj1PbzBvYeqfMDNuAFOMRHzDv3GBa1ZvRducv30s8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57836/3787dd_Meta-Glasses-by-Kylie-Jenner-Classic-Black-Black-Lenses-16x9-Case.jpg",
+      "excerpt": "La piattaforma è la stessa, il design no: Meta, sempre in collaborazione con EssilorLuxottica, ha lanciato i primi tre modelli di occhiali smart con il suo brand. In tutto ci…",
+      "image": "https://images.dday.it/bGFj1PbzBvYeqfMDNuAFOMRHzDv3GBa1ZvRducv30s8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57836/3787dd_Meta-Glasses-by-Kylie-Jenner-Classic-Black-Black-Lenses-16x9-Case.jpg",
+      "publishedAt": "2026-06-23T14:05:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "RedMagic Gaming Tablet 5 Pro svelato dentro e fuori: potenza e design",
+      "link": "https://www.hdblog.it/tablet/articoli/n662280/redmagic-gaming-tablet-5-pro-desing-specifiche/",
+      "excerpt": "Gaming di nome e di fatto.",
+      "image": "https://hd2.tudocdn.net/1351832?w=660",
+      "publishedAt": "2026-06-23T14:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "GM mette i robot in fabbrica, ma i lavoratori restano fuori",
+      "link": "https://www.tomshw.it/automotive/gm-punta-sui-robot-mentre-1300-lavoratori-restano-fuori",
+      "excerpt": "General Motors ha installato circa 50 bracci robotici nello stabilimento Factory Zero di Detroit, uno degli impianti simbolo della sua transizione elettrica. La scelta pesa perché…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97929/gm-punta-sui-robot-mentre-1-300-lavoratori-restano-fuori.png",
+      "publishedAt": "2026-06-23T14:02:59+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Nuovo brevetto Moto Guzzi: in arrivo le cruiser ibride?",
+      "link": "https://www.hdmotori.it/moto-guzzi-ibrida-nuovi-brevetti-tecnologia-ibrida/",
+      "excerpt": "I nuovi brevetti depositati a Mandello del Lario svelano un inedito schema meccanico: il futuro del marchio unisce il classico motore a V alla propulsione ibrida.",
+      "image": "https://hd2.tudocdn.net/1351851?w=660",
+      "publishedAt": "2026-06-23T14:00:11+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Lavorare da Samsung e SK hynix è il nuovo status symbol",
+      "link": "https://www.tomshw.it/business/lavorare-da-samsung-e-sk-hynix-e-il-nuovo-status-symbol",
+      "excerpt": "Samsung Electronics e SK hynix sono diventate un indicatore di status in Corea del Sud: il boom dell’AI non sta solo spingendo azioni e profitti dei chipmaker, ma sta cambiando il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97944/Lavorare-da-Samsung-e-SK-hynix-è-il-nuovo-status-symbol.png",
+      "publishedAt": "2026-06-23T13:58:19+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Roman è arrivato in Florida: il nuovo gigante NASA pronto al lancio",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n662230/nasa-roman-space-telescope-arrivo-florida-lancio/",
+      "excerpt": "Il telescopio Roman arriva in Florida e punta al lancio il 30 agosto.",
+      "image": "https://hd2.tudocdn.net/1351713?w=660",
+      "publishedAt": "2026-06-23T13:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Una comodità unica su Firefox: scuoti lo smartphone e l'AI ti riassume le pagine",
+      "link": "https://www.hdblog.it/smartphone/articoli/n662249/firefox-scuoti-telefono-riassunti-ai/",
+      "excerpt": "La nuova funzione di Firefox permette di riassumere con AI le pagine web semplicemente scuotendo lo smartphone.",
+      "image": "https://hd2.tudocdn.net/1194372?w=660",
+      "publishedAt": "2026-06-23T13:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Robot con rullo da 299 euro: Prova Lefant M210 Pro OMNI",
+      "link": "https://www.hdblog.it/home/recensioni/n661009/recensione-lefant-m210-pro-omni-rullo-economico-ma-quante-rinunce/",
+      "excerpt": "Il nuovo Lefant M210 Pro OMNI è il primo robot con rullo compatto ed economico ad arrivare sul mercato. Nella nostra recensione completa scopriamo se vale la pena di acquistarlo.",
+      "image": "https://hd2.tudocdn.net/1349971?w=660",
+      "publishedAt": "2026-06-23T13:31:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Garage Italia svela la Spiaggina Stripes, one-off griffata con Mariaflora",
+      "link": "https://www.hdmotori.it/garage-italia-spiaggina-stripes-one-off-mariaflora/",
+      "excerpt": "Realizzare prodotti unici è diventata da anni la mission degli specialisti di Garage Italia. La Spiaggina Stripes è legata all'identità visiva del Senato Hotel Milano",
+      "image": "https://hd2.tudocdn.net/1351839?w=660",
+      "publishedAt": "2026-06-23T13:30:07+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Dal quadro digitale al \"premi-pulsanti\" automatizzato. Ecco le offerte SwitchBot più ghiotte del Prime Day 2026",
+      "link": "https://images.dday.it/6kTfZd_Z7vi9mb3gR8SgEC_9wmQm_nSb97kaEs-ngsU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57829/ee55c8_EU_3840X1920_without_tagline__1_.png",
+      "excerpt": "Fino al 26 giugno tante offerte sui prodotti smart di SwitchBot: ventilatori, serrature e anche cornici digitali con l'IA. Facili da usare e ora anche più convenienti... Leggi…",
+      "image": "https://images.dday.it/6kTfZd_Z7vi9mb3gR8SgEC_9wmQm_nSb97kaEs-ngsU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57829/ee55c8_EU_3840X1920_without_tagline__1_.png",
+      "publishedAt": "2026-06-23T11:27:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Migliori mouse da gaming (giugno 2026)",
+      "link": "https://www.tomshw.it/guide/migliori-mouse-gaming",
+      "excerpt": "Scegliere un mouse da gaming non significa soltanto cercare il sensore con il numero più alto o il modello più appariscente. Il mouse è il punto in cui mano, superficie,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/89207/migliori-mouse-gaming-copertina.jpg",
+      "publishedAt": "2026-06-23T11:18:30+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Anthropic rastrella le memorie di Micron per far crescere Claude",
@@ -39,114 +201,6 @@
       "publishedAt": "2026-06-23T10:38:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "NAS e storage ad alte prestazioni: 5 offerte TerraMaster per backup, cloud privato e lavoro professionale",
-      "link": "https://www.hdblog.it/hardware/articoli/n661688/nas-e-storage-ad-alte-prestazioni-5-offerte-terramaster-per-backup-cloud-privato-e-lavoro-professionale/",
-      "excerpt": "Le offerte TerraMaster per l'Amazon Prime Day comprendono NAS ed enclosure SSD ad alte prestazioni: archiviare, proteggere e gestire i dati in modo efficiente.",
-      "image": "https://hd2.tudocdn.net/1350610?w=660",
-      "publishedAt": "2026-06-23T10:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Prime Day 2026: i 20 prodotti tech più acquistati dai lettori di HDblog",
-      "link": "https://www.hdblog.it/amazon/offerte/n662243/prime-day-2026-migliori-prodotti-acquisti-hdblog/",
-      "excerpt": "Prime Day 2026 è iniziato: ecco i 20 prodotti tech più acquistati dai lettori di HDblog, tra console, robot aspirapolvere, TV, cuffie, smart home e accessori in offerta.",
-      "image": "https://hd2.tudocdn.net/1351786?w=660",
-      "publishedAt": "2026-06-23T10:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Atlas, il nuovo velivolo USA per colpire a lunga distanza",
-      "link": "https://www.hdblog.it/droni/articoli/n662191/atlas-drone-militare-senza-piste/",
-      "excerpt": "Atlas unisce autonomia elevata, propulsione ibrida e decollo senza piste.",
-      "image": "https://hd2.tudocdn.net/1351636?w=660",
-      "publishedAt": "2026-06-23T10:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Case panoramico Corsair a 109,99€: FRAME 4500X al -56%",
-      "link": "https://www.tomshw.it/offerte/case-panoramico-corsair-a-10999eur-frame-4500x-al-56",
-      "excerpt": "Corsair FRAME 4500X LX-R RGB LINK è a 109,99€ su Amazon con uno sconto del 56% rispetto ai 249,90€ di riferimento. È una delle offerte più interessanti per chi vuole assemblare un…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97892/tomshw-offer-552861.png",
-      "publishedAt": "2026-06-23T10:18:28+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Nothing Phone (4b) ha una data di lancio e apre un nuovo capitolo",
-      "link": "https://www.hdblog.it/smartphone/articoli/n662258/nothing-phone-4b-data-di-lancio-cosa-significa/",
-      "excerpt": "Nothing ha confermato l’arrivo del Phone (4b), il primo modello della nuova serie (b) pensata per espandere ulteriormente il marchio sul mercato smartphone",
-      "image": "https://hd2.tudocdn.net/1330380?w=660",
-      "publishedAt": "2026-06-23T10:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Cuffie e auricolari in sconto: le migliori occasioni del Prime Day 2026",
-      "link": "https://www.tomshw.it/altro/cuffie-e-auricolari-in-sconto-le-migliori-occasioni-del-prime-day-2026",
-      "excerpt": "Il Prime Day 2026 di Amazon è un’occasione ideale per aggiornare la propria esperienza audio, grazie a numerose offerte dedicate a cuffie e auricolari di ultima generazione. Che…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97890/Cuffie-e-auricolari-in-sconto-le-migliori-occasioni-del-Prime-Day-2026.jpg",
-      "publishedAt": "2026-06-23T10:13:27+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Siti porno, i controlli sull'età sono ancora fermi: minori protetti solo sulla carta",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n662255/siti-porno-controlli-eta-fermi-minori/",
-      "excerpt": "L’accesso dei minori ai siti pornografici continua a dipendere da una semplice dichiarazione nella schermata iniziale",
-      "image": "https://hd2.tudocdn.net/1351777?w=660",
-      "publishedAt": "2026-06-23T10:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "FSR 4.1 finalmente sulle Radeon RX 7000 con i driver 26.6.2",
-      "link": "https://www.tomshw.it/hardware/amd-fsr-41-radeon-rx-7000-adrenalin-2662",
-      "excerpt": "AMD ha avviato la distribuzione di AMD Software: Adrenalin Edition 26.6.2, un aggiornamento importante per chi usa una scheda video Radeon RX 7000. La novità principale è il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97884/amd-fsr-41-radeon-rx-7000-adrenalin-2662.png",
-      "publishedAt": "2026-06-23T10:06:45+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Honor Earbuds 4 arrivano in Italia: super ANC a prezzi popolari",
-      "link": "https://www.hdblog.it/honor/articoli/n662256/honor-earbuds-4-specifiche-prezzi-immagini/",
-      "excerpt": "Specifiche molto allettanti considerando il prezzo di 70 euro.",
-      "image": "https://hd2.tudocdn.net/1351776?w=660",
-      "publishedAt": "2026-06-23T10:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Storage e performance: le offerte da non perdere al Prime Day 2026",
-      "link": "https://www.tomshw.it/hardware/storage-e-performance-le-offerte-da-non-perdere-al-prime-day-2026",
-      "excerpt": "Il Prime Day 2026 di Amazon è uno dei momenti più interessanti dell’anno per chi vuole migliorare le prestazioni del proprio computer o aumentare la capacità di archiviazion...",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97881/Storage-e-performance-le-offerte-da-non-perdere-al-Prime-Day-2026.jpg",
-      "publishedAt": "2026-06-23T10:04:07+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Motorola Edge 70 Max in arrivo: immagini e prime specifiche tecniche",
-      "link": "https://www.hdblog.it/smartphone/articoli/n662247/motorola-edge-70-max-render-foto-specifiche/",
-      "excerpt": "Niente da fare, la Casa Alata continua a essere una grande fan dei bordi curvi del display.",
-      "image": "https://hd2.tudocdn.net/1351745?w=660",
-      "publishedAt": "2026-06-23T09:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Dal Sole l'energia del Papa: il nuovo mega impianto agrivoltaico alle porte di Roma",
-      "link": "https://www.hdblog.it/green/articoli/n662232/vaticano-indipendenza-energia-parco-agrivoltaico/",
-      "excerpt": "Per l'indipendenza energetica del Vaticano.",
-      "image": "https://hd2.tudocdn.net/1351760?w=660",
-      "publishedAt": "2026-06-23T09:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "È il momento giusto per comprare Switch 2. In sconto per il Prime Day",
@@ -203,74 +257,20 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Migliori POS portatili (giugno 2026)",
-      "link": "https://www.tomshw.it/altro/pos-mobili-migliori",
-      "excerpt": "Se desiderate offrire ai vostri clienti la comodità di effettuare pagamenti con il POS ovunque vi troviate, in sicurezza e senza dipendere da una cassa fissa, un POS portatile è…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/87507/migliori-pos-portatili-copertina.jpg",
-      "publishedAt": "2026-06-23T06:32:27+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Chi affitta l'intelligenza e chi se la porta dentro: la divisione che ridisegnerà le aziende",
-      "link": "https://www.tomshw.it/business/enterprise-ai-on-premise-cloud-rent-own-2026",
-      "excerpt": "Il frame che organizza le decisioni infrastrutturali del 2026 è semplice: affittare intelligenza o possederla. Da un lato le aziende che dipendono dai grandi provider cloud per…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97810/04-rent-vs-own-cover.jpg",
+      "title": "La protezione del dato si trasforma: dal backup al controllo del perimetro, l'acquisizione che segna il cambio di paradigma",
+      "link": "https://www.tomshw.it/business/data-resilience-securiti-ai-veeam-backup-governance-2026",
+      "excerpt": "Un'acquisizione da 1,725 miliardi di dollari ha spostato i confini del mercato della data protection: Veeam ha comprato Securiti AI, uno dei leader nella gestione della postura di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97815/08-data-resilience-cover.jpg",
       "publishedAt": "2026-06-23T06:05:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Ripartono le promozioni HUAWEI. Grandi sconti e offerte lampo su smartwatch, tablet, auricolari e smartphone",
-      "link": "https://images.dday.it/Ad7sEXfFaMFRiGWgkiBqiG7owV3wNF7nBpBbwCQQxp4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57742/485471_sw_thumb.jpg",
-      "excerpt": "Per le offerte Summer Wave, grandi sconti su WATCH FIT 5, MatePad, nova 14 Pro e tanto altro... Leggi tutto",
-      "image": "https://images.dday.it/Ad7sEXfFaMFRiGWgkiBqiG7owV3wNF7nBpBbwCQQxp4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57742/485471_sw_thumb.jpg",
-      "publishedAt": "2026-06-23T06:00:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "GIGABYTE GeForce RTX 5060 Ti GAMING OC 8G scende sotto i 380€",
-      "link": "https://www.tomshw.it/offerte/gigabyte-geforce-rtx-5060-ti-gaming-oc-8g-scende-sotto-i-380eur",
-      "excerpt": "Se state aggiornando il vostro PC da gaming e volete restare su una GPU NVIDIA di nuova generazione senza salire verso le fasce più costose, GIGABYTE GeForce RTX 5060 Ti GAMING OC…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97243/B0F4Z127VB.png",
-      "publishedAt": "2026-06-23T05:31:02+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Ecco le migliori offerte di Tineco per il Prime Day. Risparmi fino a 240 euro",
-      "link": "https://images.dday.it/yTh5jmY0mK2Rc6WuHFvmOEq0zyTTfy36fSJRiwDpWzY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57761/f34e8d_Tineco_thumb.jpg",
-      "excerpt": "Fino a 240 euro di sconto su lavapavimenti wet & dry, aspirapolvere senza fili e dispositivi per la pulizia dei tappeti Tineco per automatizzare e semplificare la pulizia…",
-      "image": "https://images.dday.it/yTh5jmY0mK2Rc6WuHFvmOEq0zyTTfy36fSJRiwDpWzY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57761/f34e8d_Tineco_thumb.jpg",
-      "publishedAt": "2026-06-23T01:03:05+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Fiido Nomads Pro, l’e-bike per città e trekking con tripla batteria",
-      "link": "https://www.tomshw.it/automotive/fiido-nomads-pro-le-bike-per-citta-e-trekking-con-tripla-batteria",
-      "excerpt": "La Fiido Nomads Pro è una e-bike da trekking pensata per chi cerca un mezzo unico, capace di muoversi con naturalezza tra commuting quotidiano e viaggi a lungo raggio. Il suo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97729/Fiido-Nomad-Pro-1.jpg",
-      "publishedAt": "2026-06-22T12:23:31+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Galaxy Watch Ultra 2025 cala di 250€: ora è un'occasione Samsung",
-      "link": "https://www.tomshw.it/offerte/galaxy-watch-ultra-2025-cala-di-250eur-ora-e-unoccasione-samsung",
-      "excerpt": "Se state cercando uno smartwatch Android di fascia alta per sport, notifiche, salute e autonomia, Galaxy Watch Ultra 2025 merita attenzione con l'attuale taglio di prezzo. Il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97245/B0FDGS8B5D.png",
-      "publishedAt": "2026-06-18T16:44:52+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Samsung Galaxy S26 da 512GB scende di 310€: occasione concreta",
-      "link": "https://www.tomshw.it/offerte/samsung-galaxy-s26-da-512gb-scende-di-310eur-occasione-concreta",
-      "excerpt": "Samsung Galaxy S26 da 512GB torna al centro delle offerte smartphone con un taglio netto rispetto al listino: lo trovate in offerta a 919,00 € invece di 1229,00 €, con un…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97244/B0G6ZKS56C.png",
-      "publishedAt": "2026-06-18T16:41:22+00:00",
+      "title": "Samsung Galaxy S25 Ultra da 512GB crolla: 670€ di sconto",
+      "link": "https://www.tomshw.it/offerte/samsung-galaxy-s25-ultra-da-512gb-crolla-670eur-di-sconto",
+      "excerpt": "Se state pensando a un top di gamma Android senza limitarvi al taglio base di memoria, Samsung Galaxy S25 Ultra da 512GB torna molto competitivo: lo trovate in offerta a 949,00 €…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97256/B0DPL2858J.png",
+      "publishedAt": "2026-06-18T17:20:37+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
