@@ -1,17 +1,125 @@
 {
-  "generatedAt": "2026-06-24T14:11:35.184061+00:00",
+  "generatedAt": "2026-06-24T17:48:38.128032+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Batterie al sodio sui camion: la Cina fa 15.000 km e stupisce tutti",
-      "link": "https://www.hdmotori.it/camion-batterie-sodio-test-cina/",
-      "excerpt": "La Cina testa i camion con batterie al sodio per 15.000 km nel traffico reale. I risultati a -40°C e i tempi di ricarica record spiazzano l'intero settore della logistica.",
-      "image": "https://hd2.tudocdn.net/1352282?w=660",
-      "publishedAt": "2026-06-24T14:00:35+00:00",
+      "title": "FSR 4.1 su Radeon RX 7900 XTX, primi test indipendenti su Cyberpunk 2077",
+      "link": "https://www.hdblog.it/hardware/articoli/n662501/amd-radeon-rx-7000-fsr-4-1-cyberpunk-2077/",
+      "excerpt": "La Radeon RX 7900 XTX diventa una scheda più che ottima per il 4K60 con ray tracing.",
+      "image": "https://hd2.tudocdn.net/1021652?w=660",
+      "publishedAt": "2026-06-24T17:35:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Le auto con chilometraggio manipolato costano il 30% in più del loro valore",
+      "link": "https://www.hdmotori.it/auto-chilometraggio-manipolato-valore/",
+      "excerpt": "Il mercato dell'usato può celare molti problemi, a partire dal chilometraggio manipolato con conseguenti danni molteplici per l'acquirente",
+      "image": "https://hd2.tudocdn.net/1352348?w=660",
+      "publishedAt": "2026-06-24T17:30:32+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Flyer, il supercomputer dell’US Air Force accelera la ricerca ipersonica",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n662365/supercomputer-flyer-air-force-ricerca-ipersonica/",
+      "excerpt": "Flyer, il nuovo supercomputer USA, supporta AI, velivoli e ricerca ipersonica.",
+      "image": "https://hd2.tudocdn.net/1352035?w=660",
+      "publishedAt": "2026-06-24T17:30:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Philips Hue, alcuni prodotti supporteranno in contemporanea Zigbee e Thread",
+      "link": "https://www.hdblog.it/philips/articoli/n662496/philips-hue-zigbee-thread-cmp-silicon-labs/",
+      "excerpt": "La novità è in arrivo entro l'anno sui prodotti che usano i chip Silicon Labs più recenti.",
+      "image": "https://hd2.tudocdn.net/1348777?w=660",
+      "publishedAt": "2026-06-24T17:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La meccanica quantistica può fare a meno dei numeri immaginari",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n662371/meccanica-quantistica-numeri-immaginari/",
+      "excerpt": "Uno studio tedesco mette in discussione il ruolo essenziale dei numeri immaginari.",
+      "image": "https://hd2.tudocdn.net/1248986?w=660",
+      "publishedAt": "2026-06-24T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Avvocati e AI, in troppi ne abusano (con errori grossolani negli atti)",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n662453/avvocati-ai-abusi-errori-grossolani-atti/",
+      "excerpt": "Interviene la Corte di Cassazione",
+      "image": "https://hd2.tudocdn.net/1352339?w=660",
+      "publishedAt": "2026-06-24T17:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Renault \"House of Frog\", Twingo pronta a vivacizzare l’estate romana",
+      "link": "https://www.hdmotori.it/renault-house-of-frog-twingo/",
+      "excerpt": "All’Auditorium Parco della Musica debutta l’installazione firmata Marcantonio: un’esperienza immersiva che celebra il ritorno della Twingo E-Tech electric",
+      "image": "https://hd2.tudocdn.net/1352343?w=660",
+      "publishedAt": "2026-06-24T17:00:23+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Tesla prepara Megapod: il nuovo progetto AI che sfida i data center",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n662362/tesla-megapod-data-center-ai/",
+      "excerpt": "Tesla registra Megapod, una piattaforma modulare per data center dedicati all’AI.",
+      "image": "https://hd2.tudocdn.net/1352019?w=660",
+      "publishedAt": "2026-06-24T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "iPhone 18 Pro, J.P. Morgan è molto più ottimista sui rincari",
+      "link": "https://www.hdblog.it/smartphone/articoli/n662490/apple-iphone-18-pro-rincari-previsioni-jp-morgan/",
+      "excerpt": "\"Solo\" 50 dollari in più rispetto al predecessore.",
+      "image": "https://hd2.tudocdn.net/1349340?w=660",
+      "publishedAt": "2026-06-24T16:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "The Dink arriva su Apple TV: tennis, pickleball e risate nel trailer",
+      "link": "https://www.hdblog.it/apple/articoli/n662360/the-dink-apple-tv-film-pickleball/",
+      "excerpt": "The Dink arriva su Apple TV il 24 luglio con Jake Johnson tra tennis e pickleball.",
+      "image": "https://hd2.tudocdn.net/1352014?w=660",
+      "publishedAt": "2026-06-24T16:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Emma, l’IA italiana finita nei meme per le sue risposte assurde: ecco perché sbaglia così tanto",
+      "link": "https://images.dday.it/6nVjU6nJwDA_6_pakME5sqe-FlILL5Wcq_LEZdOmvGA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57849/ca99f7_Screenshot_2026-06-24_alle_18.19.32.png",
+      "excerpt": "Il modello di Egomnia è diventato virale per risposte assurde e anche pericolose. Perché dietro c’è un prototipo piccolo, con poco contesto e un allineamento ancora incompleto...…",
+      "image": "https://images.dday.it/6nVjU6nJwDA_6_pakME5sqe-FlILL5Wcq_LEZdOmvGA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57849/ca99f7_Screenshot_2026-06-24_alle_18.19.32.png",
+      "publishedAt": "2026-06-24T16:20:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Nilox X5 Pro in sconto: la bici elettrica in offerta che tutti stanno guardando",
+      "link": "https://images.dday.it/8ski19xiK5qHdOQuGzUC4ysN0IAkXOvGYLci_EMtshk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57847/c5a93d_81xKWai7ZEL._AC_SL1500_.jpg",
+      "excerpt": "Scopri la Nilox Ebike X5 Pro, ora disponibile in sconto per il Prime Day. Approfitta di questa offerta per goderti un'esperienza di guida eccezionale... Leggi tutto",
+      "image": "https://images.dday.it/8ski19xiK5qHdOQuGzUC4ysN0IAkXOvGYLci_EMtshk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57847/c5a93d_81xKWai7ZEL._AC_SL1500_.jpg",
+      "publishedAt": "2026-06-24T15:08:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Fotocamera Lumix L10 in prova: bella, divertente e un po' cara",
+      "link": "https://images.dday.it/O1_O75qbIM43YKbQC83ujNDiDKQc8gF5fhnZitr99DY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57825/b239b6_lumix-celebra-25-anni-panasonic-annuncia-la-nuova-fotocamera-a-obiettivo-fisso-lumix-l10-2000.jpg",
+      "excerpt": "Per festeggiare i 25 di storia del brand Lumix, Panasonic dà un'erede alla LX100 con la nuova Lumix L10, compatta premium con una signora ottica zoom firmata Leica, tante…",
+      "image": "https://images.dday.it/O1_O75qbIM43YKbQC83ujNDiDKQc8gF5fhnZitr99DY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57825/b239b6_lumix-celebra-25-anni-panasonic-annuncia-la-nuova-fotocamera-a-obiettivo-fisso-lumix-l10-2000.jpg",
+      "publishedAt": "2026-06-24T14:48:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Steam Machine, Valve spiega come compra la RAM: \"O accetti o non ti parlano più\"",
@@ -23,15 +131,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Apple TV avrà più contenuti: Eddy Cue rilancia il modello \"the best, not the most\"",
-      "link": "https://www.hdblog.it/apple/articoli/n662464/apple-tv-prepara-contenuti-eddy-cue/",
-      "excerpt": "\"Meglio essere i migliori, non quelli con più contenuti\"",
-      "image": "https://hd2.tudocdn.net/1352276?w=660",
-      "publishedAt": "2026-06-24T13:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Non ci sarà mai una 911 elettrica, dice Porsche",
       "link": "https://images.dday.it/UlGp8Lf7PU5lbAoZzICTOI9Qb1ojaltAJ7LG09FTGDU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57845/57f8be_911_thumb.jpg",
       "excerpt": "L'amministratore delegato, Michael Leister, è stato chiaro: rimarrà termica... Leggi tutto",
@@ -39,42 +138,6 @@
       "publishedAt": "2026-06-24T13:54:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Slate svela il Truck elettrico ed è più caro del previsto",
-      "link": "https://www.tomshw.it/automotive/slate-svela-il-truck-elettrico-ed-e-piu-caro-del-previsto",
-      "excerpt": "Slate ha diffuso nuovi dettagli sul suo Truck elettrico, e il punto più rilevante è il prezzo: il progetto non si presenta più come il pick-up elettrico davvero economico sotto i…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98083/slate-svela-il-truck-elettrico-ed-e-piu-caro-del-previsto.png",
-      "publishedAt": "2026-06-24T13:51:29+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Steam Machine ha subito lo stesso aumento di Steam Deck, lo conferma Valve",
-      "link": "https://www.hdblog.it/games/articoli/n662459/steam-machine-valve-conferma-aumento-prezzo/",
-      "excerpt": "Un aumento di circa il 45% che ha pesato anche su Steam Machine",
-      "image": "https://hd2.tudocdn.net/1351608?w=660",
-      "publishedAt": "2026-06-24T13:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Non solo lo sconto Prime: su questi prodotti trovi anche un coupon extra",
-      "link": "https://www.tomshw.it/altro/non-solo-lo-sconto-prime-su-questi-prodotti-trovi-anche-un-coupon-extra",
-      "excerpt": "Durante il Prime Day di Amazon, i prezzi di moltissimi prodotti vengono ridotti in maniera significativa, coinvolgendo praticamente tutte le principali categorie merceologiche. Si…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98082/Non-solo-lo-sconto-Prime-su-questi-prodotti-trovi-anche-un-coupon-extra.png",
-      "publishedAt": "2026-06-24T13:48:12+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Un avviso di iPhone aiuta a salvare dei ragazzi dopo l'incidente",
-      "link": "https://www.tomshw.it/smartphone/un-avviso-iphone-aiuta-a-salvare-dei-ragazzi-dopo-lincidente",
-      "excerpt": "Un avviso di emergenza generato da iPhone ha aiutato una famiglia e i soccorritori a localizzare alcuni adolescenti coinvolti in un grave incidente stradale a Ridgeland, in…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98081/un-avviso-iphone-aiuta-a-salvare-dei-ragazzi-dopo-l-incidente.png",
-      "publishedAt": "2026-06-24T13:45:46+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Prezzo mai visto per il videoproiettore compatto XGIMI MoGo 2 Pro: su Amazon è al minimo storico",
@@ -86,42 +149,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Qualcomm acquisisce Modular e punta sull'AI software",
-      "link": "https://www.tomshw.it/hardware/qualcomm-acquisisce-modular-e-punta-sullai-software",
-      "excerpt": "Qualcomm ha raggiunto un accordo per acquisire Modular, società specializzata in infrastruttura software per l'intelligenza artificiale. L'operazione conta perché sposta ancora…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98079/qualcomm-acquisisce-modular-e-punta-sull-ai-software.png",
-      "publishedAt": "2026-06-24T13:40:26+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Xiaomi entra nel mercato dei NAS con Smart Storage, passando dal crowdfunding",
-      "link": "https://www.hdblog.it/hardware/articoli/n662452/xiaomi-nas-smart-storage-crowdfunding/",
-      "excerpt": "Si chiama Xiaomi Smart Storage ed è la prima soluzione NAS del marchio, debutterà solo se la campagna di crowdfunding avrà successo.",
-      "image": "https://hd2.tudocdn.net/1352241?w=660",
-      "publishedAt": "2026-06-24T13:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Tesla e Sunrun trasformano le case in centrali per l'AI",
-      "link": "https://www.tomshw.it/business/tesla-e-sunrun-trasformano-le-case-in-centrali-per-lai",
-      "excerpt": "Tesla, Sunrun e Renew Home hanno annunciato un accordo per mettere insieme batterie domestiche, impianti solari residenziali e termostati intelligenti in una rete energetica…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98078/tesla-e-sunrun-trasformano-le-case-in-centrali-per-l-ai.png",
-      "publishedAt": "2026-06-24T13:39:31+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "PlayStation 6, l’AI potrebbe contare più dei teraflop",
-      "link": "https://www.tomshw.it/videogioco/ps6-punta-al-4k-a-120-fps-con-la-frame-generation",
-      "excerpt": "Sony starebbe impostando la strategia tecnica di PlayStation 6 attorno a un obiettivo molto chiaro: far percepire la nuova console come una macchina capace di puntare al 4K a 120…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/91350/playstation-rispondetac7vpiuk73lfbTvGqF.webp",
-      "publishedAt": "2026-06-24T13:35:31+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Boom Prime Day: i vinili di Pink Floyd e The Beatles ora costano meno",
       "link": "https://images.dday.it/1hzhEuYrCq6e8Lpv-dK-NVPNQZzHEEbUHo0UGwS-RiQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57844/6ae8ba_81Q7HZYO1rL._AC_SL1500_.jpg",
       "excerpt": "Durante il Prime Day, diversi vinili iconici dei Pink Floyd e dei Beatles sono in sconto, un’occasione interessante per collezionisti e appassionati di musica... Leggi tutto",
@@ -129,60 +156,6 @@
       "publishedAt": "2026-06-24T13:31:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Porsche, in vendita anche la villa della discordia con tunnel privato",
-      "link": "https://www.hdmotori.it/porsche-vendita-villa-salisburgo-tunnel/",
-      "excerpt": "Wolfgang Porsche, figura di spicco di Porsche AG, cede la villa di Salisburgo dopo una lunga battaglia per il tunnel privato",
-      "image": "https://hd2.tudocdn.net/1352271?w=660",
-      "publishedAt": "2026-06-24T13:30:29+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "La multa si consulta online: come funziona il nuovo servizio della Polizia Stradale",
-      "link": "https://www.hdblog.it/internet/articoli/n662438/polizia-stradale-verbale-multa-online-come/",
-      "excerpt": "Si accede con lo SPID.",
-      "image": "https://hd2.tudocdn.net/1352254?w=660",
-      "publishedAt": "2026-06-24T13:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Alibaba fa causa al Pentagono: vuole uscire dalla blacklist militare USA",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n662456/alibaba-causa-pentagono-lista-nera-cinese/",
-      "excerpt": "Alibaba sostiene che il governo statunitense non avrebbe fornito prove sostanziali",
-      "image": "https://hd2.tudocdn.net/1352251?w=660",
-      "publishedAt": "2026-06-24T13:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Dacia Bigster Eco-G 140: la prova del SUV ibrido GPL con autonomia di 1.450 km",
-      "link": "https://www.hdmotori.it/prove/dacia-bigster-eco-g-140-prova-suv-ibrido-gpl/",
-      "excerpt": "Stile spartano, meccanica ibrida a 48 Volt abbinata al GPL e costi di gestione ridotti per il SUV di Dacia. Lo abbiamo messo alla prova nel nostro test per verificare l’autonomia…",
-      "image": "https://hd2.tudocdn.net/1352249?w=660",
-      "publishedAt": "2026-06-24T13:00:58+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "GTA 6, il prezzo è ufficiale: dettagli su preordini, Ultimate Edition, bonus e altro",
-      "link": "https://www.hdblog.it/games/articoli/n662449/gta-6-prezzo-quanto-costa-ultimate-preordini-bonus/",
-      "excerpt": "E tante, tante nuove immagini.",
-      "image": "https://hd2.tudocdn.net/1351409?w=660",
-      "publishedAt": "2026-06-24T12:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Instagram lancia le foto nei commenti, con qualche svista nella moderazione",
-      "link": "https://www.hdblog.it/android/articoli/n662442/instagram-lancia-foto-commenti/",
-      "excerpt": "La funzione è in distribuzione per tutti gli utenti a livello globale.",
-      "image": "https://hd2.tudocdn.net/1352139?w=660",
-      "publishedAt": "2026-06-24T12:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Grand Theft Auto VI costerà 80 dollari. La versione fisica avrà solo un codice per il download",
@@ -194,11 +167,20 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Migliori console portatili (giugno 2026)",
-      "link": "https://www.tomshw.it/videogioco/migliori-console-portatili",
-      "excerpt": "Nel 2026 il mercato delle console portatili è molto più maturo di quanto fosse solo pochi anni fa. Oggi convivono tre mondi diversi: handheld PC pensati per Steam e store…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/90401/migliori-console-portatili-copertina.png",
-      "publishedAt": "2026-06-24T11:18:15+00:00",
+      "title": "Migliori micro SD Nintendo Switch (giugno 2026)",
+      "link": "https://www.tomshw.it/videogioco/micro-sd-per-nintendo-switch-le-migliori",
+      "excerpt": "Se giocate spesso in digitale su Nintendo Switch, Switch Lite o Switch OLED, una buona micro SD resta l’accessorio più utile da affiancare alla console. La memoria interna del…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/90416/migliori-microsd-switch-copertina.jpg",
+      "publishedAt": "2026-06-24T11:38:30+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori schede video gaming (giugno 2026)",
+      "link": "https://www.tomshw.it/guide/migliori-schede-video-gaming",
+      "excerpt": "Se state assemblando, o siete già in possesso di un PC da gaming, sapete che la scheda video è senza alcun dubbio l'elemento principale, visto che è quella che più di tutto incide…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/90405/migliori-schede-video-copertina.jpg",
+      "publishedAt": "2026-06-24T11:34:39+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -221,56 +203,74 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Alibaba fa causa al Pentagono per uscire dalla lista nera delle aziende militari cinesi",
-      "link": "https://images.dday.it/mGIeXgWSOY_sGKtprH3o_v4uLbabFdPdIc4gPlOI6oM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57842/072ac6_Depositphotos_720727828_XL.jpg",
-      "excerpt": "Il gigante cinese non ci sta, la classificazione è \"arbitraria e priva di fondamento\"... Leggi tutto",
-      "image": "https://images.dday.it/mGIeXgWSOY_sGKtprH3o_v4uLbabFdPdIc4gPlOI6oM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57842/072ac6_Depositphotos_720727828_XL.jpg",
-      "publishedAt": "2026-06-24T10:36:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Svelata Škoda Peaq. La nuova ammiraglia elettrica a sette posti arriva in Europa",
-      "link": "https://images.dday.it/yogM3zZxdCibAOETZxzKYvbQodBXnkLfJIAY37YMTp8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57839/a027c9_peaq_thumb.jpg",
-      "excerpt": "Il SUV elettrico arriverà in prevendita da luglio con due versioni, fino a circa 610 km di autonomia e una dotazione da alto di gamma... Leggi tutto",
-      "image": "https://images.dday.it/yogM3zZxdCibAOETZxzKYvbQodBXnkLfJIAY37YMTp8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57839/a027c9_peaq_thumb.jpg",
-      "publishedAt": "2026-06-24T10:15:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Fino a quattro partite dei Mondiali tutte insieme: DAZN porta il Multiview su smartphone, web e Apple TV",
-      "link": "https://images.dday.it/cZnHS7a_cySy3w3XZ_hY5NBlwfrVN2BbKJFj9tWtF-A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57841/e39123_Depositphotos_887934594_XL.jpg",
-      "excerpt": "La nuova funzione debutta nella fase finale dei gironi: permette di seguire più partite in contemporanea, scegliendo anche quale telecronaca ascoltare... Leggi tutto",
-      "image": "https://images.dday.it/cZnHS7a_cySy3w3XZ_hY5NBlwfrVN2BbKJFj9tWtF-A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57841/e39123_Depositphotos_887934594_XL.jpg",
-      "publishedAt": "2026-06-24T10:04:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Google Pixel 10 da 128GB crolla a 549€: mai così basso!",
-      "link": "https://www.tomshw.it/offerte/google-pixel-10-da-128gb-crolla-a-549eur-risparmi-350eur",
-      "excerpt": "Se state pensando di cambiare smartphone senza arrivare ai prezzi dei modelli Pro, Google Pixel 10 da 128GB merita attenzione: è lo smartphone Android di Google con tripla…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97291/B0FHJNDQBR.png",
-      "publishedAt": "2026-06-23T07:10:46+00:00",
+      "title": "MSI MAG CORELIQUID A13 360 sotto i 70€: ora è più interessante",
+      "link": "https://www.tomshw.it/offerte/msi-mag-coreliquid-a13-360-sotto-i-70eur-ora-e-piu-interessante",
+      "excerpt": "Se state aggiornando il vostro PC desktop e volete tenere sotto controllo le temperature della CPU senza passare a soluzioni molto più costose, MSI MAG CORELIQUID A13 360 torna…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97885/B0BSLK8VYH.png",
+      "publishedAt": "2026-06-23T10:03:27+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Il monitor gaming MSI MAG 242F crolla a 89€: sconto del 47%",
-      "link": "https://www.tomshw.it/offerte/il-monitor-gaming-msi-mag-242f-crolla-a-89eur-sconto-del-47",
-      "excerpt": "Se state aggiornando la postazione da gioco senza voler spendere cifre da monitor premium, il monitor gaming MSI MAG 242F merita attenzione: parliamo di un 23,8 pollici Full HD…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97293/B0F5HRV2TN.png",
-      "publishedAt": "2026-06-18T19:26:18+00:00",
+      "title": "MSI Modern 15 F13MG crolla del 26%: 170€ di risparmio sul notebook",
+      "link": "https://www.tomshw.it/offerte/msi-modern-15-f13mg-crolla-del-38-280eur-di-risparmio-sul-notebook",
+      "excerpt": "Se state cercando un notebook da 15 pollici per lavoro, studio e produttività quotidiana, MSI Modern 15 F13MG merita attenzione ora che viene proposto a 479 € invece di 649 €. Il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97835/B0DSGDJLG4.png",
+      "publishedAt": "2026-06-23T07:32:42+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "MSI MAG B850 TOMAHAWK MAX WIFI al -27%, ora è un vero affare",
-      "link": "https://www.tomshw.it/offerte/msi-mag-b850-tomahawk-max-wifi-al-27-ora-e-un-vero-affare",
-      "excerpt": "Se state progettando un PC desktop basato su piattaforma AMD recente, MSI MAG B850 TOMAHAWK MAX WIFI è una di quelle schede madri da guardare con attenzione quando il prezzo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97292/B0DPKVF29H.png",
-      "publishedAt": "2026-06-18T19:22:54+00:00",
+      "title": "Intel Core i5-14600KF scontato dell'8%: occasione per il PC",
+      "link": "https://www.tomshw.it/offerte/intel-core-i5-14600kf-al-75-di-sconto-occasione-per-il-pc",
+      "excerpt": "Intel Core i5-14600KF torna al centro dell'attenzione per chi sta aggiornando un PC desktop da gioco o una workstation domestica senza passare a una piattaforma completamente…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97832/B0CHBH63YX.png",
+      "publishedAt": "2026-06-23T07:24:43+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Samsung Odyssey G4 a 130€: il monitor gaming è quasi a metà prezzo",
+      "link": "https://www.tomshw.it/offerte/samsung-odyssey-g4-a-149eur-il-monitor-gaming-e-quasi-a-meta-prezzo",
+      "excerpt": "Se state cercando un display veloce per giocare su PC o console, Samsung Odyssey G4 torna al centro delle offerte con un prezzo molto più accessibile rispetto al listino. Lo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97748/B09YV1V12P.png",
+      "publishedAt": "2026-06-22T14:18:43+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Sovranità tecnologica: come scegliere fornitori AI con dati al sicuro in Europa",
+      "link": "https://www.tomshw.it/aioperator/sovranita-tecnologica-fornitori-ai-europa",
+      "excerpt": "Il responsabile IT di una media impresa manifatturiera firma un contratto con un fornitore AI statunitense per automatizzare la gestione degli ordini. Tre mesi dopo, la revisione…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97630/04-mgt05-cover.jpg",
+      "publishedAt": "2026-06-22T10:34:11+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La smart tv Samsung H5000F crolla a 179€: risparmi 130€",
+      "link": "https://www.tomshw.it/offerte/la-smart-tv-samsung-h5000f-crolla-a-179eur-risparmi-130eur",
+      "excerpt": "Se state cercando una TV compatta per cucina, camera, studio o una seconda postazione domestica, la smart tv Samsung H5000F torna interessante grazie al taglio netto sul prezzo:…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97301/B0DF6NHYS6.png",
+      "publishedAt": "2026-06-18T19:52:05+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Lenovo Tab da 128GB a 149€: il tablet conveniente cala del 29%",
+      "link": "https://www.tomshw.it/offerte/lenovo-tab-da-128gb-a-149eur-il-tablet-conveniente-cala-del-29",
+      "excerpt": "Se cercate un tablet Android economico per streaming, studio leggero, navigazione e contenuti in mobilità, Lenovo Tab da 128GB merita attenzione con l’offerta attuale: lo trovate…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97300/B0DR2LD39Y.png",
+      "publishedAt": "2026-06-18T19:48:53+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Samsung Galaxy A57 5G da 256GB a -200€: ora è un affare",
+      "link": "https://www.tomshw.it/offerte/samsung-galaxy-a57-5g-da-256gb-a-200eur-ora-e-un-affare",
+      "excerpt": "Se state cercando uno smartphone Android completo senza spingervi sui prezzi dei top di gamma, Samsung Galaxy A57 5G da 256GB merita attenzione: in questa promozione lo trovate in…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97297/B0GMJ67DH8.png",
+      "publishedAt": "2026-06-18T19:38:58+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
