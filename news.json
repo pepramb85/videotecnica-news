@@ -1,71 +1,152 @@
 {
-  "generatedAt": "2026-06-25T14:08:46.678962+00:00",
+  "generatedAt": "2026-06-25T18:04:39.315260+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Citroën, con la 2CV si punta ai più giovani: prezzi più che competitvi",
-      "link": "https://www.hdmotori.it/citroen-2cv-rivoluzione-e-car/",
-      "excerpt": "La Casa francese sta progettando una nuova 2CV full electric. Verrà costruita su una piattaforma condivisa con FIAT",
-      "image": "https://hd2.tudocdn.net/1352569?w=660",
-      "publishedAt": "2026-06-25T14:00:24+00:00",
+      "title": "Porsche prova a scacciare la crisi con un nuovo piano per il 2035",
+      "link": "https://www.hdmotori.it/porsche-crisi-nuovo-piano-2035/",
+      "excerpt": "Porsche ha avuto l’ennesimo crollo dei margini, scesi all'1,1%, e i vertici del marchio tedesco hanno pronto un nuovo programma anti-crisi",
+      "image": "https://hd2.tudocdn.net/1352739?w=660",
+      "publishedAt": "2026-06-25T18:00:10+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Prime Day, pronti per il mare? Ecco i giochi da spiaggia da non perdere",
-      "link": "https://www.tomshw.it/altro/prime-day-pronti-per-il-mare-ecco-i-giochi-da-spiaggia-da-non-perdere",
-      "excerpt": "L’estate è il periodo dell’anno in cui spiagge, lidi e località balneari tornano a popolarsi di famiglie, gruppi di amici e bambini alla ricerca di momenti di svago all&rsquo...",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98203/Prime-Day,-pronti-per-il-mare-Ecco-i-giochi-da-spiaggia-da-non-perdere.jpg",
-      "publishedAt": "2026-06-25T13:54:06+00:00",
+      "title": "Xbox, cambiano i prezzi: ecco i nuovi costi delle console",
+      "link": "https://www.tomshw.it/videogioco/aggiornamento-prezzi-console-xbox-2026-06-25",
+      "excerpt": "Una nuova stangata si abbatte sui videogiocatori di tutto il mondo. A partire dal 1° agosto 2026, Microsoft ritoccherà verso l'alto i listini delle proprie console Xbox: i modelli…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/95704/xbox-non-riesce-a-sogndq0bdikiu0dC8acTB.webp",
+      "publishedAt": "2026-06-25T17:44:12+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "I Talebani vietano gli smartphone ai funzionari pubblici",
-      "link": "https://www.tomshw.it/smartphone/i-talebani-vietano-gli-smartphone-ai-funzionari-pubblici",
-      "excerpt": "Il governo dei Talebani in Afghanistan ha imposto il divieto di usare smartphone ai funzionari pubblici, una misura che colpisce direttamente il modo in cui l'apparato statale…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98205/i-talebani-vietano-gli-smartphone-ai-funzionari-pubblici.png",
-      "publishedAt": "2026-06-25T13:44:39+00:00",
+      "title": "Rivoluzione ADUO in F1, asso nella manica per Ferrari",
+      "link": "https://www.hdmotori.it/rivoluzione-aduo-f1-ferrari/",
+      "excerpt": "Per tornare seriamente in lizza per il Mondiale la Ferrari ha bisogno di maggiore potenza e la nuova PU farà il suo esordio in Austria",
+      "image": "https://hd2.tudocdn.net/1352736?w=660",
+      "publishedAt": "2026-06-25T17:30:43+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "MIT presenta Gleanmer, il chip da 6 mW per la mappatura 3D in tempo reale",
+      "link": "https://www.hdblog.it/droni/articoli/n662606/mit-chip-6mw-droni-mappatura-3d/",
+      "excerpt": "MIT sviluppa un chip da 6 mW che permette ai mini droni di creare mappe 3D in tempo reale.",
+      "image": "https://hd2.tudocdn.net/1352558?w=660",
+      "publishedAt": "2026-06-25T17:30:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Disney, 50 milioni di dollari per patteggiare una causa sullo streaming TV",
+      "link": "https://www.hdblog.it/android/articoli/n662646/disney-50-milioni-class-action-youtube-tv/",
+      "excerpt": "Disney era stata accusata di aver costretto piattaforme come YouTube TV a mantenere prezzi degli abbonamenti alti abusando della sua posizione dominante.",
+      "image": "https://hd2.tudocdn.net/1343475?w=660",
+      "publishedAt": "2026-06-25T17:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Creato un materiale che trasforma la luce solare in raggi UV",
+      "link": "https://www.hdblog.it/green/articoli/n662566/materiale-converte-luce-solare-raggi-uv/",
+      "excerpt": "Nuovo materiale trasforma la luce solare in UV con un'efficienza record allo stato solido.",
+      "image": "https://hd2.tudocdn.net/1352556?w=660",
+      "publishedAt": "2026-06-25T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple al lavoro su uno smart ring stile Oura: arriverà sul mercato?",
+      "link": "https://www.hdblog.it/indossabili/articoli/n662643/apple-anello-smart-iring/",
+      "excerpt": "Il colosso di Cupertino sempre più interessato a fitness / healthcare / wellness digitale.",
+      "image": "https://hd2.tudocdn.net/1352731?w=660",
+      "publishedAt": "2026-06-25T17:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Allarme competitività in Germania: Mercedes vuole tornare alle 40 ore",
+      "link": "https://www.hdmotori.it/competitivita-germania-mercedes-40-ore/",
+      "excerpt": "Il presidente del consiglio di sorveglianza di Mercedes propone il ritorno alle 40 ore settimanali, a parità di stipendio, per aumentare la competitività del sistema-Paese.",
+      "image": "https://hd2.tudocdn.net/1352732?w=660",
+      "publishedAt": "2026-06-25T17:00:46+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "United prova il jet supersonico Mach 2: il futuro dei voli è vicino",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n662409/united-airlines-boom-supersonic-overture-mach-2/",
+      "excerpt": "Un pilota United prova i simulatori XB-1 e Overture di Boom Supersonic.",
+      "image": "https://hd2.tudocdn.net/1352096?w=660",
+      "publishedAt": "2026-06-25T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Climatizzazione estiva: la guida ENEA per ridurre i consumi energetici",
+      "link": "https://www.hdblog.it/home/articoli/n662635/climatizzazione-estiva-guida-enea-consumi-ridotti/",
+      "excerpt": "Una serie di soluzioni per migliorare il raffrescamento in casa.",
+      "image": "https://hd2.tudocdn.net/1352716?w=660",
+      "publishedAt": "2026-06-25T16:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Quando Tetris incontra il Cubo di Rubik: i creatori ideano un rompicapo assieme",
+      "link": "https://www.hdblog.it/games/articoli/n662630/tetris-rubik-cubo-collaborazione-creatori-prezzo/",
+      "excerpt": "E si può comprare anche da noi su Amazon.",
+      "image": "https://hd2.tudocdn.net/1352682?w=660",
+      "publishedAt": "2026-06-25T16:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Alimentatore ATX 3.1 sotto 80€: MSI 750W Gold su Amazon",
+      "link": "https://www.tomshw.it/offerte/alimentatore-atx-31-sotto-80eur-msi-750w-gold-su-amazon",
+      "excerpt": "MSI MAG A750GLS PCIE5 a 79,99€ su Amazon porta un alimentatore ATX 3.1 da 750W con certificazione 80 Plus Gold al 41% in meno rispetto al listino di 135,99€. La leva interessante…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98232/tomshw-offer-554574.png",
+      "publishedAt": "2026-06-25T16:32:23+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Tesla e NatPower portano i Megapack in Europa su vasta scala",
-      "link": "https://www.tomshw.it/automotive/tesla-e-natpower-portano-i-megapack-in-europa-su-vasta-scala",
-      "excerpt": "Tesla e NatPower hanno firmato un accordo pluriennale per la fornitura e la realizzazione di sistemi di accumulo energetico a batteria in Europa. L'intesa riguarda più di 25 GWh…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98204/tesla-e-natpower-portano-i-megapack-in-europa-su-vasta-scala.png",
-      "publishedAt": "2026-06-25T13:43:11+00:00",
+      "title": "Datacenter sotto accusa per il clima, le cause legali esplodono nel mondo",
+      "link": "https://www.tomshw.it/business/datacenter-sotto-accusa-per-il-clima-le-cause-legali-esplodono-nel-mondo",
+      "excerpt": "Il contenzioso climatico contro i datacenter sta crescendo in tutto il mondo, e un po' ovunque si trovano comunità che si oppongono alla realizzazione di queste strutture. Il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98214/01-datacenter-clima.jpg",
+      "publishedAt": "2026-06-25T16:10:03+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Hugin Superior esplora gli abissi: missione record in Norvegia",
-      "link": "https://www.hdblog.it/droni/articoli/n662417/norvegia-drone-sottomarino-hugin-superior/",
-      "excerpt": "La Norvegia avvia la prima missione del drone subacqueo Hugin Superior.",
-      "image": "https://hd2.tudocdn.net/1352102?w=660",
-      "publishedAt": "2026-06-25T13:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Emma, l’IA italiana che dava risposte errate o pericolose, è stata chiusa",
+      "link": "https://images.dday.it/2J-XazIBLngCBgKFN0MFBkTCE6qVlduuv2vKQ8k3S5A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57861/a90518_emma_full_copia.png",
+      "excerpt": "Egomnia, la società dietro la serie di modelli Emma, ha chiuso l'accesso alla piattaforma perché \"l’utilizzo emerso non è stato pienamente in linea con gli obiettivi previsti per…",
+      "image": "https://images.dday.it/2J-XazIBLngCBgKFN0MFBkTCE6qVlduuv2vKQ8k3S5A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57861/a90518_emma_full_copia.png",
+      "publishedAt": "2026-06-25T15:09:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
-      "title": "Motorola Moto G57, G67, G77 e G87: quale scegliere e per chi | VIDEO",
-      "link": "https://www.hdblog.it/smartphone/recensioni/n658859/motorola-moto-g57-g67-g77-g87-quale-scegliere/",
-      "excerpt": "La gamma Moto G di Motorola è oggigiorno composta da molte soluzioni diverse, cerchiamo di capire quali sono le peculiarità di ognuna e di definirne un target",
-      "image": "https://hd2.tudocdn.net/1343814?w=660",
-      "publishedAt": "2026-06-25T13:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "IBM annuncia il primo chip al mondo su nodo a \"0,7 nm\"",
+      "link": "https://images.dday.it/rL-xVsThX4OQytyfoyjHa2fbn4IvM035KjhBrWSjE7E/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57859/8d49c3_SHOT_08_ANGSTROM_1812_1.jpg",
+      "excerpt": "IBM ha annunciato oggi lo sviluppo del primo nodo a 0,7 nanometri o 7 angstrom. Il processo è basato su un’architettura tridimensionale chiamata nanostack, definito come il primo…",
+      "image": "https://images.dday.it/rL-xVsThX4OQytyfoyjHa2fbn4IvM035KjhBrWSjE7E/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57859/8d49c3_SHOT_08_ANGSTROM_1812_1.jpg",
+      "publishedAt": "2026-06-25T14:28:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
-      "title": "I nuovi screenshot di GTA VI sono troppo belli per provenire da PS5 o Xbox?",
-      "link": "https://www.hdblog.it/games/articoli/n662549/gta-6-screenshot-ray-tracing-pc-bullshot-ps5-xbox/",
-      "excerpt": "La qualità sembra fin troppo elevata per i ragazzi di Digital Foundry. Forse provengono da un super PC, o è semplicemente la Photo Mode in azione?",
-      "image": "https://hd2.tudocdn.net/1352443?w=660",
-      "publishedAt": "2026-06-25T13:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "La commissaria Giomi di AGCOM smonta i numeri di Piracy Shield: non è vero che ha un tasso di errore così basso",
+      "link": "https://images.dday.it/PsM3Zrccn70FhBP3-WElLHSkWWfhruZl9A6yC0pp7e8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57860/b9c185_1782377527732.jpg",
+      "excerpt": "Elisa Giomi contesta il tasso di errore dello 0,0057% dichiarato dal presidente Agcom Lasorella. Secondo uno studio dell'Università di Twente, i danni collaterali riguardano molti…",
+      "image": "https://images.dday.it/PsM3Zrccn70FhBP3-WElLHSkWWfhruZl9A6yC0pp7e8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57860/b9c185_1782377527732.jpg",
+      "publishedAt": "2026-06-25T14:16:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Zitta zitta, SpaceX ha testato la misteriosa capsula Starfall",
@@ -75,15 +156,6 @@
       "publishedAt": "2026-06-25T13:22:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Prime Day su due ruote: le migliori offerte su bici e monopattini",
-      "link": "https://www.tomshw.it/automotive/prime-day-su-due-ruote-le-migliori-offerte-su-bici-e-monopattini",
-      "excerpt": "Che si tratti di spostarsi in città, fare attività fisica o godersi il tempo libero all’aria aperta, biciclette e monopattini continuano a conquistare un pubblico sempre più...",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98202/Prime-Day-su-due-ruote-le-migliori-offerte-su-bici-e-monopattini.jpg",
-      "publishedAt": "2026-06-25T13:17:14+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Giradischi in sconto per il Prime Day: i migliori modelli da non perdere",
@@ -104,58 +176,13 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Un processore quantistico svela onde a senso unico",
-      "link": "https://www.tomshw.it/scienze/un-processore-quantistico-svela-onde-a-senso-unico",
-      "excerpt": "Un gruppo di ricercatori dell'International Quantum Academy e della SUSTech, in Cina, ha usato un processore quantistico per osservare un comportamento difficile da isolare nei…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98195/un-processore-quantistico-svela-onde-a-senso-unico.png",
-      "publishedAt": "2026-06-25T13:12:20+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "OpenAI si è fatta un chip in casa in pochi mesi grazie alla sua stessa IA: nasce l’acceletatore Jalapeño",
+      "title": "OpenAI si è fatta un chip in casa in pochi mesi grazie alla sua stessa IA: nasce l’acceleratore Jalapeño",
       "link": "https://images.dday.it/8x30vy4zkAFnWYiT8ytzG3JTCS1JPxiks0gV_OCq3zg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57857/ac59a9_Screenshot_2026-06-25_alle_15.12.12.png",
       "excerpt": "Jalapeño non arriverà nei PC. È un ASIC per data center progettato per far rispondere i modelli OpenAI con più efficienza. I primi sistemi sono attesi tra fine 2026 e 2028...…",
       "image": "https://images.dday.it/8x30vy4zkAFnWYiT8ytzG3JTCS1JPxiks0gV_OCq3zg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57857/ac59a9_Screenshot_2026-06-25_alle_15.12.12.png",
       "publishedAt": "2026-06-25T13:12:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Apple aumenta i prezzi di Mac e iPad: rincari anche oltre i 500 euro",
-      "link": "https://www.hdblog.it/portatili/articoli/n662597/apple-aumenta-prezzi-mac-ipad-rincari/",
-      "excerpt": "Nelle scorse ore, Apple ha temporaneamente messo offline il suo store online, come avviene di solito in occasione degli annunci di nuovi prodotti. Al ritorno all’operatività,...",
-      "image": "https://hd2.tudocdn.net/1350444?w=660",
-      "publishedAt": "2026-06-25T13:02:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "ARES Atelier presenta al MIMO l'evoluzione della sua fuoriserie",
-      "link": "https://www.hdmotori.it/ares-atelier-s1-mimo/",
-      "excerpt": "ARES Atelier mostra al MIMO, all'Autodromo Nazionale di Monza, la S1 nella sua versione evoluta e aggiornata",
-      "image": "https://hd2.tudocdn.net/1352545?w=660",
-      "publishedAt": "2026-06-25T13:00:34+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Ferrari cambia il capo marketing dopo le critiche alla Luce",
-      "link": "https://www.tomshw.it/automotive/ferrari-cambia-il-capo-marketing-dopo-le-critiche-alla-luce",
-      "excerpt": "Ferrari cambia il vertice commerciale e marketing: Enrico Galliera lascia l'azienda e al suo posto arriva Massimiliano Di Silvestre, manager con una lunga esperienza nel mercato…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98197/ferrari-cambia-il-capo-marketing-dopo-le-critiche-alla-luce.png",
-      "publishedAt": "2026-06-25T12:59:39+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Windows 11 riapre alla personalizzazione: novità per Start e barra delle applicazioni",
-      "link": "https://www.hdblog.it/microsoft/articoli/n662592/windows-11-personalizzabile-cosa-cambia/",
-      "excerpt": "Microsoft starebbe preparando per Windows 11 un ritorno graduale a una maggiore libertà di personalizzazione",
-      "image": "https://hd2.tudocdn.net/1352542?w=660",
-      "publishedAt": "2026-06-25T12:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Confronto tra streamer: Fosi Audio S3 vs Wiim Amp Ultra. Sfida impossibile? Tutt'altro",
@@ -167,31 +194,22 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Oppo Enco Air5 e Air5s arrivano in Italia con ANC, funzioni AI e prezzo interessante",
-      "link": "https://www.hdblog.it/indossabili/articoli/n662589/oppo-enco-air5-air5s-caratteristiche-prezzi/",
-      "excerpt": "Oppo porta in Italia i nuovi auricolari true wireless Enco Air5 e Enco Air5s con cancellazione attiva del rumore, funzioni AI, driver da 12 mm e autonomia fino a 54 ore",
-      "image": "https://hd2.tudocdn.net/1352524?w=660",
-      "publishedAt": "2026-06-25T12:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Migliori notebook per studiare (giugno 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-notebook-studenti",
+      "excerpt": "Comprare uno dei migliori notebook per studiare non significa inseguire la scheda tecnica più aggressiva del momento, ma trovare il modello giusto per il vostro ritmo di studio.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/90540/migliori-notebook-per-studiare-copertina.jpg",
+      "publishedAt": "2026-06-25T11:55:37+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Instagram, arriva il supporto a Google Cast per trasmettere i contenuti su TV",
-      "link": "https://www.hdblog.it/android/articoli/n662585/instagram-supporto-google-cast/",
-      "excerpt": "Si amplia il numero di dispositivi compatibili con la piattaforma.",
-      "image": "https://hd2.tudocdn.net/1352502?w=660",
-      "publishedAt": "2026-06-25T12:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "AMD Radeon, FSR 4.1 arriva in modo stabile anche su Windows 10",
-      "link": "https://www.hdblog.it/hardware/articoli/n662588/amd-radeon-driver-windows-10-fsr-4-1-fix/",
-      "excerpt": "Corretto il bug che causava problemi sul vecchio OS di Microsoft.",
-      "image": "https://hd2.tudocdn.net/1141398?w=660",
-      "publishedAt": "2026-06-25T12:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Migliori notebook da gaming (giugno 2026)",
+      "link": "https://www.tomshw.it/guide/migliori-notebook-gaming",
+      "excerpt": "I notebook gaming non sono più una categoria di compromesso: nel 2026 possono offrire prestazioni molto vicine a quelle di un fisso, ma con la flessibilità di un portatile che si…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/90539/migliori-notebook-gaming-copertina.jpg",
+      "publishedAt": "2026-06-25T11:49:44+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Smart Ring, smart deal: Oura Ring 4 in offerta ora su Amazon",
@@ -203,15 +221,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Migliori proiettori economici (giugno 2026)",
-      "link": "https://www.tomshw.it/altro/migliori-proiettori-economici",
-      "excerpt": "Chi vuole uno schermo grande senza arrivare al costo di una TV molto ampia finisce quasi sempre per guardare ai proiettori economici. Il problema è che questa fascia è anche la…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/90527/migliori-proiettori-economici-copertina.jpg",
-      "publishedAt": "2026-06-25T11:26:42+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Questa è la spettacolare foto a più alta risoluzione mai realizzata del centro della nostra galassia",
       "link": "https://images.dday.it/gg2hdddrOqVWkOQXT0w-a-aRWxQu2jDfksi6rBEi6ik/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57853/928e84_Euclid_s_galactic_bulge_survey.jpg",
       "excerpt": "Il telescopio spaziale Euclid ha realizzato l’immagine a più alta risoluzione del bulbo galattico della Via Lattea, ritraendo oltre 60 milioni di stelle. Consentirà di individuare…",
@@ -221,56 +230,47 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Dal quadro digitale al \"premi-pulsanti\" automatizzato. Ecco le offerte SwitchBot più ghiotte del Prime Day 2026",
-      "link": "https://images.dday.it/6kTfZd_Z7vi9mb3gR8SgEC_9wmQm_nSb97kaEs-ngsU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57829/ee55c8_EU_3840X1920_without_tagline__1_.png",
-      "excerpt": "Fino al 26 giugno tante offerte sui prodotti smart di SwitchBot: ventilatori, serrature e anche cornici digitali con l'IA. Facili da usare e ora anche più convenienti... Leggi…",
-      "image": "https://images.dday.it/6kTfZd_Z7vi9mb3gR8SgEC_9wmQm_nSb97kaEs-ngsU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57829/ee55c8_EU_3840X1920_without_tagline__1_.png",
-      "publishedAt": "2026-06-25T10:15:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "tado° lancia la ricarica smart: le auto compatibili ricaricano quando l’energia costa meno",
-      "link": "https://images.dday.it/EE4DuN1jAWDoUGrFxxOTL-FOZ8doRfF01uaIeMTv0y4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57848/43d36b_tado_Smart_EV_Charging.jpg",
-      "excerpt": "tado° porta in Italia un nuovo servizio che consente di programmare automaticamente la ricarica della propria auto, sfruttando i periodi in cui l’energia costa meno. È una…",
-      "image": "https://images.dday.it/EE4DuN1jAWDoUGrFxxOTL-FOZ8doRfF01uaIeMTv0y4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57848/43d36b_tado_Smart_EV_Charging.jpg",
-      "publishedAt": "2026-06-25T10:14:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il purificatore ventilatore che segue l’utente nella stanza. Svelato Dyson Find+Follow Purifier Cool",
-      "link": "https://images.dday.it/-x0GAYyGFmBpd8EdEM6AB-JZdarr2nn2ifRu7ggweW4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57852/1cbb5b_Dyson_Find+Follow___amb.jpg",
-      "excerpt": "Dyson Find+Follow Purifier Cool combina purificazione HEPA H13 e flusso d’aria intelligente: grazie alla visione IA rileva la posizione delle persone e indirizza l’aria purificata…",
-      "image": "https://images.dday.it/-x0GAYyGFmBpd8EdEM6AB-JZdarr2nn2ifRu7ggweW4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57852/1cbb5b_Dyson_Find+Follow___amb.jpg",
-      "publishedAt": "2026-06-25T09:09:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Monitor gaming Samsung Odyssey G5 a metà prezzo: risparmi 250€",
-      "link": "https://www.tomshw.it/offerte/monitor-gaming-samsung-odyssey-g5-a-meta-prezzo-risparmi-250eur",
-      "excerpt": "Se state aggiornando la postazione da gioco e volete passare a un display più adatto a PC e console moderne, il monitor gaming Samsung Odyssey G5 torna da valutare con attenzione:…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97408/B0BRL8B5L5.png",
-      "publishedAt": "2026-06-19T10:09:56+00:00",
+      "title": "Il monitor gaming Philips 34M2C3500L cala del 31%, ora sotto i 208€",
+      "link": "https://www.tomshw.it/offerte/il-monitor-gaming-philips-34m2c3500l-cala-del-31-ora-sotto-i-208eur",
+      "excerpt": "Se state aggiornando la scrivania da gioco o volete passare a uno schermo più immersivo senza salire troppo con il budget, il monitor gaming Philips 34M2C3500L merita attenzione.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97422/B0D969VDC6.png",
+      "publishedAt": "2026-06-19T10:51:22+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "La smart tv Samsung Neo QLED 4K QN74F scende di 270€",
-      "link": "https://www.tomshw.it/offerte/la-smart-tv-samsung-neo-qled-4k-qn74f-scende-di-270eur",
-      "excerpt": "Se state cercando una TV di grande formato per salotto, cinema domestico e gaming, la smart tv Samsung Neo QLED 4K QN74F torna sotto i riflettori con un taglio di prezzo concreto:…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97407/B0F4SVJHRW.png",
-      "publishedAt": "2026-06-19T10:05:47+00:00",
+      "title": "Samsung Neo QLED 4K QN74F da 75 pollici: ora risparmi 400€",
+      "link": "https://www.tomshw.it/offerte/samsung-neo-qled-4k-qn74f-da-75-pollici-ora-risparmi-400eur",
+      "excerpt": "Se state pensando di passare a un grande schermo per film, sport e console, Samsung Neo QLED 4K QN74F da 75 pollici torna sotto i riflettori con un taglio di prezzo concreto: lo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97420/B0F4T8RSJS.png",
+      "publishedAt": "2026-06-19T10:47:30+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "La scheda madre GIGABYTE X870E AORUS ELITE WIFI7 ora fa gola: -26%",
-      "link": "https://www.tomshw.it/offerte/la-scheda-madre-gigabyte-x870e-aorus-elite-wifi7-ora-fa-gola-26",
-      "excerpt": "Se state preparando un nuovo PC con piattaforma AMD, la scheda madre GIGABYTE X870E AORUS ELITE WIFI7 merita attenzione ora che si trova in offerta a 279,99 € invece di 377,41 €.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97406/B0DFQFLQP2.png",
-      "publishedAt": "2026-06-19T10:02:25+00:00",
+      "title": "MSI X870E GAMING PLUS WIFI al 38%: la scheda madre ora conviene",
+      "link": "https://www.tomshw.it/offerte/msi-x870e-gaming-plus-wifi-al-38-la-scheda-madre-ora-conviene",
+      "excerpt": "Se state preparando un PC desktop basato su Ryzen di nuova generazione, MSI X870E GAMING PLUS WIFI merita attenzione perché porta il chipset AMD X870E a un prezzo più accessibile…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97419/B0F67B9XT7.png",
+      "publishedAt": "2026-06-19T10:44:06+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Samsung Galaxy A17 5G da 128GB a 159€: occasione con il 33%",
+      "link": "https://www.tomshw.it/offerte/samsung-galaxy-a17-5g-da-128gb-a-159eur-occasione-con-il-33",
+      "excerpt": "Samsung Galaxy A17 5G da 128GB torna sotto osservazione per chi cerca uno smartphone Android recente senza salire troppo con il budget. Il prezzo scende a 159,00 € invece di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97418/B0FJ21B476.png",
+      "publishedAt": "2026-06-19T10:40:46+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Sony WH-1000XM6 a 100€ in meno: occasione sulle cuffie Sony",
+      "link": "https://www.tomshw.it/offerte/sony-wh-1000xm6-a-100eur-in-meno-occasione-sulle-cuffie-sony",
+      "excerpt": "Le Sony WH-1000XM6 tornano al centro dell’attenzione per chi cerca cuffie wireless di fascia alta con cancellazione attiva del rumore, comfort e una resa audio curata. Il prezzo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97417/B0F2TSFXL7.png",
+      "publishedAt": "2026-06-19T10:36:53+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
