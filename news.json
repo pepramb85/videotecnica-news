@@ -1,53 +1,134 @@
 {
-  "generatedAt": "2026-06-26T14:08:32.026969+00:00",
+  "generatedAt": "2026-06-26T17:41:37.448456+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Il dissipatore con display AMOLED che sta spopolando: -32% al Prime Day",
-      "link": "https://www.tomshw.it/hardware/thermalright-tr-wonder-vision-360-sconto-del-32-su-amazon-2026-06-26",
-      "excerpt": "Su Amazon è disponibile un'ottima offerta sul Thermalright TR Wonder Vision 360 UB ARGB, il raffreddatore liquido per CPU con schermo AMOLED curvo 3D da 6,67 e risoluzione…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98368/thermalright-tr-wonder-vision-360-sconto-del-32-su-amazon-2026-jqltt0rmc59pafFLALR.png",
-      "publishedAt": "2026-06-26T14:05:09+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Vivo X Fold6 è ufficiale: arriverà anche in Italia entro la fine dell'anno",
-      "link": "https://www.hdblog.it/smartphone/articoli/n662738/vivo-x-fold6-ufficiale-italia-2026-specifiche-foto/",
-      "excerpt": "E punta ad essere il vero camera-phone tra i pieghevoli.",
-      "image": "https://hd2.tudocdn.net/1352906?w=660",
-      "publishedAt": "2026-06-26T14:05:00+00:00",
+      "title": "Kingdom Come Deliverance 2, 6 milioni di copie vendute e super sconto su Steam",
+      "link": "https://www.hdblog.it/games/articoli/n662775/kingdom-come-deliverance-2-vendite-sconto-steam/",
+      "excerpt": "Con appena 40 euro vi portate a casa le Royal Edition di entrambi i Kingdom Come, una delle saghe di action RPG occidentali top del momento.",
+      "image": "https://hd2.tudocdn.net/1215862?w=660",
+      "publishedAt": "2026-06-26T17:35:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Apple Developer Academy, 10 anni dopo: a Napoli oltre 3.000 studenti da 80 Paesi",
-      "link": "https://www.hdblog.it/apple/articoli/n662745/apple-developer-academy-dieci-anni-napol/",
-      "excerpt": "La Apple Developer Academy di Napoli ha festeggiato oggi i suoi dieci anni a San Giovanni a Teduccio",
-      "image": "https://hd2.tudocdn.net/997407?w=660",
-      "publishedAt": "2026-06-26T13:45:00+00:00",
+      "title": "iPhone pieghevole: arriverà dopo i Pro? E il prezzo potrebbe sfiorare i 2.500 dollari",
+      "link": "https://www.hdblog.it/smartphone/articoli/n662757/iphone-pieghevole-ultra-prezzo-lancio-2026-pro/",
+      "excerpt": "Grande attesa, grande prezzo.",
+      "image": "https://hd2.tudocdn.net/1348038?w=660",
+      "publishedAt": "2026-06-26T17:25:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Apple alza i prezzi, ma il Prime Day ti salva: ecco cosa comprare in sconto",
-      "link": "https://www.tomshw.it/smartphone/apple-alza-i-prezzi-ma-il-prime-day-ti-salva-ecco-cosa-comprare-in-sconto",
-      "excerpt": "Negli ultimi giorni, il mercato della tecnologia ha registrato una notizia che molti di voi avranno già notato: Apple ha aumentato i prezzi di diversi suoi prodotti, una mossa che…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98356/Apple-alza-i-prezzi,-ma-il-Prime-Day-ti-salva-ecco-cosa-comprare-in-sconto.png",
-      "publishedAt": "2026-06-26T13:44:45+00:00",
+      "title": "Addio ai materiali rari: i nanotubi di silicio trasformano il calore in elettricità",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n662611/nanotubi-silicio-recupero-calore-elettricita/",
+      "excerpt": "Nuovi nanotubi di silicio recuperano il calore disperso trasformandolo in elettricità.",
+      "image": "https://hd2.tudocdn.net/1352563?w=660",
+      "publishedAt": "2026-06-26T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Moto in corsia d'emergenza, la svolta in Spagna ma ci sono nuove regole",
+      "link": "https://www.hdmotori.it/spagna-moto-corsia-emergenza-nuovo-regolamento/",
+      "excerpt": "Nuova riforma stradale in Spagna: sì alle moto in corsia d’emergenza, ma scatta lo stop assoluto a infradito e sandali alla guida. Multe da 200 euro per i trasgressori",
+      "image": "https://hd2.tudocdn.net/1353008?w=660",
+      "publishedAt": "2026-06-26T17:00:24+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Razer presenta la sua prima sedia gaming con LED RGB: ecco Soma Chroma",
+      "link": "https://www.hdblog.it/hardware/articoli/n662769/razer-soma-chroma-sedia-gaming-led-rgb/",
+      "excerpt": "Costosetta, ma la qualità sembra elevata.",
+      "image": "https://hd2.tudocdn.net/1352994?w=660",
+      "publishedAt": "2026-06-26T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "CATL presenta TENER Sodium, la prima batteria al sodio da 30 MWh testata sul campo",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n662613/catl-tener-sodium-batteria-30mwh/",
+      "excerpt": "CATL presenta la batteria al sodio da 30 MWh pronta per l'accumulo energetico.",
+      "image": "https://hd2.tudocdn.net/1352571?w=660",
+      "publishedAt": "2026-06-26T16:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Crisi chip, Framework abbassa i prezzi del suo Laptop 13 Pro",
+      "link": "https://www.hdblog.it/portatili/articoli/n662767/framework-laptop-13-pro-prezzo-ridotto-ssd/",
+      "excerpt": "La società ha trovato un SSD più economico e al tempo stesso più prestante. Ma dice che nei prossimi mesi le cose potrebbero peggiorare ancora.",
+      "image": "https://hd2.tudocdn.net/1352990?w=660",
+      "publishedAt": "2026-06-26T16:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Come nascere nello spazio? I rischi che preoccupano gli esperti",
+      "link": "https://www.hdblog.it/curiosita/articoli/n662672/gravidanza-spazio-rischi/",
+      "excerpt": "Gli esperti spiegano perché gravidanza e parto nello spazio restano pieni di incognite.",
+      "image": "https://hd2.tudocdn.net/1352778?w=660",
+      "publishedAt": "2026-06-26T16:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Mouse da torneo a 81,49€: Logitech G PRO 2 su Amazon",
+      "link": "https://www.tomshw.it/offerte/mouse-da-torneo-a-8149eur-logitech-g-pro-2-su-amazon",
+      "excerpt": "Logitech G PRO 2 LIGHTSPEED a 81,49€ su Amazon porta un mouse gaming wireless da torneo sotto una soglia molto interessante, con il 44% di sconto rispetto ai 145€ di partenza.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98418/tomshw-offer-555254.png",
+      "publishedAt": "2026-06-26T16:32:20+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "vivo X Fold6 arriverà in Italia entro fine 2026: il pieghevole punta sulla fotografia",
-      "link": "https://www.tomshw.it/smartphone/vivo-x-fold6-italia-2026-fotografia-pieghevole",
-      "excerpt": "vivo X Fold6 è stato annunciato in Cina e arriverà anche sul mercato europeo, Italia compresa, entro la fine del 2026. Il nuovo smartphone pieghevole flagship nasce con un…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98362/vivo-x-fold6-italia-2026-fotografia-pieghevole.jpg",
-      "publishedAt": "2026-06-26T13:42:09+00:00",
+      "title": "Valve smorza un po' le promesse sul gaming in 4K di Steam Machine",
+      "link": "https://www.hdblog.it/games/articoli/n662765/valve-steam-machine-gaming-4k-fsr/",
+      "excerpt": "Ora la società ammette che per il 4K è fondamentale l'upscaling.",
+      "image": "https://hd2.tudocdn.net/1302076?w=660",
+      "publishedAt": "2026-06-26T16:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "General Atomics investe nella fusione con un nuovo impianto in California",
+      "link": "https://www.hdblog.it/green/articoli/n662612/general-atomics-fusione-nucleare-california/",
+      "excerpt": "General Atomics realizzerà un centro per testare componenti chiave della fusione nucleare.",
+      "image": "https://hd2.tudocdn.net/1352567?w=660",
+      "publishedAt": "2026-06-26T16:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Recensione ASUS Zenbook A16 UX3607, leggerissimo e versatile",
+      "link": "https://www.tomshw.it/hardware/asus-zenbook-a16-ux3607-recensione-completa",
+      "excerpt": "L'ASUS Zenbook A16 UX3607 si presenta come un Copilot+ PC ultraportatile costruito attorno alla piattaforma Qualcomm Snapdragon X2 Elite Extreme, pensata per offrire prestazioni…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98414/ASUS-Zenbook-A16-UX3607OA-10.jpg",
+      "publishedAt": "2026-06-26T16:10:12+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Robot tagliaerba in offerta per il Prime Day: i modelli da non perdere",
+      "link": "https://images.dday.it/WqGV9eD072UhPtCSc8LYOcIb3JFp87lVBQUZWdi4H_c/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57876/1c8daa_91D4KCYYDoL._AC_SL1500_.jpg",
+      "excerpt": "Dai modelli per piccoli prati a quelli per superfici più ampie: scopri le offerte Prime Day su Ecovacs, Bosch, Mova e Segway... Leggi tutto",
+      "image": "https://images.dday.it/WqGV9eD072UhPtCSc8LYOcIb3JFp87lVBQUZWdi4H_c/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57876/1c8daa_91D4KCYYDoL._AC_SL1500_.jpg",
+      "publishedAt": "2026-06-26T14:45:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Crisi Volkswagen: Blume vorrebbe tagliare 100.000 posti e chiudere 4 fabbriche entro il 2030",
+      "link": "https://images.dday.it/O1arKLJCCJiqI2I4Kz4t8kyI7i9y3zraqPjPIm2wBNo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57877/822697_B2026CW00206_retina_2400.jpg",
+      "excerpt": "La medicina di Oliver Blume per salvare il gruppo sarebbe ancora più amara di quanto preventivato secondo le indiscrezioni: raddoppiano i tagli e il brand Volkswagen verrebbe…",
+      "image": "https://images.dday.it/O1arKLJCCJiqI2I4Kz4t8kyI7i9y3zraqPjPIm2wBNo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57877/822697_B2026CW00206_retina_2400.jpg",
+      "publishedAt": "2026-06-26T14:34:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Dal quadro digitale al \"premi-pulsanti\" automatizzato. Ecco le offerte SwitchBot più ghiotte del Prime Day 2026",
@@ -59,24 +140,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Cambridge trasforma la plastica in idrogeno con un semplice pannello solare",
-      "link": "https://www.hdblog.it/green/articoli/n662605/cambridge-reattore-solare-plastica-idrogeno/",
-      "excerpt": "Cambridge realizza un reattore solare che trasforma plastica e cellulosa in idrogeno pulito.",
-      "image": "https://hd2.tudocdn.net/1352557?w=660",
-      "publishedAt": "2026-06-26T13:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Sempre più incidenti coinvolgono pedoni e SUV: la colpa è il design delle auto?",
-      "link": "https://www.hdmotori.it/incidenti-suv-pedoni-inchiesta/",
-      "excerpt": "Il New York Times ha dato vita a un'inchiesta contro l'aumento esponenziale degli incidenti mortali fra pedoni e auto a causa dei SUV",
-      "image": "https://hd2.tudocdn.net/1352913?w=660",
-      "publishedAt": "2026-06-26T13:30:16+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "DS N° 7, aperti gli ordini. Svelati prezzi e allestimenti",
       "link": "https://images.dday.it/giOFsutrcgdQQJYF7MRZLVOIxNZpK4Jld2WQDkLU7t0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57874/af8642_ds7_thumb.jpg",
       "excerpt": "La nuova ammiraglia DS prende il posto della DS 7 e nasce sulla piattaforma STLA Medium. Disponibile ibrida o elettrica... Leggi tutto",
@@ -86,51 +149,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Prime Day, ultimo giorno: 20 prodotti tech da non lasciarsi sfuggire",
-      "link": "https://www.hdblog.it/amazon/offerte/n662728/prime-day-amazon-ultimo-giorno-migliori-offerte/",
-      "excerpt": "Il Prime Day entra nell’ultimo giorno: una selezione di 20 prodotti tech molto acquistati dai lettori HDblog, tra smartphone, cuffie, TV, robot, tablet, notebook e accessori smart.",
-      "image": "https://hd2.tudocdn.net/1352902?w=660",
-      "publishedAt": "2026-06-26T13:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "NASA punta sui piccoli satelliti per ridurre l’incertezza climatica",
-      "link": "https://www.tomshw.it/scienze/il-razzo-electron-portera-sensori-nasa-dove-il-clima-si-decide",
-      "excerpt": "NASA ha scelto Rocket Lab per portare in orbita due missioni dedicate a un punto delicato del sistema Terra: quanta energia arriva dal Sole e come le nubi di ghiaccio modificano…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98358/il-razzo-electron-portera-sensori-nasa-dove-il-clima-si-decide.png",
-      "publishedAt": "2026-06-26T13:23:02+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "CloudCasa porta il disaster recovery per Kubernetes su HPE Alletra",
-      "link": "https://www.tomshw.it/hardware/cloudcasa-porta-il-disaster-recovery-per-kubernetes-su-hpe-alletra",
-      "excerpt": "CloudCasa ha ampliato la collaborazione con HPE introducendo una soluzione di disaster recovery Kubernetes basata su HPE Alletra Storage MP B1000. L'annuncio, legato a HPE…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98360/cloudcasa-porta-il-disaster-recovery-per-kubernetes-su-hpe-alletra.png",
-      "publishedAt": "2026-06-26T13:21:05+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "OnePlus N6 dal vivo: nella confezione ci sono due accessori sempre più rari",
-      "link": "https://www.hdblog.it/smartphone/articoli/n662726/oneplus-n6-unboxing-alimentatore-specifiche-foto/",
-      "excerpt": "Ultimi leak prima del lancio del 30 giugno.",
-      "image": "https://hd2.tudocdn.net/1352895?w=660",
-      "publishedAt": "2026-06-26T13:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "La crisi della RAM fa tornare i moduli DDR4 da 4 GB",
-      "link": "https://www.tomshw.it/hardware/goodram-riporta-i-moduli-ddr4-da-4-gb-segno-della-crisi-dram",
-      "excerpt": "Goodram ha riportato sul mercato moduli DDR4 da 4 GB, una capacità che sembrava ormai relegata ai vecchi PC da ufficio e ai ricambi di fascia bassa. La nuova linea Rival DDR4…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98359/goodram-riporta-i-moduli-ddr4-da-4-gb-segno-della-crisi-dram.png",
-      "publishedAt": "2026-06-26T13:18:24+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Trump starebbe frenando GPT-5.6: il nuovo modello di OpenAI dovrà passare prima dal governo USA",
       "link": "https://images.dday.it/E2hNvnh7VwwakOsALKeXLOx2-ddaEjyW_Jp2zmHUbek/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57873/b97c72_Depositphotos_876524170_XL.jpg",
       "excerpt": "Il rilascio pubblico non sarà immediato. Secondo alcune fonti, GPT-5.6 uscirà inizialmente in anteprima per partner approvati dal governo federale, con accessi valutati cliente…",
@@ -138,15 +156,6 @@
       "publishedAt": "2026-06-26T13:18:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Huawei svela GigaUplink, il 5G cambia per l'AI mobile",
-      "link": "https://www.tomshw.it/smartphone/huawei-svela-gigauplink-il-5g-cambia-per-lai-mobile",
-      "excerpt": "Huawei ha presentato GigaUplink, una nuova soluzione pensata per rendere le reti mobili più adatte ai servizi di intelligenza artificiale sugli smartphone. L'annuncio arriva dal…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98357/huawei-svela-gigauplink-il-5g-cambia-per-l-ai-mobile.png",
-      "publishedAt": "2026-06-26T13:16:03+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Le API di SmartThings diventano a pagamento per tutti: sgambetto a Home Assistant",
@@ -167,24 +176,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "WhatsApp: in arrivo l’aggiornamento al Liquid Glass anche su iPad",
-      "link": "https://www.hdblog.it/apple/articoli/n662716/whatsapp-aggiornamento-liquid-glass-su-ipad/",
-      "excerpt": "Il nuovo design è già disponibile per alcuni utenti.",
-      "image": "https://hd2.tudocdn.net/1352872?w=660",
-      "publishedAt": "2026-06-26T13:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Debutta la McMurtry Speirling Pure, l’auto che non teme la forza di gravità",
-      "link": "https://www.hdmotori.it/mcmurtry-speirling-pure-debutto/",
-      "excerpt": "Al Festival of Speed farà il suo esordio la versione definitiva della McMurtry, una monoposto elettrica da poco più di 1.000 CV",
-      "image": "https://hd2.tudocdn.net/1352897?w=660",
-      "publishedAt": "2026-06-26T13:00:59+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Piani cottura a induzione in offerta Prime Day: ultimi sconti disponibili",
       "link": "https://images.dday.it/i5dd4EGkpxJmKEm1mW1lFdcVDzkP6Nl3AWc-Wz0-RQQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57871/caa100_717VYaVHDvL._AC_SL1500_.jpg",
       "excerpt": "Le migliori promozioni attive oggi sui piani cottura a induzione: ultimi sconti disponibili... Leggi tutto",
@@ -194,29 +185,29 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Spagna, reti mobili attive anche durante i blackout: 4 ore di copertura garantita",
-      "link": "https://www.hdblog.it/mercato/articoli/n662723/spagna-vuole-reti-mobili-accese/",
-      "excerpt": "Le regole varranno per operatori tlc e gestori di infrastrutture digitali",
-      "image": "https://hd2.tudocdn.net/1352896?w=660",
-      "publishedAt": "2026-06-26T12:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Lo shortage di RAM e memoria flash andrà avanti per altri due anni, come minimo",
+      "link": "https://www.tomshw.it/business/lo-shortage-di-ram-e-memoria-flash-andra-avanti-per-altri-due-anni-come-minimo",
+      "excerpt": "Lo shortage di memoria è strutturale, non ciclico. Sanjay Mehrotra, CEO di Micron, ha dichiarato che lo squilibrio tra domanda e offerta nel mercato della memoria durerà ben oltre…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98339/08-a08-memory-cover.jpg",
+      "publishedAt": "2026-06-26T12:15:05+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
-      "title": "GTA 6 sarà più bello su PlayStation 5 Pro",
-      "link": "https://www.hdblog.it/games/articoli/n662722/gta-6-vi-ps5-pro-playstation-prestazioni-migliori/",
-      "excerpt": "Filtrano i primi indizi.",
-      "image": "https://hd2.tudocdn.net/1352200?w=660",
-      "publishedAt": "2026-06-26T12:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Migliori dash cam (giugno 2026)",
+      "link": "https://www.tomshw.it/automotive/migliori-dashcam",
+      "excerpt": "Le dash cam sono diventate uno degli accessori più utili per chi passa molto tempo in auto, perché registrano ciò che accade davanti al veicolo e, nei modelli più completi, anche…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/88221/migliori-dashcam-copertina.jpg",
+      "publishedAt": "2026-06-26T11:46:42+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Migliori videocamere di sorveglianza wi-fi (giugno 2026)",
-      "link": "https://www.tomshw.it/guide/migliore-telecamera-ip-videosorveglianza",
-      "excerpt": "Le videocamere di sorveglianza Wi-Fi sono diventate uno dei pilastri della smart home moderna, ma scegliere bene è molto meno banale di quanto sembri. Oggi il mercato offre…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/86737/migliori-videocamere-sorveglianza-wifi-copertina.jpg",
-      "publishedAt": "2026-06-26T11:20:38+00:00",
+      "title": "Migliori asciugatrici (giugno 2026)",
+      "link": "https://www.tomshw.it/offerte/asciugatrici-migliori",
+      "excerpt": "Scegliere una buona asciugatrice nel 2026 non significa solo trovare un modello capiente o inseguire l’offerta del momento. È un acquisto che incide per anni sulla gestione del…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/86734/migliori-asciugatrici-copertina.jpg",
+      "publishedAt": "2026-06-26T11:38:32+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -239,38 +230,47 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Le multe stradali le controlli online: attivato il portale della Polizia di Stato. È visibile anche il fotogramma dell'autovelox",
-      "link": "https://images.dday.it/v0h7zI5zsTLQwuvP65sowkoy6Ga6LNO7skd1jm__99o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57868/01f304_polizialocale_thumb.jpg",
-      "excerpt": "La piattaforma consente di vedere verbali e documenti ricevuti tramite SEND, comunicare i dati del conducente, richiedere l’accesso agli atti e pagare le multe tramite PagoPA...…",
-      "image": "https://images.dday.it/v0h7zI5zsTLQwuvP65sowkoy6Ga6LNO7skd1jm__99o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57868/01f304_polizialocale_thumb.jpg",
-      "publishedAt": "2026-06-26T09:32:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Prime Day 2026: ultimo giorno! Scopri le migliori offerte in scadenza oggi",
-      "link": "https://images.dday.it/wDRmXrv4aX9lUArQXMFzpa71WbMgQTARCrrrviyfOv0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57818/01d396_PD26_BoxProductStack_8_MAIN_jw_v3_PrimeBlue_3.jpg",
-      "excerpt": "Robot lavapavimenti, TV, console, smartphone, cuffie e altro: ultimo giorno Prime Day, le migliori offerte in aggiornamento continuo... Leggi tutto",
-      "image": "https://images.dday.it/wDRmXrv4aX9lUArQXMFzpa71WbMgQTARCrrrviyfOv0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57818/01d396_PD26_BoxProductStack_8_MAIN_jw_v3_PrimeBlue_3.jpg",
-      "publishedAt": "2026-06-26T09:21:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "HUAWEI WATCH GT 6 da 46mm cala del 28%: occasione smartwatch",
-      "link": "https://www.tomshw.it/offerte/huawei-watch-gt-6-da-46mm-cala-del-28-occasione-smartwatch",
-      "excerpt": "Se state cercando uno smartwatch sportivo con autonomia lunga e funzioni evolute per allenamento e salute, HUAWEI WATCH GT 6 da 46mm torna a essere una scelta da valutare con…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97516/B0FK4J2X7D.png",
-      "publishedAt": "2026-06-19T13:25:46+00:00",
+      "title": "Galaxy A17 da 128GB crolla a 134,99€: occasione sotto i 135€",
+      "link": "https://www.tomshw.it/offerte/galaxy-a17-da-128gb-crolla-a-13499eur-occasione-sotto-i-135eur",
+      "excerpt": "Galaxy A17 da 128GB torna tra le proposte più concrete per chi vuole uno smartphone Samsung recente senza salire troppo con il budget. In questo momento lo trovate in offerta a…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97539/B0FN7XRMML.png",
+      "publishedAt": "2026-06-19T14:06:14+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Samsung Galaxy A17 da 128GB sotto i 135€: il -35% si fa notare",
-      "link": "https://www.tomshw.it/offerte/samsung-galaxy-a17-da-128gb-sotto-i-135eur-il-35-si-fa-notare",
-      "excerpt": "Samsung Galaxy A17 da 128GB torna sotto i riflettori con un taglio di prezzo importante: lo trovate in offerta a 134,99 € invece di 209,00 €, con un risparmio di 74,01 €. Per chi…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97515/B0FN7VCYGD.png",
-      "publishedAt": "2026-06-19T13:22:21+00:00",
+      "title": "CORSAIR RM750e (2025) scende a 84,90€: alimentatore al -35%",
+      "link": "https://www.tomshw.it/offerte/corsair-rm750e-2025-scende-a-8490eur-alimentatore-al-35",
+      "excerpt": "Se state assemblando un PC gaming o volete aggiornare una configurazione già pronta per una scheda video recente, CORSAIR RM750e (2025) è uno di quei componenti da guardare con…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97538/B0DMTMK2Q5.png",
+      "publishedAt": "2026-06-19T14:02:32+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "LG OLED evo AI G5 cala di 460€: la smart TV OLED è un affare",
+      "link": "https://www.tomshw.it/offerte/lg-oled-evo-ai-g5-cala-di-460eur-la-smart-tv-oled-e-un-affare",
+      "excerpt": "Se state pensando di aggiornare il salotto con un OLED di fascia alta, LG OLED evo AI G5 è uno dei modelli da tenere d'occhio in questo momento. Si tratta di una smart TV 4K da 55…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97537/B0F44FX27H.png",
+      "publishedAt": "2026-06-19T13:58:48+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "ASUS ROG Strix SCAR 16 crolla di 1.230€: occasione gaming",
+      "link": "https://www.tomshw.it/offerte/asus-rog-strix-scar-16-crolla-di-1230eur-occasione-gaming",
+      "excerpt": "Se state cercando un portatile da gioco di fascia alta, Asus ROG Strix SCAR 16 merita attenzione in questa promozione: il notebook gaming ASUS scende a 2769,00 € invece di 3999,00…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97536/B0DWSXCNC9.png",
+      "publishedAt": "2026-06-19T13:52:26+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Monitor Philips 27M2N8500, sconto da 178€: occasione concreta",
+      "link": "https://www.tomshw.it/offerte/monitor-philips-27m2n8500-sconto-da-178eur-occasione-concreta",
+      "excerpt": "Se state cercando un display di qualità per gaming, lavoro e intrattenimento, il monitor Philips 27M2N8500 torna a farsi notare grazie al taglio di prezzo visto online. Lo trovate…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97535/B0DBM1CTLM.png",
+      "publishedAt": "2026-06-19T13:48:55+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
