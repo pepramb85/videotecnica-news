@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-06-26T17:41:37.448456+00:00",
+  "generatedAt": "2026-06-26T19:29:31.901254+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "GTA VI, la modalità Online funzionerà come in GTA V e RDR2?",
+      "link": "https://www.hdblog.it/games/articoli/n662779/gta-6-online-rockstar-rdr2-come-funziona/",
+      "excerpt": "Pare che sarà un \"modulo\" indipendente: si potrà tenere installata solo la componente multi-player o solo quella single-player, a seconda delle proprie preferenze e dello spazio a…",
+      "image": "https://hd2.tudocdn.net/1353035?w=660",
+      "publishedAt": "2026-06-26T18:06:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Kingdom Come Deliverance 2, 6 milioni di copie vendute e super sconto su Steam",
       "link": "https://www.hdblog.it/games/articoli/n662775/kingdom-come-deliverance-2-vendite-sconto-steam/",
@@ -95,24 +104,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "General Atomics investe nella fusione con un nuovo impianto in California",
-      "link": "https://www.hdblog.it/green/articoli/n662612/general-atomics-fusione-nucleare-california/",
-      "excerpt": "General Atomics realizzerà un centro per testare componenti chiave della fusione nucleare.",
-      "image": "https://hd2.tudocdn.net/1352567?w=660",
-      "publishedAt": "2026-06-26T16:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Recensione ASUS Zenbook A16 UX3607, leggerissimo e versatile",
-      "link": "https://www.tomshw.it/hardware/asus-zenbook-a16-ux3607-recensione-completa",
-      "excerpt": "L'ASUS Zenbook A16 UX3607 si presenta come un Copilot+ PC ultraportatile costruito attorno alla piattaforma Qualcomm Snapdragon X2 Elite Extreme, pensata per offrire prestazioni…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98414/ASUS-Zenbook-A16-UX3607OA-10.jpg",
-      "publishedAt": "2026-06-26T16:10:12+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Robot tagliaerba in offerta per il Prime Day: i modelli da non perdere",
       "link": "https://images.dday.it/WqGV9eD072UhPtCSc8LYOcIb3JFp87lVBQUZWdi4H_c/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57876/1c8daa_91D4KCYYDoL._AC_SL1500_.jpg",
       "excerpt": "Dai modelli per piccoli prati a quelli per superfici più ampie: scopri le offerte Prime Day su Ecovacs, Bosch, Mova e Segway... Leggi tutto",
@@ -122,6 +113,15 @@
       "sourceColor": "#E63946"
     },
     {
+      "title": "Smart Home in sconto: le migliori offerte del Prime Day",
+      "link": "https://www.tomshw.it/hardware/smart-home-in-sconto-le-migliori-offerte-del-prime-day",
+      "excerpt": "Il Prime Day 2026 si conferma un appuntamento di grande interesse anche per chi desidera rendere la propria abitazione più intelligente e connessa. Durante l’evento, infatti,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98065/Smart-Home-in-sconto-le-migliori-offerte-del-Prime-Day.jpg",
+      "publishedAt": "2026-06-26T14:44:52+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "Crisi Volkswagen: Blume vorrebbe tagliare 100.000 posti e chiudere 4 fabbriche entro il 2030",
       "link": "https://images.dday.it/O1arKLJCCJiqI2I4Kz4t8kyI7i9y3zraqPjPIm2wBNo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57877/822697_B2026CW00206_retina_2400.jpg",
       "excerpt": "La medicina di Oliver Blume per salvare il gruppo sarebbe ancora più amara di quanto preventivato secondo le indiscrezioni: raddoppiano i tagli e il brand Volkswagen verrebbe…",
@@ -129,6 +129,15 @@
       "publishedAt": "2026-06-26T14:34:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
+    },
+    {
+      "title": "Anche nell'epoca dell'AI il negozio fisica continua a funzionare",
+      "link": "https://www.tomshw.it/business/lai-nel-retail-non-chiude-i-negozi-fisici-li-rende-piu-difficili-da-battere",
+      "excerpt": "Il retail fisico non sta morendo: nel 2026 l'85,1% delle vendite al dettaglio avviene ancora in negozio, secondo l'ultimo report di Colliers. Il fatto che questa percentuale sia…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98379/new-03-retail-ai.jpg",
+      "publishedAt": "2026-06-26T14:17:13+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Dal quadro digitale al \"premi-pulsanti\" automatizzato. Ecco le offerte SwitchBot più ghiotte del Prime Day 2026",
@@ -185,11 +194,20 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Lo shortage di RAM e memoria flash andrà avanti per altri due anni, come minimo",
-      "link": "https://www.tomshw.it/business/lo-shortage-di-ram-e-memoria-flash-andra-avanti-per-altri-due-anni-come-minimo",
-      "excerpt": "Lo shortage di memoria è strutturale, non ciclico. Sanjay Mehrotra, CEO di Micron, ha dichiarato che lo squilibrio tra domanda e offerta nel mercato della memoria durerà ben oltre…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98339/08-a08-memory-cover.jpg",
+      "title": "Oltre il 78% delle aziende prevede agent AI per il supporto clienti entro 18 mesi",
+      "link": "https://www.tomshw.it/business/oltre-il-78-delle-aziende-prevede-agent-ai-per-il-supporto-clienti-entro-18-mesi",
+      "excerpt": "Settecentottanta per cento delle aziende intervistate nell'Adobe 2026 AI and Digital Trends Report prevede di avere agenti AI operativi nel customer support entro 18 mesi. Solo il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98337/09-a09-customer-support-cover.jpg",
       "publishedAt": "2026-06-26T12:15:05+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori friggitrici ad aria (giugno 2026)",
+      "link": "https://www.tomshw.it/offerte/migliori-friggitrici-ad-aria",
+      "excerpt": "Se volete cucinare in modo più pratico e con meno olio, una friggitrice ad aria resta uno degli elettrodomestici più interessanti da avere in cucina. Il principio di funzionamento…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/86733/migliori-friggitrici-ad-aria-copertina.jpg",
+      "publishedAt": "2026-06-26T11:53:32+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -199,15 +217,6 @@
       "excerpt": "Le dash cam sono diventate uno degli accessori più utili per chi passa molto tempo in auto, perché registrano ciò che accade davanti al veicolo e, nei modelli più completi, anche…",
       "image": "https://cdn.tomshw.it/storage/media/2026/03/88221/migliori-dashcam-copertina.jpg",
       "publishedAt": "2026-06-26T11:46:42+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori asciugatrici (giugno 2026)",
-      "link": "https://www.tomshw.it/offerte/asciugatrici-migliori",
-      "excerpt": "Scegliere una buona asciugatrice nel 2026 non significa solo trovare un modello capiente o inseguire l’offerta del momento. È un acquisto che incide per anni sulla gestione del…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/86734/migliori-asciugatrici-copertina.jpg",
-      "publishedAt": "2026-06-26T11:38:32+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -228,6 +237,15 @@
       "publishedAt": "2026-06-26T10:20:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
+    },
+    {
+      "title": "Sony WF-1000XM6 a 249€: gli auricolari wireless calano di 50€",
+      "link": "https://www.tomshw.it/offerte/sony-wf-1000xm6-a-249eur-gli-auricolari-wireless-calano-di-50eur",
+      "excerpt": "Se state cercando auricolari true wireless di fascia alta con cancellazione del rumore evoluta, Sony WF-1000XM6 tornano da valutare con attenzione: li trovate scontati a 249,00€…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97540/B0GFB2WX82.png",
+      "publishedAt": "2026-06-19T14:09:23+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Galaxy A17 da 128GB crolla a 134,99€: occasione sotto i 135€",
@@ -253,24 +271,6 @@
       "excerpt": "Se state pensando di aggiornare il salotto con un OLED di fascia alta, LG OLED evo AI G5 è uno dei modelli da tenere d'occhio in questo momento. Si tratta di una smart TV 4K da 55…",
       "image": "https://cdn.tomshw.it/storage/media/2026/06/97537/B0F44FX27H.png",
       "publishedAt": "2026-06-19T13:58:48+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "ASUS ROG Strix SCAR 16 crolla di 1.230€: occasione gaming",
-      "link": "https://www.tomshw.it/offerte/asus-rog-strix-scar-16-crolla-di-1230eur-occasione-gaming",
-      "excerpt": "Se state cercando un portatile da gioco di fascia alta, Asus ROG Strix SCAR 16 merita attenzione in questa promozione: il notebook gaming ASUS scende a 2769,00 € invece di 3999,00…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97536/B0DWSXCNC9.png",
-      "publishedAt": "2026-06-19T13:52:26+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Monitor Philips 27M2N8500, sconto da 178€: occasione concreta",
-      "link": "https://www.tomshw.it/offerte/monitor-philips-27m2n8500-sconto-da-178eur-occasione-concreta",
-      "excerpt": "Se state cercando un display di qualità per gaming, lavoro e intrattenimento, il monitor Philips 27M2N8500 torna a farsi notare grazie al taglio di prezzo visto online. Lo trovate…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/97535/B0DBM1CTLM.png",
-      "publishedAt": "2026-06-19T13:48:55+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
