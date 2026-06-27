@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-06-27T15:09:58.882164+00:00",
+  "generatedAt": "2026-06-27T17:00:49.436045+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Apple punta sulla fascia alta: nuovi MacBook Ultra e MacBook Pro in autunno",
+      "link": "https://www.hdblog.it/portatili/articoli/n662810/apple-macbook-ultra-pro-2026-autunno-m5-m6-chip/",
+      "excerpt": "Ecco le differenze tra i due secondo i rumor.",
+      "image": "https://hd2.tudocdn.net/1352720?w=660",
+      "publishedAt": "2026-06-27T16:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Cuffie HyperX a 34,49€ su Amazon: DTS gaming al -51%",
+      "link": "https://www.tomshw.it/offerte/cuffie-hyperx-a-3449eur-su-amazon-dts-gaming-al-51",
+      "excerpt": "HyperX Cloud Stinger II a 34,49€ su Amazon mettono l’audio gaming cablato a metà prezzo, con listino da 69,99€ e sconto del 51%. Il taglio interessante è l’ingresso in una fascia…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98430/tomshw-offer-556024.png",
+      "publishedAt": "2026-06-27T15:32:17+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Google, licenziato dopo aver creato tool virale che semplifica l'uso di Workspace",
+      "link": "https://www.hdblog.it/applicazioni/articoli/n662808/google-licenziato-tool-virale-workspace/",
+      "excerpt": "La vicenda raccontata in un post su X",
+      "image": "https://hd2.tudocdn.net/1353096?w=660",
+      "publishedAt": "2026-06-27T15:30:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "G502 X LIGHTSPEED sotto il minimo: 89,99€ su Amazon",
       "link": "https://www.tomshw.it/offerte/g502-x-lightspeed-sotto-il-minimo-8999eur-su-amazon",
@@ -95,24 +122,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Tesla investe 5 miliardi: maxi rete di batterie da 100 GWh in Europa",
-      "link": "https://www.hdblog.it/green/articoli/n662675/tesla-natpower-batterie-europa-100gwh/",
-      "excerpt": "Tesla e NatPower avviano un piano da 5 miliardi per l'accumulo energetico in Europa.",
-      "image": "https://hd2.tudocdn.net/1352782?w=660",
-      "publishedAt": "2026-06-27T08:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Galaxy S25 FE (256 GB) in promo su Amazon: è il mid-range Samsung da scegliere oggi",
-      "link": "https://www.hdblog.it/smartphone/offerte/n662803/samsung-galaxy-s25-fe-256-gb-amazon-fine-giu26/",
-      "excerpt": "Il Samsung Galaxy S25 FE da 256 GB è in offerta su Amazon con un ottimo prezzo: è una delle opzioni giuste per la fascia media.",
-      "image": "https://hd2.tudocdn.net/1328964?w=660",
-      "publishedAt": "2026-06-27T08:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "GPT-5.6 è ufficiale: tre modelli distinti e il governo americano decide chi può usarli",
       "link": "https://images.dday.it/E2I-UJK0p-zdwDPGUQnYiyRXjB4TmqPZPznceXwgdTA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57880/2a5344_small_Screenshot_2026-06-27_alle_09.44.22_copia.png",
       "excerpt": "OpenAI lancia i modelli Sol, Terra e Luna all’interno di GPT-5.6 con prestazioni ai vertici del settore. Ma per la prima volta un'azienda privata ha dovuto chiedere il permesso a…",
@@ -156,6 +165,15 @@
       "publishedAt": "2026-06-26T14:34:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
+    },
+    {
+      "title": "Le aziende entrano nel mondo AI come incoscienti, prendono troppi rischi",
+      "link": "https://www.tomshw.it/business/le-aziende-entrano-nel-mondo-ai-come-incoscienti-prendono-troppi-rischi",
+      "excerpt": "Il 93% delle aziende ha già subito incidenti infrastrutturali causati dall'intelligenza artificiale. Il dato emerge dal report 2026 State of Infrastructure Automation di Spacelift…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98381/new-12-aziende-rischi-governance.jpg",
+      "publishedAt": "2026-06-26T14:20:17+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "L'efficienza energetica degli agenti AI diventa un problema da architettura software",
@@ -212,15 +230,6 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "I pagamenti B2B non sono più speciali, ora che fanno tutto gli agenti in modalità A2A",
-      "link": "https://www.tomshw.it/business/i-pagamenti-b2b-non-sono-piu-speciali-ora-che-fanno-tutti-gli-agenti-in-modalita-a2a",
-      "excerpt": "Gli agenti AI hanno cominciato a pagare. Non metaforicamente: il protocollo Agent2Agent di Google, lanciato ad aprile 2025, e la sua estensione AP2 per i pagamenti, arrivata a…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98341/03-a03-pagamenti-a2a-cover.jpg",
-      "publishedAt": "2026-06-26T13:44:32+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Dal quadro digitale al \"premi-pulsanti\" automatizzato. Ecco le offerte SwitchBot più ghiotte del Prime Day 2026",
       "link": "https://images.dday.it/6kTfZd_Z7vi9mb3gR8SgEC_9wmQm_nSb97kaEs-ngsU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57829/ee55c8_EU_3840X1920_without_tagline__1_.png",
       "excerpt": "Fino al 26 giugno tante offerte sui prodotti smart di SwitchBot: ventilatori, serrature e anche cornici digitali con l'IA. Facili da usare e ora anche più convenienti... Leggi…",
@@ -264,15 +273,6 @@
       "publishedAt": "2026-06-26T13:11:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il 99% di chi usa un Mac, non sa queste cose",
-      "link": "https://www.tomshw.it/hardware/il-99-di-chi-usa-un-mac-non-sa-queste-cose",
-      "excerpt": "Il mondo della tecnologia è costellato di lanci di prodotto, aggiornamenti software e rivoluzioni hardware, ma pochi ecosistemi possiedono una mitologia così densa e affascinante…",
-      "image": "https://cdn.tomshw.it/storage/media/2025/07/63279/apple.jpg",
-      "publishedAt": "2026-06-26T12:14:42+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     }
   ]
 }
