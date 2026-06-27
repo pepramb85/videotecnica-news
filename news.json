@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T13:16:56.962419+00:00",
+  "generatedAt": "2026-06-27T15:09:58.882164+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
@@ -122,15 +122,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Stick Hall Effect per Xbox e PC: Thrustmaster Heart a 53,85€",
-      "link": "https://www.tomshw.it/offerte/stick-hall-effect-per-xbox-e-pc-thrustmaster-heart-a-5385eur",
-      "excerpt": "Thrustmaster Heart Controller costa 53,85€ su Amazon con sconto del 43% sul listino da 99,99€. L’elemento che lo rende interessante è la tecnologia Hall Effect HEART, pensata per…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98427/tomshw-offer-555595.png",
-      "publishedAt": "2026-06-27T07:33:06+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Apple e aumento prezzi: nel retail per ora i rincari non si vedono. Ma per quanto?",
       "link": "https://images.dday.it/01Lvbxw5XXI9rCv7Ijl-WKzcgN7g4wCWTeYYcvU30cM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57869/d9b49f_MacBook.jpg",
       "excerpt": "Ad oggi gli aumenti applicati da Apple sul suo store ufficiale non si sono ancora propagati presso le principale catene della grande distribuzione. Ultimo weekend prima dei…",
@@ -167,6 +158,24 @@
       "sourceColor": "#E63946"
     },
     {
+      "title": "L'efficienza energetica degli agenti AI diventa un problema da architettura software",
+      "link": "https://www.tomshw.it/business/lefficienza-energetica-degli-agenti-ai-diventa-un-problema-da-architettura-software",
+      "excerpt": "I flussi agentici consumano troppa energia. Non è un'opinione: è il punto di partenza di una ricerca sviluppata al MIT in collaborazione con Microsoft Azure, presentata a USENIX…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98382/new-11-energia-efficienza.jpg",
+      "publishedAt": "2026-06-26T14:19:58+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Un database ci salverà dai costi folli dell'IA?",
+      "link": "https://www.tomshw.it/business/un-database-ci-salvera-dai-costi-folli-dellIA",
+      "excerpt": "Il costo dell'AI in produzione ha smesso di essere un problema teorico per diventare una priorità operativa. Pinecone e Tiger Data, due startup specializzate nell'ottimizzazione…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98374/new-10-database-costi.jpg",
+      "publishedAt": "2026-06-26T14:19:33+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "I data lakehouse diventano fondamento per l'AI aziendale: casi d'uso per le imprese",
       "link": "https://www.tomshw.it/business/i-data-lakehouse-diventano-fondamento-per-lai-aziendale-casi-duso-per-le-imprese",
       "excerpt": "I data lakehouse sono diventati l'architettura di riferimento per l'AI enterprise, come documenta CIO. Non è una scelta estetica: è una risposta a un problema concreto che le…",
@@ -190,15 +199,6 @@
       "excerpt": "OpenAI ha appena pubblicato una ricerca che mostra come i suoi dipendenti stiano abbandonando in massa ChatGPT per passare a Codex, l'agente AI capace di eseguire compiti…",
       "image": "https://cdn.tomshw.it/storage/media/2026/06/98372/new-07-chatbot-agenti-bolletta.jpg",
       "publishedAt": "2026-06-26T14:18:25+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Come l'AI sta ridisegnando i ruoli professionali nel software enterprise",
-      "link": "https://www.tomshw.it/business/come-lai-sta-ridisegnando-i-ruoli-professionali-nel-software-enterprise",
-      "excerpt": "I ruoli professionali nel software enterprise non stanno sparendo: si stanno trasformando in qualcosa di diverso da ciò per cui sono stati progettati. Chi sviluppava ora…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98373/new-04-ruoli-enterprise.jpg",
-      "publishedAt": "2026-06-26T14:17:37+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
