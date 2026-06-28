@@ -1,9 +1,63 @@
 {
-  "generatedAt": "2026-06-28T07:44:24.750218+00:00",
+  "generatedAt": "2026-06-28T10:22:03.192000+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Ho trasformato un vecchio Android in un iPod: la recensione dell'app NostalgicPod",
+      "link": "https://www.hdblog.it/android/recensioni/n662571/nostalgicpod-recensione/",
+      "excerpt": "La recensione di NostalgicPod, l'applicazione che trasforma qualsiasi smartphone Android in un iPod per l'ascolto della musica offline.",
+      "image": "https://hd2.tudocdn.net/1352948?w=660",
+      "publishedAt": "2026-06-28T09:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Dyson Pencil Wash in prova: prodotto esclusivo, ma con tanti compromessi",
+      "link": "https://www.hdblog.it/home/recensioni/n662402/dyson-pencil-wash-in-prova-prodotto-esclusivo-ma-con-tanti-compromessi/",
+      "excerpt": "Parliamo di Dyson Pencil Wash, una lavapavimenti dal concept innovativo e dal design curato, ma con alcuni compromessi tecnici importanti.",
+      "image": "https://hd2.tudocdn.net/1352244?w=660",
+      "publishedAt": "2026-06-28T09:30:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Deep Fission conquista i data center: già richiesti 18,5 GW di energia",
+      "link": "https://www.hdblog.it/green/articoli/n662734/deep-fission-reattore-sotterraneo-data-center/",
+      "excerpt": "Deep Fission raccoglie interesse per 18,5 GW con il suo reattore nucleare sotterraneo.",
+      "image": "https://hd2.tudocdn.net/1352899?w=660",
+      "publishedAt": "2026-06-28T08:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "180Hz sotto i 90€: MSI G2422C è il monitor gaming da prendere",
+      "link": "https://www.tomshw.it/offerte/180hz-sotto-i-90eur-msi-g2422c-e-il-monitor-gaming-da-prendere",
+      "excerpt": "MSI G2422C a 89€ su Amazon porta un monitor gaming da 180Hz sotto la soglia dei 90€, con listino a 149,99€ e sconto del 41%. L'angolo interessante è tutto nella fluidità: pannello…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98446/tomshw-offer-556440.png",
+      "publishedAt": "2026-06-28T08:32:16+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Non solo Galaxy Note 7: gli 8 smartphone Samsung che hanno fatto subito flop",
+      "link": "https://www.hdblog.it/smartphone/articoli/n662729/samsung-galaxy-smartphone-peggiori-storia/",
+      "excerpt": "Una lista non esaustiva dei peggiori smartphone Samsung.",
+      "image": "https://hd2.tudocdn.net/1352967?w=660",
+      "publishedAt": "2026-06-28T08:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google punta sulle batterie a CO2: maxi impianto da 200 MWh in Irlanda",
+      "link": "https://www.hdblog.it/google/articoli/n662733/google-batteria-co2-irlanda-200mwh/",
+      "excerpt": "Google ed Energy Dome costruiscono in Irlanda una batteria a CO2 da 23 MW e 200 MWh per accumulare energia rinnovabile e rafforzare la rete elettrica.",
+      "image": "https://hd2.tudocdn.net/1352898?w=660",
+      "publishedAt": "2026-06-28T07:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Come rendere \"smart\" i vecchi speaker passivi grazie a ESP32",
       "link": "https://www.hdblog.it/domotica/articoli/n662782/esp32-speaker-smart-vintage-passivo-kit-sonocotta/",
@@ -91,60 +145,6 @@
       "excerpt": "La vicenda raccontata in un post su X",
       "image": "https://hd2.tudocdn.net/1353096?w=660",
       "publishedAt": "2026-06-27T15:30:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "G502 X LIGHTSPEED sotto il minimo: 89,99€ su Amazon",
-      "link": "https://www.tomshw.it/offerte/g502-x-lightspeed-sotto-il-minimo-8999eur-su-amazon",
-      "excerpt": "A 89,99€ su Amazon, Logitech G502 X LIGHTSPEED scende sotto quota 90€ con uno sconto del 39% rispetto ai 165€ di listino. Il dato pesa perché questo mouse gaming wireless non era…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98429/tomshw-offer-555864.png",
-      "publishedAt": "2026-06-27T12:32:26+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Recensione TV TCL C8L: SQD-MiniLED per super colori, luminosità e tanta versatilità",
-      "link": "https://www.hdblog.it/tv/recensioni/n662602/tv-tcl-c8l-sqdminiled-4k-gaming-prova-test-prezzo/",
-      "excerpt": "La nostra prova completa di misure del nuovo TCL C8L dotato di inediti SQD-MiniLED per una super resa dei colori e un eccellente rapporto qualità / prezzo.",
-      "image": "https://hd2.tudocdn.net/1352553?w=660",
-      "publishedAt": "2026-06-27T12:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "USA puntano al primo computer quantistico tollerante agli errori entro il 2028",
-      "link": "https://www.hdblog.it/hardware/articoli/n662736/usa-quantum-genesis-computer-quantistico-2028/",
-      "excerpt": "Gli USA lanciano Quantum Genesis per realizzare un computer quantistico entro il 2028.",
-      "image": "https://hd2.tudocdn.net/1352901?w=660",
-      "publishedAt": "2026-06-27T11:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Novak Djokovic: Il lupo d’inverno arriva su Prime Video il 20 agosto",
-      "link": "https://www.hdblog.it/amazon/articoli/n662786/novak-djokovic-il-lupo-dinverno-prime-video/",
-      "excerpt": "Il documentario su Novak Djokovic debutta su Prime Video il 20 agosto.",
-      "image": "https://hd2.tudocdn.net/1353063?w=660",
-      "publishedAt": "2026-06-27T11:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Robot cane cinese sfida gelo e fiumi: Lynx M20S domina i test",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n662676/lynx-m20s-robot-cane-cinese/",
-      "excerpt": "Il Lynx M20S supera neve, fiumi e pendii estremi fino a -30 °C.",
-      "image": "https://hd2.tudocdn.net/1352784?w=660",
-      "publishedAt": "2026-06-27T10:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Google Wallet, arrivano i biglietti per gli eventi 2.0",
-      "link": "https://www.hdblog.it/smartphone/articoli/n662752/google-wallet-nuovi-biglietti-eventi/",
-      "excerpt": "Formato interattivo",
-      "image": "https://hd2.tudocdn.net/1353021?w=660",
-      "publishedAt": "2026-06-27T10:25:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
