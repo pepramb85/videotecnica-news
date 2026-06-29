@@ -1,9 +1,81 @@
 {
-  "generatedAt": "2026-06-29T16:54:23.407807+00:00",
+  "generatedAt": "2026-06-29T19:46:25.637885+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Voce da studio sotto 100€: Elgato Wave:3 è al -41% su Amazon",
+      "link": "https://www.tomshw.it/offerte/voce-da-studio-sotto-100eur-elgato-wave3-e-al-41-su-amazon",
+      "excerpt": "Elgato Wave:3 è a 99,99€ su Amazon, con il 41% di sconto rispetto ai 169,99€ di listino. L’angolo interessante è chiaro: un microfono USB pensato per streaming, podcast, gaming e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98654/tomshw-offer-558001.png",
+      "publishedAt": "2026-06-29T19:18:01+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Google Pixel 6 con Android 17: dopo quasi cinque anni, la redenzione. | VIDEO",
+      "link": "https://www.hdblog.it/smartphone/speciali/n658719/google-pixel-6-android17-aggiornamento-video/",
+      "excerpt": "I Google Pixel 6 con l'aggiornamento ad Android 17 sono arrivati \"al capolinea\", ma sono stati cinque anni di costante miglioramento. Quale è il loro stato attuale? Google è…",
+      "image": "https://hd2.tudocdn.net/1350949?w=660",
+      "publishedAt": "2026-06-29T19:01:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Paramount+: tutti i film e le serie TV in arrivo a luglio 2026",
+      "link": "https://www.hdblog.it/curiosita/articoli/n662921/paramount-film-serie-tv-luglio-2026/",
+      "excerpt": "Ecco le novità del mese",
+      "image": "https://hd2.tudocdn.net/1353363?w=660",
+      "publishedAt": "2026-06-29T19:00:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Steam Machine, la \"Skin\" Companion Cube di Dbrand non si farà",
+      "link": "https://www.hdblog.it/games/articoli/n662954/steam-machine-valve-dbrand-custodia-portal/",
+      "excerpt": "Dbrand non ha chiesto una licenza a Valve, il team legale di Valve è intervenuto con tempestività estrema.",
+      "image": "https://hd2.tudocdn.net/1351817?w=660",
+      "publishedAt": "2026-06-29T18:13:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "WhatsApp, Username presto in arrivo! Prenotazioni già entro settimana",
+      "link": "https://www.hdblog.it/android/articoli/n662950/whatsapp-username-nomi-utente-prenotazioni/",
+      "excerpt": "Ecco come funzioneranno.",
+      "image": "https://hd2.tudocdn.net/1353429?w=660",
+      "publishedAt": "2026-06-29T17:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung, i nomi controintuitivi dei nuovi pieghevoli sono praticamente confermati",
+      "link": "https://www.hdblog.it/smartphone/articoli/n662948/samsung-galaxy-z-fold-8-ultra-nomi-conferme/",
+      "excerpt": "Un produttore di custodie terzo fuga gli ultimi dubbi.",
+      "image": "https://hd2.tudocdn.net/1274322?w=660",
+      "publishedAt": "2026-06-29T17:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "MSI Claw 8 Ex AI+ arriva in Italia: preordini aperti, prezzi proibitivi",
+      "link": "https://www.hdblog.it/hardware/articoli/n662943/msi-claw-8-ex-ai-plus-preordini-italia-prezzo/",
+      "excerpt": "Disponibile da luglio... per chi ha un portafogli abbastanza capiente.",
+      "image": "https://hd2.tudocdn.net/1353401?w=660",
+      "publishedAt": "2026-06-29T17:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google frena Meta: stop all'uso illimitato di Gemini per l'AI",
+      "link": "https://www.hdblog.it/google/articoli/n662931/google-limita-meta-gemini-ai/",
+      "excerpt": "Google limita l'uso di Gemini da parte di Meta per carenza di potenza di calcolo.",
+      "image": "https://hd2.tudocdn.net/1353368?w=660",
+      "publishedAt": "2026-06-29T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "RedMagic Astra 2: il tablet compatto per il gaming arriverà sul mercato globale",
       "link": "https://www.hdblog.it/tablet/articoli/n662938/redmagic-astra-2-globale-italia-lancio-specifiche/",
@@ -50,60 +122,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Rocket Lab compra Iridium: sfiderà Starlink e Amazon nello spazio",
-      "link": "https://www.hdblog.it/mercato/articoli/n662932/rocket-lab-acquisisce-iridium/",
-      "excerpt": "Rocket Lab acquisisce Iridium per rafforzarsi nel mercato di internet satellitare.",
-      "image": "https://hd2.tudocdn.net/1353372?w=660",
-      "publishedAt": "2026-06-29T16:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "OnePlus punta forte sui display per top e medio gamma: 185 Hz oggi, 240 Hz domani",
-      "link": "https://www.hdblog.it/smartphone/articoli/n662922/oneplus-16-16r-185-240-hz-refresh-rate-schermo/",
-      "excerpt": "Conferme e nuove indicazioni dalla Cina.",
-      "image": "https://hd2.tudocdn.net/1330611?w=660",
-      "publishedAt": "2026-06-29T16:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Paramount+: tutti i film e le serie TV in arrivo a luglio 2026",
-      "link": "https://www.hdblog.it/curiosita/articoli/n662921/paramount-film-serie-tv-luglio-2026/",
-      "excerpt": "Ecco le novità del mese",
-      "image": "https://hd2.tudocdn.net/1353363?w=660",
-      "publishedAt": "2026-06-29T15:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Wimbledon 2026: martedì di fuoco per gli italiani. Orari e campi di Berrettini, Cobolli, Sonego e Arnaldi",
-      "link": "https://www.tomshw.it/altro/wimbledon-2026-martedi-di-fuoco-per-gli-italiani-orari-e-campi-di-berrettini-cobolli-sonego-e-arnaldi",
-      "excerpt": "Dopo i match d'esordio di Jannik Sinner e Luciano Darderi, la seconda giornata del torneo di Wimbledon vedrà un martedì caldissimo per i colori azzurri. Domani, 30 giugno, sarà…",
-      "image": "https://cdn.tomshw.it/storage/media/2024/06/25212/wimbledon.png",
-      "publishedAt": "2026-06-29T15:50:49+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Microsoft Edge: più strumenti per la sicurezza dedicati ai professionisti",
-      "link": "https://www.hdblog.it/microsoft/articoli/n662933/microsoft-edge-piu-strumenti-per-la-sicurezza/",
-      "excerpt": "Arriva la modalità per rilevare le truffe online con l’ausilio dell’AI.",
-      "image": "https://hd2.tudocdn.net/1353369?w=660",
-      "publishedAt": "2026-06-29T15:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Come proteggere l'auto da questo caldo torrido: alcuni consigli fondamentali",
-      "link": "https://www.hdmotori.it/come-proteggere-auto-caldo-consigli-utili/",
-      "excerpt": "Il caldo non dà tregua, neppure all'automobile. Alcuni consigli utili per contrastare le alte temperature che possono nuocere alla macchina",
-      "image": "https://hd2.tudocdn.net/1353371?w=660",
-      "publishedAt": "2026-06-29T15:30:24+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Tesla lancia la versione FSD 14 Lite della sua guida autonoma sulle auto con vecchio hardware",
       "link": "https://images.dday.it/x6zvjIZdBqo0JiP3ac5Te4cvrVtvP-dWCJwkuvvLY9Y/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57893/81cc20_FSD_1.jpg",
       "excerpt": "Si tratta di una versione “distillata” del Full Self Driving disponibile sui veicoli più nuovi. Si tratta per lo più di un contentino per i clienti che hanno pagato migliaia di…",
@@ -111,33 +129,6 @@
       "publishedAt": "2026-06-29T15:30:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "F-35, un accessorio da 100 euro evita danni ai motori da 20 milioni",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n662873/f35-accessorio-stampa-3d-motori/",
-      "excerpt": "Un accessorio da 100 dollari protegge gli F-35A da danni ai motori fino a 20 milioni.",
-      "image": "https://hd2.tudocdn.net/1353206?w=660",
-      "publishedAt": "2026-06-29T15:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "La nuova frontiera del DNA non lo taglia,lo controlla",
-      "link": "https://www.tomshw.it/scienze/crispr-potrebbe-curare-senza-tagliare-il-dna",
-      "excerpt": "Alcune startup biotech stanno portando CRISPR in una direzione diversa da quella più nota: non tagliare il genoma, ma regolare i segnali chimici che dicono ai geni quando…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98629/crispr-potrebbe-curare-senza-tagliare-il-dna.jpg",
-      "publishedAt": "2026-06-29T15:14:51+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Per vivere sulla Luna non bastano i razzi: la NASA cerca idee",
-      "link": "https://www.tomshw.it/scienze/per-vivere-sulla-luna-non-bastano-i-razzi-la-nasa-cerca-idee",
-      "excerpt": "La NASA sta chiedendo a imprese, università e organizzazioni statunitensi di esaminare una bozza di bando pensata per accelerare le tecnologie necessarie a vivere e lavorare sulla…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98627/per-vivere-sulla-luna-non-bastano-i-razzi-la-nasa-cerca-idee.jpg",
-      "publishedAt": "2026-06-29T15:12:13+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Mai più sprechi d'acqua: scopri i timer per irrigazione in offerta su Amazon",
@@ -149,24 +140,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Un laser spezza le fibre cellulari, ma succede l'inatteso",
-      "link": "https://www.tomshw.it/scienze/un-laser-spezza-le-fibre-cellulari-ma-succede-linatteso",
-      "excerpt": "Quando una cellula si divide, deve tirare il proprio DNA in due copie ordinate senza lacerare la macchina che fa il lavoro. Un gruppo guidato da Sophie Dumont alla UCSF ha messo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98626/un-laser-spezza-le-fibre-cellulari-ma-succede-linatteso.jpg",
-      "publishedAt": "2026-06-29T15:11:33+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Agility Robotics sbarca in Borsa: raccolta da 620 milioni per Digit",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n662864/agility-robotics-spac-digit-borsa/",
-      "excerpt": "Agility Robotics debutta in Borsa e raccoglie 620 milioni per accelerare Digit.",
-      "image": "https://hd2.tudocdn.net/1353198?w=660",
-      "publishedAt": "2026-06-29T14:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Offerta imperdibile: il videocitofono senza fili Trust a 39,99 euro",
       "link": "https://images.dday.it/Ow7dja0Q27I_hlXrdXIV6Mh4d8U0WVGbAd-X80fR33Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57891/596afb_81Hlw6p5-kL._AC_SL1500_.jpg",
       "excerpt": "Scopri Trust, il videocitofono senza fili con video 3MP 2K HD, audio bidirezionale e visione notturna, ora in offerta speciale su Amazon... Leggi tutto",
@@ -176,19 +149,28 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Coinbase passa alle AI cinesi. Sicure o no, quel che conta è che costano meno",
-      "link": "https://www.tomshw.it/business/coinbase-ai-cinesi-costano-meno",
-      "excerpt": "Coinbase ha tagliato del 50% i costi di intelligenza artificiale passando di default a due modelli cinesi open weight: GLM 5.2 di Zhipu AI e Kimi K2.7 Code di Moonshot AI. Lo ha…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98603/05-coinbase-ai-cinesi.jpg",
+      "title": "Nessuno controlla più il codice scritto dall'AI. Sarà un problema enorme",
+      "link": "https://www.tomshw.it/business/codice-scritto-ai-code-review-umana-scompare",
+      "excerpt": "Il 41% del codice in produzione oggi è generato dall'AI. La maggior parte di quel codice arriva in produzione senza che nessuno lo abbia letto davvero, riga per riga. È una…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98605/04-ai-code-review.jpg",
       "publishedAt": "2026-06-29T14:10:06+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Micron Technology: la scommessa di Wall Street sulla memoria come infrastruttura dell'AI",
-      "link": "https://www.tomshw.it/business/micron-technology-memoria-infrastruttura-ai-wall-street",
-      "excerpt": "Micron Technology ha riportato ricavi trimestrali di 41,46 miliardi di dollari, con una crescita del 346% anno su anno. Wall Street non solo ha applaudito: ha iniziato a…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98606/03-micron-nvidia.jpg",
+      "title": "Se non arriva il prossimo stipendio magari sarà per colpa di un agente AI mal governato",
+      "link": "https://www.tomshw.it/business/agente-ai-mal-governato-stipendio-payroll-governance",
+      "excerpt": "Workday ha lanciato un avvertimento preciso alle aziende che stanno deployando agenti AI senza una struttura di governance adeguata: un agente senza identità, senza perimetro di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98611/07-agente-paghe.jpg",
+      "publishedAt": "2026-06-29T14:10:06+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Coinbase passa alle AI cinesi. Sicure o no, quel che conta è che costano meno",
+      "link": "https://www.tomshw.it/business/coinbase-ai-cinesi-costano-meno",
+      "excerpt": "Coinbase ha tagliato del 50% i costi di intelligenza artificiale passando di default a due modelli cinesi open weight: GLM 5.2 di Zhipu AI e Kimi K2.7 Code di Moonshot AI. Lo ha…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98603/05-coinbase-ai-cinesi.jpg",
       "publishedAt": "2026-06-29T14:10:06+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
@@ -212,11 +194,29 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Manutenzione predittiva con l'AI, come sfrutta l'anomaly detection con Python e OPC-UA",
-      "link": "https://www.tomshw.it/aioperator/manutenzione-predittiva-ai-anomaly-detection-python-opc-ua",
-      "excerpt": "Il fermo non pianificato di una linea di produzione vale decine di migliaia di euro l'ora nei processi continui. Il guasto in sé pesa meno del tempo di attesa: tecnico…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98592/03-pro05-cover.jpg",
-      "publishedAt": "2026-06-29T13:32:38+00:00",
+      "title": "Marketing automatizzato con l'AI, checklist etica per fare le cose nel modo giusto",
+      "link": "https://www.tomshw.it/aioperator/marketing-ai-checklist-etica",
+      "excerpt": "Il 2 agosto 2026 entrano in vigore gli obblighi di trasparenza dell'articolo 50 dell'AI Act. Per chi usa sistemi di marketing automation basati sull'AI, quella data è già…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98593/04-mkt18-cover.jpg",
+      "publishedAt": "2026-06-29T13:32:30+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori smartphone con eSIM (giugno 2026)",
+      "link": "https://www.tomshw.it/smartphone/migliori-smartphone-con-esim",
+      "excerpt": "Gli smartphone con eSIM sono ormai una scelta concreta per chi vuole cambiare operatore, tenere separati numero personale e numero di lavoro o preparare una connessione dati prima…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/88198/migliori-smartphone-esim-copertina.jpg",
+      "publishedAt": "2026-06-29T11:37:43+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori micro SD per Steam Deck (giugno 2026)",
+      "link": "https://www.tomshw.it/videogioco/migliori-micro-sd-steam-deck",
+      "excerpt": "La console portatile di Valve permette di portare con sé una libreria Steam enorme, ma lo spazio interno diventa presto il primo limite concreto, soprattutto se alternate giochi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/87677/migliori-microsd-steam-deck-copertina.jpg",
+      "publishedAt": "2026-06-29T11:29:18+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
