@@ -1,17 +1,242 @@
 {
-  "generatedAt": "2026-06-30T07:43:26.124816+00:00",
+  "generatedAt": "2026-06-30T10:49:58.494879+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Elettrodomestici gadget per l'estate, ecco quello per bibite di lusso",
-      "link": "https://www.hdblog.it/home/articoli/n662914/elettrodomestici-gadget-estate-macchina-ghiaccio/",
-      "excerpt": "Che crea anche atmosfera in cucina",
-      "image": "https://hd2.tudocdn.net/1353420?w=660",
-      "publishedAt": "2026-06-30T07:40:00+00:00",
+      "title": "Tiangong raddoppia: la Cina prepara la più grande stazione spaziale",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n662971/cina-tiangong-espansione-stazione-spaziale/",
+      "excerpt": "La Cina espanderà Tiangong a sei moduli mentre la ISS si prepara al ritiro.",
+      "image": "https://hd2.tudocdn.net/1353512?w=660",
+      "publishedAt": "2026-06-30T10:45:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "State of Decay 3 potrebbe essere stato cancellato",
+      "link": "https://www.tomshw.it/videogioco/undead-labs-verso-la-chiusura-state-of-decay-3-a-rischio-2026-06-30",
+      "excerpt": "Il futuro di Undead Labs, lo studio responsabile della serie State of Decay, appare sempre più incerto. Secondo indiscrezioni che circolano negli ambienti vicini all'industria…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97158/State-of-decay-3.jpg",
+      "publishedAt": "2026-06-30T10:36:43+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il grafene del MIT apre una nuova pista per i materiali quantistici",
+      "link": "https://www.tomshw.it/scienze/il-grafene-nasconde-piu-stati-superconduttivi-e-sfida-i-magneti",
+      "excerpt": "Un gruppo del MIT ha osservato nel grafene romboedrico diversi modi in cui gli elettroni possono scorrere senza resistenza. Il risultato, pubblicato su Nature, riguarda…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98750/il-grafene-nasconde-piu-stati-superconduttivi-e-sfida-i-magneti.png",
+      "publishedAt": "2026-06-30T10:27:44+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "L'aurora vista dallo spazio è uno spettacolo che lascia senza fiato",
+      "link": "https://www.hdblog.it/curiosita/articoli/n662964/aurora-spazio-sophie-adenot-iss/",
+      "excerpt": "Aurora australe fotografata dalla ISS con spettacolari colori verdi, viola e rossi.",
+      "image": "https://hd2.tudocdn.net/1353510?w=660",
+      "publishedAt": "2026-06-30T10:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Vetro panoramico e iCUE LINK: Corsair 3500X a 119,15€",
+      "link": "https://www.tomshw.it/offerte/vetro-panoramico-e-icue-link-corsair-3500x-a-11915eur",
+      "excerpt": "Corsair iCUE LINK 3500X RGB è a 119,15€ su Amazon invece di 194,90€, con uno sconto del 39%. Il richiamo qui è chiaro: un case panoramico già pronto per una build RGB ordinata,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98751/tomshw-offer-558489.png",
+      "publishedAt": "2026-06-30T10:18:02+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "DeepSeek lancia DSpark, la tecnica che accelera le risposte dei modelli linguistici senza alterarle",
+      "link": "https://images.dday.it/Kc_PcyRu9Uqfgc8WAf4Df8k-ZZvk3mS9UdSdskIHJSQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57902/27c27b_small_e8977d031f813d9906ed953807dfb85dac17e04be136aab1a2277a427684291c_copia.jpg",
+      "excerpt": "Non è l’unico, ma la lentezza nelle risposte resta uno dei limiti più sentiti dei modelli linguistici, specie a livello di data center. DSpark la riduce su DeepSeek-V4, e DeepSpec…",
+      "image": "https://images.dday.it/Kc_PcyRu9Uqfgc8WAf4Df8k-ZZvk3mS9UdSdskIHJSQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57902/27c27b_small_e8977d031f813d9906ed953807dfb85dac17e04be136aab1a2277a427684291c_copia.jpg",
+      "publishedAt": "2026-06-30T10:17:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "L'AI sceglie itinerario, voli e persino quando conviene partire: le novità di Skyscanner",
+      "link": "https://www.hdblog.it/applicazioni/articoli/n663004/skyscanner-novita-ai-viaggi/",
+      "excerpt": "Skyscanner aggiorna la piattaforma con strumenti AI che consigliano destinazioni, periodi migliori per partire e itinerari personalizzati in base allo stile di viaggio dell'utente",
+      "image": "https://hd2.tudocdn.net/1353657?w=660",
+      "publishedAt": "2026-06-30T10:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Perché d'estate aumentano i blackout e perché è difficile trovare soluzioni efficaci",
+      "link": "https://images.dday.it/ep0GTKh_8Q3sqEGAxS0urnVTb-NPwrU7_Hd2F6R2Mjc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57903/8c1212_rete.jpg",
+      "excerpt": "Al contrario di quello che pensano molti il problema dei blackout non è l'eccessiva richiesta di corrente ma la rete elettrica vecchia e fragile, con pezzi di cavo giuntati tra…",
+      "image": "https://images.dday.it/ep0GTKh_8Q3sqEGAxS0urnVTb-NPwrU7_Hd2F6R2Mjc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57903/8c1212_rete.jpg",
+      "publishedAt": "2026-06-30T10:05:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "OnePlus N6 ufficiale: economico ma con un'autonomia da Powerbank",
+      "link": "https://www.hdblog.it/smartphone/articoli/n663008/oneplus-n6-specifiche-batteria-prezzo/",
+      "excerpt": "Ben 8.000 mAh, peraltro con una garanzia di almeno 1.600 cicli di ricarica (7 anni!) per scendere sotto l'80% di carica residua",
+      "image": "https://hd2.tudocdn.net/1353666?w=660",
+      "publishedAt": "2026-06-30T10:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Cambia TV prima dell'estate! Con il Cashback TCL ricevi fino a 1000€ di rimborso",
+      "link": "https://www.tomshw.it/altro/cambia-tv-prima-dellestate-con-il-cashback-tcl-ricevi-fino-a-1000eur-di-rimborso",
+      "excerpt": "Se stai pensando di rinnovare il comparto smart TV di casa, questo è il momento perfetto per farlo. TCL ha appena dato il via a una straordinaria iniziativa intitolata Dai colore…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98747/Cambia-TV-prima-dell'estate!-Con-il-Cashback-TCL-ricevi-fino-a-1000€-di-rimborso.png",
+      "publishedAt": "2026-06-30T10:02:36+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Licenziamenti anche per Assembly, una delle principali agenzie PR di Microsoft",
+      "link": "https://www.hdblog.it/microsoft/articoli/n663003/assembly-pr-licenziamenti-microsoft/",
+      "excerpt": "In una prima fase si sospettava addirittura che la manovra fosse stata causata dai tagli in casa Xbox.",
+      "image": "https://hd2.tudocdn.net/1353649?w=660",
+      "publishedAt": "2026-06-30T09:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Se cerchi una dash cam, è il momento giusto: le migliori offerte Amazon",
+      "link": "https://images.dday.it/pb7YRci3i8cMgs296zN8iqq0zJWrGaoU3oHgoUuxxDk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57901/c513f0_71BwK2buIqL._AC_SL1500_.jpg",
+      "excerpt": "Registrazione in alta definizione, sensori avanzati e maggiore sicurezza alla guida: abbiamo selezionato le migliori dash cam attualmente in offerta su Amazon per aiutarti a…",
+      "image": "https://images.dday.it/pb7YRci3i8cMgs296zN8iqq0zJWrGaoU3oHgoUuxxDk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57901/c513f0_71BwK2buIqL._AC_SL1500_.jpg",
+      "publishedAt": "2026-06-30T09:53:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "DEEP Robotics presenta il robot quadrupede che combatte gli incendi",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n662874/robot-cane-antincendio-deep-robotics/",
+      "excerpt": "Il robot cane di DEEP Robotics spegne incendi a distanza con impulsi mirati.",
+      "image": "https://hd2.tudocdn.net/1353207?w=660",
+      "publishedAt": "2026-06-30T09:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il backup di Android diventa più flessibile. Ora puoi scegliere di quali applicazioni salvare i dati",
+      "link": "https://images.dday.it/VC7ArMdl4ky2KdBouUeIDIfVZ6dHhvaDKURCsUmnsG4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57900/987225_SHORT.png",
+      "excerpt": "Se prima era \"o tutto o niente\", con la nuova funzionalità si possono escludere alcune applicazioni dal backup in cloud. E in futuro arriveranno altre personalizzazioni ... Leggi…",
+      "image": "https://images.dday.it/VC7ArMdl4ky2KdBouUeIDIfVZ6dHhvaDKURCsUmnsG4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57900/987225_SHORT.png",
+      "publishedAt": "2026-06-30T09:41:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Sony non vuole più vendere console con \"perdite significative\": PS5 e PS6 nel mirino",
+      "link": "https://www.hdblog.it/sony/articoli/n662983/sony-no-vendita-console-in-perdita/",
+      "excerpt": "La strategia di Sony potrebbe cambiare, con un'occhio sempre attento sul mercato",
+      "image": "https://hd2.tudocdn.net/1346738?w=660",
+      "publishedAt": "2026-06-30T09:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Mattoncini in festa su LaFeltrinelli: acquisti 2 set LEGO e risparmi subito il 30%",
+      "link": "https://www.tomshw.it/altro/mattoncini-in-festa-su-lafeltrinelli-acquisti-2-set-lego-e-risparmi-subito-il-30",
+      "excerpt": "Gli amanti dei mattoncini più famosi del mondo hanno un motivo in più per festeggiare questa settimana. Su LaFeltrinelli hanno ufficialmente preso il via gli attesissimi LEGO…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98731/Mattoncini-in-festa-su-LaFeltrinelli-acquisti-2-set-LEGO-e-risparmi-subito-il-30-.png",
+      "publishedAt": "2026-06-30T09:32:20+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Fusione nucleare: completato in Cina il più grande magnete a superconduttore del mondo",
+      "link": "https://images.dday.it/Y0qxA-Dyf1iDEs2f-ZTwv7_vsnEQcjf9LMzcAQe3GKk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57899/840f11_W020260627559631085229_ORIGIN.jpg",
+      "excerpt": "Il magnete sarà utilizzato per generare il campo magnetico toroidale del reattore sperimentale cinese CFETR. È il più grande di questo tipo mai costruito ed è stato interamente…",
+      "image": "https://images.dday.it/Y0qxA-Dyf1iDEs2f-ZTwv7_vsnEQcjf9LMzcAQe3GKk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57899/840f11_W020260627559631085229_ORIGIN.jpg",
+      "publishedAt": "2026-06-30T09:27:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Samsung amplia la gamma di lavasciuga con nuovi modelli da 8 a 10 kg",
+      "link": "https://www.hdblog.it/samsung/articoli/n662999/lavasciuga-samsung-8-10-kg-novita-funzioni/",
+      "excerpt": "Samsung amplia la gamma di lavasciuga con nuovi modelli da 8 e 10 kg, tecnologia AcquaSave, funzioni AI, SmartThings e consumi ridotti fino alla classe A -35% in lavaggio",
+      "image": "https://hd2.tudocdn.net/1353572?w=660",
+      "publishedAt": "2026-06-30T09:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nostalgia degli sconti? Insta360 spezza il post-Prime Day con due offerte shock",
+      "link": "https://www.tomshw.it/smartphone/nostalgia-degli-sconti-insta360-spezza-il-post-prime-day-con-due-offerte-shock",
+      "excerpt": "Se pensavate che con la conclusione del Prime Day le occasioni per portarsi a casa il meglio della tecnologia a prezzi stracciati fossero terminate, dovrete ricredervi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/02/83259/5-action-cam-top-in-super-offerta-DJI,-GoPro-e-Insta360-ai-prezzi-migliori.jpg",
+      "publishedAt": "2026-06-30T09:24:05+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Apple, i futuri MacBook Pro e iPad Pro avranno nuovi OLED con colori più fedeli",
+      "link": "https://www.hdblog.it/portatili/articoli/n662997/apple-lavora-nuovi-pannelli-oled-cosa-cambia/",
+      "excerpt": "Un miglioramento concentrato soprattutto sulla resa dei colori",
+      "image": "https://hd2.tudocdn.net/1353576?w=660",
+      "publishedAt": "2026-06-30T09:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Fujifilm School: la nuova accademia digitale per chi vuole fare sul serio con la fotografia",
+      "link": "https://www.tomshw.it/altro/fujifilm-school-la-nuova-accademia-digitale-per-chi-vuole-fare-sul-serio-con-la-fotografia",
+      "excerpt": "Viviamo in un’epoca di bulimia visiva: la tecnologia degli smartphone ha democratizzato la fotografia, trasformandola in un gesto quotidiano e alla portata di tutti, ma al…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98525/SEL_Lezione-1_Modulo-1-01_11_09_10-Immagine004.jpg",
+      "publishedAt": "2026-06-30T09:18:01+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Amazon valuta OpenAI e Nova dopo i rincari di Anthropic",
+      "link": "https://www.hdblog.it/amazon/articoli/n662996/amazon-openai-nova-anthropic/",
+      "excerpt": "Amazon valuta OpenAI e Nova per ridurre i costi senza rompere con Anthropic.",
+      "image": "https://hd2.tudocdn.net/1353575?w=660",
+      "publishedAt": "2026-06-30T09:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Jeep ricostruirà la sua gamma anche con l’aiuto dei cinesi di Dongfeng",
+      "link": "https://images.dday.it/2lG5IC-sIegejzcWeF7DOEGQhBiJ2PLxFD9ZhRpXPt0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57898/cd2db3_NewCompass4xe_SAND-MUD.jpg",
+      "excerpt": "Il brand punta a riportare a 6 il numero di modelli della sua gamma entro il 2030 anche grazie alla partnership con la cinese Dongfeng, che produrrà un nuovo SUV Jeep da…",
+      "image": "https://images.dday.it/2lG5IC-sIegejzcWeF7DOEGQhBiJ2PLxFD9ZhRpXPt0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57898/cd2db3_NewCompass4xe_SAND-MUD.jpg",
+      "publishedAt": "2026-06-30T08:41:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Tata bucata: centinaia di foto e video dell'iPhone 18 stanno facendo il giro del web",
+      "link": "https://images.dday.it/QAV4PIWtkxRSfevyr5Em515er3wjpEEiyjc3_a64lHs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57897/96717c_iphon.jpg",
+      "excerpt": "Tata Electronics, uno dei principali assemblatori di prodotti elettronici indiani ha subito un attacco informatico e centinaia di migliaia di file relativi a progetti Apple e…",
+      "image": "https://images.dday.it/QAV4PIWtkxRSfevyr5Em515er3wjpEEiyjc3_a64lHs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57897/96717c_iphon.jpg",
+      "publishedAt": "2026-06-30T08:32:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Mai più sprechi d'acqua: scopri i timer per irrigazione in offerta su Amazon",
+      "link": "https://images.dday.it/m2n_nLvT-eMcDy3eGQjrFl8RBQxOV8hZRgsAufO0H2o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57892/5ea86b_81EakKbmyKL._AC_SL1500_.jpg",
+      "excerpt": "Scopri i migliori timer per irrigazione attualmente in offerta su Amazon: soluzioni pratiche e affidabili per programmare l'irrigazione di giardini, orti, terrazzi e aiuole,…",
+      "image": "https://images.dday.it/m2n_nLvT-eMcDy3eGQjrFl8RBQxOV8hZRgsAufO0H2o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57892/5ea86b_81EakKbmyKL._AC_SL1500_.jpg",
+      "publishedAt": "2026-06-30T08:13:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Cyberpunk: Edgerunners 2 è pronto per riportarti nel futuro senza speranza di Night City nel nuovo trailer",
+      "link": "https://images.dday.it/BzS02gfYfTEKGM6bv17nPK7TI3SerZ5L9cFlylpZT8c/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57895/132bc6_Ensamble.jpeg",
+      "excerpt": "Netflix e lo studio di animazione Trigger hanno rilasciato il primo trailer dell’attesa seconda stagione dell’anime ambientato nell’universo di Cyberpunk 2077... Leggi tutto",
+      "image": "https://images.dday.it/BzS02gfYfTEKGM6bv17nPK7TI3SerZ5L9cFlylpZT8c/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57895/132bc6_Ensamble.jpeg",
+      "publishedAt": "2026-06-30T07:45:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Su Tidal pubblichi musica generata con l’IA? Allora non guadagni niente: la nuova politica della piattaforma di streaming",
@@ -23,256 +248,31 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "iPhone 18 Pro, online i video dei drop test: la fuga di dati da Tata \"preoccupa\" Apple",
-      "link": "https://www.hdblog.it/smartphone/articoli/n662982/iphone-18-pro-online-video-dropo-test/",
-      "excerpt": "La fuga di dati che ha colpito Tata Electronics rischia di diventare uno dei casi più delicati degli ultimi anni per Apple",
-      "image": "https://hd2.tudocdn.net/1353530?w=660",
-      "publishedAt": "2026-06-30T07:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "I malware usati in guerra sono sempre più pericolosi",
-      "link": "https://www.tomshw.it/hardware/gamaredon-potenzia-i-malware-contro-lucraina",
-      "excerpt": "Gamaredon, gruppo APT legato alla Russia, ha ampliato il proprio arsenale malware nelle operazioni contro l'Ucraina, introducendo nuovi strumenti e tecniche pensate per rendere…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98686/gamaredon-potenzia-i-malware-contro-l-ucraina.png",
-      "publishedAt": "2026-06-30T07:26:57+00:00",
+      "title": "Migliori frigoriferi (giugno 2026)",
+      "link": "https://www.tomshw.it/offerte/frigoriferi-migliori",
+      "excerpt": "Qui sotto trovate i frigoriferi consigliati, mentre più avanti approfondiamo i criteri più importanti per capire quale modello si adatta meglio alla vostra cucina e al vostro modo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/87000/migliori-frigoriferi-copertina.jpg",
+      "publishedAt": "2026-06-30T06:29:54+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Occhi stanchi davanti al PC? Microsoft ha la soluzione",
-      "link": "https://www.tomshw.it/hardware/microsoft-testa-una-tinta-schermo-per-stancare-meno-gli-occhi",
-      "excerpt": "Microsoft sta testando una nuova impostazione di Windows 11 pensata per chi passa molte ore davanti a schermi molto luminosi: si chiama Screen Tint e applica una tinta colorata…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98685/microsoft-testa-una-tinta-schermo-per-stancare-meno-gli-occhi.png",
-      "publishedAt": "2026-06-30T07:24:15+00:00",
+      "title": "Un'AI cinese sfida Mythos sulla sicurezza",
+      "link": "https://www.tomshw.it/business/zai-glm-sfida-mythos-sicurezza-benchmark",
+      "excerpt": "GLM-5.2, il nuovo modello di Zhipu AI (Z.ai), ha registrato risultati comparabili a Mythos di Anthropic nei principali benchmark di sicurezza informatica. Nei test condotti da…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98604/02-zai-mythos-cyber.jpg",
+      "publishedAt": "2026-06-29T14:15:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Dallo spazio il Sahara mostra un vulcano nero, ma non è solo",
-      "link": "https://www.tomshw.it/scienze/dallo-spazio-il-sahara-mostra-un-vulcano-nero-ma-non-e-solo",
-      "excerpt": "Una fotografia orbitale dell'Earth Observatory della NASA, scattata da un astronauta a bordo della Stazione Spaziale Internazionale, mostra il vulcano Toussid come una macchia…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98707/dallo-spazio-il-sahara-mostra-un-vulcano-nero-ma-non-e-solo.png",
-      "publishedAt": "2026-06-30T07:22:13+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Meta taglia i costi dei server AI tornando alla DDR4",
-      "link": "https://www.tomshw.it/hardware/meta-riusa-la-ddr4-con-cxl-e-taglia-i-server-per-lai",
-      "excerpt": "Meta ha presentato una strategia per riutilizzare grandi quantità di memoria DDR4 nei server dedicati all'intelligenza artificiale, collegandola tramite CXL a sistemi più recenti…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98682/meta-riusa-la-ddr4-con-cxl-e-taglia-i-server-per-l-ai.png",
-      "publishedAt": "2026-06-30T07:21:10+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "AMD prepara un core Zen 6 a basso consumo per i carichi leggeri",
-      "link": "https://www.tomshw.it/hardware/amd-prepara-un-core-zen-6-a-basso-consumo-per-i-carichi-leggeri",
-      "excerpt": "AMD sta preparando per le future CPU Zen 6 un nuovo tipo di core a basso consumo, pensato per gestire carichi leggeri, attività in background e fasi di inattività con un…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98680/amd-prepara-un-core-zen-6-a-basso-consumo-per-i-carichi-leggeri.png",
-      "publishedAt": "2026-06-30T07:18:58+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Tesla torna a correre in Borsa, il titolo fa un balzo del 9%",
-      "link": "https://www.tomshw.it/automotive/tesla-torna-a-correre-in-borsa-il-titolo-fa-un-balzo",
-      "excerpt": "Tesla ha messo a segno una seduta particolarmente forte a Wall Street, con il titolo salito dell’8,46% e una chiusura a 411,84 dollari. Il balzo arriva con volumi in crescita e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98675/tesla-torna-a-correre-in-borsa-il-titolo-fa-un-balzo.png",
-      "publishedAt": "2026-06-30T07:17:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "La NASA ha un nuovo tunnel del vento, ma non servirà solo agli aerei",
-      "link": "https://www.tomshw.it/scienze/la-nasa-ha-un-nuovo-tunnel-del-vento-ma-non-servira-solo-agli-aerei",
-      "excerpt": "La NASA sta completando al Langley Research Center di Hampton, in Virginia, il Flight Dynamics Research Facility, il primo grande tunnel del vento dell'agenzia costruito in oltre…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98697/la-nasa-ha-un-nuovo-tunnel-del-vento-ma-non-servira-solo-agli-aerei.png",
-      "publishedAt": "2026-06-30T07:15:58+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "SteamOS gestisce meglio la VRAM sulle GPU dedicate",
-      "link": "https://www.tomshw.it/hardware/steamos-gestisce-meglio-la-vram-sulle-gpu-dedicate",
-      "excerpt": "Valve ha inserito nel ramo beta di SteamOS una modifica alla gestione della VRAM pensata per le piattaforme con GPU dedicate. L'intervento punta a ridurre i rallentamenti che…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98670/steamos-gestisce-meglio-la-vram-sulle-gpu-dedicate.png",
-      "publishedAt": "2026-06-30T07:14:06+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "UGREEN Nexode 300W cala a 133€: un solo caricatore per tutta la scrivania",
-      "link": "https://www.tomshw.it/hardware/ugreen-nexode-300w-cala-a-133-euro-caricatore-scrivania-2026-06-30",
-      "excerpt": "UGREEN Nexode 300W è ora disponibile in offerta a 132,97€, con uno sconto del 22% rispetto al prezzo di riferimento di 169,99€. È una proposta da valutare se volete un prodotto…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/96340/ugreen-nexode-300w-gan-un-solo-caricatore-per-tutto-ora-piu-con3t0ii4k78m09dSsLY9w.png",
-      "publishedAt": "2026-06-30T07:11:08+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "L'India inaugura il primo impianto al mondo per l'idrogeno con calore nucleare",
-      "link": "https://www.hdblog.it/green/articoli/n662868/india-primo-impianto-idrogeno-calore-nucleare/",
-      "excerpt": "L'India inaugura il primo impianto che produce idrogeno usando il calore di un reattore nucleare.",
-      "image": "https://hd2.tudocdn.net/1353203?w=660",
-      "publishedAt": "2026-06-30T07:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "WhatsApp apre le prenotazioni dei nomi utente, per chattare senza dare il numero",
-      "link": "https://images.dday.it/UMQw2APfOjPWnVW-IQrj52ugSrFVrRzROG7Aoss_TFI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57894/6ed8f4_Screenshot_2026-06-30_alle_09.04.12.png",
-      "excerpt": "Dalle impostazioni dell'app si può riservare già da oggi il nome che userà la funzione, in arrivo nei prossimi mesi in tutto il mondo. Non è proprio come quella di Telegram...…",
-      "image": "https://images.dday.it/UMQw2APfOjPWnVW-IQrj52ugSrFVrRzROG7Aoss_TFI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57894/6ed8f4_Screenshot_2026-06-30_alle_09.04.12.png",
-      "publishedAt": "2026-06-30T07:05:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Netflix cambia le regole: ogni profilo dovrà avere un'email unica per poter accedere",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n662970/netflix-cambia-regole-profilo-email-unica/",
-      "excerpt": "Netflix ha iniziato a chiedere un indirizzo email separato per ogni profilo collegato a un abbonamento.",
-      "image": "https://hd2.tudocdn.net/1353515?w=660",
-      "publishedAt": "2026-06-30T06:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Google Chrome, in arrivo i riassunti AI con Gemini per i file PDF",
-      "link": "https://www.hdblog.it/google/articoli/n662960/google-chrome-pdf-riassunti-ai/",
-      "excerpt": "In arrivo a breve nel canale Beta, vediamo quanto ci vorrà per l'ufficialità.",
-      "image": "https://hd2.tudocdn.net/1346085?w=660",
-      "publishedAt": "2026-06-30T06:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Truffe Mondiali 2026: come evitare siti falsi e phishing",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n661808/truffe-mondiali-2026-come-evitare-siti-falsi-e-phishing/",
-      "excerpt": "Truffe Mondiali 2026, falsi siti FIFA e link sospetti: come riconoscerli e proteggersi con Bitdefender.",
-      "image": "https://hd2.tudocdn.net/1350831?w=660",
-      "publishedAt": "2026-06-30T06:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung Galaxy Z Fold 8 / Ultra e Flip 8, tanti nuovi render",
-      "link": "https://www.hdblog.it/smartphone/articoli/n662963/samsung-galaxy-z-fold-8-ultra-flip-render-custodie/",
-      "excerpt": "Una carrellata di quelle che probabilmente saranno le custodie ufficiali.",
-      "image": "https://hd2.tudocdn.net/1353504?w=660",
-      "publishedAt": "2026-06-30T06:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Apple rilascia iOS 26.6 beta 2 e iOS 26.5.2 in versione stabile con patch di sicurezza",
-      "link": "https://www.hdblog.it/smartphone/articoli/n662968/apple-rilascia-beta-ios-stabile-patch-sicurezza/",
-      "excerpt": "Alcune vulnerabilità potevano causare crash o perdita di dati",
-      "image": "https://hd2.tudocdn.net/1353509?w=660",
-      "publishedAt": "2026-06-30T06:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "ChatGPT al centro del processo per il maxi incendio di Pacific Palisades",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n662965/chatgpt-processo-incendio-pacific-palisades/",
-      "excerpt": "I log di ChatGPT entrano in tribunale, ma la giuria non li ritiene decisivi.",
-      "image": "https://hd2.tudocdn.net/1353505?w=660",
-      "publishedAt": "2026-06-30T06:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Motorola Edge 70 Fusion, nuovo minimo storico Amazon: gli auricolari sono inclusi",
-      "link": "https://www.hdblog.it/smartphone/offerte/n662966/motorola-edge-70-fusion-con-auricolari-sconto/",
-      "excerpt": "Il bundle con Motorola edge 70 Fusion (edizione speciale dedicata ai mondiali di calcio 2026) e auricolari moto buds bass è al nuovo minimo storico su Amazon. Ora costa poco più…",
-      "image": "https://hd2.tudocdn.net/1353508?w=660",
-      "publishedAt": "2026-06-30T06:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Corsi gratuiti di fotografia per tutti: ecco la scuola online di Fujifilm. Video on demand da vedere quando vuoi",
-      "link": "https://images.dday.it/yZXo2wIFWqAtfOlPBADCKQ7JcToeWa0d7oqUZagG9kg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57808/ffeffd_online_and_social-X-T50_DSCQ0176-2.jpg",
-      "excerpt": "La Fujifilm School è aperta a tutti. Corsi guidati con fotografi esperti, una community con cui confrontarsi e sconti esclusivi sui prodotti Fujifilm per gli iscritti... Leggi…",
-      "image": "https://images.dday.it/yZXo2wIFWqAtfOlPBADCKQ7JcToeWa0d7oqUZagG9kg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57808/ffeffd_online_and_social-X-T50_DSCQ0176-2.jpg",
-      "publishedAt": "2026-06-30T01:03:04+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Tesla lancia la versione FSD 14 Lite della sua guida autonoma sulle auto con vecchio hardware",
-      "link": "https://images.dday.it/x6zvjIZdBqo0JiP3ac5Te4cvrVtvP-dWCJwkuvvLY9Y/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57893/81cc20_FSD_1.jpg",
-      "excerpt": "Si tratta di una versione “distillata” del Full Self Driving disponibile sui veicoli più nuovi. Si tratta per lo più di un contentino per i clienti che hanno pagato migliaia di…",
-      "image": "https://images.dday.it/x6zvjIZdBqo0JiP3ac5Te4cvrVtvP-dWCJwkuvvLY9Y/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57893/81cc20_FSD_1.jpg",
-      "publishedAt": "2026-06-29T15:30:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Mai più sprechi d'acqua: scopri i timer per irrigazione in offerta su Amazon",
-      "link": "https://images.dday.it/m2n_nLvT-eMcDy3eGQjrFl8RBQxOV8hZRgsAufO0H2o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57892/5ea86b_81EakKbmyKL._AC_SL1500_.jpg",
-      "excerpt": "Scopri i migliori timer per irrigazione attualmente in offerta su Amazon: soluzioni pratiche e affidabili per programmare l'irrigazione di giardini, orti, terrazzi e aiuole,…",
-      "image": "https://images.dday.it/m2n_nLvT-eMcDy3eGQjrFl8RBQxOV8hZRgsAufO0H2o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57892/5ea86b_81EakKbmyKL._AC_SL1500_.jpg",
-      "publishedAt": "2026-06-29T15:12:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Offerta imperdibile: il videocitofono senza fili Trust a 39,99 euro",
-      "link": "https://images.dday.it/Ow7dja0Q27I_hlXrdXIV6Mh4d8U0WVGbAd-X80fR33Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57891/596afb_81Hlw6p5-kL._AC_SL1500_.jpg",
-      "excerpt": "Scopri Trust, il videocitofono senza fili con video 3MP 2K HD, audio bidirezionale e visione notturna, ora in offerta speciale su Amazon... Leggi tutto",
-      "image": "https://images.dday.it/Ow7dja0Q27I_hlXrdXIV6Mh4d8U0WVGbAd-X80fR33Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57891/596afb_81Hlw6p5-kL._AC_SL1500_.jpg",
-      "publishedAt": "2026-06-29T14:20:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Ancora allarmi dal mercato AI, J.P. Morgan insiste sul rischio bolla",
-      "link": "https://www.tomshw.it/business/jp-morgan-rischio-bolla-ai",
-      "excerpt": "J.P. Morgan ha identificato quattro segnali tecnici di sopravvalutazione nel mercato dell'intelligenza artificiale che, presi insieme, compongono un quadro difficile da ignorare.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98610/06-jp-morgan-bolla.jpg",
+      "title": "Ecco come Google, OpenAI e Anthropic usano l'AI nei loro uffici",
+      "link": "https://www.tomshw.it/business/google-openai-anthropic-ai-uffici-back-office",
+      "excerpt": "OpenAI, Google e Anthropic usano l'AI sui propri workflow interni — fatture, ricerca legale, analisi finanziaria, compliance — prima ancora di venderla ai clienti. Il Wall Street…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98612/08-ai-uffici-tech.jpg",
       "publishedAt": "2026-06-29T14:10:06+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "L’HBM cambia le regole della produzione di memorie: SK hynix investe 715 miliardi per non farsi raggiungere",
-      "link": "https://images.dday.it/MdJJenXgGaPQnELgRH8y5TIWYbaOguh3i2MewJcDlrM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57890/9fedde_SK-hynixs-Mid-to-Long-Term-Investment-Strategy_01.jpg",
-      "excerpt": "SK hynix anticipa di 12 anni i tempi del cluster di Yongin e investe in nuovi poli produttivi. L’HBM richiede molta più capacità wafer della DDR5 e servono nuove fabbriche non…",
-      "image": "https://images.dday.it/MdJJenXgGaPQnELgRH8y5TIWYbaOguh3i2MewJcDlrM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57890/9fedde_SK-hynixs-Mid-to-Long-Term-Investment-Strategy_01.jpg",
-      "publishedAt": "2026-06-29T13:59:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Rocket Lab lancia il guanto di sfida a SpaceX: acquisirà il provider satellitare Iridium",
-      "link": "https://images.dday.it/JOqT8RnGDSFTJ5o7yOZUZhGijlEsnVrpfqlYCxFDgmM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57889/283c90_rocket-lab-and-iridium.jpg",
-      "excerpt": "L’acquisizione permetterà Rocket Lab di mettere le mani su una costellazione di satelliti in orbita bassa, il patrimonio di frequenze e di fare concorrenza anche nel settore delle…",
-      "image": "https://images.dday.it/JOqT8RnGDSFTJ5o7yOZUZhGijlEsnVrpfqlYCxFDgmM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57889/283c90_rocket-lab-and-iridium.jpg",
-      "publishedAt": "2026-06-29T13:46:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "PlayStation rivede la strategia: prezzi più alti, meno perdite sull'hardware e un occhio al cloud gaming",
-      "link": "https://images.dday.it/tI9ABx2pMa22vZfamKidfBj8N6sSOSiB12-hlLPNeXI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57888/d32e5b_Depositphotos_667762042_XL.jpg",
-      "excerpt": "Da un Q&A di inizio giugno pubblicato oggi, emerge la nuova logica PlayStation: rincari già applicati, hardware non più venduto in perdita e streaming come sbocco per i…",
-      "image": "https://images.dday.it/tI9ABx2pMa22vZfamKidfBj8N6sSOSiB12-hlLPNeXI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57888/d32e5b_Depositphotos_667762042_XL.jpg",
-      "publishedAt": "2026-06-29T10:35:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "XGIMI grandi sconti su Amazon: dimentica il TV, entra nel cinema",
-      "link": "https://images.dday.it/6f-RLVOfWJJOOf0jv786mLu1jdCxkir_ensyM9IVbXg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57884/db7dff_71fmnUXheoL._AC_SL1500_.jpg",
-      "excerpt": "Proiettori smart XGIMI con Google TV integrata, immagini ad alta definizione, schermo a dimensioni cinematografiche e audio immersivo: la soluzione completa per trasformare…",
-      "image": "https://images.dday.it/6f-RLVOfWJJOOf0jv786mLu1jdCxkir_ensyM9IVbXg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57884/db7dff_71fmnUXheoL._AC_SL1500_.jpg",
-      "publishedAt": "2026-06-29T10:34:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
     }
   ]
 }
