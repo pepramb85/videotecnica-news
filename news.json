@@ -1,53 +1,143 @@
 {
-  "generatedAt": "2026-06-30T14:02:21.582486+00:00",
+  "generatedAt": "2026-06-30T17:47:29.733820+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Assassin's Creed Black Flag Resynced in arrivo: Ubisoft spiega le novità del remake",
-      "link": "https://www.hdblog.it/games/articoli/n663023/assassins-creed-black-flag-resynced-ps5-pro-novita/",
-      "excerpt": "Ubisoft spiega le migliorie del remake in arrivo il 9 luglio.",
-      "image": "https://hd2.tudocdn.net/1349014?w=660",
-      "publishedAt": "2026-06-30T13:55:00+00:00",
+      "title": "Proton Lumo 2.0, passi avanti enormi: memoria, multimodale e modello Thinking",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663069/proto-lumo-ai-versione-2-novita-prezzi/",
+      "excerpt": "Disponibile da subito e gratuitamente - se vi accontentate dei limiti.",
+      "image": "https://hd2.tudocdn.net/1353856?w=660",
+      "publishedAt": "2026-06-30T17:45:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Proton Lumo ora genera immagini, puntando tutto sulla privacy",
-      "link": "https://www.tomshw.it/hardware/proton-lumo-ora-genera-immagini-puntando-tutto-sulla-privacy",
-      "excerpt": "Proton ha aggiornato Lumo alla versione 2.0, introducendo generazione, analisi e modifica delle immagini nel suo chatbot basato su intelligenza artificiale. La mossa porta il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98800/proton-lumo-ora-genera-immagini-puntando-tutto-sulla-privacy.png",
-      "publishedAt": "2026-06-30T13:48:33+00:00",
+      "title": "Nothing Ear (3a): le nuove cuffiette economiche arrivano presto con Phone (4b)",
+      "link": "https://www.hdblog.it/indossabili/articoli/n663063/nothing-ear-3a-lancio-7-luglio-prezzo-colori-4b/",
+      "excerpt": "E un teaser video ne svela in anticipo i colori.",
+      "image": "https://hd2.tudocdn.net/1353842?w=660",
+      "publishedAt": "2026-06-30T17:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il Pentagono lavora su un nuovo missile a lunghissimo raggio",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663039/usa-missile-1850-km-cina-pacifico/",
+      "excerpt": "Gli USA sviluppano nuovi missili da 1.850 km per rafforzare la presenza nel Pacifico.",
+      "image": "https://hd2.tudocdn.net/1353737?w=660",
+      "publishedAt": "2026-06-30T17:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Dai creatori di Flipper Zero arriva Busy Bar, display ausiliario per la produttività",
+      "link": "https://www.hdblog.it/hardware/articoli/n663064/flipper-busy-bar-display-ausiliario-prezzo-quando/",
+      "excerpt": "Da metà luglio a 159€.",
+      "image": "https://hd2.tudocdn.net/1353843?w=660",
+      "publishedAt": "2026-06-30T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "AI Overview di Google mostrerà anche le notizie più rilevanti dal web",
+      "link": "https://www.hdblog.it/google/articoli/n663061/ai-overview-google-notizie-rilevanti-web/",
+      "excerpt": "Saranno tre gli articoli selezionati da Google online.",
+      "image": "https://hd2.tudocdn.net/1353836?w=660",
+      "publishedAt": "2026-06-30T17:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Luna e Marte più vicini: NASA punta su 41 innovazioni spaziali",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n662891/nasa-tecnologie-luna-marte-2026/",
+      "excerpt": "NASA seleziona 41 progetti per sviluppare tecnologie destinate a Luna e Marte.",
+      "image": "https://hd2.tudocdn.net/1353236?w=660",
+      "publishedAt": "2026-06-30T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Windows 11 su CPU di 20 anni fa e schede grafiche AGP? Si può fare!",
+      "link": "https://www.hdblog.it/windows/articoli/n663062/windows-11-intel-core-2-quad-gpu-agp-ati-radeon/",
+      "excerpt": "E gira anche sorprendentemente bene!",
+      "image": "https://hd2.tudocdn.net/1353839?w=660",
+      "publishedAt": "2026-06-30T16:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "RAD-BAARG svela una possibile onda d'urto cosmica senza precedenti",
+      "link": "https://www.hdblog.it/curiosita/articoli/n662976/rad-baarg-onda-urto-cosmica/",
+      "excerpt": "Scoperta una radiogalassia unica che potrebbe rivelare una gigantesca onda d'urto cosmica.",
+      "image": "https://hd2.tudocdn.net/1353720?w=660",
+      "publishedAt": "2026-06-30T16:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Auricolari JBL con custodia touch: Live Beam 3 al -50% su Amazon",
+      "link": "https://www.tomshw.it/offerte/auricolari-jbl-con-custodia-touch-live-beam-3-al-50-su-amazon",
+      "excerpt": "Le JBL Live Beam 3 a 99,99€ su Amazon portano gli auricolari true wireless con custodia touch al 50% di sconto, passando da 199,99€ al prezzo più basso toccato finora. Qui il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98819/tomshw-offer-559113.png",
+      "publishedAt": "2026-06-30T16:33:12+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "OnePlus N6 debutta con una batteria enorme",
-      "link": "https://www.tomshw.it/smartphone/oneplus-n6-debutta-con-una-batteria-enorme",
-      "excerpt": "OnePlus N6 è il primo modello della nuova serie N del marchio e punta su un elemento molto concreto: una batteria da 8.000 mAh, capacità ancora poco comune nel segmento economico.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98797/oneplus-n6-debutta-con-una-batteria-enorme.png",
-      "publishedAt": "2026-06-30T13:46:34+00:00",
+      "title": "Amazon Prime Video è finita al centro di un caso che riguarda le pubblicità",
+      "link": "https://www.hdblog.it/amazon/articoli/n663033/amazon-prime-video-caso-pubblicita/",
+      "excerpt": "Citata in giudizio per presunte scorrettezze",
+      "image": "https://hd2.tudocdn.net/1353828?w=660",
+      "publishedAt": "2026-06-30T16:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Starship torna a rombare: SpaceX accende Ship 40 e Flight 13 si avvicina",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n662972/spacex-starship-flight-13-ship-40-static-fire/",
+      "excerpt": "SpaceX testa Ship 40 con il primo static fire in vista del prossimo volo di Starship.",
+      "image": "https://hd2.tudocdn.net/1277592?w=660",
+      "publishedAt": "2026-06-30T16:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nothing Ear (3a), il lancio lancio ufficiale è vicinissimo",
+      "link": "https://www.tomshw.it/smartphone/nothing-ear-3a-il-lancio-lancio-ufficiale-e-vicinissimo-2026-06-30",
+      "excerpt": "Il 7 luglio sarà una data importante per i fan di Nothing. L'azienda ha, infatti, ufficialmente confermato il lancio dei suoi nuovi auricolari economici, gli Ear (3a), confermando…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98817/nothing-ear-3a-teaser-1-png.jpg",
+      "publishedAt": "2026-06-30T16:10:24+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "BurgerAI: l'intelligenza artificiale che crea l'hamburger perfetto",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n663020/hamburger-ai-burgerai-studio-progettazione/",
-      "excerpt": "Dalla previsione alla progettazione: le ricadute vanno oltre il cibo.",
-      "image": "https://hd2.tudocdn.net/1353736?w=660",
-      "publishedAt": "2026-06-30T13:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Google porta Gmail Live in beta, ora le email si cercano a voce",
+      "link": "https://www.tomshw.it/hardware/google-porta-gmail-live-in-beta-le-email-si-cercano-a-voce",
+      "excerpt": "Google ha avviato la beta di Gmail Live, una funzione che permette di cercare nella posta usando la voce invece della classica barra di ricerca. La novità nasce dentro…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98815/google-porta-gmail-live-in-beta-le-email-si-cercano-a-voce.png",
+      "publishedAt": "2026-06-30T15:18:57+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
-      "title": "MiG-25 Foxbat: il caccia più veloce del mondo aveva un limite enorme",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n662875/mig-25-foxbat-caccia-piu-veloce/",
-      "excerpt": "Il MiG-25 Foxbat raggiungeva Mach 3,2, ma rischiava di distruggere i propri motori.",
-      "image": "https://hd2.tudocdn.net/1353208?w=660",
-      "publishedAt": "2026-06-30T13:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Proton rivoluziona il suo chatbot: con Lumo 2.0 è pronta a competere con i giganti statunitensi",
+      "link": "https://images.dday.it/GTHjEpA4fjR_BX9V1I4512Ur4K_nPr1i7cxzperuhYA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57908/8399c2_ssss.png",
+      "excerpt": "Due modelli molto più performanti del precedente con due modalità di utilizzo, supporto alle immagini e assistenti personalizzati. Tante novità che non mettono in secondo piano…",
+      "image": "https://images.dday.it/GTHjEpA4fjR_BX9V1I4512Ur4K_nPr1i7cxzperuhYA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57908/8399c2_ssss.png",
+      "publishedAt": "2026-06-30T15:01:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Renault 5 e Renault 4 dal prossimo anno avranno motori più efficienti e potenti",
+      "link": "https://images.dday.it/wpktti03QPHkE2VbDNUrScL5BF72SzUVCztFZrzDLhU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57906/c68a41_Renault-5-E-Tech-electric.jpg",
+      "excerpt": "Le due piccole elettriche di Renault saranno dotate di migliorati powertrain Gen 2 Evo per rispondere meglio alla concorrenza della nuova generazione di compatte ... Leggi tutto",
+      "image": "https://images.dday.it/wpktti03QPHkE2VbDNUrScL5BF72SzUVCztFZrzDLhU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57906/c68a41_Renault-5-E-Tech-electric.jpg",
+      "publishedAt": "2026-06-30T14:54:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Il lampadario ventilatore stiloso con le pale retrattili: Cadix si comanda anche dalla smart home di Leroy Merlin",
@@ -59,33 +149,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Migliori offerte tech di oggi: Edge 70 Fusion, LG OLED Evo G6s, Roborock e altro",
-      "link": "https://www.hdblog.it/amazon/offerte/n663030/offerte-tech-30-giugno-2026-amazon-unieuro/",
-      "excerpt": "Ultimo appuntamento di giugno con offerte tech su Amazon e Unieuro: robot top, TV QLED/OLED, smartphone, powerbank e audio a prezzi molto interessanti.",
-      "image": "https://hd2.tudocdn.net/1353725?w=660",
-      "publishedAt": "2026-06-30T13:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone 18 Pro, nuove conferme per colore Dark Cherry: il nero potrebbe non esserci",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663034/iphone-18-pro-nuove-conferme-colore/",
-      "excerpt": "Apple starebbe preparando una nuova colorazione per iPhone 18 Pro e iPhone 18 Pro Max",
-      "image": "https://hd2.tudocdn.net/1353715?w=660",
-      "publishedAt": "2026-06-30T13:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Tellus e Nayax portano i pagamenti integrati sulle colonnine EV",
-      "link": "https://www.tomshw.it/automotive/tellus-e-nayax-portano-i-pagamenti-integrati-sulle-colonnine-ev",
-      "excerpt": "Tellus Power e Nayax hanno annunciato una partnership per integrare pagamenti e gestione software nelle colonnine per veicoli elettrici. L'accordo unisce l'AC Level 2 Charger di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98794/tellus-e-nayax-portano-i-pagamenti-integrati-sulle-colonnine-ev.png",
-      "publishedAt": "2026-06-30T13:09:30+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Cerchi un SSD esterno da 2TB? Lexar ES3 è ora in offerta su Amazon",
       "link": "https://images.dday.it/ItGDj0miYlGM5CIG5mECZ85FlwX4TsXORL9bZDuDFO8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57733/72db88_ape2.jpg",
       "excerpt": "Approfitta dello sconto su Lexar ES3 da 2 TB, un SSD esterno compatto e veloce ideale per archiviare foto, video, documenti e backup in tutta praticità... Leggi tutto",
@@ -95,83 +158,29 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Tidal contro i falsi artisti, stop ai guadagni della musica AI",
-      "link": "https://www.tomshw.it/hardware/tidal-non-paghera-piu-la-musica-generata-con-lai",
-      "excerpt": "Tidal cambia le regole per la musica artificiale: i brani identificati come generati al 100% dall'AI non saranno più monetizzabili, mentre da metà luglio verranno segnalati agli…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98787/tidal-non-paghera-piu-la-musica-generata-con-l-ai.png",
-      "publishedAt": "2026-06-30T12:27:57+00:00",
+      "title": "Migliori droni (giugno 2026)",
+      "link": "https://www.tomshw.it/offerte/droni-migliori",
+      "excerpt": "Se le tipiche riprese video effettuate con uno dei migliori smartphone o con la videocamera non vi bastano o volete aggiungere qualche ripresa dall'alto, i droni sono la soluzione…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/87298/migliori-droni-copertina.jpg",
+      "publishedAt": "2026-06-30T11:32:14+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Netatmo: arriva la compatibilità con Alexa+ per una smart home più reattiva",
-      "link": "https://www.hdblog.it/domotica/articoli/n663029/netatmo-arriva-compatibilita-con-alexa-plus/",
-      "excerpt": "Interagire con i dispositivi del marchio diventa ancora più semplice.",
-      "image": "https://hd2.tudocdn.net/1353701?w=660",
-      "publishedAt": "2026-06-30T12:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Boom di pannelli solari e wallbox: gli shock spingono l'autonomia energetica",
-      "link": "https://www.hdblog.it/green/articoli/n663025/pannelli-solari-wallbox-domanda-italia/",
-      "excerpt": "Prezzi dell'energia elevati e tensioni geopolitiche spingono gli italiani verso il fotovoltaico. Nel primo semestre 2026 le vendite di pannelli solari aumentano del 34%",
-      "image": "https://hd2.tudocdn.net/1353692?w=660",
-      "publishedAt": "2026-06-30T12:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "State of Decay 3 a rischio cancellazione, anche se il gioco è quasi completo",
-      "link": "https://www.hdblog.it/microsoft/articoli/n663024/state-of-decay-3-cancellazione-microsoft/",
-      "excerpt": "Diverse fonti sembrano convergere sullo stesso scenario",
-      "image": "https://hd2.tudocdn.net/1353690?w=660",
-      "publishedAt": "2026-06-30T12:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Blackout a Roma: Piazza Bologna al buio",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n663027/blackout-a-roma-piazza-bologna-al-buio/",
-      "excerpt": "Importante blackout a Roma dalle ore 13.30 circa, al momento il quartiere di Piazza Bologna è al buio.",
-      "image": "https://hd2.tudocdn.net/1353694?w=660",
-      "publishedAt": "2026-06-30T11:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Philips Hue Bridge Pro \"brickato\" dall'ultimo aggiornamento per alcuni utenti",
-      "link": "https://www.hdblog.it/philips/articoli/n663026/philips-hue-bridge-pro-led-rosso-cosa-fare/",
-      "excerpt": "Alcuni utenti sono KO da qualche settimana ormai, e non ci sono indicazioni da parte di Signify. Nel frattempo che si fa, usiamo la torcia del telefono?",
-      "image": "https://hd2.tudocdn.net/1280928?w=660",
-      "publishedAt": "2026-06-30T11:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "CORSAIR 2800X RS-R ARGB, il Micro-ATX che eredita il DNA del 3500X",
-      "link": "https://www.tomshw.it/hardware/corsair-2800x-rs-r-argb-il-micro-atx-che-eredita-il-dna-del-3500x",
-      "excerpt": "Con il 2800X RS-R ARGB, CORSAIR torna a presidiare un segmento che aveva lasciato un po’ scoperto: quello dei case Micro-ATX. È il primo chassis mATX dell’azienda dai tempi del…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98777/Corsair-2800X-RS-R-ARGB-11.jpg",
-      "publishedAt": "2026-06-30T11:17:21+00:00",
+      "title": "Migliori VPN per vedere DAZN (giugno 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-vpn-per-vedere-dazn-estero",
+      "excerpt": "DAZN resta una delle piattaforme più importanti per chi segue sport in streaming: calcio, tennis, basket, football americano, boxe, MMA e altri eventi live cambiano però…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/87016/migliori-vpn-per-dazn-copertina.jpg",
+      "publishedAt": "2026-06-30T11:26:23+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Migliori macchine caffè americano (giugno 2026)",
-      "link": "https://www.tomshw.it/offerte/macchine-per-caffe-americano",
-      "excerpt": "Se vi piace il caffè lungo e aromatico ma non volete affidarvi ogni volta a moka, capsule o espresso allungato con acqua calda, una macchina per caffè americano è…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/87296/migliori-macchine-caffe-americano-copertina.jpg",
-      "publishedAt": "2026-06-30T11:16:26+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori antivirus gratis (giugno 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-antivirus-gratis-pc-smartphone",
-      "excerpt": "Scegliere un antivirus gratuito non significa più accontentarsi di un controllo occasionale o installare il primo nome conosciuto: anche un PC usato per studio, lavoro leggero,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/87022/migliori-antivirus-gratis-copertina.jpg",
-      "publishedAt": "2026-06-30T11:09:54+00:00",
+      "title": "Migliori macchine per caffè in cialde (giugno 2026)",
+      "link": "https://www.tomshw.it/offerte/macchine-per-caffe-cialde-capsule",
+      "excerpt": "Se avete deciso di acquistare una macchina per caffè in cialde, dopo aver letto la nostra guida sulle migliori macchine da caffè, siete nel posto giusto. Le cialde E.S.E. sono una…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/87026/migliori-macchine-caffe-cialde-copertina.jpg",
+      "publishedAt": "2026-06-30T11:21:25+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -221,11 +230,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Attacchi Supply Chain, ecco come prevenire e arginare la nuova minaccia",
-      "link": "https://www.tomshw.it/aioperator/attacchi-supply-chain-software-prevenire",
-      "excerpt": "Il 24 marzo 2026, due versioni di LiteLLM (la libreria Python usata da chi integra modelli AI nei propri ambienti) sono state compromesse e pubblicate su PyPI con payload…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98733/02-sec09-cover.jpg",
-      "publishedAt": "2026-06-30T09:37:11+00:00",
+      "title": "5 workflow n8n per automatizzare le notifiche di tracking al cliente e dimezzare le chiamate all'assistenza",
+      "link": "https://www.tomshw.it/aioperator/workflow-n8n-notifiche-tracking-clienti",
+      "excerpt": "Chi spedisce merce sa già come suona: Buongiorno, ho un ordine del 15, volevo sapere dov'è. La variante più cortese. Le WISMO (where is my order?) rappresentano tra il 30 e il 60%…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98735/04-log09-cover.jpg",
+      "publishedAt": "2026-06-30T09:37:12+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -239,38 +248,29 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Jeep ricostruirà la sua gamma anche con l’aiuto dei cinesi di Dongfeng",
-      "link": "https://images.dday.it/2lG5IC-sIegejzcWeF7DOEGQhBiJ2PLxFD9ZhRpXPt0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57898/cd2db3_NewCompass4xe_SAND-MUD.jpg",
-      "excerpt": "Il brand punta a riportare a 6 il numero di modelli della sua gamma entro il 2030 anche grazie alla partnership con la cinese Dongfeng, che produrrà un nuovo SUV Jeep da…",
-      "image": "https://images.dday.it/2lG5IC-sIegejzcWeF7DOEGQhBiJ2PLxFD9ZhRpXPt0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57898/cd2db3_NewCompass4xe_SAND-MUD.jpg",
-      "publishedAt": "2026-06-30T08:41:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Tata bucata: centinaia di foto e video dell'iPhone 18 stanno facendo il giro del web",
-      "link": "https://images.dday.it/QAV4PIWtkxRSfevyr5Em515er3wjpEEiyjc3_a64lHs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57897/96717c_iphon.jpg",
-      "excerpt": "Tata Electronics, uno dei principali assemblatori di prodotti elettronici indiani ha subito un attacco informatico e centinaia di migliaia di file relativi a progetti Apple e…",
-      "image": "https://images.dday.it/QAV4PIWtkxRSfevyr5Em515er3wjpEEiyjc3_a64lHs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57897/96717c_iphon.jpg",
-      "publishedAt": "2026-06-30T08:32:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migliori smartphone Xiaomi (giugno 2026)",
-      "link": "https://www.tomshw.it/smartphone/migliori-smartphone-xiaomi",
-      "excerpt": "Xiaomi continua a essere uno dei marchi più presenti nel mercato italiano degli smartphone. Dal debutto ufficiale nel nostro Paese, avvenuto nel 2018, l'azienda ha costruito la…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/87009/migliori-smartphone-xiaomi-copertina.jpg",
-      "publishedAt": "2026-06-30T06:43:11+00:00",
+      "title": "Anche Amazon distilla (copia) i modelli di Anthropic. Si fa di tutto pur di risparmiare",
+      "link": "https://www.tomshw.it/business/anche-amazon-distilla-copia-i-modelli-di-anthropic-si-fa-di-tutto-pur-di-risparmiare",
+      "excerpt": "Amazon sta distillando i modelli di Anthropic. Gli ingegneri del colosso di Seattle stanno costruendo versioni ridotte e più economiche di Claude per uso interno, cercando di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98695/06-amazon-distillation-cover.jpg",
+      "publishedAt": "2026-06-30T07:25:24+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Per fare crescere le persone non bastano le cose da fare: servono competenze da sviluppare",
-      "link": "https://www.tomshw.it/business/competenze-sviluppare-crescita-persone-acampora-blackship",
-      "excerpt": "Quante volte hai fatto una to do list? Probabilmente infinite. Le trovo utilissime, non ne potrei fare a meno. Per organizzare in maniera efficace il tempo, una volta definiti gli…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98652/cover-pacci-competenze.jpg",
-      "publishedAt": "2026-06-29T16:55:21+00:00",
+      "title": "Un trilione in AI senza ritorni certi. Le banche centrali tirano il freno",
+      "link": "https://www.tomshw.it/business/un-trilione-in-ai-senza-ritorni-certi-le-banche-centrali-tirano-il-freno",
+      "excerpt": "La Banca dei Regolamenti Internazionali (l'istituzione di Basilea che coordina le banche centrali mondiali e funge da cane da guardia del sistema finanziario globale) ha…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98698/un-trilione-in-ai-senza-ritorni-certi-le-banche-centrali-tirano-il-freno.png",
+      "publishedAt": "2026-06-30T07:24:25+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Arox ridisegna i microcontrollori stanza per stanza: la startup italiana che dimezza i consumi dei chip IoT",
+      "link": "https://www.tomshw.it/business/arox-microcontrollori-ultra-low-power-toschi-b2b-labs",
+      "excerpt": "Una startup italiana sta riprogettando i microcontrollori dal silicio. Davide Toschi, fondatore di Arox, ha identificato un limite architetturale nei chip che equipaggiano…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98662/cover2v2-arox-popart.jpg",
+      "publishedAt": "2026-06-30T05:27:31+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
