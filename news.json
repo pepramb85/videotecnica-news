@@ -1,9 +1,198 @@
 {
-  "generatedAt": "2026-06-30T02:39:51.319224+00:00",
+  "generatedAt": "2026-06-30T07:43:26.124816+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Elettrodomestici gadget per l'estate, ecco quello per bibite di lusso",
+      "link": "https://www.hdblog.it/home/articoli/n662914/elettrodomestici-gadget-estate-macchina-ghiaccio/",
+      "excerpt": "Che crea anche atmosfera in cucina",
+      "image": "https://hd2.tudocdn.net/1353420?w=660",
+      "publishedAt": "2026-06-30T07:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Su Tidal pubblichi musica generata con l’IA? Allora non guadagni niente: la nuova politica della piattaforma di streaming",
+      "link": "https://images.dday.it/KS0SjCGWmJ97jg4vcghFOu0Tb73gYyyjQGjXPTBat_8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57896/b951d0_Depositphotos_448270104_XL.jpg",
+      "excerpt": "Dal 15 luglio i brani identificati come interamente IA non potranno monetizzare né ricevere royalty su Tidal, che introduce anche un badge identificativo... Leggi tutto",
+      "image": "https://images.dday.it/KS0SjCGWmJ97jg4vcghFOu0Tb73gYyyjQGjXPTBat_8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57896/b951d0_Depositphotos_448270104_XL.jpg",
+      "publishedAt": "2026-06-30T07:38:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "iPhone 18 Pro, online i video dei drop test: la fuga di dati da Tata \"preoccupa\" Apple",
+      "link": "https://www.hdblog.it/smartphone/articoli/n662982/iphone-18-pro-online-video-dropo-test/",
+      "excerpt": "La fuga di dati che ha colpito Tata Electronics rischia di diventare uno dei casi più delicati degli ultimi anni per Apple",
+      "image": "https://hd2.tudocdn.net/1353530?w=660",
+      "publishedAt": "2026-06-30T07:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "I malware usati in guerra sono sempre più pericolosi",
+      "link": "https://www.tomshw.it/hardware/gamaredon-potenzia-i-malware-contro-lucraina",
+      "excerpt": "Gamaredon, gruppo APT legato alla Russia, ha ampliato il proprio arsenale malware nelle operazioni contro l'Ucraina, introducendo nuovi strumenti e tecniche pensate per rendere…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98686/gamaredon-potenzia-i-malware-contro-l-ucraina.png",
+      "publishedAt": "2026-06-30T07:26:57+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Occhi stanchi davanti al PC? Microsoft ha la soluzione",
+      "link": "https://www.tomshw.it/hardware/microsoft-testa-una-tinta-schermo-per-stancare-meno-gli-occhi",
+      "excerpt": "Microsoft sta testando una nuova impostazione di Windows 11 pensata per chi passa molte ore davanti a schermi molto luminosi: si chiama Screen Tint e applica una tinta colorata…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98685/microsoft-testa-una-tinta-schermo-per-stancare-meno-gli-occhi.png",
+      "publishedAt": "2026-06-30T07:24:15+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Dallo spazio il Sahara mostra un vulcano nero, ma non è solo",
+      "link": "https://www.tomshw.it/scienze/dallo-spazio-il-sahara-mostra-un-vulcano-nero-ma-non-e-solo",
+      "excerpt": "Una fotografia orbitale dell'Earth Observatory della NASA, scattata da un astronauta a bordo della Stazione Spaziale Internazionale, mostra il vulcano Toussid come una macchia…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98707/dallo-spazio-il-sahara-mostra-un-vulcano-nero-ma-non-e-solo.png",
+      "publishedAt": "2026-06-30T07:22:13+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Meta taglia i costi dei server AI tornando alla DDR4",
+      "link": "https://www.tomshw.it/hardware/meta-riusa-la-ddr4-con-cxl-e-taglia-i-server-per-lai",
+      "excerpt": "Meta ha presentato una strategia per riutilizzare grandi quantità di memoria DDR4 nei server dedicati all'intelligenza artificiale, collegandola tramite CXL a sistemi più recenti…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98682/meta-riusa-la-ddr4-con-cxl-e-taglia-i-server-per-l-ai.png",
+      "publishedAt": "2026-06-30T07:21:10+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "AMD prepara un core Zen 6 a basso consumo per i carichi leggeri",
+      "link": "https://www.tomshw.it/hardware/amd-prepara-un-core-zen-6-a-basso-consumo-per-i-carichi-leggeri",
+      "excerpt": "AMD sta preparando per le future CPU Zen 6 un nuovo tipo di core a basso consumo, pensato per gestire carichi leggeri, attività in background e fasi di inattività con un…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98680/amd-prepara-un-core-zen-6-a-basso-consumo-per-i-carichi-leggeri.png",
+      "publishedAt": "2026-06-30T07:18:58+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Tesla torna a correre in Borsa, il titolo fa un balzo del 9%",
+      "link": "https://www.tomshw.it/automotive/tesla-torna-a-correre-in-borsa-il-titolo-fa-un-balzo",
+      "excerpt": "Tesla ha messo a segno una seduta particolarmente forte a Wall Street, con il titolo salito dell’8,46% e una chiusura a 411,84 dollari. Il balzo arriva con volumi in crescita e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98675/tesla-torna-a-correre-in-borsa-il-titolo-fa-un-balzo.png",
+      "publishedAt": "2026-06-30T07:17:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La NASA ha un nuovo tunnel del vento, ma non servirà solo agli aerei",
+      "link": "https://www.tomshw.it/scienze/la-nasa-ha-un-nuovo-tunnel-del-vento-ma-non-servira-solo-agli-aerei",
+      "excerpt": "La NASA sta completando al Langley Research Center di Hampton, in Virginia, il Flight Dynamics Research Facility, il primo grande tunnel del vento dell'agenzia costruito in oltre…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98697/la-nasa-ha-un-nuovo-tunnel-del-vento-ma-non-servira-solo-agli-aerei.png",
+      "publishedAt": "2026-06-30T07:15:58+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "SteamOS gestisce meglio la VRAM sulle GPU dedicate",
+      "link": "https://www.tomshw.it/hardware/steamos-gestisce-meglio-la-vram-sulle-gpu-dedicate",
+      "excerpt": "Valve ha inserito nel ramo beta di SteamOS una modifica alla gestione della VRAM pensata per le piattaforme con GPU dedicate. L'intervento punta a ridurre i rallentamenti che…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98670/steamos-gestisce-meglio-la-vram-sulle-gpu-dedicate.png",
+      "publishedAt": "2026-06-30T07:14:06+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "UGREEN Nexode 300W cala a 133€: un solo caricatore per tutta la scrivania",
+      "link": "https://www.tomshw.it/hardware/ugreen-nexode-300w-cala-a-133-euro-caricatore-scrivania-2026-06-30",
+      "excerpt": "UGREEN Nexode 300W è ora disponibile in offerta a 132,97€, con uno sconto del 22% rispetto al prezzo di riferimento di 169,99€. È una proposta da valutare se volete un prodotto…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/96340/ugreen-nexode-300w-gan-un-solo-caricatore-per-tutto-ora-piu-con3t0ii4k78m09dSsLY9w.png",
+      "publishedAt": "2026-06-30T07:11:08+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "L'India inaugura il primo impianto al mondo per l'idrogeno con calore nucleare",
+      "link": "https://www.hdblog.it/green/articoli/n662868/india-primo-impianto-idrogeno-calore-nucleare/",
+      "excerpt": "L'India inaugura il primo impianto che produce idrogeno usando il calore di un reattore nucleare.",
+      "image": "https://hd2.tudocdn.net/1353203?w=660",
+      "publishedAt": "2026-06-30T07:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "WhatsApp apre le prenotazioni dei nomi utente, per chattare senza dare il numero",
+      "link": "https://images.dday.it/UMQw2APfOjPWnVW-IQrj52ugSrFVrRzROG7Aoss_TFI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57894/6ed8f4_Screenshot_2026-06-30_alle_09.04.12.png",
+      "excerpt": "Dalle impostazioni dell'app si può riservare già da oggi il nome che userà la funzione, in arrivo nei prossimi mesi in tutto il mondo. Non è proprio come quella di Telegram...…",
+      "image": "https://images.dday.it/UMQw2APfOjPWnVW-IQrj52ugSrFVrRzROG7Aoss_TFI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57894/6ed8f4_Screenshot_2026-06-30_alle_09.04.12.png",
+      "publishedAt": "2026-06-30T07:05:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Netflix cambia le regole: ogni profilo dovrà avere un'email unica per poter accedere",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n662970/netflix-cambia-regole-profilo-email-unica/",
+      "excerpt": "Netflix ha iniziato a chiedere un indirizzo email separato per ogni profilo collegato a un abbonamento.",
+      "image": "https://hd2.tudocdn.net/1353515?w=660",
+      "publishedAt": "2026-06-30T06:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google Chrome, in arrivo i riassunti AI con Gemini per i file PDF",
+      "link": "https://www.hdblog.it/google/articoli/n662960/google-chrome-pdf-riassunti-ai/",
+      "excerpt": "In arrivo a breve nel canale Beta, vediamo quanto ci vorrà per l'ufficialità.",
+      "image": "https://hd2.tudocdn.net/1346085?w=660",
+      "publishedAt": "2026-06-30T06:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Truffe Mondiali 2026: come evitare siti falsi e phishing",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n661808/truffe-mondiali-2026-come-evitare-siti-falsi-e-phishing/",
+      "excerpt": "Truffe Mondiali 2026, falsi siti FIFA e link sospetti: come riconoscerli e proteggersi con Bitdefender.",
+      "image": "https://hd2.tudocdn.net/1350831?w=660",
+      "publishedAt": "2026-06-30T06:31:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung Galaxy Z Fold 8 / Ultra e Flip 8, tanti nuovi render",
+      "link": "https://www.hdblog.it/smartphone/articoli/n662963/samsung-galaxy-z-fold-8-ultra-flip-render-custodie/",
+      "excerpt": "Una carrellata di quelle che probabilmente saranno le custodie ufficiali.",
+      "image": "https://hd2.tudocdn.net/1353504?w=660",
+      "publishedAt": "2026-06-30T06:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple rilascia iOS 26.6 beta 2 e iOS 26.5.2 in versione stabile con patch di sicurezza",
+      "link": "https://www.hdblog.it/smartphone/articoli/n662968/apple-rilascia-beta-ios-stabile-patch-sicurezza/",
+      "excerpt": "Alcune vulnerabilità potevano causare crash o perdita di dati",
+      "image": "https://hd2.tudocdn.net/1353509?w=660",
+      "publishedAt": "2026-06-30T06:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "ChatGPT al centro del processo per il maxi incendio di Pacific Palisades",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n662965/chatgpt-processo-incendio-pacific-palisades/",
+      "excerpt": "I log di ChatGPT entrano in tribunale, ma la giuria non li ritiene decisivi.",
+      "image": "https://hd2.tudocdn.net/1353505?w=660",
+      "publishedAt": "2026-06-30T06:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Motorola Edge 70 Fusion, nuovo minimo storico Amazon: gli auricolari sono inclusi",
+      "link": "https://www.hdblog.it/smartphone/offerte/n662966/motorola-edge-70-fusion-con-auricolari-sconto/",
+      "excerpt": "Il bundle con Motorola edge 70 Fusion (edizione speciale dedicata ai mondiali di calcio 2026) e auricolari moto buds bass è al nuovo minimo storico su Amazon. Ora costa poco più…",
+      "image": "https://hd2.tudocdn.net/1353508?w=660",
+      "publishedAt": "2026-06-30T06:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Corsi gratuiti di fotografia per tutti: ecco la scuola online di Fujifilm. Video on demand da vedere quando vuoi",
       "link": "https://images.dday.it/yZXo2wIFWqAtfOlPBADCKQ7JcToeWa0d7oqUZagG9kg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57808/ffeffd_online_and_social-X-T50_DSCQ0176-2.jpg",
@@ -12,150 +201,6 @@
       "publishedAt": "2026-06-30T01:03:04+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migliori smartphone con eSIM (giugno 2026)",
-      "link": "https://www.tomshw.it/smartphone/migliori-smartphone-con-esim",
-      "excerpt": "Gli smartphone con eSIM sono ormai una scelta concreta per chi vuole cambiare operatore, tenere separati numero personale e numero di lavoro o preparare una connessione dati prima…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/88198/migliori-smartphone-esim-copertina.jpg",
-      "publishedAt": "2026-06-30T01:01:46+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori micro SD per Steam Deck (giugno 2026)",
-      "link": "https://www.tomshw.it/videogioco/migliori-micro-sd-steam-deck",
-      "excerpt": "La console portatile di Valve permette di portare con sé una libreria Steam enorme, ma lo spazio interno diventa presto il primo limite concreto, soprattutto se alternate giochi…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/87677/migliori-microsd-steam-deck-copertina.jpg",
-      "publishedAt": "2026-06-30T00:55:15+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori Ad Blocker (giugno 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-ad-blocker",
-      "excerpt": "Scegliere il miglior Ad Blocker significa trovare un equilibrio tra navigazione più pulita, privacy e compatibilità con i siti che visitate ogni giorno. Un buon blocco…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/05/94176/migliori-adblocker-copertina.jpg",
-      "publishedAt": "2026-06-30T00:46:49+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Voce da studio sotto 100€: Elgato Wave:3 è al -41% su Amazon",
-      "link": "https://www.tomshw.it/offerte/voce-da-studio-sotto-100eur-elgato-wave3-e-al-41-su-amazon",
-      "excerpt": "Elgato Wave:3 è a 99,99€ su Amazon, con il 41% di sconto rispetto ai 169,99€ di listino. L’angolo interessante è chiaro: un microfono USB pensato per streaming, podcast, gaming e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98654/tomshw-offer-558001.png",
-      "publishedAt": "2026-06-29T19:18:01+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Google Pixel 6 con Android 17: dopo quasi cinque anni, la redenzione. | VIDEO",
-      "link": "https://www.hdblog.it/smartphone/speciali/n658719/google-pixel-6-android17-aggiornamento-video/",
-      "excerpt": "I Google Pixel 6 con l'aggiornamento ad Android 17 sono arrivati \"al capolinea\", ma sono stati cinque anni di costante miglioramento. Quale è il loro stato attuale? Google è…",
-      "image": "https://hd2.tudocdn.net/1350949?w=660",
-      "publishedAt": "2026-06-29T19:01:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Paramount+: tutti i film e le serie TV in arrivo a luglio 2026",
-      "link": "https://www.hdblog.it/curiosita/articoli/n662921/paramount-film-serie-tv-luglio-2026/",
-      "excerpt": "Ecco le novità del mese",
-      "image": "https://hd2.tudocdn.net/1353363?w=660",
-      "publishedAt": "2026-06-29T19:00:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Steam Machine, la \"Skin\" Companion Cube di Dbrand non si farà",
-      "link": "https://www.hdblog.it/games/articoli/n662954/steam-machine-valve-dbrand-custodia-portal/",
-      "excerpt": "Dbrand non ha chiesto una licenza a Valve, il team legale di Valve è intervenuto con tempestività estrema.",
-      "image": "https://hd2.tudocdn.net/1351817?w=660",
-      "publishedAt": "2026-06-29T18:13:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "WhatsApp, Username presto in arrivo! Prenotazioni già entro settimana",
-      "link": "https://www.hdblog.it/android/articoli/n662950/whatsapp-username-nomi-utente-prenotazioni/",
-      "excerpt": "Ecco come funzioneranno.",
-      "image": "https://hd2.tudocdn.net/1353429?w=660",
-      "publishedAt": "2026-06-29T17:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung, i nomi controintuitivi dei nuovi pieghevoli sono praticamente confermati",
-      "link": "https://www.hdblog.it/smartphone/articoli/n662948/samsung-galaxy-z-fold-8-ultra-nomi-conferme/",
-      "excerpt": "Un produttore di custodie terzo fuga gli ultimi dubbi.",
-      "image": "https://hd2.tudocdn.net/1274322?w=660",
-      "publishedAt": "2026-06-29T17:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "MSI Claw 8 Ex AI+ arriva in Italia: preordini aperti, prezzi proibitivi",
-      "link": "https://www.hdblog.it/hardware/articoli/n662943/msi-claw-8-ex-ai-plus-preordini-italia-prezzo/",
-      "excerpt": "Disponibile da luglio... per chi ha un portafogli abbastanza capiente.",
-      "image": "https://hd2.tudocdn.net/1353401?w=660",
-      "publishedAt": "2026-06-29T17:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Google frena Meta: stop all'uso illimitato di Gemini per l'AI",
-      "link": "https://www.hdblog.it/google/articoli/n662931/google-limita-meta-gemini-ai/",
-      "excerpt": "Google limita l'uso di Gemini da parte di Meta per carenza di potenza di calcolo.",
-      "image": "https://hd2.tudocdn.net/1353368?w=660",
-      "publishedAt": "2026-06-29T16:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "RedMagic Astra 2: il tablet compatto per il gaming arriverà sul mercato globale",
-      "link": "https://www.hdblog.it/tablet/articoli/n662938/redmagic-astra-2-globale-italia-lancio-specifiche/",
-      "excerpt": "È il successore di uno dei migliori tablet Android compatti in circolazione.",
-      "image": "https://hd2.tudocdn.net/1353397?w=660",
-      "publishedAt": "2026-06-29T16:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "La Steam Machine ha già i suoi estimatori: ecco \"Steamroller\" e \"Stim Machine\"!",
-      "link": "https://www.hdblog.it/games/articoli/n662936/valve-steam-machine-steamroller-stim-machine/",
-      "excerpt": "Due sistemi filosoficamente molto simili, con prestazioni uguali o superiori ma dai costi inferiori.",
-      "image": "https://hd2.tudocdn.net/1353378?w=660",
-      "publishedAt": "2026-06-29T16:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Assassin’s Creed Shadows Switch 2 a 35,49€: Ubisoft taglia del 41%",
-      "link": "https://www.tomshw.it/offerte/assassins-creed-shadows-switch-2-a-3549eur-ubisoft-taglia-del-41",
-      "excerpt": "Assassin’s Creed Shadows per Nintendo Switch 2 costa 35,49€ su Amazon con sconto del 41% rispetto ai 59,99€ di riferimento. Il richiamo è chiaro: un capitolo Ubisoft recente,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98651/tomshw-offer-557806.png",
-      "publishedAt": "2026-06-29T16:32:37+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Dal comando alla delega: come gli agenti AI stanno ridisegnando il lavoro aziendale",
-      "link": "https://www.tomshw.it/business/dal-comando-alla-delega-agenti-ai-lavoro-aziendale",
-      "excerpt": "Per anni abbiamo pensato al computer come a uno strumento: apriamo un programma, cerchiamo un file, scriviamo una mail, copiamo dati, prepariamo una presentazione. Il computer…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98650/cover-dal-comando-alla-delega-limenta.jpg",
-      "publishedAt": "2026-06-29T16:30:24+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Samsung non si ferma e testa One UI 9.0 anche sugli smartphone più economici",
-      "link": "https://www.hdblog.it/smartphone/articoli/n662895/samsung-one-ui-9-aggiornamento/",
-      "excerpt": "Samsung sta testando One UI 9.0 su Galaxy A07, A24 e Tab S10 Ultra, in vista del lancio ufficiale con i nuovi pieghevoli.",
-      "image": "https://hd2.tudocdn.net/1343504?w=660",
-      "publishedAt": "2026-06-29T16:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Tesla lancia la versione FSD 14 Lite della sua guida autonoma sulle auto con vecchio hardware",
@@ -185,28 +230,10 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Nessuno controlla più il codice scritto dall'AI. Sarà un problema enorme",
-      "link": "https://www.tomshw.it/business/codice-scritto-ai-code-review-umana-scompare",
-      "excerpt": "Il 41% del codice in produzione oggi è generato dall'AI. La maggior parte di quel codice arriva in produzione senza che nessuno lo abbia letto davvero, riga per riga. È una…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98605/04-ai-code-review.jpg",
-      "publishedAt": "2026-06-29T14:10:06+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Se non arriva il prossimo stipendio magari sarà per colpa di un agente AI mal governato",
-      "link": "https://www.tomshw.it/business/agente-ai-mal-governato-stipendio-payroll-governance",
-      "excerpt": "Workday ha lanciato un avvertimento preciso alle aziende che stanno deployando agenti AI senza una struttura di governance adeguata: un agente senza identità, senza perimetro di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98611/07-agente-paghe.jpg",
-      "publishedAt": "2026-06-29T14:10:06+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Coinbase passa alle AI cinesi. Sicure o no, quel che conta è che costano meno",
-      "link": "https://www.tomshw.it/business/coinbase-ai-cinesi-costano-meno",
-      "excerpt": "Coinbase ha tagliato del 50% i costi di intelligenza artificiale passando di default a due modelli cinesi open weight: GLM 5.2 di Zhipu AI e Kimi K2.7 Code di Moonshot AI. Lo ha…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98603/05-coinbase-ai-cinesi.jpg",
+      "title": "Ancora allarmi dal mercato AI, J.P. Morgan insiste sul rischio bolla",
+      "link": "https://www.tomshw.it/business/jp-morgan-rischio-bolla-ai",
+      "excerpt": "J.P. Morgan ha identificato quattro segnali tecnici di sopravvalutazione nel mercato dell'intelligenza artificiale che, presi insieme, compongono un quadro difficile da ignorare.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98610/06-jp-morgan-bolla.jpg",
       "publishedAt": "2026-06-29T14:10:06+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
@@ -230,15 +257,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Marketing automatizzato con l'AI, checklist etica per fare le cose nel modo giusto",
-      "link": "https://www.tomshw.it/aioperator/marketing-ai-checklist-etica",
-      "excerpt": "Il 2 agosto 2026 entrano in vigore gli obblighi di trasparenza dell'articolo 50 dell'AI Act. Per chi usa sistemi di marketing automation basati sull'AI, quella data è già…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98593/04-mkt18-cover.jpg",
-      "publishedAt": "2026-06-29T13:32:30+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "PlayStation rivede la strategia: prezzi più alti, meno perdite sull'hardware e un occhio al cloud gaming",
       "link": "https://images.dday.it/tI9ABx2pMa22vZfamKidfBj8N6sSOSiB12-hlLPNeXI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57888/d32e5b_Depositphotos_667762042_XL.jpg",
       "excerpt": "Da un Q&A di inizio giugno pubblicato oggi, emerge la nuova logica PlayStation: rincari già applicati, hardware non più venduto in perdita e streaming come sbocco per i…",
@@ -253,24 +271,6 @@
       "excerpt": "Proiettori smart XGIMI con Google TV integrata, immagini ad alta definizione, schermo a dimensioni cinematografiche e audio immersivo: la soluzione completa per trasformare…",
       "image": "https://images.dday.it/6f-RLVOfWJJOOf0jv786mLu1jdCxkir_ensyM9IVbXg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57884/db7dff_71fmnUXheoL._AC_SL1500_.jpg",
       "publishedAt": "2026-06-29T10:34:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Crisi della memoria: il cane (Micron) morde la mano che lo ha affamato (Apple)",
-      "link": "https://images.dday.it/NrBWI48D25JZ0d5NHnYRwCbwYyEVeOfYKER0uYs0sik/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57887/81a4bc_mccron.jpg",
-      "excerpt": "Mentre Tim Cook punta il dito contro l'IA definendo la crisi qualcosa di eccezionale, Micron restituisce le accuse al mittente: Apple è colpevole della crisi quanto l'IA. ...…",
-      "image": "https://images.dday.it/NrBWI48D25JZ0d5NHnYRwCbwYyEVeOfYKER0uYs0sik/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57887/81a4bc_mccron.jpg",
-      "publishedAt": "2026-06-29T10:18:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "La Ferrari Luce è sold out in Cina",
-      "link": "https://images.dday.it/1RS4DPhv-H_-IalxM6O8-oQ9F7LcxRvCCxd1QByoezg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57885/d81ce5_large_6a146abf2d10b80021148a30-ferrari_luce_front_3q_16x9_rgb_web_socials.jpeg",
-      "excerpt": "Ferrari ha già venduto tutti gli 88 esemplari destinati al mercato cinese della sua discussa prima auto elettrica... Leggi tutto",
-      "image": "https://images.dday.it/1RS4DPhv-H_-IalxM6O8-oQ9F7LcxRvCCxd1QByoezg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57885/d81ce5_large_6a146abf2d10b80021148a30-ferrari_luce_front_3q_16x9_rgb_web_socials.jpeg",
-      "publishedAt": "2026-06-29T10:10:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
