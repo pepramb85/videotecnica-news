@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T19:42:32.658581+00:00",
+  "generatedAt": "2026-07-01T21:20:23.844081+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
@@ -12,6 +12,15 @@
       "publishedAt": "2026-07-01T19:17:20+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Recensione Navee Exo S Pro: abbiamo provato l'esoscheletro che riduce davvero la fatica",
+      "link": "https://www.hdblog.it/tecnologia/recensioni/n662143/recensione-navee-exo-s-pro-provato-esoscheletro/",
+      "excerpt": "Abbiamo provato il Navee Exo S Pro: un esoscheletro per l’anca in fibra di carbonio con potenza di 960W, intelligenza artificiale Gait Engine e un supporto che riduce la fatica…",
+      "image": "https://hd2.tudocdn.net/1352544?w=660",
+      "publishedAt": "2026-07-01T19:00:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
     },
     {
       "title": "Google lavora a una variante di Gemini Live per le automobili",
@@ -109,15 +118,6 @@
       "excerpt": "Rocket Lab rinvia all’ultimo secondo il lancio del satellite radar giapponese QPS-SAR-13",
       "image": "https://hd2.tudocdn.net/1354141?w=660",
       "publishedAt": "2026-07-01T16:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Una GeForce RTX 5090D è la prima GPU Blackwell a superare i 4 GHz in overclok",
-      "link": "https://www.hdblog.it/hardware/articoli/n663184/nvidia-geforce-rtx-5090d-record-overclock-4-ghz/",
-      "excerpt": "Il team OGS colpisce ancora.",
-      "image": "https://hd2.tudocdn.net/1354146?w=660",
-      "publishedAt": "2026-07-01T16:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
