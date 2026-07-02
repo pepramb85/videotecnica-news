@@ -1,17 +1,188 @@
 {
-  "generatedAt": "2026-07-02T02:35:45.739699+00:00",
+  "generatedAt": "2026-07-02T07:23:50.270164+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Migliori smartwatch (luglio 2026)",
-      "link": "https://www.tomshw.it/guide/migliori-smartwatch",
-      "excerpt": "Lo smartwatch è diventato uno degli accessori tecnologici più utili da indossare ogni giorno, ma scegliere quello giusto è meno immediato di quanto sembri. I modelli migliori non…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/88516/migliori-smartwatch-copertina.jpg",
-      "publishedAt": "2026-07-02T01:08:43+00:00",
+      "title": "Apple, raffica di novità nel 2027: ecco perché l'inizio dell'anno sarà speciale",
+      "link": "https://www.hdblog.it/portatili/articoli/n663229/nuovi-ipad-pro-macbook-pro-inizio-2027/",
+      "excerpt": "Apple potrebbe aprire il 2027 con numerose novità: secondo Mark Gurman sarebbero in arrivo quattro nuovi iPad Pro, un MacBook Pro entry level, il chip M7 e nuovi iPhone della…",
+      "image": "https://hd2.tudocdn.net/1345008?w=660",
+      "publishedAt": "2026-07-02T07:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Microsoft cede, il tasto Copilot si potrà rimappare",
+      "link": "https://www.tomshw.it/hardware/microsoft-cede-il-tasto-copilot-si-potra-rimappare",
+      "excerpt": "Microsoft farà un passo indietro sul tasto Copilot: un aggiornamento di Windows 11 previsto a fine anno permetterà di rimapparlo, trasformandolo di nuovo in Ctrl destro o nel…",
+      "image": "https://cdn.tomshw.it/storage/media/2024/09/35062/Tasto-Copilot.png",
+      "publishedAt": "2026-07-02T07:19:54+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Trust Forze a 28€: cuffie PlayStation ufficiali a metà prezzo",
+      "link": "https://www.tomshw.it/videogioco/trust-forze-a-25-euro-cuffie-playstation-ufficiali-2026-07-02",
+      "excerpt": "Trust Forze è disponibile in offerta a 27,99€, con uno sconto del 44% rispetto ai 49,99€ di riferimento. È un taglio utile per chi stava già valutando questo tipo di pro...",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99106/Trust-Forze-a-28€.jpg",
+      "publishedAt": "2026-07-02T07:16:18+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Logitech G PRO X Wireless a 120€: cuffie gaming premium a metà prezzo",
+      "link": "https://www.tomshw.it/videogioco/logitech-g-pro-x-wireless-a-120-euro-cuffie-gaming-premium-2026-07-02",
+      "excerpt": "Logitech G PRO X Wireless è disponibile in offerta a 119,95€, con uno sconto del 50% rispetto ai 239,99€ di riferimento. È un taglio utile per chi stava già valutando questo tipo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97070/logitech-g-pro-x-wireless-meta-prezzo-headset-gaming-senza-filieho610fjsh8267IYggK.png",
+      "publishedAt": "2026-07-02T07:13:29+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Razer Kiyo scende a 50€: webcam con luce integrata per streaming e call",
+      "link": "https://www.tomshw.it/hardware/razer-kiyo-scende-a-50-euro-webcam-luce-integrata-2026-07-02",
+      "excerpt": "Razer Kiyo è disponibile in offerta a 49,65€, con uno sconto del 58% rispetto ai 118,74€ di riferimento. È un taglio utile per chi stava già valutando questo tipo di prodotto e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/05/94342/razer-kiyo-webcam-ring-light-46-euro-2026-05-28-Epbb9GFldgrh1tq6dqkdqTk8DU.png",
+      "publishedAt": "2026-07-02T07:11:48+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "70mai A810S: la dash cam 4K fronte e retro ora è più conveniente",
+      "link": "https://www.tomshw.it/automotive/70mai-a810s-dash-cam-4k-fronte-retro-conveniente-2026-07-02",
+      "excerpt": "70mai A810S è disponibile in offerta a 233,99€, con uno sconto del 10% rispetto ai 259,99€ di riferimento. È un taglio utile per chi stava già valutando questo tipo di prodotto e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99066/70mai-a810s-dash-cam-4k-fronte-retro-conveniente-2026-07-02-csy2m21jdpvs03kdGjx73B.png",
+      "publishedAt": "2026-07-02T07:10:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Usate Nascondi la mia email? Un ricercatore: l'indirizzo reale non è al sicuro",
+      "link": "https://www.hdblog.it/apple/articoli/n663226/nascondi-la-mia-email-rischio-privacy/",
+      "excerpt": "Nascondi la mia email di Apple non sarebbe così efficace nel fare ciò che promette. Affatto. Alla base del sistema che permette ai clienti iCloud di utilizzare un indirizzo di…",
+      "image": "https://hd2.tudocdn.net/1354228?w=660",
+      "publishedAt": "2026-07-02T07:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "SteelSeries Arctis Nova 3: cuffie gaming leggere con uno sconto utile",
+      "link": "https://www.tomshw.it/videogioco/steelseries-arctis-nova-3-cuffie-gaming-sconto-utile-2026-07-02",
+      "excerpt": "SteelSeries Arctis Nova 3 è disponibile in offerta a 98€, con uno sconto del 11% rispetto ai 109,99€ di riferimento. È un taglio utile per chi stava già valutando questo tipo di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99065/steelseries-arctis-nova-3-cuffie-gaming-sconto-utile-2026-07-020rr2qa9ndk847cfErRT.png",
+      "publishedAt": "2026-07-02T07:09:20+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "APC Back-UPS Pro 2200VA: proteggere un setup gaming costa meno",
+      "link": "https://www.tomshw.it/hardware/apc-back-ups-pro-2200va-setup-gaming-protetto-2026-07-02",
+      "excerpt": "APC Back-UPS Pro 2200VA è disponibile in offerta a 530,03€, con uno sconto del 12% rispetto ai 602,99€ di riferimento. È un taglio utile per chi stava già valutando questo tipo di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99064/apc-back-ups-pro-2200va-setup-gaming-protetto-2026-07-02-nCI4Rb65l23citj6755Lq5AZ5.png",
+      "publishedAt": "2026-07-02T07:07:57+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "AirPods Pro 3 calano: ANC e funzioni salute pesano di più",
+      "link": "https://www.tomshw.it/smartphone/airpods-pro-3-anc-funzioni-salute-offerta-2026-07-02",
+      "excerpt": "AirPods Pro 3 è disponibile in offerta a 219,49€, con uno sconto del 12% rispetto ai 249€ di riferimento. È un taglio utile per chi stava già valutando questo tipo di prodotto e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/05/94123/apple-airpods-pro-3-a-219eur-anc-e-cardio-gia-in-sconto-2026-057kvdv06r9ms340PDmxT.png",
+      "publishedAt": "2026-07-02T07:07:08+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "NearStream CCD10 rende più accessibile lo streaming 4K pass-through",
+      "link": "https://www.tomshw.it/hardware/nearstream-ccd10-capture-card-4k-pass-through-streaming-2026-07-02",
+      "excerpt": "NearStream CCD10 è disponibile in offerta a 59,99€, con uno sconto del 14% rispetto ai 69,99€ di riferimento. È un taglio utile per chi stava già valutando questo tipo di prodotto…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99063/nearstream-ccd10-capture-card-4k-pass-through-streaming-2026-07qrsdft0obqedcOHqNGm.png",
+      "publishedAt": "2026-07-02T07:06:27+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il telefono AI di SpaceX esiste davvero? Musk spegne tutto",
+      "link": "https://www.hdblog.it/smartphone/articoli/n663223/spacex-telefono-ai-elon-musk/",
+      "excerpt": "Musk nega il prototipo AI di SpaceX mentre cresce l’interesse per Starlink mobile",
+      "image": "https://hd2.tudocdn.net/1354222?w=660",
+      "publishedAt": "2026-07-02T07:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Perlegear PGMFK6 a 23€: la staffa TV snodata costa meno",
+      "link": "https://www.tomshw.it/hardware/perlegear-pgmfk6-a-23-euro-staffa-tv-snodata-2026-07-02",
+      "excerpt": "Perlegear PGMFK6 è disponibile in offerta a 22,99€, con uno sconto del 30% rispetto ai 32,99€ di riferimento. È un taglio utile per chi stava già valutando questo tipo di prodotto…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99062/perlegear-pgmfk6-a-23-euro-staffa-tv-snodata-2026-07-02-2mjldsnf80gb93o7jf2aiRn6dH.png",
+      "publishedAt": "2026-07-02T07:04:20+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Fujifilm QuickSnap: due nuovi versioni per i 40 anni della fotocamera monouso",
+      "link": "https://www.hdblog.it/fotografia/articoli/n663195/fujifilm-quicksnap-nuove-versioni-fotocamera/",
+      "excerpt": "Vendute ad oggi 1,7 miliardi di unità in tutto il mondo.",
+      "image": "https://hd2.tudocdn.net/1354162?w=660",
+      "publishedAt": "2026-07-02T06:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "WhatsApp, arrivano gli username: come prenotarli e perché conviene farlo subito",
+      "link": "https://www.hdblog.it/smartphone/articoli/n663222/whatsapp-arrivano-username-come-prenotarli/",
+      "excerpt": "Come scegliere il nome giusto e come proteggersi",
+      "image": "https://hd2.tudocdn.net/1354226?w=660",
+      "publishedAt": "2026-07-02T06:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "General Fusion e Renexia studiano centrali a fusione in Italia",
+      "link": "https://www.hdblog.it/green/articoli/n663188/general-fusion-renexia-fusione-nucleare-italia/",
+      "excerpt": "General Fusion e Renexia valutano centrali a fusione in Italia",
+      "image": "https://hd2.tudocdn.net/1354154?w=660",
+      "publishedAt": "2026-07-02T06:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Un emulatore Game Boy con display E-Ink super fluido, grazie a ESP32",
+      "link": "https://www.hdblog.it/games/articoli/n663215/game-boy-e-ink-esp32-fluido-display-dev-kit/",
+      "excerpt": "Un appassionato tinkerer è riuscito a rendere gli e-Ink fluidi a sufficienza per eseguire Super Mario a 60 FPS.",
+      "image": "https://hd2.tudocdn.net/1354202?w=660",
+      "publishedAt": "2026-07-02T06:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "NotebookLM ora trasforma ricerche e appunti in video brevi stile TikTok",
+      "link": "https://www.hdblog.it/google/articoli/n663217/google-notebooklm-ricerche-video-brevi-tiktok/",
+      "excerpt": "Clip da non più di 60 secondi per imparare / ripassare rapidamente argomenti e ricerche.",
+      "image": "https://hd2.tudocdn.net/1354207?w=660",
+      "publishedAt": "2026-07-02T06:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "I falchi australiani possono rendere i droni più stabili",
+      "link": "https://www.hdblog.it/droni/articoli/n663185/falchi-australiani-droni-turbolenza/",
+      "excerpt": "I falchi australiani ispirano nuovi droni più stabili contro il vento.",
+      "image": "https://hd2.tudocdn.net/1354148?w=660",
+      "publishedAt": "2026-07-02T06:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "iPhone Ultra, Apple alza le previsioni di vendita per il suo primo pieghevole",
+      "link": "https://www.hdblog.it/smartphone/articoli/n663221/iphone-ultra-apple-alza-previsioni-vendita/",
+      "excerpt": "Apple avrebbe ordinato circa 10 milioni di iPhone pieghevoli",
+      "image": "https://hd2.tudocdn.net/1354211?w=660",
+      "publishedAt": "2026-07-02T06:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
     },
     {
       "title": "Corsi gratuiti di fotografia per tutti: ecco la scuola online di Fujifilm. Video on demand da vedere quando vuoi",
@@ -21,141 +192,6 @@
       "publishedAt": "2026-07-02T01:03:05+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migliori webcam per PC (luglio 2026)",
-      "link": "https://www.tomshw.it/guide/migliori-webcam-pc",
-      "excerpt": "Scegliere una webcam per PC oggi significa valutare molto più della sola risoluzione indicata sulla confezione. Videoconferenze, lezioni online, streaming, riunioni ibride e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/88222/migliori-webcam-pc-copertina.jpg",
-      "publishedAt": "2026-07-02T01:02:33+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori scrivanie per casa e ufficio (luglio 2026)",
-      "link": "https://www.tomshw.it/offerte/scrivania-da-ufficio-pc-migliori",
-      "excerpt": "Una buona scrivania per casa e ufficio non serve soltanto a poggiare notebook, monitor e documenti: è il centro della postazione, quindi incide su ordine, postura e continuità del…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/87495/migliori-scrivanie-casa-ufficio-copertina.jpg",
-      "publishedAt": "2026-07-02T00:49:47+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Casa pulita senza mani: Dreame X40 Master a 629,99€ su Amazon",
-      "link": "https://www.tomshw.it/offerte/casa-pulita-senza-mani-dreame-x40-master-a-62999eur-su-amazon",
-      "excerpt": "Dreame X40 Master è in offerta a 629,99€ su Amazon invece di 1.199€, con uno sconto del 46% e 569,01€ lasciati sul tavolo rispetto al listino. Il richiamo qui è la base compatta…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99058/tomshw-offer-560578.png",
-      "publishedAt": "2026-07-01T19:17:20+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Recensione Navee Exo S Pro: abbiamo provato l'esoscheletro che riduce davvero la fatica",
-      "link": "https://www.hdblog.it/tecnologia/recensioni/n662143/recensione-navee-exo-s-pro-provato-esoscheletro/",
-      "excerpt": "Abbiamo provato il Navee Exo S Pro: un esoscheletro per l’anca in fibra di carbonio con potenza di 960W, intelligenza artificiale Gait Engine e un supporto che riduce la fatica…",
-      "image": "https://hd2.tudocdn.net/1352544?w=660",
-      "publishedAt": "2026-07-01T19:00:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Google lavora a una variante di Gemini Live per le automobili",
-      "link": "https://www.hdblog.it/google/articoli/n663207/google-gemini-live-android-auto-videocamere/",
-      "excerpt": "Collegandosi alle videocamere del veicolo, Gemini può analizzare l'ambiente circostante e rispondere alle domande dell'utente.",
-      "image": "https://hd2.tudocdn.net/1230710?w=660",
-      "publishedAt": "2026-07-01T18:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Licenziamenti in casa IO Interactive, lo studio di 007: First Light",
-      "link": "https://www.hdblog.it/games/articoli/n663205/007-first-light-io-interactive-licenziamenti/",
-      "excerpt": "E a quanto pare sono stati causati da Microsoft.",
-      "image": "https://hd2.tudocdn.net/1346629?w=660",
-      "publishedAt": "2026-07-01T17:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Dreame T16 Pro Heat arriva in Italia con una promo di lancio molto allettante",
-      "link": "https://www.hdblog.it/home/articoli/n663202/dreame-t16-pro-heat-ufficiale-prezzi-specifiche/",
-      "excerpt": "30.000 Pa di aspirazione e acqua calda fino a 90°C.",
-      "image": "https://hd2.tudocdn.net/1354180?w=660",
-      "publishedAt": "2026-07-01T17:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Google chiude l'accesso a Tenor, social e IM passano ad altri servizi per le GIF animate",
-      "link": "https://www.hdblog.it/google/articoli/n663197/google-chiude-api-tenor-terze-parti/",
-      "excerpt": "Il sito continuerà a esistere e sarà sempre sfruttato dai prodotti software Google, ma piattaforme come WhatsApp, Discord e Twitter hanno dovuto cercarsi un'alternativa.",
-      "image": "https://hd2.tudocdn.net/1354167?w=660",
-      "publishedAt": "2026-07-01T17:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "La promessa della NASA: un pallone sulla Luna se gli USA vincono i mondiali",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n663191/nasa-pallone-luna-usa-mondiali-2026/",
-      "excerpt": "NASA porterà un pallone sulla Luna se gli USA vinceranno i Mondiali 2026",
-      "image": "https://hd2.tudocdn.net/1354157?w=660",
-      "publishedAt": "2026-07-01T16:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Dal fisico al digitale: la fine di un'era nel gaming",
-      "link": "https://www.tomshw.it/videogioco/dal-fisico-al-digitale-la-fine-di-unera-nel-gaming",
-      "excerpt": "Quando Sony ha comunicato che da gennaio 2028 i titoli pubblicati da PlayStation non usciranno più su disco, molti hanno parlato di fine di un'era. Eppure, guardando i numeri, la…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99051/Editoriale-digitale-fisico-4.jpg",
-      "publishedAt": "2026-07-01T16:41:11+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Ostriche nello spazio: il filtro naturale per gli astronauti",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n663112/ostriche-spazio-filtro-acqua-astronauti/",
-      "excerpt": "Ostriche e acquacoltura chiusa studiate per acqua e cibo nello spazio.",
-      "image": "https://hd2.tudocdn.net/1353990?w=660",
-      "publishedAt": "2026-07-01T16:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "43” 4K con Smart Hub: Samsung M7 a 327,49€ su Amazon",
-      "link": "https://www.tomshw.it/offerte/43-4k-con-smart-hub-samsung-m7-a-32749eur-su-amazon",
-      "excerpt": "Samsung Smart Monitor M7 43” 4K è a 327,49€ su Amazon, con uno sconto del 40% rispetto ai 549€ ufficiali. Il richiamo è chiaro: un grande schermo UHD che lavora anche da hub smart…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99053/tomshw-offer-560408.png",
-      "publishedAt": "2026-07-01T16:33:42+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Fujifilm offre cashback fino a 150 euro sulle ottiche XF",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n663031/fujifilm-offre-cashback-fino-a-150-euro-sulle-lenti-xf/",
-      "excerpt": "Parte la promo Fujifilm sulle ottiche della serie XF, con cashback fino a 150 euro.",
-      "image": "https://hd2.tudocdn.net/1354065?w=660",
-      "publishedAt": "2026-07-01T16:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Motorola sta per superare Samsung con Qi2 e magneti integrati sull'Edge 70 Max",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663142/motorola-edge-70-max-qi2/",
-      "excerpt": "Motorola Edge 70 Max dovrebbe arrivare con il supporto completo alla tecnologia Qi2.",
-      "image": "https://hd2.tudocdn.net/1354098?w=660",
-      "publishedAt": "2026-07-01T16:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Rocket Lab ferma tutto all’ultimo secondo: rinviato il lancio",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n663161/rocket-lab-lancio-abortito-qps-sar-13/",
-      "excerpt": "Rocket Lab rinvia all’ultimo secondo il lancio del satellite radar giapponese QPS-SAR-13",
-      "image": "https://hd2.tudocdn.net/1354141?w=660",
-      "publishedAt": "2026-07-01T16:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "La NASA annuncia quattro nuove missioni lunari per la costruzione della sua Moon Base",
@@ -192,15 +228,6 @@
       "publishedAt": "2026-07-01T14:39:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migrare a Zero Trust su rete legacy, il piano operativo in sette tappe",
-      "link": "https://www.tomshw.it/aioperator/zero-trust-rete-legacy-sette-tappe",
-      "excerpt": "La maggior parte delle reti aziendali è costruita su un'idea semplice e sbagliata: chi è dentro il perimetro è affidabile, chi è fuori no. Firewall, VPN e segmentazione grossolana…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/98928/04-sec06-cover.jpg",
-      "publishedAt": "2026-07-01T13:20:18+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Sony PlayStation dice addio ai supporti fisici per i videogiochi",
@@ -246,33 +273,6 @@
       "publishedAt": "2026-07-01T12:16:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Anthropic entra nel pharma con Claude Science e porta via il Nobel di DeepMind",
-      "link": "https://www.tomshw.it/business/anthropic-entra-nel-pharma-con-claude-science-e-porta-via-il-nobel-di-deepmind",
-      "excerpt": "Anthropic ha lanciato Claude Science il 30 giugno come prodotto autonomo, distinto dalla piattaforma Claude, pensato per chi lavora in laboratorio o su cluster di calcolo ad alta…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/98884/07-claude-science-cover.jpg",
-      "publishedAt": "2026-07-01T08:07:37+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Sonnet 5 fa quasi tutto quello che fa Opus, a metà prezzo",
-      "link": "https://www.tomshw.it/business/sonnet-5-fa-quasi-tutto-quello-che-fa-opus-a-meta-prezzo",
-      "excerpt": "Il pricing di lancio è la prima cosa da leggere: $2 per milione di token in input, $10 in output, valido fino al 31 agosto 2026. Dal primo settembre si porta a $3/$15. È lo stesso…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/98883/06-sonnet-5-cover.jpg",
-      "publishedAt": "2026-07-01T07:52:54+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "I chatbot AI diffondono miti sui vaccini, e gli utenti si fidano ciecamente",
-      "link": "https://www.tomshw.it/business/i-chatbot-ai-diffondono-miti-sui-vaccini-e-gli-utenti-si-fidano-ciecamente",
-      "excerpt": "Un terzo degli adulti americani ha usato un chatbot AI per consigli sulla salute nell'ultimo anno. È una quota analoga a chi usa i social per le stesse finalità, e i dati del KFF…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/98888/i-chatbot-ai-diffondono-miti-sui-vaccini-e-gli-utenti-si-fidano-ciecamente.png",
-      "publishedAt": "2026-07-01T07:10:03+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     }
   ]
 }
