@@ -1,35 +1,197 @@
 {
-  "generatedAt": "2026-07-02T13:42:43.005191+00:00",
+  "generatedAt": "2026-07-02T16:00:46.523701+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Galaxy Z Fold 8 sta arrivando e sa come farsi notare di fianco a Galaxy S26 Ultra",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663245/samsung-galaxy-z-fold-8-leak/",
-      "excerpt": "Samsung Galaxy Z Fold 8 fa bella mostra di sé di fianco a Galaxy S26 Ultra nelle nuove immagini leak.",
-      "image": "https://hd2.tudocdn.net/1354280?w=660",
-      "publishedAt": "2026-07-02T13:40:00+00:00",
+      "title": "Hotel gestito solo da robot: aprirà in Cina nel 2027",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663190/cina-2027-hotel-gestito-robot/",
+      "excerpt": "In Cina apre nel 2027 il primo hotel gestito da robot con AI, check-in autonomo e servizi automatizzati.",
+      "image": "https://hd2.tudocdn.net/1354156?w=660",
+      "publishedAt": "2026-07-02T15:55:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Microsoft lavorava a un \"Copilot OS\" molto simile a Chrome OS | Video",
-      "link": "https://www.hdblog.it/microsoft/articoli/n663294/microsoft-copilot-os-web-video-leak/",
-      "excerpt": "Sarebbe stato molto incentrato sull'intelligenza artificiale.",
-      "image": "https://hd2.tudocdn.net/1354391?w=660",
-      "publishedAt": "2026-07-02T13:35:00+00:00",
+      "title": "Boeing Starliner resta in sospeso: la NASA chiede più garanzie",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663180/nasa-audit-boeing-starliner-certificazione/",
+      "excerpt": "Audit NASA: Boeing Starliner resta senza certificazione per voli con astronauti",
+      "image": "https://hd2.tudocdn.net/1354140?w=660",
+      "publishedAt": "2026-07-02T15:40:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Chip AI, la corsa non si gioca più solo nei data center",
-      "link": "https://www.tomshw.it/hardware/il-mercato-dei-chip-ai-ha-290-prodotti-e-le-gpu-non-bastano-piu",
-      "excerpt": "Il nuovo report Q2 2026 sui processori AI fotografa un mercato molto più ampio della classica sfida tra acceleratori per server: sono censite 151 aziende e oltre 290 processori…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99229/il-mercato-dei-chip-ai-ha-290-prodotti-e-le-gpu-non-bastano-piu.png",
-      "publishedAt": "2026-07-02T13:29:18+00:00",
+      "title": "Tesla, chiusa l'indagine sulle frenate fantasma dopo 4 anni",
+      "link": "https://www.tomshw.it/automotive/tesla-chiusa-lindagine-sulle-frenate-fantasma-dopo-4-anni",
+      "excerpt": "La NHTSA ha chiuso la lunga indagine sulle frenate fantasma di Tesla, archiviando la valutazione preliminare aperta sui casi di decelerazione inattesa segnalati da diversi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99277/tesla-chiusa-l-indagine-sulle-frenate-fantasma-dopo-4-anni.png",
+      "publishedAt": "2026-07-02T15:28:24+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La RTX 4060 Laptop sorpassa tutti su Steam",
+      "link": "https://www.tomshw.it/hardware/rtx-4060-laptop-sorpassa-tutti-su-steam-con-il-38",
+      "excerpt": "Valve ha aggiornato il suo sondaggio hardware e software di Steam: la RTX 4060 Laptop GPU è diventata la scheda grafica più diffusa tra gli utenti della piattaforma, raggiungendo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99272/rtx-4060-laptop-sorpassa-tutti-su-steam-con-il-3-8.png",
+      "publishedAt": "2026-07-02T15:27:15+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "F-Droid contro Google: \"La sicurezza diventa pretesto per il controllo\". Le app più scaricate scomode per Google",
+      "link": "https://images.dday.it/vWmsvoC96uROTVvhGPBOXeGmp4xZTlxa5PaxK5dmA7Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57937/ae8cb6_fdr.jpg",
+      "excerpt": "F-Droid pubblica l'ennesima lettera contro il sistema di verifica degli sviluppatori voluto da Android per limitare i malware. Se guardiamo però alla questione dell'insieme,…",
+      "image": "https://images.dday.it/vWmsvoC96uROTVvhGPBOXeGmp4xZTlxa5PaxK5dmA7Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57937/ae8cb6_fdr.jpg",
+      "publishedAt": "2026-07-02T15:26:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Google Home, in arrivo una soluzione per i dispositivi che non rispondono",
+      "link": "https://www.hdblog.it/domotica/articoli/n663286/google-home-soluzione-dispositivi-non-rispondono/",
+      "excerpt": "Che succede?",
+      "image": "https://hd2.tudocdn.net/1352310?w=660",
+      "publishedAt": "2026-07-02T15:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "PS6 portatile, il kernel Linux rivela un indizio difficile da ignorare",
+      "link": "https://www.tomshw.it/videogioco/amd-aggiorna-linux-e-riaccende-le-voci-sulla-ps6-portatile",
+      "excerpt": "AMD ha inserito nel kernel Linux il supporto a un nuovo tipo di core a basso consumo per la futura architettura Zen 6, una modifica tecnica che riaccende le indiscrezioni sulla…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99290/PS6-portatile,-il-kernel-Linux-rivela-un-indizio-difficile-da-ignorare.png",
+      "publishedAt": "2026-07-02T15:21:01+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Open Fiber ti regala 100 euro: come ottenerli attivando la fibra ultraveloce",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663309/open-fiber-rete-ftth-fibra-veneto-voucher-premio/",
+      "excerpt": "Arriva la rete FTTH in quattro province del Veneto, ma l'iniziativa è attiva in tante parti d'Italia.",
+      "image": "https://hd2.tudocdn.net/1354442?w=660",
+      "publishedAt": "2026-07-02T15:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Etna in eruzione: spettacolare colata arancione ripresa da un drone | Video",
+      "link": "https://www.hdblog.it/droni/articoli/n663307/etna-eruzione-lava-sicilia/",
+      "excerpt": "L’Etna torna a mostrare colate di lava spettacolari riprese da droni e da terra",
+      "image": "https://hd2.tudocdn.net/1354431?w=660",
+      "publishedAt": "2026-07-02T15:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il setup perfetto per lo smart working estivo (che vorrai copiare subito)",
+      "link": "https://www.tomshw.it/altro/il-setup-perfetto-per-lo-smart-working-estivo-che-vorrai-copiare-subito",
+      "excerpt": "L’estate è probabilmente la stagione più difficile per chi lavora da remoto. Il caldo, la scarsa ventilazione, la sensazione di pesantezza e la luce intensa possono trasformare…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99289/Il-setup-perfetto-per-lo-smart-working-estivo-(che-vorrai-copiare-subito).png",
+      "publishedAt": "2026-07-02T15:06:51+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Le rinnovabili hanno un problema e l’acqua può risolverlo",
+      "link": "https://www.tomshw.it/hardware/la-banca-mondiale-finanzia-300-mw-di-accumulo-in-marocco",
+      "excerpt": "La Banca Mondiale ha approvato un pacchetto finanziario da 265 milioni di dollari per Ifahsa, un nuovo impianto marocchino di accumulo idroelettrico a pompaggio da 300 MW. Il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99284/la-banca-mondiale-finanzia-300-mw-di-accumulo-in-marocco.png",
+      "publishedAt": "2026-07-02T15:05:20+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Metroid Ravenous spunta online: nuovo gioco 2D della serie in arrivo su Switch 2?",
+      "link": "https://www.hdblog.it/nintendo/articoli/n663308/metroid-ravenous-nintendo-switch-2-super-rating/",
+      "excerpt": "E potrebbe non essere l'unico Metroid in rampa di lancio.",
+      "image": "https://hd2.tudocdn.net/1211138?w=660",
+      "publishedAt": "2026-07-02T15:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Cibby è una libreria virtuale con le confezioni 3D dei giochi, in arrivo su iOS",
+      "link": "https://www.hdblog.it/apple/articoli/n663299/cibby-libreria-virtuale-confezioni-3d-giochi-ios/",
+      "excerpt": "Un'applicazione pensata per gli amanti dei giochi su supporto fisico, Cibby organizza l'intera collezione su scaffali 3D virtuali.",
+      "image": "https://hd2.tudocdn.net/1354427?w=660",
+      "publishedAt": "2026-07-02T14:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Energia elettrica e gas: il report Arera svela cosa succede alle tasche degli italiani",
+      "link": "https://www.hdblog.it/green/articoli/n663289/arera-energia-elettrica-gas-italia-2025/",
+      "excerpt": "Le conseguenze sulla nostra bolletta.",
+      "image": "https://hd2.tudocdn.net/1354429?w=660",
+      "publishedAt": "2026-07-02T14:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Moto G77 Power ha una data di lancio, e filtrano in anticipo design e specifiche",
+      "link": "https://www.hdblog.it/smartphone/articoli/n663301/motorola-moto-g77-power-data-lancio-specifiche/",
+      "excerpt": "Avrà una batteria da 7.000 mAh.",
+      "image": "https://hd2.tudocdn.net/1354418?w=660",
+      "publishedAt": "2026-07-02T14:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "SSD Samsung PCIe 5.0 a 219,99€: 9100 PRO 1TB su Amazon",
+      "link": "https://www.tomshw.it/offerte/ssd-samsung-pcie-50-a-21999eur-9100-pro-1tb-su-amazon",
+      "excerpt": "Samsung 9100 PRO SSD interno da 1TB è a 219,99€ su Amazon, con il 47% di sconto rispetto ai 379,90€ di catalogo. L’angolo qui è la velocità: parliamo di un NVMe PCIe 5.0 pensato…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99285/tomshw-offer-561550.png",
+      "publishedAt": "2026-07-02T14:34:09+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Come funziona il climatizzatore indossabile smart di Sony | Video",
+      "link": "https://www.hdblog.it/indossabili/recensioni/n661555/sony-reon-pocket-pro-plus-test-prova/",
+      "excerpt": "Ne vale la pena?",
+      "image": "https://hd2.tudocdn.net/1353415?w=660",
+      "publishedAt": "2026-07-02T14:31:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il boom dei chip AI trova un nuovo ostacolo nei componenti",
+      "link": "https://www.tomshw.it/hardware/il-boom-dei-chip-ai-trova-un-nuovo-ostacolo-nei-componenti",
+      "excerpt": "Il boom dei chip per l'intelligenza artificiale sta entrando in una fase più complicata: secondo un nuovo report di Nomura, il problema principale non è più la domanda, che resta…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99282/il-boom-dei-chip-ai-trova-un-nuovo-ostacolo-nei-componenti.png",
+      "publishedAt": "2026-07-02T14:28:36+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Piano AI e azioni Big Tech, il caso Trump si fa delicato",
+      "link": "https://www.tomshw.it/hardware/trump-compro-fino-a-5-milioni-in-azioni-big-tech-nel-giorno-del-piano-ai",
+      "excerpt": "Donald Trump ha acquistato fino a 5 milioni di dollari in azioni di grandi società tecnologiche nello stesso giorno in cui la Casa Bianca ha diffuso il suo piano nazionale…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99283/trump-piano-ai.png",
+      "publishedAt": "2026-07-02T14:25:45+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "FiberCop, è guerra per i prezzi della fibra. Gli operatori si lamentano, ma intanto fanno già pagare di più",
+      "link": "https://images.dday.it/FrvJDr4RQ71wvBkifDQWG3q1IkliCdFfCpA9EA4bwMw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57935/04e4d6_ftth.jpg",
+      "excerpt": "FiberCop prevede di aumentare i prezzi all'ingrosso della rete per sostenere gli investimenti nei prossimi anni. Non aumenta l'FTTH, aumenta il rame e aumentano i costi di alcuni…",
+      "image": "https://images.dday.it/FrvJDr4RQ71wvBkifDQWG3q1IkliCdFfCpA9EA4bwMw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57935/04e4d6_ftth.jpg",
+      "publishedAt": "2026-07-02T14:02:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Honor Magic V6 ufficiale: arriva in Italia il pieghevole che insegue l'autonomia dei telefoni normali",
+      "link": "https://images.dday.it/JyjH-UpKtqJb3o4h-FF5nHIFe_wO9uATl-mY4XpIJ1E/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57934/cd6166_cove_rScreenshot_2026-07-02_alle_15.57.44_copia.png",
+      "excerpt": "Batteria da 6.660 mAh in un corpo da 4 mm da aperto, certificazione IP69, processore top e listino importante, abbassato subito dallo sconto sul sito Honor di 600 euro... Leggi…",
+      "image": "https://images.dday.it/JyjH-UpKtqJb3o4h-FF5nHIFe_wO9uATl-mY4XpIJ1E/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57934/cd6166_cove_rScreenshot_2026-07-02_alle_15.57.44_copia.png",
+      "publishedAt": "2026-07-02T14:00:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Amazon Leo arriva a quota 396 satelliti in orbita. Ora è pronta per il lancio del servizio",
@@ -50,15 +212,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Samsung Galaxy Z Fold 8 / Ultra e Flip 8, ancora render e foto del dummy",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663291/samsung-galaxy-z-fold-8-wide-ultra-flip-render/",
-      "excerpt": "Render dei proteggi schermo e foto del dummy del nuovo modello \"Wide\".",
-      "image": "https://hd2.tudocdn.net/1354383?w=660",
-      "publishedAt": "2026-07-02T13:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Apple con Creator Studio fa sul serio: da quando si paga l'abbonamento ogni mese funzioni nuove",
       "link": "https://images.dday.it/lKJ8X0fUTX4DuSEfz-8e7Q3ohPGBj7cYsm61E1rlGTI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57926/7306cc_Apple-Creator-Studio-t.jpg",
       "excerpt": "Apple ha rilasciato l’ennesimo aggiornamento corposo per Apple Creator Studio, la suite che raggruppa Final Cut Pro, Logic Pro, Pixelmator Pro, Motion, Compressor, MainStage e le…",
@@ -66,42 +219,6 @@
       "publishedAt": "2026-07-02T12:45:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Android 17 rende più sicuri i dispositivi protetti coi PIN, ecco come",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663287/android-17-sicurezza-protezione-pin/",
-      "excerpt": "Il colosso di Mountain View suggerisce comunque di usare quelli a sei cifre, invece che quelli a 4.",
-      "image": "https://hd2.tudocdn.net/1350966?w=660",
-      "publishedAt": "2026-07-02T12:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "I giochi più attesi di luglio e dove ordinarli al minor prezzo",
-      "link": "https://www.tomshw.it/videogioco/giochi-piu-attesi-dove-ordinarli-miglior-prezzo",
-      "excerpt": "Aggiornamento 02/07: abbiamo inserito i titoli in uscita di luglio 2026 per le varie piattaforme di gioco. Luglio 2026 si prospetta un mese davvero interessante per tutti gli…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/05/91734/I-giochi-più-attesi.png",
-      "publishedAt": "2026-07-02T12:38:46+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Una scheda video AMD mai vista riappare con un PCB rosso",
-      "link": "https://www.tomshw.it/hardware/una-scheda-video-amd-mai-vista-spunta-con-pcb-rosso",
-      "excerpt": "Un presunto engineering sample AMD basato su Radeon RX 7900 XTX è emerso online con caratteristiche che non coincidono con alcuna scheda retail nota. Il dettaglio più evidente è…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99225/una-scheda-video-amd-mai-vista-spunta-con-pcb-rosso.png",
-      "publishedAt": "2026-07-02T12:35:54+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Google Pixel 4a: un aggiornamento risolverà il problema del riavvio infinito",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663278/google-pixel-4a-fix-problema-riavvio-infinito/",
-      "excerpt": "Il fenomeno è stato riscontrato anche su Pixel 4 e Pixel 4 XL.",
-      "image": "https://hd2.tudocdn.net/1354344?w=660",
-      "publishedAt": "2026-07-02T12:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Sonos Era 100 SL in super sconto a 160€: lo speaker compatto Sonos da non perdere su Amazon",
@@ -113,85 +230,13 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "DOOM The Dark Ages: Revelations promette benissimo | prime impressioni",
-      "link": "https://www.hdblog.it/microsoft/articoli/n663282/doom-dark-ages-dlc-revelations-impressioni/",
-      "excerpt": "Le testate specializzate parlano di azione più frenetica, tanta lore nuova e tante citazioni e rimandi per i fan storici della serie.",
-      "image": "https://hd2.tudocdn.net/1354362?w=660",
-      "publishedAt": "2026-07-02T12:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Robot, TV, domotica e tanto altro: le migliori offerte tech del 2 luglio",
-      "link": "https://www.hdblog.it/amazon/offerte/n663273/migliori-offerte-2-luglio-oggi-amazon-tech-hdblog/",
-      "excerpt": "Nuovo appuntamento con le migliori offerte tech: questo giovedì 2 luglio ha tante sorprese. Scopriamole tutte.",
-      "image": "https://hd2.tudocdn.net/1354364?w=660",
-      "publishedAt": "2026-07-02T12:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "L'Arabia Saudita prepara una gara per batterie da 12 GWh",
-      "link": "https://www.tomshw.it/hardware/larabia-saudita-prepara-una-gara-per-batterie-da-12-gwh",
-      "excerpt": "SPPC ha prequalificato 27 sviluppatori per una gara dedicata a sistemi di accumulo su larga scala in Arabia Saudita. Il pacchetto riguarda sei progetti BESS distribuiti in diverse…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99224/l-arabia-saudita-prepara-una-gara-per-batterie-da-12-gwh.png",
-      "publishedAt": "2026-07-02T12:17:59+00:00",
+      "title": "Windows 10 fino al 2027: servivano davvero quei requisiti per Windows 11?",
+      "link": "https://www.tomshw.it/hardware/windows-10-fino-al-2027-il-vero-limite-e-lhardware",
+      "excerpt": "La decisione di Microsoft di estendere gratuitamente gli aggiornamenti di sicurezza di Windows 10 fino al 12 ottobre 2027 è stata accolta come un gesto di attenzione verso…",
+      "image": "https://cdn.tomshw.it/storage/media/2025/03/53402/Installazione-Windows-11.jpg",
+      "publishedAt": "2026-07-02T12:27:13+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Alienware 15 prova a rendere il gaming con GPU RTX più accessibile",
-      "link": "https://www.tomshw.it/hardware/alienware-15-arriva-con-rtx-4050-ma-per-ora-solo-in-india",
-      "excerpt": "Dell Technologies e Alienware hanno lanciato in India il nuovo Alienware 15, un portatile gaming da 15,3 pollici pensato per portare il marchio su una fascia più accessibile…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99223/alienware-15-arriva-con-rtx-4050-ma-per-ora-solo-in-india.png",
-      "publishedAt": "2026-07-02T12:15:01+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "WhatsApp perde un fornitore per le GIF, ma nessuno probabilmente se ne accorgerà",
-      "link": "https://www.hdblog.it/android/articoli/n663280/whatsapp-gif-fornitore-cosa-cambia/",
-      "excerpt": "WhatsApp ha migrato la ricerca delle GIF da Tenor a Giphy dopo la chiusura dell'API Tenor del 1 luglio 2026. Il passaggio avviene lato server su Android e iPhone, senza…",
-      "image": "https://hd2.tudocdn.net/1354359?w=660",
-      "publishedAt": "2026-07-02T12:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Un simulatore quantistico ha superato i supercomputer più potenti",
-      "link": "https://www.tomshw.it/scienze/il-processore-ustc-supera-i-supercomputer-di-1000-volte",
-      "excerpt": "USTC ha quantificato il vantaggio di un processore quantistico basato su atomi ultrafreddi, mostrando prestazioni superiori ai supercomputer più potenti in un compito specifico di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99222/il-processore-ustc-supera-i-supercomputer-di-1000-volte.png",
-      "publishedAt": "2026-07-02T12:12:20+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Tesla Model Y domina l’Australia, è record per le auto elettriche",
-      "link": "https://www.tomshw.it/automotive/tesla-model-y-supera-8000-vendite-in-australia-e-record",
-      "excerpt": "Tesla Model Y ha superato per la prima volta quota 8.000 vendite in Australia in un solo mese, segnando un nuovo record per il mercato locale delle auto elettriche. I dati diffusi…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99221/tesla-model-y-supera-8-000-vendite-in-australia-e-record.png",
-      "publishedAt": "2026-07-02T12:03:57+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Kena proroga le sue offerte TOP: fino a 300 GIGA a partire da 4,99 euro",
-      "link": "https://www.hdblog.it/virtuali/articoli/n663251/kena-offerte-giga-scadenza-costo-mese/",
-      "excerpt": "Costi e nuove scadenze.",
-      "image": "https://hd2.tudocdn.net/1354361?w=660",
-      "publishedAt": "2026-07-02T11:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Amazon è pronta a sfidare Starlink: ha in orbita già abbastanza satelliti per partire",
-      "link": "https://www.hdblog.it/amazon/articoli/n663281/amazon-sfida-starlink-satelliti-internet/",
-      "excerpt": "La costellazione Amazon Leo conta 396 satelliti dispiegati in orbita bassa",
-      "image": "https://hd2.tudocdn.net/1354360?w=660",
-      "publishedAt": "2026-07-02T11:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Google perde l’appello: confermata la multa da 4 miliardi di euro per abuso di posizione dominante con Android",
@@ -221,56 +266,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "ARERA conferma: i prezzi zonali in Italia arriveranno. L’energia costerà meno dove ci sono più rinnovabili",
-      "link": "https://images.dday.it/VZ8HG1xIOObE2jJePcYCoQBaVloKQ_amJL8qBOvekDQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57927/91f84a_Depositphotos_80181254_XL.jpg",
-      "excerpt": "Nella relazione annuale di ARERA, il Presidente Nicola Dell’Acqua ha confermato l’intenzione di superare il PUN con la piena implementazione dei prezzi zonali: benefici per gli…",
-      "image": "https://images.dday.it/VZ8HG1xIOObE2jJePcYCoQBaVloKQ_amJL8qBOvekDQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57927/91f84a_Depositphotos_80181254_XL.jpg",
-      "publishedAt": "2026-07-02T09:52:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Microsoft vuole permettere la conversione dei dischi Xbox in copie digitali",
-      "link": "https://images.dday.it/SjbXR_ZS2aawAqojJxpigTUt42RYG609xbcnUo4T6YY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57929/8fefe7_ChatGPT_Image_2_lug_2026__11_40_54.png",
-      "excerpt": "La funzione \"Disc2Digital\" sarebbe in fase di test interno e riguarderà solo i dischi Xbox One e Series X. La licenza digitale resterà comunque legata al disco fisico... Leggi…",
-      "image": "https://images.dday.it/SjbXR_ZS2aawAqojJxpigTUt42RYG609xbcnUo4T6YY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57929/8fefe7_ChatGPT_Image_2_lug_2026__11_40_54.png",
-      "publishedAt": "2026-07-02T09:43:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Meta prepara un servizio cloud per vendere potenza di calcolo (in eccesso?) e modelli IA",
-      "link": "https://images.dday.it/z-i2AL4mMwddox2np5Zs71UaTU6zYU-gcBkVhBIP7os/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57928/784d63_cove_rDepositphotos_755674282_XL_copia.jpg",
-      "excerpt": "Il progetto rientra in Meta Compute e comprende l'accesso ai modelli Muse Spark e alla capacità di calcolo grezza. SpaceX ha già seguito la stessa strada con Anthropic.…",
-      "image": "https://images.dday.it/z-i2AL4mMwddox2np5Zs71UaTU6zYU-gcBkVhBIP7os/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57928/784d63_cove_rDepositphotos_755674282_XL_copia.jpg",
-      "publishedAt": "2026-07-02T09:11:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "L'AI sta aumentando le diseguaglianze del mondo, poveri sempre più poveri e ricchi sempre più ricchi",
-      "link": "https://www.tomshw.it/business/lai-sta-aumentando-le-diseguaglianze-del-mondo-poveri-sempre-piu-poveri-e-ricchi-sempre-piu-ricchi",
-      "excerpt": "Il Programma delle Nazioni Unite per lo Sviluppo (UNDP) ha pubblicato un rapporto, ripreso dal Guardian e disponibile per intero sul sito dell'agenzia, che avverte di un rischio…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99110/04-onu-diseguaglianze-cover.jpg",
-      "publishedAt": "2026-07-02T08:25:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Politici fatti con l'AI, la gente crede e si fida più di quelli veri",
-      "link": "https://www.tomshw.it/business/politici-fatti-ai-la-gente-crede-e-si-fida-piu-di-quelli-veri",
-      "excerpt": "Un gruppo di ricercatori dell'Università di Passau ha chiesto a GPT-4 Turbo di imitare 112 personaggi pubblici britannici, tra politici, giornalisti, medici e imprenditori,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99109/03-politici-ai-cover.jpg",
-      "publishedAt": "2026-07-02T08:25:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "5 automazioni CRM che ogni rete vendita italiana dovrebbe avere",
-      "link": "https://www.tomshw.it/aioperator/automazioni-crm-rete-vendita-n8n",
-      "excerpt": "La rete vendita media perde tra il venticinque e il trenta per cento del tempo su attività che non producono trattative: inserire dati nel CRM, mandare follow-up a mano, cercare…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/98964/03-ven13-cover.jpg",
-      "publishedAt": "2026-07-01T13:19:31+00:00",
+      "title": "Molti piccoli imprenditori stanno usando gli agenti AI come team",
+      "link": "https://www.tomshw.it/business/molti-piccoli-imprenditori-stanno-usando-gli-agenti-ai-come-team",
+      "excerpt": "Un pattern che sta emergendo tra i piccoli imprenditori statunitensi, documentato da Entrepreneur, segna un cambio di passo rispetto ai primi due anni di adozione dell'AI…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99123/06-pmi-team-ai-cover.jpg",
+      "publishedAt": "2026-07-02T09:10:03+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
