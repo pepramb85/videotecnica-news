@@ -1,9 +1,99 @@
 {
-  "generatedAt": "2026-07-02T16:00:46.523701+00:00",
+  "generatedAt": "2026-07-02T19:13:09.326373+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "InSight svela il passato nascosto di Marte: tra magma e vita",
+      "link": "https://www.hdblog.it/curiosita/articoli/n663189/marte-mari-magma-insight-abitabilita/",
+      "excerpt": "InSight rivela antichi mari di magma sotto la crosta di Marte",
+      "image": "https://hd2.tudocdn.net/1354155?w=660",
+      "publishedAt": "2026-07-02T17:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Robot umanoidi più autonomi: Reflect v1.0 arriva al 90% nei test",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663186/reflect-v1-ai-robot-umanoidi-autonomia/",
+      "excerpt": "Reflect v1.0 aumenta l’autonomia dei robot umanoidi nelle missioni complesse",
+      "image": "https://hd2.tudocdn.net/1354149?w=660",
+      "publishedAt": "2026-07-02T17:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Rubin Observatory, il cielo diventa un film lungo dieci anni",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663253/rubin-observatory-lsst-cielo-dieci-anni/",
+      "excerpt": "Rubin Observatory avvia il progetto LSST per osservare il cielo per dieci anni",
+      "image": "https://hd2.tudocdn.net/1354278?w=660",
+      "publishedAt": "2026-07-02T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Braun NEVO, la nuova linea di rasoi in grado di adattarsi al tipo di barba",
+      "link": "https://www.hdblog.it/home/articoli/n663316/braun-lancia-linea-rasoi-nevo/",
+      "excerpt": "A bordo la nuova tecnologia AeroTouch.",
+      "image": "https://hd2.tudocdn.net/1354450?w=660",
+      "publishedAt": "2026-07-02T16:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La NASA vuole portare sulla Luna un rover nato per Marte",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663181/rover-nucleare-nasa-polo-sud-lunare/",
+      "excerpt": "NASA valuta l’invio del rover PROMISE al polo sud lunare.",
+      "image": "https://hd2.tudocdn.net/1354142?w=660",
+      "publishedAt": "2026-07-02T16:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "45W Samsung originali a 22€: caricatore USB-C al minimo su Amazon",
+      "link": "https://www.tomshw.it/offerte/45w-samsung-originali-a-22eur-caricatore-usb-c-al-minimo-su-amazon",
+      "excerpt": "Samsung EP-T4511 a 22€ su Amazon porta il caricabatterie originale da 45W al 60% in meno rispetto ai 54,90€ ufficiali. L’angolo interessante è semplice: è un alimentatore Super…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99291/tomshw-offer-561718.png",
+      "publishedAt": "2026-07-02T16:32:18+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La barca pilota elettrica che vola sull’acqua entra in test",
+      "link": "https://www.hdblog.it/green/articoli/n663219/artemis-ef-12-pilot-boat-elettrico/",
+      "excerpt": "Artemis testa il primo pilot boat elettrico con tecnologia hydrofoil",
+      "image": "https://hd2.tudocdn.net/1354272?w=660",
+      "publishedAt": "2026-07-02T16:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nome utente su WhatsApp: cresce la preoccupazione per i furti d'identità",
+      "link": "https://www.hdblog.it/android/articoli/n663272/nome-utente-whatsapp-furto-identita/",
+      "excerpt": "Da pochi giorni è ufficialmente partita la fase di prenotazione degli username su WhatsApp, un passaggio preliminare rispetto al lancio più ampio previsto entro la fine…",
+      "image": "https://hd2.tudocdn.net/1354340?w=660",
+      "publishedAt": "2026-07-02T16:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Titano dopo Marte: la nuova meta che tenta gli scienziati",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663159/missione-umana-titano-saturno/",
+      "excerpt": "Gli scienziati valutano Titano come possibile meta umana dopo Marte",
+      "image": "https://hd2.tudocdn.net/1354240?w=660",
+      "publishedAt": "2026-07-02T16:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Niente Rubin Ultra: fabbricare chip è difficile, anche se ti chiami NVIDIA",
+      "link": "https://www.tomshw.it/hardware/nvidia-rubin-ultra-cancellato",
+      "excerpt": "Quando si parla di intelligenza artificiale l'attenzione cade quasi sempre sui numeri: teraflops, capacità di memoria, prestazioni nei benchmark. La cancellazione di NVIDIA Rubin…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/94715/NVIDIA-Keynote-Vera-Rubin-(14).jpg",
+      "publishedAt": "2026-07-02T16:01:34+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "Hotel gestito solo da robot: aprirà in Cina nel 2027",
       "link": "https://www.hdblog.it/tecnologia/articoli/n663190/cina-2027-hotel-gestito-robot/",
@@ -23,20 +113,29 @@
       "sourceColor": "#0066CC"
     },
     {
+      "title": "Intel aumenta i listini dei nuovi Core Ultra desktop",
+      "link": "https://www.tomshw.it/hardware/i-core-ultra-desktop-costano-di-piu-rincari-fino-a-50-dollari",
+      "excerpt": "Intel ha aggiornato i prezzi consigliati dei suoi Core Ultra desktop più recenti, aumentando il listino dei modelli Plus fino a 50 dollari. Il cambio interessa processori lanciati…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99288/i-core-ultra-desktop-costano-di-piu-rincari-fino-a-50-dollari.png",
+      "publishedAt": "2026-07-02T15:36:45+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Amazon consuma più della Nuova Zelanda, l’AI presenta il conto",
+      "link": "https://www.tomshw.it/hardware/amazon-consuma-piu-energia-della-nuova-zelanda-co2-su-del-16",
+      "excerpt": "Amazon ha chiuso l'ultimo bilancio ambientale con un aumento del 16% della propria impronta di carbonio, mentre i consumi energetici complessivi hanno superato quelli della Nuova…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99244/amazon-consuma-piu-energia-della-nuova-zelanda-co2-su-del-16.png",
+      "publishedAt": "2026-07-02T15:31:20+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "Tesla, chiusa l'indagine sulle frenate fantasma dopo 4 anni",
       "link": "https://www.tomshw.it/automotive/tesla-chiusa-lindagine-sulle-frenate-fantasma-dopo-4-anni",
       "excerpt": "La NHTSA ha chiuso la lunga indagine sulle frenate fantasma di Tesla, archiviando la valutazione preliminare aperta sui casi di decelerazione inattesa segnalati da diversi…",
       "image": "https://cdn.tomshw.it/storage/media/2026/07/99277/tesla-chiusa-l-indagine-sulle-frenate-fantasma-dopo-4-anni.png",
       "publishedAt": "2026-07-02T15:28:24+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "La RTX 4060 Laptop sorpassa tutti su Steam",
-      "link": "https://www.tomshw.it/hardware/rtx-4060-laptop-sorpassa-tutti-su-steam-con-il-38",
-      "excerpt": "Valve ha aggiornato il suo sondaggio hardware e software di Steam: la RTX 4060 Laptop GPU è diventata la scheda grafica più diffusa tra gli utenti della piattaforma, raggiungendo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99272/rtx-4060-laptop-sorpassa-tutti-su-steam-con-il-3-8.png",
-      "publishedAt": "2026-07-02T15:27:15+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -48,132 +147,6 @@
       "publishedAt": "2026-07-02T15:26:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Google Home, in arrivo una soluzione per i dispositivi che non rispondono",
-      "link": "https://www.hdblog.it/domotica/articoli/n663286/google-home-soluzione-dispositivi-non-rispondono/",
-      "excerpt": "Che succede?",
-      "image": "https://hd2.tudocdn.net/1352310?w=660",
-      "publishedAt": "2026-07-02T15:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "PS6 portatile, il kernel Linux rivela un indizio difficile da ignorare",
-      "link": "https://www.tomshw.it/videogioco/amd-aggiorna-linux-e-riaccende-le-voci-sulla-ps6-portatile",
-      "excerpt": "AMD ha inserito nel kernel Linux il supporto a un nuovo tipo di core a basso consumo per la futura architettura Zen 6, una modifica tecnica che riaccende le indiscrezioni sulla…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99290/PS6-portatile,-il-kernel-Linux-rivela-un-indizio-difficile-da-ignorare.png",
-      "publishedAt": "2026-07-02T15:21:01+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Open Fiber ti regala 100 euro: come ottenerli attivando la fibra ultraveloce",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n663309/open-fiber-rete-ftth-fibra-veneto-voucher-premio/",
-      "excerpt": "Arriva la rete FTTH in quattro province del Veneto, ma l'iniziativa è attiva in tante parti d'Italia.",
-      "image": "https://hd2.tudocdn.net/1354442?w=660",
-      "publishedAt": "2026-07-02T15:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Etna in eruzione: spettacolare colata arancione ripresa da un drone | Video",
-      "link": "https://www.hdblog.it/droni/articoli/n663307/etna-eruzione-lava-sicilia/",
-      "excerpt": "L’Etna torna a mostrare colate di lava spettacolari riprese da droni e da terra",
-      "image": "https://hd2.tudocdn.net/1354431?w=660",
-      "publishedAt": "2026-07-02T15:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il setup perfetto per lo smart working estivo (che vorrai copiare subito)",
-      "link": "https://www.tomshw.it/altro/il-setup-perfetto-per-lo-smart-working-estivo-che-vorrai-copiare-subito",
-      "excerpt": "L’estate è probabilmente la stagione più difficile per chi lavora da remoto. Il caldo, la scarsa ventilazione, la sensazione di pesantezza e la luce intensa possono trasformare…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99289/Il-setup-perfetto-per-lo-smart-working-estivo-(che-vorrai-copiare-subito).png",
-      "publishedAt": "2026-07-02T15:06:51+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Le rinnovabili hanno un problema e l’acqua può risolverlo",
-      "link": "https://www.tomshw.it/hardware/la-banca-mondiale-finanzia-300-mw-di-accumulo-in-marocco",
-      "excerpt": "La Banca Mondiale ha approvato un pacchetto finanziario da 265 milioni di dollari per Ifahsa, un nuovo impianto marocchino di accumulo idroelettrico a pompaggio da 300 MW. Il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99284/la-banca-mondiale-finanzia-300-mw-di-accumulo-in-marocco.png",
-      "publishedAt": "2026-07-02T15:05:20+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Metroid Ravenous spunta online: nuovo gioco 2D della serie in arrivo su Switch 2?",
-      "link": "https://www.hdblog.it/nintendo/articoli/n663308/metroid-ravenous-nintendo-switch-2-super-rating/",
-      "excerpt": "E potrebbe non essere l'unico Metroid in rampa di lancio.",
-      "image": "https://hd2.tudocdn.net/1211138?w=660",
-      "publishedAt": "2026-07-02T15:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Cibby è una libreria virtuale con le confezioni 3D dei giochi, in arrivo su iOS",
-      "link": "https://www.hdblog.it/apple/articoli/n663299/cibby-libreria-virtuale-confezioni-3d-giochi-ios/",
-      "excerpt": "Un'applicazione pensata per gli amanti dei giochi su supporto fisico, Cibby organizza l'intera collezione su scaffali 3D virtuali.",
-      "image": "https://hd2.tudocdn.net/1354427?w=660",
-      "publishedAt": "2026-07-02T14:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Energia elettrica e gas: il report Arera svela cosa succede alle tasche degli italiani",
-      "link": "https://www.hdblog.it/green/articoli/n663289/arera-energia-elettrica-gas-italia-2025/",
-      "excerpt": "Le conseguenze sulla nostra bolletta.",
-      "image": "https://hd2.tudocdn.net/1354429?w=660",
-      "publishedAt": "2026-07-02T14:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Moto G77 Power ha una data di lancio, e filtrano in anticipo design e specifiche",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663301/motorola-moto-g77-power-data-lancio-specifiche/",
-      "excerpt": "Avrà una batteria da 7.000 mAh.",
-      "image": "https://hd2.tudocdn.net/1354418?w=660",
-      "publishedAt": "2026-07-02T14:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "SSD Samsung PCIe 5.0 a 219,99€: 9100 PRO 1TB su Amazon",
-      "link": "https://www.tomshw.it/offerte/ssd-samsung-pcie-50-a-21999eur-9100-pro-1tb-su-amazon",
-      "excerpt": "Samsung 9100 PRO SSD interno da 1TB è a 219,99€ su Amazon, con il 47% di sconto rispetto ai 379,90€ di catalogo. L’angolo qui è la velocità: parliamo di un NVMe PCIe 5.0 pensato…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99285/tomshw-offer-561550.png",
-      "publishedAt": "2026-07-02T14:34:09+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Come funziona il climatizzatore indossabile smart di Sony | Video",
-      "link": "https://www.hdblog.it/indossabili/recensioni/n661555/sony-reon-pocket-pro-plus-test-prova/",
-      "excerpt": "Ne vale la pena?",
-      "image": "https://hd2.tudocdn.net/1353415?w=660",
-      "publishedAt": "2026-07-02T14:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il boom dei chip AI trova un nuovo ostacolo nei componenti",
-      "link": "https://www.tomshw.it/hardware/il-boom-dei-chip-ai-trova-un-nuovo-ostacolo-nei-componenti",
-      "excerpt": "Il boom dei chip per l'intelligenza artificiale sta entrando in una fase più complicata: secondo un nuovo report di Nomura, il problema principale non è più la domanda, che resta…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99282/il-boom-dei-chip-ai-trova-un-nuovo-ostacolo-nei-componenti.png",
-      "publishedAt": "2026-07-02T14:28:36+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Piano AI e azioni Big Tech, il caso Trump si fa delicato",
-      "link": "https://www.tomshw.it/hardware/trump-compro-fino-a-5-milioni-in-azioni-big-tech-nel-giorno-del-piano-ai",
-      "excerpt": "Donald Trump ha acquistato fino a 5 milioni di dollari in azioni di grandi società tecnologiche nello stesso giorno in cui la Casa Bianca ha diffuso il suo piano nazionale…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99283/trump-piano-ai.png",
-      "publishedAt": "2026-07-02T14:25:45+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "FiberCop, è guerra per i prezzi della fibra. Gli operatori si lamentano, ma intanto fanno già pagare di più",
@@ -230,15 +203,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Windows 10 fino al 2027: servivano davvero quei requisiti per Windows 11?",
-      "link": "https://www.tomshw.it/hardware/windows-10-fino-al-2027-il-vero-limite-e-lhardware",
-      "excerpt": "La decisione di Microsoft di estendere gratuitamente gli aggiornamenti di sicurezza di Windows 10 fino al 12 ottobre 2027 è stata accolta come un gesto di attenzione verso…",
-      "image": "https://cdn.tomshw.it/storage/media/2025/03/53402/Installazione-Windows-11.jpg",
-      "publishedAt": "2026-07-02T12:27:13+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Google perde l’appello: confermata la multa da 4 miliardi di euro per abuso di posizione dominante con Android",
       "link": "https://images.dday.it/Uo8C0SlptUlyjaVv7ql1K8p6GDjWgVBWgoVukO5Ur8I/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57930/fd3b7b_Depositphotos_24148833_XL.jpg",
       "excerpt": "La Corte di Giustizia Europea ha respinto il ricorso di Alphabet che dovrà pagare una multa di oltre 4 miliardi di euro per le politiche con Google imponeva ai produttori di…",
@@ -266,11 +230,47 @@
       "sourceColor": "#E63946"
     },
     {
+      "title": "Bending Spoons fa +40%, è piena di marchi \"morti\"",
+      "link": "https://www.tomshw.it/business/bending-spoons-fa-40-e-piena-di-marchi-morti",
+      "excerpt": "Bending Spoons ha chiuso la prima giornata di contrattazioni a 40,50 dollari, quasi il 40% sopra il prezzo di collocamento di 29 dollari, riporta TechCrunch. A quella quotazione,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99125/08-bending-spoons-cover.jpg",
+      "publishedAt": "2026-07-02T09:10:03+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "L'agricoltura intelligente esiste, ma i dati non sono pronti",
+      "link": "https://www.tomshw.it/business/lagricoltura-intelligente-esiste-ma-i-dati-non-sono-pronti",
+      "excerpt": "I numeri sull'AI applicata all'agricoltura sono tra i più solidi che si trovino in un settore spesso pieno di promesse vaghe. Una revisione della letteratura scientifica…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99124/07-agricoltura-cover.jpg",
+      "publishedAt": "2026-07-02T09:10:03+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "Molti piccoli imprenditori stanno usando gli agenti AI come team",
       "link": "https://www.tomshw.it/business/molti-piccoli-imprenditori-stanno-usando-gli-agenti-ai-come-team",
       "excerpt": "Un pattern che sta emergendo tra i piccoli imprenditori statunitensi, documentato da Entrepreneur, segna un cambio di passo rispetto ai primi due anni di adozione dell'AI…",
       "image": "https://cdn.tomshw.it/storage/media/2026/07/99123/06-pmi-team-ai-cover.jpg",
       "publishedAt": "2026-07-02T09:10:03+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Crisis Management dopo un data breach, guida alla gestione della crisi",
+      "link": "https://www.tomshw.it/aioperator/crisis-management-data-breach-gestione-crisi",
+      "excerpt": "Un incidente informatico che espone dati personali non si gestisce come un guasto tecnico. È una crisi con conseguenze legali, reputazionali e finanziarie che si innescano…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/98962/-.jpg",
+      "publishedAt": "2026-07-01T13:20:39+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Dati sanitari dei passeggeri: il Garante Privacy sanziona una compagnia aerea per scarsa trasparenza",
+      "link": "https://www.tomshw.it/business/dati-sanitari-dei-passeggeri-il-garante-privacy-sanziona-una-compagnia-aerea-per-scarsa-trasparenza",
+      "excerpt": "Avv. Giuseppe Croari – Dott.ssa Silvia Di PaolaLa gestione dei dati sanitari nel settore del trasporto aereo torna sotto i riflettori dopo il provvedimento n. 347/2026 del Garante…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/98923/toms-legal-dati-sanitari-cover.jpg",
+      "publishedAt": "2026-07-01T09:09:57+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
