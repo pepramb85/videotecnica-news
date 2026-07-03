@@ -1,179 +1,206 @@
 {
-  "generatedAt": "2026-07-03T06:54:57.493911+00:00",
+  "generatedAt": "2026-07-03T10:28:14.893658+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "La NASA mostra l’universo in tre colori, ma c’è di più",
-      "link": "https://www.tomshw.it/scienze/la-nasa-mostra-luniverso-in-tre-colori-ma-ce-di-piu",
-      "excerpt": "La NASA ha diffuso una nuova serie di immagini astronomiche in rosso, bianco e blu realizzate combinando osservazioni di più telescopi spaziali. Non si tratta solo di una scelta…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99334/la-nasa-mostra-l-universo-in-tre-colori-ma-c-e-di-piu.png",
-      "publishedAt": "2026-07-03T06:43:31+00:00",
+      "title": "Alex Karp contro l’AI a token: le imprese rischiano di cedere dati preziosi",
+      "link": "https://www.hdblog.it/business/articoli/n663385/palantir-ceo-contro-openai-anthropic-ai/",
+      "excerpt": "Il CEO di Palantir sostiene che l’AI generativa possa esporre informazioni strategiche su dati, processi e relazioni interne delle aziende, elementi centrali per il loro vantaggio…",
+      "image": "https://hd2.tudocdn.net/1338771?w=660",
+      "publishedAt": "2026-07-03T10:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Jon Prosser si difende nella causa Apple: \"Ho fatto cronaca, non rubato segreti\"",
+      "link": "https://www.hdblog.it/smartphone/articoli/n663379/jon-prosser-causa-apple-cronaca-non-rubato/",
+      "excerpt": "Jon Prosser ha risposto formalmente alla causa avviata da Apple per la fuga di informazioni su Liquid Glass",
+      "image": "https://hd2.tudocdn.net/1354616?w=660",
+      "publishedAt": "2026-07-03T10:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Volkswagen si prepara a portare le chiavi digitali dell'auto in Apple Wallet",
+      "link": "https://images.dday.it/hwulKAJ-fg07dQC7W_T-FU1cGxxd0A00kKG3rvLinrM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57942/01ec61_Screenshot_2026-07-03_alle_11.35.59.png",
+      "excerpt": "Il riferimento al marchio tedesco è comparso nel codice lato server di Apple, che in passato ha anticipato di circa due mesi il debutto di altri costruttori... Leggi tutto",
+      "image": "https://images.dday.it/hwulKAJ-fg07dQC7W_T-FU1cGxxd0A00kKG3rvLinrM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57942/01ec61_Screenshot_2026-07-03_alle_11.35.59.png",
+      "publishedAt": "2026-07-03T10:05:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Steam Machine parte bene: seconda nelle classifiche di vendita globali di Steam",
+      "link": "https://www.hdblog.it/games/articoli/n663382/valve-steam-machine-classifiche-vendita/",
+      "excerpt": "È anche prima assoluta in Germania, Italia e Stati Uniti.",
+      "image": "https://hd2.tudocdn.net/1354615?w=660",
+      "publishedAt": "2026-07-03T10:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Ebola Bundibugyo, parte in Congo un test mai tentato",
+      "link": "https://www.tomshw.it/scienze/ebola-bundibugyo-parte-in-congo-un-test-mai-tentato",
+      "excerpt": "L'OMS ha avviato in Repubblica Democratica del Congo l'arruolamento dei pazienti nel trial clinico PARTNERS, il primo studio pensato per valutare trattamenti specifici contro la…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99366/ebola-bundibugyo-parte-in-congo-un-test-mai-tentato.png",
+      "publishedAt": "2026-07-03T10:02:10+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "WhatsApp per iPad, ora è possibile la configurazione come dispositivo principale",
-      "link": "https://www.hdblog.it/tablet/articoli/n663341/whatsapp-ipad-dispositivo-principale/",
-      "excerpt": "WhatsApp sta aggiornando l’app per iPad con una novità che cambia il modo in cui il tablet può essere usat",
-      "image": "https://hd2.tudocdn.net/1294602?w=660",
-      "publishedAt": "2026-07-03T06:40:00+00:00",
+      "title": "Anche Anthropic vuole i suoi chip AI custom, valuta partnership con Samsung",
+      "link": "https://www.hdblog.it/business/articoli/n663375/anthropic-chip-ai-custom-samsung/",
+      "excerpt": "Per ora i contatti sono in fase esplorativa.",
+      "image": "https://hd2.tudocdn.net/1354603?w=660",
+      "publishedAt": "2026-07-03T09:55:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Le pulci dei gatti rivelano un legame inatteso con la salute umana",
-      "link": "https://www.tomshw.it/scienze/le-pulci-dei-gatti-rivelano-un-legame-inatteso-con-la-salute-umana",
-      "excerpt": "Un gruppo del Texas A&M College of Veterinary Medicine and Biomedical Sciences ha rilevato nelle pulci raccolte da gatti domestici del South Texas tracce genetiche di Rickettsia…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99319/le-pulci-dei-gatti-rivelano-un-legame-inatteso-con-la-salute-umana.png",
-      "publishedAt": "2026-07-03T06:30:35+00:00",
+      "title": "Tutti pazzi per Fable 5, ma è Sonnet 5 che dovreste amare di più",
+      "link": "https://www.tomshw.it/business/tutti-pazzi-per-fable-5-ma-e-sonnet-5-che-dovreste-amare-di-piu",
+      "excerpt": "Anthropic ha presentato Fable 5 e portato Sonnet 5 nella stessa finestra di rilascio, e il mercato si è concentrato quasi per intero sul primo. Capisco perché: è il modello di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99358/11-editoriale-porcu-cover-v2.jpg",
+      "publishedAt": "2026-07-03T09:49:37+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "La vitamina C potrebbe dire qualcosa su come invecchia il cervello",
-      "link": "https://www.tomshw.it/scienze/la-vitamina-c-potrebbe-dire-qualcosa-su-come-invecchia-il-cervello",
-      "excerpt": "Un gruppo guidato da Haruka Nagaya della Hirosaki University ha analizzato campioni di sangue e immagini cerebrali di 2.044 adulti giapponesi con più di 64 anni, trovando…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99316/la-vitamina-c-potrebbe-dire-qualcosa-su-come-invecchia-il-cervello.png",
-      "publishedAt": "2026-07-03T06:29:45+00:00",
+      "title": "Karaoke AI per tutti con il nuovo LG xboom Stage 501",
+      "link": "https://www.hdblog.it/tv/articoli/n663353/karaoke-ai-per-tutti-lg-xboom-stage-501/",
+      "excerpt": "LG Electronics mette sul mercato uno dei party speaker più “intelligenti” dell’anno: l’xboom Stage 501, uno speaker Bluetooth portatile che, grazie all’AI Karaoke Master, rende…",
+      "image": "https://hd2.tudocdn.net/1354594?w=660",
+      "publishedAt": "2026-07-03T09:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Data center, la stretta lombarda rischia di pesare poco sui progetti più grandi",
+      "link": "https://www.hdblog.it/business/articoli/n663378/data-center-lombardia-legge-aggirata/",
+      "excerpt": "I progetti di data center riconosciuti di interesse nazionale potrebbero bypassare i vincoli regionali lombardi, pagando un canone di costruzione maggiorato del 200% previsto…",
+      "image": "https://hd2.tudocdn.net/1349099?w=660",
+      "publishedAt": "2026-07-03T09:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Edifier alza il livello del budget audio: speaker reference con HDMI eARC sotto i 300€",
+      "link": "https://www.tomshw.it/hardware/edifier-r2750db-mkii-diffusori-hi-res-scontati-del-58-2026-07-03",
+      "excerpt": "Gli EDIFIER R2750DB MKII sono diffusori da scaffale a tre vie di alta qualità, con 144W RMS, certificazione Hi-Res Audio, Bluetooth 6.0 LDAC e HDMI eARC. Dotati di woofer da 7…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99355/edifier-r2750db-mkii-diffusori-hi-res-scontati-del-58-2026-07-0am8o0rs8df154cjVyb7.jpg",
+      "publishedAt": "2026-07-03T09:38:24+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Florida, la guerra al net-zero arriva negli enti locali",
-      "link": "https://www.tomshw.it/scienze/la-florida-blocca-il-net-zero-locale-ma-il-nodo-e-piu-ampio",
-      "excerpt": "La Florida ha approvato la legge HB 1217, che vieta a governi locali e altri enti pubblici di perseguire obiettivi net-zero. Il provvedimento tocca almeno dieci città e contee che…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99314/la-florida-blocca-il-net-zero-locale-ma-il-nodo-e-piu-ampio.png",
-      "publishedAt": "2026-07-03T06:29:33+00:00",
+      "title": "3DO, il suo ritorno è già stato archiviato | Cosa è successo davvero",
+      "link": "https://www.hdblog.it/games/articoli/n663367/3do-ritorno-cancellato-diritti-console/",
+      "excerpt": "Il rilancio di 3DO si blocca per una disputa sui diritti della console",
+      "image": "https://hd2.tudocdn.net/1354593?w=660",
+      "publishedAt": "2026-07-03T09:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Questa power station portatile ha più potenza del tuo contatore di casa",
+      "link": "https://www.tomshw.it/smartphone/oukitel-p5000-pro-in-offerta-shock-67-2026-07-03",
+      "excerpt": "Su AliExpress è disponibile un'offerta imperdibile sulla OUKITEL P5000 Pro, la centrale elettrica portatile da 4000W con batteria LiFePO4 da 5120Wh, ideale per campeggio,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99351/oukitel-p5000-pro-in-offerta-shock-67-2026-07-03-U37sleUf10fea2ca72f35aKG6a.jpg",
+      "publishedAt": "2026-07-03T09:32:43+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Le pitture rupestri potrebbero diventare archivi genetici",
-      "link": "https://www.tomshw.it/scienze/le-pitture-rupestri-potrebbero-diventare-archivi-genetici",
-      "excerpt": "Un gruppo internazionale di ricercatori ha recuperato DNA umano antico da campioni associati ad arte rupestre e pareti di grotte in Spagna e Portogallo. Lo studio, pubblicato di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99311/le-pitture-rupestri-potrebbero-diventare-archivi-genetici.png",
-      "publishedAt": "2026-07-03T06:19:44+00:00",
+      "title": "WindTre riorganizza l’app con una nuova sezione per la sicurezza",
+      "link": "https://www.hdblog.it/smartphone/articoli/n663372/windtre-app-protezione-servizi-nuova-sezione/",
+      "excerpt": "Con l’aggiornamento WindTre 10.4.0, i clienti trovano in un unico spazio WindTre Protetti, Sicurezza Digitale, Please don’t call, NeoConnessi e Protezione minori",
+      "image": "https://hd2.tudocdn.net/1087338?w=660",
+      "publishedAt": "2026-07-03T09:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "[Sondaggio] RAM DDR5 alle stelle: come ti comporti?",
+      "link": "https://www.tomshw.it/hardware/ram-ddr5-alle-stelle-come-ti-comporti-2026-07-03",
+      "excerpt": "Il mercato delle memorie RAM sta attraversando una delle fasi più turbolente degli ultimi anni, e gli effetti si fanno sentire concretamente nelle tasche di chi vuole costruire o…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/86679/G-SKILL-Trident-Z5-Neo-RGB-DDR5-6000-CL26-1.jpg",
+      "publishedAt": "2026-07-03T09:21:42+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Il patto tra batteri e afidi passa da una proteina misteriosa",
-      "link": "https://www.tomshw.it/scienze/il-patto-tra-batteri-e-afidi-passa-da-una-proteina-misteriosa",
-      "excerpt": "Un nuovo studio pubblicato su Nature descrive una proteina secreta da un batterio simbionte che sembra essere essenziale per stabilire la convivenza con gli afidi. Il lavoro,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99308/il-patto-tra-batteri-e-afidi-passa-da-una-proteina-misteriosa.png",
-      "publishedAt": "2026-07-03T06:18:43+00:00",
+      "title": "Come costruire un robot aspirapolvere con Raspberry Pi 5 e stampa 3D",
+      "link": "https://www.hdblog.it/home/articoli/n663359/robot-aspirapolvere-oomwoo-fai-da-te-open-source/",
+      "excerpt": "Il progetto è completamente open source.",
+      "image": "https://hd2.tudocdn.net/1354600?w=660",
+      "publishedAt": "2026-07-03T09:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Alexa sembra posseduta mentre conta, ma è solo un bug già in fase di risoluzione",
+      "link": "https://www.hdblog.it/domotica/articoli/n663365/alexa-posseduta-mentre-conta-bug-risoluzione/",
+      "excerpt": "Un bug di Alexa altera la voce dell'AI mentre conta: Amazon ha confermato l'esistenza del problema e l'arrivo del fix che lo risolve.",
+      "image": "https://hd2.tudocdn.net/1354579?w=660",
+      "publishedAt": "2026-07-03T09:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "L’Europa: “Il dazio di 3 euro non lo pagheranno i consumatori ma le piattaforme”. Che hanno già alzato tutti i prezzi",
+      "link": "https://images.dday.it/ic6aI-Pe9b9X-RVsupW6cS2hP1jOiEei_26eQKvJz9E/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57940/629ad0_Gemini_Generated_Image_pi1o4upi1o4upi1o.jpg",
+      "excerpt": "Fa discutere la comunicazione sui social della Commissione Europa che prova a convincere i cittadini che il dazio di tre euro sulle spedizioni verrà pagato dalle piattaforme. Come…",
+      "image": "https://images.dday.it/ic6aI-Pe9b9X-RVsupW6cS2hP1jOiEei_26eQKvJz9E/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57940/629ad0_Gemini_Generated_Image_pi1o4upi1o4upi1o.jpg",
+      "publishedAt": "2026-07-03T09:11:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Le iconiche cuffie Marshall Major V tornano in sconto",
+      "link": "https://images.dday.it/lBT_ju8itHr7Am8Z0wMwEuJUDpa0v2-BQeija8KtnDs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/55162/b76194_ape2.jpg",
+      "excerpt": "Approfitta dell'offerta speciale sulle Marshall Major V, le cuffie wireless con 100 ore di riproduzione a un prezzo davvero conveniente, ora su Amazon... Leggi tutto",
+      "image": "https://images.dday.it/lBT_ju8itHr7Am8Z0wMwEuJUDpa0v2-BQeija8KtnDs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/55162/b76194_ape2.jpg",
+      "publishedAt": "2026-07-03T09:06:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "AliExpress sta inondando di sconti queste 4 action cam DJI",
+      "link": "https://www.tomshw.it/hardware/aliexpress-sta-inondando-di-sconti-queste-4-action-cam-dji",
+      "excerpt": "AliExpress sta proponendo in questi giorni una serie di sconti aggressivi su alcune delle action cam più interessanti prodotte da DJI, rendendo il momento ideale per chi sta…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99346/AliExpress-sta-inondando-di-sconti-queste-4-action-cam-DJI.jpg",
+      "publishedAt": "2026-07-03T09:03:46+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Troppi satelliti potrebbero mandare in crisi i telescopi",
-      "link": "https://www.tomshw.it/scienze/troppi-satelliti-potrebbero-mandare-in-crisi-i-telescopi",
-      "excerpt": "Un gruppo di astronomi dello European Southern Observatory ha modellato l'impatto di megacostellazioni satellitari e progetti di specchi orbitali sulle osservazioni da Terra,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99305/troppi-satelliti-potrebbero-mandare-in-crisi-i-telescopi.png",
-      "publishedAt": "2026-07-03T06:16:57+00:00",
+      "title": "Il display di Samsung che protegge la privacy potrebbe arrivare su tutta la famiglia S27",
+      "link": "https://images.dday.it/BsuRFHdAUkUZGRRHLzWZbJKx9qGJ6fwYuCJPwMuy548/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57939/761c83_74efec_samsung_26.jpg",
+      "excerpt": "La tecnologia Flex Magic Pixel (nuove nome di Privacy Display) potrebbe diventare lo standard su quattro modelli di S27... Leggi tutto",
+      "image": "https://images.dday.it/BsuRFHdAUkUZGRRHLzWZbJKx9qGJ6fwYuCJPwMuy548/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57939/761c83_74efec_samsung_26.jpg",
+      "publishedAt": "2026-07-03T08:58:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "-450€ secco: robot ECOVACS con Care Kit rompe la barriera dei 1000€",
+      "link": "https://www.tomshw.it/hardware/ecovacs-x12-omnicyclone-scontato-del-31-su-amazon-2026-07-03",
+      "excerpt": "Su Amazon è disponibile una straordinaria offerta sull'ECOVACS DEEBOT X12 OmniCyclone, il robot aspirapolvere e lavapavimenti di ultima generazione con tecnologia FocusJet…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99344/ecovacs-x12-omnicyclone-scontato-del-31-su-amazon-2026-07-03-JMvv4ar7engun38V4yA8X.png",
+      "publishedAt": "2026-07-03T08:41:27+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "La NASA cerca volontari per vivere un anno come su Marte",
-      "link": "https://www.tomshw.it/scienze/la-nasa-cerca-volontari-per-luna-e-marte-ma-senza-partire",
-      "excerpt": "La NASA ha aperto il reclutamento di volontari per una nuova missione simulata di lunga durata, pensata per riprodurre sulla Terra alcune condizioni operative attese durante…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99303/la-nasa-cerca-volontari-per-luna-e-marte-ma-senza-partire.png",
-      "publishedAt": "2026-07-03T06:15:59+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "L’AI scova due nuovi superconduttori: energia più efficiente",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n663315/ai-scopre-due-nuovi-superconduttori/",
-      "excerpt": "L’AI aiuta a scoprire YRu3B2 e LuRu3B2, due nuovi superconduttori kagome",
-      "image": "https://hd2.tudocdn.net/1354446?w=660",
-      "publishedAt": "2026-07-03T06:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Malware per Mac diffuso tramite un annuncio sponsorizzato su X",
-      "link": "https://www.hdblog.it/portatili/articoli/n663338/annunci-sponsorizzati-malware-nuovo-caso/",
-      "excerpt": "Un annuncio sponsorizzato su X è stato usato per distribuire malware contro utenti Mac",
-      "image": "https://hd2.tudocdn.net/1354522?w=660",
-      "publishedAt": "2026-07-03T06:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Una USB-C diventa tutto: hub UGREEN 4K 60Hz a 29,99€ su Amazon",
-      "link": "https://www.tomshw.it/offerte/una-usb-c-diventa-tutto-hub-ugreen-4k-60hz-a-2999eur-su-amazon",
-      "excerpt": "UGREEN Revodok 107 a 29,99€ su Amazon trasforma una sola porta USB-C in una postazione completa, con HDMI 4K a 60Hz, Ethernet Gigabit, PD 100W, USB 3.0 e lettore SD/TF. È…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99301/tomshw-offer-561916.png",
-      "publishedAt": "2026-07-03T06:02:58+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Cruzr Y1 sarà in grado di automatizzare carico e smistamento",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n663312/cruzr-y1-punta-ad-automatizzare-carico-e-smistamento/",
-      "excerpt": "UBTech lancia Cruzr Y1, robot umanoide su ruote per logistica e fabbriche.",
-      "image": "https://hd2.tudocdn.net/1354444?w=660",
-      "publishedAt": "2026-07-03T05:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Desalinizzazione solare, il prototipo cinese taglia i costi dell’acqua",
-      "link": "https://www.hdblog.it/green/articoli/n663314/desalinizzazione-solare-cina-acqua-mare/",
-      "excerpt": "Prototipo cinese desalinizza acqua di mare con il sole e senza rete elettrica",
-      "image": "https://hd2.tudocdn.net/1354445?w=660",
-      "publishedAt": "2026-07-03T05:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Come funziona il climatizzatore indossabile smart di Sony | Video",
-      "link": "https://www.hdblog.it/indossabili/recensioni/n661555/sony-reon-pocket-pro-plus-test-prova/",
-      "excerpt": "Ne vale la pena?",
-      "image": "https://hd2.tudocdn.net/1353415?w=660",
-      "publishedAt": "2026-07-02T19:00:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "InSight svela il passato nascosto di Marte: tra magma e vita",
-      "link": "https://www.hdblog.it/curiosita/articoli/n663189/marte-mari-magma-insight-abitabilita/",
-      "excerpt": "InSight rivela antichi mari di magma sotto la crosta di Marte",
-      "image": "https://hd2.tudocdn.net/1354155?w=660",
-      "publishedAt": "2026-07-02T17:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Robot umanoidi più autonomi: Reflect v1.0 arriva al 90% nei test",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n663186/reflect-v1-ai-robot-umanoidi-autonomia/",
-      "excerpt": "Reflect v1.0 aumenta l’autonomia dei robot umanoidi nelle missioni complesse",
-      "image": "https://hd2.tudocdn.net/1354149?w=660",
-      "publishedAt": "2026-07-02T17:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Rubin Observatory, il cielo diventa un film lungo dieci anni",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n663253/rubin-observatory-lsst-cielo-dieci-anni/",
-      "excerpt": "Rubin Observatory avvia il progetto LSST per osservare il cielo per dieci anni",
-      "image": "https://hd2.tudocdn.net/1354278?w=660",
-      "publishedAt": "2026-07-02T16:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Braun NEVO, la nuova linea di rasoi in grado di adattarsi al tipo di barba",
-      "link": "https://www.hdblog.it/home/articoli/n663316/braun-lancia-linea-rasoi-nevo/",
-      "excerpt": "A bordo la nuova tecnologia AeroTouch.",
-      "image": "https://hd2.tudocdn.net/1354450?w=660",
-      "publishedAt": "2026-07-02T16:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Meta lancia in sordina Pocket, l'app per creare mini giochi con l’IA: ma non si sa chi può usarla",
+      "link": "https://images.dday.it/mYrR_kVZAJ0nTtANIEI1OHVfNhHVzAYIOMeNb7XOXP4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57938/e1966a_Screenshot_2026-07-03_alle_09.42.37_copia.png",
+      "excerpt": "Deriva dall'acquisizione di Gizmo, la startup del feed di mini app \"vibe-coded\". È comparsa sugli store a fine giugno, ma non risulta installabile sui dispositivi italiani...…",
+      "image": "https://images.dday.it/mYrR_kVZAJ0nTtANIEI1OHVfNhHVzAYIOMeNb7XOXP4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57938/e1966a_Screenshot_2026-07-03_alle_09.42.37_copia.png",
+      "publishedAt": "2026-07-03T07:45:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "F-Droid contro Google: \"La sicurezza diventa pretesto per il controllo\". Le app più scaricate scomode per Google",
@@ -221,56 +248,29 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Apple con Creator Studio fa sul serio: da quando si paga l'abbonamento ogni mese funzioni nuove",
-      "link": "https://images.dday.it/lKJ8X0fUTX4DuSEfz-8e7Q3ohPGBj7cYsm61E1rlGTI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57926/7306cc_Apple-Creator-Studio-t.jpg",
-      "excerpt": "Apple ha rilasciato l’ennesimo aggiornamento corposo per Apple Creator Studio, la suite che raggruppa Final Cut Pro, Logic Pro, Pixelmator Pro, Motion, Compressor, MainStage e le…",
-      "image": "https://images.dday.it/lKJ8X0fUTX4DuSEfz-8e7Q3ohPGBj7cYsm61E1rlGTI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57926/7306cc_Apple-Creator-Studio-t.jpg",
-      "publishedAt": "2026-07-02T12:45:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
+      "title": "Quiz sul cloud gaming: quanto ne sai davvero?",
+      "link": "https://www.tomshw.it/videogioco/quiz-sul-cloud-gaming-quanto-ne-sai-davvero",
+      "excerpt": "Il cloud gaming ha cambiato per sempre il modo in cui pensiamo ai videogiochi. Niente più console potenti o schede grafiche di ultima generazione: basta una buona connessione e il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99120/quiz-sul-cloud-gamin9cmsa7ka3p4v8OatmPt.png",
+      "publishedAt": "2026-07-02T09:15:25+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Sonos Era 100 SL in super sconto a 160€: lo speaker compatto Sonos da non perdere su Amazon",
-      "link": "https://images.dday.it/SpPDWLnEz6k-qusVpe9ShhPoPiHQhFTEKzBRNpLt3RU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57380/c0cae3_ape2.jpg",
-      "excerpt": "Sonos Era 100 SL ora in offerta: diffusore compatto e potente con Wi-Fi e Bluetooth, facile da configurare e con audio calibrato per ogni ambiente, ora disponibile a un prezzo più…",
-      "image": "https://images.dday.it/SpPDWLnEz6k-qusVpe9ShhPoPiHQhFTEKzBRNpLt3RU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57380/c0cae3_ape2.jpg",
-      "publishedAt": "2026-07-02T12:28:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
+      "title": "L'Europa ha un'industria avanzata e piena di robot, ecco come può fare la differenza",
+      "link": "https://www.tomshw.it/business/leuropa-ha-unindustria-avanzata-e-piena-di-robot-ecco-come-puo-fare-la-differenza",
+      "excerpt": "Il confronto tra Stati Uniti, Cina ed Europa sull'intelligenza artificiale si gioca quasi sempre sullo stesso terreno: chi ha il modello linguistico più grande, chi investe di più…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99128/11-europa-cover.jpg",
+      "publishedAt": "2026-07-02T09:15:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Google perde l’appello: confermata la multa da 4 miliardi di euro per abuso di posizione dominante con Android",
-      "link": "https://images.dday.it/Uo8C0SlptUlyjaVv7ql1K8p6GDjWgVBWgoVukO5Ur8I/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57930/fd3b7b_Depositphotos_24148833_XL.jpg",
-      "excerpt": "La Corte di Giustizia Europea ha respinto il ricorso di Alphabet che dovrà pagare una multa di oltre 4 miliardi di euro per le politiche con Google imponeva ai produttori di…",
-      "image": "https://images.dday.it/Uo8C0SlptUlyjaVv7ql1K8p6GDjWgVBWgoVukO5Ur8I/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57930/fd3b7b_Depositphotos_24148833_XL.jpg",
-      "publishedAt": "2026-07-02T10:46:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Offerta a tempo: Oral-B iO 2 scende a 44,99 euro su Amazon",
-      "link": "https://images.dday.it/CjTyjdNRZEKlSSyuafiIX6MawZZcmMsJR8bxtbQRQkM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/53859/ca63cc_small_Screenshot_2025-07-29_alle_12.03.25_copia.png",
-      "excerpt": "L’Oral-B iO 2 offre micro-vibrazioni, sensore di pressione, 3 modalità di pulizia e batteria a lunga durata per una pulizia efficace e delicata ogni giorno... Leggi tutto",
-      "image": "https://images.dday.it/CjTyjdNRZEKlSSyuafiIX6MawZZcmMsJR8bxtbQRQkM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/53859/ca63cc_small_Screenshot_2025-07-29_alle_12.03.25_copia.png",
-      "publishedAt": "2026-07-02T10:46:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Visa, Mastercard e Coinbase lanciano Open USD, la stablecoin comune di oltre 140 aziende",
-      "link": "https://images.dday.it/0AsgukJY_RI0YeWgo6HRtbDppbR4tTBR8OgSeZur2lI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57931/b962c3_Depositphotos_147901961_XL.jpg",
-      "excerpt": "Il consorzio Open Standard emetterà un token ancorato al dollaro con emissione e rimborso gratuiti e ricavi delle riserve condivisi tra i partner. Debutto previsto entro fine…",
-      "image": "https://images.dday.it/0AsgukJY_RI0YeWgo6HRtbDppbR4tTBR8OgSeZur2lI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57931/b962c3_Depositphotos_147901961_XL.jpg",
-      "publishedAt": "2026-07-02T10:27:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Smart home low cost: i gadget top da comprare su AliExpress",
-      "link": "https://www.tomshw.it/offerte/la-smart-home-economica-si-compra-su-aliexpress-sensori-zigbee-matter-e-gadget-utili-davvero",
-      "excerpt": "La casa smart diventa davvero utile quando smette di essere un insieme di gadget da mostrare agli amici e inizia a risolvere piccole seccature quotidiane: sapere se la finestra è…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99119/hub-ali-cover-561106.png",
-      "publishedAt": "2026-07-02T09:16:30+00:00",
+      "title": "Ufficio acquisti, come usare l'AI nella negoziazione con i fornitori",
+      "link": "https://www.tomshw.it/aioperator/ufficio-acquisti-ai-negoziazione-fornitori",
+      "excerpt": "Chi siede al tavolo con un fornitore strategico arriva quasi sempre con meno informazioni di quante ne servano. Lo storico ordini è sparso tra tre sistemi, il benchmark prezzi è…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/98980/02-acq07-cover.jpg",
+      "publishedAt": "2026-07-01T13:23:08+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
