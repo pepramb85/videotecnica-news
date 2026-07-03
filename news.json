@@ -1,9 +1,153 @@
 {
-  "generatedAt": "2026-07-03T13:47:17.989746+00:00",
+  "generatedAt": "2026-07-03T15:49:58.453846+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Fusione nucleare: un altro pezzo di ITER prende forma. Impilato il solenoide centrale",
+      "link": "https://images.dday.it/d_WVGRLEVl3ANEWybrc9GzpDs0TGWewmmFkTpfLKvCY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57951/704eb4_central-solenoid-module-final-lift.jpg",
+      "excerpt": "Tutti i moduli del gigantesco magnete centrale di ITER sono stati impilati uno sull’altro, realizzando una struttura alta 18 metri e del peso di 1000 tonnellate. Può generare un…",
+      "image": "https://images.dday.it/d_WVGRLEVl3ANEWybrc9GzpDs0TGWewmmFkTpfLKvCY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57951/704eb4_central-solenoid-module-final-lift.jpg",
+      "publishedAt": "2026-07-03T15:46:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "PlayStation Store, torna il caso dei prezzi variabili: cambiano in base all'account",
+      "link": "https://www.hdblog.it/sony/articoli/n663390/playstation-store-prezzi-offerte/",
+      "excerpt": "Sul PlayStation Store sono in fase di test gli sconti personalizzati: offerte diverse per gli stessi giochi.",
+      "image": "https://hd2.tudocdn.net/1354651?w=660",
+      "publishedAt": "2026-07-03T15:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Trapela qualche dettaglio in più su Copilot OS o \"Project Aion\"",
+      "link": "https://www.hdblog.it/microsoft/articoli/n663418/microsoft-copilot-os-windows-android/",
+      "excerpt": "Era un'interfaccia modificata del browser Edge che poteva funzionare sia sopra Android sia sopra Windows.",
+      "image": "https://hd2.tudocdn.net/1354698?w=660",
+      "publishedAt": "2026-07-03T15:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Claude entra nei laboratori: Anthropic punta ai farmaci",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663412/anthropic-claude-science-farmaci-ai/",
+      "excerpt": "Anthropic punta ai farmaci con Claude Science, tra AI, ricerca e sperimentazione.",
+      "image": "https://hd2.tudocdn.net/1354699?w=660",
+      "publishedAt": "2026-07-03T15:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Dal futuro al presente: abbiamo provato il volante elettronico che arriverà sulla Peugeot 208",
+      "link": "https://images.dday.it/mWMXSJ08QfXZvpmq9i_q6a-KMxTTLB66Rl3feN95DRQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57950/c5aabf_P1233336.jpg",
+      "excerpt": "Siamo saliti a bordo del concept Peugeot, la Polygon, per guardare da vicino e provare il volante elettronico dall'insolita forma quadrata che vedremo il prossimo anno sulla…",
+      "image": "https://images.dday.it/mWMXSJ08QfXZvpmq9i_q6a-KMxTTLB66Rl3feN95DRQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57950/c5aabf_P1233336.jpg",
+      "publishedAt": "2026-07-03T15:06:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Un disco volante è arrivato alla NASA, ma non è quello che sembra",
+      "link": "https://www.tomshw.it/scienze/un-disco-volante-e-arrivato-alla-nasa-ma-non-e-quello-che-sembra",
+      "excerpt": "Sembra un disco volante, ma è un componente molto concreto del programma lunare americano. Nei giorni scorsi una grande struttura circolare è arrivata alla NASA a bordo della…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99463/un-disco-volante-e-arrivato-alla-nasa-ma-non-e-quello-che-sembra.png",
+      "publishedAt": "2026-07-03T14:51:21+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Un pickup elettrico da 25.000$? Slate cambia batteria per riuscirci",
+      "link": "https://www.tomshw.it/automotive/la-ev-economica-di-slate-nasce-dalle-batterie-lfp-cinesi",
+      "excerpt": "Slate ha cambiato la strategia batterie del suo pickup elettrico economico: il modello base da 24.950 dollari userà un pacco LFP invece della chimica al nichel prevista in…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99460/cover-810212.png",
+      "publishedAt": "2026-07-03T14:47:17+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il tempo non torna indietro, ma i qubit possono simularlo",
+      "link": "https://www.tomshw.it/scienze/un-motore-quantistico-sembra-riscrivere-la-freccia-del-tempo",
+      "excerpt": "Un gruppo del Los Alamos National Laboratory ha sviluppato protocolli di controllo capaci di far apparire alcuni sistemi quantistici come se seguissero una freccia del tempo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99459/un-motore-quantistico-sembra-riscrivere-la-freccia-del-tempo.png",
+      "publishedAt": "2026-07-03T14:43:38+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Un dispositivo quantistico potrebbe cambiare le comunicazioni",
+      "link": "https://www.tomshw.it/scienze/un-dispositivo-quantistico-potrebbe-cambiare-le-comunicazioni",
+      "excerpt": "Un gruppo di ricercatori della McGill University ha sviluppato un dispositivo quantistico capace di generare fononi, cioè minuscole vibrazioni simili a particelle di suono, a…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99456/un-dispositivo-quantistico-potrebbe-cambiare-le-comunicazioni.png",
+      "publishedAt": "2026-07-03T14:35:16+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Robot con svuotamento automatico a 159€: Dreame D10 Plus Gen 2",
+      "link": "https://www.tomshw.it/offerte/robot-con-svuotamento-automatico-a-159eur-dreame-d10-plus-gen-2",
+      "excerpt": "Dreame D10 Plus Gen 2 a 159€ su Amazon porta lo svuotamento automatico in una fascia di prezzo molto aggressiva, partendo da un listino di 249€ con sconto del 36%. Il vantaggio…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99455/tomshw-offer-562438.png",
+      "publishedAt": "2026-07-03T14:32:49+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Recensione TV OLED LG G6: super prestazioni e riferimento OLED WRGB",
+      "link": "https://www.hdblog.it/tv/recensioni/n662975/tv-oled-lg-g6-4k-hdr-gaming-test-prova-prezzo/",
+      "excerpt": "La nostra prova completa di misure del TV OLED LG G6 da 65 pollici, con nuovo pannello \"Primary RGB Tandem\" di seconda generazione ancora più luminoso e super comparto gaming fino…",
+      "image": "https://hd2.tudocdn.net/1353519?w=660",
+      "publishedAt": "2026-07-03T14:31:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Memoria e storage crollano, l'AI ora fa paura al mercato",
+      "link": "https://www.tomshw.it/hardware/memoria-e-storage-crollano-lai-ora-fa-paura-al-mercato",
+      "excerpt": "Il mercato di memoria e storage ha subito una brusca correzione dopo i nuovi timori su un possibile eccesso di capacità legato all'intelligenza artificiale. SanDisk, Micron e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99449/memoria-e-storage-crollano-l-ai-ora-fa-paura-al-mercato.png",
+      "publishedAt": "2026-07-03T14:20:56+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Fable 5 già violato (di nuovo). Nuovo ban in arrivo?",
+      "link": "https://www.tomshw.it/business/fable-5-gia-violato-di-nuovo-nuovo-ban-in-arrivo",
+      "excerpt": "Anthropic ha riaperto Fable 5 a tutti gli utenti il 1° luglio, dopo lo stop imposto a giugno dal governo statunitense. Sono bastate meno di 24 ore perché il ricercatore…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99451/14-fable-katana-v1.jpg",
+      "publishedAt": "2026-07-03T14:20:53+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Sony non esclude un ulteriore aumento dei prezzi per gli abbonamenti PS Plus",
+      "link": "https://www.hdblog.it/games/articoli/n663399/sony-non-esclude-ulteriore-aumento-prezzi-ps-plus/",
+      "excerpt": "A domanda diretta, Sony non conferma né smentisce futuri aumenti di prezzo per PS Plus, ma è una storia già scritta e che conosciamo bene.",
+      "image": "https://hd2.tudocdn.net/1354668?w=660",
+      "publishedAt": "2026-07-03T14:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "GitHub prende in giro Sony: arriva il CD con il proprio codice, ma per pochi fortunati",
+      "link": "https://www.hdblog.it/curiosita/articoli/n663408/github-vs-sony-fisico-digitale/",
+      "excerpt": "Il tema del fisico vs il digitale prende vie inaspettate",
+      "image": "https://hd2.tudocdn.net/1354686?w=660",
+      "publishedAt": "2026-07-03T14:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "BrainChip spedisce il chip Akida, l’AI neuromorfica diventa reale",
+      "link": "https://www.tomshw.it/hardware/brainchip-spedisce-akd1500-lai-neuromorfica-esce-dal-lab",
+      "excerpt": "BrainChip ha avviato le spedizioni commerciali del processore neuromorfico AKD1500, portando la sua tecnologia Akida fuori dalla fase puramente dimostrativa. Il passaggio riguarda…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99440/brainchip-spedisce-akd1500-l-ai-neuromorfica-esce-dal-lab.png",
+      "publishedAt": "2026-07-03T13:54:51+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "iScooter iX3 in super offerta: il monopattino elettrico per adulti costa meno",
       "link": "https://images.dday.it/hIbnRNov6Jx_L3uF8UOd_sjZ_D06jeS8Ov9JU82MlAE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57949/95ff61_81qgCZ-d7+L._AC_SL1500_.jpg",
@@ -30,24 +174,6 @@
       "publishedAt": "2026-07-03T13:33:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Midjourney mostra il suo scanner, ma resta una grande incognita",
-      "link": "https://www.tomshw.it/hardware/midjourney-mostra-lo-scanner-a-ultrasuoni-ma-mancano-prove",
-      "excerpt": "Midjourney ha mostrato in un nuovo video il prototipo del suo scanner a ultrasuoni, un sistema immersivo pensato per produrre immagini del corpo senza radiazioni. Il punto non è…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99428/midjourney-mostra-lo-scanner-a-ultrasuoni-ma-mancano-prove.png",
-      "publishedAt": "2026-07-03T13:16:52+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Uno scatto con iPhone 15 Pro vince gli iPhone Photography Awards",
-      "link": "https://www.tomshw.it/smartphone/uno-scatto-con-iphone-15-pro-vince-gli-iphone-photography-awards",
-      "excerpt": "Uno scatto realizzato con iPhone 15 Pro ha vinto gli iPhone Photography Awards, confermando quanto la fotografia mobile possa ormai competere anche in contesti molto difficili.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99426/uno-scatto-con-iphone-15-pro-vince-gli-iphone-photography-awards.png",
-      "publishedAt": "2026-07-03T13:10:03+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "GTA VI, truffe sui preordini: siti falsi, beta inesistenti e token crypto sospette",
@@ -77,92 +203,11 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Licenze digitali revocate, il caso Sony riapre il rischio per il mercato europeo",
-      "link": "https://www.tomshw.it/business/licenze-digitali-revocate-il-caso-sony-riapre-il-rischio-per-il-mercato-europeo",
-      "excerpt": "Sony ha avvisato i clienti PlayStation nel Regno Unito che dal 1 settembre 2026 non potranno più vedere film e serie StudioCanal già acquistati: secondo la ricostruzione…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99410/licenze-digitali-revocate-il-caso-sony-riapre-il-rischio-per-il-mercato-europeo.png",
-      "publishedAt": "2026-07-03T12:46:02+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Streaming pirata: quasi un utente su cinque viene colpito da malware",
       "link": "https://www.hdblog.it/sicurezza/articoli/n663398/streaming-pirata-malware/",
       "excerpt": "Guardare partite, film e serie TV su piattaforme pirata non espone solo a possibili conseguenze legali.",
       "image": "https://hd2.tudocdn.net/1354666?w=660",
       "publishedAt": "2026-07-03T12:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone Air, DJI Osmo 360 e tanto altro: le migliori offerte tech del 3 luglio su Amazon",
-      "link": "https://www.hdblog.it/amazon/offerte/n663396/migliori-offerte-3-luglio-tech-amazon-sconti/",
-      "excerpt": "Amazon spinge su smartphone, notebook OLED, monitor gaming, robot aspirapolvere e audio: ecco le migliori offerte tech del 3 luglio.",
-      "image": "https://hd2.tudocdn.net/1354663?w=660",
-      "publishedAt": "2026-07-03T12:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Oppo piglia tutto: addio OxygenOS e Realme UI, il futuro è solo ColorOS",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663394/oppo-coloros-addio-oxygenos-realmeui-rumor-oneplus/",
-      "excerpt": "Cambiano le strategie interne al gruppo BKK che include Oppo, OnePlus, Realme e non solo.",
-      "image": "https://hd2.tudocdn.net/1354657?w=660",
-      "publishedAt": "2026-07-03T12:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Tesla mette un tetto alla spesa AI, ma Grok resta fuori",
-      "link": "https://www.tomshw.it/automotive/tesla-mette-un-tetto-alla-spesa-ai-ma-grok-resta-fuori",
-      "excerpt": "Tesla ha comunicato ai dipendenti un nuovo tetto alla spesa AI: 200 dollari a settimana per lavoratore, con autorizzazione obbligatoria per superare la soglia. La parte più…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99415/tesla-mette-un-tetto-alla-spesa-ai-ma-grok-resta-fuori.png",
-      "publishedAt": "2026-07-03T12:34:53+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "EVE Energy porta in UE le batterie per le BMW elettriche",
-      "link": "https://www.tomshw.it/automotive/eve-energy-porta-in-ue-le-batterie-per-le-bmw-elettriche",
-      "excerpt": "EVE Energy sta accelerando sul suo primo grande impianto europeo per batterie, pensato per rifornire le future elettriche BMW e in particolare la BMW Neue Klasse iX3. Il progetto…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99414/eve-energy-porta-in-ue-le-batterie-per-le-bmw-elettriche.png",
-      "publishedAt": "2026-07-03T12:32:58+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Le schede video AMD potrebbero costare di più per la VRAM",
-      "link": "https://www.tomshw.it/hardware/le-schede-video-amd-potrebbero-costare-di-piu-per-la-vram",
-      "excerpt": "AMD avrebbe comunicato ad alcuni partner un aumento di prezzo sui bundle composti da GPU e memoria video, una mossa che potrebbe riflettersi sul costo finale delle schede grafiche…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99417/cover-810195.png",
-      "publishedAt": "2026-07-03T12:31:51+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "LG e Honda cambiano missione, dalle auto allo storage",
-      "link": "https://www.tomshw.it/automotive/lg-e-honda-cambiano-missione-dalle-auto-allo-storage",
-      "excerpt": "LG Energy Solution e Honda hanno avviato la produzione di massa di celle agli ioni di litio per sistemi di accumulo energetico negli Stati Uniti, trasformando una fabbrica nata…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99413/lg-e-honda-cambiano-missione-dalle-auto-allo-storage.png",
-      "publishedAt": "2026-07-03T12:24:46+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Android Auto, arrivano gli aggiornamenti per Spotify e YouTube Music",
-      "link": "https://www.hdblog.it/android/articoli/n663395/android-auto-upgrade-spotify-youtube-music/",
-      "excerpt": "Cambia l’interfaccia per le due piattaforme streaming.",
-      "image": "https://hd2.tudocdn.net/1354660?w=660",
-      "publishedAt": "2026-07-03T12:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Galaxy Z Flip 8, Fold 8 e Ultra, ecco i presunti prezzi europei: tenetevi forte",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663397/samsung-galaxy-z-fold-flip-8-ultra-prezzi/",
-      "excerpt": "Tutto aumenta, e la situazione peggiora man mano che vi serve più memoria. Più cari anche gli smartwatch.",
-      "image": "https://hd2.tudocdn.net/1354662?w=660",
-      "publishedAt": "2026-07-03T12:15:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -174,33 +219,6 @@
       "publishedAt": "2026-07-03T12:05:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Stop alle vendite della serratura intelligente Yale x Nest sul Google Store",
-      "link": "https://www.hdblog.it/google/articoli/n663393/google-x-nest-smart-lock-stop-vendite/",
-      "excerpt": "Dopo dieci anni di onorata carriera, si chiude un'epoca.",
-      "image": "https://hd2.tudocdn.net/1354656?w=660",
-      "publishedAt": "2026-07-03T11:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung non è quella che credete: cosa c'è dietro il colosso coreano",
-      "link": "https://www.tomshw.it/smartphone/samsung-non-e-quella-che-credete",
-      "excerpt": "Facciamo un piccolo esperimento mentale. Chiudete gli occhi e pensate alla parola Samsung. Con ogni probabilità, la vostra mente proietterà immediatamente l'immagine dell'ultimo…",
-      "image": "https://cdn.tomshw.it/storage/media/2024/02/14163/Samsung-Galaxy-copertina-2.jpg",
-      "publishedAt": "2026-07-03T11:38:27+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Chiusura PS Store su PS3 e Vita, gli archivisti digitali si mobilitano",
-      "link": "https://www.hdblog.it/games/articoli/n663392/ps3-psvita-chiude-store-archivisti-digitali-giochi/",
-      "excerpt": "Alcune opere dell'ingegno rischiano di essere perdute per sempre.",
-      "image": "https://hd2.tudocdn.net/1354654?w=660",
-      "publishedAt": "2026-07-03T11:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "iFixit ha mostrato come si assembla una batteria per iPhone",
@@ -239,38 +257,20 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "L’Europa: “Il dazio di 3 euro non lo pagheranno i consumatori ma le piattaforme”. Che hanno già alzato tutti i prezzi",
-      "link": "https://images.dday.it/ic6aI-Pe9b9X-RVsupW6cS2hP1jOiEei_26eQKvJz9E/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57940/629ad0_Gemini_Generated_Image_pi1o4upi1o4upi1o.jpg",
-      "excerpt": "Fa discutere la comunicazione sui social della Commissione Europa che prova a convincere i cittadini che il dazio di tre euro sulle spedizioni verrà pagato dalle piattaforme. Come…",
-      "image": "https://images.dday.it/ic6aI-Pe9b9X-RVsupW6cS2hP1jOiEei_26eQKvJz9E/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57940/629ad0_Gemini_Generated_Image_pi1o4upi1o4upi1o.jpg",
-      "publishedAt": "2026-07-03T09:11:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Le iconiche cuffie Marshall Major V tornano in sconto",
-      "link": "https://images.dday.it/lBT_ju8itHr7Am8Z0wMwEuJUDpa0v2-BQeija8KtnDs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/55162/b76194_ape2.jpg",
-      "excerpt": "Approfitta dell'offerta speciale sulle Marshall Major V, le cuffie wireless con 100 ore di riproduzione a un prezzo davvero conveniente, ora su Amazon... Leggi tutto",
-      "image": "https://images.dday.it/lBT_ju8itHr7Am8Z0wMwEuJUDpa0v2-BQeija8KtnDs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/55162/b76194_ape2.jpg",
-      "publishedAt": "2026-07-03T09:06:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Microsoft sfida i suoi stessi partner con una consulenza AI da 2,5 miliardi",
-      "link": "https://www.tomshw.it/business/microsoft-si-mette-a-fare-consulenza-i-suoi-stessi-partner-ora-tremano",
-      "excerpt": "Judson Althoff, CEO di Microsoft Commercial Business, ha annunciato il 2 luglio la nascita di Frontier Company: 2,5 miliardi di dollari e circa 6.000 persone, tra forward deployed…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99322/04-microsoft-frontier-cover.jpg",
+      "title": "Tripadvisor, l'AI fa sparire le recensioni negative",
+      "link": "https://www.tomshw.it/business/tripadvisor-mette-lai-a-riassumere-le-recensioni-e-ripulisce-quelle-brutte",
+      "excerpt": "Which?, l'associazione dei consumatori britannica, ha passato al setaccio i riassunti generati dall'AI di Tripadvisor per decine di hotel europei. Il caso più citato è quello del…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99324/06-tripadvisor-cover.jpg",
       "publishedAt": "2026-07-03T08:35:03+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Automazione HR, sondaggio sui dipendenti e sentiment analysis rafforzata con l'IA",
-      "link": "https://www.tomshw.it/aioperator/sentiment-analysis-survey-dipendenti-ai",
-      "excerpt": "Progetti un sondaggio sui dipendenti, e a metà lavoro ti accorgi che il vero collo di bottiglia è leggere le risposte, più che raccoglierle. Le domande chiuse si contano da sole,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/98981/03-hr08-cover.jpg",
-      "publishedAt": "2026-07-01T13:24:13+00:00",
+      "title": "Google e Amazon inquinano di più per colpa dell'AI, altro che sostenibili",
+      "link": "https://www.tomshw.it/business/google-e-amazon-bruciano-piu-carbonio-per-colpa-dellai-altro-che-sostenibili",
+      "excerpt": "Google e Amazon hanno pubblicato nei giorni scorsi i rispettivi report di sostenibilità, e i numeri raccontano una storia che nessuna delle due vuole raccontare apertamente. Lo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99323/05-costo-reale-ai-cover.jpg",
+      "publishedAt": "2026-07-03T08:35:03+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
