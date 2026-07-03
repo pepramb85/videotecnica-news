@@ -1,9 +1,90 @@
 {
-  "generatedAt": "2026-07-03T15:49:58.453846+00:00",
+  "generatedAt": "2026-07-03T17:16:09.784109+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Fusione nucleare, nuovo passo avanti per l’energia diretta",
+      "link": "https://www.hdblog.it/green/articoli/n663317/fusione-nucleare-passo-avanti-energia-diretta/",
+      "excerpt": "Realta Fusion converte energia del plasma in elettricità su WHAM.",
+      "image": "https://hd2.tudocdn.net/1354449?w=660",
+      "publishedAt": "2026-07-03T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Rufus 4.15 in distribuzione, tanti bug fix e supporto a RISC-V",
+      "link": "https://www.hdblog.it/windows/articoli/n663427/rufus-4-15-novita-riscv-bug-windows-11/",
+      "excerpt": "Risolti soprattutto i problemi di installazione di Windows 11 in modalità automatizzata.",
+      "image": "https://hd2.tudocdn.net/1354715?w=660",
+      "publishedAt": "2026-07-03T16:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nasce ROSAIA, nuovo sistema robotico italiano per le operazioni in orbita",
+      "link": "https://www.hdblog.it/scienza/articoli/n663419/rosaia-robot-italiano-per-operazioni-in-orbita/",
+      "excerpt": "Il robot può operare in sicurezza su satelliti e detriti spaziali.",
+      "image": "https://hd2.tudocdn.net/1354704?w=660",
+      "publishedAt": "2026-07-03T16:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "19.000 Pa e base tuttofare: DREAME L40s Pro Ultra a 499€",
+      "link": "https://www.tomshw.it/offerte/19000-pa-e-base-tuttofare-dreame-l40s-pro-ultra-a-499eur",
+      "excerpt": "DREAME L40s Pro Ultra è a 499€ su Amazon, invece dei 749€ ufficiali, con uno sconto del 33%. L’aggancio è la base tuttofare: svuota la polvere, lava i moci con acqua calda e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99465/tomshw-offer-562518.png",
+      "publishedAt": "2026-07-03T16:32:38+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Microsoft Edge ora permette di accedere anche con account Google",
+      "link": "https://www.hdblog.it/microsoft/articoli/n663425/microsoft-edge-account-google/",
+      "excerpt": "La novità è in distribuzione graduale con la versione 150 del browser (che è basato sul codice sorgente di Chromium).",
+      "image": "https://hd2.tudocdn.net/1354714?w=660",
+      "publishedAt": "2026-07-03T16:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Windows 11, curioso glitch grafico all'avvio: colpa di Google Chrome?",
+      "link": "https://www.hdblog.it/microsoft/articoli/n663422/windows-11-glitch-riquadro-bianco-avvio/",
+      "excerpt": "Compare un riquadro bianco che impedisce di interagire con gli elementi del desktop. Sparisce da solo dopo qualche secondo.",
+      "image": "https://hd2.tudocdn.net/1351461?w=660",
+      "publishedAt": "2026-07-03T16:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La fine dell'usato PlayStation: chi ci rimette davvero?",
+      "link": "https://www.tomshw.it/videogioco/la-fine-dellusato-playstation-chi-ci-rimette-davvero",
+      "excerpt": "La transizione al digitale nel mondo dei videogiochi PlayStation è, se vogliamo, un progresso inevitabile: cataloghi immediati, download istantanei, nessun disco da conservare o…",
+      "image": "https://cdn.tomshw.it/storage/media/2024/10/36079/Playstation.jpg",
+      "publishedAt": "2026-07-03T16:09:26+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "OnePlus sempre meno presente in Occidente: via anche da UK e USA?",
+      "link": "https://www.hdblog.it/smartphone/articoli/n663420/oneplus-abbandono-usa-uk/",
+      "excerpt": "Praticamente tutti i prodotti risultano esauriti nello store ufficiale per i rispettivi Paesi.",
+      "image": "https://hd2.tudocdn.net/1348847?w=660",
+      "publishedAt": "2026-07-03T16:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Batterie stampate in 3D? Ora possono entrare quasi ovunque",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663336/batterie-stampate-3d-elettrolita-gel/",
+      "excerpt": "Un elettrolita stampabile in 3D apre a batterie più flessibili e sicure",
+      "image": "https://hd2.tudocdn.net/1354527?w=660",
+      "publishedAt": "2026-07-03T15:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Fusione nucleare: un altro pezzo di ITER prende forma. Impilato il solenoide centrale",
       "link": "https://images.dday.it/d_WVGRLEVl3ANEWybrc9GzpDs0TGWewmmFkTpfLKvCY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57951/704eb4_central-solenoid-module-final-lift.jpg",
@@ -77,74 +158,11 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Un dispositivo quantistico potrebbe cambiare le comunicazioni",
-      "link": "https://www.tomshw.it/scienze/un-dispositivo-quantistico-potrebbe-cambiare-le-comunicazioni",
-      "excerpt": "Un gruppo di ricercatori della McGill University ha sviluppato un dispositivo quantistico capace di generare fononi, cioè minuscole vibrazioni simili a particelle di suono, a…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99456/un-dispositivo-quantistico-potrebbe-cambiare-le-comunicazioni.png",
-      "publishedAt": "2026-07-03T14:35:16+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Robot con svuotamento automatico a 159€: Dreame D10 Plus Gen 2",
       "link": "https://www.tomshw.it/offerte/robot-con-svuotamento-automatico-a-159eur-dreame-d10-plus-gen-2",
       "excerpt": "Dreame D10 Plus Gen 2 a 159€ su Amazon porta lo svuotamento automatico in una fascia di prezzo molto aggressiva, partendo da un listino di 249€ con sconto del 36%. Il vantaggio…",
       "image": "https://cdn.tomshw.it/storage/media/2026/07/99455/tomshw-offer-562438.png",
       "publishedAt": "2026-07-03T14:32:49+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Recensione TV OLED LG G6: super prestazioni e riferimento OLED WRGB",
-      "link": "https://www.hdblog.it/tv/recensioni/n662975/tv-oled-lg-g6-4k-hdr-gaming-test-prova-prezzo/",
-      "excerpt": "La nostra prova completa di misure del TV OLED LG G6 da 65 pollici, con nuovo pannello \"Primary RGB Tandem\" di seconda generazione ancora più luminoso e super comparto gaming fino…",
-      "image": "https://hd2.tudocdn.net/1353519?w=660",
-      "publishedAt": "2026-07-03T14:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Memoria e storage crollano, l'AI ora fa paura al mercato",
-      "link": "https://www.tomshw.it/hardware/memoria-e-storage-crollano-lai-ora-fa-paura-al-mercato",
-      "excerpt": "Il mercato di memoria e storage ha subito una brusca correzione dopo i nuovi timori su un possibile eccesso di capacità legato all'intelligenza artificiale. SanDisk, Micron e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99449/memoria-e-storage-crollano-l-ai-ora-fa-paura-al-mercato.png",
-      "publishedAt": "2026-07-03T14:20:56+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Fable 5 già violato (di nuovo). Nuovo ban in arrivo?",
-      "link": "https://www.tomshw.it/business/fable-5-gia-violato-di-nuovo-nuovo-ban-in-arrivo",
-      "excerpt": "Anthropic ha riaperto Fable 5 a tutti gli utenti il 1° luglio, dopo lo stop imposto a giugno dal governo statunitense. Sono bastate meno di 24 ore perché il ricercatore…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99451/14-fable-katana-v1.jpg",
-      "publishedAt": "2026-07-03T14:20:53+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Sony non esclude un ulteriore aumento dei prezzi per gli abbonamenti PS Plus",
-      "link": "https://www.hdblog.it/games/articoli/n663399/sony-non-esclude-ulteriore-aumento-prezzi-ps-plus/",
-      "excerpt": "A domanda diretta, Sony non conferma né smentisce futuri aumenti di prezzo per PS Plus, ma è una storia già scritta e che conosciamo bene.",
-      "image": "https://hd2.tudocdn.net/1354668?w=660",
-      "publishedAt": "2026-07-03T14:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "GitHub prende in giro Sony: arriva il CD con il proprio codice, ma per pochi fortunati",
-      "link": "https://www.hdblog.it/curiosita/articoli/n663408/github-vs-sony-fisico-digitale/",
-      "excerpt": "Il tema del fisico vs il digitale prende vie inaspettate",
-      "image": "https://hd2.tudocdn.net/1354686?w=660",
-      "publishedAt": "2026-07-03T14:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "BrainChip spedisce il chip Akida, l’AI neuromorfica diventa reale",
-      "link": "https://www.tomshw.it/hardware/brainchip-spedisce-akd1500-lai-neuromorfica-esce-dal-lab",
-      "excerpt": "BrainChip ha avviato le spedizioni commerciali del processore neuromorfico AKD1500, portando la sua tecnologia Akida fuori dalla fase puramente dimostrativa. Il passaggio riguarda…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99440/brainchip-spedisce-akd1500-l-ai-neuromorfica-esce-dal-lab.png",
-      "publishedAt": "2026-07-03T13:54:51+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -158,15 +176,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Ultrahuman Ring Pro: problemi produttivi per l'anello smart con batteria super",
-      "link": "https://www.hdblog.it/indossabili/articoli/n663406/ultrahuman-ring-pro-smart-problemi-produzione/",
-      "excerpt": "Prometteva 16 giorni d'autonomia, ma ci sarà da aspettare",
-      "image": "https://hd2.tudocdn.net/1354679?w=660",
-      "publishedAt": "2026-07-03T13:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "UBTech svela i prezzi dei robot iperrealistici con pelle morbida su tutto il corpo: si parte da 17.000 dollari",
       "link": "https://images.dday.it/tR5JYYZOMQAxfyBIAd0m2k4Q3lZjMjuTUBmZ843_C0o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57948/49bd64_cveo_r640_copia.jpg",
       "excerpt": "Sono già oltre 13.000 gli ordini delle unità robot U1, umanoidi molto realistici previsti anche nella versione mezzobusto e con un modello linguistico per la “risonanza…",
@@ -176,15 +185,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "GTA VI, truffe sui preordini: siti falsi, beta inesistenti e token crypto sospette",
-      "link": "https://www.hdblog.it/games/articoli/n663403/gta-vi-attenzione-truffe-falsi-preordini/",
-      "excerpt": "L’attesa per GTA VI sta diventando terreno fertile per le truffe online",
-      "image": "https://hd2.tudocdn.net/1354673?w=660",
-      "publishedAt": "2026-07-03T13:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Partita la missione di salvataggio del telescopio spaziale Swift: una sonda cercherà di spingerlo più in alto",
       "link": "https://images.dday.it/V0qu5s6PMNcRk-C9WSWiXJJsLgBcaT4EunM-OnL1oo8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57946/e00387_Swift_and_LINK_withEarthartist_concept.png",
       "excerpt": "Partia la missione Swift Boost, che vedrà la sonda robotizzata LINK di Katalyst Space cercare di agganciarsi al telescopio spaziale Swift e di riportarlo su un’orbita più alta per…",
@@ -192,24 +192,6 @@
       "publishedAt": "2026-07-03T13:05:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "OD di Hideo Kojima dovrebbe essere al sicuro: non sarà colpito dai tagli di XBOX",
-      "link": "https://www.hdblog.it/games/articoli/n663400/od-kojima-progetto-salvo-tagli/",
-      "excerpt": "Ma non ci sono dettagli riguardo quanto manchi alla pubblicazione",
-      "image": "https://hd2.tudocdn.net/1354667?w=660",
-      "publishedAt": "2026-07-03T13:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Streaming pirata: quasi un utente su cinque viene colpito da malware",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n663398/streaming-pirata-malware/",
-      "excerpt": "Guardare partite, film e serie TV su piattaforme pirata non espone solo a possibili conseguenze legali.",
-      "image": "https://hd2.tudocdn.net/1354666?w=660",
-      "publishedAt": "2026-07-03T12:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Hisense E7S Pro da 100 pollici: su Amazon costa 500 euro in meno",
@@ -271,6 +253,24 @@
       "excerpt": "Google e Amazon hanno pubblicato nei giorni scorsi i rispettivi report di sostenibilità, e i numeri raccontano una storia che nessuna delle due vuole raccontare apertamente. Lo…",
       "image": "https://cdn.tomshw.it/storage/media/2026/07/99323/05-costo-reale-ai-cover.jpg",
       "publishedAt": "2026-07-03T08:35:03+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Mechanical Turk verso la chiusura, sono umani che lavorano come macchine e per le macchine",
+      "link": "https://www.tomshw.it/business/mechanical-turk-chiude-ai-nuovi-clienti-la-manodopera-che-ha-addestrato-lai",
+      "excerpt": "Dal 30 luglio 2026 Amazon Mechanical Turk smette di accettare nuovi clienti, secondo quanto riportato da The Register. Amazon non ha fornito alcuna motivazione ufficiale per il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99326/07-mechanical-turk-cover.jpg",
+      "publishedAt": "2026-07-03T08:25:03+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "CSRD e ESRS: cosa deve sapere un CFO prima di commissionare il report con l'AI",
+      "link": "https://www.tomshw.it/aioperator/csrd-esrs-cfo-report-sostenibilita-ai",
+      "excerpt": "La Corporate Sustainability Reporting Directive obbliga le imprese in perimetro a pubblicare un report di sostenibilità redatto secondo gli European Sustainability Reporting…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/98982/04-esg03-cover.jpg",
+      "publishedAt": "2026-07-01T13:25:15+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
