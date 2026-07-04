@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-07-04T14:59:24.369065+00:00",
+  "generatedAt": "2026-07-04T16:56:01.800563+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Smart working in Full HD a 56,09€: Logitech C920 è al -41% su Amazon",
+      "link": "https://www.tomshw.it/offerte/smart-working-in-full-hd-a-5609eur-logitech-c920-e-al-41-su-amazon",
+      "excerpt": "Per videochiamate e streaming in Full HD, Logitech C920 HD Pro costa 56,09€ su Amazon invece di 94,99€, con uno sconto del 41%. È una webcam ancora molto cercata perché mette…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99538/tomshw-offer-563029.png",
+      "publishedAt": "2026-07-04T16:35:03+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "145W in borsa a 47,49€: power bank UGREEN per notebook e smartphone",
+      "link": "https://www.tomshw.it/offerte/145w-in-borsa-a-4749eur-power-bank-ugreen-per-notebook-e-smartphone",
+      "excerpt": "UGREEN Nexode 145W Power Bank 20000mAh è a 47,49€ su Amazon con uno sconto del 32% rispetto ai 69,99€ del catalogo. L’angolo interessante è la potenza: non è una batteria pensata…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99537/tomshw-offer-562984.png",
+      "publishedAt": "2026-07-04T15:32:32+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "iPhone Air 2, Apple raddoppia: seconda fotocamera, meno compromessi",
       "link": "https://www.hdblog.it/smartphone/articoli/n663459/iphone-air-2-fotocamere-a20-pro-miglioramenti/",
@@ -37,6 +55,15 @@
       "excerpt": "Uno studio contesta l’idea dell’universo simulato con limiti matematici.",
       "image": "https://hd2.tudocdn.net/1354755?w=660",
       "publishedAt": "2026-07-04T12:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "HONOR Magic 8 Lite con batteria da 7.500 mAh in offerta: a 280€ è un best buy",
+      "link": "https://www.hdblog.it/smartphone/offerte/n663457/honor-magic-8-lite-offerta-lug26/",
+      "excerpt": "HONOR Magic 8 Lite è in offerta e ora costa 280 euro: si tratta di un'ottima scelta per un mid-range veloce e con un'autonomia al top.",
+      "image": "https://hd2.tudocdn.net/1332665?w=660",
+      "publishedAt": "2026-07-04T10:45:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -113,24 +140,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Upgrade AM4 con WiFi 6: ASUS PRIME B550M-A WiFi II a 98€",
-      "link": "https://www.tomshw.it/offerte/upgrade-am4-con-wifi-6-asus-prime-b550m-a-wifi-ii-a-98eur",
-      "excerpt": "ASUS PRIME B550M-A WiFi II a 98€ su Amazon è una base microATX AM4 con WiFi 6, PCIe 4.0 e doppio slot M.2 sotto la soglia dei 100€. Per chi vuole dare una seconda vita a un PC…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99466/tomshw-offer-562554.png",
-      "publishedAt": "2026-07-03T19:17:34+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Exynos 2700, cambiamenti radicali per migliorare l'efficienza termica",
-      "link": "https://www.hdblog.it/hardware/articoli/n663437/samsung-exynos-2700-ram-soc-efficienza-termica/",
-      "excerpt": "Il colosso sudcoreano vuole allontanare la RAM dal system-on-chip, con la speranza di dissipare meglio il calore generato da CPU, GPU e NPU.",
-      "image": "https://hd2.tudocdn.net/1354734?w=660",
-      "publishedAt": "2026-07-03T17:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Fusione nucleare: un altro pezzo di ITER prende forma. Impilato il solenoide centrale",
       "link": "https://images.dday.it/d_WVGRLEVl3ANEWybrc9GzpDs0TGWewmmFkTpfLKvCY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57951/704eb4_central-solenoid-module-final-lift.jpg",
       "excerpt": "Tutti i moduli del gigantesco magnete centrale di ITER sono stati impilati uno sull’altro, realizzando una struttura alta 18 metri e del peso di 1000 tonnellate. Può generare un…",
@@ -147,15 +156,6 @@
       "publishedAt": "2026-07-03T15:06:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "PolicyWatcher: osservare le policy delle Big Tech come infrastruttura civica",
-      "link": "https://www.tomshw.it/business/policywatcher-osservare-le-policy-delle-big-tech-come-infrastruttura-civica",
-      "excerpt": "Ogni settimana le grandi piattaforme digitali aggiornano privacy policy, termini di servizio, condizioni per sviluppatori e regole sull'intelligenza artificiale. Il problema non è…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99430/13-policywatcher-cover-byline.jpg",
-      "publishedAt": "2026-07-03T14:25:03+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "iScooter iX3 in super offerta: il monopattino elettrico per adulti costa meno",
