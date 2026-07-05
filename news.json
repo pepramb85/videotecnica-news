@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-07-05T07:18:35.242554+00:00",
+  "generatedAt": "2026-07-05T10:04:59.101215+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "La NASA prepara la base lunare con quattro nuove missioni",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663446/nasa-quattro-missioni-base-lunare/",
+      "excerpt": "NASA finanzia quattro missioni lunari per preparare la futura base sulla Luna.",
+      "image": "https://hd2.tudocdn.net/1354788?w=660",
+      "publishedAt": "2026-07-05T09:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Razer wireless bianco a 97,52€: Basilisk V3 Pro al -46%",
+      "link": "https://www.tomshw.it/offerte/razer-wireless-bianco-a-9752eur-basilisk-v3-pro-al-46",
+      "excerpt": "Razer Basilisk V3 Pro a 97,52€ su Amazon mette sotto quota 100€ uno dei mouse gaming wireless più ricchi della linea Razer, con uno sconto del 46% rispetto ai 179,99€ di partenza.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99542/tomshw-offer-563251.png",
+      "publishedAt": "2026-07-05T08:32:42+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Hai dimenticato il PIN dello smartphone? Ecco come sbloccarlo su Android e iOS",
+      "link": "https://www.hdblog.it/android/articoli/n663405/codice-sblocco-ios-android-come-recuperare/",
+      "excerpt": "Apple e Google mettono a disposizione diverse soluzioni.",
+      "image": "https://hd2.tudocdn.net/1354791?w=660",
+      "publishedAt": "2026-07-05T08:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Come costruirsi in casa una radio con display LCD grazie a ESP32",
+      "link": "https://www.hdblog.it/modding/articoli/n663431/radio-fai-da-te-esp32-display-lcd-frequenza/",
+      "excerpt": "Un utente ha realizzato un modo molto interessante per scansionare le frequenze con un encoder rotativo e mostrarle su un display LCD.",
+      "image": "https://hd2.tudocdn.net/1354722?w=660",
+      "publishedAt": "2026-07-05T07:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Fusione nucleare, il Giappone trova un modo per misurare il plasma",
       "link": "https://www.hdblog.it/green/articoli/n663447/fusione-nucleare-giappone-misurazione-plasma/",
@@ -109,42 +145,6 @@
       "excerpt": "EA SPORTS FC 26 Standard Edition PS5 a 27,90€ su Amazon porta il calcio annuale di Electronic Arts al -65% rispetto ai 79,99€ richiesti. È il taglio giusto per aggiornare la…",
       "image": "https://cdn.tomshw.it/storage/media/2026/07/99535/tomshw-offer-562832.png",
       "publishedAt": "2026-07-04T09:32:17+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Lo shuttle Endeavour torna protagonista: da novembre lo rivedremo in verticale",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n663449/space-shuttle-endeavour-los-angeles/",
-      "excerpt": "Endeavour sarà esposto stabilmente a Los Angeles dal 13 novembre 2026.",
-      "image": "https://hd2.tudocdn.net/1354753?w=660",
-      "publishedAt": "2026-07-04T09:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Amazon Leo pronta al primo servizio internet, ma sarà limitato",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n663450/amazon-leo-internet-satellitare-2-3/",
-      "excerpt": "Amazon Leo prepara il debutto internet satellitare con 396 satelliti in orbita",
-      "image": "https://hd2.tudocdn.net/1354752?w=660",
-      "publishedAt": "2026-07-04T08:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone 17 Pro cala di prezzo con l'offerta del weekend di Amazon",
-      "link": "https://www.hdblog.it/smartphone/offerte/n663453/iphone-17-pro-offerta-amazon-luglio-2026/",
-      "excerpt": "iPhone 17 Pro è in offerta e diventa uno dei best buy di Amazon: ecco la promo da sfruttare oggi.",
-      "image": "https://hd2.tudocdn.net/1289490?w=660",
-      "publishedAt": "2026-07-04T07:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "ANC e lossless USB-C a 179€: Beats Studio Pro su Amazon",
-      "link": "https://www.tomshw.it/offerte/anc-e-lossless-usb-c-a-179eur-beats-studio-pro-su-amazon",
-      "excerpt": "Beats Studio Pro a 179€ su Amazon portano le cuffie wireless con ANC di Beats a metà del loro listino da 399,95€, con uno sconto del 50%. Il richiamo è l'abbinata tra…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99467/tomshw-offer-562734.png",
-      "publishedAt": "2026-07-04T07:32:10+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
