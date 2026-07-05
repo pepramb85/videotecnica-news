@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-07-05T02:24:49.735956+00:00",
+  "generatedAt": "2026-07-05T07:18:35.242554+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Fusione nucleare, il Giappone trova un modo per misurare il plasma",
+      "link": "https://www.hdblog.it/green/articoli/n663447/fusione-nucleare-giappone-misurazione-plasma/",
+      "excerpt": "Il Giappone testa un sistema a microonde per controllare il plasma da fusione.",
+      "image": "https://hd2.tudocdn.net/1354787?w=660",
+      "publishedAt": "2026-07-05T07:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Bose SoundLink Flex 2ª Gen a 109€: audio IP67 quasi al minimo",
       "link": "https://www.tomshw.it/offerte/bose-soundlink-flex-2a-gen-a-109eur-audio-ip67-quasi-al-minimo",
@@ -138,15 +147,6 @@
       "publishedAt": "2026-07-04T07:32:10+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "iPhone 18 Pro, la novità nel design sarà una questione di sfumature",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663435/iphone-18-pro-design-colore-vetro-leak/",
-      "excerpt": "Apple lavora sui dettagli.",
-      "image": "https://hd2.tudocdn.net/1354732?w=660",
-      "publishedAt": "2026-07-04T07:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Fusione nucleare: un altro pezzo di ITER prende forma. Impilato il solenoide centrale",
