@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-07-05T19:04:46.549916+00:00",
+  "generatedAt": "2026-07-05T20:49:57.546439+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Un AIO 360mm a 85,40€: Gigabyte GAMING 360 su Amazon",
+      "link": "https://www.tomshw.it/offerte/un-aio-360mm-a-8540eur-gigabyte-gaming-360-su-amazon",
+      "excerpt": "Gigabyte GAMING 360 a 85,40€ su Amazon porta un raffreddamento a liquido AIO da 360 mm al -41% rispetto ai 143,58€ di listino. Il richiamo qui è chiaro: tre ventole da 120 mm,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99545/tomshw-offer-563523.png",
+      "publishedAt": "2026-07-05T19:02:25+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "1000W Platinum a 188,97€: Corsair HX1000i SHIFT su Amazon",
       "link": "https://www.tomshw.it/offerte/1000w-platinum-a-18897eur-corsair-hx1000i-shift-su-amazon",
@@ -264,15 +273,6 @@
       "publishedAt": "2026-07-03T10:05:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Le startup europee affogano nella burocrazia, e la Grande Semplificazione non arriva",
-      "link": "https://www.tomshw.it/business/le-startup-europee-affogano-nella-burocrazia-e-la-grande-semplificazione-non-arriva",
-      "excerpt": "Il 79% dei founder tech europei ha subito un impatto concreto da attrito regolatorio nell'ultimo anno. Lo dice un report di DutchBasecamp, realizzato con la Computer &…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99331/12-startup-ai-act-cover.jpg",
-      "publishedAt": "2026-07-03T07:00:05+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     }
   ]
 }
