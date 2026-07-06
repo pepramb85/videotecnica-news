@@ -1,71 +1,242 @@
 {
-  "generatedAt": "2026-07-06T08:13:24.443715+00:00",
+  "generatedAt": "2026-07-06T13:39:05.322918+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "WhatsApp rende più trasparenti i post sponsorizzati nei canali",
-      "link": "https://www.hdblog.it/android/articoli/n663503/whatsapp-canali-etichetta-contenuti-a-pagamento/",
-      "excerpt": "L’etichetta per i contenuti sponsorizzati nei canali WhatsApp non può essere rimossa dopo la pubblicazione. L’obiettivo è offrire maggiore trasparenza a chi legge gli aggiornamenti",
-      "image": "https://hd2.tudocdn.net/1354848?w=660",
-      "publishedAt": "2026-07-06T08:10:00+00:00",
+      "title": "Broadcom fornirà chip personalizzati ad Apple fino al 2031",
+      "link": "https://images.dday.it/iBit3BEL1EIaJzVkjdPxa4LME2MNt0Nj1CSH2J4RFro/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57962/f34744_Depositphotos_42165731_XL.jpg",
+      "excerpt": "L'accordo estende l'intesa del 2023 sui componenti 5G. Apple vale circa il 20% dei ricavi di Broadcom... Leggi tutto",
+      "image": "https://images.dday.it/iBit3BEL1EIaJzVkjdPxa4LME2MNt0Nj1CSH2J4RFro/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57962/f34744_Depositphotos_42165731_XL.jpg",
+      "publishedAt": "2026-07-06T13:32:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "PeerTube ha 1 milione di video: la sfida a YouTube arriva dal Fediverso",
+      "link": "https://www.hdblog.it/android/articoli/n663539/peertube-video-sfida-youtube-fediverso-cosa-e/",
+      "excerpt": "Si tratta dell'equivalente di ciò che è stato Mastodon per X, solo a tema video",
+      "image": "https://hd2.tudocdn.net/1354919?w=660",
+      "publishedAt": "2026-07-06T13:15:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Chiavetta USB a nuclei magnetici dell'era Apollo: la sfida ai rincari RAM",
-      "link": "https://www.hdblog.it/hardware/articoli/n663499/polymatt-chiavetta-usb-era-apollo/",
-      "excerpt": "Una chiavetta USB artigianale da 8 byte usa memoria a nuclei magnetici.",
-      "image": "https://hd2.tudocdn.net/1354847?w=660",
-      "publishedAt": "2026-07-06T08:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Jim Keller scommette sulle mini fab per cambiare i chip",
-      "link": "https://www.tomshw.it/hardware/jim-keller-scommette-sulle-mini-fab-per-cambiare-i-chip",
-      "excerpt": "Jim Keller sta portando avanti una scommessa molto diversa dalla corsa alle megafab: trasformare la produzione di chip in un processo più piccolo, replicabile e controllato via…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99593/jim-keller-scommette-sulle-mini-fab-per-cambiare-i-chip.png",
-      "publishedAt": "2026-07-06T08:00:42+00:00",
+      "title": "PcDays 2026: l'ondata di sconti di PC Componentes che travolge i prezzi fino al 12 luglio",
+      "link": "https://www.tomshw.it/hardware/pcdays-2026-londata-di-sconti-di-pc-componentes-che-travolge-i-prezzi-fino-al-12-luglio",
+      "excerpt": "L'estate tecnologica entra nel vivo con il lancio dei PcDays di PC Componentes, l'attesissimo evento promozionale all'insegna del claim La tecnologia è ovunque!. Fino al prossimo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99669/PcDays-2026-l'ondata-di-sconti-di-PC-Componentes-che-travolge-i-prezzi-fino-al-12-luglio.png",
+      "publishedAt": "2026-07-06T13:08:39+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "La tessera sanitaria è di nuovo presa di mira da un'articolata campagna di phishing",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n663494/tessera-sanitaria-nuova-campagna-phishing/",
-      "excerpt": "Segnala una nuova truffa a tema tessera sanitaria: la campagna di phishing punta a rubare dati e informazioni sui metodi di pagamento.",
-      "image": "https://hd2.tudocdn.net/1354846?w=660",
-      "publishedAt": "2026-07-06T07:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung corre verso profitti mai visti grazie all'IA",
-      "link": "https://www.tomshw.it/hardware/samsung-corre-verso-profitti-mai-visti-grazie-alle-memorie-ai",
-      "excerpt": "Samsung si prepara a un 2026 fuori scala per la sua attività nei semiconduttori: la divisione chip avrebbe indicato utili annuali superiori a quelli cumulati nei circa…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99590/samsung-corre-verso-profitti-mai-visti-grazie-alle-memorie-ai.png",
-      "publishedAt": "2026-07-06T07:51:23+00:00",
+      "title": "Eni avvia a Brindisi la fabbrica di batterie made in Italy",
+      "link": "https://www.tomshw.it/hardware/eni-avvia-a-brindisi-la-fabbrica-di-batterie-made-in-italy",
+      "excerpt": "Eni Storage Systems ha avviato a Brindisi i lavori per un nuovo polo industriale dedicato alle batterie stazionarie, entrando in un settore sempre più centrale per l'integrazione…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99667/eni-avvia-a-brindisi-la-fabbrica-di-batterie-made-in-italy.png",
+      "publishedAt": "2026-07-06T13:07:06+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "CXMT sfida i giganti: DRAM ad alta densità anche senza EUV",
-      "link": "https://www.tomshw.it/hardware/cxmt-sviluppa-una-dram-senza-euv-e-puo-attirare-apple",
-      "excerpt": "CXMT ha avviato lo sviluppo di una nuova DRAM ad alta densità pensata per aumentare capacità e prestazioni senza ricorrere alla litografia EUV. Il punto centrale è industriale…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99586/cxmt-sviluppa-una-dram-senza-euv-e-puo-attirare-apple.png",
-      "publishedAt": "2026-07-06T07:48:08+00:00",
+      "title": "Usare la fibra ottica per monitorare anche terremoti, traffico e perdite d'acqua. Lo farà FiberCop insieme a Nokia",
+      "link": "https://images.dday.it/IjvZmg67X_4g2GHlsl1RbfxXU2G-0KUOTERzGu1oXs4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57961/cc2f70_1783331768385.jpg",
+      "excerpt": "Analizzando tempi di propagazione e micro variazioni del segnale ottico si possono individuare guasti del cavo ma anche terremoti, perdite d'acqua e intensità del traffico. Il…",
+      "image": "https://images.dday.it/IjvZmg67X_4g2GHlsl1RbfxXU2G-0KUOTERzGu1oXs4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57961/cc2f70_1783331768385.jpg",
+      "publishedAt": "2026-07-06T13:07:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Rivoluzione visiva sulla scrivania: i monitor OLED di Samsung dcendono del 30%",
+      "link": "https://www.tomshw.it/hardware/rivoluzione-visiva-sulla-scrivania-i-monitor-oled-di-samsung-dcendono-del-30",
+      "excerpt": "Se stavate aspettando il momento perfetto per elevare la vostra postazione da gioco o professionale a un livello nettamente superiore, quel momento è ufficialmente arrivato. Da…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99666/Rivoluzione-visiva-sulla-scrivania-i-monitor-OLED-di-Samsung-dcendono-del-30-.png",
+      "publishedAt": "2026-07-06T12:58:55+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "WinRAR si aggiorna grazie agli utenti che comprano la licenza",
-      "link": "https://www.hdblog.it/windows/articoli/n663500/winrar-7-23-novita-aggiornamento-scherzo-licenze/",
-      "excerpt": "La società continua a giocare su uno dei meme più longevi della storia dell'informatica.",
-      "image": "https://hd2.tudocdn.net/1354845?w=660",
-      "publishedAt": "2026-07-06T07:45:00+00:00",
+      "title": "Rivian alza le stime, le sue elettriche vendono più del previsto",
+      "link": "https://www.tomshw.it/automotive/rivian-alza-le-stime-le-sue-elettriche-vendono-piu-del-previsto",
+      "excerpt": "Rivian ha alzato le stime sulle consegne per il 2026 dopo risultati migliori del previsto nel secondo trimestre e una domanda più solida per la sua gamma elettrica. Il titolo ha…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99665/rivian-alza-le-stime-le-sue-elettriche-vendono-piu-del-previsto.png",
+      "publishedAt": "2026-07-06T12:57:16+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "iPhone 17 Pro, robot top e gadget estate: le offerte tech da non perdere",
+      "link": "https://www.hdblog.it/amazon/offerte/n663545/migliori-offerte-tech-6-luglio-2026-amazon-/",
+      "excerpt": "Dopo il weekend, Amazon riparte con sconti importanti su iPhone 17 Pro, robot aspirapolvere, monitor OLED, cuffie, speaker e accessori smart: ecco le migliori offerte tech del 6…",
+      "image": "https://hd2.tudocdn.net/1354920?w=660",
+      "publishedAt": "2026-07-06T12:55:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "L'AI fa volare Foxconn e gli iPhone fanno la loro parte",
+      "link": "https://www.tomshw.it/hardware/lai-fa-volare-foxconn-e-gli-iphone-fanno-la-loro-parte",
+      "excerpt": "Foxconn ha chiuso il secondo trimestre con ricavi consolidati record, spinta dalla domanda di server AI e dal contributo degli iPhone. Il gruppo taiwanese, noto anche come Hon…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99664/l-ai-fa-volare-foxconn-e-gli-iphone-fanno-la-loro-parte.png",
+      "publishedAt": "2026-07-06T12:49:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Bigme sfida il limite dei monitor e-ink a colori",
+      "link": "https://www.tomshw.it/hardware/bigme-sfida-il-limite-dei-monitor-e-ink-a-colori",
+      "excerpt": "Bigme ha presentato il B251 Pro, un monitor e-ink a colori da 25,3 pollici che punta a superare uno dei limiti storici di questa tecnologia: la frequenza di aggiornamento. Il dato…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99662/bigme-sfida-il-limite-dei-monitor-e-ink-a-colori.png",
+      "publishedAt": "2026-07-06T12:40:12+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Audi A4 E-Tron con “architettura elettronica zonale”: confermato il suo arrivo nel 2028",
+      "link": "https://images.dday.it/DB8KQ_LTFmiynDc-AcyrOvlwEB2sWlIjZ_d6otupFj4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57959/9125d0_Depositphotos_394870826_XL.jpg",
+      "excerpt": "La A4 E-Tron resta prevista nel 2028 e sarà la prima Audi a sfruttare davvero la SSP. Batteria unificata, architettura zonale, stile Radical Next, interni più “fisici” e anche…",
+      "image": "https://images.dday.it/DB8KQ_LTFmiynDc-AcyrOvlwEB2sWlIjZ_d6otupFj4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57959/9125d0_Depositphotos_394870826_XL.jpg",
+      "publishedAt": "2026-07-06T12:29:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "App preinstallate su Android: quali si possono cancellare senza rischi",
+      "link": "https://www.hdblog.it/smartphone/articoli/n663544/smartphone-android-nuovo-app-inutili-quali/",
+      "excerpt": "Su molti smartphone Android ci sono app preinstallate dell’operatore, del produttore e di servizi terzi. Ecco quali possono essere disinstallate o disattivate senza problemi",
+      "image": "https://hd2.tudocdn.net/1347207?w=660",
+      "publishedAt": "2026-07-06T12:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La casetta da giardino diventa un hub energetico: la novità firmata Hörmann",
+      "link": "https://www.hdblog.it/home/articoli/n663540/hormann-casa-giardino-quadro-elettrico/",
+      "excerpt": "Totalmente personalizzabile.",
+      "image": "https://hd2.tudocdn.net/1354914?w=660",
+      "publishedAt": "2026-07-06T11:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "I giocatori non sono ancora pronti a dire definitivamente addio ai supporti fisici",
+      "link": "https://www.hdblog.it/games/articoli/n663543/giocatori-sondaggio-supporto-fisico-abbandono/",
+      "excerpt": "La maggior parte vorrebbe il mantenimento dello status quo, con la convivenza di fisico e digitale.",
+      "image": "https://hd2.tudocdn.net/1354913?w=660",
+      "publishedAt": "2026-07-06T11:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Sky acquisisce ITV Media: accordo da 1,6 mld sterline per sfidare Netflix e YouTube",
+      "link": "https://www.hdblog.it/business/articoli/n663538/sky-itv-media-accordo-streaming-globale/",
+      "excerpt": "Sky mette le mani sul principale broadcaster commerciale free-to-air del Regno Unito",
+      "image": "https://hd2.tudocdn.net/1354910?w=660",
+      "publishedAt": "2026-07-06T11:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Fa caldo, si rischiano blackout ma gli USA tolgono le guide per risparmiare energia",
+      "link": "https://www.hdblog.it/green/articoli/n663541/usa-cancella-risparmio-energetico-online/",
+      "excerpt": "Il Dipartimento dell’Energia USA avrebbe rimosso circa 6mila pagine con consigli su risparmio energetico, climatizzatori, isolamento domestico, acqua ed elettrodomestici efficienti",
+      "image": "https://hd2.tudocdn.net/1354911?w=660",
+      "publishedAt": "2026-07-06T11:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "In Cina continua il fenomeno del modding delle GPU NVIDIA: ecco la \"RTX 4080M\"",
+      "link": "https://www.hdblog.it/hardware/articoli/n663542/geforce-modding-gpu-laptop-desktop/",
+      "excerpt": "Le prestazioni sono buone ma non eccelse, niente supporto / driver ufficiali né garanzia. I consumi, però, sono impressionanti.",
+      "image": "https://hd2.tudocdn.net/1354912?w=660",
+      "publishedAt": "2026-07-06T11:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Migliori eSIM da usare in Albania (luglio 2026)",
+      "link": "https://www.tomshw.it/smartphone/migliori-esim-da-usare-in-albania",
+      "excerpt": "L'Albania è una meta sempre più frequentata da chi parte dall'Italia per un viaggio breve, per un tour dei Balcani o per una vacanza tra Tirana, Berat, Valona, Saranda e la…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/88202/migliori-esim-albania-copertina.jpg",
+      "publishedAt": "2026-07-06T11:12:49+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Crunch obbligatorio in Rockstar Games: fino a 80 ore settimanali per finire GTA 6",
+      "link": "https://www.hdblog.it/games/articoli/n663525/crunch-obbligatorio-rockstar-80-ore-gta-6/",
+      "excerpt": "Le politiche aziendali di Rockstar di nuovo nel mirino: dagli straordinari obbligatori a una definizione poco trasparente degli stipendi.",
+      "image": "https://hd2.tudocdn.net/1354877?w=660",
+      "publishedAt": "2026-07-06T11:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Drone Nyan, il Regno Unito testa l’attacco da terra e dal mare",
+      "link": "https://www.hdblog.it/droni/articoli/n663487/drone-nyan-royal-navy-test-mare/",
+      "excerpt": "Il drone Nyan supera test su terra e mare con Royal Navy e British Army",
+      "image": "https://hd2.tudocdn.net/1354818?w=660",
+      "publishedAt": "2026-07-06T11:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "L’iconico Dyson Airwrap ora in Sconto su Amazon",
+      "link": "https://images.dday.it/glZoDJi-kxWkcucoxGODOiT5DiDIqw89zBI51xJsPNA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/55010/fd9835_ape2.jpg",
+      "excerpt": "Approfitta dell’offerta Amazon e trasforma la tua hair routine con Dyson Airwrap, ora disponibile a 299 €... Leggi tutto",
+      "image": "https://images.dday.it/glZoDJi-kxWkcucoxGODOiT5DiDIqw89zBI51xJsPNA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/55010/fd9835_ape2.jpg",
+      "publishedAt": "2026-07-06T11:01:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Mercato dell’auto: a giugno 2026 l’elettrico sale a una quota del 10,1%. Ma ora è allarme incentivi",
+      "link": "https://images.dday.it/oOPcCIqSGysyxCtJ6MHac5HIG6lpsod7-QeUhncwNo4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57960/8067a5_t03-dettagli.jpg",
+      "excerpt": "Il primo semestre del 2026 vede un mercato in crescita del 9,6% rispetto all’anno precedente. A giugno l’incremento è stato del 10,6%. Bene le auto elettriche che a giugno hanno…",
+      "image": "https://images.dday.it/oOPcCIqSGysyxCtJ6MHac5HIG6lpsod7-QeUhncwNo4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57960/8067a5_t03-dettagli.jpg",
+      "publishedAt": "2026-07-06T10:59:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Apple vuole OLED più performanti. L’industria dei display si adegua",
+      "link": "https://images.dday.it/WbXKQGmLVUXmRvtYAeOdVO9Cw4skr7Hx4B-VMp-xtC0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57956/a874ea_21658c_Apple-MacBook-Pro-M4-lineup.jpg",
+      "excerpt": "Apple vuole portare sui prossimi prodotti schermi OLED con una maggiore gamma di colori, il che sta spingendo l’industria a cambiare materiali emissivi... Leggi tutto",
+      "image": "https://images.dday.it/WbXKQGmLVUXmRvtYAeOdVO9Cw4skr7Hx4B-VMp-xtC0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57956/a874ea_21658c_Apple-MacBook-Pro-M4-lineup.jpg",
+      "publishedAt": "2026-07-06T09:49:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "La soundbar Bose Solo 2 torna in sconto su Amazon",
+      "link": "https://images.dday.it/PueVX0A2Ms3otF9vAoMPw5lS9rygmRF2aGfIh5UAIic/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/54498/4c61af_ape2.jpg",
+      "excerpt": "Potenzia il suono del tuo TV con la Bose Solo Serie 2: compatta, con ingresso ottico e DSP avanzato per dialoghi ultra-chiari. In offerta su Amazon a 129,99 €... Leggi tutto",
+      "image": "https://images.dday.it/PueVX0A2Ms3otF9vAoMPw5lS9rygmRF2aGfIh5UAIic/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/54498/4c61af_ape2.jpg",
+      "publishedAt": "2026-07-06T09:34:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "iPhone pieghevole presentato a settembre ma venduto dopo: gli scalper potrebbero far salire il prezzo a 5.000 dollari",
+      "link": "https://images.dday.it/NQFXEdunMsa5AERJWqSTEf5Zzlk8Jb-ZjebU5kuu9WQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57958/53eaae_ChatGPT_Image_6_lug_2026__10_56_29.png",
+      "excerpt": "Apple potrebbe ripetere lo schema dell’iPhone X. Annuncio a settembre, vendite più avanti e disponibilità limitata. Per l’analista Kuo, gli scalper potrebbero raddoppiare il…",
+      "image": "https://images.dday.it/NQFXEdunMsa5AERJWqSTEf5Zzlk8Jb-ZjebU5kuu9WQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57958/53eaae_ChatGPT_Image_6_lug_2026__10_56_29.png",
+      "publishedAt": "2026-07-06T08:57:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "La Collezione Internazionale di Videogiochi non si farà: mancano i finanziamenti pubblici",
+      "link": "https://images.dday.it/J2ppRld-udzBIGvrUjRuxXW3x8AO5bnUuWjSIMIoJBE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57957/a17cc1_ai.png",
+      "excerpt": "Il progetto puntava a unire due delle più grandi collezioni di videogiochi al mondo per creare un archivio internazionale accessibile al pubblico composto da oltre 60.000 tra…",
+      "image": "https://images.dday.it/J2ppRld-udzBIGvrUjRuxXW3x8AO5bnUuWjSIMIoJBE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57957/a17cc1_ai.png",
+      "publishedAt": "2026-07-06T08:48:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Il diario di Tom Riddle diventa open source: l’IA legge la tua grafia e risponde in corsivo",
@@ -77,202 +248,31 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Cooler Master lancia le MasterFan A e M: ventole certificate Diamond",
-      "link": "https://www.tomshw.it/hardware/cooler-master-masterfan-a-m-ventole-cybenetics",
-      "excerpt": "Cooler Master ha presentato le nuove MasterFan A Series e MasterFan M Series, una famiglia di ventole pensata per chi cerca pressione statica elevata, buon flusso d'aria e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99591/cooler-master-masterfan-a-m-ventole-cybenetics.png",
-      "publishedAt": "2026-07-06T07:41:48+00:00",
+      "title": "Migliori conti correnti B2B per aziende con espansione globale (luglio 2026)",
+      "link": "https://www.tomshw.it/altro/i-migliori-conti-correnti-b2b-per-aziende-con-espansione-globale",
+      "excerpt": "La scelta del conto corrente aziendale è diventata sempre più strategica per le imprese che vendono, acquistano o assumono oltre i confini nazionali. Non basta più avere un IBAN e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/87648/migliori-conti-b2b-espansione-globale-copertina.jpg",
+      "publishedAt": "2026-07-06T06:48:12+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Coupon Amazon: i migliori della settimana (6 luglio)",
-      "link": "https://www.tomshw.it/offerte/migliori-coupon-amazon",
-      "excerpt": "Aggiornamento 06/07: tra i coupon più interessanti attivati recentemente da Amazon segnaliamo la Docking Station per Mac Mini e la sedia ProtoArc EC100. Navigando attraverso le…",
-      "image": "https://cdn.tomshw.it/storage/media/2024/02/13856/Coupon-Amazon-i-migliori-della-settimana-copertina.png",
-      "publishedAt": "2026-07-06T07:41:26+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Avalon attacca Windows e prende di mira anche i backup",
-      "link": "https://www.tomshw.it/hardware/avalon-attacca-windows-e-prende-di-mira-anche-i-backup",
-      "excerpt": "Avalon è un nuovo framework malware modulare che prende di mira sistemi Windows combinando furto di credenziali, accesso remoto, movimento laterale e cifratura tramite il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99585/avalon-attacca-windows-e-prende-di-mira-anche-i-backup.png",
-      "publishedAt": "2026-07-06T07:41:15+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il climatizzatore Lidl torna in offerta da giovedì: casa fresca a meno di 140 euro",
-      "link": "https://www.hdblog.it/home/articoli/n663493/lidl-volantino-offerta-condizionatore-prezzo/",
-      "excerpt": "Dal 9 al 15 luglio nei negozi Lidl.",
-      "image": "https://hd2.tudocdn.net/1354841?w=660",
-      "publishedAt": "2026-07-06T07:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Western Digital scivola in Borsa, l'AI non basta più?",
-      "link": "https://www.tomshw.it/hardware/western-digital-scivola-in-borsa-lai-non-basta-piu",
-      "excerpt": "Western Digital ha registrato un brusco arretramento in Borsa, con un calo vicino al 10%, mentre gli investitori hanno iniziato a prendere profitto sui titoli hardware legati…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99575/western-digital-scivola-in-borsa-l-ai-non-basta-piu.png",
-      "publishedAt": "2026-07-06T07:27:55+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Addio Phone (1): Nothing saluta il prodotto con cui ha iniziato a scrivere la sua storia",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663498/nothing-phone-1-ultimo-aggiornamento/",
-      "excerpt": "Dopo l’update in rollout, Nothing Phone (1) non riceverà più nuove funzioni o patch periodiche",
-      "image": "https://hd2.tudocdn.net/1051781?w=660",
-      "publishedAt": "2026-07-06T07:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung, SK hynix e Micron accusate di aver formato un cartello sulla DRAM",
-      "link": "https://images.dday.it/YgLvUtONdjGEGAzDOYtfdDIIalGknTDQX_6NsOYTu_U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57954/4d867f_Depositphotos_533431970_XL.jpg",
-      "excerpt": "La class action sostiene che i tre produttori abbiano tagliato l'offerta in modo coordinato, spingendo i prezzi su del 700% circa in quattro anni. 8 anni fa una causa simile non…",
-      "image": "https://images.dday.it/YgLvUtONdjGEGAzDOYtfdDIIalGknTDQX_6NsOYTu_U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57954/4d867f_Depositphotos_533431970_XL.jpg",
-      "publishedAt": "2026-07-06T07:15:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Sony chiarisce il futuro dei dischi PlayStation: spariranno davvero dal 2028?",
-      "link": "https://www.hdblog.it/sony/articoli/n663489/sony-playstation-dischi-fisici-2028/",
-      "excerpt": "Sony continuerà a produrre dischi PlayStation per i giochi usciti prima del 2028",
-      "image": "https://hd2.tudocdn.net/1354832?w=660",
-      "publishedAt": "2026-07-06T07:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Android Auto via USB non parte con i Pixel bloccati: Google prepara un avviso",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663490/android-auto-via-usb-pixel-bloccati-google/",
-      "excerpt": "Google sta lavorando su messaggi più chiari",
-      "image": "https://hd2.tudocdn.net/1354824?w=660",
-      "publishedAt": "2026-07-06T06:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Voli supersonici negli USA, l'FAA riapre una porta chiusa da 53 anni",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n663480/voli-supersonici-usa-faa/",
-      "excerpt": "La FAA valuta il ritorno dei voli supersonici civili sopra gli Stati Uniti.",
-      "image": "https://hd2.tudocdn.net/1354817?w=660",
-      "publishedAt": "2026-07-06T06:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone Ultra pieghevole, lancio tipo iPhone X: solo pochi pezzi e consegne lunghe",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663486/iphone-ultra-pieghevole-lancio-tipo-iphone-x/",
-      "excerpt": "Apple starebbe preparando un lancio molto simile a quello di iPhone X nel 2017",
-      "image": "https://hd2.tudocdn.net/1311221?w=660",
-      "publishedAt": "2026-07-06T06:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Migliori schede madri (luglio 2026)",
-      "link": "https://www.tomshw.it/guide/migliori-schede-madri",
-      "excerpt": "Se state pensando di assemblare un nuovo computer o di aggiornare quello attuale, la scelta della scheda madre giusta è uno dei passaggi che incide di più sulla riuscita della…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/90002/migliori-schede-madri-copertina.jpg",
-      "publishedAt": "2026-07-06T06:12:54+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Ecco la skill da imparare per i prossimi 5 anni",
-      "link": "https://www.tomshw.it/business/ecco-la-skill-da-imparare-per-i-prossimi-5-anni",
-      "excerpt": "Il prompt perfetto sta diventando un'abilità che vale sempre meno. Quello che conta non è più la capacità di formulare la richiesta giusta a un modello, ma la capacità di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99551/01-skill-ai-5-anni-cover.jpg",
+      "title": "Scoperto il primo cyber-attacco gestito interamente da agenti IA",
+      "link": "https://www.tomshw.it/business/scoperto-il-primo-cyber-attacco-gestito-interamente-da-agenti-ia",
+      "excerpt": "Il Threat Research Team di Sysdig ha pubblicato un report su un attacco ransomware che, a suo dire, è stato condotto senza intervento umano diretto durante l'esecuzione. Il nome…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99556/07-jadepuffer-ransomware-agenti-ai-cover.jpg",
       "publishedAt": "2026-07-06T05:50:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Fusione nucleare: un altro pezzo di ITER prende forma. Impilato il solenoide centrale",
-      "link": "https://images.dday.it/d_WVGRLEVl3ANEWybrc9GzpDs0TGWewmmFkTpfLKvCY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57951/704eb4_central-solenoid-module-final-lift.jpg",
-      "excerpt": "Tutti i moduli del gigantesco magnete centrale di ITER sono stati impilati uno sull’altro, realizzando una struttura alta 18 metri e del peso di 1000 tonnellate. Può generare un…",
-      "image": "https://images.dday.it/d_WVGRLEVl3ANEWybrc9GzpDs0TGWewmmFkTpfLKvCY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57951/704eb4_central-solenoid-module-final-lift.jpg",
-      "publishedAt": "2026-07-03T15:46:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Dal futuro al presente: abbiamo provato il volante elettronico che arriverà sulla Peugeot 208",
-      "link": "https://images.dday.it/mWMXSJ08QfXZvpmq9i_q6a-KMxTTLB66Rl3feN95DRQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57950/c5aabf_P1233336.jpg",
-      "excerpt": "Siamo saliti a bordo del concept Peugeot, la Polygon, per guardare da vicino e provare il volante elettronico dall'insolita forma quadrata che vedremo il prossimo anno sulla…",
-      "image": "https://images.dday.it/mWMXSJ08QfXZvpmq9i_q6a-KMxTTLB66Rl3feN95DRQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57950/c5aabf_P1233336.jpg",
-      "publishedAt": "2026-07-03T15:06:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "iScooter iX3 in super offerta: il monopattino elettrico per adulti costa meno",
-      "link": "https://images.dday.it/hIbnRNov6Jx_L3uF8UOd_sjZ_D06jeS8Ov9JU82MlAE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57949/95ff61_81qgCZ-d7+L._AC_SL1500_.jpg",
-      "excerpt": "Il monopattino elettrico iScooter iX3 è disponibile in offerta speciale su Amazon: un’occasione ideale per chi cerca un mezzo pratico, potente e conveniente per gli spostamenti…",
-      "image": "https://images.dday.it/hIbnRNov6Jx_L3uF8UOd_sjZ_D06jeS8Ov9JU82MlAE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57949/95ff61_81qgCZ-d7+L._AC_SL1500_.jpg",
-      "publishedAt": "2026-07-03T13:45:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "UBTech svela i prezzi dei robot iperrealistici con pelle morbida su tutto il corpo: si parte da 17.000 dollari",
-      "link": "https://images.dday.it/tR5JYYZOMQAxfyBIAd0m2k4Q3lZjMjuTUBmZ843_C0o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57948/49bd64_cveo_r640_copia.jpg",
-      "excerpt": "Sono già oltre 13.000 gli ordini delle unità robot U1, umanoidi molto realistici previsti anche nella versione mezzobusto e con un modello linguistico per la “risonanza…",
-      "image": "https://images.dday.it/tR5JYYZOMQAxfyBIAd0m2k4Q3lZjMjuTUBmZ843_C0o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57948/49bd64_cveo_r640_copia.jpg",
-      "publishedAt": "2026-07-03T13:33:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Più efficienza, meno complessità: cosa serve davvero per digitalizzare i processi aziendali",
-      "link": "https://www.tomshw.it/business/digitalizzare-processi-aziendali-cosa-serve-davvero",
-      "excerpt": "Le aziende che falliscono un progetto di digitalizzazione raramente lo fanno per mancanza di tecnologia. Il problema è quasi sempre a monte: non hanno capito il processo che…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99372/archiva-cover-v2-with-logo.jpg",
-      "publishedAt": "2026-07-03T13:06:44+00:00",
+      "title": "Tassonomia UE, il metodo per classificare le attività economiche con l'AI",
+      "link": "https://www.tomshw.it/aioperator/tassonomia-ue-classificare-attivita-economiche-ai",
+      "excerpt": "Il Regolamento Tassonomia UE (2020/852) obbliga le imprese soggette a CSRD a classificare ogni attività economica come ammissibile o allineata rispetto a sei obiettivi ambientali.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99132/03-esg13-cover.jpg",
+      "publishedAt": "2026-07-02T09:37:46+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Partita la missione di salvataggio del telescopio spaziale Swift: una sonda cercherà di spingerlo più in alto",
-      "link": "https://images.dday.it/V0qu5s6PMNcRk-C9WSWiXJJsLgBcaT4EunM-OnL1oo8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57946/e00387_Swift_and_LINK_withEarthartist_concept.png",
-      "excerpt": "Partia la missione Swift Boost, che vedrà la sonda robotizzata LINK di Katalyst Space cercare di agganciarsi al telescopio spaziale Swift e di riportarlo su un’orbita più alta per…",
-      "image": "https://images.dday.it/V0qu5s6PMNcRk-C9WSWiXJJsLgBcaT4EunM-OnL1oo8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57946/e00387_Swift_and_LINK_withEarthartist_concept.png",
-      "publishedAt": "2026-07-03T13:05:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Hisense E7S Pro da 100 pollici: su Amazon costa 500 euro in meno",
-      "link": "https://images.dday.it/PnjozbibEj5pz5rHpMpshRyWGhKotwmOF1agG8qnYos/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57947/faaa2a_81E3OOmhFAL._AC_SL1500_.jpg",
-      "excerpt": "Se stavi pensando a un TV XXL, questo è il momento giusto: su Amazon Hisense TV QLED E7S Pro da 100 pollici è ora in sconto... Leggi tutto",
-      "image": "https://images.dday.it/PnjozbibEj5pz5rHpMpshRyWGhKotwmOF1agG8qnYos/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57947/faaa2a_81E3OOmhFAL._AC_SL1500_.jpg",
-      "publishedAt": "2026-07-03T12:05:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "iFixit ha mostrato come si assembla una batteria per iPhone",
-      "link": "https://images.dday.it/lo1RWOTUMItounsCE025UjRqXi0QNGfE72yXDgZZ7_s/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57944/cc2444_fdfwwe.jpg",
-      "excerpt": "Una cella anonima e nera, a cui viene aggiunta una piccolissima scheda di gestione con un firmware apposito che impedisce alla batteria di caricarsi o scaricarsi troppo... Leggi…",
-      "image": "https://images.dday.it/lo1RWOTUMItounsCE025UjRqXi0QNGfE72yXDgZZ7_s/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57944/cc2444_fdfwwe.jpg",
-      "publishedAt": "2026-07-03T10:40:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Altro che Piracy Shield: c'è chi chiede di bloccare interi provider creando una lista nera degli amici dei pirati",
-      "link": "https://images.dday.it/NeemmisyqthUnYen_WGiJQS2DtmrphVMF-mPQ5IGL4k/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57943/7facdc_Gemini_Generated_Image_mdgh9fmdgh9fmdgh.jpeg",
-      "excerpt": "La Commissione Europea si prepara a rivedere le leggi sulla tutela del diritto d'autore e le associazioni dei detentori di contenuti chiedono una stretta ancora più severa contro…",
-      "image": "https://images.dday.it/NeemmisyqthUnYen_WGiJQS2DtmrphVMF-mPQ5IGL4k/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57943/7facdc_Gemini_Generated_Image_mdgh9fmdgh9fmdgh.jpeg",
-      "publishedAt": "2026-07-03T10:37:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
     }
   ]
 }
