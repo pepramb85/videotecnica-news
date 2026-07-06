@@ -1,9 +1,72 @@
 {
-  "generatedAt": "2026-07-06T16:48:34.615826+00:00",
+  "generatedAt": "2026-07-06T19:45:19.249263+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "ANC e LDAC a 59€: Nothing Ear (a) su Amazon tocca il minimo",
+      "link": "https://www.tomshw.it/offerte/anc-e-ldac-a-59eur-nothing-ear-a-su-amazon-tocca-il-minimo",
+      "excerpt": "Nothing Ear (a) a 59€ su Amazon sono tra le offerte audio più interessanti del momento, con uno sconto del 40% rispetto ai 99€ di catalogo. Il richiamo è chiaro: auricolari true…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99715/tomshw-offer-564642.png",
+      "publishedAt": "2026-07-06T19:17:25+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il nostro viaggio dentro NordVPN: l'intervista a Marijus Briedis (CTO) | VIDEO",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n660280/nordvpn-intervista-marijus-briedis-video/",
+      "excerpt": "La nostra intervista a Marijus Briedis, CTO di NordVPN: abbiamo parlato del Next Gen Antivirus, di cybersecurity e di tanto altro.",
+      "image": "https://hd2.tudocdn.net/1347396?w=660",
+      "publishedAt": "2026-07-06T19:00:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Chiavetta USB a nuclei magnetici dell'era Apollo: la sfida ai rincari RAM",
+      "link": "https://www.hdblog.it/hardware/articoli/n663499/polymatt-chiavetta-usb-era-apollo/",
+      "excerpt": "Una chiavetta USB artigianale da 8 byte usa memoria a nuclei magnetici.",
+      "image": "https://hd2.tudocdn.net/1354847?w=660",
+      "publishedAt": "2026-07-06T18:59:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Volete il pannello frontale e-Ink per la Steam Machine? Potete farvelo da soli!",
+      "link": "https://www.hdblog.it/games/articoli/n663583/valve-steam-machine-pannello-frontale-e-ink/",
+      "excerpt": "Valve ha pubblicato su GitLab una montagna di documenti, file, tutorial e codice software.",
+      "image": "https://hd2.tudocdn.net/1355003?w=660",
+      "publishedAt": "2026-07-06T17:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Philips lancia i primi monitor gaming a tripla modalità: QHD, FHD o HD",
+      "link": "https://www.hdblog.it/hardware/articoli/n663581/philips-evnia-monitor-gaming-triple-mode/",
+      "excerpt": "E il refresh sale a (rispettivamente) 275, 360 e 540 Hz.",
+      "image": "https://hd2.tudocdn.net/1355001?w=660",
+      "publishedAt": "2026-07-06T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung lavora a un SSD 990 \"base\" per combattere la crisi dei chip",
+      "link": "https://www.hdblog.it/hardware/articoli/n663580/samsung-ssd-990-drive-economico-crisi-chip/",
+      "excerpt": "Niente cache DRAM e memorie QLC invece delle più raffinate TLC.",
+      "image": "https://hd2.tudocdn.net/1078252?w=660",
+      "publishedAt": "2026-07-06T17:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Reattori nucleari al piombo: il piano per portarli in rete",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663552/eattori-nucleari-piombo-rete-elettrica/",
+      "excerpt": "Blykalla e Hitachi Energy lavorano a sistemi elettrici standard per reattori al piombo.",
+      "image": "https://hd2.tudocdn.net/1354957?w=660",
+      "publishedAt": "2026-07-06T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Nothing Ear (3a) svelate del tutto ad appena un giorno dal lancio",
       "link": "https://www.hdblog.it/nothing/articoli/n663579/nothing-ear-3a-immagini-render-specifiche-prezzi/",
@@ -50,15 +113,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Droni cinesi: saranno lanciati da una catapulta elettromagnetica",
-      "link": "https://www.hdblog.it/droni/articoli/n663559/cina-catapulta-elettromagnetica-droni-camion/",
-      "excerpt": "La Cina mostra un lanciatore mobile per droni basato su catapulta elettromagnetica",
-      "image": "https://hd2.tudocdn.net/1354966?w=660",
-      "publishedAt": "2026-07-06T15:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Il futuro dei chip non è (solo) nei nanometri",
       "link": "https://www.tomshw.it/hardware/il-futuro-dei-chip-non-e-solo-nei-nanometri",
       "excerpt": "Quando parliamo di sovranità dei semiconduttori, l'attenzione si concentra quasi esclusivamente sui nodi più avanzati, sui 3 nanometri e sui 2 nanometri, come se la capacità di…",
@@ -68,24 +122,6 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "iPhone Ultra non è ancora uscito ma già ci sono le edizioni super lussuose di Caviar",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663571/iphone-ultra-edizioni-limitate-caviar/",
-      "excerpt": "4 varianti, materiali incredibilmente preziosi, prezzi sconosciuti.",
-      "image": "https://hd2.tudocdn.net/1354981?w=660",
-      "publishedAt": "2026-07-06T15:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Gallagher di nuovo insieme: arriva il film Disney sul tour reunion degli Oasis | Teaser",
-      "link": "https://www.hdblog.it/curiosita/articoli/n657865/documentario-oasis-disney-plus-uscita/",
-      "excerpt": "Gli Oasis tornano con un film evento diretto dai registi di Shut Up and Play the Hits.",
-      "image": "https://hd2.tudocdn.net/1354840?w=660",
-      "publishedAt": "2026-07-06T15:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Recensione Shark ChillPill 3-in-1: ventilatore, nebulizzatore e piastra raffreddante",
       "link": "https://www.tomshw.it/altro/shark-chillpill-3-in-1-la-recensione-completa",
       "excerpt": "Shark ChillPill 3-in-1 è un dispositivo che integra tre tecnologie diverse in un unico corpo compatto: un ventilatore, una piastra rinfrescante e un nebulizzatore. L'obiettivo è…",
@@ -93,15 +129,6 @@
       "publishedAt": "2026-07-06T15:36:08+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Samsung Galaxy Watch 9 e Ultra 2: i leak mostrano in anteprima i nuovi quadranti",
-      "link": "https://www.hdblog.it/indossabili/articoli/n663533/samsung-galaxy-watch-9-ultra-2-quadranti/",
-      "excerpt": "Diamo un'occhiata ai nuovi quadranti che dovremmo trovare su Samsung Galaxy Watch 9 e Galaxy Watch Ultra 2.",
-      "image": "https://hd2.tudocdn.net/1354892?w=660",
-      "publishedAt": "2026-07-06T15:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Monopattini elettrici in sconto: le proposte più interessanti su Amazon",
@@ -122,24 +149,6 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Nintendo Switch al capolinea: stop alle vendite da febbraio 2027, dopo 10 anni",
-      "link": "https://www.hdblog.it/nintendo/articoli/n663560/switch-1-fine-produzione-stop-generazione/",
-      "excerpt": "Switch 1 farà 10 anni il prossimo 3 marzo 2027, ma pare che il fine vita arriverà un paio di settimane prima",
-      "image": "https://hd2.tudocdn.net/1005357?w=660",
-      "publishedAt": "2026-07-06T15:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Maxi round di licenziamenti per Microsoft: via in 4.800, divisione Xbox falcidiata",
-      "link": "https://www.hdblog.it/business/articoli/n663555/licenziamenti-microsoft-divisione-xbox-falcidiata/",
-      "excerpt": "Altre migliaia di dipendenti Microsoft lasciati a casa, soprattutto nella divisione Xbox, ma l'azienda sostiene che la colpa non è dell'AI.",
-      "image": "https://hd2.tudocdn.net/1354965?w=660",
-      "publishedAt": "2026-07-06T15:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Migliori offerte Instant Gaming della settimana (6 luglio 2026): sconti fino al 96%",
       "link": "https://www.tomshw.it/videogioco/migliori-offerte-della-settimana-su-instant-gaming",
       "excerpt": "Aggiornato il 06/07: tra le offerte migliori di questa settimana troviamo Pro Cycling Manager 26, NBA 2K26 e altri. Oggi il panorama videoludico è più vasto che mai: tra…",
@@ -156,15 +165,6 @@
       "publishedAt": "2026-07-06T14:57:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "QHD a 240Hz sotto 230€: HP OMEN 27qs è al minimo su Amazon",
-      "link": "https://www.tomshw.it/offerte/qhd-a-240hz-sotto-230eur-hp-omen-27qs-e-al-minimo-su-amazon",
-      "excerpt": "HP OMEN 27qs a 229,99€ su Amazon porta un monitor gaming da 27 pollici QHD a 240Hz sotto una soglia rara, con il 55% di sconto rispetto ai 510€ di riferimento. Il taglio è…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99707/tomshw-offer-564362.png",
-      "publishedAt": "2026-07-06T14:33:28+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Uber sospende cinque lanci in Europa, il consolidamento del delivery resta aperto",
@@ -203,20 +203,20 @@
       "sourceColor": "#E63946"
     },
     {
+      "title": "Migliori tastiere economiche (luglio 2026)",
+      "link": "https://www.tomshw.it/guide/migliori-tastiere-economiche",
+      "excerpt": "In questa guida abbiamo mantenuto il focus sui modelli con un buon rapporto qualità-prezzo, usando esempi concreti come Logitech, Corsair e Trust per distinguere le soluzioni più…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/87637/migliori-tastiere-economiche-copertina.jpg",
+      "publishedAt": "2026-07-06T11:37:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "Migliori cuffie gaming (luglio 2026)",
       "link": "https://www.tomshw.it/guide/migliori-cuffie-gaming",
       "excerpt": "Quando si gioca, l'audio non è un semplice accessorio: è uno dei segnali che vi aiutano a capire cosa sta succedendo prima ancora di vederlo a schermo. Nei titoli competitivi una…",
       "image": "https://cdn.tomshw.it/storage/media/2026/04/89004/migliori-cuffie-gaming-copertina.jpg",
       "publishedAt": "2026-07-06T11:32:47+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori raffrescatori evaporativi (luglio 2026)",
-      "link": "https://www.tomshw.it/offerte/migliori-raffrescatori-evaporativi",
-      "excerpt": "Quando l'estate porta giornate molto calde, stanze poco ventilate e finestre esposte al sole, un raffrescatore evaporativo può essere una soluzione pratica per migliorare il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/90962/migliori-raffrescatori-evaporativi-copertina.jpg",
-      "publishedAt": "2026-07-06T11:28:39+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
