@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-07-07T19:44:27.573365+00:00",
+  "generatedAt": "2026-07-07T21:16:41.158104+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Claude Fable 5, Anthropic concede altri 5 giorni ai suoi utenti",
+      "link": "https://www.tomshw.it/hardware/claude-fable-5-anthropic-rinvia-il-conto-ma-non-lo-cancella",
+      "excerpt": "Claude Fable 5 resterà incluso ancora per cinque giorni nei piani Claude a pagamento prima di passare al modello a consumo tramite usage credits. La finestra promozionale, che in…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99884/d9497e93-b7055119423427c40a0e4d84054aed17682b50a2-2880x1620-1-scaled.webp",
+      "publishedAt": "2026-07-07T21:14:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Claude Cowork si evolve: novità e restrizioni da sapere",
+      "link": "https://www.tomshw.it/smartphone/claude-cowork-esce-dal-desktop-ma-non-senza-limiti",
+      "excerpt": "Claude Cowork non deve più restare legato al computer acceso per una parte delle attività cloud: Anthropic sta portando il servizio su claude.ai e sulle app Claude per iOS e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99883/6a4d224da8363d1eb2751fe3_og_cowork-web-mobile.jpg",
+      "publishedAt": "2026-07-07T20:30:11+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "Accessorio Apple ufficiale sotto 30€: custodia MagSafe iPhone 17 Pro",
       "link": "https://www.tomshw.it/offerte/accessorio-apple-ufficiale-sotto-30eur-custodia-magsafe-iphone-17-pro",
@@ -12,6 +30,15 @@
       "publishedAt": "2026-07-07T19:17:01+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Gli smartphone più venduti nel mese di giugno (con il Prime Day) | VIDEO",
+      "link": "https://www.hdblog.it/smartphone/speciali/n663381/smartphone-piu-venduti-del-mese-giugno/",
+      "excerpt": "In vetta i modelli premium a prezzi scontati",
+      "image": "https://hd2.tudocdn.net/1355065?w=660",
+      "publishedAt": "2026-07-07T19:00:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
     },
     {
       "title": "WSL, Microsoft vuole migliorare le prestazioni delle app multimediali",
@@ -158,15 +185,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Apple Watch polverizza la concorrenza degli smartwatch con Edge AI nel Q1 2026",
-      "link": "https://www.hdblog.it/indossabili/articoli/n663646/apple-watch-edge-ai-vendite/",
-      "excerpt": "Apple Watch rappresenta la quasi totalità delle vendite di smartwatch con Edge AI ad inizio 2026.",
-      "image": "https://hd2.tudocdn.net/1355172?w=660",
-      "publishedAt": "2026-07-07T16:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Dashcam in offerta su Amazon a meno di 42 euro: doppia telecamera e microSD da 64 GB inclusa. Scopri ora il modello",
       "link": "https://images.dday.it/0szzzdJ_WVH4LkPuvOJda9YCWRQwOL5BfP05z_h80CQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57981/a49233_71pifQo2OBL._AC_SL1500_.jpg",
       "excerpt": "La dashcam Miden permette di registrare ogni dettaglio grazie alla doppia telecamera con risoluzione 4K anteriore e 1K UHD posteriore, completa la dotazione il sensore Sony…",
@@ -183,15 +201,6 @@
       "publishedAt": "2026-07-07T15:06:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Wall Street lancia l'allarme: la bolla AI pronta a scoppiare?",
-      "link": "https://www.tomshw.it/business/micron-e-intel-wall-street-vede-una-crepa-nel-boom-dei-chip",
-      "excerpt": "Il segnale arrivato da Samsung Electronics non è bastato a sostenere il comparto dei chip AI: a Wall Street le azioni di Micron Technology e Intel sono scese fino a circa l'8%,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99850/news-flash-565478.png",
-      "publishedAt": "2026-07-07T14:50:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Chat Control, il Consiglio UE rimette ai voti la deroga su ePrivacy già bocciata due volte",
@@ -264,15 +273,6 @@
       "publishedAt": "2026-07-07T10:07:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Come gestire un team distribuito senza fare micro-management",
-      "link": "https://www.tomshw.it/aioperator/gestire-team-distribuito-senza-micro-management",
-      "excerpt": "Il coinvolgimento dei manager a livello globale è crollato dal 27% al 22% tra il 2024 e il 2025, il calo più marcato mai registrato da Gallup nella serie storica dello State of…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99199/04-hr31-cover.jpg",
-      "publishedAt": "2026-07-02T10:47:08+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     }
   ]
 }
