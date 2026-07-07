@@ -1,116 +1,197 @@
 {
-  "generatedAt": "2026-07-07T14:12:33.431579+00:00",
+  "generatedAt": "2026-07-07T17:53:08.291005+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "DeepSeek prepara chip AI proprietari e sfida NVIDIA sul mercato",
-      "link": "https://www.hdblog.it/mercato/articoli/n663664/deepseek-chip-ai-proprietari/",
-      "excerpt": "DeepSeek sviluppa chip AI per ridurre la dipendenza da NVIDIA e Huawei.",
-      "image": "https://hd2.tudocdn.net/1355249?w=660",
-      "publishedAt": "2026-07-07T14:10:00+00:00",
+      "title": "Microsoft denunciata per il rumore del mega data center nel Wisconsin",
+      "link": "https://www.hdblog.it/microsoft/articoli/n663701/microsoft-class-action-data-center-wisconsin/",
+      "excerpt": "I cittadini che abitano nelle vicinanze dell'impianto Fairwater non riescono più a dormire per via del rumore delle ventole di raffreddamento, nonostante Microsoft dica di essere…",
+      "image": "https://hd2.tudocdn.net/1355363?w=660",
+      "publishedAt": "2026-07-07T17:50:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Se un agente AI può condurre un ransomware, la sicurezza non può più ragionare per strumenti",
-      "link": "https://www.tomshw.it/business/ransomware-condotto-da-agenti-ai-la-sicurezza-cambia-logica",
-      "excerpt": "Per anni la sicurezza informatica ha ragionato in termini di strumenti: quale malware bloccare, quale firma riconoscere, quale processo terminare. Questo paradigma presuppone che…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99836/copertina-ransomware-agente-ia.jpg",
-      "publishedAt": "2026-07-07T14:01:18+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Teufel punta sul fitness estivo con cuffie e speaker per allenarsi all'aperto",
-      "link": "https://www.tomshw.it/smartphone/teufel-punta-sul-fitness-estivo-con-cuffie-e-speaker-per-allenarsi-allaperto",
-      "excerpt": "Con l'arrivo dell'estate, allenarsi all'aperto diventa più naturale: parchi, piste ciclabili, lungomare e aree verdi sostituiscono spesso la palestra, mentre la musica resta uno…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99834/accessori-audio-teufel-workout-estivo.png",
-      "publishedAt": "2026-07-07T13:56:59+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "La Terra saluta l’alba: lo scatto NASA lascia senza fiato",
-      "link": "https://www.hdblog.it/fotografia/articoli/n663570/alba-orbitale-nasa-iss-terra/",
-      "excerpt": "La NASA mostra un’alba orbitale ripresa dalla ISS sopra il Caucaso.",
-      "image": "https://hd2.tudocdn.net/1354979?w=660",
-      "publishedAt": "2026-07-07T13:50:00+00:00",
+      "title": "JetZero avvia in California il dimostratore del nuovo aereo ad ala mista",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663680/jetzero-jet1-costruzione-california/",
+      "excerpt": "JetZero avvia il Jet1, il dimostratore che punta a dimezzare i consumi degli aerei.",
+      "image": "https://hd2.tudocdn.net/1355282?w=660",
+      "publishedAt": "2026-07-07T17:40:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Rivian cerca fondi per R2 vendendo milioni di azioni",
-      "link": "https://www.tomshw.it/automotive/rivian-cerca-fondi-per-r2-vendendo-milioni-di-azioni",
-      "excerpt": "Rivian ha avviato un'offerta pubblica sottoscritta da 75 milioni di azioni ordinarie per raccogliere nuovo capitale destinato, tra le altre cose, alla crescita produttiva della…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99832/rivian-cerca-fondi-per-r2-vendendo-milioni-di-azioni.png",
-      "publishedAt": "2026-07-07T13:46:13+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "LG verso un trimestre record: crescono elettrodomestici, TV e automotive",
-      "link": "https://www.hdblog.it/tv/articoli/n663665/lg-trimestre-record-tv-auto/",
-      "excerpt": "LG si appresta a chiudere il miglior secondo trimestre della sua storia.",
-      "image": "https://hd2.tudocdn.net/1355252?w=660",
-      "publishedAt": "2026-07-07T13:40:00+00:00",
+      "title": "Mirsee prepara MH3, umanoide industriale in produzione dal 2027",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663566/mirsee-mh3-umanoide-industriale-produzione-2027/",
+      "excerpt": "MH3 punta su fabbriche, sicurezza e teleoperazione fino a 1.500 km.",
+      "image": "https://hd2.tudocdn.net/1354975?w=660",
+      "publishedAt": "2026-07-07T17:20:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "L'AI europea cerca ricavi veri: gli acceleratori diventano snodo per startup e VC",
-      "link": "https://www.tomshw.it/business/lai-europea-cerca-ricavi-veri-gli-acceleratori-diventano-snodo-per-startup-e-vc",
-      "excerpt": "La nuova fase degli acceleratori europei per l'intelligenza artificiale passa da Parigi, ma parla anche alle startup e alle imprese italiane che stanno cercando capitali, clienti…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99829/lai-europea-cerca-ricavi-veri-gli-acceleratori-diventano-snodo-per-startup-e-vc.png",
-      "publishedAt": "2026-07-07T13:38:58+00:00",
+      "title": "ARC Raiders, Embark corregge (finalmente?) il matchmaking PvP",
+      "link": "https://www.tomshw.it/videogioco/arc-raiders-embark-corregge-il-matchmaking-pvp-su-un-punto-chiave",
+      "excerpt": "Il matchmaking di ARC Raiders ora legge in modo più preciso cosa succede quando due Raider si scontrano: Embark Studios ha aggiornato il sistema per distinguere chi avvia un…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99874/arc-raiders-social.png",
+      "publishedAt": "2026-07-07T17:15:57+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Lexar porta le DDR5 cinesi dove finora non erano arrivate",
-      "link": "https://www.tomshw.it/hardware/lexar-porta-le-ddr5-cinesi-dove-finora-non-erano-arrivate",
-      "excerpt": "Lexar ha introdotto nuovi kit DDR5 basati su chip CXMT, portando per la prima volta queste memorie oltre la soglia dei 6000 MT/s nei prodotti destinati agli appassionati. Il dato…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99831/lexar-porta-le-ddr5-cinesi-dove-finora-non-erano-arrivate.png",
-      "publishedAt": "2026-07-07T13:30:05+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Capelli perfetti in pochi minuti: arriva il nuovo Shark FlexStyle IonCurl",
-      "link": "https://www.hdblog.it/home/articoli/n663654/shark-beauty-flexstyle-ioncurl-cura-capelli-prezzo/",
-      "excerpt": "Prezzo e caratteristiche.",
-      "image": "https://hd2.tudocdn.net/1355247?w=660",
-      "publishedAt": "2026-07-07T13:25:00+00:00",
+      "title": "iRobot presenta il primo Roomba che non è un robot aspirapolvere",
+      "link": "https://www.hdblog.it/home/articoli/n663700/irobot-roomba-electro-plus-lava-pavimenti-manuale/",
+      "excerpt": "Si chiama Roomba Electro Plus, ed è una lavapavimenti manuale stile Dreame / Roborock. Con qualche feature particolarmente avanzata.",
+      "image": "https://hd2.tudocdn.net/1355356?w=660",
+      "publishedAt": "2026-07-07T17:10:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "iPhone Air è in offerta a 779€: a questo prezzo batte iPhone 17?",
-      "link": "https://www.hdblog.it/smartphone/offerte/n663662/iphone-air-256-gb-offerta-779-euro-luglio-2026/",
-      "excerpt": "iPhone Air cala di prezzo con la versione da 256 GB che diventa un best buy a 779 euro.",
-      "image": "https://hd2.tudocdn.net/1290327?w=660",
-      "publishedAt": "2026-07-07T13:15:00+00:00",
+      "title": "Robot autonomi al lavoro, l'AI riapre la partita sugli investimenti industriali",
+      "link": "https://www.tomshw.it/business/robot-autonomi-al-lavoro-lai-riapre-la-partita-sugli-investimenti-industriali",
+      "excerpt": "Per le imprese italiane che progettano, integrano o acquistano automazione per fabbriche, logistica, agricoltura e servizi, la nuova corsa ai robot autonomi non riguarda solo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99873/robot-autonomi-al-lavoro-lai-riapre-la-partita-sugli-investimenti-industriali.png",
+      "publishedAt": "2026-07-07T17:07:56+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Steam Machine, Valve spiega cosa fare in caso di LED rosso",
+      "link": "https://www.tomshw.it/videogioco/steam-machine-valve-spiega-cosa-fare-con-il-led-rosso",
+      "excerpt": "Il LED rosso sulla barra luminosa della Valve Steam Machine non significa automaticamente che l’unità sia da considerare irrecuperabile. Dopo le prime segnalazioni di mancato…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99854/X6gNxJjg3fRoV4o9wNiWFX-1797-80.png",
+      "publishedAt": "2026-07-07T17:02:51+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Austria nella top 100 mondiale con il nuovo supercomputer MUSICA",
+      "link": "https://www.hdblog.it/hardware/articoli/n663569/musica-supercomputer-austria-nvidia-h100/",
+      "excerpt": "MUSICA porta l’Austria tra i leader mondiali del supercalcolo.",
+      "image": "https://hd2.tudocdn.net/1354978?w=660",
+      "publishedAt": "2026-07-07T16:55:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Sconfiggi il caldo del 2026! Il kit indispensabile per stare al fresco in estate",
-      "link": "https://www.tomshw.it/altro/sconfiggi-il-caldo-del-2026-il-kit-indispensabile-per-stare-al-fresco-in-estate",
-      "excerpt": "L'estate 2026 si preannuncia ancora una volta caratterizzata da temperature elevate, giornate afose e notti difficili da affrontare senza un minimo di refrigerio. Quando il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99821/Sconfiggi-il-caldo-del-2026!-Il-kit-indispensabile-per-stare-al-fresco-in-estate.png",
-      "publishedAt": "2026-07-07T13:14:59+00:00",
+      "title": "Apple Creator Studio chiede all'utente l'autorizzazione per le funzioni AI",
+      "link": "https://www.hdblog.it/apple/articoli/n663698/apple-creator-studio-prompt-ai-privacy-google/",
+      "excerpt": "Un prompt chiede conferma all'utente prima di inviare dati ai server di Google.",
+      "image": "https://hd2.tudocdn.net/1352770?w=660",
+      "publishedAt": "2026-07-07T16:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "ANC adattivo e LDAC a 88,99€: Soundcore Q45 al -41% su Amazon",
+      "link": "https://www.tomshw.it/offerte/anc-adattivo-e-ldac-a-8899eur-soundcore-q45-al-41-su-amazon",
+      "excerpt": "Soundcore by Anker Space Q45 a 88,99€ su Amazon: le cuffie Bluetooth con cancellazione attiva del rumore scendono dai 149,99€ di listino con uno sconto del 41%. Il richiamo qui è…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99867/tomshw-offer-565642.png",
+      "publishedAt": "2026-07-07T16:32:31+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Gigabyte rende i laptop EAGLE più accessibili",
-      "link": "https://www.tomshw.it/hardware/gigabyte-rende-i-laptop-eagle-piu-accessibili-con-geforce",
-      "excerpt": "Gigabyte ha inserito nei propri listini taiwanesi una nuova serie di notebook EAGLE GL6J, puntando su GPU GeForce di precedente generazione per costruire una proposta più…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99822/gigabyte-rende-i-laptop-eagle-piu-accessibili-con-geforce.png",
-      "publishedAt": "2026-07-07T13:14:47+00:00",
+      "title": "Successo per il test del ramjet a combustibile solido di L3Harris",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663679/l3harris-test-ramjet-combustibile-solido/",
+      "excerpt": "L3Harris completa un test chiave del ramjet a combustibile solido per futuri sistemi missilistici.",
+      "image": "https://hd2.tudocdn.net/1355273?w=660",
+      "publishedAt": "2026-07-07T16:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "iPhone 18 Pro rischia di essere più spesso e pesante del previsto",
+      "link": "https://www.tomshw.it/smartphone/iphone-18-pro-rischia-di-essere-piu-spesso-e-pesante-del-previsto",
+      "excerpt": "Il presunto iPhone 18 Pro mostrato in un video di drop test circolato a fine giugno avrebbe un profilo più massiccio del previsto. La stima che lo avvicina agli 11 mm di spessore…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99865/news-flash-565611.png",
+      "publishedAt": "2026-07-07T16:15:03+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "GeForce RTX 5080 SUPER avvistata sul sito di Seasonic: questa volta ci siamo?",
+      "link": "https://www.hdblog.it/hardware/articoli/n663695/nvidia-geforce-rtx-5080-super-avvistata-seasonic/",
+      "excerpt": "Alcune specifiche sono allineate ai leak degli scorsi mesi.",
+      "image": "https://hd2.tudocdn.net/1230915?w=660",
+      "publishedAt": "2026-07-07T16:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple Watch polverizza la concorrenza degli smartwatch con Edge AI nel Q1 2026",
+      "link": "https://www.hdblog.it/indossabili/articoli/n663646/apple-watch-edge-ai-vendite/",
+      "excerpt": "Apple Watch rappresenta la quasi totalità delle vendite di smartwatch con Edge AI ad inizio 2026.",
+      "image": "https://hd2.tudocdn.net/1355172?w=660",
+      "publishedAt": "2026-07-07T16:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "iPhone 18 Pro potrebbe essere un bel mattoncino: sfiorerà gli 11 mm di spessore?",
+      "link": "https://www.hdblog.it/smartphone/articoli/n663694/iphone-18-pro-spessore-11-mm/",
+      "excerpt": "Colpa del nuovo modulo fotografico a diaframma variabile.",
+      "image": "https://hd2.tudocdn.net/1353715?w=660",
+      "publishedAt": "2026-07-07T16:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple cambia Siri, in iOS 27 potrà risponderti in modo diverso",
+      "link": "https://www.tomshw.it/smartphone/apple-cambia-siri-in-ios-27-potra-risponderti-in-modo-diverso",
+      "excerpt": "Siri può già parlare in modo molto diverso nella beta 3 di iOS 27: dai test emergono nuovi controlli per regolare la velocità della voce e il livello di espressività dell'a...",
+      "image": "https://cdn.tomshw.it/storage/media/2025/10/74310/vietare-lai-ai-teen-colpisce-anche-siri-2025-10-29-HmqJPAgsbdne4e425jdbyNpgAZ.png",
+      "publishedAt": "2026-07-07T15:51:49+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Un materiale quantistico sembra nascondere un gravitone raro",
+      "link": "https://www.tomshw.it/scienze/un-materiale-quantistico-sembra-nascondere-un-gravitone-raro",
+      "excerpt": "Un gruppo guidato dalla Nanjing University ha trovato nuove tracce sperimentali di un oggetto quantistico molto difficile da vedere: un gravitone chirale dentro un materiale. Il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99849/un-materiale-quantistico-sembra-nascondere-un-gravitone-raro.png",
+      "publishedAt": "2026-07-07T15:27:15+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Dashcam in offerta su Amazon a meno di 42 euro: doppia telecamera e microSD da 64 GB inclusa. Scopri ora il modello",
+      "link": "https://images.dday.it/0szzzdJ_WVH4LkPuvOJda9YCWRQwOL5BfP05z_h80CQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57981/a49233_71pifQo2OBL._AC_SL1500_.jpg",
+      "excerpt": "La dashcam Miden permette di registrare ogni dettaglio grazie alla doppia telecamera con risoluzione 4K anteriore e 1K UHD posteriore, completa la dotazione il sensore Sony…",
+      "image": "https://images.dday.it/0szzzdJ_WVH4LkPuvOJda9YCWRQwOL5BfP05z_h80CQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57981/a49233_71pifQo2OBL._AC_SL1500_.jpg",
+      "publishedAt": "2026-07-07T15:07:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "MayDay Iliad. Levi: \"Non siamo ancora pronti con le eSIM per Apple Watch, ma ci stiamo lavorando\"",
+      "link": "https://images.dday.it/jZmQ7pb3MOMTr3eAF7cxWgEoDv1tV-BIWhKID_yknfc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57982/41e9de_iliad_thumb.jpg",
+      "excerpt": "Benedetto Levi, amministratore delegato di Iliad, risponde personalmente a una domanda che un nostro lettore ha inviato in redazione. E che noi abbiamo portato in conferenza…",
+      "image": "https://images.dday.it/jZmQ7pb3MOMTr3eAF7cxWgEoDv1tV-BIWhKID_yknfc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57982/41e9de_iliad_thumb.jpg",
+      "publishedAt": "2026-07-07T15:06:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Wall Street lancia l'allarme: la bolla AI pronta a scoppiare?",
+      "link": "https://www.tomshw.it/business/micron-e-intel-wall-street-vede-una-crepa-nel-boom-dei-chip",
+      "excerpt": "Il segnale arrivato da Samsung Electronics non è bastato a sostenere il comparto dei chip AI: a Wall Street le azioni di Micron Technology e Intel sono scese fino a circa l'8%,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99850/news-flash-565478.png",
+      "publishedAt": "2026-07-07T14:50:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Chat Control, il Consiglio UE rimette ai voti la deroga su ePrivacy già bocciata due volte",
+      "link": "https://images.dday.it/CzovZVFEG4hRlQKPmZURvxQWJah0lyB1AKkkF3Mc7mM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57979/5f41a4_Depositphotos_287876874_XL.jpg",
+      "excerpt": "Il Parlamento europeo aveva già detto due volte no alla scansione volontaria dei messaggi, ma i governi hanno rimesso il testo ai voti. La decisione finale il 9 luglio... Leggi…",
+      "image": "https://images.dday.it/CzovZVFEG4hRlQKPmZURvxQWJah0lyB1AKkkF3Mc7mM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57979/5f41a4_Depositphotos_287876874_XL.jpg",
+      "publishedAt": "2026-07-07T14:26:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "La batteria vive più a lungo alla giusta pressione. Lo studio di Cambridge",
@@ -122,24 +203,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Un sistema di accumulo esplode in Germania, feriti tre pompieri",
-      "link": "https://www.tomshw.it/altro/un-sistema-di-accumulo-esplode-in-germania-feriti-tre-pompieri",
-      "excerpt": "Un sistema di accumulo a batteria installato in una proprietà residenziale vicino a Rostock, in Germania, è esploso durante le operazioni di spegnimento di un incendio, ferendo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99820/un-sistema-di-accumulo-esplode-in-germania-feriti-tre-pompieri.png",
-      "publishedAt": "2026-07-07T13:06:51+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Iliad lancia TOP 30 MONDO: 300 GB in Italia e 30 GB in roaming extra UE a 12,99 euro",
-      "link": "https://www.hdblog.it/mobile/articoli/n663632/offerta-iliad-top-30-mondo-30-gb-roaming-1299-euro/",
-      "excerpt": "ILIAD lancia una nuova tariffa detta TOP 30 MONDO che include 30 GB di traffico dati in roaming extra UE, perfetta per viaggiare e per usare lo smartphone all'estero",
-      "image": "https://hd2.tudocdn.net/1355208?w=660",
-      "publishedAt": "2026-07-07T13:01:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Iliad spazza via gli extra costi roaming e le eSIM da viaggio: 30 giga in 110 paesi a 12,99 euro (oltre a 300 GB in Italia)",
       "link": "https://images.dday.it/O5pzw21eESBRRyPqq40ZMCaewxhtZUIxDpf-b380TtU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57977/fe6d23_DSC00004.jpg",
       "excerpt": "Arriva (per un periodo limitato) la possibilità di sottoscrivere Top 30, la tariffa che protegge l'utente contro il roaming ammazza-bollette.... Leggi tutto",
@@ -149,15 +212,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "HBO Max aumenta il piano Base con pubblicità: ora si parte da 6,99 euro",
-      "link": "https://www.hdblog.it/benchmark/articoli/n663661/hbo-max-aumenta-piano-base/",
-      "excerpt": "Gli altri due piani, almeno per ora, restano fermi",
-      "image": "https://hd2.tudocdn.net/1355227?w=660",
-      "publishedAt": "2026-07-07T12:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Satispay era nata per i pagamenti digitali senza carta e commissioni: ora lancia tre carte di debito",
       "link": "https://images.dday.it/bTBdYQn6Q_ZtZokmpvO_fONIUnwHWNxqAsrEHe2gFfw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57976/034c70_Satispay_banking_070726.jpg",
       "excerpt": "Dopo l’IBAN, i buoni pasto, il salvadanaio renumerato e i fondi di investimento, ora Satispay lancia anche le carte di debito, di cui agli esordi l’app voleva essere…",
@@ -165,42 +219,6 @@
       "publishedAt": "2026-07-07T12:50:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "I Google Pixel alzano la voce: c'è un bug che porta il volume alle stelle",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663651/google-pixel-ok-bug-volume-massimo-bug-cuffie/",
-      "excerpt": "\"Ok Google\", e il volume delle cuffie per un attimo va al massimo. Se avete uno smartphone Pixel, potreste essere tra quegli utenti che hanno riscontrato questo fastidioso bug.…",
-      "image": "https://hd2.tudocdn.net/1328471?w=660",
-      "publishedAt": "2026-07-07T12:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Galaxy Z Fold 8 avrà Snapdragon 8 Elite for Galaxy: il teaser di Samsung lo conferma",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663658/galaxy-z-fold-8-snapdragon-8-elite/",
-      "excerpt": "Samsung ha pubblicato un altro breve video dedicato al prossimo Galaxy Z Fold 8",
-      "image": "https://hd2.tudocdn.net/1355219?w=660",
-      "publishedAt": "2026-07-07T12:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Class action olandese contro Sony per monopolio del PlayStation Store",
-      "link": "https://www.hdblog.it/sony/articoli/n663637/sony-playstation-class-action-olanda-monopolio/",
-      "excerpt": "Le dichiarazioni dell'associazione non-profit che porta avanti la class action sulla decisione di abbandonare il supporto fisico.",
-      "image": "https://hd2.tudocdn.net/1355151?w=660",
-      "publishedAt": "2026-07-07T12:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Attack on Titan 3: il gameplay promette grandi sorprese",
-      "link": "https://www.tomshw.it/videogioco/attack-on-titan-3-a-o-t-3-il-gameplay-non-sembra",
-      "excerpt": "Quasi un'ora di gameplay mette finalmente a fuoco la struttura di Attack on Titan 3 - A.O.T.3: combattimenti ad alta mobilità, abbattimenti dei Titani, crescita del personaggio e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99811/cMjsJLj7qm2UbTxYevSSZM-1920-80.jpg",
-      "publishedAt": "2026-07-07T12:30:05+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Offerta soundbar Samsung HW-S800D/ZF Serie S: disponibile a soli 199,90 €",
@@ -239,38 +257,20 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Anthropic scopre in Claude uno \"spazio di lavoro mentale\" simile a quello della coscienza umana",
-      "link": "https://images.dday.it/gyMg0oUjjubDBTlNT3dk3lyCNSDMRzMknnLPJMpi6PU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57971/36222d_small_ChatGPT_Image_7_lug_2026__11_32_49_copia.png",
-      "excerpt": "Il J-space contiene i concetti che il modello pensa senza scriverli. Dehaene, tra i padri della teoria del workspace globale, parla di pietra miliare. Google DeepMind ha replicato…",
-      "image": "https://images.dday.it/gyMg0oUjjubDBTlNT3dk3lyCNSDMRzMknnLPJMpi6PU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57971/36222d_small_ChatGPT_Image_7_lug_2026__11_32_49_copia.png",
-      "publishedAt": "2026-07-07T09:34:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "THEC64 Mini in offerta su Amazon: rivivi la magia del Commodore 64",
-      "link": "https://images.dday.it/VJyQaJXeQvrblhUgrPPC2fOiT-BUT1gZ-nmCxvB3_uU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57970/b0f78c_ape2.jpg",
-      "excerpt": "Scopri THEC64 Mini Black, una rivisitazione moderna del classico computer degli anni '80, ora disponibile a un prezzo scontato su Amazon... Leggi tutto",
-      "image": "https://images.dday.it/VJyQaJXeQvrblhUgrPPC2fOiT-BUT1gZ-nmCxvB3_uU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57970/b0f78c_ape2.jpg",
-      "publishedAt": "2026-07-07T09:07:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Questa è la prima immagine della “quasi luna” della Terra 469219 Kamoʻoalewa",
-      "link": "https://images.dday.it/yZzvGaeFWe6KkPyAiDVzHimJVM6wBHoVZYvS3Ptn-P0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57969/f441ce_10760429.jpg",
-      "excerpt": "La sonda cinese sta completando l’avvicinamento al misterioso quasi satellite terrestre 469219 Kamoʻoalewa. Ne preleverà dei campioni e li consegnerà sulla Terra per permettere di…",
-      "image": "https://images.dday.it/yZzvGaeFWe6KkPyAiDVzHimJVM6wBHoVZYvS3Ptn-P0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57969/f441ce_10760429.jpg",
-      "publishedAt": "2026-07-07T09:06:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Gli agenti AI succhiano energia, altro che chatbot qualunque",
-      "link": "https://www.tomshw.it/business/gli-agenti-ai-succhiano-energia-altro-che-chatbot-qualunque",
-      "excerpt": "Un team della KAIST ha analizzato, in quella che gli autori descrivono come la prima misurazione sistematica del genere, quanto costa in energia far ragionare un agente AI invece…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99770/06-costo-energetico-agenti-ai-cover.jpg",
+      "title": "Foxconn, fatturato +40%, la fame di GPU non rallenterà",
+      "link": "https://www.tomshw.it/business/foxconn-fatturato-40-la-fame-di-gpu-non-rallentera",
+      "excerpt": "Foxconn ha chiuso il secondo trimestre 2026 con ricavi Q2 2026 di Foxconn pari a NT$2.513 trilioni, circa 78,71 miliardi di dollari, in crescita del 39,8% anno su anno. Il dato ha…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99772/08-foxconn-ricavi-domanda-ai-cover.jpg",
       "publishedAt": "2026-07-07T08:55:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Come gestire un team distribuito senza fare micro-management",
+      "link": "https://www.tomshw.it/aioperator/gestire-team-distribuito-senza-micro-management",
+      "excerpt": "Il coinvolgimento dei manager a livello globale è crollato dal 27% al 22% tra il 2024 e il 2025, il calo più marcato mai registrato da Gallup nella serie storica dello State of…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99199/04-hr31-cover.jpg",
+      "publishedAt": "2026-07-02T10:47:08+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
