@@ -1,159 +1,204 @@
 {
-  "generatedAt": "2026-07-08T11:43:05.748432+00:00",
+  "generatedAt": "2026-07-08T13:46:29.805724+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "iPhone Ultra: nuove conferme sulla puntualità del pieghevole Apple",
+      "link": "https://www.hdblog.it/smartphone/articoli/n663786/iphone-pieghevole-ultra-no-ritardi-lancio/",
+      "excerpt": "La filiera continua a smentire le voci sui ritardi",
+      "image": "https://hd2.tudocdn.net/1311218?w=660",
+      "publishedAt": "2026-07-08T13:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Vuoi nascondere le app? Ecco come fare su Android e iPhone",
+      "link": "https://www.hdblog.it/android/articoli/n663768/nascondere-app-android-ios-iphone-come-fare/",
+      "excerpt": "Ordine e privacy garantiti.",
+      "image": "https://hd2.tudocdn.net/1355552?w=660",
+      "publishedAt": "2026-07-08T13:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "L’AI inventa repository falsi e può installare malware",
+      "link": "https://www.tomshw.it/hardware/lai-inventa-link-e-gli-hacker-ci-costruiscono-botnet",
+      "excerpt": "Un gruppo di ricercatori ha descritto HalluSquatting, una tecnica di attacco che sfrutta le allucinazioni degli strumenti di intelligenza artificiale per far scaricare codice da…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100098/l-ai-inventa-link-e-gli-hacker-ci-costruiscono-botnet.png",
+      "publishedAt": "2026-07-08T13:37:44+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Recensione Hollyland MELO P1: uno studio audio portatile per cantanti e creator",
+      "link": "https://www.hdblog.it/tv/recensioni/n663264/recensione-hollyland-melo-p1/",
+      "excerpt": "Abbiamo provato il nuovo microfono di Hollyland che offre una qualità da studio ed un buon mixer.",
+      "image": "https://hd2.tudocdn.net/1354390?w=660",
+      "publishedAt": "2026-07-08T13:31:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Quasi impossibili da trovare in Italia, ma AliExpress vende questi auricolari con coupon",
+      "link": "https://www.tomshw.it/smartphone/cuffie-open-ear-lenovo-le302-in-offerta-64-2026-07-08",
+      "excerpt": "Su AliExpress sono disponibili le Cuffie Wireless Open-Ear Lenovo LE302 OWS, perfette per lo sport grazie al design con clip auricolare. Offrono connettività Bluetooth a bassa…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100097/cuffie-open-ear-lenovo-le302-in-offerta-64-2026-07-08-V8clguUqp5dhf1n09bi1udDio0.jpg",
+      "publishedAt": "2026-07-08T13:19:28+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "DLSS Swapper è sicuro, ma alcune DLL nascondono malware",
+      "link": "https://www.tomshw.it/hardware/dlss-swapper-e-sicuro-ma-alcune-dll-nascondono-malware",
+      "excerpt": "Il developer di DLSS Swapper ha avvisato gli utenti di non scaricare file casuali dai repository collegati al progetto, dopo che una DLL caricata di recente è risultata contenere…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100085/dlss-swapper-e-sicuro-ma-alcune-dll-nascondono-malware.png",
+      "publishedAt": "2026-07-08T13:18:16+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Gli smartphone frenano in Cina e Apple può approfittarne",
+      "link": "https://www.tomshw.it/smartphone/gli-smartphone-frenano-in-cina-e-apple-puo-approfittarne",
+      "excerpt": "Il mercato smartphone in Cina ha registrato un calo del 13% su base annua durante il 618 Shopping Festival, una delle finestre commerciali più osservate del settore. Il dato pesa…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100082/gli-smartphone-frenano-in-cina-e-apple-puo-approfittarne.png",
+      "publishedAt": "2026-07-08T13:16:54+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Lo storage AI diventa elastico: flexFS punta a ridurre i costi",
+      "link": "https://www.tomshw.it/hardware/paradigm4-punta-su-flexfs-per-semplificare-lo-storage-ai",
+      "excerpt": "Paradigm4 ha presentato flexFS, un file system parallelo object-native pensato per ridurre la complessità dello storage nei progetti enterprise legati ad AI, machine learning e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100080/paradigm4-punta-su-flexfs-per-semplificare-lo-storage-ai.png",
+      "publishedAt": "2026-07-08T13:14:43+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "MacBook Pro con M5 Pro è ora in offerta su Amazon",
+      "link": "https://images.dday.it/3buLFS3gkEzxoG4WM6PiNuZsHAusrCxBAdBjcugUha4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57990/79f221_81jPa-iNdUL._AC_SL1500_.jpg",
+      "excerpt": "Grande occasione per acquistare MacBook Pro con chip M5 Pro, AI e display Liquid Retina XDR a un prezzo ridotto... Leggi tutto",
+      "image": "https://images.dday.it/3buLFS3gkEzxoG4WM6PiNuZsHAusrCxBAdBjcugUha4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57990/79f221_81jPa-iNdUL._AC_SL1500_.jpg",
+      "publishedAt": "2026-07-08T13:12:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Smart glasses più controllati, la privacy diventa un costo operativo per aziende e PA",
+      "link": "https://www.tomshw.it/business/smart-glasses-piu-controllati-la-privacy-diventa-un-costo-operativo-per-aziende-e-pa",
+      "excerpt": "Meta sta distribuendo un aggiornamento per i suoi smart glasses che disattiverà la fotocamera quando il dispositivo rileverà una manomissione o la distruzione del LED privacy,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100011/smart-glasses-piu-controllati-la-privacy-diventa-un-costo-operativo-per-aziende-e-pa.png",
+      "publishedAt": "2026-07-08T13:10:32+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Nessuna Red Line of Death per Steam Machine: era un bug minore",
+      "link": "https://www.hdblog.it/games/articoli/n663782/valve-steam-machine-no-red-line-of-death/",
+      "excerpt": "Si pensava fosse il primo caso di hardware compromesso, invece era un errore più banale",
+      "image": "https://hd2.tudocdn.net/1355518?w=660",
+      "publishedAt": "2026-07-08T13:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Dalle battaglie d'acqua ai cinema all'aperto: 8 follie tech da comprare subito su AliExpress",
+      "link": "https://www.tomshw.it/altro/dalle-battaglie-dacqua-ai-cinema-allaperto-8-follie-tech-da-comprare-subito-su-aliexpress",
+      "excerpt": "L’estate non è più solo sinonimo di sole, mare e relax, ma è diventata il palcoscenico ideale per sperimentare e divertirsi con le ultime novità tecnologiche. Che vi...",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100081/Dalle-battaglie-d'acqua-ai-cinema-all'aperto-8-follie-tech-da-comprare-subito-su-AliExpress.jpg",
+      "publishedAt": "2026-07-08T13:05:25+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Ariel Rider MUDD 72V esagera, questa e-bike sembra una moto",
+      "link": "https://www.tomshw.it/automotive/ariel-rider-mudd-72v-esagera-questa-e-bike-sembra-una-moto",
+      "excerpt": "Ariel Rider MUDD 72V è il nuovo due ruote elettrico ad alte prestazioni dell'azienda americana, ora disponibile in preordine, e spinge il concetto di e-bike ben oltre i confini…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100079/ariel-rider-mudd-72v-esagera-questa-e-bike-sembra-una-moto.png",
+      "publishedAt": "2026-07-08T13:02:25+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Negli USA i data center AI gonfiano le bollette industriali, l'Europa è avvisata",
+      "link": "https://www.tomshw.it/business/negli-usa-i-data-center-ai-gonfiano-le-bollette-industriali-leuropa-e-avvisata",
+      "excerpt": "Negli Stati Uniti la crescita dei data center per l'AI sta arrivando direttamente nelle bollette industriali: secondo la ricostruzione pubblicata da Ars Technica, molte fabbriche…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100052/negli-usa-i-data-center-ai-gonfiano-le-bollette-industriali-leuropa-e-avvisata.png",
+      "publishedAt": "2026-07-08T12:40:39+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il browser di DuckDuckGo ora blocca le pubblicità di YouTube",
+      "link": "https://images.dday.it/0s05u4CKd-KOkt4tzKMfetNGVKryQ_ib33TcumruriU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57993/9eabac_Screenshot_2026-07-08_alle_14.37.24.png",
+      "excerpt": "La funzione, basata sui filtri di uBlock Origin, è attiva di default su iPhone, Windows e Mac. Su Android va abilitata dalle impostazioni... Leggi tutto",
+      "image": "https://images.dday.it/0s05u4CKd-KOkt4tzKMfetNGVKryQ_ib33TcumruriU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57993/9eabac_Screenshot_2026-07-08_alle_14.37.24.png",
+      "publishedAt": "2026-07-08T12:40:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Nubia porterà sul mercato il primo smartphone basato su un agente AI",
+      "link": "https://www.hdblog.it/smartphone/articoli/n663772/nubia-primo-smartphone-agente-ai/",
+      "excerpt": "Il primo smartphone con agente AI di nubia promette di eseguire attività complesse passando da un'app all'altra: a breve l'annuncio.",
+      "image": "https://hd2.tudocdn.net/1355506?w=660",
+      "publishedAt": "2026-07-08T12:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple e Broadcom, accordo da 30 miliardi per produrre chip wireless negli Stati Uniti",
+      "link": "https://www.hdblog.it/hardware/articoli/n663778/apple-accordo-30-miliardi-broadcom-chip-wireless/",
+      "excerpt": "Apple sosta un altro pezzo della sua filiera negli Stati Uniti",
+      "image": "https://hd2.tudocdn.net/1355513?w=660",
+      "publishedAt": "2026-07-08T12:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "MacBook Pro M5, TV LG da 83'' e robot: le migliori offerte tech di oggi",
+      "link": "https://www.hdblog.it/amazon/offerte/n663775/offerte-tech-8-luglio-2026-amazon-unieuro-/",
+      "excerpt": "Amazon e Unieuro protagonisti con sconti su MacBook Pro M5, TV LG OLED e MiniLED, notebook gaming, cuffie Sennheiser e robot aspirapolvere di fascia alta.",
+      "image": "https://hd2.tudocdn.net/1355511?w=660",
+      "publishedAt": "2026-07-08T12:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Casio, il design analogico digitale anni 80 torna con i nuovi A130WE",
+      "link": "https://www.hdblog.it/indossabili/articoli/n663773/nuovi-casio-vintage-a130we-prezzo/",
+      "excerpt": "Casio punta sul fascino retrò degli anni ’80 con due orologi da 54 grammi e display ricco di informazioni. Non ci sono ancora indicazioni su una possibile vendita in Europa",
+      "image": "https://hd2.tudocdn.net/1355507?w=660",
+      "publishedAt": "2026-07-08T12:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il Tribunale UE respinge i ricorsi di Apple: App Store e iOS restano gatekeeper ai sensi del DMA",
+      "link": "https://images.dday.it/23Sp8FxW6cddxwXnSzlyKO3kMVbx74iie8vYJ31NKs4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57992/f6fb9a_Depositphotos_582540132_XL.jpg",
+      "excerpt": "I giudici hanno confermato che i cinque App Store formano un unico servizio di piattaforma e dichiarato inammissibili i ricorsi su iMessage. Ma Apple può ancora impugnare davanti…",
+      "image": "https://images.dday.it/23Sp8FxW6cddxwXnSzlyKO3kMVbx74iie8vYJ31NKs4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57992/f6fb9a_Depositphotos_582540132_XL.jpg",
+      "publishedAt": "2026-07-08T12:08:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Vivo T5 Lite si avvicina: batteria e velocità di ricarica confermate",
+      "link": "https://www.hdblog.it/smartphone/articoli/n663770/vivo-t5-lite-5g-batteria-6500-mah-specifiche-lanci/",
+      "excerpt": "Punta forte sull'autonomia.",
+      "image": "https://hd2.tudocdn.net/1109315?w=660",
+      "publishedAt": "2026-07-08T11:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Amazon Dona, oltre 600 mila prodotti salvati dallo spreco e donati alle famiglie",
       "link": "https://www.hdblog.it/amazon/articoli/n663767/amazon-dona-600-prodotti-recuperati/",
       "excerpt": "Il programma ha già permesso di donare in Italia oltre 600 mila prodotti",
       "image": "https://hd2.tudocdn.net/1355503?w=660",
       "publishedAt": "2026-07-08T11:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Motorola Moto G77 Power è ufficiale: microSD e jack resistono nella fascia media",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663771/motorola-moto-g77-power-specifiche-prezzo/",
-      "excerpt": "Il nuovo Moto G77 Power punta su funzioni sempre meno comuni nella fascia media: jack audio da 3,5 mm e slot microSD. Motorola propone anche tre colorazioni Pantone",
-      "image": "https://hd2.tudocdn.net/1355501?w=660",
-      "publishedAt": "2026-07-08T11:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "L'Europa rincorre le rinnovabili, ma reti e batterie frenano",
-      "link": "https://www.tomshw.it/altro/leuropa-rincorre-le-rinnovabili-ma-reti-e-batterie-frenano",
-      "excerpt": "La corsa europea alle energie rinnovabili sta procedendo a due velocità: solare ed eolico hanno raggiunto il 30% della generazione elettrica dell'UE nel 2025, ma reti, accumuli e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100051/l-europa-rincorre-le-rinnovabili-ma-reti-e-batterie-frenano.png",
-      "publishedAt": "2026-07-08T11:26:42+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Apple ha chiesto la sospensione del caso Epic sulle commissioni",
-      "link": "https://www.hdblog.it/apple/articoli/n663763/apple-caso-epic-sospensione/",
-      "excerpt": "Dopo le indiscrezioni, Apple chiede al tribunale federale della California di sospendere il procedimento che la vede contrapposta a Epic Games, in attesa della decisione della…",
-      "image": "https://hd2.tudocdn.net/1355487?w=660",
-      "publishedAt": "2026-07-08T11:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Ultimo giro per Mario Kart Tour, poi ai box dal 30 settembre: la chiusura è ufficiale",
-      "link": "https://www.hdblog.it/nintendo/articoli/n663766/mario-kart-tour-chiusura-definitiva/",
-      "excerpt": "Il gioco non riceveva più nuovi contenuti dal 2023",
-      "image": "https://hd2.tudocdn.net/874021?w=660",
-      "publishedAt": "2026-07-08T11:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "New Horizons torna operativa dopo 321 giorni di ibernazione",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n663752/new-horizons-risveglio-ibernazione-2026/",
-      "excerpt": "New Horizons torna attiva dopo 321 giorni e invierà nuovi dati dalla Fascia di Kuiper.",
-      "image": "https://hd2.tudocdn.net/1355455?w=660",
-      "publishedAt": "2026-07-08T11:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Seasonic si lascia sfuggire le schede RTX 50 Super",
-      "link": "https://www.tomshw.it/hardware/seasonic-si-lascia-sfuggire-le-schede-rtx-50-super",
-      "excerpt": "Seasonic ha inserito nel proprio calcolatore per alimentatori tre schede video GeForce non ancora annunciate, offrendo un primo indizio concreto sulla possibile gamma Super della…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100047/seasonic-si-lascia-sfuggire-le-schede-rtx-50-super.png",
-      "publishedAt": "2026-07-08T11:10:32+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Tesla FSD, cosa succede se il guidatore smette di controllare?",
-      "link": "https://www.tomshw.it/automotive/tesla-fsd-sotto-accusa-per-un-guidatore-addormentato",
-      "excerpt": "Un video virale ha riacceso le polemiche su Tesla FSD: una Tesla è stata ripresa mentre viaggiava su un’autostrada del Canada con il conducente apparentemente addormentato al…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100046/tesla-fsd-sotto-accusa-per-un-guidatore-addormentato.png",
-      "publishedAt": "2026-07-08T11:09:47+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "La scheda MSI per fan di Frieren arriva con un prezzo pesante",
-      "link": "https://www.tomshw.it/hardware/la-scheda-msi-per-fan-di-frieren-arriva-con-un-prezzo-pesante",
-      "excerpt": "MSI ha portato sul mercato la GeForce RTX 5070 Ti Frieren Edition, una scheda video speciale pensata per chi vuole costruire una configurazione da gaming a tema Frieren. Il punto…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100037/la-scheda-msi-per-fan-di-frieren-arriva-con-un-prezzo-pesante.png",
-      "publishedAt": "2026-07-08T11:07:03+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "WhatsApp testa su iPhone i contatti online in evidenza",
-      "link": "https://www.tomshw.it/smartphone/whatsapp-testa-su-iphone-i-contatti-online-in-evidenza",
-      "excerpt": "WhatsApp sta testando su iPhone un indicatore visivo per capire più rapidamente quando un contatto è online. La novità compare nella versione beta per iOS distribuita tramite…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100034/whatsapp-testa-su-iphone-i-contatti-online-in-evidenza.png",
-      "publishedAt": "2026-07-08T11:06:17+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Un cristallo da tenere in mano nasconde un segreto quantistico",
-      "link": "https://www.tomshw.it/scienze/un-cristallo-da-tenere-in-mano-nasconde-un-segreto-quantistico",
-      "excerpt": "Un gruppo di ricercatori della TU Wien ha trovato un segnale quantistico in un oggetto abbastanza grande da stare nel palmo di una mano. Non si tratta di un singolo atomo isolato,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100029/un-cristallo-da-tenere-in-mano-nasconde-un-segreto-quantistico.png",
-      "publishedAt": "2026-07-08T11:05:13+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Notion lancia Agents su iOS, la nuova app per chattare con le AI",
-      "link": "https://www.hdblog.it/apple/articoli/n663754/notion-agents-app-ios-come-funziona/",
-      "excerpt": "Ecco come funziona la nuova app di Notion, per ora solo su iOS",
-      "image": "https://hd2.tudocdn.net/1355470?w=660",
-      "publishedAt": "2026-07-08T11:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Bitluni, la GPU fai-da-te ha un microcontroller per ogni pixel",
-      "link": "https://www.tomshw.it/hardware/bitluni-la-gpu-fai-da-te-ha-un-microcontroller-per-ogni-pixel",
-      "excerpt": "Una scheda grafica artigianale con un microcontroller per ogni pixel non è più soltanto un esperimento teorico: Bitluni, nome online di Matthias Balwierz, ha iniziato a costruire…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100041/maxresdefault-2.jpg",
-      "publishedAt": "2026-07-08T10:55:05+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Con il grande caldo aumentano le truffe online su condizionatori e affini",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n663761/truffe-condizionatori-europa-ondata-caldo/",
-      "excerpt": "I ricercatori di Kaspersky invitano alla massima prudenza quando si fa shopping online. Il senso di urgenza può risultare fatale.",
-      "image": "https://hd2.tudocdn.net/1354841?w=660",
-      "publishedAt": "2026-07-08T10:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Organic Maps supera 6 milioni di download: l'alternativa a Google va anche offline",
-      "link": "https://www.hdblog.it/google/articoli/n663749/google-maps-organic-mappe-offline/",
-      "excerpt": "Organic Maps offre mappe gratuite e tutela della privacy.",
-      "image": "https://hd2.tudocdn.net/1355481?w=660",
-      "publishedAt": "2026-07-08T10:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Asteroidi puntano la Terra? Dalla Cina il piano più efficace con armi nucleari",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n663691/cina-difesa-asteroidi-testata-nucleare/",
-      "excerpt": "Uno studio cinese indica la strategia più efficace contro grandi asteroidi.",
-      "image": "https://hd2.tudocdn.net/1355329?w=660",
-      "publishedAt": "2026-07-08T10:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Wimbledon, un lettino da 150mila euro è il segreto per recuperare le fatiche?",
-      "link": "https://www.hdblog.it/curiosita/articoli/n663759/wimbledon-lettino-recupero-tennisti-150mila-euro/",
-      "excerpt": "Wimbledon ha inaugurato una nuova recovery suite per i tennisti con Ammortal Chamber, un lettino da 150mila euro che combina idrogeno inalato, luce, suoni e campi elettromagnetici",
-      "image": "https://hd2.tudocdn.net/1355471?w=660",
-      "publishedAt": "2026-07-08T10:15:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -165,15 +210,6 @@
       "publishedAt": "2026-07-08T10:07:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "La deriva ha un calendario: come si costruisce la sorveglianza in Europa, un tassello alla volta",
-      "link": "https://www.tomshw.it/business/la-deriva-ha-un-calendario-sorveglianza-ue-signal-pirate",
-      "excerpt": "A luglio 2026 il Parlamento europeo ha rimesso in agenda la scansione dei messaggi privati che a marzo aveva bocciato per un solo voto. Non è un episodio isolato: negli ultimi…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99998/01-deriva-calendario.jpg",
-      "publishedAt": "2026-07-08T10:02:27+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "C'è un identificativo nascosto in ogni Windows: Microsoft può sapere quali siti visita il tuo PC",
@@ -230,49 +266,13 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Meta blocca i furbetti degli occhiali smart: niente videocamera se il LED è disabilitato",
-      "link": "https://images.dday.it/Ul8zHL7erPvbaWXpLOzo1UM9ne7U16drO9DuWv-g8ws/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57983/47fce3_RayBan_Valentines_b12fd2fb-3350-4347-b93a-d8662bd1574f.jpeg",
-      "excerpt": "Meta ha ora esteso il controllo: il blocco della fotocamera, già previsto quando il LED di registrazione risulta coperto sui modelli più recenti, viene applicato anche quando…",
-      "image": "https://images.dday.it/Ul8zHL7erPvbaWXpLOzo1UM9ne7U16drO9DuWv-g8ws/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57983/47fce3_RayBan_Valentines_b12fd2fb-3350-4347-b93a-d8662bd1574f.jpeg",
-      "publishedAt": "2026-07-08T07:08:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "LongCat-Next è ufficiale, Meituan alza la posta sull'AI open source",
-      "link": "https://www.tomshw.it/altro/longcat-next-e-ufficiale-meituan-alza-la-posta-sull-ai-open-source",
-      "excerpt": "LongCat-Next è un modello AI da 74 miliardi di parametri pensato per trattare testo, immagini e audio dentro un’unica architettura autoregressiva. Il Meituan LongCat Team lo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99950/news-flash-566263.png",
-      "publishedAt": "2026-07-08T06:45:06+00:00",
+      "title": "Samsung guadagna in utili nel Q2 più che negli ultimi tre anni messi insieme",
+      "link": "https://www.tomshw.it/business/samsung-guadagna-in-utili-nel-q2-piu-che-negli-ultimi-tre-anni-messi-insieme",
+      "excerpt": "Il comunicato ufficiale diffuso il 7 luglio dà una guidance per il secondo trimestre 2026 che vale la pena leggere due volte: utile operativo atteso a 89,4 trilioni di won, circa…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99966/07-samsung-fatturato-chip-cover.jpg",
+      "publishedAt": "2026-07-08T07:30:05+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori controller per Xbox (luglio 2026)",
-      "link": "https://www.tomshw.it/videogioco/miglior-controller-xbox",
-      "excerpt": "Scegliere il miglior controller Xbox non significa soltanto decidere tra il pad ufficiale Microsoft e un modello di terze parti. Oggi contano soprattutto ergonomia, compatibilità…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/90290/migliori-controller-xbox-copertina.jpg",
-      "publishedAt": "2026-07-08T06:28:30+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Segway Navimow i210 LiDAR: la morte del robot a filo",
-      "link": "https://images.dday.it/uZnMQ2E1oZPgF-5b6T-p87NoL_bWc-ToQW3JD_3TMv4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57953/7e3d65_P1233181.jpg",
-      "excerpt": "Abbiamo provato una delle versioni più complete del robot tagliarba Navimow: niente antenna esterna, niente filo perimetrale, precisione al centimetro e non sbaglia mai. Plug &…",
-      "image": "https://images.dday.it/uZnMQ2E1oZPgF-5b6T-p87NoL_bWc-ToQW3JD_3TMv4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/57953/7e3d65_P1233181.jpg",
-      "publishedAt": "2026-07-08T05:11:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Piscina pronta e giardino salvo dal caldo rovente: Aiper automatizza l’estate con i robot Scuba e IrriSense 2",
-      "link": "https://images.dday.it/5I0WAC9jchGQVsaPxzfuqajzThBlx_WoMP4KPnfBRCQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57965/76b790_ffac87_cover_Irrisense2.jpg",
-      "excerpt": "Dai robot Scuba per la pulizia della piscina a IrriSense 2 per l’irrigazione intelligente, Aiper porta automazione e tranquillità nella manutenzione estiva di casa... Leggi tutto",
-      "image": "https://images.dday.it/5I0WAC9jchGQVsaPxzfuqajzThBlx_WoMP4KPnfBRCQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57965/76b790_ffac87_cover_Irrisense2.jpg",
-      "publishedAt": "2026-07-08T01:03:05+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
     }
   ]
 }
