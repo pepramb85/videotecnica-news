@@ -1,132 +1,141 @@
 {
-  "generatedAt": "2026-07-08T15:58:02.086155+00:00",
+  "generatedAt": "2026-07-08T17:36:32.251708+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Google Pixel Watch 5, il leak sui prezzi punta a nuovi rincari",
-      "link": "https://www.tomshw.it/smartphone/google-pixel-watch-5-il-leak-sui-prezzi-punta-a-nuovi-rincari",
-      "excerpt": "Il prossimo Google Pixel Watch 5 potrebbe arrivare con un listino più alto rispetto alla generazione attuale. Un leak attribuito a Dealabs, ripreso anche nelle ricostruzioni di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100153/1334916.jpg",
-      "publishedAt": "2026-07-08T15:55:08+00:00",
+      "title": "Sui Google Pixel c'è un bug che può far sparire le registrazioni audio",
+      "link": "https://www.hdblog.it/smartphone/articoli/n663818/google-pixel-9-bug-registratore-recorder-scomparse/",
+      "excerpt": "Alcuni utenti hanno cominciato a segnalarlo.",
+      "image": "https://hd2.tudocdn.net/1322218?w=660",
+      "publishedAt": "2026-07-08T17:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Sensore quantistico con diamante: taglia fino al 30% gli sprechi energetici",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663685/sensore-quantistico-diamante-xdots/",
+      "excerpt": "Sensori quantistici al diamante e AI per ridurre fino al 30% gli sprechi energetici.",
+      "image": "https://hd2.tudocdn.net/1355301?w=660",
+      "publishedAt": "2026-07-08T17:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Kioxia è pronta a produrre i chip NAND next-gen per datacenter AI",
+      "link": "https://www.hdblog.it/hardware/articoli/n663819/kioxia-sandisk-nand-flash-bics10-ai-datacenter/",
+      "excerpt": "Nel mondo consumer si continuerà a spingere sulla BiCS9.",
+      "image": "https://hd2.tudocdn.net/1355719?w=660",
+      "publishedAt": "2026-07-08T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Thirdreality, arriva il timer smart con sensore di presenza mmWave più preciso",
+      "link": "https://www.hdblog.it/domotica/articoli/n663817/thirdreality-smart-timer-light-tl2-mmwave-presenza/",
+      "excerpt": "Il sensore di presenza mmWave funziona anche se la persona rimane ferma.",
+      "image": "https://hd2.tudocdn.net/1355716?w=660",
+      "publishedAt": "2026-07-08T17:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "CobraJet: il caccia stampato in 3D può debellare ogni tipo di drone",
+      "link": "https://www.hdblog.it/droni/articoli/n663787/cobrajet-intercettore-autonomo-droni/",
+      "excerpt": "CobraJet usa AI e intercettori guidati per contrastare sciami di droni fino a 563 km/h.",
+      "image": "https://hd2.tudocdn.net/1355550?w=660",
+      "publishedAt": "2026-07-08T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Lenovo G02, caso chiuso per la retro-console piena di giochi pirata?",
+      "link": "https://www.hdblog.it/lenovo/articoli/n663814/lenovo-g02-console-rom-pirata-caso-chiuso/",
+      "excerpt": "A quanto pare la console non è più reperibile presso nessuna grossa piattaforma internazionale come Alibaba o Aliexpress.",
+      "image": "https://hd2.tudocdn.net/1355710?w=660",
+      "publishedAt": "2026-07-08T16:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Infineon apre in Germania la più grande fabbrica di chip di potenza",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663689/infineon-smart-power-fab-dresda/",
+      "excerpt": "Infineon inaugura a Dresda la più grande fabbrica mondiale di chip di potenza.",
+      "image": "https://hd2.tudocdn.net/1355326?w=660",
+      "publishedAt": "2026-07-08T16:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "3D V-Cache per giocare: Ryzen 9 9900X3D a 495,99€",
+      "link": "https://www.tomshw.it/offerte/3d-v-cache-per-giocare-ryzen-9-9900x3d-a-49599eur",
+      "excerpt": "Ryzen 9 9900X3D a 495,99€ su Amazon: il processore AMD da listino 724,94€ scende con il 32% di sconto e un taglio di 228,95€. La parte più interessante è la presenza della…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100157/tomshw-offer-567679.png",
+      "publishedAt": "2026-07-08T16:32:41+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Crisi dei chip, Apple testa le DRAM della cinese CXMT per contenere i costi",
-      "link": "https://www.hdblog.it/hardware/articoli/n663809/apple-test-ram-cinesi-cxmt-crisi-costi/",
-      "excerpt": "Il governo USA ha già fatto capire che non vede molto di buon occhio questa iniziativa.",
-      "image": "https://hd2.tudocdn.net/1348637?w=660",
-      "publishedAt": "2026-07-08T15:55:00+00:00",
+      "title": "NBA su Prime Video: la stagione d'esordio registra un pubblico da record",
+      "link": "https://www.hdblog.it/mercato/articoli/n663712/nba-prime-video-audience-record-2026/",
+      "excerpt": "La prima stagione NBA su Prime Video registra ascolti record e crescita mondiale.",
+      "image": "https://hd2.tudocdn.net/1355433?w=660",
+      "publishedAt": "2026-07-08T16:25:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Hubble mostra uno spettacolo di stelle per i 250 anni degli USA",
-      "link": "https://www.hdblog.it/curiosita/articoli/n663690/hubble-ngc-6426-ammasso-globulare/",
-      "excerpt": "Hubble celebra il 4 luglio con l'antico ammasso globulare NGC 6426.",
-      "image": "https://hd2.tudocdn.net/1355327?w=660",
-      "publishedAt": "2026-07-08T15:50:00+00:00",
+      "title": "Huawei Pura 90s Pro e Pro Max sono coloratissimi e in arrivo sul mercato globale",
+      "link": "https://www.hdblog.it/huawei/articoli/n663801/huawei-pura-90s-pro-max-lancio-globale-colori/",
+      "excerpt": "Huawei ha scelto di aggiungere una \"s\" rispetto alle varianti cinesi.",
+      "image": "https://hd2.tudocdn.net/1355685?w=660",
+      "publishedAt": "2026-07-08T16:15:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Mortal Shell II ha una data d'uscita ufficiale, ecco quando si gioca",
-      "link": "https://www.tomshw.it/videogioco/mortal-shell-ii-ha-una-data-d-uscita-ufficiale-ecco-quando-si",
-      "excerpt": "Mortal Shell II arriverà il 20 agosto 2026 su PC via Steam, PlayStation 5 e Xbox Series X/S. Playstack e Cold Symmetry hanno aggiornato la campagna del sequel con un nuovo trailer…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100142/large_1pm3-1200.webp",
-      "publishedAt": "2026-07-08T15:48:27+00:00",
+      "title": "Samsung Galaxy M67 sta arrivando ed avrà un chip Exynos da top di gamma",
+      "link": "https://www.hdblog.it/smartphone/articoli/n663769/samsung-galaxy-m67-chip-rumor/",
+      "excerpt": "Samsung sta testando il probabile nuovo Galaxy M67 dotato del processore Exynos 2200 e con Android 17.",
+      "image": "https://hd2.tudocdn.net/1355493?w=660",
+      "publishedAt": "2026-07-08T16:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "MARVEL Tōkon: Fighting Souls, su Steam torna il nodo PlayStation",
+      "link": "https://www.tomshw.it/videogioco/marvel-tokon-fighting-souls-su-steam-torna-il-nodo-playstation",
+      "excerpt": "MARVEL Tōkon: Fighting Souls risulta escluso dall'acquisto o dall'attivazione in 132 paesi su Steam, almeno stando ai pacchetti registrati da SteamDB. Il dato riguarda la versione…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100151/Marvel-Tokon-Fighting-Souls-1600x762.png",
+      "publishedAt": "2026-07-08T15:51:37+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Terre rare: Canada e Giappone sfidano la Cina con un maxi accordo",
-      "link": "https://www.hdblog.it/mercato/articoli/n663684/canada-giappone-terre-rare-cina/",
-      "excerpt": "Canada e Giappone collaborano sui minerali critici per ridurre la dipendenza dalla Cina.",
-      "image": "https://hd2.tudocdn.net/1355290?w=660",
-      "publishedAt": "2026-07-08T15:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Più alberi, meno asfalto: il modello Parma per città più fresche e vivibili",
-      "link": "https://www.hdblog.it/green/articoli/n663799/isole-calore-parma-asfalto-alberi/",
-      "excerpt": "La battaglia contro le isole di calore è partita.",
-      "image": "https://hd2.tudocdn.net/1355696?w=660",
-      "publishedAt": "2026-07-08T15:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Meta aggiorna i suoi occhiali smart: nuovo sistema contro le manomissioni",
-      "link": "https://www.hdblog.it/indossabili/articoli/n663792/meta-smart-glasses-led-privacy-fotocamera/",
-      "excerpt": "Meta impedirà l'uso della fotocamera se viene manomessa la spia luminosa della privacy.",
-      "image": "https://hd2.tudocdn.net/1355581?w=660",
-      "publishedAt": "2026-07-08T15:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iFixit Megalodon, ecco il porta-inserti per riparare mobili ed elettrodomestici",
-      "link": "https://www.hdblog.it/home/articoli/n663800/ifixit-megalodon-kit-cacciavite-elettrodomestici/",
-      "excerpt": "Cacciavite più grande di quelli per elettronica, inserti più lunghi e un interessante meccanismo che simula il cricchetto.",
-      "image": "https://hd2.tudocdn.net/1355681?w=660",
-      "publishedAt": "2026-07-08T15:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung Galaxy Watch 9 e Ultra 2, una pioggia di leak svela design, colori e prezzi",
-      "link": "https://www.hdblog.it/indossabili/articoli/n663790/samsung-galaxy-watch-9-ultra-2-colori-prezzi-leak/",
-      "excerpt": "In anticipo sull'evento Galaxy Unpacked del 22 luglio.",
-      "image": "https://hd2.tudocdn.net/1355648?w=660",
-      "publishedAt": "2026-07-08T15:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung Galaxy Z Fold 8, Ultra e Flip 8: ecco i render prima dell'Unpacked",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663788/galaxy-z-fold-8-ultra-flip-samsung-immagini/",
-      "excerpt": "Le immagini dei tre pieghevoli in arrivo.",
-      "image": "https://hd2.tudocdn.net/1355680?w=660",
-      "publishedAt": "2026-07-08T14:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Google Pixel Watch 5, aumenti per tutta la gamma e nuova colorazione",
-      "link": "https://www.hdblog.it/indossabili/articoli/n663798/google-pixel-watch-5-prezzi-listino/",
-      "excerpt": "Indovinate se è colpa della solita crisi dei chip di memoria?",
-      "image": "https://hd2.tudocdn.net/1334916?w=660",
-      "publishedAt": "2026-07-08T14:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Su FlixBus e FlixTrain ora si può pagare con Klarna in molti più mercati (anche Italia)",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n663794/flixbus-klarna-pagamenti-rate-italia-europa/",
-      "excerpt": "In precedenza la partnership era disponibile solo in USA e Svezia.",
-      "image": "https://hd2.tudocdn.net/812274?w=660",
-      "publishedAt": "2026-07-08T14:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "La GPU Intel meno costosa batte la RTX 5090D nei test AI",
-      "link": "https://www.tomshw.it/hardware/la-gpu-intel-meno-costosa-batte-la-rtx-5090d-nei-test-ai",
-      "excerpt": "Gunnir ha pubblicato nuovi test AI in cui quattro Intel Arc Pro B70 da 32 GB vengono messe a confronto con configurazioni quad-GPU basate su NVIDIA RTX 5090D da 32 GB e RTX 4090D…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100124/la-gpu-intel-meno-costosa-batte-la-rtx-5090d-nei-test-ai.png",
-      "publishedAt": "2026-07-08T14:33:39+00:00",
+      "title": "Microsoft ripensa Xbox: la fine del multipiattaforma?",
+      "link": "https://www.tomshw.it/videogioco/microsoft-starebbe-ripensando-il-dogma-multipiattaforma-di-xbox",
+      "excerpt": "Alcuni dei prossimi giochi più pesanti di Microsoft Xbox potrebbero restare legati alla piattaforma Xbox, almeno secondo il nuovo orientamento emerso nel quadro del reset interno…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98714/sviluppatori-xbox-in4gngaerec89md8RnFO3.webp",
+      "publishedAt": "2026-07-08T15:48:58+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Sony ANC sotto 100€: ULT WEAR con processore da WH-1000XM5",
-      "link": "https://www.tomshw.it/offerte/sony-anc-sotto-100eur-ult-wear-con-processore-da-wh-1000xm5",
-      "excerpt": "Le Sony ULT WEAR sono in offerta a 99,49€ su Amazon con sconto del 33% dal listino di 149€. La parte più interessante è tecnica: queste cuffie wireless con noise cancelling usano…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100130/tomshw-offer-567346.png",
-      "publishedAt": "2026-07-08T14:32:35+00:00",
+      "title": "Samsung svela un indizio sui prossimi Galaxy pieghevoli",
+      "link": "https://www.tomshw.it/smartphone/samsung-galaxy-unpacked-i-pieghevoli-hanno-gia-un-indizio-ufficiale",
+      "excerpt": "Il prossimo Galaxy Unpacked ha già un perimetro molto chiaro: si terrà a Londra il 22 luglio e sarà centrato sulle nuove aggiunte alla gamma Galaxy, con un richiamo esplicito ai…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100147/Samsung-Mobile-Galaxy-Unpacked-July-2026-A-New-Shape-Unfolds_Thumb932.jpg",
+      "publishedAt": "2026-07-08T15:40:03+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Router sempre meno venduti, tranne per queste due categorie",
+      "link": "https://www.tomshw.it/altro/il-mercato-dei-router-wi-fi-frena-ma-non-per-tutti",
+      "excerpt": "Le spedizioni globali di router Wi-Fi consumer sono diminuite del 6% nel primo trimestre 2026 e restano inferiori del 34% rispetto al picco raggiunto nel 2021. Il dato fotografa…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100144/YKHhzPkuNsrXp4NgpLrTLi-2560-80.jpg",
+      "publishedAt": "2026-07-08T15:30:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -138,24 +147,6 @@
       "publishedAt": "2026-07-08T14:31:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Recensione Sony BRAVIA 7 II 55\": il colore è perfetto, il prezzo no",
-      "link": "https://www.tomshw.it/altro/recensione-sony-bravia-7-ii-55-il-colore-e-perfetto-il-prezzo-no",
-      "excerpt": "Il Sony BRAVIA 7 II da 55 pollici (K-55XR75M2) arriva in Italia a un prezzo di listino di 2.099 euro, e a inizio luglio lo street è bene o male lo stesso del listino; vedremo in…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100125/Sony-Bravia-7-II.jpg",
-      "publishedAt": "2026-07-08T14:15:52+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Auto nera, in estate la scelta estetica può presentare il conto",
-      "link": "https://www.tomshw.it/automotive/auto-nera-in-estate-la-scelta-estetica-puo-presentare-il-conto",
-      "excerpt": "Una auto con carrozzeria nera può richiedere più energia per tornare a una temperatura accettabile dopo una sosta al sole. Il motivo è fisico prima ancora che estetico: le…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100112/news-flash-567180.png",
-      "publishedAt": "2026-07-08T13:45:07+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "MacBook Pro con M5 Pro è ora in offerta su Amazon",
@@ -185,11 +176,20 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Migliori mouse ergonomici e verticali (luglio 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-mouse-ergonomici",
-      "excerpt": "Scegliere il miglior mouse ergonomico o verticale non significa soltanto trovare una periferica più comoda di un mouse tradizionale. Chi lavora molte ore al computer, alterna…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/87666/migliori-mouse-ergonomici-e-verticali-copertina.jpg",
-      "publishedAt": "2026-07-08T11:27:26+00:00",
+      "title": "Migliori casse Bluetooth economiche (luglio 2026)",
+      "link": "https://www.tomshw.it/offerte/migliori-casse-bluetooth-economiche",
+      "excerpt": "Scegliere una cassa Bluetooth economica non significa accontentarsi del primo speaker in offerta: nella fascia accessibile ci sono modelli molto diversi tra loro, pensati per…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/89622/migliori-casse-bluetooth-economiche-copertina.jpg",
+      "publishedAt": "2026-07-08T11:39:28+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori smartphone compatti (luglio 2026)",
+      "link": "https://www.tomshw.it/guide/migliori-smartphone-compatti",
+      "excerpt": "Scegliere uno smartphone compatto oggi non significa più accontentarsi di un telefono piccolo e poco potente. Il mercato continua a spingere verso schermi molto grandi, spesso…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/88205/migliori-smartphone-compatti-copertina.jpg",
+      "publishedAt": "2026-07-08T11:32:10+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -239,11 +239,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Final Fantasy VII: Ever Crisis, Square Enix ha deciso quando spegnere i server",
-      "link": "https://www.tomshw.it/videogioco/final-fantasy-vii-ever-crisis-square-enix-ha-deciso-quando-spegnere-i",
-      "excerpt": "I server di Final Fantasy VII: Ever Crisis hanno una data di spegnimento: Square Enix chiuderà il servizio il 7 ottobre 2026, mettendo fine al free-to-play dedicato all’universo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99981/202678947149_1.jpg",
-      "publishedAt": "2026-07-08T08:10:04+00:00",
+      "title": "Captain Tsubasa 2: il trailer svela la data d'uscita",
+      "link": "https://www.tomshw.it/videogioco/captain-tsubasa-2-world-fighters-il-trailer-mette-una-data-al-ritorno",
+      "excerpt": "Un personaggio creato da zero potrà entrare nella nazionale giapponese e imparare le mosse dei protagonisti del manga: è uno dei cardini di Captain Tsubasa 2: World Fighters,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99984/CT2-ModeIntroduction-Thumbnail.jpg",
+      "publishedAt": "2026-07-08T08:30:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -257,20 +257,20 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Warhammer 40K Rogue Trader, I giocatori saranno risarciti così",
-      "link": "https://www.tomshw.it/videogioco/warhammer-40-000-rogue-trader-su-switch-2-scatta-una-compensazione",
-      "excerpt": "La versione Nintendo Switch 2 di Warhammer 40,000: Rogue Trader ha ricevuto un aggiornamento pensato per rimettere ordine dopo un lancio tecnico sotto le aspettative. Owlcat Games…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99976/Warhammer-40000-rogue-trader.jpg",
-      "publishedAt": "2026-07-08T07:35:06+00:00",
+      "title": "Un LLM open source da 1,6mila miliardi di parametri, finestra da 1 mln di token, senza Nvidia. Dove se non in Cina?",
+      "link": "https://www.tomshw.it/business/un-llm-open-source-da-16mila-miliardi-di-parametri-finestra-da-1-mln-di-token-senza-nvidia-dove-se-non-in-cina",
+      "excerpt": "La model card pubblicata su Hugging Face parla chiaro: 1,6 trilioni di parametri totali, circa 48 miliardi attivati per ogni token grazie all'architettura Mixture-of-Experts,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99971/05-llm-cinese-1-6-trilioni-parametri-cover.jpg",
+      "publishedAt": "2026-07-08T07:25:05+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "4 cose da capire sull'architettura AI, prima di mettersi a scalare",
-      "link": "https://www.tomshw.it/business/4-cose-da-capire-sullarchitettura-ai-prima-di-mettersi-a-scalare",
-      "excerpt": "Tre grandi analisi indipendenti, pubblicate nelle ultime settimane da Gartner, McKinsey e Deloitte, arrivano alla stessa diagnosi sull'adozione dell'AI in azienda: quattro…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99964/02-architettura-ai-4-elementi-cover.jpg",
-      "publishedAt": "2026-07-08T07:30:05+00:00",
+      "title": "Identificare i clienti a rischio prima che se ne vadano, Customer Success con l'AI",
+      "link": "https://www.tomshw.it/aioperator/customer-success-clienti-rischio-churn-ai",
+      "excerpt": "Un cliente B2B che disdice non manda quasi mai un preavviso. Smette di aprire l'app, poi apre due ticket in una settimana, poi sparisce dalle chiamate di check-in. Quando il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99241/04-cs13-cover.jpg",
+      "publishedAt": "2026-07-02T13:27:17+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
