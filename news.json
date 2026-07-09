@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T19:25:59.896380+00:00",
+  "generatedAt": "2026-07-09T21:15:21.513229+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
@@ -12,6 +12,24 @@
       "publishedAt": "2026-07-09T19:19:20+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Vetrina ARGB per il PC: Corsair 3500X RS-R a 79,99€ su Amazon",
+      "link": "https://www.tomshw.it/offerte/vetrina-argb-per-il-pc-corsair-3500x-rs-r-a-7999eur-su-amazon",
+      "excerpt": "Corsair 3500X RS-R ARGB a 79,99€ su Amazon porta un case PC panoramico al suo minimo finora, con il 43% in meno rispetto ai 139,90€ di riferimento. L’interesse è tutto nella…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100386/tomshw-offer-569290.png",
+      "publishedAt": "2026-07-09T19:17:19+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Occhiali Smart: vera innovazione o euforia momentanea | VIDEO",
+      "link": "https://www.hdblog.it/indossabili/speciali/n645365/occhiali-smart-vera-innovazione-o-ennesima-euforia-momentanea/",
+      "excerpt": "Molti brand stanno lanciando i propri occhiali smart. Proviamo a capire in quale direzione sta andando il mercato e quale sarà il vero ruolo degli smart glasses nel prossimo…",
+      "image": "https://hd2.tudocdn.net/1355893?w=660",
+      "publishedAt": "2026-07-09T19:00:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
     },
     {
       "title": "Assassin's Creed Black Flag Resynced è un gran esempio di remake fatto come si deve",
@@ -86,6 +104,15 @@
       "sourceColor": "#E63946"
     },
     {
+      "title": "Microsoft potrebbe vendere Xbox? Si ma a che cifre!",
+      "link": "https://www.tomshw.it/videogioco/microsoft-puo-vendere-xbox-il-vero-problema-non-e-chi-la-comprerebbe",
+      "excerpt": "Il problema, per chiunque volesse comprare Xbox, sarebbe prima di tutto la sua dimensione: oltre 23 miliardi di dollari di ricavi annui, console, servizi, publishing e un catalogo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98714/sviluppatori-xbox-in4gngaerec89md8RnFO3.webp",
+      "publishedAt": "2026-07-09T17:01:57+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "HONOR 600 è in offerta con Watch 2i incluso: un'ottima scelta tra i mid-range",
       "link": "https://www.hdblog.it/smartphone/offerte/n663934/honor-600-offerta-lug26/",
       "excerpt": "HONOR 600 in bundle con Watch 2i è in offerta e diventa una delle opzioni più interessanti tra i mid-range.",
@@ -113,15 +140,6 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Obsidian, il nuovo Fallout avrebbe una firma molto familiare",
-      "link": "https://www.tomshw.it/videogioco/obsidian-il-nuovo-fallout-avrebbe-una-firma-molto-familiare",
-      "excerpt": "Il ritorno di Obsidian Entertainment su Fallout sarebbe diventato uno dei nuovi assi del piano Xbox. Secondo Bloomberg, Microsoft avrebbe indirizzato lo studio verso un nuovo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100381/images-3.jpg",
-      "publishedAt": "2026-07-09T16:51:52+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "In Ucraina matrimonio (e divorzio) si fanno con un'app",
       "link": "https://www.tomshw.it/altro/diia-in-ucraina-anche-matrimonio-e-divorzio-passano-dall-app",
       "excerpt": "In Ucraina il matrimonio può essere completato interamente online: proposta nell’app, accettazione entro 14 giorni e cerimonia in videochiamata con un funzionario. È uno degli…",
@@ -138,33 +156,6 @@
       "publishedAt": "2026-07-09T16:45:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone 18 Pro Max: per un modello il prezzo potrebbe salire di molto",
-      "link": "https://www.tomshw.it/smartphone/iphone-18-pro-max-per-apple-il-conto-potrebbe-salire-parecchio",
-      "excerpt": "La versione da 1 TB di iPhone 18 Pro Max potrebbe costare ad Apple quasi 300 dollari in più solo in componenti rispetto all’attuale iPhone 17 Pro Max con lo stesso taglio di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100376/iphone-18-pro-max_jpg_1600x900_crop_q85_jpg_1200x0_crop_q85-jpg.webp",
-      "publishedAt": "2026-07-09T16:42:05+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Sugli smartphone Samsung arriva il nuovo aggiornamento del Google Play System",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663881/smartphone-samsung-aggiornamento-google-play/",
-      "excerpt": "Samsung sta distribuendo sui suoi smartphone il nuovo aggiornamento del Google Play System.",
-      "image": "https://hd2.tudocdn.net/1355820?w=660",
-      "publishedAt": "2026-07-09T16:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Open world samurai al minimo: Rise of the Ronin a 36,50€ su Amazon",
-      "link": "https://www.tomshw.it/offerte/open-world-samurai-al-minimo-rise-of-the-ronin-a-3650eur-su-amazon",
-      "excerpt": "Rise of the Ronin è a 36,50€ su Amazon con il 55% di sconto sul valore di 80,99€. Per chi aspettava un taglio deciso, il gioco d’azione open world ambientato nel Giappone di fine…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100374/tomshw-offer-569183.png",
-      "publishedAt": "2026-07-09T16:32:37+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Il reset di Xbox ha colpito pesantemente id Software e Bethesda",
@@ -262,6 +253,15 @@
       "excerpt": "Amazon ha collocato il 7 luglio altri 25 miliardi di dollari di obbligazioni sul mercato USA, in otto tranche con scadenze comprese tra 3 e 40 anni. Lo riporta Fortune, che cita…",
       "image": "https://cdn.tomshw.it/storage/media/2026/07/100222/04-amazon-bond-debito-92-miliardi-cover.jpg",
       "publishedAt": "2026-07-09T07:30:06+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "id Software, un documento svela il peso dei tagli Microsoft",
+      "link": "https://www.tomshw.it/videogioco/id-software-un-documento-svela-il-peso-dei-tagli-microsoft",
+      "excerpt": "Il ridimensionamento di id Software è ora quantificato in un documento ufficiale del Texas: un WARN Notice ottenuto da Game Developer indica 136 ruoli eliminati legati allo studio…",
+      "image": "https://cdn.tomshw.it/storage/media/2025/03/53475/DOOM-THE-DARK-AGES-(3).jpg",
+      "publishedAt": "2026-07-09T06:44:33+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
