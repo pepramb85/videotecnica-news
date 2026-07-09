@@ -1,9 +1,207 @@
 {
-  "generatedAt": "2026-07-09T02:11:20.855570+00:00",
+  "generatedAt": "2026-07-09T07:31:06.827702+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Crollano le spedizioni di router: a crescere sono soltanto due nicchie di mercato",
+      "link": "https://images.dday.it/PdG2AEGKhFPR382s5tuk3aDv8QQUR3HmXvI37yByRKU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58000/44ac2c_Depositphotos_310724328_XL.jpg",
+      "excerpt": "La diminuzione dell'ultimo anno è solo il culmine di una discesa iniziata nel 2021 e che tocca (quasi) tutti i principali brand... Leggi tutto",
+      "image": "https://images.dday.it/PdG2AEGKhFPR382s5tuk3aDv8QQUR3HmXvI37yByRKU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58000/44ac2c_Depositphotos_310724328_XL.jpg",
+      "publishedAt": "2026-07-09T07:28:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "L'alleanza Apple-Broadcom non è solo una questione di chip",
+      "link": "https://www.tomshw.it/business/broadcom-l-accordo-con-apple-va-oltre-i-chip-degli-iphone",
+      "excerpt": "Apple prevede di spendere oltre 30 miliardi di dollari con Broadcom in un nuovo quadro pluriennale per chip custom e componenti wireless destinati alle prossime generazioni di…",
+      "image": "https://cdn.tomshw.it/storage/media/2024/11/40646/20241105095000GC104386.jpg",
+      "publishedAt": "2026-07-09T07:23:26+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Mondiali 2026: dove vedere oggi Francia vs Marocco in TV e streaming",
+      "link": "https://www.tomshw.it/altro/mondiali-2026-dove-vedere-oggi-francia-vs-marocco-in-tv-e-streaming",
+      "excerpt": "La Coppa del Mondo entra nella sua fase caldissima. Oggi, giovedì 9 luglio 2026, prendono ufficialmente il via i quarti di finale del torneo con un big match spettacolare che…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98616/Mondiali-2026-dove-vedere-le-partite-di-oggi.png",
+      "publishedAt": "2026-07-09T07:23:24+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Una ricerca mostra perché l'AI fatica ancora con il malware",
+      "link": "https://www.tomshw.it/hardware/una-ricerca-mostra-perche-lai-fatica-ancora-con-il-malware",
+      "excerpt": "Una nuova ricerca mette in fila i motivi per cui l’AI continua a faticare nell’analisi del malware: i file da ispezionare sono spesso enormi, il codice non si comporta come testo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100196/una-ricerca-mostra-perche-l-ai-fatica-ancora-con-il-malware.png",
+      "publishedAt": "2026-07-09T07:20:29+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Nintendo eShop, le offerte della settimana da controllare su Switch e Switch 2",
+      "link": "https://www.tomshw.it/videogioco/nintendo-eshop-le-offerte-della-settimana-da-controllare-su-switch-e-switch",
+      "excerpt": "La nuova selezione settimanale del Nintendo eShop mette in evidenza diversi sconti digitali per Nintendo Switch e Nintendo Switch 2, con prezzi in euro validi nella finestra…",
+      "image": "https://cdn.tomshw.it/storage/media/2025/06/60782/nsw-condivisione-account.jpg",
+      "publishedAt": "2026-07-09T07:19:12+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il tuo router è il nascondiglio perfetto per un hacker",
+      "link": "https://www.tomshw.it/hardware/router-nascondiglio-perfetto-hacker",
+      "excerpt": "Un gruppo di hacker collegato alla Cina, tracciato come UAT-7810, sta usando router e access point compromessi per costruire una rete di relay capace di nascondere l'origine degli…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100189/hacker-legati-alla-cina-usano-router-ruckus-e-asus-per-nascondersi.png",
+      "publishedAt": "2026-07-09T07:18:09+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "SPESA Amazon: 10 prodotti da supermercato a prezzi imperdibili!",
+      "link": "https://www.tomshw.it/offerte/spesa-amazon-supermercato",
+      "excerpt": "Aggiornamento 09/07: tra le offerte più recenti aggiunte nell'articolo segnaliamo il mix di spezie Fuchs Professional, l'integratore alimentare di glutammina e una serie di…",
+      "image": "https://cdn.tomshw.it/storage/media/2024/08/32011/Prodotti-da-supermercato-a-prezzi-imperdibili-copertina.png",
+      "publishedAt": "2026-07-09T07:16:36+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il boom dei chip AI ha creato una nuova élite",
+      "link": "https://www.tomshw.it/hardware/il-boom-dei-chip-ai-crea-una-nuova-elite-in-corea-del-sud",
+      "excerpt": "Il boom dei chip AI sta cambiando la gerarchia del lavoro: in Corea del Sud gli ingegneri delle memorie di Samsung Electronics e SK Hynix sono diventati una nuova fascia…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100178/il-boom-dei-chip-ai-crea-una-nuova-elite-in-corea-del-sud.png",
+      "publishedAt": "2026-07-09T07:15:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Raffreddamento casa, consumi europei raddoppiati in 6 anni",
+      "link": "https://www.hdblog.it/green/articoli/n663783/raffreddamento-casa-consumi-europei-6-anni/",
+      "excerpt": "Nuovi dati Eurostat (preoccupanti)",
+      "image": "https://hd2.tudocdn.net/1355720?w=660",
+      "publishedAt": "2026-07-09T07:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Rapidus prepara la sua fab a 2 nm, ma mancano i clienti",
+      "link": "https://www.tomshw.it/hardware/rapidus-prepara-la-fab-a-2-nm-ma-manca-il-cliente-chiave",
+      "excerpt": "Rapidus ha delineato la tabella di marcia della fab IIM-1 di Chitose, in Giappone: la linea pilota è già operativa con litografia EUV e un prototipo 2 nm gate-all-around, ma il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100173/rapidus-prepara-la-fab-a-2-nm-ma-manca-il-cliente-chiave.png",
+      "publishedAt": "2026-07-09T07:13:16+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "A soli 1,11€/mese, PrivadoVPN lascia margine anche per un antivirus",
+      "link": "https://www.tomshw.it/hardware/a-soli-111eurmese-privadovpn-lascia-margine-anche-per-un-antivirus",
+      "excerpt": "Proteggere la vostra privacy durante la navigazione non deve necessariamente richiedere un investimento elevato. Con PrivadoVPN avete la possibilità di accedere a un servizio VPN…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/91347/Tutto-quello-che-vuoi-da-una-VPN,-a-solo-1€-(solo-con-PrivadoVPN).png",
+      "publishedAt": "2026-07-09T07:11:44+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Nuovi occhiali Meta con AI continua: emergono i primi dettagli",
+      "link": "https://www.hdblog.it/indossabili/articoli/n663839/meta-occhiali-ai-super-sensing/",
+      "excerpt": "Meta sviluppa occhiali AI sempre attivi, ma la privacy divide gli esperti.",
+      "image": "https://hd2.tudocdn.net/1355744?w=660",
+      "publishedAt": "2026-07-09T07:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google sta rimuovendo per sempre alcune tra le estensioni di Chrome più utilizzate",
+      "link": "https://www.hdblog.it/google/articoli/n663826/google-chrome-stop-estensioni/",
+      "excerpt": "Google rimuoverà definitivamente dal Chrome Web Store le vecchie estensioni basate su Manifest V2.",
+      "image": "https://hd2.tudocdn.net/1355723?w=660",
+      "publishedAt": "2026-07-09T06:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "ChatGPT cambia voce: arriva GPT-Live, il modello che ascolta e parla allo stesso tempo",
+      "link": "https://images.dday.it/L1GK0bNlBkdlxi9Vf2U_GzCXkJa7AZuNyRECrmkOIUQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57999/9e40ed_dccd.jpg",
+      "excerpt": "Il nuovo modello full duplex delega ricerca e ragionamento a GPT-5.5 senza interrompere il dialogo. Distribuzione globale su web e mobile, esclusa per ora l'app desktop... Leggi…",
+      "image": "https://images.dday.it/L1GK0bNlBkdlxi9Vf2U_GzCXkJa7AZuNyRECrmkOIUQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57999/9e40ed_dccd.jpg",
+      "publishedAt": "2026-07-09T06:54:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Data center: il reattore nucleare USA fa un passo decisivo verso il debutto",
+      "link": "https://www.hdblog.it/green/articoli/n663810/aalo-atomics-reattore-nucleare-data-center/",
+      "excerpt": "Aalo raggiunge la criticità del reattore da 10 MW destinato ai futuri data center.",
+      "image": "https://hd2.tudocdn.net/1355697?w=660",
+      "publishedAt": "2026-07-09T06:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Mova Mobius 60 a 799€: il robot top che cambia il panno da solo è al minimo Amazon",
+      "link": "https://www.hdblog.it/amazon/offerte/n663837/mova-mobius-60-robot-offerta-amazon-sconto-prezzo/",
+      "excerpt": "Mova Mobius 60 è in offerta su Amazon a 799€: nuovo minimo storico per il robot top di gamma che cambia automaticamente il panno.",
+      "image": "https://hd2.tudocdn.net/1312642?w=660",
+      "publishedAt": "2026-07-09T06:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Call center, arriva l'AI e scattano gli scioperi: si temono migliaia di esuberi",
+      "link": "https://www.hdblog.it/business/articoli/n663836/ai-call-center-scattano-scioperi-sindacati/",
+      "excerpt": "I call center sono tra i primi a sentire più pesantemente gli effetti dell'AI",
+      "image": "https://hd2.tudocdn.net/1355741?w=660",
+      "publishedAt": "2026-07-09T06:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Mondiali, le partite decisive si guardano in grande: il kit proiettore XGIMI MoGo 4 porta il maxischermo dove serve",
+      "link": "https://images.dday.it/XS7u9lbaz-GcdrZnO4nfcsGC6rK1Pe5M6KMjQIG5QDA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57995/b17249_sall_3-1536x1536_copia.jpg",
+      "excerpt": "Per le partite decisive dei Mondiali, XGIMI MoGo 4 World Cup Bundle trasforma casa, terrazzo e giardino in un maxischermo portatile da 70” con proiettore, PowerBase, audio Harman…",
+      "image": "https://images.dday.it/XS7u9lbaz-GcdrZnO4nfcsGC6rK1Pe5M6KMjQIG5QDA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57995/b17249_sall_3-1536x1536_copia.jpg",
+      "publishedAt": "2026-07-09T06:28:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Ricercatori cinesi sviluppano un chip per la mappatura cerebrale in tempo reale",
+      "link": "https://www.hdblog.it/hardware/articoli/n663811/chip-cinese-mappatura-cervello-tempo-reale/",
+      "excerpt": "Chip cinese ricostruisce il cervello in tempo reale fino a 478 volte più veloce.",
+      "image": "https://hd2.tudocdn.net/1355698?w=660",
+      "publishedAt": "2026-07-09T06:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Allarme sui pannelli solari: un hacker può spegnerli da remoto",
+      "link": "https://www.hdblog.it/green/articoli/n663833/vulnerabilita-inverter-hoymiles/",
+      "excerpt": "Scoperte gravi falle negli inverter Hoymiles: possibili attacchi remoti ai pannelli solari.",
+      "image": "https://hd2.tudocdn.net/1355735?w=660",
+      "publishedAt": "2026-07-09T06:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "WhatsApp vuole ricordarci i compleanni degli amici: in test una nuova funzione",
+      "link": "https://www.hdblog.it/smartphone/articoli/n663834/whatsapp-vuole-ricordarci-compleanni/",
+      "excerpt": "WhatsApp sta lavorando a una nuova funzione dedicata ai compleanni dei contatti.",
+      "image": "https://hd2.tudocdn.net/1355738?w=660",
+      "publishedAt": "2026-07-09T06:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Euclid scopre i quasar più antichi mai osservati e riscrive la storia del cosmo",
+      "link": "https://www.hdblog.it/curiosita/articoli/n663807/euclid-quasar-piu-antichi-universo/",
+      "excerpt": "Euclid ha scoperto 31 antichi quasar, inclusi i due più remoti mai osservati.",
+      "image": "https://hd2.tudocdn.net/1355692?w=660",
+      "publishedAt": "2026-07-09T06:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Piscina pronta e giardino salvo dal caldo rovente: Aiper automatizza l’estate con i robot Scuba e IrriSense 2",
       "link": "https://images.dday.it/5I0WAC9jchGQVsaPxzfuqajzThBlx_WoMP4KPnfBRCQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57965/76b790_ffac87_cover_Irrisense2.jpg",
@@ -12,159 +210,6 @@
       "publishedAt": "2026-07-09T01:03:05+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migliori stampanti laser economiche (luglio 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-stampanti-economiche-laser-multifunzione",
-      "excerpt": "Le stampanti laser economiche restano una scelta molto sensata per chi stampa soprattutto documenti, dispense, fatture o moduli e vuole pagine nitide senza trasformare la gestione…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/88989/migliori-stampanti-laser-economiche-copertina.jpg",
-      "publishedAt": "2026-07-09T00:53:47+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Xbox scopre a caro prezzo cosa significa spremere Minecraft",
-      "link": "https://www.tomshw.it/videogioco/minecraft-xbox-scopre-il-prezzo-di-averlo-trattato-da-cassaforte",
-      "excerpt": "Minecraft sarebbe stato trattato per anni più come una cassa forte dell’ecosistema Microsoft Xbox che come una piattaforma su cui reinvestire con la stessa intensità dei suoi…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100055/news-flash-566916.png",
-      "publishedAt": "2026-07-08T21:51:13+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Apex x Cyberpunk: attento al Cyberware o perdi la testa",
-      "link": "https://www.tomshw.it/videogioco/apex-legends-x-cyberpunk-se-abusi-del-cyberware-perdi-il-controllo",
-      "excerpt": "E-District cambierà volto per diventare una versione di Night City dentro Apex Legends: skyline al neon, carpe koi olografiche e insegne glitchate accompagneranno il takeover…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100010/Apex_S29_Clockup_PrimaryArt_3840x2160.jpg",
-      "publishedAt": "2026-07-08T21:50:14+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "GTA Trilogy, Grove Street riconosce i problemi ma non la bocciatura",
-      "link": "https://www.tomshw.it/videogioco/gta-trilogy-grove-street-riconosce-i-problemi-ma-non-la-bocciatura",
-      "excerpt": "Grand Theft Auto: The Trilogy - The Definitive Edition resta uno dei lanci più discussi legati al catalogo recente di Rockstar, e ora Thomas Williamson di Grove Street Games torna…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100156/claude-from-the-gta-trilogy-standing-in-the-street-firing-a-flamethrower.jpg",
-      "publishedAt": "2026-07-08T21:39:55+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Rowenta a 35,99€ su Amazon: ferro 2500W quasi al minimo",
-      "link": "https://www.tomshw.it/offerte/rowenta-a-3599eur-su-amazon-ferro-2500w-quasi-al-minimo",
-      "excerpt": "Rowenta Access Steam DW4301D1 costa 35,99€ su Amazon, con uno sconto del 37% rispetto ai 57,49€ di listino. È un ferro da stiro a vapore pensato per chi vuole più spinta sulle…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100158/tomshw-offer-567776.png",
-      "publishedAt": "2026-07-08T19:17:10+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Recensione Hollyland MELO P1: uno studio audio portatile per cantanti e creator",
-      "link": "https://www.hdblog.it/tv/recensioni/n663264/recensione-hollyland-melo/",
-      "excerpt": "Abbiamo provato il nuovo microfono di Hollyland che offre una qualità da studio ed un buon mixer.",
-      "image": "https://hd2.tudocdn.net/1354390?w=660",
-      "publishedAt": "2026-07-08T18:41:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung Galaxy Z Fold 8, Ultra e Flip 8: ecco i render prima dell'Unpacked",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663788/galaxy-z-fold-8-ultra-flip-samsung-immagini/",
-      "excerpt": "Le immagini dei tre pieghevoli in arrivo.",
-      "image": "https://hd2.tudocdn.net/1355680?w=660",
-      "publishedAt": "2026-07-08T18:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Xbox riparte dalle console: la CEO Asha Sharma spiega la nuova strategia post tagli",
-      "link": "https://www.hdblog.it/microsoft/articoli/n663823/xbox-strategia-asha-sharma-console-licenziamenti/",
-      "excerpt": "L'80% dei ricavi oggi arriva in realtà dall'hardware.",
-      "image": "https://hd2.tudocdn.net/1348455?w=660",
-      "publishedAt": "2026-07-08T18:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Realme 16 Pro (512 GB) in offerta su Amazon: un mid-range completo ora al prezzo giusto (-33%)",
-      "link": "https://www.hdblog.it/smartphone/offerte/n663827/realme-16-pro-offerta-amazon-luglio-2026/",
-      "excerpt": "Il Realme 16 Pro da 512 GB è in offerta su Amazon con il 33% di sconto: è il momento giusto per acquistare il mid-range.",
-      "image": "https://hd2.tudocdn.net/1330955?w=660",
-      "publishedAt": "2026-07-08T17:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Valve rilascia Proton 11.0-1 per SteamOS, ecco tutti i nuovi giochi supportati",
-      "link": "https://www.hdblog.it/games/articoli/n663821/valve-proton-steamos-novita-versione-11-giochi/",
-      "excerpt": "C'è anche una marea di bug fix, come al solito.",
-      "image": "https://hd2.tudocdn.net/1236603?w=660",
-      "publishedAt": "2026-07-08T17:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone 16 è in offerta: a meno di 600€ può diventare un best buy",
-      "link": "https://www.hdblog.it/apple/offerte/n663825/iphone-16-offerta-588-euro-luglio-2026/",
-      "excerpt": "iPhone 16 cala di prezzo ed è ora in offerta a 588 euro: si tratta di un best buy per molti utenti.",
-      "image": "https://hd2.tudocdn.net/1314300?w=660",
-      "publishedAt": "2026-07-08T17:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "La NASA porta in verticale il telescopio Roman in vista del lancio",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n663779/roman-space-telescope-lancio-agosto/",
-      "excerpt": "Il telescopio Roman completa nuovi test e punta al lancio anticipato di agosto.",
-      "image": "https://hd2.tudocdn.net/1355523?w=660",
-      "publishedAt": "2026-07-08T17:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Sui Google Pixel c'è un bug che può far sparire le registrazioni audio",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663818/google-pixel-9-bug-registratore-recorder-scomparse/",
-      "excerpt": "Alcuni utenti hanno cominciato a segnalarlo.",
-      "image": "https://hd2.tudocdn.net/1322218?w=660",
-      "publishedAt": "2026-07-08T17:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Sensore quantistico con diamante: taglia fino al 30% gli sprechi energetici",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n663685/sensore-quantistico-diamante-xdots/",
-      "excerpt": "Sensori quantistici al diamante e AI per ridurre fino al 30% gli sprechi energetici.",
-      "image": "https://hd2.tudocdn.net/1355301?w=660",
-      "publishedAt": "2026-07-08T17:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Kioxia è pronta a produrre i chip NAND next-gen per datacenter AI",
-      "link": "https://www.hdblog.it/hardware/articoli/n663819/kioxia-sandisk-nand-flash-bics10-ai-datacenter/",
-      "excerpt": "Nel mondo consumer si continuerà a spingere sulla BiCS9.",
-      "image": "https://hd2.tudocdn.net/1355719?w=660",
-      "publishedAt": "2026-07-08T17:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Tokyo Game Show 2026, 759 espositori cambiano già la scala dell'evento",
-      "link": "https://www.tomshw.it/videogioco/tokyo-game-show-2026-759-espositori-cambiano-gia-la-scala-dell-evento",
-      "excerpt": "La prima fotografia del Tokyo Game Show 2026 è già molto ampia: 759 espositori confermati, 3.946 stand e una presenza internazionale distribuita su 51 Paesi e regioni. La Computer…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100154/tgs-2026.jpg",
-      "publishedAt": "2026-07-08T15:58:57+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Pirati di Assassin's Creed? Si, ma non quelli che Ubisoft avrebbe voluto",
-      "link": "https://www.tomshw.it/videogioco/assassin-s-creed-black-flag-resynced-il-leak-avrebbe-colpito-denuvo-dove",
-      "excerpt": "Una versione crackata di Assassin's Creed Black Flag Resynced sarebbe già finita in circolazione su PC prima dell'uscita ufficiale, prevista per il 9 luglio 2026. Il dato più…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100078/VgkxCJmpneji9EC23Rsxyg-1920-80.png",
-      "publishedAt": "2026-07-08T15:49:50+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Le migliori offerte Amazon per acquistare una bici elettrica",
@@ -212,10 +257,10 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "The Elder Scrolls VI: l'uscita è ancora lontanissima",
-      "link": "https://www.tomshw.it/videogioco/the-elder-scrolls-vi-secondo-bloomberg-il-lancio-e-ancora-lontano",
-      "excerpt": "Per The Elder Scrolls VI il 2028 sarebbe il primo orizzonte realistico, e potrebbe persino rivelarsi ottimistico. Durante una sessione Q&A dedicata alla riorganizzazione di Xbox,…",
-      "image": "https://cdn.tomshw.it/storage/media/2025/06/61556/20250613064952_1.jpg",
+      "title": "Call of Duty: Black Ops, su PS5 spunta l'indizio che riapre il caso trofei",
+      "link": "https://www.tomshw.it/videogioco/call-of-duty-black-ops-su-ps5-spunta-l-indizio-che-riapre",
+      "excerpt": "Le versioni PlayStation moderne di Call of Duty: Black Ops e Call of Duty: Black Ops II potrebbero arrivare con liste trofei autonome su PS4 e PS5. L’indizio arriva dai metadati…",
+      "image": "https://cdn.tomshw.it/storage/media/2024/11/40149/blackops6.jpg",
       "publishedAt": "2026-07-08T09:40:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
@@ -228,51 +273,6 @@
       "publishedAt": "2026-07-08T09:31:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Microsoft si starebbe liberando dei modelli IA di OpenAI e Anthropic per usare i propri",
-      "link": "https://images.dday.it/QtqITk4W5BY9YqS_NBWFUb82vG7qxd_85Rb7IcmENk0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57988/c5b717_dsdas.jpg",
-      "excerpt": "Decine di migliaia di richieste a settimana sarebbero già gestite dai modelli interni. Suleyman: \"Paghiamo molto ad Anthropic, vogliamo azzerare quel costo\"... Leggi tutto",
-      "image": "https://images.dday.it/QtqITk4W5BY9YqS_NBWFUb82vG7qxd_85Rb7IcmENk0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57988/c5b717_dsdas.jpg",
-      "publishedAt": "2026-07-08T09:15:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Gonfia le tue gomme in pochi secondi… mini pompa elettrica in offerta",
-      "link": "https://images.dday.it/Vx7N7GWlmUxy7PtRYoHvu7MoA2TELZNJHYx5Dtt6npw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57987/6913a9_81fCBQFOudL._AC_SL1500_.jpg",
-      "excerpt": "Approfitta dell'offerta speciale sulla mini pompa per bici AIRBANK : compatta, potente e facile da trasportare: la pressione perfetta sempre a portata di mano... Leggi tutto",
-      "image": "https://images.dday.it/Vx7N7GWlmUxy7PtRYoHvu7MoA2TELZNJHYx5Dtt6npw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57987/6913a9_81fCBQFOudL._AC_SL1500_.jpg",
-      "publishedAt": "2026-07-08T09:04:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Batterie allo stato solido, scoperto perché si formano i dendriti che le mandano in cortocircuito",
-      "link": "https://images.dday.it/gC2dqG8yGYZJOEJM8j-RcAsSArIrlaHTQIX5ZyHEyAE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57986/51791b_Depositphotos_795112052_XL.jpg",
-      "excerpt": "Il difetto nasce nei punti in cui i cristalli dell'elettrolita si toccano. Correggendo la produzione del materiale, i ricercatori hanno alzato di oltre il 300% la soglia di guasto…",
-      "image": "https://images.dday.it/gC2dqG8yGYZJOEJM8j-RcAsSArIrlaHTQIX5ZyHEyAE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57986/51791b_Depositphotos_795112052_XL.jpg",
-      "publishedAt": "2026-07-08T09:00:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Claude Cowork diventa cloud, funziona anche a computer spento",
-      "link": "https://www.tomshw.it/business/claude-cowork-diventa-cloud-funziona-anche-a-computer-spento",
-      "excerpt": "Cowork era nato a gennaio 2026 come applicazione desktop, un agente in stile Claude Code pensato per il lavoro d'ufficio invece che per la scrittura di codice. Con l'annuncio del…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99978/06-claude-cowork-mobile-web-cover.jpg",
-      "publishedAt": "2026-07-08T07:35:06+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Finita la corsa a chi usa più token, è tempo di guardare ai risultati",
-      "link": "https://www.tomshw.it/business/finita-la-corsa-ai-token-ora-si-misura-solo-quanto-produci-davvero",
-      "excerpt": "Scott Wu, CEO e cofondatore di Cognition (l'azienda dietro Devin, uno dei primi agenti AI per il coding, usato tra gli altri da Goldman Sachs, Mercedes-Benz e Rivian), ha…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99965/03-cognition-ceo-token-output-cover.jpg",
-      "publishedAt": "2026-07-08T07:25:05+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     }
   ]
 }
