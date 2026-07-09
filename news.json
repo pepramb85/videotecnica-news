@@ -1,15 +1,33 @@
 {
-  "generatedAt": "2026-07-09T17:49:12.820978+00:00",
+  "generatedAt": "2026-07-09T19:25:59.896380+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "GPT-5.6 è ora disponibile, ecco tutte le novità",
+      "link": "https://www.tomshw.it/hardware/openai-gpt-5-6-e-ufficiale-ma-non-e-un-solo-modello",
+      "excerpt": "Una finestra di contesto da 1,05 milioni di token e fino a 128K token in output accompagna il debutto di GPT-5.6, la nuova famiglia di modelli resa disponibile da OpenAI il 9…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99934/08101714d855269.webp",
+      "publishedAt": "2026-07-09T19:19:20+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "Assassin's Creed Black Flag Resynced è un gran esempio di remake fatto come si deve",
       "link": "https://www.hdblog.it/games/articoli/n663942/assassins-creed-resynced-qualita-opinioni-ps5-pro/",
       "excerpt": "Ed è una vittoria soprattutto per PS5 Pro (in particolare dell'algoritmo PSSR 2.0).",
       "image": "https://hd2.tudocdn.net/1355932?w=660",
       "publishedAt": "2026-07-09T17:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "MacBook Air 13 con M5 scontato di 280€ su Amazon: offerta anti-aumento",
+      "link": "https://www.hdblog.it/portatili/offerte/n663940/macbook-air-13-m5-scontato-280-amazon/",
+      "excerpt": "Torna in sconto il laptop di ultima generazione Apple.",
+      "image": "https://hd2.tudocdn.net/1355931?w=660",
+      "publishedAt": "2026-07-09T17:41:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -104,6 +122,15 @@
       "sourceColor": "#9B2D2D"
     },
     {
+      "title": "In Ucraina matrimonio (e divorzio) si fanno con un'app",
+      "link": "https://www.tomshw.it/altro/diia-in-ucraina-anche-matrimonio-e-divorzio-passano-dall-app",
+      "excerpt": "In Ucraina il matrimonio può essere completato interamente online: proposta nell’app, accettazione entro 14 giorni e cerimonia in videochiamata con un funzionario. È uno degli…",
+      "image": "https://cdn.tomshw.it/storage/media/2024/03/14420/matrimonio.jpg",
+      "publishedAt": "2026-07-09T16:50:29+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "Windows 11, piccole ma importanti novità in arrivo per la barra di ricerca",
       "link": "https://www.hdblog.it/microsoft/articoli/n663933/windows-11-barra-ricerca-start-taskbar/",
       "excerpt": "Sta per diventare più alta di \"ben\" 4 pixel.",
@@ -140,15 +167,6 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Google Home cambia marcia: nuove automazioni e correzioni",
-      "link": "https://www.hdblog.it/google/articoli/n663914/google-home-automazioni-ai/",
-      "excerpt": "Google Home riceve suggerimenti AI per le automazioni e migliora Gemini.",
-      "image": "https://hd2.tudocdn.net/1355899?w=660",
-      "publishedAt": "2026-07-09T16:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Il reset di Xbox ha colpito pesantemente id Software e Bethesda",
       "link": "https://images.dday.it/-Q7wlqy7UPfAbj9hGPUq5iZRO5NphPBXmnBZSfkSQOI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58015/90669f_DTDA_DLC_HighCouncil_1920x1080_nmzgog.jpeg",
       "excerpt": "Tra gli studi più colpiti dai tagli imposti alla divisione Xbox c'è la mitica iD Software che vede licenziati la metà dei dipendenti negli Stati Uniti... Leggi tutto",
@@ -167,11 +185,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Chat Control, l'Europa riaccende lo scontro sulla privacy",
-      "link": "https://www.tomshw.it/altro/chat-control-il-parlamento-europeo-riapre-il-dossier-piu-scomodo",
-      "excerpt": "La nuova deroga ePrivacy per il rilevamento volontario di abusi sessuali su minori online è tornata nel percorso legislativo europeo, ma con un limite rilevante: le comunicazioni…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100364/news-flash-569009.png",
-      "publishedAt": "2026-07-09T15:00:07+00:00",
+      "title": "Palworld 1.0, le patch note mandano in tilt Steam",
+      "link": "https://www.tomshw.it/videogioco/palworld-1-0-le-patch-note-sono-diventate-un-problema-su-steam",
+      "excerpt": "Le note di aggiornamento di Palworld 1.0 sono diventate talmente lunghe da superare il limite previsto da Steam. John Buckley, responsabile publishing e comunicazione di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100366/palworld-yellow.jpg",
+      "publishedAt": "2026-07-09T15:10:03+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -230,6 +248,15 @@
       "sourceColor": "#E63946"
     },
     {
+      "title": "Come gestire il problema della ShadowAI in azienda, ed evitare problemi legali",
+      "link": "https://www.tomshw.it/business/come-gestire-il-problema-della-shadowai-in-azienda-ed-evitare-problemi-legali",
+      "excerpt": "Oltre l'80% dei dipendenti usa sul lavoro strumenti AI mai passati da una revisione di sicurezza, e quasi la metà continuerebbe a farlo anche sotto divieto esplicito. Lo ha…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100225/07-shadow-ai-gestione-consigli-pratici-cover.jpg",
+      "publishedAt": "2026-07-09T07:30:06+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "Amazon, altri 25 miliardi di bond portano il debito a 92 miliardi di dollari",
       "link": "https://www.tomshw.it/business/amazon-altri-25-miliardi-di-bond-portano-il-debito-a-92-miliardi-di-dollari",
       "excerpt": "Amazon ha collocato il 7 luglio altri 25 miliardi di dollari di obbligazioni sul mercato USA, in otto tranche con scadenze comprese tra 3 e 40 anni. Lo riporta Fortune, che cita…",
@@ -239,38 +266,11 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Subnautica 2, il primo update cambia la difesa dai predatori",
-      "link": "https://www.tomshw.it/videogioco/subnautica-2-il-primo-update-cambia-la-difesa-dai-predatori",
-      "excerpt": "Subnautica 2 sta per intervenire su uno dei punti più discussi del suo Early Access: gli incontri con le creature ostili. Unknown Worlds Entertainment ha presentato Adaptive…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100108/header.jpg",
-      "publishedAt": "2026-07-08T13:40:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Escape the Backrooms, su Switch 2 la voce può condannarvi",
-      "link": "https://www.tomshw.it/videogioco/escape-the-backrooms-su-switch-2-la-voce-puo-condannarvi",
-      "excerpt": "Escape the Backrooms risulta ora disponibile anche su Nintendo Switch 2, portando sulla console Nintendo un horror cooperativo in prima persona costruito attorno a esplorazione,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100099/ss_4caad38e0abc643fc2723b00aa70429fac2e5d16-1920x1080.jpg",
-      "publishedAt": "2026-07-08T13:25:05+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il nuovo Codice di buone pratiche sulla trasparenza dei contenuti generati dall'IA",
-      "link": "https://www.tomshw.it/business/codice-buone-pratiche-trasparenza-contenuti-ia-art50-ai-act",
-      "excerpt": "Avv. Giuseppe Croari – Dott. Luigi Muraca Il 10 Giugno 2026 è stato pubblicato il Codice di buone pratiche sulla trasparenza dei contenuti generati dall'IA. Il contesto di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100035/tomslegal-cover.jpg",
-      "publishedAt": "2026-07-08T10:46:37+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Analizzare la rete locale con script AI-assisted, per identificare dispositivi, anomalie e drift di configurazione",
-      "link": "https://www.tomshw.it/aioperator/analizzare-rete-locale-script-ai-assisted",
-      "excerpt": "Un IT manager di una PMI scopre in media che sulla rete girano più dispositivi di quanti ne abbia mai censiti: stampanti di rete, NAS dimenticati, telecamere IP installate da un…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99255/04-it15-cover.jpg",
-      "publishedAt": "2026-07-02T13:40:16+00:00",
+      "title": "The Blood of Dawnwalker ha una scorciatoia che non perdona",
+      "link": "https://www.tomshw.it/videogioco/the-blood-of-dawnwalker-ha-una-scorciatoia-che-non-perdona",
+      "excerpt": "In The Blood of Dawnwalker il castello di Brencis non sarà chiuso dietro una lunga sequenza obbligatoria di missioni: dopo il prologo, il giocatore potrà tentare di raggiungerlo e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100092/the-blood-of-dawnwalker-permette-di-affrontare-il-boss-finale-subito-dopo-il-prologo.webp",
+      "publishedAt": "2026-07-08T13:45:07+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
