@@ -1,9 +1,198 @@
 {
-  "generatedAt": "2026-07-09T07:31:06.827702+00:00",
+  "generatedAt": "2026-07-09T10:47:42.428501+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Samsung Galaxy, in rollout l'aggiornamento Google di Luglio",
+      "link": "https://www.tomshw.it/smartphone/samsung-galaxy-l-aggiornamento-google-rimasto-indietro-si-sblocca",
+      "excerpt": "Gli smartphone Samsung Galaxy compatibili stanno iniziando a ricevere l'aggiornamento Google Play System di luglio 2026, un pacchetto che non va confuso con un update firmware…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97042/tomshw-offer-550911.png",
+      "publishedAt": "2026-07-09T10:36:34+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Subnautica 2, l'aggiornamento gratis va oltre i bug fix",
+      "link": "https://www.tomshw.it/videogioco/subnautica-2-il-primo-update-gratuito-non-si-ferma-ai-bug-fix",
+      "excerpt": "Subnautica 2 ha ricevuto il suo primo grande intervento post-lancio: l’aggiornamento gratuito Early Access 1.1 Adaptive Measures è stato pubblicato automaticamente l’8 luglio 2026…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/05/93369/subnautica-2-supera-qnc04blqi29vd6RfLk6.webp",
+      "publishedAt": "2026-07-09T10:35:18+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Busta paga, Jet HR porta l’AI nel cedolino per spiegare trattenute e variazioni",
+      "link": "https://www.hdblog.it/business/articoli/n663877/busta-paga-lntelligenza-artificiale/",
+      "excerpt": "Un assistente basato su intelligenza artificiale genera spiegazioni personalizzate",
+      "image": "https://hd2.tudocdn.net/1355803?w=660",
+      "publishedAt": "2026-07-09T10:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "In Cina puoi lasciare in eredità i tuoi account gaming",
+      "link": "https://www.tomshw.it/videogioco/account-gaming-in-cina-l-eredita-digitale-diventa-concreta",
+      "excerpt": "Un account di gioco online può finire nell’asse ereditario quando contiene beni virtuali con valore economico. È il principio che sta emergendo da diversi casi decisi dai…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/90292/steam-compare-su-nintendo-switch-grazie-a-proton-11-beta.webp",
+      "publishedAt": "2026-07-09T10:34:23+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Porta USB dietro il router? Può essere più utile di quanto immagini",
+      "link": "https://www.hdblog.it/hardware/articoli/n663878/porta-usb-router-funzione-utilizzi/",
+      "excerpt": "La porta USB del router può servire per condividere file, foto e video in rete, collegare una stampante oppure attivare una connessione 4G o 5G di emergenza",
+      "image": "https://hd2.tudocdn.net/1355801?w=660",
+      "publishedAt": "2026-07-09T10:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "4K Samsung a 189,90€: ViewFinity S7 dimezza il prezzo su Amazon",
+      "link": "https://www.tomshw.it/offerte/4k-samsung-a-18990eur-viewfinity-s7-dimezza-il-prezzo-su-amazon",
+      "excerpt": "Samsung ViewFinity S7 S27D702 costa 189,90€ su Amazon, con taglio del 50% rispetto ai 379€ di listino. Il richiamo è semplice: un pannello UHD 4K da 27 pollici per lavorare,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100273/tomshw-offer-568364.png",
+      "publishedAt": "2026-07-09T10:17:53+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Oppo Find N7: ancora più batteria e design \"Wide\" stile iPhone Ultra",
+      "link": "https://www.hdblog.it/smartphone/articoli/n663874/oppo-find-n7-pieghevole-wide-iphone-ultra-batteria/",
+      "excerpt": "Più largo e meno slanciato dell'attuale Find N6, con ben 6.500 mAh di batteria.",
+      "image": "https://hd2.tudocdn.net/1329865?w=660",
+      "publishedAt": "2026-07-09T10:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google: 350.000 dollari di premio a chi ha scoperto due gravi vulnerabilità Linux",
+      "link": "https://www.hdblog.it/google/articoli/n663863/google-ricompense-vulnerabilita-linux/",
+      "excerpt": "Januscape e GhostLock: i difetti rimasti nascosti per oltre quindici anni nei sistemi Linux",
+      "image": "https://hd2.tudocdn.net/1352462?w=660",
+      "publishedAt": "2026-07-09T10:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Granblue Fantasy: Relink, Endless Ragnarok è disponibile ma c'è un bivio",
+      "link": "https://www.tomshw.it/videogioco/granblue-fantasy-relink-endless-ragnarok-e-disponibile-ma-c-e-un-bivio",
+      "excerpt": "Granblue Fantasy: Relink - Endless Ragnarok è disponibile dal 9 luglio 2026 su Nintendo Switch 2, PlayStation 5, PlayStation 4 e Steam, portando il GdR d'azione di Cygames in una…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100271/ogp.png",
+      "publishedAt": "2026-07-09T10:07:10+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Video Remix arriva in Google Foto: l'AI di Gemini Omni per la modifica dei filmati",
+      "link": "https://www.hdblog.it/google/articoli/n663860/video-remix-google-foto-ai-gemini-omni/",
+      "excerpt": "La nuova funzionalità premium Video Remix di Google Foto permette di modificare i video con l'AI di Gemini Omni, bastano pochi tap.",
+      "image": "https://hd2.tudocdn.net/1355784?w=660",
+      "publishedAt": "2026-07-09T10:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "SpaceXAI lancia Grok 4.5, veloce ed economico come pochi. Ma l'Europa deve aspettare ancora un po’",
+      "link": "https://images.dday.it/X2KT0n7cr4XNnE4cJ2yrvPAoZO-z2PkBBoJlfc_pPv8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58005/ae670f_Screenshot_2026-07-09_alle_11.54.26.png",
+      "excerpt": "Prezzi aggressivi, 2 dollari per milione di token in ingresso, e velocità da modello leggero. L'arrivo nell'Unione Europea è previsto per metà luglio... Leggi tutto",
+      "image": "https://images.dday.it/X2KT0n7cr4XNnE4cJ2yrvPAoZO-z2PkBBoJlfc_pPv8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58005/ae670f_Screenshot_2026-07-09_alle_11.54.26.png",
+      "publishedAt": "2026-07-09T09:56:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Mappe free e rispettose della privacy: cresce il successo di CoMaps",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663851/comaps-mappe-gratis-navigazione-offline/",
+      "excerpt": "Gratuita, offline e senza raccolta dati",
+      "image": "https://hd2.tudocdn.net/1355767?w=660",
+      "publishedAt": "2026-07-09T09:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "I migliori titoli indie in sconto su Instant Gaming",
+      "link": "https://www.tomshw.it/videogioco/i-migliori-titoli-indie-in-sconto-su-instant-gaming",
+      "excerpt": "Aggiornamento 09/07: tra le offerte più rilevanti dei giochi indie di questa settimana troviamo Two Point Hospital e Esports Manager 2026. Se siete appassionati di videogiochi,…",
+      "image": "https://cdn.tomshw.it/storage/media/2025/12/78383/I-migliori-titoli-indie-in-sconto-su-Instant-Gaming.jpg",
+      "publishedAt": "2026-07-09T09:54:36+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Play Store, Google ridisegna le sezioni: cosa cambia nell’interfaccia",
+      "link": "https://www.hdblog.it/google/articoli/n663871/google-play-store-nuovo-design-pillole/",
+      "excerpt": "Il Play Store di Google si rinnova con pulsanti a pillola per le sottosezioni di App e Giochi. La scheda Per te sparisce come tab ma diventa la schermata predefinita delle due aree",
+      "image": "https://hd2.tudocdn.net/1314992?w=660",
+      "publishedAt": "2026-07-09T09:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "JEDEC, arriva la RAM SPHBM4 per abbattere i costi dei datacenter AI",
+      "link": "https://www.hdblog.it/hardware/articoli/n663869/jedec-sphbm4-taglio-costi-data-center-ai/",
+      "excerpt": "Non migliorerà la capacità produttive, ma almeno dovrebbe contenere i costi.",
+      "image": "https://hd2.tudocdn.net/1349366?w=660",
+      "publishedAt": "2026-07-09T09:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple Music arriva su oltre due milioni di Volvo con un aggiornamento software e tre mesi gratis",
+      "link": "https://images.dday.it/Msug9asyRj77z6ocLiCssLeX8Z60JiDpn4uNJrnL00c/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58004/079b88_Apple-Music-coming-to-more-than-two-million-Volvo-cars-with-up-to-three-months-free-subscription.jpg",
+      "excerpt": "L'integrazione riguarda i modelli dal 2020 in poi. Su EX60, EX90 e ES90 disponibile l'audio spaziale Dolby Atmos con l'impianto Bowers & Wilkins opzionale... Leggi tutto",
+      "image": "https://images.dday.it/Msug9asyRj77z6ocLiCssLeX8Z60JiDpn4uNJrnL00c/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58004/079b88_Apple-Music-coming-to-more-than-two-million-Volvo-cars-with-up-to-three-months-free-subscription.jpg",
+      "publishedAt": "2026-07-09T09:43:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "CAPSTONE completa la missione: una nuova era per l'esplorazione lunare",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663808/nasa-capstone-missione-luna-test-completati/",
+      "excerpt": "CAPSTONE conclude i test NASA per navigazione autonoma e comunicazioni nello spazio profondo.",
+      "image": "https://hd2.tudocdn.net/1355694?w=660",
+      "publishedAt": "2026-07-09T09:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Sonos taglia su design e user experience: via alcuni manager chiave",
+      "link": "https://www.hdblog.it/altadefinizione/articoli/n663861/sonos-licenziamenti-design/",
+      "excerpt": "Sonos ha licenziato manager dei team design, prodotto e user experience nell’ambito dei tagli decisi a fine giugno. Tra le uscite anche figure storiche dell’azienda",
+      "image": "https://hd2.tudocdn.net/1329697?w=660",
+      "publishedAt": "2026-07-09T09:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Meta sta pensando a occhiali smart che registrano tutta la giornata dell'utente",
+      "link": "https://images.dday.it/hV07npQkgBG6cTVrHdS8dlwVcdFqRVOeS_iQb94xeTk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58003/7ac5fe_metaglass.jpeg",
+      "excerpt": "Una cattura continua di tutto ciò che si sta facendo per poi interrogare un chatbot sulla propria vita (e addestrare modelli di IA, forse). Meta lo vuole fare, le normative…",
+      "image": "https://images.dday.it/hV07npQkgBG6cTVrHdS8dlwVcdFqRVOeS_iQb94xeTk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58003/7ac5fe_metaglass.jpeg",
+      "publishedAt": "2026-07-09T09:09:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Nell'app Google Home arrivano le automazioni suggerite per la casa smart",
+      "link": "https://images.dday.it/dfERqQCwq2RbaYRw3ftgDUZ_GxN9nAmKtmlUcZdO3hY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58001/f44089_aaaaa.png",
+      "excerpt": "Le routine proposte si possono modificare prima di attivarle e coprono casi d'uso comuni, dall'accensione delle telecamere di notte allo spegnimento delle luci a casa vuota...…",
+      "image": "https://images.dday.it/dfERqQCwq2RbaYRw3ftgDUZ_GxN9nAmKtmlUcZdO3hY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58001/f44089_aaaaa.png",
+      "publishedAt": "2026-07-09T09:01:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Chiunque può usare le tue foto di Instagram per generare immagini con l'IA. E tu non riceverai nessuna notifica",
+      "link": "https://images.dday.it/t8jAxkd0xM0jdHRR3Z38dWVK4_ddzLnV8H0NTeBE8uo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58002/a20a1d_snall_Screenshot_2026-07-09_alle_10.19.44_copia.png",
+      "excerpt": "La funzione accompagna il debutto di Muse Image, il nuovo modello di Meta. Si disattiva da \"Condivisione e riutilizzo\", ma i contenuti IA già generati non si eliminano nemmeno…",
+      "image": "https://images.dday.it/t8jAxkd0xM0jdHRR3Z38dWVK4_ddzLnV8H0NTeBE8uo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58002/a20a1d_snall_Screenshot_2026-07-09_alle_10.19.44_copia.png",
+      "publishedAt": "2026-07-09T08:23:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
     {
       "title": "Crollano le spedizioni di router: a crescere sono soltanto due nicchie di mercato",
       "link": "https://images.dday.it/PdG2AEGKhFPR382s5tuk3aDv8QQUR3HmXvI37yByRKU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58000/44ac2c_Depositphotos_310724328_XL.jpg",
@@ -12,114 +201,6 @@
       "publishedAt": "2026-07-09T07:28:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "L'alleanza Apple-Broadcom non è solo una questione di chip",
-      "link": "https://www.tomshw.it/business/broadcom-l-accordo-con-apple-va-oltre-i-chip-degli-iphone",
-      "excerpt": "Apple prevede di spendere oltre 30 miliardi di dollari con Broadcom in un nuovo quadro pluriennale per chip custom e componenti wireless destinati alle prossime generazioni di…",
-      "image": "https://cdn.tomshw.it/storage/media/2024/11/40646/20241105095000GC104386.jpg",
-      "publishedAt": "2026-07-09T07:23:26+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Mondiali 2026: dove vedere oggi Francia vs Marocco in TV e streaming",
-      "link": "https://www.tomshw.it/altro/mondiali-2026-dove-vedere-oggi-francia-vs-marocco-in-tv-e-streaming",
-      "excerpt": "La Coppa del Mondo entra nella sua fase caldissima. Oggi, giovedì 9 luglio 2026, prendono ufficialmente il via i quarti di finale del torneo con un big match spettacolare che…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98616/Mondiali-2026-dove-vedere-le-partite-di-oggi.png",
-      "publishedAt": "2026-07-09T07:23:24+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Una ricerca mostra perché l'AI fatica ancora con il malware",
-      "link": "https://www.tomshw.it/hardware/una-ricerca-mostra-perche-lai-fatica-ancora-con-il-malware",
-      "excerpt": "Una nuova ricerca mette in fila i motivi per cui l’AI continua a faticare nell’analisi del malware: i file da ispezionare sono spesso enormi, il codice non si comporta come testo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100196/una-ricerca-mostra-perche-l-ai-fatica-ancora-con-il-malware.png",
-      "publishedAt": "2026-07-09T07:20:29+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Nintendo eShop, le offerte della settimana da controllare su Switch e Switch 2",
-      "link": "https://www.tomshw.it/videogioco/nintendo-eshop-le-offerte-della-settimana-da-controllare-su-switch-e-switch",
-      "excerpt": "La nuova selezione settimanale del Nintendo eShop mette in evidenza diversi sconti digitali per Nintendo Switch e Nintendo Switch 2, con prezzi in euro validi nella finestra…",
-      "image": "https://cdn.tomshw.it/storage/media/2025/06/60782/nsw-condivisione-account.jpg",
-      "publishedAt": "2026-07-09T07:19:12+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il tuo router è il nascondiglio perfetto per un hacker",
-      "link": "https://www.tomshw.it/hardware/router-nascondiglio-perfetto-hacker",
-      "excerpt": "Un gruppo di hacker collegato alla Cina, tracciato come UAT-7810, sta usando router e access point compromessi per costruire una rete di relay capace di nascondere l'origine degli…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100189/hacker-legati-alla-cina-usano-router-ruckus-e-asus-per-nascondersi.png",
-      "publishedAt": "2026-07-09T07:18:09+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "SPESA Amazon: 10 prodotti da supermercato a prezzi imperdibili!",
-      "link": "https://www.tomshw.it/offerte/spesa-amazon-supermercato",
-      "excerpt": "Aggiornamento 09/07: tra le offerte più recenti aggiunte nell'articolo segnaliamo il mix di spezie Fuchs Professional, l'integratore alimentare di glutammina e una serie di…",
-      "image": "https://cdn.tomshw.it/storage/media/2024/08/32011/Prodotti-da-supermercato-a-prezzi-imperdibili-copertina.png",
-      "publishedAt": "2026-07-09T07:16:36+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il boom dei chip AI ha creato una nuova élite",
-      "link": "https://www.tomshw.it/hardware/il-boom-dei-chip-ai-crea-una-nuova-elite-in-corea-del-sud",
-      "excerpt": "Il boom dei chip AI sta cambiando la gerarchia del lavoro: in Corea del Sud gli ingegneri delle memorie di Samsung Electronics e SK Hynix sono diventati una nuova fascia…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100178/il-boom-dei-chip-ai-crea-una-nuova-elite-in-corea-del-sud.png",
-      "publishedAt": "2026-07-09T07:15:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Raffreddamento casa, consumi europei raddoppiati in 6 anni",
-      "link": "https://www.hdblog.it/green/articoli/n663783/raffreddamento-casa-consumi-europei-6-anni/",
-      "excerpt": "Nuovi dati Eurostat (preoccupanti)",
-      "image": "https://hd2.tudocdn.net/1355720?w=660",
-      "publishedAt": "2026-07-09T07:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Rapidus prepara la sua fab a 2 nm, ma mancano i clienti",
-      "link": "https://www.tomshw.it/hardware/rapidus-prepara-la-fab-a-2-nm-ma-manca-il-cliente-chiave",
-      "excerpt": "Rapidus ha delineato la tabella di marcia della fab IIM-1 di Chitose, in Giappone: la linea pilota è già operativa con litografia EUV e un prototipo 2 nm gate-all-around, ma il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100173/rapidus-prepara-la-fab-a-2-nm-ma-manca-il-cliente-chiave.png",
-      "publishedAt": "2026-07-09T07:13:16+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "A soli 1,11€/mese, PrivadoVPN lascia margine anche per un antivirus",
-      "link": "https://www.tomshw.it/hardware/a-soli-111eurmese-privadovpn-lascia-margine-anche-per-un-antivirus",
-      "excerpt": "Proteggere la vostra privacy durante la navigazione non deve necessariamente richiedere un investimento elevato. Con PrivadoVPN avete la possibilità di accedere a un servizio VPN…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/91347/Tutto-quello-che-vuoi-da-una-VPN,-a-solo-1€-(solo-con-PrivadoVPN).png",
-      "publishedAt": "2026-07-09T07:11:44+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Nuovi occhiali Meta con AI continua: emergono i primi dettagli",
-      "link": "https://www.hdblog.it/indossabili/articoli/n663839/meta-occhiali-ai-super-sensing/",
-      "excerpt": "Meta sviluppa occhiali AI sempre attivi, ma la privacy divide gli esperti.",
-      "image": "https://hd2.tudocdn.net/1355744?w=660",
-      "publishedAt": "2026-07-09T07:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Google sta rimuovendo per sempre alcune tra le estensioni di Chrome più utilizzate",
-      "link": "https://www.hdblog.it/google/articoli/n663826/google-chrome-stop-estensioni/",
-      "excerpt": "Google rimuoverà definitivamente dal Chrome Web Store le vecchie estensioni basate su Manifest V2.",
-      "image": "https://hd2.tudocdn.net/1355723?w=660",
-      "publishedAt": "2026-07-09T06:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "ChatGPT cambia voce: arriva GPT-Live, il modello che ascolta e parla allo stesso tempo",
@@ -131,31 +212,22 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Data center: il reattore nucleare USA fa un passo decisivo verso il debutto",
-      "link": "https://www.hdblog.it/green/articoli/n663810/aalo-atomics-reattore-nucleare-data-center/",
-      "excerpt": "Aalo raggiunge la criticità del reattore da 10 MW destinato ai futuri data center.",
-      "image": "https://hd2.tudocdn.net/1355697?w=660",
-      "publishedAt": "2026-07-09T06:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Sony, il CEO Totoki vende le azioni durante le proteste",
+      "link": "https://www.tomshw.it/videogioco/sony-il-ceo-totoki-vende-azioni-il-filing-sec-lascia-un-vuoto",
+      "excerpt": "Hiroki Totoki ha venduto 225.000 azioni di Sony Group Corporation a 21,02 dollari ciascuna, per un valore lordo di circa 4,73 milioni di dollari. L’operazione risulta da un Form 4…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100193/news-flash-567930.png",
+      "publishedAt": "2026-07-09T06:42:50+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Mova Mobius 60 a 799€: il robot top che cambia il panno da solo è al minimo Amazon",
-      "link": "https://www.hdblog.it/amazon/offerte/n663837/mova-mobius-60-robot-offerta-amazon-sconto-prezzo/",
-      "excerpt": "Mova Mobius 60 è in offerta su Amazon a 799€: nuovo minimo storico per il robot top di gamma che cambia automaticamente il panno.",
-      "image": "https://hd2.tudocdn.net/1312642?w=660",
-      "publishedAt": "2026-07-09T06:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Call center, arriva l'AI e scattano gli scioperi: si temono migliaia di esuberi",
-      "link": "https://www.hdblog.it/business/articoli/n663836/ai-call-center-scattano-scioperi-sindacati/",
-      "excerpt": "I call center sono tra i primi a sentire più pesantemente gli effetti dell'AI",
-      "image": "https://hd2.tudocdn.net/1355741?w=660",
-      "publishedAt": "2026-07-09T06:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Migliori sedie gaming sotto i 200€ (luglio 2026)",
+      "link": "https://www.tomshw.it/videogioco/sedia-da-gaming-migliori-200-euro",
+      "excerpt": "Le sedie da gaming restano una delle scelte più popolari per chi passa molte ore tra partite, studio e smart working, ma nella fascia sotto i 200 euro serve più attenzione…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/90261/migliori-sedie-gaming-sotto-200-euro-copertina.jpg",
+      "publishedAt": "2026-07-09T06:28:23+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Mondiali, le partite decisive si guardano in grande: il kit proiettore XGIMI MoGo 4 porta il maxischermo dove serve",
@@ -165,42 +237,6 @@
       "publishedAt": "2026-07-09T06:28:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Ricercatori cinesi sviluppano un chip per la mappatura cerebrale in tempo reale",
-      "link": "https://www.hdblog.it/hardware/articoli/n663811/chip-cinese-mappatura-cervello-tempo-reale/",
-      "excerpt": "Chip cinese ricostruisce il cervello in tempo reale fino a 478 volte più veloce.",
-      "image": "https://hd2.tudocdn.net/1355698?w=660",
-      "publishedAt": "2026-07-09T06:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Allarme sui pannelli solari: un hacker può spegnerli da remoto",
-      "link": "https://www.hdblog.it/green/articoli/n663833/vulnerabilita-inverter-hoymiles/",
-      "excerpt": "Scoperte gravi falle negli inverter Hoymiles: possibili attacchi remoti ai pannelli solari.",
-      "image": "https://hd2.tudocdn.net/1355735?w=660",
-      "publishedAt": "2026-07-09T06:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "WhatsApp vuole ricordarci i compleanni degli amici: in test una nuova funzione",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663834/whatsapp-vuole-ricordarci-compleanni/",
-      "excerpt": "WhatsApp sta lavorando a una nuova funzione dedicata ai compleanni dei contatti.",
-      "image": "https://hd2.tudocdn.net/1355738?w=660",
-      "publishedAt": "2026-07-09T06:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Euclid scopre i quasar più antichi mai osservati e riscrive la storia del cosmo",
-      "link": "https://www.hdblog.it/curiosita/articoli/n663807/euclid-quasar-piu-antichi-universo/",
-      "excerpt": "Euclid ha scoperto 31 antichi quasar, inclusi i due più remoti mai osservati.",
-      "image": "https://hd2.tudocdn.net/1355692?w=660",
-      "publishedAt": "2026-07-09T06:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Piscina pronta e giardino salvo dal caldo rovente: Aiper automatizza l’estate con i robot Scuba e IrriSense 2",
@@ -221,58 +257,22 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "MacBook Pro con M5 Pro è ora in offerta su Amazon",
-      "link": "https://images.dday.it/3buLFS3gkEzxoG4WM6PiNuZsHAusrCxBAdBjcugUha4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57990/79f221_81jPa-iNdUL._AC_SL1500_.jpg",
-      "excerpt": "Grande occasione per acquistare MacBook Pro con chip M5 Pro, AI e display Liquid Retina XDR a un prezzo ridotto... Leggi tutto",
-      "image": "https://images.dday.it/3buLFS3gkEzxoG4WM6PiNuZsHAusrCxBAdBjcugUha4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57990/79f221_81jPa-iNdUL._AC_SL1500_.jpg",
-      "publishedAt": "2026-07-08T13:12:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il browser di DuckDuckGo ora blocca le pubblicità di YouTube",
-      "link": "https://images.dday.it/0s05u4CKd-KOkt4tzKMfetNGVKryQ_ib33TcumruriU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57993/9eabac_Screenshot_2026-07-08_alle_14.37.24.png",
-      "excerpt": "La funzione, basata sui filtri di uBlock Origin, è attiva di default su iPhone, Windows e Mac. Su Android va abilitata dalle impostazioni... Leggi tutto",
-      "image": "https://images.dday.it/0s05u4CKd-KOkt4tzKMfetNGVKryQ_ib33TcumruriU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57993/9eabac_Screenshot_2026-07-08_alle_14.37.24.png",
-      "publishedAt": "2026-07-08T12:40:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il Tribunale UE respinge i ricorsi di Apple: App Store e iOS restano gatekeeper ai sensi del DMA",
-      "link": "https://images.dday.it/23Sp8FxW6cddxwXnSzlyKO3kMVbx74iie8vYJ31NKs4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57992/f6fb9a_Depositphotos_582540132_XL.jpg",
-      "excerpt": "I giudici hanno confermato che i cinque App Store formano un unico servizio di piattaforma e dichiarato inammissibili i ricorsi su iMessage. Ma Apple può ancora impugnare davanti…",
-      "image": "https://images.dday.it/23Sp8FxW6cddxwXnSzlyKO3kMVbx74iie8vYJ31NKs4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57992/f6fb9a_Depositphotos_582540132_XL.jpg",
-      "publishedAt": "2026-07-08T12:08:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "I nuovi Pixel 11 saranno lanciati il 13 agosto (in Italia). Poche indiscrezioni sulle caratteristiche, più certezze sui prezzi",
-      "link": "https://images.dday.it/Wi4rSuL0pVrGrITLsSP4HLfeQii5QBxaB3KKsiEPgqo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57991/2de42b_Screenshot_2026-07-08_alle_11.56.04.png",
-      "excerpt": "L'evento sarà il mercoledì 12, ma con il fuso orario corrisponde alla notte italiana del 13. I Pixel 11 saranno un miglioramento dei precedenti, con anche aumenti attesi sul…",
-      "image": "https://images.dday.it/Wi4rSuL0pVrGrITLsSP4HLfeQii5QBxaB3KKsiEPgqo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57991/2de42b_Screenshot_2026-07-08_alle_11.56.04.png",
-      "publishedAt": "2026-07-08T10:07:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Call of Duty: Black Ops, su PS5 spunta l'indizio che riapre il caso trofei",
-      "link": "https://www.tomshw.it/videogioco/call-of-duty-black-ops-su-ps5-spunta-l-indizio-che-riapre",
-      "excerpt": "Le versioni PlayStation moderne di Call of Duty: Black Ops e Call of Duty: Black Ops II potrebbero arrivare con liste trofei autonome su PS4 e PS5. L’indizio arriva dai metadati…",
-      "image": "https://cdn.tomshw.it/storage/media/2024/11/40149/blackops6.jpg",
-      "publishedAt": "2026-07-08T09:40:04+00:00",
+      "title": "Metacloud: cos'è, perché conviene e come le aziende possono iniziare a usarlo",
+      "link": "https://www.tomshw.it/business/metacloud-cosa-e-perche-conviene-aziende",
+      "excerpt": "Per anni ci siamo raccontati che il cloud avrebbe reso l'infrastruttura una risorsa libera, fluida, disponibile ovunque come l'elettricità dalla presa. La realtà con cui si…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100032/Metacloud-articolo.png",
+      "publishedAt": "2026-07-08T10:50:03+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "C'è un identificativo nascosto in ogni Windows: Microsoft può sapere quali siti visita il tuo PC",
-      "link": "https://images.dday.it/A3Q124-e0D2U9AVvbndqi3jC19AMrMETKvYE3c9mb5Y/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57989/3cbd12_Depositphotos_791261184_XL.jpg",
-      "excerpt": "Il caso del 19enne Peter Stokes, accusato di far parte di Scattered Spider, rivela l'esistenza del Global Device ID, che lega ogni installazione di Windows all'attività online...…",
-      "image": "https://images.dday.it/A3Q124-e0D2U9AVvbndqi3jC19AMrMETKvYE3c9mb5Y/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57989/3cbd12_Depositphotos_791261184_XL.jpg",
-      "publishedAt": "2026-07-08T09:31:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
+      "title": "Dal prompt singolo al micro-workflow ripetibile: 5 esempi pratici per manager e PMI",
+      "link": "https://www.tomshw.it/aioperator/dal-prompt-al-micro-workflow-ripetibile",
+      "excerpt": "Riscrivere lo stesso prompt ogni lunedì mattina è il sintomo di un problema di metodo, non di strumento. Chi gestisce un team piccolo lo fa spesso senza accorgersene: apre Claude…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99249/02-b38-cover.jpg",
+      "publishedAt": "2026-07-02T13:39:56+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     }
   ]
 }
