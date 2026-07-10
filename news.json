@@ -1,89 +1,206 @@
 {
-  "generatedAt": "2026-07-10T14:05:00.200707+00:00",
+  "generatedAt": "2026-07-10T17:42:11.560157+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Denza Z stravolge il mercato: quattro posti, 1.604 CV e ricarica in 9 minuti",
-      "link": "https://www.hdmotori.it/denza-z-1-604-cv-ricarica-9-minuti/",
-      "excerpt": "Il marchio premium di BYD ha svelato la Denza Z nella vetrina di Goodwood. Il car market green non sarà più lo stesso",
-      "image": "https://hd2.tudocdn.net/1356092?w=660",
-      "publishedAt": "2026-07-10T14:00:18+00:00",
+      "title": "SpaceX riporta in volo lo stesso razzo, per la 36ª volta",
+      "link": "https://www.tomshw.it/scienze/spacex-riporta-in-volo-lo-stesso-razzo-per-la-36a-volta",
+      "excerpt": "SpaceX ha utilizzato lo stesso booster 1067 per la 36ª missione orbitale, stabilendo un nuovo record interno. Il primo stadio del Falcon 9 aveva già volato 35 volte ed è tornato…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100655/spacex-riporta-in-volo-lo-stesso-razzo-per-la-36-volta.png",
+      "publishedAt": "2026-07-10T17:21:49+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La corsa alla DRAM spinge Nanya a quadruplicare gli investimenti",
+      "link": "https://www.tomshw.it/hardware/la-corsa-alla-dram-spinge-nanya-a-quadruplicare-gli-investimenti",
+      "excerpt": "Nanya prepara un investimento senza precedenti per ampliare la produzione di DRAM, mentre prezzi e disponibilità continuano a mettere sotto pressione il mercato delle memorie. Il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100648/la-corsa-alla-dram-spinge-nanya-a-quadruplicare-gli-investimenti.png",
+      "publishedAt": "2026-07-10T17:20:08+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Netflix guarda al passato per affrontare il calo di engagement tra gli abbonati",
+      "link": "https://www.hdblog.it/android/articoli/n664045/netflix-canali-always-on-piattaforme-terze/",
+      "excerpt": "Potrebbero arrivare presto i canali \"Always-on\", come ai vecchi tempi. Per combattere il calo di engagement.",
+      "image": "https://hd2.tudocdn.net/1356127?w=660",
+      "publishedAt": "2026-07-10T17:10:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Recensione Honor Magic V6, il foldable \"più smartphone\" di tutti",
-      "link": "https://www.tomshw.it/smartphone/recensione-honor-magic-v6-il-foldable-piu-smartphone-di-tutti",
-      "excerpt": "Con il Magic V6 Honor ha scelto una strada molto peculiare per il suo foldable: non ha provato a reinventare uno dei suoi device più apprezzati, ma si è prodigata nel perfezionare…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100627/IMG_2727.jpg",
-      "publishedAt": "2026-07-10T13:54:36+00:00",
+      "title": "Arknights: Endfield, Homecoming spinge su storia, fabbrica ed endgame",
+      "link": "https://www.tomshw.it/videogioco/arknights-endfield-homecoming-spinge-su-storia-fabbrica-ed-endgame",
+      "excerpt": "Arknights: Endfield chiuderà l'arco narrativo di Wuling con Homecoming, un aggiornamento corposo fissato da GRYPHLINE per il 16 luglio 2026. Il pacchetto aggiungerà due aree…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100680/Arknights_-Endfield-_Homecoming_-Key-Art.jpg",
+      "publishedAt": "2026-07-10T17:03:46+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "The Sinking City 2: nuovo trailer da brividi e preordini",
-      "link": "https://www.tomshw.it/videogioco/the-sinking-city-2-i-preorder-partono-con-un-trailer-piu-horror",
-      "excerpt": "The Sinking City 2 entra nella fase più concreta prima del lancio: i preorder sono aperti e il nuovo trailer gameplay mostra più da vicino la direzione scelta da Frogwares per il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100617/sinkingcity2.jpg",
-      "publishedAt": "2026-07-10T13:50:32+00:00",
+      "title": "La rivoluzione Xbox parte da un nome sorprendente",
+      "link": "https://www.tomshw.it/videogioco/asha-sharma-la-svolta-xbox-passa-da-un-profilo-inatteso",
+      "excerpt": "La prossima fase di Xbox potrebbe essere guidata da una dirigente arrivata fuori dal percorso classico del gaming console. Asha Sharma, manager Microsoft con un passato nell’area…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100434/840_560.jpg",
+      "publishedAt": "2026-07-10T17:03:16+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "HMD Skyline 2: prime immagini e nuove conferme per le specifiche",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664020/hmd-skyline-2-immagini-reali/",
-      "excerpt": "Prime foto e dettagli tecnici dello smartphone",
-      "image": "https://hd2.tudocdn.net/1356075?w=660",
-      "publishedAt": "2026-07-10T13:50:00+00:00",
+      "title": "Vespa e Amerigo Vespucci: svelato il modello unico a New York",
+      "link": "https://www.hdmotori.it/vespa-e-amerigo-vespucci-svelato-il-modello-unico-a-new-york/",
+      "excerpt": "Nel porto di New York il veliero della Marina Militare incontra lo scooter Piaggio: svelato un modello unico ispirato al design dello scafo e alle tele delle vele",
+      "image": "https://hd2.tudocdn.net/1356135?w=660",
+      "publishedAt": "2026-07-10T17:00:49+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Motorola, le nuove batterie reggono più ricariche ma non sono al top",
-      "link": "https://www.tomshw.it/smartphone/motorola-le-nuove-batterie-reggono-piu-ricariche-ma-non-sono-al-top",
-      "excerpt": "Le nuove batterie al silicio-carbonio di Motorola sono progettate per conservare circa l’80% della capacità dopo 1.000-1.200 cicli di ricarica. Il dato riguarda diversi smartphone…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/91289/Evento-Motorola-Razr-70-18.jpg",
-      "publishedAt": "2026-07-10T13:49:06+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Chi aspettava uno sconto Dyson dovrebbe vedere questa offerta",
-      "link": "https://www.tomshw.it/hardware/dyson-spotscrub-ai-robot-a-soli-849eur-con-coupon-2026-07-10",
-      "excerpt": "Su Dyson è disponibile un'offerta imperdibile sul Dyson Spot+Scrub Ai, il robot aspirapolvere lavapavimenti di ultima generazione. Grazie a un coupon da 150,00€, potranno portarsi…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100623/dyson-spotscrub-ai-robot-a-soli-849eur-con-coupon-2026-07-10-wmqnjk0i2lv5ug4jaCB4D.png",
-      "publishedAt": "2026-07-10T13:41:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Teleoperazioni e AI per rendere più sicuro lo smantellamento nucleare nel Regno Unito",
-      "link": "https://www.hdblog.it/green/articoli/n663918/regno-unito-robot-rifiuti-nucleari/",
-      "excerpt": "Robot teleoperati e AI per gestire in sicurezza i rifiuti nucleari nel Regno Unito.",
-      "image": "https://hd2.tudocdn.net/1206401?w=660",
-      "publishedAt": "2026-07-10T13:40:00+00:00",
+      "title": "Dalla Luna a Titano: le prossime grandi missioni della NASA",
+      "link": "https://www.hdblog.it/curiosita/articoli/n663924/missioni-nasa-2026-2028/",
+      "excerpt": "Sette missioni NASA porteranno uomini sulla Luna ed esploreranno lo spazio profondo.",
+      "image": "https://hd2.tudocdn.net/1296884?w=660",
+      "publishedAt": "2026-07-10T16:55:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Galaxy S26: il weekend del risparmio è iniziato, e gli sconti si sommano",
-      "link": "https://www.tomshw.it/smartphone/galaxy-s26-il-weekend-del-risparmio-e-iniziato-e-gli-sconti-si-sommano",
-      "excerpt": "Se state pensando di acquistare uno degli smartphone della gamma Galaxy S26, questo è il momento giusto per approfittare di una promozione vantaggiosa. Samsung ha infatti attivato…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100622/Galaxy-S26-il-weekend-del-risparmio-è-iniziato,-e-gli-sconti-si-sommano.png",
-      "publishedAt": "2026-07-10T13:32:06+00:00",
+      "title": "Motorola Edge 70 Max: le anticipazioni sulla batteria fanno tremare la concorrenza",
+      "link": "https://www.hdblog.it/smartphone/articoli/n663995/motorola-edge-70-max-batteria/",
+      "excerpt": "Il nuovo Motorola Edge 70 Max è in arrivo con una batteria superiore alle aspettative.",
+      "image": "https://hd2.tudocdn.net/1356044?w=660",
+      "publishedAt": "2026-07-10T16:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "30.000 Pa e rullo autopulente: Dreame Aqua10 Ultra a 749€",
+      "link": "https://www.tomshw.it/offerte/30000-pa-e-rullo-autopulente-dreame-aqua10-ultra-a-749eur",
+      "excerpt": "Dreame Aqua10 Ultra Roller Complete costa 749€ su Amazon, contro un listino di 1199€ e con uno sconto del 38%. È il prezzo più basso toccato finora per un robot aspirapolvere e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100677/tomshw-offer-571052.png",
+      "publishedAt": "2026-07-10T16:32:27+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Audi, finalmente tornano i tasti fisici: stop al dominio del touch",
-      "link": "https://www.hdmotori.it/audi-finalmente-tornano-i-tasti-fisici-stop-al-dominio-del-touch/",
-      "excerpt": "Audi conferma il ritorno dei tasti fisici negli interni delle prossime generazioni di auto. Meno dipendenza dai touchscreen e più sicurezza",
-      "image": "https://hd2.tudocdn.net/1356073?w=660",
-      "publishedAt": "2026-07-10T13:30:36+00:00",
+      "title": "Lexus LFA timbra il cartellino a Goodwood, corsa contro il tempo per il lancio ufficiale",
+      "link": "https://www.hdmotori.it/lexus-lfa-goodwood-lancio-ufficiale/",
+      "excerpt": "Con una livrea camouflage la Lexus LFA ha stupito gli appassionati accorsi al Festival Of Speed di Goodwood 2026",
+      "image": "https://hd2.tudocdn.net/1356131?w=660",
+      "publishedAt": "2026-07-10T16:30:31+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Marvel Rivals Stagione 9: cosa cambia tra ultimate e Team-Up",
+      "link": "https://www.tomshw.it/videogioco/marvel-rivals-la-stagione-9-taglia-le-ultimate-e-riscrive-i-team",
+      "excerpt": "Le ultimate di Marvel Rivals peseranno meno sul ritmo degli scontri con la Stagione 9: The Mystery of Thebes. NetEase Games ha preparato un aggiornamento ampio per l’hero shooter…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100673/marvelrivalsseason9themysteryofthebestrailer-ign-blogroll-1783452289192.jpg",
+      "publishedAt": "2026-07-10T16:25:10+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Star Trek: Strange New Worlds ritorna a luglio: i protagonisti in Italia",
+      "link": "https://www.hdblog.it/curiosita/articoli/n661565/star-trek-strange-new-worlds-4-trailer-data-uscita/",
+      "excerpt": "Trailer online e debutto il 23 luglio per la quarta stagione.",
+      "image": "https://hd2.tudocdn.net/1350309?w=660",
+      "publishedAt": "2026-07-10T16:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "CMU punta sull'AI fisica con 92 telecamere per robot e droni",
+      "link": "https://www.hdblog.it/droni/articoli/n663927/carnegie-mellon-optitrack-ai-fisica/",
+      "excerpt": "CMU installa 92 telecamere OptiTrack per accelerare ricerca su robot, droni e AI fisica.",
+      "image": "https://hd2.tudocdn.net/1355915?w=660",
+      "publishedAt": "2026-07-10T16:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Tiny11 25H2, Windows 11 dimagrisce ma la rinuncia pesa",
+      "link": "https://www.tomshw.it/hardware/tiny11-25h2-windows-11-dimagrisce-ma-la-rinuncia-pesa",
+      "excerpt": "Tiny11 25H2 porta Windows 11 25H2 in una forma molto più compatta rispetto all’installazione standard: la build viene indicata con circa 8 GB di spazio richiesto, contro i circa…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100671/2023-10-30-ts3_thumbs-e9b.webp",
+      "publishedAt": "2026-07-10T16:11:38+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Asha Sharma, CEO Xbox, nominata consulente della Federal Reserve americana",
+      "link": "https://www.hdblog.it/microsoft/articoli/n664041/asha-sharma-ceo-xbox-consulente-federal-reserve/",
+      "excerpt": "La decisione stupisce chi segue un po' da vicino le vicissitudini di Xbox.",
+      "image": "https://hd2.tudocdn.net/1356122?w=660",
+      "publishedAt": "2026-07-10T16:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Mobland 2: Paramount+ conferma l'arrivo a settembre 2026 | Teaser",
+      "link": "https://www.hdblog.it/spettacolo/articoli/n622855/mobland-2-paramount-rinnovata-serie-guy-ritchie/",
+      "excerpt": "Con 26 milioni di spettatori, la serie Mobland con Tom Hardy e Helen Mirren ottiene la seconda stagione",
+      "image": "https://hd2.tudocdn.net/1237661?w=660",
+      "publishedAt": "2026-07-10T16:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "RUF CTR3, così il motore boxer 8 cilindri arriva a 1.000 CV",
+      "link": "https://www.hdmotori.it/ruf-ctr3-motore-boxer-8-cilindri/",
+      "excerpt": "Da oltre un secolo RUF si preoccupa di sperimentare innovazioni che hanno trasformato iconiche Porsche. Il lavoro fatto con la CTR3 anticipa il trend del marchio tedesco",
+      "image": "https://hd2.tudocdn.net/1356126?w=660",
+      "publishedAt": "2026-07-10T16:00:15+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "FIFA, VAR e sensori dovevano spegnere le polemiche: è successo l'opposto",
+      "link": "https://www.tomshw.it/altro/fifa-var-e-sensori-dovevano-spegnere-le-polemiche-e-successo-l-opposto",
+      "excerpt": "VAR, sensori nel pallone, camere e sistemi assistiti da AI avrebbero dovuto rendere più leggibili le decisioni arbitrali del Mondiale FIFA 2026. La ricostruzione di Reuters…",
+      "image": "https://cdn.tomshw.it/storage/media/2025/09/68951/football-manager-26-si-svela-per-la-prima-volta-2025-09-05-Zg9Jdo19k5auo8joeBQtMsK.jpg",
+      "publishedAt": "2026-07-10T15:10:03+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "DENZA BAO 5 è il nuovo fuoristrada ibrido plug-in di BYD",
+      "link": "https://images.dday.it/BDGs2bCWiG8MOeb-JtcwAUXk4bJGDMS-DeVxf3x21Aw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58031/1322e0_DENZA_BAO_5__1_.jpg",
+      "excerpt": "Si tratta del primo SUV a marchio DENZA per il mercato europeo: utilizza la tecnologia ibrida plug-in DMO (Dual Mode Off-road) per i fuori strada e offre fino a 90 km di autonomia…",
+      "image": "https://images.dday.it/BDGs2bCWiG8MOeb-JtcwAUXk4bJGDMS-DeVxf3x21Aw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58031/1322e0_DENZA_BAO_5__1_.jpg",
+      "publishedAt": "2026-07-10T14:47:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "L'AI ha esaurito i dati buoni, l'Europa ne ha ancora",
+      "link": "https://www.tomshw.it/business/lai-ha-esaurito-i-dati-buoni-leuropa-ne-ha-ancora",
+      "excerpt": "Nel 2022 il gruppo di ricerca Epoch AI aveva stimato che le riserve di testo di alta qualità sul web si sarebbero esaurite prima del 2026, con una data mediana attorno al 2024.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100657/09-approfondimento-dati-europei-cover-v2.jpg",
+      "publishedAt": "2026-07-10T14:45:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Mercedes-AMG mette tre motori a flusso assiale nella CLA elettrica 4MATIC+: 680 CV e 670 km di autonomia",
+      "link": "https://images.dday.it/Wi7aSg9NwY4awbsONuaJQyk1C0JP6EIltYpivEwWEhk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58030/4fadaf_1920_26c0208_001.jpg",
+      "excerpt": "Debutto al Goodwood Festival of Speed per la sportiva compatta a batteria: 0-100 in meno di 3 secondi, ricarica a 330 kW e cambi marcia simulati... Leggi tutto",
+      "image": "https://images.dday.it/Wi7aSg9NwY4awbsONuaJQyk1C0JP6EIltYpivEwWEhk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58030/4fadaf_1920_26c0208_001.jpg",
+      "publishedAt": "2026-07-10T14:31:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Volkswagen ridurrà del 50% la gamma di modelli e ridimensionerà la sua capacità produttiva",
+      "link": "https://images.dday.it/1sC2pLmS9ffxJLxk2XsW-ZufaacuCeZ6iWmk8vg8nr4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58028/790737_DB2026AL00009_large.jpg",
+      "excerpt": "Il consiglio di amministrazione di Volkswagen ha presentato il suo nuovo piano di ristrutturazione del gruppo che passa da un radicale ridimensionamento sia in termini di gamma di…",
+      "image": "https://images.dday.it/1sC2pLmS9ffxJLxk2XsW-ZufaacuCeZ6iWmk8vg8nr4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58028/790737_DB2026AL00009_large.jpg",
+      "publishedAt": "2026-07-10T14:29:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Sei interessato al sottovuoto? Allora questa offerta è proprio pensata per te",
@@ -95,51 +212,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Quanta batteria avrà Oppo Find N7? Un leak ci svela il dato",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664015/oppo-find-n7-leak-batteria-capacita/",
-      "excerpt": "La capacità continua a crescere",
-      "image": "https://hd2.tudocdn.net/1329877?w=660",
-      "publishedAt": "2026-07-10T13:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Galaxy Z Fold 8, Fold 8 Ultra e Flip 8 paparazzati: eccoli nella prima foto dal vivo",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664008/samsung-galaxy-z-fold-8-ultra-flip-foto-reale-vivo/",
-      "excerpt": "Dalla Corea del Sud filtra uno scatto rubato.",
-      "image": "https://hd2.tudocdn.net/1356060?w=660",
-      "publishedAt": "2026-07-10T13:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Un'app usa la voce per anticipare le crisi d'asma e BPCO",
-      "link": "https://www.tomshw.it/scienze/unapp-usa-la-voce-per-anticipare-le-crisi-dasma-e-bpco",
-      "excerpt": "Un gruppo di ricercatori del Maastricht UMC+ e dell'Università di Maastricht ha testato TACTICAS, un'app sperimentale che registra brevi campioni vocali per individuare l'inizio…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100609/un-app-usa-la-voce-per-anticipare-le-crisi-d-asma-e-bpco.png",
-      "publishedAt": "2026-07-10T13:03:35+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "San Gottardo, corre a 172 km/h nel tunnel: fermato dopo 21 sorpassi vietati",
-      "link": "https://www.hdmotori.it/san-gottardo-folle-corsa-multa/",
-      "excerpt": "Un 22enne corre nel tunnel del San Gottardo: viaggiava a 172 km/h, ha effettuato 21 sorpassi ed è risultato positivo al test antidroga",
-      "image": "https://hd2.tudocdn.net/1356064?w=660",
-      "publishedAt": "2026-07-10T13:00:11+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il vostro Google Home Speaker è entrato in loop durante il setup? Soluzione in arrivo",
-      "link": "https://www.hdblog.it/google/articoli/n664011/google-home-speaker-loop-bugfix-in-arrivo/",
-      "excerpt": "Google ha già trovato una soluzione: il fix è in fase di distribuzione",
-      "image": "https://hd2.tudocdn.net/1350554?w=660",
-      "publishedAt": "2026-07-10T12:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Per la Commissione Europea il design di Instagram e Facebook crea dipendenza e viola il Digital Services Act",
       "link": "https://images.dday.it/OIjbb6x8SYYPpg78hR2wKnkAEELkaddnbOjNCxaYng4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58026/764b02_Screenshot_2026-07-10_alle_14.52.43.png",
       "excerpt": "Nel mirino scroll infinito, autoplay, notifiche push e raccomandazioni personalizzate. Dopo la contestazione di aprile sugli under 13, Meta rischia una multa fino al 6% del…",
@@ -147,42 +219,6 @@
       "publishedAt": "2026-07-10T12:53:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Skoda vola nel Regno Unito grazie alle elettriche Enyaq ed Elroq",
-      "link": "https://www.tomshw.it/automotive/skoda-vola-nel-regno-unito-grazie-alle-elettriche-enyaq-ed-elroq",
-      "excerpt": "Skoda UK ha chiuso il miglior primo semestre della propria storia nel Regno Unito, registrando 46.508 nuove auto tra gennaio e giugno 2026. Il risultato supera ogni precedente…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100606/skoda-vola-nel-regno-unito-grazie-alle-elettriche-enyaq-ed-elroq.png",
-      "publishedAt": "2026-07-10T12:51:49+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Instagram e Facebook, per l'UE le misure di Meta non fermano la dipendenza",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664010/instagram-facebook-dipendenza-europa/",
-      "excerpt": "Le attuali misure di sicurezza implementate da Meta non sono in grado di prevenire la dipendenza dai social media.",
-      "image": "https://hd2.tudocdn.net/1356063?w=660",
-      "publishedAt": "2026-07-10T12:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "DDL Concorrenza, stop telemarketing selvaggio anche per gli operatori telefonici",
-      "link": "https://www.hdblog.it/mobile/articoli/n664009/telemarketing-operatori-telefono-ddl-concorrenza/",
-      "excerpt": "È l'unico punto della bozza che soddisfa tutte le associazioni di consumatori.",
-      "image": "https://hd2.tudocdn.net/1257653?w=660",
-      "publishedAt": "2026-07-10T12:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Sulla ISS arriva l'ecografia guidata da IA e realtà aumentata",
-      "link": "https://www.tomshw.it/scienze/la-nasa-porta-sulla-iss-unecografia-con-ai-ma-guarda-a-marte",
-      "excerpt": "La NASA invierà l'astronauta Anil Menon sulla ISS per una missione di circa otto mesi. Tra le attività previste c'è un'ecografia eseguita con metodi di intelligenza artificiale e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100603/la-nasa-porta-sulla-iss-un-ecografia-con-ai-ma-guarda-a-marte.png",
-      "publishedAt": "2026-07-10T12:33:32+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Octopus vince la scommessa sulla flessibilità: spostati 200 MWh di consumi con i Power Up",
@@ -194,11 +230,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Digital twin assistiti da AI, ecco come simulare il business prima di agire",
-      "link": "https://www.tomshw.it/aioperator/digital-twin-ai-simulare-business",
-      "excerpt": "Un digital twin non è più solo il gemello virtuale di una linea di produzione o di una turbina. Nel 2026 il concetto si è allargato: puoi costruire una replica digitale del tuo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100539/03-ai19-cover.jpg",
-      "publishedAt": "2026-07-10T11:13:40+00:00",
+      "title": "Analizzare gare e bandi con l'AI, per presentarsi e vincere più spesso",
+      "link": "https://www.tomshw.it/aioperator/analizzare-gare-bandi-con-ai",
+      "excerpt": "Uno studio tecnico che partecipa a dieci gare l'anno spende in media 15-20 ore per ogni capitolato solo in lettura e schedatura, prima ancora di scrivere una riga di offerta. Il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100544/04-ing3-cover.jpg",
+      "publishedAt": "2026-07-10T11:13:51+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -235,42 +271,6 @@
       "excerpt": "Versione 1.1 di Muse Spark sembra andare nella direzione giusta per risollevare Meta dopo la caduta di Llama 4 Maverick del 2025. Già disponibile per tutti, Spark 1.1 tiene anche…",
       "image": "https://images.dday.it/i7GNe7cD_Rqf_LnHt03KtytNazm1VAVaG1rFnXbZa74/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58022/4605c1_741592324_1015424028134213_685261022012020935_n.png",
       "publishedAt": "2026-07-10T08:00:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Gli adolescenti europei chiedono più regole per i social, e l'introduzione di un limite per l'età",
-      "link": "https://images.dday.it/evEZ1ILGFX5PRfl7cAwUCWOh4zfOYjfojosbWP_C8aI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58020/9fb686_pexels-max-fischer-5212659.jpg",
-      "excerpt": "Da limiti sull'età a promozioni degli influencer, la Commissione Europea ha tenuto in considerazione le voci dei più piccoli nella stesura delle regolamentazioni che li…",
-      "image": "https://images.dday.it/evEZ1ILGFX5PRfl7cAwUCWOh4zfOYjfojosbWP_C8aI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58020/9fb686_pexels-max-fischer-5212659.jpg",
-      "publishedAt": "2026-07-10T07:52:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Netflix potrebbe lanciare canali lineari e bundle con altri servizi di streaming",
-      "link": "https://images.dday.it/nmXRjCRH8nYnZ_FKl6L2qUNj0v6rNtBFhuDj09JeCe4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58019/246565_MediaCenter_iOS_Mobile_Home_IT_IT.jpg",
-      "excerpt": "Su Netflix potrebbero arrivare dei canali lineari dedicati a generi o serie specifiche. La mossa punterebbe a frenare il calo del tempo passato sulla piattaforma degli utenti. In…",
-      "image": "https://images.dday.it/nmXRjCRH8nYnZ_FKl6L2qUNj0v6rNtBFhuDj09JeCe4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58019/246565_MediaCenter_iOS_Mobile_Home_IT_IT.jpg",
-      "publishedAt": "2026-07-10T07:36:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migliori dissipatori CPU (luglio 2026)",
-      "link": "https://www.tomshw.it/guide/migliori-dissipatori-cpu",
-      "excerpt": "Se per il vostro nuovo computer avete scelto uno dei migliori processori PC, il dissipatore non è un accessorio secondario: è il componente che permette alla CPU di mantenere…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/89859/migliori-dissipatori-cpu-copertina.jpg",
-      "publishedAt": "2026-07-10T06:48:40+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "GPT-5.6 arriva per tutti, e con Work ChatGPT diventa una \"superapp\"",
-      "link": "https://images.dday.it/p_NlBtg1vf88RsFXcPDf5l0jij83FwAdgklOe0jTf_U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58018/dcc4a6_small_Screenshot_2026-07-09_alle_22.54.22_copia.png",
-      "excerpt": "Sol sui piani a pagamento, Terra e Luna anche per gli utenti gratuiti. Nuova app desktop che opera su file e applicazioni locali, e siti web generati e condivisibili... Leggi tutto",
-      "image": "https://images.dday.it/p_NlBtg1vf88RsFXcPDf5l0jij83FwAdgklOe0jTf_U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58018/dcc4a6_small_Screenshot_2026-07-09_alle_22.54.22_copia.png",
-      "publishedAt": "2026-07-10T06:48:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
