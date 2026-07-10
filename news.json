@@ -1,116 +1,215 @@
 {
-  "generatedAt": "2026-07-10T07:28:51.023388+00:00",
+  "generatedAt": "2026-07-10T10:45:52.491451+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Mondiali 2026: dove vedere oggi Spagna vs Belgio in TV e streaming",
-      "link": "https://www.tomshw.it/altro/mondiali-2026-dove-vedere-oggi-spagna-vs-belgio-in-tv-e-streaming",
-      "excerpt": "I quarti di finale dei Mondiali 2026 entrano nel vivo. Oggi, venerdì 10 luglio 2026, riflettori puntati sul big match della serata che vedrà scontrarsi due pesi massimi del calcio…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98616/Mondiali-2026-dove-vedere-le-partite-di-oggi.png",
-      "publishedAt": "2026-07-10T07:23:21+00:00",
+      "title": "7 prompt ChatGPT e DALL-E per branding, thumbnail, social e mockup: il kit per chi non è grafico",
+      "link": "https://www.tomshw.it/aioperator/7-prompt-chatgpt-branding-thumbnail-mockup",
+      "excerpt": "Apri ChatGPT, scrivi un prompt strutturato, e in due minuti hai un kit di brand completo con palette colori e font pairing. Non serve più DALL-E: dal 12 maggio 2026 OpenAI ha…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100516/810115-cover-safearea-v2.jpg",
+      "publishedAt": "2026-07-10T10:39:30+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Regulus è il chip AI che fa da \"cervello\" ai robot del futuro",
-      "link": "https://www.tomshw.it/hardware/mobilint-prepara-regulus-il-chip-ai-per-robot-e-droni",
-      "excerpt": "Mobilint sta preparando la produzione di Regulus, una nuova NPU progettata per gestire carichi di intelligenza artificiale a bordo di robot e droni. Il passaggio verso la fase…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100410/mobilint-prepara-regulus-il-chip-ai-per-robot-e-droni.png",
-      "publishedAt": "2026-07-10T07:18:55+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Questo ransomware disattiva le difese prima di cifrare i file",
-      "link": "https://www.tomshw.it/hardware/il-ransomware-goddamn-disattiva-le-difese-prima-di-cifrare-i-file",
-      "excerpt": "Il gruppo criminale Hyadina sta impiegando il nuovo ransomware GodDamn insieme a un driver capace di neutralizzare le difese dei sistemi Windows prima della cifratura. L'analisi…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100406/il-ransomware-goddamn-disattiva-le-difese-prima-di-cifrare-i-file.png",
-      "publishedAt": "2026-07-10T07:16:14+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il primo passo? Con PureVPN è già in discesa. Fino all'85% di sconto",
-      "link": "https://www.tomshw.it/hardware/il-primo-passo-con-purevpn-e-gia-in-discesa-fino-all85-di-sconto",
-      "excerpt": "Ogni percorso verso una maggiore sicurezza digitale parte da una scelta consapevole. Proteggere la vostra privacy online significa poter navigare, lavorare e utilizzare i vostri…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/05/94570/Il-primo-passo-verso-una-navigazione-sicura-PureVPN-scontata-fino-all’85-.png",
-      "publishedAt": "2026-07-10T07:15:45+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Compra un SSD da 16 TB su eBay, dentro c’è una microSD da 60 GB",
-      "link": "https://www.tomshw.it/hardware/un-falso-ssd-da-16-tb-nasconde-pesi-e-una-microsd-incollata",
-      "excerpt": "Un acquirente di eBay ha acquistato di recente un sospetto SSD esterno da 16 TB, lo ha aperto e ha scoperto che nell'involucro era nascosta una microSD da 60 GB. Il dispositivo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100401/un-falso-ssd-da-16-tb-nasconde-pesi-e-una-microsd-incollata.png",
-      "publishedAt": "2026-07-10T07:15:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Riparare una RTX 3070 con il condensatore di una radio? Qualcuno lo ha fatto",
-      "link": "https://www.tomshw.it/hardware/un-padre-ripara-una-rtx-3070-con-il-condensatore-di-una-radio",
-      "excerpt": "Alexander, elettricista e saldatore di 55 anni, ha rimesso in funzione la RTX 3070 del figlio usando un condensatore recuperato da una vecchia radio. L'intervento, realizzato dopo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100395/un-padre-ripara-una-rtx-3070-con-il-condensatore-di-una-radio.png",
-      "publishedAt": "2026-07-10T07:13:21+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Zuckerberg, Altman e gli altri: i bunker segreti dei miliardari",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n663962/bunker-lusso-miliardari-zuckerberg-altman/",
-      "excerpt": "I super ricchi investono in bunker di lusso tra guerre, crisi e timori sull'AI.",
-      "image": "https://hd2.tudocdn.net/1355966?w=660",
-      "publishedAt": "2026-07-10T07:10:00+00:00",
+      "title": "Windows Defender, la patch correttiva di Microsoft è fallata a sua volta",
+      "link": "https://www.hdblog.it/microsoft/articoli/n663993/windows-11-10-defender-disco-saturo-falla-patch/",
+      "excerpt": "Un attacco potrebbe portare il drive di sistema alla saturazione totale, rendendo estremamente instabile tutto il computer.",
+      "image": "https://hd2.tudocdn.net/1356043?w=660",
+      "publishedAt": "2026-07-10T10:35:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Trust Forze-B per PS5 e PS4 a 25€: cuffie PlayStation al 50%",
-      "link": "https://www.tomshw.it/videogioco/trust-forze-b-ps5-ps4-25eur-cuffie-playstation-50-2026-07-10",
-      "excerpt": "Trust Forze-B sono cuffie con microfono per PS4 e PS5 con licenza ufficiale PlayStation, pensate per giocare e comunicare in modo semplice. In questa promozione il prezzo scende a…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100392/trust-forze-b-ps5-ps4-25eur-cuffie-playstation-50-2026-07-10-7Mgamfijifvtn620l1dVy.png",
-      "publishedAt": "2026-07-10T07:07:57+00:00",
+      "title": "Un computer quantistico potrebbe risolvere il nodo della fusione",
+      "link": "https://www.tomshw.it/scienze/un-computer-quantistico-potrebbe-risolvere-il-nodo-della-fusione",
+      "excerpt": "Ricercatori di IBM e dell'Oak Ridge National Laboratory hanno combinato supercomputer, intelligenza artificiale e hardware quantistico per progettare un metodo più efficace di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100510/un-computer-quantistico-potrebbe-risolvere-il-nodo-della-fusione.png",
+      "publishedAt": "2026-07-10T10:32:01+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Logitech G305 LIGHTSPEED a 30€: mouse gaming wireless al 50%",
-      "link": "https://www.tomshw.it/hardware/logitech-g305-lightspeed-30eur-mouse-gaming-wireless-50-2026-07-10",
-      "excerpt": "Logitech G305 LIGHTSPEED è un mouse gaming wireless con sensore HERO 12K, 12.000 DPI, sei pulsanti programmabili e autonomia dichiarata fino a 250 ore. In questa promozione il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100391/logitech-g305-lightspeed-30eur-mouse-gaming-wireless-50-2026-07dr41u1pt6kive9H2OmQ.png",
-      "publishedAt": "2026-07-10T07:06:42+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Logitech G PRO X Wireless a 120€: cuffie gaming premium dimezzate",
-      "link": "https://www.tomshw.it/hardware/logitech-g-pro-x-wireless-120eur-cuffie-gaming-premium-dimezzate-2026-07-10",
-      "excerpt": "Logitech G PRO X Wireless sono cuffie gaming wireless LIGHTSPEED con microfono Blue VO!CE, driver Pro-G da 50 mm e supporto DTS Headphone:X 2.0. In questa promozione il prezzo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/96020/logitech-g-pro-x-wireless-a-meta-prezzo-headset-gaming-sotto-i-h1hdutlorkffa6sEtAN.png",
-      "publishedAt": "2026-07-10T07:05:35+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "WhatsApp avvisa quando qualcuno fissa un messaggio in chat: novità in beta",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663965/whatsapp-avvisa-fissa-messaggio-chat/",
-      "excerpt": "L’app sta iniziando a mostrare una notifica ogni volta che qualcuno fissa un contenuto in una chat privata o in un gruppo",
-      "image": "https://hd2.tudocdn.net/1355970?w=660",
-      "publishedAt": "2026-07-10T06:55:00+00:00",
+      "title": "Ottocast a IFA 2026 con le nuove soluzioni di connettività e infotainment",
+      "link": "https://www.hdmotori.it/ottocast-ifa-2026/",
+      "excerpt": "L'azienda presenterà alla fiera di Berlino le nuove soluzioni per la connettività, la sicurezza e l'infotainment per il settore auto.",
+      "image": "https://hd2.tudocdn.net/1356041?w=660",
+      "publishedAt": "2026-07-10T10:30:52+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "134 milioni a Quaise: la tecnologia del MIT punta al calore estremo della Terra",
-      "link": "https://www.hdblog.it/green/articoli/n663921/quaise-geotermia-supercalda-134-milioni/",
-      "excerpt": "Quaise investe nella perforazione a onde millimetriche per la geotermia supercalda.",
-      "image": "https://hd2.tudocdn.net/1355910?w=660",
-      "publishedAt": "2026-07-10T06:50:00+00:00",
+      "title": "GTA VI, una data Take-Two fa sperare nel terzo trailer",
+      "link": "https://www.tomshw.it/videogioco/gta-vi-una-data-di-take-two-potrebbe-riaprire-la-pista-del",
+      "excerpt": "L’estate di Grand Theft Auto VI ha già acceso la fase commerciale del gioco, e ora una nuova data nel calendario di Take-Two Interactive sta riportando l’attenzione sul possibile…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/98057/GTA-6-(2).webp",
+      "publishedAt": "2026-07-10T10:26:36+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Guanto robotico intelligente: ridà la presa dopo una paralisi",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663925/guanto-robotico-paralisi-mani/",
+      "excerpt": "Guanto pneumatico con AI aiuta persone con paralisi a recuperare la presa.",
+      "image": "https://hd2.tudocdn.net/1355914?w=660",
+      "publishedAt": "2026-07-10T10:25:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Windows 11, l'audio condiviso c'è ma il vero ostacolo è il PC",
+      "link": "https://www.tomshw.it/hardware/windows-11-l-audio-condiviso-c-e-ma-il-vero-ostacolo-e",
+      "excerpt": "Un solo PC Windows 11 può ora inviare lo stesso audio a due cuffie, auricolari, speaker o apparecchi acustici compatibili, senza splitter fisici e senza passare da soluzioni…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100504/news-flash-570207.png",
+      "publishedAt": "2026-07-10T10:19:38+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Minecraft su Game Boy, la demake fan-made non si ferma al colore",
+      "link": "https://www.tomshw.it/videogioco/minecraft-su-game-boy-la-demake-fan-made-non-si-ferma-al",
+      "excerpt": "Far entrare Minecraft in uno schermo da 160x144 pixel è già una sfida tecnica; farlo funzionare anche su un Game Boy monocromatico del 1989 rende il progetto molto più…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100503/9UHYrCvadDwY85gCaWS6a4-1920-80.jpg",
+      "publishedAt": "2026-07-10T10:14:57+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Alien: Earth, stagione 2 in produzione: il cast ora pesa di più",
+      "link": "https://www.tomshw.it/altro/alien-earth-stagione-2-in-produzione-il-cast-ora-pesa-di-piu",
+      "excerpt": "La seconda stagione di Alien: Earth è entrata in produzione a Londra e amplia il cast con tre nuovi ingressi: Tracey Ullman, Sam Spruell e Jerome Flynn. I nuovi interpreti si…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100502/Alien-pianeta-terra.webp",
+      "publishedAt": "2026-07-10T10:11:40+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "70€ per questo altoparlante Bluetooth? Potrebbe essere la nuova sorpresa di Aliexpress",
+      "link": "https://www.tomshw.it/hardware/altoparlante-bluetooth-in-legno-w8c-sconto-del-50-2026-07-10",
+      "excerpt": "Su AliExpress è disponibile un'offerta imperdibile sull'Altoparlante Bluetooth in Legno W8C, un dispositivo da 12W dotato di 4 diffusori, radio FM, ingresso AUX 3.5mm, lettore…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100500/altoparlante-bluetooth-in-legno-w8c-sconto-del-50-2026-07-10-wZvkfana3qb5p445gPJwv.png",
+      "publishedAt": "2026-07-10T10:07:01+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Mondiali 2026: Atlas incanta il pubblico con le celebrazioni dei bomber",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n663928/atlas-mondiali-2026-esultanze-robot/",
+      "excerpt": "Atlas debutta ai Mondiali 2026 ricreando celebrazioni iconiche e consegnando il pallone.",
+      "image": "https://hd2.tudocdn.net/1355916?w=660",
+      "publishedAt": "2026-07-10T10:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Limitatore di velocità satellitare dal 2030: le auto freneranno se si supera il limite?",
+      "link": "https://www.hdmotori.it/limitatore-velocita-satellitare-2030/",
+      "excerpt": "Bruxelles studia il controllo remoto della velocità per le auto. Ma i test stradali bocciano l'affidabilità dei sistemi.",
+      "image": "https://hd2.tudocdn.net/1356038?w=660",
+      "publishedAt": "2026-07-10T10:00:06+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il terzo trailer di GTA 6 potrebbe uscire a inizio agosto, l'indizio arriva da Take-Two",
+      "link": "https://www.hdblog.it/games/articoli/n663978/terzo-trailer-gta-6-inizio-agosto-indizio-take-two/",
+      "excerpt": "Il publisher ha pianificato una call per il 7 agosto: possibile l'arrivo di novità importanti su GTA 6, forse il tanto atteso terzo trailer.",
+      "image": "https://hd2.tudocdn.net/1355997?w=660",
+      "publishedAt": "2026-07-10T09:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il rasoio elettrico più venduto di Philips è in offerta su Amazon a 59,99 euro",
+      "link": "https://images.dday.it/-5owrxSPYk6jiA5xMu198E5dnCJxUrsufvyG1YvewpQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/53413/2561cb_ape2.jpg",
+      "excerpt": "Il rasoio elettrico Philips Serie 3000 è ora scontato su Amazon: lame autoaffilanti PowerCut, testine flessibili e utilizzo wet & dry lo rendono ideale per una rasatura comoda e…",
+      "image": "https://images.dday.it/-5owrxSPYk6jiA5xMu198E5dnCJxUrsufvyG1YvewpQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/53413/2561cb_ape2.jpg",
+      "publishedAt": "2026-07-10T09:46:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "L'Europa scotta: cosa sapere sul caldo estremo in 5 punti",
+      "link": "https://www.hdblog.it/green/articoli/n663974/clima-5-cose-sapere-caldo-europa/",
+      "excerpt": "Cresce l'allarme per i cambiamenti climatici.",
+      "image": "https://hd2.tudocdn.net/1356021?w=660",
+      "publishedAt": "2026-07-10T09:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Jeremy Clarkson al volante del SUV cinese che si ispira al Range Rover: giudizio inaspettato",
+      "link": "https://www.hdmotori.it/jeremy-clarkson-jaecoo-7/",
+      "excerpt": "Il giornalista Jeremy Clarkson, ex conduttore di Top Gear e The Grand Tour, ha parlato senza filtri della Jaecoo 7, la \"Ranger Rover Temu\"",
+      "image": "https://hd2.tudocdn.net/1356025?w=660",
+      "publishedAt": "2026-07-10T09:36:33+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il Google Store sta iniziando a vendere anche dispositivi di altri produttori?",
+      "link": "https://www.hdblog.it/indossabili/articoli/n663986/google-store-usa-samsung-galaxy-watch-8/",
+      "excerpt": "Negli Stati Uniti, da qualche ora e solo passando dal Play Store, è possibile comprare tutte le varianti di Galaxy Watch 8. Cosa sta succedendo, di preciso?",
+      "image": "https://hd2.tudocdn.net/1318608?w=660",
+      "publishedAt": "2026-07-10T09:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Fastweb e Vodafone, aumenta il prezzo di ingresso per i piani FWA",
+      "link": "https://www.hdblog.it/mobile/articoli/n663981/fastweb-vodafone-prezzi-fwa-aumento/",
+      "excerpt": "1 euro al mese in più per i piani Casa FWA Light. Vale per le nuove attivazioni.",
+      "image": "https://hd2.tudocdn.net/1356005?w=660",
+      "publishedAt": "2026-07-10T09:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Atlas, il browser di OpenAI sarà spento il 9 agosto. È durato meno di un anno",
+      "link": "https://images.dday.it/SlVlEp09vKfrmpH4fOWCGf2lJ8mZUyeCVv5TTPKJK3Y/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58023/5615d3_cov_erScreenshot_2026-07-10_alle_10.47.41_copia.png",
+      "excerpt": "OpenAI abbandona Atlas e trasferisce le funzioni di navigazione assistita in ChatGPT e Codex. Il browser smetterà di funzionare il 9 agosto e gli utenti dovranno mettere al sicuro…",
+      "image": "https://images.dday.it/SlVlEp09vKfrmpH4fOWCGf2lJ8mZUyeCVv5TTPKJK3Y/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58023/5615d3_cov_erScreenshot_2026-07-10_alle_10.47.41_copia.png",
+      "publishedAt": "2026-07-10T08:50:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Meta dà il via alla produzione dei suoi più potenti chip per l'IA. Entro il 2027 data center per 14 GW",
+      "link": "https://images.dday.it/t4Ad49iDTJSzrZwll-BNfnCsmmrvhBegbZ5mkH-ZTiE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58021/a03335_MTAI_1.jpg",
+      "excerpt": "Entro fine anno Meta intende portare la sua capacità di calcolo fino a 7 GW, per poi raddoppiarla a 14 GW il prossimo anno. I suoi chip essenziali per rendersi indipendente da…",
+      "image": "https://images.dday.it/t4Ad49iDTJSzrZwll-BNfnCsmmrvhBegbZ5mkH-ZTiE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58021/a03335_MTAI_1.jpg",
+      "publishedAt": "2026-07-10T08:49:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Meta lancia Muse Spark 1.1, modello di “classe Opus” che costa pochissimo. Disponibile anche in meta.ai",
+      "link": "https://images.dday.it/i7GNe7cD_Rqf_LnHt03KtytNazm1VAVaG1rFnXbZa74/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58022/4605c1_741592324_1015424028134213_685261022012020935_n.png",
+      "excerpt": "Versione 1.1 di Muse Spark sembra andare nella direzione giusta per risollevare Meta dopo la caduta di Llama 4 Maverick del 2025. Già disponibile per tutti, Spark 1.1 tiene anche…",
+      "image": "https://images.dday.it/i7GNe7cD_Rqf_LnHt03KtytNazm1VAVaG1rFnXbZa74/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58022/4605c1_741592324_1015424028134213_685261022012020935_n.png",
+      "publishedAt": "2026-07-10T08:00:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Gli adolescenti europei chiedono più regole per i social, e l'introduzione di un limite per l'età",
+      "link": "https://images.dday.it/evEZ1ILGFX5PRfl7cAwUCWOh4zfOYjfojosbWP_C8aI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58020/9fb686_pexels-max-fischer-5212659.jpg",
+      "excerpt": "Da limiti sull'età a promozioni degli influencer, la Commissione Europea ha tenuto in considerazione le voci dei più piccoli nella stesura delle regolamentazioni che li…",
+      "image": "https://images.dday.it/evEZ1ILGFX5PRfl7cAwUCWOh4zfOYjfojosbWP_C8aI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58020/9fb686_pexels-max-fischer-5212659.jpg",
+      "publishedAt": "2026-07-10T07:52:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Netflix potrebbe lanciare canali lineari e bundle con altri servizi di streaming",
+      "link": "https://images.dday.it/nmXRjCRH8nYnZ_FKl6L2qUNj0v6rNtBFhuDj09JeCe4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58019/246565_MediaCenter_iOS_Mobile_Home_IT_IT.jpg",
+      "excerpt": "Su Netflix potrebbero arrivare dei canali lineari dedicati a generi o serie specifiche. La mossa punterebbe a frenare il calo del tempo passato sulla piattaforma degli utenti. In…",
+      "image": "https://images.dday.it/nmXRjCRH8nYnZ_FKl6L2qUNj0v6rNtBFhuDj09JeCe4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58019/246565_MediaCenter_iOS_Mobile_Home_IT_IT.jpg",
+      "publishedAt": "2026-07-10T07:36:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "GPT-5.6 arriva per tutti, e con Work ChatGPT diventa una \"superapp\"",
@@ -122,58 +221,13 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "WeWard, novità dall'app che ti paga per camminare",
-      "link": "https://www.hdblog.it/smartphone/articoli/n663930/weward-novita-app-paga-camminare-dipendenza/",
-      "excerpt": "Una funzionalità da segnalare",
-      "image": "https://hd2.tudocdn.net/1355928?w=660",
-      "publishedAt": "2026-07-10T06:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "OpenAI rende disponibile GPT-5.6 e lancia ChatGPT Work: lavora per ore su app e file",
-      "link": "https://www.hdblog.it/business/articoli/n663959/openai-gpt-56-work-chatgpt-diventa-agente/",
-      "excerpt": "Sol, Terra e Luna arrivano in ChatGPT, Codex e API; il nuovo agente può lavorare per ore su app e file e creare documenti, presentazioni, fogli di calcolo e siti web.",
-      "image": "https://hd2.tudocdn.net/1355964?w=660",
-      "publishedAt": "2026-07-10T06:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Gli USA puntano sui laser contro gli sciami di droni: ecco la nuova arma",
-      "link": "https://www.hdblog.it/droni/articoli/n663919/usa-veicoli-robotici-laser-anti-drone/",
-      "excerpt": "Veicoli robotici USA con laser anti-drone per proteggere le missioni logistiche.",
-      "image": "https://hd2.tudocdn.net/1352100?w=660",
-      "publishedAt": "2026-07-10T06:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Fusione nucleare, il Giappone accelera: al via il reattore pilota del futuro",
-      "link": "https://www.hdblog.it/green/articoli/n663926/helical-fusion-affida-a-hazama-ando-la-costruzione/",
-      "excerpt": "Helical Fusion sceglie Hazama Ando per realizzare il reattore pilota Helix KANATA previsto negli anni 2030.",
-      "image": "https://hd2.tudocdn.net/992827?w=660",
-      "publishedAt": "2026-07-10T06:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Airbus e MTU preparano il primo motore elettrico a idrogeno per aerei",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n663916/airbus-mtu-motore-elettrico-idrogeno/",
-      "excerpt": "Airbus e MTU svilupperanno un motore elettrico a idrogeno per aerei commerciali.",
-      "image": "https://hd2.tudocdn.net/1355901?w=660",
-      "publishedAt": "2026-07-10T06:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il fenomeno virale di Roost, il social network dove la lentezza è la feature chiave",
-      "link": "https://www.hdblog.it/android/articoli/n663955/roost-social-lento-fenomeno-virale-app/",
-      "excerpt": "Potremmo chiamarlo un \"simulatore di piccione viaggiatore\"... con un sacco di animali in più, per variare un po'.",
-      "image": "https://hd2.tudocdn.net/1355956?w=660",
-      "publishedAt": "2026-07-10T06:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Migliori ventole per PC (luglio 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-ventole-pc",
+      "excerpt": "Mantenere il PC ben raffreddato è più importante che mai, soprattutto considerando l'aumento di prestazioni e consumi energetici dei componenti moderni. Le ventole per PC sono il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/88560/migliori-ventole-pc-copertina.jpg",
+      "publishedAt": "2026-07-10T06:27:52+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Il nuovo Allarme con Scudo Perimetrale Verisure: invisibile per chi abita, un problema per chi prova a entrare",
@@ -183,15 +237,6 @@
       "publishedAt": "2026-07-10T06:00:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Una \"GPU\" fatta in casa con migliaia di chip RISC-V",
-      "link": "https://www.hdblog.it/hardware/articoli/n663953/bitluni-gpu-custom-migliaia-core-risc-v/",
-      "excerpt": "Lo YouTuber Bitluni è tornato con uno dei progetti più ambiziosi mai realizzati nel mondo dell’elettronica fai-da-te: una GPU composta da migliaia di microcontrollori RISC-V che…",
-      "image": "https://hd2.tudocdn.net/1355950?w=660",
-      "publishedAt": "2026-07-10T05:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Piscina pronta e giardino salvo dal caldo rovente: Aiper automatizza l’estate con i robot Scuba e IrriSense 2",
@@ -212,65 +257,20 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Il direttore di DDAY svela i nuovi TV Sony True RGB: appuntamento per venerdì dalle 17 al MediaWorld Porta di Roma",
-      "link": "https://images.dday.it/p-vURsfh6gGY5VNz0qcuu7UuvJoUncnmGCHkIBcOjig/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58016/79eee0_sonybravia.jpg",
-      "excerpt": "Appuntamento con i nuovi TV Sony e DDAY al Mediaworld Tech Village di Roma: vi aspettiamo numerosi venerdì 10 dalle ore 17 alle ore 19 per la première di nuovi TV True RGB di…",
-      "image": "https://images.dday.it/p-vURsfh6gGY5VNz0qcuu7UuvJoUncnmGCHkIBcOjig/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58016/79eee0_sonybravia.jpg",
-      "publishedAt": "2026-07-09T17:18:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
+      "title": "Apple testa DRAM CXMT in Cina: arriveranno da noi?",
+      "link": "https://www.tomshw.it/business/apple-starebbe-testando-dram-cxmt-per-la-cina-il-nodo-non-e",
+      "excerpt": "Apple starebbe cercando margine sul costo della memoria guardando anche alla Cina: il Financial Times ha riportato che Cupertino ha avviato test su DRAM di ChangXin Memory…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/02/82625/apple-prepara-smartphone-pieghevoli-come-samsung-2026-02-02-ypcLTdCNw.jpg",
+      "publishedAt": "2026-07-09T08:35:03+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
-      "title": "A volte tornano: riecco la Sony RX10, quinta versione. La bridge superzoom rinasce con l'autofocus delle Alpha",
-      "link": "https://images.dday.it/kNN_pQ84ZRVjnfih_VG80o2EsZBAHd8k7YyL22zlYbA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57996/7e4dc8_RX10_V_image_front_top_black-Large.jpg",
-      "excerpt": "A nove anni dalla RX10 IV, Sony aggiorna la sua bridge premium con un nuovo processore, un chip AI dedicato e un autofocus che arriva direttamente dal mondo Alpha. L'obiettivo…",
-      "image": "https://images.dday.it/kNN_pQ84ZRVjnfih_VG80o2EsZBAHd8k7YyL22zlYbA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57996/7e4dc8_RX10_V_image_front_top_black-Large.jpg",
-      "publishedAt": "2026-07-09T17:02:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il reset di Xbox ha colpito pesantemente id Software e Bethesda",
-      "link": "https://images.dday.it/-Q7wlqy7UPfAbj9hGPUq5iZRO5NphPBXmnBZSfkSQOI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58015/90669f_DTDA_DLC_HighCouncil_1920x1080_nmzgog.jpeg",
-      "excerpt": "Tra gli studi più colpiti dai tagli imposti alla divisione Xbox c'è la mitica iD Software che vede licenziati la metà dei dipendenti negli Stati Uniti... Leggi tutto",
-      "image": "https://images.dday.it/-Q7wlqy7UPfAbj9hGPUq5iZRO5NphPBXmnBZSfkSQOI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58015/90669f_DTDA_DLC_HighCouncil_1920x1080_nmzgog.jpeg",
-      "publishedAt": "2026-07-09T15:32:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Un telescopio completo a meno del solito: l'offerta Amazon da tenere d’occhio",
-      "link": "https://images.dday.it/-Qqe3pm--7baPjlxy8WsZCc5RiPnT2on1JJMQ2onXCs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58013/ecbc8f_914P4YckQrL._AC_SL1500_.jpg",
-      "excerpt": "Ideale per principianti e curiosi dell'astronomia, con accessori inclusi e app per l'osservazione del cielo... Leggi tutto",
-      "image": "https://images.dday.it/-Qqe3pm--7baPjlxy8WsZCc5RiPnT2on1JJMQ2onXCs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58013/ecbc8f_914P4YckQrL._AC_SL1500_.jpg",
-      "publishedAt": "2026-07-09T15:15:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Xiaomi SkyNomad è il nuovo SUV con abitacolo trasformabile",
-      "link": "https://images.dday.it/Tv3LK7SziDmxE6kdIwGH2FLNzVLR09ySksPWJxAqfBQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58012/c5f208_Xiaomi_2.jpg",
-      "excerpt": "Xiaomi annuncia un nuovo SUV elettrico che fa dell'abitabilità dell'interno la sua principale caratteristica: all'occorrenza diventerà un ufficio mobile o un piccolo salotto per…",
-      "image": "https://images.dday.it/Tv3LK7SziDmxE6kdIwGH2FLNzVLR09ySksPWJxAqfBQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58012/c5f208_Xiaomi_2.jpg",
-      "publishedAt": "2026-07-09T14:27:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Claude ora fa il \"Wrapped\": arriva la dashboard per riflettere su quanto (e come) usi l'IA",
-      "link": "https://images.dday.it/1jfhsQiAg2OQGgk6Wx7BO9RPvjE1WuxLoTtdihY0i8o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58011/6b7d5b_Screenshot_2026-07-09_alle_16.04.09.png",
-      "excerpt": "La funzione \"Reflect\" analizza fino a 12 mesi di chat e permette di impostare ore di silenzio e promemoria per le pause... Leggi tutto",
-      "image": "https://images.dday.it/1jfhsQiAg2OQGgk6Wx7BO9RPvjE1WuxLoTtdihY0i8o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58011/6b7d5b_Screenshot_2026-07-09_alle_16.04.09.png",
-      "publishedAt": "2026-07-09T14:05:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Verho: Curse of Faces, la maledizione arriva su console",
-      "link": "https://www.tomshw.it/videogioco/verho-curse-of-faces-arriva-su-ps5-xbox-series-e-switch-con",
-      "excerpt": "Un volto scoperto uccide all'istante: è da questa regola che parte Verho: Curse of Faces, RPG dark fantasy in prima persona che arriverà su PlayStation 5, Xbox Series X|S e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100135/Verho-Curse-of-Faces_0-1024x576.jpg",
-      "publishedAt": "2026-07-08T14:50:03+00:00",
+      "title": "Digimon Time Stranger su Switch 2: promesse e incognite",
+      "link": "https://www.tomshw.it/videogioco/digimon-story-time-stranger-su-switch-2-risolve-un-limite-ma-lascia",
+      "excerpt": "La novità più concreta di Digimon Story: Time Stranger su Nintendo Switch 2 è la possibilità di giocarlo fino a 60 FPS, un passo avanti netto rispetto al profilo tecnico delle…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100139/digimon-story-time-stranger-switch-2-review-port-thumb.png",
+      "publishedAt": "2026-07-08T15:15:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
