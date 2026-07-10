@@ -1,125 +1,206 @@
 {
-  "generatedAt": "2026-07-10T10:45:52.491451+00:00",
+  "generatedAt": "2026-07-10T14:05:00.200707+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "7 prompt ChatGPT e DALL-E per branding, thumbnail, social e mockup: il kit per chi non è grafico",
-      "link": "https://www.tomshw.it/aioperator/7-prompt-chatgpt-branding-thumbnail-mockup",
-      "excerpt": "Apri ChatGPT, scrivi un prompt strutturato, e in due minuti hai un kit di brand completo con palette colori e font pairing. Non serve più DALL-E: dal 12 maggio 2026 OpenAI ha…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100516/810115-cover-safearea-v2.jpg",
-      "publishedAt": "2026-07-10T10:39:30+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Windows Defender, la patch correttiva di Microsoft è fallata a sua volta",
-      "link": "https://www.hdblog.it/microsoft/articoli/n663993/windows-11-10-defender-disco-saturo-falla-patch/",
-      "excerpt": "Un attacco potrebbe portare il drive di sistema alla saturazione totale, rendendo estremamente instabile tutto il computer.",
-      "image": "https://hd2.tudocdn.net/1356043?w=660",
-      "publishedAt": "2026-07-10T10:35:00+00:00",
+      "title": "Denza Z stravolge il mercato: quattro posti, 1.604 CV e ricarica in 9 minuti",
+      "link": "https://www.hdmotori.it/denza-z-1-604-cv-ricarica-9-minuti/",
+      "excerpt": "Il marchio premium di BYD ha svelato la Denza Z nella vetrina di Goodwood. Il car market green non sarà più lo stesso",
+      "image": "https://hd2.tudocdn.net/1356092?w=660",
+      "publishedAt": "2026-07-10T14:00:18+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Un computer quantistico potrebbe risolvere il nodo della fusione",
-      "link": "https://www.tomshw.it/scienze/un-computer-quantistico-potrebbe-risolvere-il-nodo-della-fusione",
-      "excerpt": "Ricercatori di IBM e dell'Oak Ridge National Laboratory hanno combinato supercomputer, intelligenza artificiale e hardware quantistico per progettare un metodo più efficace di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100510/un-computer-quantistico-potrebbe-risolvere-il-nodo-della-fusione.png",
-      "publishedAt": "2026-07-10T10:32:01+00:00",
+      "title": "Recensione Honor Magic V6, il foldable \"più smartphone\" di tutti",
+      "link": "https://www.tomshw.it/smartphone/recensione-honor-magic-v6-il-foldable-piu-smartphone-di-tutti",
+      "excerpt": "Con il Magic V6 Honor ha scelto una strada molto peculiare per il suo foldable: non ha provato a reinventare uno dei suoi device più apprezzati, ma si è prodigata nel perfezionare…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100627/IMG_2727.jpg",
+      "publishedAt": "2026-07-10T13:54:36+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Ottocast a IFA 2026 con le nuove soluzioni di connettività e infotainment",
-      "link": "https://www.hdmotori.it/ottocast-ifa-2026/",
-      "excerpt": "L'azienda presenterà alla fiera di Berlino le nuove soluzioni per la connettività, la sicurezza e l'infotainment per il settore auto.",
-      "image": "https://hd2.tudocdn.net/1356041?w=660",
-      "publishedAt": "2026-07-10T10:30:52+00:00",
+      "title": "The Sinking City 2: nuovo trailer da brividi e preordini",
+      "link": "https://www.tomshw.it/videogioco/the-sinking-city-2-i-preorder-partono-con-un-trailer-piu-horror",
+      "excerpt": "The Sinking City 2 entra nella fase più concreta prima del lancio: i preorder sono aperti e il nuovo trailer gameplay mostra più da vicino la direzione scelta da Frogwares per il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100617/sinkingcity2.jpg",
+      "publishedAt": "2026-07-10T13:50:32+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "HMD Skyline 2: prime immagini e nuove conferme per le specifiche",
+      "link": "https://www.hdblog.it/smartphone/articoli/n664020/hmd-skyline-2-immagini-reali/",
+      "excerpt": "Prime foto e dettagli tecnici dello smartphone",
+      "image": "https://hd2.tudocdn.net/1356075?w=660",
+      "publishedAt": "2026-07-10T13:50:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "GTA VI, una data Take-Two fa sperare nel terzo trailer",
-      "link": "https://www.tomshw.it/videogioco/gta-vi-una-data-di-take-two-potrebbe-riaprire-la-pista-del",
-      "excerpt": "L’estate di Grand Theft Auto VI ha già acceso la fase commerciale del gioco, e ora una nuova data nel calendario di Take-Two Interactive sta riportando l’attenzione sul possibile…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98057/GTA-6-(2).webp",
-      "publishedAt": "2026-07-10T10:26:36+00:00",
+      "title": "Motorola, le nuove batterie reggono più ricariche ma non sono al top",
+      "link": "https://www.tomshw.it/smartphone/motorola-le-nuove-batterie-reggono-piu-ricariche-ma-non-sono-al-top",
+      "excerpt": "Le nuove batterie al silicio-carbonio di Motorola sono progettate per conservare circa l’80% della capacità dopo 1.000-1.200 cicli di ricarica. Il dato riguarda diversi smartphone…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/91289/Evento-Motorola-Razr-70-18.jpg",
+      "publishedAt": "2026-07-10T13:49:06+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Guanto robotico intelligente: ridà la presa dopo una paralisi",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n663925/guanto-robotico-paralisi-mani/",
-      "excerpt": "Guanto pneumatico con AI aiuta persone con paralisi a recuperare la presa.",
-      "image": "https://hd2.tudocdn.net/1355914?w=660",
-      "publishedAt": "2026-07-10T10:25:00+00:00",
+      "title": "Chi aspettava uno sconto Dyson dovrebbe vedere questa offerta",
+      "link": "https://www.tomshw.it/hardware/dyson-spotscrub-ai-robot-a-soli-849eur-con-coupon-2026-07-10",
+      "excerpt": "Su Dyson è disponibile un'offerta imperdibile sul Dyson Spot+Scrub Ai, il robot aspirapolvere lavapavimenti di ultima generazione. Grazie a un coupon da 150,00€, potranno portarsi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100623/dyson-spotscrub-ai-robot-a-soli-849eur-con-coupon-2026-07-10-wmqnjk0i2lv5ug4jaCB4D.png",
+      "publishedAt": "2026-07-10T13:41:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Teleoperazioni e AI per rendere più sicuro lo smantellamento nucleare nel Regno Unito",
+      "link": "https://www.hdblog.it/green/articoli/n663918/regno-unito-robot-rifiuti-nucleari/",
+      "excerpt": "Robot teleoperati e AI per gestire in sicurezza i rifiuti nucleari nel Regno Unito.",
+      "image": "https://hd2.tudocdn.net/1206401?w=660",
+      "publishedAt": "2026-07-10T13:40:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Windows 11, l'audio condiviso c'è ma il vero ostacolo è il PC",
-      "link": "https://www.tomshw.it/hardware/windows-11-l-audio-condiviso-c-e-ma-il-vero-ostacolo-e",
-      "excerpt": "Un solo PC Windows 11 può ora inviare lo stesso audio a due cuffie, auricolari, speaker o apparecchi acustici compatibili, senza splitter fisici e senza passare da soluzioni…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100504/news-flash-570207.png",
-      "publishedAt": "2026-07-10T10:19:38+00:00",
+      "title": "Galaxy S26: il weekend del risparmio è iniziato, e gli sconti si sommano",
+      "link": "https://www.tomshw.it/smartphone/galaxy-s26-il-weekend-del-risparmio-e-iniziato-e-gli-sconti-si-sommano",
+      "excerpt": "Se state pensando di acquistare uno degli smartphone della gamma Galaxy S26, questo è il momento giusto per approfittare di una promozione vantaggiosa. Samsung ha infatti attivato…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100622/Galaxy-S26-il-weekend-del-risparmio-è-iniziato,-e-gli-sconti-si-sommano.png",
+      "publishedAt": "2026-07-10T13:32:06+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Minecraft su Game Boy, la demake fan-made non si ferma al colore",
-      "link": "https://www.tomshw.it/videogioco/minecraft-su-game-boy-la-demake-fan-made-non-si-ferma-al",
-      "excerpt": "Far entrare Minecraft in uno schermo da 160x144 pixel è già una sfida tecnica; farlo funzionare anche su un Game Boy monocromatico del 1989 rende il progetto molto più…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100503/9UHYrCvadDwY85gCaWS6a4-1920-80.jpg",
-      "publishedAt": "2026-07-10T10:14:57+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Alien: Earth, stagione 2 in produzione: il cast ora pesa di più",
-      "link": "https://www.tomshw.it/altro/alien-earth-stagione-2-in-produzione-il-cast-ora-pesa-di-piu",
-      "excerpt": "La seconda stagione di Alien: Earth è entrata in produzione a Londra e amplia il cast con tre nuovi ingressi: Tracey Ullman, Sam Spruell e Jerome Flynn. I nuovi interpreti si…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100502/Alien-pianeta-terra.webp",
-      "publishedAt": "2026-07-10T10:11:40+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "70€ per questo altoparlante Bluetooth? Potrebbe essere la nuova sorpresa di Aliexpress",
-      "link": "https://www.tomshw.it/hardware/altoparlante-bluetooth-in-legno-w8c-sconto-del-50-2026-07-10",
-      "excerpt": "Su AliExpress è disponibile un'offerta imperdibile sull'Altoparlante Bluetooth in Legno W8C, un dispositivo da 12W dotato di 4 diffusori, radio FM, ingresso AUX 3.5mm, lettore…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100500/altoparlante-bluetooth-in-legno-w8c-sconto-del-50-2026-07-10-wZvkfana3qb5p445gPJwv.png",
-      "publishedAt": "2026-07-10T10:07:01+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Mondiali 2026: Atlas incanta il pubblico con le celebrazioni dei bomber",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n663928/atlas-mondiali-2026-esultanze-robot/",
-      "excerpt": "Atlas debutta ai Mondiali 2026 ricreando celebrazioni iconiche e consegnando il pallone.",
-      "image": "https://hd2.tudocdn.net/1355916?w=660",
-      "publishedAt": "2026-07-10T10:05:00+00:00",
+      "title": "Audi, finalmente tornano i tasti fisici: stop al dominio del touch",
+      "link": "https://www.hdmotori.it/audi-finalmente-tornano-i-tasti-fisici-stop-al-dominio-del-touch/",
+      "excerpt": "Audi conferma il ritorno dei tasti fisici negli interni delle prossime generazioni di auto. Meno dipendenza dai touchscreen e più sicurezza",
+      "image": "https://hd2.tudocdn.net/1356073?w=660",
+      "publishedAt": "2026-07-10T13:30:36+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Limitatore di velocità satellitare dal 2030: le auto freneranno se si supera il limite?",
-      "link": "https://www.hdmotori.it/limitatore-velocita-satellitare-2030/",
-      "excerpt": "Bruxelles studia il controllo remoto della velocità per le auto. Ma i test stradali bocciano l'affidabilità dei sistemi.",
-      "image": "https://hd2.tudocdn.net/1356038?w=660",
-      "publishedAt": "2026-07-10T10:00:06+00:00",
+      "title": "Sei interessato al sottovuoto? Allora questa offerta è proprio pensata per te",
+      "link": "https://images.dday.it/bKe3wM3MKDIG5JapP5101SEZBJ0g4UCoVo-ouEI3RVU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58027/cc262e_71hDwnwXplL._AC_SL1500_.jpg",
+      "excerpt": "Scopri tutti i vantaggi del sottovuoto e approfitta di una soluzione pensata per conservare meglio e più a lungo... Leggi tutto",
+      "image": "https://images.dday.it/bKe3wM3MKDIG5JapP5101SEZBJ0g4UCoVo-ouEI3RVU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58027/cc262e_71hDwnwXplL._AC_SL1500_.jpg",
+      "publishedAt": "2026-07-10T13:21:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Quanta batteria avrà Oppo Find N7? Un leak ci svela il dato",
+      "link": "https://www.hdblog.it/smartphone/articoli/n664015/oppo-find-n7-leak-batteria-capacita/",
+      "excerpt": "La capacità continua a crescere",
+      "image": "https://hd2.tudocdn.net/1329877?w=660",
+      "publishedAt": "2026-07-10T13:20:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Il terzo trailer di GTA 6 potrebbe uscire a inizio agosto, l'indizio arriva da Take-Two",
-      "link": "https://www.hdblog.it/games/articoli/n663978/terzo-trailer-gta-6-inizio-agosto-indizio-take-two/",
-      "excerpt": "Il publisher ha pianificato una call per il 7 agosto: possibile l'arrivo di novità importanti su GTA 6, forse il tanto atteso terzo trailer.",
-      "image": "https://hd2.tudocdn.net/1355997?w=660",
-      "publishedAt": "2026-07-10T09:55:00+00:00",
+      "title": "Galaxy Z Fold 8, Fold 8 Ultra e Flip 8 paparazzati: eccoli nella prima foto dal vivo",
+      "link": "https://www.hdblog.it/smartphone/articoli/n664008/samsung-galaxy-z-fold-8-ultra-flip-foto-reale-vivo/",
+      "excerpt": "Dalla Corea del Sud filtra uno scatto rubato.",
+      "image": "https://hd2.tudocdn.net/1356060?w=660",
+      "publishedAt": "2026-07-10T13:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Un'app usa la voce per anticipare le crisi d'asma e BPCO",
+      "link": "https://www.tomshw.it/scienze/unapp-usa-la-voce-per-anticipare-le-crisi-dasma-e-bpco",
+      "excerpt": "Un gruppo di ricercatori del Maastricht UMC+ e dell'Università di Maastricht ha testato TACTICAS, un'app sperimentale che registra brevi campioni vocali per individuare l'inizio…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100609/un-app-usa-la-voce-per-anticipare-le-crisi-d-asma-e-bpco.png",
+      "publishedAt": "2026-07-10T13:03:35+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "San Gottardo, corre a 172 km/h nel tunnel: fermato dopo 21 sorpassi vietati",
+      "link": "https://www.hdmotori.it/san-gottardo-folle-corsa-multa/",
+      "excerpt": "Un 22enne corre nel tunnel del San Gottardo: viaggiava a 172 km/h, ha effettuato 21 sorpassi ed è risultato positivo al test antidroga",
+      "image": "https://hd2.tudocdn.net/1356064?w=660",
+      "publishedAt": "2026-07-10T13:00:11+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il vostro Google Home Speaker è entrato in loop durante il setup? Soluzione in arrivo",
+      "link": "https://www.hdblog.it/google/articoli/n664011/google-home-speaker-loop-bugfix-in-arrivo/",
+      "excerpt": "Google ha già trovato una soluzione: il fix è in fase di distribuzione",
+      "image": "https://hd2.tudocdn.net/1350554?w=660",
+      "publishedAt": "2026-07-10T12:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Per la Commissione Europea il design di Instagram e Facebook crea dipendenza e viola il Digital Services Act",
+      "link": "https://images.dday.it/OIjbb6x8SYYPpg78hR2wKnkAEELkaddnbOjNCxaYng4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58026/764b02_Screenshot_2026-07-10_alle_14.52.43.png",
+      "excerpt": "Nel mirino scroll infinito, autoplay, notifiche push e raccomandazioni personalizzate. Dopo la contestazione di aprile sugli under 13, Meta rischia una multa fino al 6% del…",
+      "image": "https://images.dday.it/OIjbb6x8SYYPpg78hR2wKnkAEELkaddnbOjNCxaYng4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58026/764b02_Screenshot_2026-07-10_alle_14.52.43.png",
+      "publishedAt": "2026-07-10T12:53:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Skoda vola nel Regno Unito grazie alle elettriche Enyaq ed Elroq",
+      "link": "https://www.tomshw.it/automotive/skoda-vola-nel-regno-unito-grazie-alle-elettriche-enyaq-ed-elroq",
+      "excerpt": "Skoda UK ha chiuso il miglior primo semestre della propria storia nel Regno Unito, registrando 46.508 nuove auto tra gennaio e giugno 2026. Il risultato supera ogni precedente…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100606/skoda-vola-nel-regno-unito-grazie-alle-elettriche-enyaq-ed-elroq.png",
+      "publishedAt": "2026-07-10T12:51:49+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Instagram e Facebook, per l'UE le misure di Meta non fermano la dipendenza",
+      "link": "https://www.hdblog.it/smartphone/articoli/n664010/instagram-facebook-dipendenza-europa/",
+      "excerpt": "Le attuali misure di sicurezza implementate da Meta non sono in grado di prevenire la dipendenza dai social media.",
+      "image": "https://hd2.tudocdn.net/1356063?w=660",
+      "publishedAt": "2026-07-10T12:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "DDL Concorrenza, stop telemarketing selvaggio anche per gli operatori telefonici",
+      "link": "https://www.hdblog.it/mobile/articoli/n664009/telemarketing-operatori-telefono-ddl-concorrenza/",
+      "excerpt": "È l'unico punto della bozza che soddisfa tutte le associazioni di consumatori.",
+      "image": "https://hd2.tudocdn.net/1257653?w=660",
+      "publishedAt": "2026-07-10T12:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Sulla ISS arriva l'ecografia guidata da IA e realtà aumentata",
+      "link": "https://www.tomshw.it/scienze/la-nasa-porta-sulla-iss-unecografia-con-ai-ma-guarda-a-marte",
+      "excerpt": "La NASA invierà l'astronauta Anil Menon sulla ISS per una missione di circa otto mesi. Tra le attività previste c'è un'ecografia eseguita con metodi di intelligenza artificiale e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100603/la-nasa-porta-sulla-iss-un-ecografia-con-ai-ma-guarda-a-marte.png",
+      "publishedAt": "2026-07-10T12:33:32+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Octopus vince la scommessa sulla flessibilità: spostati 200 MWh di consumi con i Power Up",
+      "link": "https://images.dday.it/KsEOh2ZfNWlWLUBfRzQJsbCOEHiDrcQV6yDL1ZIxEi0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58024/28059d_Screenshot_2025-12-29_at_15.55.21.png",
+      "excerpt": "I Power Up di Octopus hanno consentito di aumentare i consumi di 201 MWh quando sulla rete c'era un surplus di energia rinnovabile che sarebbe potuta andare sprecata, consentendo…",
+      "image": "https://images.dday.it/KsEOh2ZfNWlWLUBfRzQJsbCOEHiDrcQV6yDL1ZIxEi0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58024/28059d_Screenshot_2025-12-29_at_15.55.21.png",
+      "publishedAt": "2026-07-10T12:32:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Digital twin assistiti da AI, ecco come simulare il business prima di agire",
+      "link": "https://www.tomshw.it/aioperator/digital-twin-ai-simulare-business",
+      "excerpt": "Un digital twin non è più solo il gemello virtuale di una linea di produzione o di una turbina. Nel 2026 il concetto si è allargato: puoi costruire una replica digitale del tuo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100539/03-ai19-cover.jpg",
+      "publishedAt": "2026-07-10T11:13:40+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Il rasoio elettrico più venduto di Philips è in offerta su Amazon a 59,99 euro",
@@ -129,42 +210,6 @@
       "publishedAt": "2026-07-10T09:46:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "L'Europa scotta: cosa sapere sul caldo estremo in 5 punti",
-      "link": "https://www.hdblog.it/green/articoli/n663974/clima-5-cose-sapere-caldo-europa/",
-      "excerpt": "Cresce l'allarme per i cambiamenti climatici.",
-      "image": "https://hd2.tudocdn.net/1356021?w=660",
-      "publishedAt": "2026-07-10T09:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Jeremy Clarkson al volante del SUV cinese che si ispira al Range Rover: giudizio inaspettato",
-      "link": "https://www.hdmotori.it/jeremy-clarkson-jaecoo-7/",
-      "excerpt": "Il giornalista Jeremy Clarkson, ex conduttore di Top Gear e The Grand Tour, ha parlato senza filtri della Jaecoo 7, la \"Ranger Rover Temu\"",
-      "image": "https://hd2.tudocdn.net/1356025?w=660",
-      "publishedAt": "2026-07-10T09:36:33+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il Google Store sta iniziando a vendere anche dispositivi di altri produttori?",
-      "link": "https://www.hdblog.it/indossabili/articoli/n663986/google-store-usa-samsung-galaxy-watch-8/",
-      "excerpt": "Negli Stati Uniti, da qualche ora e solo passando dal Play Store, è possibile comprare tutte le varianti di Galaxy Watch 8. Cosa sta succedendo, di preciso?",
-      "image": "https://hd2.tudocdn.net/1318608?w=660",
-      "publishedAt": "2026-07-10T09:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Fastweb e Vodafone, aumenta il prezzo di ingresso per i piani FWA",
-      "link": "https://www.hdblog.it/mobile/articoli/n663981/fastweb-vodafone-prezzi-fwa-aumento/",
-      "excerpt": "1 euro al mese in più per i piani Casa FWA Light. Vale per le nuove attivazioni.",
-      "image": "https://hd2.tudocdn.net/1356005?w=660",
-      "publishedAt": "2026-07-10T09:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Atlas, il browser di OpenAI sarà spento il 9 agosto. È durato meno di un anno",
@@ -212,6 +257,15 @@
       "sourceColor": "#E63946"
     },
     {
+      "title": "Migliori dissipatori CPU (luglio 2026)",
+      "link": "https://www.tomshw.it/guide/migliori-dissipatori-cpu",
+      "excerpt": "Se per il vostro nuovo computer avete scelto uno dei migliori processori PC, il dissipatore non è un accessorio secondario: è il componente che permette alla CPU di mantenere…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/89859/migliori-dissipatori-cpu-copertina.jpg",
+      "publishedAt": "2026-07-10T06:48:40+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "GPT-5.6 arriva per tutti, e con Work ChatGPT diventa una \"superapp\"",
       "link": "https://images.dday.it/p_NlBtg1vf88RsFXcPDf5l0jij83FwAdgklOe0jTf_U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58018/dcc4a6_small_Screenshot_2026-07-09_alle_22.54.22_copia.png",
       "excerpt": "Sol sui piani a pagamento, Terra e Luna anche per gli utenti gratuiti. Nuova app desktop che opera su file e applicazioni locali, e siti web generati e condivisibili... Leggi tutto",
@@ -219,60 +273,6 @@
       "publishedAt": "2026-07-10T06:48:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migliori ventole per PC (luglio 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-ventole-pc",
-      "excerpt": "Mantenere il PC ben raffreddato è più importante che mai, soprattutto considerando l'aumento di prestazioni e consumi energetici dei componenti moderni. Le ventole per PC sono il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/88560/migliori-ventole-pc-copertina.jpg",
-      "publishedAt": "2026-07-10T06:27:52+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il nuovo Allarme con Scudo Perimetrale Verisure: invisibile per chi abita, un problema per chi prova a entrare",
-      "link": "https://images.dday.it/0rjqENe90TffrXvsOa7u9Wr80fVin8sFTW54WTyS0lY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57922/b2400d_small_Simulazione_Scudo_Perimetrale_copia.jpg",
-      "excerpt": "Il nuovo Allarme con Scudo Perimetrale Verisure rileva chi si avvicina prima che raggiunga porte e finestre. Fotocamera Full HD, verifica umana H24 e design premiato Red Dot,…",
-      "image": "https://images.dday.it/0rjqENe90TffrXvsOa7u9Wr80fVin8sFTW54WTyS0lY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57922/b2400d_small_Simulazione_Scudo_Perimetrale_copia.jpg",
-      "publishedAt": "2026-07-10T06:00:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Piscina pronta e giardino salvo dal caldo rovente: Aiper automatizza l’estate con i robot Scuba e IrriSense 2",
-      "link": "https://images.dday.it/5I0WAC9jchGQVsaPxzfuqajzThBlx_WoMP4KPnfBRCQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57965/76b790_ffac87_cover_Irrisense2.jpg",
-      "excerpt": "Dai robot Scuba per la pulizia della piscina a IrriSense 2 per l’irrigazione intelligente, Aiper porta automazione e tranquillità nella manutenzione estiva di casa... Leggi tutto",
-      "image": "https://images.dday.it/5I0WAC9jchGQVsaPxzfuqajzThBlx_WoMP4KPnfBRCQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57965/76b790_ffac87_cover_Irrisense2.jpg",
-      "publishedAt": "2026-07-10T01:03:05+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Mondiali, le partite decisive si guardano in grande: il kit proiettore XGIMI MoGo 4 porta il maxischermo dove serve",
-      "link": "https://images.dday.it/XS7u9lbaz-GcdrZnO4nfcsGC6rK1Pe5M6KMjQIG5QDA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57995/b17249_sall_3-1536x1536_copia.jpg",
-      "excerpt": "Per le partite decisive dei Mondiali, XGIMI MoGo 4 World Cup Bundle trasforma casa, terrazzo e giardino in un maxischermo portatile da 70” con proiettore, PowerBase, audio Harman…",
-      "image": "https://images.dday.it/XS7u9lbaz-GcdrZnO4nfcsGC6rK1Pe5M6KMjQIG5QDA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57995/b17249_sall_3-1536x1536_copia.jpg",
-      "publishedAt": "2026-07-10T01:03:05+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Apple testa DRAM CXMT in Cina: arriveranno da noi?",
-      "link": "https://www.tomshw.it/business/apple-starebbe-testando-dram-cxmt-per-la-cina-il-nodo-non-e",
-      "excerpt": "Apple starebbe cercando margine sul costo della memoria guardando anche alla Cina: il Financial Times ha riportato che Cupertino ha avviato test su DRAM di ChangXin Memory…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/02/82625/apple-prepara-smartphone-pieghevoli-come-samsung-2026-02-02-ypcLTdCNw.jpg",
-      "publishedAt": "2026-07-09T08:35:03+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Digimon Time Stranger su Switch 2: promesse e incognite",
-      "link": "https://www.tomshw.it/videogioco/digimon-story-time-stranger-su-switch-2-risolve-un-limite-ma-lascia",
-      "excerpt": "La novità più concreta di Digimon Story: Time Stranger su Nintendo Switch 2 è la possibilità di giocarlo fino a 60 FPS, un passo avanti netto rispetto al profilo tecnico delle…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100139/digimon-story-time-stranger-switch-2-review-port-thumb.png",
-      "publishedAt": "2026-07-08T15:15:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     }
   ]
 }
