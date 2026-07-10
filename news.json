@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-07-10T21:00:32.055647+00:00",
+  "generatedAt": "2026-07-10T22:53:54.003466+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "SpaceX riporta in volo lo stesso razzo, per la 36ª volta",
+      "link": "https://www.tomshw.it/scienze/spacex-riporta-in-volo-lo-stesso-razzo-per-la-36a-volta",
+      "excerpt": "SpaceX ha utilizzato lo stesso booster 1067 per la 36ª missione orbitale, stabilendo un nuovo record interno. Il primo stadio del Falcon 9 aveva già volato 35 volte ed è tornato…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100690/spacex-riporta-in-volo-lo-stesso-razzo-per-la-36-volta.png",
+      "publishedAt": "2026-07-10T21:14:46+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Pass Mondiali DAZN su TIM, alcuni utenti segnalano disattivazioni anticipate: TIM indaga",
+      "link": "https://images.dday.it/gSSSRN-00V7j7LWgHh7svzf276NyOpV4B4yfTfNEFBI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58025/2d6b60_T_60221547___NL___BG_HIGH.jpg",
+      "excerpt": "Alcuni utenti raccontano di aver perso l'accesso al Pass Mondiali DAZN venduto da TIM prima della fine del torneo. TIM non riscontra blocchi anomali. Se è successo anche a voi,…",
+      "image": "https://images.dday.it/gSSSRN-00V7j7LWgHh7svzf276NyOpV4B4yfTfNEFBI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58025/2d6b60_T_60221547___NL___BG_HIGH.jpg",
+      "publishedAt": "2026-07-10T21:11:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Apple fa causa a OpenAI: \"Furto sistematico di segreti industriali per sviluppare hardware\"",
+      "link": "https://images.dday.it/US1cidRzwI4XDVvq_OBz5KDph5_Aqs8Pmkr_zxaS1cU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58032/619828_a17.jpg",
+      "excerpt": "Le accuse di Apple sono pesantissime: OpenAI avrebbe messo in atto in vero e proprio scherma per rubare i segreti industriali di Apple accedendo anche a prodotti non ancora…",
+      "image": "https://images.dday.it/US1cidRzwI4XDVvq_OBz5KDph5_Aqs8Pmkr_zxaS1cU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58032/619828_a17.jpg",
+      "publishedAt": "2026-07-10T21:05:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
     {
       "title": "Z890 ROG quasi dimezzata: ASUS Maximus Hero a 460,06€ su Amazon",
       "link": "https://www.tomshw.it/offerte/z890-rog-quasi-dimezzata-asus-maximus-hero-a-46006eur-su-amazon",
@@ -39,15 +66,6 @@
       "publishedAt": "2026-07-10T17:30:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
-    },
-    {
-      "title": "SpaceX riporta in volo lo stesso razzo, per la 36ª volta",
-      "link": "https://www.tomshw.it/scienze/spacex-riporta-in-volo-lo-stesso-razzo-per-la-36a-volta",
-      "excerpt": "SpaceX ha utilizzato lo stesso booster 1067 per la 36ª missione orbitale, stabilendo un nuovo record interno. Il primo stadio del Falcon 9 aveva già volato 35 volte ed è tornato…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100655/spacex-riporta-in-volo-lo-stesso-razzo-per-la-36-volta.png",
-      "publishedAt": "2026-07-10T17:21:49+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "La corsa alla DRAM spinge Nanya a quadruplicare gli investimenti",
@@ -253,24 +271,6 @@
       "excerpt": "OpenAI abbandona Atlas e trasferisce le funzioni di navigazione assistita in ChatGPT e Codex. Il browser smetterà di funzionare il 9 agosto e gli utenti dovranno mettere al sicuro…",
       "image": "https://images.dday.it/SlVlEp09vKfrmpH4fOWCGf2lJ8mZUyeCVv5TTPKJK3Y/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58023/5615d3_cov_erScreenshot_2026-07-10_alle_10.47.41_copia.png",
       "publishedAt": "2026-07-10T08:50:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Meta dà il via alla produzione dei suoi più potenti chip per l'IA. Entro il 2027 data center per 14 GW",
-      "link": "https://images.dday.it/t4Ad49iDTJSzrZwll-BNfnCsmmrvhBegbZ5mkH-ZTiE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58021/a03335_MTAI_1.jpg",
-      "excerpt": "Entro fine anno Meta intende portare la sua capacità di calcolo fino a 7 GW, per poi raddoppiarla a 14 GW il prossimo anno. I suoi chip essenziali per rendersi indipendente da…",
-      "image": "https://images.dday.it/t4Ad49iDTJSzrZwll-BNfnCsmmrvhBegbZ5mkH-ZTiE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58021/a03335_MTAI_1.jpg",
-      "publishedAt": "2026-07-10T08:49:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Meta lancia Muse Spark 1.1, modello di “classe Opus” che costa pochissimo. Disponibile anche in meta.ai",
-      "link": "https://images.dday.it/i7GNe7cD_Rqf_LnHt03KtytNazm1VAVaG1rFnXbZa74/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58022/4605c1_741592324_1015424028134213_685261022012020935_n.png",
-      "excerpt": "Versione 1.1 di Muse Spark sembra andare nella direzione giusta per risollevare Meta dopo la caduta di Llama 4 Maverick del 2025. Già disponibile per tutti, Spark 1.1 tiene anche…",
-      "image": "https://images.dday.it/i7GNe7cD_Rqf_LnHt03KtytNazm1VAVaG1rFnXbZa74/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58022/4605c1_741592324_1015424028134213_685261022012020935_n.png",
-      "publishedAt": "2026-07-10T08:00:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
