@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-07-11T14:45:12.671605+00:00",
+  "generatedAt": "2026-07-11T16:45:59.240971+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Su Google Messaggi la condivisione sta per diventare più semplice",
+      "link": "https://www.hdblog.it/google/articoli/n664078/google-messaggi-condivisione-chat-gruppo-novita/",
+      "excerpt": "Alcuni utenti hanno cominciato a ricevere la novità.",
+      "image": "https://hd2.tudocdn.net/1259034?w=660",
+      "publishedAt": "2026-07-11T15:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Logitech G PRO 2 a 89,99€: mouse ambidestro da torneo su Amazon",
+      "link": "https://www.tomshw.it/offerte/logitech-g-pro-2-a-8999eur-mouse-ambidestro-da-torneo-su-amazon",
+      "excerpt": "Logitech G PRO 2 LIGHTSPEED a 89,99€ su Amazon porta sotto quota 90€ un mouse gaming wireless pensato per l’uso competitivo, con taglio del 31% rispetto ai 129,99€ di riferimento.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100708/tomshw-offer-571420.png",
+      "publishedAt": "2026-07-11T15:32:37+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "LCD sul waterblock a 59,90€: Corsair NAUTILUS 240 RS su Amazon",
       "link": "https://www.tomshw.it/offerte/lcd-sul-waterblock-a-5990eur-corsair-nautilus-240-rs-su-amazon",
@@ -122,6 +140,24 @@
       "sourceColor": "#E63946"
     },
     {
+      "title": "Apple accusa OpenAI di aver rubato segreti industriali, i dettagli",
+      "link": "https://www.tomshw.it/business/apple-accusa-openai-di-aver-rubato-segreti-industriali-i-dettagli",
+      "excerpt": "Apple ha depositato venerdì 10 luglio 2026 una causa contro OpenAI davanti al tribunale federale del Northern District of California, accusando l'azienda di aver sottratto segreti…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100698/08-apple-openai-lawsuit-cover-v2b.jpg",
+      "publishedAt": "2026-07-11T07:35:05+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Questo nuovo agente AI usa la gerarchia per svolgere compiti complessi",
+      "link": "https://www.tomshw.it/business/questo-nuovo-agente-ai-usa-la-gerarchia-per-svolgere-compiti-complessi",
+      "excerpt": "Cosa ha costruito ETRI Un istituto pubblico coreano ha messo a punto un agente che affronta comandi complessi scomponendoli in una gerarchia di sotto-compiti, come racconta…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100697/07-hierarchical-agent-cover.jpg",
+      "publishedAt": "2026-07-11T07:35:05+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "Gli agenti AI stanno uccidendo il SaaS? Forse è vero il contrario",
       "link": "https://www.tomshw.it/business/gli-agenti-ai-stanno-uccidendo-il-saas-forse-e-vero-il-contrario",
       "excerpt": "Il crollo che ha dato un nome alla paura: cos'è la SaaSpocalypse Tra gennaio e febbraio 2026 il mercato azionario del software enterprise ha bruciato quasi 2mila miliardi di…",
@@ -129,15 +165,6 @@
       "publishedAt": "2026-07-11T07:35:05+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Google pronta a smascherare gli annunci creati con AI: le aziende non sono contente",
-      "link": "https://www.hdblog.it/google/articoli/n664058/google-pubblicita-intelligenza-artificiale/",
-      "excerpt": "Google sta aggiungendo una nuova etichetta per segnalare tutte le pubblicità generate con AI.",
-      "image": "https://hd2.tudocdn.net/1356152?w=660",
-      "publishedAt": "2026-07-11T07:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Senza processi e dati ordinati, l'AI in azienda non funziona (ERP o no)",
@@ -162,15 +189,6 @@
       "link": "https://www.tomshw.it/business/la-spesa-in-token-ai-si-taglia-senza-tagliare-la-squadra",
       "excerpt": "Il conto dei token supera lo stipendio, e Nvidia lo considera normale Un'analisi pubblicata da artificialintelligence-news.com parte da un episodio che riassume bene il paradosso…",
       "image": "https://cdn.tomshw.it/storage/media/2026/07/100692/02-token-budget-team-cover.jpg",
-      "publishedAt": "2026-07-11T07:30:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Professionisti pagati per insegnare il mestiere all'AI, un surreale mercato che vale milioni",
-      "link": "https://www.tomshw.it/business/professionisti-pagati-per-insegnare-il-mestiere-allai-un-surreale-mercato-che-vale-milioni",
-      "excerpt": "Il mestiere è insegnare all'AI a fare il proprio mestiere Un dottore ruandese con almeno tre anni di esperienza, un fisico specializzato in relatività e cosmologia, un doppiatore…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100691/01-professionisti-ai-training-cover.jpg",
       "publishedAt": "2026-07-11T07:30:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
@@ -255,24 +273,6 @@
       "publishedAt": "2026-07-10T13:21:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Parti solo per un weekend? Ecco gli accessori smart che cambiano il viaggio",
-      "link": "https://www.tomshw.it/altro/parti-solo-per-un-weekend-ecco-gli-accessori-smart-che-cambiano-il-viaggio",
-      "excerpt": "Il viaggio di pochi giorni ha un fascino tutto suo: si stacca la spina, si cambia aria e si ricaricano le energie senza il peso di una pianificazione infinita. Che si tratti di un…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100600/Parti-solo-per-un-weekend-Ecco-gli-accessori-smart-che-cambiano-il-viaggio.png",
-      "publishedAt": "2026-07-10T12:51:02+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il consenso senza sondaggi: come stimare i partiti solo con i voti reali",
-      "link": "https://www.tomshw.it/business/il-consenso-senza-sondaggi-signal-pirate",
-      "excerpt": "Tutto nasce da uno scambio su X con Stefano Morandi, che a un certo punto ha fatto una domanda da matematico: esiste un sistema alternativo ai sondaggi per capire a quanto stanno…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100001/04-consenso-sondaggi.jpg",
-      "publishedAt": "2026-07-08T10:17:29+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     }
   ]
 }
