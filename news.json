@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T13:01:07.574603+00:00",
+  "generatedAt": "2026-07-11T14:45:12.671605+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
@@ -115,11 +115,20 @@
     {
       "title": "Meta ha ritirato la funzione per creare immagini IA dai profili pubblici di Instagram",
       "link": "https://images.dday.it/A-ydrM-HdUHoP5KkVFqy-T5uemz0xdAO96EwsBIRbbg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58033/9089f5_Screenshot_2026-07-11_alle_09.44.57.png",
-      "excerpt": "Una funzione che aveva fatto storcere subito il naso per la facilità con la quale si potevano creare immagini non gradite da chi non avrebbe avuto nemmeno una notifica del…",
+      "excerpt": "Una funzione che aveva fatto storcere subito il naso per la facilità con la quale si potevano creare immagini non gradite a chi non avrebbe avuto nemmeno una notifica del fatto...…",
       "image": "https://images.dday.it/A-ydrM-HdUHoP5KkVFqy-T5uemz0xdAO96EwsBIRbbg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58033/9089f5_Screenshot_2026-07-11_alle_09.44.57.png",
       "publishedAt": "2026-07-11T07:46:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
+    },
+    {
+      "title": "Gli agenti AI stanno uccidendo il SaaS? Forse è vero il contrario",
+      "link": "https://www.tomshw.it/business/gli-agenti-ai-stanno-uccidendo-il-saas-forse-e-vero-il-contrario",
+      "excerpt": "Il crollo che ha dato un nome alla paura: cos'è la SaaSpocalypse Tra gennaio e febbraio 2026 il mercato azionario del software enterprise ha bruciato quasi 2mila miliardi di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100696/06-saaspocalypse-cover-v2.jpg",
+      "publishedAt": "2026-07-11T07:35:05+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Google pronta a smascherare gli annunci creati con AI: le aziende non sono contente",
@@ -131,11 +140,11 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "20€ in meno: custodia Apple MagSafe iPhone 17 Pro a 39€",
-      "link": "https://www.tomshw.it/offerte/20eur-in-meno-custodia-apple-magsafe-iphone-17-pro-a-39eur",
-      "excerpt": "La custodia Apple MagSafe in silicone per iPhone 17 Pro costa 39€ su Amazon, invece dei 59€ del listino, con uno sconto del 34%. È la cover ufficiale pensata per chi vuole…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100700/tomshw-offer-571342.png",
-      "publishedAt": "2026-07-11T07:32:11+00:00",
+      "title": "Senza processi e dati ordinati, l'AI in azienda non funziona (ERP o no)",
+      "link": "https://www.tomshw.it/business/senza-processi-e-dati-ordinati-lai-in-azienda-non-funziona-erp-o-no",
+      "excerpt": "Jennifer Colapietro, Digital Core Modernization Platform Leader di PwC, scrive su TechRadar Pro che l'AI enterprise fallisce senza un nucleo aziendale solido su cui appoggiarsi.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100695/05-erp-processi-dati-cover.jpg",
+      "publishedAt": "2026-07-11T07:30:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -253,15 +262,6 @@
       "excerpt": "Il viaggio di pochi giorni ha un fascino tutto suo: si stacca la spina, si cambia aria e si ricaricano le energie senza il peso di una pianificazione infinita. Che si tratti di un…",
       "image": "https://cdn.tomshw.it/storage/media/2026/07/100600/Parti-solo-per-un-weekend-Ecco-gli-accessori-smart-che-cambiano-il-viaggio.png",
       "publishedAt": "2026-07-10T12:51:02+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il futuro è adesso! La nuova frontiera della carriera professionale passa per il corso Mastering ChatGPT",
-      "link": "https://www.tomshw.it/hardware/il-futuro-e-adesso-la-nuova-frontiera-della-carriera-professionale-passa-per-il-corso-mastering-chatgpt",
-      "excerpt": "Nel panorama lavorativo contemporaneo, l'efficienza e l'innovazione tecnologica non sono più semplici opzioni, ma requisiti fondamentali per rimanere competitivi. Il nuovissimo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/02/84399/chatgpt-causa-psicosi-in-uno-studente-la-causa-2026-02-20-vR2Mk643cl9e0gmd8c4VRKLx.png",
-      "publishedAt": "2026-07-08T12:17:39+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
