@@ -1,15 +1,33 @@
 {
-  "generatedAt": "2026-07-13T17:49:35.100155+00:00",
+  "generatedAt": "2026-07-13T19:15:06.836535+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Ci eravamo sbagliati su OnePlus e il OnePlus 15? Cosa è andato storto? | VIDEO",
+      "link": "https://www.hdblog.it/smartphone/speciali/n662126/oneplus-aggiornamento-fallimento-europa/",
+      "excerpt": "OnePlus si prepara ad abbandonare sempre più mercati occidentali, rimandendo quasi soltanto un sottobrand di OPPO in Cina. Cosa è andato storto?",
+      "image": "https://hd2.tudocdn.net/1354903?w=660",
+      "publishedAt": "2026-07-13T18:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Per migliorare l'esperienza d'uso di X (Twitter) non serve la moderazione?",
       "link": "https://www.hdblog.it/sicurezza/articoli/n664234/twitter-stanford-estensione-odio-online-ai/",
       "excerpt": "Uno studio dell'Università di Stanford, con protagonista un'estensione Chrome basata sull'AI, suggerisce che basterebbe penalizzare i post più estremisti e polarizzanti.",
       "image": "https://hd2.tudocdn.net/1356479?w=660",
       "publishedAt": "2026-07-13T17:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "All'asta la Ferrari Luce \"telaio 0\": il prezzo base è sorprendente",
+      "link": "https://www.hdmotori.it/allasta-la-ferrari-luce-telaio-0-il-prezzo-base-e-sorprendente/",
+      "excerpt": "Il primo esemplare della Ferrari 100% elettrica, personalizzata con il programma Tailor Made, andrà all’asta durante la Monterey Car Week.",
+      "image": "https://hd2.tudocdn.net/1356480?w=660",
+      "publishedAt": "2026-07-13T17:30:49+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -149,24 +167,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "L'US Air Force affida ai robot il controllo degli aerei: ispezioni in pochi minuti",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n664130/usaf-robot-droni-ispezione-aerei/",
-      "excerpt": "Droni e robot ispezionano gli aerei USA riducendo tempi, costi e lavoro manuale.",
-      "image": "https://hd2.tudocdn.net/1356279?w=660",
-      "publishedAt": "2026-07-13T16:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Lidl, dati dei clienti rubati tramite data breach presso un partner",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n664226/lidl-data-breach-attacco-hacker-fornitore/",
-      "excerpt": "Colpiti gli utenti tedeschi, olandesi e belgi che usano lo store online.",
-      "image": "https://hd2.tudocdn.net/1356463?w=660",
-      "publishedAt": "2026-07-13T16:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Samsung Health e il consenso di accesso ai dati per addestrare l'IA. Nessun allarme, è un problema americano",
       "link": "https://images.dday.it/9ePcVfrByNmcmgPI8tIMtamGvx_QySX7qNn1ZGAVAtM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58046/9c597a_healkt.jpg",
       "excerpt": "Gli utenti che usano un Galaxy Watch si sono preoccupati dopo alcune notizie apparse sulla stampa internazionale relativamente alla perdita di sincronizzazione dei dati sanitari…",
@@ -212,20 +212,20 @@
       "sourceColor": "#E63946"
     },
     {
+      "title": "Migliori stampanti laser (luglio 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-stampanti-laser",
+      "excerpt": "Scegliere una stampante laser nel 2026 significa prima di tutto capire che tipo di documenti producete davvero: poche pagine al mese per casa e smart working, fascicoli continui…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/88631/migliori-stampanti-laser-copertina.jpg",
+      "publishedAt": "2026-07-13T11:51:52+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "Migliori cuffie gaming economiche (luglio 2026)",
       "link": "https://www.tomshw.it/hardware/migliori-cuffie-gaming-economiche",
       "excerpt": "Nell'attuale panorama degli accessori PC e console, trovare cuffie gaming economiche capaci di unire qualità, comodità e prezzo accessibile è molto più semplice rispetto a qualche…",
       "image": "https://cdn.tomshw.it/storage/media/2026/03/88559/migliori-cuffie-gaming-economiche-copertina.jpg",
       "publishedAt": "2026-07-13T11:44:27+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori hard disk esterni (luglio 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-hard-disk-esterni",
-      "excerpt": "Scegliere il miglior hard disk esterno resta una decisione molto pratica: non serve il modello più veloce in assoluto, ma quello che risolve meglio il problema per cui lo state…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/88519/migliori-hd-esterni-copertina.jpg",
-      "publishedAt": "2026-07-13T11:37:56+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
