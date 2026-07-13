@@ -1,170 +1,233 @@
 {
-  "generatedAt": "2026-07-13T10:52:26.242074+00:00",
+  "generatedAt": "2026-07-13T14:16:58.215399+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Acer si ricorda che fa anche smartphone: arriva Sospiro A15, con display posteriore",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664173/acer-sospiro-ufficiale-smartphone-android/",
-      "excerpt": "Il display posteriore non è del tutto inedito, ma Acer lo inserisce nella sua ultima proposta",
-      "image": "https://hd2.tudocdn.net/1356352?w=660",
-      "publishedAt": "2026-07-13T10:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Cina: debutta la più potente nave gru semisommergibile per l'offshore",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n664127/cina-nave-gru-semisommergibile-sihang-yongsheng/",
-      "excerpt": "La Cina mette in servizio la sua più grande nave gru semisommergibile per l'offshore.",
-      "image": "https://hd2.tudocdn.net/1356251?w=660",
-      "publishedAt": "2026-07-13T10:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Drone tra le case: spionaggio o improdenza? Un caso che fa discutere",
-      "link": "https://www.hdblog.it/droni/articoli/n664161/drone-vola-condominio-spia-sicurezza/",
-      "excerpt": "Il fatto è accaduto in Veneto in un'area già oggetto di diversi casi di furto.",
-      "image": "https://hd2.tudocdn.net/1356351?w=660",
-      "publishedAt": "2026-07-13T10:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Le pompe di calore Viessmann diventano più intelligenti",
-      "link": "https://www.hdblog.it/home/articoli/n664141/pompe-calore-viessmann-intelligenti-vitocal/",
-      "excerpt": "Viessmann lancia Vitocal 200-A intelligent energy (ie), una pompa di calore aria/acqua monoblocco pensata per rendere accessibile a un pubblico più ampio una tecnologia finora…",
-      "image": "https://hd2.tudocdn.net/1356278?w=660",
-      "publishedAt": "2026-07-13T10:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "God of War Laufey, Santa Monica conferma il disco fisico",
-      "link": "https://www.tomshw.it/videogioco/god-of-war-laufey-santa-monica-conferma-il-disco-fisico",
-      "excerpt": "God of War Laufey avrà anche una versione su disco fisico. La conferma è arrivata direttamente da Santa Monica Studio in risposta alle domande dei fan su X, chiarendo un punto…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100834/God-of-War-Laufey-confermato-su-disco-fisico-il-che-suggerisce-unuscita-entro-il-2027.webp",
-      "publishedAt": "2026-07-13T10:31:13+00:00",
+      "title": "Un processore quantistico potrebbe ricalibrarsi mentre lavora",
+      "link": "https://www.tomshw.it/scienze/un-processore-quantistico-potrebbe-ricalibrarsi-mentre-lavora",
+      "excerpt": "Un gruppo di Google Quantum AI ha mostrato che un processore quantistico può correggere la propria calibrazione senza interrompere il calcolo. Il metodo riutilizza i segnali già…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100901/un-processore-quantistico-potrebbe-ricalibrarsi-mentre-lavora.png",
+      "publishedAt": "2026-07-13T14:08:11+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "BMW, Tesla, Hyundai e BYD puntano sui robot umanoidi in fabbrica: che ne sarà dell'uomo",
-      "link": "https://www.hdmotori.it/robot-umanoidi-fabbriche-auto/",
-      "excerpt": "I robot umanoidi sono pronti a entrare nelle linee di assemblaggio delle auto, ma questo è davvero un bene per la nostra società?",
-      "image": "https://hd2.tudocdn.net/1356350?w=660",
-      "publishedAt": "2026-07-13T10:30:51+00:00",
+      "title": "Nuova Toyota GR GT spiata durante i test: arriva la versione speciale",
+      "link": "https://www.hdmotori.it/nuova-toyota-gr-gt-test-versione-speciale/",
+      "excerpt": "Le forme della Toyota GR GT anticipano un nuovo corso sportivo per il colosso giapponese che vuole tornare al passato",
+      "image": "https://hd2.tudocdn.net/1356400?w=660",
+      "publishedAt": "2026-07-13T14:00:10+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "MARVEL Tokon, Kieron Gillen entra nella modalità storia",
-      "link": "https://www.tomshw.it/videogioco/marvel-tokon-kieron-gillen-entra-nella-modalita-storia",
-      "excerpt": "La modalità single player di MARVEL Tokon: Fighting Souls avrebbe un autore con un curriculum molto preciso dentro l'universo Marvel: Kieron Gillen, sceneggiatore noto soprattutto…",
-      "image": "https://cdn.tomshw.it/storage/media/2025/12/78270/Marvel-Tokon-(5).jpg",
-      "publishedAt": "2026-07-13T10:26:14+00:00",
+      "title": "Super Bomberman Collection: sorpresa gratis mai vista prima",
+      "link": "https://www.tomshw.it/videogioco/super-bomberman-collection-c-e-un-bonus-gratis-mai-visto-in-occidente",
+      "excerpt": "Super Bomberman Collection aggiungerà gratuitamente un capitolo rimasto fuori dall'Occidente per oltre trent'anni: Super Bomberman: Panic Bomber W, puzzle game pubblicato…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100895/super-bomberman-collection-un-jeu-bonus-inedit-en-occident-va-etre-ajoute-gratuitement-3b247561__w1920.jpg",
+      "publishedAt": "2026-07-13T13:51:25+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Addio missili? Il drone svedese caccia i nemici a 354 km/h",
-      "link": "https://www.hdblog.it/droni/articoli/n664121/drone-intercettore-k100xr-ia/",
-      "excerpt": "Il drone K100XR usa l'IA per intercettare UAV fino a 354 km/h senza collegamento radio.",
-      "image": "https://hd2.tudocdn.net/1356250?w=660",
-      "publishedAt": "2026-07-13T10:25:00+00:00",
+      "title": "Samsung, stangata sulle riparazioni: cosa devi sapere",
+      "link": "https://www.tomshw.it/smartphone/samsung-il-conto-delle-riparazioni-smartphone-si-fa-piu-salato",
+      "excerpt": "Riparare uno smartphone Samsung in Corea del Sud diventa un po’ più costoso. Il rincaro riguarda i materiali sostitutivi usati negli interventi di assistenza e si traduce in un…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100894/news-flash-572913.png",
+      "publishedAt": "2026-07-13T13:50:49+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Elder Scrolls Online, i tagli stravolgono i piani futuri",
+      "link": "https://www.tomshw.it/videogioco/the-elder-scrolls-online-i-tagli-zenimax-riscrivono-la-roadmap",
+      "excerpt": "Le roadmap già comunicate per The Elder Scrolls Online verranno riviste dopo i licenziamenti che hanno colpito ZeniMax Online Studios. Il team ha spiegato sul forum ufficiale del…",
+      "image": "https://cdn.tomshw.it/storage/media/2025/06/61550/ESO_Update46_Launch_KeyArt.jpg",
+      "publishedAt": "2026-07-13T13:46:26+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Octopath Traveler 0, l'update gratuito non sarà una passeggiata",
+      "link": "https://www.tomshw.it/videogioco/octopath-traveler-0-l-update-gratuito-non-sara-una-passeggiata",
+      "excerpt": "La Monster Arena di Octopath Traveler 0 riceverà un nuovo avversario pensato per chi ha già spinto a fondo il sistema di combattimento. Square Enix ha annunciato un aggiornamento…",
+      "image": "https://cdn.tomshw.it/storage/media/2025/12/78017/octopath-traveler-gratis-scaricalo-ora-su-instant-gaming-2025-12dlprr30eidk44YxZPh.jpg",
+      "publishedAt": "2026-07-13T13:45:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Addio a Sam Neill: il volto di Jurassic Park si spegne a 78 anni",
+      "link": "https://www.hdblog.it/curiosita/articoli/n664201/sam-neill-morto-78-anni/",
+      "excerpt": "Morto Sam Neill a 78 anni, protagonista di Jurassic Park e icona del cinema.",
+      "image": "https://hd2.tudocdn.net/1356391?w=660",
+      "publishedAt": "2026-07-13T13:45:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "180Hz a 109€ su Amazon: MSI MAG 27C6F torna al minimo",
-      "link": "https://www.tomshw.it/offerte/180hz-a-109eur-su-amazon-msi-mag-27c6f-torna-al-minimo",
-      "excerpt": "A 109€ su Amazon, MSI MAG 27C6F porta un monitor gaming curvo da 27 pollici e 180Hz sotto una soglia molto aggressiva. Il richiamo è chiaro per chi gioca in Full HD e vuole più…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100814/tomshw-offer-572470.png",
-      "publishedAt": "2026-07-13T10:18:34+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
+      "title": "ChatGPT torna su WhatsApp in Europa: si può usare anche senza account",
+      "link": "https://images.dday.it/tfVO8potxHq8VLt0-PbqiL3VOpTkQDki94KQSVcg8XA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58044/29cd0b_Depositphotos_639978726_XL.jpg",
+      "excerpt": "OpenAI riporta ChatGPT su WhatsApp nell’Unione Europea. Il servizio consente di inviare messaggi, immagini e vocali... Leggi tutto",
+      "image": "https://images.dday.it/tfVO8potxHq8VLt0-PbqiL3VOpTkQDki94KQSVcg8XA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58044/29cd0b_Depositphotos_639978726_XL.jpg",
+      "publishedAt": "2026-07-13T13:36:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
-      "title": "Google Pixel 11 Pro Fold, l'indizio FCC avvicina il lancio",
-      "link": "https://www.tomshw.it/smartphone/google-pixel-11-pro-fold-l-indizio-fcc-avvicina-il-lancio",
-      "excerpt": "Il codice GZDQ6 sarebbe il primo indizio regolatorio concreto sul prossimo pieghevole di Google. La sigla, associata al presunto Google Pixel 11 Pro Fold, sarebbe comparsa nella…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100812/news-flash-572448.png",
-      "publishedAt": "2026-07-13T10:15:08+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Le stampanti HP possono bloccare anche le cartucce originali",
-      "link": "https://www.hdblog.it/hardware/articoli/n664172/hp-stampanti-blocco-cartucce-originali/",
-      "excerpt": "E la soluzione? Comprare un toner nuovo.",
-      "image": "https://hd2.tudocdn.net/416270?w=660",
-      "publishedAt": "2026-07-13T10:15:00+00:00",
+      "title": "Samsung Health chiede i dati per l'AI: chi rifiuta può perdere la sincronizzazione",
+      "link": "https://www.hdblog.it/smartphone/articoli/n664197/samsung-health-niente-sincronizzazione-consenso-ai/",
+      "excerpt": "Chi rifiuta rischia di perdere la sincronizzazione con l’account",
+      "image": "https://hd2.tudocdn.net/1356392?w=660",
+      "publishedAt": "2026-07-13T13:35:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Europa, limiti ai social in arrivo: stop sotto i 3 anni, accesso controllato fino ai 13",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664170/europa-limiti-eta-social-niente-schermi/",
-      "excerpt": "Le raccomandazioni arrivano dallo Special Panel on Child Safety Online",
-      "image": "https://hd2.tudocdn.net/1356344?w=660",
-      "publishedAt": "2026-07-13T10:10:00+00:00",
+      "title": "TV OLED, robot e cuffie top: le migliori offerte tech Amazon del 13 luglio",
+      "link": "https://www.hdblog.it/amazon/offerte/n664196/migliori-offerte-tech-amazon-13-luglio-2026/",
+      "excerpt": "OLED, notebook, robot aspirapolvere, cuffie premium e accessori smart: le migliori offerte tech di oggi su Amazon, con prezzi aggiornati e link diretti.",
+      "image": "https://hd2.tudocdn.net/1312649?w=660",
+      "publishedAt": "2026-07-13T13:25:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Ultima chiamata nerd: 3 giorni extra di sconti shock per conquistare la postazione dei tuoi sogni",
-      "link": "https://www.tomshw.it/hardware/ultima-chiamata-nerd-3-giorni-extra-di-sconti-shock-per-conquistare-la-postazione-dei-tuoi-sogni",
-      "excerpt": "Sorpresa per tutti gli appassionati di tecnologia e gaming: a grande richiesta della community e per celebrare un successo senza precedenti, i celeberrimi PcDays 2026 non si…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100810/Ultima-chiamata-nerd-3-giorni-extra-di-sconti-shock-per-conquistare-la-postazione-dei-tuoi-sogni.png",
-      "publishedAt": "2026-07-13T10:06:08+00:00",
+      "title": "Il 2027 di MG: auto ibride plug-in con batterie a stato semi-solido e guida assistita più evoluta",
+      "link": "https://images.dday.it/XjY7GoXtSUhgyo21OTUNGGUvkh9BSjL-z5d6By8fQeI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58042/51d588_mg_thumb.jpg",
+      "excerpt": "Al Tech Day londinese, MG ha presentato la propria strategia tecnologica: nuova generazione Plug-in Hybrid+, batterie SolidCore e test già avviati sui robotaxi di livello 4...…",
+      "image": "https://images.dday.it/XjY7GoXtSUhgyo21OTUNGGUvkh9BSjL-z5d6By8fQeI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58042/51d588_mg_thumb.jpg",
+      "publishedAt": "2026-07-13T13:24:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Google alla UE: \"Piracy Shield è la prova che i blocchi non funzionano. La pirateria si combatte con i prezzi\"",
+      "link": "https://images.dday.it/mXZhvctK18KvoHJ8KOA3xQjyPe02NdmpqlBsTr3jhnY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58043/daaf0f_psg.jpg",
+      "excerpt": "In un documento depositato lo scorso 25 giugno presso la Commissione Europea Google prende posizione nel dibattito sulla revisione della direttiva Copyright e lo fa, tra tutti gli…",
+      "image": "https://images.dday.it/mXZhvctK18KvoHJ8KOA3xQjyPe02NdmpqlBsTr3jhnY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58043/daaf0f_psg.jpg",
+      "publishedAt": "2026-07-13T13:21:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "ChatGPT torna su WhatsApp in Italia: ecco cosa cambia",
+      "link": "https://www.tomshw.it/hardware/chatgpt-torna-su-whatsapp-in-italia-la-porta-riaperta-da-openai",
+      "excerpt": "ChatGPT è tornato su WhatsApp anche in Italia: gli utenti possono scrivere al contatto verificato 1-800-CHATGPT, associato al numero +1-800-242-8478, per avviare una conversazione…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/91252/openai-accusata-di-ntfki3jk577f0ctPiHO4.webp",
+      "publishedAt": "2026-07-13T13:15:45+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Galaxy S26 series: le patch di luglio arrivano anche in Italia",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664164/galaxy-s26-series-patch-di-luglio-italia/",
-      "excerpt": "Ben 57 correzioni all'interno delle ultime patch",
-      "image": "https://hd2.tudocdn.net/1353191?w=660",
-      "publishedAt": "2026-07-13T10:05:00+00:00",
+      "title": "Google Maps si rinnova su Android Auto: cosa cambia",
+      "link": "https://www.tomshw.it/hardware/google-maps-cambia-volto-su-android-auto-ma-aggiornare-non-basta",
+      "excerpt": "Google Maps sta iniziando a portare su Android Auto una navigazione molto più visiva: Immersive Navigation compare sui display delle auto con una rappresentazione tridimensionale…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100889/google-maps-immersive-navigation.jpg",
+      "publishedAt": "2026-07-13T13:14:45+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Pixel Watch 5 potrebbe ereditare il processore del predecessore",
+      "link": "https://www.tomshw.it/smartphone/pixel-watch-5-potrebbe-ereditare-il-processore-del-predecessore",
+      "excerpt": "Google non ha ancora presentato ufficialmente Pixel Watch 5, ma una nuova scheda attribuita alla Google Play Console ha fatto emergere processore, memoria, sistema operativo e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100884/pixel-watch-5-potrebbe-ereditare-il-processore-del-predecessore.png",
+      "publishedAt": "2026-07-13T13:14:11+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Attenzione agli smartphone low cost: la memoria si paga cara",
+      "link": "https://www.tomshw.it/smartphone/smartphone-economici-la-memoria-prepara-un-conto-salatissimo",
+      "excerpt": "La memoria è arrivata a pesare quasi il 60% del costo dei componenti negli smartphone sotto i 400 dollari. È il dato che spiega la previsione di Omdia: nel 2026 questa fascia…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100885/news-flash-572709.png",
+      "publishedAt": "2026-07-13T13:09:23+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Girare il mondo su una Panda dell'89: la storia di una missione possibile",
+      "link": "https://www.hdmotori.it/giro-del-mondo-fiat-panda/",
+      "excerpt": "Due italiani, un lavoratore di Genova e un titolare di una copisteria a Rho, sono partiti all’avventura a bordo di una FIAT Panda del 1989",
+      "image": "https://hd2.tudocdn.net/1356388?w=660",
+      "publishedAt": "2026-07-13T13:00:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Carte Pokémon rubate nei negozi: arriva la condanna",
-      "link": "https://www.tomshw.it/videogioco/carte-pokemon-rubate-nei-negozi-per-un-ladro-e-gia-arrivata-la",
-      "excerpt": "Oltre 71.000 sterline di stock, in gran parte carte Pokémon Trading Card Game, sono finite al centro di un caso giudiziario nel Regno Unito. La Cheshire Constabulary ha reso noto…",
-      "image": "https://cdn.tomshw.it/storage/media/2024/11/41397/carte-pokemon-(1).png",
-      "publishedAt": "2026-07-13T10:03:34+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "AMD prepara Linux a un nuovo tipo di core, la pista è interessante",
-      "link": "https://www.tomshw.it/hardware/amd-prepara-linux-a-un-nuovo-tipo-di-core-la-pista-e",
-      "excerpt": "Nel codice del kernel Linux compare una terza categoria di core per le future piattaforme eterogenee AMD: accanto ai core Performance ed Efficiency, la patch series inviata da…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/95592/amd-sfiora-il-45-su-steam-intel-sente-il-fiato-sul-collo.webp",
-      "publishedAt": "2026-07-13T10:02:23+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Trento, camionista sfugge al posto di blocco: «Non riconosco lo Stato italiano»",
-      "link": "https://www.hdmotori.it/trento-camionista-posto-blocco/",
-      "excerpt": "Un camionista polacco fugge dalla Polizia Locale, si barrica nel tir e dichiara di non riconoscere lo Stato italiano. Denunciato e maxi multa.",
-      "image": "https://hd2.tudocdn.net/1356342?w=660",
-      "publishedAt": "2026-07-13T10:00:07+00:00",
+      "title": "La UE non può impedire a Sony di attuare la sua svolta digitale, ma può regolamentarla",
+      "link": "https://www.hdblog.it/sony/articoli/n664190/europa-sony-giochi-digitali-no-divieto/",
+      "excerpt": "L'Europa ricorda che non può imporre alle aziende quali formati devono usare, ma non significa che è impotente",
+      "image": "https://hd2.tudocdn.net/1354086?w=660",
+      "publishedAt": "2026-07-13T12:55:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "NOW shock: il Pass Entertainment crolla a 2,99€, ma hai tempo SOLO OGGI per attivarlo!",
-      "link": "https://www.tomshw.it/altro/now-shock-il-pass-entertainment-crolla-a-299eur-ma-hai-tempo-solo-oggi-per-attivarlo",
-      "excerpt": "Se sei un appassionato di serie TV e show televisivi e sei alla ricerca del risparmio definitivo, questa è la giornata che stavi aspettando. La piattaforma di streaming NOW ha…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100808/NOW-shock-il-Pass-Entertainment-crolla-a-2,99€,-ma-hai-tempo-SOLO-OGGI-per-attivarlo!.png",
-      "publishedAt": "2026-07-13T09:56:36+00:00",
+      "title": "ChatGPT torna disponibile su WhatsApp, sia in Italia che nel resto d'Europa",
+      "link": "https://www.hdblog.it/smartphone/articoli/n664189/chatgpt-torna-disponibile-whatsapp/",
+      "excerpt": "ChatGPT torna disponibile su WhatsApp in Italia e negli altri Paesi dell’Unione Europea",
+      "image": "https://hd2.tudocdn.net/1356385?w=660",
+      "publishedAt": "2026-07-13T12:41:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "60.000 euro ai benzinai per installare colonnine: la proposta del Governo",
+      "link": "https://www.hdmotori.it/60-000-euro-benzinai-installare-colonnine/",
+      "excerpt": "Dal 2028 scatta l'obbligo di distribuire vettori energetici alternativi, con contributi statali fino a 60.000 euro per le stazioni che si convertono all’elettrico.",
+      "image": "https://hd2.tudocdn.net/1290434?w=660",
+      "publishedAt": "2026-07-13T12:30:22+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "WhatCable, l'app gratuita che trasforma il Mac in un tester per cavi USB-C",
+      "link": "https://www.hdblog.it/portatili/articoli/n664185/whatcable-app-gratuita-mac-tester-usb-c/",
+      "excerpt": "Capire che cosa sia davvero in grado di fare un cavo USB-C non è sempre semplice",
+      "image": "https://hd2.tudocdn.net/1356377?w=660",
+      "publishedAt": "2026-07-13T12:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Ducati entra nel mercato delle biciclette (premium)",
+      "link": "https://www.hdmotori.it/ducati-biciclette-premium/",
+      "excerpt": "Ducati entra nel ciclismo premium con il Gruppo Zecchetto. In arrivo tre modelli strada, gravel ed e-MTB sviluppati con Nibali e Viviani. Il debutto ufficiale a settembre.",
+      "image": "https://hd2.tudocdn.net/1356378?w=660",
+      "publishedAt": "2026-07-13T12:00:45+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Migliori monitor da 27 pollici (luglio 2026)",
+      "link": "https://www.tomshw.it/hardware/monitor-27-pollici-migliori",
+      "excerpt": "Scegliere uno dei migliori monitor da 27 pollici significa trovare il punto di equilibrio tra spazio sulla scrivania, nitidezza, comfort visivo e prestazioni. Questa diagonale…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/88518/migliori-monitor-27-copertina.jpg",
+      "publishedAt": "2026-07-13T11:21:49+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il consigliere provinciale: “L’app IO non riconosce le dieresi, altoatesini penalizzati”. La colpa però non è dell’app IO",
+      "link": "https://images.dday.it/QMGgBi1PniDjWhxnN4wWKKwlvxK3YWD6rdzuNFCPRV8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58041/172990_io.jpg",
+      "excerpt": "Con un’interrogazione in Consiglio provinciale la consigliera provinciale del Team K Maria Elisabeth Rieder segnala un problema di discriminazione digitale: i cognomi con…",
+      "image": "https://images.dday.it/QMGgBi1PniDjWhxnN4wWKKwlvxK3YWD6rdzuNFCPRV8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58041/172990_io.jpg",
+      "publishedAt": "2026-07-13T11:13:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Il nuovo Allarme con Scudo Perimetrale Verisure: invisibile per chi abita, un problema per chi prova a entrare",
+      "link": "https://images.dday.it/0rjqENe90TffrXvsOa7u9Wr80fVin8sFTW54WTyS0lY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57922/b2400d_small_Simulazione_Scudo_Perimetrale_copia.jpg",
+      "excerpt": "Il nuovo Allarme con Scudo Perimetrale Verisure rileva chi si avvicina prima che raggiunga porte e finestre. Fotocamera Full HD, verifica umana H24 e design premiato Red Dot,…",
+      "image": "https://images.dday.it/0rjqENe90TffrXvsOa7u9Wr80fVin8sFTW54WTyS0lY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57922/b2400d_small_Simulazione_Scudo_Perimetrale_copia.jpg",
+      "publishedAt": "2026-07-13T11:13:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Autovelox, da ieri oltre 800 dispositivi non possono più fare multe",
@@ -210,69 +273,6 @@
       "publishedAt": "2026-07-13T07:58:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Lo spazzolino elettrico Oral-B iO 3 torna in offerta su Amazon a 59 euro",
-      "link": "https://images.dday.it/3QpZ1cqDLD5ZvbaaRu5BldcyiELYU8o2xyxkoYGmOxQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/53781/a37bf4_oralbio3_thumb.jpg",
-      "excerpt": "Lo spazzolino elettrico Oral-B iO 3 Nero torna in sconto su Amazon al suo prezzo più basso. Approfittane subito... Leggi tutto",
-      "image": "https://images.dday.it/3QpZ1cqDLD5ZvbaaRu5BldcyiELYU8o2xyxkoYGmOxQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/53781/a37bf4_oralbio3_thumb.jpg",
-      "publishedAt": "2026-07-13T07:37:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Mondiali, le partite decisive si guardano in grande: il kit proiettore XGIMI MoGo 4 porta il maxischermo dove serve",
-      "link": "https://images.dday.it/XS7u9lbaz-GcdrZnO4nfcsGC6rK1Pe5M6KMjQIG5QDA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57995/b17249_sall_3-1536x1536_copia.jpg",
-      "excerpt": "Per le partite decisive dei Mondiali, XGIMI MoGo 4 World Cup Bundle trasforma casa, terrazzo e giardino in un maxischermo portatile da 70” con proiettore, PowerBase, audio Harman…",
-      "image": "https://images.dday.it/XS7u9lbaz-GcdrZnO4nfcsGC6rK1Pe5M6KMjQIG5QDA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57995/b17249_sall_3-1536x1536_copia.jpg",
-      "publishedAt": "2026-07-13T07:31:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Fiat Grizzly, nuovi dettagli sul prossimo SUV. Presentato ufficialmente, c'è anche fastback",
-      "link": "https://images.dday.it/OLRvXPmIMZ33CCYJGAabVWMmDcoVy0Ep04SbIoASfAg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58036/233d78_grizzly_thumb.jpg",
-      "excerpt": "I nuovi SUV del marchio sono stati svelati nel giorno del 127° anniversario di FIAT. Arriveranno in pubblico al Salone di Parigi... Leggi tutto",
-      "image": "https://images.dday.it/OLRvXPmIMZ33CCYJGAabVWMmDcoVy0Ep04SbIoASfAg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58036/233d78_grizzly_thumb.jpg",
-      "publishedAt": "2026-07-13T07:30:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Inghilterra-Norvegia, il pallone “tech” ha toccato il cavo della spider cam? La tecnologia c'è, la certezza no",
-      "link": "https://images.dday.it/Dr6LTbhwEARzM63ru9ZvSIGINaEhXE-1Svz-9WO9bVc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58034/ff86d7_frame_0195.jpg",
-      "excerpt": "Dovevano essere i mondiali più tecnologici di sempre e proprio la tecnologia lascia il più grande dubbio di questa edizione 2026 della Coppa del Mondo: durante Inghilterra -…",
-      "image": "https://images.dday.it/Dr6LTbhwEARzM63ru9ZvSIGINaEhXE-1Svz-9WO9bVc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58034/ff86d7_frame_0195.jpg",
-      "publishedAt": "2026-07-13T07:12:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migliori tablet (luglio 2026)",
-      "link": "https://www.tomshw.it/smartphone/migliori-tablet",
-      "excerpt": "Scegliere il miglior tablet non significa puntare sempre al modello più costoso o alla scheda tecnica più lunga. Il tablet giusto è quello che riesce a stare dentro il vostro modo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/88371/migliori-tablet-copertina.jpg",
-      "publishedAt": "2026-07-13T06:28:32+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Wi-Fi 7: la funzione più pubblicizzata non è (ancora) come molti la immaginano",
-      "link": "https://images.dday.it/zQ1AYQ3wOF0eLF0-T8mFUcEbGywIQtwIMSUAgGRs27w/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58017/9abfce_Gemini_Generated_Image_kx4tjtkx4tjtkx4t.png",
-      "excerpt": "I produttori puntano tutto sul Multi-Link Operation come tecnologia per trasmettere su più bande e raggiungere velocità stratosferiche. La realtà è che nessun router fa questo. Ma…",
-      "image": "https://images.dday.it/zQ1AYQ3wOF0eLF0-T8mFUcEbGywIQtwIMSUAgGRs27w/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58017/9abfce_Gemini_Generated_Image_kx4tjtkx4tjtkx4t.png",
-      "publishedAt": "2026-07-13T06:00:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "6 tool per rendere naturale il testo generato con l'AI, per content team italiani preoccupati da SEO/AI",
-      "link": "https://www.tomshw.it/aioperator/tool-umanizzare-testo-ai-content-team",
-      "excerpt": "È un problema vecchio: un testo generato con ChatGPT o Claude, pubblicato così com'è, si riconosce. Frasi tutte della stessa lunghezza, connettivi ridondanti (è importante notare,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100558/02-b42-cover.jpg",
-      "publishedAt": "2026-07-10T11:14:14+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     }
   ]
 }
