@@ -1,35 +1,188 @@
 {
-  "generatedAt": "2026-07-14T11:19:46.474791+00:00",
+  "generatedAt": "2026-07-14T13:15:15.612044+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "World of Warcraft e Morrowind? Oggi non sarebbero sostenibili",
-      "link": "https://www.tomshw.it/videogioco/wow-e-morrowind-oggi-non-nascerebbero-andrew-willis-accusa-i-grandi-publisher",
-      "excerpt": "I tagli che hanno investito id Software nell’ambito della ristrutturazione Xbox avrebbero coinvolto 136 persone su un organico di 185 lavoratori. Dopo questa riduzione, il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/02/84127/warcraft-3-98109.jpg",
-      "publishedAt": "2026-07-14T11:19:32+00:00",
+      "title": "D-topia, i colori pastello nascondono il lato più inquietante dell’IA",
+      "link": "https://www.tomshw.it/videogioco/d-topia-i-colori-pastello-nascondono-il-lato-piu-inquietante-dell-ia",
+      "excerpt": "Un mondo dai colori pastello, ordinato e apparentemente confortevole, nasconde una struttura parallela piena di anomalie e segreti. È su questa dissonanza che D-topia costruisce…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101140/d-topia-recensione-copertina.webp",
+      "publishedAt": "2026-07-14T13:09:29+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Nvidia avrebbe ristretto l’accesso ai chip AI: chi è rimasto fuori",
-      "link": "https://www.tomshw.it/hardware/nvidia-avrebbe-ristretto-l-accesso-ai-chip-ai-chi-e-rimasto-fuori",
-      "excerpt": "Oltre metà dei clienti asiatici già autorizzati ad acquistare acceleratori AI Nvidia sarebbe stata esclusa da una nuova lista bianca. La revisione, riferisce il Financial Times…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101102/XRktDcUgRy7YAckNBZrjZ9-2000-80.jpg",
-      "publishedAt": "2026-07-14T11:18:24+00:00",
+      "title": "Peugeot E-5008: non solo accessori per cani, perché la Dog Edition è speciale",
+      "link": "https://www.hdmotori.it/peugeot-e-5008-dog-edition/",
+      "excerpt": "Peugeot presenta E-5008 Dog Edition, il concept SUV progettato dal punto di vista dei cani per garantire viaggi comodi, sicuri e senza stress a tutta la famiglia.",
+      "image": "https://hd2.tudocdn.net/1356614?w=660",
+      "publishedAt": "2026-07-14T13:00:35+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "HONOR 400 (512 GB) è in offerta a 285€: il mid-range giusto da scegliere oggi",
+      "link": "https://www.hdblog.it/smartphone/offerte/n664318/honor-400-offerta-psprlug26/",
+      "excerpt": "HONOR 400 è in offerta con la versione da 512 GB e ora costa 285 euro diventando uno dei best buy de mid-range.",
+      "image": "https://hd2.tudocdn.net/1261478?w=660",
+      "publishedAt": "2026-07-14T13:00:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La memoria del futuro potrebbe eliminare la conversione elettrica",
+      "link": "https://www.tomshw.it/scienze/un-laser-scrive-dati-negli-antiferromagneti-senza-elettricita",
+      "excerpt": "Un gruppo di ricerca giapponese-tedesco, formato da scienziati del RIKEN e dell'Università di Augusta, ha dimostrato la scrittura interamente ottica di informazioni magnetiche in…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101137/un-laser-scrive-dati-negli-antiferromagneti-senza-elettricita.png",
+      "publishedAt": "2026-07-14T12:54:18+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "NVIDIA e Hugging Face, gli umanoidi ora imparano con LeRobot",
-      "link": "https://www.tomshw.it/hardware/nvidia-e-hugging-face-gli-umanoidi-ora-imparano-con-lerobot",
-      "excerpt": "Un modello da 3 miliardi di parametri capace di trasformare immagini, istruzioni e stato del robot in azioni è ora disponibile direttamente nell’ecosistema LeRobot. NVIDIA e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101091/nv-gr00t-e2r-letobot-2up-KV-r2-1600x900-1.jpg",
-      "publishedAt": "2026-07-14T11:17:58+00:00",
+      "title": "IBM delude Wall Street: tremano i titoli software",
+      "link": "https://www.tomshw.it/hardware/ibm-delude-le-attese-il-motivo-scuote-anche-i-titoli-software",
+      "excerpt": "Il software di IBM è cresciuto del 5%, ma il gruppo prevede di chiudere il secondo trimestre 2026 con ricavi inferiori alle attese. La stima è di 17,2 miliardi di dollari, l'1% in…",
+      "image": "https://cdn.tomshw.it/storage/media/2025/12/78281/ibm-acquisisce-confluent-per-11-miliardi-di-dollari-2025-12-09-7r0j6tlm9tsq2gezII6.png",
+      "publishedAt": "2026-07-14T12:54:17+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Tutti i link t.me di Telegram non hanno funzionato per diverse ore. Ecco cosa è successo",
+      "link": "https://images.dday.it/ibz_1KEHzZYwy2_cOajMNcCu15Xo7G5v2PzZIX09Cw0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58054/5c251b_pexels-viralyft-16841808.jpg",
+      "excerpt": "Dietro il blocco del dominio di Telegram c'è stato un ordine del governo degli Stati Uniti. Ma la piattaforma di messaggistica non era il bersaglio diretto... Leggi tutto",
+      "image": "https://images.dday.it/ibz_1KEHzZYwy2_cOajMNcCu15Xo7G5v2PzZIX09Cw0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58054/5c251b_pexels-viralyft-16841808.jpg",
+      "publishedAt": "2026-07-14T12:45:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Il capo di Google DeepMind chiede un'autorità globale per l'AI",
+      "link": "https://www.tomshw.it/hardware/il-capo-di-google-deepmind-chiede-unautorita-globale-per-lai",
+      "excerpt": "Il CEO e cofondatore di Google DeepMind, Demis Hassabis, ha proposto la creazione di un organismo internazionale capace di valutare i sistemi di intelligenza artificiale più…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101117/il-capo-di-google-deepmind-chiede-un-autorita-globale-per-l-ai.png",
+      "publishedAt": "2026-07-14T12:43:13+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il boom dell’AI frena la RAM, SK hynix potrebbe crescere troppo poco",
+      "link": "https://www.tomshw.it/hardware/sk-hynix-amplia-meno-del-previsto-la-crisi-delle-ram-puo-durare",
+      "excerpt": "SK hynix potrebbe mettere in produzione entro il 2028 appena un sesto dell’incremento di capacità inizialmente pianificato. Una stima citata in una recente analisi ridimensiona…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101114/sk-hynix-amplia-meno-del-previsto-la-crisi-delle-ram-puo-durare.png",
+      "publishedAt": "2026-07-14T12:39:41+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Hyundai Ioniq 3 non è in vendita, ma ha già segnato un record",
+      "link": "https://www.tomshw.it/automotive/hyundai-ioniq-3-non-e-in-vendita-ed-e-gia-da-record-nel-regno-unito",
+      "excerpt": "Hyundai ha confermato che la nuova Ioniq 3 ha generato nel Regno Unito un livello record di richieste prima ancora dell'apertura ufficiale delle vendite. La compatta elettrica,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101112/hyundai-ioniq-3-non-e-in-vendita-ed-e-gia-da-record-nel-regno-unito.png",
+      "publishedAt": "2026-07-14T12:34:16+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Acer presenta Sospiro A15, smartphone economico con display sul retro",
+      "link": "https://www.tomshw.it/smartphone/acer-svela-sospiro-a15-il-secondo-schermo-e-sul-retro",
+      "excerpt": "Acer ha ampliato il proprio catalogo mobile presentando Acer Sospiro A15, uno smartphone economico che prova a distinguersi con un display posteriore da 1,88 pollici. Il piccolo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101110/acer-svela-sospiro-a15-il-secondo-schermo-e-sul-retro.png",
+      "publishedAt": "2026-07-14T12:32:07+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Dongfeng prepara l'ingresso in Canada con i suoi EV",
+      "link": "https://www.tomshw.it/automotive/dongfeng-prepara-lingresso-in-canada-con-i-suoi-ev",
+      "excerpt": "Dongfeng Motor prepara l’ingresso nel mercato canadese con una prima selezione di auto elettriche. Il costruttore cinese sta lavorando alle certificazioni necessarie per vendere i…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101103/dongfeng-prepara-l-ingresso-in-canada-con-i-suoi-ev.png",
+      "publishedAt": "2026-07-14T12:25:50+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Un modder porta un clone di Counter-Strike a 60 FPS su PSP",
+      "link": "https://www.tomshw.it/videogioco/un-modder-porta-un-clone-di-counter-strike-a-60-fps-su-psp",
+      "excerpt": "Il modder e sviluppatore Yifeng Wang, conosciuto online come doodlestrike, ha realizzato OpenStrike, un clone open source di Counter-Strike capace di funzionare sulla PSP…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101100/un-modder-porta-un-clone-di-counter-strike-a-60-fps-su-psp.png",
+      "publishedAt": "2026-07-14T12:20:50+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "[In risoluzione] Spotify down: problemi in Italia e all'estero",
+      "link": "https://www.hdblog.it/applicazioni/articoli/n664311/spotify-problemi-down-italia-estero/",
+      "excerpt": "Impossibile avviare alcuni contenuti",
+      "image": "https://hd2.tudocdn.net/1356610?w=660",
+      "publishedAt": "2026-07-14T12:17:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Euro NCAP promuove BMW iX3 e Zeekr 7GT: le prime 5 stelle dei nuovi test di sicurezza",
+      "link": "https://images.dday.it/q3094msGfM1ARB0QQAZ4pK7D6bWgic7nRU3kjASM0sI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58053/863805_ix3_thumb.jpg",
+      "excerpt": "I protocolli 2026 introducono una valutazione più severa e completa, con maggiore attenzione agli assistenti alla guida, alla prevenzione degli incidenti, alla protezione di…",
+      "image": "https://images.dday.it/q3094msGfM1ARB0QQAZ4pK7D6bWgic7nRU3kjASM0sI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58053/863805_ix3_thumb.jpg",
+      "publishedAt": "2026-07-14T12:10:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "TV Samsung 8K, robot Roborock, PS5 Slim e altro: le migliori offerte del 14 luglio",
+      "link": "https://www.hdblog.it/ebay/offerte/n664299/migliori-offerte-oggi-amazon-ebay-14-luglio-sconti/",
+      "excerpt": "Le migliori offerte tech di oggi su Amazon, con qualche occasione anche su eBay: TV 8K, robot aspirapolvere, accessori Apple, PS5 e monitor OLED in forte sconto.",
+      "image": "https://hd2.tudocdn.net/1356594?w=660",
+      "publishedAt": "2026-07-14T12:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nuovo motore Renault GPL 120 CV: la novità per Clio e Symbioz",
+      "link": "https://www.hdmotori.it/nuovo-motore-renault-gpl-eco-g-120-cv-clio-symbioz/",
+      "excerpt": "Renault rivoluziona il GPL con il nuovo motore Eco-G da 120 CV per Clio e Symbioz: più potenza, emissioni ridotte e fino a 1.500 km di autonomia complessiva.",
+      "image": "https://hd2.tudocdn.net/1356605?w=660",
+      "publishedAt": "2026-07-14T12:00:19+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Design unico e Linux a bordo: come creare un dispositivo portatile con Raspberry Pi 5",
+      "link": "https://www.hdblog.it/hardware/articoli/n664303/raspberry-pi-5-dispositivo-come-costruire/",
+      "excerpt": "La scocca è in ottone!",
+      "image": "https://hd2.tudocdn.net/1356601?w=660",
+      "publishedAt": "2026-07-14T11:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Paramount-Warner non s'ha da fare: coalizione Stati USA sporge denuncia",
+      "link": "https://www.hdblog.it/altadefinizione/articoli/n664307/warner-paramount-fusione-tribunale/",
+      "excerpt": "12 Stati, quasi tutti Democratici, guidati dalla California.",
+      "image": "https://hd2.tudocdn.net/1356597?w=660",
+      "publishedAt": "2026-07-14T11:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Carnevale estivo delle piscine di Beatbot: fino al 42% di sconto sui robot per pulire la piscina",
+      "link": "https://www.hdblog.it/home/articoli/n663911/beatbot-offerte-robot-pulizia-piscina-sconti/",
+      "excerpt": "In questi giorni e fino al 2 agosto Beatbot offre una serie di promozioni sui suoi prodotti con sconti che arrivano fino a oltre il 40%",
+      "image": "https://hd2.tudocdn.net/1355912?w=660",
+      "publishedAt": "2026-07-14T11:31:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nissan amplia la garanzia, fino a 10 anni di copertura con Nissan More",
+      "link": "https://www.hdmotori.it/nissan-garanzia-10-anni-nissan-more/",
+      "excerpt": "Nissan offre una delle garanzie più complete del mercato: fino a 10 anni con Nissan More, 8 anni sulle batterie elettriche e coperture dedicate per ibride ed e-POWER",
+      "image": "https://hd2.tudocdn.net/1356591?w=660",
+      "publishedAt": "2026-07-14T11:30:22+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
     },
     {
       "title": "Stelle di neutroni: la NASA risolve un mistero cosmico",
@@ -37,141 +190,6 @@
       "excerpt": "IXPE conferma come le particelle più energetiche lasciano una pulsar e attraversano la galassia.",
       "image": "https://hd2.tudocdn.net/1356432?w=660",
       "publishedAt": "2026-07-14T11:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Mercato smartphone, la crisi dei chip favorisce soprattutto Apple",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664304/mercato-smartphone-q2-crisi-apple-samsung/",
-      "excerpt": "Gli iPhone 17 sono stati particolarmente apprezzati a livello globale. Ma il mercato in generale rimane in una situazione molto complessa.",
-      "image": "https://hd2.tudocdn.net/1326792?w=660",
-      "publishedAt": "2026-07-14T11:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Mercedes Baby Classe G: la produzione non sarà in Germania, ma in Ungheria",
-      "link": "https://www.hdmotori.it/mercedes-baby-classe-g-la-produzione-non-sara-in-germania-ma-in-ungheria/",
-      "excerpt": "Il nuovo fuoristrada compatto non sarà assemblato in Germania, ma nel rinnovato e tecnologico impianto di Kecskemét.",
-      "image": "https://hd2.tudocdn.net/1356574?w=660",
-      "publishedAt": "2026-07-14T11:00:33+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Honor Robot Phone: ecco gli ultimi dettagli sulla scheda tecnica",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664283/honor-robot-phone-dettagli-scheda-tecnica/",
-      "excerpt": "Arriverà ad agosto, quindi iniziamo a conoscerlo meglio",
-      "image": "https://hd2.tudocdn.net/1342959?w=660",
-      "publishedAt": "2026-07-14T10:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "HMD Asha 505 in arrivo: super entry level che ricorda qualche vecchio Nokia",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664296/hmd-asha-505-specifiche-leak-immagini-design/",
-      "excerpt": "Se avete nostalgia del Lumia 830, questo è il device che fa per voi.",
-      "image": "https://hd2.tudocdn.net/1356563?w=660",
-      "publishedAt": "2026-07-14T10:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Chip, Bruxelles sblocca 659 milioni: la Germania accelera su quattro impianti",
-      "link": "https://www.tomshw.it/hardware/chip-bruxelles-sblocca-659-milioni-la-germania-accelera-su-quattro-impianti",
-      "excerpt": "Quattro nuovi impianti lungo la filiera dei semiconduttori riceveranno complessivamente 659 milioni di euro di aiuti di Stato tedeschi, circa 751 milioni di dollari al cambio…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101089/news-flash-574581.png",
-      "publishedAt": "2026-07-14T10:43:31+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "IT-Wallet: su app IO sono in arrivo ISEE, residenza, titoli di studio e altri documenti",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664288/it-wallet-isee-residenza-titoli-di-studio/",
-      "excerpt": "Su app IO stanno per arrivare nuovi documenti e attestati digitali",
-      "image": "https://hd2.tudocdn.net/1356566?w=660",
-      "publishedAt": "2026-07-14T10:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "NVIDIA vuole rendere i robot umanoidi open source: ecco cosa cambia",
-      "link": "https://www.hdblog.it/nvidia/articoli/n664216/nvidia-lerobot-robot-umanoidi-ai/",
-      "excerpt": "NVIDIA integra nuovi modelli AI in LeRobot per semplificare lo sviluppo dei robot.",
-      "image": "https://hd2.tudocdn.net/1356423?w=660",
-      "publishedAt": "2026-07-14T10:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "DeepSeek valuta già un altro round, ma la vera corsa è sulle assunzioni",
-      "link": "https://www.tomshw.it/business/deepseek-valuta-gia-un-altro-round-ma-la-vera-corsa-e-sulle",
-      "excerpt": "A un mese dal primo finanziamento esterno, superiore a 50 miliardi di yuan, circa 7,4 miliardi di dollari, DeepSeek sta già valutando una nuova raccolta di capitale. Il Financial…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/01/82548/deepseek-autorizzata-ad-acquistare-gpu-nvidia-2026-01-30-jQHZq4s6bnq4s1g390eZxtSqn.png",
-      "publishedAt": "2026-07-14T10:33:23+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Monster Hunter Wilds costerà meno, ma alcune edizioni spariranno",
-      "link": "https://www.tomshw.it/videogioco/monster-hunter-wilds-costera-meno-ma-alcune-edizioni-spariranno",
-      "excerpt": "Il prezzo di listino di Monster Hunter Wilds sarà ridotto permanentemente dal 4 agosto 2026 alle 00:00 UTC su PC, PlayStation 5 e Xbox Series X|S. La revisione sarà accompagnata…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101084/sYuVb7gvhtxMPooRzbNiHP-1920-80.jpg",
-      "publishedAt": "2026-07-14T10:29:27+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Ericsson scivola in Borsa, il rincaro dei chip deve ancora farsi sentire",
-      "link": "https://www.tomshw.it/hardware/ericsson-scivola-in-borsa-il-rincaro-dei-chip-deve-ancora-farsi-sentire",
-      "excerpt": "La corsa globale all’intelligenza artificiale sta facendo aumentare anche il costo dei componenti destinati alle infrastrutture di telecomunicazione. Ericsson ha segnalato…",
-      "image": "https://cdn.tomshw.it/storage/media/2025/09/69364/oracle-vola-in-borsa-per-nuovi-contratti-cloud-2025-09-10-SPiCxsqb0s05rmr4r6Amclw2.jpg",
-      "publishedAt": "2026-07-14T10:27:51+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Filiera dei chip, le aziende canadesi cercano una porta negli USA",
-      "link": "https://www.tomshw.it/hardware/filiera-dei-chip-le-aziende-canadesi-cercano-una-porta-negli-usa",
-      "excerpt": "Software per il packaging avanzato, transistor per chip tridimensionali, interconnessioni destinate ai data center e sistemi per trattare gli scarichi industriali: alcune aziende…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100178/il-boom-dei-chip-ai-crea-una-nuova-elite-in-corea-del-sud.png",
-      "publishedAt": "2026-07-14T10:24:06+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Allarme caldo: tra sabbia del Sahara e blackout, l'estate italiana va in tilt",
-      "link": "https://www.hdblog.it/green/articoli/n664277/blackout-energia-elettrica-bergamo-sabbia-sahara/",
-      "excerpt": "Bergamo ancora al buio, e intanto in alcune zone d'Italia si toccheranno i 45°C.",
-      "image": "https://hd2.tudocdn.net/1356555?w=660",
-      "publishedAt": "2026-07-14T10:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Dimenticate il caricatore: HyperX Cloud III S, 200 ore a 94,99€",
-      "link": "https://www.tomshw.it/offerte/dimenticate-il-caricatore-hyperx-cloud-iii-s-200-ore-a-9499eur",
-      "excerpt": "Le HyperX Cloud III S Wireless a 94,99€ su Amazon fanno risparmiare 55€ sul listino di 149,99€, grazie a uno sconto del 37%. L’autonomia fino a 200 ore riduce drasticamente le…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101083/tomshw-offer-574479.png",
-      "publishedAt": "2026-07-14T10:18:31+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il maxi data center da 3 miliardi divide la Lombardia: cittadini sul piede di guerra",
-      "link": "https://www.hdblog.it/hardware/articoli/n664284/lombardia-protesta-data-center-lacchiarella/",
-      "excerpt": "Il progetto da 3 miliardi accende il dibattito tra sviluppo digitale e impatto ambientale.",
-      "image": "https://hd2.tudocdn.net/1356554?w=660",
-      "publishedAt": "2026-07-14T10:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Windows 11, Microsoft annuncia la rivoluzione della funzione di ricerca",
-      "link": "https://www.hdblog.it/microsoft/articoli/n664285/windows-11-rivoluzione-sistema-ricerca/",
-      "excerpt": "Priorità ai risultati locali, niente pubblicità, possibilità di disattivare totalmente i risultati online e tanto altro ancora. In distribuzione agli Insider, nei prossimi mesi…",
-      "image": "https://hd2.tudocdn.net/1356548?w=660",
-      "publishedAt": "2026-07-14T10:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -248,29 +266,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Offerte barbecue: i modelli più interessanti disponibili su Amazon",
-      "link": "https://images.dday.it/Ty8o9i_mQyoo6a0CuZbNmEYv9gKwGroec6_dl28xM7Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58045/c90ad9_91+5OlRDQ5L._AC_SL1500_.jpg",
-      "excerpt": "Approfitta delle straordinarie offerte sui barbecue KESSER e Campingaz, perfetti per le tue grigliate all'aperto... Leggi tutto",
-      "image": "https://images.dday.it/Ty8o9i_mQyoo6a0CuZbNmEYv9gKwGroec6_dl28xM7Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58045/c90ad9_91+5OlRDQ5L._AC_SL1500_.jpg",
-      "publishedAt": "2026-07-13T14:22:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "ChatGPT torna su WhatsApp in Europa: si può usare anche senza account",
-      "link": "https://images.dday.it/tfVO8potxHq8VLt0-PbqiL3VOpTkQDki94KQSVcg8XA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58044/29cd0b_Depositphotos_639978726_XL.jpg",
-      "excerpt": "OpenAI riporta ChatGPT su WhatsApp nell’Unione Europea. Il servizio consente di inviare messaggi, immagini e vocali... Leggi tutto",
-      "image": "https://images.dday.it/tfVO8potxHq8VLt0-PbqiL3VOpTkQDki94KQSVcg8XA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58044/29cd0b_Depositphotos_639978726_XL.jpg",
-      "publishedAt": "2026-07-13T13:36:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Conosci davvero macOS? Tech IT Easy svela 10 curiosità sul sistema operativo di Apple",
-      "link": "https://www.tomshw.it/hardware/conosci-davvero-macos-tech-it-easy-svela-10-curiosita-sul-sistema-operativo-di-apple",
-      "excerpt": "MacOS è uno dei sistemi operativi più riconoscibili al mondo. Il Dock, le icone, le scorciatoie e quell'interfaccia che per decenni ha contribuito a definire l'identità dei Mac…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/86007/Copertina-generica-x-articoli-(1).png",
-      "publishedAt": "2026-07-09T09:49:06+00:00",
+      "title": "Procure-to-pay automatizzato: la mappa dei nodi dove l'AI taglia i tempi sul ciclo P2P",
+      "link": "https://www.tomshw.it/aioperator/procure-to-pay-ai",
+      "excerpt": "Il ciclo procure-to-pay attraversa sette tappe: richiesta d'acquisto, approvazione, ordine, ricezione, fattura, riconciliazione a tre vie, pagamento. Ognuna ha un tempo medio, un…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100572/03-acq14-cover.jpg",
+      "publishedAt": "2026-07-10T11:15:08+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
