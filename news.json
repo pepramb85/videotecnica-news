@@ -1,62 +1,179 @@
 {
-  "generatedAt": "2026-07-14T09:49:29.333257+00:00",
+  "generatedAt": "2026-07-14T11:19:46.474791+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Disattivare il Wi-Fi della smart TV ha davvero senso?",
-      "link": "https://www.hdblog.it/tv/articoli/n664281/smart-tv-disattivare-wifi-pubblicita-senso-utile/",
-      "excerpt": "Si risolve il problema della pubblicità... o lo si sposta solo?",
-      "image": "https://hd2.tudocdn.net/1338316?w=660",
-      "publishedAt": "2026-07-14T09:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "WhatsApp prepara un'alternativa a iCloud per il backup sicuro delle chat su iPhone",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664280/whatsapp-alternativa-icloud-backup-iphone/",
-      "excerpt": "WhatsApp sta lavorando a un proprio servizio cloud per il backup delle chat su iPhone",
-      "image": "https://hd2.tudocdn.net/1356546?w=660",
-      "publishedAt": "2026-07-14T09:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Licenziamenti XBOX, non è ancora finita: il nervosismo serpeggia tra i dipendenti",
-      "link": "https://www.hdblog.it/microsoft/articoli/n664270/licenziamenti-microsoft-effetti-dipendenti/",
-      "excerpt": "Il timore è che non sia ancora finita e che molti posti siano ancora a rischio",
-      "image": "https://hd2.tudocdn.net/1354962?w=660",
-      "publishedAt": "2026-07-14T09:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Dacia Sandero Stepway Full Hybrid: ecco quanto costa",
-      "link": "https://www.hdmotori.it/dacia-sandero-stepway-full-hybrid-quanto-costa/",
-      "excerpt": "Aperti gli ordini della Sandero Stepway con tecnologia full hybrid, che promette consumi ridotti senza rinunciare all'accessibilità economica.",
-      "image": "https://hd2.tudocdn.net/1356545?w=660",
-      "publishedAt": "2026-07-14T09:30:08+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Una fotocamera per il nuovo Google Home Display, l'indizio è nascosto nel codice",
-      "link": "https://www.hdblog.it/google/articoli/n664265/fotocamera-google-home-display-indizio-codice/",
-      "excerpt": "Il teardown dell'applicazione Google Home ha portato alla luce riferimenti concreti a una fotocamera integrata nel Google Home Display.",
-      "image": "https://hd2.tudocdn.net/1356535?w=660",
-      "publishedAt": "2026-07-14T09:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "AliExpress ci prova: il Realme GT8 Pro arriva a 661€ e vuole conquistarti",
-      "link": "https://www.tomshw.it/smartphone/realme-gt8-pro-in-offerta-a-soli-662eur-48-2026-07-14",
-      "excerpt": "Su AliExpress è disponibile un'offerta imperdibile sul realme GT8 Pro 5G, lo smartphone top di gamma con batteria da 7000 mAh, fotocamera principale da 200MP, display 6.78 2K…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101070/realme-gt8-pro-in-offerta-a-soli-662eur-48-2026-07-14-MldffZd61basppna61gcaBWGuD.jpg",
-      "publishedAt": "2026-07-14T09:24:54+00:00",
+      "title": "World of Warcraft e Morrowind? Oggi non sarebbero sostenibili",
+      "link": "https://www.tomshw.it/videogioco/wow-e-morrowind-oggi-non-nascerebbero-andrew-willis-accusa-i-grandi-publisher",
+      "excerpt": "I tagli che hanno investito id Software nell’ambito della ristrutturazione Xbox avrebbero coinvolto 136 persone su un organico di 185 lavoratori. Dopo questa riduzione, il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/02/84127/warcraft-3-98109.jpg",
+      "publishedAt": "2026-07-14T11:19:32+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Nvidia avrebbe ristretto l’accesso ai chip AI: chi è rimasto fuori",
+      "link": "https://www.tomshw.it/hardware/nvidia-avrebbe-ristretto-l-accesso-ai-chip-ai-chi-e-rimasto-fuori",
+      "excerpt": "Oltre metà dei clienti asiatici già autorizzati ad acquistare acceleratori AI Nvidia sarebbe stata esclusa da una nuova lista bianca. La revisione, riferisce il Financial Times…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101102/XRktDcUgRy7YAckNBZrjZ9-2000-80.jpg",
+      "publishedAt": "2026-07-14T11:18:24+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "NVIDIA e Hugging Face, gli umanoidi ora imparano con LeRobot",
+      "link": "https://www.tomshw.it/hardware/nvidia-e-hugging-face-gli-umanoidi-ora-imparano-con-lerobot",
+      "excerpt": "Un modello da 3 miliardi di parametri capace di trasformare immagini, istruzioni e stato del robot in azioni è ora disponibile direttamente nell’ecosistema LeRobot. NVIDIA e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101091/nv-gr00t-e2r-letobot-2up-KV-r2-1600x900-1.jpg",
+      "publishedAt": "2026-07-14T11:17:58+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Stelle di neutroni: la NASA risolve un mistero cosmico",
+      "link": "https://www.hdblog.it/curiosita/articoli/n664222/ixpe-nebulosa-lighthouse-campo-magnetico/",
+      "excerpt": "IXPE conferma come le particelle più energetiche lasciano una pulsar e attraversano la galassia.",
+      "image": "https://hd2.tudocdn.net/1356432?w=660",
+      "publishedAt": "2026-07-14T11:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Mercato smartphone, la crisi dei chip favorisce soprattutto Apple",
+      "link": "https://www.hdblog.it/smartphone/articoli/n664304/mercato-smartphone-q2-crisi-apple-samsung/",
+      "excerpt": "Gli iPhone 17 sono stati particolarmente apprezzati a livello globale. Ma il mercato in generale rimane in una situazione molto complessa.",
+      "image": "https://hd2.tudocdn.net/1326792?w=660",
+      "publishedAt": "2026-07-14T11:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Mercedes Baby Classe G: la produzione non sarà in Germania, ma in Ungheria",
+      "link": "https://www.hdmotori.it/mercedes-baby-classe-g-la-produzione-non-sara-in-germania-ma-in-ungheria/",
+      "excerpt": "Il nuovo fuoristrada compatto non sarà assemblato in Germania, ma nel rinnovato e tecnologico impianto di Kecskemét.",
+      "image": "https://hd2.tudocdn.net/1356574?w=660",
+      "publishedAt": "2026-07-14T11:00:33+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Honor Robot Phone: ecco gli ultimi dettagli sulla scheda tecnica",
+      "link": "https://www.hdblog.it/smartphone/articoli/n664283/honor-robot-phone-dettagli-scheda-tecnica/",
+      "excerpt": "Arriverà ad agosto, quindi iniziamo a conoscerlo meglio",
+      "image": "https://hd2.tudocdn.net/1342959?w=660",
+      "publishedAt": "2026-07-14T10:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "HMD Asha 505 in arrivo: super entry level che ricorda qualche vecchio Nokia",
+      "link": "https://www.hdblog.it/smartphone/articoli/n664296/hmd-asha-505-specifiche-leak-immagini-design/",
+      "excerpt": "Se avete nostalgia del Lumia 830, questo è il device che fa per voi.",
+      "image": "https://hd2.tudocdn.net/1356563?w=660",
+      "publishedAt": "2026-07-14T10:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Chip, Bruxelles sblocca 659 milioni: la Germania accelera su quattro impianti",
+      "link": "https://www.tomshw.it/hardware/chip-bruxelles-sblocca-659-milioni-la-germania-accelera-su-quattro-impianti",
+      "excerpt": "Quattro nuovi impianti lungo la filiera dei semiconduttori riceveranno complessivamente 659 milioni di euro di aiuti di Stato tedeschi, circa 751 milioni di dollari al cambio…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101089/news-flash-574581.png",
+      "publishedAt": "2026-07-14T10:43:31+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "IT-Wallet: su app IO sono in arrivo ISEE, residenza, titoli di studio e altri documenti",
+      "link": "https://www.hdblog.it/smartphone/articoli/n664288/it-wallet-isee-residenza-titoli-di-studio/",
+      "excerpt": "Su app IO stanno per arrivare nuovi documenti e attestati digitali",
+      "image": "https://hd2.tudocdn.net/1356566?w=660",
+      "publishedAt": "2026-07-14T10:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "NVIDIA vuole rendere i robot umanoidi open source: ecco cosa cambia",
+      "link": "https://www.hdblog.it/nvidia/articoli/n664216/nvidia-lerobot-robot-umanoidi-ai/",
+      "excerpt": "NVIDIA integra nuovi modelli AI in LeRobot per semplificare lo sviluppo dei robot.",
+      "image": "https://hd2.tudocdn.net/1356423?w=660",
+      "publishedAt": "2026-07-14T10:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "DeepSeek valuta già un altro round, ma la vera corsa è sulle assunzioni",
+      "link": "https://www.tomshw.it/business/deepseek-valuta-gia-un-altro-round-ma-la-vera-corsa-e-sulle",
+      "excerpt": "A un mese dal primo finanziamento esterno, superiore a 50 miliardi di yuan, circa 7,4 miliardi di dollari, DeepSeek sta già valutando una nuova raccolta di capitale. Il Financial…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/01/82548/deepseek-autorizzata-ad-acquistare-gpu-nvidia-2026-01-30-jQHZq4s6bnq4s1g390eZxtSqn.png",
+      "publishedAt": "2026-07-14T10:33:23+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Monster Hunter Wilds costerà meno, ma alcune edizioni spariranno",
+      "link": "https://www.tomshw.it/videogioco/monster-hunter-wilds-costera-meno-ma-alcune-edizioni-spariranno",
+      "excerpt": "Il prezzo di listino di Monster Hunter Wilds sarà ridotto permanentemente dal 4 agosto 2026 alle 00:00 UTC su PC, PlayStation 5 e Xbox Series X|S. La revisione sarà accompagnata…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101084/sYuVb7gvhtxMPooRzbNiHP-1920-80.jpg",
+      "publishedAt": "2026-07-14T10:29:27+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Ericsson scivola in Borsa, il rincaro dei chip deve ancora farsi sentire",
+      "link": "https://www.tomshw.it/hardware/ericsson-scivola-in-borsa-il-rincaro-dei-chip-deve-ancora-farsi-sentire",
+      "excerpt": "La corsa globale all’intelligenza artificiale sta facendo aumentare anche il costo dei componenti destinati alle infrastrutture di telecomunicazione. Ericsson ha segnalato…",
+      "image": "https://cdn.tomshw.it/storage/media/2025/09/69364/oracle-vola-in-borsa-per-nuovi-contratti-cloud-2025-09-10-SPiCxsqb0s05rmr4r6Amclw2.jpg",
+      "publishedAt": "2026-07-14T10:27:51+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Filiera dei chip, le aziende canadesi cercano una porta negli USA",
+      "link": "https://www.tomshw.it/hardware/filiera-dei-chip-le-aziende-canadesi-cercano-una-porta-negli-usa",
+      "excerpt": "Software per il packaging avanzato, transistor per chip tridimensionali, interconnessioni destinate ai data center e sistemi per trattare gli scarichi industriali: alcune aziende…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100178/il-boom-dei-chip-ai-crea-una-nuova-elite-in-corea-del-sud.png",
+      "publishedAt": "2026-07-14T10:24:06+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Allarme caldo: tra sabbia del Sahara e blackout, l'estate italiana va in tilt",
+      "link": "https://www.hdblog.it/green/articoli/n664277/blackout-energia-elettrica-bergamo-sabbia-sahara/",
+      "excerpt": "Bergamo ancora al buio, e intanto in alcune zone d'Italia si toccheranno i 45°C.",
+      "image": "https://hd2.tudocdn.net/1356555?w=660",
+      "publishedAt": "2026-07-14T10:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Dimenticate il caricatore: HyperX Cloud III S, 200 ore a 94,99€",
+      "link": "https://www.tomshw.it/offerte/dimenticate-il-caricatore-hyperx-cloud-iii-s-200-ore-a-9499eur",
+      "excerpt": "Le HyperX Cloud III S Wireless a 94,99€ su Amazon fanno risparmiare 55€ sul listino di 149,99€, grazie a uno sconto del 37%. L’autonomia fino a 200 ore riduce drasticamente le…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101083/tomshw-offer-574479.png",
+      "publishedAt": "2026-07-14T10:18:31+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il maxi data center da 3 miliardi divide la Lombardia: cittadini sul piede di guerra",
+      "link": "https://www.hdblog.it/hardware/articoli/n664284/lombardia-protesta-data-center-lacchiarella/",
+      "excerpt": "Il progetto da 3 miliardi accende il dibattito tra sviluppo digitale e impatto ambientale.",
+      "image": "https://hd2.tudocdn.net/1356554?w=660",
+      "publishedAt": "2026-07-14T10:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Windows 11, Microsoft annuncia la rivoluzione della funzione di ricerca",
+      "link": "https://www.hdblog.it/microsoft/articoli/n664285/windows-11-rivoluzione-sistema-ricerca/",
+      "excerpt": "Priorità ai risultati locali, niente pubblicità, possibilità di disattivare totalmente i risultati online e tanto altro ancora. In distribuzione agli Insider, nei prossimi mesi…",
+      "image": "https://hd2.tudocdn.net/1356548?w=660",
+      "publishedAt": "2026-07-14T10:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
     },
     {
       "title": "Anche Dacia Sandero Stepway con motore full hybrid. Prezzi da 20.800 euro",
@@ -68,33 +185,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Starship flight 13 porterà per la prima volta i veri Starlink V3 | Tutti i dettagli",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n664262/starship-flight-13-starlink-v3/",
-      "excerpt": "Starship testerà i nuovi Starlink V3 e tecnologie chiave per i futuri voli orbitali.",
-      "image": "https://hd2.tudocdn.net/1344658?w=660",
-      "publishedAt": "2026-07-14T09:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Questo mini PC ha 24GB di RAM e 1TB SSD: a 357€ è un affare di questi tempi",
-      "link": "https://www.tomshw.it/hardware/mini-pc-mllse-g10-amd-ryzen-7-in-offerta-64-2026-07-14",
-      "excerpt": "Su AliExpress è disponibile il Mini PC Mllse G10, una soluzione compatta ma che può dire la sua anche per il gaming leggero, equipaggiata con processore AMD Ryzen 7 H255, 24GB di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101066/mini-pc-mllse-g10-amd-ryzen-7-in-offerta-64-2026-07-14-fO6dKr4d11baj4dbikhbtZL3sG.jpg",
-      "publishedAt": "2026-07-14T09:14:23+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Moratoria data center a New York: chi paga e chi si salva",
-      "link": "https://www.tomshw.it/business/new-york-prepara-la-moratoria-sui-permessi-dei-data-center-non-varra",
-      "excerpt": "I nuovi data center hyperscale da almeno 50 MW che dipendono da permessi ambientali discrezionali dovrebbero vedere sospeso fino a un anno il relativo iter nello Stato di New…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101064/1773eba353811ed429b247c47337f375d9112684-6000x4000.jpg",
-      "publishedAt": "2026-07-14T09:12:16+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Roborock a prezzo scontato: questo robot lavapavimenti costa solo 349€",
       "link": "https://images.dday.it/F_qOmgRU1dV6ToE18qKW-mKXly10OhT2enHRtGZMyIQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/56309/94e474_roborock_thumb.jpg",
       "excerpt": "Potente aspirapolvere, lava i pavimenti senza bagnare i tappeti (grazie al panno sollevabile). Un prodotto completo, ora a un prezzo più accessibile... Leggi tutto",
@@ -104,87 +194,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "OnePlus 15: il flagship dimenticato torna protagonista grazie al prezzo shock di AliExpress",
-      "link": "https://www.tomshw.it/smartphone/oneplus-15-5g-scontato-del-59-su-aliexpress-2026-07-14",
-      "excerpt": "Su AliExpress è disponibile un'offerta imperdibile sul OnePlus 15 5G versione globale, dotato del potente processore Snapdragon 8 Elite Gen 5, display fluido a 165 Hz, batteria da…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101063/oneplus-15-5g-scontato-del-59-su-aliexpress-2026-07-14-3iOXZcL13m44d3236o9d11mUh9.jpg",
-      "publishedAt": "2026-07-14T09:06:50+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il Galaxy Z Fold 8 Ultra del video di ieri era in realtà... un Fold 7?",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664274/samsung-galaxy-z-fold-8-ultra-video-leaked-falso/",
-      "excerpt": "Secondo il noto leaker Ice Universe qualcosa non torna.",
-      "image": "https://hd2.tudocdn.net/1274322?w=660",
-      "publishedAt": "2026-07-14T09:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Bugatti, il Bolide da pista ora circola su strada: 1.600 CV by Lanzante Limited",
-      "link": "https://www.hdmotori.it/bugatti-bolide-lanzante-limited/",
-      "excerpt": "La Casa di Molsheim ha concepito alcuni progetti solo per la pista, ma gli specialisti di Lanzante Limited hanno una idea diversa per l’hypercar Bolide.",
-      "image": "https://hd2.tudocdn.net/1356540?w=660",
-      "publishedAt": "2026-07-14T09:00:48+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Internet ovunque a soli 30€! Oggi MediaWorld sconta il router portatile",
-      "link": "https://www.tomshw.it/smartphone/router-d-link-dwr-932-in-offerta-a-soli-30eur-2026-07-14",
-      "excerpt": "Su MediaWorld è disponibile il Router D-LINK DWR-932 a un prezzo davvero interessante. Grazie a uno sconto extra da 12€, il costo finale si riduce notevolmente: lo porterete a…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101058/router-d-link-dwr-932-in-offerta-a-soli-30eur-2026-07-14-AvpjkM2pij82lblh7d4rSGJj0.png",
-      "publishedAt": "2026-07-14T09:00:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Follia Pampling: ordina le tue t-shirt preferite e ricevi gratis maglietta e calzini!",
-      "link": "https://www.tomshw.it/altro/follia-pampling-ordina-le-tue-t-shirt-preferite-e-ricevi-gratis-maglietta-e-calzini",
-      "excerpt": "Se siete alla ricerca dell'occasione perfetta per rinnovare il vostro guardaroba con grafiche uniche, originali e dallo stampo decisamente pop, la nuova promozione lanciata da…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99788/Pioggia-di-regali-su-Pampling-t-shirt-gratis,-sconti-folli-e-calzini-in-omaggio-con-il-nostro-codice.jpg",
-      "publishedAt": "2026-07-14T08:52:33+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Samsung Galaxy Z Fold7: a questo prezzo non c'è bisogno di aspettare la prossima gen",
-      "link": "https://www.hdblog.it/smartphone/offerte/n664261/samsung-galaxy-z-fold7-256gb-sconto-ebay/",
-      "excerpt": "Oltre il 40% di sconto su eBay sul Samsung Galaxy Z Fold7 con doppio display Dynamic AMOLED 2X e funzioni AI.",
-      "image": "https://hd2.tudocdn.net/1275189?w=660",
-      "publishedAt": "2026-07-14T08:49:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Cancella 46.000 account su Bandai Channel con ChatGPT, 15enne arrestato",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n664267/chatgpt-bandai-channel-adolescente-hack-account/",
-      "excerpt": "Sembra che Bandai ci abbia un po' \"messo del suo\" con pratiche di cybersicurezza molto scarse, ma il coinvolgimento del chatbot consumer di OpenAI è molto interessante.",
-      "image": "https://hd2.tudocdn.net/1343923?w=660",
-      "publishedAt": "2026-07-14T08:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Tutto lo streaming che ami in un unico posto: la super offerta Sky TV + Netflix spacca il prezzo",
-      "link": "https://www.tomshw.it/altro/tutto-lo-streaming-che-ami-in-un-unico-posto-la-super-offerta-sky-tv-netflix-spacca-il-prezzo",
-      "excerpt": "Il mondo dello streaming e dell’intrattenimento televisivo si unisce in un connubio perfetto che promette di fare la gioia di tutti i telefili. Sky ha infatti lanciato una…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101057/Tutto-lo-streaming-che-ami-in-un-unico-posto-la-super-offerta-Sky-TV-+-Netflix-spacca-il-prezzo.png",
-      "publishedAt": "2026-07-14T08:41:55+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "MOUSE: P.I. For Hire supera le attese, ecco quanto ha venduto",
-      "link": "https://www.tomshw.it/videogioco/mouse-p-i-for-hire-supera-le-attese-ecco-quanto-ha-venduto",
-      "excerpt": "MOUSE: P.I. For Hire ha superato un milione di copie vendute in meno di tre mesi. Il risultato comunicato da Fumi Games e PlaySide Studios comprende le versioni PC, PlayStation 5,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101054/d29177_5eabc121b9964bfe9a989b85929b3098-7Emv2.png",
-      "publishedAt": "2026-07-14T08:36:57+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Ecco le beta pubbliche di iOS 27, iPadOS 27, macOS Golden Gate e watchOS 27. Come installarle",
       "link": "https://images.dday.it/cNCaTSoDcBdriVphwmZDDt8xsEIxtT19XFHb-CPEDC8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58050/bcf856_apple_thumb.jpg",
       "excerpt": "Le prime versioni pubbliche dei nuovi sistemi operativi Apple sono disponibili per gli utenti iscritti al programma beta. Al centro c’è la nuova Siri AI, ma nell’Unione Europea…",
@@ -192,15 +201,6 @@
       "publishedAt": "2026-07-14T08:30:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Penn State crea un chip che calcola con la luce, senza batterie",
-      "link": "https://www.tomshw.it/scienze/penn-state-crea-un-chip-che-calcola-con-la-luce-senza-batterie",
-      "excerpt": "Un gruppo di ricercatori della Penn State ha realizzato un chip autoalimentato che integra produzione di energia, rilevamento chimico ed elaborazione dei segnali. Il prototipo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101042/penn-state-crea-un-chip-che-calcola-con-la-luce-senza-batterie.png",
-      "publishedAt": "2026-07-14T08:13:34+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "La ricerca di Windows 11 ribaltata come un calzino: risultati locali più visibili e niente pubblicità",
@@ -266,11 +266,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Numeri veri, storia falsa: come si smonta un post virale sulle pensioni",
-      "link": "https://www.tomshw.it/business/pensioni-180-miliardi-numeri-veri-storia-falsa-signal-pirate",
-      "excerpt": "C'è un post che gira su X da qualche giorno, firmato ORA!, che mette in fila un pensionato sdraiato su un masso chiamato PENSIONI e i lavoratori italiani schiacciati sotto. La…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100004/07-numeri-veri-storia-falsa.jpg",
-      "publishedAt": "2026-07-08T09:31:24+00:00",
+      "title": "Conosci davvero macOS? Tech IT Easy svela 10 curiosità sul sistema operativo di Apple",
+      "link": "https://www.tomshw.it/hardware/conosci-davvero-macos-tech-it-easy-svela-10-curiosita-sul-sistema-operativo-di-apple",
+      "excerpt": "MacOS è uno dei sistemi operativi più riconoscibili al mondo. Il Dock, le icone, le scorciatoie e quell'interfaccia che per decenni ha contribuito a definire l'identità dei Mac…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/86007/Copertina-generica-x-articoli-(1).png",
+      "publishedAt": "2026-07-09T09:49:06+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
