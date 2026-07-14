@@ -1,44 +1,215 @@
 {
-  "generatedAt": "2026-07-14T07:50:28.846720+00:00",
+  "generatedAt": "2026-07-14T09:49:29.333257+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "ENGIE PuntoFisso 12 Mesi: la formula \"zero sorprese\" per blindare luce e gas prima delle vacanze",
-      "link": "https://www.tomshw.it/hardware/engie-puntofisso-12-mesi-la-formula-zero-sorprese-per-blindare-luce-e-gas-prima-delle-vacanze",
-      "excerpt": "Con l'arrivo dell'estate e la pianificazione delle vacanze, l'ultima cosa di cui ci si vuole preoccupare è l'andamento altalenante del mercato energetico. Per rispondere al…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101040/ENGIE-PuntoFisso-12-Mesi-la-formula-zero-sorprese-per-blindare-luce-e-gas-prima-delle-vacanze.png",
-      "publishedAt": "2026-07-14T07:46:53+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Android Auto prepara un nuovo player multimediale con più controlli",
-      "link": "https://www.hdblog.it/google/articoli/n664247/android-auto-nuovo-player-musicale/",
-      "excerpt": "Android Auto prova un nuovo player con grafica più pulita e controlli avanzati.",
-      "image": "https://hd2.tudocdn.net/1354659?w=660",
-      "publishedAt": "2026-07-14T07:45:00+00:00",
+      "title": "Disattivare il Wi-Fi della smart TV ha davvero senso?",
+      "link": "https://www.hdblog.it/tv/articoli/n664281/smart-tv-disattivare-wifi-pubblicita-senso-utile/",
+      "excerpt": "Si risolve il problema della pubblicità... o lo si sposta solo?",
+      "image": "https://hd2.tudocdn.net/1338316?w=660",
+      "publishedAt": "2026-07-14T09:45:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "iOS 26.6, Apple prepara le notifiche anti-phishing per gli utenti",
-      "link": "https://www.tomshw.it/smartphone/ios-26-6-dal-codice-emerge-un-nuovo-avviso-per-messaggi",
-      "excerpt": "Un messaggio ricevuto potrebbe danneggiare l’iPhone o compromettere la privacy dell’utente: è l’avvertimento associato a Malicious Message Detected, una nuova funzione individ...",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/96438/iphone-18-pro-potrebbe-essere-il-primo-vero-dispositivo-ai.png",
-      "publishedAt": "2026-07-14T07:44:09+00:00",
+      "title": "WhatsApp prepara un'alternativa a iCloud per il backup sicuro delle chat su iPhone",
+      "link": "https://www.hdblog.it/smartphone/articoli/n664280/whatsapp-alternativa-icloud-backup-iphone/",
+      "excerpt": "WhatsApp sta lavorando a un proprio servizio cloud per il backup delle chat su iPhone",
+      "image": "https://hd2.tudocdn.net/1356546?w=660",
+      "publishedAt": "2026-07-14T09:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Licenziamenti XBOX, non è ancora finita: il nervosismo serpeggia tra i dipendenti",
+      "link": "https://www.hdblog.it/microsoft/articoli/n664270/licenziamenti-microsoft-effetti-dipendenti/",
+      "excerpt": "Il timore è che non sia ancora finita e che molti posti siano ancora a rischio",
+      "image": "https://hd2.tudocdn.net/1354962?w=660",
+      "publishedAt": "2026-07-14T09:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Dacia Sandero Stepway Full Hybrid: ecco quanto costa",
+      "link": "https://www.hdmotori.it/dacia-sandero-stepway-full-hybrid-quanto-costa/",
+      "excerpt": "Aperti gli ordini della Sandero Stepway con tecnologia full hybrid, che promette consumi ridotti senza rinunciare all'accessibilità economica.",
+      "image": "https://hd2.tudocdn.net/1356545?w=660",
+      "publishedAt": "2026-07-14T09:30:08+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Una fotocamera per il nuovo Google Home Display, l'indizio è nascosto nel codice",
+      "link": "https://www.hdblog.it/google/articoli/n664265/fotocamera-google-home-display-indizio-codice/",
+      "excerpt": "Il teardown dell'applicazione Google Home ha portato alla luce riferimenti concreti a una fotocamera integrata nel Google Home Display.",
+      "image": "https://hd2.tudocdn.net/1356535?w=660",
+      "publishedAt": "2026-07-14T09:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "AliExpress ci prova: il Realme GT8 Pro arriva a 661€ e vuole conquistarti",
+      "link": "https://www.tomshw.it/smartphone/realme-gt8-pro-in-offerta-a-soli-662eur-48-2026-07-14",
+      "excerpt": "Su AliExpress è disponibile un'offerta imperdibile sul realme GT8 Pro 5G, lo smartphone top di gamma con batteria da 7000 mAh, fotocamera principale da 200MP, display 6.78 2K…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101070/realme-gt8-pro-in-offerta-a-soli-662eur-48-2026-07-14-MldffZd61basppna61gcaBWGuD.jpg",
+      "publishedAt": "2026-07-14T09:24:54+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "One UI 9.0, arriva la Beta 4 sui Galaxy S26: ci sono le patch di luglio",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664253/one-ui-9-beta-4-disponibile-galaxy-s26/",
-      "excerpt": "Il programma di beta continua spedito",
-      "image": "https://hd2.tudocdn.net/1343504?w=660",
-      "publishedAt": "2026-07-14T07:40:00+00:00",
+      "title": "Anche Dacia Sandero Stepway con motore full hybrid. Prezzi da 20.800 euro",
+      "link": "https://images.dday.it/CQ6SuyZ6Z4YHDjMsfuTUgJpsCKXyE4JtzA9i4hW5iyU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58052/4f7ef0_stepway_thumb.jpg",
+      "excerpt": "La tecnologia ibrida già introdotta su Bigster, Duster e Jogger arriva anche su Sandero Stepway. Cambio automatico e consumi dichiarati da 4,2 l/100 km... Leggi tutto",
+      "image": "https://images.dday.it/CQ6SuyZ6Z4YHDjMsfuTUgJpsCKXyE4JtzA9i4hW5iyU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58052/4f7ef0_stepway_thumb.jpg",
+      "publishedAt": "2026-07-14T09:20:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Starship flight 13 porterà per la prima volta i veri Starlink V3 | Tutti i dettagli",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n664262/starship-flight-13-starlink-v3/",
+      "excerpt": "Starship testerà i nuovi Starlink V3 e tecnologie chiave per i futuri voli orbitali.",
+      "image": "https://hd2.tudocdn.net/1344658?w=660",
+      "publishedAt": "2026-07-14T09:15:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Questo mini PC ha 24GB di RAM e 1TB SSD: a 357€ è un affare di questi tempi",
+      "link": "https://www.tomshw.it/hardware/mini-pc-mllse-g10-amd-ryzen-7-in-offerta-64-2026-07-14",
+      "excerpt": "Su AliExpress è disponibile il Mini PC Mllse G10, una soluzione compatta ma che può dire la sua anche per il gaming leggero, equipaggiata con processore AMD Ryzen 7 H255, 24GB di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101066/mini-pc-mllse-g10-amd-ryzen-7-in-offerta-64-2026-07-14-fO6dKr4d11baj4dbikhbtZL3sG.jpg",
+      "publishedAt": "2026-07-14T09:14:23+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Moratoria data center a New York: chi paga e chi si salva",
+      "link": "https://www.tomshw.it/business/new-york-prepara-la-moratoria-sui-permessi-dei-data-center-non-varra",
+      "excerpt": "I nuovi data center hyperscale da almeno 50 MW che dipendono da permessi ambientali discrezionali dovrebbero vedere sospeso fino a un anno il relativo iter nello Stato di New…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101064/1773eba353811ed429b247c47337f375d9112684-6000x4000.jpg",
+      "publishedAt": "2026-07-14T09:12:16+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Roborock a prezzo scontato: questo robot lavapavimenti costa solo 349€",
+      "link": "https://images.dday.it/F_qOmgRU1dV6ToE18qKW-mKXly10OhT2enHRtGZMyIQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/56309/94e474_roborock_thumb.jpg",
+      "excerpt": "Potente aspirapolvere, lava i pavimenti senza bagnare i tappeti (grazie al panno sollevabile). Un prodotto completo, ora a un prezzo più accessibile... Leggi tutto",
+      "image": "https://images.dday.it/F_qOmgRU1dV6ToE18qKW-mKXly10OhT2enHRtGZMyIQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/56309/94e474_roborock_thumb.jpg",
+      "publishedAt": "2026-07-14T09:09:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "OnePlus 15: il flagship dimenticato torna protagonista grazie al prezzo shock di AliExpress",
+      "link": "https://www.tomshw.it/smartphone/oneplus-15-5g-scontato-del-59-su-aliexpress-2026-07-14",
+      "excerpt": "Su AliExpress è disponibile un'offerta imperdibile sul OnePlus 15 5G versione globale, dotato del potente processore Snapdragon 8 Elite Gen 5, display fluido a 165 Hz, batteria da…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101063/oneplus-15-5g-scontato-del-59-su-aliexpress-2026-07-14-3iOXZcL13m44d3236o9d11mUh9.jpg",
+      "publishedAt": "2026-07-14T09:06:50+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il Galaxy Z Fold 8 Ultra del video di ieri era in realtà... un Fold 7?",
+      "link": "https://www.hdblog.it/smartphone/articoli/n664274/samsung-galaxy-z-fold-8-ultra-video-leaked-falso/",
+      "excerpt": "Secondo il noto leaker Ice Universe qualcosa non torna.",
+      "image": "https://hd2.tudocdn.net/1274322?w=660",
+      "publishedAt": "2026-07-14T09:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Bugatti, il Bolide da pista ora circola su strada: 1.600 CV by Lanzante Limited",
+      "link": "https://www.hdmotori.it/bugatti-bolide-lanzante-limited/",
+      "excerpt": "La Casa di Molsheim ha concepito alcuni progetti solo per la pista, ma gli specialisti di Lanzante Limited hanno una idea diversa per l’hypercar Bolide.",
+      "image": "https://hd2.tudocdn.net/1356540?w=660",
+      "publishedAt": "2026-07-14T09:00:48+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Internet ovunque a soli 30€! Oggi MediaWorld sconta il router portatile",
+      "link": "https://www.tomshw.it/smartphone/router-d-link-dwr-932-in-offerta-a-soli-30eur-2026-07-14",
+      "excerpt": "Su MediaWorld è disponibile il Router D-LINK DWR-932 a un prezzo davvero interessante. Grazie a uno sconto extra da 12€, il costo finale si riduce notevolmente: lo porterete a…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101058/router-d-link-dwr-932-in-offerta-a-soli-30eur-2026-07-14-AvpjkM2pij82lblh7d4rSGJj0.png",
+      "publishedAt": "2026-07-14T09:00:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Follia Pampling: ordina le tue t-shirt preferite e ricevi gratis maglietta e calzini!",
+      "link": "https://www.tomshw.it/altro/follia-pampling-ordina-le-tue-t-shirt-preferite-e-ricevi-gratis-maglietta-e-calzini",
+      "excerpt": "Se siete alla ricerca dell'occasione perfetta per rinnovare il vostro guardaroba con grafiche uniche, originali e dallo stampo decisamente pop, la nuova promozione lanciata da…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99788/Pioggia-di-regali-su-Pampling-t-shirt-gratis,-sconti-folli-e-calzini-in-omaggio-con-il-nostro-codice.jpg",
+      "publishedAt": "2026-07-14T08:52:33+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Samsung Galaxy Z Fold7: a questo prezzo non c'è bisogno di aspettare la prossima gen",
+      "link": "https://www.hdblog.it/smartphone/offerte/n664261/samsung-galaxy-z-fold7-256gb-sconto-ebay/",
+      "excerpt": "Oltre il 40% di sconto su eBay sul Samsung Galaxy Z Fold7 con doppio display Dynamic AMOLED 2X e funzioni AI.",
+      "image": "https://hd2.tudocdn.net/1275189?w=660",
+      "publishedAt": "2026-07-14T08:49:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Cancella 46.000 account su Bandai Channel con ChatGPT, 15enne arrestato",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n664267/chatgpt-bandai-channel-adolescente-hack-account/",
+      "excerpt": "Sembra che Bandai ci abbia un po' \"messo del suo\" con pratiche di cybersicurezza molto scarse, ma il coinvolgimento del chatbot consumer di OpenAI è molto interessante.",
+      "image": "https://hd2.tudocdn.net/1343923?w=660",
+      "publishedAt": "2026-07-14T08:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Tutto lo streaming che ami in un unico posto: la super offerta Sky TV + Netflix spacca il prezzo",
+      "link": "https://www.tomshw.it/altro/tutto-lo-streaming-che-ami-in-un-unico-posto-la-super-offerta-sky-tv-netflix-spacca-il-prezzo",
+      "excerpt": "Il mondo dello streaming e dell’intrattenimento televisivo si unisce in un connubio perfetto che promette di fare la gioia di tutti i telefili. Sky ha infatti lanciato una…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101057/Tutto-lo-streaming-che-ami-in-un-unico-posto-la-super-offerta-Sky-TV-+-Netflix-spacca-il-prezzo.png",
+      "publishedAt": "2026-07-14T08:41:55+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "MOUSE: P.I. For Hire supera le attese, ecco quanto ha venduto",
+      "link": "https://www.tomshw.it/videogioco/mouse-p-i-for-hire-supera-le-attese-ecco-quanto-ha-venduto",
+      "excerpt": "MOUSE: P.I. For Hire ha superato un milione di copie vendute in meno di tre mesi. Il risultato comunicato da Fumi Games e PlaySide Studios comprende le versioni PC, PlayStation 5,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101054/d29177_5eabc121b9964bfe9a989b85929b3098-7Emv2.png",
+      "publishedAt": "2026-07-14T08:36:57+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Ecco le beta pubbliche di iOS 27, iPadOS 27, macOS Golden Gate e watchOS 27. Come installarle",
+      "link": "https://images.dday.it/cNCaTSoDcBdriVphwmZDDt8xsEIxtT19XFHb-CPEDC8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58050/bcf856_apple_thumb.jpg",
+      "excerpt": "Le prime versioni pubbliche dei nuovi sistemi operativi Apple sono disponibili per gli utenti iscritti al programma beta. Al centro c’è la nuova Siri AI, ma nell’Unione Europea…",
+      "image": "https://images.dday.it/cNCaTSoDcBdriVphwmZDDt8xsEIxtT19XFHb-CPEDC8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58050/bcf856_apple_thumb.jpg",
+      "publishedAt": "2026-07-14T08:30:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Penn State crea un chip che calcola con la luce, senza batterie",
+      "link": "https://www.tomshw.it/scienze/penn-state-crea-un-chip-che-calcola-con-la-luce-senza-batterie",
+      "excerpt": "Un gruppo di ricercatori della Penn State ha realizzato un chip autoalimentato che integra produzione di energia, rilevamento chimico ed elaborazione dei segnali. Il prototipo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101042/penn-state-crea-un-chip-che-calcola-con-la-luce-senza-batterie.png",
+      "publishedAt": "2026-07-14T08:13:34+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La ricerca di Windows 11 ribaltata come un calzino: risultati locali più visibili e niente pubblicità",
+      "link": "https://images.dday.it/FP9Vs1BVPucYDCZP777hatauNWmkX4hX-XZOWWAJ9PQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58049/33ae7d_Depositphotos_870359594_XL.jpg",
+      "excerpt": "Microsoft ha annunciato un aggiornamento importante per la ricerca di Windows 11. Le novità dovrebbero arrivare a tutti gli utenti nel corso dell’anno ... Leggi tutto",
+      "image": "https://images.dday.it/FP9Vs1BVPucYDCZP777hatauNWmkX4hX-XZOWWAJ9PQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58049/33ae7d_Depositphotos_870359594_XL.jpg",
+      "publishedAt": "2026-07-14T07:54:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "L’IA e l’impatto devastante sul mondo del lavoro: anche gli scettici iniziano a preoccuparsi",
@@ -48,141 +219,6 @@
       "publishedAt": "2026-07-14T07:37:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Octopus congela i prezzi: luce e gas al riparo dai rincari per 12 mesi!",
-      "link": "https://www.tomshw.it/altro/octopus-congela-i-prezzi-luce-e-gas-al-riparo-dai-rincari-per-12-mesi",
-      "excerpt": "Nel panorama della transizione energetica domestica, Octopus Energy torna a stupire con una promozione integrata Luce e Gas pensata per mettere al sicuro le famiglie italiane…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101038/Octopus-congela-i-prezzi-luce-e-gas-al-riparo-dai-rincari-per-12-mesi!.png",
-      "publishedAt": "2026-07-14T07:36:05+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Telegram, i link t.me non funzionano più: il dominio è stato sospeso",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n664252/link-tme-telegram-non-funzionano/",
-      "excerpt": "Il dominio t.me è stato posto nello stato “serverHold” dal gestore del registro .me",
-      "image": "https://hd2.tudocdn.net/1356505?w=660",
-      "publishedAt": "2026-07-14T07:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Blindati e risparmia: Surfshark rivoluziona i suoi piani con sconti folli e mesi extra in regalo",
-      "link": "https://www.tomshw.it/hardware/blindati-e-risparmia-surfshark-rivoluziona-i-suoi-piani-con-sconti-folli-e-mesi-extra-in-regalo",
-      "excerpt": "Proteggere la propria identità digitale e navigare sul web in totale libertà non è più un lusso per pochi. Surfshark ha lanciato una promozione sui suoi piani da 24 mesi, o...",
-      "image": "https://cdn.tomshw.it/storage/media/2025/02/49293/SurfShark-86--copertina.jpg",
-      "publishedAt": "2026-07-14T07:28:35+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "HMD potrebbe aver già cancellato il suo smartphone modulare",
-      "link": "https://www.tomshw.it/smartphone/hmd-potrebbe-aver-gia-cancellato-il-suo-nuovo-smartphone-modulare",
-      "excerpt": "HMD potrebbe aver cancellato Fusion 2, il successore del suo smartphone modulare. Il progetto sarebbe stato fermato a causa degli elevati costi produttivi e dei dubbi sulla sua…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100994/hmd-potrebbe-aver-gia-cancellato-il-suo-nuovo-smartphone-modulare.png",
-      "publishedAt": "2026-07-14T07:20:36+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Quadric chiude una Serie C da 46 milioni per l'AI on-device",
-      "link": "https://www.tomshw.it/business/quadric-raccoglie-46-milioni-per-lai-che-gira-sui-dispositivi",
-      "excerpt": "Quadric ha portato a termine il secondo closing della sua Serie C da 46 milioni di dollari, un'operazione che spinge a 90 milioni il capitale complessivo raccolto dalla…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101033/quadric-raccoglie-46-milioni-per-l-ai-che-gira-sui-dispositivi.png",
-      "publishedAt": "2026-07-14T07:18:33+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Qantas porta il Wi-Fi su tutti i Boeing 787, ora tocca agli A380",
-      "link": "https://www.tomshw.it/hardware/qantas-porta-il-wi-fi-su-tutti-i-boeing-787-ora-tocca-agli-a380",
-      "excerpt": "Qantas ha completato l'installazione del Wi-Fi sull'intera flotta di Boeing 787 Dreamliner, eliminando una delle principali lacune dei suoi collegamenti internazionali. Tutti gli…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101032/qantas-porta-il-wi-fi-su-tutti-i-boeing-787-ora-tocca-agli-a380.png",
-      "publishedAt": "2026-07-14T07:07:22+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Samsung SDI progetta una linea di batterie ESS tutta per Tesla",
-      "link": "https://www.tomshw.it/automotive/samsung-sdi-progetta-una-linea-di-batterie-ess-tutta-per-tesla",
-      "excerpt": "Samsung SDI sta progettando una nuova linea produttiva per batterie destinate esclusivamente ai sistemi di accumulo energetico di Tesla. Il piano introdurrebbe una capacità…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101031/samsung-sdi-progetta-una-linea-di-batterie-ess-tutta-per-tesla.png",
-      "publishedAt": "2026-07-14T07:05:40+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il telescopio gigante dell'ESO ha superato una prova decisiva",
-      "link": "https://www.tomshw.it/scienze/il-telescopio-gigante-delleso-ha-superato-una-prova-decisiva",
-      "excerpt": "L’Organizzazione europea per la ricerca astronomica nell’emisfero australe, l’ESO, ha fatto ruotare per la prima volta la struttura dell’Extremely Large Telescope attorno al…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101006/il-telescopio-gigante-dell-eso-ha-superato-una-prova-decisiva.png",
-      "publishedAt": "2026-07-14T06:52:41+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Revolut Pay arriva su Glovo: pagamenti rapidi e più RevPoints sugli ordini",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664249/glovo-integra-revolut-pay-in-italia/",
-      "excerpt": "Revolut Pay arriva su Glovo anche in Spagna, Portogallo, Polonia, Romania, Bulgaria e Croazia",
-      "image": "https://hd2.tudocdn.net/1356496?w=660",
-      "publishedAt": "2026-07-14T06:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Space Force, entra in servizio Meadowlands per la guerra elettronica spaziale",
-      "link": "https://www.hdblog.it/mercato/articoli/n664213/meadowlands-space-force-guerra-elettronica/",
-      "excerpt": "Gli USA schierano Meadowlands, sistema che disturba i satelliti senza distruggerli.",
-      "image": "https://hd2.tudocdn.net/1356422?w=660",
-      "publishedAt": "2026-07-14T06:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Apple rilascia le prime beta pubbliche di iOS 27, macOS27 e la beta 5 di iOS 26.6",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664243/apple-rilascia-prime-beta-pubbliche-ios-27/",
-      "excerpt": "Le build corrispondono sostanzialmente alle terze beta distribuite agli sviluppatori la scorsa settimana.",
-      "image": "https://hd2.tudocdn.net/1356494?w=660",
-      "publishedAt": "2026-07-14T06:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "NASA completa i test chiave di Dragonfly, il velivolo che volerà su Titano",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n664224/dragonfly-nasa-test-titan/",
-      "excerpt": "Dragonfly supera i test strutturali e si prepara alla missione su Titan.",
-      "image": "https://hd2.tudocdn.net/1356437?w=660",
-      "publishedAt": "2026-07-14T06:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Fusione nucleare: il calcolo quantistico compie un passo decisivo sul trizio",
-      "link": "https://www.hdblog.it/green/articoli/n664212/quantum-computing-fusione-trizio-flibe/",
-      "excerpt": "Il quantum computing simula il materiale chiave per produrre il trizio della fusione.",
-      "image": "https://hd2.tudocdn.net/1356416?w=660",
-      "publishedAt": "2026-07-14T06:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Nuova AUDI Q4 e-tron 2026: crescono i cavalli e l'autonomia ma costa meno di prima - Video",
-      "link": "https://www.hdmotori.it/prove/nuova-audi-q4-e-tron-2026-crescono-i-cavalli-e-lautonomia-ma-costa-meno-di-prima-video/",
-      "excerpt": "In attesa del debutto della futura e inedita Audi A2 e-tron - prevista per l'inizio del 2027 - la casa di Ingolstadt gioca d’anticipo e rinnova radicalmente...",
-      "image": "https://hd2.tudocdn.net/1356491?w=660",
-      "publishedAt": "2026-07-14T06:00:57+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Sam Altman smonta il sogno dei data center nello spazio: ha ragione?",
-      "link": "https://www.hdblog.it/hardware/articoli/n664241/sam-altman-data-center-spazio/",
-      "excerpt": "Gli esperti dubitano dei data center spaziali: i costi restano il vero ostacolo.",
-      "image": "https://hd2.tudocdn.net/1356488?w=660",
-      "publishedAt": "2026-07-14T05:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Mondiali, le partite decisive si guardano in grande: il kit proiettore XGIMI MoGo 4 porta il maxischermo dove serve",
@@ -201,15 +237,6 @@
       "publishedAt": "2026-07-14T01:03:05+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Recensione Huawei Freeclip 2 S, lo stile incontra la perfezione",
-      "link": "https://www.tomshw.it/smartphone/recensione-huawei-freeclip-2-s-lo-stile-incontra-la-perfezione",
-      "excerpt": "Si può migliorare qualcosa che è già praticamente perfetto? Forse no, ma sicuramente gli si può conferire tanto stile, ed è esattamente quello che ho pensato dopo av...",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100977/Screenshot-2026-07-13-alle-23-49-07.png",
-      "publishedAt": "2026-07-13T22:13:51+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Samsung Health e il consenso di accesso ai dati per addestrare l'IA. Nessun allarme, è un problema americano",
@@ -239,40 +266,13 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Il 2027 di MG: auto ibride plug-in con batterie a stato semi-solido e guida assistita più evoluta",
-      "link": "https://images.dday.it/XjY7GoXtSUhgyo21OTUNGGUvkh9BSjL-z5d6By8fQeI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58042/51d588_mg_thumb.jpg",
-      "excerpt": "Al Tech Day londinese, MG ha presentato la propria strategia tecnologica: nuova generazione Plug-in Hybrid+, batterie SolidCore e test già avviati sui robotaxi di livello 4...…",
-      "image": "https://images.dday.it/XjY7GoXtSUhgyo21OTUNGGUvkh9BSjL-z5d6By8fQeI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58042/51d588_mg_thumb.jpg",
-      "publishedAt": "2026-07-13T13:24:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Google alla UE: \"Piracy Shield è la prova che i blocchi non funzionano. La pirateria si combatte con i prezzi\"",
-      "link": "https://images.dday.it/mXZhvctK18KvoHJ8KOA3xQjyPe02NdmpqlBsTr3jhnY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58043/daaf0f_psg.jpg",
-      "excerpt": "In un documento depositato lo scorso 25 giugno presso la Commissione Europea Google prende posizione nel dibattito sulla revisione della direttiva Copyright e lo fa, tra tutti gli…",
-      "image": "https://images.dday.it/mXZhvctK18KvoHJ8KOA3xQjyPe02NdmpqlBsTr3jhnY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58043/daaf0f_psg.jpg",
-      "publishedAt": "2026-07-13T13:21:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il consigliere provinciale: “L’app IO non riconosce le dieresi, altoatesini penalizzati”. La colpa però non è dell’app IO",
-      "link": "https://images.dday.it/QMGgBi1PniDjWhxnN4wWKKwlvxK3YWD6rdzuNFCPRV8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58041/172990_io.jpg",
-      "excerpt": "Con un’interrogazione in Consiglio provinciale la consigliera provinciale del Team K Maria Elisabeth Rieder segnala un problema di discriminazione digitale: i cognomi con…",
-      "image": "https://images.dday.it/QMGgBi1PniDjWhxnN4wWKKwlvxK3YWD6rdzuNFCPRV8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58041/172990_io.jpg",
-      "publishedAt": "2026-07-13T11:13:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Autovelox, da ieri oltre 800 dispositivi non possono più fare multe",
-      "link": "https://images.dday.it/zPKXF8cIAQoR_gybO4tpp_ZlpFJy2q60hPC8lqaL4GA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58040/ef8f8a_velox_thumb.jpg",
-      "excerpt": "Il nuovo decreto ha diviso gli apparecchi registrati dal ministero dei Trasporti: più di 3.100 restano utilizzabili, mentre circa 900 devono fermarsi perché non rientrano tra i…",
-      "image": "https://images.dday.it/zPKXF8cIAQoR_gybO4tpp_ZlpFJy2q60hPC8lqaL4GA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58040/ef8f8a_velox_thumb.jpg",
-      "publishedAt": "2026-07-13T09:51:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
+      "title": "Numeri veri, storia falsa: come si smonta un post virale sulle pensioni",
+      "link": "https://www.tomshw.it/business/pensioni-180-miliardi-numeri-veri-storia-falsa-signal-pirate",
+      "excerpt": "C'è un post che gira su X da qualche giorno, firmato ORA!, che mette in fila un pensionato sdraiato su un masso chiamato PENSIONI e i lavoratori italiani schiacciati sotto. La…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100004/07-numeri-veri-storia-falsa.jpg",
+      "publishedAt": "2026-07-08T09:31:24+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     }
   ]
 }
