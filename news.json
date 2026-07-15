@@ -1,179 +1,215 @@
 {
-  "generatedAt": "2026-07-15T07:53:49.279022+00:00",
+  "generatedAt": "2026-07-15T09:53:50.283089+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Samsung chiarisce: disattivare l'AI non cancella i tuoi dati sanitari",
-      "link": "https://www.hdblog.it/samsung/articoli/n664390/samsung-health-ai-privacy-dati/",
-      "excerpt": "Samsung chiarisce il controverso avviso sull'uso dei dati sanitari per addestrare l'AI.",
-      "image": "https://hd2.tudocdn.net/1356717?w=660",
-      "publishedAt": "2026-07-15T07:50:00+00:00",
+      "title": "Il 100% degli sviluppatori giapponesi usa l'AI, ecco quali",
+      "link": "https://www.tomshw.it/videogioco/ai-nei-giochi-online-il-report-joga-rivela-cosa-preoccupa-i-giocatori",
+      "excerpt": "Google Gemini è utilizzato dal 94% delle aziende di giochi online coinvolte nell’ultima indagine della Japan Online Game Association. Seguono Anthropic Claude con l’84% e GitHub…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/05/93274/pictonico-nintendo-foto-minigiochi-mobile.webp",
+      "publishedAt": "2026-07-15T09:52:45+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Marvel Tōkon, ecco come Arc System Works rende accessibile il 4 contro 4",
+      "link": "https://www.tomshw.it/videogioco/marvel-tokon-ecco-come-arc-system-works-rende-accessibile-il-4-contro",
+      "excerpt": "La formula 4 contro 4 di Marvel Tōkon: Fighting Souls si è rivelata più accessibile di quanto lasciasse supporre la quantità di personaggi coinvolti. Dopo una prova di circa…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101279/Marvel-Tokon-Fighting-Souls-intro.jpg",
+      "publishedAt": "2026-07-15T09:51:09+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "PlayStation FlexStrike rinviato: non debutterà più con Marvel Tōkon",
+      "link": "https://www.tomshw.it/videogioco/playstation-flexstrike-rinviato-non-debuttera-piu-con-marvel-tokon",
+      "excerpt": "PlayStation FlexStrike non uscirà più il 6 agosto 2026 insieme a Marvel Tōkon: Fighting Souls. Sony Interactive Entertainment ha rinviato il debutto globale del suo primo fight…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101278/b9939045eb3a62128a27c90145703c278ba071f2.jpg",
+      "publishedAt": "2026-07-15T09:50:37+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "NVIDIA H200 arrivano in Cina, ma il dato che conta resta segreto",
+      "link": "https://www.tomshw.it/hardware/nvidia-h200-arrivano-in-cina-ma-il-dato-che-conta-resta-segreto",
+      "excerpt": "Le prime unità NVIDIA H200 autorizzate dagli Stati Uniti sono state spedite verso Cina e Hong Kong. La conferma ufficiale è arrivata il 14 luglio da Jeffrey Kessler,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/01/82461/nvidia-cina-non-approva-import-gpu-h200-2026-01-29-ibRt9hsZGtU21.jpg",
+      "publishedAt": "2026-07-15T09:50:02+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Samsung Flex Titanium, la nuova struttura sfida la piega dei Galaxy",
+      "link": "https://www.tomshw.it/smartphone/samsung-flex-titanium-la-nuova-struttura-sfida-la-piega-dei-galaxy",
+      "excerpt": "Una pellicola in lega di titanio collocata subito sotto il pannello OLED punta a rendere meno visibile la piega dei prossimi smartphone Galaxy foldable. È il fulcro di Flex…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101281/samsung-unveils-flex-titanium-technology.webp",
+      "publishedAt": "2026-07-15T09:49:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Occhio ai finti SMS di Nexi, di nuovo la truffa del pagamento da migliaia di euro",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n664394/finti-sms-nexi-truffa-pagamento-migliaia-euro/",
+      "excerpt": "Nuova ondata di SMS fraudolenti che sfruttano il nome di Nexi con l'obiettivo di rubare dati convincendo a chiamare un falso operatore.",
+      "image": "https://hd2.tudocdn.net/1356720?w=660",
+      "publishedAt": "2026-07-15T09:45:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Mondiali 2026: dove vedere oggi Inghilterra vs Argentina in TV e streaming",
-      "link": "https://www.tomshw.it/altro/mondiali-2026-dove-vedere-oggi-inghilterra-vs-argentina-in-tv-e-streaming",
-      "excerpt": "L’attesa è finita. Questa sera, mercoledì 15 luglio 2026, il Mercedes-Benz Stadium di Atlanta si accende per la seconda e attesissima semifinale della Coppa del Mondo 2026. A…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/98616/Mondiali-2026-dove-vedere-le-partite-di-oggi.png",
-      "publishedAt": "2026-07-15T07:44:10+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Expeditions: Samurai, c'è una data d'uscita per l'accesso anticipato",
-      "link": "https://www.tomshw.it/videogioco/expeditions-samurai-parte-il-conto-alla-rovescia-per-l-accesso-anticipato-su",
-      "excerpt": "Expeditions: Samurai debutterà il 7 agosto 2026 in accesso anticipato su Steam. Il gioco di ruolo tattico sviluppato dallo studio danese Campfire Cabal e pubblicato da THQ Nordic…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101170/standard-edition.jpg",
-      "publishedAt": "2026-07-15T07:39:06+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "PlayStation Store, partono gli Sconti estivi (e un data chiave)",
-      "link": "https://www.tomshw.it/videogioco/playstation-store-partono-gli-sconti-estivi-ma-c-e-una-data-chiave",
-      "excerpt": "Riduzioni fino al 75% su migliaia di prodotti segnano l'avvio degli Sconti estivi del PlayStation Store. La promozione, attiva dal 15 luglio 2026, coinvolge giochi, contenuti…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101250/55196a12aadce229084724f5003076a0f1d343ad-scaled.jpg",
-      "publishedAt": "2026-07-15T07:36:10+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Sconti fino all'83% e un iPhone 17 Pro in palio: ExpressVPN rivoluziona la tua estate!",
-      "link": "https://www.tomshw.it/hardware/sconti-fino-all83-e-un-iphone-17-pro-in-palio-expressvpn-rivoluziona-la-tua-estate",
-      "excerpt": "L'estate si tinge di tecnologia e sicurezza grazie all'esclusivo Summer Deal firmato ExpressVPN. La celebre suite per la privacy online ha lanciato una promozione che va ben oltre…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101252/Sconti-fino-all'83--e-un-iPhone-17-Pro-in-palio-ExpressVPN-rivoluziona-la-tua-estate!.png",
-      "publishedAt": "2026-07-15T07:35:40+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Galaxy Z Fold 8, ecco la tecnologia di Samsung per rendere la piega invisibile",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664392/samsung-galaxy-fold-8-piega-invisibile-titanio/",
-      "excerpt": "In arrivo la tecnologia \"Flex Titanium\", che include anche una pellicola realizzata in questo materiale che renderà il pannello più resistente alle deformazioni.",
-      "image": "https://hd2.tudocdn.net/1356060?w=660",
-      "publishedAt": "2026-07-15T07:25:00+00:00",
+      "title": "Clonare un Neanderthal? La scienza spiega perché non accadrà presto",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n664346/clonare-neanderthal-spiegazione/",
+      "excerpt": "Clonare un Neanderthal è molto più difficile di quanto sembri: ecco perché.",
+      "image": "https://hd2.tudocdn.net/1356661?w=660",
+      "publishedAt": "2026-07-15T09:35:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "JBL Quantum 100X: più comfort e audio chiaro su Xbox",
-      "link": "https://www.tomshw.it/videogioco/jbl-quantum-100x-piu-comfort-e-audio-chiaro-su-xbox-2026-07-15",
-      "excerpt": "JBL Quantum 100X sono cuffie gaming over-ear cablate con jack da 3,5 mm, microfono direzionale rimovibile e compatibilità multipiattaforma. 34,49€ invece di 39,99€, con uno sconto…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99299/jbl-quantum-100x-headset-xbox-cablato-conveniente-2026-07-03-SKhvh0d5v5srh80tatHD1.png",
-      "publishedAt": "2026-07-15T07:17:37+00:00",
+      "title": "Obbligo EU batterie sostitutibili: ecco i nuovi prodotti esentati",
+      "link": "https://www.hdblog.it/indossabili/articoli/n664398/no-obbligo-eu-batterie-sostitutibili-smartwatch/",
+      "excerpt": "La Commissione Europea amplia l'elenco delle eccezioni all'obbligo di batterie removibili, escludendo dalla stretta normativa anche smartwatch, fitness tracker e giocattoli…",
+      "image": "https://hd2.tudocdn.net/1352989?w=660",
+      "publishedAt": "2026-07-15T09:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "ASML vola oltre le attese: l'AI stravolge i piani",
+      "link": "https://www.tomshw.it/hardware/asml-corre-oltre-le-attese-l-ai-fa-riscrivere-i-piani",
+      "excerpt": "Il giro d’affari atteso da ASML nel 2026 sale a 43-45 miliardi di euro, con un margine lordo compreso tra il 54% e il 56%. È il secondo rialzo delle previsioni annuali dall’inizio…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101274/news-flash-576312.png",
+      "publishedAt": "2026-07-15T09:19:18+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Carlinkit 3.0 Mini: CarPlay wireless con una spesa minima",
-      "link": "https://www.tomshw.it/smartphone/carlinkit-3-0-mini-carplay-wireless-con-una-spesa-minima-2026-07-15",
-      "excerpt": "Carlinkit 3.0 Mini è un adattatore compatto che rende wireless il CarPlay cablato di fabbrica sulle automobili compatibili. 14,10€ invece di 16,44€, con uno sconto del 14%: il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101249/Carlinkit-3-0-Mini.jpg",
-      "publishedAt": "2026-07-15T07:16:23+00:00",
+      "title": "Il drone che dà la caccia alle zanzare è realtà. E ha appena fatto la prima vittima",
+      "link": "https://images.dday.it/ktKHUZilu2fM8SU9tDdnlg4QDH8Nvr7DoRp3b64WobI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58065/72719e_Gemini_Generated_Image_90alei90alei90al.jpeg",
+      "excerpt": "Una startup ha appena pubblicato il video della prima zanzara vittima del suo drone da caccia. Il sistema uscirà il prossimo anno e userà un radar a ultrasuoni capace di…",
+      "image": "https://images.dday.it/ktKHUZilu2fM8SU9tDdnlg4QDH8Nvr7DoRp3b64WobI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58065/72719e_Gemini_Generated_Image_90alei90alei90al.jpeg",
+      "publishedAt": "2026-07-15T09:18:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Tony Hawk’s Pro Skater 1 + 2, la data per Game Pass sparisce senza spiegazioni",
+      "link": "https://www.tomshw.it/videogioco/tony-hawk-s-pro-skater-1-2-la-data-per-game-pass",
+      "excerpt": "Tony Hawk’s Pro Skater 1 + 2 non figura più tra i giochi destinati a entrare nel catalogo di Xbox Game Pass il 21 luglio. Xbox ha eliminato il titolo dall’elenco ufficiale delle…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101271/images-5.jpg",
+      "publishedAt": "2026-07-15T09:12:48+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Un T-Rex va all’asta per 30 milioni: perdita irreparabile secondo gli scienziati",
-      "link": "https://www.hdblog.it/mercato/articoli/n664384/t-rex-gus-asta-sothebys/",
-      "excerpt": "Il terzo T-Rex più completo al mondo va all'asta e divide collezionisti e scienziati.",
-      "image": "https://hd2.tudocdn.net/1356714?w=660",
-      "publishedAt": "2026-07-15T07:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Uber lancia Comfort in tutta Italia. Sai prima quanto paghi ed è più economico di Black",
+      "link": "https://images.dday.it/iDS6rrWMAb2KA6z9lQAZQCuRcdTe-TxpCMxhkGUeyaA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58064/555b3b_uber_thumb.jpg",
+      "excerpt": "Le auto sono più ordinarie rispetto a Uber Black, ma le tariffe sono più convenienti. È pensato per viaggi più quotidiani... Leggi tutto",
+      "image": "https://images.dday.it/iDS6rrWMAb2KA6z9lQAZQCuRcdTe-TxpCMxhkGUeyaA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58064/555b3b_uber_thumb.jpg",
+      "publishedAt": "2026-07-15T09:12:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
-      "title": "Yamaha CD-S303: il lettore CD per riscoprire l'impianto hi-fi",
-      "link": "https://www.tomshw.it/hardware/yamaha-cd-s303-il-lettore-cd-per-riscoprire-l-impianto-hi-fi-2026-07-15",
-      "excerpt": "Yamaha CD-S303 è un lettore CD hi-fi con DAC da 192 kHz/24 bit, modalità Pure Direct e porta USB frontale per diversi formati audio. 325€ invece di 379€, con uno sconto del 14%:…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101238/yamaha-cd-s303-il-lettore-cd-per-riscoprire-l-impianto-hi-fi-20be0ldk3kfkc8dK44kZr.png",
-      "publishedAt": "2026-07-15T07:14:02+00:00",
+      "title": "Ultime ore di sottocosto MediaWorld: 7 offerte da non perdere prima dello stop estivo",
+      "link": "https://www.tomshw.it/altro/ultime-ore-di-sottocosto-mediaworld-7-offerte-da-non-perdere-prima-dello-stop-estivo",
+      "excerpt": "Il conto alla rovescia è iniziato: il sottocosto online di MediaWorld sta per terminare e oggi, 15 luglio, rappresenta l’ultima occasione per acquistare alcuni dei prodotti…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101270/Ultime-ore-di-sottocosto-MediaWorld-7-offerte-da-non-perdere-prima-dello-stop-estivo.png",
+      "publishedAt": "2026-07-15T09:10:27+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Carlinkit 5.0 2Air rende wireless CarPlay e Android Auto",
-      "link": "https://www.tomshw.it/smartphone/carlinkit-5-0-2air-rende-wireless-carplay-e-android-auto-2026-07-15",
-      "excerpt": "Carlinkit 5.0 2Air è un adattatore che trasforma in wireless i sistemi CarPlay e Android Auto già presenti via cavo su molte automobili compatibili. 59,99€ invece di 69,99€, con…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101237/carlinkit-5-0-2air-rende-wireless-carplay-e-android-auto-2026-0rpre3aitfgelaI9wGFr.png",
-      "publishedAt": "2026-07-15T07:11:20+00:00",
+      "title": "Motorola Edge 70 Max ufficiale: smartphone premium con super batteria",
+      "link": "https://www.hdblog.it/smartphone/articoli/n664412/motorola-edge-70-max-prezzo-specifiche-novita/",
+      "excerpt": "A partire da 900 euro in Italia con diversi bonus di preordine.",
+      "image": "https://hd2.tudocdn.net/1356781?w=660",
+      "publishedAt": "2026-07-15T09:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "DS N°7 Élysée, il SUV blindato per il Presidente della Repubblica francese",
+      "link": "https://www.hdmotori.it/ds-n7-elysee-suv-blindato/",
+      "excerpt": "La DS N°7 ÉLYSÉE è entrata ufficialmente nel parco auto del Presidente della Repubblica Francese. Per la parata del 14 luglio 2026 è stata lei la protagonista su...",
+      "image": "https://hd2.tudocdn.net/1356780?w=660",
+      "publishedAt": "2026-07-15T09:00:54+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il resort di Bill Gates divide la Puglia: perché il progetto fa così discutere",
+      "link": "https://www.hdblog.it/green/articoli/n664399/resort-bill-gates-ostuni-proteste/",
+      "excerpt": "Il resort Four Seasons a Ostuni scatena proteste per i possibili impatti su ambiente e paesaggio.",
+      "image": "https://hd2.tudocdn.net/1356724?w=660",
+      "publishedAt": "2026-07-15T08:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google vs Epic, c'è la tregua: gli store di terze parti arrivano su Play Store, negli USA",
+      "link": "https://www.hdblog.it/google/articoli/n664405/google-play-store-terze-parti-usa/",
+      "excerpt": "Ci saranno due sistemi diversi, uno per gli USA e uno per il resto del mondo",
+      "image": "https://hd2.tudocdn.net/1314992?w=660",
+      "publishedAt": "2026-07-15T08:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Flex Titanium, la ricetta di Samsung per non far vedere la piega nei pieghevoli",
+      "link": "https://images.dday.it/SyYkqakxdYuuCa3ibDx6Sr1ZwDjtCx0K3A03a534Mzg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58063/d8bfee_ytgh-t.jpg",
+      "excerpt": "Tra qualche giorno Samsung svelerà la nuova famiglia Galaxy Fold. Sappiamo che ci saranno due varianti con due formati di schermo, e sappiamo adesso che la piega si vedrà ancora…",
+      "image": "https://images.dday.it/SyYkqakxdYuuCa3ibDx6Sr1ZwDjtCx0K3A03a534Mzg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58063/d8bfee_ytgh-t.jpg",
+      "publishedAt": "2026-07-15T08:42:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Sony FlexStrike, colpo di scena: Sony lo rinvia a data da destinarsi",
+      "link": "https://www.hdblog.it/hardware/articoli/n664408/sony-flexstrike-fight-stick-rinviato-perche-quando/",
+      "excerpt": "A quanto pare sono emersi problemi in fase di produzione che richiedono un po' di tempo per essere sistemati.",
+      "image": "https://hd2.tudocdn.net/1356740?w=660",
+      "publishedAt": "2026-07-15T08:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Negozianti UK vs Sony: la svolta digitale uccide un mercato da 300 milioni di sterline",
+      "link": "https://www.hdblog.it/sony/articoli/n664393/rivenditori-contro-sony-svolta-digitale/",
+      "excerpt": "Il futuro digitale di PlayStation minaccia di avere un impatto devastante sulla filiera del retail",
+      "image": "https://hd2.tudocdn.net/1354913?w=660",
+      "publishedAt": "2026-07-15T08:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Galaxy S27 Ultra, il restyling del modulo fotografico è troppo bello per essere vero?",
+      "link": "https://www.hdblog.it/smartphone/articoli/n664403/samsung-galaxy-s27-ultra-modulo-fotocamera-novita/",
+      "excerpt": "A quanto pare il colosso sudcoreano vuole contenere i costi e punta a interventi più conservativi.",
+      "image": "https://hd2.tudocdn.net/1349938?w=660",
+      "publishedAt": "2026-07-15T08:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Ecco cosa potrebbe essere il primo dispositivo hardware di OpenAI: niente schermo, solo voce e potrebbe muoversi",
+      "link": "https://images.dday.it/bKHKc2CgUMejWG2mVW3icvM1AlDjVQevZPRo0EkLrvo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58062/63335e_Depositphotos_640750102_XL.jpg",
+      "excerpt": "La visione di OpenAI è di un dispositivo alimentato a batteria e che possa essere usato ovunque usando la voce e modelli di IA avanzati... Leggi tutto",
+      "image": "https://images.dday.it/bKHKc2CgUMejWG2mVW3icvM1AlDjVQevZPRo0EkLrvo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58062/63335e_Depositphotos_640750102_XL.jpg",
+      "publishedAt": "2026-07-15T07:57:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Migliori stampanti 3D a resina (luglio 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-stampanti-3d-resina",
+      "excerpt": "Le stampanti 3D a resina sono la scelta più indicata quando il risultato finale deve mostrare dettagli fini, superfici lisce e bordi netti: miniature, busti, gioielli, componenti…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/88743/migliori-stampanti-3d-resina-copertina.jpg",
+      "publishedAt": "2026-07-15T06:15:42+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Tribit StormBox Blast 2: potenza e autonomia per le feste all'aperto",
-      "link": "https://www.tomshw.it/hardware/tribit-stormbox-blast-2-potenza-e-autonomia-per-le-feste-all-aperto-2026-07-15",
-      "excerpt": "Tribit StormBox Blast 2 è un altoparlante Bluetooth portatile da 200W con configurazione 2.1, certificazione IP67, luci LED e autonomia dichiarata fino a 30 ore. 254,99€ invece di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101236/tribit-stormbox-blast-2-potenza-e-autonomia-per-le-feste-all-aptpodduu5ahfrfl6bjOw.png",
-      "publishedAt": "2026-07-15T07:10:01+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "be quiet! Light Base 600 LX: più spazio per una build da vetrina",
-      "link": "https://www.tomshw.it/hardware/be-quiet-light-base-600-lx-piu-spazio-per-una-build-da-vetrina-2026-07-15",
-      "excerpt": "be quiet! Light Base 600 LX è un case ATX panoramico a doppia camera, con illuminazione ARGB e quattro ventole Light Wings LX già installate. 157,27€ invece di 184,90€, con uno…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101235/be-quiet-light-base-600-lx-piu-spazio-per-una-build-da-vetrina-aabtrl6bvv2eaDdnW1H.png",
-      "publishedAt": "2026-07-15T07:07:45+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Microsoft chiude un account hackerato, 25 anni di dati personali persi per sempre",
-      "link": "https://www.hdblog.it/microsoft/articoli/n664388/microsoft-account-hackerato-chiuso-25-anni-dati/",
-      "excerpt": "Persi anche migliaia di euro in videogiochi.",
-      "image": "https://hd2.tudocdn.net/1282652?w=660",
-      "publishedAt": "2026-07-15T07:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Pinwheel Home, il telefono fisso ritorna in versione per bambini",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664359/pinwheel-home-telefono-fisso-ritorna-bambini/",
-      "excerpt": "Può essere il primo telefono dei vostri figli",
-      "image": "https://hd2.tudocdn.net/1356686?w=660",
-      "publishedAt": "2026-07-15T06:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung Galaxy Watch 9 e Ultra 2, tante novità software basate sull'AI",
-      "link": "https://www.hdblog.it/indossabili/articoli/n664385/samsung-galaxy-watch-9-ultra-2-funzioni-ai/",
-      "excerpt": "I primi teaser ufficiali a distanza di una settimana dal lancio.",
-      "image": "https://hd2.tudocdn.net/1352010?w=660",
-      "publishedAt": "2026-07-15T06:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Dentro un caccia F-18: le immagini esclusive del volo sopra Washington",
-      "link": "https://www.hdblog.it/fotografia/articoli/n664344/nasa-f18-foto-washington/",
-      "excerpt": "Le spettacolari immagini NASA del sorvolo di Washington viste da un F-18.",
-      "image": "https://hd2.tudocdn.net/1356657?w=660",
-      "publishedAt": "2026-07-15T06:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Galaxy Z Fold 8 e Flip 8, il raddoppio della memoria potrebbe non essere più gratuito",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664381/galaxy-z-fold-8-flip-raddoppio-memoria/",
-      "excerpt": "La scelta sarebbe legata all’aumento dei costi delle memorie DRAM e NAND,",
-      "image": "https://hd2.tudocdn.net/1356712?w=660",
-      "publishedAt": "2026-07-15T06:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "NASA assembla Artemis III: iniziata la costruzione del razzo per la missione lunare",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n664341/artemis-3-assemblaggio-sls-nasa/",
-      "excerpt": "La NASA avvia l'assemblaggio di Artemis III e prepara il prossimo ritorno umano sulla Luna.",
-      "image": "https://hd2.tudocdn.net/1356655?w=660",
-      "publishedAt": "2026-07-15T06:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Il nuovo Roomba sa quando smettere di lavare: Max 775 Combo + dock AutoWash arriva in Italia con 100 euro di sconto",
@@ -183,15 +219,6 @@
       "publishedAt": "2026-07-15T06:00:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Non uno smartphone: il futuro di OpenAI passa da un assistente portatile",
-      "link": "https://www.hdblog.it/hardware/articoli/n664380/openai-dispositivo-ai-portatile/",
-      "excerpt": "OpenAI lavora a un assistente AI portatile mentre cresce lo scontro legale con Apple.",
-      "image": "https://hd2.tudocdn.net/1323021?w=660",
-      "publishedAt": "2026-07-15T05:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Il nuovo Allarme con Scudo Perimetrale Verisure: invisibile per chi abita, un problema per chi prova a entrare",
@@ -239,40 +266,13 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "In Cina la prima linea al mondo per chip 2D. Se tutto va bene tra 5 anni potrà fare a meno di ASML",
-      "link": "https://images.dday.it/FjwusChzKtxKF7wBz58FFEWcyZZmMT3yuVUESTZ_VB4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58055/e6be2d_Depositphotos_557160526_t.jpg",
-      "excerpt": "In Cina hanno annunciato un impianto di produzione di chip che usa una tecnologia avveniristica, fin'ora sperimentata solo in laboratorio. Se funzionasse tra qualche anno la Cina…",
-      "image": "https://images.dday.it/FjwusChzKtxKF7wBz58FFEWcyZZmMT3yuVUESTZ_VB4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58055/e6be2d_Depositphotos_557160526_t.jpg",
-      "publishedAt": "2026-07-14T13:58:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Recensione TCL SQD-Mini LED C8L: un TV mini LED per lo più stupefacente",
-      "link": "https://images.dday.it/6yesU6RvxuGYRsvS73OQaksOfOsOKZSH6W7eAoEt_ys/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57909/b02a02_TCL_65C8L_lifestyle1.jpg",
-      "excerpt": "TCL ha deciso di puntare più sulla consolidata tecnologia mini LED più filtro quantum dot piuttosto che sulla retroilluminazione RGB. A giudicare dalle prestazioni del nuovo TV…",
-      "image": "https://images.dday.it/6yesU6RvxuGYRsvS73OQaksOfOsOKZSH6W7eAoEt_ys/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57909/b02a02_TCL_65C8L_lifestyle1.jpg",
-      "publishedAt": "2026-07-14T13:44:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Tutti i link t.me di Telegram non hanno funzionato per diverse ore. Ecco cosa è successo",
-      "link": "https://images.dday.it/ibz_1KEHzZYwy2_cOajMNcCu15Xo7G5v2PzZIX09Cw0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58054/5c251b_pexels-viralyft-16841808.jpg",
-      "excerpt": "Dietro il blocco del dominio di Telegram c'è stato un ordine del governo degli Stati Uniti. Ma la piattaforma di messaggistica non era il bersaglio diretto... Leggi tutto",
-      "image": "https://images.dday.it/ibz_1KEHzZYwy2_cOajMNcCu15Xo7G5v2PzZIX09Cw0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58054/5c251b_pexels-viralyft-16841808.jpg",
-      "publishedAt": "2026-07-14T12:45:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Euro NCAP promuove BMW iX3 e Zeekr 7GT: le prime 5 stelle dei nuovi test di sicurezza",
-      "link": "https://images.dday.it/q3094msGfM1ARB0QQAZ4pK7D6bWgic7nRU3kjASM0sI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58053/863805_ix3_thumb.jpg",
-      "excerpt": "I protocolli 2026 introducono una valutazione più severa e completa, con maggiore attenzione agli assistenti alla guida, alla prevenzione degli incidenti, alla protezione di…",
-      "image": "https://images.dday.it/q3094msGfM1ARB0QQAZ4pK7D6bWgic7nRU3kjASM0sI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58053/863805_ix3_thumb.jpg",
-      "publishedAt": "2026-07-14T12:10:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
+      "title": "L'algoritmo di X premia l'obbedienza: da 3 a 252 follower in 4 giorni",
+      "link": "https://www.tomshw.it/business/algoritmo-x-premia-obbedienza-crescita-follower-signal-pirate",
+      "excerpt": "L'algoritmo che decide chi vedere su X non è un segreto: i pesi dei segnali sono documentati, ripetuti in mille thread da guru della crescita. Eppure la maggior parte degli…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100005/08-algoritmo-obbedienza.jpg",
+      "publishedAt": "2026-07-08T10:17:31+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     }
   ]
 }
