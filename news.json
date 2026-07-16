@@ -1,17 +1,206 @@
 {
-  "generatedAt": "2026-07-16T13:26:01.394009+00:00",
+  "generatedAt": "2026-07-16T15:27:52.034878+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "TSMC investe altri 100 miliardi di dollari nelle fonderie statunitensi",
-      "link": "https://www.hdblog.it/business/articoli/n664568/tsmc-100-miliardi-dollari-fonderie-usa-arizona/",
-      "excerpt": "Gli USA sempre più forti nello scenario globale dei semiconduttori.",
-      "image": "https://hd2.tudocdn.net/1218712?w=660",
-      "publishedAt": "2026-07-16T13:25:00+00:00",
+      "title": "Il primo microonde di SharkNinja fa anche da friggitrice ad aria",
+      "link": "https://www.hdblog.it/home/articoli/n664592/sharkninja-microonde-friggitrice-aria-crispi/",
+      "excerpt": "Scalda in modalità microonde... poi per il tocco finale croccante e succoso si passa all'aria calda!",
+      "image": "https://hd2.tudocdn.net/1357181?w=660",
+      "publishedAt": "2026-07-16T15:25:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "DMA, L'Europa decide come dovrà funzionare l'IA su Android: Google costretta ad aprire il sistema ai rivali di Gemini",
+      "link": "https://images.dday.it/ofEcDlwroXu5EKew9LG6-mr_4idKoYlhsKanEkfesuQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58091/0a62fa_Gemini_Generated_Image_3xx2sg3xx2sg3xx2.jpg",
+      "excerpt": "Con due decisioni gemelle Bruxelles chiude le specification proceedings aperte a gennaio: obblighi vincolanti per l'interoperabilità AI su Google Android e per la condivisione dei…",
+      "image": "https://images.dday.it/ofEcDlwroXu5EKew9LG6-mr_4idKoYlhsKanEkfesuQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58091/0a62fa_Gemini_Generated_Image_3xx2sg3xx2sg3xx2.jpg",
+      "publishedAt": "2026-07-16T15:16:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Il mantello dell'invisibilità esiste, ma funziona solo con le telecamere termiche",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n664583/mantello-invisibilita-termico-stampato-3d/",
+      "excerpt": "Un mantello termico stampato in 3D rende invisibili gli oggetti ai sensori infrarossi.",
+      "image": "https://hd2.tudocdn.net/1357154?w=660",
+      "publishedAt": "2026-07-16T15:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Due politici messicani stanno provando a fermare l'addio di Sony ai giochi su disco",
+      "link": "https://www.hdblog.it/games/articoli/n664579/politici-messicani-fermare-addio-sony-giochi-disco/",
+      "excerpt": "L'addio ai giochi PlayStation su disco arriva davanti all'autorità antitrust messicana, ma come per le petizioni servirà a ben poco.",
+      "image": "https://hd2.tudocdn.net/1357175?w=660",
+      "publishedAt": "2026-07-16T15:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Cosa abbiamo perso nel passaggio dal \"Disco Demo\" alla bulimia digitale",
+      "link": "https://www.tomshw.it/videogioco/cosa-abbiamo-perso-nel-passaggio-dal-disco-demo-alla-bulimia-digitale",
+      "excerpt": "Per chiunque abbia vissuto la propria giovinezza videoludica a cavallo tra gli anni Novanta e i primi duemila, si ricorderà certamente il profumo della carta stampata fresca di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101492/PS-1.webp",
+      "publishedAt": "2026-07-16T15:06:17+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Netflix Minigolf arriva il 28 luglio: oltre 60 livelli tra Stranger Things e Squid Game",
+      "link": "https://www.tomshw.it/videogioco/netflix-minigolf-arriva-il-28-luglio-oltre-60-livelli-tra-stranger-things",
+      "excerpt": "Più di 60 livelli trasformeranno gli universi di Stranger Things, Squid Game e Bridgerton in percorsi da minigolf. Netflix ha fissato al 28 luglio 2026 il debutto ufficiale di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101698/Netflix-Minigolf.png",
+      "publishedAt": "2026-07-16T15:06:14+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Un Samsung 4K a meno di 180€: ViewFinity S7 scontato del 53%",
+      "link": "https://www.tomshw.it/offerte/un-samsung-4k-a-meno-di-180eur-viewfinity-s7-scontato-del-53",
+      "excerpt": "A 179,90€ su Amazon, il Samsung Monitor ViewFinity S7 S27D702 da 27 pollici costa il 53% in meno rispetto al listino di 379€. La risoluzione UHD 4K concentrata su questa diagonale…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101700/tomshw-offer-579713.png",
+      "publishedAt": "2026-07-16T15:06:06+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Mercato smartphone in calo, la crisi delle memorie pesa: mai così in basso dal 2013",
+      "link": "https://www.hdblog.it/smartphone/articoli/n664566/mercato-smartphone-q2-2026-calo-counterpoint-crisi/",
+      "excerpt": "I dati del Q2 2026 raccontano una flessione importante.",
+      "image": "https://hd2.tudocdn.net/1340311?w=660",
+      "publishedAt": "2026-07-16T15:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Un qubit molecolare ora si controlla con la sola tensione",
+      "link": "https://www.tomshw.it/scienze/un-qubit-molecolare-ora-si-controlla-con-la-sola-tensione",
+      "excerpt": "Un gruppo del Center for Quantum Nanoscience, presso l'Institute for Basic Science, e del Karlsruhe Institute of Technology ha controllato con la tensione lo stato quantistico di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101696/un-qubit-molecolare-ora-si-controlla-con-la-sola-tensione.png",
+      "publishedAt": "2026-07-16T15:03:53+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Epic Games Launcher V2 ad Agosto: sarà fino a 5 volte più veloce",
+      "link": "https://www.tomshw.it/videogioco/epic-games-launcher-v2-beta-ad-agosto-iscrizioni-gia-aperte",
+      "excerpt": "La beta pubblica di Epic Games Launcher V2 dovrebbe aprirsi ad agosto 2026, aggiungendo una prima finestra temporale alla roadmap presentata da Epic Games a giugno. La tempistica…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101695/EPIC-GAME-STORE-REDESIGN-2026-HERO-3.jpg",
+      "publishedAt": "2026-07-16T15:01:06+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Alfa Romeo, le nuove Giulia e Stelvio in fase di studio: c'è ancora speranza",
+      "link": "https://www.hdmotori.it/alfa-romeo-nuove-giulia-stelvio/",
+      "excerpt": "Stellantis ha assicurato il work in progress per il lancio delle future evoluzioni di Alfa Romeo Giulia e Stelvio",
+      "image": "https://hd2.tudocdn.net/1357180?w=660",
+      "publishedAt": "2026-07-16T15:00:56+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "GOG sbeffeggia Sony, ora puoi salvare gli Installer su disco",
+      "link": "https://www.tomshw.it/videogioco/gog-risponde-a-sony-salva-su-disco-gli-installer-offline-drm-free",
+      "excerpt": "Un gioco acquistato su GOG può essere scaricato come installer offline, copiato su un supporto fisico e reinstallato senza chiedere l’autorizzazione al negozio. È il punto scelto…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101691/c3baab43-a2f4-4f1a-a934-4847196941b3.webp",
+      "publishedAt": "2026-07-16T14:58:58+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Vulnerabilità RCE nei robot aspirapolvere Shark: root e Wi-Fi in chiaro",
+      "link": "https://www.tomshw.it/hardware/robot-shark-falla-cloud-senza-patch-comandi-eseguiti-come-root",
+      "excerpt": "Un certificato estratto da un robot aspirapolvere Shark RV2320EDUS ha consentito di interagire con dispositivi di altri utenti collegati alla stessa regione AWS e di inviare…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/86011/I-migliori-robot-aspirapolvere-da-comprare-nelle-Offerte-di-Primavera-Amazon.jpg",
+      "publishedAt": "2026-07-16T14:56:28+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Samsung Galaxy Tab S12 Ultra, primi render: indistinguibile dal predecessore",
+      "link": "https://www.hdblog.it/tablet/articoli/n664589/samsung-galaxy-tab-s12-ultra-render-leak-cad/",
+      "excerpt": "Anche le misure rimarranno le stesse, al decimo di millimetro.",
+      "image": "https://hd2.tudocdn.net/1355079?w=660",
+      "publishedAt": "2026-07-16T14:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "TSMC accelera sui 2 nm, ma la capacità rischia di non bastare",
+      "link": "https://www.tomshw.it/hardware/i-2-nm-di-tsmc-decollano-quattro-volte-piu-progetti-dei-3-nm",
+      "excerpt": "TSMC ha comunicato al Japan Technology Symposium 2026 che il processo N2 ha raccolto un numero di progetti arrivati al tape-out quattro volte superiore rispetto al precedente nodo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101685/i-2-nm-di-tsmc-decollano-quattro-volte-piu-progetti-dei-3-nm.png",
+      "publishedAt": "2026-07-16T14:46:59+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Spotify fa pulizia: rimossi oltre 75 milioni di brani creati con l'AI",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n664564/spotify-rimuove-75-milioni-brani-ai/",
+      "excerpt": "Spotify rimuove 75 milioni di brani AI per contrastare spam e contenuti di bassa qualità.",
+      "image": "https://hd2.tudocdn.net/1357121?w=660",
+      "publishedAt": "2026-07-16T14:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Reti quantistiche, il teletrasporto resiste meglio alle perdite",
+      "link": "https://www.tomshw.it/scienze/la-fibra-perde-fotoni-ma-ce-una-via-quantistica",
+      "excerpt": "Un gruppo della USTC ha messo il teletrasporto quantistico in competizione diretta con l'invio di fotoni attraverso un canale ottico con forti perdite. Nel test, il teletrasporto…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101683/la-fibra-perde-fotoni-ma-c-e-una-via-quantistica.png",
+      "publishedAt": "2026-07-16T14:44:26+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Abbiamo provato lo smartphone pieghevole dalle specifiche incredibili ed arriva in Italia | Video",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n663609/anteprima-vivo-x-fold-6-test-prova-prezzo/",
+      "excerpt": "Sta per arrivare in Italia un pieghevole \"da record\", con super fotocamere e la batteria più grande su questa particolare tipologia di smartphone. Basterà?",
+      "image": "https://hd2.tudocdn.net/1356786?w=660",
+      "publishedAt": "2026-07-16T14:31:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "\"Bliss\", com'è cambiata la mitica collina di Windows XP nel corso degli anni",
+      "link": "https://www.hdblog.it/microsoft/articoli/n664584/windows-xp-immagine-sfondo-collina-30-anni/",
+      "excerpt": "Una retrospettiva in occasione del trentennale dello scatto della foto.",
+      "image": "https://hd2.tudocdn.net/1357134?w=660",
+      "publishedAt": "2026-07-16T14:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Airbus sceglie Scaleway: applicazioni e dati sensibili su cloud sovrano europeo",
+      "link": "https://www.hdblog.it/business/articoli/n664585/airbus-sceglie-scaleway-dati-cloud-sovrano/",
+      "excerpt": "Scaleway non sostituirà gli altri fornitori cloud già utilizzati da Airbus",
+      "image": "https://hd2.tudocdn.net/1357143?w=660",
+      "publishedAt": "2026-07-16T14:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La Corte di Giustizia UE dà ragione ad AGCOM: Google responsabile dei video dei creator con cui fa affari",
+      "link": "https://images.dday.it/XIyRGmzFKDjEWQKxkdvCShCwFrLo9ptkhExfmaXzShc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58089/ad6e4a_agcom.jpg",
+      "excerpt": "La sentenza, emessa oggi, riscrive i confini della responsabilità delle piattaforme: se YouTube esamina un canale prima di firmare una partnership commerciale non può poi dire di…",
+      "image": "https://images.dday.it/XIyRGmzFKDjEWQKxkdvCShCwFrLo9ptkhExfmaXzShc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58089/ad6e4a_agcom.jpg",
+      "publishedAt": "2026-07-16T14:13:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Flash Sale su Amazon sui monitor MSI. In sconto anche il 27\" QD-OLED",
+      "link": "https://images.dday.it/fBq3ZeSRTwnOIiy9PAGZoGk1K3C79AumoCQv7CjtHSc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58087/e4b431_msi_thumb.jpg",
+      "excerpt": "Fino a domani,17 luglio, MSI sta scontando alcuni suoi monitor, anche da gaming. Ottima occasione per passare a uno schermo migliore... Leggi tutto",
+      "image": "https://images.dday.it/fBq3ZeSRTwnOIiy9PAGZoGk1K3C79AumoCQv7CjtHSc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58087/e4b431_msi_thumb.jpg",
+      "publishedAt": "2026-07-16T13:26:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "È di Lenovo il primo laptop al mondo con display OLED stampato a getto di TCL CSOT",
@@ -23,114 +212,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Il leak di Suno conferma che l'AI è stata addestrata con musica protetta",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n664511/leak-suno-ai-addestrata-musica-protetta/",
-      "excerpt": "La violazione che ha colpito Suno svela strumenti di scraping usati per addestrare l'AI anche con canzoni protette da diritto d'autore.",
-      "image": "https://hd2.tudocdn.net/1357037?w=660",
-      "publishedAt": "2026-07-16T13:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Fujifilm svela Instax Mini 99 Silver: stile retrò a meno di 200 euro",
-      "link": "https://www.tomshw.it/altro/fujifilm-instax-mini-99-arriva-in-silver-stile-retro-e-controlli-analogici-a-19999-euro",
-      "excerpt": "Fujifilm instax mini 99 cambia veste e si prepara ad arrivare sul mercato italiano nella nuova finitura Silver. La variante argento sarà disponibile dalla fine di luglio 2026 al…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101654/large-July-2026-instax-mini-99-SILVER_no1--4x5.jpg",
-      "publishedAt": "2026-07-16T13:19:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il kit del gamer in vacanza: handheld, controller, SSD e accessori indispensabili",
-      "link": "https://www.tomshw.it/videogioco/il-kit-del-gamer-in-vacanza-handheld-controller-ssd-e-accessori-indispensabili",
-      "excerpt": "L'estate e i periodi di ferie sono arrivati e, con essi, la promessa di lunghe giornate di relax, viaggi panoramici e quel prezioso tempo libero che durante l'anno sembra non…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101634/Il-kit-del-gamer-in-vacanza-handheld,-controller,-SSD-e-accessori-indispensabili.png",
-      "publishedAt": "2026-07-16T13:15:01+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Loewe Antares: il TV OLED 'Made in Germany'",
-      "link": "https://www.hdblog.it/altadefinizione/articoli/n664510/loewe-antares-tv-oled-made-in-germany/",
-      "excerpt": "Loewe presenta Antares, una gamma di TV OLED 4K calibrati singolarmente in Germania che promette di conciliare qualità d'immagine top di gamma e un design personalizzabile fin nei…",
-      "image": "https://hd2.tudocdn.net/1357026?w=660",
-      "publishedAt": "2026-07-16T13:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "xAI ha fame di energia, Musk compra un'azienda da un miliardo",
-      "link": "https://www.tomshw.it/hardware/xai-ha-fame-di-energia-musk-compra-unazienda-da-un-miliardo",
-      "excerpt": "Elon Musk ha acquisito, attraverso l’orbita del gruppo SpaceXAI, la società energetica APR Energy con un investimento stimato in circa un miliardo di dollari. L’operazione…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101642/xai-ha-fame-di-energia-musk-compra-un-azienda-da-un-miliardo.png",
-      "publishedAt": "2026-07-16T13:07:35+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "190€ restano in tasca: Oral-B iO 9 con 3 testine a 209,99€",
-      "link": "https://www.tomshw.it/offerte/190eur-restano-in-tasca-oral-b-io-9-con-3-testine-a-20999eur",
-      "excerpt": "Oral-B iO 9 costa 209,99€ su Amazon invece di 399,99€: il taglio del 48% lascia in tasca 190€. Nel pacchetto trovano posto anche tre testine di ricambio, la custodia da viaggio e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101643/tomshw-offer-579314.png",
-      "publishedAt": "2026-07-16T13:04:34+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Geely porta l’e-drive 16-in-1 su strada con due Guinness World Records",
-      "link": "https://www.tomshw.it/automotive/geely-racchiude-16-sistemi-in-un-e-drive-e-conquista-due-record",
-      "excerpt": "Geely ha presentato il nuovo 16-in-1 Intelligent E-Drive, un gruppo propulsore elettrico integrato destinato a debuttare su una berlina di serie. L'annuncio arriva insieme a due…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101639/geely-racchiude-16-sistemi-in-un-e-drive-e-conquista-due-record.png",
-      "publishedAt": "2026-07-16T13:03:29+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Volvo ci ripensa, clamoroso ritorno delle station wagon in salsa elettrica?",
-      "link": "https://www.hdmotori.it/ritorno-station-wagon-berline-elettriche-volvo/",
-      "excerpt": "Non solo SUV per Volvo: il piano europeo prevede il debutto delle nuove EV60 e ES60 elettriche con ricarica ultrarapida a 370 kW e autonomia da record",
-      "image": "https://hd2.tudocdn.net/1357103?w=660",
-      "publishedAt": "2026-07-16T13:00:16+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone Ultra e iPhone 20: Apple accelera sul nuovo sistema di raffreddamento",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664555/apple-iphone-ultra-20-raffreddamento-camera-vapore/",
-      "excerpt": "Anche i melafonini futuri punteranno sulla camera di vapore.",
-      "image": "https://hd2.tudocdn.net/1357088?w=660",
-      "publishedAt": "2026-07-16T12:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "LEGO Art, in arrivo un enorme set dedicato al quadro più famoso di Klimt",
-      "link": "https://www.hdblog.it/giochi/articoli/n664557/lego-quadro-bacio-klimt-pezzi-dimensioni-prezzo/",
-      "excerpt": "4.000 pezzi, 60 x 54 cm, 299 euro in Italia. Dal 1° agosto.",
-      "image": "https://hd2.tudocdn.net/1357089?w=660",
-      "publishedAt": "2026-07-16T12:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "L'Europa mostra un processore funzionante per l'era exascale",
-      "link": "https://www.tomshw.it/hardware/leuropa-mostra-un-processore-funzionante-per-lera-exascale",
-      "excerpt": "La European Processor Initiative ha concluso la seconda fase del proprio programma mostrando per la prima volta un esemplare funzionante di Rhea1. Il processore europeo ha avviato…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101638/l-europa-mostra-un-processore-funzionante-per-l-era-exascale.png",
-      "publishedAt": "2026-07-16T12:44:15+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Smart TV 85'' con 12 mesi DAZN, robot, accessori smart e altro: le top offerte del 16 luglio",
-      "link": "https://www.hdblog.it/amazon/offerte/n664556/offerte-tech-16-luglio-2026-amazon-tv-robot-smart/",
-      "excerpt": "Robot aspirapolvere evoluti, TV 4K di grandi dimensioni, videocamere smart e accessori tech: le migliori offerte Amazon di oggi, giovedì 16 luglio.",
-      "image": "https://hd2.tudocdn.net/1357097?w=660",
-      "publishedAt": "2026-07-16T12:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Quando la sicurezza informatica viene ignorata: il caso di Sanoma e dei libri scaricabili da tutti",
       "link": "https://images.dday.it/ylgztAPPeQL85mXQRHxZhA7fGOLYIff0M-lEbrnJsYE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/56454/601a47_Gemini_Generated_Image_oiseswoiseswoise.jpg",
       "excerpt": "Sanoma ha da mesi un grosso problema di sicurezza nella sua piattaforma di libri digitali: l'abbiamo segnalato più volte, l'azienda ha impiegato settimane a risponderci, ne è…",
@@ -138,42 +219,6 @@
       "publishedAt": "2026-07-16T12:31:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Riciclo chimico del nylon verso la scala industriale: cosa cambia per la filiera tessile italiana",
-      "link": "https://www.tomshw.it/business/la-francese-syntetica-raccoglie-30-milioni-per-industrializzare-il-riciclo-del-nylon",
-      "excerpt": "Il riciclo chimico del nylon si avvicina alla scala industriale: la startup francese Syntetica, sostenuta anche da Lululemon, punta a portarlo dal laboratorio a una produzione di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101508/la-francese-syntetica-raccoglie-30-milioni-per-industrializzare-il-riciclo-del-nylon.png",
-      "publishedAt": "2026-07-16T12:27:59+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "L'Europa vuole ridurre la dipendenza su AI e cloud, ma nell'immediato bisogna scegliere",
-      "link": "https://www.hdblog.it/business/articoli/n664553/europa-indipendenza-ai-usa-cina/",
-      "excerpt": "L'Europa punta a rafforzare la propria autonomia tecnologica investendo in intelligenza artificiale, infrastrutture cloud, cybersecurity e chip, privilegiando aziende e soluzioni…",
-      "image": "https://hd2.tudocdn.net/1249466?w=660",
-      "publishedAt": "2026-07-16T12:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "I chatbot AI applicano la censura politica \"al contrario\"?",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n664552/chatbot-ai-censura-dissidenza-politica-protesta/",
-      "excerpt": "L'Oversight Board di Meta osserva che le piattaforme tendono a censurare le richieste di protesta politica in base al Paese OGGETTO della richiesta, non di PROVENIENZA.",
-      "image": "https://hd2.tudocdn.net/1200514?w=660",
-      "publishedAt": "2026-07-16T12:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Un altro pilastro dell'industria tedesca chiude una fabbrica: 216 dipendenti a casa",
-      "link": "https://www.hdmotori.it/magna-chiude-fabbrica/",
-      "excerpt": "Nuovo colpo per l'industria automobilistica tedesca: Magna anticipa la chiusura della fabbrica di Dorfprozelten nonostante l'accordo con i sindacati",
-      "image": "https://hd2.tudocdn.net/1357087?w=660",
-      "publishedAt": "2026-07-16T12:00:47+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Insta360 Luna Ultra in prova: sfida a DJI. Recuperati in un colpo 8 anni di gap sulle pocket camera",
@@ -185,11 +230,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Migliori smart TV 43\" (luglio 2026)",
-      "link": "https://www.tomshw.it/guide/migliori-smart-tv-40-pollici",
-      "excerpt": "Una smart TV da 43 pollici è spesso la scelta più equilibrata quando serve un televisore completo ma non ingombrante: sta bene in camera, in uno studio, in una seconda zona living…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/89629/migliori-smart-tv-43-copertina.jpg",
-      "publishedAt": "2026-07-16T11:05:45+00:00",
+      "title": "Migliori eSIM da usare negli Stati Uniti (luglio 2026)",
+      "link": "https://www.tomshw.it/smartphone/migliori-esim-da-usare-negli-stati-uniti",
+      "excerpt": "Organizzare un viaggio negli Stati Uniti significa usare lo smartphone per quasi tutto: mappe, prenotazioni, ride sharing, pagamenti, traduzioni, check-in, messaggi e chiamate via…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/89682/migliori-esim-stati-uniti-copertina.jpg",
+      "publishedAt": "2026-07-16T11:10:55+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -228,51 +273,6 @@
       "publishedAt": "2026-07-16T09:00:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Connessione veloce nelle zone senza segnale grazie ai satelliti, con qualsiasi smartphone. Debutta in Italia il Direct-To-Cell di Starlink",
-      "link": "https://images.dday.it/1KtMsYaFLsUX5vZnbYeb2p7kC7yYxWlUiOi0al7d96A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58080/f02d70_AAA.png",
-      "excerpt": "Grazie alla tecnologia Direct-To-Cell di Starlink qualsiasi dispositivo 4G potrà connettersi ai satelliti per navigare anche nelle zone rurali senza segnale... Leggi tutto",
-      "image": "https://images.dday.it/1KtMsYaFLsUX5vZnbYeb2p7kC7yYxWlUiOi0al7d96A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58080/f02d70_AAA.png",
-      "publishedAt": "2026-07-16T08:59:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il PC con l'AI dentro ha finalmente senso, è una questione di costi",
-      "link": "https://www.tomshw.it/business/il-pc-con-lai-dentro-cerca-finalmente-una-scusa-per-esistere",
-      "excerpt": "Gartner prevede che entro il 2030 il 70% del parco PC aziendale sarà in grado di eseguire in locale alcuni carichi di lavoro GenAI. La cifra sembra la prova che il mercato degli…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101473/17-ai-pc-costi-cloud-cover.jpg",
-      "publishedAt": "2026-07-16T08:53:38+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Musk vuole rendere open source l'intero codice sorgente di X",
-      "link": "https://images.dday.it/GFN1J8IEUWIFDqFq1ze9ClbHsm5A5fGrA4NV0t4M88E/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58082/224068_Depositphotos_667549232_XL.jpg",
-      "excerpt": "\"Senza eccezioni\", ha specificato. Ma prima la società deve completare la verifica delle vulnerabilità di sicurezza... Leggi tutto",
-      "image": "https://images.dday.it/GFN1J8IEUWIFDqFq1ze9ClbHsm5A5fGrA4NV0t4M88E/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58082/224068_Depositphotos_667549232_XL.jpg",
-      "publishedAt": "2026-07-16T08:21:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Secure Boot è stato poco sicuro per tredici dei suoi quattordici anni di vita, e nessuno se n'era accorto",
-      "link": "https://images.dday.it/--Qo9BU1QC13BqMz0ov4W4U1Gk0M2Xlj2r83URBoNXQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58076/b2b0ad_sb.jpg",
-      "excerpt": "Per anni l’inviolabilità dei sistemi è stata garantita dalla procedura che permette di avviare solo sistemi operativi ritenuti sicuri. Ora si è scoperto che questa procedura non è…",
-      "image": "https://images.dday.it/--Qo9BU1QC13BqMz0ov4W4U1Gk0M2Xlj2r83URBoNXQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58076/b2b0ad_sb.jpg",
-      "publishedAt": "2026-07-16T08:17:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migliori powerbank (luglio 2026)",
-      "link": "https://www.tomshw.it/guide/migliori-power-bank-batteria-esterna",
-      "excerpt": "I power bank sono batterie portatili pensate per risolvere un problema molto concreto: arrivare a fine giornata, a fine viaggio o a una sessione di lavoro fuori casa senza…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/89624/migliori-powerbank-copertina.jpg",
-      "publishedAt": "2026-07-16T06:43:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     }
   ]
 }
