@@ -1,53 +1,197 @@
 {
-  "generatedAt": "2026-07-16T07:59:24.435186+00:00",
+  "generatedAt": "2026-07-16T10:12:11.723285+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Steam Deck LCD, le batterie sostitutive originali rimangono in vendita",
-      "link": "https://www.hdblog.it/games/articoli/n664506/steam-deck-batterie-sostitutive-ifixit/",
-      "excerpt": "Accordo tra Valve e iFixit.",
-      "image": "https://hd2.tudocdn.net/1236603?w=660",
-      "publishedAt": "2026-07-16T07:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Apple valuta acquisizioni nel settore dei chip per potenziare i server dedicati all'AI",
-      "link": "https://www.hdblog.it/hardware/articoli/n664504/apple-valuta-acquisizioni-settore-chip/",
-      "excerpt": "Alla base di questa possibile svolta ci sarebbero le difficoltà incontrate con l’attuale infrastruttura",
-      "image": "https://hd2.tudocdn.net/1357018?w=660",
-      "publishedAt": "2026-07-16T07:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Lenti a contatto stampate in 3D in 20 minuti: addio a settimane di attesa",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n664499/lenti-contatto-stampa-3d-20-minuti/",
-      "excerpt": "Lenti a contatto stampate in 3D in 20 minuti per pazienti con cornee irregolari.",
-      "image": "https://hd2.tudocdn.net/1357013?w=660",
-      "publishedAt": "2026-07-16T07:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Galaxy Z Fold8, deciso passo avanti sulla batteria: oltre il 20% di autonomia in più",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664502/galaxy-z-fold8-ultra-batteria-autonomia/",
-      "excerpt": "Galaxy Z Fold8 e Galaxy Z Fold8 Ultra compaiono nel database europeo EPREL con batterie rispettivamente da 4.800 e 5.000 mAh. L'autonomia cresce sensibilmente rispetto alla…",
-      "image": "https://hd2.tudocdn.net/1352406?w=660",
-      "publishedAt": "2026-07-16T07:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "F1 GP SPA 2026: orari di tutto il weekend e dove vedere la gara in streaming",
-      "link": "https://www.tomshw.it/altro/f1-gp-spa-2026-orari-di-tutto-il-weekend-e-dove-vedere-la-gara-in-streaming",
-      "excerpt": "La Formula 1 sbarca sulle storiche e affascinanti colline delle Ardenne per il Gran Premio del Belgio 2026. Il circuito di Spa-Francorchamps, con i suoi 7.004 metri caratterizzati…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101456/F1-GP-SPA-2026-orari-di-tutto-il-weekend-e-dove-vedere-la-gara-in-streaming.png",
-      "publishedAt": "2026-07-16T07:33:06+00:00",
+      "title": "2026: anno nero per gli smartphone, ma il POCO F8 Ultra scende sotto i 600€ senza coupon su AliExpress",
+      "link": "https://www.tomshw.it/smartphone/poco-f8-ultra-5g-in-offerta-shock-55-2026-07-16",
+      "excerpt": "Su AliExpress è disponibile un'offerta imperdibile sul POCO F8 Ultra 5G in versione globale, lo smartphone equipaggiato con il potente processore Snapdragon 8 Elite, display…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101512/poco-f8-ultra-5g-in-offerta-shock-55-2026-07-16-SvOk0TJu8gcg9fl9ikacws2LCf.jpg",
+      "publishedAt": "2026-07-16T10:09:35+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Nuova Mercedes-Benz Classe C elettrica, produzione al via nel nuovo stabilimento ungherese",
+      "link": "https://www.hdmotori.it/nuova-mercedes-benz-classe-c-elettrica-produzione-ungheria/",
+      "excerpt": "Mercedes-Benz amplia lo stabilimento di Kecskemét con un investimento da un miliardo di euro. Al via la produzione della nuova Classe C elettrica",
+      "image": "https://hd2.tudocdn.net/1357061?w=660",
+      "publishedAt": "2026-07-16T10:00:30+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "OneDrive verso il tramonto su Windows 10: le date principali",
+      "link": "https://www.hdblog.it/microsoft/articoli/n664533/windows-10-onedrive-stop-supporto/",
+      "excerpt": "Il client continuerà a funzionare, ma non riceverà più nuove funzioni e soprattutto patch di sicurezza.",
+      "image": "https://hd2.tudocdn.net/1280326?w=660",
+      "publishedAt": "2026-07-16T09:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nuovo obbligo per i monopattini: la soluzione? Queste 5 e-Bike senza assicurazione",
+      "link": "https://www.tomshw.it/automotive/nuovo-obbligo-per-i-monopattini-la-soluzione-queste-5-e-bike-senza-assicurazione",
+      "excerpt": "Da oggi 16 luglio entra in vigore il nuovo obbligo di assicurazione per i monopattini elettrici, una novità che introduce un ulteriore costo per chi utilizza questi mezzi nella…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101495/Nuovo-obbligo-per-i-monopattini-la-soluzione-Queste-5-e-Bike-senza-assicurazione.png",
+      "publishedAt": "2026-07-16T09:49:51+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Rincaro AppleCare+ su Mac e iPad: ecco chi è escluso",
+      "link": "https://www.tomshw.it/smartphone/applecare-rincara-per-mac-e-ipad-ma-l-aumento-non-colpisce-tutti",
+      "excerpt": "Chi possiede già un piano AppleCare+ continuerà a pagare la tariffa concordata, mentre le nuove sottoscrizioni per Mac e iPad costano di più. Bloomberg indica per gli Stati Uniti…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/02/83224/apple-potrebbe-lanciare-ipad-e-macbook-a-breve-2026-02-09-UEozwp7qggchvtt0903DmfiV.png",
+      "publishedAt": "2026-07-16T09:49:46+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Stranger Things, la prima stagione rifatta come fosse uscita in VHS. È già su Netflix",
+      "link": "https://images.dday.it/UNcv7fKNg9VizTzS2Vj27HMgSS80dk4TSpAcdS8UetM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58084/94b515_stvhs_thumb.jpg",
+      "excerpt": "Netflix ha realizzato una versione speciale della prima stagione con formato pan-and-scan, disturbi video ed effetti audio ispirati alle videocassette a noleggio degli anni…",
+      "image": "https://images.dday.it/UNcv7fKNg9VizTzS2Vj27HMgSS80dk4TSpAcdS8UetM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58084/94b515_stvhs_thumb.jpg",
+      "publishedAt": "2026-07-16T09:46:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Samsung amplia la gamma cucina con Slide-in Range e microonde smart",
+      "link": "https://www.hdblog.it/samsung/articoli/n664532/samsung-novita-forni-microonde-quali/",
+      "excerpt": "Samsung rinnova il design della gamma cucina con maniglie coordinate ai frigoriferi 2026, porta Soft Close e manopole illuminate. Il debutto è previsto in Nord America da metà…",
+      "image": "https://hd2.tudocdn.net/1357052?w=660",
+      "publishedAt": "2026-07-16T09:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Xiaomi Mijia P1: il riscaldatore smart che automatizza luce e ventilazione",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n664525/riscaldatore-smart-bagno-xiaomi-radar/",
+      "excerpt": "Xiaomi presenta Mijia Smart Bathroom Heater P1 con radar da 24 GHz riscaldamento smart e controllo automatico del bagno.",
+      "image": "https://hd2.tudocdn.net/1357039?w=660",
+      "publishedAt": "2026-07-16T09:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Castlevania: Belmont's Curse, Konami svela quando uscirà su Switch",
+      "link": "https://www.tomshw.it/videogioco/castlevania-belmont-s-curse-konami-svela-quando-uscira-su-switch",
+      "excerpt": "Castlevania: Belmont's Curse arriverà su Nintendo Switch il 15 ottobre 2026, in contemporanea con le versioni PC, PlayStation 5 e Xbox Series X|S. Konami ha quindi allineato…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101490/Castlevania-Belmonts-Curse-screenshot-08.jpg",
+      "publishedAt": "2026-07-16T09:24:33+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Sonos App, arriva finalmente il major update dopo il disastro di due anni fa",
+      "link": "https://www.hdblog.it/android/articoli/n664522/sonos-app-major-update-interfaccia-novita/",
+      "excerpt": "La società che ha rivoluzionato l'home audio prova a mettersi alle spalle due anni disastrosi.",
+      "image": "https://hd2.tudocdn.net/1330417?w=660",
+      "publishedAt": "2026-07-16T09:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Windows 10 e Windows 11: a ottobre finiscono gli aggiornamenti per milioni di PC",
+      "link": "https://www.hdblog.it/microsoft/articoli/n664519/windows-11-24h2-fine-supporto/",
+      "excerpt": "Microsoft interromperà il supporto per alcune versioni di Windows dal 13 ottobre 2026.",
+      "image": "https://hd2.tudocdn.net/1342759?w=660",
+      "publishedAt": "2026-07-16T09:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "499,01€ di risparmio sul Motorola Signature: 16/512GB a 799,99€",
+      "link": "https://www.tomshw.it/offerte/49901eur-di-risparmio-sul-motorola-signature-16512gb-a-79999eur",
+      "excerpt": "Motorola Signature a 799,99€ su Amazon consente di risparmiare 499,01€ sul prezzo di listino di 1.299€, grazie a uno sconto del 38%. La combinazione di display AMOLED a 165Hz,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101486/tomshw-offer-578737.png",
+      "publishedAt": "2026-07-16T09:04:35+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Anche Renault Captur e Symbioz con motorizzazione full hybrid. Già disponibili",
+      "link": "https://images.dday.it/sA1XGPhNW2eijcVK774q5iQi1sPcKmmAY9ztMC_Ohcs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58081/55c9ff_CAPTUR_thumb.jpg",
+      "excerpt": "Le nuove versioni dedicate al mercato italiano adottano la motorizzazione E-Tech da 160 CV e partono rispettivamente da 25.900 e 27.900 euro... Leggi tutto",
+      "image": "https://images.dday.it/sA1XGPhNW2eijcVK774q5iQi1sPcKmmAY9ztMC_Ohcs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58081/55c9ff_CAPTUR_thumb.jpg",
+      "publishedAt": "2026-07-16T09:03:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Addio Realme UI, Realme passa a ColorOS: i dettagli ufficiali",
+      "link": "https://www.hdblog.it/smartphone/articoli/n664523/realme-ui-addio-coloros-oppo-ufficiale/",
+      "excerpt": "La conferma arriva direttamente da Realme.",
+      "image": "https://hd2.tudocdn.net/1306597?w=660",
+      "publishedAt": "2026-07-16T09:01:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Sinner e l'incubo delle due ruote: ben quattro bocciature, la patente è un tabù",
+      "link": "https://www.hdmotori.it/sinner-bocciato-esame-patente-moto/",
+      "excerpt": "\"Meglio se gioco a tennis\": Jannik Sinner rivela con ironia la sua quarta bocciatura all'esame per la patente della moto",
+      "image": "https://hd2.tudocdn.net/1357050?w=660",
+      "publishedAt": "2026-07-16T09:00:04+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "OnePlus esce dall'Europa e Realme lascia la Cina: OPPO fa pulizia",
+      "link": "https://images.dday.it/87Yv2ePdgG6_I23OP0yJ3aLAao-KPdm_Zjvz-TASzPk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58083/a26c74_op.jpg",
+      "excerpt": "La notizia era nell'aria e adesso viene confermata: OnePlus non lancerà più prodotti in Europa e in America. Per Realme invece destino opposto: abbandonerà il mercato cinese per…",
+      "image": "https://images.dday.it/87Yv2ePdgG6_I23OP0yJ3aLAao-KPdm_Zjvz-TASzPk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58083/a26c74_op.jpg",
+      "publishedAt": "2026-07-16T09:00:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Connessione veloce nelle zone senza segnale grazie ai satelliti, con qualsiasi smartphone. Debutta in Italia il Direct-To-Cell di Starlink",
+      "link": "https://images.dday.it/1KtMsYaFLsUX5vZnbYeb2p7kC7yYxWlUiOi0al7d96A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58080/f02d70_AAA.png",
+      "excerpt": "Grazie alla tecnologia Direct-To-Cell di Starlink qualsiasi dispositivo 4G potrà connettersi ai satelliti per navigare anche nelle zone rurali senza segnale... Leggi tutto",
+      "image": "https://images.dday.it/1KtMsYaFLsUX5vZnbYeb2p7kC7yYxWlUiOi0al7d96A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58080/f02d70_AAA.png",
+      "publishedAt": "2026-07-16T08:59:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Fastweb e Starlink, al via in Italia i test della rete satellitare sugli smartphone",
+      "link": "https://www.hdblog.it/smartphone/articoli/n664520/fastweb-starlink-italia-sperimentazione-rete/",
+      "excerpt": "Il test sarà condotto in un’area dell’Appennino centrale",
+      "image": "https://hd2.tudocdn.net/1357035?w=660",
+      "publishedAt": "2026-07-16T08:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Lamborghini Temerario Ad Personam, lusso sartoriale e V8 da 10.000 giri",
+      "link": "https://www.hdmotori.it/lamborghini-temerario-ad-personam/",
+      "excerpt": "Debutta la Lamborghini Temerario Ad Personam: materiali inediti, personalizzazione estrema e una meccanica ibrida capace di sviluppare 920 CV",
+      "image": "https://hd2.tudocdn.net/1357038?w=660",
+      "publishedAt": "2026-07-16T08:30:14+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Musk vuole rendere open source l'intero codice sorgente di X",
+      "link": "https://images.dday.it/GFN1J8IEUWIFDqFq1ze9ClbHsm5A5fGrA4NV0t4M88E/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58082/224068_Depositphotos_667549232_XL.jpg",
+      "excerpt": "\"Senza eccezioni\", ha specificato. Ma prima la società deve completare la verifica delle vulnerabilità di sicurezza... Leggi tutto",
+      "image": "https://images.dday.it/GFN1J8IEUWIFDqFq1ze9ClbHsm5A5fGrA4NV0t4M88E/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58082/224068_Depositphotos_667549232_XL.jpg",
+      "publishedAt": "2026-07-16T08:21:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Secure Boot è stato poco sicuro per tredici dei suoi quattordici anni di vita, e nessuno se n'era accorto",
+      "link": "https://images.dday.it/--Qo9BU1QC13BqMz0ov4W4U1Gk0M2Xlj2r83URBoNXQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58076/b2b0ad_sb.jpg",
+      "excerpt": "Per anni l’inviolabilità dei sistemi è stata garantita dalla procedura che permette di avviare solo sistemi operativi ritenuti sicuri. Ora si è scoperto che questa procedura non è…",
+      "image": "https://images.dday.it/--Qo9BU1QC13BqMz0ov4W4U1Gk0M2Xlj2r83URBoNXQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58076/b2b0ad_sb.jpg",
+      "publishedAt": "2026-07-16T08:17:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Monopattini, da oggi scatta l'obbligo di assicurazione, ma mancano le targhe. Tantissimi non possono farla",
@@ -59,137 +203,38 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "AppleCare+: previsti rincari per Mac e iPad, ma solo per nuovi abbonamenti",
-      "link": "https://www.hdblog.it/portatili/articoli/n664501/applecare-aumenta-negli-stati-uniti/",
-      "excerpt": "Apple avrebbe deciso di aumentare il prezzo",
-      "image": "https://hd2.tudocdn.net/1347217?w=660",
-      "publishedAt": "2026-07-16T07:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Arriva Codex Micro: la tastiera OpenAI pensata per programmare con l'AI",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n664496/openai-codex-micro-tastiera-ai/",
-      "excerpt": "OpenAI porta l'AI sulla tastiera con Codex Micro dedicata agli sviluppatori.",
-      "image": "https://hd2.tudocdn.net/1357008?w=660",
-      "publishedAt": "2026-07-16T07:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Helsing vale 18 miliardi: il test in cinque domande per Leonardo e Fincantieri",
-      "link": "https://www.tomshw.it/business/helsing-vale-18-miliardi-il-test-in-cinque-domande-per-leonardo-e-fincantieri",
-      "excerpt": "Il prodotto decisivo della difesa moderna è la possibilità di aggiornare il drone. La valutazione da 18 miliardi di dollari raggiunta da Helsing invita a correggere un'equazione…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101296/editorial-cover-576637.png",
-      "publishedAt": "2026-07-16T07:19:22+00:00",
+      "title": "Broadcom-VMware, il fronte europeo chiede a Bruxelles di agire subito",
+      "link": "https://www.tomshw.it/business/broadcom-vmware-il-fronte-europeo-chiede-a-bruxelles-di-agire-subito",
+      "excerpt": "Un periodo di transizione di almeno tre anni e misure provvisorie immediate contro alcune pratiche commerciali legate a VMware. È la richiesta presentata alla Commissione europea…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101355/news-flash-577469.png",
+      "publishedAt": "2026-07-16T07:20:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "SPESA Amazon: 10 prodotti da supermercato a prezzi imperdibili!",
-      "link": "https://www.tomshw.it/offerte/spesa-amazon-supermercato",
-      "excerpt": "Aggiornamento 16/07: tra le offerte più recenti aggiunte nell'articolo segnaliamo i Müsli Vegani, le barrette energetiche vegane ai carboidrati e uno spruzzino olio in vetro.…",
-      "image": "https://cdn.tomshw.it/storage/media/2024/08/32011/Prodotti-da-supermercato-a-prezzi-imperdibili-copertina.png",
-      "publishedAt": "2026-07-16T07:10:49+00:00",
+      "title": "Migliori adattatori Android Auto wireless (luglio 2026)",
+      "link": "https://www.tomshw.it/automotive/migliori-adattatori-android-auto-wireless",
+      "excerpt": "Usare lo smartphone alla guida resta una delle abitudini più rischiose, perché basta distogliere lo sguardo per pochi secondi per perdere informazioni importanti su traffico,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/89422/migliori-adattatori-android-auto-wireless-copertina.jpg",
+      "publishedAt": "2026-07-16T06:27:46+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Questa cornice digitale e-ink è il sogno degli appassionati di birdwatching",
-      "link": "https://www.hdblog.it/home/articoli/n664441/cornice-digitale-e-ink-appassionati-birdwatching/",
-      "excerpt": "Ed è un progetto \"fai-da-te\"",
-      "image": "https://hd2.tudocdn.net/1356958?w=660",
-      "publishedAt": "2026-07-16T07:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "PrivadoVPN costa così poco che nel budget entra anche un antivirus",
-      "link": "https://www.tomshw.it/hardware/privadovpn-costa-cosi-poco-che-nel-budget-entra-anche-un-antivirus",
-      "excerpt": "Navigare in rete in modo più sicuro non significa necessariamente dover sottoscrivere un abbonamento costoso. PrivadoVPN propone infatti un piano che parte da appena 1,11€ al…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/91347/Tutto-quello-che-vuoi-da-una-VPN,-a-solo-1€-(solo-con-PrivadoVPN).png",
-      "publishedAt": "2026-07-16T07:04:20+00:00",
+      "title": "Migliori cuffie wireless (luglio 2026)",
+      "link": "https://www.tomshw.it/offerte/cuffie-wireless-migliori",
+      "excerpt": "Le cuffie wireless sono diventate uno degli accessori più utili per ascoltare musica, lavorare, giocare o guardare film senza restare legati al cavo. La comodità, però, non basta…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/89235/migliori-cuffie-wireless-copertina.jpg",
+      "publishedAt": "2026-07-16T06:24:15+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "51€ in meno per il calcio su PS5: EA SPORTS FC 26 a 28,99€",
-      "link": "https://www.tomshw.it/offerte/51eur-in-meno-per-il-calcio-su-ps5-ea-sports-fc-26-a-2899eur",
-      "excerpt": "EA SPORTS FC 26 Standard Edition per PS5 costa 28,99€ su Amazon anziché 79,99€, con uno sconto del 64% e un risparmio netto di 51€. Per chi vuole aggiornare la propria stagione…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101451/tomshw-offer-578402.png",
-      "publishedAt": "2026-07-16T07:04:10+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Halo: Campaign Evolved su PS5, il disco fisico ha un grosso problema",
-      "link": "https://www.tomshw.it/videogioco/halo-campaign-evolved-su-ps5-il-disco-fisico-ha-un-grosso-problema",
-      "excerpt": "Il disco di Halo: Campaign Evolved per PlayStation 5 non consente di installare e avviare la campagna senza una connessione a Internet. Il test offline condotto da Does It Play?…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/95576/Halo-Campaign-Evolved.jpg",
-      "publishedAt": "2026-07-16T07:02:03+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Dimarco e Zielinski rubano la scena: rientro agli allenamenti dell’Inter in Ferrari",
-      "link": "https://www.hdmotori.it/dimarco-zielinski-rientro-allenamenti-ferrari/",
-      "excerpt": "Federico Dimarco e Piotr Zielinski si presentano ad Appiano Gentile a bordo di due nuovissime vetture di Maranello dal valore di circa mezzo milione di euro.",
-      "image": "https://hd2.tudocdn.net/1357012?w=660",
-      "publishedAt": "2026-07-16T07:00:37+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Uno zucchero nello spazio potrebbe raccontare l'origine della vita",
-      "link": "https://www.tomshw.it/scienze/uno-zucchero-nello-spazio-potrebbe-raccontare-lorigine-della-vita",
-      "excerpt": "Un gruppo guidato da ricercatori del Centro di Astrobiologia di Madrid e del Consiglio nazionale delle ricerche spagnolo ha identificato l'eritrulosio in una nube molecolare…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101448/uno-zucchero-nello-spazio-potrebbe-raccontare-l-origine-della-vita.png",
-      "publishedAt": "2026-07-16T06:52:18+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "La Cina verso 4.000 missili ipersonici: cambia l'equilibrio militare mondiale",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n664493/cina-missili-ipersonici-2035/",
-      "excerpt": "Gli USA prevedono una forte crescita dei missili ipersonici di Cina e Russia entro il 2035.",
-      "image": "https://hd2.tudocdn.net/1283085?w=660",
-      "publishedAt": "2026-07-16T06:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "OnePlus verso l'uscita da USA ed Europa: stop alle attività già nei prossimi giorni",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664495/oneplus-uscita-usa-europa-stop-attivita/",
-      "excerpt": "Per ora non c’è alcuna conferma ufficiale",
-      "image": "https://hd2.tudocdn.net/1329345?w=660",
-      "publishedAt": "2026-07-16T06:23:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Logitech G PRO X Wireless crollano a 83€: sconto del 66%",
-      "link": "https://www.tomshw.it/hardware/logitech-g-pro-x-wireless-crollano-a-83eur-sconto-66-2026-07-16",
-      "excerpt": "Le Logitech G PRO X Wireless sono cuffie gaming senza fili con collegamento LIGHTSPEED, microfono staccabile e costruzione in alluminio e acciaio. L'offerta le porta a 82,64€…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101405/logitech-g-pro-x-wireless-crollano-a-83eur-sconto-66-2026-07-1617laicpjv375614JWIT.png",
-      "publishedAt": "2026-07-16T05:17:47+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Sennheiser RS 195-U: l'ascolto TV wireless costa meno su Amazon",
-      "link": "https://www.tomshw.it/hardware/sennheiser-rs-195-u-ascolto-tv-wireless-costa-meno-2026-07-16",
-      "excerpt": "Le Sennheiser RS 195-U sono cuffie wireless circumaurali progettate soprattutto per seguire televisione, film e dialoghi con un ascolto personale e regolabile. L'offerta attuale…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101404/sennheiser-rs-195-u-ascolto-tv-wireless-costa-meno-2026-07-16-Kfu1qc8rpbcrmbjzAFXr.png",
-      "publishedAt": "2026-07-16T05:17:39+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "VANTRUE E1 Pro: la dash cam 4K diventa più conveniente su Amazon",
-      "link": "https://www.tomshw.it/hardware/vantrue-e1-pro-la-dash-cam-4k-diventa-piu-conveniente-2026-07-16",
-      "excerpt": "La VANTRUE E1 Pro è una dash cam compatta che registra davanti all'auto in 4K HDR e integra GPS, Wi-Fi e filtro CPL. L'offerta la porta a 169,99€ invece di 189,99€, con 20€ di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101403/vantrue-e1-pro-la-dash-cam-4k-diventa-piu-conveniente-2026-07-151blgvlusr2692vvDjO.png",
-      "publishedAt": "2026-07-16T05:17:31+00:00",
+      "title": "Logitech G413 SE a 47€: meccanica full-size e layout italiano al 41% in meno",
+      "link": "https://www.tomshw.it/hardware/logitech-g413-se-a-47eur-meccanica-full-size-sconto-41-2026-07-16",
+      "excerpt": "La Logitech G413 SE è una tastiera meccanica cablata full-size con layout italiano QWERTY, switch tattili, copritasti in PBT e telaio superiore in lega di alluminio. L'offerta la…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101410/logitech-g413-se-a-47eur-meccanica-full-size-sconto-41-2026-07-dgr2fbgagbb45WmaCnJ.png",
+      "publishedAt": "2026-07-16T05:19:21+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -221,58 +266,13 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Se aspettavi uno sconto sulle cuffie Sennheiser, questo è il momento",
-      "link": "https://images.dday.it/99ijECf9e2sznq6m63E44-PwG-1gkGx19_c4BbSWckU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58067/986c67_81WxMaWWdjL._AC_SL1500_.jpg",
-      "excerpt": "Le cuffie Sennheiser con autonomia fino a 50 ore, ricarica rapida, controlli touch e supporto per l'ascolto via cavo sono in offerta su Amazon con uno sconto da non perdere...…",
-      "image": "https://images.dday.it/99ijECf9e2sznq6m63E44-PwG-1gkGx19_c4BbSWckU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58067/986c67_81WxMaWWdjL._AC_SL1500_.jpg",
-      "publishedAt": "2026-07-15T14:07:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Secondo Eurostat l’Italia è l’ultimo paese d’Europa per efficienza energetica. È davvero così?",
-      "link": "https://images.dday.it/ulo0kb7mcZBP0uAORmHjLTlDj14-ucXSRZGZQgsy-Z4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58074/96daa6_Depositphotos_200350526_XL.jpg",
-      "excerpt": "Il grafico che Eurostat ha pubblicato ieri parla chiaro: l’Italia sarebbe ultima nella classifica del numero di abitanti che dichiara di vivere in una abitazione che ha subito…",
-      "image": "https://images.dday.it/ulo0kb7mcZBP0uAORmHjLTlDj14-ucXSRZGZQgsy-Z4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58074/96daa6_Depositphotos_200350526_XL.jpg",
-      "publishedAt": "2026-07-15T14:00:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Ecco la nuova antenna di Starlink: più compatta, leggera ed efficiente",
-      "link": "https://images.dday.it/Yc_W9klKQzm9zv7yVYg5x1vIQiCo3CsgfNfxpoOIQZY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58073/889a33_HNOCY1oWwAAm6VJ.jpg",
-      "excerpt": "Tanti miglioramenti nella struttura, qualche passo indietro nelle prestazioni, che però potrebbe non essere un problema reale. Per ora è disponibile solo in alcune aree…",
-      "image": "https://images.dday.it/Yc_W9klKQzm9zv7yVYg5x1vIQiCo3CsgfNfxpoOIQZY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58073/889a33_HNOCY1oWwAAm6VJ.jpg",
-      "publishedAt": "2026-07-15T13:51:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Anteprima nuova Audi Q4 e-tron: più Audi, più efficiente, anche più accessibile nel prezzo",
-      "link": "https://images.dday.it/GerPAQAoZ_eceIjimj1i2Q1JlXLmqndM0XZNq442m9c/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58068/8a9988__H5A2576.jpg",
-      "excerpt": "A tu per tu con la nuova Audi Q4 e-tron: più bella sia fuori che dentro e anche più bella da guidare grazie alla modalità one pedal drive. E con la Custum Edition c’è anche un bel…",
-      "image": "https://images.dday.it/GerPAQAoZ_eceIjimj1i2Q1JlXLmqndM0XZNq442m9c/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58068/8a9988__H5A2576.jpg",
-      "publishedAt": "2026-07-15T12:34:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Nutribullet, tutti i frullatori più amati sono ora in offerta su Amazon",
-      "link": "https://images.dday.it/s2axrNonNG6MkifGHK3MH1ZvejpYFCDr_ZuZbu9CrS4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/53234/bac019_ape2.jpg",
-      "excerpt": "Su Amazon trovi in offerta diversi modelli di frullatori Nutribullet. Un’occasione utile per rendere più semplice e veloce la preparazione di frullati e smoothie in casa... Leggi…",
-      "image": "https://images.dday.it/s2axrNonNG6MkifGHK3MH1ZvejpYFCDr_ZuZbu9CrS4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/53234/bac019_ape2.jpg",
-      "publishedAt": "2026-07-15T09:54:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Lucid in grave difficoltà? Crollo in borsa del 40%, poi la smentita ufficiale",
-      "link": "https://images.dday.it/xTBQzqphK4UZAZdF0w470tXiAhPW8M-F36rUeYtIaI4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58066/78c42d_lucid_thumb.jpg",
-      "excerpt": "Prima l'indiscrezione sul rischio di affidamento al Chapter 11, poi il crollo in borsa e la smentita. Ma di certo attorno a Lucid la fiducia scarseggia... Leggi tutto",
-      "image": "https://images.dday.it/xTBQzqphK4UZAZdF0w470tXiAhPW8M-F36rUeYtIaI4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58066/78c42d_lucid_thumb.jpg",
-      "publishedAt": "2026-07-15T09:42:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
+      "title": "5 tool AI che fanno davvero risparmiare tempo",
+      "link": "https://www.tomshw.it/aioperator/5-tool-ai-risparmio-tempo",
+      "excerpt": "Cinque strumenti, una settimana, un conto preciso delle ore recuperate: è questo il criterio più utile per valutare un tool AI, molto più delle liste i migliori strumenti AI del…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100565/02-b48-cover.jpg",
+      "publishedAt": "2026-07-10T11:14:39+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     }
   ]
 }
