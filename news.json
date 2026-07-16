@@ -1,188 +1,170 @@
 {
-  "generatedAt": "2026-07-16T15:27:52.034878+00:00",
+  "generatedAt": "2026-07-16T17:06:30.975694+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Il primo microonde di SharkNinja fa anche da friggitrice ad aria",
-      "link": "https://www.hdblog.it/home/articoli/n664592/sharkninja-microonde-friggitrice-aria-crispi/",
-      "excerpt": "Scalda in modalità microonde... poi per il tocco finale croccante e succoso si passa all'aria calda!",
-      "image": "https://hd2.tudocdn.net/1357181?w=660",
-      "publishedAt": "2026-07-16T15:25:00+00:00",
+      "title": "Sta per arrivare una nuova Range Rover Sport, scelta controcorrente",
+      "link": "https://www.hdmotori.it/nuova-range-rover-sport-elettrica/",
+      "excerpt": "In una fase in cui l’elettrico ha creato dei danni nel Gruppo Jaguar Land Rover, entro la fine del 2026, è previsto l’arrivo di una Range Rover Sport Electric",
+      "image": "https://hd2.tudocdn.net/1357220?w=660",
+      "publishedAt": "2026-07-16T17:00:28+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "DMA, L'Europa decide come dovrà funzionare l'IA su Android: Google costretta ad aprire il sistema ai rivali di Gemini",
+      "title": "I droni con laser potrebbero prevedere la prossima eruzione di un vulcano",
+      "link": "https://www.hdblog.it/droni/articoli/n664505/droni-laser-monitoraggio-vulcani/",
+      "excerpt": "Un sistema con droni e laser misura i gas vulcanici con un errore di appena il 5%.",
+      "image": "https://hd2.tudocdn.net/1357017?w=660",
+      "publishedAt": "2026-07-16T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "SpaceX prepara il Flight 13: Starship porterà 20 satelliti V3",
+      "link": "https://www.tomshw.it/scienze/starship-torna-al-volo-e-nella-stiva-ce-un-test-decisivo",
+      "excerpt": "SpaceX si prepara a riportare in volo il razzo più grande e potente mai costruito. Il Flight 13 sarà la seconda missione dell'anno e trasporterà venti prototipi di satelliti…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101721/spacex-prepara-il-flight-13-starship-portera-20-satelliti-v3.png",
+      "publishedAt": "2026-07-16T16:39:43+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "xAI denuncia un utente di Grok per deepfake a luci rosse e non consensuali",
+      "link": "https://www.hdblog.it/business/articoli/n664541/grok-deepfake-xai/",
+      "excerpt": "xAI ha citato in giudizio un utente per aver generato materiale illecito su Grok che ritrae minori.",
+      "image": "https://hd2.tudocdn.net/1357073?w=660",
+      "publishedAt": "2026-07-16T16:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "iPad mini OLED in arrivo: Apple pronta per ottobre 2026",
+      "link": "https://www.tomshw.it/smartphone/ipad-mini-oled-apple-punterebbe-al-debutto-entro-ottobre-2026",
+      "excerpt": "Un display OLED e il chip A19 Pro sarebbero al centro del prossimo iPad mini, il rinnovamento più consistente della linea compatta dalla riprogettazione del 2021. Le informazioni…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101720/news-flash-580005.png",
+      "publishedAt": "2026-07-16T16:34:05+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Accisa per le auto elettriche, arriva la stangata per gli automobilisti nel Regno Unito",
+      "link": "https://www.hdmotori.it/accisa-auto-elettriche-regno-unito/",
+      "excerpt": "Con il crollo delle accise su benzina e gasolio, determinato dall'aumento delle vendite di EV, il governo britannico ha usato il pugno duro",
+      "image": "https://hd2.tudocdn.net/1357213?w=660",
+      "publishedAt": "2026-07-16T16:30:09+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Talespinner: il roguelike di carte arriva il 6 agosto su Switch e PC",
+      "link": "https://www.tomshw.it/videogioco/talespinner-il-roguelike-di-carte-arriva-il-6-agosto-su-switch-e",
+      "excerpt": "Tre eroi, oltre 200 carte e un libro capace di modificare gli incontri sono al centro di Talespinner, roguelike deckbuilder che arriverà il 6 agosto 2026 su Nintendo Switch e PC…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101717/talespinner-1.jpg",
+      "publishedAt": "2026-07-16T16:19:33+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "PS3, lo store chiude: l'emulatore RPCS3 fa girare il 75% dei giochi su PC",
+      "link": "https://www.tomshw.it/videogioco/rpcs3-il-75-dei-giochi-ps3-e-ora-completabile-su-pc",
+      "excerpt": "Tre giochi PlayStation 3 su quattro risultano ora completabili su PC attraverso RPCS3. Il team dell’emulatore open source ha comunicato il traguardo il 14 luglio 2026, portando al…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101718/PS3-jpg.webp",
+      "publishedAt": "2026-07-16T16:18:53+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Energia wireless sulla Luna: il piano cinese per esplorare i crateri oscuri",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n664503/cina-laser-energia-luna-polo-sud/",
+      "excerpt": "Laser ed energia solare per alimentare rover nei crateri bui del polo sud lunare.",
+      "image": "https://hd2.tudocdn.net/1357014?w=660",
+      "publishedAt": "2026-07-16T16:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "NotebookLM diventa Gemini Notebook: ecco le novità",
+      "link": "https://www.tomshw.it/hardware/notebooklm-verso-il-rebranding-google-lo-chiamerebbe-gemini-notebook",
+      "excerpt": "NotebookLM dovrebbe diventare Gemini Notebook, con Google pronta a riunire il servizio sotto il suo principale marchio dedicato all’intelligenza artificiale. La nuova…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101715/gemini-notebook.png",
+      "publishedAt": "2026-07-16T16:12:53+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "EA Sports NHL 27: leghe online fino a 32 squadre",
+      "link": "https://www.tomshw.it/videogioco/ea-sports-nhl-27-connected-franchise-torna-con-leghe-online-fino-a",
+      "excerpt": "Connected Franchise torna in EA Sports NHL 27 e riporta nella serie le leghe online amministrate direttamente dagli utenti. La modalità consentirà di riunire un gruppo di amici,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101713/EA_NHL27_DLX_KeyArt_RGB_16-9_1920x1080.jpg",
+      "publishedAt": "2026-07-16T16:09:43+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Un monitor MSI WQHD a 109€? Su Amazon è già al minimo",
+      "link": "https://www.tomshw.it/offerte/un-monitor-msi-wqhd-a-109eur-su-amazon-e-gia-al-minimo",
+      "excerpt": "A 109€, MSI PRO MP275QA E14 su Amazon costa il 37% in meno rispetto al listino di 172,99€. Il pannello IPS WQHD da 27 pollici e i 144 Hz permettono di migliorare insieme spazio di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101712/tomshw-offer-579862.png",
+      "publishedAt": "2026-07-16T16:03:33+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Messi parcheggia l'auto in salotto, il suo \"rifugio\" è da sogno",
+      "link": "https://www.hdmotori.it/casa-messi-miami-porsche-design-tower/",
+      "excerpt": "Un garage al 47° piano grazie a un ascensore hi-tech: ecco come vive Lionel Messi a Miami tra auto da sogno, scuole esclusive e investimenti immobiliari milionari",
+      "image": "https://hd2.tudocdn.net/1357210?w=660",
+      "publishedAt": "2026-07-16T16:00:44+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Lioness 3 arriva su Paramount+ ad agosto con Zoe Saldaña | Trailer",
+      "link": "https://www.hdblog.it/curiosita/articoli/n660693/lioness-3-paramount-plus-uscita/",
+      "excerpt": "La terza stagione di Lioness arriva il 2 agosto su Paramount+ con una nuova missione personale.",
+      "image": "https://hd2.tudocdn.net/1348278?w=660",
+      "publishedAt": "2026-07-16T15:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Googlebook, spunta il primo accessorio: Lenovo prepara un mouse con tasto AI",
+      "link": "https://www.hdblog.it/hardware/articoli/n664590/googlebook-lenovo-ai-mouse-accessorio-foto-leak/",
+      "excerpt": "Filtrano immagini e non solo.",
+      "image": "https://hd2.tudocdn.net/1357179?w=660",
+      "publishedAt": "2026-07-16T15:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Weekend Deals Dyson: Airwrap i.d. e V16 in offerta fino a domenica",
+      "link": "https://www.hdblog.it/tecnologia/offerte/n664531/weekend-deals-dyson-airwrap-id-e-v16-in-offerta-fino-a-domenica/",
+      "excerpt": "Weekend Deals Dyson dal 17 al 19 luglio: Airwrap i.d. e V16 Piston Animal costano 50 euro in meno con il codice DY2926.",
+      "image": "https://hd2.tudocdn.net/1357055?w=660",
+      "publishedAt": "2026-07-16T15:31:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Zuckerberg e la vacanza in superyacht, polemica sulla crociera che inquina come 9.000 auto",
+      "link": "https://www.hdmotori.it/zuckerberg-vacanza-superyacht-9-000-auto/",
+      "excerpt": "Ben 5,7 milioni di euro di gasolio e 14mila tonnellate di CO₂, come 9.000 auto per soddisfare il palato fine di Mark Zuckerberg in due anni di crociere",
+      "image": "https://hd2.tudocdn.net/1357204?w=660",
+      "publishedAt": "2026-07-16T15:30:24+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "DMA, l'Europa ha deciso come dovrà funzionare l'IA su Android: Google costretta ad aprire il sistema ai rivali di Gemini",
       "link": "https://images.dday.it/ofEcDlwroXu5EKew9LG6-mr_4idKoYlhsKanEkfesuQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58091/0a62fa_Gemini_Generated_Image_3xx2sg3xx2sg3xx2.jpg",
       "excerpt": "Con due decisioni gemelle Bruxelles chiude le specification proceedings aperte a gennaio: obblighi vincolanti per l'interoperabilità AI su Google Android e per la condivisione dei…",
       "image": "https://images.dday.it/ofEcDlwroXu5EKew9LG6-mr_4idKoYlhsKanEkfesuQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58091/0a62fa_Gemini_Generated_Image_3xx2sg3xx2sg3xx2.jpg",
       "publishedAt": "2026-07-16T15:16:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il mantello dell'invisibilità esiste, ma funziona solo con le telecamere termiche",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n664583/mantello-invisibilita-termico-stampato-3d/",
-      "excerpt": "Un mantello termico stampato in 3D rende invisibili gli oggetti ai sensori infrarossi.",
-      "image": "https://hd2.tudocdn.net/1357154?w=660",
-      "publishedAt": "2026-07-16T15:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Due politici messicani stanno provando a fermare l'addio di Sony ai giochi su disco",
-      "link": "https://www.hdblog.it/games/articoli/n664579/politici-messicani-fermare-addio-sony-giochi-disco/",
-      "excerpt": "L'addio ai giochi PlayStation su disco arriva davanti all'autorità antitrust messicana, ma come per le petizioni servirà a ben poco.",
-      "image": "https://hd2.tudocdn.net/1357175?w=660",
-      "publishedAt": "2026-07-16T15:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Cosa abbiamo perso nel passaggio dal \"Disco Demo\" alla bulimia digitale",
-      "link": "https://www.tomshw.it/videogioco/cosa-abbiamo-perso-nel-passaggio-dal-disco-demo-alla-bulimia-digitale",
-      "excerpt": "Per chiunque abbia vissuto la propria giovinezza videoludica a cavallo tra gli anni Novanta e i primi duemila, si ricorderà certamente il profumo della carta stampata fresca di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101492/PS-1.webp",
-      "publishedAt": "2026-07-16T15:06:17+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Netflix Minigolf arriva il 28 luglio: oltre 60 livelli tra Stranger Things e Squid Game",
-      "link": "https://www.tomshw.it/videogioco/netflix-minigolf-arriva-il-28-luglio-oltre-60-livelli-tra-stranger-things",
-      "excerpt": "Più di 60 livelli trasformeranno gli universi di Stranger Things, Squid Game e Bridgerton in percorsi da minigolf. Netflix ha fissato al 28 luglio 2026 il debutto ufficiale di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101698/Netflix-Minigolf.png",
-      "publishedAt": "2026-07-16T15:06:14+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Un Samsung 4K a meno di 180€: ViewFinity S7 scontato del 53%",
-      "link": "https://www.tomshw.it/offerte/un-samsung-4k-a-meno-di-180eur-viewfinity-s7-scontato-del-53",
-      "excerpt": "A 179,90€ su Amazon, il Samsung Monitor ViewFinity S7 S27D702 da 27 pollici costa il 53% in meno rispetto al listino di 379€. La risoluzione UHD 4K concentrata su questa diagonale…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101700/tomshw-offer-579713.png",
-      "publishedAt": "2026-07-16T15:06:06+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Mercato smartphone in calo, la crisi delle memorie pesa: mai così in basso dal 2013",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664566/mercato-smartphone-q2-2026-calo-counterpoint-crisi/",
-      "excerpt": "I dati del Q2 2026 raccontano una flessione importante.",
-      "image": "https://hd2.tudocdn.net/1340311?w=660",
-      "publishedAt": "2026-07-16T15:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Un qubit molecolare ora si controlla con la sola tensione",
-      "link": "https://www.tomshw.it/scienze/un-qubit-molecolare-ora-si-controlla-con-la-sola-tensione",
-      "excerpt": "Un gruppo del Center for Quantum Nanoscience, presso l'Institute for Basic Science, e del Karlsruhe Institute of Technology ha controllato con la tensione lo stato quantistico di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101696/un-qubit-molecolare-ora-si-controlla-con-la-sola-tensione.png",
-      "publishedAt": "2026-07-16T15:03:53+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Epic Games Launcher V2 ad Agosto: sarà fino a 5 volte più veloce",
-      "link": "https://www.tomshw.it/videogioco/epic-games-launcher-v2-beta-ad-agosto-iscrizioni-gia-aperte",
-      "excerpt": "La beta pubblica di Epic Games Launcher V2 dovrebbe aprirsi ad agosto 2026, aggiungendo una prima finestra temporale alla roadmap presentata da Epic Games a giugno. La tempistica…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101695/EPIC-GAME-STORE-REDESIGN-2026-HERO-3.jpg",
-      "publishedAt": "2026-07-16T15:01:06+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Alfa Romeo, le nuove Giulia e Stelvio in fase di studio: c'è ancora speranza",
-      "link": "https://www.hdmotori.it/alfa-romeo-nuove-giulia-stelvio/",
-      "excerpt": "Stellantis ha assicurato il work in progress per il lancio delle future evoluzioni di Alfa Romeo Giulia e Stelvio",
-      "image": "https://hd2.tudocdn.net/1357180?w=660",
-      "publishedAt": "2026-07-16T15:00:56+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "GOG sbeffeggia Sony, ora puoi salvare gli Installer su disco",
-      "link": "https://www.tomshw.it/videogioco/gog-risponde-a-sony-salva-su-disco-gli-installer-offline-drm-free",
-      "excerpt": "Un gioco acquistato su GOG può essere scaricato come installer offline, copiato su un supporto fisico e reinstallato senza chiedere l’autorizzazione al negozio. È il punto scelto…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101691/c3baab43-a2f4-4f1a-a934-4847196941b3.webp",
-      "publishedAt": "2026-07-16T14:58:58+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Vulnerabilità RCE nei robot aspirapolvere Shark: root e Wi-Fi in chiaro",
-      "link": "https://www.tomshw.it/hardware/robot-shark-falla-cloud-senza-patch-comandi-eseguiti-come-root",
-      "excerpt": "Un certificato estratto da un robot aspirapolvere Shark RV2320EDUS ha consentito di interagire con dispositivi di altri utenti collegati alla stessa regione AWS e di inviare…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/86011/I-migliori-robot-aspirapolvere-da-comprare-nelle-Offerte-di-Primavera-Amazon.jpg",
-      "publishedAt": "2026-07-16T14:56:28+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Samsung Galaxy Tab S12 Ultra, primi render: indistinguibile dal predecessore",
-      "link": "https://www.hdblog.it/tablet/articoli/n664589/samsung-galaxy-tab-s12-ultra-render-leak-cad/",
-      "excerpt": "Anche le misure rimarranno le stesse, al decimo di millimetro.",
-      "image": "https://hd2.tudocdn.net/1355079?w=660",
-      "publishedAt": "2026-07-16T14:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "TSMC accelera sui 2 nm, ma la capacità rischia di non bastare",
-      "link": "https://www.tomshw.it/hardware/i-2-nm-di-tsmc-decollano-quattro-volte-piu-progetti-dei-3-nm",
-      "excerpt": "TSMC ha comunicato al Japan Technology Symposium 2026 che il processo N2 ha raccolto un numero di progetti arrivati al tape-out quattro volte superiore rispetto al precedente nodo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101685/i-2-nm-di-tsmc-decollano-quattro-volte-piu-progetti-dei-3-nm.png",
-      "publishedAt": "2026-07-16T14:46:59+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Spotify fa pulizia: rimossi oltre 75 milioni di brani creati con l'AI",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n664564/spotify-rimuove-75-milioni-brani-ai/",
-      "excerpt": "Spotify rimuove 75 milioni di brani AI per contrastare spam e contenuti di bassa qualità.",
-      "image": "https://hd2.tudocdn.net/1357121?w=660",
-      "publishedAt": "2026-07-16T14:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Reti quantistiche, il teletrasporto resiste meglio alle perdite",
-      "link": "https://www.tomshw.it/scienze/la-fibra-perde-fotoni-ma-ce-una-via-quantistica",
-      "excerpt": "Un gruppo della USTC ha messo il teletrasporto quantistico in competizione diretta con l'invio di fotoni attraverso un canale ottico con forti perdite. Nel test, il teletrasporto…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101683/la-fibra-perde-fotoni-ma-c-e-una-via-quantistica.png",
-      "publishedAt": "2026-07-16T14:44:26+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Abbiamo provato lo smartphone pieghevole dalle specifiche incredibili ed arriva in Italia | Video",
-      "link": "https://www.hdblog.it/smartphone/recensioni/n663609/anteprima-vivo-x-fold-6-test-prova-prezzo/",
-      "excerpt": "Sta per arrivare in Italia un pieghevole \"da record\", con super fotocamere e la batteria più grande su questa particolare tipologia di smartphone. Basterà?",
-      "image": "https://hd2.tudocdn.net/1356786?w=660",
-      "publishedAt": "2026-07-16T14:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "\"Bliss\", com'è cambiata la mitica collina di Windows XP nel corso degli anni",
-      "link": "https://www.hdblog.it/microsoft/articoli/n664584/windows-xp-immagine-sfondo-collina-30-anni/",
-      "excerpt": "Una retrospettiva in occasione del trentennale dello scatto della foto.",
-      "image": "https://hd2.tudocdn.net/1357134?w=660",
-      "publishedAt": "2026-07-16T14:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Airbus sceglie Scaleway: applicazioni e dati sensibili su cloud sovrano europeo",
-      "link": "https://www.hdblog.it/business/articoli/n664585/airbus-sceglie-scaleway-dati-cloud-sovrano/",
-      "excerpt": "Scaleway non sostituirà gli altri fornitori cloud già utilizzati da Airbus",
-      "image": "https://hd2.tudocdn.net/1357143?w=660",
-      "publishedAt": "2026-07-16T14:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "La Corte di Giustizia UE dà ragione ad AGCOM: Google responsabile dei video dei creator con cui fa affari",
@@ -230,11 +212,29 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Migliori eSIM da usare negli Stati Uniti (luglio 2026)",
-      "link": "https://www.tomshw.it/smartphone/migliori-esim-da-usare-negli-stati-uniti",
-      "excerpt": "Organizzare un viaggio negli Stati Uniti significa usare lo smartphone per quasi tutto: mappe, prenotazioni, ride sharing, pagamenti, traduzioni, check-in, messaggi e chiamate via…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/89682/migliori-esim-stati-uniti-copertina.jpg",
-      "publishedAt": "2026-07-16T11:10:55+00:00",
+      "title": "Migliori stampanti 3D (luglio 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-stampanti-3d",
+      "excerpt": "Scegliere una stampante 3D significa ragionare attentamente sulle proprie necessità e su pochi fattori chiave: precisione, velocità, volume utile, software di slicing, materiali…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/89688/migliori-stampanti-3d-filamento-copertina.jpg",
+      "publishedAt": "2026-07-16T11:15:41+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori password manager (luglio 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-password-manager",
+      "excerpt": "Quella delle password sicure è una questione aperta da anni, ma il problema non è solo scegliere una combinazione difficile da indovinare. Nella pratica quotidiana molti utenti…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/89711/migliori-password-manager-copertina.jpg",
+      "publishedAt": "2026-07-16T11:13:07+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il governo aiuta l'auto elettrica, ma (probabilmente) è tutto fumo e niente arrosto",
+      "link": "https://www.tomshw.it/business/il-governo-aiuta-lauto-elettrica-ma-probabilmente-e-tutto-fumo-e-niente-arrosto",
+      "excerpt": "Il governo Meloni ha portato in Consiglio dei Ministri uno schema di DDL Concorrenza che riforma la distribuzione dei carburanti. Nel testo, un elemento richiama l'attenzione: chi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101563/ddl-carburanti-colonnina-cover-v2.jpg",
+      "publishedAt": "2026-07-16T11:00:06+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
