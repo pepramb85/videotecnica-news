@@ -1,15 +1,60 @@
 {
-  "generatedAt": "2026-07-18T09:16:41.790239+00:00",
+  "generatedAt": "2026-07-18T10:56:28.519548+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "MIT sviluppa SceneSmith, l'AI che addestra i robot in ambienti 3D realistici",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n664723/ai-robot-ambienti-3d-mit/",
+      "excerpt": "SceneSmith crea ambienti virtuali realistici per addestrare robot prima del mondo reale.",
+      "image": "https://hd2.tudocdn.net/1357426?w=660",
+      "publishedAt": "2026-07-18T10:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Due notebook, una batteria: UGREEN Nexode Pro 200W a 72,19€",
+      "link": "https://www.tomshw.it/offerte/due-notebook-una-batteria-ugreen-nexode-pro-200w-a-7219eur",
+      "excerpt": "UGREEN Nexode Pro 200W è a 72,19€ su Amazon: il listino di 119,99€ viene ridotto del 40%, lasciando 47,80€ in tasca. La combinazione di 25.000 mAh, uscita USB-C da 140W e potenza…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102029/tomshw-offer-582747.png",
+      "publishedAt": "2026-07-18T10:03:50+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Bethesda conferma Fallout 5 e il ritorno di Obsidian con un nuovo progetto",
+      "link": "https://www.hdblog.it/games/articoli/n664724/fallout-5-obsidian-remaster-fallout-3-new-vegas/",
+      "excerpt": "Bethesda rilancia Fallout con Fallout 5, Obsidian e due remaster molto attesi.",
+      "image": "https://hd2.tudocdn.net/1153210?w=660",
+      "publishedAt": "2026-07-18T09:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Artemis III: NASA condivide nuovi dettagli sulla missione",
       "link": "https://www.hdblog.it/tecnologia/articoli/n664726/artemis-3-test-lander-luna/",
       "excerpt": "Artemis III testerà i futuri lander lunari prima del ritorno degli astronauti sulla Luna.",
       "image": "https://hd2.tudocdn.net/1357421?w=660",
       "publishedAt": "2026-07-18T09:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Costa 15,86€ e dura fino a 500 giorni: Samsung SmartTag2",
+      "link": "https://www.tomshw.it/offerte/costa-1586eur-e-dura-fino-a-500-giorni-samsung-smarttag2",
+      "excerpt": "Samsung Galaxy SmartTag2 costa 15,86€ su Amazon, il 60% in meno rispetto al listino di 39,90€. Il localizzatore compatto combina fino a 500 giorni di autonomia, protezione IP67 e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102028/tomshw-offer-582738.png",
+      "publishedAt": "2026-07-18T09:03:31+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "POCO X8 Pro in offerta su Amazon: un mid-range veloce e con un'ottima autonomia",
+      "link": "https://www.hdblog.it/smartphone/offerte/n664733/poco-x8-pro-offerta-amazon-luglio-2026/",
+      "excerpt": "Il POCO X8 Pro è in offerta su Amazon ed è ora disponibile in sconto a meno di 400 euro: si tratta della soluzione giusta per un mid-range.",
+      "image": "https://hd2.tudocdn.net/1329302?w=660",
+      "publishedAt": "2026-07-18T09:00:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -122,15 +167,6 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Nubia Air, lo smartphone ultra-sottile è in offerta a 140 euro su eBay",
-      "link": "https://www.hdblog.it/smartphone/offerte/n664717/nubia-air-256gb-offerta-psprlug26/",
-      "excerpt": "Per chi vuole provare l'esperienza d'uso di uno smartphone con uno spessore inferiore ai 6 millimetri.",
-      "image": "https://hd2.tudocdn.net/1318378?w=660",
-      "publishedAt": "2026-07-17T19:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Zoom 20x e 7 anni davanti: Pixel 10 costa 599€ su Amazon",
       "link": "https://www.tomshw.it/offerte/zoom-20x-e-7-anni-davanti-pixel-10-costa-599eur-su-amazon",
       "excerpt": "Google Pixel 10 da 128GB costa 599€ su Amazon, con 300€ di taglio sui 899€ di listino e uno sconto del 33%. Tra teleobiettivo con zoom ad alta definizione 20x, Gemini e sette anni…",
@@ -138,33 +174,6 @@
       "publishedAt": "2026-07-17T19:03:53+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Tre usi, un QD-OLED: Samsung M9 fa risparmiare 664,90€",
-      "link": "https://www.tomshw.it/offerte/tre-usi-un-qd-oled-samsung-m9-fa-risparmiare-66490eur",
-      "excerpt": "Il Samsung Smart Monitor M9 (S32FM900) costa 1.034,10€ su Amazon: rispetto ai 1.699€ di listino, il risparmio è di 664,90€, pari al 39%. Il pannello QD-OLED 4K da 32 pollici…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102021/tomshw-offer-582516.png",
-      "publishedAt": "2026-07-17T18:03:50+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "God of War, Kratos si fa male: Ryan Hurst lascia il ruolo nella serie",
-      "link": "https://www.hdblog.it/games/articoli/n664708/god-of-war-serie-prime-video-kratos-ryan-hurst/",
-      "excerpt": "Un brutto infortunio.",
-      "image": "https://hd2.tudocdn.net/1357397?w=660",
-      "publishedAt": "2026-07-17T17:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Google Vids si evolve con Gemini Omni: arrivano gli avatar “personali”",
-      "link": "https://www.hdblog.it/google/articoli/n664702/google-vids-arrivano-gemini-omni-avatar-personali/",
-      "excerpt": "Pochi clic per creare video con il proprio avatar.",
-      "image": "https://hd2.tudocdn.net/1357393?w=660",
-      "publishedAt": "2026-07-17T17:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Piracy Shield, il TAR ha confermato la multa da 14 milioni a Cloudflare. I motivi della sentenza",
@@ -252,15 +261,6 @@
       "link": "https://www.tomshw.it/business/salesforce-declassata-da-keybanc-agentforce-non-convince-i-clienti",
       "excerpt": "Il verdetto di una banca che vive dentro gli eventi Salesforce KeyBanc Capital Markets ha declassato Salesforce a Sector Weight da Overweight il 9 luglio 2026. La motivazione non…",
       "image": "https://cdn.tomshw.it/storage/media/2026/07/101804/17lug-cover-10.jpg",
-      "publishedAt": "2026-07-17T09:25:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "L'AI Overview è editore a tutti gli effetti, dice la Germania",
-      "link": "https://www.tomshw.it/business/lai-overview-e-editore-a-tutti-gli-effetti-dice-la-germania",
-      "excerpt": "La ZAK, l'autorità tedesca che vigila sui media, ha emesso le prime sentenze contro servizi di AI generativa applicati alla ricerca. Lo riporta The Decoder: Google e Perplexity…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101803/17lug-cover-09.jpg",
       "publishedAt": "2026-07-17T09:25:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
