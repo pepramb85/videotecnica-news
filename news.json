@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-07-18T12:56:53.035231+00:00",
+  "generatedAt": "2026-07-18T14:44:25.647741+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Apple alza i prezzi degli iPhone in Giappone",
+      "link": "https://www.hdblog.it/smartphone/articoli/n664742/apple-aumenta-prezzi-iphone-17-giappone-rincari/",
+      "excerpt": "Dobbiamo aspettarci incrementi anche da noi?",
+      "image": "https://hd2.tudocdn.net/1350671?w=660",
+      "publishedAt": "2026-07-18T14:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "9,99€ per lasciare il touchpad: Logitech M185 è al minimo su Amazon",
+      "link": "https://www.tomshw.it/offerte/999eur-per-lasciare-il-touchpad-logitech-m185-e-al-minimo-su-amazon",
+      "excerpt": "A 9,99€ su Amazon, Logitech M185 dimezza il listino di 19,99€ grazie a uno sconto del 50%. È anche il minimo toccato finora da un mouse wireless essenziale per sostituire il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102033/tomshw-offer-582784.png",
+      "publishedAt": "2026-07-18T14:03:19+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Grill e 40 programmi a 75,99€: Candy taglia il listino del 53%",
+      "link": "https://www.tomshw.it/offerte/grill-e-40-programmi-a-7599eur-candy-taglia-il-listino-del-53",
+      "excerpt": "A 75,99€ su Amazon, il Candy Moderna CMGA20TNDB con grill costa il 53% in meno rispetto ai 160€ di listino. I 40 programmi automatici puntano a semplificare pasti, scongelamento e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102032/tomshw-offer-582771.png",
+      "publishedAt": "2026-07-18T13:02:58+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "Una sola USB per tastiera e mouse: Logitech MK470 a 34,29€",
       "link": "https://www.tomshw.it/offerte/una-sola-usb-per-tastiera-e-mouse-logitech-mk470-a-3429eur",
@@ -30,6 +57,15 @@
       "publishedAt": "2026-07-18T11:02:27+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Galaxy S25 Edge in offerta a meno di 500€: è il mid-range Samsung da prendere oggi?",
+      "link": "https://www.hdblog.it/smartphone/offerte/n664737/samsung-galaxy-s25-edge-offerta-psprlug26/",
+      "excerpt": "Il Samsung Galaxy S25 Edge è in offerta e ora costa meno di 500 euro: lo smartphone diventa uno dei best buy della fascia media per la gamma Galaxy.",
+      "image": "https://hd2.tudocdn.net/1266699?w=660",
+      "publishedAt": "2026-07-18T10:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
     },
     {
       "title": "MIT sviluppa SceneSmith, l'AI che addestra i robot in ambienti 3D realistici",
@@ -118,42 +154,6 @@
       "excerpt": "Per una stima \"al volo\"",
       "image": "https://hd2.tudocdn.net/1357395?w=660",
       "publishedAt": "2026-07-18T07:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il pane fatto in casa parte da 118€: Moulinex OW2208 è al minimo",
-      "link": "https://www.tomshw.it/offerte/il-pane-fatto-in-casa-parte-da-118eur-moulinex-ow2208-e-al-minimo",
-      "excerpt": "A 118€ su Amazon, la Moulinex OW2208 Pain & Plaisir porta 17 programmi automatici in cucina: rispetto ai 184,99€ di listino, il taglio è del 36% e lascia 66,99€ in tasca. È…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102026/tomshw-offer-582697.png",
-      "publishedAt": "2026-07-18T07:03:03+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Jensen Interceptor GTX: il ritorno di un’icona \"ultra-analogica\"",
-      "link": "https://www.hdmotori.it/jensen-interceptor-gtx-ritorno/",
-      "excerpt": "Una sportiva d’altri tempi con un V8 puramente termico e il telaio in alluminio, pensata per la pista e senza alcuna traccia di digitalizzazione.",
-      "image": "https://hd2.tudocdn.net/1357419?w=660",
-      "publishedAt": "2026-07-18T06:30:51+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "GOG vuole salvare le copie fisiche ma potrebbe non bastare",
-      "link": "https://www.tomshw.it/videogioco/gli-installer-di-gog-salvano-la-tua-copia-per-conservare-il-gioco-serve-altro",
-      "excerpt": "Un installer copiato su un Blu-ray, un SSD esterno o un NAS continua a esistere anche quando lo store chiude, l’account viene sospeso o il catalogo cambia. La frecciata di GOG a…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/01/80983/gog-riflette-sul-supporto-linux-criticando-windows-2026-01-14-2shmci8a3fm97dAt4xol.png",
-      "publishedAt": "2026-07-18T06:26:45+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Apple Music più caro in Italia: ecco il nuovo prezzo dell'abbonamento",
-      "link": "https://www.hdblog.it/apple/articoli/n664728/apple-music-aumento-prezzo-italia/",
-      "excerpt": "Apple Music aumenta anche in Italia: l'abbonamento Individual costa ora 11,99 euro al mese.",
-      "image": "https://hd2.tudocdn.net/1256181?w=660",
-      "publishedAt": "2026-07-18T06:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
