@@ -1,15 +1,150 @@
 {
-  "generatedAt": "2026-07-20T15:45:50.179963+00:00",
+  "generatedAt": "2026-07-20T17:27:28.273346+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Il prossimo iPad mini arriverà ad ottobre con due grandi novità",
-      "link": "https://www.hdblog.it/tablet/comparazioni/n664862/ipad-mini-2026-oled-schermo-chip-a19-a20-lancio/",
-      "excerpt": "Ma a che prezzo?",
-      "image": "https://hd2.tudocdn.net/1200560?w=660",
-      "publishedAt": "2026-07-20T15:45:00+00:00",
+      "title": "I giovani comprano sempre più CD musicali, ma non necessariamente per ascoltarli",
+      "link": "https://www.hdblog.it/altadefinizione/articoli/n664885/mercato-cd-vendite-boom-record-usa/",
+      "excerpt": "+16% negli Stati Uniti per la prima metà del 2026. Ma è più per collezionismo: oltre la metà dei compratori nemmeno lo possiede, un lettore CD.",
+      "image": "https://hd2.tudocdn.net/1357729?w=660",
+      "publishedAt": "2026-07-20T17:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La Serbia entra negli Accordi Artemis: cambia la corsa internazionale alla Luna",
+      "link": "https://www.hdblog.it/mercato/articoli/n664794/serbia-accordi-artemis-nasa/",
+      "excerpt": "La Serbia aderisce agli Accordi Artemis e punta a partecipare alle future missioni lunari.",
+      "image": "https://hd2.tudocdn.net/1357604?w=660",
+      "publishedAt": "2026-07-20T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Bethesda: The Elder Scrolls VI e Fallout 5 saranno in Creation Engine 3",
+      "link": "https://www.tomshw.it/videogioco/bethesda-the-elder-scrolls-vi-e-fallout-5-con-creation-engine-3",
+      "excerpt": "The Elder Scrolls VI e Fallout 5 condividono la stessa base tecnologica: Bethesda Game Studios ha confermato ufficialmente che entrambi vengono sviluppati con Creation Engine 3.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102257/17078804a62e-oblivion.webp",
+      "publishedAt": "2026-07-20T17:09:28+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Midgar Studio chiude dopo 18 anni: il tribunale ordina la liquidazione",
+      "link": "https://www.tomshw.it/videogioco/midgar-studio-chiude-dopo-18-anni-il-tribunale-ordina-la-liquidazione",
+      "excerpt": "La ricerca di un acquirente non ha evitato la liquidazione giudiziaria di Midgar Studio. Il tribunale ha disposto la chiusura dopo che Nacon, proprietaria della società, non è…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102255/nacon-annuncia-edge-of-memories-un-nuovo-action-rpg-di-midgar-studio-cover67bf38aa148c9.jpg",
+      "publishedAt": "2026-07-20T17:05:19+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "60 g e 44.000 DPI: Logitech G PRO X SUPERLIGHT 2 SE a 78,74€",
+      "link": "https://www.tomshw.it/offerte/60-g-e-44000-dpi-logitech-g-pro-x-superlight-2-se-a-7874eur",
+      "excerpt": "Il Logitech G PRO X SUPERLIGHT 2 SE costa 78,74€ su Amazon, con uno sconto del 39% sul listino di 129,99€. Appena 60 grammi, sensore HERO 2 e wireless LIGHTSPEED lo rendono…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102253/tomshw-offer-585219.png",
+      "publishedAt": "2026-07-20T17:03:15+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La Hyundai Ioniq 5 si rinnova: le novità del Model Year 2027",
+      "link": "https://www.hdmotori.it/hyundai-ioniq-5-model-year-2027/",
+      "excerpt": "La compatta elettrica Ioniq 5 vanta nuovi allestimenti e nuove dotazioni, mentre non cambiano motori e autonomie.",
+      "image": "https://hd2.tudocdn.net/1357724?w=660",
+      "publishedAt": "2026-07-20T17:00:54+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "James Webb fotografa un giovane ammasso di galassie in piena collisione",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n664793/webb-ammasso-galassie-macs-j0553/",
+      "excerpt": "Webb osserva un giovane ammasso di galassie mentre cresce attraverso una gigantesca fusione.",
+      "image": "https://hd2.tudocdn.net/1357591?w=660",
+      "publishedAt": "2026-07-20T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Qualcomm, non solo flagship: in cantiere anche Snapdragon 4 Gen 6",
+      "link": "https://www.hdblog.it/hardware/articoli/n664881/qualcomm-snapdragon-4-gen-6-specifiche-novita/",
+      "excerpt": "Previsto un upgrade di GPU, memoria ed efficienza energetica.",
+      "image": "https://hd2.tudocdn.net/1308996?w=660",
+      "publishedAt": "2026-07-20T16:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Un altro studio scappa da Microsoft e torna indipendente",
+      "link": "https://www.tomshw.it/videogioco/alpha-dog-games-torna-indipendente-lo-studio-riacquistato-dai-fondatori",
+      "excerpt": "Il team fondatore di Alpha Dog Games ha riacquisito la proprietà dello studio nel 2025, riportando la società sotto una gestione indipendente dopo il passaggio attraverso…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102248/news-flash-585119.png",
+      "publishedAt": "2026-07-20T16:40:48+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Battlefield 6, Stagione 4 il 21 luglio: guerra navale e mappa più grande",
+      "link": "https://www.tomshw.it/videogioco/battlefield-6-stagione-4-il-21-luglio-guerra-navale-e-mappa-piu",
+      "excerpt": "Tsuru Reef porterà il 21 luglio il combattimento navale nella Stagione 4 di Battlefield 6. La mappa è ambientata in un arcipelago composto da isole, spiagge, mare aperto,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102247/news-flash-585090.png",
+      "publishedAt": "2026-07-20T16:36:23+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "TIM Star: fino a 12 mesi gratuiti di Canva Pro ai clienti di linea fissa e mobile",
+      "link": "https://www.hdblog.it/tim/articoli/n664877/tim-star-fino-a-12-mesi-gratuiti-di-canva-pro/",
+      "excerpt": "I mesi gratuiti variano in base all’offerta attiva.",
+      "image": "https://hd2.tudocdn.net/1347937?w=660",
+      "publishedAt": "2026-07-20T16:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La bici del futuro secondo Volkswagen: \"parla\" con le auto e prevede i pericoli",
+      "link": "https://www.hdmotori.it/bici-futuro-volkswagen/",
+      "excerpt": "Volkswagen e n+ lanciano le nuove e-bike smart: radar anti-angolo cieco, luci intelligenti e occhiali HUD per rivoluzionare la sicurezza nel traffico cittadino.",
+      "image": "https://hd2.tudocdn.net/1357722?w=660",
+      "publishedAt": "2026-07-20T16:30:19+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung da record: il nuovo pannello OLED per laptop raggiunge con orgoglio 1.400 nit",
+      "link": "https://www.hdblog.it/portatili/articoli/n664841/samsung-oled-laptop-1400-nit/",
+      "excerpt": "Samsung Display presenta il primo pannello OLED tandem per notebook, con luminosità di 1.400 nit.",
+      "image": "https://hd2.tudocdn.net/1357672?w=660",
+      "publishedAt": "2026-07-20T16:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "4 sensori per la casa smart da installare in cantina, in soffitta o nei vani tecnici",
+      "link": "https://www.hdblog.it/home/articoli/n664839/sensori-casa-intelligente-cantina-soffitta/",
+      "excerpt": "Possono prevenire danni per migliaia di euro",
+      "image": "https://hd2.tudocdn.net/1357704?w=660",
+      "publishedAt": "2026-07-20T16:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Una build panoramica sotto i 90€: Corsair 3500X taglia il 54%",
+      "link": "https://www.tomshw.it/offerte/una-build-panoramica-sotto-i-90eur-corsair-3500x-taglia-il-54",
+      "excerpt": "Il Corsair 3500X LX-R RGB costa 89,99€ su Amazon, contro un listino di 194,90€: lo sconto del 54% lascia in tasca 104,91€. È una cifra particolarmente aggressiva per un case…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102245/tomshw-offer-585016.png",
+      "publishedAt": "2026-07-20T16:03:27+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Questa spugna cattura acqua dall'aria: fino a 1,8 litri al giorno senza tubature",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n664776/materiale-acqua-dall-aria-mof/",
+      "excerpt": "Un nuovo materiale estrae acqua dall'aria e rende più efficienti i sistemi di raffreddamento.",
+      "image": "https://hd2.tudocdn.net/1357566?w=660",
+      "publishedAt": "2026-07-20T15:55:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -23,60 +158,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Quando esce ZeroSpace in Italia: orario e download",
-      "link": "https://www.tomshw.it/videogioco/a-che-ora-esce-zerospace-oggi-in-italia-orario-di-sblocco-e-dove-scaricarlo",
-      "excerpt": "ZeroSpace esce oggi, 20 luglio 2026, alle 19:00 in Italia su Steam per PC Windows. L’Accesso anticipato è a pagamento: per giocare bisogna acquistarlo e scaricarlo dalla pagina…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102238/dqv-toms-cover-584915-1.png",
-      "publishedAt": "2026-07-20T15:36:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Call of Duty, è ufficiale: l'ambientazione del film sarà quella più apprezzata dai fan",
-      "link": "https://www.hdblog.it/microsoft/articoli/n664871/call-of-duty-film-ambientazione-ufficiale/",
-      "excerpt": "Modern Warfare! What else?",
-      "image": "https://hd2.tudocdn.net/1346528?w=660",
-      "publishedAt": "2026-07-20T15:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Honor Robot Phone appare nella finale della Coppa del Mondo FIFA 2026",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664860/honor-robot-phone-finale-coppa-del-mondo-2026/",
-      "excerpt": "Lo smartphone tra i festeggiamenti finali della Spagna.",
-      "image": "https://hd2.tudocdn.net/1357701?w=660",
-      "publishedAt": "2026-07-20T15:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung Display, tandem OLED da 1.600 nit: durano oltre il doppio",
-      "link": "https://www.tomshw.it/hardware/samsung-display-tandem-oled-da-1-600-nit-durano-oltre-il-doppio",
-      "excerpt": "Samsung Display ha avviato la fornitura su larga scala ai produttori di PC dei suoi pannelli tandem OLED per notebook compatibili con la certificazione VESA DisplayHDR True Black…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102237/news-flash-584910.png",
-      "publishedAt": "2026-07-20T15:18:12+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Apple Sports si aggiorna: arrivano sette nuovi campionati e le formazioni in campo",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664864/apple-sports-sette-nuovi-campionati-formazioni/",
-      "excerpt": "Apple ha aggiornato Sports alla versione 4.2",
-      "image": "https://hd2.tudocdn.net/1357715?w=660",
-      "publishedAt": "2026-07-20T15:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "LHS 1140 b potrebbe avere un'atmosfera: l'esopianeta si trova in una zona abitabile",
-      "link": "https://www.hdblog.it/curiosita/articoli/n664858/lhs-1140-b-atmosfera-esopianeta/",
-      "excerpt": "LHS 1140 b potrebbe avere un'atmosfera: un nuovo tassello nella ricerca della vita.",
-      "image": "https://hd2.tudocdn.net/1357713?w=660",
-      "publishedAt": "2026-07-20T15:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Il robot italiano con pelle multisensoriale. Generative Bionics presenta Gene.01, lo userà anche Fincantieri",
       "link": "https://images.dday.it/CLicBWZ_QC8P7Ff7_J1zFpNW5azyYhhi3l9_qDymOik/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58116/ebcf35_2.jpg",
       "excerpt": "Sviluppato in sei mesi, il nuovo robot combina Physical AI, percezione di tocco, forza, temperatura e prossimità. La prima applicazione industriale nascerà con Fincantieri per la…",
@@ -86,33 +167,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Un tap spegne il microfono: Razer Seiren V3 Chroma ha il 49%",
-      "link": "https://www.tomshw.it/offerte/un-tap-spegne-il-microfono-razer-seiren-v3-chroma-ha-il-49",
-      "excerpt": "Razer Seiren V3 Chroma costa 81,11€ su Amazon: il listino di 159,99€ viene ridotto del 49%, lasciando 78,88€ nel portafoglio. Tap-to-Mute, illuminazione reattiva e ripresa…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102234/tomshw-offer-584867.png",
-      "publishedAt": "2026-07-20T15:03:32+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Lotus Emeya firma il record a Sepang, la hyper-GT si candida a regina delle BEV",
-      "link": "https://www.hdmotori.it/lotus-emeya-firma-record-sepang/",
-      "excerpt": "La Lotus Emeya 900 conquista il record per un'auto elettrica sul circuito di Sepang con un tempo di 2:20.317",
-      "image": "https://hd2.tudocdn.net/1357709?w=660",
-      "publishedAt": "2026-07-20T15:00:42+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Cosa significa la mail che avete ricevuto da Google sul backup di Android",
-      "link": "https://www.hdblog.it/google/articoli/n664857/google-backup-android-mail-spazio-account-cloud/",
-      "excerpt": "Niente panico: vediamo cosa cambia.",
-      "image": "https://hd2.tudocdn.net/1357690?w=660",
-      "publishedAt": "2026-07-20T14:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "SSD Lexar da 1TB in sconto ora su Amazon. Scopri subito l'offerta",
       "link": "https://images.dday.it/PEFcmkM1_VfIFg51DIDjTL0vW8gPS9t4wLK0MKu1GHk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58114/50832d_71nOnnPVv5L._AC_SL1500_.jpg",
       "excerpt": "Un SSD capiente e veloce a un prezzo più conveniente: l'unità Lexar da 1TB è tra le offerte Amazon del momento. Approfitta subito dello sconto Amazon per portartelo a casa a 152…",
@@ -120,78 +174,6 @@
       "publishedAt": "2026-07-20T14:46:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Pixel Watch 4 ai minimi da mesi su Amazon: lo sconto che aspettavi è tornato",
-      "link": "https://www.tomshw.it/smartphone/google-pixel-watch-4-in-offerta-a-soli-369eur-su-amazon-2026-07-20",
-      "excerpt": "Su Amazon è disponibile un'ottima offerta sul Google Pixel Watch 4 (41 mm), lo smartwatch Android dotato di tracker per fitness e benessere e assistente virtuale Gemini. Grazie al…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102230/google-pixel-watch-4-in-offerta-a-soli-369eur-su-amazon-2026-0797lk5eekrmgo2HkESot.png",
-      "publishedAt": "2026-07-20T14:43:41+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "È per pochi, ma il prezzo di questo iPad Pro oggi è crollato come mai prima d’ora",
-      "link": "https://www.tomshw.it/smartphone/apple-ipad-pro-11-m5-in-offerta-a-soli-1992eur-2026-07-20",
-      "excerpt": "Su Amazon è disponibile l'Apple iPad Pro 11 con chip M5, il tablet più potente della lineup Apple. Dotato di display Ultra Retina XDR con vetro nanotexture, 2TB di archiviazione,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102228/apple-ipad-pro-11-m5-in-offerta-a-soli-1992eur-2026-07-20-FGDwcdmjdpad31c0364FCctX.png",
-      "publishedAt": "2026-07-20T14:41:14+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Scandalo TSMC, ex-dirigente accusato: spionaggio per la Cina",
-      "link": "https://www.tomshw.it/hardware/tsmc-ex-dirigente-incriminato-avrebbe-copiato-21-documenti-per-la-cina",
-      "excerpt": "Ventuno documenti interni di TSMC, alcuni contenenti tecnologie classificate come critiche per la sicurezza nazionale di Taiwan, sarebbero stati copiati senza autorizzazione da un…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101414/https-3A-2F-2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2-s3-ap-northeast-1-amazonaws-com-2Fimages-2F2-2F9-2F3-2F8-2F12808392-1-eng-GB-2F0492a8200f30-ab.avif",
-      "publishedAt": "2026-07-20T14:39:07+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Affare gigante: TCL 85” 2026 al prezzo più basso di sempre su Amazon",
-      "link": "https://www.tomshw.it/hardware/tcl-tv-85-q7d-pro-in-offerta-a-soli-1800eur-su-amazon-2026-07-20",
-      "excerpt": "Su Amazon è disponibile il TCL TV 85Q7D PRO, un televisore da 85 pollici con tecnologia SQD-Mini LED che offre un'esperienza visiva straordinaria. Dotato di pannello 4K HDR con…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102227/tcl-tv-85-q7d-pro-in-offerta-a-soli-1800eur-su-amazon-2026-07-28fuc9d24hfru0J85f7M.png",
-      "publishedAt": "2026-07-20T14:38:55+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Dalle cuffie Sony ai monitor OLED MSI: i 6 affari migliori dei Summer Sales di PC Componentes",
-      "link": "https://www.tomshw.it/hardware/dalle-cuffie-sony-ai-monitor-oled-msi-i-6-affari-migliori-dei-summer-sales-di-pc-componentes",
-      "excerpt": "Con i Summer Sales, PC Componentes rinnova il proprio catalogo di offerte proponendo sconti importanti su prodotti dedicati a gaming, informatica, smart home e intrattenimento.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102215/Dalle-cuffie-Sony-ai-monitor-OLED-MSI-i-6-affari-migliori-dei-Summer-Sales-di-PC-Componentes.png",
-      "publishedAt": "2026-07-20T14:34:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "HONOR 600: il bundle con Watch 2i in promo a poco più di 450€",
-      "link": "https://www.hdblog.it/smartphone/offerte/n664854/honor-600-bundle-con-watch-2i-in-promo-su-ebay/",
-      "excerpt": "In sconto su eBay il bundle con HONOR 600 5G e Watch 2i. Smartphone e smartwatch a poco più di 450€.",
-      "image": "https://hd2.tudocdn.net/1357695?w=660",
-      "publishedAt": "2026-07-20T14:32:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Recensione Dreame T16 Pro Heat: la lavapavimenti dice stop all’obsolescenza",
-      "link": "https://www.hdblog.it/home/recensioni/n664735/recensione-dreame-t16-pro-heat-modulare-video-test/",
-      "excerpt": "La recensione della Dreame T16 Pro Heat: la lavapavimenti modulare che mette la parola fine all’obsolescenza.",
-      "image": "https://hd2.tudocdn.net/1357699?w=660",
-      "publishedAt": "2026-07-20T14:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Avengers: Doomsday, il primo trailer ufficiale svela Doctor Doom",
-      "link": "https://www.hdblog.it/curiosita/articoli/n664853/avengers-doomsday-primo-trailer/",
-      "excerpt": "Il primo trailer svela Doctor Doom e anticipa lo scontro tra tutti gli eroi Marvel.",
-      "image": "https://hd2.tudocdn.net/1357691?w=660",
-      "publishedAt": "2026-07-20T14:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Troppi prodotti illegali e contraffatti su AliExpress: multa da oltre mezzo miliardo dall'UE",
@@ -212,11 +194,20 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Migliori mouse gaming economici (luglio 2026)",
-      "link": "https://www.tomshw.it/videogioco/migliori-mouse-economici",
-      "excerpt": "Nel PC gaming il mouse resta una delle periferiche più importanti, perché incide direttamente su precisione, comfort e rapidità di esecuzione. Sceglierne uno valido non è sempre…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/90253/migliori-mouse-gaming-economici-copertina.jpg",
-      "publishedAt": "2026-07-20T11:24:40+00:00",
+      "title": "Migliori tastiere gaming sotto 100€ (luglio 2026)",
+      "link": "https://www.tomshw.it/videogioco/tastiere-gaming-100",
+      "excerpt": "Se giocate su PC con una certa regolarità, la tastiera non è un accessorio secondario: incide su precisione, comfort e rapidità tanto quanto il mouse. Per questo, in questa guida…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/90287/migliori-tastiere-gaming-sotto-100-euro-copertina.jpg",
+      "publishedAt": "2026-07-20T11:34:15+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori TV per PlayStation 5 (luglio 2026)",
+      "link": "https://www.tomshw.it/videogioco/Migliori-TV-PS5",
+      "excerpt": "Scegliere una TV per PlayStation 5 nel 2026 significa partire da come giocate davvero, non dalla sigla più vistosa sulla confezione. Per sfruttare bene la console contano…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/90265/migliori-tv-ps5-copertina.jpg",
+      "publishedAt": "2026-07-20T11:27:25+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -237,15 +228,6 @@
       "publishedAt": "2026-07-20T10:16:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Kimi rilancia la sfida USA-China in tema AI, ma l'Europa non può restare al margine",
-      "link": "https://www.tomshw.it/business/kimi-riapre-la-guerra-fredda-dellai-e-leuropa-resta-a-guardare",
-      "excerpt": "Il 18 luglio TechCrunch ha pubblicato un pezzo dal titolo secco, Kimi: Threat or menace?, che fotografa bene il nervosismo di questi giorni a Washington. Il nuovo centro del…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102103/08v2-competizione-cover.jpg",
-      "publishedAt": "2026-07-20T09:41:01+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Osservaprezzi Carburanti: arriva l'app ministeriale gratuita per confrontare i prezzi",
@@ -273,6 +255,24 @@
       "publishedAt": "2026-07-20T08:25:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
+    },
+    {
+      "title": "Gli hacker AI si fanno hackerare dai bersagli che dovrebbero colpire",
+      "link": "https://www.tomshw.it/business/gli-hacker-ai-si-fanno-hackerare-dai-bersagli-che-dovrebbero-colpire",
+      "excerpt": "Un agente AI lanciato contro un server per cercarne le falle riceve una risposta HTTP con dentro un testo di poche righe. È una frase scritta apposta per un lettore automatico,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102104/09v3-promptinjection-cover.jpg",
+      "publishedAt": "2026-07-20T08:20:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La Cina produce memoria come Micron, le sanzioni USA non hanno funzionato",
+      "link": "https://www.tomshw.it/business/la-cina-produce-memoria-come-micron-le-sanzioni-usa-non-hanno-funzionato",
+      "excerpt": "Il produttore cinese di memoria CXMT è passato da 40.000 a 720.000 wafer trimestrali in pochi anni, e secondo un report di Citrini Research…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102105/10-cxmt-cover.jpg",
+      "publishedAt": "2026-07-20T08:10:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     }
   ]
 }
