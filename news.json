@@ -1,159 +1,195 @@
 {
-  "generatedAt": "2026-07-21T08:11:54.266010+00:00",
+  "generatedAt": "2026-07-21T11:42:48.333933+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Console troppo costose? Si, tutta colpa dell'IA",
-      "link": "https://www.tomshw.it/hardware/console-da-1-000-dollari-peter-moore-e-shawn-layden-temono-l",
-      "excerpt": "Una console da 1.000 dollari potrebbe diventare una prospettiva concreta se la domanda dell’industria dell’intelligenza artificiale continuerà ad assorbire chip e capacità…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102318/news-flash-585909.png",
-      "publishedAt": "2026-07-21T08:05:42+00:00",
+      "title": "Garmin sta per lanciare CIRQA, un fitness tracker relativamente economico",
+      "link": "https://www.hdblog.it/indossabili/articoli/n664968/garmin-cirqa-fitness-tracker-specifiche-immagini/",
+      "excerpt": "Design super minimal e sensore \"last-gen\" per contenere i costi",
+      "image": "https://hd2.tudocdn.net/1357935?w=660",
+      "publishedAt": "2026-07-21T11:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Waterdrop M6HG: sistema a osmosi inversa da appoggio con acqua calda, mineralizzazione e caraffa rimovibile",
+      "link": "https://www.hdblog.it/tecnologia/recensioni/n664157/waterdrop-m6hg-il-sistema-a-osmosi-inversa/",
+      "excerpt": "Filtrazione a 8 stadi, acqua calda istantanea e una caraffa in vetro removibile: il Waterdrop M6HG propone un’alternativa ai classici impianti sottolavello per chi cerca una…",
+      "image": "https://hd2.tudocdn.net/1356318?w=660",
+      "publishedAt": "2026-07-21T11:31:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La Smart #2 su strada per i test: manca poco al debutto",
+      "link": "https://www.hdmotori.it/smart-2-test-debutto/",
+      "excerpt": "Si avvicina il lancio della nuova Smart #2, erede dell’iconica ForTwo. Verrà svelata, dopo gli ultimi test, al Salone di Parigi.",
+      "image": "https://hd2.tudocdn.net/1357950?w=660",
+      "publishedAt": "2026-07-21T11:30:19+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Android 17 Beta arriva su 5 Motorola: come iscriversi",
+      "link": "https://www.tomshw.it/smartphone/motorola-avvia-android-17-beta-su-cinque-smartphone-come-candidarsi",
+      "excerpt": "Motorola ha iniziato a distribuire Android 17 Beta a un gruppo selezionato di utenti delle famiglie Signature, Razr ed Edge. La build arriva dopo l’apertura delle candidature nel…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102381/news-flash-586565.png",
+      "publishedAt": "2026-07-21T11:28:52+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Le due grandi novità di Apple A20 Pro, il chip di iPhone 18 Pro / Max / Ultra",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664925/iphone-18-pro-max-ultra-apple-a20-chip-novita/",
-      "excerpt": "Un nuovo nodo produttivo e un'innovativa tecnica di packaging dovrebbero garantire passi avanti notevoli dal punto di vista di prestazioni, consumi e temperature.",
-      "image": "https://hd2.tudocdn.net/1349341?w=660",
-      "publishedAt": "2026-07-21T08:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "WhatsApp abbraccia Liquid Glass anche su Mac, nuova UI per la versione macOS",
-      "link": "https://www.hdblog.it/apple/articoli/n664918/whatsapp-liquid-glass-mac-nuova-ui-macos/",
-      "excerpt": "Nuovo restyling per l'applicazione di WhatsApp su macOS, arriva Liquid Glass con elementi traslucidi e un'interfaccia più intuitiva.",
-      "image": "https://hd2.tudocdn.net/1357794?w=660",
-      "publishedAt": "2026-07-21T08:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "TIMVISION lancia un'offerta da non perdere: DAZN e Prime a 19,99€ per 3 mesi",
-      "link": "https://www.tomshw.it/altro/timvision-lancia-unofferta-da-non-perdere-dazn-e-prime-a-1999eur-per-3-mesi",
-      "excerpt": "Se siete alla ricerca di un abbonamento che racchiuda in un'unica soluzione il meglio dello sport e dell'intrattenimento, la nuova promozione TIMVISION è una delle occasioni più…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102316/TIMVISION-lancia-un'offerta-da-non-perdere-DAZN-e-Prime-a-19,99€-per-3-mesi.png",
-      "publishedAt": "2026-07-21T07:59:12+00:00",
+      "title": "Phishing adattivo: nuove minacce in arrivo nel 2026",
+      "link": "https://www.tomshw.it/altro/phishing-adattivo-riconosce-il-tuo-sistema-e-cambia-l-attacco-in-tempo",
+      "excerpt": "Una pagina di phishing capace di riconoscere il sistema operativo della vittima modifica in tempo reale il percorso dell’attacco, mostrando passaggi coerenti con il dispositivo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102378/news-flash-586559.png",
+      "publishedAt": "2026-07-21T11:27:26+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Il mouse gaming che raffredda la mano firmato Noctua e Pulsar",
-      "link": "https://www.tomshw.it/hardware/pulsar-e-noctua-lanciano-il-mouse-gaming-che-raffredda-il-palmo",
-      "excerpt": "Una ventola da 40 mm inserita sotto la scocca dirige aria verso il palmo mentre si gioca: è la caratteristica centrale del Pulsar Feinmann F01 Noctua Edition, mouse gaming…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102307/20_pulsar_feinmann_f01_noctua_edition.webp",
-      "publishedAt": "2026-07-21T07:55:21+00:00",
+      "title": "Garmin Fenix 8, Enduro 3 e Quatix 8, c'è un nuovo aggiornamento beta",
+      "link": "https://www.hdblog.it/indossabili/articoli/n664966/garmin-fenix-8-enduro-3-quatix-beta-novita/",
+      "excerpt": "Gli smartwatch Garmin Fenix 8, Enduro 3, Fenix E e Quatix 8 ricevono la beta 23.15 con miglioramenti alla stabilità, nuove traduzioni e una scorciatoia della torcia aggiornata",
+      "image": "https://hd2.tudocdn.net/1284760?w=660",
+      "publishedAt": "2026-07-21T11:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "I 5 robot aspirapolvere con il braccio estensibile più lungo sono in offerta su Amazon",
+      "link": "https://www.tomshw.it/altro/i-5-robot-aspirapolvere-con-il-braccio-estensibile-piu-lungo-sono-in-offerta-su-amazon",
+      "excerpt": "I robot aspirapolvere di ultima generazione stanno diventando sempre più evoluti, con funzioni pensate per migliorare la pulizia anche negli angoli più difficili da raggiungere.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102376/I-5-robot-aspirapolvere-con-il-braccio-estensibile-più-lungo-sono-in-offerta-su-Amazon.png",
+      "publishedAt": "2026-07-21T11:20:06+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Dal Giappone arriva il frigo per umani: ti raffredda in 5 minuti",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n664914/frigorifero-persone-giappone/",
-      "excerpt": "Una cabina refrigerante giapponese raffredda il corpo in pochi minuti contro il caldo estremo.",
-      "image": "https://hd2.tudocdn.net/1357784?w=660",
-      "publishedAt": "2026-07-21T07:50:00+00:00",
+      "title": "Linux 7.2, arriva la quarta RC con fix per diversi handheld gaming",
+      "link": "https://www.hdblog.it/games/articoli/n664963/linux-7-2-kernel-rc4-novita-bug-fix-feature/",
+      "excerpt": "La maggior parte delle correzioni è da qualche riga di codice appena.",
+      "image": "https://hd2.tudocdn.net/1269408?w=660",
+      "publishedAt": "2026-07-21T11:15:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Samsung Galaxy Card ufficiale: la sfida ad Apple Card parte dagli USA",
-      "link": "https://www.hdblog.it/samsung/articoli/n664919/carta-di-credito-samsung-galaxy/",
-      "excerpt": "La nuova Samsung Galaxy Card sarà disponibile dal 22 luglio negli Stati Uniti, in concomitanza con il Galaxy Unpacked. L'obiettivo è accompagnare il lancio dei nuovi Galaxy Z…",
-      "image": "https://hd2.tudocdn.net/1357780?w=660",
-      "publishedAt": "2026-07-21T07:45:00+00:00",
+      "title": "Drone da guerra turco colpisce da oltre 120 km con un missile supersonico",
+      "link": "https://www.hdblog.it/droni/articoli/n664900/kizilelma-missile-jet-230-test/",
+      "excerpt": "KIZILELMA colpisce oltre 120 km con il missile supersonico JET-230.",
+      "image": "https://hd2.tudocdn.net/1357759?w=660",
+      "publishedAt": "2026-07-21T11:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Beast of Reincarnation durerà 30-40 ore, senza un vero open world",
-      "link": "https://www.tomshw.it/videogioco/beast-of-reincarnation-durera-30-40-ore-senza-un-vero-open-world",
-      "excerpt": "Beast of Reincarnation dovrebbe richiedere circa 30-40 ore per una partita completa affrontata in modo regolare. La stima è stata comunicata dall'editore Fictions durante una…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102311/beast-of-reincarnation-promet-une-aventure-relativement-longue-795e54a9__w1920.jpg",
-      "publishedAt": "2026-07-21T07:43:54+00:00",
+      "title": "Gaming multipiattaforma a 38,12€: Razer BlackShark V2 X al 52%",
+      "link": "https://www.tomshw.it/offerte/gaming-multipiattaforma-a-3812eur-razer-blackshark-v2-x-al-52",
+      "excerpt": "Le Razer BlackShark V2 X costano 38,12€ su Amazon, anziché 79,99€, grazie a uno sconto del 52%. Il jack da 3,5 mm, il peso contenuto e i driver TriForce le rendono adatte a una…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102374/tomshw-offer-586475.png",
+      "publishedAt": "2026-07-21T11:03:44+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Google rilascia Android 17 QPR2 Beta 1 sui Pixel compatibili: corretti molti bug",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664916/google-rilascia-android-17-qpr2-beta-1/",
-      "excerpt": "Le novità riguardano soprattutto la correzione di una serie di problemi emersi nelle versioni precedenti.",
-      "image": "https://hd2.tudocdn.net/1352001?w=660",
-      "publishedAt": "2026-07-21T07:40:00+00:00",
+      "title": "Mercedes-Maybach rinnova il GLS, il mondo del lusso ha un nuovo titano da venerare",
+      "link": "https://www.hdmotori.it/mercedes-maybach-gls/",
+      "excerpt": "Debutta il nuovo Mercedes-Maybach GLS 680: più lusso, più tecnologia, V8 elettrificato e sospensioni evolute per un comfort di riferimento",
+      "image": "https://hd2.tudocdn.net/1357924?w=660",
+      "publishedAt": "2026-07-21T11:00:13+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Reattore Hualong One supera il test di criticità: presto produrrà elettricità",
-      "link": "https://www.hdblog.it/green/articoli/n664913/cina-reattore-nucleare-hualong-one/",
-      "excerpt": "Il nuovo reattore Hualong One supera la criticità e si avvicina all'entrata in servizio.",
-      "image": "https://hd2.tudocdn.net/1357776?w=660",
-      "publishedAt": "2026-07-21T07:35:00+00:00",
+      "title": "ASUS ProArt si dà al networking: ecco il primo router e il primo switch",
+      "link": "https://www.hdblog.it/hardware/articoli/n664962/asus-proart-router-switch-networking-grafica/",
+      "excerpt": "Prestazioni elevate e priorità ad applicazioni e traffico di tipo professionale.",
+      "image": "https://hd2.tudocdn.net/1357909?w=660",
+      "publishedAt": "2026-07-21T10:55:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Guidi bene? Ora ti ricompensano: come risparmiare 200 euro sull'RC Auto",
-      "link": "https://www.hdmotori.it/guidi-bene-risparmiare-rc-auto/",
-      "excerpt": "Con la scatola nera e le polizze connesse, lo stile di guida riduce il premio mensile. Come funziona l'algoritmo che ti fa pagare meno l'assicurazione.",
-      "image": "https://hd2.tudocdn.net/1357789?w=660",
-      "publishedAt": "2026-07-21T07:30:29+00:00",
+      "title": "Un rasoio elettrico economico, ma performante? Ci pensa Xiaomi",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n664931/rasoio-elettrico-xiaomi-shaver-ipx7/",
+      "excerpt": "Xiaomi lancia un rasoio elettrico da 30 euro con potenza adattiva, autonomia fino a 90 giorni, ricarica USB-C e resistenza all'acqua IPX7",
+      "image": "https://hd2.tudocdn.net/1357817?w=660",
+      "publishedAt": "2026-07-21T10:45:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Kodak EC35, tutto sulla macchina fotografica vintage di Reto",
-      "link": "https://www.hdblog.it/curiosita/articoli/n664865/kodak-ec35-nuova-macchina-fotografica-reto/",
-      "excerpt": "...che piace ai giovani",
-      "image": "https://hd2.tudocdn.net/1357728?w=660",
-      "publishedAt": "2026-07-21T07:25:00+00:00",
+      "title": "NASA studia il meteorite Hillsborough: nuove prove sull'acqua negli asteroidi",
+      "link": "https://www.hdblog.it/curiosita/articoli/n664907/meteorite-hillsborough-origine-vita/",
+      "excerpt": "Il meteorite Hillsborough rivela antiche salamoie e molecole organiche che aiutano a ricostruire l'origine della vita.",
+      "image": "https://hd2.tudocdn.net/1040168?w=660",
+      "publishedAt": "2026-07-21T10:35:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Guerra senza soldati : primo assalto anfibio con due robot coordinati in Ucraina",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n664905/ucraina-drone-navale-robot-terrestre/",
-      "excerpt": "L'Ucraina usa un drone navale per sbarcare un robot armato: è una prima mondiale.",
-      "image": "https://hd2.tudocdn.net/1357764?w=660",
-      "publishedAt": "2026-07-21T07:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "WhatsApp inizia a pubblicizzare gli username su App Store e Google Play",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664911/whatsapp-username-app-store-ios-android/",
-      "excerpt": "WhatsApp ha iniziato a dare visibilità alla funzione su App Store e Google Play.",
-      "image": "https://hd2.tudocdn.net/1357769?w=660",
-      "publishedAt": "2026-07-21T06:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Migliori lavastoviglie (luglio 2026)",
-      "link": "https://www.tomshw.it/offerte/migliori-lavastoviglie",
-      "excerpt": "Non sempre si ha il tempo, la voglia o lo spazio mentale per lavare le stoviglie a mano. Una buona lavastoviglie, però, non è soltanto una scorciatoia per liberare il lavello: è…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/86837/migliori-lavastoviglie-copertina.jpg",
-      "publishedAt": "2026-07-21T06:16:20+00:00",
+      "title": "Marvel Tōkon: Fighting Souls, lancio il 6 agosto solo su PS5 e PC",
+      "link": "https://www.tomshw.it/videogioco/marvel-tokon-fighting-souls-lancio-il-6-agosto-solo-su-ps5-e",
+      "excerpt": "Marvel Tōkon: Fighting Souls sarà disponibile dal 6 agosto 2026 su PlayStation 5 e PC. Il perimetro del lancio è definito: le comunicazioni ufficiali indicano queste due…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102370/0d83e0175f979a2356ea38106bc8c8a6c209a935.jpg",
+      "publishedAt": "2026-07-21T10:30:01+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Perlegear rende la TV più flessibile: il supporto girevole ora costa meno",
-      "link": "https://www.tomshw.it/hardware/perlegear-supporto-tv-girevole-a-22-euro-2026-07-21",
-      "excerpt": "Perlegear supporto TV girevole è un piedistallo universale da tavolo regolabile per televisori da 26 a 60 pollici ora disponibile a 21,99€, con uno sconto del 27% rispetto al…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101755/perlegear-supporto-tv-girevole-a-22-euro-2026-07-17-STdOP6svh8qrtvramus1WMH9df.png",
-      "publishedAt": "2026-07-21T05:08:54+00:00",
+      "title": "I prezzi di gasolio e benzina sono saliti ancora, scende il GPL. Quali sono le Regioni più care",
+      "link": "https://images.dday.it/uU3-Y2FgjeM1fMODDUgRoEJJ_mpXLgb4H7Q9cQHlwDo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58120/bfdabf_fuel_thumb.jpg",
+      "excerpt": "La Provincia di Bolzano svetta per prezzi medi sia per gasolio sia per benzina... Leggi tutto",
+      "image": "https://images.dday.it/uU3-Y2FgjeM1fMODDUgRoEJJ_mpXLgb4H7Q9cQHlwDo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58120/bfdabf_fuel_thumb.jpg",
+      "publishedAt": "2026-07-21T10:26:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Xiaomi Mijia 621L arriva in Europa: il frigo smart si controlla via app",
+      "link": "https://www.tomshw.it/altro/xiaomi-mijia-621l-arriva-in-europa-il-frigo-smart-si-controlla-via",
+      "excerpt": "Una capacità complessiva di 621 litri e il controllo remoto tramite smartphone segnano l’ingresso del Xiaomi Mijia Refrigerator Side-by-Side 621L nel mercato europeo. Il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102368/news-flash-586381.png",
+      "publishedAt": "2026-07-21T10:21:05+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Sony WH-CH720N a 65€: cuffie ANC leggere con il 27% di sconto",
-      "link": "https://www.tomshw.it/hardware/sony-wh-ch720n-a-65-euro-cuffie-noise-cancelling-2026-07-21",
-      "excerpt": "Sony WH-CH720N è un paio di cuffie wireless over-ear leggere con cancellazione del rumore ora disponibile a 64,99€, con uno sconto del 27% rispetto al prezzo di riferimento di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100717/sony-wh-ch720n-a-65-euro-noise-cancelling-2026-07-13-G4n2XXDukuqhplfg6apczqxbSn.png",
-      "publishedAt": "2026-07-21T05:08:42+00:00",
+      "title": "Samsung Display inizia la produzione di schermi OLED per portatili da 1600 nit",
+      "link": "https://images.dday.it/uLB1hvKqQpjJxbQzYROJWkCqXT8V9JOTnLyXO0wENYA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58119/d84e62__zngNYSluH_20260720090533.jpg",
+      "excerpt": "Samsung Display fornirà nuovi display tandem OLED per notebook compatibili con la nuova certificazione VESA DisplayHDR True Black 1400 a produttori come ASUS, Dell, Lenovo e…",
+      "image": "https://images.dday.it/uLB1hvKqQpjJxbQzYROJWkCqXT8V9JOTnLyXO0wENYA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58119/d84e62__zngNYSluH_20260720090533.jpg",
+      "publishedAt": "2026-07-21T09:03:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Un giudice si schiera contro l’acquisizione di Warner Bros. Discovery da parte di Paramount",
+      "link": "https://images.dday.it/Pk8Gf5gEmiKAiyo-rd8IU7Fm4qrmK1azDPSIAgWFgJk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58117/67b4c4_Depositphotos_857118046_XL.jpg",
+      "excerpt": "La sospensione di 14 giorni è dovuta all’istanza presentata da 12 stati americani ad un tribunale della California per i rischi sulla concorrenza nel mercato della distribuzione…",
+      "image": "https://images.dday.it/Pk8Gf5gEmiKAiyo-rd8IU7Fm4qrmK1azDPSIAgWFgJk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58117/67b4c4_Depositphotos_857118046_XL.jpg",
+      "publishedAt": "2026-07-21T08:30:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Anche Samsung farà robot. E negli Stati Uniti debutta la sua prima carta di credito",
+      "link": "https://images.dday.it/okY5xXz7_qtl4WG7kHv0T8IwZxslK73BqwKKdxMgqV0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58118/c68d35_Depositphotos_701000662_XL.jpg",
+      "excerpt": "La nuova unità RX risponderà direttamente all’amministratore delegato e guiderà lo sviluppo dei robot umanoidi, inizialmente destinati alle fabbriche. Negli Stati Uniti debutta…",
+      "image": "https://images.dday.it/okY5xXz7_qtl4WG7kHv0T8IwZxslK73BqwKKdxMgqV0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58118/c68d35_Depositphotos_701000662_XL.jpg",
+      "publishedAt": "2026-07-21T08:18:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Migliori cloud storage (luglio 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-cloud-storage",
+      "excerpt": "Scegliere un cloud storage nel 2026 non significa soltanto comprare qualche gigabyte online. La scelta incide su come proteggete foto, documenti, progetti di lavoro, backup dei…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/86865/migliori-cloud-storage-copertina.jpg",
+      "publishedAt": "2026-07-21T06:24:32+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -176,6 +212,15 @@
       "sourceColor": "#E63946"
     },
     {
+      "title": "Detriti spaziali: il pericolo invisibile che orbita sopra le nostre teste nel nuovo Tech IT Easy",
+      "link": "https://www.tomshw.it/scienze/detriti-spaziali-il-pericolo-invisibile-che-orbita-sopra-le-nostre-teste-nel-nuovo-tech-it-easy",
+      "excerpt": "Ogni giorno sopra le nostre teste orbitano decine di migliaia di oggetti artificiali. Solo una piccola parte è costituita da satelliti ancora operativi. Tutto il resto è composto…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/86007/Copertina-generica-x-articoli-(1).png",
+      "publishedAt": "2026-07-20T15:46:15+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "Monopattino elettrico da 500W con 35 km di autonomia e penumatici da 8,5\" a meno di 189 euro",
       "link": "https://images.dday.it/HpGgShu9ocZkG_cyYg2ilsMNnFhvqQEo7Bx1uM4zPYg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58115/582fe6_7103TeaEMeL._AC_SL1500_.jpg",
       "excerpt": "Se vuoi acquistare un monopattino elettrico spendendo meno di 189 euro, questa offerta Amazon fa il caso tuo. Approfittane subito...... Leggi tutto",
@@ -183,6 +228,15 @@
       "publishedAt": "2026-07-20T15:38:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
+    },
+    {
+      "title": "Chat Control: una nuova forma di controllo o uno strumento necessario di tutela?",
+      "link": "https://www.tomshw.it/business/chat-control-una-nuova-forma-di-controllo-o-uno-strumento-necessario-di-tutela",
+      "excerpt": "Avv. Giuseppe Croari - Avv. Ilenia Lanari Con il progressivo passaggio di Internet da tecnologia sviluppata in ambito militare ad infrastruttura aperta ed accessibile a tutti, gli…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102232/chatcontrol-cover.jpg",
+      "publishedAt": "2026-07-20T15:10:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Il robot italiano con pelle multisensoriale. Generative Bionics presenta Gene.01, lo userà anche Fincantieri",
@@ -212,64 +266,10 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Il \"suono\" della Bentley Torcal? Registrato con batteria, viola e basso allo stesso \"ritmo\" di un motore V8",
-      "link": "https://images.dday.it/4IsdsPb4jGEyunDVOdI-zmn10pW0OmskRVbC_os_Q20/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58112/af5c1d_bentley_thumb.jpg",
-      "excerpt": "Il nuovo modello elettrico non proverà a imitare artificialmente il rumore di un motore: batteria, viola e basso tradurranno invece in musica il ritmo e il coinvolgimento dei V8…",
-      "image": "https://images.dday.it/4IsdsPb4jGEyunDVOdI-zmn10pW0OmskRVbC_os_Q20/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58112/af5c1d_bentley_thumb.jpg",
-      "publishedAt": "2026-07-20T13:30:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "La sonda della NASA Psyche \"sfiora\" Marte: l'incredibile passaggio ripreso in video",
-      "link": "https://images.dday.it/sOX5Tg0ZDtVuK0qKFdkLiv3eHDvkKLI1SxxlD5IIocU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58111/abab11_psyche_marte.png",
-      "excerpt": "Il passaggio ravvicinato ha permesso alla missione NASA di sfruttare la gravità del pianeta, correggere la traiettoria e verificare fotocamere, magnetometro e spettrometro in…",
-      "image": "https://images.dday.it/sOX5Tg0ZDtVuK0qKFdkLiv3eHDvkKLI1SxxlD5IIocU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58111/abab11_psyche_marte.png",
-      "publishedAt": "2026-07-20T10:28:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Amazon abbassa i prezzi delle lavatrici: ecco le offerte dei migliori marchi",
-      "link": "https://images.dday.it/ZyTygWOgD5NlhgnU_qc9Jvx7qI0vbAtAY-KhnNk-MrU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58110/b30a25_81TssTC1ogL._AC_SL1500_.jpg",
-      "excerpt": "Dalle lavatrici compatte ai modelli con ampia capacità di carico, Amazon sconta lavatrici e lavasciuga. Abbiamo raccolto le offerte più interessanti del momento per aiutarti a…",
-      "image": "https://images.dday.it/ZyTygWOgD5NlhgnU_qc9Jvx7qI0vbAtAY-KhnNk-MrU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58110/b30a25_81TssTC1ogL._AC_SL1500_.jpg",
-      "publishedAt": "2026-07-20T10:16:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "L'evoluzione del printing nell'era dell'AI e del lavoro ibrido: a tu per tu con HP",
-      "link": "https://www.tomshw.it/altro/levoluzione-del-printing-nellera-dellai-e-del-lavoro-ibrido-a-tu-per-tu-con-hp",
-      "excerpt": "L'intelligenza artificiale e il consolidamento del lavoro ibrido stanno ridefinendo profondamente le dinamiche degli uffici moderni, trasformando anche strumenti storicamente…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100311/HP-LaserJet-Pro-4100-Lifestyle-1.jpg",
-      "publishedAt": "2026-07-20T09:37:02+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Osservaprezzi Carburanti: arriva l'app ministeriale gratuita per confrontare i prezzi",
-      "link": "https://images.dday.it/IDGZHd6-8tIKLGNYJdxjlGcyE5NS5zS7kTHhWgRh0LY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58109/433565_carburante_thumb.jpg",
-      "excerpt": "Sarà disponibile da oggi pomeriggio su iOS e Android. Consentirà di trovare i distributori più vicini e individuare quelli più convenienti... Leggi tutto",
-      "image": "https://images.dday.it/IDGZHd6-8tIKLGNYJdxjlGcyE5NS5zS7kTHhWgRh0LY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58109/433565_carburante_thumb.jpg",
-      "publishedAt": "2026-07-20T09:02:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Anthropic detta le regole di sicurezza per gli agenti che vende",
-      "link": "https://www.tomshw.it/business/anthropic-detta-le-regole-di-sicurezza-per-gli-agenti-che-vende",
-      "excerpt": "Jason Clinton, Deputy CISO di Anthropic, ha pubblicato il 17 luglio un post intitolato Zero risk isn't the job: a CISO's guide to agentic AI. La tesi centrale: il rischio zero…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102107/12-ciso-cover.jpg",
-      "publishedAt": "2026-07-20T08:15:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "I modelli open pareggiano la sicurezza dei big, e costano 50 volte meno",
-      "link": "https://www.tomshw.it/business/i-modelli-open-pareggiano-la-sicurezza-dei-big-e-costano-50-volte-meno",
-      "excerpt": "Il Decoder ha riportato di recente la prima misurazione pubblica e strutturata del divario tra modelli open-weight e modelli proprietari di frontiera sulle capacità cyber,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102109/07v4-openweight-cover.jpg",
+      "title": "Databricks vale 188 miliardi, ma il vero risparmio si nasconde nell'harness",
+      "link": "https://www.tomshw.it/business/databricks-vale-188-miliardi-ma-il-vero-risparmio-si-nasconde-nellharness",
+      "excerpt": "Il numero che fa notizia, e quello che conta davvero Databricks vale 188 miliardi di dollari. Lo riporta TechCrunch, che il 17 luglio ha raccontato il round guidato da Coatue…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102108/14v2-databricks-cover.jpg",
       "publishedAt": "2026-07-20T08:15:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
