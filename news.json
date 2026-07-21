@@ -1,89 +1,197 @@
 {
-  "generatedAt": "2026-07-21T13:21:32.828898+00:00",
+  "generatedAt": "2026-07-21T15:29:07.946175+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Galaxy S26 Ultra a 799€, robot Dreame e TV 75\": le migliori offerte del 21 luglio",
-      "link": "https://www.hdblog.it/amazon/offerte/n664980/offerte-tech-21-luglio-2026-amazon-mediaworld/",
-      "excerpt": "Smartphone Samsung con supervalutazione usato, monitor gaming, robot aspirapolvere, TV 75\" e accessori tech: le migliori offerte di oggi su Amazon e MediaWorld.",
-      "image": "https://hd2.tudocdn.net/1312649?w=660",
-      "publishedAt": "2026-07-21T13:20:00+00:00",
+      "title": "NVIDIA Vera Rubin è in produzione: primi sistemi dall’autunno 2026",
+      "link": "https://www.tomshw.it/hardware/nvidia-vera-rubin-e-in-produzione-primi-sistemi-dall-autunno-2026",
+      "excerpt": "NVIDIA Vera Rubin è entrata ufficialmente nella produzione su larga scala. La nuova piattaforma per data center AI viene assemblata attraverso una rete industriale distribuita a…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102358/news-flash-586295.png",
+      "publishedAt": "2026-07-21T15:27:12+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Anthropic, risarcimento record ai titolari di copyright per il training dell'AI",
+      "link": "https://www.hdblog.it/mercato/articoli/n665003/anthropic-class-action-patteggiamento-causa-chiusa/",
+      "excerpt": "1,5 miliardi di dollari ai titolari dei diritti. Ma è un po' una vittoria di Pirro.",
+      "image": "https://hd2.tudocdn.net/1346490?w=660",
+      "publishedAt": "2026-07-21T15:25:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Game Pass, ecco Halo dal 28 luglio e i nuovi titoli",
-      "link": "https://www.tomshw.it/videogioco/xbox-game-pass-halo-il-28-luglio-beast-of-reincarnation-il-4",
-      "excerpt": "Due debutti al day one guideranno il prossimo aggiornamento di Xbox Game Pass: Halo: Campaign Evolved entrerà nel catalogo il 28 luglio, mentre Beast of Reincarnation seguirà il 4…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102425/XGP_ComingSoon210726_16x9_FBXTH_N_CW90_GBL_MGP_N_N_1_EN-US-21bddc2f5d07b1fa536d.jpg",
-      "publishedAt": "2026-07-21T13:18:49+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Aspirapolvere Roborock H60 in crollo a soli 99 euro: con tubo pieghevole e 27.000Pa di potenza",
-      "link": "https://www.hdblog.it/amazon/offerte/n664984/aspirapolvere-roborock-h60-tubo-pieghevole-sconto-2/",
-      "excerpt": "La scopa elettrica è l'affare irripetibile del giorno.",
-      "image": "https://hd2.tudocdn.net/1357966?w=660",
-      "publishedAt": "2026-07-21T13:17:00+00:00",
+      "title": "Garmin lancia CIRQA: la nuova smart band senza display | Prezzo e caratteristiche",
+      "link": "https://www.hdblog.it/indossabili/articoli/n665000/garmin-cirqa-ufficiale-prezzo-caratteristiche/",
+      "excerpt": "Nessun abbonamento richiesto per sfruttare le funzionalità.",
+      "image": "https://hd2.tudocdn.net/1357991?w=660",
+      "publishedAt": "2026-07-21T15:15:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Hai Gemini sul blocco schermo? Un bug mette a rischio i tuoi messaggi",
-      "link": "https://www.hdblog.it/google/articoli/n664976/gemini-invio-whatsapp-senza-password/",
-      "excerpt": "Una vulnerabilità di Gemini su Android permette di inviare SMS e messaggi WhatsApp dalla schermata di blocco senza conoscere il PIN. Google ha confermato il problema e rilascerà…",
-      "image": "https://hd2.tudocdn.net/1242969?w=660",
-      "publishedAt": "2026-07-21T13:15:00+00:00",
+      "title": "PlayStation Plus Extra: 9 giochi via il 18 agosto, da Dead Island 2 a Unicorn Overlord",
+      "link": "https://www.tomshw.it/videogioco/playstation-plus-extra-9-giochi-via-il-18-agosto-da-dead-island",
+      "excerpt": "Unicorn Overlord e Dead Island 2 sono i nomi di maggiore richiamo tra i nove giochi che lasceranno il Catalogo giochi di PlayStation Plus Extra il 18 agosto 2026. La rimozione…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102466/dead-island-2-6-888x500.jpg",
+      "publishedAt": "2026-07-21T15:10:15+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Addio interruttori: ora basta schioccare le dita per accendere le luci",
+      "link": "https://www.hdblog.it/domotica/articoli/n664996/maestro-home-assistant-controllo-gesti/",
+      "excerpt": "Maestro usa Apple Watch e iPhone per controllare la casa con semplici gesti.",
+      "image": "https://hd2.tudocdn.net/1357996?w=660",
+      "publishedAt": "2026-07-21T15:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Unity 7 svela le date: beta a dicembre e debutto nel 2027",
-      "link": "https://www.tomshw.it/videogioco/unity-7-beta-a-dicembre-lancio-completo-nel-primo-trimestre-2027",
-      "excerpt": "Compilazioni degli shader fino al 90% più rapide e accesso quasi immediato al Play Mode sono due degli obiettivi fissati per Unity 7, prossima versione principale dell’Editor e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102423/news-flash-586924.png",
-      "publishedAt": "2026-07-21T13:13:15+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Wreckreation 2 è ufficiale: il sequel correggerà i difetti del primo",
-      "link": "https://www.tomshw.it/videogioco/wreckreation-2-e-ufficiale-il-sequel-correggera-i-difetti-del-primo",
-      "excerpt": "Wreckreation 2 è ufficialmente in sviluppo presso When Tides Turn, il nuovo nome scelto dal gruppo di veterani di Criterion Games e Burnout precedentemente attivo come Three…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102420/wreckreation-2-01.jpg",
-      "publishedAt": "2026-07-21T13:05:53+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Le powerbank fanno sul serio: i modelli più potenti per ricaricare smartphone, laptop e console ovunque",
-      "link": "https://www.tomshw.it/smartphone/le-powerbank-fanno-sul-serio-i-modelli-piu-potenti-per-ricaricare-smartphone-laptop-e-console-ovunque",
-      "excerpt": "Fino a qualche tempo fa, portare con sé una batteria esterna serviva unicamente a evitare che lo smartphone si spegnesse a metà giornata. Le cose sono cambiate radicalmente:…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102405/Le-powerbank-fanno-sul-serio-i-modelli-più-potenti-per-ricaricare-smartphone,-laptop-e-console-ovunque.png",
-      "publishedAt": "2026-07-21T13:04:33+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Tre dispositivi, una presa: Belkin Qi2 al 54% su Amazon",
-      "link": "https://www.tomshw.it/offerte/tre-dispositivi-una-presa-belkin-qi2-al-54-su-amazon",
-      "excerpt": "Con il 54% di sconto, Belkin BoostCharge 3 in 1 costa 59,99€ su Amazon invece di 129,99€, con 70€ di risparmio. Riunisce iPhone o smartphone Qi2, Apple Watch e AirPods su un’unica…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102419/tomshw-offer-586884.png",
-      "publishedAt": "2026-07-21T13:03:07+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Esclusive Xbox, quali giochi sì e quali giochi no? Continua a regnare la confusione",
-      "link": "https://images.dday.it/ZtlLyIJguF5pX0x2yOI5O_XAul8FenDFqEPcDfiy9lk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58123/ccee2e_Depositphotos_437648626_XL.jpg",
-      "excerpt": "Matt Booty e Matthew Ball ammettono che la strategia non è stata sempre comprensibile. In futuro, insieme alla data di uscita, verranno indicate anche tutte le piattaforme…",
-      "image": "https://images.dday.it/ZtlLyIJguF5pX0x2yOI5O_XAul8FenDFqEPcDfiy9lk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58123/ccee2e_Depositphotos_437648626_XL.jpg",
-      "publishedAt": "2026-07-21T13:03:00+00:00",
+      "title": "Amazon taglia il prezzo della Instant Pot Duo Mini 3L: ora costa meno",
+      "link": "https://images.dday.it/Oc7AVs4xqzk6ZAgQQUK7DfNGy0tV9V_Z92d2fE7WLag/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58126/436ee6_81RqwxRtMNL._AC_SL1500_.jpg",
+      "excerpt": "Grazie allo sconto disponibile su Amazon puoi portarti a casa una delle multicooker più apprezzate, ideale per cucinare velocemente risparmiando tempo ed energia... Leggi tutto",
+      "image": "https://images.dday.it/Oc7AVs4xqzk6ZAgQQUK7DfNGy0tV9V_Z92d2fE7WLag/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58126/436ee6_81RqwxRtMNL._AC_SL1500_.jpg",
+      "publishedAt": "2026-07-21T15:04:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
+    },
+    {
+      "title": "Doppio wireless, meno di 40€: HyperX Cloud Jet al minimo",
+      "link": "https://www.tomshw.it/offerte/doppio-wireless-meno-di-40eur-hyperx-cloud-jet-al-minimo",
+      "excerpt": "Le HyperX Cloud Jet costano 39,98€ su Amazon, contro 59,99€ di listino: lo sconto è del 33% e coincide con il minimo storico. La doppia connettività wireless permette di alternare…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102462/tomshw-offer-587324.png",
+      "publishedAt": "2026-07-21T15:02:53+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Simracing, il Logitech G923 crolla a 210€! Oggi costa quanto il vecchio G29",
+      "link": "https://www.tomshw.it/videogioco/logitech-g923-super-sconto-del-45-su-amazon-2026-07-21",
+      "excerpt": "Su Amazon è disponibile un'offerta imperdibile sul Logitech G G923, il volante da corsa con pedali compatibile con Xbox Series X|S, Xbox One e PC. Grazie alla tecnologia TRUEFORCE…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102461/logitech-g923-super-sconto-del-45-su-amazon-2026-07-21-TpvlSAz0mdnv0444fcq2SCFDAI.png",
+      "publishedAt": "2026-07-21T15:01:15+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "SYM Joyride 300, come cambia lo scooter a pedana piatta",
+      "link": "https://www.hdmotori.it/sym-joyride-300-come-cambia-lo-scooter-a-pedana-piatta/",
+      "excerpt": "SYM Joyride 300 si rinnova con un restyling spigoloso, fari Full LED e tanta tecnologia. Scheda tecnica, accessori di serie e il prezzo promo al lancio",
+      "image": "https://hd2.tudocdn.net/1357998?w=660",
+      "publishedAt": "2026-07-21T15:00:04+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Abbiamo trovato la tastiera con lo sconto più folle di oggi",
+      "link": "https://www.tomshw.it/hardware/epomaker-he68-lite-in-offerta-a-soli-42eur-2026-07-21",
+      "excerpt": "Su Amazon è disponibile un'ottima offerta sulla EPOMAKER HE68 Lite, tastiera da gioco compatta al 65% con effetto Hall magnetico, polling a 8.000 Hz e latenza di soli 0,125 ms.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102459/epomaker-he68-lite-in-offerta-a-soli-42eur-2026-07-21-4tyO1kL0mq6a6o981nq6cnAFXo.png",
+      "publishedAt": "2026-07-21T14:56:33+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Realme fa parlare di sé: questo GT ora crolla a soli 345€ ed è un affare da non perdere",
+      "link": "https://www.tomshw.it/smartphone/realme-gt-7t-5g-in-offerta-a-soli-696eur-su-amazon-2026-07-21",
+      "excerpt": "Su Amazon è disponibile il realme GT 7T 5G, uno smartphone di fascia alta dotato di una batteria da 7000 mAh con ricarica rapida a 120W, processore Dimensity 8400-MAX e fotocamera…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102458/realme-gt-7t-5g-in-offerta-a-soli-696eur-su-amazon-2026-07-21-Xgld0ssvt35i74wSKa7n.jpg",
+      "publishedAt": "2026-07-21T14:54:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Recensione Oppo Reno16 FS, tanta sostanza e un focus sulla creatività",
+      "link": "https://www.tomshw.it/smartphone/oppo-reno16-fs-la-recensione-completa",
+      "excerpt": "Nel panorama sempre più affollato degli smartphone di fascia medio-alta, Oppo prova a distinguersi puntando su tre elementi che di solito non convivono in questa categoria di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102440/IMG_1536.jpg",
+      "publishedAt": "2026-07-21T14:53:31+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Apple, anche iPhone 18 costerà di più: aumento del 10%",
+      "link": "https://www.tomshw.it/smartphone/iphone-18-i-chip-potrebbero-costare-fino-al-10-in-piu-dal",
+      "excerpt": "I chip destinati alla futura generazione Apple iPhone 18 potrebbero costare di più a partire dal 2027. TSMC avrebbe discusso con i propri clienti un aumento dei prezzi base…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102445/news-flash-587239.png",
+      "publishedAt": "2026-07-21T14:41:16+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Black Flag Resynced: il New Game Plus è già in arrivo",
+      "link": "https://www.tomshw.it/videogioco/assassin-s-creed-black-flag-resynced-new-game-plus-gia-in-lavorazione",
+      "excerpt": "Il New Game Plus è già in lavorazione per Assassin's Creed Black Flag Resynced ed è una delle priorità individuate dal team dopo il lancio del 9 luglio. Il game director Richard…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102443/fgeart_hezz-1200.webp",
+      "publishedAt": "2026-07-21T14:40:06+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Recensione Acer Predator Helios Neo 16S AI, l'equilibrio è il suo punto di forza | Video",
+      "link": "https://www.hdblog.it/portatili/recensioni/n664549/acer-predator-helios-neo-16s-ai-test-prova-prezzo/",
+      "excerpt": "Abbiamo provato l'Acer Predator Helios Neo 16s AI in versione 2026, gaming sì, ma con un occhio a portabilità e design",
+      "image": "https://hd2.tudocdn.net/1357206?w=660",
+      "publishedAt": "2026-07-21T14:31:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Fiat Argo X, la Grande Panda brasiliana senza i motori europei",
+      "link": "https://www.hdmotori.it/fiat-argo-x-grande-panda-brasile/",
+      "excerpt": "La Fiat Grande Panda sbarca in Brasile e diventa Argo X. Prodotta a Betim con motori bifuel, affiancherà la versione classica nell'investimento Stellantis",
+      "image": "https://hd2.tudocdn.net/1357988?w=660",
+      "publishedAt": "2026-07-21T14:30:18+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "X (Twitter): app Android riprogettata con nuove funzioni in arrivo",
+      "link": "https://www.hdblog.it/android/articoli/n664990/x-twitter-app-riprogettata-per-android/",
+      "excerpt": "Caricamenti più rapidi e maggiore fluidità.",
+      "image": "https://hd2.tudocdn.net/1357978?w=660",
+      "publishedAt": "2026-07-21T14:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Cirqa è il nuovo smart band di Garmin. Non ha lo schermo e non serve l'abbonamento",
+      "link": "https://images.dday.it/gAAJk_GSO9lWg7XhiuGSH3FFOqtvNyyxYgYSEu1JTss/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58124/3478bc_immagine.jpg",
+      "excerpt": "Lo smart band monitora salute, sonno e oltre 80 attività. Fino a dieci giorni di autonomia... Leggi tutto",
+      "image": "https://images.dday.it/gAAJk_GSO9lWg7XhiuGSH3FFOqtvNyyxYgYSEu1JTss/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58124/3478bc_immagine.jpg",
+      "publishedAt": "2026-07-21T14:10:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "All’asta la McLaren dei record del batterista dei Pink Floyd, prezzo monstre per superstar",
+      "link": "https://www.hdmotori.it/asta-mclaren-record-pink-floyd-prezzo/",
+      "excerpt": "Alla Monterey Car Week finirà all’asta anche una McLaren F1 GTR del 1996 di proprietà del batterista dei Pink Floyd Nick Mason dal '99",
+      "image": "https://hd2.tudocdn.net/1357981?w=660",
+      "publishedAt": "2026-07-21T14:00:50+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Pixel 11 Pro, Google si lascia scappare un'immagine ufficiale",
+      "link": "https://www.hdblog.it/smartphone/articoli/n664986/pixel-11-pro-xl-google-immagine-ufficiale-sito/",
+      "excerpt": "L'immagine è stata poi rimossa: ma troppo tardi.",
+      "image": "https://hd2.tudocdn.net/1357971?w=660",
+      "publishedAt": "2026-07-21T13:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nuova rimodulazione TIM: per queste offerte mobili si pagherà 1,99€ in più",
+      "link": "https://www.hdblog.it/smartphone/articoli/n664983/rimodulazione-offerte-tim-mobile-recesso/",
+      "excerpt": "Rimodulazione in vista per alcune offerte Tim di rete mobile, il cui canone mensile aumenterà di 1,99€.",
+      "image": "https://hd2.tudocdn.net/1357970?w=660",
+      "publishedAt": "2026-07-21T13:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
     },
     {
       "title": "Il volante Logitech G923 è crollato di prezzo su Amazon",
@@ -95,92 +203,20 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Ricarica veicoli elettrici: il 57% degli utenti beve un caffè nell'attesa",
-      "link": "https://www.hdmotori.it/ricarica-veicoli-elettrici-caffe/",
-      "excerpt": "Un nuovo studio IONITY rivela che per i driver elettrici la sosta alla colonnina è diventata una normale pausa relax, tra caffè e shopping.",
-      "image": "https://hd2.tudocdn.net/1357968?w=660",
-      "publishedAt": "2026-07-21T13:00:44+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Esclusive Xbox, quali giochi sì e quali giochi no? Continua a regnare la confusione",
+      "link": "https://images.dday.it/ZtlLyIJguF5pX0x2yOI5O_XAul8FenDFqEPcDfiy9lk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58123/ccee2e_Depositphotos_437648626_XL.jpg",
+      "excerpt": "Matt Booty e Matthew Ball ammettono che la strategia non è stata sempre comprensibile. In futuro, insieme alla data di uscita, verranno indicate anche tutte le piattaforme…",
+      "image": "https://images.dday.it/ZtlLyIJguF5pX0x2yOI5O_XAul8FenDFqEPcDfiy9lk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58123/ccee2e_Depositphotos_437648626_XL.jpg",
+      "publishedAt": "2026-07-21T13:03:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
-      "title": "Horizon 3, qualcuno l'avrebbe già provato: troppo simile ai precedenti?",
-      "link": "https://www.tomshw.it/videogioco/horizon-3-sarebbe-gia-stato-provato-ben-realizzato-ma-fedele-ai-primi",
-      "excerpt": "Horizon 3 avrebbe già raggiunto una forma giocabile e sarebbe stato provato da alcune persone vicine ai contatti di Colin Moriarty e David Jaffe. Le impressioni riferite…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102408/news-flash-586850.png",
-      "publishedAt": "2026-07-21T12:55:57+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "TIM, aumenti da 1,99 euro a settembre: come evitarli",
-      "link": "https://www.tomshw.it/smartphone/tim-rincari-da-1-99-euro-dal-1-settembre-come-evitarli",
-      "excerpt": "Un aumento di 1,99 euro al mese scatterà dal primo rinnovo successivo al 31 agosto 2026 per alcune offerte TIM Mobile ricaricabili destinate ai clienti consumer. TIM ha pubblicato…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102407/news-flash-586845.png",
-      "publishedAt": "2026-07-21T12:53:46+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Caldo record, per ventilatori e condizionatori portatili è boom di vendite",
-      "link": "https://www.hdblog.it/home/articoli/n664973/caldo-ventilatori-climatizzatori-acquisti/",
-      "excerpt": "Le vendite di ventilatori a piantana sono aumentate del 205%, mentre i condizionatori portatili segnano un +135%. Ecco quali sono i prodotti più richiesti per affrontare il caldo…",
-      "image": "https://hd2.tudocdn.net/1357947?w=660",
-      "publishedAt": "2026-07-21T12:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung punta sempre di più sulla robotica: arriva la divisione dedicata",
-      "link": "https://www.hdblog.it/samsung/articoli/n664975/samsung-divisione-robotica-rx-tm-roh/",
-      "excerpt": "Gli investimenti saranno ingenti.",
-      "image": "https://hd2.tudocdn.net/1221967?w=660",
-      "publishedAt": "2026-07-21T12:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il Pentagono prepara i container che lanciano sciami di droni senza piloti",
-      "link": "https://www.hdblog.it/droni/articoli/n664910/pentagono-container-droni-autonomi/",
-      "excerpt": "Container autonomi lanciano, recuperano e gestiscono sciami di droni con un solo operatore.",
-      "image": "https://hd2.tudocdn.net/1357766?w=660",
-      "publishedAt": "2026-07-21T12:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Sempre più Gemini in Chrome: presto si potrà usare l'AI per l'autocompilazione",
-      "link": "https://www.hdblog.it/google/articoli/n664964/google-chrome-gemini-autocompilazione-fill-ai/",
-      "excerpt": "Ecco come.",
-      "image": "https://hd2.tudocdn.net/1323146?w=660",
-      "publishedAt": "2026-07-21T12:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "La bizzarra trasformazione dell'ammiraglia Alfa Romeo in un mezzo per spegnere incendi",
-      "link": "https://www.hdmotori.it/alfa-romeo-164-pick-up-vigili-fuoco/",
-      "excerpt": "L'Alfa 164 è stata la prima ammiraglia del Biscione a trazione anteriore, ma non tutti si ricordano della sua conversione in pick-up per i Vigili del Fuoco",
-      "image": "https://hd2.tudocdn.net/1357952?w=660",
-      "publishedAt": "2026-07-21T12:00:52+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Patch critica per 7-Zip: bastava un file infetto per installare malware sul PC",
-      "link": "https://www.hdblog.it/portatili/articoli/n664951/patch-critica-7-zip-malware/",
-      "excerpt": "Risolta la falla di 7-Zip che avviava codice malevolo aprendo un semplice file compromesso.",
-      "image": "https://hd2.tudocdn.net/1357873?w=660",
-      "publishedAt": "2026-07-21T11:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Migliori parasole auto (luglio 2026)",
-      "link": "https://www.tomshw.it/automotive/migliori-parasole-auto",
-      "excerpt": "Quando l'auto resta parcheggiata al sole per ore, il problema non è solo il fastidio iniziale: volante, sedili e cruscotto possono diventare roventi, l'abitacolo richiede più…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/05/93365/migliori-parasole-auto-copertina.jpg",
-      "publishedAt": "2026-07-21T11:13:55+00:00",
+      "title": "Migliori caschi per bici ed e-bike (luglio 2026)",
+      "link": "https://www.tomshw.it/automotive/migliori-caschi-per-bici-ed-e-bike",
+      "excerpt": "Usare ogni giorno una bici tradizionale o una e-bike significa muoversi più velocemente nel traffico, condividere la strada con auto e scooter e affrontare superfici non sempre…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/05/93371/migliori-caschi-bici-copertina.jpg",
+      "publishedAt": "2026-07-21T11:22:23+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -192,15 +228,6 @@
       "publishedAt": "2026-07-21T10:26:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "La verità scomoda dell'AI e il conto che paghiamo tutti",
-      "link": "https://www.tomshw.it/business/la-verita-scomoda-dellai-e-il-conto-che-paghiamo-tutti",
-      "excerpt": "Una raccolta di dodici grafici pubblicata sulla newsletter The Algorithmic Bridge mette in fila i numeri che la narrativa ufficiale sul boom dell'AI lascia fuori dal titolo.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102268/02-verita-scomoda-cover.jpg",
-      "publishedAt": "2026-07-21T09:36:50+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Samsung Display inizia la produzione di schermi OLED per portatili da 1600 nit",
@@ -230,15 +257,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Migliori robot per piscina (luglio 2026)",
-      "link": "https://www.tomshw.it/altro/migliori-robot-per-piscina",
-      "excerpt": "Quando si riapre la piscina o la si usa con regolarità, la differenza tra un'acqua piacevole e una vasca sempre da rincorrere sta spesso nella pulizia quotidiana. Foglie, sabbia,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/90961/migliori-robot-piscina-copertina.jpg",
-      "publishedAt": "2026-07-21T06:33:53+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Con Navimow il prato si taglia da solo, e a luglio il Garage è in regalo",
       "link": "https://images.dday.it/rbs_wvWXhoQK4PWZOPKprtDpl6N8XPCVSkbgJgZBSgI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58102/0dc4cb_cover_Screenshot_2026-07-17_alle_14.57.22_copia.png",
       "excerpt": "Dai 600 ai 2.000 metri quadrati, la gamma Navimow 2026 affronta prati di dimensioni e complessità diverse senza cavo perimetrale. E fino al 30 luglio, acquistando uno dei cinque…",
@@ -253,24 +271,6 @@
       "excerpt": "Una gamma cromatica senza pari, maggiore efficienza energetica e immagini più confortevoli sono tra i principali benefici della nuova tecnologia RGB MiniLED di Hisense: tre serie,…",
       "image": "https://images.dday.it/LEDY5-x2klJ39J9BvFgrGEE3esNNP1QGaMeoPqxZ0t4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58048/78644b_14.Lifestyle_Image.jpg",
       "publishedAt": "2026-07-21T01:03:05+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Monopattino elettrico da 500W con 35 km di autonomia e penumatici da 8,5\" a meno di 189 euro",
-      "link": "https://images.dday.it/HpGgShu9ocZkG_cyYg2ilsMNnFhvqQEo7Bx1uM4zPYg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58115/582fe6_7103TeaEMeL._AC_SL1500_.jpg",
-      "excerpt": "Se vuoi acquistare un monopattino elettrico spendendo meno di 189 euro, questa offerta Amazon fa il caso tuo. Approfittane subito...... Leggi tutto",
-      "image": "https://images.dday.it/HpGgShu9ocZkG_cyYg2ilsMNnFhvqQEo7Bx1uM4zPYg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58115/582fe6_7103TeaEMeL._AC_SL1500_.jpg",
-      "publishedAt": "2026-07-20T15:38:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il robot italiano con pelle multisensoriale. Generative Bionics presenta Gene.01, lo userà anche Fincantieri",
-      "link": "https://images.dday.it/CLicBWZ_QC8P7Ff7_J1zFpNW5azyYhhi3l9_qDymOik/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58116/ebcf35_2.jpg",
-      "excerpt": "Sviluppato in sei mesi, il nuovo robot combina Physical AI, percezione di tocco, forza, temperatura e prossimità. La prima applicazione industriale nascerà con Fincantieri per la…",
-      "image": "https://images.dday.it/CLicBWZ_QC8P7Ff7_J1zFpNW5azyYhhi3l9_qDymOik/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58116/ebcf35_2.jpg",
-      "publishedAt": "2026-07-20T15:06:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
