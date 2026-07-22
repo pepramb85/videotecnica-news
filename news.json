@@ -1,26 +1,161 @@
 {
-  "generatedAt": "2026-07-22T15:26:13.138416+00:00",
+  "generatedAt": "2026-07-22T17:08:39.207501+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Zimbabwe, 25 milioni nell’agritech: grano a 5 tonnellate per ettaro",
-      "link": "https://www.tomshw.it/altro/zimbabwe-25-milioni-nell-agritech-grano-a-5-tonnellate-per-ettaro",
-      "excerpt": "Oltre 188.000 famiglie dello Zimbabwe hanno ricevuto sementi certificate, fertilizzanti, assistenza tecnica e tecnologie agricole attraverso lo Zimbabwe Emergency Food Production…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102712/news-flash-590337.png",
-      "publishedAt": "2026-07-22T15:21:58+00:00",
+      "title": "HMD Global: spunta l’inedito Nokia 123 Shield per chiamate e SMS",
+      "link": "https://www.hdblog.it/smartphone/articoli/n665141/hmd-global-nokia-123-shield-chiamate-e-sms/",
+      "excerpt": "Il telefono opera su rete 2G.",
+      "image": "https://hd2.tudocdn.net/1358323?w=660",
+      "publishedAt": "2026-07-22T17:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il sistema di Meta per rilevare contenuti AI è ancora molto acerbo",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n665146/meta-rilevamento-contenuti-ai-progresso/",
+      "excerpt": "Soprattutto rispetto alle piattaforme già affermate in circolazione, come SynthID di Google.",
+      "image": "https://hd2.tudocdn.net/1346991?w=660",
+      "publishedAt": "2026-07-22T16:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Fervono i preparativi per iPhone 18 Pro: Foxconn intensifica le assunzioni",
+      "link": "https://www.hdblog.it/smartphone/articoli/n665104/iphone-18-pro-foxconn-novita/",
+      "excerpt": "Il nuovo iPhone 18 Pro è già in produzione, con Dynamic Island ridotta e fotocamera con apertura variabile.",
+      "image": "https://hd2.tudocdn.net/1354731?w=660",
+      "publishedAt": "2026-07-22T16:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Niente Salone di Parigi per BMW, si ritira per ragioni economiche",
+      "link": "https://www.hdmotori.it/bmw-salone-parigi-ritiro/",
+      "excerpt": "Nell’esclusiva kermesse francese, nel 2026, non ci sarà la Casa tedesca. Un evento più unico che raro che getta un’ombra sull’operato di BMW",
+      "image": "https://hd2.tudocdn.net/1358326?w=660",
+      "publishedAt": "2026-07-22T16:30:38+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Anthropic sceglie (di nuovo) AMD: Claude girerà su Instinct MI450",
+      "link": "https://www.tomshw.it/hardware/amd-e-anthropic-insieme-fino-a-2-gw-di-gpu-instinct-mi450",
+      "excerpt": "AMD e Anthropic hanno annunciato una partnership strategica pluriennale che porterà alla distribuzione di infrastrutture AI basate su GPU Instinct MI450 Series per una capacità…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102730/amd-anthropic-partnership-2-gw-gpu-instinct-mi450.png",
+      "publishedAt": "2026-07-22T16:25:55+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Xbox inaugura la retrocompatibilità su PC: 4 giochi senza doppio acquisto",
-      "link": "https://www.tomshw.it/videogioco/xbox-inaugura-la-retrocompatibilita-su-pc-4-giochi-senza-doppio-acquisto",
-      "excerpt": "Quattro giochi della prima Xbox sono ora disponibili su PC Windows 11 e dispositivi handheld supportati. Dal 22 luglio, nelle regioni abilitate, BLiNX: The Time Sweeper, Conker:…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102711/XBOX-Backward-Compatibility-on-PC-2-c1588b8f23e00a802283-scaled.jpg",
-      "publishedAt": "2026-07-22T15:20:52+00:00",
+      "title": "OpenAI, la spesa per cloud e calcolo sale a 750 miliardi entro il 2030",
+      "link": "https://www.tomshw.it/hardware/openai-la-spesa-per-cloud-e-calcolo-sale-a-750-miliardi-entro",
+      "excerpt": "OpenAI ha portato a circa 750 miliardi di dollari la previsione della propria spesa per capacità di calcolo e infrastrutture cloud fino al 2030. La nuova cifra, riportata dal Wall…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102731/news-flash-590628.png",
+      "publishedAt": "2026-07-22T16:22:32+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Grande Barriera Corallina: scoperte 584 specie sconosciute e 362.802 virus",
+      "link": "https://www.tomshw.it/scienze/grande-barriera-corallina-584-specie-sconosciute-stimati-362-802-virus",
+      "excerpt": "Nelle acque della Grande Barriera Corallina sono state identificate 584 specie batteriche e archeali che non risultavano documentate. L’analisi del DNA ha inoltre prodotto 808.585…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102732/Beautiful_coral_reef,_Batangas,_Anilao_-_panoramio.jpg",
+      "publishedAt": "2026-07-22T16:21:38+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Apple corregge Hide My Email: gli alias creati prima del 7 luglio possono aver esposto l’email",
+      "link": "https://www.tomshw.it/hardware/apple-corregge-hide-my-email-gli-alias-creati-prima-del-7-luglio",
+      "excerpt": "Un alias di Hide My Email poteva essere usato per risalire all’indirizzo di posta reale che avrebbe dovuto proteggere. Apple ha comunicato di avere distribuito il 3 luglio 2026…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99217/hide-my-email-di-apple-puo-esporre-gli-indirizzi-reali.png",
+      "publishedAt": "2026-07-22T16:19:33+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Esoluna gigante orbita una nana bruna: la scoperta",
+      "link": "https://www.tomshw.it/scienze/prima-esoluna-ha-quasi-la-massa-di-giove-e-orbita-una-nana",
+      "excerpt": "Un corpo con una massa minima vicina a quella di Giove sembra orbitare attorno a CD-35 2722 B, una nana bruna distante circa 73 anni luce dalla Terra. Il gruppo internazionale…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102728/Triple-star_sunset.jpg",
+      "publishedAt": "2026-07-22T16:18:03+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "iOS 27: arriva l'Incolla rapido sopra la tastiera",
+      "link": "https://www.tomshw.it/hardware/ios-27-la-beta-aggiunge-l-incolla-con-un-tocco-sopra-la",
+      "excerpt": "Incollare un contenuto su iPhone richiederà un passaggio in meno con iOS 27. Nella versione beta del sistema, dopo aver copiato un testo, un collegamento o un’immagine, sopra la…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102726/iOS-27-Mock-Quick.jpg",
+      "publishedAt": "2026-07-22T16:16:11+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "AMD e Anthropic siglano una partnership pluriennale da 5 miliardi di dollari",
+      "link": "https://www.hdblog.it/amd/articoli/n665142/anthropic-amd-partnership-gpu-claude-5-miliardi/",
+      "excerpt": "AMD guadagna un cliente di prestigio nella corsa all'AI, Claude riceve tanta potenza di calcolo a prezzi vantaggiosi.",
+      "image": "https://hd2.tudocdn.net/1349884?w=660",
+      "publishedAt": "2026-07-22T16:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Android 17: da iPhone passano anche eSIM, password e passkey senza fili",
+      "link": "https://www.tomshw.it/smartphone/android-17-da-iphone-passano-anche-esim-password-e-passkey-senza-fili",
+      "excerpt": "Android 17 amplia sensibilmente i dati che possono passare da un iPhone a un nuovo smartphone Android. La procedura aggiornata di Android Switch include eSIM, account Google,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102723/news-flash-590569.png",
+      "publishedAt": "2026-07-22T16:12:46+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il ritorno dei Lumia? HMD potrebbe resuscitare il marchio e l'interfaccia",
+      "link": "https://www.hdblog.it/smartphone/articoli/n665133/hmd-interfaccia-windows-phone-live-tiles-lumia/",
+      "excerpt": "Vi ricordate i Lumia, Windows Phone e le sue Live Tiles?",
+      "image": "https://hd2.tudocdn.net/1358317?w=660",
+      "publishedAt": "2026-07-22T16:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Logitech G309 a metà prezzo: HERO 25K e 300 ore senza cavo",
+      "link": "https://www.tomshw.it/offerte/logitech-g309-a-meta-prezzo-hero-25k-e-300-ore-senza-cavo",
+      "excerpt": "A 39,54€ su Amazon, Logitech G G309 LIGHTSPEED passa dai 79,99€ di listino alla metà del prezzo, con uno sconto del 51% e 40,45€ di risparmio. Sensore HERO 25K, collegamento a…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102721/tomshw-offer-590540.png",
+      "publishedAt": "2026-07-22T16:02:47+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Salva la Ferrari rubata a poche ore dalla Coppa Selva di Fasano: ritrovata in Puglia",
+      "link": "https://www.hdmotori.it/ferrari-rubata-coppa-selva-fasano-ritrovata/",
+      "excerpt": "La Ferrari 458 Challenge Evo di proprietà del team veneto Gaetani Racing è stata recuperata tra Alberobello e Noci",
+      "image": "https://hd2.tudocdn.net/1358319?w=660",
+      "publishedAt": "2026-07-22T16:00:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung, finalmente con i Galaxy Fold / Flip 8 inizia l'epoca delle batterie Si-C",
+      "link": "https://www.hdblog.it/smartphone/articoli/n665134/samsung-batterie-si-c-galaxy-z-flip-fold-8-ultra/",
+      "excerpt": "La società mantiene un approccio molto cauto e votato alla sicurezza - la questione Note 7 \"brucia\" ancora...",
+      "image": "https://hd2.tudocdn.net/1357535?w=660",
+      "publishedAt": "2026-07-22T15:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nissan Leaf: in Giappone arriva la versione Nismo",
+      "link": "https://www.hdmotori.it/nissan-leaf-nismo-giappone/",
+      "excerpt": "Nissan ha lanciato in Giappone la versione preparata dal reparto Nismo del suo iconico veicolo elettrico.",
+      "image": "https://hd2.tudocdn.net/1358311?w=660",
+      "publishedAt": "2026-07-22T15:30:12+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
     },
     {
       "title": "Samsung Galaxy Z Fold 7 VS Fold 8 e Fold 8 Ultra: tutte le differenze",
@@ -32,78 +167,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "TIM Priority, internet a due velocità: è un profondo cambiamento per la rete italiana",
-      "link": "https://www.hdblog.it/tim/articoli/n665129/tim-priority-profondo-cambiamento-rete-italiana/",
-      "excerpt": "Si parte con la fibra, poi toccherà anche al 5G: TIM Priority prevede un accesso prioritario alla rete, ovviamente pagando un sovrapprezzo.",
-      "image": "https://hd2.tudocdn.net/1358297?w=660",
-      "publishedAt": "2026-07-22T15:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung Galaxy Z Fold 8, Fold 8 Ultra e Flip 8: come averli a rate con TIM",
-      "link": "https://www.hdblog.it/smartphone/articoli/n665122/samsung-galaxy-z-fold-8-fold-flip-tim-offerte/",
-      "excerpt": "Ecco le offerte.",
-      "image": "https://hd2.tudocdn.net/1358287?w=660",
-      "publishedAt": "2026-07-22T15:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung Galaxy Z Flip 7 VS Galaxy Z Flip 8: tutte le principali novità",
-      "link": "https://www.hdblog.it/smartphone/articoli/n665025/samsung-galaxy-z-flip-7-vs-8-novita-prezzi/",
-      "excerpt": "Il colosso sudcoreano si trova ormai in una fase di rifinitura estrema. Purtroppo la novità principale è che il device costa di più.",
-      "image": "https://hd2.tudocdn.net/1357843?w=660",
-      "publishedAt": "2026-07-22T15:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Settimane senza cavo: HyperX Cloud III S, 200 ore a 94,99€",
-      "link": "https://www.tomshw.it/offerte/settimane-senza-cavo-hyperx-cloud-iii-s-200-ore-a-9499eur",
-      "excerpt": "Le HyperX Cloud III S Wireless costano 94,99€ su Amazon, con il 37% di sconto rispetto ai 149,99€ di listino. L’autonomia fino a 200 ore consente di affrontare sessioni, trasferte…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102702/tomshw-offer-590264.png",
-      "publishedAt": "2026-07-22T15:02:39+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "La gamma Range Rover si allarga: prime immagini della sportiva GT",
-      "link": "https://www.hdmotori.it/gamma-range-rover-sportiva-gt/",
-      "excerpt": "La Range Rover GT amplierà il listino con un quinto modello, che si aggiunge a Evoque, Velar, Sport e Range Rover standard.",
-      "image": "https://hd2.tudocdn.net/1358304?w=660",
-      "publishedAt": "2026-07-22T15:00:10+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "OpenAI Presence: arriva il nuovo tool per la knowledge aziendale",
-      "link": "https://www.tomshw.it/hardware/openai-presence-agenti-ai-su-voce-e-chat-accesso-solo-alle-aziende",
-      "excerpt": "Agenti AI capaci di consultare sistemi aziendali, eseguire operazioni autorizzate e trasferire una conversazione a un operatore umano: OpenAI Presence riunisce queste funzioni in…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102700/OpenAI_Presence_16x9.png",
-      "publishedAt": "2026-07-22T14:57:55+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Gene.01: il robot umanoide italiano pronto per le sfide del settore industriale",
-      "link": "https://www.hdblog.it/robotica/articoli/n665125/gene01-robot-umanoide-italiano-industria/",
-      "excerpt": "Il robot è dotato di pelle multisensoriale.",
-      "image": "https://hd2.tudocdn.net/1358279?w=660",
-      "publishedAt": "2026-07-22T14:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Trekking del weekend? Ecco cosa devi portare assolutamente nello zaino (senza spaccarti la schiena)",
-      "link": "https://www.tomshw.it/altro/trekking-del-weekend-ecco-cosa-devi-portare-assolutamente-nello-zaino-senza-spaccarti-la-schiena",
-      "excerpt": "Il venerdì sera si avvicina, la traccia GPX è pronta e le previsioni meteo promettono bene. L’idea di staccare la spina per due giorni immersi nella natura è il modo miglior...",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102694/Trekking-del-weekend-Ecco-cosa-devi-portare-assolutamente-nello-zaino-(senza-spaccarti-la-schiena).png",
-      "publishedAt": "2026-07-22T14:42:48+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Golf e T-Roc ora anche full hybrid. Prezzi da 39.250 euro",
       "link": "https://images.dday.it/lIj_YfHqdtzQvjbBLWmmBc_BtgHRH9bJpxbl2Kmqm2Y/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58141/426774_vw_thumb.jpg",
       "excerpt": "La nuova motorizzazione è già ordinabile in Italia e arriverà nelle concessionarie in autunno. Per la T-Roc full hybrid servono almeno 42.650 euro ... Leggi tutto",
@@ -111,15 +174,6 @@
       "publishedAt": "2026-07-22T14:42:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Assassin's Creed Black Flag Resynced: una mod PC rende giocabile Blackbeard",
-      "link": "https://www.tomshw.it/videogioco/assassin-s-creed-black-flag-resynced-una-mod-pc-rende-giocabile-blackbeard",
-      "excerpt": "Blackbeard può prendere il posto di Edward Kenway come personaggio controllabile in Assassin's Creed Black Flag Resynced. La modifica è opera del modder Kamzik123, che ha…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102696/news-flash-590149.png",
-      "publishedAt": "2026-07-22T14:37:29+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Non ti servono, ma li vuoi: i gadget tech più utili in offerta a prezzi impossibili da ignorare",
@@ -131,33 +185,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Nuova Aston Martin Vanquish 25, l'edizione celebrativa da 50 unità",
-      "link": "https://www.hdmotori.it/aston-martin-vanquish-25-edizione-speciale-tiratura/",
-      "excerpt": "La nuova Aston Martin Vanquish 25 celebra il quarto di secolo del modello con un'edizione esclusiva da 50 unità, 835 CV e finiture artigianali",
-      "image": "https://hd2.tudocdn.net/1358294?w=660",
-      "publishedAt": "2026-07-22T14:30:44+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Lies of P su Switch 2 si mostra in portatile: digitale dal 5 agosto",
-      "link": "https://www.tomshw.it/videogioco/lies-of-p-su-switch-2-si-mostra-in-portatile-digitale-dal",
-      "excerpt": "Un minuto e mezzo di sequenze in modalità portatile mostra come Lies of P: Complete Edition funzionerà su Nintendo Switch 2. Il filmato ufficiale, intitolato “Step Into What…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102692/news-flash-590079.png",
-      "publishedAt": "2026-07-22T14:29:27+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Usi un Mac? Ecco perché Moonlock potrebbe servirti più di quanto pensi",
-      "link": "https://www.tomshw.it/hardware/usi-un-mac-ecco-perche-moonlock-potrebbe-servirti-piu-di-quanto-pensi",
-      "excerpt": "Per anni si è creduto che i computer della mela fossero del tutto immuni da virus e malware, ma i dati più recenti dipingono un quadro ben diverso. Nel corso del 2025, ben due…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102691/Usi-un-Mac-Ecco-perché-Moonlock-potrebbe-servirti-più-di-quanto-pensi.png",
-      "publishedAt": "2026-07-22T14:17:44+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Sony lancia la nuova FX5 che si candida a diventare la prima scelta per i videomaker evoluti",
       "link": "https://images.dday.it/_JF8vVE-EBYsJZf4_4Ev4aON49RRYvFU_F0TPU9wEXo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58140/55845d_FX5_7-_Situation_1.jpg",
       "excerpt": "Nuovo sensore stacked, RAW interno, Open Gate e operatività derivata da Venice 2 e Burano: Sony posiziona la nuova FX5, dedicata al solo video, tra FX3 e FX6. Disponibile da…",
@@ -167,15 +194,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Audi A8 ad aria compressa, l'assurdo prototipo rumeno promette 600 Km/h",
-      "link": "https://www.hdmotori.it/audi-a8-aria-compressa-rosmar-h-video/",
-      "excerpt": "Senza V8 né motore elettrico: la storia dell'Audi A8 ad aria compressa ideata da Rosmar H. Tra numeri da hypercar e una realtà meccanica del tutto insolita",
-      "image": "https://hd2.tudocdn.net/1358275?w=660",
-      "publishedAt": "2026-07-22T14:00:54+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Wi-Fi 6 stabile anche in giardino: TP-Link svela il router Archer NX500-Outdoor",
       "link": "https://images.dday.it/ZzAmxntXp8JOgCr-s_u48bMpiCZVuG7zeTEbdktiSGA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58138/420462_nx500_1.jpg",
       "excerpt": "Il router ha anche uno slot SIM e punta a migliorare la ricezione della rete mobile e a coprire giardini, cortili e parcheggi... Leggi tutto",
@@ -183,24 +201,6 @@
       "publishedAt": "2026-07-22T13:49:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Nuova Suzuki Across Plug-in Hybrid debutta in Italia: prezzi a partire da 55.900 euro",
-      "link": "https://www.hdmotori.it/nuova-suzuki-across-plug-in-hybrid-prezzo/",
-      "excerpt": "Suzuki rinnova la Across Plug-in Hybrid con un nuovo design, più potenza, interni digitali e una dotazione tecnologica ancora più ricca",
-      "image": "https://hd2.tudocdn.net/1358264?w=660",
-      "publishedAt": "2026-07-22T13:30:38+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung svela gli occhiali smart Galaxy: AI e design Gentle Monster e Warby Parker",
-      "link": "https://www.hdblog.it/indossabili/articoli/n665112/samsung-occhiali-smart-intelligenti-galaxy-android/",
-      "excerpt": "Come sono e cosa fanno.",
-      "image": "https://hd2.tudocdn.net/1358260?w=660",
-      "publishedAt": "2026-07-22T13:28:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Tutto quello che devi sapere sugli occhiali smart Samsung Galaxy",
@@ -239,11 +239,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Migliori monitor gaming (luglio 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-monitor-gaming",
-      "excerpt": "Scegliere il miglior monitor gaming non significa inseguire il dato più alto in scheda tecnica, ma capire quale combinazione di risoluzione, refresh rate, pannello e connessioni…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/87508/migliori-monitor-gaming-copertina.jpg",
-      "publishedAt": "2026-07-22T11:15:26+00:00",
+      "title": "Migliori stampanti economiche a getto d'inchiostro (luglio 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-stampanti-economiche-getto-inchiostro",
+      "excerpt": "Scegliere una delle migliori stampanti a getto d’inchiostro economiche resta una soluzione sensata per casa, studio, università e piccoli uffici quando si vuole stampare a colori…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/87511/migliori-stampanti-economiche-getto-copertina.jpg",
+      "publishedAt": "2026-07-22T11:23:21+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -266,11 +266,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Microsoft compra potenza di calcolo da Mistral, l'alleanza si stringe",
-      "link": "https://www.tomshw.it/business/microsoft-mistral-gpu-alleanza",
-      "excerpt": "Microsoft e Mistral hanno annunciato il 21 luglio un ampliamento della partnership che ribalta i ruoli del 2024. Allora era Microsoft a fornire capacità Azure a una startup…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102561/07-microsoft-mistral-cover.jpg",
-      "publishedAt": "2026-07-22T08:05:04+00:00",
+      "title": "Il PNRR porta 13mila pubbliche amministrazioni sul cloud, obiettivo centrato",
+      "link": "https://www.tomshw.it/business/pnrr-13mila-pa-cloud",
+      "excerpt": "Oltre 13mila enti della Pubblica Amministrazione hanno smesso di conservare i propri dati su server locali e sono passati a un cloud certificato, raggiungendo due target del PNRR…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102562/08-pnrr-cloud-pa-cover.jpg",
+      "publishedAt": "2026-07-22T08:34:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
