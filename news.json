@@ -1,9 +1,189 @@
 {
-  "generatedAt": "2026-07-22T05:14:50.739116+00:00",
+  "generatedAt": "2026-07-22T08:12:15.778263+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "L'app per gestire i Galaxy Watch cambia faccia prima dell'Unpacked: nuovo design",
+      "link": "https://www.hdblog.it/samsung/articoli/n665056/galaxy-wear-app-samsung-aggiornata/",
+      "excerpt": "Arriva l'aggiornamento estetico più grande per l'app Galaxy Wearable",
+      "image": "https://hd2.tudocdn.net/1277697?w=660",
+      "publishedAt": "2026-07-22T08:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nuova Ligier JS50: un quadriciclo leggero premium con tante sorprese - Video",
+      "link": "https://www.hdmotori.it/prove/nuova-ligier-js50-un-quadriciclo-leggero-premium-con-tante-sorprese-video/",
+      "excerpt": "Grazie al recente aggiornamento del pacco batterie, la Ligier JS50 compie un deciso salto di qualità, rafforzando ulteriormente il proprio posizionamento nel mercato delle minicar.",
+      "image": "https://hd2.tudocdn.net/1358117?w=660",
+      "publishedAt": "2026-07-22T08:00:35+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Assassin’s Creed in Limited Edition crolla a 30€: oggi costa il 40% in meno",
+      "link": "https://www.tomshw.it/videogioco/assassins-creed-shadows-limited-edition-ps5-40-2026-07-22",
+      "excerpt": "Su Amazon è disponibile un'offerta imperdibile su Assassin's Creed Shadows Limited Edition per PS5, esclusiva Amazon.it. La Limited Edition include il gioco base e il Pacchetto…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102570/assassins-creed-shadows-limited-edition-ps5-40-2026-07-22-GP6yWdugbimet8jnhacumMFj.png",
+      "publishedAt": "2026-07-22T07:57:48+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Falla Veeam: root sulle appliance Linux, ecco la patch",
+      "link": "https://www.tomshw.it/hardware/veeam-una-falla-locale-da-accesso-root-alle-appliance-linux-patch-disponibile",
+      "excerpt": "Un utente locale può ottenere privilegi root sulle appliance Linux associate a Veeam Backup & Replication 13 sfruttando una falla nel componente Veeam Updater. La vulnerabilità,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102568/news-flash-588421.png",
+      "publishedAt": "2026-07-22T07:57:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "iPhone Ultra, nuove conferme \"indirette\" dall'ultima Beta di iOS 27",
+      "link": "https://www.hdblog.it/smartphone/articoli/n665053/iphone-ultra-conferme-doppia-batteria-ios-27-beta/",
+      "excerpt": "Nelle impostazioni del sistema operativo si parla di \"batterie\", al plurale.",
+      "image": "https://hd2.tudocdn.net/1356141?w=660",
+      "publishedAt": "2026-07-22T07:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il prezzo di questo ASUS ROG Strix crolla e fa dimenticare i recenti rincari dell'hardware",
+      "link": "https://www.tomshw.it/hardware/asus-rog-strix-g16-con-rtx-5060-a-soli-1569eur-2026-07-22",
+      "excerpt": "Su Amazon è disponibile l'ASUS ROG Strix G16 G614PM-S5004W, un potente laptop da gaming equipaggiato con processore AMD Ryzen 9 8940HX, NVIDIA GeForce RTX 5060, schermo ROG Nebula…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102552/asus-rog-strix-g16-con-rtx-5060-a-soli-1569eur-2026-07-22-yjYo9e5q9nt0r04fj6LsE0QZ.png",
+      "publishedAt": "2026-07-22T07:54:13+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Uno stadio Falcon 9 colpirà la Luna il 5 agosto: cratere fino a 30 metri",
+      "link": "https://www.tomshw.it/scienze/uno-stadio-falcon-9-colpira-la-luna-il-5-agosto-cratere-fino",
+      "excerpt": "Uno stadio superiore Falcon 9 da circa 4.900 chilogrammi colpirà la Luna il 5 agosto 2026, offrendo un’occasione controllabile per studiare la formazione di un cratere e il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102550/news-flash-588322.png",
+      "publishedAt": "2026-07-22T07:52:26+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Threads introduce i blocchi notturni per i minori, si parte dagli USA",
+      "link": "https://www.tomshw.it/hardware/threads-limiti-e-blocchi-notturni-per-i-figli-si-parte-dagli-usa",
+      "excerpt": "Threads permetterà ai genitori di verificare quanto tempo gli adolescenti trascorrono sulla piattaforma e di limitarne l'utilizzo da telefono e computer. La supervisione…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102542/New-Parental-Supervision-Tools-Now-Available-on-Threads_Header.jpg",
+      "publishedAt": "2026-07-22T07:49:21+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Lanciati i nuovi pieghevoli Samsung: ecco le 6 alternative top già crollate di prezzo",
+      "link": "https://www.tomshw.it/smartphone/lanciati-i-nuovi-pieghevoli-samsung-ecco-le-6-alternative-top-gia-crollate-di-prezzo",
+      "excerpt": "Il giorno dell'annuncio ufficiale dei nuovi Samsung Galaxy Z Fold8 e Z Flip8 è arrivato, catalizzando l'attenzione di appassionati e addetti ai lavori. Ma se da un lato il debutto…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102535/Lanciati-i-nuovi-pieghevoli-Samsung-ecco-le-6-alternative-top-già-crollate-di-prezzo.png",
+      "publishedAt": "2026-07-22T07:48:28+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Apple punta sul noleggio per affrontare i rincari di iPhone e Mac",
+      "link": "https://www.hdblog.it/smartphone/articoli/n665055/apple-iphone-mac-noleggio-leasing/",
+      "excerpt": "Apple starebbe preparando un nuovo modello di acquisto per iPhone e altri prodotti. Secondo Bloomberg, Apple Upgrade offrirà maggiore flessibilità ai clienti in un contesto di…",
+      "image": "https://hd2.tudocdn.net/1234942?w=660",
+      "publishedAt": "2026-07-22T07:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Addio multi monitor: come un singolo Ultrawide da 39\" rivoluziona i simulatori",
+      "link": "https://www.tomshw.it/hardware/addio-multi-monitor-come-un-singolo-ultrawide-da-39-rivoluziona-le-postazioni-da-sim-racing-e-flight-sim",
+      "excerpt": "Chi ha montato una postazione da sim racing o da flight sim conosce bene il rituale del triplo monitor: tre pannelli da allineare e angolare al millimetro, una calibrazione da…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100780/LG-ultraGear-evo-AI-39GX950B-(8).jpg",
+      "publishedAt": "2026-07-22T07:44:45+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Sempre più italiani dialogano con l’AI: i dati del nuovo studio Samsung",
+      "link": "https://www.hdblog.it/samsung/articoli/n665020/italiani-dialogo-ai-dati-studio-samsung/",
+      "excerpt": "Più della metà degli italiani preferisce interagire via testo.",
+      "image": "https://hd2.tudocdn.net/1358020?w=660",
+      "publishedAt": "2026-07-22T07:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Masters of the Universe arriva su Prime Video: tutto sul film di He-Man",
+      "link": "https://www.hdblog.it/amazon/articoli/n665052/masters-of-the-universe-prime-video-film-2026/",
+      "excerpt": "He-Man torna in live action su Prime Video con Nicholas Galitzine e Jared Leto.",
+      "image": "https://hd2.tudocdn.net/1358091?w=660",
+      "publishedAt": "2026-07-22T07:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung, non solo Fold e Flip: attesi i Watch 9 e un'anteprima dei Galaxy Glasses",
+      "link": "https://www.hdblog.it/indossabili/articoli/n665049/samsung-attesi-watch-9-anteprima-galaxy-glasses/",
+      "excerpt": "Il Galaxy Unpacked in programma oggi a Londra non sarà dedicato soltanto ai nuovi smartphone pieghevoli",
+      "image": "https://hd2.tudocdn.net/1358109?w=660",
+      "publishedAt": "2026-07-22T07:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Un Falcon 9 colpirà la Luna il 5 agosto: ecco cosa potremo imparare",
+      "link": "https://www.hdblog.it/curiosita/articoli/n665048/spacex-impatto-luna-falcon-9/",
+      "excerpt": "Il secondo stadio di un Falcon 9 colpirà la Luna offrendo dati preziosi agli astronomi.",
+      "image": "https://hd2.tudocdn.net/1358085?w=660",
+      "publishedAt": "2026-07-22T07:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Kena fa un regalo ai suoi clienti: come avere 70 Giga gratis in 5G",
+      "link": "https://www.hdblog.it/smartphone/articoli/n665026/kena-mobile-70-giga-gratis/",
+      "excerpt": "Kena offre gratuitamente 70 Giga extra in 5G per tre giorni ad alcuni utenti selezionati.",
+      "image": "https://hd2.tudocdn.net/1358056?w=660",
+      "publishedAt": "2026-07-22T07:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "INIU, tre cavi USB-C a meno di 10€: un kit utile in ogni stanza",
+      "link": "https://www.tomshw.it/smartphone/iniu-tre-cavi-usb-c-a-meno-di-10-euro-un-kit-utile-in-ogni-stanza-2026-07-22",
+      "excerpt": "INIU propone un kit di tre cavi USB-A/USB-C in lunghezze diverse, utile per lasciare un collegamento stabile nei punti in cui ricaricate più spesso i vostri dispositivi. La…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/05/94568/INIU-Cavo-USB-Type-C.jpg",
+      "publishedAt": "2026-07-22T07:02:10+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Samsung Galaxy S26 Ultra, il Privacy Display si fa sempre più versatile",
+      "link": "https://www.hdblog.it/smartphone/articoli/n665050/galaxy-s26-ultra-one-ui-9-pip-privacy-display/",
+      "excerpt": "Con la One UI 9 potrà oscurare solo le finestre PiP.",
+      "image": "https://hd2.tudocdn.net/1327019?w=660",
+      "publishedAt": "2026-07-22T06:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Migliori webcam per videoconferenza (luglio 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-webcam-professionali-videoconferenza",
+      "excerpt": "Se gestite riunioni ibride, lezioni, webinar o conferenze in sale medio-grandi, una webcam professionale non serve solo a ottenere un'immagine più nitida: serve a far vedere e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/87497/migliori-webcam-videoconferenza-copertina.jpg",
+      "publishedAt": "2026-07-22T06:08:26+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "UGREEN Nexode 300W, un solo caricatore per cinque dispositivi ora costa meno",
+      "link": "https://www.tomshw.it/smartphone/ugreen-nexode-300w-un-solo-caricatore-per-cinque-dispositivi-ora-costa-meno-2026-07-22",
+      "excerpt": "UGREEN Nexode 300W è una stazione di ricarica GaN progettata per alimentare contemporaneamente notebook, tablet, smartphone e accessori da un solo punto. Il modello con quattro…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/95360/ugreen-nexode-300w-a-133eur-caricatore-gan-scrivanie-device-202rgqqe1mnccmgfLX41bJ.png",
+      "publishedAt": "2026-07-22T05:13:07+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "CES Unveiled a Milano il 21 ottobre: evento prestigioso ma l'impressione è che sia ancora tutto da organizzare",
       "link": "https://images.dday.it/auS2nK-SXcBuulIhMU237IvHQIdO4hR1JRH58OHO2EE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58128/0217a3_DAN_3523.jpg",
@@ -32,159 +212,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Migliori mouse wireless (luglio 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-mouse-wireless",
-      "excerpt": "Oggi scegliere il mouse wireless ideale non significa soltanto liberare la scrivania da un cavo. La differenza vera si vede quando il puntatore resta stabile durante una giornata…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/87012/migliori-mouse-wireless-copertina.jpg",
-      "publishedAt": "2026-07-22T00:18:14+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Ricarica Galaxy e Watch insieme: Samsung Duo costa 56,13€",
-      "link": "https://www.tomshw.it/offerte/ricarica-galaxy-e-watch-insieme-samsung-duo-costa-5613eur",
-      "excerpt": "Samsung Wireless Charger Duo costa 56,13€ su Amazon anziché 99,20€, con uno sconto del 41%. La base consente di alimentare contemporaneamente smartphone e Galaxy Watch o Buds,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102491/tomshw-offer-587751.png",
-      "publishedAt": "2026-07-21T20:03:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Samsung Galaxy S26 cala di prezzo, a meno di 600€ è il compatto da prendere",
-      "link": "https://www.hdblog.it/smartphone/offerte/n665033/samsung-galaxy-s26-offerta-psprlug26/",
-      "excerpt": "Il Samsung Galaxy S26 è in offerta e con un nuovo codice sconto ora costa meno di 600 euro, scegliendo la versione con garanzia Italia.",
-      "image": "https://hd2.tudocdn.net/1338238?w=660",
-      "publishedAt": "2026-07-21T19:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Quanto costa passare a 120 Hz? 66,60€ con il monitor LG 24U411A",
-      "link": "https://www.tomshw.it/offerte/quanto-costa-passare-a-120-hz-6660eur-con-il-monitor-lg-24u411a",
-      "excerpt": "LG 24U411A costa 66,60€ su Amazon, invece dei 99,99€ di listino: il taglio è del 33%. Il pannello IPS Full HD da 24 pollici raggiunge 120 Hz, una caratteristica particolarmente…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102490/tomshw-offer-587745.png",
-      "publishedAt": "2026-07-21T19:03:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "La cassa da piscina che galleggia: WONDERBOOM 4 a 54,80€",
-      "link": "https://www.tomshw.it/offerte/la-cassa-da-piscina-che-galleggia-wonderboom-4-a-5480eur",
-      "excerpt": "Ultimate Ears WONDERBOOM 4 a 54,80€ su Amazon fa risparmiare 49,19€ sul listino di 103,99€, grazie a uno sconto del 47%. Suono a 360°, protezione IP67 e struttura galleggiante la…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102488/tomshw-offer-587724.png",
-      "publishedAt": "2026-07-21T18:02:23+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Amazon avrebbe spinto i fornitori ad alzare i prezzi sui siti rivali",
-      "link": "https://www.tomshw.it/business/amazon-avrebbe-spinto-i-fornitori-ad-alzare-i-prezzi-sui-siti-rivali",
-      "excerpt": "Una lampada passata da 24,99 a 39 dollari su Walmart, una friggitrice rincarata da 84,99 a 149,99 dollari su Newegg e una gelatiera ritirata da Best Buy: documenti interni,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/96403/amazon-ottiene-175-mebau70abttet7Yfi9Z1.webp",
-      "publishedAt": "2026-07-21T17:59:58+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Xiaomi lancia un super umidificatore e purificatore d'aria: efficace in 7 minuti",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n665022/xiaomi-mijia-purificatore-umidificatore-prezzo/",
-      "excerpt": "8 litri di serbatoio e fino a 16 ore di autonomia, può umidificare una stanza da letto in appena 7 minuti.",
-      "image": "https://hd2.tudocdn.net/1358027?w=660",
-      "publishedAt": "2026-07-21T17:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il bambù LEGO torna in sconto su Amazon: il regalo porta fortuna",
-      "link": "https://www.hdblog.it/amazon/offerte/n665018/bambu-lego-sconto-amazon-regalo-porta-fortuna/",
-      "excerpt": "Pollice verde in mattoncini.",
-      "image": "https://hd2.tudocdn.net/1358017?w=660",
-      "publishedAt": "2026-07-21T17:30:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Xiaomi molto ottimista sulla crisi dei chip: risolta già entro fine anno?",
-      "link": "https://www.hdblog.it/smartphone/articoli/n665019/crisi-chip-xiaomi-ottimista-conclusione/",
-      "excerpt": "A quanto pare la società ritiene che il peggio sia passato o stia per passare, e ha già rivisto verso l'alto le stime di vendita di smartphone per il 2026.",
-      "image": "https://hd2.tudocdn.net/1355800?w=660",
-      "publishedAt": "2026-07-21T17:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone 17 Pro Max è in offerta: è il momento di acquistarlo prima dei rincari di prezzo?",
-      "link": "https://www.hdblog.it/smartphone/offerte/n665015/iphone-17-pro-max-256-gb-offerta-luglio-2026/",
-      "excerpt": "iPhone 17 Pro Max è in offerta con un ottimo prezzo: è l'occasione giusta per acquistarlo prima dei rincari in arrivo per la gamma iPhone.",
-      "image": "https://hd2.tudocdn.net/1289496?w=660",
-      "publishedAt": "2026-07-21T17:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Crisi chip, ci si mette anche TSMC: aumento dei prezzi dal 2027",
-      "link": "https://www.hdblog.it/android/articoli/n665013/crisi-chip-tsmc-aumenti-listini-fonderie/",
-      "excerpt": "Tra il 5 e il 10%, a partire dal 2027. E se un ordine deve essere allargato, scatta un ulteriore sovrapprezzo del 15%.",
-      "image": "https://hd2.tudocdn.net/1108805?w=660",
-      "publishedAt": "2026-07-21T17:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "È alto appena 7,98 cm, ma Amazon taglia 700€ sul Saros 10R",
-      "link": "https://www.tomshw.it/offerte/e-alto-appena-798-cm-ma-amazon-taglia-700eur-sul-saros-10r",
-      "excerpt": "Roborock Saros 10R è a 799,99€ su Amazon: rispetto al listino di 1.499,99€, il taglio è del 47% e vale esattamente 700€. Il telaio alto appena 7,98 cm gli permette di raggiungere…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102487/tomshw-offer-587712.png",
-      "publishedAt": "2026-07-21T17:04:39+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "I gusci delle capesante diventano materiale per costruire le strade: al via progetto pilota",
-      "link": "https://www.hdmotori.it/capesante-asfalto-strada-progetto/",
-      "excerpt": "La Francia testa in Normandia un progetto che utilizza i gusci delle capesante per ridurre l'impiego di cemento nella costruzione delle strade",
-      "image": "https://hd2.tudocdn.net/1358015?w=660",
-      "publishedAt": "2026-07-21T17:00:36+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Peluche smart sempre più diffusi: si discute di privacy e altri problemi etici",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n664981/peluche-smart-privacy-problemi-etici/",
-      "excerpt": "L'AI non è un giocattolo",
-      "image": "https://hd2.tudocdn.net/1357469?w=660",
-      "publishedAt": "2026-07-21T16:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Chikungunya torna in Costa Rica dopo nove anni: confermati 21 casi",
-      "link": "https://www.tomshw.it/scienze/chikungunya-torna-in-costa-rica-dopo-nove-anni-confermati-21-casi",
-      "excerpt": "Ventuno casi di chikungunya sono stati confermati tramite test molecolari PCR in Costa Rica dall’inizio del 2026. I dati aggiornati del Ministero della Salute della Costa Rica,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102485/news-flash-587683.png",
-      "publishedAt": "2026-07-21T16:49:52+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Sony rilancia la causa contro Udio per oltre 30.000 brani",
-      "link": "https://www.hdblog.it/mercato/articoli/n665007/sony-udio-nuova-causa-ai-musica/",
-      "excerpt": "Sony avvia una nuova causa contro Udio per presunto uso illegale di oltre 30.000 registrazioni.",
-      "image": "https://hd2.tudocdn.net/1358009?w=660",
-      "publishedAt": "2026-07-21T16:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Google sfida Mythos: arriva l'AI che trova falle di sicurezza a basso costo",
-      "link": "https://www.hdblog.it/google/articoli/n665005/google-gemini-3-5-flash-cyber/",
-      "excerpt": "Gemini 3.5 Flash Cyber individua e corregge vulnerabilità spendendo molto meno.",
-      "image": "https://hd2.tudocdn.net/1358004?w=660",
-      "publishedAt": "2026-07-21T16:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Amazon taglia il prezzo della Instant Pot Duo Mini 3L: ora costa meno",
       "link": "https://images.dday.it/Oc7AVs4xqzk6ZAgQQUK7DfNGy0tV9V_Z92d2fE7WLag/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58126/436ee6_81RqwxRtMNL._AC_SL1500_.jpg",
       "excerpt": "Grazie allo sconto disponibile su Amazon puoi portarti a casa una delle multicooker più apprezzate, ideale per cucinare velocemente risparmiando tempo ed energia... Leggi tutto",
@@ -203,15 +230,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Una nuova generazione di hardware ibrido: la chiave per l'Edge AI",
-      "link": "https://www.tomshw.it/business/una-nuova-generazione-di-hardware-ibrido-la-chiave-per-ledge-ai",
-      "excerpt": "Poche settimane fa ho scritto dei vantaggi dell'elaborazione locale rispetto al cloud: latenza, privacy, continuità operativa, costi. Ho concluso dicendo che il futuro dell'AI non…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102359/ARDUINO_UNO-Q_Robotics.jpg",
-      "publishedAt": "2026-07-21T13:20:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Il volante Logitech G923 è crollato di prezzo su Amazon",
       "link": "https://images.dday.it/n4zTLOwn6HwJZiYMuirOsTeyfUbxBE2_1skEAvX0sfQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58122/edc9f1_71XBl4q0EjL._AC_SL1500_.jpg",
       "excerpt": "Chi sogna un'esperienza di guida più realistica può approfittare di questa offerta: il volante da corsa Logitech con tecnologia TRUEFORCE, ritorno di forza avanzato e…",
@@ -228,24 +246,6 @@
       "publishedAt": "2026-07-21T13:03:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Le aziende scoprono di non saper davvero ripristinare i propri database",
-      "link": "https://www.tomshw.it/business/le-aziende-scoprono-di-non-saper-davvero-ripristinare-i-propri-database",
-      "excerpt": "Molte aziende sono convinte di avere il disaster recovery sotto controllo. La documentazione è pronta, l'ambiente secondario è configurato, il piano di ripristino è stato…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102398/01-nutanix-recovery-cover-v2.jpg",
-      "publishedAt": "2026-07-21T12:25:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "I tuoi dati nel cloud finiscono più lontano di quanto pensi",
-      "link": "https://www.tomshw.it/business/i-tuoi-dati-nel-cloud-finiscono-piu-lontano-di-quanto-pensi",
-      "excerpt": "Prova a rispondere a una domanda semplice: quando trascini un file nel cloud, dove finisce esattamente? In quale città, in quale edificio, sotto quali leggi? La maggior parte…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102372/01-epicedge-cloud-cover-10pct.jpg",
-      "publishedAt": "2026-07-21T11:00:07+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "I prezzi di gasolio e benzina sono saliti ancora, scende il GPL. Quali sono le Regioni più care",
