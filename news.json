@@ -1,186 +1,240 @@
 {
-  "generatedAt": "2026-07-22T08:12:15.778263+00:00",
+  "generatedAt": "2026-07-22T11:42:57.341273+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "L'app per gestire i Galaxy Watch cambia faccia prima dell'Unpacked: nuovo design",
-      "link": "https://www.hdblog.it/samsung/articoli/n665056/galaxy-wear-app-samsung-aggiornata/",
-      "excerpt": "Arriva l'aggiornamento estetico più grande per l'app Galaxy Wearable",
-      "image": "https://hd2.tudocdn.net/1277697?w=660",
-      "publishedAt": "2026-07-22T08:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Nuova Ligier JS50: un quadriciclo leggero premium con tante sorprese - Video",
-      "link": "https://www.hdmotori.it/prove/nuova-ligier-js50-un-quadriciclo-leggero-premium-con-tante-sorprese-video/",
-      "excerpt": "Grazie al recente aggiornamento del pacco batterie, la Ligier JS50 compie un deciso salto di qualità, rafforzando ulteriormente il proprio posizionamento nel mercato delle minicar.",
-      "image": "https://hd2.tudocdn.net/1358117?w=660",
-      "publishedAt": "2026-07-22T08:00:35+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Assassin’s Creed in Limited Edition crolla a 30€: oggi costa il 40% in meno",
-      "link": "https://www.tomshw.it/videogioco/assassins-creed-shadows-limited-edition-ps5-40-2026-07-22",
-      "excerpt": "Su Amazon è disponibile un'offerta imperdibile su Assassin's Creed Shadows Limited Edition per PS5, esclusiva Amazon.it. La Limited Edition include il gioco base e il Pacchetto…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102570/assassins-creed-shadows-limited-edition-ps5-40-2026-07-22-GP6yWdugbimet8jnhacumMFj.png",
-      "publishedAt": "2026-07-22T07:57:48+00:00",
+      "title": "Reddit-Google, l'accordo da 60 milioni ora è a rischio",
+      "link": "https://www.tomshw.it/hardware/reddit-valuta-lo-stop-dei-contenuti-all-ai-di-google-accordo-da",
+      "excerpt": "Reddit ha discusso la possibilità di interrompere l’accesso di Google ai propri contenuti per gli impieghi legati all’intelligenza artificiale. L’ipotesi, riferita da persone a…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102641/news-flash-589253.png",
+      "publishedAt": "2026-07-22T11:28:13+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Falla Veeam: root sulle appliance Linux, ecco la patch",
-      "link": "https://www.tomshw.it/hardware/veeam-una-falla-locale-da-accesso-root-alle-appliance-linux-patch-disponibile",
-      "excerpt": "Un utente locale può ottenere privilegi root sulle appliance Linux associate a Veeam Backup & Replication 13 sfruttando una falla nel componente Veeam Updater. La vulnerabilità,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102568/news-flash-588421.png",
-      "publishedAt": "2026-07-22T07:57:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "iPhone Ultra, nuove conferme \"indirette\" dall'ultima Beta di iOS 27",
-      "link": "https://www.hdblog.it/smartphone/articoli/n665053/iphone-ultra-conferme-doppia-batteria-ios-27-beta/",
-      "excerpt": "Nelle impostazioni del sistema operativo si parla di \"batterie\", al plurale.",
-      "image": "https://hd2.tudocdn.net/1356141?w=660",
-      "publishedAt": "2026-07-22T07:55:00+00:00",
+      "title": "Women in Blue 2: il thriller Apple TV torna con un caso ispirato alla storia",
+      "link": "https://www.hdblog.it/apple/articoli/n665044/women-in-blue-stagione-2-apple-tv/",
+      "excerpt": "Women in Blue torna su Apple TV con un'indagine legata al massacro del 1968.",
+      "image": "https://hd2.tudocdn.net/1358079?w=660",
+      "publishedAt": "2026-07-22T11:20:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Il prezzo di questo ASUS ROG Strix crolla e fa dimenticare i recenti rincari dell'hardware",
-      "link": "https://www.tomshw.it/hardware/asus-rog-strix-g16-con-rtx-5060-a-soli-1569eur-2026-07-22",
-      "excerpt": "Su Amazon è disponibile l'ASUS ROG Strix G16 G614PM-S5004W, un potente laptop da gaming equipaggiato con processore AMD Ryzen 9 8940HX, NVIDIA GeForce RTX 5060, schermo ROG Nebula…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102552/asus-rog-strix-g16-con-rtx-5060-a-soli-1569eur-2026-07-22-yjYo9e5q9nt0r04fj6LsE0QZ.png",
-      "publishedAt": "2026-07-22T07:54:13+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Uno stadio Falcon 9 colpirà la Luna il 5 agosto: cratere fino a 30 metri",
-      "link": "https://www.tomshw.it/scienze/uno-stadio-falcon-9-colpira-la-luna-il-5-agosto-cratere-fino",
-      "excerpt": "Uno stadio superiore Falcon 9 da circa 4.900 chilogrammi colpirà la Luna il 5 agosto 2026, offrendo un’occasione controllabile per studiare la formazione di un cratere e il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102550/news-flash-588322.png",
-      "publishedAt": "2026-07-22T07:52:26+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Threads introduce i blocchi notturni per i minori, si parte dagli USA",
-      "link": "https://www.tomshw.it/hardware/threads-limiti-e-blocchi-notturni-per-i-figli-si-parte-dagli-usa",
-      "excerpt": "Threads permetterà ai genitori di verificare quanto tempo gli adolescenti trascorrono sulla piattaforma e di limitarne l'utilizzo da telefono e computer. La supervisione…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102542/New-Parental-Supervision-Tools-Now-Available-on-Threads_Header.jpg",
-      "publishedAt": "2026-07-22T07:49:21+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Lanciati i nuovi pieghevoli Samsung: ecco le 6 alternative top già crollate di prezzo",
-      "link": "https://www.tomshw.it/smartphone/lanciati-i-nuovi-pieghevoli-samsung-ecco-le-6-alternative-top-gia-crollate-di-prezzo",
-      "excerpt": "Il giorno dell'annuncio ufficiale dei nuovi Samsung Galaxy Z Fold8 e Z Flip8 è arrivato, catalizzando l'attenzione di appassionati e addetti ai lavori. Ma se da un lato il debutto…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102535/Lanciati-i-nuovi-pieghevoli-Samsung-ecco-le-6-alternative-top-già-crollate-di-prezzo.png",
-      "publishedAt": "2026-07-22T07:48:28+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Apple punta sul noleggio per affrontare i rincari di iPhone e Mac",
-      "link": "https://www.hdblog.it/smartphone/articoli/n665055/apple-iphone-mac-noleggio-leasing/",
-      "excerpt": "Apple starebbe preparando un nuovo modello di acquisto per iPhone e altri prodotti. Secondo Bloomberg, Apple Upgrade offrirà maggiore flessibilità ai clienti in un contesto di…",
-      "image": "https://hd2.tudocdn.net/1234942?w=660",
-      "publishedAt": "2026-07-22T07:45:00+00:00",
+      "title": "Firefox 153 è qui con novità importanti per PDF, supporto HDR e non solo",
+      "link": "https://www.hdblog.it/linux/articoli/n665094/firefox-153-esr-pdf-qr-code-hdr-novita-update/",
+      "excerpt": "Ecco cosa cambia.",
+      "image": "https://hd2.tudocdn.net/1344420?w=660",
+      "publishedAt": "2026-07-22T11:15:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Addio multi monitor: come un singolo Ultrawide da 39\" rivoluziona i simulatori",
-      "link": "https://www.tomshw.it/hardware/addio-multi-monitor-come-un-singolo-ultrawide-da-39-rivoluziona-le-postazioni-da-sim-racing-e-flight-sim",
-      "excerpt": "Chi ha montato una postazione da sim racing o da flight sim conosce bene il rituale del triplo monitor: tre pannelli da allineare e angolare al millimetro, una calibrazione da…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100780/LG-ultraGear-evo-AI-39GX950B-(8).jpg",
-      "publishedAt": "2026-07-22T07:44:45+00:00",
+      "title": "Emulatore PS3 su Linux gira sulle Radeon del 2007",
+      "link": "https://www.tomshw.it/hardware/rpcs3-su-linux-gira-sulle-radeon-del-2007-nuovo-minimo-la-hd",
+      "excerpt": "Una Radeon HD 2900 XT del 2007 rappresenta ora il requisito minimo ufficiale per eseguire RPCS3. Il team dell'emulatore PlayStation 3 ha aggiunto su Linux il supporto alle GPU ATI…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102622/hPxrCnciuXxmjC3PZZ3p95-1920-80.jpg",
+      "publishedAt": "2026-07-22T11:10:27+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Sempre più italiani dialogano con l’AI: i dati del nuovo studio Samsung",
-      "link": "https://www.hdblog.it/samsung/articoli/n665020/italiani-dialogo-ai-dati-studio-samsung/",
-      "excerpt": "Più della metà degli italiani preferisce interagire via testo.",
-      "image": "https://hd2.tudocdn.net/1358020?w=660",
-      "publishedAt": "2026-07-22T07:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Masters of the Universe arriva su Prime Video: tutto sul film di He-Man",
-      "link": "https://www.hdblog.it/amazon/articoli/n665052/masters-of-the-universe-prime-video-film-2026/",
-      "excerpt": "He-Man torna in live action su Prime Video con Nicholas Galitzine e Jared Leto.",
-      "image": "https://hd2.tudocdn.net/1358091?w=660",
-      "publishedAt": "2026-07-22T07:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung, non solo Fold e Flip: attesi i Watch 9 e un'anteprima dei Galaxy Glasses",
-      "link": "https://www.hdblog.it/indossabili/articoli/n665049/samsung-attesi-watch-9-anteprima-galaxy-glasses/",
-      "excerpt": "Il Galaxy Unpacked in programma oggi a Londra non sarà dedicato soltanto ai nuovi smartphone pieghevoli",
-      "image": "https://hd2.tudocdn.net/1358109?w=660",
-      "publishedAt": "2026-07-22T07:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Un Falcon 9 colpirà la Luna il 5 agosto: ecco cosa potremo imparare",
-      "link": "https://www.hdblog.it/curiosita/articoli/n665048/spacex-impatto-luna-falcon-9/",
-      "excerpt": "Il secondo stadio di un Falcon 9 colpirà la Luna offrendo dati preziosi agli astronomi.",
-      "image": "https://hd2.tudocdn.net/1358085?w=660",
-      "publishedAt": "2026-07-22T07:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Kena fa un regalo ai suoi clienti: come avere 70 Giga gratis in 5G",
-      "link": "https://www.hdblog.it/smartphone/articoli/n665026/kena-mobile-70-giga-gratis/",
-      "excerpt": "Kena offre gratuitamente 70 Giga extra in 5G per tre giorni ad alcuni utenti selezionati.",
-      "image": "https://hd2.tudocdn.net/1358056?w=660",
-      "publishedAt": "2026-07-22T07:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "INIU, tre cavi USB-C a meno di 10€: un kit utile in ogni stanza",
-      "link": "https://www.tomshw.it/smartphone/iniu-tre-cavi-usb-c-a-meno-di-10-euro-un-kit-utile-in-ogni-stanza-2026-07-22",
-      "excerpt": "INIU propone un kit di tre cavi USB-A/USB-C in lunghezze diverse, utile per lasciare un collegamento stabile nei punti in cui ricaricate più spesso i vostri dispositivi. La…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/05/94568/INIU-Cavo-USB-Type-C.jpg",
-      "publishedAt": "2026-07-22T07:02:10+00:00",
+      "title": "Gemini 3.5 Flash Cyber: 55 falle in V8, accesso riservato a governi e partner",
+      "link": "https://www.tomshw.it/hardware/gemini-3-5-flash-cyber-55-falle-in-v8-accesso-riservato-a",
+      "excerpt": "Gemini 3.5 Flash Cyber ha individuato 55 vulnerabilità uniche confermate nel motore JavaScript V8, comprese dieci che gli altri modelli coinvolti nel confronto non avrebbero…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102621/news-flash-589138.png",
+      "publishedAt": "2026-07-22T11:09:18+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Samsung Galaxy S26 Ultra, il Privacy Display si fa sempre più versatile",
-      "link": "https://www.hdblog.it/smartphone/articoli/n665050/galaxy-s26-ultra-one-ui-9-pip-privacy-display/",
-      "excerpt": "Con la One UI 9 potrà oscurare solo le finestre PiP.",
-      "image": "https://hd2.tudocdn.net/1327019?w=660",
-      "publishedAt": "2026-07-22T06:55:00+00:00",
+      "title": "Claude rende obsoleto il prompt: impara procedure guardando lo schermo",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n665098/claude-ai-prompt-registra-schermo-procedure/",
+      "excerpt": "Anthropic promette che questo sistema renderà più semplice ed efficace l'apprendimento di nuove procedure complesse - e la loro applicazione in modo coerente e costante.",
+      "image": "https://hd2.tudocdn.net/1354603?w=660",
+      "publishedAt": "2026-07-22T11:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Migliori webcam per videoconferenza (luglio 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-webcam-professionali-videoconferenza",
-      "excerpt": "Se gestite riunioni ibride, lezioni, webinar o conferenze in sale medio-grandi, una webcam professionale non serve solo a ottenere un'immagine più nitida: serve a far vedere e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/87497/migliori-webcam-videoconferenza-copertina.jpg",
-      "publishedAt": "2026-07-22T06:08:26+00:00",
+      "title": "Apple MagSafe in pelle a 26,45€: -62% per iPhone 14 Plus",
+      "link": "https://www.tomshw.it/offerte/apple-magsafe-in-pelle-a-2645eur-62-per-iphone-14-plus",
+      "excerpt": "La custodia Apple MagSafe in pelle per iPhone 14 Plus costa 26,45€ su Amazon, con il 62% di sconto sui 69€ di listino e un risparmio immediato di 42,55€. Pelle morbida, aggancio…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102624/tomshw-offer-589181.png",
+      "publishedAt": "2026-07-22T11:02:53+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "UGREEN Nexode 300W, un solo caricatore per cinque dispositivi ora costa meno",
-      "link": "https://www.tomshw.it/smartphone/ugreen-nexode-300w-un-solo-caricatore-per-cinque-dispositivi-ora-costa-meno-2026-07-22",
-      "excerpt": "UGREEN Nexode 300W è una stazione di ricarica GaN progettata per alimentare contemporaneamente notebook, tablet, smartphone e accessori da un solo punto. Il modello con quattro…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/95360/ugreen-nexode-300w-a-133eur-caricatore-gan-scrivanie-device-202rgqqe1mnccmgfLX41bJ.png",
-      "publishedAt": "2026-07-22T05:13:07+00:00",
+      "title": "Come funziona il Sorpassometro, quali sono le sanzioni e quando fare ricorso",
+      "link": "https://www.hdmotori.it/sorpassometro-funzioni-multe-ricorso/",
+      "excerpt": "Come funziona il sorpassometro, quali sono le sanzioni per chi viola il divieto e come verificare se ci sono i presupposti per fare ricorso contro la multa",
+      "image": "https://hd2.tudocdn.net/1358202?w=660",
+      "publishedAt": "2026-07-22T11:00:29+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google Meet sta diventando più versatile per gli abbonati a Workspace",
+      "link": "https://www.hdblog.it/google/articoli/n665095/google-meet-web-nuova-interfaccia-home/",
+      "excerpt": "Documenti, file, dettagli, appunti, trascrizioni automatiche delle riunioni compariranno nella home, evitando all'utente di saltare continuamente da un'app all'altra.",
+      "image": "https://hd2.tudocdn.net/1268777?w=660",
+      "publishedAt": "2026-07-22T10:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Huawei prepara un nuovo smartphone con batteria esagerata da 10.000 mAh",
+      "link": "https://www.hdblog.it/smartphone/articoli/n665067/huawei-smartphone-batteria-10000/",
+      "excerpt": "Spuntano i primi indizi su un nuovo smartphone Huawei con display da 6,84 pollici e batteria da 10.000 mAh.",
+      "image": "https://hd2.tudocdn.net/1358145?w=660",
+      "publishedAt": "2026-07-22T10:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Intel, conti il 23 luglio: l’AI giustifica il rally del 185%?",
+      "link": "https://www.tomshw.it/hardware/intel-conti-il-23-luglio-l-ai-giustifica-il-rally-del-185",
+      "excerpt": "Un rialzo azionario del 185% dall’inizio del 2026 alza drasticamente le aspettative sui prossimi conti di Intel. Il gruppo pubblicherà i risultati del secondo trimestre giovedì 23…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102619/news-flash-589099.png",
+      "publishedAt": "2026-07-22T10:45:59+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "TP-Link lancia Archer NX500-Outdoor: caratteristiche e prezzo del nuovo router 5G",
+      "link": "https://www.hdblog.it/hardware/articoli/n665093/tplink-router-5g-alte-prestazioni-archer/",
+      "excerpt": "Pensato per abitazioni e attività senza fibra, TP-Link Archer NX500-Outdoor sfrutta la rete 5G per distribuire internet via Wi-Fi 6 sia all'esterno sia all'interno dell'edificio,…",
+      "image": "https://hd2.tudocdn.net/1358188?w=660",
+      "publishedAt": "2026-07-22T10:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Robot umanoidi, la Cina testa il futuro con il primo torneo di combattimento freestyle",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n665045/robot-umanoide-combattimento-cina/",
+      "excerpt": "Robot umanoidi combattono in Cina: il test mostra equilibrio, resistenza e controllo.",
+      "image": "https://hd2.tudocdn.net/1358081?w=660",
+      "publishedAt": "2026-07-22T10:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Ecco Gemini 3.6 Flash: usa meno token e costa meno. C'è anche 3.5 Flash Cyber: scova falle di sicurezza",
+      "link": "https://images.dday.it/3JV4kWNwA0-f74z_DzXcwrE6gp7GWPsJxFsfh10vcfk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58136/674ff9_Depositphotos_830981706_XL.jpg",
+      "excerpt": "Il nuovo modello 3.6 Flash promette maggiore efficienza nei flussi agentici, migliori prestazioni nel coding e costi inferiori. Arrivano anche Gemini 3.5 Flash-Lite e una versione…",
+      "image": "https://images.dday.it/3JV4kWNwA0-f74z_DzXcwrE6gp7GWPsJxFsfh10vcfk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58136/674ff9_Depositphotos_830981706_XL.jpg",
+      "publishedAt": "2026-07-22T10:33:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Anche Philips Hue si arrende alle telecamere per sincronizzare le luci al TV",
+      "link": "https://www.hdblog.it/philips/articoli/n665091/philips-hue-screen-sync-fotocamera-specifiche/",
+      "excerpt": "La presentazione potrebbe avvenire a IFA 2026, tra poche settimane.",
+      "image": "https://hd2.tudocdn.net/1358176?w=660",
+      "publishedAt": "2026-07-22T10:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Le stazioni meteo domestiche possono migliorare le previsioni del tempo",
+      "link": "https://www.hdblog.it/home/articoli/n665090/stazione-meteo-original-netatmo-ricerca-previsioni/",
+      "excerpt": "Netatmo propone le sue stazioni meteo smart come strumenti per condividere dati ambientali in forma anonima. Le misurazioni possono aiutare ricercatori e servizi meteorologici a…",
+      "image": "https://hd2.tudocdn.net/1358172?w=660",
+      "publishedAt": "2026-07-22T10:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "TIM sfida la neutralità di rete con l’offerta Priority: se paghi di più il tuo traffico ha la precedenza",
+      "link": "https://images.dday.it/LMCsP3YGTd_U8FrVxrCdhmEuM8Zj_sd9x7441bEDQRU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58132/d99684_TIM_Priority.jpg",
+      "excerpt": "TIM ha annunciato un nuovo servizio destinato a far discutere perché apparentemente in contrapposizione con la normativa europea sulla neutralità di rete: chi paga di più può…",
+      "image": "https://images.dday.it/LMCsP3YGTd_U8FrVxrCdhmEuM8Zj_sd9x7441bEDQRU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58132/d99684_TIM_Priority.jpg",
+      "publishedAt": "2026-07-22T10:18:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Australia, sei sfere metalliche sulla spiaggia: probabili detriti di un razzo",
+      "link": "https://www.tomshw.it/scienze/australia-sei-sfere-metalliche-sulla-spiaggia-probabili-detriti-di-un-razzo",
+      "excerpt": "Sei sfere metalliche recuperate sulla costa del Queensland sarebbero sopravvissute al rientro incontrollato di un corpo di razzo straniero. La valutazione ufficiale…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102610/VJTPDjBRcoUBdVgVyNBM7J-2000-80.jpg",
+      "publishedAt": "2026-07-22T10:08:09+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Una galassia a 34,99€: Star Wars Outlaws Gold è al minimo",
+      "link": "https://www.tomshw.it/offerte/una-galassia-a-3499eur-star-wars-outlaws-gold-e-al-minimo",
+      "excerpt": "Star Wars Outlaws Gold Edition per Switch 2 costa 34,99€ su Amazon, invece dei 59,99€ di listino, con uno sconto del 42%. Il pacchetto riunisce il gioco Ubisoft e il Season Pass…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102609/tomshw-offer-588928.png",
+      "publishedAt": "2026-07-22T10:03:08+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Vuoi un videocitofono smart? Arlo Essential HD è in offerta al minimo storico e include anche il campanello Chime",
+      "link": "https://images.dday.it/hWTNI2nqfpRtctZoXgX9sGjKJDX74XE4fKqCMQ5DNGM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58134/5ebaf2_61B+GNqpgxL._AC_SL1500_.jpg",
+      "excerpt": "Arlo Essential HD è in offerta su Amazon: ricevi notifiche istantanee, guarda chi suona in HD e parla con i visitatori direttamente dal tuo smartphone... Leggi tutto",
+      "image": "https://images.dday.it/hWTNI2nqfpRtctZoXgX9sGjKJDX74XE4fKqCMQ5DNGM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58134/5ebaf2_61B+GNqpgxL._AC_SL1500_.jpg",
+      "publishedAt": "2026-07-22T09:57:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "La Smart #2 si fa vedere (camuffata) prima del debutto al Salone di Parigi di ottobre",
+      "link": "https://images.dday.it/5KWIhD0oNM9x95WHx2Uch7936RSebQ8Gz39TUpC10XE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58135/7f8512_smart2_thumb.jpg",
+      "excerpt": "I prototipi pre-serie della Smart #2 stanno affrontando prove su strada e in laboratorio. La versione definitiva sarà presentata al Salone di Parigi di ottobre... Leggi tutto",
+      "image": "https://images.dday.it/5KWIhD0oNM9x95WHx2Uch7936RSebQ8Gz39TUpC10XE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58135/7f8512_smart2_thumb.jpg",
+      "publishedAt": "2026-07-22T09:44:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "I dipendenti chiedono aiuto all'AI, non più ai colleghi",
+      "link": "https://www.tomshw.it/business/i-dipendenti-chiedono-aiuto-allai-non-piu-ai-colleghi",
+      "excerpt": "Il 74% di chi usa regolarmente l'AI ormai le rivolge le domande che prima avrebbe fatto a un collega. Non stiamo parlando di riunioni sostituite da un chatbot, ma di qualcosa di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102560/02-dipendenti-ai-colleghi-cover.jpg",
+      "publishedAt": "2026-07-22T08:32:30+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Due modelli di OpenAI hanno violato Hugging Face. Hanno trovato l'accesso a Internet da soli",
+      "link": "https://images.dday.it/H-JFiRcmMSWYlFjl2PMWdLCZv_2xwDmk1Ha3YutpfFM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58131/ceb7f4_Depositphotos_640750102_XL.jpg",
+      "excerpt": "GPT-5.6 Sol e un modello ancora in fase di sviluppo hanno scoperto vulnerabilità zero-day, ottenuto l’accesso a Internet e raggiunto i database della piattaforma nel tentativo di…",
+      "image": "https://images.dday.it/H-JFiRcmMSWYlFjl2PMWdLCZv_2xwDmk1Ha3YutpfFM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58131/ceb7f4_Depositphotos_640750102_XL.jpg",
+      "publishedAt": "2026-07-22T08:22:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "NIGHTBORNE è il corto di Neill Blomkamp interamente realizzato con l'IA",
+      "link": "https://images.dday.it/W06TZVSJUtQIQT8ml9jsvfZAHoehPA4HXolJULVYf_I/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58130/217330_Nightborne.jpg",
+      "excerpt": "Il regista di District 9 ha realizzato un cortometraggio utilizzando la piattaforma Seedance 2.0, partendo da foto e voci di attori reali e concept art create ad hoc. Un esempio…",
+      "image": "https://images.dday.it/W06TZVSJUtQIQT8ml9jsvfZAHoehPA4HXolJULVYf_I/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58130/217330_Nightborne.jpg",
+      "publishedAt": "2026-07-22T08:00:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "I migliori ventilatori (luglio 2026)",
+      "link": "https://www.tomshw.it/altro/migliori-ventilatori",
+      "excerpt": "Quando il caldo entra in casa, un ventilatore resta una delle soluzioni più semplici per migliorare subito il comfort senza affrontare installazioni, unità esterne o consumi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/05/93405/migliori-ventilatori-copertina.jpg",
+      "publishedAt": "2026-07-22T06:17:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori climatizzatori (luglio 2026)",
+      "link": "https://www.tomshw.it/offerte/migliori-climatizzatori",
+      "excerpt": "Se cercate un elettrodomestico capace di mantenere stabile la temperatura di casa in estate e in inverno, un climatizzatore fisso resta la soluzione più completa rispetto ai…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/90963/migliori-climatizzatori-copertina.jpg",
+      "publishedAt": "2026-07-22T06:14:32+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -217,60 +271,6 @@
       "excerpt": "Grazie allo sconto disponibile su Amazon puoi portarti a casa una delle multicooker più apprezzate, ideale per cucinare velocemente risparmiando tempo ed energia... Leggi tutto",
       "image": "https://images.dday.it/Oc7AVs4xqzk6ZAgQQUK7DfNGy0tV9V_Z92d2fE7WLag/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58126/436ee6_81RqwxRtMNL._AC_SL1500_.jpg",
       "publishedAt": "2026-07-21T15:04:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Cirqa è il nuovo smart band di Garmin. Non ha lo schermo e non serve l'abbonamento",
-      "link": "https://images.dday.it/gAAJk_GSO9lWg7XhiuGSH3FFOqtvNyyxYgYSEu1JTss/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58124/3478bc_immagine.jpg",
-      "excerpt": "Lo smart band monitora salute, sonno e oltre 80 attività. Fino a dieci giorni di autonomia... Leggi tutto",
-      "image": "https://images.dday.it/gAAJk_GSO9lWg7XhiuGSH3FFOqtvNyyxYgYSEu1JTss/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58124/3478bc_immagine.jpg",
-      "publishedAt": "2026-07-21T14:10:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il volante Logitech G923 è crollato di prezzo su Amazon",
-      "link": "https://images.dday.it/n4zTLOwn6HwJZiYMuirOsTeyfUbxBE2_1skEAvX0sfQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58122/edc9f1_71XBl4q0EjL._AC_SL1500_.jpg",
-      "excerpt": "Chi sogna un'esperienza di guida più realistica può approfittare di questa offerta: il volante da corsa Logitech con tecnologia TRUEFORCE, ritorno di forza avanzato e…",
-      "image": "https://images.dday.it/n4zTLOwn6HwJZiYMuirOsTeyfUbxBE2_1skEAvX0sfQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58122/edc9f1_71XBl4q0EjL._AC_SL1500_.jpg",
-      "publishedAt": "2026-07-21T13:03:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Esclusive Xbox, quali giochi sì e quali giochi no? Continua a regnare la confusione",
-      "link": "https://images.dday.it/ZtlLyIJguF5pX0x2yOI5O_XAul8FenDFqEPcDfiy9lk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58123/ccee2e_Depositphotos_437648626_XL.jpg",
-      "excerpt": "Matt Booty e Matthew Ball ammettono che la strategia non è stata sempre comprensibile. In futuro, insieme alla data di uscita, verranno indicate anche tutte le piattaforme…",
-      "image": "https://images.dday.it/ZtlLyIJguF5pX0x2yOI5O_XAul8FenDFqEPcDfiy9lk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58123/ccee2e_Depositphotos_437648626_XL.jpg",
-      "publishedAt": "2026-07-21T13:03:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "I prezzi di gasolio e benzina sono saliti ancora, scende il GPL. Quali sono le Regioni più care",
-      "link": "https://images.dday.it/uU3-Y2FgjeM1fMODDUgRoEJJ_mpXLgb4H7Q9cQHlwDo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58120/bfdabf_fuel_thumb.jpg",
-      "excerpt": "La Provincia di Bolzano svetta per prezzi medi sia per gasolio sia per benzina... Leggi tutto",
-      "image": "https://images.dday.it/uU3-Y2FgjeM1fMODDUgRoEJJ_mpXLgb4H7Q9cQHlwDo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58120/bfdabf_fuel_thumb.jpg",
-      "publishedAt": "2026-07-21T10:26:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Samsung Display inizia la produzione di schermi OLED per portatili da 1600 nit",
-      "link": "https://images.dday.it/uLB1hvKqQpjJxbQzYROJWkCqXT8V9JOTnLyXO0wENYA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58119/d84e62__zngNYSluH_20260720090533.jpg",
-      "excerpt": "Samsung Display fornirà nuovi display tandem OLED per notebook compatibili con la nuova certificazione VESA DisplayHDR True Black 1400 a produttori come ASUS, Dell, Lenovo e…",
-      "image": "https://images.dday.it/uLB1hvKqQpjJxbQzYROJWkCqXT8V9JOTnLyXO0wENYA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58119/d84e62__zngNYSluH_20260720090533.jpg",
-      "publishedAt": "2026-07-21T09:03:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Un giudice si schiera contro l’acquisizione di Warner Bros. Discovery da parte di Paramount",
-      "link": "https://images.dday.it/Pk8Gf5gEmiKAiyo-rd8IU7Fm4qrmK1azDPSIAgWFgJk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58117/67b4c4_Depositphotos_857118046_XL.jpg",
-      "excerpt": "La sospensione di 14 giorni è dovuta all’istanza presentata da 12 stati americani ad un tribunale della California per i rischi sulla concorrenza nel mercato della distribuzione…",
-      "image": "https://images.dday.it/Pk8Gf5gEmiKAiyo-rd8IU7Fm4qrmK1azDPSIAgWFgJk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58117/67b4c4_Depositphotos_857118046_XL.jpg",
-      "publishedAt": "2026-07-21T08:30:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
