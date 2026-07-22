@@ -1,9 +1,81 @@
 {
-  "generatedAt": "2026-07-22T17:08:39.207501+00:00",
+  "generatedAt": "2026-07-22T19:00:18.023933+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Apple ha grandi piani per i suoi Mac desktop, nonostante la crisi dei chip",
+      "link": "https://www.hdblog.it/hardware/articoli/n665160/apple-mac-mini-studio-imac-oled-m5-m6-pro-max/",
+      "excerpt": "In cantiere un nuovo Mac Mini (con due generazioni di chip), un Mac Studio e, più avanti, arriverà anche un iMac OLED.",
+      "image": "https://hd2.tudocdn.net/1101683?w=660",
+      "publishedAt": "2026-07-22T18:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "8K, rete e 90 W sulla scrivania: dock Belkin TB4 al 38%",
+      "link": "https://www.tomshw.it/offerte/8k-rete-e-90-w-sulla-scrivania-dock-belkin-tb4-al-38",
+      "excerpt": "La Belkin Dock Thunderbolt 4 Pro costa 265,70€ su Amazon, con uno sconto del 38% sul listino di 429,99€ e un risparmio di 164,29€. Un unico collegamento permette di portare sulla…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102743/tomshw-offer-590837.png",
+      "publishedAt": "2026-07-22T18:03:37+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "SpaceX continua a sgonfiarsi in borsa: perdite per sette giorni di fila",
+      "link": "https://www.hdblog.it/mercato/articoli/n665154/spacex-borsa-andamento-calo-costante/",
+      "excerpt": "Siamo ormai a 120 dollari per azione contro i 160 dell'IPO.",
+      "image": "https://hd2.tudocdn.net/1351908?w=660",
+      "publishedAt": "2026-07-22T17:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nintendo non vuole rimborsare i clienti anche se riceverà un risarcimento sui dazi",
+      "link": "https://www.hdblog.it/nintendo/articoli/n665151/nintendo-rimborsi-dazi-switch-2-class-action-usa/",
+      "excerpt": "È scontro negli Stati Uniti.",
+      "image": "https://hd2.tudocdn.net/1292714?w=660",
+      "publishedAt": "2026-07-22T17:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Audi A2 sorpresa con poche camuffature, il remake del mito anni 2000 è quasi pronto",
+      "link": "https://www.hdmotori.it/audi-a2-senza-veli/",
+      "excerpt": "Audi riporta in vita la A2 in versione elettrica. Ecco tutto quello che sappiamo su autonomia, motori, consumi e dotazione",
+      "image": "https://hd2.tudocdn.net/1358334?w=660",
+      "publishedAt": "2026-07-22T17:30:52+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "UE, elettrificazione al 46% entro il 2040: fino a 260 miliardi di risparmi l’anno",
+      "link": "https://www.tomshw.it/scienze/ue-elettrificazione-al-46-entro-il-2040-fino-a-260-miliardi-di",
+      "excerpt": "La crisi mediorientale ha aggiunto circa 50 miliardi di euro alla spesa dell’Unione europea per i combustibili fossili. La stima, elaborata a fine giugno dalla Commissione…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102740/news-flash-590800.png",
+      "publishedAt": "2026-07-22T17:23:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "AI, il boom peserà sulle bollette? Dagli USA una prima iniziativa per evitarlo",
+      "link": "https://www.hdblog.it/mercato/articoli/n665109/ai-boom-bollette-usa-iniziativa/",
+      "excerpt": "Ma potrebbe non bastare",
+      "image": "https://hd2.tudocdn.net/1202807?w=660",
+      "publishedAt": "2026-07-22T17:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Raspberry Pi, arriva il Touch Display 2 10\" con diverse migliorie tecniche",
+      "link": "https://www.hdblog.it/domotica/articoli/n665148/raspberry-pi-touch-display-2-10-pollici-prezzo/",
+      "excerpt": "Non è molto retrocompatibile, ma ha risoluzione WUXGA 1200p e altre caratteristiche avanzate.",
+      "image": "https://hd2.tudocdn.net/1358333?w=660",
+      "publishedAt": "2026-07-22T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "HMD Global: spunta l’inedito Nokia 123 Shield per chiamate e SMS",
       "link": "https://www.hdblog.it/smartphone/articoli/n665141/hmd-global-nokia-123-shield-chiamate-e-sms/",
@@ -12,6 +84,15 @@
       "publishedAt": "2026-07-22T17:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Una USB-C diventa 11 porte: Anker 565 a 54,27€ su Amazon",
+      "link": "https://www.tomshw.it/offerte/una-usb-c-diventa-11-porte-anker-565-a-5427eur-su-amazon",
+      "excerpt": "Anker 565 11-in-1 costa 54,27€ su Amazon, anziché 89,99€ di listino: lo sconto del 38% permette di risparmiare 35,72€. Una sola USB-C del notebook può così gestire schermi, rete,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102741/tomshw-offer-590811.png",
+      "publishedAt": "2026-07-22T17:02:29+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Il sistema di Meta per rilevare contenuti AI è ancora molto acerbo",
@@ -57,114 +138,6 @@
       "publishedAt": "2026-07-22T16:22:32+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Grande Barriera Corallina: scoperte 584 specie sconosciute e 362.802 virus",
-      "link": "https://www.tomshw.it/scienze/grande-barriera-corallina-584-specie-sconosciute-stimati-362-802-virus",
-      "excerpt": "Nelle acque della Grande Barriera Corallina sono state identificate 584 specie batteriche e archeali che non risultavano documentate. L’analisi del DNA ha inoltre prodotto 808.585…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102732/Beautiful_coral_reef,_Batangas,_Anilao_-_panoramio.jpg",
-      "publishedAt": "2026-07-22T16:21:38+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Apple corregge Hide My Email: gli alias creati prima del 7 luglio possono aver esposto l’email",
-      "link": "https://www.tomshw.it/hardware/apple-corregge-hide-my-email-gli-alias-creati-prima-del-7-luglio",
-      "excerpt": "Un alias di Hide My Email poteva essere usato per risalire all’indirizzo di posta reale che avrebbe dovuto proteggere. Apple ha comunicato di avere distribuito il 3 luglio 2026…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99217/hide-my-email-di-apple-puo-esporre-gli-indirizzi-reali.png",
-      "publishedAt": "2026-07-22T16:19:33+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Esoluna gigante orbita una nana bruna: la scoperta",
-      "link": "https://www.tomshw.it/scienze/prima-esoluna-ha-quasi-la-massa-di-giove-e-orbita-una-nana",
-      "excerpt": "Un corpo con una massa minima vicina a quella di Giove sembra orbitare attorno a CD-35 2722 B, una nana bruna distante circa 73 anni luce dalla Terra. Il gruppo internazionale…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102728/Triple-star_sunset.jpg",
-      "publishedAt": "2026-07-22T16:18:03+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "iOS 27: arriva l'Incolla rapido sopra la tastiera",
-      "link": "https://www.tomshw.it/hardware/ios-27-la-beta-aggiunge-l-incolla-con-un-tocco-sopra-la",
-      "excerpt": "Incollare un contenuto su iPhone richiederà un passaggio in meno con iOS 27. Nella versione beta del sistema, dopo aver copiato un testo, un collegamento o un’immagine, sopra la…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102726/iOS-27-Mock-Quick.jpg",
-      "publishedAt": "2026-07-22T16:16:11+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "AMD e Anthropic siglano una partnership pluriennale da 5 miliardi di dollari",
-      "link": "https://www.hdblog.it/amd/articoli/n665142/anthropic-amd-partnership-gpu-claude-5-miliardi/",
-      "excerpt": "AMD guadagna un cliente di prestigio nella corsa all'AI, Claude riceve tanta potenza di calcolo a prezzi vantaggiosi.",
-      "image": "https://hd2.tudocdn.net/1349884?w=660",
-      "publishedAt": "2026-07-22T16:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Android 17: da iPhone passano anche eSIM, password e passkey senza fili",
-      "link": "https://www.tomshw.it/smartphone/android-17-da-iphone-passano-anche-esim-password-e-passkey-senza-fili",
-      "excerpt": "Android 17 amplia sensibilmente i dati che possono passare da un iPhone a un nuovo smartphone Android. La procedura aggiornata di Android Switch include eSIM, account Google,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102723/news-flash-590569.png",
-      "publishedAt": "2026-07-22T16:12:46+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il ritorno dei Lumia? HMD potrebbe resuscitare il marchio e l'interfaccia",
-      "link": "https://www.hdblog.it/smartphone/articoli/n665133/hmd-interfaccia-windows-phone-live-tiles-lumia/",
-      "excerpt": "Vi ricordate i Lumia, Windows Phone e le sue Live Tiles?",
-      "image": "https://hd2.tudocdn.net/1358317?w=660",
-      "publishedAt": "2026-07-22T16:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Logitech G309 a metà prezzo: HERO 25K e 300 ore senza cavo",
-      "link": "https://www.tomshw.it/offerte/logitech-g309-a-meta-prezzo-hero-25k-e-300-ore-senza-cavo",
-      "excerpt": "A 39,54€ su Amazon, Logitech G G309 LIGHTSPEED passa dai 79,99€ di listino alla metà del prezzo, con uno sconto del 51% e 40,45€ di risparmio. Sensore HERO 25K, collegamento a…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102721/tomshw-offer-590540.png",
-      "publishedAt": "2026-07-22T16:02:47+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Salva la Ferrari rubata a poche ore dalla Coppa Selva di Fasano: ritrovata in Puglia",
-      "link": "https://www.hdmotori.it/ferrari-rubata-coppa-selva-fasano-ritrovata/",
-      "excerpt": "La Ferrari 458 Challenge Evo di proprietà del team veneto Gaetani Racing è stata recuperata tra Alberobello e Noci",
-      "image": "https://hd2.tudocdn.net/1358319?w=660",
-      "publishedAt": "2026-07-22T16:00:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung, finalmente con i Galaxy Fold / Flip 8 inizia l'epoca delle batterie Si-C",
-      "link": "https://www.hdblog.it/smartphone/articoli/n665134/samsung-batterie-si-c-galaxy-z-flip-fold-8-ultra/",
-      "excerpt": "La società mantiene un approccio molto cauto e votato alla sicurezza - la questione Note 7 \"brucia\" ancora...",
-      "image": "https://hd2.tudocdn.net/1357535?w=660",
-      "publishedAt": "2026-07-22T15:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Nissan Leaf: in Giappone arriva la versione Nismo",
-      "link": "https://www.hdmotori.it/nissan-leaf-nismo-giappone/",
-      "excerpt": "Nissan ha lanciato in Giappone la versione preparata dal reparto Nismo del suo iconico veicolo elettrico.",
-      "image": "https://hd2.tudocdn.net/1358311?w=660",
-      "publishedAt": "2026-07-22T15:30:12+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung Galaxy Z Fold 7 VS Fold 8 e Fold 8 Ultra: tutte le differenze",
-      "link": "https://www.hdblog.it/smartphone/articoli/n665024/samsung-galaxy-z-fold-7-vs-fold-8-ultra/",
-      "excerpt": "Confrontone \"a tre\" per i pieghevoli a libro di Samsung.",
-      "image": "https://hd2.tudocdn.net/1357832?w=660",
-      "publishedAt": "2026-07-22T15:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Golf e T-Roc ora anche full hybrid. Prezzi da 39.250 euro",
@@ -239,6 +212,15 @@
       "sourceColor": "#E63946"
     },
     {
+      "title": "Migliori Chromebook (luglio 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-chromebook",
+      "excerpt": "Scegliere uno dei migliori Chromebook significa puntare su un portatile veloce nell'avvio, semplice da gestire e pensato per chi lavora molto tra browser, documenti condivisi,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/87517/migliori-chromebook-copertina.jpg",
+      "publishedAt": "2026-07-22T11:26:39+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "Migliori stampanti economiche a getto d'inchiostro (luglio 2026)",
       "link": "https://www.tomshw.it/hardware/migliori-stampanti-economiche-getto-inchiostro",
       "excerpt": "Scegliere una delle migliori stampanti a getto d’inchiostro economiche resta una soluzione sensata per casa, studio, università e piccoli uffici quando si vuole stampare a colori…",
@@ -266,11 +248,29 @@
       "sourceColor": "#E63946"
     },
     {
+      "title": "Gli agenti AI in azienda funzionano solo con un'architettura comune",
+      "link": "https://www.tomshw.it/business/agenti-ai-azienda-architettura-comune",
+      "excerpt": "Le aziende di banche e sanità stanno costruendo agenti AI use case per use case, e ogni squadra sceglie da sola come gestire memoria, identità e controlli. Il risultato è…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102564/10-enterprise-ai-agents-cover.jpg",
+      "publishedAt": "2026-07-22T08:34:50+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "Il PNRR porta 13mila pubbliche amministrazioni sul cloud, obiettivo centrato",
       "link": "https://www.tomshw.it/business/pnrr-13mila-pa-cloud",
       "excerpt": "Oltre 13mila enti della Pubblica Amministrazione hanno smesso di conservare i propri dati su server locali e sono passati a un cloud certificato, raggiungendo due target del PNRR…",
       "image": "https://cdn.tomshw.it/storage/media/2026/07/102562/08-pnrr-cloud-pa-cover.jpg",
       "publishedAt": "2026-07-22T08:34:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Anthropic ha piratato i libri, pagherà 1,5 miliardi di risarcimento",
+      "link": "https://www.tomshw.it/business/anthropic-pirateria-libri-1-5-miliardi",
+      "excerpt": "Una giudice federale di San Francisco ha dato l'approvazione definitiva all'accordo transattivo da 1,5 miliardi di dollari tra Anthropic e la platea di autori ed editori che…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102563/09-anthropic-copyright-cover.jpg",
+      "publishedAt": "2026-07-22T08:05:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
