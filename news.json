@@ -1,35 +1,197 @@
 {
-  "generatedAt": "2026-07-23T10:13:13.774584+00:00",
+  "generatedAt": "2026-07-23T13:29:32.879848+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Atlassian corregge 101 falle, incluse RCE: aggiornate Jira e Confluence",
-      "link": "https://www.tomshw.it/hardware/atlassian-corregge-101-falle-incluse-rce-aggiornate-jira-e-confluence",
-      "excerpt": "Atlassian ha distribuito nuove versioni dei suoi prodotti aziendali per correggere 83 vulnerabilità di gravità alta e 18 falle critiche presenti in dipendenze di terze parti. Il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102901/news-flash-592386.png",
-      "publishedAt": "2026-07-23T10:09:59+00:00",
+      "title": "Google, doppia multa dall'UE per motore di ricerca e i pagamenti sul Play Store. I motivi della sanzione da 890 milioni",
+      "link": "https://images.dday.it/-sljRrYYA7kjLh8ysR9uVGVdZicsXlPY7HOikkN6Xng/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58151/24c085_Depositphotos_255205078_XL.jpg",
+      "excerpt": "La Commissione Europea ha contestato al gruppo di aver favorito i propri servizi nei risultati di ricerca e limitato la possibilità per gli sviluppatori di proporre acquisti…",
+      "image": "https://images.dday.it/-sljRrYYA7kjLh8ysR9uVGVdZicsXlPY7HOikkN6Xng/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58151/24c085_Depositphotos_255205078_XL.jpg",
+      "publishedAt": "2026-07-23T13:18:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Samsung Galaxy Z Flip / Fold 8, ecco gli sfondi e i suoni ufficiali",
+      "link": "https://www.hdblog.it/smartphone/articoli/n665250/samsung-galaxy-z-flip-fold-8-sfondi-ufficiali-toni/",
+      "excerpt": "Per chi vuole un tocco di Z8 sul proprio device.",
+      "image": "https://hd2.tudocdn.net/1357843?w=660",
+      "publishedAt": "2026-07-23T13:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Scarpe e calze: le scelte migliori per camminate e corse durante l'estate",
+      "link": "https://www.tomshw.it/altro/scarpe-e-calze-le-scelte-migliori-per-camminate-e-corse-durante-lestate",
+      "excerpt": "L’estate è la stagione perfetta per allacciarsi le scarpe e sfruttare al massimo le giornate lunghe, che si tratti di una corsa al mattino presto o di una camminata al tramonto.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102933/Scarpe-e-calze-le-scelte-migliori-per-camminate-e-corse-durante-l'estate.png",
+      "publishedAt": "2026-07-23T13:12:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Allarme msaRAT: Chrome usato come canale C2 invisibile",
-      "link": "https://www.tomshw.it/hardware/msarat-di-chaos-usa-chrome-come-canale-c2-e-confonde-l-analisi",
-      "excerpt": "Un browser compromesso diventa l’intermediario tra il malware e gli operatori del ransomware: è il meccanismo scelto da msaRAT, un nuovo trojan di accesso remoto attribuito da…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102900/newchaosrat.jpg",
-      "publishedAt": "2026-07-23T10:09:37+00:00",
+      "title": "Api, un lievito modificato porta fino a 15 volte più larve allo stadio di pupa",
+      "link": "https://www.tomshw.it/scienze/api-un-lievito-modificato-porta-fino-a-15-volte-piu-larve-allo",
+      "excerpt": "Un lievito modificato per produrre sei steroli essenziali ha permesso a colonie di Apis mellifera di allevare fino a 15 volte più larve giunte allo stadio di pupa rispetto ai…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102947/news-flash-593321.png",
+      "publishedAt": "2026-07-23T13:08:25+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Pixel Watch 5: più RAM ma processore uguale al passato",
-      "link": "https://www.tomshw.it/smartphone/google-pixel-watch-5-3-gb-di-ram-cpu-e-gpu-potrebbero",
-      "excerpt": "Google Pixel Watch 5 potrebbe portare la memoria RAM da 2 a 3 GB, segnando il primo aumento per la gamma dal modello originale. La novità emergerebbe da una scheda individuata…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100884/pixel-watch-5-potrebbe-ereditare-il-processore-del-predecessore.png",
-      "publishedAt": "2026-07-23T10:08:14+00:00",
+      "title": "Le telecamere Tapo più vendute sono in sconto: è il momento giusto per acquistarle",
+      "link": "https://images.dday.it/AQTjivaTZqC7YVBhBvmp3oG4xZ6jC_iSGLa22ehE2FA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58150/b4a541_81CPLRQrGiL._AC_SL1500_.jpg",
+      "excerpt": "Approfitta degli sconti Amazon per portarti a casa una telecamera Tapo con rilevamento intelligente, visione notturna e controllo direttamente dallo smartphone... Leggi tutto",
+      "image": "https://images.dday.it/AQTjivaTZqC7YVBhBvmp3oG4xZ6jC_iSGLa22ehE2FA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58150/b4a541_81CPLRQrGiL._AC_SL1500_.jpg",
+      "publishedAt": "2026-07-23T13:07:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "La batteria supera le 400 ore: SteelSeries Rival 3 a 33,76€",
+      "link": "https://www.tomshw.it/offerte/la-batteria-supera-le-400-ore-steelseries-rival-3-a-3376eur",
+      "excerpt": "SteelSeries Rival 3 Wireless a 33,76€ su Amazon fa risparmiare 26,23€ sui 59,99€ di listino, con uno sconto del 44%. Le oltre 400 ore di autonomia e la doppia connessione…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102946/tomshw-offer-593307.png",
+      "publishedAt": "2026-07-23T13:02:52+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Lepas L8, parte la conquista dell'Europa: migliaia di SUV in viaggio verso l'Italia",
+      "link": "https://www.hdmotori.it/lepas-l8-cina-italia/",
+      "excerpt": "Con una prima spedizione di quasi 1.500 veicoli diretta anche in Italia, il nuovo SUV plug-in hybrid di Lepas inaugura l'espansione europea del marchio",
+      "image": "https://hd2.tudocdn.net/1358585?w=660",
+      "publishedAt": "2026-07-23T13:00:48+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "PlayStation, Sony studia stick senza contatti per ridurre il drifting",
+      "link": "https://www.tomshw.it/videogioco/playstation-sony-studia-stick-senza-contatti-per-ridurre-il-drifting",
+      "excerpt": "Uno stick analogico capace di rilevare l'inclinazione senza contatto elettrico potrebbe ridurre una delle cause del drifting nei controller. È la soluzione descritta nella domanda…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102944/news-flash-593226.png",
+      "publishedAt": "2026-07-23T12:51:07+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "OpenAI citata in giudizio: ChatGPT avrebbe minimizzato un’embolia per sei settimane",
+      "link": "https://www.tomshw.it/hardware/openai-citata-in-giudizio-chatgpt-avrebbe-minimizzato-un-embolia-per-sei-settimane",
+      "excerpt": "Sei settimane di rassicurazioni su sintomi poi ricondotti a embolie polmonari bilaterali sono al centro della causa intentata dall’ex pastore della Florida Scott Winters contro…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/99934/08101714d855269.webp",
+      "publishedAt": "2026-07-23T12:50:12+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "IT-Wallet apre agli operatori privati: partono i test per i nuovi portafogli digitali",
+      "link": "https://www.hdblog.it/smartphone/articoli/n665242/it-wallet-apre-operatori-privati-partono-test/",
+      "excerpt": "IT-Wallet si prepara a uscire dai confini dell’app IO",
+      "image": "https://hd2.tudocdn.net/1217394?w=660",
+      "publishedAt": "2026-07-23T12:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Aqara lancia una presa smart che riduce gli sprechi di energia | PREZZO",
+      "link": "https://www.hdblog.it/domotica/articoli/n665238/presa-smart-aqara-monitoraggio-consumi-prezzo/",
+      "excerpt": "Aqara Power Plug H2 EU consente di controllare elettrodomestici, programmare accensioni e spegnimenti e monitorare i consumi direttamente dall'app",
+      "image": "https://hd2.tudocdn.net/1358565?w=660",
+      "publishedAt": "2026-07-23T12:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Galaxy Z Fold8, TV OLED 83'' e tanto Tapo: le migliori offerte del 23 luglio",
+      "link": "https://www.hdblog.it/amazon/offerte/n665231/migliori-offerte-oggi-23-luglio-amazon/",
+      "excerpt": "Samsung Galaxy Z Fold8 e Flip8 con codice sconto, TV OLED 83\" con promo Unieuro, videocamere Tapo e altri prodotti tech in offerta oggi.",
+      "image": "https://hd2.tudocdn.net/1358555?w=660",
+      "publishedAt": "2026-07-23T12:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Pacco in arrivo? Ci pensa Google Wallet a tracciarlo: la novità già attiva negli USA",
+      "link": "https://www.hdblog.it/google/articoli/n665240/google-wallet-tracciamento-ordini-gmail-spedizioni-2/",
+      "excerpt": "Come funziona.",
+      "image": "https://hd2.tudocdn.net/1353032?w=660",
+      "publishedAt": "2026-07-23T12:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Novità per Samsung Galaxy Ring: c'è l'ok per il rilevamento dell'apnea notturna",
+      "link": "https://www.hdblog.it/indossabili/articoli/n665216/samsung-galaxy-ring-apnea-notturna/",
+      "excerpt": "In autunno, Samsung attiverà il rilevamento dell'apnea notturna sul Galaxy Ring.",
+      "image": "https://hd2.tudocdn.net/1173250?w=660",
+      "publishedAt": "2026-07-23T12:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Philips Hue Go XXL, da pesce d'aprile a prodotto reale: debutto a IFA 2026?",
+      "link": "https://www.hdblog.it/philips/articoli/n665237/philips-hue-go-xxl-pesce-aprile-ifa-2026/",
+      "excerpt": "Nuovi indizi molto concreti sulla \"promozione\" da scherzo a prodotto reale.",
+      "image": "https://hd2.tudocdn.net/1358564?w=660",
+      "publishedAt": "2026-07-23T12:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "WhatsApp: la verifica in due passaggi potrebbe richiedere una password",
+      "link": "https://www.hdblog.it/android/articoli/n665236/whatsapp-verifica-in-due-passaggi-password/",
+      "excerpt": "La funzione avvistata sull’app beta per Android.",
+      "image": "https://hd2.tudocdn.net/1358560?w=660",
+      "publishedAt": "2026-07-23T12:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Solo 12,02€ sopra il minimo: Ryzen 9 9900X3D a 495,99€",
+      "link": "https://www.tomshw.it/offerte/solo-1202eur-sopra-il-minimo-ryzen-9-9900x3d-a-49599eur",
+      "excerpt": "AMD Ryzen 9 9900X3D a 495,99€ su Amazon fa risparmiare 228,95€ rispetto al listino di 724,94€, con uno sconto del 32%. Appena 12,02€ lo separano dal minimo storico di 483,97€, una…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102927/tomshw-offer-592990.png",
+      "publishedAt": "2026-07-23T12:03:14+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Skate 50 Black Edition, 100 esemplari, abito dark e forcella XL",
+      "link": "https://www.hdmotori.it/vent-skate-50-black-edition-prezzo-caratteristiche/",
+      "excerpt": "Look total black e ciclistica potenziata per la Vent Skate 50 Black Edition. Le novità della serie speciale prodotta in 100 unità al prezzo di 3.350 euro.",
+      "image": "https://hd2.tudocdn.net/1358574?w=660",
+      "publishedAt": "2026-07-23T12:00:56+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La Commissione Europea ha dato il suo via libera all’acquisizione di Warner da parte di Paramount",
+      "link": "https://images.dday.it/SmsBl9XJSd7oRwfxijZYUNJj20-xi8fdvtlunIHqqpk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58149/206be0_Paramount.jpg",
+      "excerpt": "L’Europa approva l’acquisizione di Warner da parte di Paramount ma con alcuni paletti sul versante della distribuzione cinematografica: vietati accordi di distribuzione con…",
+      "image": "https://images.dday.it/SmsBl9XJSd7oRwfxijZYUNJj20-xi8fdvtlunIHqqpk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58149/206be0_Paramount.jpg",
+      "publishedAt": "2026-07-23T11:15:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Migliori software di fotoritocco ed editing fotografico (luglio 2026)",
+      "link": "https://www.tomshw.it/guide/migliori-software-di-fotoritocco-e-editing-fotografico-gennaio-2026",
+      "excerpt": "Scegliere il software di editing fotografico giusto oggi è più complesso di quanto sembri. Il mercato non è più diviso solo tra programmi professionali e applicazioni semplici:…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/87644/migliori-software-fotoritocco-copertina.jpg",
+      "publishedAt": "2026-07-23T11:14:05+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Vendite auto nell'UE, +5,7% nel primo semestre. Le elettriche superano il 20% del mercato",
+      "link": "https://images.dday.it/9bjdH-48Hc4sV9p14YDzyQlyUwUCAG6vvpc43VO_hvA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58148/031795_auto_thumb.jpg",
+      "excerpt": "Le ibride restano la scelta più diffusa, mentre le elettriche salgono al 20,7% del mercato. Benzina e diesel continuano invece a perdere terreno... Leggi tutto",
+      "image": "https://images.dday.it/9bjdH-48Hc4sV9p14YDzyQlyUwUCAG6vvpc43VO_hvA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58148/031795_auto_thumb.jpg",
+      "publishedAt": "2026-07-23T10:52:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Il Philips DiamondClean 9900 Prestige ti dice in tempo reale se stai lavando bene i denti",
@@ -41,85 +203,13 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Ex producer Rockstar spegne l'entusiasmo per il framerate a 60 fps in GTA 6",
-      "link": "https://www.hdblog.it/giochi/articoli/n665206/ex-producer-rockstar-spegne-60-fps-gta-6/",
-      "excerpt": "Il framerate di GTA 6 rimane un'incognita: un ex producer di Rockstar spiega perché raggiungere i 60 fps potrebbe essere difficile.",
-      "image": "https://hd2.tudocdn.net/1358489?w=660",
-      "publishedAt": "2026-07-23T10:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Schermi sempre più grandi sulle auto: un’innovazione o un pericolo?",
-      "link": "https://www.hdmotori.it/schermi-sempre-grandi-auto-pericolo/",
-      "excerpt": "Un recente studio svedese rivela che i display moderni aumentano le distrazioni alla guida, facendo aumentare il tempo in cui gli occhi distolgono lo sguardo dalla strada.",
-      "image": "https://hd2.tudocdn.net/1358513?w=660",
-      "publishedAt": "2026-07-23T10:00:22+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Da fine 2026 il software in Europa diventa un “prodotto”: cosa vuol dire e cosa cambia per gli utenti",
       "link": "https://images.dday.it/c6gquHu6shDRUVKSlBgiF-FK6XvLZDiBea83Ep2YnNo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58147/b2f2a2_Depositphotos_25021863_XL-_1_.jpg",
-      "excerpt": "Entro la fine del 2026 ci sarà un’altra piccola rivoluzione nel mercato europeo perché cambierà il rapporto tra consumatori e software. La Direttiva (UE) 2024/2853, che gli Stati…",
+      "excerpt": "La nuova Direttiva europea sulla responsabilità da prodotto difettoso estende per la prima volta le stesse regole anche al software, alle app e ai sistemi di intelligenza…",
       "image": "https://images.dday.it/c6gquHu6shDRUVKSlBgiF-FK6XvLZDiBea83Ep2YnNo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58147/b2f2a2_Depositphotos_25021863_XL-_1_.jpg",
       "publishedAt": "2026-07-23T09:57:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Tesla frena sui robotaxi: test sul Cybercab e regole prima dell’espansione",
-      "link": "https://www.tomshw.it/automotive/tesla-frena-sui-robotaxi-test-sul-cybercab-e-regole-prima-dell-espansione",
-      "excerpt": "La velocità di espansione dei robotaxi Tesla dipenderà dalla validazione del software, dai dati raccolti sul Cybercab e dalle autorizzazioni locali. Durante la call sui risultati…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102722/news-flash-590556.png",
-      "publishedAt": "2026-07-23T09:50:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Brain-computer interface: la Cina sviluppa una piattaforma per guidare i robot con il pensiero",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n665185/cina-robot-controllati-col-pensiero/",
-      "excerpt": "Una piattaforma cinese usa i segnali cerebrali per controllare robot senza joystick o tastiere.",
-      "image": "https://hd2.tudocdn.net/1358415?w=660",
-      "publishedAt": "2026-07-23T09:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "La videocamera di sicurezza autonoma di Xiaomi è ufficiale",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n665215/xiaomi-videocamera-sorveglianza-solare-4g/",
-      "excerpt": "Xiaomi Smart Solar Camera 4 Pro debutta ufficialmente in Cina con pannello solare integrato, batteria da 9.900 mAh, connettività 4G e doppia fotocamera da 5 MP con registrazione…",
-      "image": "https://hd2.tudocdn.net/1358491?w=660",
-      "publishedAt": "2026-07-23T09:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Galaxy Watch Ultra 2 sarà computer da sub, ma a pagamento",
-      "link": "https://www.tomshw.it/smartphone/galaxy-watch-ultra-2-computer-da-immersione-completo-solo-con-l-app",
-      "excerpt": "Galaxy Watch Ultra 2 misurerà gratuitamente profondità e durata dell’immersione, ma le funzioni avanzate da computer subacqueo richiederanno un abbonamento separato. Samsung…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102889/watchultra_samsung_720_1_720_1_720-jpg.webp",
-      "publishedAt": "2026-07-23T09:38:13+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "HONOR cambia identità: ora vuole guidare l'ecosistema dei dispositivi AI",
-      "link": "https://www.tomshw.it/smartphone/honor-cambia-identita-ora-vuole-guidare-lecosistema-dei-dispositivi-ai",
-      "excerpt": "HONOR apre un nuovo capitolo della propria storia con una nuova identità di marca e un nuovo logo, pensati per rendere visibile un cambiamento più ampio del semplice aggiornamento…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102887/Logo-KV_Horizontal.jpg",
-      "publishedAt": "2026-07-23T09:34:45+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Genesis Electrified G80: prezzo da 81.800 euro per l'ammiraglia coreana",
-      "link": "https://www.hdmotori.it/genesis-electrified-g80-prezzo/",
-      "excerpt": "Genesis lancia in Italia la Electrified G80 Luxury: berlina elettrica da 370 CV, 570 km d'autonomia e ricarica a 800V. Prezzi da 81.800 euro o in noleggio da 699 euro al mese.",
-      "image": "https://hd2.tudocdn.net/1358500?w=660",
-      "publishedAt": "2026-07-23T09:30:55+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Il secondo stadio di un Falcon 9 sta per schiantarsi sulla superficie della Luna",
@@ -131,58 +221,22 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Via libera UE alla fusione Paramount-Warner, ma a una condizione",
-      "link": "https://www.hdblog.it/mercato/articoli/n665205/paramount-warner-via-libera-ue/",
-      "excerpt": "L'UE approva la fusione Paramount-Warner imponendo lo stop all'accordo con Universal.",
-      "image": "https://hd2.tudocdn.net/1358473?w=660",
-      "publishedAt": "2026-07-23T09:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Non ti servono, ma li vuoi: i gadget tech più utili in offerta a prezzi impossibili da ignorare",
+      "link": "https://images.dday.it/RvBI6NFdmaoEoy9V3FSBLIvK-fs_kNhNgCwwc3xf61U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58139/57d25c_61Q3qMouCyL._AC_SL1500_.jpg",
+      "excerpt": "Non cambieranno la tua vita, ma possono renderla più comoda: ecco i gadget più utili da comprare spendendo poco. Scopri le incredibili offerte Amazon a meno di 25 euro... Leggi…",
+      "image": "https://images.dday.it/RvBI6NFdmaoEoy9V3FSBLIvK-fs_kNhNgCwwc3xf61U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58139/57d25c_61Q3qMouCyL._AC_SL1500_.jpg",
+      "publishedAt": "2026-07-23T09:00:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
-      "title": "Framework Desktop, arrivano AMD Gorgon Halo e addirittura 192 GB di RAM",
-      "link": "https://www.hdblog.it/hardware/articoli/n665208/framework-desktop-gorgon-halo-192-gb-ram/",
-      "excerpt": "Il prezzo sarà da capogiro. Forse sopra i 4.000 dollari?",
-      "image": "https://hd2.tudocdn.net/1358476?w=660",
-      "publishedAt": "2026-07-23T09:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "L'arcade di Donkey Kong è l'ennesimo set LEGO che punta sull'effetto nostalgia",
-      "link": "https://www.hdblog.it/giochi/articoli/n665192/arcade-donkey-kong-set-lego-effetto-nostalgia/",
-      "excerpt": "Lo storico cabinato di Donkey Kong diventa un set LEGO completo di Jumpman, Pauline, il gorilla e i barili in movimento da saltare.",
-      "image": "https://hd2.tudocdn.net/1358453?w=660",
-      "publishedAt": "2026-07-23T09:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "545€ restano per la GPU: Corsair QD-OLED 240 Hz al minimo",
-      "link": "https://www.tomshw.it/offerte/545eur-restano-per-la-gpu-corsair-qd-oled-240-hz-al-minimo",
-      "excerpt": "Corsair XENEON 34WQHD240-C è a 804,90€ su Amazon, con 545,09€ sottratti al listino di 1.349,99€ e uno sconto del 40%. È il minimo toccato finora da questo monitor QD-OLED…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102875/tomshw-offer-592056.png",
-      "publishedAt": "2026-07-23T09:02:50+00:00",
+      "title": "OpenAI si scopre amica delle piccole imprese, dopo aver inseguito solo le grandi",
+      "link": "https://www.tomshw.it/business/openai-si-scopre-amica-delle-piccole-imprese-dopo-aver-inseguito-solo-le-grandi",
+      "excerpt": "Il pubblico cambia, il prodotto resta lo stesso ChatGPT Work OpenAI ha lanciato un programma dedicato alle piccole imprese: webinar di formazione, eventi in presenza negli Stati…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102843/01-openai-chatgpt-work-pmi-cover.jpg",
+      "publishedAt": "2026-07-23T08:20:06+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Google annuncia Gemini Nano 4 ed è già sui nuovi Galaxy pieghevoli",
-      "link": "https://www.hdblog.it/smartphone/articoli/n665204/gemini-nano-4-debutta-nuovi-galaxy-z-fold/",
-      "excerpt": "Con Gemini Nano 4, Android introduce nuove capacità di intelligenza artificiale on-device, tra cui riassunti, classificazione dei contenuti e automazioni, migliorando privacy,…",
-      "image": "https://hd2.tudocdn.net/1357829?w=660",
-      "publishedAt": "2026-07-23T08:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung, Bellorini ci parla dei nuovi Fold: \"Non esiste un formato adatto a tutti\"",
-      "link": "https://www.hdblog.it/smartphone/articoli/n665197/samsung-bellorini-racconta-nuovi-foldable/",
-      "excerpt": "Samsung ha ampliato ulteriormente la propria offerta, affiancando ai formati già conosciuti una terza soluzione.",
-      "image": "https://hd2.tudocdn.net/1358464?w=660",
-      "publishedAt": "2026-07-23T08:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Tesla: più auto consegnate, ma profitti in calo",
@@ -194,15 +248,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Svolta energetica: rinnovabili superano il carbone nel 2026",
-      "link": "https://www.tomshw.it/scienze/iea-rinnovabili-davanti-al-carbone-nel-2026-domanda-elettrica-3-6",
-      "excerpt": "La domanda mondiale di elettricità crescerà del 3,6% nel 2026 e di un ulteriore 3,8% nel 2027, mentre le energie rinnovabili dovrebbero superare il carbone come principale fonte…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102856/news-flash-591768.png",
-      "publishedAt": "2026-07-23T08:15:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Google spende sempre di più per l’IA: nel secondo trimestre liquidità in negativo. È la prima volta dalla quotazione",
       "link": "https://images.dday.it/_fqHtVHEPoLHXmzZbBHOQsZr5OkrPsAAQk_hfsE2ndQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58143/761b16_Depositphotos_721749358_XL.jpg",
       "excerpt": "Alphabet ha alzato ancora il budget destinato a data center, chip e infrastrutture, che nel 2026 arriverà fino a 205 miliardi di dollari... Leggi tutto",
@@ -212,65 +257,20 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Migliori POS portatili (luglio 2026)",
-      "link": "https://www.tomshw.it/altro/pos-mobili-migliori",
-      "excerpt": "Se desiderate offrire ai vostri clienti la comodità di effettuare pagamenti con il POS ovunque vi troviate, in sicurezza e senza dipendere da una cassa fissa, un POS portatile è…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/87507/migliori-pos-portatili-copertina.jpg",
-      "publishedAt": "2026-07-23T06:17:19+00:00",
+      "title": "Decision Lineage: quando gli agenti decidono, chi ne risponde?",
+      "link": "https://www.tomshw.it/business/decision-lineage-quando-gli-agenti-decidono-chi-ne-risponde",
+      "excerpt": "Le organizzazioni che hanno adottato agenti AI nei propri processi si trovano oggi davanti a una domanda raramente posta con la chiarezza che meriterebbe: se un agente prende una…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102686/sskkxakrnqqetdhkcwdmnyuezk9w0tuopp9glhgp.jpg",
+      "publishedAt": "2026-07-23T07:05:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Con Navimow il prato si taglia da solo, e a luglio il Garage è in regalo",
-      "link": "https://images.dday.it/rbs_wvWXhoQK4PWZOPKprtDpl6N8XPCVSkbgJgZBSgI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58102/0dc4cb_cover_Screenshot_2026-07-17_alle_14.57.22_copia.png",
-      "excerpt": "Dai 600 ai 2.000 metri quadrati, la gamma Navimow 2026 affronta prati di dimensioni e complessità diverse senza cavo perimetrale. E fino al 30 luglio, acquistando uno dei cinque…",
-      "image": "https://images.dday.it/rbs_wvWXhoQK4PWZOPKprtDpl6N8XPCVSkbgJgZBSgI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58102/0dc4cb_cover_Screenshot_2026-07-17_alle_14.57.22_copia.png",
-      "publishedAt": "2026-07-23T01:03:05+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Scopri come Hisense rivoluziona l’esperienza TV con la nuova gamma RGB MiniLED",
-      "link": "https://images.dday.it/LEDY5-x2klJ39J9BvFgrGEE3esNNP1QGaMeoPqxZ0t4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58048/78644b_14.Lifestyle_Image.jpg",
-      "excerpt": "Una gamma cromatica senza pari, maggiore efficienza energetica e immagini più confortevoli sono tra i principali benefici della nuova tecnologia RGB MiniLED di Hisense: tre serie,…",
-      "image": "https://images.dday.it/LEDY5-x2klJ39J9BvFgrGEE3esNNP1QGaMeoPqxZ0t4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58048/78644b_14.Lifestyle_Image.jpg",
-      "publishedAt": "2026-07-23T01:03:05+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Golf e T-Roc ora anche full hybrid. Prezzi da 39.250 euro",
-      "link": "https://images.dday.it/lIj_YfHqdtzQvjbBLWmmBc_BtgHRH9bJpxbl2Kmqm2Y/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58141/426774_vw_thumb.jpg",
-      "excerpt": "La nuova motorizzazione è già ordinabile in Italia e arriverà nelle concessionarie in autunno. Per la T-Roc full hybrid servono almeno 42.650 euro ... Leggi tutto",
-      "image": "https://images.dday.it/lIj_YfHqdtzQvjbBLWmmBc_BtgHRH9bJpxbl2Kmqm2Y/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58141/426774_vw_thumb.jpg",
-      "publishedAt": "2026-07-22T14:42:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Non ti servono, ma li vuoi: i gadget tech più utili in offerta a prezzi impossibili da ignorare",
-      "link": "https://images.dday.it/RvBI6NFdmaoEoy9V3FSBLIvK-fs_kNhNgCwwc3xf61U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58139/57d25c_61Q3qMouCyL._AC_SL1500_.jpg",
-      "excerpt": "Non cambieranno la tua vita, ma possono renderla più comoda: ecco i gadget più utili da comprare spendendo poco. Scopri le incredibili offerte Amazon a meno di 25 euro... Leggi…",
-      "image": "https://images.dday.it/RvBI6NFdmaoEoy9V3FSBLIvK-fs_kNhNgCwwc3xf61U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58139/57d25c_61Q3qMouCyL._AC_SL1500_.jpg",
-      "publishedAt": "2026-07-22T14:33:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Sony lancia la nuova FX5 che si candida a diventare la prima scelta per i videomaker evoluti",
-      "link": "https://images.dday.it/_JF8vVE-EBYsJZf4_4Ev4aON49RRYvFU_F0TPU9wEXo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58140/55845d_FX5_7-_Situation_1.jpg",
-      "excerpt": "Nuovo sensore stacked, RAW interno, Open Gate e operatività derivata da Venice 2 e Burano: Sony posiziona la nuova FX5, dedicata al solo video, tra FX3 e FX6. Disponibile da…",
-      "image": "https://images.dday.it/_JF8vVE-EBYsJZf4_4Ev4aON49RRYvFU_F0TPU9wEXo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58140/55845d_FX5_7-_Situation_1.jpg",
-      "publishedAt": "2026-07-22T14:06:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "L'AI sceglie il prodotto al posto tuo, il brand non conta più",
-      "link": "https://www.tomshw.it/business/ai-sceglie-prodotto-brand-non-conta",
-      "excerpt": "Il 70% dei consumatori tra i 18 e i 64 anni usa già l'intelligenza artificiale per decidere cosa comprare, quota che sale al 93% tra i più giovani. Il brand, per decenni cardine…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102617/13-roland-berger-cover.jpg",
-      "publishedAt": "2026-07-22T10:40:04+00:00",
+      "title": "I migliori conti correnti B2B (luglio 2026)",
+      "link": "https://www.tomshw.it/altro/i-migliori-conti-correnti-b2b",
+      "excerpt": "Per un’impresa, scegliere il conto corrente aziendale giusto non significa solo trovare un IBAN e una carta a buon mercato. Significa decidere come gestire incassi, pagamenti,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/87642/migliori-conti-corrrenti-b2b-copertina.jpg",
+      "publishedAt": "2026-07-23T06:27:21+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
