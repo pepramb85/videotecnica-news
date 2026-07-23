@@ -1,9 +1,72 @@
 {
-  "generatedAt": "2026-07-23T17:11:31.349568+00:00",
+  "generatedAt": "2026-07-23T19:02:41.963566+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Tesla: il Cybercab integrerà la connessione satellitare Starlink",
+      "link": "https://www.hdmotori.it/tesla-cybercab-starlink/",
+      "excerpt": "Oltre il 5G: perché l'integrazione della tecnologia satellitare di Elon Musk rappresenta il futuro della connettività.",
+      "image": "https://hd2.tudocdn.net/1358637?w=660",
+      "publishedAt": "2026-07-23T18:30:09+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Qualcomm Snapdragon 8 Elite Gen 5: in arrivo una versione più economica?",
+      "link": "https://www.hdblog.it/hardware/articoli/n665290/qualcomm-snapdragon-8-elite-gen-5-economico-2026/",
+      "excerpt": "Ecco cosa dice l'ultimo leak e perché avrebbe senso.",
+      "image": "https://hd2.tudocdn.net/1290175?w=660",
+      "publishedAt": "2026-07-23T18:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Batteria al 50% in 26 minuti: Belkin 10.000 mAh costa 16,99€",
+      "link": "https://www.tomshw.it/offerte/batteria-al-50-in-26-minuti-belkin-10000-mah-costa-1699eur",
+      "excerpt": "A 16,99€ su Amazon, il Belkin BoostCharge Power Bank da 10.000 mAh costa 13€ meno del listino di 29,99€, con uno sconto del 43%. Il cavo USB-C integrato elimina un accessorio…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103037/tomshw-offer-595035.png",
+      "publishedAt": "2026-07-23T18:02:48+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "AMD Instinct MI455X e Helios: la piattaforma rack-scale che punta a far girare l'AI di frontiera",
+      "link": "https://www.tomshw.it/hardware/amd-instinct-mi455x-e-helios-la-piattaforma-rack-scale-che-punta-a-far-girare-lai-di-frontiera",
+      "excerpt": "Ad Advancing AI 2026, AMD ha spostato l'attenzione dal singolo acceleratore all'intero rack. Nell'era dei modelli agentici e di ragionamento l'infrastruttura deve muovere i dati…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102762/AMD_Helios_02.jpg",
+      "publishedAt": "2026-07-23T17:12:22+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "AMD ROCm.ai, arriva l'AI che ottimizza lo stack AI",
+      "link": "https://www.tomshw.it/hardware/amd-rocmai-arriva-lai-che-ottimizza-lo-stack-ai",
+      "excerpt": "Nella giornata di annunci hardware di Advancing AI 2026, tra CPU EPYC Venice, GPU Instinct MI455X e rack Helios, client e Physical AI, non poteva mancare il software: gli ostacoli…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102821/AMD.jpg",
+      "publishedAt": "2026-07-23T17:11:17+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Bangladesh: 250 milioni di alberi in 5 anni, ma il piano potrebbe danneggiare... l'ambiente!",
+      "link": "https://www.tomshw.it/scienze/bangladesh-250-milioni-di-alberi-in-5-anni-ma-il-piano-potrebbe",
+      "excerpt": "Specie inadatte e piantagioni troppo uniformi potrebbero trasformare un programma da 250 milioni di alberi in un nuovo problema ambientale. Il Bangladesh prepara una campagna…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103027/news-flash-594848.png",
+      "publishedAt": "2026-07-23T17:05:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "AMD EPYC Venice è ufficiale: la CPU server costruita per l'era agentica",
+      "link": "https://www.tomshw.it/hardware/amd-epyc-venice-e-ufficiale-la-cpu-server-costruita-per-lera-agentica",
+      "excerpt": "AMD ha alzato il sipario sulla sesta generazione di EPYC, la serie 9006 nota con il nome in codice Venice. Non si tratta di un singolo processore ma di un portfolio articolato in…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102799/AMD_EPYC_03.jpg",
+      "publishedAt": "2026-07-23T17:02:12+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "Angelelli Automobili svela la Project 754: prestazioni e stile in una serie limitata unica",
       "link": "https://www.hdmotori.it/angelelli-automobili-project-754-serie-limitata/",
@@ -32,20 +95,11 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Halo: Campaign Evolved, l'accesso anticipato non funziona? Ecco perché",
-      "link": "https://www.tomshw.it/videogioco/halo-campaign-evolved-upgrade-da-20-dollari-accesso-anticipato-bloccato",
-      "excerpt": "Alcuni acquirenti dell’Upgrade Edizione Premium di Halo: Campaign Evolved non riescono ad avviare il gioco durante l’accesso anticipato incluso nel pacchetto. Il client continua a…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103018/news-flash-594631.png",
-      "publishedAt": "2026-07-23T16:42:33+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Google accelera su Gemini 4: rilasci (quasi) mensili in arrivo",
-      "link": "https://www.tomshw.it/hardware/google-avvia-il-pre-training-di-gemini-4-rilasci-quasi-mensili",
-      "excerpt": "Il pre-training di Gemini 4 è già iniziato mentre Gemini 3.5 Pro resta in prova presso un gruppo ristretto di partner. Durante la call sui risultati del secondo trimestre 2026,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103014/news-flash-594582.png",
-      "publishedAt": "2026-07-23T16:40:55+00:00",
+      "title": "AMD entra nella Physical AI: silicio, piattaforma Kria e un ecosistema robotico aperto",
+      "link": "https://www.tomshw.it/hardware/amd-entra-nella-physical-ai-silicio-piattaforma-kria-e-un-ecosistema-robotico-aperto",
+      "excerpt": "Dopo data center e client, AMD ha presentato una soluzione completa per la cosiddetta Physical AI: dal silicio embedded a una piattaforma di sviluppo per la robotica, passando per…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102777/AMD-Advancing-AI-2026---Physical-AI.jpg",
+      "publishedAt": "2026-07-23T16:39:46+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -68,24 +122,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "EA Sports FC 27 esce il 25 settembre: The Grounds non sarà sulla prima Switch",
-      "link": "https://www.tomshw.it/videogioco/ea-sports-fc-27-esce-il-25-settembre-the-grounds-non-sara",
-      "excerpt": "EA Sports FC 27 arriverà anche su Nintendo Switch 2, dove includerà The Grounds, il nuovo ambiente sociale dedicato a partite informali, sfide uno contro uno e progressione del…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103007/news-flash-594495.png",
-      "publishedAt": "2026-07-23T16:18:20+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Microsoft 365, disservizio in corso: problemi con accesso e file",
-      "link": "https://www.tomshw.it/hardware/microsoft-365-disservizio-in-corso-problemi-con-accesso-e-file",
-      "excerpt": "Un aumento anomalo delle segnalazioni su Microsoft 365 ha superato la soglia interna di allerta di Microsoft, portando all'apertura dell'incidente ufficiale MO1437424. Il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103008/news-flash-594496.png",
-      "publishedAt": "2026-07-23T16:18:14+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Niente panico: per riavere il tuo account Google basterà un semplice video selfie",
       "link": "https://www.hdblog.it/google/articoli/n665234/google-recupero-account-video-selfie/",
       "excerpt": "Google introduce la verifica con Video Selfie, permettendo di recuperare l'account tramite un breve filmato del volto.",
@@ -95,11 +131,11 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Corri senza perdere i suoni intorno: Panasonic open-ear a 54,99€",
-      "link": "https://www.tomshw.it/offerte/corri-senza-perdere-i-suoni-intorno-panasonic-open-ear-a-5499eur",
-      "excerpt": "Panasonic RB-F10DE-K costa 54,99€ su Amazon: dagli 89,99€ di listino si passa a uno sconto del 39%, con 35€ risparmiati. Il design open-ear permette di accompagnare allenamenti e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103003/tomshw-offer-594365.png",
-      "publishedAt": "2026-07-23T16:02:19+00:00",
+      "title": "AMD Gorgon Halo ha 192 GB di memoria, per i modelli da 300 miliardi di parametri",
+      "link": "https://www.tomshw.it/hardware/amd-gorgon-halo-ha-192-gb-di-memoria-per-i-modelli-da-300-miliardi-di-parametri",
+      "excerpt": "Se da un lato ci sono le soluzioni data center per spingere l'AI di frontiera, dall'altro AMD lavora per spostare il baricentro dell'AI agentica dal cloud alla scrivania.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/05/93555/amd-gorgon-halo-ryzen-ai-max-400-memoria-192gb.webp",
+      "publishedAt": "2026-07-23T16:00:38+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -122,40 +158,13 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Guasto per Halo Campaign Evolved: DLC apre l'artbook, come risolvere",
-      "link": "https://www.tomshw.it/videogioco/halo-campaign-evolved-su-steam-si-apre-il-dlc-come-avviare-la",
-      "excerpt": "Il pulsante Gioca di Halo: Campaign Evolved sta aprendo la Digital Story & Art Collection invece della campagna per alcuni utenti Steam. Le prime segnalazioni riguardano gli…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102998/master-chief-in-halo-campaign-evolved.jpg",
-      "publishedAt": "2026-07-23T15:54:08+00:00",
+      "title": "Majestic Prometheus sfida le GPU: fino a 128 TB di memoria condivisa per l'AI",
+      "link": "https://www.tomshw.it/hardware/majestic-prometheus-sfida-le-gpu-fino-a-128-tb-di-memoria-condivisa",
+      "excerpt": "Fino a 128 TB di memoria LPDDR6 accessibili attraverso un unico spazio condiviso e contiguo: è questa la base di Prometheus, il server per inferenza AI in sviluppo presso Majestic…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102989/16-meluxina-ai-cover.jpg",
+      "publishedAt": "2026-07-23T15:10:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Eärendil-1, il satellite che illuminerà la Terra… di notte!",
-      "link": "https://www.tomshw.it/scienze/earendil-1-via-libera-al-satellite-che-provera-a-illuminare-con-il",
-      "excerpt": "Un riflettore orientabile di 18 metri per lato proverà a dirigere la luce solare verso un’area circoscritta della superficie terrestre. La Federal Communications Commission ha…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102996/news-flash-594226.png",
-      "publishedAt": "2026-07-23T15:45:05+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "SpaceX ci riprova con Starship flight 13, stanotte il test | Come seguire",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n665268/starship-flight-13-test-spacex/",
-      "excerpt": "Starship torna in volo: il test decisivo per il razzo destinato a Luna e Marte.",
-      "image": "https://hd2.tudocdn.net/1358614?w=660",
-      "publishedAt": "2026-07-23T15:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Migliori Smartwatch da Donna (Piccoli e Design Elegante) 2026",
-      "link": "https://www.hdblog.it/indossabili/guide/n665084/migliori-smartwatch-donna/",
-      "excerpt": "Scopri i migliori smartwatch da donna 2026: modelli eleganti, adatti a un polso piccolo, con funzioni per salute, chiamate e messaggi.",
-      "image": "https://hd2.tudocdn.net/1358155?w=660",
-      "publishedAt": "2026-07-23T15:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "70 km di autonomia e gomme FAT: la Nilox X8 Plus è una delle e-bike più interessanti in offerta su Amazon",
@@ -194,20 +203,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Migliori alimentatori per PC (luglio 2026)",
-      "link": "https://www.tomshw.it/guide/migliori-alimentatori-pc",
-      "excerpt": "Scegliere il miglior alimentatore per PC è una delle decisioni più importanti per garantire stabilità, sicurezza e durata alla propria configurazione. Il PSU non aumenta…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/89418/migliori-alimentatori-pc-copertina.jpg",
-      "publishedAt": "2026-07-23T11:40:10+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori dissipatori a liquido per CPU (luglio 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-dissipatori-liquido-cpu",
-      "excerpt": "Scegliere uno dei migliori dissipatori a liquido per CPU non significa soltanto cercare temperature più basse nei benchmark. In una build moderna conta mantenere il processore…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/89411/migliori-dissipatori-liquido-cpu-copertina.jpg",
-      "publishedAt": "2026-07-23T11:38:00+00:00",
+      "title": "Migliori monitor per PC (luglio 2026)",
+      "link": "https://www.tomshw.it/guide/migliori-monitor-pc",
+      "excerpt": "Scegliere un nuovo monitor per il vostro computer può sembrare semplice finché non iniziate a confrontare risoluzione, diagonale, refresh rate, pannello, porte e funzioni…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/89685/migliori-monitor-pc-copertina.jpg",
+      "publishedAt": "2026-07-23T11:48:24+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -266,11 +266,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Accettare un contratto con un click? La Cassazione cambia le regole",
-      "link": "https://www.tomshw.it/business/accettare-un-contratto-con-un-click-la-cassazione-cambia-le-regole",
-      "excerpt": "Avv. Giuseppe Croari – Dott.ssa Emma Roberti Ogni giorno concludiamo contratti online con un semplice clic: acquistiamo prodotti, sottoscriviamo abbonamenti, attiviamo servizi…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102613/legal-clausole-vessatorie-cover.jpg",
-      "publishedAt": "2026-07-22T10:15:25+00:00",
+      "title": "Persino in casa Google l'AI sta bruciando troppi soldi",
+      "link": "https://www.tomshw.it/business/persino-in-casa-google-lai-sta-bruciando-troppi-soldi",
+      "excerpt": "Google chiude il trimestre con ricavi a 119,8 miliardi di dollari, in crescita del 24% anno su anno, e con il cloud che vola all'82%. Nello stesso trimestre, per la prima volta da…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102847/05-google-q2-cash-flow-ai-cover.jpg",
+      "publishedAt": "2026-07-23T08:20:06+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
