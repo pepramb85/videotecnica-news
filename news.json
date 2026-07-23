@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-07-23T19:02:41.963566+00:00",
+  "generatedAt": "2026-07-23T20:53:54.680995+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "45 cm, classe A e Wi-Fi: Candy RapidÓ è al minimo di 329,99€",
+      "link": "https://www.tomshw.it/offerte/45-cm-classe-a-e-wi-fi-candy-rapido-e-al-minimo-di-32999eur",
+      "excerpt": "Candy RapidÓ RO4 1274DWMST/1-S costa 329,99€ su Amazon: dai 503,19€ di listino si risparmiano 173,20€, grazie allo sconto del 34%. La profondità di soli 45 cm permette di inserire…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103041/tomshw-offer-595182.png",
+      "publishedAt": "2026-07-23T20:02:51+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il robot da 83 mm si svuota da solo: Tapo RV20 Max Plus a 169,99€",
+      "link": "https://www.tomshw.it/offerte/il-robot-da-83-mm-si-svuota-da-solo-tapo-rv20-max-plus-a-16999eur",
+      "excerpt": "Con 169,99€ su Amazon, il Tapo RV20 Max Plus porta aspirazione e svuotamento automatico a 80€ in meno rispetto al listino di 249,99€, con uno sconto del 32%. Il corpo alto appena…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103039/tomshw-offer-595127.png",
+      "publishedAt": "2026-07-23T19:03:31+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Ho provato Ring Intercom Video, è valido? Come funziona e come installarlo | VIDEO",
+      "link": "https://www.hdblog.it/amazon/recensioni/n664673/ring-intercom-video-come-rendere-citofono-smart/",
+      "excerpt": "Ring Intercom è un adattatore da installare dentro casa che permette di ricevere le chiamate del citofono sullo smartphone, parlare con chi si trova al portone e aprire a…",
+      "image": "https://hd2.tudocdn.net/1358478?w=660",
+      "publishedAt": "2026-07-23T19:00:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Pfas nella carta da forno: tracce in quasi tutti i prodotti analizzati da un test",
+      "link": "https://www.hdblog.it/green/articoli/n665235/pfas-carta-da-forno-analisi-test-migliore/",
+      "excerpt": "Il Salvagente ha analizzato 16 marche di carta da forno rilevando la presenza di Pfas in 14 prodotti. Nessun campione supera i limiti europei che entreranno in vigore dal 12…",
+      "image": "https://hd2.tudocdn.net/1358554?w=660",
+      "publishedAt": "2026-07-23T18:59:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Tesla: il Cybercab integrerà la connessione satellitare Starlink",
       "link": "https://www.hdmotori.it/tesla-cybercab-starlink/",
@@ -140,33 +176,6 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Trasformano una Lamborghini in un mostro per la Dakar, l’ultima follia targata Rezvani",
-      "link": "https://www.hdmotori.it/lamborghini-dakar-rezvani-dune/",
-      "excerpt": "In California hanno rivoluzionato una Lamborghini Huracán con un assetto rialzato e pneumatici da fuoristrada",
-      "image": "https://hd2.tudocdn.net/1358623?w=660",
-      "publishedAt": "2026-07-23T16:00:28+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Resident Evil torna all'horror: nuovo trailer del film di Zach Cregger",
-      "link": "https://www.hdblog.it/curiosita/articoli/n665269/resident-evil-trailer-film-2026/",
-      "excerpt": "Il nuovo trailer di Resident Evil mostra riferimenti ai giochi e un horror più fedele alla saga.",
-      "image": "https://hd2.tudocdn.net/1358618?w=660",
-      "publishedAt": "2026-07-23T15:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Majestic Prometheus sfida le GPU: fino a 128 TB di memoria condivisa per l'AI",
-      "link": "https://www.tomshw.it/hardware/majestic-prometheus-sfida-le-gpu-fino-a-128-tb-di-memoria-condivisa",
-      "excerpt": "Fino a 128 TB di memoria LPDDR6 accessibili attraverso un unico spazio condiviso e contiguo: è questa la base di Prometheus, il server per inferenza AI in sviluppo presso Majestic…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102989/16-meluxina-ai-cover.jpg",
-      "publishedAt": "2026-07-23T15:10:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "70 km di autonomia e gomme FAT: la Nilox X8 Plus è una delle e-bike più interessanti in offerta su Amazon",
       "link": "https://images.dday.it/UyW4Nba7zdppoPcnmyoaWO5J1SzGE-1qD82Ksm7VOS0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58153/568357_ape2.jpg",
       "excerpt": "Motore brushless da 250W, autonomia fino a 70 km, cambio Shimano a 7 velocità e batteria removibile: la Nilox X8 Plus offre tutto il necessario per gli spostamenti quotidiani e le…",
@@ -201,15 +210,6 @@
       "publishedAt": "2026-07-23T13:07:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migliori monitor per PC (luglio 2026)",
-      "link": "https://www.tomshw.it/guide/migliori-monitor-pc",
-      "excerpt": "Scegliere un nuovo monitor per il vostro computer può sembrare semplice finché non iniziate a confrontare risoluzione, diagonale, refresh rate, pannello, porte e funzioni…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/89685/migliori-monitor-pc-copertina.jpg",
-      "publishedAt": "2026-07-23T11:48:24+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "La Commissione Europea ha dato il suo via libera all’acquisizione di Warner da parte di Paramount",
