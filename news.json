@@ -1,116 +1,224 @@
 {
-  "generatedAt": "2026-07-23T06:24:37.941393+00:00",
+  "generatedAt": "2026-07-23T10:13:13.774584+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "iOS 27, la seconda beta pubblica è disponibile: come installarla",
-      "link": "https://www.tomshw.it/smartphone/ios-27-la-seconda-beta-pubblica-e-disponibile-come-installarla",
-      "excerpt": "A soli nove giorni dal primo ciclo, Apple ha avviato il 22 luglio la distribuzione delle seconde beta pubbliche dei suoi sistemi operativi 27. Gli iscritti al programma possono…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102726/iOS-27-Mock-Quick.jpg",
-      "publishedAt": "2026-07-23T06:19:12+00:00",
+      "title": "Atlassian corregge 101 falle, incluse RCE: aggiornate Jira e Confluence",
+      "link": "https://www.tomshw.it/hardware/atlassian-corregge-101-falle-incluse-rce-aggiornate-jira-e-confluence",
+      "excerpt": "Atlassian ha distribuito nuove versioni dei suoi prodotti aziendali per correggere 83 vulnerabilità di gravità alta e 18 falle critiche presenti in dipendenze di terze parti. Il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102901/news-flash-592386.png",
+      "publishedAt": "2026-07-23T10:09:59+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "AI locale: 4 domande per capire se ne vale la pena",
-      "link": "https://www.tomshw.it/hardware/local-ai-quattro-domande-per-capire-se-un-ai-pc-vale-davvero-il-sovrapprezzo",
-      "excerpt": "Un Copilot+ PC può trascrivere l’audio e generare sottotitoli anche senza connessione; l’elaborazione di Live Captions avviene sul dispositivo. Apple Intelligence valuta se una…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102781/editorial-cover-591103.png",
-      "publishedAt": "2026-07-23T06:16:12+00:00",
+      "title": "Allarme msaRAT: Chrome usato come canale C2 invisibile",
+      "link": "https://www.tomshw.it/hardware/msarat-di-chaos-usa-chrome-come-canale-c2-e-confonde-l-analisi",
+      "excerpt": "Un browser compromesso diventa l’intermediario tra il malware e gli operatori del ransomware: è il meccanismo scelto da msaRAT, un nuovo trojan di accesso remoto attribuito da…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102900/newchaosrat.jpg",
+      "publishedAt": "2026-07-23T10:09:37+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Amazon taglia posti nel gruppo AGI, senza dire quanti dipendenti coinvolge",
-      "link": "https://www.tomshw.it/business/amazon-taglia-posti-nel-gruppo-agi-senza-dire-quanti-dipendenti-coinvolge",
-      "excerpt": "Amazon ha eliminato alcuni ruoli in parti della propria organizzazione dedicata all’intelligenza artificiale generale, concentrando risorse e sviluppo sulle iniziative AI…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102774/news-flash-591083.png",
-      "publishedAt": "2026-07-23T06:11:16+00:00",
+      "title": "Pixel Watch 5: più RAM ma processore uguale al passato",
+      "link": "https://www.tomshw.it/smartphone/google-pixel-watch-5-3-gb-di-ram-cpu-e-gpu-potrebbero",
+      "excerpt": "Google Pixel Watch 5 potrebbe portare la memoria RAM da 2 a 3 GB, segnando il primo aumento per la gamma dal modello originale. La novità emergerebbe da una scheda individuata…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100884/pixel-watch-5-potrebbe-ereditare-il-processore-del-predecessore.png",
+      "publishedAt": "2026-07-23T10:08:14+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Apple rilascia le seconde beta pubbliche di iOS 27, iPadOS 27, watchOS e macOS 27",
-      "link": "https://www.hdblog.it/smartphone/articoli/n665175/apple-rilascia-seconde-beta-pubbliche-ios/",
-      "excerpt": "Le nuove build arrivano a una settimana dalle precedenti",
-      "image": "https://hd2.tudocdn.net/1348343?w=660",
-      "publishedAt": "2026-07-23T06:10:00+00:00",
+      "title": "Il Philips DiamondClean 9900 Prestige ti dice in tempo reale se stai lavando bene i denti",
+      "link": "https://images.dday.it/dZEBpBP7OGSrHzoQhCpUJCPYNS3QLQr5SHd4dTUlyQA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58146/3b3db3_next-gen-diamond-clean-9900-prestige-quartz-black-smart-pressure-feedback.jpg",
+      "excerpt": "Attraverso un modello IA e sensori lo spazzolino elettrico segnala con LED sul manico se ci si sta lavando i denti in modo corretto. A fine pulizia, il display indica le zone che…",
+      "image": "https://images.dday.it/dZEBpBP7OGSrHzoQhCpUJCPYNS3QLQr5SHd4dTUlyQA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58146/3b3db3_next-gen-diamond-clean-9900-prestige-quartz-black-smart-pressure-feedback.jpg",
+      "publishedAt": "2026-07-23T10:06:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Ex producer Rockstar spegne l'entusiasmo per il framerate a 60 fps in GTA 6",
+      "link": "https://www.hdblog.it/giochi/articoli/n665206/ex-producer-rockstar-spegne-60-fps-gta-6/",
+      "excerpt": "Il framerate di GTA 6 rimane un'incognita: un ex producer di Rockstar spiega perché raggiungere i 60 fps potrebbe essere difficile.",
+      "image": "https://hd2.tudocdn.net/1358489?w=660",
+      "publishedAt": "2026-07-23T10:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Intel e AMD, CPU server oltre +40%: boom in Cina",
-      "link": "https://www.tomshw.it/hardware/intel-e-amd-cpu-server-oltre-il-40-accordi-fino-a-due",
-      "excerpt": "Alcuni processori server venduti in Cina stanno registrando aumenti mensili superiori al 10%, con rincari cumulati oltre il 40% dall’inizio del 2026. In questo scenario, Intel e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102760/intel-amd-sign-long-term-server-cpu-deals-with-chinese-clients-as-prices-surge.jpg",
-      "publishedAt": "2026-07-23T06:05:36+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "OpenAI spinge sui data center: il nuovo campus consumerà energia come una città",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n665172/openai-investimento-data-center-2030/",
-      "excerpt": "OpenAI investe 750 miliardi entro il 2030 e costruisce un enorme data center in Georgia.",
-      "image": "https://hd2.tudocdn.net/1358387?w=660",
-      "publishedAt": "2026-07-23T06:05:00+00:00",
+      "title": "Schermi sempre più grandi sulle auto: un’innovazione o un pericolo?",
+      "link": "https://www.hdmotori.it/schermi-sempre-grandi-auto-pericolo/",
+      "excerpt": "Un recente studio svedese rivela che i display moderni aumentano le distrazioni alla guida, facendo aumentare il tempo in cui gli occhi distolgono lo sguardo dalla strada.",
+      "image": "https://hd2.tudocdn.net/1358513?w=660",
+      "publishedAt": "2026-07-23T10:00:22+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Logitech M720 a 39,18€: cambia computer premendo un tasto",
-      "link": "https://www.tomshw.it/offerte/logitech-m720-a-3918eur-cambia-computer-premendo-un-tasto",
-      "excerpt": "A 39,18€ su Amazon, il Logitech M720 Triathlon costa il 40% in meno rispetto al listino di 64,99€, lasciando 25,81€ in tasca. La comodità che lo distingue è la possibilità di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102775/tomshw-offer-591111.png",
-      "publishedAt": "2026-07-23T06:02:59+00:00",
+      "title": "Da fine 2026 il software in Europa diventa un “prodotto”: cosa vuol dire e cosa cambia per gli utenti",
+      "link": "https://images.dday.it/c6gquHu6shDRUVKSlBgiF-FK6XvLZDiBea83Ep2YnNo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58147/b2f2a2_Depositphotos_25021863_XL-_1_.jpg",
+      "excerpt": "Entro la fine del 2026 ci sarà un’altra piccola rivoluzione nel mercato europeo perché cambierà il rapporto tra consumatori e software. La Direttiva (UE) 2024/2853, che gli Stati…",
+      "image": "https://images.dday.it/c6gquHu6shDRUVKSlBgiF-FK6XvLZDiBea83Ep2YnNo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58147/b2f2a2_Depositphotos_25021863_XL-_1_.jpg",
+      "publishedAt": "2026-07-23T09:57:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Tesla frena sui robotaxi: test sul Cybercab e regole prima dell’espansione",
+      "link": "https://www.tomshw.it/automotive/tesla-frena-sui-robotaxi-test-sul-cybercab-e-regole-prima-dell-espansione",
+      "excerpt": "La velocità di espansione dei robotaxi Tesla dipenderà dalla validazione del software, dai dati raccolti sul Cybercab e dalle autorizzazioni locali. Durante la call sui risultati…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102722/news-flash-590556.png",
+      "publishedAt": "2026-07-23T09:50:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "A che ora esce Halo: Campaign Evolved in Italia: accesso anticipato e dove scaricarlo",
-      "link": "https://www.tomshw.it/videogioco/a-che-ora-esce-halo-campaign-evolved-in-italia-accesso-anticipato-e-dove-scaricarlo",
-      "excerpt": "L’accesso anticipato di Halo: Campaign Evolved apre oggi, 23 luglio 2026, alle 17:00 italiane su Xbox Series X|S, Microsoft Store per PC, Steam e PlayStation Store per PS5. È a…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102761/dqv-toms-cover-591056-1.png",
-      "publishedAt": "2026-07-23T05:59:27+00:00",
+      "title": "Brain-computer interface: la Cina sviluppa una piattaforma per guidare i robot con il pensiero",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n665185/cina-robot-controllati-col-pensiero/",
+      "excerpt": "Una piattaforma cinese usa i segnali cerebrali per controllare robot senza joystick o tastiere.",
+      "image": "https://hd2.tudocdn.net/1358415?w=660",
+      "publishedAt": "2026-07-23T09:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La videocamera di sicurezza autonoma di Xiaomi è ufficiale",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n665215/xiaomi-videocamera-sorveglianza-solare-4g/",
+      "excerpt": "Xiaomi Smart Solar Camera 4 Pro debutta ufficialmente in Cina con pannello solare integrato, batteria da 9.900 mAh, connettività 4G e doppia fotocamera da 5 MP con registrazione…",
+      "image": "https://hd2.tudocdn.net/1358491?w=660",
+      "publishedAt": "2026-07-23T09:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Galaxy Watch Ultra 2 sarà computer da sub, ma a pagamento",
+      "link": "https://www.tomshw.it/smartphone/galaxy-watch-ultra-2-computer-da-immersione-completo-solo-con-l-app",
+      "excerpt": "Galaxy Watch Ultra 2 misurerà gratuitamente profondità e durata dell’immersione, ma le funzioni avanzate da computer subacqueo richiederanno un abbonamento separato. Samsung…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102889/watchultra_samsung_720_1_720_1_720-jpg.webp",
+      "publishedAt": "2026-07-23T09:38:13+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "A che ora esce la Stagione 5 di Call of Duty Black Ops 7 e Warzone oggi in Italia",
-      "link": "https://www.tomshw.it/videogioco/a-che-ora-esce-la-stagione-5-di-call-of-duty-black-ops-7-e-warzone-oggi-in-italia",
-      "excerpt": "La Stagione 5 di Call of Duty: Black Ops 7 e Warzone parte oggi, 23 luglio 2026, alle 18:00 CEST. Aggiornate Call of Duty tramite PlayStation Store, Microsoft Store, Steam o…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102759/dqv-toms-cover-591045-0.png",
-      "publishedAt": "2026-07-23T05:57:42+00:00",
+      "title": "HONOR cambia identità: ora vuole guidare l'ecosistema dei dispositivi AI",
+      "link": "https://www.tomshw.it/smartphone/honor-cambia-identita-ora-vuole-guidare-lecosistema-dei-dispositivi-ai",
+      "excerpt": "HONOR apre un nuovo capitolo della propria storia con una nuova identità di marca e un nuovo logo, pensati per rendere visibile un cambiamento più ampio del semplice aggiornamento…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102887/Logo-KV_Horizontal.jpg",
+      "publishedAt": "2026-07-23T09:34:45+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Xbox porta i classici della prima console su PC con nuove funzioni",
-      "link": "https://www.hdblog.it/microsoft/articoli/n665171/xbox-giochi-originali-pc/",
-      "excerpt": "I classici della prima Xbox arrivano su PC con grafica migliorata e obiettivi.",
-      "image": "https://hd2.tudocdn.net/1358386?w=660",
-      "publishedAt": "2026-07-23T05:55:00+00:00",
+      "title": "Genesis Electrified G80: prezzo da 81.800 euro per l'ammiraglia coreana",
+      "link": "https://www.hdmotori.it/genesis-electrified-g80-prezzo/",
+      "excerpt": "Genesis lancia in Italia la Electrified G80 Luxury: berlina elettrica da 370 CV, 570 km d'autonomia e ricarica a 800V. Prezzi da 81.800 euro o in noleggio da 699 euro al mese.",
+      "image": "https://hd2.tudocdn.net/1358500?w=660",
+      "publishedAt": "2026-07-23T09:30:55+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "OpenAI di nuovo in tribunale dopo un presunto errore medico di ChatGPT",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n665170/openai-causa-chatgpt-consigli-medici/",
-      "excerpt": "Una causa contro OpenAI riaccende i dubbi sull'uso dell'AI per consigli medici.",
-      "image": "https://hd2.tudocdn.net/1358383?w=660",
-      "publishedAt": "2026-07-23T05:45:00+00:00",
+      "title": "Il secondo stadio di un Falcon 9 sta per schiantarsi sulla superficie della Luna",
+      "link": "https://images.dday.it/iUgIA1r6dERXbcIIINEvGzDkui_iLDh8AqSD1qtvvAY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58145/7d1b9f_Falcon_9_impact.jpg",
+      "excerpt": "Si tratta del razzo che lanciò per la Luna le missioni Blue Ghost e Hakuto-R e impatterà la superficie la mattina del 5 agosto. Per gli astronomi è un’opportunità per osservare in…",
+      "image": "https://images.dday.it/iUgIA1r6dERXbcIIINEvGzDkui_iLDh8AqSD1qtvvAY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58145/7d1b9f_Falcon_9_impact.jpg",
+      "publishedAt": "2026-07-23T09:27:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Via libera UE alla fusione Paramount-Warner, ma a una condizione",
+      "link": "https://www.hdblog.it/mercato/articoli/n665205/paramount-warner-via-libera-ue/",
+      "excerpt": "L'UE approva la fusione Paramount-Warner imponendo lo stop all'accordo con Universal.",
+      "image": "https://hd2.tudocdn.net/1358473?w=660",
+      "publishedAt": "2026-07-23T09:25:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Samsung Galaxy AI sempre più in alto: obiettivo 800 mln di device entro fine anno",
-      "link": "https://www.hdblog.it/samsung/articoli/n665162/samsung-galaxy-ai-obiettivo-espansione/",
-      "excerpt": "In soli tre anni. Non male!",
-      "image": "https://hd2.tudocdn.net/1283812?w=660",
-      "publishedAt": "2026-07-23T05:35:00+00:00",
+      "title": "Framework Desktop, arrivano AMD Gorgon Halo e addirittura 192 GB di RAM",
+      "link": "https://www.hdblog.it/hardware/articoli/n665208/framework-desktop-gorgon-halo-192-gb-ram/",
+      "excerpt": "Il prezzo sarà da capogiro. Forse sopra i 4.000 dollari?",
+      "image": "https://hd2.tudocdn.net/1358476?w=660",
+      "publishedAt": "2026-07-23T09:15:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "L'arcade di Donkey Kong è l'ennesimo set LEGO che punta sull'effetto nostalgia",
+      "link": "https://www.hdblog.it/giochi/articoli/n665192/arcade-donkey-kong-set-lego-effetto-nostalgia/",
+      "excerpt": "Lo storico cabinato di Donkey Kong diventa un set LEGO completo di Jumpman, Pauline, il gorilla e i barili in movimento da saltare.",
+      "image": "https://hd2.tudocdn.net/1358453?w=660",
+      "publishedAt": "2026-07-23T09:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "545€ restano per la GPU: Corsair QD-OLED 240 Hz al minimo",
+      "link": "https://www.tomshw.it/offerte/545eur-restano-per-la-gpu-corsair-qd-oled-240-hz-al-minimo",
+      "excerpt": "Corsair XENEON 34WQHD240-C è a 804,90€ su Amazon, con 545,09€ sottratti al listino di 1.349,99€ e uno sconto del 40%. È il minimo toccato finora da questo monitor QD-OLED…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102875/tomshw-offer-592056.png",
+      "publishedAt": "2026-07-23T09:02:50+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Google annuncia Gemini Nano 4 ed è già sui nuovi Galaxy pieghevoli",
+      "link": "https://www.hdblog.it/smartphone/articoli/n665204/gemini-nano-4-debutta-nuovi-galaxy-z-fold/",
+      "excerpt": "Con Gemini Nano 4, Android introduce nuove capacità di intelligenza artificiale on-device, tra cui riassunti, classificazione dei contenuti e automazioni, migliorando privacy,…",
+      "image": "https://hd2.tudocdn.net/1357829?w=660",
+      "publishedAt": "2026-07-23T08:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung, Bellorini ci parla dei nuovi Fold: \"Non esiste un formato adatto a tutti\"",
+      "link": "https://www.hdblog.it/smartphone/articoli/n665197/samsung-bellorini-racconta-nuovi-foldable/",
+      "excerpt": "Samsung ha ampliato ulteriormente la propria offerta, affiancando ai formati già conosciuti una terza soluzione.",
+      "image": "https://hd2.tudocdn.net/1358464?w=660",
+      "publishedAt": "2026-07-23T08:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Tesla: più auto consegnate, ma profitti in calo",
+      "link": "https://images.dday.it/jzs_U2dF08m1eFKf2fqNmJnehNAlkGITAY2BDyRIe4s/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58144/11d3ee_tesla_thumb.jpg",
+      "excerpt": "Nel secondo trimestre i ricavi sono saliti del 26% grazie a 480.126 veicoli consegnati, ma l’utile è diminuito del 17%. Inoltre, Tesla ha registrato un free cash flow negativo per…",
+      "image": "https://images.dday.it/jzs_U2dF08m1eFKf2fqNmJnehNAlkGITAY2BDyRIe4s/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58144/11d3ee_tesla_thumb.jpg",
+      "publishedAt": "2026-07-23T08:17:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Svolta energetica: rinnovabili superano il carbone nel 2026",
+      "link": "https://www.tomshw.it/scienze/iea-rinnovabili-davanti-al-carbone-nel-2026-domanda-elettrica-3-6",
+      "excerpt": "La domanda mondiale di elettricità crescerà del 3,6% nel 2026 e di un ulteriore 3,8% nel 2027, mentre le energie rinnovabili dovrebbero superare il carbone come principale fonte…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102856/news-flash-591768.png",
+      "publishedAt": "2026-07-23T08:15:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Google spende sempre di più per l’IA: nel secondo trimestre liquidità in negativo. È la prima volta dalla quotazione",
+      "link": "https://images.dday.it/_fqHtVHEPoLHXmzZbBHOQsZr5OkrPsAAQk_hfsE2ndQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58143/761b16_Depositphotos_721749358_XL.jpg",
+      "excerpt": "Alphabet ha alzato ancora il budget destinato a data center, chip e infrastrutture, che nel 2026 arriverà fino a 205 miliardi di dollari... Leggi tutto",
+      "image": "https://images.dday.it/_fqHtVHEPoLHXmzZbBHOQsZr5OkrPsAAQk_hfsE2ndQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58143/761b16_Depositphotos_721749358_XL.jpg",
+      "publishedAt": "2026-07-23T07:55:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Migliori POS portatili (luglio 2026)",
+      "link": "https://www.tomshw.it/altro/pos-mobili-migliori",
+      "excerpt": "Se desiderate offrire ai vostri clienti la comodità di effettuare pagamenti con il POS ovunque vi troviate, in sicurezza e senza dipendere da una cassa fissa, un POS portatile è…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/87507/migliori-pos-portatili-copertina.jpg",
+      "publishedAt": "2026-07-23T06:17:19+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Con Navimow il prato si taglia da solo, e a luglio il Garage è in regalo",
@@ -129,69 +237,6 @@
       "publishedAt": "2026-07-23T01:03:05+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Xiaomi X20 Max lava i panni a 55 °C: oggi 399€ su Amazon",
-      "link": "https://www.tomshw.it/offerte/xiaomi-x20-max-lava-i-panni-a-55-c-oggi-399eur-su-amazon",
-      "excerpt": "A 399€ su Amazon, Xiaomi Robot Vacuum X20 Max fa risparmiare 250,99€ sui 649,99€ di listino, con uno sconto del 39%. Aspirazione da 8.000 Pa, lavaggio ad acqua calda e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102745/tomshw-offer-590861.png",
-      "publishedAt": "2026-07-22T20:02:20+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Un centesimo dal minimo: Oral-B iO 5 è al 50% su Amazon",
-      "link": "https://www.tomshw.it/offerte/un-centesimo-dal-minimo-oral-b-io-5-e-al-50-su-amazon",
-      "excerpt": "A 99,99€ su Amazon, Oral-B iO 5 passa dai 199,99€ di listino alla metà esatta, con uno sconto del 50%. Il prezzo odierno dista appena un centesimo dal minimo di 99,98€ raggiunto…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102744/tomshw-offer-590855.png",
-      "publishedAt": "2026-07-22T19:03:47+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Abbiamo provato Samsung Galaxy Z Fold8, Fold8 Ultra e Flip8 | VIDEO",
-      "link": "https://www.hdblog.it/smartphone/speciali/n664546/anteprima-samsung-galaxy-z-fold-flip-8-ultra-video/",
-      "excerpt": "Abbiamo toccato con mano i nuovi pieghevoli di Samsung: c'è un nuovo modello \"Ultra\" e lo standard diventa più compatto ed adatto alla fruizione di contenuti multimediali. Prezzi?…",
-      "image": "https://hd2.tudocdn.net/1357503?w=660",
-      "publishedAt": "2026-07-22T19:00:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung Galaxy Z Fold 8 Ultra, Fold 8 e Flip 8 ufficiali: prezzi e promo di lancio",
-      "link": "https://www.hdblog.it/smartphone/articoli/n664932/samsung-galaxy-z-fold-8-ultra-prezzi-promo/",
-      "excerpt": "Samsung ha presentato la nuova generazione dei suoi smartphone pieghevoli",
-      "image": "https://hd2.tudocdn.net/1357851?w=660",
-      "publishedAt": "2026-07-22T18:59:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung Galaxy Watch Ultra 2 e Watch 9 ufficiali: caratteristiche, prezzi e promo",
-      "link": "https://www.hdblog.it/indossabili/articoli/n664957/samsung-galaxy-watch-ultra2-watch9-ufficiali/",
-      "excerpt": "Si rivolgono a utenti differenti",
-      "image": "https://hd2.tudocdn.net/1357885?w=660",
-      "publishedAt": "2026-07-22T18:58:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Apple ha grandi piani per i suoi Mac desktop, nonostante la crisi dei chip",
-      "link": "https://www.hdblog.it/hardware/articoli/n665160/apple-mac-mini-studio-imac-oled-m5-m6-pro-max/",
-      "excerpt": "In cantiere un nuovo Mac Mini (con due generazioni di chip), un Mac Studio e, più avanti, arriverà anche un iMac OLED.",
-      "image": "https://hd2.tudocdn.net/1101683?w=660",
-      "publishedAt": "2026-07-22T18:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "SpaceX continua a sgonfiarsi in borsa: perdite per sette giorni di fila",
-      "link": "https://www.hdblog.it/mercato/articoli/n665154/spacex-borsa-andamento-calo-costante/",
-      "excerpt": "Siamo ormai a 120 dollari per azione contro i 160 dell'IPO.",
-      "image": "https://hd2.tudocdn.net/1351908?w=660",
-      "publishedAt": "2026-07-22T17:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Golf e T-Roc ora anche full hybrid. Prezzi da 39.250 euro",
@@ -221,56 +266,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Wi-Fi 6 stabile anche in giardino: TP-Link svela il router Archer NX500-Outdoor",
-      "link": "https://images.dday.it/ZzAmxntXp8JOgCr-s_u48bMpiCZVuG7zeTEbdktiSGA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58138/420462_nx500_1.jpg",
-      "excerpt": "Il router ha anche uno slot SIM e punta a migliorare la ricezione della rete mobile e a coprire giardini, cortili e parcheggi... Leggi tutto",
-      "image": "https://images.dday.it/ZzAmxntXp8JOgCr-s_u48bMpiCZVuG7zeTEbdktiSGA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58138/420462_nx500_1.jpg",
-      "publishedAt": "2026-07-22T13:49:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Tutto quello che devi sapere sugli occhiali smart Samsung Galaxy",
-      "link": "https://images.dday.it/IaOPVr3jlhqtyZhrpwx1SBM0xEytGRjHIoyOg2n6ZrM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58129/3c7ad3_P1233395.jpg",
-      "excerpt": "Una sessione esclusiva, per raccontare nel dettaglio cosa faranno e come funzioneranno gli occhiali smart che arriveranno sul mercato entro fine anno. Ecco tutto quello che…",
-      "image": "https://images.dday.it/IaOPVr3jlhqtyZhrpwx1SBM0xEytGRjHIoyOg2n6ZrM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58129/3c7ad3_P1233395.jpg",
-      "publishedAt": "2026-07-22T13:00:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Samsung annuncia Galaxy Watch Ultra 2 e Galaxy Watch 9",
-      "link": "https://images.dday.it/J_S9QKebfj3oIYhcJOz7CA4eY26nD3wdnRJIOwIGYew/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58133/31efcf_P1233387.jpg",
-      "excerpt": "Samsung ha annunciato oggi i nuovi Galaxy Watch Ultra 2 e Galaxy Watch 9. Schermo più luminoso, maggiore autonomia e un processore più potente al servizio di fitness e salute. ...…",
-      "image": "https://images.dday.it/J_S9QKebfj3oIYhcJOz7CA4eY26nD3wdnRJIOwIGYew/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58133/31efcf_P1233387.jpg",
-      "publishedAt": "2026-07-22T13:00:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Galaxy Z Fold8 Ultra, Fold8 e Flip8 ufficiali. Nuovo formato, batteria al silicio carbonio e schermo al titanio le novità",
-      "link": "https://images.dday.it/4uMFyH93qJNvO-4BchfhGuddMf1TCuvufry1sDuKf_0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58121/77a171_Gemini_Generated_Image_fm6e79fm6e79fm6e.jpeg",
-      "excerpt": "Samsung rinnova la gamma di pieghevoli aumentando l'autonomia grazie alla batteria al silicio-carbonio e rendendo lo schermo più robusto grazie a un doppio strato in titanio. C'è…",
-      "image": "https://images.dday.it/4uMFyH93qJNvO-4BchfhGuddMf1TCuvufry1sDuKf_0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58121/77a171_Gemini_Generated_Image_fm6e79fm6e79fm6e.jpeg",
-      "publishedAt": "2026-07-22T13:00:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "75 pollici, Mini LED e 5.500 nit: TCL SQD-Mini LED C8L è finalmente in sconto su Amazon",
-      "link": "https://images.dday.it/xS2sx6A-VQmSkSGOhhlc7MslmwE68uaAm46xRjw8lOI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58137/1ade47_714qEfXZvsL._AC_SL1500_.jpg",
-      "excerpt": "Con 5.500 nit di luminosità, local dimming avanzato e Google TV integrata, il maxi TV TCL C8L è una delle offerte più interessanti del momento... Leggi tutto",
-      "image": "https://images.dday.it/xS2sx6A-VQmSkSGOhhlc7MslmwE68uaAm46xRjw8lOI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58137/1ade47_714qEfXZvsL._AC_SL1500_.jpg",
-      "publishedAt": "2026-07-22T12:54:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "HRTech build vs buy, quando ridisegnare il processo prima di comprare",
-      "link": "https://www.tomshw.it/aioperator/hr15-hrtech-build-vs-buy",
-      "excerpt": "Il responsabile HR che sta per comprare una piattaforma nuova parte quasi sempre dalla domanda sbagliata: si chiede quale software, quando la domanda corretta è cosa sta…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101814/01-hr15-cover.jpg",
-      "publishedAt": "2026-07-17T07:20:10+00:00",
+      "title": "L'AI sceglie il prodotto al posto tuo, il brand non conta più",
+      "link": "https://www.tomshw.it/business/ai-sceglie-prodotto-brand-non-conta",
+      "excerpt": "Il 70% dei consumatori tra i 18 e i 64 anni usa già l'intelligenza artificiale per decidere cosa comprare, quota che sale al 93% tra i più giovani. Il brand, per decenni cardine…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102617/13-roland-berger-cover.jpg",
+      "publishedAt": "2026-07-22T10:40:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
