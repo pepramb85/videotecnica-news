@@ -1,9 +1,162 @@
 {
-  "generatedAt": "2026-07-24T05:22:01.897502+00:00",
+  "generatedAt": "2026-07-24T08:11:52.424233+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Ford: Apple Maps sarà nativo sulle elettriche UEV dal 2027, anche senza CarPlay",
+      "link": "https://www.tomshw.it/automotive/ford-apple-maps-sara-nativo-sulle-elettriche-uev-dal-2027-anche-senza",
+      "excerpt": "Le future elettriche basate sulla Ford Universal Electric Vehicle Platform avranno Apple Maps integrato direttamente nel sistema di bordo, senza richiedere CarPlay o un iPhone per…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103104/news-flash-596014.png",
+      "publishedAt": "2026-07-24T08:05:14+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Gemini Live sbarca sui dispositivi Google Home di prima generazione",
+      "link": "https://www.hdblog.it/google/articoli/n665313/gemini-live-google-home-vecchi-dispositivi/",
+      "excerpt": "Gemini Live arriva sui vecchi Google Home con memoria contestuale e nuove funzioni.",
+      "image": "https://hd2.tudocdn.net/1358687?w=660",
+      "publishedAt": "2026-07-24T08:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Riforma rete carburanti: chiusura degli impianti obsoleti e incentivi alla riconversione",
+      "link": "https://www.hdmotori.it/riforma-distributori-carburante-italia/",
+      "excerpt": "In Italia si potrebbero iniziare a convertire i distributori di carburanti in infrastrutture per la ricarica elettrica",
+      "image": "https://hd2.tudocdn.net/1358688?w=660",
+      "publishedAt": "2026-07-24T08:00:24+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "ChatGPT Voice: gli agenti di Work e Codex si controllano a voce",
+      "link": "https://www.tomshw.it/hardware/chatgpt-voice-gli-agenti-di-work-e-codex-si-controllano-a-voce",
+      "excerpt": "Una conversazione vocale può ora avviare un’attività in ChatGPT Work o Codex, controllarne l’avanzamento e coordinare il lavoro di più agenti. OpenAI ha reso ufficiale il 23…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103102/news-flash-595988.png",
+      "publishedAt": "2026-07-24T07:57:07+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Marvel's Wolverine: il trailer svela Team X e il ruolo di Deathstrike",
+      "link": "https://www.tomshw.it/videogioco/marvel-s-wolverine-il-trailer-svela-team-x-e-il-ruolo-di",
+      "excerpt": "Il nuovo trailer narrativo di Marvel's Wolverine si apre con un confronto tra Logan e Jean Grey, costretti a collaborare mentre la popolazione mutante affronta una minaccia di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103100/8267da7d82022e7bed4f05144a1e19a120f3755a.jpg",
+      "publishedAt": "2026-07-24T07:48:21+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Xbox testa il cloud gaming gratuito con annunci pubblicitari",
+      "link": "https://www.hdblog.it/microsoft/articoli/n665308/xbox-cloud-gaming-gratis-pubblicita-2/",
+      "excerpt": "Xbox prova il cloud gaming gratuito con pubblicità e sessioni fino a un'ora.",
+      "image": "https://hd2.tudocdn.net/1358666?w=660",
+      "publishedAt": "2026-07-24T07:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Patente a 17 anni: verso la revisione del Codice della Strada",
+      "link": "https://www.hdmotori.it/patente-a-17-anni/",
+      "excerpt": "L'Europa spinge per abbassare l'età di guida e l'Italia valuta la revisione del Codice della Strada tra nuove opportunità, educazione e sicurezza stradale.",
+      "image": "https://hd2.tudocdn.net/1329467?w=660",
+      "publishedAt": "2026-07-24T07:30:26+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Vuoi cambiare TV? Da Unieuro scatta l’Extra Sconto 20% a carrello per i clienti Unieuro Club",
+      "link": "https://www.tomshw.it/altro/vuoi-cambiare-tv-da-unieuro-scatta-lextra-sconto-20-a-carrello-per-i-clienti-unieuro-club",
+      "excerpt": "Unieuro rilancia nel fine settimana con un'offerta imperdibile per tutti gli amanti del cinema e dell'home entertainment: arrivano i Weekend Specials TV, la promozione interamente…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103097/Vuoi-cambiare-TV-Da-Unieuro-scatta-l’Extra-Sconto-20--a-carrello-per-i-clienti-Unieuro-Club.png",
+      "publishedAt": "2026-07-24T07:29:33+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Unieuro sconta le TV del 20% a carrello: MiniLED, OLED e 75\" in offerta",
+      "link": "https://www.hdblog.it/tv/offerte/n665310/unieuro-tv-sconto-20-carrello-weekend-offerte/",
+      "excerpt": "Unieuro lancia una promo TV con 20% di sconto a carrello per gli iscritti UE Club e spesa minima di 499€: tra le offerte TCL, LG, Philips e Haier.",
+      "image": "https://hd2.tudocdn.net/1358680?w=660",
+      "publishedAt": "2026-07-24T07:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Galaxy Z Flip8 e Fold8 Ultra a rate con Iliad: i prezzi, senza interessi e senza anticipo",
+      "link": "https://www.hdblog.it/smartphone/articoli/n665311/galaxy-z-flip8-fold8-ultra-iliad-a-rate/",
+      "excerpt": "Iliad avvierà dal 4 agosto 2026 la vendita dei nuovi Samsung Galaxy Z Flip8, Galaxy Z Fold8 e Galaxy Z Fold8 Ultra. Ecco prezzi, rate Findomestic a tasso zero, colorazioni…",
+      "image": "https://hd2.tudocdn.net/1357531?w=660",
+      "publishedAt": "2026-07-24T07:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "ChatGPT Voice arriva su desktop: conversazioni naturali e AI che lavora davvero",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n665306/chatgpt-voice-desktop-gpt-live/",
+      "excerpt": "ChatGPT Voice arriva su desktop con GPT-Live e controlla Chat, Codex e Work a voce.",
+      "image": "https://hd2.tudocdn.net/1358665?w=660",
+      "publishedAt": "2026-07-24T07:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "GKU D600Pro: la dash cam 4K fronte-retro ora è più conveniente",
+      "link": "https://www.tomshw.it/automotive/gku-d600pro-dash-cam-4k-fronte-retro-in-offerta-2026-07-24",
+      "excerpt": "La GKU D600Pro è una dash cam doppia che registra la strada davanti all’auto in 4K e quella posteriore in 1080p, con GPS e Wi-Fi a 5 GHz integrati. Il prezzo è di 79,99€ con il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101034/GKU-D600Pro.jpg",
+      "publishedAt": "2026-07-24T07:01:56+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Casio F-B100W: l'orologio digitale con contapassi che mancava",
+      "link": "https://www.hdblog.it/indossabili/articoli/n665302/casio-f-b100w-step-tracker/",
+      "excerpt": "Nuovi render dei Casio F-B100W mostrano contapassi avanzato, Bluetooth e tre varianti.",
+      "image": "https://hd2.tudocdn.net/1358654?w=660",
+      "publishedAt": "2026-07-24T06:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "WhatsApp integra Acrobat: i PDF si aprono e si modificano direttamente nelle chat",
+      "link": "https://www.hdblog.it/applicazioni/articoli/n665303/whatsapp-integra-adobe-acrobat-pdf/",
+      "excerpt": "WhatsApp ha reso più semplice la gestione dei PDF nelle versioni Web e Windows.",
+      "image": "https://hd2.tudocdn.net/1358652?w=660",
+      "publishedAt": "2026-07-24T06:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Robot centauro cinese: unisce ruote e braccia per le missioni più difficili | Video",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n665299/robot-centauro-cina-run-robotics/",
+      "excerpt": "Il robot centauro cinese unisce ruote e braccia per operare nei luoghi più pericolosi.",
+      "image": "https://hd2.tudocdn.net/1358649?w=660",
+      "publishedAt": "2026-07-24T06:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Migliori autoradio 2 DIN (luglio 2026)",
+      "link": "https://www.tomshw.it/automotive/migliori-autoradio-2-din",
+      "excerpt": "Volete modernizzare l'infotainment della vostra auto senza cambiare veicolo? Una buona autoradio 2 DIN resta uno degli upgrade più sensati per chi desidera navigazione, streaming…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/90255/migliori-autoradio-2din-copertina.jpg",
+      "publishedAt": "2026-07-24T06:17:02+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "JBL Charge 6 scende di prezzo: più autonomia per musica e viaggi",
+      "link": "https://www.tomshw.it/hardware/jbl-charge-6-scende-di-prezzo-offerta-2026-07-24",
+      "excerpt": "JBL Charge 6 è uno speaker Bluetooth portatile pensato per portare musica in casa, in terrazza e durante le giornate all’aperto senza dipendere continuamente da una presa. La…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103046/jbl-charge-6-scende-di-prezzo-offerta-2026-07-24-z2qUnoXvqocdonn3q1t1frUOG3.png",
+      "publishedAt": "2026-07-24T05:13:26+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "Scopri come Hisense rivoluziona l’esperienza TV con la nuova gamma RGB MiniLED",
       "link": "https://images.dday.it/LEDY5-x2klJ39J9BvFgrGEE3esNNP1QGaMeoPqxZ0t4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58048/78644b_14.Lifestyle_Image.jpg",
@@ -12,177 +165,6 @@
       "publishedAt": "2026-07-24T01:03:04+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "45 cm, classe A e Wi-Fi: Candy RapidÓ è al minimo di 329,99€",
-      "link": "https://www.tomshw.it/offerte/45-cm-classe-a-e-wi-fi-candy-rapido-e-al-minimo-di-32999eur",
-      "excerpt": "Candy RapidÓ RO4 1274DWMST/1-S costa 329,99€ su Amazon: dai 503,19€ di listino si risparmiano 173,20€, grazie allo sconto del 34%. La profondità di soli 45 cm permette di inserire…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103041/tomshw-offer-595182.png",
-      "publishedAt": "2026-07-23T20:02:51+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il robot da 83 mm si svuota da solo: Tapo RV20 Max Plus a 169,99€",
-      "link": "https://www.tomshw.it/offerte/il-robot-da-83-mm-si-svuota-da-solo-tapo-rv20-max-plus-a-16999eur",
-      "excerpt": "Con 169,99€ su Amazon, il Tapo RV20 Max Plus porta aspirazione e svuotamento automatico a 80€ in meno rispetto al listino di 249,99€, con uno sconto del 32%. Il corpo alto appena…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103039/tomshw-offer-595127.png",
-      "publishedAt": "2026-07-23T19:03:31+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Ho provato Ring Intercom Video, è valido? Come funziona e come installarlo | VIDEO",
-      "link": "https://www.hdblog.it/amazon/recensioni/n664673/ring-intercom-video-come-rendere-citofono-smart/",
-      "excerpt": "Ring Intercom è un adattatore da installare dentro casa che permette di ricevere le chiamate del citofono sullo smartphone, parlare con chi si trova al portone e aprire a…",
-      "image": "https://hd2.tudocdn.net/1358478?w=660",
-      "publishedAt": "2026-07-23T19:00:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Pfas nella carta da forno: tracce in quasi tutti i prodotti analizzati da un test",
-      "link": "https://www.hdblog.it/green/articoli/n665235/pfas-carta-da-forno-analisi-test-migliore/",
-      "excerpt": "Il Salvagente ha analizzato 16 marche di carta da forno rilevando la presenza di Pfas in 14 prodotti. Nessun campione supera i limiti europei che entreranno in vigore dal 12…",
-      "image": "https://hd2.tudocdn.net/1358554?w=660",
-      "publishedAt": "2026-07-23T18:59:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Tesla: il Cybercab integrerà la connessione satellitare Starlink",
-      "link": "https://www.hdmotori.it/tesla-cybercab-starlink/",
-      "excerpt": "Oltre il 5G: perché l'integrazione della tecnologia satellitare di Elon Musk rappresenta il futuro della connettività.",
-      "image": "https://hd2.tudocdn.net/1358637?w=660",
-      "publishedAt": "2026-07-23T18:30:09+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Qualcomm Snapdragon 8 Elite Gen 5: in arrivo una versione più economica?",
-      "link": "https://www.hdblog.it/hardware/articoli/n665290/qualcomm-snapdragon-8-elite-gen-5-economico-2026/",
-      "excerpt": "Ecco cosa dice l'ultimo leak e perché avrebbe senso.",
-      "image": "https://hd2.tudocdn.net/1290175?w=660",
-      "publishedAt": "2026-07-23T18:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Batteria al 50% in 26 minuti: Belkin 10.000 mAh costa 16,99€",
-      "link": "https://www.tomshw.it/offerte/batteria-al-50-in-26-minuti-belkin-10000-mah-costa-1699eur",
-      "excerpt": "A 16,99€ su Amazon, il Belkin BoostCharge Power Bank da 10.000 mAh costa 13€ meno del listino di 29,99€, con uno sconto del 43%. Il cavo USB-C integrato elimina un accessorio…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103037/tomshw-offer-595035.png",
-      "publishedAt": "2026-07-23T18:02:48+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "AMD Instinct MI455X e Helios: la piattaforma rack-scale che punta a far girare l'AI di frontiera",
-      "link": "https://www.tomshw.it/hardware/amd-instinct-mi455x-e-helios-la-piattaforma-rack-scale-che-punta-a-far-girare-lai-di-frontiera",
-      "excerpt": "Ad Advancing AI 2026, AMD ha spostato l'attenzione dal singolo acceleratore all'intero rack. Nell'era dei modelli agentici e di ragionamento l'infrastruttura deve muovere i dati…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102762/AMD_Helios_02.jpg",
-      "publishedAt": "2026-07-23T17:12:22+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "AMD ROCm.ai, arriva l'AI che ottimizza lo stack AI",
-      "link": "https://www.tomshw.it/hardware/amd-rocmai-arriva-lai-che-ottimizza-lo-stack-ai",
-      "excerpt": "Nella giornata di annunci hardware di Advancing AI 2026, tra CPU EPYC Venice, GPU Instinct MI455X e rack Helios, client e Physical AI, non poteva mancare il software: gli ostacoli…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102821/AMD.jpg",
-      "publishedAt": "2026-07-23T17:11:17+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Bangladesh: 250 milioni di alberi in 5 anni, ma il piano potrebbe danneggiare... l'ambiente!",
-      "link": "https://www.tomshw.it/scienze/bangladesh-250-milioni-di-alberi-in-5-anni-ma-il-piano-potrebbe",
-      "excerpt": "Specie inadatte e piantagioni troppo uniformi potrebbero trasformare un programma da 250 milioni di alberi in un nuovo problema ambientale. Il Bangladesh prepara una campagna…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103027/news-flash-594848.png",
-      "publishedAt": "2026-07-23T17:05:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "AMD EPYC Venice è ufficiale: la CPU server costruita per l'era agentica",
-      "link": "https://www.tomshw.it/hardware/amd-epyc-venice-e-ufficiale-la-cpu-server-costruita-per-lera-agentica",
-      "excerpt": "AMD ha alzato il sipario sulla sesta generazione di EPYC, la serie 9006 nota con il nome in codice Venice. Non si tratta di un singolo processore ma di un portfolio articolato in…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102799/AMD_EPYC_03.jpg",
-      "publishedAt": "2026-07-23T17:02:12+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Angelelli Automobili svela la Project 754: prestazioni e stile in una serie limitata unica",
-      "link": "https://www.hdmotori.it/angelelli-automobili-project-754-serie-limitata/",
-      "excerpt": "Con aerodinamica dedicata e componenti in titanio stampati in 3D, lo stile teutonico Porsche si è unito a quello italiano grazie ad Angelelli Project 754",
-      "image": "https://hd2.tudocdn.net/1358633?w=660",
-      "publishedAt": "2026-07-23T17:00:39+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Europa, approvato PRIMA: l'impianto retinico che restituisce parte della vista",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n665277/impianto-retinico-prima-europa/",
-      "excerpt": "PRIMA arriva in Europa e aiuta i pazienti con degenerazione maculare a tornare a leggere.",
-      "image": "https://hd2.tudocdn.net/1358625?w=660",
-      "publishedAt": "2026-07-23T16:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Netflix, parte la class action del Movimento Consumatori per ottenere i rimborsi",
-      "link": "https://www.hdblog.it/mercato/articoli/n665284/netflix-parte-la-class-action-per-rimborsi/",
-      "excerpt": "La questione riguarda gli aumenti applicati dal 2017 al 2024.",
-      "image": "https://hd2.tudocdn.net/1358627?w=660",
-      "publishedAt": "2026-07-23T16:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "AMD entra nella Physical AI: silicio, piattaforma Kria e un ecosistema robotico aperto",
-      "link": "https://www.tomshw.it/hardware/amd-entra-nella-physical-ai-silicio-piattaforma-kria-e-un-ecosistema-robotico-aperto",
-      "excerpt": "Dopo data center e client, AMD ha presentato una soluzione completa per la cosiddetta Physical AI: dal silicio embedded a una piattaforma di sviluppo per la robotica, passando per…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102777/AMD-Advancing-AI-2026---Physical-AI.jpg",
-      "publishedAt": "2026-07-23T16:39:46+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Mercedes rischia l'esclusione dal mercato USA: colpa dei partner cinesi",
-      "link": "https://www.hdmotori.it/usa-produttori-azionisti-cinesi-mercedes/",
-      "excerpt": "Mercedes-Benz sarebbe coinvolta in una proposta di legge che sta mirando a escludere dal car market i costruttori con legami con la Cina.",
-      "image": "https://hd2.tudocdn.net/1358631?w=660",
-      "publishedAt": "2026-07-23T16:30:01+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Gemini sfiora il miliardo di utenti: aumenta la pressione su ChatGPT",
-      "link": "https://www.hdblog.it/google/articoli/n665279/gemini-950-milioni-utenti/",
-      "excerpt": "Gemini raggiunge 950 milioni di utenti e riduce il distacco da ChatGPT.",
-      "image": "https://hd2.tudocdn.net/1358628?w=660",
-      "publishedAt": "2026-07-23T16:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Niente panico: per riavere il tuo account Google basterà un semplice video selfie",
-      "link": "https://www.hdblog.it/google/articoli/n665234/google-recupero-account-video-selfie/",
-      "excerpt": "Google introduce la verifica con Video Selfie, permettendo di recuperare l'account tramite un breve filmato del volto.",
-      "image": "https://hd2.tudocdn.net/1358552?w=660",
-      "publishedAt": "2026-07-23T16:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "AMD Gorgon Halo ha 192 GB di memoria, per i modelli da 300 miliardi di parametri",
-      "link": "https://www.tomshw.it/hardware/amd-gorgon-halo-ha-192-gb-di-memoria-per-i-modelli-da-300-miliardi-di-parametri",
-      "excerpt": "Se da un lato ci sono le soluzioni data center per spingere l'AI di frontiera, dall'altro AMD lavora per spostare il baricentro dell'AI agentica dal cloud alla scrivania.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/05/93555/amd-gorgon-halo-ryzen-ai-max-400-memoria-192gb.webp",
-      "publishedAt": "2026-07-23T16:00:38+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "70 km di autonomia e gomme FAT: la Nilox X8 Plus è una delle e-bike più interessanti in offerta su Amazon",
@@ -266,11 +248,29 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Persino in casa Google l'AI sta bruciando troppi soldi",
-      "link": "https://www.tomshw.it/business/persino-in-casa-google-lai-sta-bruciando-troppi-soldi",
-      "excerpt": "Google chiude il trimestre con ricavi a 119,8 miliardi di dollari, in crescita del 24% anno su anno, e con il cloud che vola all'82%. Nello stesso trimestre, per la prima volta da…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102847/05-google-q2-cash-flow-ai-cover.jpg",
+      "title": "Ecco cosa succede se rifiuti di pagare un ransomware da 12 milioni",
+      "link": "https://www.tomshw.it/business/ecco-cosa-succede-se-rifiuti-di-pagare-un-ransomware-da-12-milioni",
+      "excerpt": "Un gruppo criminale ti chiede 10 milioni di franchi svizzeri, circa 12,3 milioni di dollari, o pubblica i dati che ha rubato. Tu rispondi di no, punto, senza trattare. È quello…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102849/07-stadler-ransomware-refusal-cover.jpg",
       "publishedAt": "2026-07-23T08:20:06+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La crisi della memoria fa nascere un nuovo settore azionario, ecco Memi",
+      "link": "https://www.tomshw.it/business/la-crisi-della-memoria-fa-nascere-un-nuovo-settore-azionario-ecco-memi",
+      "excerpt": "Tre aziende che producono chip di memoria valgono insieme più di 3.000 miliardi di dollari, e Wall Street ha deciso che serviva un nome per descrivere il fenomeno. Il termine è…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102848/06-memi-memory-chip-sector-cover.jpg",
+      "publishedAt": "2026-07-23T08:20:06+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Lefant sfida i giganti e presenta il nuovo M210 OMNI, ultra-compatto e senza sacco",
+      "link": "https://www.tomshw.it/altro/lefant-sfida-i-giganti-e-presenta-il-nuovo-m210-omni-ultra-compatto-e-senza-sacco",
+      "excerpt": "Nel settore della pulizia smart domotica, la tendenza degli ultimi anni è apparsa piuttosto chiara: soluzioni sempre più grandi, stazioni di svuotamento grandi e prezzi che…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102137/Lefant-M210-OMNI.png",
+      "publishedAt": "2026-07-22T13:17:09+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
