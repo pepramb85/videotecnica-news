@@ -1,159 +1,213 @@
 {
-  "generatedAt": "2026-07-24T08:11:52.424233+00:00",
+  "generatedAt": "2026-07-24T11:37:15.683370+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Ford: Apple Maps sarà nativo sulle elettriche UEV dal 2027, anche senza CarPlay",
-      "link": "https://www.tomshw.it/automotive/ford-apple-maps-sara-nativo-sulle-elettriche-uev-dal-2027-anche-senza",
-      "excerpt": "Le future elettriche basate sulla Ford Universal Electric Vehicle Platform avranno Apple Maps integrato direttamente nel sistema di bordo, senza richiedere CarPlay o un iPhone per…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103104/news-flash-596014.png",
-      "publishedAt": "2026-07-24T08:05:14+00:00",
+      "title": "Lefant presenta il nuovo robot aspirapolvere M210 Omni e lo sconta su Amazon",
+      "link": "https://www.hdblog.it/tecnologia/offerte/n664977/lefant-m210-omni-in-offerta-a-27999-euro-sconto-del-65-per-il-lancio/",
+      "excerpt": "Lefant lancia il nuovo M210 Omni a 229,59 euro anziché 799,99 euro. L’offerta sarà valida dal 24 luglio al 6 agosto 2026.",
+      "image": "https://hd2.tudocdn.net/1357954?w=660",
+      "publishedAt": "2026-07-24T11:31:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Hai sempre voluto un metal detector? Adesso puoi averlo spendendo meno su Amazon",
+      "link": "https://images.dday.it/w27SVFnADQ15l5Ofor2mMgAur84iOFLDGJ6tQefCj3Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58162/cb6d98_81BMyfyHB9L._AC_SL1500_.jpg",
+      "excerpt": "Che tu voglia esplorare spiagge, boschi o sentieri, questo è il momento giusto per acquistare questo metal detector a prezzo scontato... Leggi tutto",
+      "image": "https://images.dday.it/w27SVFnADQ15l5Ofor2mMgAur84iOFLDGJ6tQefCj3Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58162/cb6d98_81BMyfyHB9L._AC_SL1500_.jpg",
+      "publishedAt": "2026-07-24T11:24:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Microsoft vs LG: troppa pubblicità per McAfee nella sua app per gestire i monitor",
+      "link": "https://www.hdblog.it/lg/articoli/n665341/microsoft-lg-app-monitor-windows-ads-mcafee/",
+      "excerpt": "Gli utenti Windows sono tempestati dalla pubblicità di McAfee inclusa nell'app di LG",
+      "image": "https://hd2.tudocdn.net/1141746?w=660",
+      "publishedAt": "2026-07-24T11:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Galaxy Z Flip8, Fold8 e Fold8 Ultra con Fastweb: sconti fino a oltre 700 euro",
+      "link": "https://www.hdblog.it/smartphone/articoli/n665329/galaxy-z-flip8-fold8-ultra-rate-fastweb-prezzi/",
+      "excerpt": "Fastweb ha inserito nel proprio shop i Samsung Galaxy Z Flip8, Galaxy Z Fold8 e Galaxy Z Fold8 Ultra. Per i già clienti sono disponibili sconti importanti, pagamento in un'unica…",
+      "image": "https://hd2.tudocdn.net/1357826?w=660",
+      "publishedAt": "2026-07-24T11:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Recensione TV Samsung Micro RGB R95H: mantiene le promesse sul colore, ma la sfida con OLED è dura",
+      "link": "https://images.dday.it/e090L2x7G-QTC8Imn4lbPXMTyqYf9v0dqkezh0hLpHM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58127/b04070_Samsung-TVs-and-Displays-Samsung-Art-TV-Art-Basel-Hong-Kong-2026-Samsung-Art-Store_dl2.jpg",
+      "excerpt": "Samsung spinge di nuovo al massimo la tecnologia LCD con la nuova serie Micro RGB R95H. In un anno in cui Samsung lancia ben 4 nuove serie di TV OLED, qual è il valore aggiunto…",
+      "image": "https://images.dday.it/e090L2x7G-QTC8Imn4lbPXMTyqYf9v0dqkezh0hLpHM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58127/b04070_Samsung-TVs-and-Displays-Samsung-Art-TV-Art-Basel-Hong-Kong-2026-Samsung-Art-Store_dl2.jpg",
+      "publishedAt": "2026-07-24T11:14:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Kingdom Come: Salvation spunta all’EUIPO: sarebbe il titolo del nuovo RPG",
+      "link": "https://www.tomshw.it/videogioco/kingdom-come-salvation-spunta-all-euipo-sarebbe-il-titolo-del-nuovo-rpg",
+      "excerpt": "Kingdom Come: Salvation potrebbe essere il titolo commerciale della nuova avventura sviluppata da Warhorse Studios. Il nome compare nel registro dello European Union Intellectual…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103194/news-flash-597029.png",
+      "publishedAt": "2026-07-24T11:11:19+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Gemini Live sbarca sui dispositivi Google Home di prima generazione",
-      "link": "https://www.hdblog.it/google/articoli/n665313/gemini-live-google-home-vecchi-dispositivi/",
-      "excerpt": "Gemini Live arriva sui vecchi Google Home con memoria contestuale e nuove funzioni.",
-      "image": "https://hd2.tudocdn.net/1358687?w=660",
-      "publishedAt": "2026-07-24T08:05:00+00:00",
+      "title": "ChatGPT Salute al debutto per tutti gli utenti americani",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n665351/chatgpt-salute-disponibile-usa/",
+      "excerpt": "OpenAI amplia il rilascio di ChatGPT Salute negli Stati Uniti dopo mesi di test. La piattaforma integra dati sanitari da servizi compatibili e punta ad assistere gli utenti…",
+      "image": "https://hd2.tudocdn.net/1341274?w=660",
+      "publishedAt": "2026-07-24T11:10:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Riforma rete carburanti: chiusura degli impianti obsoleti e incentivi alla riconversione",
-      "link": "https://www.hdmotori.it/riforma-distributori-carburante-italia/",
-      "excerpt": "In Italia si potrebbero iniziare a convertire i distributori di carburanti in infrastrutture per la ricarica elettrica",
-      "image": "https://hd2.tudocdn.net/1358688?w=660",
-      "publishedAt": "2026-07-24T08:00:24+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "ChatGPT Voice: gli agenti di Work e Codex si controllano a voce",
-      "link": "https://www.tomshw.it/hardware/chatgpt-voice-gli-agenti-di-work-e-codex-si-controllano-a-voce",
-      "excerpt": "Una conversazione vocale può ora avviare un’attività in ChatGPT Work o Codex, controllarne l’avanzamento e coordinare il lavoro di più agenti. OpenAI ha reso ufficiale il 23…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103102/news-flash-595988.png",
-      "publishedAt": "2026-07-24T07:57:07+00:00",
+      "title": "Sim racing a 210€: sul Logitech G923 risparmi 169,99€",
+      "link": "https://www.tomshw.it/offerte/sim-racing-a-210eur-sul-logitech-g923-risparmi-16999eur",
+      "excerpt": "Logitech G G923 costa 210€ su Amazon: il taglio del 45% rispetto ai 379,99€ di listino lascia in tasca 169,99€. Volante, pedaliera e feedback TRUEFORCE permettono di costruire una…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103191/tomshw-offer-596994.png",
+      "publishedAt": "2026-07-24T11:02:58+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Marvel's Wolverine: il trailer svela Team X e il ruolo di Deathstrike",
-      "link": "https://www.tomshw.it/videogioco/marvel-s-wolverine-il-trailer-svela-team-x-e-il-ruolo-di",
-      "excerpt": "Il nuovo trailer narrativo di Marvel's Wolverine si apre con un confronto tra Logan e Jean Grey, costretti a collaborare mentre la popolazione mutante affronta una minaccia di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103100/8267da7d82022e7bed4f05144a1e19a120f3755a.jpg",
-      "publishedAt": "2026-07-24T07:48:21+00:00",
+      "title": "Dove nascono le auto vendute in Europa? Per l’Italia posizione inimmaginabile",
+      "link": "https://www.hdmotori.it/paesi-produzione-auto-europa-italia/",
+      "excerpt": "In una Europa sempre più cinesizzata, su 5,81 milioni di auto immatricolate nel 2026, quante sono assemblate in Italia?",
+      "image": "https://hd2.tudocdn.net/1358754?w=660",
+      "publishedAt": "2026-07-24T11:00:32+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Xiaomi presenta il nuovo lavapavimenti Mijia 5C: più potenza e meno grovigli",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n665347/xiaomi-lavapavimenti-floor-cleaner-5c-prezzo/",
+      "excerpt": "Xiaomi ha presentato in Cina il nuovo Mijia 5C, un lavapavimenti che aumenta la potenza di aspirazione fino a 18.000 Pa, introduce un sistema anti-groviglio certificato TÜV e…",
+      "image": "https://hd2.tudocdn.net/1358735?w=660",
+      "publishedAt": "2026-07-24T10:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "ChatGPT Voice arriva su desktop. Può coordinare Work e Codex",
+      "link": "https://images.dday.it/24X1nBZqqEi8R_5Nv2tOpLijToxaTHI7PDwa-Nk8F00/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58161/d83b21_Depositphotos_723965240_XL.jpg",
+      "excerpt": "La nuova esperienza vocale basata su GPT-Live permette di avviare attività, controllarne lo stato e guidare più agenti senza usare tastiera e mouse... Leggi tutto",
+      "image": "https://images.dday.it/24X1nBZqqEi8R_5Nv2tOpLijToxaTHI7PDwa-Nk8F00/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58161/d83b21_Depositphotos_723965240_XL.jpg",
+      "publishedAt": "2026-07-24T10:47:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "HMD ha nostalgia dei Nokia Lumia: questo nuovo smartphone li ricorda tantissimo",
+      "link": "https://www.hdblog.it/smartphone/articoli/n665327/hdm-touch-ai-nokia-lumia/",
+      "excerpt": "L'HMD Touch AI si ispira ai Nokia Lumia: anche le caratteristiche promettono un salto nel passato.",
+      "image": "https://hd2.tudocdn.net/1358696?w=660",
+      "publishedAt": "2026-07-24T10:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il robot Transformer esiste davvero: dalla Cina arriva Qiyuan T1",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n665309/qiyuan-t1-robot-trasformabile/",
+      "excerpt": "Qiyuan T1 passa da umanoide a quadrupede per adattarsi a ogni ambiente.",
+      "image": "https://hd2.tudocdn.net/1358681?w=660",
+      "publishedAt": "2026-07-24T10:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Batman: Caped Crusader - Chronicles: su Luna il 31 luglio, incluso con Prime",
+      "link": "https://www.tomshw.it/videogioco/batman-caped-crusader-chronicles-su-luna-il-31-luglio-incluso-con-prime",
+      "excerpt": "Batman: Caped Crusader - Chronicles debutterà anche in Italia il 31 luglio 2026 come esclusiva di Amazon Luna. Il gioco sarà compreso nell’abbonamento Amazon Prime senza costi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103183/BCCC_Launch-Key-Art_MASTER_740x416_EN_CT-000026476_WEB.jpg",
+      "publishedAt": "2026-07-24T10:21:20+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Xbox testa il cloud gaming gratuito con annunci pubblicitari",
-      "link": "https://www.hdblog.it/microsoft/articoli/n665308/xbox-cloud-gaming-gratis-pubblicita-2/",
-      "excerpt": "Xbox prova il cloud gaming gratuito con pubblicità e sessioni fino a un'ora.",
-      "image": "https://hd2.tudocdn.net/1358666?w=660",
-      "publishedAt": "2026-07-24T07:35:00+00:00",
+      "title": "PosteMobile, PosteCasa e Poste Energia sotto il controllo diretto di Poste dal 2027",
+      "link": "https://www.hdblog.it/mercato/articoli/n665340/postepay-fusione-bancoposta/",
+      "excerpt": "Poste Italiane ha ottenuto il via libera definitivo alla riorganizzazione che porterà alla nascita del nuovo Polo Finanziario. PosteMobile, PosteCasa e Poste Energia resteranno…",
+      "image": "https://hd2.tudocdn.net/1233437?w=660",
+      "publishedAt": "2026-07-24T10:10:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Patente a 17 anni: verso la revisione del Codice della Strada",
-      "link": "https://www.hdmotori.it/patente-a-17-anni/",
-      "excerpt": "L'Europa spinge per abbassare l'età di guida e l'Italia valuta la revisione del Codice della Strada tra nuove opportunità, educazione e sicurezza stradale.",
-      "image": "https://hd2.tudocdn.net/1329467?w=660",
-      "publishedAt": "2026-07-24T07:30:26+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Vuoi cambiare TV? Da Unieuro scatta l’Extra Sconto 20% a carrello per i clienti Unieuro Club",
-      "link": "https://www.tomshw.it/altro/vuoi-cambiare-tv-da-unieuro-scatta-lextra-sconto-20-a-carrello-per-i-clienti-unieuro-club",
-      "excerpt": "Unieuro rilancia nel fine settimana con un'offerta imperdibile per tutti gli amanti del cinema e dell'home entertainment: arrivano i Weekend Specials TV, la promozione interamente…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103097/Vuoi-cambiare-TV-Da-Unieuro-scatta-l’Extra-Sconto-20--a-carrello-per-i-clienti-Unieuro-Club.png",
-      "publishedAt": "2026-07-24T07:29:33+00:00",
+      "title": "Il vapore arriva in 15 secondi: Polti SV440 scende a 79€",
+      "link": "https://www.tomshw.it/offerte/il-vapore-arriva-in-15-secondi-polti-sv440-scende-a-79eur",
+      "excerpt": "Polti Vaporetto SV440 Double costa 79€ su Amazon, anziché 139€: lo sconto del 43% permette di risparmiare esattamente 60€. Il riscaldamento in 15 secondi la rende adatta anche…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103166/tomshw-offer-596696.png",
+      "publishedAt": "2026-07-24T10:02:54+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Unieuro sconta le TV del 20% a carrello: MiniLED, OLED e 75\" in offerta",
-      "link": "https://www.hdblog.it/tv/offerte/n665310/unieuro-tv-sconto-20-carrello-weekend-offerte/",
-      "excerpt": "Unieuro lancia una promo TV con 20% di sconto a carrello per gli iscritti UE Club e spesa minima di 499€: tra le offerte TCL, LG, Philips e Haier.",
-      "image": "https://hd2.tudocdn.net/1358680?w=660",
-      "publishedAt": "2026-07-24T07:25:00+00:00",
+      "title": "Tesla firma una bici senza batteria e pedali che è già sold out, ma non è per tutti",
+      "link": "https://www.hdmotori.it/bici-tesla-bambini/",
+      "excerpt": "Il brand di Elon Musk ha proposto una interpretazione di mezzo di trasporto a due ruote riservato a bambini dai due ai sei anni",
+      "image": "https://hd2.tudocdn.net/1358733?w=660",
+      "publishedAt": "2026-07-24T10:00:39+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Galaxy Z Flip8 e Fold8 Ultra a rate con Iliad: i prezzi, senza interessi e senza anticipo",
-      "link": "https://www.hdblog.it/smartphone/articoli/n665311/galaxy-z-flip8-fold8-ultra-iliad-a-rate/",
-      "excerpt": "Iliad avvierà dal 4 agosto 2026 la vendita dei nuovi Samsung Galaxy Z Flip8, Galaxy Z Fold8 e Galaxy Z Fold8 Ultra. Ecco prezzi, rate Findomestic a tasso zero, colorazioni…",
-      "image": "https://hd2.tudocdn.net/1357531?w=660",
-      "publishedAt": "2026-07-24T07:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Xbox Cloud Gaming gratis ma con la pubblicità: parte il test",
+      "link": "https://images.dday.it/aVn4-7AkGRYsVbs10FQV7wWSvCkz_h3Yy3JiVzYbn5c/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58158/290416_FresnoUX_CommsSocial_072326-3a7c39f6254f3f6411f5-1024x576.png",
+      "excerpt": "Microsoft permette di giocare in streaming ai titoli già acquistati senza un abbonamento. Le sessioni durano al massimo un’ora... Leggi tutto",
+      "image": "https://images.dday.it/aVn4-7AkGRYsVbs10FQV7wWSvCkz_h3Yy3JiVzYbn5c/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58158/290416_FresnoUX_CommsSocial_072326-3a7c39f6254f3f6411f5-1024x576.png",
+      "publishedAt": "2026-07-24T09:58:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
-      "title": "ChatGPT Voice arriva su desktop: conversazioni naturali e AI che lavora davvero",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n665306/chatgpt-voice-desktop-gpt-live/",
-      "excerpt": "ChatGPT Voice arriva su desktop con GPT-Live e controlla Chat, Codex e Work a voce.",
-      "image": "https://hd2.tudocdn.net/1358665?w=660",
-      "publishedAt": "2026-07-24T07:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Noleggio \"sociale\" di una nuova avuto a 100 euro al mese. Come funzionerà la sperimentazione",
+      "link": "https://images.dday.it/3HDIWzeuDSbSDTcakj-5onJ3bw2S6gQyIVaiXCjMC0o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58157/34fe4a_auto_thumb.jpg",
+      "excerpt": "Il programma sperimentale riguarderà vetture nuove a basse emissioni, con contratti di almeno 36 mesi e obbligo di rottamazione di un’auto fino a Euro 4... Leggi tutto",
+      "image": "https://images.dday.it/3HDIWzeuDSbSDTcakj-5onJ3bw2S6gQyIVaiXCjMC0o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58157/34fe4a_auto_thumb.jpg",
+      "publishedAt": "2026-07-24T09:16:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
-      "title": "GKU D600Pro: la dash cam 4K fronte-retro ora è più conveniente",
-      "link": "https://www.tomshw.it/automotive/gku-d600pro-dash-cam-4k-fronte-retro-in-offerta-2026-07-24",
-      "excerpt": "La GKU D600Pro è una dash cam doppia che registra la strada davanti all’auto in 4K e quella posteriore in 1080p, con GPS e Wi-Fi a 5 GHz integrati. Il prezzo è di 79,99€ con il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101034/GKU-D600Pro.jpg",
-      "publishedAt": "2026-07-24T07:01:56+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
+      "title": "Windows Update come cavallo di Troia: così LG mostrava popup pubblicitari a chi collegava un monitor",
+      "link": "https://images.dday.it/YBfY6R9l4symn7Q-C3C6VZUFf4yGQ9umcohuBs_PcNU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58156/534227_mon.jpg",
+      "excerpt": "Sfruttando il sistema che permette di installare e scaricare automaticamente le companion app LG nelle ultime settimane ha fatto apparire popup dell'antivirus mcAfee a chi…",
+      "image": "https://images.dday.it/YBfY6R9l4symn7Q-C3C6VZUFf4yGQ9umcohuBs_PcNU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58156/534227_mon.jpg",
+      "publishedAt": "2026-07-24T08:41:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
-      "title": "Casio F-B100W: l'orologio digitale con contapassi che mancava",
-      "link": "https://www.hdblog.it/indossabili/articoli/n665302/casio-f-b100w-step-tracker/",
-      "excerpt": "Nuovi render dei Casio F-B100W mostrano contapassi avanzato, Bluetooth e tre varianti.",
-      "image": "https://hd2.tudocdn.net/1358654?w=660",
-      "publishedAt": "2026-07-24T06:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Basta un video selfie per accedere al tuo account Google, anche se hai dimenticato la password",
+      "link": "https://images.dday.it/2DZrX_b0awPhhDqp8Nf78otVT5ElZh8ZprOY9qMO2pc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58155/3ca453_Depositphotos_575988550_XL.jpg",
+      "excerpt": "La nuova funzione confronta il volto dell’utente con un filmato registrato in precedenza, ma non è disponibile per Workspace, account per minori e Advanced Protection... Leggi…",
+      "image": "https://images.dday.it/2DZrX_b0awPhhDqp8Nf78otVT5ElZh8ZprOY9qMO2pc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58155/3ca453_Depositphotos_575988550_XL.jpg",
+      "publishedAt": "2026-07-24T08:41:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
-      "title": "WhatsApp integra Acrobat: i PDF si aprono e si modificano direttamente nelle chat",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n665303/whatsapp-integra-adobe-acrobat-pdf/",
-      "excerpt": "WhatsApp ha reso più semplice la gestione dei PDF nelle versioni Web e Windows.",
-      "image": "https://hd2.tudocdn.net/1358652?w=660",
-      "publishedAt": "2026-07-24T06:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "L'Italia non molla: la tassa sui pacchi di 2 euro a ottobre. Giorgetti: \"Compatibile con il dazio europeo\"",
+      "link": "https://images.dday.it/MyuwTfxJKArwPcEVqCgDRi4zAcRzau08d2fkrFKtFg8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58154/545f4d_Depositphotos_790682778_XL.jpg",
+      "excerpt": "Il contributo italiano da 2 euro si aggiungerebbe al dazio europeo da 3 euro già in vigore. Secondo il ministro dell'Economia, le due misure hanno finalità differenti e potranno…",
+      "image": "https://images.dday.it/MyuwTfxJKArwPcEVqCgDRi4zAcRzau08d2fkrFKtFg8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58154/545f4d_Depositphotos_790682778_XL.jpg",
+      "publishedAt": "2026-07-24T08:10:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
-      "title": "Robot centauro cinese: unisce ruote e braccia per le missioni più difficili | Video",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n665299/robot-centauro-cina-run-robotics/",
-      "excerpt": "Il robot centauro cinese unisce ruote e braccia per operare nei luoghi più pericolosi.",
-      "image": "https://hd2.tudocdn.net/1358649?w=660",
-      "publishedAt": "2026-07-24T06:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Migliori autoradio 2 DIN (luglio 2026)",
-      "link": "https://www.tomshw.it/automotive/migliori-autoradio-2-din",
-      "excerpt": "Volete modernizzare l'infotainment della vostra auto senza cambiare veicolo? Una buona autoradio 2 DIN resta uno degli upgrade più sensati per chi desidera navigazione, streaming…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/90255/migliori-autoradio-2din-copertina.jpg",
-      "publishedAt": "2026-07-24T06:17:02+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "JBL Charge 6 scende di prezzo: più autonomia per musica e viaggi",
-      "link": "https://www.tomshw.it/hardware/jbl-charge-6-scende-di-prezzo-offerta-2026-07-24",
-      "excerpt": "JBL Charge 6 è uno speaker Bluetooth portatile pensato per portare musica in casa, in terrazza e durante le giornate all’aperto senza dipendere continuamente da una presa. La…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103046/jbl-charge-6-scende-di-prezzo-offerta-2026-07-24-z2qUnoXvqocdonn3q1t1frUOG3.png",
-      "publishedAt": "2026-07-24T05:13:26+00:00",
+      "title": "Migliori game capture (luglio 2026)",
+      "link": "https://www.tomshw.it/videogioco/migliori-game-capture",
+      "excerpt": "Se volete pubblicare highlight su YouTube, fare live su Twitch o semplicemente archiviare le vostre partite con una qualità superiore rispetto agli strumenti integrati nelle…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/90387/migliori-game-capture-copertina.jpg",
+      "publishedAt": "2026-07-24T06:29:19+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -167,6 +221,15 @@
       "sourceColor": "#E63946"
     },
     {
+      "title": "Malware su 6 chiavette militari: accelera lo zero trust in Giappone",
+      "link": "https://www.tomshw.it/hardware/giappone-malware-su-6-chiavette-militari-accelera-lo-zero-trust",
+      "excerpt": "Sei degli otto supporti USB esaminati contenevano codice malevolo e più di 50 computer sui 480 controllati risultavano esposti. Il caso, emerso all’interno della Japan Ground…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103013/https-3A-2F-2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2-s3-ap-northeast-1-amazonaws-com-2Fimages-2F8-2F7-2F1-2F1-2F12901178-1-eng-GB-2F3930e77f6b38-illust_SXM2026071700013214.avif",
+      "publishedAt": "2026-07-23T16:40:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "70 km di autonomia e gomme FAT: la Nilox X8 Plus è una delle e-bike più interessanti in offerta su Amazon",
       "link": "https://images.dday.it/UyW4Nba7zdppoPcnmyoaWO5J1SzGE-1qD82Ksm7VOS0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58153/568357_ape2.jpg",
       "excerpt": "Motore brushless da 250W, autonomia fino a 70 km, cambio Shimano a 7 velocità e batteria removibile: la Nilox X8 Plus offre tutto il necessario per gli spostamenti quotidiani e le…",
@@ -176,101 +239,38 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "La retrocompatibilità Xbox arriva su PC e portatili Windows 11. Svelati i primi giochi, sono anche inclusi in Game Pass",
-      "link": "https://images.dday.it/MU_GI5WBcTFPP4cj86FrYyYv9G1k9WH0qQRt19DvOVw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58152/b98703_conker.a875d4a5-00e0-4fd8-993c-afa89d53903a.jpg",
-      "excerpt": "Quattro giochi della prima Xbox sono ora disponibili anche su PC e dispositivi portatili Windows, con risoluzione migliorata e licenze condivise con le versioni console ... Leggi…",
-      "image": "https://images.dday.it/MU_GI5WBcTFPP4cj86FrYyYv9G1k9WH0qQRt19DvOVw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58152/b98703_conker.a875d4a5-00e0-4fd8-993c-afa89d53903a.jpg",
-      "publishedAt": "2026-07-23T13:51:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
+      "title": "Occhiali da sole sportivi: conviene spendere di più? Le alternative per montagna e mare",
+      "link": "https://www.tomshw.it/altro/occhiali-da-sole-sportivi-conviene-spendere-di-piu-le-alternative-per-montagna-e-mare",
+      "excerpt": "Quando ci si avventura in quota o ci si concede una giornata in barca o sulla tavola da surf, si tende spesso a sottovalutare l'impatto dell'ambiente sulla salute visiva. Eppure,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102953/Occhiali-da-sole-sportivi-conviene-spendere-di-più-Le-alternative-per-montagna-e-mare.png",
+      "publishedAt": "2026-07-23T13:31:33+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Google, doppia multa dall'UE per motore di ricerca e i pagamenti sul Play Store. I motivi della sanzione da 890 milioni",
-      "link": "https://images.dday.it/-sljRrYYA7kjLh8ysR9uVGVdZicsXlPY7HOikkN6Xng/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58151/24c085_Depositphotos_255205078_XL.jpg",
-      "excerpt": "La Commissione Europea ha contestato al gruppo di aver favorito i propri servizi nei risultati di ricerca e limitato la possibilità per gli sviluppatori di proporre acquisti…",
-      "image": "https://images.dday.it/-sljRrYYA7kjLh8ysR9uVGVdZicsXlPY7HOikkN6Xng/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58151/24c085_Depositphotos_255205078_XL.jpg",
-      "publishedAt": "2026-07-23T13:18:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Le telecamere Tapo più vendute sono in sconto: è il momento giusto per acquistarle",
-      "link": "https://images.dday.it/AQTjivaTZqC7YVBhBvmp3oG4xZ6jC_iSGLa22ehE2FA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58150/b4a541_81CPLRQrGiL._AC_SL1500_.jpg",
-      "excerpt": "Approfitta degli sconti Amazon per portarti a casa una telecamera Tapo con rilevamento intelligente, visione notturna e controllo direttamente dallo smartphone... Leggi tutto",
-      "image": "https://images.dday.it/AQTjivaTZqC7YVBhBvmp3oG4xZ6jC_iSGLa22ehE2FA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58150/b4a541_81CPLRQrGiL._AC_SL1500_.jpg",
-      "publishedAt": "2026-07-23T13:07:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "La Commissione Europea ha dato il suo via libera all’acquisizione di Warner da parte di Paramount",
-      "link": "https://images.dday.it/SmsBl9XJSd7oRwfxijZYUNJj20-xi8fdvtlunIHqqpk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58149/206be0_Paramount.jpg",
-      "excerpt": "L’Europa approva l’acquisizione di Warner da parte di Paramount ma con alcuni paletti sul versante della distribuzione cinematografica: vietati accordi di distribuzione con…",
-      "image": "https://images.dday.it/SmsBl9XJSd7oRwfxijZYUNJj20-xi8fdvtlunIHqqpk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58149/206be0_Paramount.jpg",
-      "publishedAt": "2026-07-23T11:15:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Vendite auto nell'UE, +5,7% nel primo semestre. Le elettriche superano il 20% del mercato",
-      "link": "https://images.dday.it/9bjdH-48Hc4sV9p14YDzyQlyUwUCAG6vvpc43VO_hvA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58148/031795_auto_thumb.jpg",
-      "excerpt": "Le ibride restano la scelta più diffusa, mentre le elettriche salgono al 20,7% del mercato. Benzina e diesel continuano invece a perdere terreno... Leggi tutto",
-      "image": "https://images.dday.it/9bjdH-48Hc4sV9p14YDzyQlyUwUCAG6vvpc43VO_hvA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58148/031795_auto_thumb.jpg",
-      "publishedAt": "2026-07-23T10:52:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il Philips DiamondClean 9900 Prestige ti dice in tempo reale se stai lavando bene i denti",
-      "link": "https://images.dday.it/dZEBpBP7OGSrHzoQhCpUJCPYNS3QLQr5SHd4dTUlyQA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58146/3b3db3_next-gen-diamond-clean-9900-prestige-quartz-black-smart-pressure-feedback.jpg",
-      "excerpt": "Attraverso un modello IA e sensori lo spazzolino elettrico segnala con LED sul manico se ci si sta lavando i denti in modo corretto. A fine pulizia, il display indica le zone che…",
-      "image": "https://images.dday.it/dZEBpBP7OGSrHzoQhCpUJCPYNS3QLQr5SHd4dTUlyQA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58146/3b3db3_next-gen-diamond-clean-9900-prestige-quartz-black-smart-pressure-feedback.jpg",
-      "publishedAt": "2026-07-23T10:06:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Da fine 2026 il software in Europa diventa un “prodotto”: cosa vuol dire e cosa cambia per gli utenti",
-      "link": "https://images.dday.it/c6gquHu6shDRUVKSlBgiF-FK6XvLZDiBea83Ep2YnNo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58147/b2f2a2_Depositphotos_25021863_XL-_1_.jpg",
-      "excerpt": "La nuova Direttiva europea sulla responsabilità da prodotto difettoso estende per la prima volta le stesse regole anche al software, alle app e ai sistemi di intelligenza…",
-      "image": "https://images.dday.it/c6gquHu6shDRUVKSlBgiF-FK6XvLZDiBea83Ep2YnNo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58147/b2f2a2_Depositphotos_25021863_XL-_1_.jpg",
-      "publishedAt": "2026-07-23T09:57:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il secondo stadio di un Falcon 9 sta per schiantarsi sulla superficie della Luna",
-      "link": "https://images.dday.it/iUgIA1r6dERXbcIIINEvGzDkui_iLDh8AqSD1qtvvAY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58145/7d1b9f_Falcon_9_impact.jpg",
-      "excerpt": "Si tratta del razzo che lanciò per la Luna le missioni Blue Ghost e Hakuto-R e impatterà la superficie la mattina del 5 agosto. Per gli astronomi è un’opportunità per osservare in…",
-      "image": "https://images.dday.it/iUgIA1r6dERXbcIIINEvGzDkui_iLDh8AqSD1qtvvAY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58145/7d1b9f_Falcon_9_impact.jpg",
-      "publishedAt": "2026-07-23T09:27:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Ecco cosa succede se rifiuti di pagare un ransomware da 12 milioni",
-      "link": "https://www.tomshw.it/business/ecco-cosa-succede-se-rifiuti-di-pagare-un-ransomware-da-12-milioni",
-      "excerpt": "Un gruppo criminale ti chiede 10 milioni di franchi svizzeri, circa 12,3 milioni di dollari, o pubblica i dati che ha rubato. Tu rispondi di no, punto, senza trattare. È quello…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102849/07-stadler-ransomware-refusal-cover.jpg",
+      "title": "Tre pilot europei di AI generativa per la PA, ma i precedenti non incoraggiano",
+      "link": "https://www.tomshw.it/business/tre-pilot-europei-di-ai-generativa-per-la-pa-ma-i-precedenti-non-incoraggiano",
+      "excerpt": "Tre consorzi pubblici europei hanno firmato il 1° luglio 2026 gli accordi di sovvenzione per altrettanti progetti pilota di AI generativa applicata alla pubblica amministrazione.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102852/10-genai-pa-europee-cover.jpg",
       "publishedAt": "2026-07-23T08:20:06+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "La crisi della memoria fa nascere un nuovo settore azionario, ecco Memi",
-      "link": "https://www.tomshw.it/business/la-crisi-della-memoria-fa-nascere-un-nuovo-settore-azionario-ecco-memi",
-      "excerpt": "Tre aziende che producono chip di memoria valgono insieme più di 3.000 miliardi di dollari, e Wall Street ha deciso che serviva un nome per descrivere il fenomeno. Il termine è…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102848/06-memi-memory-chip-sector-cover.jpg",
+      "title": "Le norme europee vanno verso la censura, EFF dà l'allarme",
+      "link": "https://www.tomshw.it/business/le-norme-europee-vanno-verso-la-censura-eff-da-lallarme",
+      "excerpt": "Una sentenza sui navigatori stradali sta per riscrivere le regole di responsabilità per tutte le piattaforme social d'Europa. A dirlo con parole nette è la Electronic Frontier…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102851/09-eff-corte-ue-piattaforme-cover.jpg",
       "publishedAt": "2026-07-23T08:20:06+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Lefant sfida i giganti e presenta il nuovo M210 OMNI, ultra-compatto e senza sacco",
-      "link": "https://www.tomshw.it/altro/lefant-sfida-i-giganti-e-presenta-il-nuovo-m210-omni-ultra-compatto-e-senza-sacco",
-      "excerpt": "Nel settore della pulizia smart domotica, la tendenza degli ultimi anni è apparsa piuttosto chiara: soluzioni sempre più grandi, stazioni di svuotamento grandi e prezzi che…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102137/Lefant-M210-OMNI.png",
-      "publishedAt": "2026-07-22T13:17:09+00:00",
+      "title": "Scadenze e fascicoli di causa: un agente AI che non perde un termine",
+      "link": "https://www.tomshw.it/aioperator/scadenze-fascicoli-ai-agente",
+      "excerpt": "Il termine perduto è il rischio professionale più temuto in uno studio legale, e resta uno dei più frequenti nonostante decenni di agende cartacee, poi digitali, poi condivise. La…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101832/04-avv3-cover.jpg",
+      "publishedAt": "2026-07-17T07:19:48+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
