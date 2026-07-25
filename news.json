@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-07-25T09:38:30.023516+00:00",
+  "generatedAt": "2026-07-25T11:03:00.968611+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Mercedes-Benz, il ritorno del Classe G Cabriolet si avvicina sempre più: prime immagini",
+      "link": "https://www.hdmotori.it/mercedes-benz-classe-g-cabriolet/",
+      "excerpt": "Dopo una lunga attesa, Mercedes-Benz ha svelato le prime immagini ufficiali della nuova variante scoperta della Classe G",
+      "image": "https://hd2.tudocdn.net/1358880?w=660",
+      "publishedAt": "2026-07-25T11:00:51+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Meta, Microsoft e NVIDIA contro Washington: scontro sull'AI open",
+      "link": "https://www.hdblog.it/mercato/articoli/n665415/usa-big-tech-ai-open-weight/",
+      "excerpt": "Le Big Tech difendono l'AI open-weight mentre cresce lo scontro tecnologico con la Cina.",
+      "image": "https://hd2.tudocdn.net/1358869?w=660",
+      "publishedAt": "2026-07-25T10:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Corsair FRAME 4500X da 199,90€ al minimo: ora bastano 79,99€",
+      "link": "https://www.tomshw.it/offerte/corsair-frame-4500x-da-19990eur-al-minimo-ora-bastano-7999eur",
+      "excerpt": "A 79,99€ su Amazon, il Corsair FRAME 4500X RS-R ARGB bianco raggiunge il suo minimo storico: rispetto ai 199,90€ di listino, lo sconto è del 60% e lascia in tasca 119,91€. Il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103356/tomshw-offer-599393.png",
+      "publishedAt": "2026-07-25T10:02:56+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "[Risolto] ChatGPT non funziona in Italia: i problemi e cosa succede",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n665425/chatgpt-problemi-italia-25-luglio/",
+      "excerpt": "Nella tarda mattinata di oggi, sabato 25 luglio, ChatGPT ha problemi in Italia",
+      "image": "https://hd2.tudocdn.net/1358198?w=660",
+      "publishedAt": "2026-07-25T09:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Con il lancio di Opus 5 Anthropic ha ucciso Fable 5, che costa il doppio e offre ormai pochissimo di più",
       "link": "https://images.dday.it/7JveRPmtOyPoW_lChpGSkvirLmn1oK6RQJea6WxM0gc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58168/c8e128_Screenshot_2026-07-25_alle_10.22.58.png",
@@ -41,6 +77,15 @@
       "sourceColor": "#0066CC"
     },
     {
+      "title": "El Niño, il 2027 verso il primato: mai così caldo dal 1877",
+      "link": "https://www.tomshw.it/scienze/el-nino-2026-2027-verso-il-record-dal-1877-il-2027-potrebbe",
+      "excerpt": "Un’anomalia superficiale di circa 3,6 °C nella regione Niño 3.4 renderebbe El Niño 2026-2027 più intenso di qualsiasi evento osservato dal 1877. È la mediana delle proiezioni…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103237/news-flash-597954.png",
+      "publishedAt": "2026-07-25T08:35:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "Il mercato Android sta per esplodere: Qualcomm stangata sui prezzi",
       "link": "https://www.tomshw.it/smartphone/qualcomm-rincari-a-doppia-cifra-sui-prodotti-spediti-dal-1-settembre",
       "excerpt": "I prodotti di Qualcomm spediti dopo il 1° settembre 2026 sarebbero destinati a rincari percentuali a doppia cifra. L’indicazione compare in una lettera ai clienti datata 24 luglio…",
@@ -59,15 +104,6 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Halo 2: «See you in the sequel» di Johnson suggerirebbe un remake",
-      "link": "https://www.tomshw.it/videogioco/halo-2-see-you-in-the-sequel-di-johnson-suggerirebbe-un-remake",
-      "excerpt": "Halo: Campaign Evolved nasconde nel finale Leggendario un riferimento diretto al seguito della prima avventura di Master Chief. La scena, visibile dopo aver completato la campagna…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103296/Halo-2-CE.jpg",
-      "publishedAt": "2026-07-25T08:25:13+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Meta dice addio al patto sulle rinnovabili: punta sul gas per alimentare l'AI",
       "link": "https://www.hdblog.it/mercato/articoli/n665410/meta-lascia-re100-gas-data-center-ai/",
       "excerpt": "Meta esce da RE100 mentre investe in centrali a gas per sostenere la crescita dell'AI.",
@@ -75,15 +111,6 @@
       "publishedAt": "2026-07-25T08:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Dove il Wi-Fi non arriva, Arlo Go 2 usa il 4G: sconto del 41%",
-      "link": "https://www.tomshw.it/offerte/dove-il-wi-fi-non-arriva-arlo-go-2-usa-il-4g-sconto-del-41",
-      "excerpt": "Arlo Go 2 costa 193,13€ su Amazon, con uno sconto del 41% sul listino di 329,99€. La connettività tramite SIM 3G/4G LTE permette di installarla anche dove una normale telecamera…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103340/tomshw-offer-599240.png",
-      "publishedAt": "2026-07-25T08:03:17+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Starship Flight 13 è un successo: lanciati anche i satelliti Starlink",
@@ -136,33 +163,6 @@
       "excerpt": "A tu per tu con le novità targate Samsung.",
       "image": "https://hd2.tudocdn.net/1358843?w=660",
       "publishedAt": "2026-07-24T17:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Sequoie giganti e incendi: la conferma scientifica sull'efficacia dei roghi controllati",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n665380/nasa-studio-roghi-controllati-sequoie/",
-      "excerpt": "Uno studio NASA conferma che i roghi controllati aumentano la sopravvivenza delle sequoie giganti.",
-      "image": "https://hd2.tudocdn.net/1358804?w=660",
-      "publishedAt": "2026-07-24T17:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung Galaxy S27 series: conferme sul Pro e filtrano informazioni sulle fotocamere",
-      "link": "https://www.hdblog.it/smartphone/articoli/n665393/samsung-galaxy-s27-fotocamere-pro-sensori-sony/",
-      "excerpt": "Ecco che cambiamenti possiamo aspettarci.",
-      "image": "https://hd2.tudocdn.net/1358830?w=660",
-      "publishedAt": "2026-07-24T17:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "50 anni di BMW RS, come una sigla ha cambiato per sempre le moto",
-      "link": "https://www.hdmotori.it/bmw-rs-50-anni-storia-modelli-boxer/",
-      "excerpt": "Nel 1976 nasceva la gamma RS di BMW. Dalle origini con Pininfarina ai record di Nardò fino alla nuova R 1300 RS, cinquant'anni di evoluzione e passione boxer",
-      "image": "https://hd2.tudocdn.net/1358836?w=660",
-      "publishedAt": "2026-07-24T17:00:34+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -239,11 +239,29 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Command & Conquer Renegade era grezzo, ma quante incredibili idee aveva",
-      "link": "https://www.tomshw.it/videogioco/e-comunque-command-conquer-renegade-era-un-gran-bel-gioco",
-      "excerpt": "Nei primi anni 2000 abbiamo vissuto il vero periodo d'oro videoludico a mio parere. In quel lasso di tempo, Westwood Studios non era solo una software house; era una vera e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103159/Command-&-Conquer-Renegade-(4).jpg",
-      "publishedAt": "2026-07-24T09:57:19+00:00",
+      "title": "n8n: 16 vulnerabilità gravi, la patch 2.31.5 è urgente",
+      "link": "https://www.tomshw.it/hardware/n8n-16-falle-minacciano-sandbox-e-credenziali-serve-la-2-31-5",
+      "excerpt": "Una fuga dalla sandbox capace di eseguire comandi con i privilegi del processo è tra le 16 vulnerabilità corrette da n8n con una nuova serie di aggiornamenti. I problemi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103130/20260503214817_IMG_9893.png",
+      "publishedAt": "2026-07-24T08:50:15+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Con tutta calma, ora anche Claude ha l'interazione vocale avanzata",
+      "link": "https://www.tomshw.it/business/con-tutta-calma-ora-anche-claude-ha-linterazione-vocale-avanzata",
+      "excerpt": "Claude sa parlare da oltre un anno, ma solo con Haiku, il modello più leggero della gamma Anthropic. Da questa settimana la modalità vocale gira anche su Opus e Sonnet, i modelli…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103067/04-claude-voice-mode-cover.jpg",
+      "publishedAt": "2026-07-24T07:40:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Un altro modello piccolo ed economico che programma come quelli grandi",
+      "link": "https://www.tomshw.it/business/un-altro-modello-piccolo-ed-economico-che-programma-come-quelli-grandi",
+      "excerpt": "Poolside ha rilasciato Laguna S 2.1, terzo modello della famiglia in tre mesi, un'architettura Mixture-of-Experts con 118 miliardi di parametri totali e appena 8 miliardi attivi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103066/03-poolside-laguna-cover.jpg",
+      "publishedAt": "2026-07-24T07:40:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -253,24 +271,6 @@
       "excerpt": "Un numero crescente di founder gestisce coding, ricerca, marketing, supporto, design e operations senza assumere una sola persona. L'AI copre i reparti che un tempo servivano…",
       "image": "https://cdn.tomshw.it/storage/media/2026/07/103064/01-solopreneur-ai-cover.jpg",
       "publishedAt": "2026-07-24T07:25:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Ubisoft crolla del 14,18% in Borsa: ricavi trimestrali giù del 13,7%",
-      "link": "https://www.tomshw.it/business/ubisoft-crolla-del-14-18-in-borsa-ricavi-trimestrali-giu-del-13",
-      "excerpt": "Il titolo Ubisoft ha chiuso la seduta a Parigi a 4,73 euro, con una perdita del 14,18%, mentre l’indice SBF 120 si è fermato a -1,50%. Il forte calo in Borsa ha accompagnato la…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101171/ubisoft-barcelona-layoff-protest-black-flag-resynced-01.jpg",
-      "publishedAt": "2026-07-23T17:30:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Accessori da picnic: cosa portare per il pranzo al sacco perfetto",
-      "link": "https://www.tomshw.it/altro/accessori-da-picnic-cosa-portare-per-il-pranzo-al-sacco-perfetto",
-      "excerpt": "Con l'arrivo delle belle giornate, cresce la voglia di staccare dalla routine quotidiana e concedersi una pausa a contatto con la natura. Che si tratti di un pomeriggio al parco…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102964/Accessori-da-picnic-cosa-portare-per-il-pranzo-al-sacco-perfetto.png",
-      "publishedAt": "2026-07-23T14:23:08+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
