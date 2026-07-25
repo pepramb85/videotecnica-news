@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-07-25T14:56:10.465836+00:00",
+  "generatedAt": "2026-07-25T16:48:40.165503+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "250€ restano in tasca: l’asciugatrice LG con AI Dry è a 599€",
+      "link": "https://www.tomshw.it/offerte/250eur-restano-in-tasca-lasciugatrice-lg-con-ai-dry-e-a-599eur",
+      "excerpt": "Con 250€ di risparmio, l’asciugatrice LG RNX5009NWWB costa 599€ su Amazon, invece degli 849€ di listino: lo sconto è del 29% e coincide con il minimo finora raggiunto. AI Dry,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103362/tomshw-offer-599851.png",
+      "publishedAt": "2026-07-25T16:03:09+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il gaming a 165 Hz guadagna l’audio: BenQ EX2710S a 177,99€",
+      "link": "https://www.tomshw.it/offerte/il-gaming-a-165-hz-guadagna-laudio-benq-ex2710s-a-17799eur",
+      "excerpt": "A 177,99€ su Amazon, il BenQ MOBIUZ EX2710S taglia di 71,01€ il listino da 249€, con uno sconto del 29%. Il pannello IPS da 27 pollici abbina 165 Hz, risposta MPRT di 1 ms e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103361/tomshw-offer-599786.png",
+      "publishedAt": "2026-07-25T15:03:16+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "Una USB-C, otto porte: l’hub Belkin costa 39,99€ su Amazon",
       "link": "https://www.tomshw.it/offerte/una-usb-c-otto-porte-lhub-belkin-costa-3999eur-su-amazon",
@@ -39,15 +57,6 @@
       "publishedAt": "2026-07-25T13:00:06+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
-    },
-    {
-      "title": "1.270€ in meno sul Samsung QN900B: 75 pollici 8K a 1.599€",
-      "link": "https://www.tomshw.it/offerte/1270eur-in-meno-sul-samsung-qn900b-75-pollici-8k-a-1599eur",
-      "excerpt": "Samsung Neo QLED 8K QN900B da 75 pollici è a 1.599€ su Amazon, con il 44% di sconto sul prezzo ufficiale di 2.869€ e un risparmio di 1.270€. Il grande pannello Mini LED punta a…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103358/tomshw-offer-599573.png",
-      "publishedAt": "2026-07-25T12:03:01+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Il gigante delle batterie Varta dichiara fallimento in Germania",
@@ -185,15 +194,6 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Facebook Verified è gratis: il badge richiede un video-selfie",
-      "link": "https://www.tomshw.it/altro/facebook-verified-e-gratis-il-badge-richiede-un-video-selfie",
-      "excerpt": "Un breve video-selfie, confrontato con le fotografie già associate all’account, permetterà di ottenere gratuitamente il nuovo badge Facebook Verified. La verifica, presentata…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103207/Introducing-Facebook-Verified_Header.jpg",
-      "publishedAt": "2026-07-24T13:06:46+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "TikTok nel mirino dell’UE: gli account dei minori non sarebbero abbastanza sicuri",
       "link": "https://images.dday.it/tpDJOeNEGcNooK34mH3IrrW0tsmB83GF7ve79Pj_JpQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58160/99e218_Depositphotos_247379026_XL.jpg",
       "excerpt": "La Commissione Europea ha contestato le impostazioni di privacy della piattaforma, che permettono una visibilità troppo ampia dei contenuti pubblicati dagli adolescenti... Leggi…",
@@ -239,11 +239,20 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Lisa Su (AMD) difende gli LLM open dopo il caso Hugging Face",
-      "link": "https://www.tomshw.it/business/lisa-su-amd-difende-gli-llm-open-dopo-il-caso-hugging-face",
-      "excerpt": "Al keynote della conferenza Advancing AI di San Francisco, Lisa Su ha difeso pubblicamente l'intelligenza artificiale open source. Lo ha fatto pochi giorni dopo un incidente che…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103068/05-lisa-su-open-source-cover.jpg",
-      "publishedAt": "2026-07-24T07:40:04+00:00",
+      "title": "30 minuti per fare un lavoro, prima servivano 3 giorni",
+      "link": "https://www.tomshw.it/business/30-minuti-per-fare-un-lavoro-prima-servivano-3-giorni",
+      "excerpt": "NTT Data ha ridotto a mezz'ora un'analisi di incidente che prima assorbiva tre giorni di lavoro e cinque tecnici esperti. Il caso riguarda un sistema critico, e la diagnosi che…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103072/09-ntt-data-codex-cover.jpg",
+      "publishedAt": "2026-07-24T08:21:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Agenti AI in azienda, una superficie di attacco sempre più ampia",
+      "link": "https://www.tomshw.it/business/agenti-ai-in-azienda-una-superficie-di-attacco-sempre-piu-ampia",
+      "excerpt": "Gli agenti AI attivi negli ambienti aziendali sono cresciuti del 466% in un anno. Il numero da solo racconta poco, perché la crescita era attesa: ogni fornitore di software…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103073/10-agenti-superficie-attacco-cover.jpg",
+      "publishedAt": "2026-07-24T07:25:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -261,15 +270,6 @@
       "link": "https://www.tomshw.it/business/intel-sembrava-a-fine-corsa-ora-e-tornata-piu-forte-che-mai",
       "excerpt": "I ricavi del secondo trimestre 2026 arrivano a 16,1 miliardi di dollari, il 25% in più rispetto a un anno fa. È la crescita più veloce degli ultimi quindici anni, e supera la…",
       "image": "https://cdn.tomshw.it/storage/media/2026/07/103070/07-intel-crescita-cover.jpg",
-      "publishedAt": "2026-07-24T07:25:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il nuovo prodotto OpenAI fa crollare le software house",
-      "link": "https://www.tomshw.it/business/il-nuovo-prodotto-openai-fa-crollare-le-software-house",
-      "excerpt": "OpenAI ha lanciato Presence, una piattaforma che porta agenti AI in tempo reale dentro i reparti vendite e assistenza clienti delle aziende. Nelle 48 ore successive all'annuncio,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103069/06-openai-titoli-software-cover.jpg",
       "publishedAt": "2026-07-24T07:25:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
