@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-07-25T16:48:40.165503+00:00",
+  "generatedAt": "2026-07-25T18:56:03.081791+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Dyson senza filo a 249€: il V8 Origin fa risparmiare 130€",
+      "link": "https://www.tomshw.it/offerte/dyson-senza-filo-a-249eur-il-v8-origin-fa-risparmiare-130eur",
+      "excerpt": "Dyson V8 Origin è a 249€ su Amazon: il prezzo di listino è 379€, quindi il taglio è di 130€ e lo sconto raggiunge il 34%. Si porta così a casa una scopa senza filo pensata per…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103364/tomshw-offer-599979.png",
+      "publishedAt": "2026-07-25T18:03:53+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Un case da vetrina a 74,99€: Corsair 3500X taglia il 46%",
+      "link": "https://www.tomshw.it/offerte/un-case-da-vetrina-a-7499eur-corsair-3500x-taglia-il-46",
+      "excerpt": "Corsair 3500X RS-R ARGB costa 74,99€ su Amazon, con uno sconto del 46% rispetto ai 139,90€ di listino. Il case bianco abbina una visuale panoramica a tre ventole illuminate già…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103363/tomshw-offer-599915.png",
+      "publishedAt": "2026-07-25T17:02:21+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Stellantis chiude in Francia la fabbrica del controverso Puretech Gen2",
+      "link": "https://www.hdmotori.it/stellantis-chiude-fabbrica-puretech-gen2/",
+      "excerpt": "Lo storico stabilimento di Douvrin cesserà la produzione del discusso motore il 30 ottobre 2026, segnando un importante passo nella transizione verso l'elettrificazione per il…",
+      "image": "https://hd2.tudocdn.net/1358897?w=660",
+      "publishedAt": "2026-07-25T17:00:49+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung Galaxy Fold8: sconto di 105€ su Amazon e SmartTag2 in regalo",
+      "link": "https://www.hdblog.it/smartphone/offerte/n665435/samsung-galaxy-fold8-sconto-amazon-coupon/",
+      "excerpt": "Il nuovo Samsung Galaxy Fold8 è già in sconto su Amazon: in regalo il localizzatore Galaxy SmartTag2.",
+      "image": "https://hd2.tudocdn.net/1357829?w=660",
+      "publishedAt": "2026-07-25T16:33:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "250€ restano in tasca: l’asciugatrice LG con AI Dry è a 599€",
       "link": "https://www.tomshw.it/offerte/250eur-restano-in-tasca-lasciugatrice-lg-con-ai-dry-e-a-599eur",
@@ -23,15 +59,6 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Una USB-C, otto porte: l’hub Belkin costa 39,99€ su Amazon",
-      "link": "https://www.tomshw.it/offerte/una-usb-c-otto-porte-lhub-belkin-costa-3999eur-su-amazon",
-      "excerpt": "Belkin Connect Hub USB-C a 8 porte costa 39,99€ su Amazon, contro un listino di 59,99€: lo sconto del 33% lascia in tasca 20€. Da un solo connettore aggiunge al portatile HDMI 4K,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103360/tomshw-offer-599721.png",
-      "publishedAt": "2026-07-25T14:04:45+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "iPhone Ultra, Apple pronta a prendersi il mercato pieghevoli? Cosa dicono le stime",
       "link": "https://www.hdblog.it/smartphone/articoli/n665429/apple-iphone-ultra-pieghevole-mercato-foldable/",
       "excerpt": "Gli analisti si aspettano un grande impatto di Apple.",
@@ -39,15 +66,6 @@
       "publishedAt": "2026-07-25T13:55:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Barba e corpo, un solo kit: Philips OneBlade Pro 360 a 84,99€",
-      "link": "https://www.tomshw.it/offerte/barba-e-corpo-un-solo-kit-philips-oneblade-pro-360-a-8499eur",
-      "excerpt": "Philips OneBlade Pro 360 QP6652/30 costa 84,99€ su Amazon invece dei 129,99€ ufficiali: il risparmio è di 45€, pari al 35%. Il kit riunisce in un solo apparecchio regolazione…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103359/tomshw-offer-599648.png",
-      "publishedAt": "2026-07-25T13:03:06+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Il nobile scopo di una famosissima hit anni ‘90: prevenire gli scontri stradali",
@@ -122,22 +140,13 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Meta dice addio al patto sulle rinnovabili: punta sul gas per alimentare l'AI",
-      "link": "https://www.hdblog.it/mercato/articoli/n665410/meta-lascia-re100-gas-data-center-ai/",
-      "excerpt": "Meta esce da RE100 mentre investe in centrali a gas per sostenere la crescita dell'AI.",
-      "image": "https://hd2.tudocdn.net/1358861?w=660",
-      "publishedAt": "2026-07-25T08:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Google Pixel 10 Pro XL torna in promo su Amazon, è il momento giusto per comprarlo?",
-      "link": "https://www.hdblog.it/smartphone/offerte/n665416/google-pixel-10-pro-xl-amazon-sconto-lug26/",
-      "excerpt": "Il Google Pixel 10 Pro XL è in offerta su Amazon e diventa oggi un best buy tra gli samrtphone di fascia alta.",
-      "image": "https://hd2.tudocdn.net/1302141?w=660",
-      "publishedAt": "2026-07-25T07:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Vasco Audience traduce le conferenze su ogni smartphone",
+      "link": "https://www.tomshw.it/business/vasco-audience-traduzione-conferenze-smartphone",
+      "excerpt": "Vasco Electronics ha presentato Vasco Audience, una soluzione pensata per tradurre in tempo reale conferenze, corsi di formazione e presentazioni con un solo relatore e un…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103324/vasco-audience-traduzione-conferenze-smartphone.png",
+      "publishedAt": "2026-07-25T06:25:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Scopri come Hisense rivoluziona l’esperienza TV con la nuova gamma RGB MiniLED",
@@ -176,6 +185,15 @@
       "sourceColor": "#E63946"
     },
     {
+      "title": "Il Mulo è tornato: aMule è disponibile in versione 3.0",
+      "link": "https://www.tomshw.it/hardware/release-amule-tutte-le-versioni-del-progetto-2026-07-24",
+      "excerpt": "Dopo oltre cinque anni di silenzio, aMule torna con una versione che i suoi stessi sviluppatori definiscono alive again: la 3.0.0 rappresenta non solo un aggiornamento tecnico, ma…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103232/Gemini_Generated_Image_jl8yzhjl8yzhjl8y.png",
+      "publishedAt": "2026-07-24T14:12:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "Arriva una nuova spunta su Facebook, questa volta gratuita. Con un video dimostri l'autenticità del profilo",
       "link": "https://images.dday.it/vWymUqE32SBRWnGVv_XS_QcALmXALTbcO5lVaE0YVow/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58164/90adff_Introducing-Facebook-Verified_Header.jpg",
       "excerpt": "La verifica avviene tramite un breve video selfie. Il badge sarà visibile inizialmente su sezioni come Marketplace, Gruppi e profili personali... Leggi tutto",
@@ -183,15 +201,6 @@
       "publishedAt": "2026-07-24T14:03:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "TikTok, minori troppo esposti: rischia una multa fino al 6% del fatturato",
-      "link": "https://www.tomshw.it/altro/tiktok-minori-troppo-esposti-rischia-una-multa-fino-al-6-del-fatturato",
-      "excerpt": "Un account appartenente a un minore può diventare pubblico su TikTok, rendendo i contenuti accessibili anche agli estranei. È su questa possibilità che si concentrano le…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103221/news-flash-597654.png",
-      "publishedAt": "2026-07-24T13:56:09+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "TikTok nel mirino dell’UE: gli account dei minori non sarebbero abbastanza sicuri",
@@ -239,6 +248,15 @@
       "sourceColor": "#9B2D2D"
     },
     {
+      "title": "AMD espande il business all'inferenza AI, si accorda con Cerebras",
+      "link": "https://www.tomshw.it/business/amd-espande-il-business-allinferenza-ai-si-accorda-con-cerebras",
+      "excerpt": "AMD e Cerebras costruiranno insieme un sistema di inferenza che spezza il lavoro in due fasi distinte, elaborazione dei prompt da un lato, generazione dei token dall'altro. Le due…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103074/12-amd-cerebras-cover.jpg",
+      "publishedAt": "2026-07-24T08:23:22+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "30 minuti per fare un lavoro, prima servivano 3 giorni",
       "link": "https://www.tomshw.it/business/30-minuti-per-fare-un-lavoro-prima-servivano-3-giorni",
       "excerpt": "NTT Data ha ridotto a mezz'ora un'analisi di incidente che prima assorbiva tre giorni di lavoro e cinque tecnici esperti. Il caso riguarda un sistema critico, e la diagnosi che…",
@@ -252,24 +270,6 @@
       "link": "https://www.tomshw.it/business/agenti-ai-in-azienda-una-superficie-di-attacco-sempre-piu-ampia",
       "excerpt": "Gli agenti AI attivi negli ambienti aziendali sono cresciuti del 466% in un anno. Il numero da solo racconta poco, perché la crescita era attesa: ogni fornitore di software…",
       "image": "https://cdn.tomshw.it/storage/media/2026/07/103073/10-agenti-superficie-attacco-cover.jpg",
-      "publishedAt": "2026-07-24T07:25:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Big Tech ora spende più di quanto guadagna, e Wall Street non la prende bene",
-      "link": "https://www.tomshw.it/business/big-tech-ora-spende-piu-di-quanto-guadagna-e-wall-street-non-la-prende-bene",
-      "excerpt": "Alphabet fa utili record e crolla in Borsa lo stesso giornoAlphabet ha chiuso il trimestre con 112 miliardi di dollari di profitto, la prima trimestrale a dodici cifre nella sua…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103071/08-bigtech-capex-cover.jpg",
-      "publishedAt": "2026-07-24T07:25:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Intel sembrava a fine corsa, ora è tornata più forte che mai",
-      "link": "https://www.tomshw.it/business/intel-sembrava-a-fine-corsa-ora-e-tornata-piu-forte-che-mai",
-      "excerpt": "I ricavi del secondo trimestre 2026 arrivano a 16,1 miliardi di dollari, il 25% in più rispetto a un anno fa. È la crescita più veloce degli ultimi quindici anni, e supera la…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103070/07-intel-crescita-cover.jpg",
       "publishedAt": "2026-07-24T07:25:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
