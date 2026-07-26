@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-07-26T09:52:04.605676+00:00",
+  "generatedAt": "2026-07-26T11:14:31.241032+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "La rivincita del Tesla Diner: è il Supercharger più usato al mondo",
+      "link": "https://www.hdmotori.it/tesla-diner-supercharger-piu-usato-mondo/",
+      "excerpt": "Dopo un anno dall’inaugurazione, il Tesla Diner si dimostra un successo con un numero record di ricariche. Il format verrà presto replicato.",
+      "image": "https://hd2.tudocdn.net/1358935?w=660",
+      "publishedAt": "2026-07-26T10:30:19+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Perché i cavi USB Type-B sono rimasti molto di nicchia?",
+      "link": "https://www.hdblog.it/hardware/articoli/n665241/usb-type-b-popolare-come-fatto-cosa-serve/",
+      "excerpt": "È stato vittima... della sua stazza, prevalentemente. Ma si usa ancora!",
+      "image": "https://hd2.tudocdn.net/1358579?w=660",
+      "publishedAt": "2026-07-26T10:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung porta il QD-OLED 4K da 240 Hz al minimo: 741,75€",
+      "link": "https://www.tomshw.it/offerte/samsung-porta-il-qd-oled-4k-da-240-hz-al-minimo-74175eur",
+      "excerpt": "Samsung Odyssey OLED G8 S32DG802 costa 741,75€ su Amazon, contro un listino di 1.299€: il taglio del 43% vale 557,25€ e coincide con il minimo storico. Il richiamo è l’incrocio…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103369/tomshw-offer-600612.png",
+      "publishedAt": "2026-07-26T10:03:01+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "12.000 movimenti al minuto: OneBlade 360 con 2 lame a 49,99€",
       "link": "https://www.tomshw.it/offerte/12000-movimenti-al-minuto-oneblade-360-con-2-lame-a-4999eur",
@@ -86,15 +113,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Dyson senza filo a 249€: il V8 Origin fa risparmiare 130€",
-      "link": "https://www.tomshw.it/offerte/dyson-senza-filo-a-249eur-il-v8-origin-fa-risparmiare-130eur",
-      "excerpt": "Dyson V8 Origin è a 249€ su Amazon: il prezzo di listino è 379€, quindi il taglio è di 130€ e lo sconto raggiunge il 34%. Si porta così a casa una scopa senza filo pensata per…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103364/tomshw-offer-599979.png",
-      "publishedAt": "2026-07-25T18:03:53+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Stellantis chiude in Francia la fabbrica del controverso Puretech Gen2",
       "link": "https://www.hdmotori.it/stellantis-chiude-fabbrica-puretech-gen2/",
       "excerpt": "Lo storico stabilimento di Douvrin cesserà la produzione del discusso motore il 30 ottobre 2026, segnando un importante passo nella transizione verso l'elettrificazione per il…",
@@ -109,24 +127,6 @@
       "excerpt": "Il nuovo Samsung Galaxy Fold8 è già in sconto su Amazon: in regalo il localizzatore Galaxy SmartTag2.",
       "image": "https://hd2.tudocdn.net/1357829?w=660",
       "publishedAt": "2026-07-25T16:33:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone Ultra, Apple pronta a prendersi il mercato pieghevoli? Cosa dicono le stime",
-      "link": "https://www.hdblog.it/smartphone/articoli/n665429/apple-iphone-ultra-pieghevole-mercato-foldable/",
-      "excerpt": "Gli analisti si aspettano un grande impatto di Apple.",
-      "image": "https://hd2.tudocdn.net/1348009?w=660",
-      "publishedAt": "2026-07-25T13:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il nobile scopo di una famosissima hit anni ‘90: prevenire gli scontri stradali",
-      "link": "https://www.hdmotori.it/scopo-hit-anni-90-prevenire-scontri-stradali/",
-      "excerpt": "Un celebre brano di Robert Miles è stato composto per prevenire le \"stragi del sabato sera\", fenomeno di particolare rilevanza sulle strade italiane negli anni '90.",
-      "image": "https://hd2.tudocdn.net/1358886?w=660",
-      "publishedAt": "2026-07-25T13:00:06+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -185,6 +185,15 @@
       "sourceColor": "#E63946"
     },
     {
+      "title": "Pantaloni da trekking: come sceglierli, leggeri e traspiranti",
+      "link": "https://www.tomshw.it/altro/pantaloni-da-trekking-come-sceglierli-leggeri-e-traspiranti",
+      "excerpt": "Affrontare un’escursione in montagna o un lungo cammino richiede l'attrezzatura giusta, e la scelta dei pantaloni da trekking è spesso uno degli aspetti più sottovalutati dagli…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103271/Pantaloni-da-trekking-come-sceglierli,-leggeri-e-traspiranti.png",
+      "publishedAt": "2026-07-24T15:24:29+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "Come vivere F1, MotoGP e calcio al meglio TV, audio e accessori indispensabili",
       "link": "https://www.tomshw.it/altro/come-vivere-f1-motogp-e-calcio-al-meglio-tv-audio-e-accessori-indispensabili",
       "excerpt": "La stagione sportiva entra nel vivo e, che si tratti delle staccate al limite in Formula 1, dei sorpassi mozzafiato della MotoGP o delle sfide decisive del campionato di calcio,…",
@@ -210,15 +219,6 @@
       "publishedAt": "2026-07-24T14:50:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il Mulo è tornato: aMule è disponibile in versione 3.0",
-      "link": "https://www.tomshw.it/hardware/release-amule-tutte-le-versioni-del-progetto-2026-07-24",
-      "excerpt": "Dopo oltre cinque anni di silenzio, aMule torna con una versione che i suoi stessi sviluppatori definiscono alive again: la 3.0.0 rappresenta non solo un aggiornamento tecnico, ma…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103232/Gemini_Generated_Image_jl8yzhjl8yzhjl8y.png",
-      "publishedAt": "2026-07-24T14:12:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Arriva una nuova spunta su Facebook, questa volta gratuita. Con un video dimostri l'autenticità del profilo",
@@ -257,20 +257,20 @@
       "sourceColor": "#E63946"
     },
     {
+      "title": "World of Warcraft: sviluppatore aiuta giocatori con cheat, licenziato",
+      "link": "https://www.tomshw.it/videogioco/world-of-warcraft-blizzard-licenzia-chi-ha-aiutato-giocatori-con-incantesimi-da",
+      "excerpt": "Incantesimi riservati agli sviluppatori sono stati usati su un server live di World of Warcraft per concedere un vantaggio illecito a un gruppo di giocatori. Dopo aver ricondotto…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103165/PRaST9aV37L6oNFWzRtPi9-1920-80.jpg",
+      "publishedAt": "2026-07-24T10:08:08+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "Stripe punta OpenRouter: l'acquisizione potrebbe valere 10 miliardi",
       "link": "https://www.tomshw.it/business/stripe-punta-openrouter-l-acquisizione-potrebbe-valere-10-miliardi",
       "excerpt": "OpenRouter potrebbe passare sotto il controllo di Stripe con una valutazione vicina ai 10 miliardi di dollari, quasi otto volte quella raggiunta dalla startup pochi mesi fa. Il…",
       "image": "https://cdn.tomshw.it/storage/media/2026/07/103106/news-flash-596060.png",
       "publishedAt": "2026-07-24T08:08:20+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "iOS 27, attenzione: iPhone rallentato e batteria sotto stress",
-      "link": "https://www.tomshw.it/smartphone/ios-27-puo-rallentare-l-iphone-per-giorni-e-aumentare-i-consumi",
-      "excerpt": "Dopo l’installazione della beta di iOS 27, la ricostruzione dell’indice di ricerca può impegnare l’iPhone per diversi giorni. Durante questa fase alcuni beta tester hanno…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103098/news-flash-595891.png",
-      "publishedAt": "2026-07-24T07:38:10+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
