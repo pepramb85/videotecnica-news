@@ -1,9 +1,144 @@
 {
-  "generatedAt": "2026-07-27T02:10:08.190177+00:00",
+  "generatedAt": "2026-07-27T06:56:13.066010+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Questo rack con 1800 SSD offre 1000 Petabyte di spazio",
+      "link": "https://www.tomshw.it/hardware/weka-promette-1000-pb-in-un-rack-con-1800-ssd-micron",
+      "excerpt": "Weka ha presentato Prime Max, la configurazione di punta della nuova piattaforma WEKApod 3, dichiarando una capacità effettiva di 1,1 exabyte all'interno di un singolo rack 56U.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103399/weka-promette-1-000-pb-in-un-rack-con-1-800-ssd-micron.png",
+      "publishedAt": "2026-07-27T06:48:52+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Metallo liquido sulla Radeon RX 9070 XT: come vanno le temperature?",
+      "link": "https://www.tomshw.it/hardware/il-metallo-liquido-avvicina-hotspot-e-vram-sulla-radeon-rx-9070-xt",
+      "excerpt": "Il proprietario di una AMD Radeon RX 9070 XT ha testato la scheda sostituendo il materiale termico con del metallo liquido, ottenendo temperature quasi sovrapposte tra il punto…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103393/il-metallo-liquido-avvicina-hotspot-e-vram-sulla-radeon-rx-9070-xt.png",
+      "publishedAt": "2026-07-27T06:45:37+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Minecraft alza i requisiti PC per la prima volta in 17 anni",
+      "link": "https://www.tomshw.it/videogioco/minecraft-alza-i-requisiti-pc-per-la-prima-volta-in-17-anni",
+      "excerpt": "Microsoft ha alzato per la prima volta in 17 anni i requisiti hardware di Minecraft: Java Edition, aggiornando le configurazioni minime e raccomandate per PC, Mac e sistemi Linux.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103389/minecraft-alza-i-requisiti-pc-per-la-prima-volta-in-17-anni.png",
+      "publishedAt": "2026-07-27T06:41:50+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Pompei rivive su Disney+: Tom Hiddleston indaga le ultime ore della città",
+      "link": "https://www.hdblog.it/spettacolo/articoli/n665477/pompei-fuori-dal-tempo-tom-hiddleston/",
+      "excerpt": "Tom Hiddleston guida un'indagine sulle ultime ore di Pompei nel nuovo docudrama Disney+.",
+      "image": "https://hd2.tudocdn.net/1359008?w=660",
+      "publishedAt": "2026-07-27T06:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "I denti a sciabola potrebbero aver avuto un problema nascosto",
+      "link": "https://www.tomshw.it/scienze/i-denti-a-sciabola-potrebbero-aver-avuto-un-problema-nascosto",
+      "excerpt": "Un gruppo di ricercatori coordinato dal veterinario Hugo Schmökel ha individuato in tre vertebre fossili di Smilodon fatalis alterazioni compatibili con tumori dei nervi spinali.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103418/i-denti-a-sciabola-potrebbero-aver-avuto-un-problema-nascosto.png",
+      "publishedAt": "2026-07-27T06:39:35+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "I tuoi occhi potrebbero avere un antenato davvero insolito",
+      "link": "https://www.tomshw.it/scienze/i-tuoi-occhi-potrebbero-avere-un-antenato-davvero-insolito",
+      "excerpt": "Ricercatori della Lund University e della University of Sussex hanno ricostruito un possibile passaggio nell'evoluzione della vista: l'antenato dei vertebrati avrebbe…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103415/i-tuoi-occhi-potrebbero-avere-un-antenato-davvero-insolito.png",
+      "publishedAt": "2026-07-27T06:36:19+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "I delfini si chiamano per nome? Una nuova analisi alza l'asticella",
+      "link": "https://www.tomshw.it/scienze/i-delfini-si-chiamano-per-nome-una-nuova-analisi-alza-lasticella",
+      "excerpt": "Kelly Jaakkola del Dolphin Research Center, Stephanie King dell'Università di Bristol e Jason Bruck della Stephen F. Austin State University hanno pubblicato su Trends in…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103413/i-delfini-si-chiamano-per-nome-una-nuova-analisi-alza-l-asticella.png",
+      "publishedAt": "2026-07-27T06:32:05+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Una nuova tecnica rende il tumore alla prostata più visibile",
+      "link": "https://www.tomshw.it/scienze/il-tumore-alla-prostata-si-nasconde-crispr-prova-a-smascherarlo",
+      "excerpt": "Un gruppo guidato da ricercatori della Duke University School of Medicine, con il contributo della University of Rochester Medicine, ha sperimentato una tecnologia basata su…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103410/il-tumore-alla-prostata-si-nasconde-crispr-prova-a-smascherarlo.png",
+      "publishedAt": "2026-07-27T06:31:36+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Adolescenti impulsivi? Il contesto sociale conta più del previsto",
+      "link": "https://www.tomshw.it/scienze/il-cervello-adolescente-sembra-impulsivo-ma-ce-un-motivo",
+      "excerpt": "Evelyn Svingen, criminologa dell’Università di Birmingham, ha pubblicato di recente una nuova sintesi delle evidenze sul comportamento degli adolescenti: molte scelte che agli…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103407/il-cervello-adolescente-sembra-impulsivo-ma-c-e-un-motivo.png",
+      "publishedAt": "2026-07-27T06:24:02+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Un RNA umano potrebbe sbloccare l’energia nascosta nelle cellule",
+      "link": "https://www.tomshw.it/scienze/un-rna-umano-potrebbe-sbloccare-lenergia-nascosta-nelle-cellule",
+      "excerpt": "Un gruppo di ricerca della Ohio State University ha identificato nelle cellule umane una molecola di RNA non codificante capace di legarsi all’ATP, la principale valuta energetica…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103402/un-rna-umano-potrebbe-sbloccare-l-energia-nascosta-nelle-cellule.png",
+      "publishedAt": "2026-07-27T06:22:18+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Apple, gli occhiali smart alla WWDC del 2027: ma la vera sfida sarà la privacy",
+      "link": "https://www.hdblog.it/indossabili/articoli/n665478/apple-prepara-smart-glass-wwdc-2027/",
+      "excerpt": "Apple punta a presentare i suoi primi occhiali smart nel corso della WWDC che si terrà a giugno del 2027",
+      "image": "https://hd2.tudocdn.net/1359015?w=660",
+      "publishedAt": "2026-07-27T06:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Perché i modelli IA “open” sono diventati una questione di sicurezza nazionale americana?",
+      "link": "https://images.dday.it/6uAREFKNPLQoDAfcvXpAz2r08yYXyN_qB1XNKjJzmlw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58170/4decad_ChatGPT_Image_26_lug_2026__19_15_44.png",
+      "excerpt": "Oltre 70 aziende tech hanno scritto a Washington per difendere i modelli scaricabili proprio mentre l'amministrazione minaccia di bandire quelli cinesi. Ma un attacco cyber…",
+      "image": "https://images.dday.it/6uAREFKNPLQoDAfcvXpAz2r08yYXyN_qB1XNKjJzmlw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58170/4decad_ChatGPT_Image_26_lug_2026__19_15_44.png",
+      "publishedAt": "2026-07-27T06:00:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "ITER compie un passo avanti: installato il gigantesco modulo da 400 tonnellate",
+      "link": "https://www.hdblog.it/green/articoli/n665472/iter-vacuum-vessel-modulo-fusione/",
+      "excerpt": "ITER completa una fase decisiva con l'installazione dell'ultimo modulo del recipiente a vuoto.",
+      "image": "https://hd2.tudocdn.net/1359007?w=660",
+      "publishedAt": "2026-07-27T05:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "NASA+ sbarca su Fire TV: lo spazio arriva gratis nel salotto di casa",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n665473/nasa-plus-fire-tv/",
+      "excerpt": "NASA+ arriva su Fire TV con dirette gratuite di missioni spaziali e contenuti esclusivi.",
+      "image": "https://hd2.tudocdn.net/1359005?w=660",
+      "publishedAt": "2026-07-27T05:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nuovo drone di Anduril: potrà sostituire gli elicotteri d'attacco",
+      "link": "https://www.hdblog.it/droni/articoli/n665474/anduril-thunder-convertiplano-autonomo/",
+      "excerpt": "Thunder è il nuovo convertiplano autonomo capace di trasportare fino a 10 missili.",
+      "image": "https://hd2.tudocdn.net/1359004?w=660",
+      "publishedAt": "2026-07-27T05:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Apple Watch 12, che novità aspettarci. E quanto è vicina l'ora di un nuovo design",
       "link": "https://www.hdblog.it/indossabili/articoli/n665463/apple-watch-series-12-ultra-4-novita-design-chip/",
@@ -12,15 +147,6 @@
       "publishedAt": "2026-07-26T17:20:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Sotto i 90€ c’è ANC con Gemini: Galaxy Buds3 FE al 40%",
-      "link": "https://www.tomshw.it/offerte/sotto-i-90eur-ce-anc-con-gemini-galaxy-buds3-fe-al-40",
-      "excerpt": "A 89,99€ su Amazon, gli auricolari Samsung Galaxy Buds3 FE passano dai 149€ di listino al 40% di sconto, con un risparmio immediato di 59,01€. ANC, Audio 360 e accesso vocale a…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103376/tomshw-offer-600951.png",
-      "publishedAt": "2026-07-26T17:02:47+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "EA Sports FC 27: svelati il primo trailer, la data di uscita e i prezzi",
@@ -41,15 +167,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Un rasoio da 559,99€ ora costa 249,99€: è il Braun 9665cc",
-      "link": "https://www.tomshw.it/offerte/un-rasoio-da-55999eur-ora-costa-24999eur-e-il-braun-9665cc",
-      "excerpt": "Braun Serie 9 Pro+ 9665cc è a 249,99€ su Amazon, anziché 559,99€, con uno sconto del 55% e un risparmio di 310€. È lo stesso minimo storico già toccato dal modello, con stazione…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103375/tomshw-offer-600888.png",
-      "publishedAt": "2026-07-26T16:03:35+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Il Galaxy S25 FE (256 GB) conviene sempre di più: ora è lui il mid-range Samsung da sceligere",
       "link": "https://www.hdblog.it/smartphone/offerte/n665458/samsung-galaxy-s25-fe-256-gb-offerta-fine-lug26/",
       "excerpt": "Il Samsung Galaxy S25 FE da 256 GB è in offerta su Amazon ed è ora disponibile in sconto con un ottimo prezzo.",
@@ -66,87 +183,6 @@
       "publishedAt": "2026-07-26T15:30:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone 17 Pro in sconto su Amazon: è il momento di acquistarlo prima dei rincari di Apple",
-      "link": "https://www.hdblog.it/smartphone/offerte/n665453/iphone-17-pro-offerta-amazon-fine-luglio-2026/",
-      "excerpt": "iPhone 17 Pro è in offerta su Amazon e si conferma come un best buy per chi è alla ricerca di un nuovo smartphone Apple.",
-      "image": "https://hd2.tudocdn.net/1289496?w=660",
-      "publishedAt": "2026-07-26T15:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Ogni pennellata cambia la storia: Epic Mickey Rebrushed è al 40%",
-      "link": "https://www.tomshw.it/offerte/ogni-pennellata-cambia-la-storia-epic-mickey-rebrushed-e-al-40",
-      "excerpt": "Disney Epic Mickey: Rebrushed per Nintendo Switch costa 35,90€ su Amazon: il taglio del 40% rispetto ai 59,99€ di listino lascia 24,09€ in tasca. La distanza dal minimo storico è…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103374/tomshw-offer-600830.png",
-      "publishedAt": "2026-07-26T15:06:15+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Morfius X-rotor: il drone a microonde può abbattere 50 nemici",
-      "link": "https://www.hdblog.it/droni/articoli/n665439/morfius-x-rotor-drone-microonde/",
-      "excerpt": "Morfius X-rotor usa microonde per neutralizzare oltre 50 droni in una sola missione.",
-      "image": "https://hd2.tudocdn.net/1358974?w=660",
-      "publishedAt": "2026-07-26T14:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Soglie fino a 8 cm e 30.000 Pa: MOVA MOBIUS 60 a 799€",
-      "link": "https://www.tomshw.it/offerte/soglie-fino-a-8-cm-e-30000-pa-mova-mobius-60-a-799eur",
-      "excerpt": "MOVA MOBIUS 60 costa 799€ su Amazon, con 500€ di risparmio sul listino di 1.299€ e uno sconto del 38%. I 30.000 Pa di aspirazione si accompagnano a tre mop intercambiabili e a un…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103373/tomshw-offer-600799.png",
-      "publishedAt": "2026-07-26T14:02:58+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Caro carburanti: a San Marino è corsa al pieno",
-      "link": "https://www.hdmotori.it/caro-carburanti-san-marino-pieno/",
-      "excerpt": "I prezzi di benzina e diesel spingono gli automobilisti a San Marino alla ricerca di un risparmio alla pompa, soprattutto in vista delle ferie.",
-      "image": "https://hd2.tudocdn.net/1358976?w=660",
-      "publishedAt": "2026-07-26T14:00:52+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "I Pixel 11 costeranno di più: c'è la conferma di Google",
-      "link": "https://www.hdblog.it/smartphone/articoli/n665448/google-pixel-11-aumento-prezzi-italia-ram-conferma/",
-      "excerpt": "E i rumor ci dicono quali dovrebbero essere i prezzi da noi.",
-      "image": "https://hd2.tudocdn.net/1356977?w=660",
-      "publishedAt": "2026-07-26T13:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "72% in meno sulla GLORIOUS GMMK 3 PRO: minimo a 79,60€",
-      "link": "https://www.tomshw.it/offerte/72-in-meno-sulla-glorious-gmmk-3-pro-minimo-a-7960eur",
-      "excerpt": "GLORIOUS GMMK 3 PRO costa 79,60€ su Amazon: il taglio del 72% rispetto al listino di 279,99€ lascia 200,39€ in tasca e coincide con il minimo mai raggiunto. La combinazione tra…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103372/tomshw-offer-600762.png",
-      "publishedAt": "2026-07-26T13:02:53+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Toyota allunga la vita dei suoi modelli: meno restyling e più aggiornamenti software",
-      "link": "https://www.hdmotori.it/toyota-allunga-vita-modelli-meno-restyling/",
-      "excerpt": "Il colosso giapponese rilascerà meno restyling estetici per estendere la vita dei suoi modelli fino a nove anni, focalizzandosi invece sugli aggiornamenti software.",
-      "image": "https://hd2.tudocdn.net/1358972?w=660",
-      "publishedAt": "2026-07-26T12:30:35+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "La tastiera dura fino a 3 anni: Logitech MK540 a 39,99€",
-      "link": "https://www.tomshw.it/offerte/la-tastiera-dura-fino-a-3-anni-logitech-mk540-a-3999eur",
-      "excerpt": "Logitech MK540 Advanced costa 39,99€ su Amazon, con il 33% di sconto rispetto ai 59,99€ di listino e 20€ risparmiati. È un kit completo che libera la scrivania da due cavi e punta…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103371/tomshw-offer-600719.png",
-      "publishedAt": "2026-07-26T12:03:20+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Neuromante di William Gibson prende vita sullo schermo nel primo trailer ufficiale",
@@ -212,24 +248,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Prime Video: Bezos avrebbe chiesto un redesign globale con IA e Alexa",
-      "link": "https://www.tomshw.it/hardware/prime-video-bezos-avrebbe-chiesto-un-redesign-globale-con-ia-e-alexa",
-      "excerpt": "Una nuova home page capace di adattarsi alle preferenze degli utenti, richieste vocali e una ricerca potenziata da Alexa sarebbero al centro di Project Lighthouse, la…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103202/news-flash-597272.png",
-      "publishedAt": "2026-07-24T13:07:48+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Zimbra, basta visualizzare un'email per rubare posta, password e codici 2FA",
-      "link": "https://www.tomshw.it/altro/zimbra-basta-visualizzare-un-email-per-rubare-posta-password-e-codici-2fa",
-      "excerpt": "È sufficiente visualizzare un’email preparata dagli attaccanti nella Classic UI di Zimbra Collaboration Suite per avviare codice JavaScript, senza cliccare link o aprire allegati.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103203/news-flash-597288.png",
-      "publishedAt": "2026-07-24T13:07:09+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "TikTok nel mirino dell’UE: gli account dei minori non sarebbero abbastanza sicuri",
       "link": "https://images.dday.it/tpDJOeNEGcNooK34mH3IrrW0tsmB83GF7ve79Pj_JpQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58160/99e218_Depositphotos_247379026_XL.jpg",
       "excerpt": "La Commissione Europea ha contestato le impostazioni di privacy della piattaforma, che permettono una visibilità troppo ampia dei contenuti pubblicati dagli adolescenti... Leggi…",
@@ -248,29 +266,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Wi-Fi Priority di TIM: come aumentare i prezzi senza dire che si stanno aumentando i prezzi",
-      "link": "https://images.dday.it/xQb-dFIfnWBZGQ4IJzWzf5oM_qNrtV8dZYv-eDeqYCM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58159/1c253a_Firefly_Gemini_Flash_Al_posto_dell_uscita_sullo_sfondo__fai_vedere_l_infilata_di_scaffali_di_un_supermerca_819614.png",
-      "excerpt": "TIM si inventa il ticket \"salta-code\" per i momenti di fibra congestionata. Ma se le linee restano le stesse e le GPON continuano ad avere 64 utenti concorrenti, non è un upgrade…",
-      "image": "https://images.dday.it/xQb-dFIfnWBZGQ4IJzWzf5oM_qNrtV8dZYv-eDeqYCM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58159/1c253a_Firefly_Gemini_Flash_Al_posto_dell_uscita_sullo_sfondo__fai_vedere_l_infilata_di_scaffali_di_un_supermerca_819614.png",
-      "publishedAt": "2026-07-24T12:32:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Via Lattea: i passaggi solari cambiano la crosta terrestre?",
-      "link": "https://www.tomshw.it/scienze/via-lattea-i-passaggi-del-sistema-solare-nei-bracci-correlati-alla-crosta",
-      "excerpt": "Un ritmo di circa 190 milioni di anni compare nei cambiamenti chimici registrati dagli zirconi più antichi della Terra e coincide con le fasi previste di ingresso del Sistema…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103167/milky-way-arch.jpg",
-      "publishedAt": "2026-07-24T10:08:16+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Ad Ubisoft non importa se la PS sarà digital only",
-      "link": "https://www.tomshw.it/videogioco/nuovi-giochi-playstation-senza-disco-dal-2028-ubisoft-non-teme-contraccolpi",
-      "excerpt": "La fine dei dischi per i nuovi giochi PlayStation, prevista da gennaio 2028, non dovrebbe sconvolgere l’industria videoludica. È la valutazione espressa dal CFO di Ubisoft,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/05/93471/ubisoft-niente-splinb64c5mdrsmfuez8j7bJ.webp",
-      "publishedAt": "2026-07-24T08:52:13+00:00",
+      "title": "Onboarding fornitori in 7 giorni con un workflow n8n e un form qualifica basato su AI",
+      "link": "https://www.tomshw.it/aioperator/onboarding-fornitori-7-giorni-n8n-form-ai",
+      "excerpt": "L'onboarding di un nuovo fornitore, nella maggior parte delle aziende, è ancora un rincorrersi di email, PDF allegati e solleciti telefonici. Il buyer chiede i documenti, il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103125/01-acq05-cover.jpg",
+      "publishedAt": "2026-07-24T09:23:22+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
