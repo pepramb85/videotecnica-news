@@ -1,26 +1,206 @@
 {
-  "generatedAt": "2026-07-27T11:12:07.948784+00:00",
+  "generatedAt": "2026-07-27T14:14:35.535102+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Ad agosto scattano le nuove regole per AI, chatbot e deepfake: più trasparenza",
-      "link": "https://www.hdblog.it/mercato/articoli/n665532/ai-deepfake-nuove-regole-trasparenza-europa/",
-      "excerpt": "Sanzioni sino a 15 milioni di euro o il 3% del fatturato globale, per chi non le rispetta",
-      "image": "https://hd2.tudocdn.net/1327322?w=660",
-      "publishedAt": "2026-07-27T11:10:00+00:00",
+      "title": "In vendita 75 milioni di presunti dati Revolut, ma l'origine resta da verificare",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n665553/75-milioni-presunti-dati-revolut-origine-incerta/",
+      "excerpt": "All’interno sarebbero presenti nomi, indirizzi email, numeri di telefono e altri dati",
+      "image": "https://hd2.tudocdn.net/1359217?w=660",
+      "publishedAt": "2026-07-27T14:01:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "New Glenn accelera: la NASA riapre gli storici banchi del Saturn V",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n665490/nasa-blue-origin-new-glenn-test-stennis/",
-      "excerpt": "NASA e Blue Origin uniscono le forze per preparare le future missioni Artemis sulla Luna.",
-      "image": "https://hd2.tudocdn.net/1359028?w=660",
-      "publishedAt": "2026-07-27T11:05:00+00:00",
+      "title": "Incidente terrificante: spezzata in due una Ferrari SF90 da mezzo milione di euro",
+      "link": "https://www.hdmotori.it/incidente-spezzata-due-ferrari-sf90/",
+      "excerpt": "Nello scontro stradale, avvenuto in Australia, il conducente è uscito illeso, nonostante la dinamica spaventosa che ha spezzato in due parti la Ferrari.",
+      "image": "https://hd2.tudocdn.net/1359218?w=660",
+      "publishedAt": "2026-07-27T14:00:42+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Un appassionato affianca una Tesla V100 alla RTX 4080 per gli LLM",
+      "link": "https://www.tomshw.it/hardware/un-appassionato-affianca-una-tesla-v100-alla-rtx-4080-per-gli-llm",
+      "excerpt": "L'appassionato Oscar Molnar ha installato una NVIDIA Tesla V100 accanto alla GeForce RTX 4080 del proprio PC, creando una configurazione economica dedicata all'inferenza locale…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103576/un-appassionato-affianca-una-tesla-v100-alla-rtx-4080-per-gli-llm.png",
+      "publishedAt": "2026-07-27T13:51:49+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Samsung semplifica il passaggio da iPhone a Galaxy, senza app",
+      "link": "https://www.tomshw.it/smartphone/samsung-semplifica-il-passaggio-da-iphone-a-galaxy-senza-app",
+      "excerpt": "Samsung ha aggiornato la procedura per trasferire dati da iPhone e iPad ai suoi smartphone pieghevoli più recenti. Con One UI 9, il dispositivo Apple non deve più installare…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103563/samsung-semplifica-il-passaggio-da-iphone-a-galaxy-senza-app.png",
+      "publishedAt": "2026-07-27T13:48:27+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La RTX 5060 Ti perde 14 °C con un semplice undervolt",
+      "link": "https://www.tomshw.it/hardware/la-rtx-5060-ti-perde-14-c-con-un-semplice-undervolt",
+      "excerpt": "Una NVIDIA GeForce RTX 5060 Ti sottoposta di recente a undervolt ha registrato una riduzione di 14 °C della temperatura dell'hotspot, accompagnata da un taglio netto dei consumi.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103560/la-rtx-5060-ti-perde-14-c-con-un-semplice-undervolt.png",
+      "publishedAt": "2026-07-27T13:47:20+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Sole e caldo estremo: i prodotti indispensabili per difendere la pelle",
+      "link": "https://www.tomshw.it/altro/sole-e-caldo-estremo-i-prodotti-indispensabili-per-difendere-la-pelle",
+      "excerpt": "L'estate porta con sé giornate lunghe, desiderio di vita all'aria aperta e purtroppo anche temperature record accompagnate da un'irradiazione solare sempre più intensa. Con il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103564/Sole-e-caldo-estremo-i-prodotti-indispensabili-per-difendere-la-pelle.png",
+      "publishedAt": "2026-07-27T13:46:25+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Un computer quantistico ha risolto un limite che sembrava invalicabile",
+      "link": "https://www.tomshw.it/scienze/un-computer-quantistico-ha-risolto-un-limite-che-sembrava-invalicabile",
+      "excerpt": "Un gruppo di ricercatori di Harvard, Quantinuum, University of Chicago e Stony Brook University ha usato il processore Quantinuum H2 per superare un ostacolo del calcolo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103575/un-computer-quantistico-ha-risolto-un-limite-che-sembrava-invalicabile.png",
+      "publishedAt": "2026-07-27T13:45:43+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Per la prima volta un aereo a turboelica con un motore ibrido-elettrico ha volato a 30.000 piedi",
+      "link": "https://images.dday.it/j6_JMv4L0lSticJPEDnOv6YGsEK_Mk-HwUGrd9dcF6A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58180/de6f11_ge_aerospace_epfd.jpg",
+      "excerpt": "Il turboelica svedese Saab 340B non passa i 25.000 piedi. Con un motore ibrido di “classe megawatt” al posto della normale turbina destra è arrivato a 30.000... Leggi tutto",
+      "image": "https://images.dday.it/j6_JMv4L0lSticJPEDnOv6YGsEK_Mk-HwUGrd9dcF6A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58180/de6f11_ge_aerospace_epfd.jpg",
+      "publishedAt": "2026-07-27T13:41:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Amazon Leo chiede 5.105 satelliti per collegare gli smartphone dallo spazio",
+      "link": "https://www.tomshw.it/smartphone/amazon-leo-chiede-alla-fcc-5-105-satelliti-per-collegare-gli-smartphone",
+      "excerpt": "Una rete composta da fino a 5.105 satelliti in orbita bassa potrebbe collegare direttamente smartphone, dispositivi IoT e mezzi operativi senza passare da terminali satellitari…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103569/90.jpg",
+      "publishedAt": "2026-07-27T13:37:15+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Acquista un dispositivo, e HONOR ti regala due voli gratis in Europa",
+      "link": "https://www.tomshw.it/smartphone/honor-regala-due-voli-in-europa-con-estendi-la-tua-estate",
+      "excerpt": "HONOR prova ad allungare le vacanze con una promozione che unisce tecnologia e viaggi. L’iniziativa si chiama “Estendi la tua estate” e consente a chi acquista uno dei prodotti…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/05/94199/honor-600-pro-night-tourism-fotografia-notturna.png",
+      "publishedAt": "2026-07-27T13:35:46+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Nothing smentisce l'addio a 12 mercati, ma qualche taglio c'è: il co-fondatore chiarisce",
+      "link": "https://www.hdblog.it/smartphone/articoli/n665545/nothing-smentisce-addio-12-mercati-ufficiale/",
+      "excerpt": "Il co-fondatore di Nothing smentisce le voci sulla crisi del marchio: niente uscita da 12 mercati, ma alcuni licenziamenti confermati.",
+      "image": "https://hd2.tudocdn.net/1359201?w=660",
+      "publishedAt": "2026-07-27T13:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Digitano il codice e il Pixel si formatta: GrapheneOS finisce in tribunale",
+      "link": "https://www.hdblog.it/smartphone/articoli/n665541/grapheneos-pixel-tribunale-usa/",
+      "excerpt": "Un cittadino di Atlanta è accusato di aver impedito il sequestro del proprio Google Pixel dopo che il dispositivo, con GrapheneOS installato, si sarebbe formattato durante un…",
+      "image": "https://hd2.tudocdn.net/1297385?w=660",
+      "publishedAt": "2026-07-27T13:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Tesla vince in aula e riapre la causa sulle licenze 5G",
+      "link": "https://www.tomshw.it/automotive/tesla-vince-in-aula-e-riapre-la-causa-sulle-licenze-5g",
+      "excerpt": "Tesla ha ottenuto la riapertura nel Regno Unito della causa sulle licenze 5G necessarie per commercializzare automobili connesse. La Suprema Corte britannica ha accolto…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103556/tesla-vince-in-aula-e-riapre-la-causa-sulle-licenze-5g.png",
+      "publishedAt": "2026-07-27T13:14:37+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Dopo il caso Hugging Face, Nvidia punta sull’open source: pronta un'alleanza contro i rischi degli agenti IA",
+      "link": "https://images.dday.it/WUE67a_S4dPS3UQDwJ3l8_0x30kGQGkNQKgZVYEue9E/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58179/66bdd6_Depositphotos_625566110_XL.jpg",
+      "excerpt": "Si chiama Open Secure AI Alliance e riunisce grandi società tecnologiche come Microsoft, SpacexAI, Red Hat e IBM per sviluppare strumenti condivisi con cui controllare, analizzare…",
+      "image": "https://images.dday.it/WUE67a_S4dPS3UQDwJ3l8_0x30kGQGkNQKgZVYEue9E/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58179/66bdd6_Depositphotos_625566110_XL.jpg",
+      "publishedAt": "2026-07-27T13:12:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "NVIDIA guida un'alleanza tra big tech per la difesa dell'AI con strumenti aperti",
+      "link": "https://www.hdblog.it/nvidia/articoli/n665548/nvidia-guida-nuova-alleanza-modelli-aperti/",
+      "excerpt": "NVIDIA ha annunciato la Open Secure AI Alliance",
+      "image": "https://hd2.tudocdn.net/1359208?w=660",
+      "publishedAt": "2026-07-27T13:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Macchine autonome in miniera e logistica: cosa cambia per chi le integra",
+      "link": "https://www.tomshw.it/business/macchine-autonome-in-miniera-e-logistica-cosa-cambia-per-chi-le-integra",
+      "excerpt": "Atoms, la società fondata dall'ex amministratore delegato di Uber Travis Kalanick, ha raccolto 1,7 miliardi di dollari per sviluppare robotica, automazione fisica e IA industriale…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103533/la-robotica-industriale-accelera-17-miliardi-ad-atoms-con-uber-di-nuovo-da-kalanick.png",
+      "publishedAt": "2026-07-27T13:02:25+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Subaru, basta auto noiose: si torna alla sportività di un tempo",
+      "link": "https://www.hdmotori.it/subaru-ritorno-auto-sportive/",
+      "excerpt": "Il marchio dell'ammasso stellare delle Pleiadi nella costellazione del Toro vuol tornare a far sognare gli appassionati.",
+      "image": "https://hd2.tudocdn.net/1359207?w=660",
+      "publishedAt": "2026-07-27T13:00:29+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nanoleaf presenta un supporto per monitor con illuminazione smart integrata | Prezzo",
+      "link": "https://www.hdblog.it/hardware/articoli/n665539/nanoleaf-supporto-monitor-illuminato-smart/",
+      "excerpt": "Il nuovo Smart LED Monitor Stand di Nanoleaf combina ergonomia e illuminazione intelligente. Solleva il monitor, integra effetti RGB indirizzabili, supporta Matter e consente di…",
+      "image": "https://hd2.tudocdn.net/1359187?w=660",
+      "publishedAt": "2026-07-27T12:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "F1, il flop Ferrari glorifica Kimi Antonelli: il Mondiale non è più un’utopia",
+      "link": "https://www.hdmotori.it/f1-flop-ferrari-kimi-antonelli-mondiale/",
+      "excerpt": "Kimi Antonelli ha concluso sul terzo gradino del podio in Ungheria, ampliando il vantaggio su Hamilton in classifica piloti.",
+      "image": "https://hd2.tudocdn.net/1359200?w=660",
+      "publishedAt": "2026-07-27T12:30:44+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung e Broadcom, accordo miliardario su chip, memorie e packaging avanzato",
+      "link": "https://www.hdblog.it/hardware/articoli/n665536/samsung-broadcoam-accordo-ai/",
+      "excerpt": "Samsung potrebbe diventare uno dei principali partner industriali di Broadcom grazie a un accordo strategico che coinvolge memorie, produzione di semiconduttori e packaging.…",
+      "image": "https://hd2.tudocdn.net/1233467?w=660",
+      "publishedAt": "2026-07-27T12:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Minecraft Java Edition, aumentano per la prima volta in 17 anni i requisiti minimi",
+      "link": "https://www.hdblog.it/microsoft/articoli/n665543/minecraft-requisiti-minimi-aumenti/",
+      "excerpt": "Colpa del passaggio da OpenGL a Vulkan. Sono comunque specifiche estremamente modeste.",
+      "image": "https://hd2.tudocdn.net/1359198?w=660",
+      "publishedAt": "2026-07-27T12:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Migliori proiettori economici (luglio 2026)",
+      "link": "https://www.tomshw.it/altro/migliori-proiettori-economici",
+      "excerpt": "Chi vuole uno schermo grande senza arrivare al costo di una TV molto ampia finisce quasi sempre per guardare ai proiettori economici. Il problema è che questa fascia è anche la…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/90527/migliori-proiettori-economici-copertina.jpg",
+      "publishedAt": "2026-07-27T11:15:14+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Labrousse (AD di Sony Italia) sarà il numero uno europeo di Bravia Inc : \"Voglio che il DNA Sony resti vivo\"",
@@ -32,78 +212,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Mercedes-Benz Marco Polo: arriva la versione MY2026",
-      "link": "https://www.hdmotori.it/mercedes-benz-marco-polo-versione-2026/",
-      "excerpt": "Tanti gli aggiornamenti per il Marco Polo 2026, che si conferma un campervan con soluzioni intelligenti e glamour, progettato per coniugare il viaggio con l’utilizzo quotidiano.",
-      "image": "https://hd2.tudocdn.net/1359185?w=660",
-      "publishedAt": "2026-07-27T11:00:16+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Bentley Torcal, la prima elettrica apre una gamma tutta sua",
-      "link": "https://www.tomshw.it/automotive/bentley-prepara-la-sua-prima-elettrica-il-lusso-cambia-strada",
-      "excerpt": "Bentley è entrata nella fase finale dei preparativi per il lancio della Torcal, la prima auto completamente elettrica di serie nella storia della casa britannica. La presentazione…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103517/bentley-prepara-la-sua-prima-elettrica-il-lusso-cambia-strada.png",
-      "publishedAt": "2026-07-27T10:59:02+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Apple TV svela il teaser di Neuromancer: il classico cyberpunk prende forma",
-      "link": "https://www.hdblog.it/apple/articoli/n665522/neuromancer-serie-apple-tv-teaser/",
-      "excerpt": "Apple TV+ mostra il primo teaser di Neuromancer, la serie tratta dal romanzo di William Gibson.",
-      "image": "https://hd2.tudocdn.net/1359173?w=660",
-      "publishedAt": "2026-07-27T10:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Vivo X300 E avrà una maxi batteria e un chip da fascia alta",
-      "link": "https://www.tomshw.it/smartphone/china-telecom-svela-il-chip-di-vivo-x300-e-e-lo-snapdragon-8-gen-5",
-      "excerpt": "Vivo ha confermato che il nuovo Vivo X300 E sarà equipaggiato con lo Snapdragon 8 Gen 5. L'informazione arriva prima della presentazione in Cina ed è accompagnata da una scheda…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103515/china-telecom-svela-il-chip-di-vivo-x300-e-e-lo-snapdragon-8-gen-5.png",
-      "publishedAt": "2026-07-27T10:50:08+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Sony dice addio ai giochi su disco, poi elogia il vinile: la reazione è inevitabile",
-      "link": "https://www.hdblog.it/sony/articoli/n665514/sony-giochi-disco-vinile-reazione-inevitabile/",
-      "excerpt": "La promozione di un giradischi Sony riaccende le proteste per l'addio ai giochi fisici su PlayStation, ma parlare di ipocrisia è corretto?",
-      "image": "https://hd2.tudocdn.net/1359136?w=660",
-      "publishedAt": "2026-07-27T10:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il prossimo Snapdragon potrebbe rendere i giochi più fluidi con l'AI",
-      "link": "https://www.tomshw.it/hardware/il-prossimo-snapdragon-potrebbe-rendere-i-giochi-piu-fluidi-con-lai",
-      "excerpt": "Qualcomm starebbe preparando una funzione grafica basata sull’intelligenza artificiale per il presunto Snapdragon 8 Elite Gen 6 Pro. Il nuovo SoC mobile potrebbe combinare…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103512/il-prossimo-snapdragon-potrebbe-rendere-i-giochi-piu-fluidi-con-l-ai.png",
-      "publishedAt": "2026-07-27T10:44:23+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Le batterie usate nascondono un tesoro: lo possiamo recuperare",
-      "link": "https://www.hdblog.it/mercato/articoli/n665502/ai-riciclo-batterie-litio/",
-      "excerpt": "Un sistema AI vuole recuperare fino all'80% dei metalli preziosi dalle batterie esauste.",
-      "image": "https://hd2.tudocdn.net/1359147?w=660",
-      "publishedAt": "2026-07-27T10:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Apple Upgrade è ormai pronto: domani il debutto del nuovo programma",
-      "link": "https://www.hdblog.it/apple/articoli/n665528/apple-upgrade-lancio-cose-noleggio/",
-      "excerpt": "Apple dovrebbe presentare il 28 luglio il nuovo programma Apple Upgrade, destinato a sostituire iPhone Upgrade Program. L'iniziativa includerà anche iPad, Mac e Apple Watch con…",
-      "image": "https://hd2.tudocdn.net/1147909?w=660",
-      "publishedAt": "2026-07-27T10:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Dazi UE più pesanti per le ibride plug-in cinesi. La richiesta di Volkswagen",
       "link": "https://images.dday.it/z97lA92yWNxnnJZ_Naq9VSKPPW7_il64sRVkhU_Inoo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58178/15f8c0_vw_thumb.jpg",
       "excerpt": "Nel primo semestre i marchi cinesi hanno conquistato il 28,3% del mercato europeo delle ibride plug-in. Per questo Oliver Blume, amministratore delegato di Volkswagen, sollecita…",
@@ -111,51 +219,6 @@
       "publishedAt": "2026-07-27T10:23:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "App IO, c'è un messaggio sul Fascicolo Sanitario Elettronico: cosa significa",
-      "link": "https://www.hdblog.it/smartphone/articoli/n665525/app-io-fascicolo-sanitario-elettronico/",
-      "excerpt": "Il messaggio è comparso su app IO",
-      "image": "https://hd2.tudocdn.net/1359174?w=660",
-      "publishedAt": "2026-07-27T10:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "GTA 6, le copie \"fisiche\" giapponesi avranno una data di scadenza corta su PS5",
-      "link": "https://www.hdblog.it/games/articoli/n665515/gta-6-copie-ps5-giappone-data-scadenza/",
-      "excerpt": "Il codice nelle confezioni non durerà per sempre, meglio registrarlo subito",
-      "image": "https://hd2.tudocdn.net/1353141?w=660",
-      "publishedAt": "2026-07-27T10:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "GitHub rivoluziona Dependabot: sicurezza sempre prioritaria",
-      "link": "https://www.tomshw.it/hardware/github-dependabot-update-ordinari-dopo-72-ore-quelli-di-sicurezza-subito",
-      "excerpt": "GitHub Dependabot attende ora almeno 72 ore dalla pubblicazione di una nuova versione prima di aprire una pull request per un normale aggiornamento delle dipendenze. Il cooldown…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103508/news-flash-602318.png",
-      "publishedAt": "2026-07-27T10:14:09+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Google Pixel 10 Pro, sconto di 400€: 7 anni di update e l'AI di Gemini",
-      "link": "https://www.hdblog.it/smartphone/offerte/n665516/google-pixel-10-pro-sconto-400e-amazon/",
-      "excerpt": "Amazon sconta di 400€ la versione da 128GB del Google Pixel 10 Pro.",
-      "image": "https://hd2.tudocdn.net/1309365?w=660",
-      "publishedAt": "2026-07-27T10:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il processore delle WH-1000XM5 a 99,49€: Sony ULT WEAR su Amazon",
-      "link": "https://www.tomshw.it/offerte/il-processore-delle-wh-1000xm5-a-9949eur-sony-ult-wear-su-amazon",
-      "excerpt": "Sony ULT WEAR a 99,49€ su Amazon taglia di 49,51€ il listino di 149€, con uno sconto del 33%. A gestire cancellazione del rumore e resa sonora c’è lo stesso processore delle Sony…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103506/tomshw-offer-602311.png",
-      "publishedAt": "2026-07-27T10:03:03+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Nanoleaf ha lo stand smart per monitor con 102 LED",
@@ -203,74 +266,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Sorvegliare i lavoratori usando l'AI è un fallimento annunciato (come tutta la sorveglianza)",
-      "link": "https://www.tomshw.it/business/sorvegliare-i-lavoratori-usando-lai-e-un-fallimento-annunciato-come-tutta-la-sorveglianza",
-      "excerpt": "Alle nove del mattino un impiegato muove il mouse ogni paio di minuti anche quando non sta lavorando davvero. Alle diciotto tiene aperta una scheda del browser che non userà più,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103449/03-sorveglianza-ai-lavoro-cover.jpg",
-      "publishedAt": "2026-07-27T08:05:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Chi ha competenza AI può avere uno stipendio più alto (ma non è facile)",
-      "link": "https://www.tomshw.it/business/chi-ha-competenza-ai-puo-avere-uno-stipendio-piu-alto-ma-non-e-facile",
-      "excerpt": "Tre aziende su quattro pensano che, entro uno o due anni, saper usare l'AI diventerà un requisito minimo per qualunque ruolo, non solo per chi scrive codice. È il tipo di numero…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103448/02-competenze-ai-lavoro-cover.jpg",
-      "publishedAt": "2026-07-27T08:05:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori auricolari con cancellazione del rumore (luglio 2026)",
-      "link": "https://www.tomshw.it/altro/auricolari-cancellazione-del-rumore-attiva-anc",
-      "excerpt": "Se state cercando un paio di auricolari con cancellazione del rumore attiva, il punto non è più capire se l'ANC sia una funzione utile: ormai è una delle ragioni principali per…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/90464/migliori-auricolari-cancellazione-rumore-copertina.jpg",
-      "publishedAt": "2026-07-27T06:33:05+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori macchine per il caffè (luglio 2026)",
-      "link": "https://www.tomshw.it/guide/migliori-macchine-caffe",
-      "excerpt": "Scegliere una macchina da caffè non significa soltanto decidere quanto spendere: conta soprattutto come bevete il caffè ogni giorno, quante persone la useranno, quanta…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/90480/migliori-macchine-caffe-copertina.jpg",
-      "publishedAt": "2026-07-27T06:20:25+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "A che ora esce oggi Forsaken Realms: Vahrin's Call in Italia e dove scaricarlo",
-      "link": "https://www.tomshw.it/videogioco/a-che-ora-esce-oggi-forsaken-realms-vahrins-call-in-italia-e-dove-scaricarlo",
-      "excerpt": "Forsaken Realms: Vahrin's Call esce oggi, 27 luglio 2026, alle 17:00 CEST in Italia su Steam per PC. È un gioco a pagamento: per accedere bisogna acquistarlo dalla pagina Steam,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103385/dqv-toms-cover-601201-2.png",
-      "publishedAt": "2026-07-27T06:13:27+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Perché i modelli IA “open” sono diventati una questione di sicurezza nazionale americana?",
       "link": "https://images.dday.it/6uAREFKNPLQoDAfcvXpAz2r08yYXyN_qB1XNKjJzmlw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58170/4decad_ChatGPT_Image_26_lug_2026__19_15_44.png",
       "excerpt": "Oltre 70 aziende tech hanno scritto a Washington per difendere i modelli scaricabili proprio mentre l'amministrazione minaccia di bandire quelli cinesi. Ma un attacco cyber…",
       "image": "https://images.dday.it/6uAREFKNPLQoDAfcvXpAz2r08yYXyN_qB1XNKjJzmlw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58170/4decad_ChatGPT_Image_26_lug_2026__19_15_44.png",
       "publishedAt": "2026-07-27T06:00:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Neuromante di William Gibson prende vita sullo schermo nel primo trailer ufficiale",
-      "link": "https://images.dday.it/hKr4ZdeL2g3r1vic7QFuIWUau3DFTXf2fnwcuic1H3w/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58169/c23c81_Screenshot_2026-07-26_alle_00.51.00.png",
-      "excerpt": "Apple TV ha pubblicato il primo trailer dell'atteso adattamento del romanzo fondante del genere cyberpunk. Debutterà in streaming il 22 gennaio... Leggi tutto",
-      "image": "https://images.dday.it/hKr4ZdeL2g3r1vic7QFuIWUau3DFTXf2fnwcuic1H3w/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58169/c23c81_Screenshot_2026-07-26_alle_00.51.00.png",
-      "publishedAt": "2026-07-26T07:25:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Con il lancio di Opus 5 Anthropic ha ucciso Fable 5, che costa il doppio e offre ormai pochissimo di più",
-      "link": "https://images.dday.it/7JveRPmtOyPoW_lChpGSkvirLmn1oK6RQJea6WxM0gc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58168/c8e128_Screenshot_2026-07-25_alle_10.22.58.png",
-      "excerpt": "Il nuovo modello di Anthropic compie un salto generazionale, supera Fable 5 in diversi test, non usa crediti nei piani a pagamento e costa la metà. Fable 5 ormai ha senso solo per…",
-      "image": "https://images.dday.it/7JveRPmtOyPoW_lChpGSkvirLmn1oK6RQJea6WxM0gc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58168/c8e128_Screenshot_2026-07-25_alle_10.22.58.png",
-      "publishedAt": "2026-07-25T09:09:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
