@@ -1,107 +1,251 @@
 {
-  "generatedAt": "2026-07-27T06:56:13.066010+00:00",
+  "generatedAt": "2026-07-27T11:12:07.948784+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Questo rack con 1800 SSD offre 1000 Petabyte di spazio",
-      "link": "https://www.tomshw.it/hardware/weka-promette-1000-pb-in-un-rack-con-1800-ssd-micron",
-      "excerpt": "Weka ha presentato Prime Max, la configurazione di punta della nuova piattaforma WEKApod 3, dichiarando una capacità effettiva di 1,1 exabyte all'interno di un singolo rack 56U.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103399/weka-promette-1-000-pb-in-un-rack-con-1-800-ssd-micron.png",
-      "publishedAt": "2026-07-27T06:48:52+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Metallo liquido sulla Radeon RX 9070 XT: come vanno le temperature?",
-      "link": "https://www.tomshw.it/hardware/il-metallo-liquido-avvicina-hotspot-e-vram-sulla-radeon-rx-9070-xt",
-      "excerpt": "Il proprietario di una AMD Radeon RX 9070 XT ha testato la scheda sostituendo il materiale termico con del metallo liquido, ottenendo temperature quasi sovrapposte tra il punto…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103393/il-metallo-liquido-avvicina-hotspot-e-vram-sulla-radeon-rx-9070-xt.png",
-      "publishedAt": "2026-07-27T06:45:37+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Minecraft alza i requisiti PC per la prima volta in 17 anni",
-      "link": "https://www.tomshw.it/videogioco/minecraft-alza-i-requisiti-pc-per-la-prima-volta-in-17-anni",
-      "excerpt": "Microsoft ha alzato per la prima volta in 17 anni i requisiti hardware di Minecraft: Java Edition, aggiornando le configurazioni minime e raccomandate per PC, Mac e sistemi Linux.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103389/minecraft-alza-i-requisiti-pc-per-la-prima-volta-in-17-anni.png",
-      "publishedAt": "2026-07-27T06:41:50+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Pompei rivive su Disney+: Tom Hiddleston indaga le ultime ore della città",
-      "link": "https://www.hdblog.it/spettacolo/articoli/n665477/pompei-fuori-dal-tempo-tom-hiddleston/",
-      "excerpt": "Tom Hiddleston guida un'indagine sulle ultime ore di Pompei nel nuovo docudrama Disney+.",
-      "image": "https://hd2.tudocdn.net/1359008?w=660",
-      "publishedAt": "2026-07-27T06:40:00+00:00",
+      "title": "Ad agosto scattano le nuove regole per AI, chatbot e deepfake: più trasparenza",
+      "link": "https://www.hdblog.it/mercato/articoli/n665532/ai-deepfake-nuove-regole-trasparenza-europa/",
+      "excerpt": "Sanzioni sino a 15 milioni di euro o il 3% del fatturato globale, per chi non le rispetta",
+      "image": "https://hd2.tudocdn.net/1327322?w=660",
+      "publishedAt": "2026-07-27T11:10:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "I denti a sciabola potrebbero aver avuto un problema nascosto",
-      "link": "https://www.tomshw.it/scienze/i-denti-a-sciabola-potrebbero-aver-avuto-un-problema-nascosto",
-      "excerpt": "Un gruppo di ricercatori coordinato dal veterinario Hugo Schmökel ha individuato in tre vertebre fossili di Smilodon fatalis alterazioni compatibili con tumori dei nervi spinali.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103418/i-denti-a-sciabola-potrebbero-aver-avuto-un-problema-nascosto.png",
-      "publishedAt": "2026-07-27T06:39:35+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "I tuoi occhi potrebbero avere un antenato davvero insolito",
-      "link": "https://www.tomshw.it/scienze/i-tuoi-occhi-potrebbero-avere-un-antenato-davvero-insolito",
-      "excerpt": "Ricercatori della Lund University e della University of Sussex hanno ricostruito un possibile passaggio nell'evoluzione della vista: l'antenato dei vertebrati avrebbe…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103415/i-tuoi-occhi-potrebbero-avere-un-antenato-davvero-insolito.png",
-      "publishedAt": "2026-07-27T06:36:19+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "I delfini si chiamano per nome? Una nuova analisi alza l'asticella",
-      "link": "https://www.tomshw.it/scienze/i-delfini-si-chiamano-per-nome-una-nuova-analisi-alza-lasticella",
-      "excerpt": "Kelly Jaakkola del Dolphin Research Center, Stephanie King dell'Università di Bristol e Jason Bruck della Stephen F. Austin State University hanno pubblicato su Trends in…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103413/i-delfini-si-chiamano-per-nome-una-nuova-analisi-alza-l-asticella.png",
-      "publishedAt": "2026-07-27T06:32:05+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Una nuova tecnica rende il tumore alla prostata più visibile",
-      "link": "https://www.tomshw.it/scienze/il-tumore-alla-prostata-si-nasconde-crispr-prova-a-smascherarlo",
-      "excerpt": "Un gruppo guidato da ricercatori della Duke University School of Medicine, con il contributo della University of Rochester Medicine, ha sperimentato una tecnologia basata su…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103410/il-tumore-alla-prostata-si-nasconde-crispr-prova-a-smascherarlo.png",
-      "publishedAt": "2026-07-27T06:31:36+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Adolescenti impulsivi? Il contesto sociale conta più del previsto",
-      "link": "https://www.tomshw.it/scienze/il-cervello-adolescente-sembra-impulsivo-ma-ce-un-motivo",
-      "excerpt": "Evelyn Svingen, criminologa dell’Università di Birmingham, ha pubblicato di recente una nuova sintesi delle evidenze sul comportamento degli adolescenti: molte scelte che agli…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103407/il-cervello-adolescente-sembra-impulsivo-ma-c-e-un-motivo.png",
-      "publishedAt": "2026-07-27T06:24:02+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Un RNA umano potrebbe sbloccare l’energia nascosta nelle cellule",
-      "link": "https://www.tomshw.it/scienze/un-rna-umano-potrebbe-sbloccare-lenergia-nascosta-nelle-cellule",
-      "excerpt": "Un gruppo di ricerca della Ohio State University ha identificato nelle cellule umane una molecola di RNA non codificante capace di legarsi all’ATP, la principale valuta energetica…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103402/un-rna-umano-potrebbe-sbloccare-l-energia-nascosta-nelle-cellule.png",
-      "publishedAt": "2026-07-27T06:22:18+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Apple, gli occhiali smart alla WWDC del 2027: ma la vera sfida sarà la privacy",
-      "link": "https://www.hdblog.it/indossabili/articoli/n665478/apple-prepara-smart-glass-wwdc-2027/",
-      "excerpt": "Apple punta a presentare i suoi primi occhiali smart nel corso della WWDC che si terrà a giugno del 2027",
-      "image": "https://hd2.tudocdn.net/1359015?w=660",
-      "publishedAt": "2026-07-27T06:20:00+00:00",
+      "title": "New Glenn accelera: la NASA riapre gli storici banchi del Saturn V",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n665490/nasa-blue-origin-new-glenn-test-stennis/",
+      "excerpt": "NASA e Blue Origin uniscono le forze per preparare le future missioni Artemis sulla Luna.",
+      "image": "https://hd2.tudocdn.net/1359028?w=660",
+      "publishedAt": "2026-07-27T11:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Labrousse (AD di Sony Italia) sarà il numero uno europeo di Bravia Inc : \"Voglio che il DNA Sony resti vivo\"",
+      "link": "https://images.dday.it/EzVfxCkDIwtv9f0WvzXgkIk4eCukywe5athM70fwWNM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58171/b1a752_DSC08663.jpg",
+      "excerpt": "In un'intervista esclusiva, Stéphane Labrousse, amministratore delegato di Sony Italia, racconta a DDAY come si sta formando la nuova Bravia Inc che incorporerà l'intero business…",
+      "image": "https://images.dday.it/EzVfxCkDIwtv9f0WvzXgkIk4eCukywe5athM70fwWNM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58171/b1a752_DSC08663.jpg",
+      "publishedAt": "2026-07-27T11:01:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Mercedes-Benz Marco Polo: arriva la versione MY2026",
+      "link": "https://www.hdmotori.it/mercedes-benz-marco-polo-versione-2026/",
+      "excerpt": "Tanti gli aggiornamenti per il Marco Polo 2026, che si conferma un campervan con soluzioni intelligenti e glamour, progettato per coniugare il viaggio con l’utilizzo quotidiano.",
+      "image": "https://hd2.tudocdn.net/1359185?w=660",
+      "publishedAt": "2026-07-27T11:00:16+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Bentley Torcal, la prima elettrica apre una gamma tutta sua",
+      "link": "https://www.tomshw.it/automotive/bentley-prepara-la-sua-prima-elettrica-il-lusso-cambia-strada",
+      "excerpt": "Bentley è entrata nella fase finale dei preparativi per il lancio della Torcal, la prima auto completamente elettrica di serie nella storia della casa britannica. La presentazione…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103517/bentley-prepara-la-sua-prima-elettrica-il-lusso-cambia-strada.png",
+      "publishedAt": "2026-07-27T10:59:02+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Apple TV svela il teaser di Neuromancer: il classico cyberpunk prende forma",
+      "link": "https://www.hdblog.it/apple/articoli/n665522/neuromancer-serie-apple-tv-teaser/",
+      "excerpt": "Apple TV+ mostra il primo teaser di Neuromancer, la serie tratta dal romanzo di William Gibson.",
+      "image": "https://hd2.tudocdn.net/1359173?w=660",
+      "publishedAt": "2026-07-27T10:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Vivo X300 E avrà una maxi batteria e un chip da fascia alta",
+      "link": "https://www.tomshw.it/smartphone/china-telecom-svela-il-chip-di-vivo-x300-e-e-lo-snapdragon-8-gen-5",
+      "excerpt": "Vivo ha confermato che il nuovo Vivo X300 E sarà equipaggiato con lo Snapdragon 8 Gen 5. L'informazione arriva prima della presentazione in Cina ed è accompagnata da una scheda…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103515/china-telecom-svela-il-chip-di-vivo-x300-e-e-lo-snapdragon-8-gen-5.png",
+      "publishedAt": "2026-07-27T10:50:08+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Sony dice addio ai giochi su disco, poi elogia il vinile: la reazione è inevitabile",
+      "link": "https://www.hdblog.it/sony/articoli/n665514/sony-giochi-disco-vinile-reazione-inevitabile/",
+      "excerpt": "La promozione di un giradischi Sony riaccende le proteste per l'addio ai giochi fisici su PlayStation, ma parlare di ipocrisia è corretto?",
+      "image": "https://hd2.tudocdn.net/1359136?w=660",
+      "publishedAt": "2026-07-27T10:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il prossimo Snapdragon potrebbe rendere i giochi più fluidi con l'AI",
+      "link": "https://www.tomshw.it/hardware/il-prossimo-snapdragon-potrebbe-rendere-i-giochi-piu-fluidi-con-lai",
+      "excerpt": "Qualcomm starebbe preparando una funzione grafica basata sull’intelligenza artificiale per il presunto Snapdragon 8 Elite Gen 6 Pro. Il nuovo SoC mobile potrebbe combinare…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103512/il-prossimo-snapdragon-potrebbe-rendere-i-giochi-piu-fluidi-con-l-ai.png",
+      "publishedAt": "2026-07-27T10:44:23+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Le batterie usate nascondono un tesoro: lo possiamo recuperare",
+      "link": "https://www.hdblog.it/mercato/articoli/n665502/ai-riciclo-batterie-litio/",
+      "excerpt": "Un sistema AI vuole recuperare fino all'80% dei metalli preziosi dalle batterie esauste.",
+      "image": "https://hd2.tudocdn.net/1359147?w=660",
+      "publishedAt": "2026-07-27T10:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple Upgrade è ormai pronto: domani il debutto del nuovo programma",
+      "link": "https://www.hdblog.it/apple/articoli/n665528/apple-upgrade-lancio-cose-noleggio/",
+      "excerpt": "Apple dovrebbe presentare il 28 luglio il nuovo programma Apple Upgrade, destinato a sostituire iPhone Upgrade Program. L'iniziativa includerà anche iPad, Mac e Apple Watch con…",
+      "image": "https://hd2.tudocdn.net/1147909?w=660",
+      "publishedAt": "2026-07-27T10:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Dazi UE più pesanti per le ibride plug-in cinesi. La richiesta di Volkswagen",
+      "link": "https://images.dday.it/z97lA92yWNxnnJZ_Naq9VSKPPW7_il64sRVkhU_Inoo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58178/15f8c0_vw_thumb.jpg",
+      "excerpt": "Nel primo semestre i marchi cinesi hanno conquistato il 28,3% del mercato europeo delle ibride plug-in. Per questo Oliver Blume, amministratore delegato di Volkswagen, sollecita…",
+      "image": "https://images.dday.it/z97lA92yWNxnnJZ_Naq9VSKPPW7_il64sRVkhU_Inoo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58178/15f8c0_vw_thumb.jpg",
+      "publishedAt": "2026-07-27T10:23:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "App IO, c'è un messaggio sul Fascicolo Sanitario Elettronico: cosa significa",
+      "link": "https://www.hdblog.it/smartphone/articoli/n665525/app-io-fascicolo-sanitario-elettronico/",
+      "excerpt": "Il messaggio è comparso su app IO",
+      "image": "https://hd2.tudocdn.net/1359174?w=660",
+      "publishedAt": "2026-07-27T10:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "GTA 6, le copie \"fisiche\" giapponesi avranno una data di scadenza corta su PS5",
+      "link": "https://www.hdblog.it/games/articoli/n665515/gta-6-copie-ps5-giappone-data-scadenza/",
+      "excerpt": "Il codice nelle confezioni non durerà per sempre, meglio registrarlo subito",
+      "image": "https://hd2.tudocdn.net/1353141?w=660",
+      "publishedAt": "2026-07-27T10:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "GitHub rivoluziona Dependabot: sicurezza sempre prioritaria",
+      "link": "https://www.tomshw.it/hardware/github-dependabot-update-ordinari-dopo-72-ore-quelli-di-sicurezza-subito",
+      "excerpt": "GitHub Dependabot attende ora almeno 72 ore dalla pubblicazione di una nuova versione prima di aprire una pull request per un normale aggiornamento delle dipendenze. Il cooldown…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103508/news-flash-602318.png",
+      "publishedAt": "2026-07-27T10:14:09+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Google Pixel 10 Pro, sconto di 400€: 7 anni di update e l'AI di Gemini",
+      "link": "https://www.hdblog.it/smartphone/offerte/n665516/google-pixel-10-pro-sconto-400e-amazon/",
+      "excerpt": "Amazon sconta di 400€ la versione da 128GB del Google Pixel 10 Pro.",
+      "image": "https://hd2.tudocdn.net/1309365?w=660",
+      "publishedAt": "2026-07-27T10:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il processore delle WH-1000XM5 a 99,49€: Sony ULT WEAR su Amazon",
+      "link": "https://www.tomshw.it/offerte/il-processore-delle-wh-1000xm5-a-9949eur-sony-ult-wear-su-amazon",
+      "excerpt": "Sony ULT WEAR a 99,49€ su Amazon taglia di 49,51€ il listino di 149€, con uno sconto del 33%. A gestire cancellazione del rumore e resa sonora c’è lo stesso processore delle Sony…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103506/tomshw-offer-602311.png",
+      "publishedAt": "2026-07-27T10:03:03+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Nanoleaf ha lo stand smart per monitor con 102 LED",
+      "link": "https://images.dday.it/bGPyaaiYnqK7SLfEB9rmCvAi-TYCMqOfJeWaOHteKGo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58176/446f67_cove_rScreenshot_2026-07-27_alle_11.18.36_copia.png",
+      "excerpt": "È un componente d’arredo che supporta monitor da 17 a 49 pollici e che, in puro stile Nanoleaf, non poteva non essere riempito di LED... Leggi tutto",
+      "image": "https://images.dday.it/bGPyaaiYnqK7SLfEB9rmCvAi-TYCMqOfJeWaOHteKGo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58176/446f67_cove_rScreenshot_2026-07-27_alle_11.18.36_copia.png",
+      "publishedAt": "2026-07-27T09:28:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Apple potrebbe rinviare gli occhiali smart al 2027 per ragioni di privacy. La fotocamera potrebbe non fare foto e video",
+      "link": "https://images.dday.it/UWw7pPsQ3lxRzJJzDBjIQPO3L-p6BhT1xrAUyfn259s/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58173/f09d05_ChatGPT_Image_27_lug_2026__09_56_34.png",
+      "excerpt": "Il progetto N50 slitterebbe alla WWDC di giugno 2027. Per Bloomberg il ritardo è dovuto al confronto con le polemiche legali sui Ray-Ban Meta e la privacy... Leggi tutto",
+      "image": "https://images.dday.it/UWw7pPsQ3lxRzJJzDBjIQPO3L-p6BhT1xrAUyfn259s/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58173/f09d05_ChatGPT_Image_27_lug_2026__09_56_34.png",
+      "publishedAt": "2026-07-27T08:32:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Cerchi un TV Mini LED? Il nuovo LG QNED87B è ora in offerta su Amazon",
+      "link": "https://images.dday.it/gTS8k7Q_hmw2PaRx0GQig-6E412b9Ouqe3MC5gY9Gsk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58174/3a36b7_91rJK5UxxuL._AC_SL1500_.jpg",
+      "excerpt": "Se vuoi fare un salto di qualità senza spendere troppo, questo LG QNED evo AI Mini LED è tra le offerte più interessanti del momento su Amazon... Leggi tutto",
+      "image": "https://images.dday.it/gTS8k7Q_hmw2PaRx0GQig-6E412b9Ouqe3MC5gY9Gsk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58174/3a36b7_91rJK5UxxuL._AC_SL1500_.jpg",
+      "publishedAt": "2026-07-27T08:31:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Caro carburanti, il Governo prepara un decreto ponte: intervento sul gasolio e poi accisa mobile",
+      "link": "https://images.dday.it/n4MsY4vIEPKmpgRjHslXox9WlN9aQibDKuTgGv7_9iw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58175/f64eba_carburanti_thumb.jpg",
+      "excerpt": "Il Consiglio dei Ministri è atteso oggi pomeriggio per approvare una prima misura. Il diesel ha raggiunto 2,185 euro al litro in modalità self, vicino ai massimi del 2022... Leggi…",
+      "image": "https://images.dday.it/n4MsY4vIEPKmpgRjHslXox9WlN9aQibDKuTgGv7_9iw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58175/f64eba_carburanti_thumb.jpg",
+      "publishedAt": "2026-07-27T08:31:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "L'attacco a Hugging Face sarebbe durato giorni, prima che OpenAI se ne accorgesse",
+      "link": "https://images.dday.it/59rqmFVKNPJjEdQ1mSejio7v-4SwICJ75Jk_Mro_TmY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58172/478362_Depositphotos_639979036_XL.jpg",
+      "excerpt": "L'FBI sarebbe stato avvertito da Hugging Face prima ancora che OpenAI se ne accorgesse... Leggi tutto",
+      "image": "https://images.dday.it/59rqmFVKNPJjEdQ1mSejio7v-4SwICJ75Jk_Mro_TmY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58172/478362_Depositphotos_639979036_XL.jpg",
+      "publishedAt": "2026-07-27T08:06:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Sorvegliare i lavoratori usando l'AI è un fallimento annunciato (come tutta la sorveglianza)",
+      "link": "https://www.tomshw.it/business/sorvegliare-i-lavoratori-usando-lai-e-un-fallimento-annunciato-come-tutta-la-sorveglianza",
+      "excerpt": "Alle nove del mattino un impiegato muove il mouse ogni paio di minuti anche quando non sta lavorando davvero. Alle diciotto tiene aperta una scheda del browser che non userà più,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103449/03-sorveglianza-ai-lavoro-cover.jpg",
+      "publishedAt": "2026-07-27T08:05:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Chi ha competenza AI può avere uno stipendio più alto (ma non è facile)",
+      "link": "https://www.tomshw.it/business/chi-ha-competenza-ai-puo-avere-uno-stipendio-piu-alto-ma-non-e-facile",
+      "excerpt": "Tre aziende su quattro pensano che, entro uno o due anni, saper usare l'AI diventerà un requisito minimo per qualunque ruolo, non solo per chi scrive codice. È il tipo di numero…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103448/02-competenze-ai-lavoro-cover.jpg",
+      "publishedAt": "2026-07-27T08:05:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori auricolari con cancellazione del rumore (luglio 2026)",
+      "link": "https://www.tomshw.it/altro/auricolari-cancellazione-del-rumore-attiva-anc",
+      "excerpt": "Se state cercando un paio di auricolari con cancellazione del rumore attiva, il punto non è più capire se l'ANC sia una funzione utile: ormai è una delle ragioni principali per…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/90464/migliori-auricolari-cancellazione-rumore-copertina.jpg",
+      "publishedAt": "2026-07-27T06:33:05+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori macchine per il caffè (luglio 2026)",
+      "link": "https://www.tomshw.it/guide/migliori-macchine-caffe",
+      "excerpt": "Scegliere una macchina da caffè non significa soltanto decidere quanto spendere: conta soprattutto come bevete il caffè ogni giorno, quante persone la useranno, quanta…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/90480/migliori-macchine-caffe-copertina.jpg",
+      "publishedAt": "2026-07-27T06:20:25+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "A che ora esce oggi Forsaken Realms: Vahrin's Call in Italia e dove scaricarlo",
+      "link": "https://www.tomshw.it/videogioco/a-che-ora-esce-oggi-forsaken-realms-vahrins-call-in-italia-e-dove-scaricarlo",
+      "excerpt": "Forsaken Realms: Vahrin's Call esce oggi, 27 luglio 2026, alle 17:00 CEST in Italia su Steam per PC. È un gioco a pagamento: per accedere bisogna acquistarlo dalla pagina Steam,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103385/dqv-toms-cover-601201-2.png",
+      "publishedAt": "2026-07-27T06:13:27+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Perché i modelli IA “open” sono diventati una questione di sicurezza nazionale americana?",
@@ -111,78 +255,6 @@
       "publishedAt": "2026-07-27T06:00:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "ITER compie un passo avanti: installato il gigantesco modulo da 400 tonnellate",
-      "link": "https://www.hdblog.it/green/articoli/n665472/iter-vacuum-vessel-modulo-fusione/",
-      "excerpt": "ITER completa una fase decisiva con l'installazione dell'ultimo modulo del recipiente a vuoto.",
-      "image": "https://hd2.tudocdn.net/1359007?w=660",
-      "publishedAt": "2026-07-27T05:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "NASA+ sbarca su Fire TV: lo spazio arriva gratis nel salotto di casa",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n665473/nasa-plus-fire-tv/",
-      "excerpt": "NASA+ arriva su Fire TV con dirette gratuite di missioni spaziali e contenuti esclusivi.",
-      "image": "https://hd2.tudocdn.net/1359005?w=660",
-      "publishedAt": "2026-07-27T05:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Nuovo drone di Anduril: potrà sostituire gli elicotteri d'attacco",
-      "link": "https://www.hdblog.it/droni/articoli/n665474/anduril-thunder-convertiplano-autonomo/",
-      "excerpt": "Thunder è il nuovo convertiplano autonomo capace di trasportare fino a 10 missili.",
-      "image": "https://hd2.tudocdn.net/1359004?w=660",
-      "publishedAt": "2026-07-27T05:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Apple Watch 12, che novità aspettarci. E quanto è vicina l'ora di un nuovo design",
-      "link": "https://www.hdblog.it/indossabili/articoli/n665463/apple-watch-series-12-ultra-4-novita-design-chip/",
-      "excerpt": "Che novità dobbiamo aspettarci su Apple Watch 12 e Watch Ultra 4.",
-      "image": "https://hd2.tudocdn.net/1341777?w=660",
-      "publishedAt": "2026-07-26T17:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "EA Sports FC 27: svelati il primo trailer, la data di uscita e i prezzi",
-      "link": "https://www.hdblog.it/games/articoli/n665457/ea-sports-fc-27-trailer-data-uscita-prezzi-amazon/",
-      "excerpt": "Oltre all'Ultimate Edition c'è pure l'Ultimate Edition Plus.",
-      "image": "https://hd2.tudocdn.net/1358984?w=660",
-      "publishedAt": "2026-07-26T16:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Ecco la prima ambulanza a energia solare per il soccorso in aree remote",
-      "link": "https://www.hdmotori.it/ambulanza-energia-solare-soccorso-aree-remote/",
-      "excerpt": "Sviluppato nei Paesi Bassi il primo veicolo di soccorso alimentato solo a energia solare e progettato per portare assistenza medica nelle aree dove manca carburante o elettricità.",
-      "image": "https://hd2.tudocdn.net/1358992?w=660",
-      "publishedAt": "2026-07-26T16:30:44+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il Galaxy S25 FE (256 GB) conviene sempre di più: ora è lui il mid-range Samsung da sceligere",
-      "link": "https://www.hdblog.it/smartphone/offerte/n665458/samsung-galaxy-s25-fe-256-gb-offerta-fine-lug26/",
-      "excerpt": "Il Samsung Galaxy S25 FE da 256 GB è in offerta su Amazon ed è ora disponibile in sconto con un ottimo prezzo.",
-      "image": "https://hd2.tudocdn.net/1287676?w=660",
-      "publishedAt": "2026-07-26T16:00:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il Samsung Galaxy Z Fold 7 è al minimo su Amazon con l'offerta di fine serie",
-      "link": "https://www.hdblog.it/smartphone/offerte/n665454/samsung-galaxy-z-fold-7-offerta-amazon-lug26/",
-      "excerpt": "Il Samsung Galaxy Z Fold 7 è in offerta su Amazon e tocca oggi il suo minimo storico sullo store.",
-      "image": "https://hd2.tudocdn.net/1273127?w=660",
-      "publishedAt": "2026-07-26T15:30:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Neuromante di William Gibson prende vita sullo schermo nel primo trailer ufficiale",
@@ -201,78 +273,6 @@
       "publishedAt": "2026-07-25T09:09:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Scopri come Hisense rivoluziona l’esperienza TV con la nuova gamma RGB MiniLED",
-      "link": "https://images.dday.it/LEDY5-x2klJ39J9BvFgrGEE3esNNP1QGaMeoPqxZ0t4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58048/78644b_14.Lifestyle_Image.jpg",
-      "excerpt": "Una gamma cromatica senza pari, maggiore efficienza energetica e immagini più confortevoli sono tra i principali benefici della nuova tecnologia RGB MiniLED di Hisense: tre serie,…",
-      "image": "https://images.dday.it/LEDY5-x2klJ39J9BvFgrGEE3esNNP1QGaMeoPqxZ0t4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58048/78644b_14.Lifestyle_Image.jpg",
-      "publishedAt": "2026-07-25T01:03:05+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Di Pietro (Hisense): \"Continuiamo a crescere a doppia cifra. I costi di produzione dei TV stanno andando alle stelle, ma il prezzo lo fa il mercato\"",
-      "link": "https://images.dday.it/drH6o_LeVamqLnLiV1TsdY4V3iAM6_UgTd4E3q3bsWU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58167/0e47cd_DSC_1658.jpg",
-      "excerpt": "Gianluca Di Pietro, amministratore delgato di Hisense Italia, traccia un bilancio per noi del primo semestre: risultati che in tutti i settori battono ampiamente un mercato che è…",
-      "image": "https://images.dday.it/drH6o_LeVamqLnLiV1TsdY4V3iAM6_UgTd4E3q3bsWU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58167/0e47cd_DSC_1658.jpg",
-      "publishedAt": "2026-07-24T18:27:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "IA e Android, Apple spalleggia Google: tutte le parti in cui il DMA fa acqua",
-      "link": "https://images.dday.it/I4C5dZn2kra-HK__Vp-IhZHqMnRiLq5I9JupjxVnc_g/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58166/4518b4_Gemini_Generated_Image_m400ltm400ltm400.jpeg",
-      "excerpt": "Con un lungo documento Apple analizza le richieste tecniche fatte dalla Commissione Europea nell’ambito dell’IA su Android. Ecco perché molte di queste porterebbero a seri…",
-      "image": "https://images.dday.it/I4C5dZn2kra-HK__Vp-IhZHqMnRiLq5I9JupjxVnc_g/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58166/4518b4_Gemini_Generated_Image_m400ltm400ltm400.jpeg",
-      "publishedAt": "2026-07-24T14:55:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "EcoFlow RIVER 2 finalmente in sconto: la centrale elettrica portatile per non restare mai senza energia",
-      "link": "https://images.dday.it/cImtxFpX3EMYZjWyIky3kjCED1tuL7FFkiIDl7TOUAo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58165/e26b03_71bs7qxbsaL._AC_SL1500_.jpg",
-      "excerpt": "Compatta, veloce da ricaricare e facile da trasportare: la centrale EcoFlow è la soluzione ideale per viaggi, campeggio e situazioni di emergenza... Leggi tutto",
-      "image": "https://images.dday.it/cImtxFpX3EMYZjWyIky3kjCED1tuL7FFkiIDl7TOUAo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58165/e26b03_71bs7qxbsaL._AC_SL1500_.jpg",
-      "publishedAt": "2026-07-24T14:50:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Arriva una nuova spunta su Facebook, questa volta gratuita. Con un video dimostri l'autenticità del profilo",
-      "link": "https://images.dday.it/vWymUqE32SBRWnGVv_XS_QcALmXALTbcO5lVaE0YVow/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58164/90adff_Introducing-Facebook-Verified_Header.jpg",
-      "excerpt": "La verifica avviene tramite un breve video selfie. Il badge sarà visibile inizialmente su sezioni come Marketplace, Gruppi e profili personali... Leggi tutto",
-      "image": "https://images.dday.it/vWymUqE32SBRWnGVv_XS_QcALmXALTbcO5lVaE0YVow/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58164/90adff_Introducing-Facebook-Verified_Header.jpg",
-      "publishedAt": "2026-07-24T14:03:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "TikTok nel mirino dell’UE: gli account dei minori non sarebbero abbastanza sicuri",
-      "link": "https://images.dday.it/tpDJOeNEGcNooK34mH3IrrW0tsmB83GF7ve79Pj_JpQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58160/99e218_Depositphotos_247379026_XL.jpg",
-      "excerpt": "La Commissione Europea ha contestato le impostazioni di privacy della piattaforma, che permettono una visibilità troppo ampia dei contenuti pubblicati dagli adolescenti... Leggi…",
-      "image": "https://images.dday.it/tpDJOeNEGcNooK34mH3IrrW0tsmB83GF7ve79Pj_JpQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58160/99e218_Depositphotos_247379026_XL.jpg",
-      "publishedAt": "2026-07-24T13:04:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Ioniq 6 N Line, aperti gli ordini. Supera i 60.000 euro",
-      "link": "https://images.dday.it/ifYRGJUEp4U_7AhOhZ4Zox0du8uR6cjaj4R57YIaW_E/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58163/9c56df_ioniq6_thumb.jpg",
-      "excerpt": "La berlina elettrica - che in Italia ci sarà solo in allestimento N Line - è già ordinabile con batteria da 84 kWh, trazione integrale e architettura a 800 V... Leggi tutto",
-      "image": "https://images.dday.it/ifYRGJUEp4U_7AhOhZ4Zox0du8uR6cjaj4R57YIaW_E/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58163/9c56df_ioniq6_thumb.jpg",
-      "publishedAt": "2026-07-24T12:56:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Onboarding fornitori in 7 giorni con un workflow n8n e un form qualifica basato su AI",
-      "link": "https://www.tomshw.it/aioperator/onboarding-fornitori-7-giorni-n8n-form-ai",
-      "excerpt": "L'onboarding di un nuovo fornitore, nella maggior parte delle aziende, è ancora un rincorrersi di email, PDF allegati e solleciti telefonici. Il buyer chiede i documenti, il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103125/01-acq05-cover.jpg",
-      "publishedAt": "2026-07-24T09:23:22+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     }
   ]
 }
