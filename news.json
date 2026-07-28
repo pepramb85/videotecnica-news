@@ -1,53 +1,215 @@
 {
-  "generatedAt": "2026-07-28T08:20:03.165051+00:00",
+  "generatedAt": "2026-07-28T11:51:28.490674+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Claude AI: alcune conversazioni private sono apparse su Google",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n665612/claude-chat-google-privacy/",
-      "excerpt": "Alcune chat di Claude sono finite su Google: ecco cosa è successo e perché conta.",
-      "image": "https://hd2.tudocdn.net/1359294?w=660",
-      "publishedAt": "2026-07-28T08:15:00+00:00",
+      "title": "Acquisti online extra UE: chi paga il dazio da 3 euro?",
+      "link": "https://www.hdblog.it/mercato/articoli/n665662/dazi-pacchi-extra-ue-allarme-consumatori/",
+      "excerpt": "La federazione europea dei consumatori chiede chiarimenti sulla tassa da 3 euro introdotta per gli acquisti extra UE. Il timore è che alcuni marketplace o corrieri possano…",
+      "image": "https://hd2.tudocdn.net/1322208?w=660",
+      "publishedAt": "2026-07-28T11:45:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Oscurato Fonbet, lo sponsor che a Pirlo è costato la Nazionale",
-      "link": "https://www.hdblog.it/mercato/articoli/n665623/fonbet-scommesse-oscurato-pirlo/",
-      "excerpt": "L'Agenzia delle Dogane e dei Monopoli ha inserito Fonbet tra i siti di gioco non autorizzati in Italia, avviando l'oscuramento di alcuni domini. La piattaforma era finita sotto i…",
-      "image": "https://hd2.tudocdn.net/1359306?w=660",
-      "publishedAt": "2026-07-28T08:10:00+00:00",
+      "title": "Malware invisibili in abbonamento: ecco come agisce Cruciferra",
+      "link": "https://www.tomshw.it/hardware/il-servizio-cruciferra-nasconde-malware-e-disarma-gli-antivirus",
+      "excerpt": "Cruciferra, un servizio criminale venduto in abbonamento, è stato collegato di recente a campagne che distribuiscono diversi malware eludendo antivirus e piattaforme di protezione…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103834/il-servizio-cruciferra-nasconde-malware-e-disarma-gli-antivirus.png",
+      "publishedAt": "2026-07-28T11:36:35+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "SETI cambia strategia: la caccia agli alieni si sposta su nuove frequenze radio",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n665611/seti-frequenze-radio-alieni/",
+      "excerpt": "Uno studio propone di cercare segnali alieni su frequenze radio finora quasi ignorate.",
+      "image": "https://hd2.tudocdn.net/1359296?w=660",
+      "publishedAt": "2026-07-28T11:35:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "L’erede wireless del G502 è a 84,78€: HERO 25K e LIGHTFORCE",
-      "link": "https://www.tomshw.it/offerte/lerede-wireless-del-g502-e-a-8478eur-hero-25k-e-lightforce",
-      "excerpt": "Logitech G502 X LIGHTSPEED è a 84,78€ su Amazon, invece dei 129,99€ di listino: lo sconto del 35% lascia in tasca 45,21€. Sensore HERO 25K, collegamento wireless reattivo e switch…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103773/tomshw-offer-605464.png",
-      "publishedAt": "2026-07-28T08:04:23+00:00",
+      "title": "Honor Pad X9 Max ufficiale: un midrange perfetto per l'intrattenimento",
+      "link": "https://www.hdblog.it/tablet/articoli/n665667/honor-pad-x9-max-specifiche-prezzo-immagini/",
+      "excerpt": "Display da ben 13\", batteria da 10.100 mAh... e solo 4 o 6 GB di RAM?",
+      "image": "https://hd2.tudocdn.net/1359365?w=660",
+      "publishedAt": "2026-07-28T11:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple aggiorna macOS 26.6 e chiude le falle prima dell'arrivo di macOS 27",
+      "link": "https://www.tomshw.it/hardware/apple-aggiorna-macos-266-e-chiude-le-falle-prima-di-macos-27",
+      "excerpt": "Apple ha distribuito macOS 26.6 al pubblico, accompagnandolo con gli aggiornamenti destinati a tutti gli altri sistemi operativi della sua piattaforma. Il pacchetto non introduce…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103830/apple-aggiorna-macos-26-6-e-chiude-le-falle-prima-di-macos-27.png",
+      "publishedAt": "2026-07-28T11:21:05+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Recensione Honor Pad X9 Max, equilibrato e al giusto prezzo",
-      "link": "https://www.tomshw.it/smartphone/recensione-honor-pad-x9-max-equilibrato-e-al-giusto-prezzo",
-      "excerpt": "È facile guardare l'Honor Pad X9 Max e pensare che sia l'ennesimo tablet Android con un display grande e una scheda tecnica in linea con il prezzo a cui viene venduto. Dopo aver…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103679/photo_2026-07-28-00-11-39.jpg",
-      "publishedAt": "2026-07-28T08:04:23+00:00",
+      "title": "Vivo porta il Wi-Fi negli auricolari e apre la strada all'AI",
+      "link": "https://www.tomshw.it/smartphone/vivo-porta-il-wi-fi-negli-auricolari-e-apre-la-strada-allai",
+      "excerpt": "Vivo ha dotato i nuovi Vivo TWS 5 Pro di una modalità Wi-Fi lossless capace di trasferire audio fino a 4,6 Mbps. Il valore supera i 4,2 Mbps dichiarati dagli Xiaomi Buds 5 Pro…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103829/vivo-porta-il-wi-fi-negli-auricolari-e-apre-la-strada-all-ai.png",
+      "publishedAt": "2026-07-28T11:18:24+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Questi altoparlanti a 3 vie con HDMI costano poco, ma sembrano di un'altra categoria",
-      "link": "https://www.tomshw.it/hardware/altoparlanti-ultimea-70w-scontati-del-44-su-aliexpress-2026-07-28",
-      "excerpt": "Su AliExpress è disponibile un'ottima offerta sugli ULTIMEA Altoparlanti da Scaffale a Tre Vie da 5.25'', un sistema audio da 70W RMS con tecnologia Edge Horn e BassMX, controllo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103772/altoparlanti-ultimea-70w-scontati-del-44-su-aliexpress-2026-07-eg4i0gc4vrmjeqCKrlv.jpg",
-      "publishedAt": "2026-07-28T08:03:52+00:00",
+      "title": "Active Directory, una falla può impersonare i controller di dominio",
+      "link": "https://www.tomshw.it/hardware/lexploit-certighost-e-pubblico-e-puo-compromettere-domini-windows",
+      "excerpt": "Microsoft ha corretto negli aggiornamenti di sicurezza di luglio una vulnerabilità di Active Directory che ora dispone di un exploit proof-of-concept pubblico. Chiamata Certighost…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103825/l-exploit-certighost-e-pubblico-e-puo-compromettere-domini-windows.png",
+      "publishedAt": "2026-07-28T11:17:13+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "WhatsApp, in test su Android la modifica della didascalia degli Stati",
+      "link": "https://www.hdblog.it/smartphone/articoli/n665658/whatsapp-modifica-stato-android/",
+      "excerpt": "WhatsApp testa la modifica della didascalia degli Stati nella beta per Android. Il testo potrà essere corretto entro 15 minuti dalla pubblicazione e chi visualizza lo Stato non…",
+      "image": "https://hd2.tudocdn.net/1340382?w=660",
+      "publishedAt": "2026-07-28T11:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Amazon vuole sfidare i big dell’AI, al lavoro su modelli di frontiera",
+      "link": "https://www.tomshw.it/hardware/amazon-ridimensionerebbe-quattro-modelli-nova-per-puntare-sull-ai-di-frontiera",
+      "excerpt": "Nova Premier, Nova Omni, Nova Reel e Nova Canvas sarebbero destinati a ricevere investimenti più limitati, mentre Amazon trasferisce personale e capacità di calcolo verso lo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103270/news-flash-598093.png",
+      "publishedAt": "2026-07-28T11:13:54+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Neuralink fa guidare una carrozzina con il pensiero: il video lascia senza parole",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n665606/neuralink-carrozzina-controllata-pensiero/",
+      "excerpt": "Neuralink testa il controllo mentale delle carrozzine per persone con paralisi.",
+      "image": "https://hd2.tudocdn.net/1359291?w=660",
+      "publishedAt": "2026-07-28T11:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "4K30 senza driver: Elgato HD60 X a 119,99€ su Amazon",
+      "link": "https://www.tomshw.it/offerte/4k30-senza-driver-elgato-hd60-x-a-11999eur-su-amazon",
+      "excerpt": "Elgato HD60 X costa 119,99€ su Amazon invece di 179,99€, con uno sconto del 33%. Permette di acquisire gameplay in 4K30 o 1080p60 HDR10 da console mantenendo un passthrough ad…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103837/tomshw-offer-606304.png",
+      "publishedAt": "2026-07-28T11:03:15+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Mercedes-AMG saluta la A 45 S 4MATIC+ con una spettacolare Final Edition",
+      "link": "https://www.hdmotori.it/mercedes-amg-45-s-4matic-final-edition/",
+      "excerpt": "Svelata l'edizione speciale che saluta la Mercedes-AMG A 45 S. Spicca un pacchetto completo di equipaggiamento.",
+      "image": "https://hd2.tudocdn.net/1359362?w=660",
+      "publishedAt": "2026-07-28T11:00:29+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "DAZN, le amichevoli di Serie A si possono acquistare singolarmente",
+      "link": "https://www.hdblog.it/applicazioni/articoli/n665651/dazn-amichevoli-acquisto-prezzo/",
+      "excerpt": "Le amichevoli di Serie A sono disponibili anche in Pay-Per-View su DAZN con prezzi variabili in base alla partita. Al termine della prova gratuita di DAZN Goal, però,…",
+      "image": "https://hd2.tudocdn.net/1308982?w=660",
+      "publishedAt": "2026-07-28T10:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Huawei, doppio lancio a settembre: arrivano Mate 90 e il nuovo tri-fold",
+      "link": "https://www.hdblog.it/smartphone/articoli/n665636/huawei-eventi-settembre-mate-90-trifold/",
+      "excerpt": "La casa di Shenzhen vuole monopolizzare settembre, ma ha un concorrente agguerrito a Cupertino",
+      "image": "https://hd2.tudocdn.net/1282681?w=660",
+      "publishedAt": "2026-07-28T10:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Xiaomi ci sa fare con i teaser: cresce l'hype per il nuovo smartphone top di gamma",
+      "link": "https://www.hdblog.it/smartphone/articoli/n665638/smartphone-xiaomi-redmi-k100-pro-teaser/",
+      "excerpt": "Xiaomi sta per lanciare un nuovo flagship della linea Redmi al ChinaJoy 2026.",
+      "image": "https://hd2.tudocdn.net/1359323?w=660",
+      "publishedAt": "2026-07-28T10:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Gli USA puntano i robot umanoidi cinesi: ora entra in gioco il Pentagono",
+      "link": "https://www.hdblog.it/mercato/articoli/n665605/usa-stop-robot-umanoidi-cinesi-pentagono/",
+      "excerpt": "Washington estende le restrizioni ai robot umanoidi cinesi per motivi di sicurezza nazionale.",
+      "image": "https://hd2.tudocdn.net/1339736?w=660",
+      "publishedAt": "2026-07-28T10:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Amodei: \"Anthropic non ha mai chiesto di vietare i modelli a pesi aperti\"",
+      "link": "https://images.dday.it/WZ3aV2bUsGiXk6nHyDptLdK4bqxO7IptqX8KsJgCM50/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58192/7aa871_ChatGPT_Image_28_lug_2026__12_26_47.png",
+      "excerpt": "Il capo di Anthropic risponde alla lettera sui modelli open che non ha firmato: stop ai chip verso la Cina e alla distillazione industriale, e test di sicurezza obbligatori...…",
+      "image": "https://images.dday.it/WZ3aV2bUsGiXk6nHyDptLdK4bqxO7IptqX8KsJgCM50/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58192/7aa871_ChatGPT_Image_28_lug_2026__12_26_47.png",
+      "publishedAt": "2026-07-28T10:27:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Varta in difficoltà, chiesta l'insolvenza. Ma le pile domestiche e i power bank non c'entrano niente",
+      "link": "https://images.dday.it/ejmBkXQsQYbbev8vsEtXMDPumspfOb2aHtBhFE_C6Ho/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58190/4828e5_Depositphotos_298097102_XL.jpg",
+      "excerpt": "La Varta che produce e distribuisce pile domestiche e caricabatterie è estranea alla Varta coinvolta nella crisi... Leggi tutto",
+      "image": "https://images.dday.it/ejmBkXQsQYbbev8vsEtXMDPumspfOb2aHtBhFE_C6Ho/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58190/4828e5_Depositphotos_298097102_XL.jpg",
+      "publishedAt": "2026-07-28T09:53:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Microsoft ha lanciato il suo primo modello \"cyber\" per scovare le vulnerabilità nel codice",
+      "link": "https://images.dday.it/pV-kgpB9YtAMVrK9E582OzSgOoNOFDaa_10hCNtIyxg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58186/9e458a_aaaa.png",
+      "excerpt": "Si trova dentro la nuova piattaforma Perception, basata sul modello proprietario MAI-Cyber-1-Flash e GPT 5.4 che alimenta MDASH, il sistema con cui Microsoft contribuisce…",
+      "image": "https://images.dday.it/pV-kgpB9YtAMVrK9E582OzSgOoNOFDaa_10hCNtIyxg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58186/9e458a_aaaa.png",
+      "publishedAt": "2026-07-28T09:32:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Puntare su un solo modello AI può affondare l'azienda, dice Nadella",
+      "link": "https://www.tomshw.it/business/puntare-su-un-solo-modello-ai-puo-affondare-l-azienda-dice-nadella",
+      "excerpt": "Le aziende che appoggiano tutta la loro strategia AI su un solo modello rischiano di restare fuori mercato al primo cambio di rotta del fornitore. Satya Nadella l'ha detto in…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103789/art-01-nadella-lockin.png",
+      "publishedAt": "2026-07-28T09:27:52+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Polymarket oscurata in Italia, e sparisce anche dalle maglie della Lazio",
+      "link": "https://images.dday.it/OFsYqU_PWC16YEyS5bQEN6Ao4LLVcr5pHPOLwAPxqrw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58189/292293_Depositphotos_882212694_XL.jpg",
+      "excerpt": "Il provvedimento delle Dogane vale dal 27 luglio e infatti da lunedì il dominio è irraggiungibile. A luglio blocchi analoghi anche in Turchia e in Francia. Polymarket non ha le…",
+      "image": "https://images.dday.it/OFsYqU_PWC16YEyS5bQEN6Ao4LLVcr5pHPOLwAPxqrw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58189/292293_Depositphotos_882212694_XL.jpg",
+      "publishedAt": "2026-07-28T09:21:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Pixel 10a da 256 GB sotto i 500 euro su Amazon. Meglio farci un pensierino",
+      "link": "https://images.dday.it/VLQA5vk4ZsUB76mWF6HCTPLRNsGu8pdqplfI08YYulg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58188/ac17f1_pixel10a_thumb__1_.jpg",
+      "excerpt": "Il Pixel 10a nero è in vendita al prezzo minimo mai raggiunto prima su Amazon. Ed è il modello da 256 GB... Leggi tutto",
+      "image": "https://images.dday.it/VLQA5vk4ZsUB76mWF6HCTPLRNsGu8pdqplfI08YYulg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58188/ac17f1_pixel10a_thumb__1_.jpg",
+      "publishedAt": "2026-07-28T09:03:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "E-VAI sospende il servizio di car sharing per privati: \"Non è più sostenibile\"",
+      "link": "https://images.dday.it/3Es_SLi6W2euFE--QhkraE33uUjM7Q2wXy5TSZc8CNA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58187/734ce2_evai_thumb.jpg",
+      "excerpt": "Resterà attivo invece il car sharing per le aziende. E-VAI: \"Quadro dei costi cambiato in modo significativo negli ultimi mesi\"... Leggi tutto",
+      "image": "https://images.dday.it/3Es_SLi6W2euFE--QhkraE33uUjM7Q2wXy5TSZc8CNA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58187/734ce2_evai_thumb.jpg",
+      "publishedAt": "2026-07-28T08:21:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Dal 31 luglio scatta il diritto alla riparazione in Europa. Cos'è e perché in Italia si dovrà aspettare",
@@ -59,15 +221,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "GTA VI, le copie \"fisiche\" saranno region locked, ma solo su PS5",
-      "link": "https://www.hdblog.it/games/articoli/n665620/gta-6-region-lock-copie-fisiche-playstation/",
-      "excerpt": "La conferma arriva direttamente da Rockstar.",
-      "image": "https://hd2.tudocdn.net/1355997?w=660",
-      "publishedAt": "2026-07-28T07:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Confermata riduzione accise sul gasolio. Nessun intervento sulla benzina",
       "link": "https://images.dday.it/iKX0tZ3M9P8NA56sVm62UhXYLXX4Vxhy3BnJyolu_O4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58184/9e3233_gasolio_thumb.jpg",
       "excerpt": "La riduzione di accise e IVA resterà valida fino al 6 agosto. Nessun intervento sulla benzina... Leggi tutto",
@@ -77,40 +230,22 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Le 7 migliori offerte degli MSI GAMING DAYS: risparmi fino al 46%",
-      "link": "https://www.tomshw.it/hardware/le-7-migliori-offerte-degli-msi-gaming-days-risparmi-fino-al-46",
-      "excerpt": "Hanno preso il via gli attesi MSI GAMING DAYS, la promozione estiva di MSI attiva dal 27 luglio al 16 agosto che offre sconti su componenti hardware e periferiche gaming tra MSI…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103759/Le-7-migliori-offerte-degli-MSI-GAMING-DAYS-risparmi-fino-al-46-.jpg",
-      "publishedAt": "2026-07-28T07:46:21+00:00",
+      "title": "Vasco Audience traduce le conferenze live sugli smartphone",
+      "link": "https://www.tomshw.it/business/vasco-audience-traduce-le-conferenze-live-sugli-smartphone",
+      "excerpt": "Vasco Electronics ha presentato Vasco Audience, una soluzione pensata per portare la traduzione simultanea di conferenze, corsi e presentazioni direttamente sui dispositivi del…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103334/vasco-audience-traduce-conferenze-smartphone.png",
+      "publishedAt": "2026-07-28T07:45:05+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Moonlight Peaks vola: 200.000 vendite in tre settimane",
-      "link": "https://www.tomshw.it/videogioco/moonlight-peaks-parte-forte-200-000-copie-vendute-in-venti-giorni",
-      "excerpt": "Moonlight Peaks ha superato 200.000 copie vendute nel mondo a circa venti giorni dal lancio del 7 luglio 2026. Il risultato è stato comunicato ufficialmente da Little Chicken Game…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103764/ss_c3ce821141f5bb624c1c8bfdb09747c3d96a9782-1920x1080.jpg",
-      "publishedAt": "2026-07-28T07:45:06+00:00",
+      "title": "Taxi volanti rinviati: la Cina sceglie soccorso e logistica",
+      "link": "https://www.tomshw.it/hardware/cina-gli-evtol-cambiano-rotta-soccorso-e-logistica-prima-dei-taxi-volanti",
+      "excerpt": "Soccorso sanitario, ricerca di dispersi, antincendio e logistica stanno diventando il banco di prova della mobilità aerea a bassa quota cinese. L’International Advanced Air…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103758/screenshot_2026-07-27_165633.jpg",
+      "publishedAt": "2026-07-28T07:40:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Apple rilascia iOS 26.6, l'ultimo prima di iOS 27: le novità",
-      "link": "https://www.hdblog.it/apple/articoli/n665615/ios-266-novita-aggiornamento-cosa-cambia/",
-      "excerpt": "Apple ha avviato la distribuzione di iOS 26.6 insieme agli aggiornamenti per iPad, Apple Watch, Apple TV, Vision Pro e HomePod. L'update introduce oltre 75 correzioni di sicurezza…",
-      "image": "https://hd2.tudocdn.net/1359298?w=660",
-      "publishedAt": "2026-07-28T07:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "One UI 9, attenzione a dimenticare il PIN: l'unica soluzione sarà un hard reset",
-      "link": "https://www.hdblog.it/smartphone/articoli/n665616/one-ui-9-pin-sbagliato-hard-reset-come-funziona/",
-      "excerpt": "Dopo 13 tentativi sbagliati di fila, nemmeno il PIN giusto sbloccherà il device.",
-      "image": "https://hd2.tudocdn.net/1347488?w=660",
-      "publishedAt": "2026-07-28T07:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Dazio da 3 euro, se lo paghi ti consegniamo la merce: la BEUC avverte che non deve essere così",
@@ -122,33 +257,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Xbox KO per un giorno: nemmeno i giochi su disco funzionavano",
-      "link": "https://www.hdblog.it/microsoft/articoli/n665608/xbox-outage-giochi-disco/",
-      "excerpt": "Il blackout Xbox ha impedito l'avvio anche dei giochi su disco per quasi un giorno.",
-      "image": "https://hd2.tudocdn.net/1358205?w=660",
-      "publishedAt": "2026-07-28T07:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Gaffe di Samsung con il power bank per Galaxy S26 Ultra: il web non perdona",
-      "link": "https://www.hdblog.it/smartphone/articoli/n665587/samsung-galaxy-s26-ultra-gaffe-power-bank/",
-      "excerpt": "Il power bank magnetico per Samsung Galaxy S26 Ultra si sovrappone parzialmente al teleobiettivo posteriore.",
-      "image": "https://hd2.tudocdn.net/1359266?w=660",
-      "publishedAt": "2026-07-28T06:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Aerei elettrici: il Regno Unito investe nella ricarica ultra-rapida",
-      "link": "https://www.hdblog.it/green/articoli/n665598/aerei-elettrici-ricarica-rapida-regno-unito/",
-      "excerpt": "Nuovi sistemi di ricarica e raffreddamento per rendere gli aerei elettrici più efficienti.",
-      "image": "https://hd2.tudocdn.net/1359287?w=660",
-      "publishedAt": "2026-07-28T06:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Air Zoom Hyperslide sono le ciabatte di Nike che riscaldano e massaggiano il piede",
       "link": "https://images.dday.it/SW_2rLShXftRfaSitC84M_w1GGtpdaJwJj-iwLwKkAk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58182/f7c42b_aaaa.png",
       "excerpt": "Realizzate in collaborazione con Hyperice, sono adatte agli sportivi o a chi è in continuo movimento e vuole un po' di sollievo a fine giornata... Leggi tutto",
@@ -158,121 +266,13 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Severance 3: Apple rompe il silenzio e mostra le prime riprese",
-      "link": "https://www.hdblog.it/apple/articoli/n665599/severance-stagione-3-riprese-iniziate/",
-      "excerpt": "Apple conferma l'inizio delle riprese di Severance 3: ecco cosa aspettarsi",
-      "image": "https://hd2.tudocdn.net/1359286?w=660",
-      "publishedAt": "2026-07-28T06:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Vodafone elimina oltre 1.200 ruoli in Europa: punta a 2 miliardi di risparmi",
-      "link": "https://www.tomshw.it/business/vodafone-elimina-oltre-1-200-ruoli-in-europa-punta-a-2-miliardi",
-      "excerpt": "Oltre 1.200 ruoli sono stati eliminati da Vodafone Group nel trimestre concluso a giugno 2026, coinvolgendo i mercati europei e le funzioni condivise. Le riduzioni risultano già…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103706/news-flash-604841.png",
-      "publishedAt": "2026-07-28T06:15:07+00:00",
+      "title": "Migliori pannelli fotovoltaici plug and play (luglio 2026)",
+      "link": "https://www.tomshw.it/altro/pannelli-fotovoltaici-plug-and-play-balcone-migliori",
+      "excerpt": "Un pannello fotovoltaico plug and play è una soluzione interessante quando volete produrre una parte dell'energia che consumate ogni giorno senza progettare subito un impianto…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/05/94024/migliori-pannelli-fotovoltaici-plug-play-copertina.jpg",
+      "publishedAt": "2026-07-28T06:25:51+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Amazon sfida Starlink con 5.105 satelliti per connettere gli smartphone",
-      "link": "https://www.hdblog.it/mercato/articoli/n665600/amazon-5105-satelliti-direct-to-mobile/",
-      "excerpt": "Amazon vuole portare voce, dati ed emergenze sugli smartphone via satellite.",
-      "image": "https://hd2.tudocdn.net/1359283?w=660",
-      "publishedAt": "2026-07-28T06:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Migliori VPN per vedere Netflix (luglio 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-vpn-netflix",
-      "excerpt": "Guardare Netflix con una VPN resta una delle richieste più frequenti tra chi vuole accedere a cataloghi diversi, continuare a usare il servizio quando viaggia oppure semplicemente…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/90625/migliori-vpn-netflix-copertina.jpg",
-      "publishedAt": "2026-07-28T06:12:42+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Sony WH-1000XM5: ANC premium e custodia rigida a un prezzo più interessante",
-      "link": "https://www.tomshw.it/hardware/sony-wh-1000xm5-anc-premium-custodia-rigida-2026-07-28",
-      "excerpt": "Sony WH-1000XM5 è un paio di cuffie wireless over-ear con noise cancelling avanzato ora disponibile a 229€, con uno sconto del 23% rispetto al prezzo di riferimento di 299€. Il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/100986/sony-wh-1000xm5-a-229eur-cuffie-top-con-anc-al-prezzo-giusto-207tpljgafuk5rcrmzab5.png",
-      "publishedAt": "2026-07-28T05:08:08+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "BIGGERFIVE Brave 2: lo smartwatch per bambini diventa più conveniente",
-      "link": "https://www.tomshw.it/smartphone/biggerfive-brave-2-smartwatch-bambini-2026-07-28",
-      "excerpt": "BIGGERFIVE Brave 2 è uno smartwatch e fitness tracker pensato per bambini e ragazzi ora disponibile a 37,99€, con uno sconto del 24% rispetto al prezzo di riferimento di 49,99€.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102753/biggerfive-brave-2-accompagna-sport-e-scuola-e-ora-costa-meno-241dv47gph0bict0NSpd.png",
-      "publishedAt": "2026-07-28T05:07:53+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Claude Cowork ha un problema che Anthropic sta ignorando: può uscire dalla sandbox e scrivere su tutto il Mac",
-      "link": "https://images.dday.it/6AY6DcZJLMkYtQj4NuzScJtG59pt8TlU5UkuhxFvKoM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58181/af4427_Immagine_1_generata.png",
-      "excerpt": "Una ricerca accusa Claude Cowork di una falla nella sandbox locale: un agente può uscire dalla macchina virtuale e accedere ai file del Mac. Anthropic ha spostato il focus sul…",
-      "image": "https://images.dday.it/6AY6DcZJLMkYtQj4NuzScJtG59pt8TlU5UkuhxFvKoM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58181/af4427_Immagine_1_generata.png",
-      "publishedAt": "2026-07-27T16:11:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Lo spazzolino elettrico Oral-B iO 3 torna in offerta su Amazon a 59 euro",
-      "link": "https://images.dday.it/3QpZ1cqDLD5ZvbaaRu5BldcyiELYU8o2xyxkoYGmOxQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/53781/a37bf4_oralbio3_thumb.jpg",
-      "excerpt": "Lo spazzolino elettrico Oral-B iO 3 Nero torna in sconto su Amazon al suo prezzo più basso. Approfittane subito... Leggi tutto",
-      "image": "https://images.dday.it/3QpZ1cqDLD5ZvbaaRu5BldcyiELYU8o2xyxkoYGmOxQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/53781/a37bf4_oralbio3_thumb.jpg",
-      "publishedAt": "2026-07-27T15:21:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Quanti litri deve avere lo zaino da trekking? Come scegliere",
-      "link": "https://www.tomshw.it/altro/quanti-litri-deve-avere-lo-zaino-da-trekking-come-scegliere",
-      "excerpt": "Quando si pianifica un'escursione in montagna, la scelta dello zaino rappresenta una delle decisioni più importanti per la riuscita e il comfort dell'avventura. Trovarsi lungo i…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103579/Quanti-litri-deve-avere-lo-zaino-da-trekking-Come-scegliere.png",
-      "publishedAt": "2026-07-27T14:08:39+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Per la prima volta un aereo a turboelica con un motore ibrido-elettrico ha volato a 30.000 piedi",
-      "link": "https://images.dday.it/j6_JMv4L0lSticJPEDnOv6YGsEK_Mk-HwUGrd9dcF6A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58180/de6f11_ge_aerospace_epfd.jpg",
-      "excerpt": "Il turboelica svedese Saab 340B non passa i 25.000 piedi. Con un motore ibrido di “classe megawatt” al posto della normale turbina destra è arrivato a 30.000... Leggi tutto",
-      "image": "https://images.dday.it/j6_JMv4L0lSticJPEDnOv6YGsEK_Mk-HwUGrd9dcF6A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58180/de6f11_ge_aerospace_epfd.jpg",
-      "publishedAt": "2026-07-27T13:41:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Dopo il caso Hugging Face, Nvidia punta sull’open source: pronta un'alleanza contro i rischi degli agenti IA",
-      "link": "https://images.dday.it/WUE67a_S4dPS3UQDwJ3l8_0x30kGQGkNQKgZVYEue9E/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58179/66bdd6_Depositphotos_625566110_XL.jpg",
-      "excerpt": "Si chiama Open Secure AI Alliance e riunisce grandi società tecnologiche come Microsoft, SpacexAI, Red Hat e IBM per sviluppare strumenti condivisi con cui controllare, analizzare…",
-      "image": "https://images.dday.it/WUE67a_S4dPS3UQDwJ3l8_0x30kGQGkNQKgZVYEue9E/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58179/66bdd6_Depositphotos_625566110_XL.jpg",
-      "publishedAt": "2026-07-27T13:12:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Labrousse (AD di Sony Italia) sarà il numero uno europeo di Bravia Inc : \"Voglio che il DNA Sony resti vivo\"",
-      "link": "https://images.dday.it/EzVfxCkDIwtv9f0WvzXgkIk4eCukywe5athM70fwWNM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58171/b1a752_DSC08663.jpg",
-      "excerpt": "In un'intervista esclusiva, Stéphane Labrousse, amministratore delegato di Sony Italia, racconta a DDAY come si sta formando la nuova Bravia Inc che incorporerà l'intero business…",
-      "image": "https://images.dday.it/EzVfxCkDIwtv9f0WvzXgkIk4eCukywe5athM70fwWNM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58171/b1a752_DSC08663.jpg",
-      "publishedAt": "2026-07-27T11:01:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Dazi UE più pesanti per le ibride plug-in cinesi. La richiesta di Volkswagen",
-      "link": "https://images.dday.it/z97lA92yWNxnnJZ_Naq9VSKPPW7_il64sRVkhU_Inoo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58178/15f8c0_vw_thumb.jpg",
-      "excerpt": "Nel primo semestre i marchi cinesi hanno conquistato il 28,3% del mercato europeo delle ibride plug-in. Per questo Oliver Blume, amministratore delegato di Volkswagen, sollecita…",
-      "image": "https://images.dday.it/z97lA92yWNxnnJZ_Naq9VSKPPW7_il64sRVkhU_Inoo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58178/15f8c0_vw_thumb.jpg",
-      "publishedAt": "2026-07-27T10:23:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
     }
   ]
 }
