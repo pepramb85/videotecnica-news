@@ -1,9 +1,81 @@
 {
-  "generatedAt": "2026-07-29T17:06:46.251323+00:00",
+  "generatedAt": "2026-07-29T19:01:11.788706+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Monitoraggio non invasivo della glicemia, primo prototipo di smart ring",
+      "link": "https://www.hdblog.it/indossabili/articoli/n665850/monitoraggio-glicemia-smart-ring-non-invasivo/",
+      "excerpt": "Un team di ricercatori californiani sembra aver trovato una soluzione efficace, analizzando il sudore della pelle.",
+      "image": "https://hd2.tudocdn.net/1359737?w=660",
+      "publishedAt": "2026-07-29T18:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google Pixel 10 al minimo storico: bundle con Buds Pro 2 a 848€",
+      "link": "https://www.tomshw.it/offerte/google-pixel-10-al-minimo-storico-bundle-con-buds-pro-2-a-848eur",
+      "excerpt": "Google Pixel 10 con Pixel Buds Pro 2 costa 848€ su Amazon anziché 1.248€: il risparmio è di 400€, pari al 32%. È il minimo storico per un bundle che riunisce smartphone,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104341/tomshw-offer-612024.png",
+      "publishedAt": "2026-07-29T18:03:36+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Autodromo di Monza, concessione prorogata fino al 2044: via agli investimenti",
+      "link": "https://www.hdmotori.it/autodromo-monza-concessione-prorogata-2044/",
+      "excerpt": "Monza consolida il proprio futuro nella Formula 1 con l'estensione della concessione all'ACI fino al 2044 e un piano di riqualificazione dell'impianto",
+      "image": "https://hd2.tudocdn.net/1359738?w=660",
+      "publishedAt": "2026-07-29T18:00:49+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Motorola Edge 60 Neo cala di prezzo, è il best buy della fascia medio-bassa",
+      "link": "https://www.hdblog.it/smartphone/offerte/n665848/motorola-edge-60-neo-offerta-aug26/",
+      "excerpt": "Il Motorola Edge 60 Neo è in offerta e si conferma, sempre di più, un best buy nella fascia medio-bassa del mercato.",
+      "image": "https://hd2.tudocdn.net/1341241?w=660",
+      "publishedAt": "2026-07-29T18:00:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "AlphaFold, Google DeepMind smantella il team da premio Nobel",
+      "link": "https://www.hdblog.it/google/articoli/n665846/google-deepmind-alphafold-team-sciolto/",
+      "excerpt": "Pare che ormai non ci fosse più molto da fare in questo specifico progetto. Molti dipendenti sono stati riassegnati ad altri team DeepMind, altri se ne sono andati.",
+      "image": "https://hd2.tudocdn.net/1018746?w=660",
+      "publishedAt": "2026-07-29T17:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Xiaomi Smart Band 10 Pro in offerta su Amazon, è la smartband che sostituisce lo smartwatch (anche con NFC)",
+      "link": "https://www.hdblog.it/indossabili/offerte/n665843/xiaomi-smart-band-10-pro-offerta-amazon-lug26/",
+      "excerpt": "La Xiaomi Smart Band 10 Pro è in offerta su Amazon e diventa la scelta giusta per sostituire lo smartwatch, anche con supporto NFC.",
+      "image": "https://hd2.tudocdn.net/1346245?w=660",
+      "publishedAt": "2026-07-29T17:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La Francia prova ad azzerare la pirateria: blocco automatico per lo sport in streaming",
+      "link": "https://www.hdblog.it/business/articoli/n665790/francia-stop-dirette-streaming-sport/",
+      "excerpt": "La Francia vuole oscurare i canali pirata con lo stop automatico alle dirette streaming rubate.",
+      "image": "https://hd2.tudocdn.net/1352886?w=660",
+      "publishedAt": "2026-07-29T17:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La nuova scheda ESP32 ha specifiche per impensierire Raspberry Pi",
+      "link": "https://www.hdblog.it/domotica/articoli/n665841/esp32-s31-microcontroller-potenza-raspberry-pi/",
+      "excerpt": "Processore RISC-V dual-core a 400 MHz, super connettività e controlli display versatilissimi. Non è economico, però.",
+      "image": "https://hd2.tudocdn.net/1359727?w=660",
+      "publishedAt": "2026-07-29T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Waze è un'app spiona? Il tracciamento non si spegne mai del tutto",
       "link": "https://www.hdblog.it/smartphone/articoli/n665803/waze-app-spiona-tracciamento/",
@@ -12,6 +84,24 @@
       "publishedAt": "2026-07-29T17:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Logitech G PRO X SUPERLIGHT 2 scontato del 41% su Amazon",
+      "link": "https://www.tomshw.it/offerte/logitech-g-pro-x-superlight-2-scontato-del-41-su-amazon",
+      "excerpt": "Il Logitech G PRO X SUPERLIGHT 2 costa 94,49€ su Amazon anziché 159,99€: lo sconto del 41% lascia 65,50€ nel portafoglio. Con appena 60 g di peso, polling a 8 kHz e sensore HERO…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104335/tomshw-offer-611927.png",
+      "publishedAt": "2026-07-29T17:02:28+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "iPhone, mai forzare la ricarica con la porta bagnata: rischi danni permanenti",
+      "link": "https://www.tomshw.it/smartphone/iphone-mai-forzare-la-ricarica-con-la-porta-bagnata-rischi-danni-permanenti",
+      "excerpt": "Forzare la ricarica di un iPhone quando il connettore è bagnato può corrodere i contatti e causare danni permanenti. Quando iOS rileva del liquido, interrompe l’alimentazione via…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104333/news-flash-611912.png",
+      "publishedAt": "2026-07-29T17:02:14+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Nuova Hyundai KONA Dark Line: più stile e tecnologia per il SUV coreano",
@@ -32,24 +122,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Samsung finalmente perfeziona la rotazione dello schermo nei nuovi Fold",
-      "link": "https://www.hdblog.it/smartphone/articoli/n665837/samsung-fold-rotazione-automatica-indipendente/",
-      "excerpt": "È possibile specificare le impostazioni di rotazione automatica (attiva o disattiva) indipendentemente per il display esterno e quello interno. Finalmente!",
-      "image": "https://hd2.tudocdn.net/1359544?w=660",
-      "publishedAt": "2026-07-29T16:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Arriva la nuova Stratos? Made in Cina e prezzo alla portata",
-      "link": "https://www.hdmotori.it/nuova-stratos-made-in-cina/",
-      "excerpt": "Sulla base filosofica della regina dei Rally italiana, è nata una biposto a motore centrale. La SC-01 arriverà sul mercato britannico",
-      "image": "https://hd2.tudocdn.net/1359721?w=660",
-      "publishedAt": "2026-07-29T16:30:11+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "I chip al silicio potrebbero cambiare i computer quantistici",
       "link": "https://www.tomshw.it/scienze/i-chip-al-silicio-potrebbero-cambiare-i-computer-quantistici",
       "excerpt": "Un gruppo di HRL Laboratories e collaboratori ha realizzato un processore quantistico al silicio controllato digitalmente, riunendo nello stesso sistema il chip, l’elettronica che…",
@@ -57,15 +129,6 @@
       "publishedAt": "2026-07-29T16:27:02+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Homey, arriva la certificazione Matter 1.5: tanti nuovi prodotti compatibili",
-      "link": "https://www.hdblog.it/domotica/articoli/n665834/homey-certificazione-matter-1-5-nuovi-dispositivi/",
-      "excerpt": "Nell'elenco ci sono videocamere di sorveglianza, videocitofoni, tapparelle, pompe di calore, pannelli solari, e caricatori di veicoli elettrici .",
-      "image": "https://hd2.tudocdn.net/1310187?w=660",
-      "publishedAt": "2026-07-29T16:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "NASA Swift, LINK ruota fuori controllo da 72 ore: a rischio il rialzo dell'orbita",
@@ -77,15 +140,6 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Huawei conferma i processori Kirin XE90 e X90 Plus per PC: debutto il 5 agosto",
-      "link": "https://www.hdblog.it/hardware/articoli/n665826/kirin-nuovi-processori-computer-xe90-x90-plus/",
-      "excerpt": "Huawei presenterà il 5 agosto i processori Kirin XE90 e X90 Plus insieme ai nuovi MateBook. Il modello XE90 promette prestazioni single core superiori del 23%, mentre il Kirin X90…",
-      "image": "https://hd2.tudocdn.net/1359703?w=660",
-      "publishedAt": "2026-07-29T16:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Una VPN che prometteva \"nessun log\" ne conservava 58 milioni, ora in vendita su un forum criminale",
       "link": "https://images.dday.it/38i-Dpb3JPGUME4yH1OpbsvQ2K1KaE1fVgavJH-5oHM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58209/76bb2a_Depositphotos_758235768_XL.jpg",
       "excerpt": "Il servizio si chiama SplitVPN e serve ad aggirare la censura in Russia e in Iran. Nell'archivio rubato ci sono 23,4 milioni di utenti con e-mail e indirizzo IP, ma anche 58…",
@@ -93,42 +147,6 @@
       "publishedAt": "2026-07-29T16:12:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "HBO Max, arrivano gli Shorts basati sull'AI... e non sembrano un'idea malvagia",
-      "link": "https://www.hdblog.it/apple/articoli/n665830/hbo-max-ai-shorts-ask-ricerca-linguaggio-naturale/",
-      "excerpt": "Sembrano uno strumento interessante per permettere all'utente di scoprire nuovi contenuti. In arrivo anche un motore di ricerca basato sul linguaggio naturale.",
-      "image": "https://hd2.tudocdn.net/1324489?w=660",
-      "publishedAt": "2026-07-29T16:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "380 Hz per gli eSport: ASUS ROG Strix XG259QNS a 349€ su Amazon",
-      "link": "https://www.tomshw.it/offerte/380-hz-per-gli-esport-asus-rog-strix-xg259qns-a-349eur-su-amazon",
-      "excerpt": "A 349€ su Amazon, ASUS ROG Strix XG259QNS passa dal listino di 489€ al prezzo attuale con uno sconto del 29%. Il refresh fino a 380 Hz e il pannello Fast IPS lo indirizzano alle…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104316/tomshw-offer-611580.png",
-      "publishedAt": "2026-07-29T16:02:46+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Riconoscimento facciale alla polizia: dati cancellati entro 7 giorni",
-      "link": "https://www.tomshw.it/hardware/riconoscimento-facciale-alla-polizia-dati-cancellati-entro-7-giorni",
-      "excerpt": "Il riconoscimento facciale a posteriori potrà essere impiegato dalle forze di polizia italiane dopo la commissione, anche tentata, di un reato, per identificare persone indiziate…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/94895/02-face-recognition-cover.png",
-      "publishedAt": "2026-07-29T16:01:26+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Bonus Retrofit 2026 al via: come ottenere fino a 800 euro per GPL e metano",
-      "link": "https://www.hdmotori.it/bonus-retrofit-2026-auto-gpl-metano/",
-      "excerpt": "Parte il Bonus Retrofit 2026: contributi da 400 euro per il GPL e 800 euro per il metano. Ecco requisiti, domanda e come funziona l'incentivo",
-      "image": "https://hd2.tudocdn.net/1359719?w=660",
-      "publishedAt": "2026-07-29T16:00:05+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Stellantis venderà il car sharing di Free2move a Mutares",
@@ -140,15 +158,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Golden Dome accelera: Rocket Lab lancerà missili dall'Alaska",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n665822/rocket-lab-space-force-alaska/",
-      "excerpt": "Rocket Lab porterà i test missilistici USA in Alaska con 18 nuove missioni.",
-      "image": "https://hd2.tudocdn.net/1359690?w=660",
-      "publishedAt": "2026-07-29T15:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "I ricavi di SK hynix volano grazie all’IA, ma non basta: il mercato si aspettava ancora di più, giù le azioni",
       "link": "https://images.dday.it/sJxxwlQxqK4-CkljKtcKhTV8JpfGf6nx_lGqFf4rcLk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58207/caa6a0_Depositphotos_348871698_XL.jpg",
       "excerpt": "Ricavi a 79.320 miliardi di won e utile operativo in crescita del 557%. Anche SK hynix avverte: riequilibrio fra domanda e offerta solo dal 2030... Leggi tutto",
@@ -156,24 +165,6 @@
       "publishedAt": "2026-07-29T15:49:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "OnePlus si ferma in Italia: cosa succede ora agli utenti",
-      "link": "https://www.tomshw.it/smartphone/oneplus-ferma-i-nuovi-lanci-in-italia-aggiornamenti-e-assistenza-garantiti",
-      "excerpt": "Gli smartphone OnePlus già acquistati in Italia continueranno a ricevere gli aggiornamenti software e le patch di sicurezza previsti, nonostante la conclusione dei nuovi lanci del…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104309/news-flash-611418.png",
-      "publishedAt": "2026-07-29T15:23:17+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "EA, il CEO incassa 38,7 milioni mentre piovono licenziamenti",
-      "link": "https://www.tomshw.it/videogioco/electronic-arts-compenso-del-ceo-a-38-7-milioni-tra-mille-licenziamenti",
-      "excerpt": "Electronic Arts ha attribuito al CEO Andrew Wilson un compenso totale di 38.694.984 dollari per il FY2026. La cifra supera di circa 8,17 milioni i 30.529.835 dollari…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104308/840_560.jpg",
-      "publishedAt": "2026-07-29T15:20:06+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "I dipendenti delle grandi società di IA hanno chiesto di frenare lo sviluppo dell’intelligenza artificiale di frontiera",
@@ -185,6 +176,15 @@
       "sourceColor": "#E63946"
     },
     {
+      "title": "Migliori smartphone con eSIM (luglio 2026)",
+      "link": "https://www.tomshw.it/smartphone/migliori-smartphone-con-esim",
+      "excerpt": "Gli smartphone con eSIM sono ormai una scelta concreta per chi vuole cambiare operatore, tenere separati numero personale e numero di lavoro o preparare una connessione dati prima…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/88198/migliori-smartphone-esim-copertina.jpg",
+      "publishedAt": "2026-07-29T11:39:58+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "Migliori micro SD per Steam Deck (luglio 2026)",
       "link": "https://www.tomshw.it/videogioco/migliori-micro-sd-steam-deck",
       "excerpt": "La console portatile di Valve permette di portare con sé una libreria Steam enorme, ma lo spazio interno diventa presto il primo limite concreto, soprattutto se alternate giochi…",
@@ -194,29 +194,20 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Migliori Ad Blocker (luglio 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-ad-blocker",
-      "excerpt": "Scegliere il miglior Ad Blocker significa trovare un equilibrio tra navigazione più pulita, privacy e compatibilità con i siti che visitate ogni giorno. Un buon blocco…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/05/94176/migliori-adblocker-copertina.jpg",
-      "publishedAt": "2026-07-29T11:23:31+00:00",
+      "title": "AI Act, il rinvio è legge ma il lavoro non si ferma",
+      "link": "https://www.tomshw.it/business/ai-act-il-rinvio-e-legge-ma-il-lavoro-non-si-ferma",
+      "excerpt": "Il regolamento (EU) 2026/1744, il cosiddetto AI Omnibus, è entrato in vigore il 27 luglio 2026, tre giorni dopo la pubblicazione in Gazzetta Ufficiale UE. Il testo riscrive parte…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104143/dtuhql52u6fk5nmep37bs.jpg",
+      "publishedAt": "2026-07-29T10:05:05+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Microsoft chiama OpenAI nei casi difficili di cybersecurity",
-      "link": "https://www.tomshw.it/business/microsoft-chiama-openai-nei-casi-difficili-di-cybersecurity",
-      "excerpt": "Microsoft integra il suo primo modello dedicato alla cybersecurity, MAI-Cyber-1-Flash, dentro MDASH, il sistema che orchestra oltre 100 agenti AI incaricati di individuare e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104141/hqbzzcsrcyaj58dw3ikad.jpg",
-      "publishedAt": "2026-07-29T09:55:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Un'IA ispirata al cervello umano, è super efficiente!",
-      "link": "https://www.tomshw.it/business/unia-ispirata-al-cervello-umano-e-super-efficiente",
-      "excerpt": "Un modello di intelligenza artificiale pianifica percorsi, ricompone forme e si orienta in spazi che non ha mai incontrato prima, senza bisogno di essere riaddestrato da zero ogni…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104140/gznahbrogdg19pgtfpwki.jpg",
-      "publishedAt": "2026-07-29T09:55:04+00:00",
+      "title": "Altri \"licenziamenti AI\", questa volta è il turno di ServiceNow",
+      "link": "https://www.tomshw.it/business/altri-licenziamenti-ai-questa-volta-e-il-turno-di-servicenow",
+      "excerpt": "ServiceNow taglia centinaia di posti di lavoro in una ristrutturazione globale che dura da mesi. La cifra esatta non compare da nessuna parte: l'azienda parla solo di una…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104142/5dszmrokloh72atus2lid.jpg",
+      "publishedAt": "2026-07-29T10:05:05+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -273,6 +264,15 @@
       "publishedAt": "2026-07-29T07:49:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
+    },
+    {
+      "title": "Qualcuno ha portato Half-Life su MacOS 9: ecco il port per PowerPC",
+      "link": "https://www.tomshw.it/videogioco/half-life-arriva-su-mac-os-9-disponibile-il-port-non-ufficiale-per-powerpc",
+      "excerpt": "Half-Life è finalmente giocabile su Mac OS 9 grazie a un port non ufficiale reso disponibile il 14 luglio 2026. È una build compilata per veri Macintosh PowerPC, dotata di un…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104068/amarcord-cover-608934.png",
+      "publishedAt": "2026-07-29T07:32:56+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     }
   ]
 }
