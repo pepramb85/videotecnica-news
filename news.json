@@ -1,80 +1,206 @@
 {
-  "generatedAt": "2026-07-29T08:25:39.798444+00:00",
+  "generatedAt": "2026-07-29T11:55:48.958837+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Find Hub, Google aggiunge un pulsante che sarebbe dovuto esserci da sempre",
-      "link": "https://www.hdblog.it/google/articoli/n665758/google-find-hub-pulsante-rimuovi/",
-      "excerpt": "Google ha aggiornato Find Hub introducendo la possibilità di rimuovere dall'elenco i dispositivi associati al proprio account. Una funzione semplice ma molto attesa da chi negli…",
-      "image": "https://hd2.tudocdn.net/1180638?w=660",
-      "publishedAt": "2026-07-29T08:25:00+00:00",
+      "title": "Il nuovo chip Espressif può diventare il cuore della casa connessa",
+      "link": "https://www.tomshw.it/hardware/il-nuovo-chip-esp32-s31-porta-wi-fi-6-e-matter-nel-fai-da-te",
+      "excerpt": "Espressif ha avviato la distribuzione del nuovo ESP32-S31, un microcontrollore pensato per progetti IoT, dispositivi domestici connessi e sistemi fai da te più complessi.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104201/il-nuovo-chip-esp32-s31-porta-wi-fi-6-e-matter-nel-fai-da-te.png",
+      "publishedAt": "2026-07-29T11:51:07+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Le smart TV da 100 pollici stanno diventando la nuova normalità",
+      "link": "https://www.hdblog.it/tv/articoli/n665795/tv-100-pollici-sempre-piu-diffusi/",
+      "excerpt": "I televisori da 100 pollici stanno diventando sempre più diffusi grazie al calo dei prezzi e all'arrivo di nuovi modelli firmati TCL, Hisense, Samsung, LG e presto anche Philips.…",
+      "image": "https://hd2.tudocdn.net/1359659?w=660",
+      "publishedAt": "2026-07-29T11:40:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Altro che rincari: questa CPU AMD crolla a 93€ grazie ad AliExpress",
-      "link": "https://www.tomshw.it/hardware/amd-ryzen-5-7500f-in-offerta-su-aliexpress-63-2026-07-29",
-      "excerpt": "Su AliExpress è disponibile un'ottima offerta sul Processore AMD Ryzen 5 7500F, con 6 Core, 12 Thread, frequenza fino a 5.0GHz e 32MB di Game Cache, socket AM5 con supporto DDR5.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104094/amd-ryzen-5-7500f-in-offerta-su-aliexpress-63-2026-07-29-ytl0N5r7g338ivtvaqb43Gjhh.jpg",
-      "publishedAt": "2026-07-29T08:24:20+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il Core i9 mai venduto da Intel vola a 7,4 GHz",
-      "link": "https://www.tomshw.it/hardware/il-core-i9-mai-venduto-da-intel-vola-a-74-ghz",
-      "excerpt": "Intel non ha mai portato nei negozi il Core i9-14901KE, ma un engineering sample del processore ha raggiunto una frequenza massima di 7,4 GHz durante una sessione di overclock…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104055/il-core-i9-mai-venduto-da-intel-vola-a-7-4-ghz.png",
-      "publishedAt": "2026-07-29T08:20:47+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Meta nei guai, 4 Stati chiedono fino a 1.400 miliardi di dollari nel processo sui minori",
-      "link": "https://www.tomshw.it/hardware/meta-per-l-azienda-4-stati-chiedono-fino-a-1-400-miliardi",
-      "excerpt": "Le sanzioni potenziali nel prossimo processo federale contro Meta Platforms potrebbero raggiungere 1,4 trilioni di dollari. La cifra riguarda le richieste di California, Colorado,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104088/news-flash-609347.png",
-      "publishedAt": "2026-07-29T08:18:35+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Tesla torna a scommettere sul solare per alimentare l'AI",
-      "link": "https://www.tomshw.it/hardware/tesla-torna-a-scommettere-sul-solare-per-alimentare-lai",
-      "excerpt": "Tesla ha firmato due accordi di lungo periodo per acquistare energia da impianti solari statunitensi con circa 600 megawatt di capacità pianificata. I contratti rafforzano…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104048/tesla-torna-a-scommettere-sul-solare-per-alimentare-l-ai.png",
-      "publishedAt": "2026-07-29T08:18:07+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "PayPal rifiuta l'offerta di acquisizione di Stripe, ma è solo questione di soldi",
-      "link": "https://www.hdblog.it/business/articoli/n665759/paypal-acquisizione-offerta-stripe/",
-      "excerpt": "Il messaggio ai potenziali compratori è cristallino: offrite di più.",
-      "image": "https://hd2.tudocdn.net/1340850?w=660",
-      "publishedAt": "2026-07-29T08:15:00+00:00",
+      "title": "Verso l’abolizione del bollo auto? La tassa sul possesso vale 7,5 miliardi",
+      "link": "https://www.hdmotori.it/verso-abolizione-bollo-auto-tassa-possesso/",
+      "excerpt": "Il ministro Tajani rilancia l'idea di eliminare una delle tasse automobilistiche più odiate, ma si creerebbe un buco finanziario da 7,5 miliardi di euro per le Regioni.",
+      "image": "https://hd2.tudocdn.net/1340959?w=660",
+      "publishedAt": "2026-07-29T11:30:55+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Google Docs diventa più intelligente: Gemini crea grafica senza uscire dal documento",
-      "link": "https://www.hdblog.it/google/articoli/n665744/gemini-google-docs-immagini-ai/",
-      "excerpt": "Gemini crea immagini, diagrammi e infografiche direttamente in Google Docs.",
-      "image": "https://hd2.tudocdn.net/1354195?w=660",
-      "publishedAt": "2026-07-29T08:05:00+00:00",
+      "title": "Ted Lasso, finalmente ci siamo: la quarta stagione arriva tra pochi giorni | Trailer",
+      "link": "https://www.hdblog.it/apple/articoli/n665796/apple-tv-ted-lasso-stagione-4-quando-trailer/",
+      "excerpt": "Appuntamento a mercoledì prossimo!",
+      "image": "https://hd2.tudocdn.net/1359660?w=660",
+      "publishedAt": "2026-07-29T11:25:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "I migliori titoli indie in sconto su Instant Gaming",
-      "link": "https://www.tomshw.it/videogioco/i-migliori-titoli-indie-in-sconto-su-instant-gaming",
-      "excerpt": "Aggiornamento 29/07: tra le offerte più rilevanti dei giochi indie di questa settimana troviamo Town to City, Valheim e altri. Se siete appassionati di videogiochi, probabilmente…",
-      "image": "https://cdn.tomshw.it/storage/media/2025/12/78383/I-migliori-titoli-indie-in-sconto-su-Instant-Gaming.jpg",
-      "publishedAt": "2026-07-29T08:04:37+00:00",
+      "title": "Fotografa la ISS accanto a Venere di giorno: l'impresa di un astrofotografo",
+      "link": "https://www.hdblog.it/fotografia/articoli/n665743/iss-venere-foto-giorno/",
+      "excerpt": "Una rarissima immagine mostra la ISS accanto a Venere in pieno giorno.",
+      "image": "https://hd2.tudocdn.net/1359526?w=660",
+      "publishedAt": "2026-07-29T11:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Logitech, le batterie sostituibili saranno proposte solo in Europa",
+      "link": "https://www.hdblog.it/hardware/articoli/n665792/logitech-batterie-removibili-solo-europa-mouse/",
+      "excerpt": "Non è solo questione di costi di produzione, ma anche di design, peso e comodità. E poi, in quanti davvero preferiranno mettersi a riparare il mouse invece di semplicemente…",
+      "image": "https://hd2.tudocdn.net/1357613?w=660",
+      "publishedAt": "2026-07-29T11:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "4K120 e ottica Leica nello zaino: Insta360 Ace Pro a 235€",
+      "link": "https://www.tomshw.it/offerte/4k120-e-ottica-leica-nello-zaino-insta360-ace-pro-a-235eur",
+      "excerpt": "A 235€ su Amazon, Insta360 Ace Pro passa dal listino di 329,99€ a uno sconto del 29%, con un risparmio di 94,99€. Il sensore da 1/1,3 pollici, l’obiettivo Leica SUMMARIT e la…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104186/tomshw-offer-610191.png",
+      "publishedAt": "2026-07-29T11:02:48+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Beyerdynamic lancia cuffie professionali per gli ambienti più rumorosi",
+      "link": "https://www.tomshw.it/smartphone/beyerdynamic-lancia-cuffie-professionali-per-gli-ambienti-piu-rumorosi",
+      "excerpt": "Beyerdynamic ha lanciato le nuove DT 275 Pro, cuffie professionali chiuse pensate per musicisti, podcaster, DJ, montatori video e tecnici che devono controllare l'audio anche in…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104181/beyerdynamic-lancia-cuffie-professionali-per-gli-ambienti-piu-rumorosi.png",
+      "publishedAt": "2026-07-29T10:56:39+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Stop a Escort Advisor in Italia: Agcom ordina l'oscuramento del sito",
+      "link": "https://www.hdblog.it/mercato/articoli/n665787/escort-advisor-blocco-perche-eta/",
+      "excerpt": "Escort Advisor sarà bloccato in Italia dopo il provvedimento di Agcom. Secondo l'Autorità, il sito consentiva l'accesso a immagini e video sessualmente espliciti senza un efficace…",
+      "image": "https://hd2.tudocdn.net/1359647?w=660",
+      "publishedAt": "2026-07-29T10:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Colorful porta i 120 Hz sul nuovo laptop Rimbook L1 Plus",
+      "link": "https://www.tomshw.it/hardware/colorful-porta-i-120-hz-sul-nuovo-laptop-rimbook-l1-plus",
+      "excerpt": "Colorful ha lanciato di recente il Rimbook L1 Plus, un portatile da 16 pollici indirizzato a studenti, professionisti e creatori. Il nuovo modello combina uno chassis metallico da…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104178/colorful-porta-i-120-hz-sul-nuovo-laptop-rimbook-l1-plus.png",
+      "publishedAt": "2026-07-29T10:50:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "L'Italia è nel mirino del ransomware, 148 attacchi in sei mesi",
+      "link": "https://www.tomshw.it/hardware/litalia-e-nel-mirino-del-ransomware-148-attacchi-in-sei-mesi",
+      "excerpt": "Le organizzazioni italiane hanno affrontato 148 attacchi confermati di ransomware nel primo semestre del 2026. Il bilancio fotografa una pressione costante contro imprese ed enti…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104177/l-italia-e-nel-mirino-del-ransomware-148-attacchi-in-sei-mesi.png",
+      "publishedAt": "2026-07-29T10:48:59+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "ASRock porta sul mercato una GPU con 4 GB di memoria video, ed è subito 2020",
+      "link": "https://www.hdblog.it/hardware/articoli/n665780/asrock-nuova-gpu-4-gb-memoria-obsoleta/",
+      "excerpt": "Un prodotto pensato per pochi, praticamente nessuno",
+      "image": "https://hd2.tudocdn.net/1359638?w=660",
+      "publishedAt": "2026-07-29T10:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La tessera Einstein potrebbe nascondere un materiale quantistico",
+      "link": "https://www.tomshw.it/scienze/la-tessera-einstein-potrebbe-nascondere-un-materiale-quantistico",
+      "excerpt": "Un gruppo di quattro ricercatori in Giappone, guidato da Yuto Moritake dell'Institute of Industrial Science dell'Università di Tokyo, ha trasformato una celebre forma matematica…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104173/la-tessera-einstein-potrebbe-nascondere-un-materiale-quantistico.png",
+      "publishedAt": "2026-07-29T10:40:51+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Robot umanoidi nelle fabbriche tessili: la nuova sfida dell'automazione",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n665738/robot-umanoidi-fabbriche-tessili/",
+      "excerpt": "2.000 robot umanoidi entreranno nelle fabbriche tessili per aumentare produttività ed efficienza.",
+      "image": "https://hd2.tudocdn.net/1359509?w=660",
+      "publishedAt": "2026-07-29T10:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Bentley celebra gli 80 anni di Crewe con una one-off ribelle: una Continental unica al mondo",
+      "link": "https://www.hdmotori.it/bentley-80-anni-crewe-one-off-continental/",
+      "excerpt": "La Casa britannica festeggia un traguardo prestigioso, dopo anni 80 anni nello stabilimento di Crewe, con una Continental GTC one-off realizzata da Mulliner.",
+      "image": "https://hd2.tudocdn.net/1359648?w=660",
+      "publishedAt": "2026-07-29T10:30:09+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Europa, caldo e incendi arrivano prima: i Paesi faticano ad adattarsi",
+      "link": "https://www.tomshw.it/scienze/europa-caldo-e-incendi-arrivano-prima-i-paesi-faticano-ad-adattarsi",
+      "excerpt": "Caldo record, siccità, grandi incendi e temporali violenti si stanno susseguendo in Europa con una continuità che mette sotto pressione territori, infrastrutture e sistemi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104151/news-flash-609888.png",
+      "publishedAt": "2026-07-29T10:30:06+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Pixel Watch 5 avvistato nell'app ufficiale di Google Health",
+      "link": "https://www.hdblog.it/indossabili/articoli/n665786/google-pixel-watch-5-avvistato-app-health/",
+      "excerpt": "Poche le anticipazioni ufficiali - del resto sembra che sarà un minor update quest'anno.",
+      "image": "https://hd2.tudocdn.net/1337598?w=660",
+      "publishedAt": "2026-07-29T10:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Q9, il SUV più grande di Audi arriva con sette posti e motori mild hybrid. In futuro anche plug-in",
+      "link": "https://images.dday.it/oJq-DQ4PgsdZ7Yl0DYDDEO80q9chly7QEakHYvpmc_0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58203/35275c_q9_thumb.jpg",
+      "excerpt": "Lunga 5,31 metri, la nuova ammiraglia sarà disponibile in Italia nel quarto trimestre. Al lancio motori 3.0 TDI mild hybrid da 245 e 299 CV... Leggi tutto",
+      "image": "https://images.dday.it/oJq-DQ4PgsdZ7Yl0DYDDEO80q9chly7QEakHYvpmc_0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58203/35275c_q9_thumb.jpg",
+      "publishedAt": "2026-07-29T09:51:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "L'AI Microsoft trova un sacco di bug, ma (forse) è più fumo che arrosto",
+      "link": "https://www.tomshw.it/business/lai-microsoft-trova-un-sacco-di-bug-ma-forse-e-piu-fumo-che-arrosto",
+      "excerpt": "Wiz ha portato Project Atlas, il suo agente AI per la caccia alle vulnerabilità, al 90,9% di successo sul confronto di settore CyberGym. Microsoft risponde con MDASH, il sistema…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104136/vkoktaxjndkvkk85knpys.jpg",
+      "publishedAt": "2026-07-29T09:50:05+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Erbacce, patio sporco e vialetti da pulire: le offerte Kärcher su Amazon per sistemare il giardino dopo le vacanze",
+      "link": "https://images.dday.it/FI3OXklhGhxVzexl5FGgqYIYMb9TtXdrrgVqyK3nAic/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58200/a5287e_cover_Screenshot_2026-07-29_alle_11.22.00_copia.png",
+      "excerpt": "Dal muschio tra le fughe allo sporco accumulato sul patio: tre prodotti Kärcher in offerta su Amazon aiutano ad affrontare i principali lavori di pulizia degli spazi esterni di…",
+      "image": "https://images.dday.it/FI3OXklhGhxVzexl5FGgqYIYMb9TtXdrrgVqyK3nAic/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58200/a5287e_cover_Screenshot_2026-07-29_alle_11.22.00_copia.png",
+      "publishedAt": "2026-07-29T09:26:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Gli Stati Uniti vietano nuovi robot e inverter prodotti all’estero. Nel mirino soprattutto la Cina",
+      "link": "https://images.dday.it/_ECEJFH5wjEgjHAKvA_JcHpGvprlhgC-sTOFbyzv0fo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58201/6f0fa1_Depositphotos_795770258_XL.jpg",
+      "excerpt": "Le restrizioni riguardano robot umanoidi, quadrupedi e altri dispositivi mobili connessi. Ma la definizione è così ampia da poter includere anche i robot aspirapolvere... Leggi…",
+      "image": "https://images.dday.it/_ECEJFH5wjEgjHAKvA_JcHpGvprlhgC-sTOFbyzv0fo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58201/6f0fa1_Depositphotos_795770258_XL.jpg",
+      "publishedAt": "2026-07-29T09:12:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "TM Roh, Samsung: “Anche con l'IA lo smartphone resterà centrale nei prossimi anni”",
+      "link": "https://images.dday.it/6b8WLQhl-sWkqgijbR8d_qnCKhXVkV8Tle0kJdrvrkQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58202/548608_tm.jpg",
+      "excerpt": "Per il co-CEO di Samsung, nonostante l'IA venga vista come l'elemento che a tendere toglierà lo smartphone dalle mani degli utenti, nei prossimi anni lo smartphone resterà ancora…",
+      "image": "https://images.dday.it/6b8WLQhl-sWkqgijbR8d_qnCKhXVkV8Tle0kJdrvrkQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58202/548608_tm.jpg",
+      "publishedAt": "2026-07-29T09:11:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Prima di Hugging Face, gli agenti di OpenAI hanno colpito altri servizi. Ecco come sono davvero andate le cose",
@@ -86,33 +212,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "L’OLED LG più luminoso di sempre è già al minimo: 1.754€",
-      "link": "https://www.tomshw.it/offerte/loled-lg-piu-luminoso-di-sempre-e-gia-al-minimo-1754eur",
-      "excerpt": "A 1.754€ su Amazon, LG OLED evo AI G6S da 55 pollici scende dai 2.499€ di listino: il taglio del 30% vale 745€ e coincide con il minimo storico. È il televisore pensato per chi…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104085/tomshw-offer-609283.png",
-      "publishedAt": "2026-07-29T08:03:44+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Galaxy Z Fold 8 Ultra, miglioramenti prestazionali e termici in arrivo",
-      "link": "https://www.hdblog.it/smartphone/articoli/n665752/samsung-galaxy-z-fold-8-ultra-firmware-agosto/",
-      "excerpt": "Il device non è ancora nemmeno uscito che già si parla di upgrade.",
-      "image": "https://hd2.tudocdn.net/1357534?w=660",
-      "publishedAt": "2026-07-29T07:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Oltre 600 t-shirt Pampling in offerta da 9,99€: anche le novità finiscono in saldo",
-      "link": "https://www.tomshw.it/altro/oltre-600-t-shirt-pampling-in-offerta-da-999eur-anche-le-novita-finiscono-in-saldo",
-      "excerpt": "Negli ultimi giorni Pampling ha dato il via a una nuova iniziativa dedicata agli amanti delle t-shirt illustrate, mettendo in primo piano una selezione di oltre 600 modelli…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102595/Pampling-fa-impazzire-il-web-oltre-600-T-Shirt-in-saldo-a-partire-da-soli-9,99€!.png",
-      "publishedAt": "2026-07-29T07:54:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Anche HBO Max si dà ai video verticali e lancia una ricerca dei contenuti con l’IA",
       "link": "https://images.dday.it/8MJzlhFWFKp3hW8Hwg8QEmvYTW_QDfR3I-lzn7UP9ZU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58198/0e02a8_Shorts_-_Static.jpg",
       "excerpt": "Come per Netflix e Disney+ non si tratta di produzioni specifiche in questo formato ma clip per invogliare a guardare i contenuti “orizzontali”... Leggi tutto",
@@ -120,69 +219,6 @@
       "publishedAt": "2026-07-29T07:49:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Dipendenza da smartphone, questa chiave da 7 euro potrebbe essere la soluzione",
-      "link": "https://www.hdblog.it/smartphone/articoli/n665675/dipendenza-da-smartphone-chiave-soluzione/",
-      "excerpt": "Non convenzionale",
-      "image": "https://hd2.tudocdn.net/1359386?w=660",
-      "publishedAt": "2026-07-29T07:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "WhatsApp semplifica l’invio dello stesso vocale a più persone",
-      "link": "https://www.hdblog.it/android/articoli/n665749/whatsapp-vocali-invio-multiplo-android-widget/",
-      "excerpt": "WhatsApp beta per Android introduce un widget dedicato ai messaggi vocali, che permette di registrare una nota audio dalla home e inviarla contemporaneamente a più contatti",
-      "image": "https://hd2.tudocdn.net/1103140?w=660",
-      "publishedAt": "2026-07-29T07:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Silvestri MN-40 Tributo, una moderna Ferrari F40 con motore V12",
-      "link": "https://www.hdmotori.it/silvestri-mn-40-tributo-ferrari-f40/",
-      "excerpt": "Silvestri Automobili è una nuova realtà della Motor Valley nostrana. La serie limitata rende omaggio alla mitica Ferrari F40.",
-      "image": "https://hd2.tudocdn.net/1359525?w=660",
-      "publishedAt": "2026-07-29T07:30:57+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung Galaxy S26 FE, confermata la velocità di ricarica",
-      "link": "https://www.hdblog.it/smartphone/articoli/n665748/samsung-galaxy-s26-fe-ricarica-velocita/",
-      "excerpt": "45 W, come il diretto predecessore S25 FE.",
-      "image": "https://hd2.tudocdn.net/1328964?w=660",
-      "publishedAt": "2026-07-29T07:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "L'ultimo zaino Xiaomi promette di resistere ai maltrattamenti di ogni giorno",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n665745/xiaomi-business-backpack-2-zaino-prezzo/",
-      "excerpt": "Il nuovo Xiaomi Mijia Business Backpack 2 offre una capacità di 23 litri, tasche dedicate agli accessori, spallacci imbottiti e un rivestimento esterno sviluppato per resistere a…",
-      "image": "https://hd2.tudocdn.net/1359510?w=660",
-      "publishedAt": "2026-07-29T07:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "DJI Osmo 360 Combo Adventure a 429€: nuovo minimo Amazon e 32% di sconto",
-      "link": "https://www.hdblog.it/fotografia/offerte/n665742/dji-osmo-360-combo-adventure-offerta-amazon/",
-      "excerpt": "DJI Osmo 360 Adventure Combo è in offerta su Amazon a 429€: camera 360 con video 8K, memoria da 105GB, tre batterie e manico invisibile.",
-      "image": "https://hd2.tudocdn.net/1359519?w=660",
-      "publishedAt": "2026-07-29T07:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "GKU D600Pro: la dash cam 4K anteriore e posteriore oggi costa meno",
-      "link": "https://www.tomshw.it/hardware/gku-d600pro-dash-cam-4k-in-offerta-2026-07-29",
-      "excerpt": "La GKU D600Pro è una dash cam doppia che registra davanti in 4K e dietro in Full HD, con GPS e Wi-Fi per consultare più facilmente i filmati. Il prezzo scende da 99,99€ a 79,99€,…",
-      "image": "https://cdn.tomshw.it/storage/media/2025/02/48891/GKU-D600Pro-copertina.jpg",
-      "publishedAt": "2026-07-29T07:03:58+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Ora puoi fare le chiamate con WhatsApp anche dal web",
@@ -194,20 +230,20 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Migliori droni senza patentino (luglio 2026)",
-      "link": "https://www.tomshw.it/altro/migliori-droni-economici",
-      "excerpt": "Se le prestazioni dei migliori droni vi hanno fatto venire voglia di iniziare a volare, i modelli sotto i 250 grammi restano il modo più semplice per entrare in questo mondo. In…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/86732/migliori-droni-senza-patentino-copertina.jpg",
-      "publishedAt": "2026-07-29T06:20:31+00:00",
+      "title": "Migliori robot lavapavimenti (luglio 2026)",
+      "link": "https://www.tomshw.it/altro/migliori-robot-lavapavimenti",
+      "excerpt": "Scegliere i migliori robot lavapavimenti nel 2026 è meno semplice di quanto sembri, perché la categoria è cambiata parecchio. Non basta più chiedersi se un modello aspiri bene o…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/86806/migliori-robot-lavapavimenti-copertina.jpg",
+      "publishedAt": "2026-07-29T06:39:34+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Shein in rosso: perdita di 99 milioni, IPO da 50 miliardi",
-      "link": "https://www.tomshw.it/business/shein-da-395-milioni-di-utile-a-99-di-perdita-ipo-fino",
-      "excerpt": "Shein ha chiuso il primo trimestre 2026 con una perdita netta di 99 milioni di dollari, contro l'utile di 395 milioni registrato nello stesso periodo dell'anno precedente.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103930/731832.jpg",
-      "publishedAt": "2026-07-28T15:05:04+00:00",
+      "title": "Né TV né schermo, il \"cartello digitale\" è un'altra cosa (e dovresti conoscerla)",
+      "link": "https://www.tomshw.it/business/ne-tv-ne-schermo-il-cartello-digitale-e-unaltra-cosa-e-dovresti-conoscerla",
+      "excerpt": "Entrate in un hotel e trovate un televisore in camera: è in realtà uno schermo professionale, e potete guardarci Netflix come fareste a casa, ma qualcuno, da un ufficio che può…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103944/Cover-cartello-digitale.png",
+      "publishedAt": "2026-07-28T15:50:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -235,42 +271,6 @@
       "excerpt": "Il vicepremier ha inserito la cancellazione della tassa tra gli obiettivi fiscali di Forza Italia. Il principale ostacolo resta la copertura necessaria per compensare le…",
       "image": "https://images.dday.it/kf0uya8WpYqbVX4CzyC_jX70QGPtp-RsVqQ_jyYiWFo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58195/4d75a1_auto_thumb.jpg",
       "publishedAt": "2026-07-28T13:42:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Quanto sei veloce a pensare? Te lo dice un rompicapo online dell'Università di Leeds",
-      "link": "https://images.dday.it/0AtWfJkAvEPJTThRJm3BZiU10x91Rm5UQIRxCs1VlV8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58193/08eacc_ChatGPT_Image_28_lug_2026__15_28_57.png",
-      "excerpt": "Dietro DecryptIQ c'è uno studio sulla risoluzione dei problemi, e infatti chi gioca può scegliere di fornire i dati alla ricerca. Il punteggio medio è 100 ... Leggi tutto",
-      "image": "https://images.dday.it/0AtWfJkAvEPJTThRJm3BZiU10x91Rm5UQIRxCs1VlV8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58193/08eacc_ChatGPT_Image_28_lug_2026__15_28_57.png",
-      "publishedAt": "2026-07-28T13:30:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Amodei: \"Anthropic non ha mai chiesto di vietare i modelli a pesi aperti\"",
-      "link": "https://images.dday.it/WZ3aV2bUsGiXk6nHyDptLdK4bqxO7IptqX8KsJgCM50/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58192/7aa871_ChatGPT_Image_28_lug_2026__12_26_47.png",
-      "excerpt": "Il capo di Anthropic risponde alla lettera sui modelli open che non ha firmato: stop ai chip verso la Cina e alla distillazione industriale, e test di sicurezza obbligatori...…",
-      "image": "https://images.dday.it/WZ3aV2bUsGiXk6nHyDptLdK4bqxO7IptqX8KsJgCM50/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58192/7aa871_ChatGPT_Image_28_lug_2026__12_26_47.png",
-      "publishedAt": "2026-07-28T10:27:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Varta in difficoltà, chiesta l'insolvenza. Ma le pile domestiche e i power bank non c'entrano niente",
-      "link": "https://images.dday.it/ejmBkXQsQYbbev8vsEtXMDPumspfOb2aHtBhFE_C6Ho/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58190/4828e5_Depositphotos_298097102_XL.jpg",
-      "excerpt": "La Varta che produce e distribuisce pile domestiche e caricabatterie è estranea alla Varta coinvolta nella crisi... Leggi tutto",
-      "image": "https://images.dday.it/ejmBkXQsQYbbev8vsEtXMDPumspfOb2aHtBhFE_C6Ho/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58190/4828e5_Depositphotos_298097102_XL.jpg",
-      "publishedAt": "2026-07-28T09:53:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Microsoft ha lanciato il suo primo modello \"cyber\" per scovare le vulnerabilità nel codice",
-      "link": "https://images.dday.it/pV-kgpB9YtAMVrK9E582OzSgOoNOFDaa_10hCNtIyxg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58186/9e458a_aaaa.png",
-      "excerpt": "Si trova dentro la nuova piattaforma Perception, basata sul modello proprietario MAI-Cyber-1-Flash e GPT 5.4 che alimenta MDASH, il sistema con cui Microsoft contribuisce…",
-      "image": "https://images.dday.it/pV-kgpB9YtAMVrK9E582OzSgOoNOFDaa_10hCNtIyxg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58186/9e458a_aaaa.png",
-      "publishedAt": "2026-07-28T09:32:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
