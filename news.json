@@ -1,17 +1,143 @@
 {
-  "generatedAt": "2026-07-29T11:55:48.958837+00:00",
-  "count": 30,
-  "sourcesOk": 3,
+  "generatedAt": "2026-07-29T13:58:48.717551+00:00",
+  "count": 20,
+  "sourcesOk": 2,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Il nuovo chip Espressif può diventare il cuore della casa connessa",
-      "link": "https://www.tomshw.it/hardware/il-nuovo-chip-esp32-s31-porta-wi-fi-6-e-matter-nel-fai-da-te",
-      "excerpt": "Espressif ha avviato la distribuzione del nuovo ESP32-S31, un microcontrollore pensato per progetti IoT, dispositivi domestici connessi e sistemi fai da te più complessi.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104201/il-nuovo-chip-esp32-s31-porta-wi-fi-6-e-matter-nel-fai-da-te.png",
-      "publishedAt": "2026-07-29T11:51:07+00:00",
+      "title": "I giovani conoscono i rischi online, ma uno su quattro clicca comunque su link sospetti",
+      "link": "https://www.tomshw.it/altro/i-giovani-conoscono-i-rischi-online-ma-uno-su-quattro-clicca-su-link-sospetti",
+      "excerpt": "Conoscere i rischi della rete non significa necessariamente saperli evitare. È il quadro che emerge da una ricerca realizzata da YouGov per Kaspersky su un campione di 525 ragazzi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/02/83833/litalia-indietro-sullai-solo-il-50-dei-giovani-la-usa-2026-02-1tp16joa0uu6v5EfSLAv.png",
+      "publishedAt": "2026-07-29T13:51:59+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Kraiburg TPE presenta un materiale che nasconde i LED negli auricolari",
+      "link": "https://www.tomshw.it/smartphone/kraiburg-tpe-presenta-un-materiale-che-nasconde-i-led-negli-auricolari",
+      "excerpt": "Kraiburg TPE ha introdotto Light Effect TPE, un elastomero termoplastico sviluppato per auricolari wireless e altri dispositivi elettronici dotati di illuminazione. Il materiale…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104272/kraiburg-tpe-presenta-un-materiale-che-nasconde-i-led-negli-auricolari.png",
+      "publishedAt": "2026-07-29T13:50:31+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Nel 1851 un telescopio riuscì dove tutti avevano fallito",
+      "link": "https://www.tomshw.it/scienze/nel-1851-un-telescopio-riusci-dove-tutti-avevano-fallito",
+      "excerpt": "Nel 1851 il dagherrotipista prussiano Johann Berkowski puntò un piccolo telescopio verso un’eclissi solare totale e ottenne un’immagine che nessuno era ancora riuscito a…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104265/nel-1851-un-telescopio-riusci-dove-tutti-avevano-fallito.png",
+      "publishedAt": "2026-07-29T13:36:25+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Valve finanzia RADV su Windows, il driver open source per schede AMD",
+      "link": "https://www.tomshw.it/hardware/valve-finanzia-radv-su-windows-il-driver-open-source-per-schede-amd",
+      "excerpt": "Valve sta finanziando gli ingegneri di Collabora impegnati nel porting di RADV su Microsoft Windows. Il progetto è ancora esplorativo, ma ha già permesso di eseguire…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104256/valve-finanzia-radv-su-windows-il-driver-open-source-per-schede-amd.png",
+      "publishedAt": "2026-07-29T13:20:19+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "CMF by Nothing batte un colpo: in arrivo una nuova categoria di prodotti",
+      "link": "https://www.hdblog.it/nothing/articoli/n665794/cmf-nothing-cuffie-open-ear-clip-pro-auricolari/",
+      "excerpt": "Soliti teaser misteriosi: ecco di cosa dovrebbe trattarsi.",
+      "image": "https://hd2.tudocdn.net/1359661?w=660",
+      "publishedAt": "2026-07-29T13:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Valve migliora l'upscaling di Steam Machine con FSR 4.1",
+      "link": "https://www.tomshw.it/videogioco/valve-migliora-lupscaling-di-steam-machine-con-fsr-41",
+      "excerpt": "Valve ha portato il supporto a FSR 4.1 sulla Steam Machine attraverso il ramo di anteprima di Proton. L’aggiornamento permette ai possessori della console che utilizzano SteamOS…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104250/valve-migliora-lupscaling-di-steam-machine-con-fsr-41.png",
+      "publishedAt": "2026-07-29T13:11:22+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "DeepMind spiega perché gli LLM non possono fare scoperte da soli",
+      "link": "https://www.tomshw.it/scienze/deepmind-spiega-perche-gli-llm-non-possono-fare-scoperte-da-soli",
+      "excerpt": "Un paper di Google DeepMind, pubblicato di recente da Tom Zahavy, sostiene che gli attuali LLM non possano sostituire l'ingegno umano nella scoperta scientifica. Il limite non…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104247/deepmind-spiega-perche-gli-llm-non-possono-fare-scoperte-da-soli.png",
+      "publishedAt": "2026-07-29T13:09:45+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La nuova GPU integrata Intel potrebbe richiedere 65W dedicati",
+      "link": "https://www.tomshw.it/hardware/la-nuova-gpu-integrata-intel-potrebbe-richiedere-65-w-dedicati",
+      "excerpt": "Una nuova indiscrezione tecnica attribuisce a Intel Nova Lake-S una GPU integrata molto più ambiziosa rispetto alle soluzioni desktop tradizionali. Uno specifico modello della…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104239/la-nuova-gpu-integrata-intel-potrebbe-richiedere-65-w-dedicati.png",
+      "publishedAt": "2026-07-29T13:08:41+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Lucid accelera sul robotaxi Uber, 35 prototipi entro agosto",
+      "link": "https://www.tomshw.it/automotive/lucid-accelera-sul-robotaxi-uber-35-prototipi-entro-agosto",
+      "excerpt": "Lucid ha fissato ad agosto il completamento di 35 esemplari di validazione del robotaxi Gravity sviluppato con Nuro e Uber. Il traguardo deve chiudere la fase prototipale e aprire…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104244/lucid-accelera-sul-robotaxi-uber-35-prototipi-entro-agosto.png",
+      "publishedAt": "2026-07-29T13:06:59+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Pixel 10 Pro, DJI Osmo 360 e TV OLED 83'': le migliori offerte del 29 luglio",
+      "link": "https://www.hdblog.it/amazon/offerte/n665806/migliori-offerte-oggi-amazon-29-luglio-sconti/",
+      "excerpt": "Le migliori offerte tech di oggi su Amazon e MediaWorld: Pixel 10 Pro, DJI Osmo 360, Blink Mini, JBL Charge Essential 2 e TV OLED Samsung in forte sconto.",
+      "image": "https://hd2.tudocdn.net/1359674?w=660",
+      "publishedAt": "2026-07-29T13:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il 27” curvo da 180 Hz passa a 119€ su Amazon: MSI MAG 27C6F",
+      "link": "https://www.tomshw.it/offerte/il-27-curvo-da-180-hz-passa-a-119eur-su-amazon-msi-mag-27c6f",
+      "excerpt": "MSI MAG 27C6F costa 119€ su Amazon, con 60,99€ risparmiati sui 179,99€ di listino e uno sconto del 34%. I 180 Hz, il tempo di risposta di 0,5 ms e la curvatura 1500R compongono un…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104249/tomshw-offer-610699.png",
+      "publishedAt": "2026-07-29T13:04:45+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Batteria si carica al 97% in 8 minuti: l'exploit di Hongqi e Lishen Battery",
+      "link": "https://www.hdmotori.it/batteria-ricarica-rapida-hongqi-lishen-12c/",
+      "excerpt": "I test a 25°C confermano la ricarica dal 10% al 97% in 8 minuti. La nuova batteria a 12C riduce la resistenza interna del 15% e punta sul raffreddamento a liquido",
+      "image": "https://hd2.tudocdn.net/1359675?w=660",
+      "publishedAt": "2026-07-29T13:00:13+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Meccha Chameleon ha risolto un grave problema, i malware nascosti nelle mappe",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n665798/meccha-chameleon-problema-malware-mappe/",
+      "excerpt": "Alcune mappe MOD di MECCHA CHAMELEON pubblicate su Steam Workshop contenevano malware, si consiglia di aggiornare subito il gioco.",
+      "image": "https://hd2.tudocdn.net/1359665?w=660",
+      "publishedAt": "2026-07-29T12:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Scarafaggi vivi e minacce: eBay risarcisce con 56 milioni due giornalisti",
+      "link": "https://www.hdblog.it/mercato/articoli/n665799/ebay-intimidazioni-accordo-tribunale-milioni/",
+      "excerpt": "eBay ha accettato di pagare 55,7 milioni di dollari per chiudere la causa civile avviata dai giornalisti Ina e David Steiner, vittime di una campagna di intimidazioni che…",
+      "image": "https://hd2.tudocdn.net/1359663?w=660",
+      "publishedAt": "2026-07-29T12:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Ferrari spostati, arriva la Touring Superleggera Veloce12 Aperta con motore V12",
+      "link": "https://www.hdmotori.it/touring-superleggera-veloce12-aperta/",
+      "excerpt": "L’artigianalità del Made in Italy assume diverse forme. La Spider Touring Superleggera Veloce12 vanta un motore da 503 CV.",
+      "image": "https://hd2.tudocdn.net/1359664?w=660",
+      "publishedAt": "2026-07-29T12:00:32+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
     },
     {
       "title": "Le smart TV da 100 pollici stanno diventando la nuova normalità",
@@ -50,229 +176,13 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Logitech, le batterie sostituibili saranno proposte solo in Europa",
-      "link": "https://www.hdblog.it/hardware/articoli/n665792/logitech-batterie-removibili-solo-europa-mouse/",
-      "excerpt": "Non è solo questione di costi di produzione, ma anche di design, peso e comodità. E poi, in quanti davvero preferiranno mettersi a riparare il mouse invece di semplicemente…",
-      "image": "https://hd2.tudocdn.net/1357613?w=660",
-      "publishedAt": "2026-07-29T11:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "4K120 e ottica Leica nello zaino: Insta360 Ace Pro a 235€",
-      "link": "https://www.tomshw.it/offerte/4k120-e-ottica-leica-nello-zaino-insta360-ace-pro-a-235eur",
-      "excerpt": "A 235€ su Amazon, Insta360 Ace Pro passa dal listino di 329,99€ a uno sconto del 29%, con un risparmio di 94,99€. Il sensore da 1/1,3 pollici, l’obiettivo Leica SUMMARIT e la…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104186/tomshw-offer-610191.png",
-      "publishedAt": "2026-07-29T11:02:48+00:00",
+      "title": "L'agente di OpenAI non ha bucato solo Hugging Face",
+      "link": "https://www.tomshw.it/business/lagente-di-openai-non-ha-bucato-solo-hugging-face",
+      "excerpt": "Il sandbox pensato per isolare i test, bucato da uno zero-day mai visto prima Un agente AI di OpenAI ha individuato una vulnerabilità zero-day mai documentata prima e l'ha usata…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104138/al25rx8sipy4l4x0gpfo3.jpg",
+      "publishedAt": "2026-07-29T09:55:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Beyerdynamic lancia cuffie professionali per gli ambienti più rumorosi",
-      "link": "https://www.tomshw.it/smartphone/beyerdynamic-lancia-cuffie-professionali-per-gli-ambienti-piu-rumorosi",
-      "excerpt": "Beyerdynamic ha lanciato le nuove DT 275 Pro, cuffie professionali chiuse pensate per musicisti, podcaster, DJ, montatori video e tecnici che devono controllare l'audio anche in…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104181/beyerdynamic-lancia-cuffie-professionali-per-gli-ambienti-piu-rumorosi.png",
-      "publishedAt": "2026-07-29T10:56:39+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Stop a Escort Advisor in Italia: Agcom ordina l'oscuramento del sito",
-      "link": "https://www.hdblog.it/mercato/articoli/n665787/escort-advisor-blocco-perche-eta/",
-      "excerpt": "Escort Advisor sarà bloccato in Italia dopo il provvedimento di Agcom. Secondo l'Autorità, il sito consentiva l'accesso a immagini e video sessualmente espliciti senza un efficace…",
-      "image": "https://hd2.tudocdn.net/1359647?w=660",
-      "publishedAt": "2026-07-29T10:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Colorful porta i 120 Hz sul nuovo laptop Rimbook L1 Plus",
-      "link": "https://www.tomshw.it/hardware/colorful-porta-i-120-hz-sul-nuovo-laptop-rimbook-l1-plus",
-      "excerpt": "Colorful ha lanciato di recente il Rimbook L1 Plus, un portatile da 16 pollici indirizzato a studenti, professionisti e creatori. Il nuovo modello combina uno chassis metallico da…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104178/colorful-porta-i-120-hz-sul-nuovo-laptop-rimbook-l1-plus.png",
-      "publishedAt": "2026-07-29T10:50:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "L'Italia è nel mirino del ransomware, 148 attacchi in sei mesi",
-      "link": "https://www.tomshw.it/hardware/litalia-e-nel-mirino-del-ransomware-148-attacchi-in-sei-mesi",
-      "excerpt": "Le organizzazioni italiane hanno affrontato 148 attacchi confermati di ransomware nel primo semestre del 2026. Il bilancio fotografa una pressione costante contro imprese ed enti…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104177/l-italia-e-nel-mirino-del-ransomware-148-attacchi-in-sei-mesi.png",
-      "publishedAt": "2026-07-29T10:48:59+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "ASRock porta sul mercato una GPU con 4 GB di memoria video, ed è subito 2020",
-      "link": "https://www.hdblog.it/hardware/articoli/n665780/asrock-nuova-gpu-4-gb-memoria-obsoleta/",
-      "excerpt": "Un prodotto pensato per pochi, praticamente nessuno",
-      "image": "https://hd2.tudocdn.net/1359638?w=660",
-      "publishedAt": "2026-07-29T10:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "La tessera Einstein potrebbe nascondere un materiale quantistico",
-      "link": "https://www.tomshw.it/scienze/la-tessera-einstein-potrebbe-nascondere-un-materiale-quantistico",
-      "excerpt": "Un gruppo di quattro ricercatori in Giappone, guidato da Yuto Moritake dell'Institute of Industrial Science dell'Università di Tokyo, ha trasformato una celebre forma matematica…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104173/la-tessera-einstein-potrebbe-nascondere-un-materiale-quantistico.png",
-      "publishedAt": "2026-07-29T10:40:51+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Robot umanoidi nelle fabbriche tessili: la nuova sfida dell'automazione",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n665738/robot-umanoidi-fabbriche-tessili/",
-      "excerpt": "2.000 robot umanoidi entreranno nelle fabbriche tessili per aumentare produttività ed efficienza.",
-      "image": "https://hd2.tudocdn.net/1359509?w=660",
-      "publishedAt": "2026-07-29T10:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Bentley celebra gli 80 anni di Crewe con una one-off ribelle: una Continental unica al mondo",
-      "link": "https://www.hdmotori.it/bentley-80-anni-crewe-one-off-continental/",
-      "excerpt": "La Casa britannica festeggia un traguardo prestigioso, dopo anni 80 anni nello stabilimento di Crewe, con una Continental GTC one-off realizzata da Mulliner.",
-      "image": "https://hd2.tudocdn.net/1359648?w=660",
-      "publishedAt": "2026-07-29T10:30:09+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Europa, caldo e incendi arrivano prima: i Paesi faticano ad adattarsi",
-      "link": "https://www.tomshw.it/scienze/europa-caldo-e-incendi-arrivano-prima-i-paesi-faticano-ad-adattarsi",
-      "excerpt": "Caldo record, siccità, grandi incendi e temporali violenti si stanno susseguendo in Europa con una continuità che mette sotto pressione territori, infrastrutture e sistemi…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104151/news-flash-609888.png",
-      "publishedAt": "2026-07-29T10:30:06+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Pixel Watch 5 avvistato nell'app ufficiale di Google Health",
-      "link": "https://www.hdblog.it/indossabili/articoli/n665786/google-pixel-watch-5-avvistato-app-health/",
-      "excerpt": "Poche le anticipazioni ufficiali - del resto sembra che sarà un minor update quest'anno.",
-      "image": "https://hd2.tudocdn.net/1337598?w=660",
-      "publishedAt": "2026-07-29T10:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Q9, il SUV più grande di Audi arriva con sette posti e motori mild hybrid. In futuro anche plug-in",
-      "link": "https://images.dday.it/oJq-DQ4PgsdZ7Yl0DYDDEO80q9chly7QEakHYvpmc_0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58203/35275c_q9_thumb.jpg",
-      "excerpt": "Lunga 5,31 metri, la nuova ammiraglia sarà disponibile in Italia nel quarto trimestre. Al lancio motori 3.0 TDI mild hybrid da 245 e 299 CV... Leggi tutto",
-      "image": "https://images.dday.it/oJq-DQ4PgsdZ7Yl0DYDDEO80q9chly7QEakHYvpmc_0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58203/35275c_q9_thumb.jpg",
-      "publishedAt": "2026-07-29T09:51:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "L'AI Microsoft trova un sacco di bug, ma (forse) è più fumo che arrosto",
-      "link": "https://www.tomshw.it/business/lai-microsoft-trova-un-sacco-di-bug-ma-forse-e-piu-fumo-che-arrosto",
-      "excerpt": "Wiz ha portato Project Atlas, il suo agente AI per la caccia alle vulnerabilità, al 90,9% di successo sul confronto di settore CyberGym. Microsoft risponde con MDASH, il sistema…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104136/vkoktaxjndkvkk85knpys.jpg",
-      "publishedAt": "2026-07-29T09:50:05+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Erbacce, patio sporco e vialetti da pulire: le offerte Kärcher su Amazon per sistemare il giardino dopo le vacanze",
-      "link": "https://images.dday.it/FI3OXklhGhxVzexl5FGgqYIYMb9TtXdrrgVqyK3nAic/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58200/a5287e_cover_Screenshot_2026-07-29_alle_11.22.00_copia.png",
-      "excerpt": "Dal muschio tra le fughe allo sporco accumulato sul patio: tre prodotti Kärcher in offerta su Amazon aiutano ad affrontare i principali lavori di pulizia degli spazi esterni di…",
-      "image": "https://images.dday.it/FI3OXklhGhxVzexl5FGgqYIYMb9TtXdrrgVqyK3nAic/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58200/a5287e_cover_Screenshot_2026-07-29_alle_11.22.00_copia.png",
-      "publishedAt": "2026-07-29T09:26:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Gli Stati Uniti vietano nuovi robot e inverter prodotti all’estero. Nel mirino soprattutto la Cina",
-      "link": "https://images.dday.it/_ECEJFH5wjEgjHAKvA_JcHpGvprlhgC-sTOFbyzv0fo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58201/6f0fa1_Depositphotos_795770258_XL.jpg",
-      "excerpt": "Le restrizioni riguardano robot umanoidi, quadrupedi e altri dispositivi mobili connessi. Ma la definizione è così ampia da poter includere anche i robot aspirapolvere... Leggi…",
-      "image": "https://images.dday.it/_ECEJFH5wjEgjHAKvA_JcHpGvprlhgC-sTOFbyzv0fo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58201/6f0fa1_Depositphotos_795770258_XL.jpg",
-      "publishedAt": "2026-07-29T09:12:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "TM Roh, Samsung: “Anche con l'IA lo smartphone resterà centrale nei prossimi anni”",
-      "link": "https://images.dday.it/6b8WLQhl-sWkqgijbR8d_qnCKhXVkV8Tle0kJdrvrkQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58202/548608_tm.jpg",
-      "excerpt": "Per il co-CEO di Samsung, nonostante l'IA venga vista come l'elemento che a tendere toglierà lo smartphone dalle mani degli utenti, nei prossimi anni lo smartphone resterà ancora…",
-      "image": "https://images.dday.it/6b8WLQhl-sWkqgijbR8d_qnCKhXVkV8Tle0kJdrvrkQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58202/548608_tm.jpg",
-      "publishedAt": "2026-07-29T09:11:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Prima di Hugging Face, gli agenti di OpenAI hanno colpito altri servizi. Ecco come sono davvero andate le cose",
-      "link": "https://images.dday.it/tqG9k8u9HFXPgimB-C-27U7SjGu5mgTkFiMecUXTmXM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58199/e8be10_Depositphotos_650518866_XL.jpg",
-      "excerpt": "La ricostruzione pubblicata da Hugging Face mostra una campagna durata diversi giorni e composta da migliaia di azioni automatiche... Leggi tutto",
-      "image": "https://images.dday.it/tqG9k8u9HFXPgimB-C-27U7SjGu5mgTkFiMecUXTmXM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58199/e8be10_Depositphotos_650518866_XL.jpg",
-      "publishedAt": "2026-07-29T08:04:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Anche HBO Max si dà ai video verticali e lancia una ricerca dei contenuti con l’IA",
-      "link": "https://images.dday.it/8MJzlhFWFKp3hW8Hwg8QEmvYTW_QDfR3I-lzn7UP9ZU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58198/0e02a8_Shorts_-_Static.jpg",
-      "excerpt": "Come per Netflix e Disney+ non si tratta di produzioni specifiche in questo formato ma clip per invogliare a guardare i contenuti “orizzontali”... Leggi tutto",
-      "image": "https://images.dday.it/8MJzlhFWFKp3hW8Hwg8QEmvYTW_QDfR3I-lzn7UP9ZU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58198/0e02a8_Shorts_-_Static.jpg",
-      "publishedAt": "2026-07-29T07:49:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Ora puoi fare le chiamate con WhatsApp anche dal web",
-      "link": "https://images.dday.it/5d-48mOJ7n403GGRlf49O4rVrLT35y5cVtT0c772Nqs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58197/2ba725_Depositphotos_243433356_L.jpg",
-      "excerpt": "Aprire WhatsApp in una scheda del browser è sempre più simile all’esperienza dell’app. Le chiamate, anche di gruppo, arrivano sulla versione web con crittografia end-to-end...…",
-      "image": "https://images.dday.it/5d-48mOJ7n403GGRlf49O4rVrLT35y5cVtT0c772Nqs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58197/2ba725_Depositphotos_243433356_L.jpg",
-      "publishedAt": "2026-07-29T06:53:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migliori robot lavapavimenti (luglio 2026)",
-      "link": "https://www.tomshw.it/altro/migliori-robot-lavapavimenti",
-      "excerpt": "Scegliere i migliori robot lavapavimenti nel 2026 è meno semplice di quanto sembri, perché la categoria è cambiata parecchio. Non basta più chiedersi se un modello aspiri bene o…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/86806/migliori-robot-lavapavimenti-copertina.jpg",
-      "publishedAt": "2026-07-29T06:39:34+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Né TV né schermo, il \"cartello digitale\" è un'altra cosa (e dovresti conoscerla)",
-      "link": "https://www.tomshw.it/business/ne-tv-ne-schermo-il-cartello-digitale-e-unaltra-cosa-e-dovresti-conoscerla",
-      "excerpt": "Entrate in un hotel e trovate un televisore in camera: è in realtà uno schermo professionale, e potete guardarci Netflix come fareste a casa, ma qualcuno, da un ufficio che può…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103944/Cover-cartello-digitale.png",
-      "publishedAt": "2026-07-28T15:50:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "DJI Lito 1 è in offerta su Amazon: il drone 4K sotto i 249 grammi costa meno",
-      "link": "https://images.dday.it/clr-K6HUhrCn_BV2jq0603sBxdeCwBxLxrC5Sbxvf0Y/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58194/933196_616og3-NsyL._AC_SL1500_.jpg",
-      "excerpt": "Scopri il DJI Lito 1 Combo con due batterie e il controller DJI RC-N3, ora disponibile in sconto su Amazon. Un'opportunità unica per gli appassionati di droni... Leggi tutto",
-      "image": "https://images.dday.it/clr-K6HUhrCn_BV2jq0603sBxdeCwBxLxrC5Sbxvf0Y/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58194/933196_616og3-NsyL._AC_SL1500_.jpg",
-      "publishedAt": "2026-07-28T15:01:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Se vuoi usare un robot online partecipa all’esperimento (marketing) di Enigma",
-      "link": "https://images.dday.it/8baLggrs8Amo7zbB1yU0a7m7Cd186EKfgkLxGs13OCk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58196/97b550_Screenshot_2026-07-28_alle_16.36.46.png",
-      "excerpt": "100 robot a disposizione, a turno, che si possono comandare online in tre attività precise. È il test con il quale la startup Enigma si è mostrata al pubblico. Vuole capire come…",
-      "image": "https://images.dday.it/8baLggrs8Amo7zbB1yU0a7m7Cd186EKfgkLxGs13OCk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58196/97b550_Screenshot_2026-07-28_alle_16.36.46.png",
-      "publishedAt": "2026-07-28T14:38:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Abolizione del bollo auto e moto, Tajani la rilancia. Ma rimane la solita incognita: con quali soldi?",
-      "link": "https://images.dday.it/kf0uya8WpYqbVX4CzyC_jX70QGPtp-RsVqQ_jyYiWFo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58195/4d75a1_auto_thumb.jpg",
-      "excerpt": "Il vicepremier ha inserito la cancellazione della tassa tra gli obiettivi fiscali di Forza Italia. Il principale ostacolo resta la copertura necessaria per compensare le…",
-      "image": "https://images.dday.it/kf0uya8WpYqbVX4CzyC_jX70QGPtp-RsVqQ_jyYiWFo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58195/4d75a1_auto_thumb.jpg",
-      "publishedAt": "2026-07-28T13:42:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
     }
   ]
 }
