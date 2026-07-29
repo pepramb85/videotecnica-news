@@ -1,17 +1,161 @@
 {
-  "generatedAt": "2026-07-29T15:45:59.540824+00:00",
-  "count": 20,
-  "sourcesOk": 2,
+  "generatedAt": "2026-07-29T17:06:46.251323+00:00",
+  "count": 30,
+  "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "L'incidente è agghiacciante, la barra vola nel parabrezza: conducente vivo per miracolo",
-      "link": "https://www.hdmotori.it/incidente-barra-parabrezza/",
-      "excerpt": "La vita di un automobilista può essere imprevedibile. A causa di un errore di calcolo di un autista di camion è avvenuto un crash spaventoso",
-      "image": "https://hd2.tudocdn.net/1359702?w=660",
-      "publishedAt": "2026-07-29T15:30:07+00:00",
+      "title": "Waze è un'app spiona? Il tracciamento non si spegne mai del tutto",
+      "link": "https://www.hdblog.it/smartphone/articoli/n665803/waze-app-spiona-tracciamento/",
+      "excerpt": "Utenti trattati da \"nodi dati\" costanti",
+      "image": "https://hd2.tudocdn.net/1356409?w=660",
+      "publishedAt": "2026-07-29T17:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nuova Hyundai KONA Dark Line: più stile e tecnologia per il SUV coreano",
+      "link": "https://www.hdmotori.it/nuova-hyundai-kona-dark-line-prezzo-caratteristiche/",
+      "excerpt": "La famiglia Dark Line si amplia con Hyundai KONA. Il SUV sfoggia dettagli esclusivi, ricca dotazione tecnologica e prezzi da 27.950 euro",
+      "image": "https://hd2.tudocdn.net/1359726?w=660",
+      "publishedAt": "2026-07-29T17:00:12+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Prime Video: tutte le novità di agosto 2026",
+      "link": "https://www.hdblog.it/amazon/articoli/n665821/prime-video-novita-agosto-2026/",
+      "excerpt": "Ecco le novità del mese",
+      "image": "https://hd2.tudocdn.net/1359700?w=660",
+      "publishedAt": "2026-07-29T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung finalmente perfeziona la rotazione dello schermo nei nuovi Fold",
+      "link": "https://www.hdblog.it/smartphone/articoli/n665837/samsung-fold-rotazione-automatica-indipendente/",
+      "excerpt": "È possibile specificare le impostazioni di rotazione automatica (attiva o disattiva) indipendentemente per il display esterno e quello interno. Finalmente!",
+      "image": "https://hd2.tudocdn.net/1359544?w=660",
+      "publishedAt": "2026-07-29T16:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Arriva la nuova Stratos? Made in Cina e prezzo alla portata",
+      "link": "https://www.hdmotori.it/nuova-stratos-made-in-cina/",
+      "excerpt": "Sulla base filosofica della regina dei Rally italiana, è nata una biposto a motore centrale. La SC-01 arriverà sul mercato britannico",
+      "image": "https://hd2.tudocdn.net/1359721?w=660",
+      "publishedAt": "2026-07-29T16:30:11+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "I chip al silicio potrebbero cambiare i computer quantistici",
+      "link": "https://www.tomshw.it/scienze/i-chip-al-silicio-potrebbero-cambiare-i-computer-quantistici",
+      "excerpt": "Un gruppo di HRL Laboratories e collaboratori ha realizzato un processore quantistico al silicio controllato digitalmente, riunendo nello stesso sistema il chip, l’elettronica che…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104323/i-chip-al-silicio-potrebbero-cambiare-i-computer-quantistici.png",
+      "publishedAt": "2026-07-29T16:27:02+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Homey, arriva la certificazione Matter 1.5: tanti nuovi prodotti compatibili",
+      "link": "https://www.hdblog.it/domotica/articoli/n665834/homey-certificazione-matter-1-5-nuovi-dispositivi/",
+      "excerpt": "Nell'elenco ci sono videocamere di sorveglianza, videocitofoni, tapparelle, pompe di calore, pannelli solari, e caricatori di veicoli elettrici .",
+      "image": "https://hd2.tudocdn.net/1310187?w=660",
+      "publishedAt": "2026-07-29T16:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "NASA Swift, LINK ruota fuori controllo da 72 ore: a rischio il rialzo dell'orbita",
+      "link": "https://www.tomshw.it/scienze/nasa-swift-link-ruota-fuori-controllo-da-72-ore-a-rischio-il",
+      "excerpt": "Due delle tre ruote di reazione di LINK hanno smesso di funzionare e il sistema di propulsori per il controllo dell’assetto è operativo solo in parte. Il veicolo robotico diretto…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104305/psyche-filma-marte-ma-la-nasa-guarda-molto-piu-lontano.png",
+      "publishedAt": "2026-07-29T16:17:29+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Huawei conferma i processori Kirin XE90 e X90 Plus per PC: debutto il 5 agosto",
+      "link": "https://www.hdblog.it/hardware/articoli/n665826/kirin-nuovi-processori-computer-xe90-x90-plus/",
+      "excerpt": "Huawei presenterà il 5 agosto i processori Kirin XE90 e X90 Plus insieme ai nuovi MateBook. Il modello XE90 promette prestazioni single core superiori del 23%, mentre il Kirin X90…",
+      "image": "https://hd2.tudocdn.net/1359703?w=660",
+      "publishedAt": "2026-07-29T16:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Una VPN che prometteva \"nessun log\" ne conservava 58 milioni, ora in vendita su un forum criminale",
+      "link": "https://images.dday.it/38i-Dpb3JPGUME4yH1OpbsvQ2K1KaE1fVgavJH-5oHM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58209/76bb2a_Depositphotos_758235768_XL.jpg",
+      "excerpt": "Il servizio si chiama SplitVPN e serve ad aggirare la censura in Russia e in Iran. Nell'archivio rubato ci sono 23,4 milioni di utenti con e-mail e indirizzo IP, ma anche 58…",
+      "image": "https://images.dday.it/38i-Dpb3JPGUME4yH1OpbsvQ2K1KaE1fVgavJH-5oHM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58209/76bb2a_Depositphotos_758235768_XL.jpg",
+      "publishedAt": "2026-07-29T16:12:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "HBO Max, arrivano gli Shorts basati sull'AI... e non sembrano un'idea malvagia",
+      "link": "https://www.hdblog.it/apple/articoli/n665830/hbo-max-ai-shorts-ask-ricerca-linguaggio-naturale/",
+      "excerpt": "Sembrano uno strumento interessante per permettere all'utente di scoprire nuovi contenuti. In arrivo anche un motore di ricerca basato sul linguaggio naturale.",
+      "image": "https://hd2.tudocdn.net/1324489?w=660",
+      "publishedAt": "2026-07-29T16:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "380 Hz per gli eSport: ASUS ROG Strix XG259QNS a 349€ su Amazon",
+      "link": "https://www.tomshw.it/offerte/380-hz-per-gli-esport-asus-rog-strix-xg259qns-a-349eur-su-amazon",
+      "excerpt": "A 349€ su Amazon, ASUS ROG Strix XG259QNS passa dal listino di 489€ al prezzo attuale con uno sconto del 29%. Il refresh fino a 380 Hz e il pannello Fast IPS lo indirizzano alle…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104316/tomshw-offer-611580.png",
+      "publishedAt": "2026-07-29T16:02:46+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Riconoscimento facciale alla polizia: dati cancellati entro 7 giorni",
+      "link": "https://www.tomshw.it/hardware/riconoscimento-facciale-alla-polizia-dati-cancellati-entro-7-giorni",
+      "excerpt": "Il riconoscimento facciale a posteriori potrà essere impiegato dalle forze di polizia italiane dopo la commissione, anche tentata, di un reato, per identificare persone indiziate…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/94895/02-face-recognition-cover.png",
+      "publishedAt": "2026-07-29T16:01:26+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Bonus Retrofit 2026 al via: come ottenere fino a 800 euro per GPL e metano",
+      "link": "https://www.hdmotori.it/bonus-retrofit-2026-auto-gpl-metano/",
+      "excerpt": "Parte il Bonus Retrofit 2026: contributi da 400 euro per il GPL e 800 euro per il metano. Ecco requisiti, domanda e come funziona l'incentivo",
+      "image": "https://hd2.tudocdn.net/1359719?w=660",
+      "publishedAt": "2026-07-29T16:00:05+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Stellantis venderà il car sharing di Free2move a Mutares",
+      "link": "https://images.dday.it/e1TPKxWp2WynJPqKUsRaokq5IPDO2NxT4fFdiHLmsKw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58205/70de7a_f2m_thumb.jpg",
+      "excerpt": "L’operazione dovrebbe chiudersi entro la fine dell'anno. Stellantis vuole concentrare risorse e investimenti sulle attività considerate più strategiche... Leggi tutto",
+      "image": "https://images.dday.it/e1TPKxWp2WynJPqKUsRaokq5IPDO2NxT4fFdiHLmsKw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58205/70de7a_f2m_thumb.jpg",
+      "publishedAt": "2026-07-29T15:56:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Golden Dome accelera: Rocket Lab lancerà missili dall'Alaska",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n665822/rocket-lab-space-force-alaska/",
+      "excerpt": "Rocket Lab porterà i test missilistici USA in Alaska con 18 nuove missioni.",
+      "image": "https://hd2.tudocdn.net/1359690?w=660",
+      "publishedAt": "2026-07-29T15:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "I ricavi di SK hynix volano grazie all’IA, ma non basta: il mercato si aspettava ancora di più, giù le azioni",
+      "link": "https://images.dday.it/sJxxwlQxqK4-CkljKtcKhTV8JpfGf6nx_lGqFf4rcLk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58207/caa6a0_Depositphotos_348871698_XL.jpg",
+      "excerpt": "Ricavi a 79.320 miliardi di won e utile operativo in crescita del 557%. Anche SK hynix avverte: riequilibrio fra domanda e offerta solo dal 2030... Leggi tutto",
+      "image": "https://images.dday.it/sJxxwlQxqK4-CkljKtcKhTV8JpfGf6nx_lGqFf4rcLk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58207/caa6a0_Depositphotos_348871698_XL.jpg",
+      "publishedAt": "2026-07-29T15:49:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "OnePlus si ferma in Italia: cosa succede ora agli utenti",
@@ -32,137 +176,38 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Gemini su Mac, il tasto fn attiva la dettatura in qualsiasi finestra",
-      "link": "https://www.tomshw.it/hardware/gemini-su-mac-il-tasto-fn-attiva-la-dettatura-in-qualsiasi-finestra",
-      "excerpt": "Tenendo premuto il tasto fn, dal 29 luglio gli utenti Mac possono parlare con Google Gemini dalla finestra in cui stanno lavorando. La nuova funzione, distribuita ufficialmente da…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104307/l-intro-1785239770.jpg",
-      "publishedAt": "2026-07-29T15:18:30+00:00",
+      "title": "I dipendenti delle grandi società di IA hanno chiesto di frenare lo sviluppo dell’intelligenza artificiale di frontiera",
+      "link": "https://images.dday.it/iyhL-WGu58xYfldSrjeQV3phbMpCGBEQGEl-TiFuFww/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58204/8750cf_ChatGPT_Image_29_lug_2026__14_40_17.png",
+      "excerpt": "Nessuna società vuole rallentare mentre le concorrenti continuano a correre. Per spezzare questa dinamica, oltre 1.200 lavoratori dell’IA chiedono a Washington regole…",
+      "image": "https://images.dday.it/iyhL-WGu58xYfldSrjeQV3phbMpCGBEQGEl-TiFuFww/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58204/8750cf_ChatGPT_Image_29_lug_2026__14_40_17.png",
+      "publishedAt": "2026-07-29T12:41:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Migliori micro SD per Steam Deck (luglio 2026)",
+      "link": "https://www.tomshw.it/videogioco/migliori-micro-sd-steam-deck",
+      "excerpt": "La console portatile di Valve permette di portare con sé una libreria Steam enorme, ma lo spazio interno diventa presto il primo limite concreto, soprattutto se alternate giochi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/87677/migliori-microsd-steam-deck-copertina.jpg",
+      "publishedAt": "2026-07-29T11:30:33+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Dazn introduce il diritto di ripensamento per gli abbonamenti",
-      "link": "https://www.hdblog.it/mercato/articoli/n665818/dazn-recesso-rimborso-giorni/",
-      "excerpt": "DAZN introduce il diritto di ripensamento per i nuovi abbonamenti. Chi annulla entro 14 giorni può ottenere un rimborso, ma se ha già iniziato a utilizzare il servizio la…",
-      "image": "https://hd2.tudocdn.net/1228655?w=660",
-      "publishedAt": "2026-07-29T15:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung Find: stop agli aggiornamenti sui Galaxy con Android 10",
-      "link": "https://www.tomshw.it/smartphone/samsung-find-stop-agli-aggiornamenti-sui-galaxy-con-android-10",
-      "excerpt": "Samsung Find non riceverà più aggiornamenti sugli smartphone e sui tablet Galaxy rimasti a One UI 2.0 o a una versione precedente. Samsung ha comunicato il cambiamento…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104303/news-flash-611351.png",
-      "publishedAt": "2026-07-29T15:11:08+00:00",
+      "title": "Migliori Ad Blocker (luglio 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-ad-blocker",
+      "excerpt": "Scegliere il miglior Ad Blocker significa trovare un equilibrio tra navigazione più pulita, privacy e compatibilità con i siti che visitate ogni giorno. Un buon blocco…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/05/94176/migliori-adblocker-copertina.jpg",
+      "publishedAt": "2026-07-29T11:23:31+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "L’audio dei vlog cambia a 102€: DJI Mic 2 registra in 32-bit float",
-      "link": "https://www.tomshw.it/offerte/laudio-dei-vlog-cambia-a-102eur-dji-mic-2-registra-in-32-bit-float",
-      "excerpt": "DJI Mic 2 costa 102€ su Amazon anziché 159€, con uno sconto del 36% e un risparmio immediato di 57€. La registrazione interna in 32-bit float è particolarmente preziosa quando…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104299/tomshw-offer-611295.png",
-      "publishedAt": "2026-07-29T15:02:58+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Audi Q9, le caratteristiche e il prezzo della più grande di sempre",
-      "link": "https://www.hdmotori.it/audi-q9-caratteristiche-prezzo/",
-      "excerpt": "La gamma Audi accoglie un SUV dalle dimensioni possenti. Si tratta del modello più grande mai prodotto dalla Casa dei Quattro anelli",
-      "image": "https://hd2.tudocdn.net/1359694?w=660",
-      "publishedAt": "2026-07-29T15:00:52+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Logitech Driving Force a 29€: il cambio che rende il volante più realistico",
-      "link": "https://www.hdblog.it/amazon/offerte/n665817/logitech-driving-force-leva-cambio-amazon/",
-      "excerpt": "Logitech G Driving Force è in offerta su Amazon a 29,99€: leva del cambio compatibile con G29, G920 e G923, struttura in acciaio e innesto ad H.",
-      "image": "https://hd2.tudocdn.net/1359688?w=660",
-      "publishedAt": "2026-07-29T15:00:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Una RTX 2080 Ti con 22 GB? Ora si può davvero comprare",
-      "link": "https://www.tomshw.it/hardware/la-scheda-nvidia-rtx-2080-ti-raddoppia-la-vram-con-una-modifica",
-      "excerpt": "GPU Solutions, laboratorio con sede negli Emirati Arabi Uniti e clienti internazionali, ha inserito di recente nel proprio catalogo una modifica per la NVIDIA RTX 2080 Ti che…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104293/la-scheda-nvidia-rtx-2080-ti-raddoppia-la-vram-con-una-modifica.png",
-      "publishedAt": "2026-07-29T14:50:18+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Giochi fisici, il co-fondatore di Rockstar li difende: \"le aziende dovrebbero venderli\"",
-      "link": "https://www.hdblog.it/games/articoli/n665812/dan-houser-rockstar-videogiochi-dischi-fisico/",
-      "excerpt": "\"I giocatori li vogliono\".",
-      "image": "https://hd2.tudocdn.net/1222795?w=660",
-      "publishedAt": "2026-07-29T14:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "A Taiwan un rivenditore vende le RTX 5080 solo in bundle",
-      "link": "https://www.tomshw.it/hardware/a-taiwan-un-rivenditore-vende-le-rtx-5080-solo-in-bundle",
-      "excerpt": "Il rivenditore taiwanese Cool PC ha sospeso la vendita singola della GeForce RTX 5080, rendendo la scheda acquistabile soltanto insieme ad altri componenti oppure all'interno di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104292/a-taiwan-un-rivenditore-vende-le-rtx-5080-solo-in-bundle.png",
-      "publishedAt": "2026-07-29T14:36:09+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Recensione MOVA Lidax Ultra 1000 AWD, 4X4 e navigazione LiDAR al top!",
-      "link": "https://www.hdblog.it/domotica/recensioni/n665222/mova-lidax-ultra-1000-awd-robot-tagliaerba-no-filo/",
-      "excerpt": "Ho provato il robot tagliaerba MOVA LiDAX Ultra 1000 AWD, una soluzione a quattro ruote motrici davvero super interessante, ecco come è andata!",
-      "image": "https://hd2.tudocdn.net/1359150?w=660",
-      "publishedAt": "2026-07-29T14:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "BYD Seal 06, le prime immagini del restyling 2027: tra LiDAR e più potenza",
-      "link": "https://www.hdmotori.it/byd-seal-06-prime-immagini-restyling-2027/",
-      "excerpt": "Tempo di restyling per la berlina tre volumi di BYD. Restano le versioni elettriche ed DM-i plug-in, aumentano la lunghezza complessiva, le potenze erogate e l'autonomia stimata.",
-      "image": "https://hd2.tudocdn.net/1359684?w=660",
-      "publishedAt": "2026-07-29T14:00:06+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "CMF by Nothing batte un colpo: in arrivo una nuova categoria di prodotti",
-      "link": "https://www.hdblog.it/nothing/articoli/n665794/cmf-nothing-cuffie-open-ear-clip-pro-auricolari/",
-      "excerpt": "Soliti teaser misteriosi: ecco di cosa dovrebbe trattarsi.",
-      "image": "https://hd2.tudocdn.net/1359661?w=660",
-      "publishedAt": "2026-07-29T13:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Pixel 10 Pro, DJI Osmo 360 e TV OLED 83'': le migliori offerte del 29 luglio",
-      "link": "https://www.hdblog.it/amazon/offerte/n665806/migliori-offerte-oggi-amazon-29-luglio-sconti/",
-      "excerpt": "Le migliori offerte tech di oggi su Amazon e MediaWorld: Pixel 10 Pro, DJI Osmo 360, Blink Mini, JBL Charge Essential 2 e TV OLED Samsung in forte sconto.",
-      "image": "https://hd2.tudocdn.net/1359674?w=660",
-      "publishedAt": "2026-07-29T13:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Batteria si carica al 97% in 8 minuti: l'exploit di Hongqi e Lishen Battery",
-      "link": "https://www.hdmotori.it/batteria-ricarica-rapida-hongqi-lishen-12c/",
-      "excerpt": "I test a 25°C confermano la ricarica dal 10% al 97% in 8 minuti. La nuova batteria a 12C riduce la resistenza interna del 15% e punta sul raffreddamento a liquido",
-      "image": "https://hd2.tudocdn.net/1359675?w=660",
-      "publishedAt": "2026-07-29T13:00:13+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Migliori sedie gaming su Amazon (luglio 2026)",
-      "link": "https://www.tomshw.it/videogioco/sedie-gaming-amazon",
-      "excerpt": "Tra gaming, lavoro da casa e studio, una sedia usata per molte ore al giorno deve fare qualcosa in più rispetto a completare l'estetica della postazione. Una buona sedia da gaming…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/86819/migliori-sedie-gaming-su-amazon-copertina.jpg",
-      "publishedAt": "2026-07-29T11:21:05+00:00",
+      "title": "Microsoft chiama OpenAI nei casi difficili di cybersecurity",
+      "link": "https://www.tomshw.it/business/microsoft-chiama-openai-nei-casi-difficili-di-cybersecurity",
+      "excerpt": "Microsoft integra il suo primo modello dedicato alla cybersecurity, MAI-Cyber-1-Flash, dentro MDASH, il sistema che orchestra oltre 100 agenti AI incaricati di individuare e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104141/hqbzzcsrcyaj58dw3ikad.jpg",
+      "publishedAt": "2026-07-29T09:55:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -176,13 +221,58 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Sole sull'acqua: come proteggersi in SUP, canoa e kayak",
-      "link": "https://www.tomshw.it/altro/sole-sullacqua-come-proteggersi-in-sup-canoa-e-kayak",
-      "excerpt": "Pagaiare sotto il sole estivo su una tavola da SUP o a bordo di un kayak regala una sensazione di totale libertà, ma nasconde un'insidia di cui ci si accorge spesso solo a fine…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103627/Sole-sull'acqua-come-proteggersi-in-SUP,-canoa-e-kayak.png",
-      "publishedAt": "2026-07-27T14:44:22+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
+      "title": "Q9, il SUV più grande di Audi arriva con sette posti e motori mild hybrid. In futuro anche plug-in",
+      "link": "https://images.dday.it/oJq-DQ4PgsdZ7Yl0DYDDEO80q9chly7QEakHYvpmc_0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58203/35275c_q9_thumb.jpg",
+      "excerpt": "Lunga 5,31 metri, la nuova ammiraglia sarà disponibile in Italia nel quarto trimestre. Al lancio motori 3.0 TDI mild hybrid da 245 e 299 CV... Leggi tutto",
+      "image": "https://images.dday.it/oJq-DQ4PgsdZ7Yl0DYDDEO80q9chly7QEakHYvpmc_0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58203/35275c_q9_thumb.jpg",
+      "publishedAt": "2026-07-29T09:51:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Erbacce, patio sporco e vialetti da pulire: le offerte Kärcher su Amazon per sistemare il giardino dopo le vacanze",
+      "link": "https://images.dday.it/FI3OXklhGhxVzexl5FGgqYIYMb9TtXdrrgVqyK3nAic/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58200/a5287e_cover_Screenshot_2026-07-29_alle_11.22.00_copia.png",
+      "excerpt": "Dal muschio tra le fughe allo sporco accumulato sul patio: tre prodotti Kärcher in offerta su Amazon aiutano ad affrontare i principali lavori di pulizia degli spazi esterni di…",
+      "image": "https://images.dday.it/FI3OXklhGhxVzexl5FGgqYIYMb9TtXdrrgVqyK3nAic/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58200/a5287e_cover_Screenshot_2026-07-29_alle_11.22.00_copia.png",
+      "publishedAt": "2026-07-29T09:26:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Gli Stati Uniti vietano nuovi robot e inverter prodotti all’estero. Nel mirino soprattutto la Cina",
+      "link": "https://images.dday.it/_ECEJFH5wjEgjHAKvA_JcHpGvprlhgC-sTOFbyzv0fo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58201/6f0fa1_Depositphotos_795770258_XL.jpg",
+      "excerpt": "Le restrizioni riguardano robot umanoidi, quadrupedi e altri dispositivi mobili connessi. Ma la definizione è così ampia da poter includere anche i robot aspirapolvere... Leggi…",
+      "image": "https://images.dday.it/_ECEJFH5wjEgjHAKvA_JcHpGvprlhgC-sTOFbyzv0fo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58201/6f0fa1_Depositphotos_795770258_XL.jpg",
+      "publishedAt": "2026-07-29T09:12:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "TM Roh, Samsung: “Anche con l'IA lo smartphone resterà centrale nei prossimi anni”",
+      "link": "https://images.dday.it/6b8WLQhl-sWkqgijbR8d_qnCKhXVkV8Tle0kJdrvrkQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58202/548608_tm.jpg",
+      "excerpt": "Per il co-CEO di Samsung, nonostante l'IA venga vista come l'elemento che a tendere toglierà lo smartphone dalle mani degli utenti, nei prossimi anni lo smartphone resterà ancora…",
+      "image": "https://images.dday.it/6b8WLQhl-sWkqgijbR8d_qnCKhXVkV8Tle0kJdrvrkQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58202/548608_tm.jpg",
+      "publishedAt": "2026-07-29T09:11:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Prima di Hugging Face, gli agenti di OpenAI hanno colpito altri servizi. Ecco come sono davvero andate le cose",
+      "link": "https://images.dday.it/tqG9k8u9HFXPgimB-C-27U7SjGu5mgTkFiMecUXTmXM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58199/e8be10_Depositphotos_650518866_XL.jpg",
+      "excerpt": "La ricostruzione pubblicata da Hugging Face mostra una campagna durata diversi giorni e composta da migliaia di azioni automatiche... Leggi tutto",
+      "image": "https://images.dday.it/tqG9k8u9HFXPgimB-C-27U7SjGu5mgTkFiMecUXTmXM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58199/e8be10_Depositphotos_650518866_XL.jpg",
+      "publishedAt": "2026-07-29T08:04:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Anche HBO Max si dà ai video verticali e lancia una ricerca dei contenuti con l’IA",
+      "link": "https://images.dday.it/8MJzlhFWFKp3hW8Hwg8QEmvYTW_QDfR3I-lzn7UP9ZU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58198/0e02a8_Shorts_-_Static.jpg",
+      "excerpt": "Come per Netflix e Disney+ non si tratta di produzioni specifiche in questo formato ma clip per invogliare a guardare i contenuti “orizzontali”... Leggi tutto",
+      "image": "https://images.dday.it/8MJzlhFWFKp3hW8Hwg8QEmvYTW_QDfR3I-lzn7UP9ZU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58198/0e02a8_Shorts_-_Static.jpg",
+      "publishedAt": "2026-07-29T07:49:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     }
   ]
 }
