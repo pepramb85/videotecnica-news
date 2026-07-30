@@ -1,35 +1,242 @@
 {
-  "generatedAt": "2026-07-30T08:10:40.336861+00:00",
+  "generatedAt": "2026-07-30T11:46:17.539753+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Amazon Family arriva in Italia: come condividere Prime senza costi aggiuntivi",
-      "link": "https://www.hdblog.it/amazon/articoli/n665886/amazon-family-in-italia-cose-costi-prime/",
-      "excerpt": "Amazon porta Family anche in Italia. La nuova funzione consente di condividere spedizioni Prime, Prime Video, Amazon Music Prime, Luna e le offerte dedicate senza rinunciare alla…",
-      "image": "https://hd2.tudocdn.net/1359802?w=660",
-      "publishedAt": "2026-07-30T08:07:00+00:00",
+      "title": "Mercato smartphone in recessione: soffrono MediaTek e Qualcomm",
+      "link": "https://www.hdblog.it/smartphone/articoli/n665923/mercato-smartphone-calo-qualcomm-mediatek/",
+      "excerpt": "Apple, Samsung e Unisoc sono in crescita. Le previsioni per i prossimi mesi sono sempre pessimistiche.",
+      "image": "https://hd2.tudocdn.net/1349898?w=660",
+      "publishedAt": "2026-07-30T11:45:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Amazon Family arriva in Italia: Prime ora si può condividere",
-      "link": "https://www.tomshw.it/altro/amazon-family-arriva-in-italia-prime-si-puo-condividere-con-un-altro-adulto",
-      "excerpt": "Amazon Family è disponibile in Italia e introduce una possibilità attesa da molte famiglie: chi ha un abbonamento Prime può invitare un altro adulto del proprio nucleo a usare…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104431/amazon-family-italia-condivisione-benefici-prime.jpg",
-      "publishedAt": "2026-07-30T08:03:04+00:00",
+      "title": "Meta Phoenix vuole rendere la realtà mista davvero indossabile",
+      "link": "https://www.tomshw.it/hardware/un-leak-svela-meta-phoenix-il-cervello-del-visore-va-in-tasca",
+      "excerpt": "Un firmware trapelato attribuito a Meta ha rivelato l'impostazione di Meta Phoenix, un visore sottile che sposta processore, RAM e batteria in un compute puck da portare alla…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104542/un-leak-svela-meta-phoenix-il-cervello-del-visore-va-in-tasca.png",
+      "publishedAt": "2026-07-30T11:44:38+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "La Polonia si è accorta delle 68.000 targhe polacche in Italia: pronta legge antitruffa",
-      "link": "https://www.hdmotori.it/truffa-targhe-polacche-italia/",
-      "excerpt": "Il governo polacco sta ideando una misura per contrastare il fenomeno della \"pratica italiana\" che rischia di far aumentare il costo delle assicurazioni",
-      "image": "https://hd2.tudocdn.net/1359795?w=660",
-      "publishedAt": "2026-07-30T08:00:14+00:00",
+      "title": "Questa dash cam Baseus era introvabile in sconto: su AliExpress oggi costa appena 65€",
+      "link": "https://www.tomshw.it/automotive/baseus-dash-cam-3k-scontata-del-64-anteriore-e-posteriore-2026-07-30",
+      "excerpt": "Su AliExpress è disponibile un'ottima offerta sulla Baseus 3K Dash Cam VD1, la videocamera per auto con doppia telecamera anteriore e posteriore in HD, GPS integrato con supporto…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104546/baseus-dash-cam-3k-scontata-del-64-anteriore-e-posteriore-2026-h2pmmnugsh0bfOOoZ6k.jpg",
+      "publishedAt": "2026-07-30T11:43:18+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Scoperta l'ambra più antica della Terra: va rivista la storia delle piante",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n665903/ambra-piu-antica-scoperta-cina/",
+      "excerpt": "Scoperta in Cina l'ambra più antica: cambia ciò che sappiamo sull'evoluzione delle piante.",
+      "image": "https://hd2.tudocdn.net/1359843?w=660",
+      "publishedAt": "2026-07-30T11:40:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Internet non è invulnerabile: Cloudflare svela cosa l'ha fermata nel 2026",
+      "link": "https://www.hdblog.it/internet/articoli/n665918/internet-nel-mondo-interruzioni-guasti/",
+      "excerpt": "Il nuovo rapporto di Cloudflare Radar analizza i principali blackout di Internet registrati tra aprile e giugno 2026. Tifoni, terremoti, blackout elettrici, errori DNS, cavi in…",
+      "image": "https://hd2.tudocdn.net/1359856?w=660",
+      "publishedAt": "2026-07-30T11:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Galaxy Z Fold 8 / Ultra, ecco come rendere antiriflesso anche il display esterno",
+      "link": "https://www.hdblog.it/smartphone/articoli/n665919/galaxy-z-fold-8-ultra-pellicola-antiriflesso/",
+      "excerpt": "Fortunatamente Samsung stessa produce delle pellicole antiriflesso relativamente economiche.",
+      "image": "https://hd2.tudocdn.net/1357535?w=660",
+      "publishedAt": "2026-07-30T11:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "SpaceX Starship resta intatta in mare per cinque giorni dopo il volo",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n665864/starship-galleggia-cinque-giorni-oceano/",
+      "excerpt": "Starship resta a galla per cinque giorni: un test che avvicina il riutilizzo completo.",
+      "image": "https://hd2.tudocdn.net/1359767?w=660",
+      "publishedAt": "2026-07-30T11:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "TSMC costruisce con l'AI la fabbrica dei chip a 1,4 nanometri",
+      "link": "https://www.tomshw.it/hardware/tsmc-costruisce-con-lai-la-fabbrica-dei-chip-a-14-nanometri",
+      "excerpt": "TSMC sta impiegando sistemi di intelligenza artificiale nella costruzione e nella gestione delle fabbriche destinate al processo A14, indicato commercialmente come nodo a 1,4…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104517/tsmc-costruisce-con-l-ai-la-fabbrica-dei-chip-a-1-4-nanometri.png",
+      "publishedAt": "2026-07-30T11:07:46+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Qualcomm aumenterà i prezzi dei suoi chip dal 1° settembre. Nuovi rincari in vista per gli smartphone?",
+      "link": "https://images.dday.it/bsVTjIwyLE9sQuS8QD_cieCaIe8Yyiw470p_JkgtejA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58217/313734_Depositphotos_445510656_XL.jpg",
+      "excerpt": "La società vuole compensare l’aumento dei costi delle memorie e la contrazione del mercato mobile. Intanto, punterà di più su data center e settore automobilistico... Leggi tutto",
+      "image": "https://images.dday.it/bsVTjIwyLE9sQuS8QD_cieCaIe8Yyiw470p_JkgtejA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58217/313734_Depositphotos_445510656_XL.jpg",
+      "publishedAt": "2026-07-30T11:07:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "SwitchBot lancia un nuovo ventilatore Matter che funziona senza hub",
+      "link": "https://www.tomshw.it/hardware/il-nuovo-ventilatore-switchbot-funziona-senza-hub-e-dura-giorni",
+      "excerpt": "SwitchBot ha presentato il Battery Circulator Fan 2 Pro, un ventilatore portatile che può entrare direttamente nella casa connessa senza richiedere uno SwitchBot Hub separato. Il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104514/il-nuovo-ventilatore-switchbot-funziona-senza-hub-e-dura-giorni.png",
+      "publishedAt": "2026-07-30T11:06:58+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Gli Ozlo Sleepbuds 2 correggono i loro due difetti più fastidiosi",
+      "link": "https://www.tomshw.it/smartphone/gli-ozlo-sleepbuds-2-correggono-i-due-difetti-piu-fastidiosi",
+      "excerpt": "Ozlo ha presentato gli Ozlo Sleepbuds 2, seconda generazione degli auricolari progettati per essere indossati durante la notte. Il nuovo modello mantiene il formato compatto…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104510/gli-ozlo-sleepbuds-2-correggono-i-due-difetti-piu-fastidiosi.png",
+      "publishedAt": "2026-07-30T11:04:36+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Lenovo IdeaPad Slim 3 da 679€ a 499,90€ su Amazon, minimo storico",
+      "link": "https://www.tomshw.it/offerte/lenovo-ideapad-slim-3-da-679eur-a-49990eur-su-amazon-minimo-storico",
+      "excerpt": "Lenovo IdeaPad Slim 3 costa 499,90€ su Amazon anziché 679€ di listino: lo sconto del 26% lascia in tasca 179,10€. È il minimo storico per una configurazione pensata per affrontare…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104518/tomshw-offer-614176.png",
+      "publishedAt": "2026-07-30T11:03:39+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "MSI avrebbe negato la riparazione di un laptop da 6.000 dollari",
+      "link": "https://www.tomshw.it/hardware/msi-nega-la-riparazione-al-laptop-da-6000-dollari",
+      "excerpt": "Un proprietario di un MSI Raider GE77HX da 6.000 dollari ha documentato il rifiuto iniziale dell'azienda di sostituire la scheda madre, nonostante il guasto fosse stato…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104507/msi-nega-la-riparazione-al-laptop-da-6-000-dollari.png",
+      "publishedAt": "2026-07-30T11:03:19+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "L’AI della NASA ha aiutato Orion, ma non come immaginate",
+      "link": "https://www.tomshw.it/scienze/lai-della-nasa-ha-aiutato-orion-ma-non-come-immagini",
+      "excerpt": "La NASA ha impiegato un sistema di intelligenza artificiale generativa per assistere gli ingegneri impegnati nelle operazioni della capsula Orion. L’AI non pilotava il veicolo e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104506/l-ai-della-nasa-ha-aiutato-orion-ma-non-come-immagini.png",
+      "publishedAt": "2026-07-30T11:02:01+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Ducati in vendita? Sindacati in subbuglio e avanza l'ipotesi di un pretendente",
+      "link": "https://www.hdmotori.it/volkswagen-vendita-ducati-sindacati-allarme/",
+      "excerpt": "Ducati in vendita per far cassa? I sindacati mobilitati con i vertici Volkswagen per capire quali scenari si aprono per lo stabilimento di Borgo Panigale",
+      "image": "https://hd2.tudocdn.net/1359860?w=660",
+      "publishedAt": "2026-07-30T11:00:56+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Alta gamma, prezzo da urlo: questa dash cam su AliExpress è la vera occasione",
+      "link": "https://www.tomshw.it/automotive/vantrue-n4pro-dashcam-4k-in-offerta-33-2026-07-30",
+      "excerpt": "Su AliExpress è disponibile la Vantrue N4Pro, una dashcam 4K Wi-Fi a 3 canali con controllo vocale, sensore IMX678, visione notturna HDR, GPS integrato e modalità parcheggio 24…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104516/vantrue-n4pro-dashcam-4k-in-offerta-33-2026-07-30-izYBQyoov37kmrsloddavbearg.jpg",
+      "publishedAt": "2026-07-30T10:58:28+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Un Flipper Zero fai-da-te a costo irrisorio? Basta un ESP32 con il giusto software",
+      "link": "https://www.hdblog.it/modding/articoli/n665917/flipper-zero-fai-da-te-low-cost-esp32-bit-pirate/",
+      "excerpt": "Il software si chiama ESP32 Bit Pirate, ed è open-source.",
+      "image": "https://hd2.tudocdn.net/1215545?w=660",
+      "publishedAt": "2026-07-30T10:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Vi ricordate Winamp? Sta tornando con Deezer come piattaforma di streaming",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n665909/winamp-ritorno-2027-deezer-streaming-musica/",
+      "excerpt": "E sì, avrà ancora tante skin con cui personalizzarlo.",
+      "image": "https://hd2.tudocdn.net/1359847?w=660",
+      "publishedAt": "2026-07-30T10:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Jumanji: Open World, il trailer svela il nuovo capitolo della saga",
+      "link": "https://www.hdblog.it/curiosita/articoli/n665892/jumanji-open-world-trailer/",
+      "excerpt": "Jumanji torna al cinema: questa volta il gioco invade il mondo reale.",
+      "image": "https://hd2.tudocdn.net/1359826?w=660",
+      "publishedAt": "2026-07-30T10:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Office 2024 Pro a 19,99 € e Office 2021 per Mac: le offerte Godeal24",
+      "link": "https://www.hdblog.it/tecnologia/offerte/n665625/office-2024-pro-a-1999--e-office-2021-per-mac-le-offerte-godeal24/",
+      "excerpt": "Ecco le offerte Godeal24 su Office 2024 Pro, Office 2021 per Mac e Windows 11 Pro, con licenze digitali e prezzi promozionali per PC e Mac.",
+      "image": "https://hd2.tudocdn.net/1359308?w=660",
+      "publishedAt": "2026-07-30T10:27:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Malagò (FIGC): «I diritti TV del calcio caleranno». E la pirateria è peggiore del previsto",
+      "link": "https://images.dday.it/axfviaIu0mNu6fIGFttrMOs59ZDyzrHhU7UXLHV2zIk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58216/7b4929_Screenshot_2026-07-30_alle_12.11.49_copia.png",
+      "excerpt": "Il presidente della FIGC ha descritto un sistema stretto tra la saturazione del mercato televisivo e la difficoltà di fermare le trasmissioni illegali. Le multe antipirateria,…",
+      "image": "https://images.dday.it/axfviaIu0mNu6fIGFttrMOs59ZDyzrHhU7UXLHV2zIk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58216/7b4929_Screenshot_2026-07-30_alle_12.11.49_copia.png",
+      "publishedAt": "2026-07-30T10:19:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Fusione nucleare, ITER: completati due terzi del cuore del tokamak. Installato il sesto modulo",
+      "link": "https://images.dday.it/iMIfLL5PS_T7g2oxW1rJ72s22tcqpHZk9y54XVguYx0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58215/2b6a73_11._Sector_module_landed.jpg",
+      "excerpt": "L’operazione è stata conclusa con quasi sei mesi di anticipo. Il componente da 1.100 tonnellate è stato calato nella camera di assemblaggio dopo un sollevamento durato 30 ore...…",
+      "image": "https://images.dday.it/iMIfLL5PS_T7g2oxW1rJ72s22tcqpHZk9y54XVguYx0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58215/2b6a73_11._Sector_module_landed.jpg",
+      "publishedAt": "2026-07-30T09:56:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Da oggi puoi condividere Amazon Prime con un altro membro della tua famiglia, senza costi aggiuntivi",
+      "link": "https://images.dday.it/UEXhYRoDymRHJS2c2Ya-bh08onRybDcxvQYTjbeo_PY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58214/8e7757_cover.png",
+      "excerpt": "Grazie ad Amazon Family il proprietario dell'account Prime può mettere a disposizione i vantaggi con un'altra persona, mantenendo comunque i due profili separati... Leggi tutto",
+      "image": "https://images.dday.it/UEXhYRoDymRHJS2c2Ya-bh08onRybDcxvQYTjbeo_PY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58214/8e7757_cover.png",
+      "publishedAt": "2026-07-30T09:55:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "L'industria del ransomware è ormai un enorme sistema di franchising",
+      "link": "https://www.tomshw.it/business/lindustria-del-ransomware-e-ormai-un-enorme-sistema-di-franchising",
+      "excerpt": "Nel marzo 2024 un affiliato della gang ransomware BlackCat si è rivolto a un forum di cybercriminali con una lamentela. Aveva eseguito l’attacco a Change Healthcare – una delle…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104436/byline-eset-ransomware-franchising-cover.jpg",
+      "publishedAt": "2026-07-30T09:35:05+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il proiettore TCL con Netflix integrato è in offerta: il cinema arriva a casa tua",
+      "link": "https://images.dday.it/TGxYmVnt3Kkl6DxE0WHaL-WHNm7FYfLN4D_tv4asdSA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58213/96a20c_517ZyqCjmxL._AC_SL1200_.jpg",
+      "excerpt": "Compatto, Full HD 1080p, con gimbal integrato e Google TV: il TCL C1 GTV è ora in sconto su Amazon. Ecco perché vale la pena approfittarne... Leggi tutto",
+      "image": "https://images.dday.it/TGxYmVnt3Kkl6DxE0WHaL-WHNm7FYfLN4D_tv4asdSA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58213/96a20c_517ZyqCjmxL._AC_SL1200_.jpg",
+      "publishedAt": "2026-07-30T09:12:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Il cinema a casa. Hisense PT1 proietta fino a 150 pollici e ha bisogno di pochissimo spazio",
+      "link": "https://images.dday.it/VnvSUOYeowIxyxhFT6SnS4DA2uAddn68Yb-wNTs-jGk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58191/837aee_Basement_home_theater.jpg",
+      "excerpt": "Una grande immagine in 4K a pochi centimetri dalla parete. Installazione semplice, audio Dolby Atmos e frequenza di aggiornamento fino a 240 Hz... Leggi tutto",
+      "image": "https://images.dday.it/VnvSUOYeowIxyxhFT6SnS4DA2uAddn68Yb-wNTs-jGk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58191/837aee_Basement_home_theater.jpg",
+      "publishedAt": "2026-07-30T08:53:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Ferrari Luce, già superati gli obiettivi di vendita dell'intero 2026",
@@ -41,15 +248,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Dreame, arrivano in Italia cinque nuovi prodotti per la cura personale",
-      "link": "https://www.hdblog.it/home/articoli/n665880/dreame-novita-capelli-styling-maschera-eta-led/",
-      "excerpt": "Quattro prodotti per la testa e una maschera anti-età.",
-      "image": "https://hd2.tudocdn.net/1356469?w=660",
-      "publishedAt": "2026-07-30T07:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "AGCOM va verso il rinnovo delle frequenze mobili e detta le regole su come dovrà essere il 5G Stand-Alone",
       "link": "https://images.dday.it/noNx9_L0dQeSKsJIsWoLeFXph5_uD2RGQBA-nF0GDK0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58211/59c985_artisticoperations-cell-tower-5390644_1920.jpg",
       "excerpt": "L'autorità vuole rinnovare le frequenze fino al 2037 assecondando le richieste degli operatori, che in cambio dovranno sviluppare il 5G Stand-Alone seguendo dei paletti ben…",
@@ -57,42 +255,6 @@
       "publishedAt": "2026-07-30T07:43:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Preordina EA SPORTS FC 27 su MediaWorld! In regalo maglie esclusive, PEA doppi e icone per la carriera",
-      "link": "https://www.tomshw.it/videogioco/preordina-ea-sports-fc-27-su-mediaworld-in-regalo-maglie-esclusive-pea-doppi-e-icone-per-la-carriera",
-      "excerpt": "Il conto alla rovescia per il capitolo più atteso dell'anno è ufficialmente iniziato: EA SPORTS FC 27 è pronto a rivoluzionare nuovamente il calcio digitale e MediaWorld ha…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104424/EA-SPORTS-FC-27.webp",
-      "publishedAt": "2026-07-30T07:42:23+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Firefox, basta una pagina malevola per eseguire codice: aggiornate alla 151.0.3",
-      "link": "https://www.tomshw.it/hardware/firefox-basta-una-pagina-malevola-per-eseguire-codice-aggiornate-alla-151-0",
-      "excerpt": "Era sufficiente aprire una pagina web malevola per innescare CVE-2026-10702, una vulnerabilità classificata da Mozilla con gravità alta che consentiva di eseguire codice…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104425/news-flash-613119.png",
-      "publishedAt": "2026-07-30T07:42:06+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Google mostra Pixel Glow in video, la novità più misteriosa dei Pixel 11",
-      "link": "https://www.hdblog.it/smartphone/articoli/n665877/pixel-11-pro-glow-led-notifica-video/",
-      "excerpt": "Google ha pubblicato un nuovo teaser dei Pixel 11 Pro mostrando ancora una volta Pixel Glow, la misteriosa novità integrata nella Camera Bar. L'azienda non ne ha ancora spiegato…",
-      "image": "https://hd2.tudocdn.net/1359786?w=660",
-      "publishedAt": "2026-07-30T07:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Emissioni diesel truccate: Londra fa causa a quattro costruttori e chiede un miliardo",
-      "link": "https://www.hdmotori.it/emissioni-diesel-truccate-londra-causa/",
-      "excerpt": "Transport for London cita in giudizio quattro gruppi automobilistici per i mancati incassi del pedaggio ULEZ dovuti a presunti dati alterati sulle emissioni dei motori diesel.",
-      "image": "https://hd2.tudocdn.net/1359787?w=660",
-      "publishedAt": "2026-07-30T07:30:54+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Altroconsumo trattava come iscritti anche gli account non confermati. Sanzione da 280mila euro dal Garante Privacy",
@@ -104,173 +266,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Meta vuole un agente AI personale per ogni utente",
-      "link": "https://www.tomshw.it/hardware/meta-vuole-mettere-un-agente-ai-personale-nelle-mani-di-tutti",
-      "excerpt": "Meta prepara una vasta espansione negli agenti AI personali, software capaci di agire autonomamente per conto degli utenti. Mark Zuckerberg ha anticipato il progetto durante la…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104404/meta-vuole-mettere-un-agente-ai-personale-nelle-mani-di-tutti.png",
-      "publishedAt": "2026-07-30T07:25:44+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Qualcomm aumenta il prezzo dei chip: smartphone più cari da settembre",
-      "link": "https://www.hdblog.it/hardware/articoli/n665869/qualcomm-aumento-prezzi-chip-smartphone/",
-      "excerpt": "Qualcomm aumenta i prezzi dei chip dal 1° settembre: smartphone sempre più costosi.",
-      "image": "https://hd2.tudocdn.net/1359781?w=660",
-      "publishedAt": "2026-07-30T07:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "La Ferrari Luce fa discutere, ma il 2026 è già tutto venduto",
-      "link": "https://www.tomshw.it/automotive/la-ferrari-luce-fa-discutere-ma-il-2026-e-gia-tutto-venduto",
-      "excerpt": "Ferrari avrebbe già assegnato tutta la produzione prevista per il 2026 della Ferrari Luce, la prima elettrica del Cavallino. Si tratta di meno di 500 esemplari, prenotati in meno…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104409/la-ferrari-luce-fa-discutere-ma-il-2026-e-gia-tutto-venduto.png",
-      "publishedAt": "2026-07-30T07:23:28+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Una singola pagina web era sufficiente per mettere a rischio la navigazione con Tor",
-      "link": "https://www.hdblog.it/android/articoli/n665842/corretto-bug-tor-firefox/",
-      "excerpt": "Mozilla ha corretto una grave vulnerabilità di Firefox e Tor, sfruttata in attacchi mirati ai dispositivi Android.",
-      "image": "https://hd2.tudocdn.net/1359732?w=660",
-      "publishedAt": "2026-07-30T07:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Croc 2 torna dal 1999, annunciata la remaster",
-      "link": "https://www.tomshw.it/videogioco/croc-2-torna-dal-1999-argonaut-annuncia-la-remaster",
-      "excerpt": "Argonaut Games ha annunciato la remaster di Croc 2, riportando sui sistemi moderni il platform pubblicato originariamente nel 1999. L'operazione prosegue il rilancio della serie…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104397/croc-2-torna-dal-1999-argonaut-annuncia-la-remaster.png",
-      "publishedAt": "2026-07-30T07:18:30+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Arm cambia mestiere, le sue prime CPU arriveranno entro l'anno",
-      "link": "https://www.tomshw.it/hardware/arm-cambia-mestiere-le-sue-prime-cpu-arriveranno-entro-lanno",
-      "excerpt": "Arm Holdings si prepara a spedire la sua prima CPU per data center progettata internamente. Il processore, indicato come CPU AGI, dovrebbe entrare nella fase delle consegne entro…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104369/arm-cambia-mestiere-le-sue-prime-cpu-arriveranno-entro-l-anno.png",
-      "publishedAt": "2026-07-30T07:10:26+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Samsung, profitti incredibili dalla corsa all'AI, ma gli smartphone soffrono",
-      "link": "https://www.hdblog.it/smartphone/articoli/n665870/samsung-record-risultati-q2-smartphone-rosso/",
-      "excerpt": "La crisi delle memorie mette in difficoltà perfino un business che per Samsung è sempre stato in attivo. Ma nel complesso i profitti dalla produzione di chip sono estremi.",
-      "image": "https://hd2.tudocdn.net/1359746?w=660",
-      "publishedAt": "2026-07-30T07:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Nissan e-POWER di terza generazione: come cambia l'ibrido che punta tutto sull'efficienza",
-      "link": "https://www.hdmotori.it/nissan-e-power-di-terza-generazione-come-cambia-librido-che-punta-tutto-sullefficienza/",
-      "excerpt": "Consumi ridotti fino al 16%, oltre 1.200 km di autonomia e un nuovo motore con rendimento termico del 42%: ecco perché la nuova evoluzione della tecnologia Nissan rappresenta uno…",
-      "image": "https://hd2.tudocdn.net/1359777?w=660",
-      "publishedAt": "2026-07-30T07:00:35+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Gasolio, lo sconto sulle accise è inferiore al dovuto: scatta la denuncia",
-      "link": "https://www.hdmotori.it/gasolio-sconto-accise-inferiore-denuncia/",
-      "excerpt": "Cosa non torna sul prezzo “alla pompa” del gasolio dopo il taglio delle accise. Il Codacons ha depositato un esposto a Procura di Roma e Antitrust ipotizzando il reato di truffa…",
-      "image": "https://hd2.tudocdn.net/1359768?w=660",
-      "publishedAt": "2026-07-30T06:30:26+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Migliori smartphone pieghevoli (luglio 2026)",
-      "link": "https://www.tomshw.it/smartphone/migliori-smartphone-pieghevoli",
-      "excerpt": "Gli smartphone pieghevoli non sono più soltanto una dimostrazione di design: oggi sono telefoni completi, pensati per chi vuole portarsi dietro più schermo senza passare a un…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/88217/migliori-smartphone-pieghevoli-copertina.jpg",
-      "publishedAt": "2026-07-30T06:19:26+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "EPYC ION 1000VA: l'UPS per PC e console oggi è più conveniente",
-      "link": "https://www.tomshw.it/hardware/epyc-ion-1000va-ups-pc-console-offerta-2026-07-30",
-      "excerpt": "EPYC ION 1000VA è un gruppo di continuità offline da 600 W pensato per proteggere PC, Mac, console e dispositivi di rete dagli spegnimenti improvvisi. Le tre uscite Schuko sono…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104350/epyc-ion-1000va-ups-pc-console-offerta-2026-07-30-bZwVFkm4as1jnoq85o12RnITqa.png",
-      "publishedAt": "2026-07-30T05:13:28+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Soundcore Select 4 Go: la cassa tascabile per l'estate oggi costa meno",
-      "link": "https://www.tomshw.it/hardware/soundcore-select-4-go-cassa-bluetooth-offerta-2026-07-30",
-      "excerpt": "La Soundcore Select 4 Go è una mini cassa Bluetooth pensata per accompagnare giornate all'aperto, viaggi e ascolto informale senza occupare molto spazio. Il prezzo attuale la…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104349/soundcore-select-4-go-cassa-bluetooth-offerta-2026-07-30-67ZrEkg29u17blpklkaZgCQkm.png",
-      "publishedAt": "2026-07-30T05:13:27+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "La sonda che doveva soccorrere il telescopio spaziale Swift ha perso il controllo",
       "link": "https://images.dday.it/On2Xv1xHI7-Kj46mN_0YG7QDNIU0-Y8KSqpAJEqF5oA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58206/9fe9f9_6a67783c7d752df2945a0967_Main-Katalyst_Raises__12M_to_Send_Space_Robot_to_GEO_for_Satellite_Servicing__1_.jpg",
       "excerpt": "Un guasto ad una ruota di reazione ha provocato la perdita di assetto della sonda LINK, che avrebbe dovuto agganciare e riportare nell'orbita corretta il telescopio spaziale…",
       "image": "https://images.dday.it/On2Xv1xHI7-Kj46mN_0YG7QDNIU0-Y8KSqpAJEqF5oA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58206/9fe9f9_6a67783c7d752df2945a0967_Main-Katalyst_Raises__12M_to_Send_Space_Robot_to_GEO_for_Satellite_Servicing__1_.jpg",
       "publishedAt": "2026-07-29T19:29:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Una VPN che prometteva \"nessun log\" ne conservava 58 milioni, ora in vendita su un forum criminale",
-      "link": "https://images.dday.it/38i-Dpb3JPGUME4yH1OpbsvQ2K1KaE1fVgavJH-5oHM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58209/76bb2a_Depositphotos_758235768_XL.jpg",
-      "excerpt": "Il servizio si chiama SplitVPN e serve ad aggirare la censura in Russia e in Iran. Nell'archivio rubato ci sono 23,4 milioni di utenti con e-mail e indirizzo IP, ma anche 58…",
-      "image": "https://images.dday.it/38i-Dpb3JPGUME4yH1OpbsvQ2K1KaE1fVgavJH-5oHM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58209/76bb2a_Depositphotos_758235768_XL.jpg",
-      "publishedAt": "2026-07-29T16:12:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Stellantis venderà il car sharing di Free2move a Mutares",
-      "link": "https://images.dday.it/e1TPKxWp2WynJPqKUsRaokq5IPDO2NxT4fFdiHLmsKw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58205/70de7a_f2m_thumb.jpg",
-      "excerpt": "L’operazione dovrebbe chiudersi entro la fine dell'anno. Stellantis vuole concentrare risorse e investimenti sulle attività considerate più strategiche... Leggi tutto",
-      "image": "https://images.dday.it/e1TPKxWp2WynJPqKUsRaokq5IPDO2NxT4fFdiHLmsKw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58205/70de7a_f2m_thumb.jpg",
-      "publishedAt": "2026-07-29T15:56:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "I ricavi di SK hynix volano grazie all’IA, ma non basta: il mercato si aspettava ancora di più, giù le azioni",
-      "link": "https://images.dday.it/sJxxwlQxqK4-CkljKtcKhTV8JpfGf6nx_lGqFf4rcLk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58207/caa6a0_Depositphotos_348871698_XL.jpg",
-      "excerpt": "Ricavi a 79.320 miliardi di won e utile operativo in crescita del 557%. Anche SK hynix avverte: riequilibrio fra domanda e offerta solo dal 2030... Leggi tutto",
-      "image": "https://images.dday.it/sJxxwlQxqK4-CkljKtcKhTV8JpfGf6nx_lGqFf4rcLk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58207/caa6a0_Depositphotos_348871698_XL.jpg",
-      "publishedAt": "2026-07-29T15:49:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "I dipendenti delle grandi società di IA hanno chiesto di frenare lo sviluppo dell’intelligenza artificiale di frontiera",
-      "link": "https://images.dday.it/iyhL-WGu58xYfldSrjeQV3phbMpCGBEQGEl-TiFuFww/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58204/8750cf_ChatGPT_Image_29_lug_2026__14_40_17.png",
-      "excerpt": "Nessuna società vuole rallentare mentre le concorrenti continuano a correre. Per spezzare questa dinamica, oltre 1.200 lavoratori dell’IA chiedono a Washington regole…",
-      "image": "https://images.dday.it/iyhL-WGu58xYfldSrjeQV3phbMpCGBEQGEl-TiFuFww/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58204/8750cf_ChatGPT_Image_29_lug_2026__14_40_17.png",
-      "publishedAt": "2026-07-29T12:41:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Q9, il SUV più grande di Audi arriva con sette posti e motori mild hybrid. In futuro anche plug-in",
-      "link": "https://images.dday.it/oJq-DQ4PgsdZ7Yl0DYDDEO80q9chly7QEakHYvpmc_0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58203/35275c_q9_thumb.jpg",
-      "excerpt": "Lunga 5,31 metri, la nuova ammiraglia sarà disponibile in Italia nel quarto trimestre. Al lancio motori 3.0 TDI mild hybrid da 245 e 299 CV... Leggi tutto",
-      "image": "https://images.dday.it/oJq-DQ4PgsdZ7Yl0DYDDEO80q9chly7QEakHYvpmc_0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58203/35275c_q9_thumb.jpg",
-      "publishedAt": "2026-07-29T09:51:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Erbacce, patio sporco e vialetti da pulire: le offerte Kärcher su Amazon per sistemare il giardino dopo le vacanze",
-      "link": "https://images.dday.it/FI3OXklhGhxVzexl5FGgqYIYMb9TtXdrrgVqyK3nAic/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58200/a5287e_cover_Screenshot_2026-07-29_alle_11.22.00_copia.png",
-      "excerpt": "Dal muschio tra le fughe allo sporco accumulato sul patio: tre prodotti Kärcher in offerta su Amazon aiutano ad affrontare i principali lavori di pulizia degli spazi esterni di…",
-      "image": "https://images.dday.it/FI3OXklhGhxVzexl5FGgqYIYMb9TtXdrrgVqyK3nAic/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58200/a5287e_cover_Screenshot_2026-07-29_alle_11.22.00_copia.png",
-      "publishedAt": "2026-07-29T09:26:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
