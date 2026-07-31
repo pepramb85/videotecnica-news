@@ -1,125 +1,260 @@
 {
-  "generatedAt": "2026-07-31T06:37:48.523931+00:00",
+  "generatedAt": "2026-07-31T10:30:17.640908+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "La fotosintesi delle piante nascondeva una struttura mai vista",
-      "link": "https://www.tomshw.it/scienze/la-fotosintesi-delle-piante-nascondeva-una-struttura-mai-vista",
-      "excerpt": "Un gruppo di ricercatori ha osservato direttamente nei cloroplasti del riso un'organizzazione dei complessi fotosintetici che le precedenti analisi su proteine isolate non erano…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104690/la-fotosintesi-delle-piante-nascondeva-una-struttura-mai-vista.png",
-      "publishedAt": "2026-07-31T06:23:43+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "A che ora esce The Relic: First Guardian su PC in Italia e dove scaricarlo",
-      "link": "https://www.tomshw.it/videogioco/a-che-ora-esce-the-relic-first-guardian-su-pc-in-italia-e-dove-scaricarlo",
-      "excerpt": "The Relic: First Guardian è disponibile su PC tramite Steam dal 31 luglio 2026; l'indicazione delle 12:04 italiane non è confermata da Steam, dallo sviluppatore o dal publisher.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104665/dqv-toms-cover-616114-1.png",
-      "publishedAt": "2026-07-31T06:22:36+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "NASA sceglie Starlink per Artemis III dopo il test di Starship",
-      "link": "https://www.tomshw.it/scienze/spacex-lancia-24-starlink-ma-il-dettaglio-piu-importante-e-un-altro",
-      "excerpt": "SpaceX ha collocato nello spazio 24 satelliti Starlink con un lancio dalla Vandenberg Space Force Base, in California. Dietro il successo operativo, però, emerge il collegamento…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104687/spacex-lancia-24-starlink-ma-il-dettaglio-piu-importante-e-un-altro.png",
-      "publishedAt": "2026-07-31T06:20:44+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Long COVID, due farmaci già noti aprono una pista inattesa",
-      "link": "https://www.tomshw.it/scienze/long-covid-due-farmaci-gia-noti-aprono-una-pista-inattesa",
-      "excerpt": "Due gruppi di ricerca hanno pubblicato nuovi risultati clinici secondo cui Paxlovid e metformina, farmaci già utilizzati rispettivamente contro la COVID-19 e il diabete,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104684/long-covid-due-farmaci-gia-noti-aprono-una-pista-inattesa.png",
-      "publishedAt": "2026-07-31T06:18:36+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Un controller criogenico rende i computer quantistici più scalabili",
-      "link": "https://www.tomshw.it/scienze/il-cavo-superconduttore-di-hrl-preserva-lo-stato-dei-qubit",
-      "excerpt": "HRL Laboratories ha dimostrato un processore quantistico al silicio da 18 qubit capace di gestire autonomamente la correzione degli errori. Il prototipo sostituisce parte delle…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104679/il-cavo-superconduttore-di-hrl-preserva-lo-stato-dei-qubit.png",
-      "publishedAt": "2026-07-31T06:16:21+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Edge computing e AI: la nuova piattaforma per i droni militari",
-      "link": "https://www.hdblog.it/droni/articoli/n665989/droni-militari-edge-computing-ai/",
-      "excerpt": "Una nuova piattaforma porta più AI direttamente sui piccoli droni militari.",
-      "image": "https://hd2.tudocdn.net/1360074?w=660",
-      "publishedAt": "2026-07-31T06:15:00+00:00",
+      "title": "Sonos, nuovi prodotti in arrivo a settembre | focus soprattutto sull'AI?",
+      "link": "https://www.hdblog.it/altadefinizione/articoli/n666036/sonos-evento-settembre-nuovi-prodotti/",
+      "excerpt": "Le conferme in occasione dell'ultima trimestrale.",
+      "image": "https://hd2.tudocdn.net/1329702?w=660",
+      "publishedAt": "2026-07-31T10:25:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Due supernove vicine potrebbero provenire dallo stesso sistema binario",
-      "link": "https://www.tomshw.it/scienze/due-supernove-sembrano-legate-e-sarebbe-una-prima-cosmica",
-      "excerpt": "Un gruppo di astronomi guidato da Miltiadis Michailidis, astrofisico della Stanford University, ha ricostruito un possibile legame tra due resti di supernova vicini nella Via…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104674/due-supernove-sembrano-legate-e-sarebbe-una-prima-cosmica.png",
-      "publishedAt": "2026-07-31T06:14:06+00:00",
+      "title": "Microsoft continua a vendere le Xbox in perdita, nonostante gli aumenti",
+      "link": "https://www.hdblog.it/microsoft/articoli/n666034/microsoft-xbox-perdita-vendite-aumenti-crisi-chip/",
+      "excerpt": "Tutto questo per dire che gli aumenti sono solo una risposta alla crisi dei chip.",
+      "image": "https://hd2.tudocdn.net/1349391?w=660",
+      "publishedAt": "2026-07-31T10:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nano Banana arriva in Google Earth. Si può modificare qualsiasi luogo, ma c'è un grosso rischio sulle fake news",
+      "link": "https://images.dday.it/xk-ptHvhnN3Yo84CLdrn2tePwPuVIWKSaP7iW0F42LY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58231/3c6c03_Screenshot_2026-07-31_alle_10.22.00.png",
+      "excerpt": "Basta un prompt per sprigionare la propria creatività in qualsiasi luogo della terra, ma i risultati non sono all'altezza di quelli a cui siamo abituati, e si possono generare…",
+      "image": "https://images.dday.it/xk-ptHvhnN3Yo84CLdrn2tePwPuVIWKSaP7iW0F42LY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58231/3c6c03_Screenshot_2026-07-31_alle_10.22.00.png",
+      "publishedAt": "2026-07-31T10:14:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Microsoft corregge una vulnerabilità critica in Azure Cosmos DB",
+      "link": "https://www.hdblog.it/microsoft/articoli/n666032/microsoft-azure-vulnerabilita-cloud/",
+      "excerpt": "Una vulnerabilità scoperta in Azure Cosmos DB avrebbe potuto consentire ad attaccanti di compromettere dati e infrastrutture cloud. Microsoft conferma che il problema è stato…",
+      "image": "https://hd2.tudocdn.net/1111674?w=660",
+      "publishedAt": "2026-07-31T10:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Elgato Key Light Neo a 56,30€, mai costata così poco: call e video più curati",
+      "link": "https://www.tomshw.it/offerte/elgato-key-light-neo-a-5630eur-mai-costata-cosi-poco-call-e-video-piu-curati",
+      "excerpt": "Elgato Key Light Neo costa 56,30€ su Amazon, anziché 81,50€, con uno sconto del 31% e il prezzo più basso mai raggiunto. Montata direttamente sul display, porta sul volto una luce…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104843/tomshw-offer-617299.png",
+      "publishedAt": "2026-07-31T10:04:03+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Il calcolo quantistico si compra in Italia, ecco le cinque macchine",
-      "link": "https://www.tomshw.it/business/il-calcolo-quantistico-si-compra-in-italia-ecco-le-cinque-macchine",
-      "excerpt": "Il 17 luglio, nell'Auditorium dell'Acquario di Genova, è stato presentato il primo Centro Italiano di Emulazione Quantistica insieme alla piattaforma EQM, Emulator Quantum…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104673/crapelli-emulazione-quantistica-cover.jpg",
-      "publishedAt": "2026-07-31T06:06:44+00:00",
+      "title": "Final Fantasy VII Revelation: classi FITS e Highwind cambiano combattimenti ed esplorazione",
+      "link": "https://www.tomshw.it/videogioco/final-fantasy-vii-revelation-classi-fits-e-highwind-cambiano-combattimenti-ed-esplorazione",
+      "excerpt": "Final Fantasy VII Revelation permetterà di trasformare Cloud in un Guerriero e Tifa in una Maga Nera, superando i ruoli con cui i personaggi sono stati identificati nei primi due…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104842/Final-Fantasy-7-Revelation-Artikelbild-1.jpg",
+      "publishedAt": "2026-07-31T10:01:13+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Curiosity trova un enorme campo a nido d'ape su Marte | Ecco perché è importante",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n665988/curiosity-scoperta-poligoni-marte-2/",
-      "excerpt": "Curiosity scopre un'enorme distesa di poligoni che racconta il passato acquatico di Marte.",
-      "image": "https://hd2.tudocdn.net/1360072?w=660",
-      "publishedAt": "2026-07-31T06:05:00+00:00",
+      "title": "Nissan Qashqai e-POWER: l’ibrida che si guida come un’elettrica",
+      "link": "https://www.hdmotori.it/nissan-qashqai-e-power-librida-che-si-guida-come-unelettrica/",
+      "excerpt": "Nissan Qashqai e-POWER porta su strada una soluzione capace di unire grande piacere di guida, eccezionale autonomia ed estrema semplicità d’uso. Due viaggi record in Regno Unito…",
+      "image": "https://hd2.tudocdn.net/1360157?w=660",
+      "publishedAt": "2026-07-31T10:00:32+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Philips 32E1N1800LA 4K da 309€ a 221,89€, un affare per lavorare in grande",
-      "link": "https://www.tomshw.it/offerte/philips-32e1n1800la-4k-da-309eur-a-22189eur-un-affare-per-lavorare-in-grande",
-      "excerpt": "Philips 32E1N1800LA costa 221,89€ su Amazon, anziché 309€, con uno sconto del 28%. Il monitor da 32 pollici 4K UHD raggiunge così il suo minimo storico e mette a disposizione…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104675/tomshw-offer-616165.png",
-      "publishedAt": "2026-07-31T06:04:37+00:00",
+      "title": "E.ON rivoluziona le utenze di casa: attiva la coppia vincente e ottieni il 10% di sconto subito",
+      "link": "https://www.tomshw.it/altro/eon-rivoluziona-le-utenze-di-casa-attiva-la-coppia-vincente-e-ottieni-il-10-di-sconto-subito",
+      "excerpt": "Risparmiare sulle bollette di casa non è mai stato così semplice e conveniente. In un periodo in cui la stabilità delle spese domestiche è al centro dell'attenzione delle f...",
+      "image": "https://cdn.tomshw.it/storage/media/2026/05/92281/Luce-sotto-i-10-centesimikWh-Con-E-ON-l’offerta-va-oltre-il-prezzo.png",
+      "publishedAt": "2026-07-31T09:57:38+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Apple, ricavi sopra le attese nel Q3 ma il titolo crolla in borsa: ecco perché",
-      "link": "https://www.hdblog.it/apple/articoli/n665984/apple-risultati-q3-2026-ricavi-allarme-forniture/",
-      "excerpt": "Numeri ottimi, ma le parole di Tim Cook spaventano gli investitori.",
-      "image": "https://hd2.tudocdn.net/1352731?w=660",
-      "publishedAt": "2026-07-31T05:55:00+00:00",
+      "title": "Gli LLM \"troppo pericolosi\" che \"hackerano\" ormai è marketing che ha annoiato",
+      "link": "https://www.tomshw.it/business/gli-llm-troppo-pericolosi-che-hackerano-ormai-e-marketing-che-ha-annoiato",
+      "excerpt": "Conosciamo tutti la favola del pastorello che grida al lupo per noia, finché il giorno vero nessuno gli crede più. Il settore dell'AI sta facendo qualcosa del genere, ma non è per…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104836/04-basta-allarmismo-modelli-troppo-pericolosi.jpg",
+      "publishedAt": "2026-07-31T09:52:29+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Pensa solo alle vacanze: blocca il prezzo di Luce e Gas per un anno con ENGIE (e promo SKY)",
+      "link": "https://www.tomshw.it/altro/pensa-solo-alle-vacanze-blocca-il-prezzo-di-luce-e-gas-per-un-anno-con-engie-e-promo-sky",
+      "excerpt": "L'estate è il momento perfetto per staccare la spina e concentrarsi sul relax, ed ENGIE lancia una promozione pensata proprio per far vivere le ferie senza lo stress legato ai…",
+      "image": "https://cdn.tomshw.it/storage/media/2025/10/72445/engie-energia-puntofisso-yIoU6oVQMXXzl.png",
+      "publishedAt": "2026-07-31T09:51:33+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Apple, trimestre da record. Ma avverte: nei prossimi mesi comprare le memorie le costerà di più",
+      "link": "https://images.dday.it/kXl1OUGE74l2E1zONfwbTmDNaSSVnj9wcJzyVrqQiiM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58232/d21bc9_Depositphotos_386560744_XL.jpg",
+      "excerpt": "Apple prevede un impatto sulle vendite di Mac, iPhone e iPad a causa delle difficoltà nella catena di approvvigionamento... Leggi tutto",
+      "image": "https://images.dday.it/kXl1OUGE74l2E1zONfwbTmDNaSSVnj9wcJzyVrqQiiM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58232/d21bc9_Depositphotos_386560744_XL.jpg",
+      "publishedAt": "2026-07-31T09:46:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Energia 100% verde e zero vincoli: scopri la nuova promo Octopus Energy in scadenza a inizio agosto!",
+      "link": "https://www.tomshw.it/altro/energia-100-verde-e-zero-vincoli-scopri-la-nuova-promo-octopus-energy-in-scadenza-a-inizio-agosto",
+      "excerpt": "In un mercato energetico sempre più dinamico, Octopus Energy lancia la sua nuova promozione dedicata alle utenze domestiche, combinando trasparenza e sostenibilità. L'offerta si…",
+      "image": "https://cdn.tomshw.it/storage/media/2025/09/70012/con-Octopus-la-bolletta-sorride-copertina.jpg",
+      "publishedAt": "2026-07-31T09:45:49+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La piega dei nuovi Samsung Galaxy Z Fold8 si vede già dopo una settimana di utilizzo",
+      "link": "https://www.hdblog.it/smartphone/articoli/n666011/piega-samsung-galaxy-z-fold8-vede-dopo-settimana/",
+      "excerpt": "Dopo i primi giorni di utilizzo, Galaxy Z Fold8 mostra una piega più evidente, ma non si tratta di una promessa non mantenuta da Samsung.",
+      "image": "https://hd2.tudocdn.net/1360128?w=660",
+      "publishedAt": "2026-07-31T09:45:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Google insegna ai robot a muoversi come esseri umani: ecco Gemini Robotics 2",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n665990/google-gemini-robotics-2/",
-      "excerpt": "Gemini Robotics 2 permette ai robot di svolgere compiti complessi con tutto il corpo.",
-      "image": "https://hd2.tudocdn.net/1360071?w=660",
-      "publishedAt": "2026-07-31T05:45:00+00:00",
+      "title": "Android, Advanced Protection si potrà sospendere temporaneamente",
+      "link": "https://www.hdblog.it/google/articoli/n666028/android-advanced-protection-sospensione-pulsante/",
+      "excerpt": "Invece di disattivarla del tutto (che poi il problema è ricordarsi di riattivarla), sarà offerta una finestra automatica di 3 ore.",
+      "image": "https://hd2.tudocdn.net/1355478?w=660",
+      "publishedAt": "2026-07-31T09:35:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Spotify aggiunge le Note utente: ogni canzone potrà raccontare un ricordo",
-      "link": "https://www.hdblog.it/android/articoli/n665991/spotify-note-utente-playlist/",
-      "excerpt": "Spotify introduce le Note utente per collegare ricordi personali ai brani delle playlist.",
-      "image": "https://hd2.tudocdn.net/1360069?w=660",
-      "publishedAt": "2026-07-31T05:35:00+00:00",
+      "title": "300€ in meno sul roborock QV 35A, aspira e lava con base automatica",
+      "link": "https://www.tomshw.it/offerte/300eur-in-meno-sul-roborock-qv-35a-aspira-e-lava-con-base-automatica",
+      "excerpt": "Roborock QV 35A costa 299,99€ su Amazon, con il 50% di sconto sul listino di 599,99€ e un risparmio di 300€. La stazione multifunzione riduce gli interventi quotidiani occupandosi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104826/tomshw-offer-617191.png",
+      "publishedAt": "2026-07-31T09:34:07+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Xiaomi: debuttano SkyNomad N70 e N90 Max con autonomie record",
+      "link": "https://www.hdmotori.it/xiaomi-skynomad-n70-e-n90-max-autonomie-record/",
+      "excerpt": "Con SkyNomad N70 e N90 Max il colosso cinese Xiaomi fa un netto passo in avanti. I top brand europei sono avvisati.",
+      "image": "https://hd2.tudocdn.net/1360150?w=660",
+      "publishedAt": "2026-07-31T09:30:44+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Sony abbandona i giochi su disco: anche Anonymous contro la decisione",
+      "link": "https://www.hdblog.it/games/articoli/n666024/playstation-dischi-fisici-difesa-anonymous/",
+      "excerpt": "Dal 2028 i nuovi giochi PlayStation saranno disponibili soltanto tramite download. La decisione segna la fine del mercato dell'usato per le nuove uscite e rafforza il controllo di…",
+      "image": "https://hd2.tudocdn.net/1360143?w=660",
+      "publishedAt": "2026-07-31T09:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung Galaxy Watch, ora si possono scaricare le immagini dal Browser",
+      "link": "https://www.hdblog.it/indossabili/articoli/n666017/galaxy-watch-browser-internet-download-immagini/",
+      "excerpt": "Basta premere a lungo su un'immagine. Ma che non sia più grande di 10 MB!",
+      "image": "https://hd2.tudocdn.net/1359115?w=660",
+      "publishedAt": "2026-07-31T09:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Moto Watch a 70€ su Amazon: OLED, Polar e 13 giorni di autonomia sotto i 100€",
+      "link": "https://www.hdblog.it/indossabili/offerte/n666016/moto-watch-moto-ai-oled-polar-amazon/",
+      "excerpt": "Moto Watch con moto ai è in offerta su Amazon a 70,81€: display OLED da 1,43\", GPS, chiamate dal polso, tecnologia Polar e autonomia fino a 13 giorni.",
+      "image": "https://hd2.tudocdn.net/1360141?w=660",
+      "publishedAt": "2026-07-31T09:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Sony rassicura sul PlayStation 5: scorte di memorie assicurate fino al 2027",
+      "link": "https://images.dday.it/dSSaiQ4A1pGu4rBvRzQfdUKnfXjabu8-7zSfQqQk95c/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58230/89af87_Depositphotos_494955456_XL.jpg",
+      "excerpt": "Sony ha affermato di aver già assicurato le forniture di RAM necessarie per raggiungere gli obiettivi di vendita del 2026... Leggi tutto",
+      "image": "https://images.dday.it/dSSaiQ4A1pGu4rBvRzQfdUKnfXjabu8-7zSfQqQk95c/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58230/89af87_Depositphotos_494955456_XL.jpg",
+      "publishedAt": "2026-07-31T09:05:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Cancellare un telefono per non farselo sequestrare è un reato?",
+      "link": "https://images.dday.it/torB_Mx7UIY54C9Dzy8oQ98WfeUIAaRFI1C1i0VA2ak/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58229/1004b7_Depositphotos_116385784_XL.jpg",
+      "excerpt": "Ha fatto molto discutere il caso della persona che, all'aeroporto di Atlanta, ha usato il \"duress PIN\" di GrapheneOS per cancellare le chiavi di cifratura del proprio telefono…",
+      "image": "https://images.dday.it/torB_Mx7UIY54C9Dzy8oQ98WfeUIAaRFI1C1i0VA2ak/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58229/1004b7_Depositphotos_116385784_XL.jpg",
+      "publishedAt": "2026-07-31T08:13:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Amazon potrebbe rimborsare ad alcuni clienti il sovraccosto dei dazi di Trump",
+      "link": "https://images.dday.it/hM3VKKcDGkyHcAZc52J4DfzouSOf_0-eyfgDwLx3JPg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58228/856246_Depositphotos_99311424_XL.jpg",
+      "excerpt": "Amazon potrebbe rimborsare alcuni clienti per i dazi di Trump solo se collegherà il costo al singolo acquisto. Gli altri rimborsi serviranno a contenere i prezzi, forse anche…",
+      "image": "https://images.dday.it/hM3VKKcDGkyHcAZc52J4DfzouSOf_0-eyfgDwLx3JPg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58228/856246_Depositphotos_99311424_XL.jpg",
+      "publishedAt": "2026-07-31T07:53:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Juventus-Nizza, l'amichevole sarà trasmessa in diretta gratis su EA Sports FC Mobile",
+      "link": "https://images.dday.it/oaFRtCPPVu6cBRBM3UADuvNARUP50y_hXPasTJlichI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58227/069468_Depositphotos_207082590_XL.jpg",
+      "excerpt": "Per la prima volta due partite della pre-stagione bianconera saranno visibili sulla piattaforma di streaming del colosso videoludico, parte del videogioco mobile... Leggi tutto",
+      "image": "https://images.dday.it/oaFRtCPPVu6cBRBM3UADuvNARUP50y_hXPasTJlichI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58227/069468_Depositphotos_207082590_XL.jpg",
+      "publishedAt": "2026-07-31T07:52:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "No all'\"AI slop\". LinkedIn testa il pulsante per segnalare i contenuti generati con l'Intelligenza Artificiale",
+      "link": "https://images.dday.it/mLlrwslU7lbdj9kA7NA-RZV30RLHRBpqcDMXWbky-7Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58225/496dd1_Depositphotos_720954812_XL.jpg",
+      "excerpt": "Dopo le critiche sulla proliferazione dei post generati dall’IA, LinkedIn sta testando uno strumento che consente agli utenti di segnalarli direttamente dal feed... Leggi tutto",
+      "image": "https://images.dday.it/mLlrwslU7lbdj9kA7NA-RZV30RLHRBpqcDMXWbky-7Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58225/496dd1_Depositphotos_720954812_XL.jpg",
+      "publishedAt": "2026-07-31T07:35:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Associazioni consumatori, perché si fa di tutto per accumulare soci: sotto i 30.000 iscritti niente contributi",
+      "link": "https://images.dday.it/fD32fpkFqSnygZkgxyy2-SUvO7vF0fgRG3121k-VZB8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58223/35a359_ChatGPT_Image_31_lug_2026__09_09_57.png",
+      "excerpt": "Essere sotto la soglia può costare il riconoscimento nazionale e incidere anche sui contributi pubblici. Il numero dei soci viene dichiarato ogni anno, però i controlli a campione…",
+      "image": "https://images.dday.it/fD32fpkFqSnygZkgxyy2-SUvO7vF0fgRG3121k-VZB8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58223/35a359_ChatGPT_Image_31_lug_2026__09_09_57.png",
+      "publishedAt": "2026-07-31T07:11:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Chi usa Revolut può usare ChatGPT Go senza costi aggiuntivi. Fino a un anno di accesso incluso",
+      "link": "https://images.dday.it/rJtkit2BVQ5ZTOGc1VYJwAsZoKrCIjl_RoNaXowc3V0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58224/bd07cb_Depositphotos_383712568_XL.jpg",
+      "excerpt": "I clienti di Revolut potranno accedere a ChatGPT Go senza costi aggiuntivi per un periodo variabile in base al piano sottoscritto... Leggi tutto",
+      "image": "https://images.dday.it/rJtkit2BVQ5ZTOGc1VYJwAsZoKrCIjl_RoNaXowc3V0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58224/bd07cb_Depositphotos_383712568_XL.jpg",
+      "publishedAt": "2026-07-31T07:05:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "A che ora esce Corsair Cove in Italia oggi: PC Game Pass, Steam e GeForce NOW",
+      "link": "https://www.tomshw.it/videogioco/a-che-ora-esce-corsair-cove-in-italia-oggi-pc-game-pass-steam-e-geforce-now",
+      "excerpt": "Corsair Cove esce oggi alle 17:00 in Italia su Steam, Microsoft Store e PC Game Pass, dove è incluso nell’abbonamento; il debutto su GeForce NOW è previsto nella stessa giornata e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104691/images-12.jpg",
+      "publishedAt": "2026-07-31T06:23:24+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori VPN per la Cina (luglio 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-vpn-cina",
+      "excerpt": "La censura di internet in Cina è notoriamente tra le più severe al mondo. Il cosiddetto Great Firewall (letteralmente “Grande Firewall”, in assonanza con la Grande Muraglia)...",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/87302/migliori-vpn-cina-copertina.jpg",
+      "publishedAt": "2026-07-31T06:17:06+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Il cinema a casa. Hisense PT1 proietta fino a 150 pollici e ha bisogno di pochissimo spazio",
@@ -131,148 +266,13 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Logitech G PRO X SUPERLIGHT 2 DEX a 110,78€: la scelta giusta per gli FPS",
-      "link": "https://www.tomshw.it/offerte/logitech-g-pro-x-superlight-2-dex-a-11078eur-la-scelta-giusta-per-gli-fps",
-      "excerpt": "Logitech G PRO X SUPERLIGHT 2 DEX costa 110,78€ su Amazon, il suo minimo storico, anziché 159,99€ grazie a uno sconto del 31%. Sensore HERO 2, polling fino a 8 kHz e forma…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104654/tomshw-offer-615949.png",
-      "publishedAt": "2026-07-30T20:06:09+00:00",
+      "title": "Microsoft vola altissimo, molto bene Azure, Copilot cresce lentamente",
+      "link": "https://www.tomshw.it/business/microsoft-vola-altissimo-molto-bene-azure-copilot-cresce-lentamente",
+      "excerpt": "Microsoft ha chiuso il quarto trimestre dell'anno fiscale 2026, terminato il 30 giugno, con ricavi per 90,0 miliardi di dollari, il 18% in più su base annua (17% a cambi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104475/06-microsoft-earnings-cover.jpg",
+      "publishedAt": "2026-07-30T09:35:05+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Trust Tytan GXT 629 a 77,99€: il set 2.1 giusto per giochi e film",
-      "link": "https://www.tomshw.it/offerte/trust-tytan-gxt-629-a-7799eur-il-set-21-giusto-per-giochi-e-film",
-      "excerpt": "Trust Tytan GXT 629 costa 77,99€ su Amazon, contro un listino di 114,99€ e con uno sconto del 32%. Il set 2.1 permette di passare dagli altoparlanti integrati del monitor a un…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104653/tomshw-offer-615919.png",
-      "publishedAt": "2026-07-30T19:33:39+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "I Pixel 11 dopo questo maxi leak non hanno segreti: tantissimi render in tutti i colori",
-      "link": "https://www.hdblog.it/smartphone/articoli/n665978/google-pixel-11-pro-fold-xl-render-colori-leak/",
-      "excerpt": "I prossimi smartphone di Google da ogni angolazione.",
-      "image": "https://hd2.tudocdn.net/1360052?w=660",
-      "publishedAt": "2026-07-30T19:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Recensione Samsung Galaxy Z Fold 8: il formato a passaporto convince | Video",
-      "link": "https://www.hdblog.it/smartphone/recensioni/n665527/recensione-samsung-galaxy-z-fold-8-prezzo-video/",
-      "excerpt": "Abbiamo provato il nuovo pieghevole \"a passaporto\" di Samsung: lo Z Fold 8. Il nuovo formato rivoluzionario che sembra anticipare Apple, è davvero così comodo?",
-      "image": "https://hd2.tudocdn.net/1359618?w=660",
-      "publishedAt": "2026-07-30T19:00:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Da oggi la nuova carta d’identità non scade più per chi ha compiuto 70 anni. Tutto quello che c’è da sapere",
-      "link": "https://images.dday.it/oMvHEQAUjX55A7eVm6dB8XgRqVXWkSzwblPCaCuD4YU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58221/cc7db4_521bcd_cove_rGemini_Generated_Image_bxnc0nbxnc0nbxnc_copia.png",
-      "excerpt": "Le CIE rilasciate dal 30 luglio hanno validità illimitata per gli over 70 e possono essere usate anche per l’espatrio. Quelle già emesse mantengono la scadenza, ma attenzione al…",
-      "image": "https://images.dday.it/oMvHEQAUjX55A7eVm6dB8XgRqVXWkSzwblPCaCuD4YU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58221/cc7db4_521bcd_cove_rGemini_Generated_Image_bxnc0nbxnc0nbxnc_copia.png",
-      "publishedAt": "2026-07-30T18:49:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Postel avvisa (con sei settimane di ritardo) che le PEC di Poste Italiane sono finite per errori ad altri",
-      "link": "https://images.dday.it/8mjBzguUuvpCp4dSKqxFeV7J-V13_0l_R_RqU4fWLjI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58222/9bd52a_Gemini_Generated_Image_yffoq4yffoq4yffo.jpeg",
-      "excerpt": "La segnalazione arriva da un nostro lettore che ha ricevuto la segnalazione direttamente da Postel. Le richieste? Non aprire le mail, cancellarle e rispondere dicendo di averlo…",
-      "image": "https://images.dday.it/8mjBzguUuvpCp4dSKqxFeV7J-V13_0l_R_RqU4fWLjI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58222/9bd52a_Gemini_Generated_Image_yffoq4yffoq4yffo.jpeg",
-      "publishedAt": "2026-07-30T18:45:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "DDay down: cosa è successo e come abbiamo risolto per evitare che accada di nuovo",
-      "link": "https://images.dday.it/vTL6u5m7enpFrC2LnVf1QZD_Y-dd-RnPkQPgo5dF6ZE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58220/c471eb_Depositphotos_189703852_XL.jpg",
-      "excerpt": "A causa di un guasto ai sistemi di raffreddamento del datacenter i gestori sono stati costretti a spegnere tutte le macchine, incluse quelle di backup. La situazione si risolverà…",
-      "image": "https://images.dday.it/vTL6u5m7enpFrC2LnVf1QZD_Y-dd-RnPkQPgo5dF6ZE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58220/c471eb_Depositphotos_189703852_XL.jpg",
-      "publishedAt": "2026-07-30T18:42:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Samsung ha tenuto i prezzi degli smartphone troppo bassi: prima perdita operativa dopo 15 anni",
-      "link": "https://images.dday.it/XRsLmUhoXw7E1r-zJP4OFfh1ujxXJpmtJCYCKgrpZXw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58219/dba7f8_sammain.jpg",
-      "excerpt": "Le memorie sono la croce e la delizia di Samsung Electronics: la divisione semiconduttori fa segnare un record, quella degli smartphone, per la prima volta da anni, una perdita…",
-      "image": "https://images.dday.it/XRsLmUhoXw7E1r-zJP4OFfh1ujxXJpmtJCYCKgrpZXw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58219/dba7f8_sammain.jpg",
-      "publishedAt": "2026-07-30T18:40:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Disney+ toglie il 4K in Italia senza dirlo. C'è chi paga di più per la qualità senza avere la qualità",
-      "link": "https://images.dday.it/KACZ5xItJccMTxz7meN45GRta8ooBRryDwm4RieO9Fs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58218/33591d_dist.jpg",
-      "excerpt": "Disney+ dopo aver tolto il Dolby Vision toglie anche il 4K. Chi in Italia sta pagando il piano premium per vedere meglio vede come chi paga il piano base. L'azienda fa finta di…",
-      "image": "https://images.dday.it/KACZ5xItJccMTxz7meN45GRta8ooBRryDwm4RieO9Fs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58218/33591d_dist.jpg",
-      "publishedAt": "2026-07-30T18:34:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Come funziona il sistema FTM Ferrari e perché non è stato tolto a Spa e a Silverstone",
-      "link": "https://www.hdmotori.it/come-funziona-il-sistema-ftm-ferrari-e-perche-non-e-stato-tolto-a-spa-e-a-silverstone/",
-      "excerpt": "Come funziona la soluzione tecnica che ha fatto discutere gli avversari: più stabilità, più trazione e un vantaggio aerodinamico che Ferrari ha scelto di mantenere anche sui...",
-      "image": "https://hd2.tudocdn.net/1359979?w=660",
-      "publishedAt": "2026-07-30T18:00:26+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Huawei Watch GT 5 in offerta su Amazon: con lo sconto del 48% diventa un best buy",
-      "link": "https://www.hdblog.it/indossabili/offerte/n665975/huawei-watch-gt-5-offerta-amazon-lug26/",
-      "excerpt": "Il Huawei Watch GT 5 è in offerta su Amazon e ora è disponibile con uno sconto del 48% e diventa lo smartwatch giusto da prendere oggi.",
-      "image": "https://hd2.tudocdn.net/1190652?w=660",
-      "publishedAt": "2026-07-30T17:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung Galaxy S26, ora costa 579€: è lui lo smartphone compatto da scegliere",
-      "link": "https://www.hdblog.it/smartphone/offerte/n665973/samsung-galaxy-s26-offerta-aug26/",
-      "excerpt": "Il Samsung Galaxy S26 cala di prezzo e ora costa meno di 600 euro: si tratta di un best buy tra gli smartphone compatti.",
-      "image": "https://hd2.tudocdn.net/1347608?w=660",
-      "publishedAt": "2026-07-30T17:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Qualcomm aumenterà i prezzi dei suoi chip dal 1° settembre. Nuovi rincari in vista per gli smartphone?",
-      "link": "https://images.dday.it/bsVTjIwyLE9sQuS8QD_cieCaIe8Yyiw470p_JkgtejA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58217/313734_Depositphotos_445510656_XL.jpg",
-      "excerpt": "La società vuole compensare l’aumento dei costi delle memorie e la contrazione del mercato mobile. Intanto, punterà di più su data center e settore automobilistico... Leggi tutto",
-      "image": "https://images.dday.it/bsVTjIwyLE9sQuS8QD_cieCaIe8Yyiw470p_JkgtejA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58217/313734_Depositphotos_445510656_XL.jpg",
-      "publishedAt": "2026-07-30T11:07:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Malagò (FIGC): «I diritti TV del calcio caleranno». E la pirateria è peggiore del previsto",
-      "link": "https://images.dday.it/axfviaIu0mNu6fIGFttrMOs59ZDyzrHhU7UXLHV2zIk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58216/7b4929_Screenshot_2026-07-30_alle_12.11.49_copia.png",
-      "excerpt": "Il presidente della FIGC ha descritto un sistema stretto tra la saturazione del mercato televisivo e la difficoltà di fermare le trasmissioni illegali. Le multe antipirateria,…",
-      "image": "https://images.dday.it/axfviaIu0mNu6fIGFttrMOs59ZDyzrHhU7UXLHV2zIk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58216/7b4929_Screenshot_2026-07-30_alle_12.11.49_copia.png",
-      "publishedAt": "2026-07-30T10:19:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Fusione nucleare, ITER: completati due terzi del cuore del tokamak. Installato il sesto modulo",
-      "link": "https://images.dday.it/iMIfLL5PS_T7g2oxW1rJ72s22tcqpHZk9y54XVguYx0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58215/2b6a73_11._Sector_module_landed.jpg",
-      "excerpt": "L’operazione è stata conclusa con quasi sei mesi di anticipo. Il componente da 1.100 tonnellate è stato calato nella camera di assemblaggio dopo un sollevamento durato 30 ore...…",
-      "image": "https://images.dday.it/iMIfLL5PS_T7g2oxW1rJ72s22tcqpHZk9y54XVguYx0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58215/2b6a73_11._Sector_module_landed.jpg",
-      "publishedAt": "2026-07-30T09:56:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Da oggi puoi condividere Amazon Prime con un altro membro della tua famiglia, senza costi aggiuntivi",
-      "link": "https://images.dday.it/UEXhYRoDymRHJS2c2Ya-bh08onRybDcxvQYTjbeo_PY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58214/8e7757_cover.png",
-      "excerpt": "Grazie ad Amazon Family il proprietario dell'account Prime può mettere a disposizione i vantaggi con un'altra persona, mantenendo comunque i due profili separati... Leggi tutto",
-      "image": "https://images.dday.it/UEXhYRoDymRHJS2c2Ya-bh08onRybDcxvQYTjbeo_PY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58214/8e7757_cover.png",
-      "publishedAt": "2026-07-30T09:55:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
     }
   ]
 }
