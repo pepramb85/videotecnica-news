@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-08-02T02:01:48.568095+00:00",
+  "generatedAt": "2026-08-02T06:27:00.553918+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Chatbot che si dichiarano e deepfake da etichettare: cosa impone l’AI Act europeo dal 2 agosto 2026",
+      "link": "https://images.dday.it/ShC7JjV6ngbke_alfFopMRu_gP5v_SgNowepQVSsIOE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58244/a2f205_ChatGPT_Image_1_ago_2026__11_52_23.png",
+      "excerpt": "Da oggi l’AI Act impone nuove regole su chatbot, deepfake e contenuti generati dall’IA. Ecco chi deve informare, etichettare e marcare gli output, con esempi pratici per aziende…",
+      "image": "https://images.dday.it/ShC7JjV6ngbke_alfFopMRu_gP5v_SgNowepQVSsIOE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58244/a2f205_ChatGPT_Image_1_ago_2026__11_52_23.png",
+      "publishedAt": "2026-08-02T06:00:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
     {
       "title": "Il cinema a casa. Hisense PT1 proietta fino a 150 pollici e ha bisogno di pochissimo spazio",
       "link": "https://images.dday.it/VnvSUOYeowIxyxhFT6SnS4DA2uAddn68Yb-wNTs-jGk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58191/837aee_Basement_home_theater.jpg",
@@ -253,15 +262,6 @@
       "excerpt": "100 miliardi di fondi pubblici per sviluppare modelli IA europei. E una di queste potrebbe essere in Italia... Leggi tutto",
       "image": "https://images.dday.it/w-24PLAPRw_-__ryiEjBnCt9pkgCkr3xS7OdV95HiS8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58235/f4229a_Gemini_Generated_Image_nr7679nr7679nr76.png",
       "publishedAt": "2026-07-31T12:22:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Dopo OpenAI, anche Anthropic ha perso il controllo dei suoi modelli durante test offensivi",
-      "link": "https://images.dday.it/7GLpw2DIY-0wNQYmMStVqB11TnHn0t-B15I2a-C_72I/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58236/c4bd99_small_ChatGPT_Image_31_lug_2026__12_30_30_copia.png",
-      "excerpt": "Tre modelli Anthropic hanno avuto accesso involontario a Internet durante test offensivi. Uno ha violato un database, un altro ha pubblicato un pacchetto malevolo e cercato…",
-      "image": "https://images.dday.it/7GLpw2DIY-0wNQYmMStVqB11TnHn0t-B15I2a-C_72I/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58236/c4bd99_small_ChatGPT_Image_31_lug_2026__12_30_30_copia.png",
-      "publishedAt": "2026-07-31T12:10:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     },
