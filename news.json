@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-08-02T09:49:37.171190+00:00",
+  "generatedAt": "2026-08-02T11:11:31.646527+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Server domestico: PC e notebook datati come alternativa al Raspberry Pi",
+      "link": "https://www.hdblog.it/hardware/articoli/n665960/home-server-notebook-pc-alternativa-raspberry-pi/",
+      "excerpt": "Sempre più utenti si rivolgono ai vecchi dispositivi per l’hosting domestico.",
+      "image": "https://hd2.tudocdn.net/1359923?w=660",
+      "publishedAt": "2026-08-02T10:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Dreame L40 Ultra A a 349€, minimo storico per automatizzare le pulizie",
+      "link": "https://www.tomshw.it/offerte/dreame-l40-ultra-a-a-349eur-minimo-storico-per-automatizzare-le-pulizie",
+      "excerpt": "Dreame L40 Ultra A costa 349€ su Amazon: sono 150€ in meno rispetto al listino di 499€, con uno sconto del 30%. È il minimo storico per un robot che aspira, lava e automatizza…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105022/tomshw-offer-620711.png",
+      "publishedAt": "2026-08-02T10:04:40+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Troppo tempo online fa male alla salute: ne parla uno studio tedesco",
+      "link": "https://www.hdblog.it/scienza/articoli/n666052/troppo-tempo-online-fa-male-alla-salute/",
+      "excerpt": "Effetti visibili sul cervello",
+      "image": "https://hd2.tudocdn.net/1360197?w=660",
+      "publishedAt": "2026-08-02T09:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "AMD Ryzen 3 3200G a soli 74,40€, per un PC senza GPU dedicata",
       "link": "https://www.tomshw.it/offerte/amd-ryzen-3-3200g-a-soli-7440eur-per-un-pc-senza-gpu-dedicata",
@@ -158,24 +185,6 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Vivo V70 FE in offerta su Amazon: ora il prezzo è quello giusto?",
-      "link": "https://www.hdblog.it/smartphone/offerte/n666125/vivo-v70-fe-offerta-amazon-agosto-2026/",
-      "excerpt": "Su Amazon è possibile acquistare il Vivo V70 FE in sconto a 350 euro: è la scelta giusta tra i mid-range.",
-      "image": "https://hd2.tudocdn.net/1333135?w=660",
-      "publishedAt": "2026-08-01T15:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone 17 Pro Max in offerta: ecco perché agosto 2026 è il mese giusto per comprarlo",
-      "link": "https://www.hdblog.it/smartphone/offerte/n666124/iphone-17-pro-max-offerta-agosto-2026/",
-      "excerpt": "iPhone 17 Pro Max è in offerta e diventa un best buy tra gli smartphone top di gamma: agosto è il mese giusto per coprarlo.",
-      "image": "https://hd2.tudocdn.net/1289496?w=660",
-      "publishedAt": "2026-08-01T15:00:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Corsair MM350 PRO XL a soli 25€, 93 cm di spazio per giocare",
       "link": "https://www.tomshw.it/offerte/corsair-mm350-pro-xl-a-soli-25eur-93-cm-di-spazio-per-giocare",
       "excerpt": "Corsair MM350 PRO XL costa 25€ su Amazon, contro i 39,99€ di listino e con uno sconto del 37%. La superficie estesa da 93 x 40 cm riunisce mouse e tastiera lasciando molto spazio…",
@@ -190,15 +199,6 @@
       "excerpt": "MSI MAG A750GL costa 84,99€ su Amazon, invece di 120,99€, con uno sconto del 30%. I suoi 750W, il cablaggio completamente modulare e il connettore PCIe 5.0 nativo permettono di…",
       "image": "https://cdn.tomshw.it/storage/media/2026/08/105009/tomshw-offer-619832.png",
       "publishedAt": "2026-08-01T13:34:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Trust Liro a 20,99€, la soundbar compatta che libera spazio sulla scrivania",
-      "link": "https://www.tomshw.it/offerte/trust-liro-a-2099eur-la-soundbar-compatta-che-libera-spazio-sulla-scrivania",
-      "excerpt": "Trust Liro costa 20,99€ su Amazon, invece dei 27,99€ di listino, con uno sconto del 25%. Il formato sottile permette di migliorare l’audio di PC e notebook senza sacrificare lo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105008/tomshw-offer-619727.png",
-      "publishedAt": "2026-08-01T12:04:27+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
