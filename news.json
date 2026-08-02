@@ -1,9 +1,99 @@
 {
-  "generatedAt": "2026-08-02T06:27:00.553918+00:00",
+  "generatedAt": "2026-08-02T09:49:37.171190+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "AMD Ryzen 3 3200G a soli 74,40€, per un PC senza GPU dedicata",
+      "link": "https://www.tomshw.it/offerte/amd-ryzen-3-3200g-a-soli-7440eur-per-un-pc-senza-gpu-dedicata",
+      "excerpt": "AMD Ryzen 3 3200G costa 74,40€ su Amazon, con il 29% di sconto sui 104,70€ di listino. La grafica Radeon Vega 8 integrata consente di realizzare un computer funzionante senza…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105021/tomshw-offer-620656.png",
+      "publishedAt": "2026-08-02T09:33:57+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Chiavetta USB avviabile: con Ventoy ne basta una per tutti i sistemi operativi",
+      "link": "https://www.hdblog.it/linux/articoli/n666050/chiavetta-usb-avviabile-ventoy-sistemi-operativi/",
+      "excerpt": "Tutte le ISO in un’unica unità di memoria.",
+      "image": "https://hd2.tudocdn.net/1360190?w=660",
+      "publishedAt": "2026-08-02T08:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il MacBook Neo torna in offerta: lo sconto di oggi annulla i rincari di Apple",
+      "link": "https://www.hdblog.it/portatili/offerte/n666136/macbook-neo-offerta-aug26/",
+      "excerpt": "Il MacBook Neo torna in promo e lo sconto di oggi annulla i rincari annunciati da Apple per il suo notebook.",
+      "image": "https://hd2.tudocdn.net/1326353?w=660",
+      "publishedAt": "2026-08-02T08:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il Galaxy S26 Ultra inizia agosto con un nuovo sconto su Amazon (anche a rate)",
+      "link": "https://www.hdblog.it/smartphone/offerte/n666135/il-samsung-galaxy-s26-ultra-offerta-amazn-ago26/",
+      "excerpt": "Il Samsung Galaxy S26 Ultra è in offerta su Amazon ed è ora disponibile in sconto con anche la possibiltià di acquisto a rate.",
+      "image": "https://hd2.tudocdn.net/1327645?w=660",
+      "publishedAt": "2026-08-02T08:30:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung Soundbar Serie B a 139€, minimo storico per film e giochi",
+      "link": "https://www.tomshw.it/offerte/samsung-soundbar-serie-b-a-139eur-minimo-storico-per-film-e-giochi",
+      "excerpt": "Samsung Soundbar Serie B HW-B66CF/ZF costa 139€ su Amazon: dal prezzo di listino di 229€ si ottiene il 39% di sconto, e 139€ è il minimo storico. Audio a 3.1 canali, quattro…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105020/tomshw-offer-620498.png",
+      "publishedAt": "2026-08-02T08:04:24+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Google Maps: come individuare le aree boschive colpite da incendi in tempo reale",
+      "link": "https://www.hdblog.it/google/articoli/n665929/google-maps-segnala-incendi-in-tempo-reale/",
+      "excerpt": "Sulla mappa vengono mostrate le situazioni di crisi in corso.",
+      "image": "https://hd2.tudocdn.net/1359875?w=660",
+      "publishedAt": "2026-08-02T07:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Lumines sbarca su smartphone: il puzzle cult per PSP debutta su Android e iOS",
+      "link": "https://www.hdblog.it/android/articoli/n666069/lumines-smartphone-puzzle-cult-psp-android-ios/",
+      "excerpt": "Il titolo creato da Tetsuya Mizuguchi offre 40 livelli.",
+      "image": "https://hd2.tudocdn.net/1360232?w=660",
+      "publishedAt": "2026-08-02T07:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Minimo storico per il notebook HP 15 con Intel Core Ultra 5 per studio e lavoro",
+      "link": "https://www.hdblog.it/portatili/offerte/n666114/minimo-storico-notebook-hp-15-intel-core-ultra-5/",
+      "excerpt": "L'HP Laptop AI PC 15-fd2000slx con Intel Core Ultra 5, 8GB di RAM e 512 GB di SSD è al minimo storico su Amazon.",
+      "image": "https://hd2.tudocdn.net/1360334?w=660",
+      "publishedAt": "2026-08-02T07:00:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Scudo anti-droni da 500 milioni di dollari: la difesa dell'Air Force",
+      "link": "https://www.hdblog.it/droni/articoli/n666132/us-air-force-scudo-anti-droni-argus-xl/",
+      "excerpt": "Gli USA rafforzano la difesa anti-droni con sensori radar, ottici e infrarossi integrati.",
+      "image": "https://hd2.tudocdn.net/1360363?w=660",
+      "publishedAt": "2026-08-02T06:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Skoda: arrivano i nuovi pacchetti Ciclismo Smart e Clever",
+      "link": "https://www.hdmotori.it/skoda-nuovi-pacchetti-ciclismo-smart-clever/",
+      "excerpt": "Skoda introduce delle soluzioni intelligenti per trasportare le biciclette e delle novità tecnologiche su Octavia, Superb e Kodiaq con il MY2027.",
+      "image": "https://hd2.tudocdn.net/1360362?w=660",
+      "publishedAt": "2026-08-02T06:30:17+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Chatbot che si dichiarano e deepfake da etichettare: cosa impone l’AI Act europeo dal 2 agosto 2026",
       "link": "https://images.dday.it/ShC7JjV6ngbke_alfFopMRu_gP5v_SgNowepQVSsIOE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58244/a2f205_ChatGPT_Image_1_ago_2026__11_52_23.png",
@@ -86,15 +176,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "iPhone 18 Pro, occhio al prezzo: potrebbe costare fino a 300 dollari in più",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666123/apple-iphone-18-pro-aumento-prezzo-rumor-quanto/",
-      "excerpt": "La crisi delle memorie potrebbe far impennare il prezzo finale.",
-      "image": "https://hd2.tudocdn.net/1354732?w=660",
-      "publishedAt": "2026-08-01T14:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Corsair MM350 PRO XL a soli 25€, 93 cm di spazio per giocare",
       "link": "https://www.tomshw.it/offerte/corsair-mm350-pro-xl-a-soli-25eur-93-cm-di-spazio-per-giocare",
       "excerpt": "Corsair MM350 PRO XL costa 25€ su Amazon, contro i 39,99€ di listino e con uno sconto del 37%. La superficie estesa da 93 x 40 cm riunisce mouse e tastiera lasciando molto spazio…",
@@ -113,56 +194,11 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Prezzo ridotto per il POCO F8 Ultra, lo smartphone con subwoofer Bose sul retro",
-      "link": "https://www.hdblog.it/smartphone/offerte/n666119/poco-f8-ultra-con-audio-bose-sconto-ebay/",
-      "excerpt": "In offerta su eBay lo Xiaomi POCO F8 Ultra, lo smartphone con subwoofer Bose sul retro e processore Snapdragon 8 Elite Gen 5.",
-      "image": "https://hd2.tudocdn.net/1360347?w=660",
-      "publishedAt": "2026-08-01T13:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Pixel Tag, in arrivo c'è anche lui: ecco come sarà la risposta di Google agli AirTag",
-      "link": "https://www.hdblog.it/google/articoli/n666118/google-pixel-tag-leak-design-prezzo-tracker-airtag/",
-      "excerpt": "Lancio atteso per il 12 agosto.",
-      "image": "https://hd2.tudocdn.net/1360344?w=660",
-      "publishedAt": "2026-08-01T12:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung Galaxy, 4 funzioni da disattivare per risparmiare batteria",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666098/samsung-one-ui-galaxy-risparmiare-la-batteria/",
-      "excerpt": "Comodo l'always-on display, eh?",
-      "image": "https://hd2.tudocdn.net/1359746?w=660",
-      "publishedAt": "2026-08-01T12:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Trust Liro a 20,99€, la soundbar compatta che libera spazio sulla scrivania",
       "link": "https://www.tomshw.it/offerte/trust-liro-a-2099eur-la-soundbar-compatta-che-libera-spazio-sulla-scrivania",
       "excerpt": "Trust Liro costa 20,99€ su Amazon, invece dei 27,99€ di listino, con uno sconto del 25%. Il formato sottile permette di migliorare l’audio di PC e notebook senza sacrificare lo…",
       "image": "https://cdn.tomshw.it/storage/media/2026/08/105008/tomshw-offer-619727.png",
       "publishedAt": "2026-08-01T12:04:27+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Un anno con iPhone 17: la nostra esperienza con il modello base | Video",
-      "link": "https://www.hdblog.it/smartphone/speciali/n664266/iphone-17-dopo-un-anno-approfondimento-video/",
-      "excerpt": "Elena è passata ad iPhone 17 dopo svariati anni con il 14 Pro Max. Quali sono le rinunce, se ci sono? Parliamo, nel caso del 17, del migliore iPhone rapporto qualità/prezzo?",
-      "image": "https://hd2.tudocdn.net/1357177?w=660",
-      "publishedAt": "2026-08-01T11:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "MSI MAG PANO M100L PZ WHITE a 59,99€, case panoramico al minimo storico",
-      "link": "https://www.tomshw.it/offerte/msi-mag-pano-m100l-pz-white-a-5999eur-case-panoramico-al-minimo-storico",
-      "excerpt": "MSI MAG PANO M100L PZ WHITE costa 59,99€ su Amazon, il suo minimo storico, anziché 88,99€, con uno sconto del 33%. Il formato Micro-ATX, il supporto per schede madri back-connect…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105007/tomshw-offer-619635.png",
-      "publishedAt": "2026-08-01T10:33:51+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -174,33 +210,6 @@
       "publishedAt": "2026-08-01T10:30:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Gemini, la prima configurazione degli smartphone potrebbe essere assistita da lei",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666061/gemini-prima-configurazione-smartphone/",
-      "excerpt": "Per un setup più veloce e più smart",
-      "image": "https://hd2.tudocdn.net/1360224?w=660",
-      "publishedAt": "2026-08-01T09:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "USB: trent'anni di evoluzione, tra velocità e nuove funzionalità",
-      "link": "https://www.hdblog.it/hardware/articoli/n665691/usb-trentanni-evoluzione-velocita-funzioni/",
-      "excerpt": "Come è cambiato lo standard USB nel tempo.",
-      "image": "https://hd2.tudocdn.net/1359413?w=660",
-      "publishedAt": "2026-08-01T08:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Google Maps: così la piattaforma riesce ad anticipare code e rallentamenti",
-      "link": "https://www.hdblog.it/google/articoli/n665793/google-maps-come-prevede-code-rallentamenti/",
-      "excerpt": "L’app incrocia dati in tempo reale con altre informazioni.",
-      "image": "https://hd2.tudocdn.net/1359656?w=660",
-      "publishedAt": "2026-08-01T07:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Aerei contro i grattacieli e rifugiati finti: Google Earth ha ritirato la generazione di immagini IA",
@@ -264,15 +273,6 @@
       "publishedAt": "2026-07-31T12:22:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Oceani, laghi e fiumi perdono ossigeno: proposto il decimo limite planetario",
-      "link": "https://www.tomshw.it/scienze/oceani-laghi-e-fiumi-perdono-ossigeno-proposto-il-decimo-limite-planetario",
-      "excerpt": "Dagli anni Sessanta gli oceani hanno perso globalmente circa il 2% del proprio contenuto di ossigeno. Il dato, riportato dalla Scripps Institution of Oceanography, riguarda…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103620/oceani-laghi-e-fiumi-perdono-ossigeno-proposto-il-decimo-limite-planetario.png",
-      "publishedAt": "2026-07-27T14:22:09+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     }
   ]
 }
