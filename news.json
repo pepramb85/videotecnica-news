@@ -1,42 +1,168 @@
 {
-  "generatedAt": "2026-08-03T14:21:18.133810+00:00",
+  "generatedAt": "2026-08-03T17:45:51.689938+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "I 5 migliori portatili ricondizionati da comprare quest'anno",
-      "link": "https://www.tomshw.it/hardware/i-5-migliori-portatili-ricondizionati-da-comprare-questanno",
-      "excerpt": "Che siate studenti in cerca di un dispositivo affidabile per l'università, professionisti che necessitano di potenza in mobilità o creator alle prese con rendering impegnativi, il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99676/refurbed-png-7.jpg",
-      "publishedAt": "2026-08-03T14:14:10+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Razer Basilisk V3 con Gigantus V2 sotto i 65€, più controllo per giocare",
-      "link": "https://www.tomshw.it/offerte/razer-basilisk-v3-con-gigantus-v2-sotto-i-65eur-piu-controllo-per-giocare",
-      "excerpt": "Razer Basilisk V3 con tappetino Gigantus V2 costa 64,56€ su Amazon, invece dei 96,98€ di listino, con uno sconto del 33%. Il bundle riunisce controlli personalizzabili e un’area…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105213/tomshw-offer-623131.png",
-      "publishedAt": "2026-08-03T14:03:14+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Richard Hammond non perde il vizio: due multe in tre settimane per l’ex Top Gear",
-      "link": "https://www.hdmotori.it/richard-hammond-multe-top-gear/",
-      "excerpt": "Richard Hammond è stato pizzicato a bordo di supercar oltre i limiti. Il conduttore TV si è ritrovato con sette punti in meno sulla patente e multe salate.",
-      "image": "https://hd2.tudocdn.net/1360594?w=660",
-      "publishedAt": "2026-08-03T14:00:50+00:00",
+      "title": "Samsung protegge le sue smart TV dal rischio dei \"Residential Proxy\"",
+      "link": "https://www.hdblog.it/tv/articoli/n666242/samsung-tv-stop-app-sicurezza-residential-proxy/",
+      "excerpt": "È emerso che alcune app usavano la connessione degli utenti per generare traffico e fare cose in Rete a loro volta.",
+      "image": "https://hd2.tudocdn.net/1312958?w=660",
+      "publishedAt": "2026-08-03T17:35:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "xMEMS presenta una ventola da 1 mm per smart glasses più freschi",
-      "link": "https://www.tomshw.it/hardware/xmems-svela-una-ventola-da-1-mm-per-smart-glasses-piu-freschi",
-      "excerpt": "xMEMS Labs ha presentato XMC-1200, una microventola allo stato solido progettata espressamente per smart glasses AR, XR e dotati di funzioni IA. Il componente è spesso appena 1 mm…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105208/xmems-svela-una-ventola-da-1-mm-per-smart-glasses-piu-freschi.png",
-      "publishedAt": "2026-08-03T13:56:05+00:00",
+      "title": "Xbox, continuano i festeggiamenti per il 25° anniversario: tutte le novità",
+      "link": "https://www.hdblog.it/microsoft/articoli/n666240/xbox-celebrazioni-25-anniversario-novita/",
+      "excerpt": "Immagini e grafiche custom, collezioni di giochi sul Game Pass e nuove date per l’Xbox FanFest Tour.",
+      "image": "https://hd2.tudocdn.net/1360649?w=660",
+      "publishedAt": "2026-08-03T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple nei guai per l'app Foto: raccogliebbe dati senza consenso",
+      "link": "https://www.hdblog.it/smartphone/articoli/n666207/apple-guai-app-foto-class-action-sicurezza/",
+      "excerpt": "Intentata nuova class action",
+      "image": "https://hd2.tudocdn.net/1360645?w=660",
+      "publishedAt": "2026-08-03T17:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Attack on Titan 3: preordini aperti, ecco la data d'uscita",
+      "link": "https://www.tomshw.it/videogioco/attack-on-titan-3-uscita-il-10-dicembre-2026-preordini-aperti",
+      "excerpt": "Tre settimane separeranno GTA 6, fissato al 19 novembre, da Attack on Titan 3, che uscirà in tutto il mondo il 10 dicembre 2026. Koei Tecmo ha aperto i preordini e confermato le…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105259/og_us.jpg",
+      "publishedAt": "2026-08-03T17:03:10+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Cura Stellantis per la nuova Charger: così si è evoluta la muscle car Dodge",
+      "link": "https://www.hdmotori.it/stellantis-nuova-dodge-charger/",
+      "excerpt": "Il nuovo corso Dodge prende forma con il design esterno puro e funzionale della Charger, modellato dalle performance ed ispirato al passato.",
+      "image": "https://hd2.tudocdn.net/1360648?w=660",
+      "publishedAt": "2026-08-03T17:00:16+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Hisense PX4 Pro, partono le vendite del super proiettore UST",
+      "link": "https://www.hdblog.it/tv/articoli/n666238/hisense-proiettore-px4-pro-specifiche-prezzi/",
+      "excerpt": "La scelta ottimale per i gamer, grazie al supporto a VRR e AMD FreeSync Premium. Primo UST al mondo!",
+      "image": "https://hd2.tudocdn.net/1360642?w=660",
+      "publishedAt": "2026-08-03T16:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Questo modello GPT-5.6 costa l'80% in meno (e OpenAI festeggia)",
+      "link": "https://www.tomshw.it/hardware/openai-oltre-un-miliardo-di-utenti-gpt-5-6-luna-costa-l",
+      "excerpt": "Oltre un miliardo di utenti attivi, più di due milioni di aziende e un taglio fino all’80% dei prezzi: OpenAI accompagna la crescita dei suoi servizi con una netta riduzione dei…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105252/news-flash-623658.png",
+      "publishedAt": "2026-08-03T16:24:09+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "OpenAI raggiunge il miliardo di utenti attivi e taglia tanti prezzi",
+      "link": "https://www.hdblog.it/android/articoli/n666235/openai-miliardo-utenti-attivi-taglio-prezzi/",
+      "excerpt": "Il modello di ultima generazione meno potente, GPT-5.6 Luna, crolla addirittura dell'80%.",
+      "image": "https://hd2.tudocdn.net/1356709?w=660",
+      "publishedAt": "2026-08-03T16:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Piastra BaByliss al 69% in meno, pronta in 15 secondi: un affare",
+      "link": "https://www.tomshw.it/offerte/piastra-babyliss-al-69-in-meno-pronta-in-15-secondi-un-affare",
+      "excerpt": "La piastra BaByliss Rose Gold costa 30,90€ su Amazon, con uno sconto del 69% sul listino di 99,90€; è anche il prezzo più basso raggiunto finora. Si riscalda in 15 secondi e offre…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105244/tomshw-offer-623597.png",
+      "publishedAt": "2026-08-03T16:03:19+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Android Quick Share sempre più simile ad AirDrop: in cantiere \"Tap to Share\"",
+      "link": "https://www.hdblog.it/google/articoli/n666233/google-tap-share-feature-airdrop-tocco/",
+      "excerpt": "Basterà \"fare un brindisi\" tra i due smartphone per far partire il trasferimento.",
+      "image": "https://hd2.tudocdn.net/1327048?w=660",
+      "publishedAt": "2026-08-03T15:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Motorola Moto Pad 70 Groove è uno spettacolo con il suo display da 12 pollici",
+      "link": "https://www.hdblog.it/tablet/articoli/n666196/motorola-moto-pad-70-groove-tablet/",
+      "excerpt": "Il nuovo tablet Motorola Moto Pad 70 è perfetto per chi ama godersi film e serie tv.",
+      "image": "https://hd2.tudocdn.net/1360487?w=660",
+      "publishedAt": "2026-08-03T15:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Bissell CrossWave OmniForce al 46% in meno, aspira e lava in una passata",
+      "link": "https://www.tomshw.it/offerte/bissell-crosswave-omniforce-al-46-in-meno-aspira-e-lava-in-una-passata",
+      "excerpt": "Bissell CrossWave OmniForce costa 162,62€ su Amazon, invece dei 299,99€ di listino, con uno sconto del 46%. Aspira e lava contemporaneamente, riducendo i passaggi necessari per…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105230/tomshw-offer-623479.png",
+      "publishedAt": "2026-08-03T15:33:57+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Gli occhiali anti-sorveglianza di DuckDuckGo. Che sono dei normalissimi occhiali da sole",
+      "link": "https://images.dday.it/epFN1SBMPli0DziS1avWtCqqp3ykX-u2JTPxtgTgcbo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58259/dde7fd_duckduckocchiali.jpeg",
+      "excerpt": "La società li ha proposti come beffa verso produttori come Meta, i cui occhiali smart stanno venendo criticati perché permettono di registrare video di altre persone a loro…",
+      "image": "https://images.dday.it/epFN1SBMPli0DziS1avWtCqqp3ykX-u2JTPxtgTgcbo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58259/dde7fd_duckduckocchiali.jpeg",
+      "publishedAt": "2026-08-03T15:29:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Il Wallet digitale europeo ci renderà ancora più dipendenti dalle tecnologie USA?",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666229/eudi-wallet-sovranita-europea/",
+      "excerpt": "Pare che renderà di fatto impossibile usare sistemi operativi alternativi al di fuori dell'ecosistema Google.",
+      "image": "https://hd2.tudocdn.net/1301528?w=660",
+      "publishedAt": "2026-08-03T15:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Pixel 11 Pro, filtrano poster ufficiali che anticipano design e funzioni AI",
+      "link": "https://www.hdblog.it/smartphone/articoli/n666222/pixel-11-pro-foto-ufficiali-funzioni-fotocamera-ai/",
+      "excerpt": "Ancora tante immagini che anticipano design e feature.",
+      "image": "https://hd2.tudocdn.net/1360620?w=660",
+      "publishedAt": "2026-08-03T15:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Dragon's Dogma 2 troppo facile? Arriva la nuova modalità \"hardcore\"",
+      "link": "https://www.tomshw.it/videogioco/dragon-s-dogma-2-avra-una-modalita-difficile-per-chi-sfiora-il",
+      "excerpt": "Una modalità difficile pensata soprattutto per chi ha statistiche prossime al livello massimo è in sviluppo per Dragon's Dogma 2. Capcom ha confermato ufficialmente il nuovo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105218/41ad98ada2b59cf6a40de82d982babda0b2d0502.png",
+      "publishedAt": "2026-08-03T14:34:48+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "GPS e Galileo verso la Luna, la NASA prepara il test in orbita",
+      "link": "https://www.tomshw.it/scienze/la-nasa-consegna-il-navigatore-della-luna-ma-non-a-un-rover",
+      "excerpt": "La NASA ha consegnato a Intuitive Machines NavCube3-mini, un ricevitore di navigazione destinato alla Luna. Il dispositivo non andrà su un rover, ma verrà integrato nel satellite…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105220/la-nasa-consegna-il-navigatore-della-luna-ma-non-a-un-rover.png",
+      "publishedAt": "2026-08-03T14:33:39+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Lekuo trasforma uno slot PCIe in 12 porte con il chipset AMD B650",
+      "link": "https://www.tomshw.it/hardware/lekuo-trasforma-uno-slot-pcie-in-12-porte-con-il-chipset-amd-b650",
+      "excerpt": "Lekuo ha presentato una scheda di espansione capace di trasformare un singolo slot PCIe in dodici connessioni per unità di archiviazione e periferiche USB. Il prodotto impiega il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105212/lekuo-trasforma-uno-slot-pcie-in-12-porte-con-il-chipset-amd-b650.png",
+      "publishedAt": "2026-08-03T14:15:07+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -50,15 +176,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Comandi PS5 più adattabili con PlayStation Access a 59,17€, un affare",
-      "link": "https://www.tomshw.it/offerte/comandi-ps5-piu-adattabili-con-playstation-access-a-5917eur-un-affare",
-      "excerpt": "PlayStation Access è a 59,17€ su Amazon: dai 89,99€ di listino si risparmiano 30,82€, con uno sconto del 34%. Le diverse coperture incluse permettono di adattare fisicamente i…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105204/tomshw-offer-623026.png",
-      "publishedAt": "2026-08-03T13:34:19+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Offerta imperdibile: il videocitofono bifamiliare Vimar al prezzo più basso di sempre",
       "link": "https://images.dday.it/jzg_IJSmhLlQ30vlYrpKcmrUuN-XrACegSWRXkTEVEM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58257/ee01d5_71RZAoYntuL._AC_SL1500_.jpg",
       "excerpt": "Scopri il videocitofono Vimar K42946, dotato di tecnologia Wi-Fi, schermo touch e funzionalità RFID, ora disponibile con un incredibile sconto... Leggi tutto",
@@ -66,78 +183,6 @@
       "publishedAt": "2026-08-03T13:27:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Alibaba aprirà il suo modello AI più potente, sfidando gli USA",
-      "link": "https://www.tomshw.it/hardware/alibaba-aprira-il-suo-modello-ai-piu-potente-sfidando-gli-usa",
-      "excerpt": "Alibaba ha reso ampiamente disponibile Qwen3.8-Max, presentandolo come il modello di intelligenza artificiale più grande e capace sviluppato finora dall'azienda. Il gruppo cinese…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105199/alibaba-aprira-il-suo-modello-ai-piu-potente-sfidando-gli-usa.png",
-      "publishedAt": "2026-08-03T13:20:40+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Un chip AI ancora da produrre vale già 1,5 miliardi di dollari",
-      "link": "https://www.tomshw.it/hardware/fangqing-vale-gia-15-miliardi-con-unidea-diversa-per-lai",
-      "excerpt": "Fangqing ha raggiunto di recente una valutazione di 1,5 miliardi di dollari con il round A1, il terzo finanziamento chiuso in circa sei mesi dopo le operazioni Pre-A e Pre-A+. La…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105196/fangqing-vale-gia-1-5-miliardi-con-un-idea-diversa-per-l-ai.png",
-      "publishedAt": "2026-08-03T13:19:30+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "PS5 e XBOX costano troppo? Il TV Samsung 55'' è anche una console e costa meno di 340€",
-      "link": "https://www.hdblog.it/tv/offerte/n666200/smart-tv-samsung-55-serie-2025-sconto-amazon/",
-      "excerpt": "Amazon sconta il Samsung Crystal UHD 4K 55\" (2025) UE55U8090FUXZT con upscaling 4K e Gaming Hub.",
-      "image": "https://hd2.tudocdn.net/1351006?w=660",
-      "publishedAt": "2026-08-03T13:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Disney+ ripristina il 4K HDR in Italia | Statement",
-      "link": "https://www.hdblog.it/altadefinizione/articoli/n666051/disney-plus-italia-4k-hdr-premium-full-hd-sdr/",
-      "excerpt": "Massimo 1080p SDR: la stessa risoluzione del piano Standard.",
-      "image": "https://hd2.tudocdn.net/1292365?w=660",
-      "publishedAt": "2026-08-03T13:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Robot aspirapolvere Roborock, monitor, TV 98'' e tanto altro: le migliori offerte del 3 agosto",
-      "link": "https://www.hdblog.it/amazon/offerte/n666205/migliori-offerte-tech-3-agosto-2026-amazon/",
-      "excerpt": "Le migliori offerte tech di oggi puntano su TV maxi, robot aspirapolvere, audio premium, notebook e accessori smart home: prezzi aggiornati su Amazon.",
-      "image": "https://hd2.tudocdn.net/1360575?w=660",
-      "publishedAt": "2026-08-03T13:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Harley-Davidson fa sul serio: la RMCR va in produzione (e arriva anche la RMXR)",
-      "link": "https://www.hdmotori.it/harley-davidson-rmcr-rmxr-produzione-revolution-max/",
-      "excerpt": "Harley-Davidson registra i marchi RMCR ed RMXR. In arrivo una nuova Cafe Racer e una Flat Tracker basate sul motore Revolution Max.",
-      "image": "https://hd2.tudocdn.net/1360576?w=660",
-      "publishedAt": "2026-08-03T13:00:32+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Innolux e AUO riducono gli LCD, i notebook corrono verso l’OLED",
-      "link": "https://www.tomshw.it/hardware/innolux-e-auo-riducono-gli-lcd-i-notebook-corrono-verso-loled",
-      "excerpt": "Innolux e AUO stanno accelerando la dismissione e il consolidamento delle fabbriche taiwanesi dedicate ai pannelli LCD. I due produttori puntano a ridurre l’esposizione alla…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105193/innolux-e-auo-riducono-gli-lcd-i-notebook-corrono-verso-l-oled.png",
-      "publishedAt": "2026-08-03T12:59:45+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Due falle SonicWall aprono le reti aziendali a INC Ransomware",
-      "link": "https://www.tomshw.it/hardware/la-gang-ransomware-inc-sfrutta-due-falle-critiche-di-sonicwall",
-      "excerpt": "La gang INC Ransomware è emersa come l’operatore più attivo nello sfruttamento di due recenti vulnerabilità degli appliance SonicWall SMA1000. La catena d’attacco consente di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105192/la-gang-ransomware-inc-sfrutta-due-falle-critiche-di-sonicwall.png",
-      "publishedAt": "2026-08-03T12:58:42+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "FiberCop trasforma le centrali telefoniche in “data center”: oltre 100 nodi per l’IA distribuita in Italia",
@@ -149,24 +194,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Memorie in rincaro per l’AI: perché il budget IT 2027 va riscritto adesso",
-      "link": "https://www.tomshw.it/business/lai-prosciuga-la-cassa-delle-big-tech-i-costi-delle-memorie-pesano-sui-budget-2027",
-      "excerpt": "La corsa all’intelligenza artificiale sta cambiando la struttura finanziaria delle maggiori società tecnologiche: la spesa delle megacap è stimata in 765 miliardi di dollari nel…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105131/lai-prosciuga-la-cassa-delle-big-tech-i-costi-delle-memorie-pesano-sui-budget-2027.png",
-      "publishedAt": "2026-08-03T12:48:29+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Microsoft avverte: attenzione al Wi-Fi in hotel, gira un malware che ruba 365",
-      "link": "https://www.tomshw.it/hardware/wi-fi-degli-hotel-midnight-blizzard-ruba-account-microsoft-365-e-diffonde",
-      "excerpt": "Le pagine di accesso alle reti Wi-Fi di hotel e strutture condivise vengono trasformate in un canale per rubare account Microsoft 365 e installare malware. Microsoft Threat…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105186/Featured-image-CaptiveCrunch-1.png",
-      "publishedAt": "2026-08-03T12:45:10+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Skoda, arriva il pacchetto per trasportare le bici. Svelate i MY 27 di Octavia, Kodiaq e Superb",
       "link": "https://images.dday.it/nvsKYaS8K9Ykhv11ORtWZtOy0amPjr0rLjTGCvD-8UI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58251/06c779_skoda_thumb.jpg",
       "excerpt": "Al debutto le nuove soluzioni dedicate ai ciclisti, mentre il Model Year 2027 introduce ricarica wireless Qi2 e dotazioni di comfort aggiuntive... Leggi tutto",
@@ -176,31 +203,13 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Lidl non va in vacanza: nel nuovo volantino le soluzioni low cost per pulire casa",
-      "link": "https://www.hdblog.it/home/articoli/n666201/lidl-volantino-6-agosto-pulizia-casa-prezzo/",
-      "excerpt": "Roborock e Silvercrest protagoniste della nuova offerta.",
-      "image": "https://hd2.tudocdn.net/1360573?w=660",
-      "publishedAt": "2026-08-03T12:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "La prima cabrio italo-indiana, gli studenti IED disegnano capolavori",
-      "link": "https://www.hdmotori.it/prima-cabrio-italo-indiana-ied/",
-      "excerpt": "In un mercato delle quattro ruote sempre più omologato è emerso un progetto speciale, disegnato dagli studenti dello IED.",
-      "image": "https://hd2.tudocdn.net/1360512?w=660",
-      "publishedAt": "2026-08-03T12:00:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Grande caldo, tra oggi e domani il picco della quarta ondata",
-      "link": "https://www.hdblog.it/green/articoli/n666203/grande-caldo-quarta-ondata-picco-temperature/",
-      "excerpt": "Il vero sollievo difficilmente arriverà prima di ferragosto.",
-      "image": "https://hd2.tudocdn.net/1354328?w=660",
-      "publishedAt": "2026-08-03T11:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Quando esce iPhone 18? Data, rumor e cosa sappiamo",
+      "link": "https://www.tomshw.it/smartphone/quando-esce-iphone-18-data-rumor-e-cosa-sappiamo",
+      "excerpt": "La risposta breve è meno immediata del solito: iPhone 18 potrebbe arrivare in due momenti diversi. Apple non ha annunciato il prodotto, un evento di presentazione o l’apertura…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105118/quando-esce-iphone-18-data-rumor-e-cosa-sappiamo.png",
+      "publishedAt": "2026-08-03T12:24:46+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "L'app europea per la verifica dell'età richiederà hardware certificato: Linux e le ROM custom rischiano di restare fuori",
@@ -210,24 +219,6 @@
       "publishedAt": "2026-08-03T11:45:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Risultato storico per Suzuki: la produzione esplode in India",
-      "link": "https://www.hdmotori.it/risultato-suzuki-produzione-india/",
-      "excerpt": "A Hansalpur il primo stabilimento produttivo di Suzuki a livello globale ha raggiunto obiettivi e numeri ambiziosi.",
-      "image": "https://hd2.tudocdn.net/1360494?w=660",
-      "publishedAt": "2026-08-03T11:30:53+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Nothing, cambio di strategia? Punta a diventare un'azienda \"AI First\"",
-      "link": "https://www.hdblog.it/indossabili/articoli/n666198/nothing-svolta-ai-indossabili/",
-      "excerpt": "La società di Carl Pei cerca di fronteggiare la crisi delle memorie.",
-      "image": "https://hd2.tudocdn.net/1359848?w=660",
-      "publishedAt": "2026-08-03T11:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Disney+, il 4K sta tornando in Italia. Senza HDR e non su tutti i dispositivi",
@@ -266,13 +257,22 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Se non puoi batterla, regolamentala: l’Università di Modena e Reggio Emilia fa entrare l’IA nelle aule",
-      "link": "https://images.dday.it/1Q2cu7OqAWGdzwXMNNkWR1jGjRRkTozNyHVF2ooJmCA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58248/c5ccbd_Depositphotos_48461417_XL.jpg",
-      "excerpt": "Gemini Edu e NotebookLM entrano all’Università di Modena e Reggio Emilia. Le nuove linee guida consentono l’uso dell’IA nello studio e nella ricerca, ma ci sono comunque dei…",
-      "image": "https://images.dday.it/1Q2cu7OqAWGdzwXMNNkWR1jGjRRkTozNyHVF2ooJmCA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58248/c5ccbd_Depositphotos_48461417_XL.jpg",
-      "publishedAt": "2026-08-03T07:55:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
+      "title": "Il leggendario C64C Ultimate entra in produzione (e userà gli stampi originali)",
+      "link": "https://www.tomshw.it/videogioco/il-c64c-ultimate-entra-in-produzione-con-gli-stampi-originali-del-commodore-64c",
+      "excerpt": "Il C64C Ultimate è entrato nella fase produttiva e lo farà indossando una scocca fabbricata con gli utensili originali a iniezione del 1986. Commodore ha confermato l’avanzamento…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105019/amarcord-cover-620403.png",
+      "publishedAt": "2026-08-03T06:19:49+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Settimana corta, come misurare se conviene davvero",
+      "link": "https://www.tomshw.it/aioperator/settimana-corta-come-misurare-se-conviene-davvero",
+      "excerpt": "La maggior parte delle aziende che sperimenta la settimana corta misura il morale delle persone e si ferma lì. La soddisfazione dichiarata sale quasi sempre, in ogni trial, in…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104756/04-hr17-cover.jpg",
+      "publishedAt": "2026-07-31T08:27:12+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     }
   ]
 }
