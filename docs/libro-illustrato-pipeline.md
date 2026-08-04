@@ -77,8 +77,22 @@ Dal master si genera un model sheet: fronte / tre quarti / profilo / retro + 4 e
 "deriva" di pagina in pagina.
 
 ### Fase 2 — Elements (0 crediti)
-Si registrano 3 Elements dai character sheet: `[BAMBINA]`, `[MAMMA]`, `[PAPA]`.
+Si registrano gli Elements dai character sheet: `[BAMBINA]`, `[MAMMA]`, `[PAPA]`, …
 Operazione istantanea e gratuita. Da qui in poi ogni prompt li richiama.
+
+### Fase 2b — Ambienti reali (~6 crediti per ambiente)
+Elements ha una categoria `environment` oltre a `character` e `prop`, quindi i luoghi
+veri della famiglia (casa, piazza, lungomare) possono diventare Elements riutilizzabili.
+Più Elements si combinano nello stesso prompt: personaggi *e* ambiente insieme.
+
+Vale lo stesso metodo a due stadi dei personaggi: la foto reale del luogo si usa una
+volta sola per ricavarne una versione cartoon (*plate*), e da lì in poi tutte le tavole
+ambientate lì richiamano il plate, non la foto. È ciò che impedisce all'ambiente di
+cambiare aspetto tra una tavola e l'altra e nel video.
+
+**Regola pratica:** per un ambiente che compare in più di 2–3 tavole servono 2–3 foto
+da angolazioni diverse. Con una foto sola il modello improvvisa le inquadrature
+mancanti e il luogo "ruota" in modo incoerente.
 
 ### Fase 3 — Storia
 
@@ -210,8 +224,18 @@ Costi rilevati direttamente dall'API (crediti per generazione):
 **1000 crediti bastano con margine ampio.** Restano ~470 crediti, sufficienti per
 portare il video a 2 minuti oppure per rifare parecchie tavole.
 
-Nota: il libro costa pochissimo (~180). **Il video è l'80% della spesa.** Se il budget
-si stringe, si taglia sui secondi di video, mai sulle tavole.
+### Il costo scala con il cast, non con le pagine
+
+Il preventivo sopra vale per 3 personaggi e 24 tavole. **Ogni personaggio in più costa
+~20–25 crediti** (master + iterazioni + character sheet) prima ancora di comparire su
+una singola pagina, mentre una tavola in più costa ~5. Con un cast numeroso i
+personaggi arrivano a pesare più di tutte le illustrazioni messe insieme.
+
+Ordine di lavorazione consigliato: **prima il libro, poi il video**. Il libro ha un
+costo prevedibile, il video è elastico — si dimensiona su quel che resta. Al contrario
+si rischia di restare a metà libro.
+
+Se il budget si stringe, si taglia sui secondi di video, mai sulle tavole.
 
 ### 720p o 1080p?
 A 1080p il video da 60s passa da ~350 a ~700 crediti: il totale sale a ~880 su 1000,
