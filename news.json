@@ -1,17 +1,224 @@
 {
-  "generatedAt": "2026-08-04T08:24:32.358802+00:00",
+  "generatedAt": "2026-08-04T11:57:55.850412+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Recensione MSI Raider 16 HX con RTX 5080, tanta potenza per la fascia premium",
-      "link": "https://www.tomshw.it/hardware/msi-raider-16-hx-con-rtx-5080-la-recensione",
-      "excerpt": "La gamma MSI Raider offre da tempo latop di fascia alta per chi non vuole scendere a compromessi, e questo Raider 16 HX B2W con RTX 5080 non fa eccezione. La combinazione tra…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105242/MSI-Raider-16-9.jpg",
-      "publishedAt": "2026-08-04T08:22:32+00:00",
+      "title": "Volete uno smartwatch nuovo? Queste 7 offerte AliExpress partono da meno di 40€",
+      "link": "https://www.tomshw.it/smartphone/volete-uno-smartwatch-nuovo-queste-7-offerte-aliexpress-partono-da-meno-di-40eur",
+      "excerpt": "Se state pensando di cambiare smartwatch o di acquistare il vostro primo modello, questo potrebbe essere il momento giusto per approfittare delle offerte disponibili su…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105410/Volete-uno-smartwatch-nuovo-Queste-7-offerte-AliExpress-partono-da-meno-di-40€.png",
+      "publishedAt": "2026-08-04T11:51:01+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Altro che datacenter: un modello AI da 28,9 mln di parametri su una scheda ESP32",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666330/esp32-microcontroller-ai-llm-parametri/",
+      "excerpt": "Tutto grazie a una tecnica impiegata da Google nella sua famiglia di modelli Gemma.",
+      "image": "https://hd2.tudocdn.net/1318000?w=660",
+      "publishedAt": "2026-08-04T11:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Pulisce e si svuota da solo: Dreame L40 Ultra AE a 399€, un affare",
+      "link": "https://www.tomshw.it/offerte/pulisce-e-si-svuota-da-solo-dreame-l40-ultra-ae-a-399eur-un-affare",
+      "excerpt": "Dreame L40 Ultra AE costa 399€ su Amazon anziché 699€, con uno sconto del 43% e il minimo storico. Aspirazione da 19.000 Pa, spazzola anti-groviglio e base automatica lo rendono…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105407/tomshw-offer-626111.png",
+      "publishedAt": "2026-08-04T11:33:47+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "GUTOR 80 unifica UPS, batterie e inverter per il nucleare",
+      "link": "https://www.tomshw.it/hardware/gutor-80-integra-tre-funzioni-per-i-sistemi-critici-del-nucleare",
+      "excerpt": "Gutor ha dettagliato di recente la piattaforma GUTOR 80, una famiglia di sistemi che riunisce alimentazione ininterrotta, ricarica delle batterie e conversione da corrente…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105402/gutor-80-integra-tre-funzioni-per-i-sistemi-critici-del-nucleare.png",
+      "publishedAt": "2026-08-04T11:20:07+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Lo spam AI invade Reddit per influenzare ChatGPT e Google",
+      "link": "https://www.tomshw.it/hardware/lo-spam-ai-invade-reddit-per-influenzare-chatgpt-e-google",
+      "excerpt": "I moderatori di alcune comunità online hanno individuato una nuova ondata di spam promozionale generato dall’AI su Reddit, composta da domande e testimonianze apparentemente…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105401/lo-spam-ai-invade-reddit-per-influenzare-chatgpt-e-google.png",
+      "publishedAt": "2026-08-04T11:18:05+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Ency Hyper supera i limiti dei robot Kuka con lo streaming CAM",
+      "link": "https://www.tomshw.it/hardware/ency-hyper-porta-realta-mista-e-streaming-dei-percorsi-sui-robot-kuka",
+      "excerpt": "Ency ha ampliato Ency Hyper con un nuovo sistema per trasmettere grandi percorsi CAM ai robot Kuka durante l'esecuzione. La soluzione elimina il collo di bottiglia creato dalla…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105399/ency-hyper-porta-realta-mista-e-streaming-dei-percorsi-sui-robot-kuka.png",
+      "publishedAt": "2026-08-04T11:17:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Questa cifratura quantistica rende inutile la seconda copia",
+      "link": "https://www.tomshw.it/scienze/questo-cifrario-quantistico-ha-una-difesa-contro-le-copie-perfette",
+      "excerpt": "Prabhanjan Ananth della UC Santa Barbara e Amit Sahai della UCLA hanno progettato un metodo di cifratura quantistica che impedisce di ottenere due copie entrambe decifrabili dello…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105397/questo-cifrario-quantistico-ha-una-difesa-contro-le-copie-perfette.png",
+      "publishedAt": "2026-08-04T11:15:24+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Recensione Samsung Galaxy Z Fold8. Piace a tutti, e c'è un motivo",
+      "link": "https://images.dday.it/WLFBWN3GC8aLGmHPVMI6Mocb0sWjctxbfb5wOWUTIoE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58246/7b0fb4_P1233458.jpg",
+      "excerpt": "Con Galaxy Fold8 Samsung mette in campo un terzo form factor, andando a così ad offrire una ulteriore opzione per chi trova troppo stretto, piccolo e non funzionale lo schermo…",
+      "image": "https://images.dday.it/WLFBWN3GC8aLGmHPVMI6Mocb0sWjctxbfb5wOWUTIoE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58246/7b0fb4_P1233458.jpg",
+      "publishedAt": "2026-08-04T11:05:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Sui TV LG compatibili con Gallery+ sono in arrivo i dipinti di Bob Ross",
+      "link": "https://www.hdblog.it/tv/articoli/n666327/lg-gallery-plus-tv-webos-bob-ross-dipinti/",
+      "excerpt": "Era il conduttore del mitico programma The Joy of Painting.",
+      "image": "https://hd2.tudocdn.net/1360871?w=660",
+      "publishedAt": "2026-08-04T11:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Potente, analogica e senza schermi: ecco la nuova Hennessey Blackbird",
+      "link": "https://www.hdmotori.it/nuova-hennessey-blackbird/",
+      "excerpt": "Il costruttore artigianale di supercar Hennessey ha presentato il suo nuovo gioiello realizzato su misura: la Blackbird.",
+      "image": "https://hd2.tudocdn.net/1360872?w=660",
+      "publishedAt": "2026-08-04T11:00:06+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La misteriosa Dark Doodad: ecco la nube oscura che nasconde nuove stelle",
+      "link": "https://www.hdblog.it/fotografia/articoli/n666285/dark-doodad-nebulosa-ngc-4372/",
+      "excerpt": "Una nube oscura e un antico ammasso stellare svelano la struttura della nostra galassia.",
+      "image": "https://hd2.tudocdn.net/1360738?w=660",
+      "publishedAt": "2026-08-04T10:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Ewiva aggiorna le tariffe di ricarica: pagamento contactless a 0,80 euro/kWh",
+      "link": "https://images.dday.it/tuOgcO_Q5H3z6Ucu3zdh49OyYFADS3xQAyQ1FJI09rw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58268/3fcc35_Ewiva_thumb.jpg",
+      "excerpt": "La nuova tariffa è già in vigore su tutte le colonnine abilitate al pagamento diretto con carta... Leggi tutto",
+      "image": "https://images.dday.it/tuOgcO_Q5H3z6Ucu3zdh49OyYFADS3xQAyQ1FJI09rw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58268/3fcc35_Ewiva_thumb.jpg",
+      "publishedAt": "2026-08-04T10:53:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Disney+, Paramount+ e Netflix gratis per contrastare YouTube? Cosa sappiamo",
+      "link": "https://www.hdblog.it/business/articoli/n666302/disney-paramount-netflix-gratis-pubblicita-youtube/",
+      "excerpt": "Disney+, Paramount+ e Netflix valutano piani gratuiti con pubblicità per attirare nuovi utenti e competere con YouTube.",
+      "image": "https://hd2.tudocdn.net/1360840?w=660",
+      "publishedAt": "2026-08-04T10:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Galaxy Z Fold 8 in forte sconto su eBay: l'occasione giusta per dimenticare il prezzo di lancio",
+      "link": "https://www.tomshw.it/smartphone/samsung-galaxy-z-fold-8-super-sconto-del-32-su-ebay-2026-08-04",
+      "excerpt": "Su eBay è disponibile un'offerta imperdibile per il Samsung Galaxy Z Fold 8, lo smartphone pieghevole con display da 8,0, 256GB di memoria, 12GB di RAM, batteria da 4800mAh e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105395/samsung-galaxy-z-fold-8-super-sconto-del-32-su-ebay-2026-08-04-mdlldocnj36uejg0Jae.png",
+      "publishedAt": "2026-08-04T10:29:18+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Nintendo Switch 2 a meno di 400€: il trucco è un semplice coupon da applicare al checkout",
+      "link": "https://www.tomshw.it/videogioco/nintendo-switch-2-a-prezzo-shock-su-aliexpress-66-2026-08-04",
+      "excerpt": "Su AliExpress è disponibile la Nintendo Switch 2 originale al 100%, con schermo da 7,9'', Joy-Con, audio migliorato e console regolabile NS2. Grazie a uno sconto e a un coupon da…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105394/nintendo-switch-2-a-prezzo-shock-su-aliexpress-66-2026-08-04-AIe9l73rqooia5bmk86HT.jpg",
+      "publishedAt": "2026-08-04T10:25:42+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il monopattino “doppia velocità” da 321€: tranquillo in città, scatenato quando serve",
+      "link": "https://www.tomshw.it/automotive/scooter-elettrico-800w-scontato-del-54-351eur-2026-08-04",
+      "excerpt": "Su AliExpress è disponibile un'offerta imperdibile sullo Scooter Elettrico per Adulti 800W 48V 15AH, perfetto per la mobilità urbana e il fuoristrada grazie ai pneumatici da 10…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105389/scooter-elettrico-800w-scontato-del-54-351eur-2026-08-04-zVd5jj5ukjs9ahatl18h9mVcz.jpg",
+      "publishedAt": "2026-08-04T10:20:01+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Motorola Edge 70 in offerta su Amazon: sconto per il bundle con le Moto Buds Loop",
+      "link": "https://www.hdblog.it/smartphone/offerte/n666319/motorola-edge-70-offerta-amazon-agosto-2026/",
+      "excerpt": "Il Motorola Edge 70 è in offerta su Amazon diventando uno dei mid-range più interessanti sul mercato.",
+      "image": "https://hd2.tudocdn.net/1298889?w=660",
+      "publishedAt": "2026-08-04T10:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google Health abilita la sincronizzazione completa su Apple Salute",
+      "link": "https://www.hdblog.it/apple/articoli/n666312/google-health-sincronizzazione-apple-salute-ios/",
+      "excerpt": "Si attendeva questo momento dal 2014!",
+      "image": "https://hd2.tudocdn.net/1360841?w=660",
+      "publishedAt": "2026-08-04T10:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Eolico offshore: i cavi ispirati ai ponti rendono le turbine più resistenti ai terremoti",
+      "link": "https://www.hdblog.it/green/articoli/n666298/turbine-eoliche-offshore-cavi-antisismici/",
+      "excerpt": "Un sistema di cavi migliora la resistenza delle turbine offshore contro terremoti, vento e onde.",
+      "image": "https://hd2.tudocdn.net/1360814?w=660",
+      "publishedAt": "2026-08-04T10:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google Home e le videocamere Tapo fanno finalmente pace",
+      "link": "https://www.hdblog.it/google/articoli/n666314/google-home-tapo-videocamere-feed-video-app/",
+      "excerpt": "Dopo mesi (in certi casi addirittura anni) di attesa, finalmente è in risoluzione il problema che impediva di mostrare il feed video delle videocamere Tapo nell'app Google Home.",
+      "image": "https://hd2.tudocdn.net/1357259?w=660",
+      "publishedAt": "2026-08-04T10:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La nuova AC Cobra GT Coupé con V8 da 730 CV: puristi in estasi",
+      "link": "https://www.hdmotori.it/nuova-ac-cobra-gt-coupe-v8-730-cv/",
+      "excerpt": "Chi non ha mai sognato di calarsi nel piccolo abitacolo di una Cobra GT. Uno dei modelli più iconici della cultura americana è tornato.",
+      "image": "https://hd2.tudocdn.net/1360845?w=660",
+      "publishedAt": "2026-08-04T10:00:18+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Su Google Drive il commento a un video ora punta al secondo esatto. Anche per gli account personali",
+      "link": "https://images.dday.it/NpFTRbJDfeauhU76DtKwXSooAtPl8yxbGDf6UyXwIWs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58267/af8b0a_ChatGPT_Image_4_ago_2026__11_48_31_copia.png",
+      "excerpt": "Ogni nota lascia un marcatore sulla barra di scorrimento: un clic e il player salta lì. Funziona da browser, per tutti gli account, non solo i Workspace... Leggi tutto",
+      "image": "https://images.dday.it/NpFTRbJDfeauhU76DtKwXSooAtPl8yxbGDf6UyXwIWs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58267/af8b0a_ChatGPT_Image_4_ago_2026__11_48_31_copia.png",
+      "publishedAt": "2026-08-04T09:51:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Audi A2 e-tron è l’Audi più efficiente di sempre: fino a 12,8 kWh/100 km e ricarica bidirezionale",
+      "link": "https://images.dday.it/tP_b6chiYni2psRQGAiCc0_sm8F65LKSQ8Q9R9Krpnk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58266/95f0df_a2_thumb.jpg",
+      "excerpt": "Nuovi dettagli tecnici sulla futura compatta elettrica di Audi: Cx di 0,24, batteria da 61 kWh e consumi di appena 12,8 kWh/100 km... Leggi tutto",
+      "image": "https://images.dday.it/tP_b6chiYni2psRQGAiCc0_sm8F65LKSQ8Q9R9Krpnk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58266/95f0df_a2_thumb.jpg",
+      "publishedAt": "2026-08-04T09:28:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Google Health ora scrive i dati anche su Salute di Apple. Fitbit ringrazia",
+      "link": "https://images.dday.it/4l9YL6oRwH9pbA0y62YBe0246e9_5Qx8aNPAV0R8MIU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58265/a90ca7_small_Screenshot_2026-08-04_alle_10.57.20_copia.png",
+      "excerpt": "L'aggiornamento per iOS completa un'integrazione finora a senso unico. Arrivano anche gli Smart Health Links per condividere le cartelle cliniche... Leggi tutto",
+      "image": "https://images.dday.it/4l9YL6oRwH9pbA0y62YBe0246e9_5Qx8aNPAV0R8MIU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58265/a90ca7_small_Screenshot_2026-08-04_alle_10.57.20_copia.png",
+      "publishedAt": "2026-08-04T09:03:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "HDR10+ Advanced, Prime Video sarà il primo servizio a trasmettere contenuti sui TV Samsung",
@@ -23,40 +230,13 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Samsung migliora lo streaming: arriva HDR10+ ADVANCED su Prime Video",
-      "link": "https://www.hdblog.it/samsung/articoli/n666280/samsung-streaming-hdr10-advanced-prime-video/",
-      "excerpt": "Prime Video inaugura HDR10+ ADVANCED con immagini più luminose e movimento più fluido.",
-      "image": "https://hd2.tudocdn.net/1360719?w=660",
-      "publishedAt": "2026-08-04T08:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Google Pixel 11 Pro Fold, arriva il teaser ufficiale in vista del lancio",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666286/google-pixel-11-pro-fold-teaser-video-ufficiale/",
-      "excerpt": "Svela poco, ma mantiene alto l'hype.",
-      "image": "https://hd2.tudocdn.net/1356260?w=660",
-      "publishedAt": "2026-08-04T08:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Little Nightmares III per PS4 scontato del 53%, mai costato così poco",
-      "link": "https://www.tomshw.it/offerte/little-nightmares-iii-per-ps4-scontato-del-53-mai-costato-cosi-poco",
-      "excerpt": "Little Nightmares III per PS4 costa 18,96€ su Amazon, con il 53% di sconto sul listino di 39,99€. È il minimo storico per questa avventura d’atmosfera firmata Bandai Namco,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105342/tomshw-offer-625049.png",
-      "publishedAt": "2026-08-04T08:04:26+00:00",
+      "title": "Il tuo commercialista mette i tuoi dati nell'AI, la sicurezza arriva dopo",
+      "link": "https://www.tomshw.it/business/il-tuo-commercialista-mette-i-tuoi-dati-nellai-la-sicurezza-arriva-dopo",
+      "excerpt": "Negli studi degli avvocati e dei commercialisti l'intelligenza artificiale serve a cercare norme e sentenze e a riassumere documenti: fascicoli, atti, bilanci, buste paga. Sono le…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105331/02-studi-professionali-cover.jpg",
+      "publishedAt": "2026-08-04T08:05:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Audi A2: la compatta elettrica da quasi 500 km di autonomia",
-      "link": "https://www.hdmotori.it/audi-a2-compatta-elettrica-autonomia/",
-      "excerpt": "La Casa tedesca torna protagonista in un settore in grande crescita. La nuova Audi A2 e-tron arriva a settembre con soluzioni all’avanguardia.",
-      "image": "https://hd2.tudocdn.net/1360790?w=660",
-      "publishedAt": "2026-08-04T08:00:01+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Disney+ e il ritorno del 4K: la toppa è peggio del buco?",
@@ -66,105 +246,6 @@
       "publishedAt": "2026-08-04T08:00:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Xbox Series S a 500 euro: così il videogioco ha smesso di essere per tutti",
-      "link": "https://www.tomshw.it/videogioco/xbox-series-s-a-500-euro-cosi-il-videogioco-ha-smesso-di-essere-per-tutti",
-      "excerpt": "Autunno del 2020: tra pandemie, ritardi nelle catene di montaggio e un’ansia generalizzata, Microsoft e Sony lanciavano sul mercato le loro macchine di nuova generazione. Xbox…",
-      "image": "https://cdn.tomshw.it/storage/media/2023/10/2336/xbox-console.jpg",
-      "publishedAt": "2026-08-04T07:52:50+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Account in fase di revisione: Meta spiega il bug di WhatsApp che ha colpito gli utenti",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n666278/whatsapp-meta-spiega-bug-account-revisione/",
-      "excerpt": "Siete rimasti tagliati fuori da WhatsApp? Ecco cosa sta succedendo",
-      "image": "https://hd2.tudocdn.net/1357794?w=660",
-      "publishedAt": "2026-08-04T07:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Honor Robot Phone, trapela la scheda tecnica (quasi) completa",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666282/honor-robot-phone-scheda-tecnica-display-batteria/",
-      "excerpt": "Batteria da addirittura 7.000 mAh... per un device con videocamera su braccio robotizzato e display da appena 6,3\".",
-      "image": "https://hd2.tudocdn.net/1342959?w=660",
-      "publishedAt": "2026-08-04T07:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "La fuga verso Starlink travolge Hughes, che dichiara bancarotta",
-      "link": "https://www.tomshw.it/hardware/la-fuga-verso-starlink-travolge-hughes-che-dichiara-bancarotta",
-      "excerpt": "Hughes Satellite Systems, l’unità di EchoStar specializzata nella connettività satellitare, ha presentato istanza di bancarotta dopo non essere riuscita a rispettare un’impor...",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105318/la-fuga-verso-starlink-travolge-hughes-che-dichiara-bancarotta.png",
-      "publishedAt": "2026-08-04T07:40:06+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "iPhone Air 2 vuole risolvere uno dei problemi più grossi del primo modello",
-      "link": "https://www.tomshw.it/smartphone/iphone-air-2-punta-a-una-dynamic-island-piu-piccola-e-nuove-fotocamere",
-      "excerpt": "Apple potrebbe correggere due dei compromessi più evidenti del suo smartphone ultrasottile con iPhone Air 2: una seconda fotocamera posteriore e una Dynamic Island meno…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105316/iphone-air-2-punta-a-una-dynamic-island-piu-piccola-e-nuove-fotocamere.png",
-      "publishedAt": "2026-08-04T07:35:01+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Redmi 17 5G, un super leak svela tutto: design, specifiche e prezzi",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666253/redmi-17-5g-specifiche-prezzo-batteria-7500-global/",
-      "excerpt": "Batteria generosa e prezzo contenuto.",
-      "image": "https://hd2.tudocdn.net/1360672?w=660",
-      "publishedAt": "2026-08-04T07:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "WD Red SN700 500GB al 50% in meno, un affare per aggiornare il NAS",
-      "link": "https://www.tomshw.it/offerte/wd-red-sn700-500gb-al-50-in-meno-un-affare-per-aggiornare-il-nas",
-      "excerpt": "WD Red SN700 500GB costa 115,90€ su Amazon, con uno sconto del 50% sul listino di 233,99€. È il minimo storico del modello, pensato per dare maggiore reattività ai sistemi NAS. WD…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105329/tomshw-offer-624895.png",
-      "publishedAt": "2026-08-04T07:33:35+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Nemmeno la passkey è al sicuro: gli hacker possono rubarvela",
-      "link": "https://www.tomshw.it/hardware/tre-nuovi-attacchi-permettono-ai-malware-di-rubare-le-passkey-google",
-      "excerpt": "I ricercatori di Unit 42, il team di sicurezza di Palo Alto Networks, hanno documentato tre attacchi capaci di abusare delle passkey sincronizzate da Google Password Manager. Le…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105315/tre-nuovi-attacchi-permettono-ai-malware-di-rubare-le-passkey-google.png",
-      "publishedAt": "2026-08-04T07:31:58+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Google Pixel 10a (256 GB) in sconto su Amazon: la scelta giusta per un mid-range compatto",
-      "link": "https://www.hdblog.it/smartphone/offerte/n666275/google-pixel-10a-256-gb-offerta-amazon-agosto26/",
-      "excerpt": "Il Google Pixel 10a è in offerta su Amazon con la versione da 256 GB che tocca il minimo e diventa la scelta giusta per un nuovo mid-range.",
-      "image": "https://hd2.tudocdn.net/1322210?w=660",
-      "publishedAt": "2026-08-04T07:30:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Genspark sfida Microsoft: GenOffice diventa open source",
-      "link": "https://www.tomshw.it/hardware/genspark-rende-open-source-genoffice-e-sfida-microsoft-office",
-      "excerpt": "Genspark ha reso open source GenOffice, una suite desktop gratuita e senza pubblicità che riunisce strumenti per documenti, fogli di calcolo, presentazioni e PDF. Il progetto…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105314/genspark-rende-open-source-genoffice-e-sfida-microsoft-office.png",
-      "publishedAt": "2026-08-04T07:28:25+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Siccità e caldo mettono sotto pressione il sistema elettrico europeo",
-      "link": "https://www.hdblog.it/green/articoli/n666272/caldo-siccita-prezzo-energia-europa/",
-      "excerpt": "Caldo e siccità riducono la produzione elettrica europea facendo salire i prezzi.",
-      "image": "https://hd2.tudocdn.net/1360703?w=660",
-      "publishedAt": "2026-08-04T07:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Bending Spoons vuole comprare anche Airtable: accordo da 1,28 miliardi di dollari in contanti",
@@ -185,92 +266,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Google Pixel 11 Pro XL, trapelano nuove immagini stampa",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666273/google-pixel-11-pro-xl-immagini-stampa-render/",
-      "excerpt": "Evan Blass colpisce ancora.",
-      "image": "https://hd2.tudocdn.net/1360715?w=660",
-      "publishedAt": "2026-08-04T07:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone 20, come sarà: display curvo, sottile come l'Air e con nuova camera di vapore",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666250/iphone-20-ventennale-design-sottile-air-apple-leak/",
-      "excerpt": "Gli ultimi rumor aggiungono nuovi dettagli.",
-      "image": "https://hd2.tudocdn.net/1360663?w=660",
-      "publishedAt": "2026-08-04T07:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Sony WH-1000XM5: ANC premium e custodia rigida a un prezzo più interessante",
-      "link": "https://www.tomshw.it/hardware/sony-wh-1000xm5-anc-premium-custodia-rigida-2026-08-04",
-      "excerpt": "Sony WH-1000XM5 è un paio di cuffie wireless over-ear con noise cancelling avanzato ora disponibile a 229€, con uno sconto del 23% rispetto al prezzo di riferimento di 299€. Il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105280/sony-wh-1000xm5-anc-premium-custodia-rigida-2026-08-04-sjAeWS50p7gvrou59oj5gOPy4F.png",
-      "publishedAt": "2026-08-04T05:07:44+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Sony WH-CH720N a 64€: cuffie ANC leggere con il 28% di sconto",
-      "link": "https://www.tomshw.it/hardware/sony-wh-ch720n-a-64-euro-cuffie-noise-cancelling-2026-08-04",
-      "excerpt": "Sony WH-CH720N è un paio di cuffie wireless over-ear leggere con cancellazione del rumore ora disponibile a 64€, con uno sconto del 28% rispetto al prezzo di riferimento di 89€.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104658/sony-wh-ch720n-a-64-euro-noise-cancelling-multipoint-2026-07-31vi23dj1f537fbyHCaYS.png",
-      "publishedAt": "2026-08-04T05:07:32+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Il cinema a casa. Hisense PT1 proietta fino a 150 pollici e ha bisogno di pochissimo spazio",
       "link": "https://images.dday.it/VnvSUOYeowIxyxhFT6SnS4DA2uAddn68Yb-wNTs-jGk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58191/837aee_Basement_home_theater.jpg",
       "excerpt": "Una grande immagine in 4K a pochi centimetri dalla parete. Installazione semplice, audio Dolby Atmos e frequenza di aggiornamento fino a 240 Hz... Leggi tutto",
       "image": "https://images.dday.it/VnvSUOYeowIxyxhFT6SnS4DA2uAddn68Yb-wNTs-jGk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58191/837aee_Basement_home_theater.jpg",
       "publishedAt": "2026-08-04T01:03:04+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Gli occhiali anti-sorveglianza di DuckDuckGo. Che sono dei normalissimi occhiali da sole",
-      "link": "https://images.dday.it/epFN1SBMPli0DziS1avWtCqqp3ykX-u2JTPxtgTgcbo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58259/dde7fd_duckduckocchiali.jpeg",
-      "excerpt": "La società li ha proposti come beffa verso produttori come Meta, i cui occhiali smart stanno venendo criticati perché permettono di registrare video di altre persone a loro…",
-      "image": "https://images.dday.it/epFN1SBMPli0DziS1avWtCqqp3ykX-u2JTPxtgTgcbo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58259/dde7fd_duckduckocchiali.jpeg",
-      "publishedAt": "2026-08-03T15:29:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Samsung, rimosse alcune app per Smart TV: potevano abusare della connessione Internet degli utenti",
-      "link": "https://images.dday.it/DAAw0PJDgv_sUvlRcoKcTMu8cTV29x9LGKZk12Vkmsg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58258/bb1943_Depositphotos_854443908_XL.jpg",
-      "excerpt": "Una ricerca ha individuato applicazioni che trasformano le TV in nodi di reti proxy residenziali. Samsung ha annunciato nuove regole e la rimozione delle app coinvolte... Leggi…",
-      "image": "https://images.dday.it/DAAw0PJDgv_sUvlRcoKcTMu8cTV29x9LGKZk12Vkmsg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58258/bb1943_Depositphotos_854443908_XL.jpg",
-      "publishedAt": "2026-08-03T13:42:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Offerta imperdibile: il videocitofono bifamiliare Vimar al prezzo più basso di sempre",
-      "link": "https://images.dday.it/jzg_IJSmhLlQ30vlYrpKcmrUuN-XrACegSWRXkTEVEM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58257/ee01d5_71RZAoYntuL._AC_SL1500_.jpg",
-      "excerpt": "Scopri il videocitofono Vimar K42946, dotato di tecnologia Wi-Fi, schermo touch e funzionalità RFID, ora disponibile con un incredibile sconto... Leggi tutto",
-      "image": "https://images.dday.it/jzg_IJSmhLlQ30vlYrpKcmrUuN-XrACegSWRXkTEVEM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58257/ee01d5_71RZAoYntuL._AC_SL1500_.jpg",
-      "publishedAt": "2026-08-03T13:27:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "FiberCop trasforma le centrali telefoniche in “data center”: oltre 100 nodi per l’IA distribuita in Italia",
-      "link": "https://images.dday.it/YCqmbel7-l-yK7BVrZK1eeGgImgppj2mya4W7lLV8QE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58256/a861b2_Depositphotos_469484828_XL_copia.jpg",
-      "excerpt": "Le centrali ex Telecom diventeranno nodi di calcolo per imprese e PA. L’obiettivo non è addestrare grandi modelli, ma eseguirli vicino agli utenti, riducendo latenza e traffico…",
-      "image": "https://images.dday.it/YCqmbel7-l-yK7BVrZK1eeGgImgppj2mya4W7lLV8QE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58256/a861b2_Depositphotos_469484828_XL_copia.jpg",
-      "publishedAt": "2026-08-03T12:50:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Skoda, arriva il pacchetto per trasportare le bici. Svelate i MY 27 di Octavia, Kodiaq e Superb",
-      "link": "https://images.dday.it/nvsKYaS8K9Ykhv11ORtWZtOy0amPjr0rLjTGCvD-8UI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58251/06c779_skoda_thumb.jpg",
-      "excerpt": "Al debutto le nuove soluzioni dedicate ai ciclisti, mentre il Model Year 2027 introduce ricarica wireless Qi2 e dotazioni di comfort aggiuntive... Leggi tutto",
-      "image": "https://images.dday.it/nvsKYaS8K9Ykhv11ORtWZtOy0amPjr0rLjTGCvD-8UI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58251/06c779_skoda_thumb.jpg",
-      "publishedAt": "2026-08-03T12:26:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
