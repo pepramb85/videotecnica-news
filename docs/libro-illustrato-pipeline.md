@@ -81,7 +81,18 @@ Si registrano 3 Elements dai character sheet: `[BAMBINA]`, `[MAMMA]`, `[PAPA]`.
 Operazione istantanea e gratuita. Da qui in poi ogni prompt li richiama.
 
 ### Fase 3 — Storia
-Struttura consigliata per la fascia 3–6 anni: **24 tavole**, arco in 5 movimenti.
+
+La struttura dipende dall'età, e la differenza è sostanziale.
+
+**12–18 mesi — albo cartonato, 16 tavole.** Non regge un arco narrativo: la struttura
+è la giornata del bambino, che lui già vive e riconosce. Una immagine per pagina,
+sfondo pulito, soggetto grande, max 8–10 parole. Onomatopee da imitare (versi degli
+animali, campanello, onde). Le persone si chiamano per nome. Una formula che ritorna
+identica a ogni pagina, che dopo tre letture il bambino anticipa da solo. Il climax è
+una conquista reale del momento (primi passi, prime parole). L'ultima tavola rispecchia
+l'inquadratura della prima — mattino/sera, sveglia/nanna.
+
+**3–6 anni — 24 tavole, arco in 5 movimenti.**
 
 | Tavole | Movimento |
 |---|---|
@@ -91,9 +102,13 @@ Struttura consigliata per la fascia 3–6 anni: **24 tavole**, arco in 5 movimen
 | 15–19 | Crisi — l'ostacolo grosso, i genitori arrivano |
 | 20–24 | Ritorno — casa, ma cambiata; ultima tavola speculare alla prima |
 
-Regole: una frase per tavola (max 25 parole), rima o ritmo ripetuto, una formula
-ricorrente che il bambino impara e anticipa ad alta voce. La tavola 24 riprende
-l'inquadratura della tavola 1 — è il trucco che fa "chiudere" un albo illustrato.
+Regole comuni: una frase per tavola, ritmo ripetuto, una formula ricorrente. In
+entrambi i casi la chiusura specchia l'apertura — è il meccanismo che fa "chiudere"
+un albo illustrato.
+
+**Nota su personaggi di terzi.** Personaggi di cartoni, canali YouTube e canzoncine
+commerciali sono protetti da copyright: non vanno inseriti nelle tavole. Si usano
+equivalenti generici.
 
 ### Fase 4 — Tavole (~100–140 crediti)
 24 illustrazioni + copertina, `nano_banana_2` a 2k, formato 4:3 o 1:1.
@@ -101,6 +116,11 @@ l'inquadratura della tavola 1 — è il trucco che fa "chiudere" un albo illustr
 ### Fase 5 — Impaginazione (0 crediti)
 PDF pronto per la stampa: testo + immagini, margini e dorso corretti. Lo produco io
 direttamente, senza consumare crediti.
+
+**Stampa sotto i 2 anni:** serve un cartonato vero (board book), non carta — a
+quell'età il libro viene morso e sbattuto. È una lavorazione diversa dal fotolibro
+classico, gestita da stampatori specializzati e di solito con tirature minime.
+Va deciso prima dell'impaginazione perché cambiano margini e dorso.
 
 ### Fase 6 — Video (~270–350 crediti per 60 secondi)
 Si scelgono 12 tavole chiave. Ogni tavola diventa lo `start_image` di una clip
