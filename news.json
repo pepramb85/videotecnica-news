@@ -1,53 +1,161 @@
 {
-  "generatedAt": "2026-08-04T14:10:12.944475+00:00",
+  "generatedAt": "2026-08-04T17:37:22.628361+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "WhatsApp introduce @all: può notificare tutti anche nelle chat silenziate",
-      "link": "https://www.tomshw.it/smartphone/whatsapp-introduce-all-puo-notificare-tutti-anche-nelle-chat-silenziate",
-      "excerpt": "Per richiamare l’attenzione di un intero gruppo WhatsApp non è più necessario menzionare i partecipanti uno alla volta. Digitando @all all’interno del messaggio, è possibile…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105487/l-intro-1785791401.jpg",
-      "publishedAt": "2026-08-04T14:09:57+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Amazon, Bezos pronto a incassare 4,07 miliardi di dollari dalle sue azioni",
-      "link": "https://www.tomshw.it/business/jeff-bezos-prepara-la-vendita-di-15-milioni-di-azioni-amazon-per",
-      "excerpt": "Quindici milioni di azioni Amazon, per un valore di mercato indicativo vicino a 4,07 miliardi di dollari, potrebbero essere vendute da Jeff Bezos. Il pacchetto compare nel Form…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105484/news-flash-645780.png",
-      "publishedAt": "2026-08-04T14:06:07+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Un po' Ferrari, un po' Lamborghini, all'asta la supercar di Giorgio Moroder",
-      "link": "https://www.hdmotori.it/asta-supercar-cizeta-moroder/",
-      "excerpt": "L’unità più esclusiva tra le nove prodotte da Cizeta torna all’asta. Il punto di forza? Un 6.0 aspirato da 540 CV.",
-      "image": "https://hd2.tudocdn.net/1360896?w=660",
-      "publishedAt": "2026-08-04T14:00:28+00:00",
+      "title": "Cuisinart ha appena lanciato una macchina combinata per gelato e granite",
+      "link": "https://www.hdblog.it/home/articoli/n666358/cuisinart-macchina-combinata-gelato-granite/",
+      "excerpt": "Ideale per tutti i dolci dell'estate",
+      "image": "https://hd2.tudocdn.net/1360974?w=660",
+      "publishedAt": "2026-08-04T17:35:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Il nuovo dock Plugable collega tre monitor via USB-C senza driver",
-      "link": "https://www.tomshw.it/hardware/il-nuovo-dock-plugable-collega-tre-monitor-via-usb-c-senza-driver",
-      "excerpt": "Plugable ha lanciato la nuova Plugable UD-MSTH3, una docking station progettata per collegare fino a tre monitor a un notebook Windows o ChromeOS attraverso un solo cavo USB-C. Il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105458/il-nuovo-dock-plugable-collega-tre-monitor-via-usb-c-senza-driver.png",
-      "publishedAt": "2026-08-04T13:58:44+00:00",
+      "title": "Artemis III: nuovi test aerodinamici per il razzo Starship di SpaceX",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666304/nasa-spacex-test-galleria-vento-starship/",
+      "excerpt": "NASA e SpaceX testano Starship per rendere più sicuro il ritorno del booster.",
+      "image": "https://hd2.tudocdn.net/1360839?w=660",
+      "publishedAt": "2026-08-04T17:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "CMF Clip Pro ufficiali: anche Carl Pei si cimenta con gli auricolari \"open\" a clip",
+      "link": "https://www.hdblog.it/indossabili/articoli/n666367/cmf-clip-pro/",
+      "excerpt": "Prezzo non male, design inconfondibile, attesa per l'acquisto un po' lunghetta.",
+      "image": "https://hd2.tudocdn.net/1360973?w=660",
+      "publishedAt": "2026-08-04T17:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Casio lancia i nuovi Edifice solari: cronografi compatti con vetro zaffiro",
+      "link": "https://www.hdblog.it/indossabili/articoli/n666323/casio-edifice-efs-s660-cronografo-solare/",
+      "excerpt": "Casio presenta due cronografi solari compatti con vetro zaffiro e 100 metri di impermeabilità.",
+      "image": "https://hd2.tudocdn.net/1360863?w=660",
+      "publishedAt": "2026-08-04T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Dalla CO2 alla grafite: la scoperta che interessa le batterie EV",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666313/elettrolisi-sali-fusi-grafite/",
+      "excerpt": "La CO2 viene trasformata in grafite grazie a sali fusi: possibile svolta per le batterie EV.",
+      "image": "https://hd2.tudocdn.net/1360843?w=660",
+      "publishedAt": "2026-08-04T16:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google Pixel Watch 5, ancora conferme sulle pochissime novità hardware",
+      "link": "https://www.hdblog.it/indossabili/articoli/n666365/pixel-watch-5-leak-marketing-immagini-specifiche/",
+      "excerpt": "Sarà una nuova generazione tutta incentrata sull'AI.",
+      "image": "https://hd2.tudocdn.net/1334916?w=660",
+      "publishedAt": "2026-08-04T16:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Edifier punta sul gaming con auricolari Hi-Res a meno di 30 euro",
+      "link": "https://www.hdblog.it/indossabili/articoli/n666316/edifier-hecate-dual-engine-pro/",
+      "excerpt": "Edifier porta tripli driver e audio Hi-Res negli auricolari gaming economici.",
+      "image": "https://hd2.tudocdn.net/1360849?w=660",
+      "publishedAt": "2026-08-04T16:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Carta d'identità, da oggi chi viaggia con quella cartacea potrebbe rimanere a terra",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666336/carta-identita-oggi-cartacea-non-valida-espatrio/",
+      "excerpt": "Serve la CIE, almeno per i viaggi all'estero",
+      "image": "https://hd2.tudocdn.net/1360888?w=660",
+      "publishedAt": "2026-08-04T16:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Grandi novità in arrivo su WhatsApp: \"@tutti\" nelle chat di gruppo e non solo",
+      "link": "https://www.hdblog.it/android/articoli/n666362/whatsapp-tutti-tag-gruppo-come-funziona/",
+      "excerpt": "Aggiustamenti anche ai sondaggi e creazione semplificata di nuovi gruppi.",
+      "image": "https://hd2.tudocdn.net/1355124?w=660",
+      "publishedAt": "2026-08-04T16:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "soundcore AeroClip al minimo di sempre, 89,99€ per sport e spostamenti",
+      "link": "https://www.tomshw.it/offerte/soundcore-aeroclip-al-minimo-di-sempre-8999eur-per-sport-e-spostamenti",
+      "excerpt": "Gli auricolari soundcore AeroClip costano 89,99€ su Amazon, il minimo storico, invece dei 129,99€ di listino grazie a uno sconto del 31%. Il design clip-on lascia libero il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105523/tomshw-offer-646951.png",
+      "publishedAt": "2026-08-04T16:03:23+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Somfy acquisisce Bond e amplia la connettività della smart home",
-      "link": "https://www.tomshw.it/hardware/somfy-acquisisce-bond-e-amplia-la-connettivita-della-smart-home",
-      "excerpt": "Somfy Group ha acquisito Olibra LLC, società proprietaria di Bond, portando nel proprio perimetro una delle piattaforme di connettività domestica più diffuse in Nord America.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105456/somfy-acquisisce-bond-e-amplia-la-connettivita-della-smart-home.png",
-      "publishedAt": "2026-08-04T13:57:33+00:00",
+      "title": "Gilles Villeneuve, in arrivo un nuovo film: uscita e trailer",
+      "link": "https://www.hdmotori.it/gilles-villeneuve-film/",
+      "excerpt": "L’Aviatore, come era stato battezzato nel circus, verrà raccontato in una pellicola che si preannuncia imperdibile per i fan della Ferrari.",
+      "image": "https://hd2.tudocdn.net/1360949?w=660",
+      "publishedAt": "2026-08-04T16:00:43+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "L’AI a basso costo rende più caro cambiare fornitore",
+      "link": "https://www.tomshw.it/hardware/lai-a-basso-costo-rende-piu-caro-cambiare-fornitore",
+      "excerpt": "Quando GPT-5.6 Luna perde l’80% del prezzo, la conseguenza più importante non è il risparmio sulla prossima fattura: è la scomparsa di una parte delle ragioni economiche per…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105266/cover.png",
+      "publishedAt": "2026-08-04T15:28:19+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "IA sovrana, cosa chiedere ai fornitori software prima di firmare",
+      "link": "https://www.tomshw.it/business/ia-sovrana-cosa-chiedere-ai-fornitori-software-prima-di-firmare",
+      "excerpt": "Le azioni di Palantir sono balzate fino al 20% dopo una trimestrale sostenuta dalla domanda di strumenti per l’intelligenza artificiale sovrana. Il gruppo statunitense ha…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105509/ai-sovrana-il-controllo-dei-dati-cambia-il-procurement-software-delle-imprese.png",
+      "publishedAt": "2026-08-04T15:27:40+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Wi-Fi di hotel e fiere, le regole minime per chi manda i dipendenti in trasferta",
+      "link": "https://www.tomshw.it/business/wi-fi-di-hotel-e-fiere-le-regole-minime-per-chi-manda-i-dipendenti-in-trasferta",
+      "excerpt": "Le imprese italiane devono rivedere le regole di accesso ai sistemi aziendali durante trasferte, fiere e congressi. Microsoft Threat Intelligence ha attribuito a Storm-2945,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105501/trasferte-aziendali-il-wi-fi-di-hotel-e-congressi-va-trattato-come-rete-ostile.png",
+      "publishedAt": "2026-08-04T15:27:06+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Spotify raggiunge 300 milioni di abbonati Premium. Quasi 800 milioni di persone la usano",
+      "link": "https://images.dday.it/OYw86CtHN6K_BnSYDCCZ5zCJZ7sNb_89J-hXHfjq3rc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58274/b745e3_Depositphotos_666777984_XL.jpg",
+      "excerpt": "Nel secondo trimestre del 2026 il servizio ha aggiunto 7 milioni di clienti paganti. I ricavi sono saliti a 4,78 miliardi di euro... Leggi tutto",
+      "image": "https://images.dday.it/OYw86CtHN6K_BnSYDCCZ5zCJZ7sNb_89J-hXHfjq3rc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58274/b745e3_Depositphotos_666777984_XL.jpg",
+      "publishedAt": "2026-08-04T15:11:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "BMW ha infilato una pubblicità di Spider-Man: Brand New Day in ogni BMW prodotta dopo il 2020",
+      "link": "https://images.dday.it/U8vVbnN4FFntspiGqTsLaYwjYWVcdL-LOFs1obgXESc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58263/782120_bmw_thumb.jpg",
+      "excerpt": "All'avvio dell'auto, per via di una collaborazione fra BMW e Sony Pictures, produttore del film... Leggi tutto",
+      "image": "https://images.dday.it/U8vVbnN4FFntspiGqTsLaYwjYWVcdL-LOFs1obgXESc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58263/782120_bmw_thumb.jpg",
+      "publishedAt": "2026-08-04T14:41:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Il super caldo fa schizzare le bollette elettriche: Po in secca, centrali spente e prezzi ai massimi",
+      "link": "https://images.dday.it/Oqa23fInXyNk8A3prhxkGhlqZXQFB5S8K2gXoky1Uzc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58253/5b3d1a_Depositphotos_646521654_XL.jpg",
+      "excerpt": "Il PUN supera i 197 euro/MWh e il mercato di oggi ha già fissato il prezzo di domani a oltre 207 euro. Il caldo aumenta la domanda di elettricità mentre siccità e temperature dei…",
+      "image": "https://images.dday.it/Oqa23fInXyNk8A3prhxkGhlqZXQFB5S8K2gXoky1Uzc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58253/5b3d1a_Depositphotos_646521654_XL.jpg",
+      "publishedAt": "2026-08-04T14:07:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "La soundbar Bose Smart Ultra è in offerta su Amazon: audio Dolby Atmos e dialoghi più nitidi a un prezzo da non perdere",
@@ -59,51 +167,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Anker MagGo al 44% in meno, 10.000 mAh che tengono l’iPhone carico",
-      "link": "https://www.tomshw.it/offerte/anker-maggo-al-44-in-meno-10000-mah-che-tengono-liphone-carico",
-      "excerpt": "Anker MagGo 10K costa 49,99€ su Amazon, anziché 89,99€, con uno sconto del 44% e il prezzo più basso toccato finora. Unisce ricarica magnetica, capacità adatta alle giornate più…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105453/tomshw-offer-645513.png",
-      "publishedAt": "2026-08-04T13:33:28+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Ferrari, 10 nuove Purosangue su misura per la collezione American Grand Tour",
-      "link": "https://www.hdmotori.it/ferrari-10-nuove-purosangue-collezione-american-grand-tour/",
-      "excerpt": "In uno dei mercati più floridi al mondo, la Casa modenese ha svelato 10 SUV Purosangue, impreziosite da elementi unici.",
-      "image": "https://hd2.tudocdn.net/1360891?w=660",
-      "publishedAt": "2026-08-04T13:30:40+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Le cuffie over-ear Sony WH-1000XM6 scontate di 100€ su Amazon: suono premium e comfort totale",
-      "link": "https://www.hdblog.it/indossabili/offerte/n666335/cuffie-over-ear-sony-wh-1000xm6-scontate-amazon/",
-      "excerpt": "Il miglior noise cancelling del mercato è scontato su Amazon.",
-      "image": "https://hd2.tudocdn.net/1360882?w=660",
-      "publishedAt": "2026-08-04T13:26:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Xbox Game Pass: beta aperta di Gears of War: E-Day in anticipo dal 6 agosto",
-      "link": "https://www.tomshw.it/videogioco/xbox-game-pass-beta-aperta-di-gears-of-war-e-day-in",
-      "excerpt": "La prima metà di agosto di Xbox Game Pass ruota attorno all’accesso anticipato alla beta aperta di Gears of War: E-Day. Dal 6 agosto gli abbonati a Game Pass Ultimate e PC Game…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105450/XGP_ComingSoon040826_16x9_FBXTH_N_CW90_GBL_MGP_N_N_1_EN-US-663e8f1d643e32f2c606.jpg",
-      "publishedAt": "2026-08-04T13:25:16+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Tempesta solare del 1972: fece esplodere decine di mine USA in Vietnam",
-      "link": "https://www.tomshw.it/scienze/tempesta-solare-del-1972-fece-esplodere-decine-di-mine-usa-in-vietnam",
-      "excerpt": "Decine di mine navali statunitensi esplosero al largo del Vietnam del Nord senza che alcuna nave le avesse sfiorate. Il 4 agosto 1972, a innescarle fu una violenta perturbazione…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105446/Mine_explosion_Operation_End_Sweep_9_March_1973-e1754079082822.jpg",
-      "publishedAt": "2026-08-04T13:10:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Svelato DJI Mic Mini 2S: finalmente ha la registrazione interna",
       "link": "https://images.dday.it/HnIUmqYIql4cQqvIXOnfpYFMXvf13kybcIHGpbMYq14/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58271/a5d533_dji01.jpg",
       "excerpt": "Fra le specifiche anche la cancellazione del rumore basata sull’IA e il collegamento diretto con alcune fotocamere Osmo... Leggi tutto",
@@ -111,33 +174,6 @@
       "publishedAt": "2026-08-04T13:10:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Una falla vecchia di decenni espone migliaia di data center",
-      "link": "https://www.tomshw.it/hardware/una-falla-vecchia-di-decenni-espone-migliaia-di-data-center",
-      "excerpt": "La società di sicurezza Lava ha individuato migliaia di server potenzialmente compromettibili attraverso i Baseboard Management Controller, i processori dedicati…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105444/una-falla-vecchia-di-decenni-espone-migliaia-di-data-center.png",
-      "publishedAt": "2026-08-04T13:08:08+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Valve riporta su iFixit la batteria originale di Steam Deck",
-      "link": "https://www.tomshw.it/videogioco/valve-riporta-su-ifixit-la-batteria-originale-di-steam-deck",
-      "excerpt": "Valve ha rifornito iFixit con una nuova partita di batterie originali per Steam Deck, rendendo nuovamente acquistabile il ricambio destinato al modello LCD. La disponibilità mette…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105440/valve-riporta-su-ifixit-la-batteria-originale-di-steam-deck.png",
-      "publishedAt": "2026-08-04T13:07:03+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "La mobilità in Italia nel 2026: più spostamenti ma distanze più brevi",
-      "link": "https://www.hdmotori.it/mobilita-italia-2026/",
-      "excerpt": "Gli italiani si muovono ogni giorno di più, privilegiando tragitti locali e rinnovando gradualmente il parco auto verso motorizzazioni meno inquinanti.",
-      "image": "https://hd2.tudocdn.net/1360886?w=660",
-      "publishedAt": "2026-08-04T13:00:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Il Superbonus è costato 126,7 miliardi. Ecco come li abbiamo spesi",
@@ -149,13 +185,13 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Google Pixel 10A, Fold 8 Ultra, robot e tanto altro: le migliori offerte del 4 agosto",
-      "link": "https://www.hdblog.it/ebay/offerte/n666333/offerte-tech-4-agosto-2026-amazon-ebay-/",
-      "excerpt": "Dagli smartphone Google e Samsung ai robot aspirapolvere, passando per cuffie, caricabatterie, TV OLED e mini PC: le migliori offerte tech di oggi su Amazon ed eBay.",
-      "image": "https://hd2.tudocdn.net/1329176?w=660",
-      "publishedAt": "2026-08-04T12:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Quando esce Steam Deck 2? Data, rumor e cosa sappiamo",
+      "link": "https://www.tomshw.it/videogioco/quando-esce-steam-deck-2-data-rumor-e-cosa-sappiamo",
+      "excerpt": "Quando esce Steam Deck 2? La risposta breve è che Valve sta sviluppando la nuova generazione del suo PC portatile, ma non esiste ancora una data di uscita. Il progetto è reale;…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105119/quando-esce-steam-deck-2-data-rumor-e-cosa-sappiamo.png",
+      "publishedAt": "2026-08-04T12:22:32+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "OpenAI passa al contrattacco contro Apple nella causa sui segreti industriali: pubblicati email e messaggi",
@@ -165,51 +201,6 @@
       "publishedAt": "2026-08-04T12:13:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Office 2021 al capolinea: LibreOffice manda la stoccata vantandosi della licenza a vita",
-      "link": "https://www.hdblog.it/microsoft/articoli/n666322/office-2021-fine-supporto-libreoffice-licenza/",
-      "excerpt": "LibreOffice invita a scegliere il suo modello gratuito ed aperto, evitando le scadenze ed i costi di Microsoft Office.",
-      "image": "https://hd2.tudocdn.net/1360878?w=660",
-      "publishedAt": "2026-08-04T12:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "DJI Mic Mini 2S ufficiale: registrazione interna e AI per l'audio | Prezzi",
-      "link": "https://www.hdblog.it/dji/articoli/n666267/dji-mic-mini-2s-ufficiale-prezzi/",
-      "excerpt": "DJI Mic Mini 2S registra fino a 28 ore con audio float a 32 bit e IA contro il rumore.",
-      "image": "https://hd2.tudocdn.net/1360695?w=660",
-      "publishedAt": "2026-08-04T12:01:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Stellantis, il piano per Cassino: due nuove Maserati dal 2028",
-      "link": "https://www.hdmotori.it/stellantis-cassino-nuovi-modelli-maserati/",
-      "excerpt": "Piano Stellantis a Cassino: in arrivo due nuove Maserati tra il 2028 e il 2029. Nessuna vendita del sito, si valuta un partner di minoranza per la produzione.",
-      "image": "https://hd2.tudocdn.net/1360879?w=660",
-      "publishedAt": "2026-08-04T12:00:57+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Recensione Surfshark VPN 2026: Sicurezza a Prezzo Accessibile",
-      "link": "https://www.hdblog.it/sicurezza/guide/n637261/recensione-surfshark-vpn/",
-      "excerpt": "Recensione completa 2026 di Surfshark VPN: connessioni illimitate, sicurezza avanzata e ottime prestazioni per lo streaming.",
-      "image": "https://hd2.tudocdn.net/1300407?w=660",
-      "publishedAt": "2026-08-04T11:43:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Altro che datacenter: un modello AI da 28,9 mln di parametri su una scheda ESP32",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n666330/esp32-microcontroller-ai-llm-parametri/",
-      "excerpt": "Tutto grazie a una tecnica impiegata da Google nella sua famiglia di modelli Gemma.",
-      "image": "https://hd2.tudocdn.net/1318000?w=660",
-      "publishedAt": "2026-08-04T11:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Recensione Samsung Galaxy Z Fold8. Piace a tutti, e c'è un motivo",
@@ -239,38 +230,47 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Audi A2 e-tron è l’Audi più efficiente di sempre: fino a 12,8 kWh/100 km e ricarica bidirezionale",
-      "link": "https://images.dday.it/tP_b6chiYni2psRQGAiCc0_sm8F65LKSQ8Q9R9Krpnk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58266/95f0df_a2_thumb.jpg",
-      "excerpt": "Nuovi dettagli tecnici sulla futura compatta elettrica di Audi: Cx di 0,24, batteria da 61 kWh e consumi di appena 12,8 kWh/100 km... Leggi tutto",
-      "image": "https://images.dday.it/tP_b6chiYni2psRQGAiCc0_sm8F65LKSQ8Q9R9Krpnk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58266/95f0df_a2_thumb.jpg",
-      "publishedAt": "2026-08-04T09:28:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Google Health ora scrive i dati anche su Salute di Apple. Fitbit ringrazia",
-      "link": "https://images.dday.it/4l9YL6oRwH9pbA0y62YBe0246e9_5Qx8aNPAV0R8MIU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58265/a90ca7_small_Screenshot_2026-08-04_alle_10.57.20_copia.png",
-      "excerpt": "L'aggiornamento per iOS completa un'integrazione finora a senso unico. Arrivano anche gli Smart Health Links per condividere le cartelle cliniche... Leggi tutto",
-      "image": "https://images.dday.it/4l9YL6oRwH9pbA0y62YBe0246e9_5Qx8aNPAV0R8MIU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58265/a90ca7_small_Screenshot_2026-08-04_alle_10.57.20_copia.png",
-      "publishedAt": "2026-08-04T09:03:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "HDR10+ Advanced, Prime Video sarà il primo servizio a trasmettere contenuti sui TV Samsung",
-      "link": "https://images.dday.it/gHfXeSaIZeCymaz34ldSj0J-XtPVRdv3N0vy5hTd_NY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58262/92a1a4_Samsung-TVs-and-Displays-HDR10-ADVANCED-Prime-Video_main1.jpg",
-      "excerpt": "Il supporto parte ad agosto e in un primo momento sarà riservato ai TV Samsung del 2026. Ancora nessuna indicazione sul numero di titoli coinvolti... Leggi tutto",
-      "image": "https://images.dday.it/gHfXeSaIZeCymaz34ldSj0J-XtPVRdv3N0vy5hTd_NY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58262/92a1a4_Samsung-TVs-and-Displays-HDR10-ADVANCED-Prime-Video_main1.jpg",
-      "publishedAt": "2026-08-04T08:12:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Stiamo smettendo di controllare l'AI in azienda, ed è un problema",
-      "link": "https://www.tomshw.it/business/stiamo-smettendo-di-controllare-lai-in-azienda-ed-e-un-problema",
-      "excerpt": "Il 92% delle organizzazioni colpite da un incidente sui propri modelli o sulle proprie applicazioni AI non aveva controlli d'accesso adeguati. Il dato viene dal Cost of a Data…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105332/03-controlli-ai-cover.jpg",
+      "title": "Un'AI \"scappata\" ti fa un danno informatico. Chi paga?",
+      "link": "https://www.tomshw.it/business/unai-scappata-ti-fa-un-danno-informatico-chi-paga",
+      "excerpt": "A luglio due laboratori hanno raccontato la stessa cosa a nove giorni di distanza: durante valutazioni interne di sicurezza i loro modelli sono usciti dall'ambiente di test e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105336/07-ai-scappata-cover.jpg",
       "publishedAt": "2026-08-04T08:05:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "L'AI mente e imbroglia, ma il vero problema è che non ce ne accorgiamo",
+      "link": "https://www.tomshw.it/business/lai-mente-e-imbroglia-ma-il-vero-problema-e-che-non-ce-ne-accorgiamo",
+      "excerpt": "Un'analisi del 3 agosto chiede perché gli agenti AI mentano e imbroglino per arrivare al risultato, e la risposta è giusta. Li premiamo per output che a noi sembrano buoni, e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105335/06-ai-mente-cover.jpg",
+      "publishedAt": "2026-08-04T08:05:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Girare video con lo smartphone: gli accessori su Aliexpress per riprese perfette",
+      "link": "https://www.tomshw.it/offerte/girare-video-decenti-con-lo-smartphone-stabilizzatori-microfoni-e-luci-che-cambiano-davvero-il-risultato",
+      "excerpt": "Una passeggiata sul lungomare, un’intervista improvvisata o una ricetta registrata sul tavolo possono sembrare semplici da riprendere, finché il filmato non mostra tremolii, voci…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105304/hub-ali-cover-624476.png",
+      "publishedAt": "2026-08-04T06:38:11+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "EA Sports FC 27 celebra il calcio a tutto tondo con The Grounds",
+      "link": "https://www.tomshw.it/videogioco/ea-sports-fc-27-celebra-il-calcio-a-tutto-tondo-con-the-grounds",
+      "excerpt": "EA Sports FC 27 arriverà nei negozi solo il prossimo 25 settembre, ma ad aiutarci a ingannare l’attesa sono tutte le nuove informazioni che stanno venendo rilasciate in questi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105262/EaSportsFc27_03.jpg",
+      "publishedAt": "2026-08-03T18:26:56+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Trasforma i dati Zucchetti in dashboard leggibili con AI e un tool BI",
+      "link": "https://www.tomshw.it/aioperator/trasforma-i-dati-zucchetti-in-dashboard-leggibili-con-ai-e-un-tool-bi",
+      "excerpt": "Zucchetti gestisce vendite, magazzino e personale in moduli separati, ciascuno con la propria logica di esportazione. Ad Hoc Revolution genera un file compresso pronto per…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104792/04-amm19-cover.jpg",
+      "publishedAt": "2026-07-31T08:37:16+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
