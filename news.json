@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T20:59:29.534513+00:00",
+  "generatedAt": "2026-08-05T22:50:46.940170+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
@@ -21,6 +21,15 @@
       "publishedAt": "2026-08-05T19:32:53+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Recensione DJI Osmo Pocket 4P: non pensavo potesse piacermi così tanto",
+      "link": "https://www.hdblog.it/fotografia/recensioni/n665576/recensione-dji-pocket-4p-test-video/",
+      "excerpt": "La nostra prova sul campo della nuova Osmo Pocket 4P di DJI, che porta alcune migliorie importanti rispetto al modello base.",
+      "image": "https://hd2.tudocdn.net/1360498?w=660",
+      "publishedAt": "2026-08-05T19:00:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
     },
     {
       "title": "EA pronta a una massiccia ristrutturazione (con licenziamenti) dopo l'addio alla Borsa?",
@@ -136,15 +145,6 @@
       "excerpt": "Casio rinnova Oceanus con due modelli limitati dal look rétro e tecnologia solare.",
       "image": "https://hd2.tudocdn.net/1361098?w=660",
       "publishedAt": "2026-08-05T16:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Harry Potter compie 25 anni: arriva il maxi set Lego del Ministero della Magia",
-      "link": "https://www.hdblog.it/giochi/articoli/n666473/lego-harry-potter-ministero-della-magia-dettagli-prezzo/",
-      "excerpt": "Per il 25° anniversario di Harry Potter, Lego presenta un imponente set del Ministero della Magia con Sala delle Profezie, aula del tribunale, uffici iconici e nuove minifigure",
-      "image": "https://hd2.tudocdn.net/1361236?w=660",
-      "publishedAt": "2026-08-05T16:15:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
