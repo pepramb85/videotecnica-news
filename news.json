@@ -1,9 +1,198 @@
 {
-  "generatedAt": "2026-08-05T11:51:56.446036+00:00",
+  "generatedAt": "2026-08-05T13:48:27.108138+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Giorgia Meloni manda 12 dipendenti a scuola di IA per scrivere le leggi. La maestra sarà la Treccani",
+      "link": "https://images.dday.it/ecpkPktfY2GjgVdxpAcVexBhM1LJqA3IvyBZzE8UFBE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58285/460676_ChatGPT_Image_5_ago_2026__15_36_21.png",
+      "excerpt": "Il governo ha deciso che una specifica task force dovrà tornare tra i banchi a studiare l’IA anche per la redazione di testi normativi. Costerà circa 5.000 euro... Leggi tutto",
+      "image": "https://images.dday.it/ecpkPktfY2GjgVdxpAcVexBhM1LJqA3IvyBZzE8UFBE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58285/460676_ChatGPT_Image_5_ago_2026__15_36_21.png",
+      "publishedAt": "2026-08-05T13:37:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "SpaceX, Falcon 9 si schianta sulla Luna: le immagini dell'impatto",
+      "link": "https://www.tomshw.it/scienze/spacex-lo-stadio-di-un-falcon-9-avrebbe-colpito-la-luna-a",
+      "excerpt": "Uno stadio superiore esaurito di Falcon 9 avrebbe colpito la Luna il 5 agosto intorno alle 06:35 UTC, dopo oltre un anno trascorso su un'orbita terrestre molto ellittica. Le…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105817/news-flash-666035.png",
+      "publishedAt": "2026-08-05T13:36:39+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La crisi della RAM spinge Microsoft a rimuovere i 32 GB consigliati",
+      "link": "https://www.tomshw.it/hardware/la-crisi-della-ram-spinge-microsoft-a-rimuovere-i-32-gb-consigliati",
+      "excerpt": "Microsoft ha rimosso dal proprio sito una guida che indicava 32 GB come capacità ideale per i giocatori più esigenti, reindirizzando il vecchio indirizzo alla pagina principale…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105819/la-crisi-della-ram-spinge-microsoft-a-rimuovere-i-32-gb-consigliati.png",
+      "publishedAt": "2026-08-05T13:33:40+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Tastiera barebone GLORIOUS al 55% in meno, un affare da personalizzare",
+      "link": "https://www.tomshw.it/offerte/tastiera-barebone-glorious-al-55-in-meno-un-affare-da-personalizzare",
+      "excerpt": "La GLORIOUS GMMK TKL costa 36,20€ su Amazon, contro un prezzo di listino di 79,99€ e con uno sconto del 55%. È una tastiera barebone pensata per scegliere personalmente switch,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105821/tomshw-offer-666065.png",
+      "publishedAt": "2026-08-05T13:33:31+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Ecco come Samsung risolverà la piega dei foldable",
+      "link": "https://www.tomshw.it/smartphone/samsung-display-il-vetro-ctg-potrebbe-ridurre-la-piega-dei-foldable",
+      "excerpt": "Un vetro più sottile soltanto nella fascia sottoposta alla piegatura potrebbe ridurre uno dei difetti più evidenti degli smartphone foldable. Samsung Display starebbe sviluppando…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105413/il-successo-dei-pieghevoli-samsung-spiana-la-strada-all-iphone-ultra.png",
+      "publishedAt": "2026-08-05T13:33:11+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Gasolio, sconto sull'accisa prorogato: andrà avanti fino al 25 agosto",
+      "link": "https://images.dday.it/EbLu5c4TD3uDEIFlccktLYWpESxsv3IRvqmZsGMsGCs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58286/6d9366_fuel_thumb.jpg",
+      "excerpt": "Il Governo ha confermato lo sconto per altre tre settimane. La misura vale 245 milioni di euro ed è finanziata attraverso riduzioni di spesa ai ministeri... Leggi tutto",
+      "image": "https://images.dday.it/EbLu5c4TD3uDEIFlccktLYWpESxsv3IRvqmZsGMsGCs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58286/6d9366_fuel_thumb.jpg",
+      "publishedAt": "2026-08-05T13:28:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Falcon 9 arriva a 90 voli, ma SpaceX non ha ancora finito",
+      "link": "https://www.tomshw.it/scienze/il-falcon-9-arriva-a-90-voli-ma-spacex-non-ha-ancora-finito",
+      "excerpt": "SpaceX ha lanciato un nuovo Falcon 9 con 24 satelliti destinati alla rete Starlink. Il decollo ha segnato la 90ª missione del razzo dall’inizio del 2026 e la settantesima dedicata…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105816/il-falcon-9-arriva-a-90-voli-ma-spacex-non-ha-ancora-finito.png",
+      "publishedAt": "2026-08-05T13:09:47+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Suno ha addestrato l'AI con milioni di brani da YouTube e Deezer",
+      "link": "https://www.tomshw.it/hardware/suno-ha-addestrato-lai-con-milioni-di-brani-da-youtube-e-deezer",
+      "excerpt": "Suno ha confermato una violazione informatica risalente a novembre 2025, dalla quale sono emersi sia i dati personali di oltre 55 milioni di utenti sia il codice sorgente relativo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105813/suno-ha-addestrato-l-ai-con-milioni-di-brani-da-youtube-e-deezer.png",
+      "publishedAt": "2026-08-05T13:03:10+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Algocyte porta le analisi del sangue a domicilio con l'AI",
+      "link": "https://www.tomshw.it/hardware/algocyte-porta-le-analisi-del-sangue-a-domicilio-con-lai",
+      "excerpt": "Algocyte, spinout del King's College London, ha lanciato di recente PROXIMA Mobile Health Station, un dispositivo portatile progettato per eseguire analisi del sangue anche…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105809/algocyte-porta-le-analisi-del-sangue-a-domicilio-con-l-ai.png",
+      "publishedAt": "2026-08-05T13:02:25+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Microsoft fermerà il supporto firmware di sei Surface nel 2027",
+      "link": "https://www.tomshw.it/hardware/microsoft-fermera-il-supporto-firmware-di-sei-surface-nel-2027",
+      "excerpt": "Microsoft interromperà nel 2027 il supporto firmware di sei dispositivi Surface. Dopo le rispettive scadenze, i modelli coinvolti non riceveranno più aggiornamenti di driver e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105808/microsoft-fermera-il-supporto-firmware-di-sei-surface-nel-2027.png",
+      "publishedAt": "2026-08-05T13:01:34+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Un falso software di sicurezza nasconde ScreenConnect nei PC",
+      "link": "https://www.tomshw.it/hardware/i-truffatori-installano-screenconnect-e-lo-rendono-quasi-invisibile",
+      "excerpt": "Un gruppo di truffatori sta distribuendo una versione personalizzata di ScreenConnect attraverso email che imitano le comunicazioni di Bank of America. L'operazione trasforma un…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105805/i-truffatori-installano-screenconnect-e-lo-rendono-quasi-invisibile.png",
+      "publishedAt": "2026-08-05T13:00:44+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Mercedes-AMG CLA 45, è lei la più veloce: nuovo record al Nurburgring",
+      "link": "https://www.hdmotori.it/mercedes-amg-cla-45-record-nurburgring/",
+      "excerpt": "Nel suo segmento la Mercedes-AMG CLA 45 è risultata imbattibile sull’iconico tracciato del Nürburgring-Nordschleife.",
+      "image": "https://hd2.tudocdn.net/1361146?w=660",
+      "publishedAt": "2026-08-05T13:00:19+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il mouse ASUS ROG funziona anche sul vetro ed è scontato del 50%",
+      "link": "https://www.hdblog.it/hardware/offerte/n666432/mouse-asus-rog-harpe-ace-mini-meta-prezzo/",
+      "excerpt": "A metà prezzo su Amazon il mouse ASUS ROG dalla dimensioni compatte e che funziona anche sul vetro.",
+      "image": "https://hd2.tudocdn.net/1361145?w=660",
+      "publishedAt": "2026-08-05T12:58:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "LG amplia la gamma Fit & Max con i frigoriferi da incasso da 75 cm | Prezzi",
+      "link": "https://www.hdblog.it/lg/articoli/n666445/frigoriferi-incasso-lg-75-cm-fit-and-max-prezzi/",
+      "excerpt": "LG amplia la gamma Fit & Max con quattro nuovi frigoriferi da incasso da 75 cm. Offrono 386 litri di capacità, funzioni smart basate sull'intelligenza artificiale, Wi-Fi e sistemi…",
+      "image": "https://hd2.tudocdn.net/1361131?w=660",
+      "publishedAt": "2026-08-05T12:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google Assistant sarà rimosso da Android dal 4 settembre: al suo posto arriva Gemini",
+      "link": "https://images.dday.it/cQk-Vkm58GARywWRb-t1YA10dO7dXdHV4_nBNral6Mk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58284/b72d89_Depositphotos_691534656_XL.jpg",
+      "excerpt": "Il passaggio riguarderà smartphone, tablet, smartwatch con Wear OS, cuffie e Android Auto. Per alcune auto con Google integrato, invece, Assistant continuerà a funzionare... Leggi…",
+      "image": "https://images.dday.it/cQk-Vkm58GARywWRb-t1YA10dO7dXdHV4_nBNral6Mk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58284/b72d89_Depositphotos_691534656_XL.jpg",
+      "publishedAt": "2026-08-05T12:42:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "TV Samsung, Galaxy Watch Ultra2, cuffie e tanto altro: le migliori offerte del 5 agosto",
+      "link": "https://www.hdblog.it/amazon/offerte/n666448/migliori-offerte-tech-5-agosto-2026-amazon/",
+      "excerpt": "Amazon spinge su TV Samsung, cuffie wireless, robot aspirapolvere, power bank e smart home: ecco le migliori offerte tech di oggi, 5 agosto.",
+      "image": "https://hd2.tudocdn.net/1361140?w=660",
+      "publishedAt": "2026-08-05T12:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Colpo grosso di Bending Spoons: acquisizione miliardaria per la tech italiana",
+      "link": "https://www.hdblog.it/business/articoli/n666444/bending-spoons-acquista-airtable/",
+      "excerpt": "Dopo l'ingresso in Borsa, ecco l'acquisizione di Airtable.",
+      "image": "https://hd2.tudocdn.net/1361136?w=660",
+      "publishedAt": "2026-08-05T12:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung, i nuovi pieghevoli partono fortissimo in Europa: preordini +20%",
+      "link": "https://www.hdblog.it/smartphone/articoli/n666447/samsung-pieghevoli-8-preordini-successo-europa/",
+      "excerpt": "E il protagonista è il nuovissimo modello.",
+      "image": "https://hd2.tudocdn.net/1359744?w=660",
+      "publishedAt": "2026-08-05T12:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "PC lento? Microsoft vuole affidare la diagnosi di Windows all’AI",
+      "link": "https://www.hdblog.it/portatili/articoli/n666442/pc-windows-lento-diagnosi-ai/",
+      "excerpt": "Microsoft presenta ETW MCP, uno strumento che utilizza l'intelligenza artificiale per analizzare le tracce di Event Tracing for Windows. Gli sviluppatori possono interrogare i…",
+      "image": "https://hd2.tudocdn.net/1361129?w=660",
+      "publishedAt": "2026-08-05T12:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Carburante annacquato: aumentano i guasti ai motori",
+      "link": "https://www.hdmotori.it/carburante-annacquato-guasti-motori/",
+      "excerpt": "Il mistero dei carburanti sporchi ha portato all’intervento delle Fiamme gialle nei laboratori chimici dell’Agenzia delle Dogane e dei Monopoli.",
+      "image": "https://hd2.tudocdn.net/1361134?w=660",
+      "publishedAt": "2026-08-05T12:00:02+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Microsoft 365 Copilot, feature rimossa all'improvviso pochi giorni dopo il rollout",
+      "link": "https://www.hdblog.it/microsoft/articoli/n666443/microsoft-365-copilot-feature-rimossa-improvviso/",
+      "excerpt": "Era una feature destinata agli amministratori IT che già aveva causato qualche controversia in fase di presentazione.",
+      "image": "https://hd2.tudocdn.net/1322330?w=660",
+      "publishedAt": "2026-08-05T11:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "La bolletta del condominio potrebbe avere un \"nemico\" insospettabile",
       "link": "https://www.hdblog.it/home/articoli/n666439/ascensore-consumi-efficientamento/",
@@ -14,121 +203,13 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "680,77€ in meno su LG UltraFine evo 6K, da prendere per chi crea",
-      "link": "https://www.tomshw.it/offerte/68077eur-in-meno-su-lg-ultrafine-evo-6k-da-prendere-per-chi-crea",
-      "excerpt": "LG UltraFine evo 6K 32U990A costa 1.319,22€ su Amazon, invece dei 1.999,99€ di listino: lo sconto è del 34% e il risparmio raggiunge 680,77€. Risoluzione 6K e Thunderbolt 5 lo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105776/tomshw-offer-665707.png",
-      "publishedAt": "2026-08-05T11:33:05+00:00",
+      "title": "Migliori eSIM da usare in Albania (agosto 2026)",
+      "link": "https://www.tomshw.it/smartphone/migliori-esim-da-usare-in-albania",
+      "excerpt": "L'Albania è una meta sempre più frequentata da chi parte dall'Italia per un viaggio breve, per un tour dei Balcani o per una vacanza tra Tirana, Berat, Valona, Saranda e la…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/88202/migliori-esim-albania-copertina.jpg",
+      "publishedAt": "2026-08-05T11:08:16+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Rubati più di 100 milioni di dollari in Bitcoin: sono migliaia i wallet compromessi",
-      "link": "https://www.hdblog.it/business/articoli/n666418/furto-bitcoin-100-milioni/",
-      "excerpt": "Sfruttata una vulnerabilità relativa alle credenziali di Coldcard per sottrarre Bitcoin agli utenti.",
-      "image": "https://hd2.tudocdn.net/1361084?w=660",
-      "publishedAt": "2026-08-05T11:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Droni senza GPS, le imprese italiane della difesa devono ripensare sistemi e fornitori",
-      "link": "https://www.tomshw.it/business/droni-senza-gps-le-imprese-italiane-della-difesa-devono-ripensare-sistemi-e-fornitori",
-      "excerpt": "La consegna all’Ucraina di 50.000 droni Shrike dotati di guida autonoma cambia il riferimento industriale anche per la filiera italiana: il sistema abbina una piattaforma ucraina…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105740/droni-senza-gps-le-imprese-italiane-della-difesa-devono-ripensare-sistemi-e-fornitori.png",
-      "publishedAt": "2026-08-05T11:17:59+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Vivo V80 Lite spunta su Geekbench con un nuovo chip MediaTek",
-      "link": "https://www.tomshw.it/smartphone/vivo-v80-lite-spunta-su-geekbench-con-un-nuovo-chip-mediatek",
-      "excerpt": "Vivo sta preparando il Vivo V80 Lite, apparso di recente su Geekbench e presso diversi enti di certificazione. Le registrazioni anticipano il processore, il sistema operativo e la…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105773/vivo-v80-lite-spunta-su-geekbench-con-un-nuovo-chip-mediatek.png",
-      "publishedAt": "2026-08-05T11:14:11+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il fisco smaschera falsi iPhone pieni di metallo, tre aziende nei guai",
-      "link": "https://www.tomshw.it/smartphone/il-fisco-smaschera-falsi-iphone-pieni-di-metallo-tre-aziende-nei-guai",
-      "excerpt": "Tre società con sede a Kobe sono finite nel mirino del fisco giapponese per un presunto sistema di rimborsi illegali basato sull’esportazione di migliaia di falsi iPhone 15 Pro…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105768/il-fisco-smaschera-falsi-iphone-pieni-di-metallo-tre-aziende-nei-guai.png",
-      "publishedAt": "2026-08-05T11:13:16+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Un umile NAS diventa un PC gaming con una RTX 5060",
-      "link": "https://www.tomshw.it/hardware/un-umile-nas-diventa-un-pc-gaming-con-una-rtx-5060",
-      "excerpt": "Il modder TrashBench ha trasformato uno ZimaCube 2, sistema nato per archiviazione e servizi di rete, in un PC gaming collegandogli una NVIDIA GeForce RTX 5060. Il risultato è una…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105771/un-umile-nas-diventa-un-pc-gaming-con-una-rtx-5060.png",
-      "publishedAt": "2026-08-05T11:12:36+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Spotify cresce ancora: 300 milioni di clienti Premium e ricavi in aumento",
-      "link": "https://www.hdblog.it/mercato/articoli/n666435/spotify-premium-utenti-paganti-crescita/",
-      "excerpt": "Spotify chiude un trimestre da record con oltre 300 milioni di clienti Premium, ricavi in aumento del 14% e margine lordo ai massimi storici. La piattaforma rafforza così la…",
-      "image": "https://hd2.tudocdn.net/1307102?w=660",
-      "publishedAt": "2026-08-05T11:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "La NASA pubblica una foto misteriosa della Terra: riconoscete il luogo?",
-      "link": "https://www.tomshw.it/scienze/un-satellite-ha-fotografato-un-luogo-insolito-la-nasa-ti-sfida",
-      "excerpt": "La NASA ha pubblicato una nuova fotografia della Terra senza rivelare quale luogo rappresenti. È l’edizione di agosto del gioco mensile curato da Earth Observatory, che invita il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105767/un-satellite-ha-fotografato-un-luogo-insolito-la-nasa-ti-sfida.png",
-      "publishedAt": "2026-08-05T11:09:23+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Una RTX 4060 porta il gaming sullo Snapdragon X2 Elite Extreme",
-      "link": "https://www.tomshw.it/hardware/una-rtx-4060-fa-girare-i-giochi-su-un-laptop-snapdragon",
-      "excerpt": "Un ASUS Zenbook A16 con processore Snapdragon X2 Elite Extreme è riuscito a eseguire diversi giochi per PC sfruttando una GPU desktop esterna. La prova supera uno dei principali…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105765/una-rtx-4060-fa-girare-i-giochi-su-un-laptop-snapdragon.png",
-      "publishedAt": "2026-08-05T11:05:23+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "ASUS ProArt continua a espandersi: arriva anche un box SSD di fascia alta",
-      "link": "https://www.hdblog.it/hardware/articoli/n666438/asus-proart-box-ssd-esterno-usb-4-prezzo/",
-      "excerpt": "70 euro, fino a 40 Gbps di trasferimenti, disponibilità effettiva ancora ignota.",
-      "image": "https://hd2.tudocdn.net/1361123?w=660",
-      "publishedAt": "2026-08-05T11:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Un magnete può sbloccare stati nascosti in un fluido quantistico",
-      "link": "https://www.tomshw.it/scienze/un-magnete-puo-sbloccare-stati-nascosti-in-un-fluido-quantistico",
-      "excerpt": "Un gruppo guidato dal Berkeley Lab ha osservato un fluido di particelle quantistiche controllabile dentro un dispositivo semiconduttore spesso pochi atomi. Gli eccitoni presenti…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105762/un-magnete-puo-sbloccare-stati-nascosti-in-un-fluido-quantistico.png",
-      "publishedAt": "2026-08-05T11:03:38+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Bollo auto: in Sicilia arriva la rottamazione senza sanzioni né interessi",
-      "link": "https://www.hdmotori.it/bollo-auto-sicilia-rottamazione/",
-      "excerpt": "La regione ha approvato la misura per regolarizzare i debiti entro il 31 ottobre: ecco come funziona la rottamazione dei tributi regionali arretrati.",
-      "image": "https://hd2.tudocdn.net/1340959?w=660",
-      "publishedAt": "2026-08-05T11:00:15+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Honor lancia in Italia un raffrescatore / stufetta elettrica utilizzabile tutto l'anno",
-      "link": "https://www.hdblog.it/honor/articoli/n666434/honor-choice-tower-fan-raffrescatore-3-in-1/",
-      "excerpt": "La promo di lancio è peraltro notevole.",
-      "image": "https://hd2.tudocdn.net/1361109?w=660",
-      "publishedAt": "2026-08-05T10:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Questo è il Lenovo Googlebook 15 ed è davvero bellissimo",
@@ -140,15 +221,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "La Cina accelera sul nucleare: 8 nuovi reattori e 25 miliardi di investimenti",
-      "link": "https://www.hdblog.it/green/articoli/n666402/cina-nuove-centrali-nucleari-2026/",
-      "excerpt": "Pechino approva quattro nuove centrali per rafforzare energia, industria e decarbonizzazione.",
-      "image": "https://hd2.tudocdn.net/1361055?w=660",
-      "publishedAt": "2026-08-05T10:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Il modello Shieldstral di Mistral non scrive una parola, ma decide che cosa le altre IA possono dire",
       "link": "https://images.dday.it/lMD4p7DQwg4-M0bH4JYD4eUi5Y95xHXoHiBTa74gRgA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58282/6f8f51_ChatGPT_Image_5_ago_2026__12_37_18.png",
       "excerpt": "Shieldstral analizza richieste, risposte e immagini, assegna un punteggio di sicurezza e verifica anche se un assistente ha davvero rifiutato un comando pericoloso. E lo fa con 3…",
@@ -156,42 +228,6 @@
       "publishedAt": "2026-08-05T10:38:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Xbox compie 25 anni e festeggia con sfondi, badge e personalizzazioni gratuite",
-      "link": "https://www.hdblog.it/microsoft/articoli/n666427/xbox-25-anni-sfondi-badge-gratis-personalizzazioni/",
-      "excerpt": "Microsoft inizia i festeggiamenti con qualche mese di anticipo.",
-      "image": "https://hd2.tudocdn.net/1361097?w=660",
-      "publishedAt": "2026-08-05T10:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Non solo auto: CarPlay e Android Auto a bordo delle barche Crest e Balise",
-      "link": "https://www.hdblog.it/android/articoli/n666431/carplay-android-auto-barche-crest-balise/",
-      "excerpt": "Savvy Navvy porta Apple CarPlay e Android Auto nel mondo della nautica. Collegando lo smartphone, il timoniere può visualizzare mappe, maree, previsioni meteo e percorsi senza…",
-      "image": "https://hd2.tudocdn.net/1361105?w=660",
-      "publishedAt": "2026-08-05T10:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Chi sta davvero visitando il tuo sito",
-      "link": "https://www.tomshw.it/business/chi-sta-davvero-visitando-il-tuo-sito",
-      "excerpt": "Partiamo dalla cosa semplice, per chi non si è mai occupato di come si guadagna pubblicando su internet. Se hai un sito e qualcuno lo visita, quella visita ha un valore. Sempre.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105680/jose-compagnone-cover-gotica-v2.jpg",
-      "publishedAt": "2026-08-05T10:16:21+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il Danubio si ritira e riporta alla luce oltre 200 navi naziste affondate",
-      "link": "https://www.hdblog.it/curiosita/articoli/n666392/danubio-relitti-navi-naziste-siccita/",
-      "excerpt": "La siccità estrema riporta alla luce oltre 200 relitti tedeschi nel Danubio.",
-      "image": "https://hd2.tudocdn.net/1361048?w=660",
-      "publishedAt": "2026-08-05T10:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "CXMT non fa sconti, nemmeno ad Apple. Anzi, per le RAM chiede più soldi",
@@ -235,42 +271,6 @@
       "excerpt": "L’istituto britannico AISI voleva valutare alcuni modelli IA nelle condizioni di un hacker competente. Ma senza filtri di rete, classificatori e supervisione in tempo reale,…",
       "image": "https://images.dday.it/F2qYkCnDpQBqOph9X5yrNQNMlvfjHseaaFNcMykNcXo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58277/f3de85_ChatGPT_Image_5_ago_2026__10_44_12_copia.png",
       "publishedAt": "2026-08-05T08:47:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "4K su Disney+, gli abbonati Premium possono avere un rimborso parziale",
-      "link": "https://images.dday.it/vgbixjdr5mALhVnXcf_g7OSD-3cvafqlCi1uTIolpMc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58276/1496f2_Depositphotos_428752670_XL.jpg",
-      "excerpt": "La piattaforma consente di annullare l’abbonamento senza penali entro 30 giorni e ottenere il rimborso del periodo non utilizzato. Chi resta può chiedere un rimborso parziale...…",
-      "image": "https://images.dday.it/vgbixjdr5mALhVnXcf_g7OSD-3cvafqlCi1uTIolpMc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58276/1496f2_Depositphotos_428752670_XL.jpg",
-      "publishedAt": "2026-08-05T07:58:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Telegram rimossa dall'App Store e poi ripristinata in poche ore. Cos'è successo e la risposta di Pavel Durov",
-      "link": "https://images.dday.it/vY8KZhyhcqoVZZPb-kf_6O8LTNTUpl_h6P64gCjGGRk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58275/fbb112_Depositphotos_393405786_XL.jpg",
-      "excerpt": "Apple aveva sospeso temporaneamente l’app per la presenza di materiale pedopornografico in una chat pubblica. Secondo Telegram, il contenuto sarebbe stato inserito appositamente…",
-      "image": "https://images.dday.it/vY8KZhyhcqoVZZPb-kf_6O8LTNTUpl_h6P64gCjGGRk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58275/fbb112_Depositphotos_393405786_XL.jpg",
-      "publishedAt": "2026-08-05T07:15:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migliori router wi-fi (agosto 2026)",
-      "link": "https://www.tomshw.it/guide/migliori-router-wi-fi",
-      "excerpt": "Il router Wi-Fi è uno dei componenti più importanti della rete domestica, anche quando sembra un semplice accessorio da collegare al modem. Da lui dipendono la copertura nelle…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/89202/migliori-router-wifi-copertina.jpg",
-      "publishedAt": "2026-08-05T06:31:47+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Spotify raggiunge 300 milioni di abbonati Premium. Quasi 800 milioni di persone la usano",
-      "link": "https://images.dday.it/OYw86CtHN6K_BnSYDCCZ5zCJZ7sNb_89J-hXHfjq3rc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58274/b745e3_Depositphotos_666777984_XL.jpg",
-      "excerpt": "Nel secondo trimestre del 2026 il servizio ha aggiunto 7 milioni di clienti paganti. I ricavi sono saliti a 4,78 miliardi di euro... Leggi tutto",
-      "image": "https://images.dday.it/OYw86CtHN6K_BnSYDCCZ5zCJZ7sNb_89J-hXHfjq3rc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58274/b745e3_Depositphotos_666777984_XL.jpg",
-      "publishedAt": "2026-08-04T15:11:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
