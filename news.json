@@ -1,44 +1,242 @@
 {
-  "generatedAt": "2026-08-05T08:23:03.466405+00:00",
+  "generatedAt": "2026-08-05T11:51:56.446036+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Ted Lasso stagione 4 disponibile in streaming su Apple TV+",
-      "link": "https://www.hdblog.it/apple/articoli/n666397/ted-lasso-stagione-4-apple-tv/",
-      "excerpt": "Ted Lasso torna con la stagione 4 e una nuova sfida nel calcio femminile.",
-      "image": "https://hd2.tudocdn.net/1361041?w=660",
-      "publishedAt": "2026-08-05T08:20:00+00:00",
+      "title": "La bolletta del condominio potrebbe avere un \"nemico\" insospettabile",
+      "link": "https://www.hdblog.it/home/articoli/n666439/ascensore-consumi-efficientamento/",
+      "excerpt": "Motori più efficienti, recupero dell'energia e riduzione dei consumi in stand-by possono abbassare sensibilmente i costi dell'ascensore. Ecco quali interventi permettono di…",
+      "image": "https://hd2.tudocdn.net/1361124?w=660",
+      "publishedAt": "2026-08-05T11:40:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Samsung prepara Galaxy S26 FE: le custodie magnetiche ne svelano il look",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666399/galaxy-s26-fe-design-immagini-cover/",
-      "excerpt": "Le custodie ufficiali del Galaxy S26 FE confermano diversi dettagli del prossimo smartphone Samsung. Restano invece dubbi sul prezzo, che potrebbe aumentare rispetto al modello…",
-      "image": "https://hd2.tudocdn.net/1361022?w=660",
-      "publishedAt": "2026-08-05T08:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Roborock Q7 L5+ da 299,99€ a 189,99€, un affare per le case con animali",
-      "link": "https://www.tomshw.it/offerte/roborock-q7-l5-da-29999eur-a-18999eur-un-affare-per-le-case-con-animali",
-      "excerpt": "Roborock Q7 L5+ costa 189,99€ su Amazon, anziché 299,99€, con uno sconto del 37%. La base autosvuotante e l’aspirazione da 8.000 Pa riducono sia la polvere in casa sia il tempo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105695/tomshw-offer-664872.png",
-      "publishedAt": "2026-08-05T08:04:22+00:00",
+      "title": "680,77€ in meno su LG UltraFine evo 6K, da prendere per chi crea",
+      "link": "https://www.tomshw.it/offerte/68077eur-in-meno-su-lg-ultrafine-evo-6k-da-prendere-per-chi-crea",
+      "excerpt": "LG UltraFine evo 6K 32U990A costa 1.319,22€ su Amazon, invece dei 1.999,99€ di listino: lo sconto è del 34% e il risparmio raggiunge 680,77€. Risoluzione 6K e Thunderbolt 5 lo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105776/tomshw-offer-665707.png",
+      "publishedAt": "2026-08-05T11:33:05+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Autovelox, il poliziotto-cespuglio non perdona: pioggia di multe",
-      "link": "https://www.hdmotori.it/autovelox-poliziotto-cespuglio-multe/",
-      "excerpt": "La trovata è stata escogitata dal dipartimento di Polizia di Dunellen negli Usa. Un poliziotto ha ideato un posto di blocco alternativo.",
-      "image": "https://hd2.tudocdn.net/1361044?w=660",
-      "publishedAt": "2026-08-05T08:00:09+00:00",
+      "title": "Rubati più di 100 milioni di dollari in Bitcoin: sono migliaia i wallet compromessi",
+      "link": "https://www.hdblog.it/business/articoli/n666418/furto-bitcoin-100-milioni/",
+      "excerpt": "Sfruttata una vulnerabilità relativa alle credenziali di Coldcard per sottrarre Bitcoin agli utenti.",
+      "image": "https://hd2.tudocdn.net/1361084?w=660",
+      "publishedAt": "2026-08-05T11:20:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Droni senza GPS, le imprese italiane della difesa devono ripensare sistemi e fornitori",
+      "link": "https://www.tomshw.it/business/droni-senza-gps-le-imprese-italiane-della-difesa-devono-ripensare-sistemi-e-fornitori",
+      "excerpt": "La consegna all’Ucraina di 50.000 droni Shrike dotati di guida autonoma cambia il riferimento industriale anche per la filiera italiana: il sistema abbina una piattaforma ucraina…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105740/droni-senza-gps-le-imprese-italiane-della-difesa-devono-ripensare-sistemi-e-fornitori.png",
+      "publishedAt": "2026-08-05T11:17:59+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Vivo V80 Lite spunta su Geekbench con un nuovo chip MediaTek",
+      "link": "https://www.tomshw.it/smartphone/vivo-v80-lite-spunta-su-geekbench-con-un-nuovo-chip-mediatek",
+      "excerpt": "Vivo sta preparando il Vivo V80 Lite, apparso di recente su Geekbench e presso diversi enti di certificazione. Le registrazioni anticipano il processore, il sistema operativo e la…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105773/vivo-v80-lite-spunta-su-geekbench-con-un-nuovo-chip-mediatek.png",
+      "publishedAt": "2026-08-05T11:14:11+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il fisco smaschera falsi iPhone pieni di metallo, tre aziende nei guai",
+      "link": "https://www.tomshw.it/smartphone/il-fisco-smaschera-falsi-iphone-pieni-di-metallo-tre-aziende-nei-guai",
+      "excerpt": "Tre società con sede a Kobe sono finite nel mirino del fisco giapponese per un presunto sistema di rimborsi illegali basato sull’esportazione di migliaia di falsi iPhone 15 Pro…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105768/il-fisco-smaschera-falsi-iphone-pieni-di-metallo-tre-aziende-nei-guai.png",
+      "publishedAt": "2026-08-05T11:13:16+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Un umile NAS diventa un PC gaming con una RTX 5060",
+      "link": "https://www.tomshw.it/hardware/un-umile-nas-diventa-un-pc-gaming-con-una-rtx-5060",
+      "excerpt": "Il modder TrashBench ha trasformato uno ZimaCube 2, sistema nato per archiviazione e servizi di rete, in un PC gaming collegandogli una NVIDIA GeForce RTX 5060. Il risultato è una…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105771/un-umile-nas-diventa-un-pc-gaming-con-una-rtx-5060.png",
+      "publishedAt": "2026-08-05T11:12:36+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Spotify cresce ancora: 300 milioni di clienti Premium e ricavi in aumento",
+      "link": "https://www.hdblog.it/mercato/articoli/n666435/spotify-premium-utenti-paganti-crescita/",
+      "excerpt": "Spotify chiude un trimestre da record con oltre 300 milioni di clienti Premium, ricavi in aumento del 14% e margine lordo ai massimi storici. La piattaforma rafforza così la…",
+      "image": "https://hd2.tudocdn.net/1307102?w=660",
+      "publishedAt": "2026-08-05T11:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La NASA pubblica una foto misteriosa della Terra: riconoscete il luogo?",
+      "link": "https://www.tomshw.it/scienze/un-satellite-ha-fotografato-un-luogo-insolito-la-nasa-ti-sfida",
+      "excerpt": "La NASA ha pubblicato una nuova fotografia della Terra senza rivelare quale luogo rappresenti. È l’edizione di agosto del gioco mensile curato da Earth Observatory, che invita il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105767/un-satellite-ha-fotografato-un-luogo-insolito-la-nasa-ti-sfida.png",
+      "publishedAt": "2026-08-05T11:09:23+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Una RTX 4060 porta il gaming sullo Snapdragon X2 Elite Extreme",
+      "link": "https://www.tomshw.it/hardware/una-rtx-4060-fa-girare-i-giochi-su-un-laptop-snapdragon",
+      "excerpt": "Un ASUS Zenbook A16 con processore Snapdragon X2 Elite Extreme è riuscito a eseguire diversi giochi per PC sfruttando una GPU desktop esterna. La prova supera uno dei principali…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105765/una-rtx-4060-fa-girare-i-giochi-su-un-laptop-snapdragon.png",
+      "publishedAt": "2026-08-05T11:05:23+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "ASUS ProArt continua a espandersi: arriva anche un box SSD di fascia alta",
+      "link": "https://www.hdblog.it/hardware/articoli/n666438/asus-proart-box-ssd-esterno-usb-4-prezzo/",
+      "excerpt": "70 euro, fino a 40 Gbps di trasferimenti, disponibilità effettiva ancora ignota.",
+      "image": "https://hd2.tudocdn.net/1361123?w=660",
+      "publishedAt": "2026-08-05T11:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Un magnete può sbloccare stati nascosti in un fluido quantistico",
+      "link": "https://www.tomshw.it/scienze/un-magnete-puo-sbloccare-stati-nascosti-in-un-fluido-quantistico",
+      "excerpt": "Un gruppo guidato dal Berkeley Lab ha osservato un fluido di particelle quantistiche controllabile dentro un dispositivo semiconduttore spesso pochi atomi. Gli eccitoni presenti…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105762/un-magnete-puo-sbloccare-stati-nascosti-in-un-fluido-quantistico.png",
+      "publishedAt": "2026-08-05T11:03:38+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Bollo auto: in Sicilia arriva la rottamazione senza sanzioni né interessi",
+      "link": "https://www.hdmotori.it/bollo-auto-sicilia-rottamazione/",
+      "excerpt": "La regione ha approvato la misura per regolarizzare i debiti entro il 31 ottobre: ecco come funziona la rottamazione dei tributi regionali arretrati.",
+      "image": "https://hd2.tudocdn.net/1340959?w=660",
+      "publishedAt": "2026-08-05T11:00:15+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Honor lancia in Italia un raffrescatore / stufetta elettrica utilizzabile tutto l'anno",
+      "link": "https://www.hdblog.it/honor/articoli/n666434/honor-choice-tower-fan-raffrescatore-3-in-1/",
+      "excerpt": "La promo di lancio è peraltro notevole.",
+      "image": "https://hd2.tudocdn.net/1361109?w=660",
+      "publishedAt": "2026-08-05T10:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Questo è il Lenovo Googlebook 15 ed è davvero bellissimo",
+      "link": "https://images.dday.it/-5c721W3GmqJrnXlyeXGBwBKziy_G6IsAkPXj5ilyjE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58283/a07ec3_Gemini_Generated_Image_btnjbdbtnjbdbtnj.jpeg",
+      "excerpt": "Sono apparse online le foto del nuovo Lenovo Googlebook 15, uno dei primissimi laptop della nuova categoria di portatili targata Google. Non sono Chromebook: sono laptop di fascia…",
+      "image": "https://images.dday.it/-5c721W3GmqJrnXlyeXGBwBKziy_G6IsAkPXj5ilyjE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58283/a07ec3_Gemini_Generated_Image_btnjbdbtnjbdbtnj.jpeg",
+      "publishedAt": "2026-08-05T10:48:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "La Cina accelera sul nucleare: 8 nuovi reattori e 25 miliardi di investimenti",
+      "link": "https://www.hdblog.it/green/articoli/n666402/cina-nuove-centrali-nucleari-2026/",
+      "excerpt": "Pechino approva quattro nuove centrali per rafforzare energia, industria e decarbonizzazione.",
+      "image": "https://hd2.tudocdn.net/1361055?w=660",
+      "publishedAt": "2026-08-05T10:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il modello Shieldstral di Mistral non scrive una parola, ma decide che cosa le altre IA possono dire",
+      "link": "https://images.dday.it/lMD4p7DQwg4-M0bH4JYD4eUi5Y95xHXoHiBTa74gRgA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58282/6f8f51_ChatGPT_Image_5_ago_2026__12_37_18.png",
+      "excerpt": "Shieldstral analizza richieste, risposte e immagini, assegna un punteggio di sicurezza e verifica anche se un assistente ha davvero rifiutato un comando pericoloso. E lo fa con 3…",
+      "image": "https://images.dday.it/lMD4p7DQwg4-M0bH4JYD4eUi5Y95xHXoHiBTa74gRgA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58282/6f8f51_ChatGPT_Image_5_ago_2026__12_37_18.png",
+      "publishedAt": "2026-08-05T10:38:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Xbox compie 25 anni e festeggia con sfondi, badge e personalizzazioni gratuite",
+      "link": "https://www.hdblog.it/microsoft/articoli/n666427/xbox-25-anni-sfondi-badge-gratis-personalizzazioni/",
+      "excerpt": "Microsoft inizia i festeggiamenti con qualche mese di anticipo.",
+      "image": "https://hd2.tudocdn.net/1361097?w=660",
+      "publishedAt": "2026-08-05T10:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Non solo auto: CarPlay e Android Auto a bordo delle barche Crest e Balise",
+      "link": "https://www.hdblog.it/android/articoli/n666431/carplay-android-auto-barche-crest-balise/",
+      "excerpt": "Savvy Navvy porta Apple CarPlay e Android Auto nel mondo della nautica. Collegando lo smartphone, il timoniere può visualizzare mappe, maree, previsioni meteo e percorsi senza…",
+      "image": "https://hd2.tudocdn.net/1361105?w=660",
+      "publishedAt": "2026-08-05T10:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Chi sta davvero visitando il tuo sito",
+      "link": "https://www.tomshw.it/business/chi-sta-davvero-visitando-il-tuo-sito",
+      "excerpt": "Partiamo dalla cosa semplice, per chi non si è mai occupato di come si guadagna pubblicando su internet. Se hai un sito e qualcuno lo visita, quella visita ha un valore. Sempre.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105680/jose-compagnone-cover-gotica-v2.jpg",
+      "publishedAt": "2026-08-05T10:16:21+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il Danubio si ritira e riporta alla luce oltre 200 navi naziste affondate",
+      "link": "https://www.hdblog.it/curiosita/articoli/n666392/danubio-relitti-navi-naziste-siccita/",
+      "excerpt": "La siccità estrema riporta alla luce oltre 200 relitti tedeschi nel Danubio.",
+      "image": "https://hd2.tudocdn.net/1361048?w=660",
+      "publishedAt": "2026-08-05T10:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "CXMT non fa sconti, nemmeno ad Apple. Anzi, per le RAM chiede più soldi",
+      "link": "https://images.dday.it/IPAZP6GGEkjBagB0FHY5O2kwYpDXMPagm7kRER6PVYU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58281/f7e4b3_cmxt.jpg",
+      "excerpt": "La più grande azienda di memorie cinesi chiude le porte ad Apple per avvantaggiare il mercato interno: tutta la produzione è già prenotata a prezzi altissimi. È finita l’era della…",
+      "image": "https://images.dday.it/IPAZP6GGEkjBagB0FHY5O2kwYpDXMPagm7kRER6PVYU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58281/f7e4b3_cmxt.jpg",
+      "publishedAt": "2026-08-05T10:07:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Honor ha un raffrescatore con panetti refrigerati. Si chiama CHOICE Tower Fan e ha un coupon attivo di 100 euro",
+      "link": "https://images.dday.it/yXQZkIcduyk24aJIUfm3uh3ffezo0Gw0dQtloXYfZ_c/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58280/7973d0_Screenshot_2026-08-05_alle_11.36.42.png",
+      "excerpt": "Può anche riscaldare l’ambiente, ma in questa stagione e con queste temperature è meglio concentrarsi sulla funzione di raffrescamento... Leggi tutto",
+      "image": "https://images.dday.it/yXQZkIcduyk24aJIUfm3uh3ffezo0Gw0dQtloXYfZ_c/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58280/7973d0_Screenshot_2026-08-05_alle_11.36.42.png",
+      "publishedAt": "2026-08-05T09:39:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Cyberpunk 2077 Ultimate Edition per PS5: crolla il prezzo su Amazon. Include anche l'espansione",
+      "link": "https://images.dday.it/3zwBlu110Jpqh-gKx6DcoLGoJ052nR75PAyqAWlY3NY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58279/d88af6_Cyberpunk-2077-Ultimate-Edition.jpg",
+      "excerpt": "Super-sconto per l'edizione definitiva di Cyberpunk 2077, con il codice per scaricare l'espansione Phantom Liberty... Leggi tutto",
+      "image": "https://images.dday.it/3zwBlu110Jpqh-gKx6DcoLGoJ052nR75PAyqAWlY3NY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58279/d88af6_Cyberpunk-2077-Ultimate-Edition.jpg",
+      "publishedAt": "2026-08-05T09:17:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Con Asus che vuole noleggiare le schede madri il possesso diventa un lusso. Benvenuti nell'era dell'hardware in affitto",
+      "link": "https://images.dday.it/2b4_NOEFw1oUhtvjrqK3QVAoAKt8RJLOdG6TJhuC-KA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58278/39d088_fgotocp.jpg",
+      "excerpt": "Apple la scorsa settimana ha iniziato ad affittare i suoi prodotti agli utenti che non possono più permettersi la spesa una tantum. Asus, ora, pensa di affittare addirittura le…",
+      "image": "https://images.dday.it/2b4_NOEFw1oUhtvjrqK3QVAoAKt8RJLOdG6TJhuC-KA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58278/39d088_fgotocp.jpg",
+      "publishedAt": "2026-08-05T09:10:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Il test di sicurezza senza sicurezza: un agente Mythos 5 libero su internet ha attaccato un progetto vero durante un test AISI",
+      "link": "https://images.dday.it/F2qYkCnDpQBqOph9X5yrNQNMlvfjHseaaFNcMykNcXo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58277/f3de85_ChatGPT_Image_5_ago_2026__10_44_12_copia.png",
+      "excerpt": "L’istituto britannico AISI voleva valutare alcuni modelli IA nelle condizioni di un hacker competente. Ma senza filtri di rete, classificatori e supervisione in tempo reale,…",
+      "image": "https://images.dday.it/F2qYkCnDpQBqOph9X5yrNQNMlvfjHseaaFNcMykNcXo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58277/f3de85_ChatGPT_Image_5_ago_2026__10_44_12_copia.png",
+      "publishedAt": "2026-08-05T08:47:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "4K su Disney+, gli abbonati Premium possono avere un rimborso parziale",
@@ -50,96 +248,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Google Assistant addio: ecco da quando non sarà più disponibile su Android",
-      "link": "https://www.hdblog.it/google/articoli/n666398/google-assistant-addio-smartphone-android-quando/",
-      "excerpt": "Dopo dieci anni di onorata carriera, anche il vecchio assistente virtuale si avvia verso il famigerato \"Google Graveyard\".",
-      "image": "https://hd2.tudocdn.net/863485?w=660",
-      "publishedAt": "2026-08-05T07:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Humble Choice di agosto è clamoroso: 8 giochi, un valore di 180$ e costa solo 14,99$",
-      "link": "https://www.tomshw.it/videogioco/humble-choice-di-agosto-e-clamoroso-8-giochi-un-valore-di-180-e-costa-solo-1499",
-      "excerpt": "L'estate continua a regalare ottime occasioni anche agli appassionati di videogiochi su PC e la nuova lineup di Humble Choice ne è la dimostrazione. La selezione di agosto mette…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105665/Humble-Choice-di-agosto-è-clamoroso-8-giochi,-un-valore-di-180$-e-costa-solo-14,99$.png",
-      "publishedAt": "2026-08-05T07:52:48+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Anthropic punta sulla Norvegia con un maxi data center da 10 miliardi",
-      "link": "https://www.hdblog.it/mercato/articoli/n666390/anthropic-volta-cloud-ai/",
-      "excerpt": "Anthropic investe nel cloud AI con Volta: data center Nvidia in Norvegia.",
-      "image": "https://hd2.tudocdn.net/1361013?w=660",
-      "publishedAt": "2026-08-05T07:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Apple prepara l'evento di settembre: iPhone 18 e Fold sempre più vicini",
-      "link": "https://www.hdblog.it/apple/articoli/n666394/iphone-18-pro-max-fold-settembre-evento-lancio/",
-      "excerpt": "Apple ha avviato i preparativi per il keynote di settembre, con il programma interno dedicato ai dipendenti degli Apple Store. Attesi iPhone 18, Apple Watch e il primo iPhone…",
-      "image": "https://hd2.tudocdn.net/1361017?w=660",
-      "publishedAt": "2026-08-05T07:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "SpaceX guadagna più dall'AI che dalle attività spaziali",
-      "link": "https://www.tomshw.it/scienze/spacex-guadagna-piu-dallai-che-dalle-attivita-spaziali",
-      "excerpt": "SpaceX sta ricavando dall'intelligenza artificiale molto più che dalle proprie attività spaziali. Gli ultimi risultati trimestrali indicano entrate AI per 2,6 miliardi di dollari,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105639/spacex-guadagna-piu-dall-ai-che-dalle-attivita-spaziali.png",
-      "publishedAt": "2026-08-05T07:39:29+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Questi nuovi chip promettono SSD ancora più capienti e veloci",
-      "link": "https://www.tomshw.it/hardware/ssd-piu-capienti-e-veloci-kioxia-e-sandisk-svelano-le-nand",
-      "excerpt": "Kioxia e Sandisk hanno presentato una nuova memoria NAND 3D QLC che combina una densità record con un'interfaccia sensibilmente più veloce. Il dispositivo è stato sviluppato per…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105605/ssd-piu-capienti-e-veloci-kioxia-e-sandisk-svelano-le-nand.png",
-      "publishedAt": "2026-08-05T07:38:33+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Sony crea un team globale per vendere pubblicità su PlayStation",
-      "link": "https://www.tomshw.it/videogioco/sony-crea-un-team-globale-per-vendere-pubblicita-su-playstation",
-      "excerpt": "Sony Interactive Entertainment sta costruendo una organizzazione pubblicitaria globale per monetizzare in maniera più estesa il pubblico e l’inventario di PlayStation. Una serie…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105627/sony-crea-un-team-globale-per-vendere-pubblicita-su-playstation.png",
-      "publishedAt": "2026-08-05T07:35:40+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Non c'è pace per le GPU: prezzi su anche del 40% per alcuni modelli",
-      "link": "https://www.tomshw.it/hardware/le-gpu-gigabyte-vanno-incontro-a-nuovi-rincari-fino-al-40",
-      "excerpt": "Le schede grafiche Gigabyte distribuite in Giappone sono interessate da una nuova revisione dei prezzi. Il distributore locale CFD ha comunicato che gli ordini inoltrati…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105623/le-gpu-gigabyte-vanno-incontro-a-nuovi-rincari-fino-al-40.png",
-      "publishedAt": "2026-08-05T07:34:09+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Anker PowerExpand 8-in-1 a 33,29€, una USB-C diventa una postazione",
-      "link": "https://www.tomshw.it/offerte/anker-powerexpand-8-in-1-a-3329eur-una-usb-c-diventa-una-postazione",
-      "excerpt": "Anker PowerExpand 8-in-1 costa 33,29€ su Amazon, invece di 49,99€, con uno sconto del 33%. Basta collegarlo alla USB-C del portatile per riunire monitor, rete cablata, periferiche…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105642/tomshw-offer-664744.png",
-      "publishedAt": "2026-08-05T07:33:13+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Bolletta del gas, stangata a luglio: prezzi alle stelle per i clienti vulnerabili",
-      "link": "https://www.hdblog.it/green/articoli/n666387/gas-prezzo-clienti-vulnerabili-aumento-luglio-2026/",
-      "excerpt": "Dopo un paio di mesi sostanzialmente stabili, luglio segna un netto rincaro.",
-      "image": "https://hd2.tudocdn.net/1361007?w=660",
-      "publishedAt": "2026-08-05T07:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Telegram rimossa dall'App Store e poi ripristinata in poche ore. Cos'è successo e la risposta di Pavel Durov",
       "link": "https://images.dday.it/vY8KZhyhcqoVZZPb-kf_6O8LTNTUpl_h6P64gCjGGRk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58275/fbb112_Depositphotos_393405786_XL.jpg",
       "excerpt": "Apple aveva sospeso temporaneamente l’app per la presenza di materiale pedopornografico in una chat pubblica. Secondo Telegram, il contenuto sarebbe stato inserito appositamente…",
@@ -149,56 +257,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Hualong One collegato alla rete: il nucleare cinese punta alla neutralità climatica",
-      "link": "https://www.hdblog.it/green/articoli/n666382/cina-reattore-hualong-one-hainan/",
-      "excerpt": "La Cina collega alla rete il primo Hualong One di Hainan, passo chiave verso il 2060.",
-      "image": "https://hd2.tudocdn.net/1360998?w=660",
-      "publishedAt": "2026-08-05T07:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Smartphone incandescente durante l'estate? Mai metterlo in frigo: ecco perché",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666371/estate-smartphone-alte-temperature-rimedi-frigo/",
-      "excerpt": "Mai mettere lo smartphone surriscaldato in frigorifero: condensa e shock termico danneggiano i componenti.",
-      "image": "https://hd2.tudocdn.net/1360986?w=660",
-      "publishedAt": "2026-08-05T06:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il caricatore originale Apple da 20W è in sconto del 22% su eBay",
-      "link": "https://www.hdblog.it/ebay/offerte/n666385/il-caricatore-originale-apple-da-20w-e-in-sconto-del-22-su-ebay/",
-      "excerpt": "Un accessorio indispensabile per chi ha appena acquistato un nuovo iPhone e deve partire in vacanza.",
-      "image": "https://hd2.tudocdn.net/1360994?w=660",
-      "publishedAt": "2026-08-05T06:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Migliori schede madri (agosto 2026)",
-      "link": "https://www.tomshw.it/guide/migliori-schede-madri",
-      "excerpt": "Se state pensando di assemblare un nuovo computer o di aggiornare quello attuale, la scelta della scheda madre giusta è uno dei passaggi che incide di più sulla riuscita della…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/90002/migliori-schede-madri-copertina.jpg",
-      "publishedAt": "2026-08-05T06:12:53+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "JBL Charge 6: più autonomia all’aperto con un prezzo più leggero",
-      "link": "https://www.tomshw.it/hardware/jbl-charge-6-autonomia-aperto-prezzo-piu-leggero-2026-08-05",
-      "excerpt": "JBL Charge 6 è uno speaker Bluetooth portatile con powerbank integrato ora disponibile a 155,49€, con uno sconto del 22% rispetto al prezzo di riferimento di 199,99€. Il ribasso…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105558/jbl-charge-6-autonomia-aperto-prezzo-piu-leggero-2026-08-05-dZb54ht7tu39j830W2Njqd.png",
-      "publishedAt": "2026-08-05T05:09:33+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "UGREEN Nexode 300W: un solo caricatore per la scrivania, ora costa meno",
-      "link": "https://www.tomshw.it/hardware/ugreen-nexode-300w-caricatore-scrivania-costa-meno-2026-08-05",
-      "excerpt": "UGREEN Nexode 300W è un prodotto tecnologico ora disponibile a 132,97€, con uno sconto del 22% rispetto al prezzo di riferimento di 169,99€. Il ribasso rende più conveniente un…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/99549/ugreen-nexode-300w-a-133eur-caricatore-gan-per-piu-dispositivi-uj0ck81lbfkq36Y1sjL.png",
-      "publishedAt": "2026-08-05T05:09:20+00:00",
+      "title": "Migliori router wi-fi (agosto 2026)",
+      "link": "https://www.tomshw.it/guide/migliori-router-wi-fi",
+      "excerpt": "Il router Wi-Fi è uno dei componenti più importanti della rete domestica, anche quando sembra un semplice accessorio da collegare al modem. Da lui dipendono la copertura nelle…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/89202/migliori-router-wifi-copertina.jpg",
+      "publishedAt": "2026-08-05T06:31:47+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -208,69 +271,6 @@
       "excerpt": "Nel secondo trimestre del 2026 il servizio ha aggiunto 7 milioni di clienti paganti. I ricavi sono saliti a 4,78 miliardi di euro... Leggi tutto",
       "image": "https://images.dday.it/OYw86CtHN6K_BnSYDCCZ5zCJZ7sNb_89J-hXHfjq3rc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58274/b745e3_Depositphotos_666777984_XL.jpg",
       "publishedAt": "2026-08-04T15:11:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "BMW ha infilato una pubblicità di Spider-Man: Brand New Day in ogni BMW prodotta dopo il 2020",
-      "link": "https://images.dday.it/U8vVbnN4FFntspiGqTsLaYwjYWVcdL-LOFs1obgXESc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58263/782120_bmw_thumb.jpg",
-      "excerpt": "All'avvio dell'auto, per via di una collaborazione fra BMW e Sony Pictures, produttore del film... Leggi tutto",
-      "image": "https://images.dday.it/U8vVbnN4FFntspiGqTsLaYwjYWVcdL-LOFs1obgXESc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58263/782120_bmw_thumb.jpg",
-      "publishedAt": "2026-08-04T14:41:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il super caldo fa schizzare le bollette elettriche: Po in secca, centrali spente e prezzi ai massimi",
-      "link": "https://images.dday.it/Oqa23fInXyNk8A3prhxkGhlqZXQFB5S8K2gXoky1Uzc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58253/5b3d1a_Depositphotos_646521654_XL.jpg",
-      "excerpt": "Il PUN supera i 197 euro/MWh e il mercato di oggi ha già fissato il prezzo di domani a oltre 207 euro. Il caldo aumenta la domanda di elettricità mentre siccità e temperature dei…",
-      "image": "https://images.dday.it/Oqa23fInXyNk8A3prhxkGhlqZXQFB5S8K2gXoky1Uzc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58253/5b3d1a_Depositphotos_646521654_XL.jpg",
-      "publishedAt": "2026-08-04T14:07:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "La soundbar Bose Smart Ultra è in offerta su Amazon: audio Dolby Atmos e dialoghi più nitidi a un prezzo da non perdere",
-      "link": "https://images.dday.it/ag3OtjIIkpn8zdmJH-I0WZLZ_IYm6Vm_PtwtNyp1Pgc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58272/5e66fb_71+PeGr797L._AC_SL1500_.jpg",
-      "excerpt": "Scopri la Bose Smart Ultra Soundbar, ora disponibile con un incredibile sconto su Amazon. Dotata di Dolby Atmos, controllo vocale Alexa e un sistema audio surround avanzato, è…",
-      "image": "https://images.dday.it/ag3OtjIIkpn8zdmJH-I0WZLZ_IYm6Vm_PtwtNyp1Pgc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58272/5e66fb_71+PeGr797L._AC_SL1500_.jpg",
-      "publishedAt": "2026-08-04T13:42:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Svelato DJI Mic Mini 2S: finalmente ha la registrazione interna",
-      "link": "https://images.dday.it/HnIUmqYIql4cQqvIXOnfpYFMXvf13kybcIHGpbMYq14/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58271/a5d533_dji01.jpg",
-      "excerpt": "Fra le specifiche anche la cancellazione del rumore basata sull’IA e il collegamento diretto con alcune fotocamere Osmo... Leggi tutto",
-      "image": "https://images.dday.it/HnIUmqYIql4cQqvIXOnfpYFMXvf13kybcIHGpbMYq14/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58271/a5d533_dji01.jpg",
-      "publishedAt": "2026-08-04T13:10:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il Superbonus è costato 126,7 miliardi. Ecco come li abbiamo spesi",
-      "link": "https://images.dday.it/7Zn6J-W_ILxmEVOwTa2uIpWIzvGs2xC11fx1q8Vh4Xs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58270/659915_Depositphotos_205785166_XL.jpg",
-      "excerpt": "Cosa dice il rapporto ENEA sui lavori conclusi entro il 2025, dove è andato il denaro e quanta energia ha fatto (e farà) risparmiare uno degli incentivi fiscali più chiacchierati…",
-      "image": "https://images.dday.it/7Zn6J-W_ILxmEVOwTa2uIpWIzvGs2xC11fx1q8Vh4Xs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58270/659915_Depositphotos_205785166_XL.jpg",
-      "publishedAt": "2026-08-04T12:59:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "OpenAI passa al contrattacco contro Apple nella causa sui segreti industriali: pubblicati email e messaggi",
-      "link": "https://images.dday.it/JRWfGAsCqu-L0r7Gg4pcotQtjAWIweJRijjqCIjVRIA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58269/911322_Depositphotos_639977696_XL.jpg",
-      "excerpt": "OpenAI ha respinto le accuse di aver sottratto informazioni riservate tramite due ex dipendenti Apple e ha definito la causa “aggressiva” oltre che basata su ricostruzioni…",
-      "image": "https://images.dday.it/JRWfGAsCqu-L0r7Gg4pcotQtjAWIweJRijjqCIjVRIA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58269/911322_Depositphotos_639977696_XL.jpg",
-      "publishedAt": "2026-08-04T12:13:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Recensione Samsung Galaxy Z Fold8. Piace a tutti, e c'è un motivo",
-      "link": "https://images.dday.it/WLFBWN3GC8aLGmHPVMI6Mocb0sWjctxbfb5wOWUTIoE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58246/7b0fb4_P1233458.jpg",
-      "excerpt": "Con Galaxy Fold8 Samsung mette in campo un terzo form factor, andando a così ad offrire una ulteriore opzione per chi trova troppo stretto, piccolo e non funzionale lo schermo…",
-      "image": "https://images.dday.it/WLFBWN3GC8aLGmHPVMI6Mocb0sWjctxbfb5wOWUTIoE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58246/7b0fb4_P1233458.jpg",
-      "publishedAt": "2026-08-04T11:05:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
