@@ -1,26 +1,188 @@
 {
-  "generatedAt": "2026-08-06T14:08:32.110126+00:00",
+  "generatedAt": "2026-08-06T23:51:56.600454+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "GR86 2027, arriva un ricco aggiornamento: tutte le novità",
-      "link": "https://www.hdmotori.it/gr86-2027-aggiornamento-novita/",
-      "excerpt": "La Casa delle Tre ellissi ha svelato una evoluzione della pepata coupé. Scopriamo le caratteristiche della nuova GR86.",
-      "image": "https://hd2.tudocdn.net/1361446?w=660",
-      "publishedAt": "2026-08-06T14:00:33+00:00",
+      "title": "HyperX Cloud Stinger II al 57% in meno, audio spaziale per giocare: un affare",
+      "link": "https://www.tomshw.it/offerte/hyperx-cloud-stinger-ii-al-57-in-meno-audio-spaziale-per-giocare-un-affare",
+      "excerpt": "Le HyperX Cloud Stinger II costano 30€ su Amazon invece di 69,99€, con uno sconto del 57% e il prezzo più basso toccato finora. L’audio spaziale DTS Headphone:X e il collegamento…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106125/tomshw-offer-669054.png",
+      "publishedAt": "2026-08-06T20:02:54+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Logitech G PRO X SUPERLIGHT 2c da 159,99€ a 119,99€, eccellente per gli FPS",
+      "link": "https://www.tomshw.it/offerte/logitech-g-pro-x-superlight-2c-da-15999eur-a-11999eur-eccellente-per-gli-fps",
+      "excerpt": "Logitech G PRO X SUPERLIGHT 2c costa 119,99€ su Amazon anziché 159,99€ di listino, con uno sconto del 25%. Formato compatto, polling fino a 8 kHz e 95 ore di autonomia puntano…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106124/tomshw-offer-669048.png",
+      "publishedAt": "2026-08-06T19:33:12+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "LG OLED evo C5 42” a 558€, da prendere per giocare in 4K a 144 fps",
+      "link": "https://www.tomshw.it/offerte/lg-oled-evo-c5-42-a-558eur-da-prendere-per-giocare-in-4k-a-144-fps",
+      "excerpt": "LG OLED evo C5 da 42 pollici costa 558€ su Amazon, anziché il listino di 799€, con uno sconto del 30%. Il formato compatto e il supporto al 4K a 144 fps lo rendono particolarmente…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106123/tomshw-offer-669034.png",
+      "publishedAt": "2026-08-06T18:03:34+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Narwal Freo 20 ufficiale: autopulizia in tempo reale e speciale design in tessuto",
+      "link": "https://www.hdblog.it/home/articoli/n666568/narwal-freo-20-ufficiale-specifiche-prezzo/",
+      "excerpt": "Tutte le caratteristiche",
+      "image": "https://hd2.tudocdn.net/1361484?w=660",
+      "publishedAt": "2026-08-06T17:35:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Samsung Galaxy S26 FE, filtrano immagini ufficiali che confermano colori e design",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666567/samsung-galaxy-s26-fe-immagini-ufficiali-colori/",
-      "excerpt": "Scopriamo in anticipo come sarà.",
-      "image": "https://hd2.tudocdn.net/1361431?w=660",
-      "publishedAt": "2026-08-06T13:50:00+00:00",
+      "title": "MSI MAG CoreLiquid E240 al 53% in meno, un affare per raffreddare la CPU",
+      "link": "https://www.tomshw.it/offerte/msi-mag-coreliquid-e240-al-53-in-meno-un-affare-per-raffreddare-la-cpu",
+      "excerpt": "MSI MAG CoreLiquid E240 costa 51,55€ su Amazon, con il 53% di sconto sul listino di 109,99€. Il radiatore da 240 mm e le due ventole ARGB permettono di raffreddare la CPU…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106121/tomshw-offer-669003.png",
+      "publishedAt": "2026-08-06T17:33:10+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "CarPlay cambia ancora: Apple aggiorna Musica e Podcast in auto",
+      "link": "https://www.hdblog.it/apple/articoli/n666579/carplay-ios-27-apple-music-podcast/",
+      "excerpt": "CarPlay introduce due funzioni che rendono più semplice ascoltare musica e podcast in auto.",
+      "image": "https://hd2.tudocdn.net/1265523?w=660",
+      "publishedAt": "2026-08-06T17:25:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Ask Maps evolve: così Maps diventa più intelligente grazie a Gemini",
+      "link": "https://www.hdblog.it/google/articoli/n666610/ask-maps-novita-smart-memoria-gmail/",
+      "excerpt": "Ask Maps evolve con memoria delle chat, integrazione opzionale con Gmail e nuove funzioni per pianificare viaggi, trovare hotel, ordinare cibo e consultare il trasporto pubblico…",
+      "image": "https://hd2.tudocdn.net/1361487?w=660",
+      "publishedAt": "2026-08-06T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "GTA 6, il nuovo trailer sarà su Netflix: data e ora. E scoppia la polemica",
+      "link": "https://www.hdblog.it/games/articoli/n666602/gta-6-vi-netflix-nuovo-trailer-data-ora-italia/",
+      "excerpt": "Un trailer a pagamento, anche se solo per qualche ora.",
+      "image": "https://hd2.tudocdn.net/1361474?w=660",
+      "publishedAt": "2026-08-06T17:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Ghost Recon Wildlands, update gratis: nuova missione, 4K/60 FPS e Predator",
+      "link": "https://www.tomshw.it/videogioco/ghost-recon-wildlands-update-gratis-nuova-missione-4k-60-fps-e-predator",
+      "excerpt": "A nove anni dal debutto, Tom Clancy's Ghost Recon Wildlands riceve una nuova missione narrativa e recupera uno dei suoi eventi più riconoscibili. Ubisoft ha pubblicato…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106119/Ghost-Recon-Wildlands-Artikelbild-1.webp",
+      "publishedAt": "2026-08-06T17:04:15+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Asteroidi verso la Terra? La Cina punta sul nucleare sotterraneo, alla Armageddon!",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666536/cina-strategia-nucleare-asteroidi/",
+      "excerpt": "La Cina studia un sistema che usa esplosioni nucleari sotterranee contro gli asteroidi.",
+      "image": "https://hd2.tudocdn.net/1361352?w=660",
+      "publishedAt": "2026-08-06T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Bugatti Destrier: debutta a Pebble Beach la one-off derivata dalla Bolide",
+      "link": "https://www.hdmotori.it/bugatti-destrier-one-off/",
+      "excerpt": "Attesa al debutto in occasione del celebre concorso d’eleganza, la Destrier è un modello in esemplare unico derivato dalla Bolide e spinto dall’iconico W16 da 1.600 CV.",
+      "image": "https://hd2.tudocdn.net/1361470?w=660",
+      "publishedAt": "2026-08-06T16:30:55+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Se ami Ghost Recon non puoi perderti la Closed Beta del nuovo capitolo",
+      "link": "https://www.tomshw.it/videogioco/ghost-recon-ubisoft-apre-le-candidature-ai-test-del-nuovo-capitolo",
+      "excerpt": "Ghost Recon Wildlands torna con Last Rites, una missione narrativa gratuita pubblicata da Ubisoft per il capitolo open world del 2017. Il nuovo contenuto ruota attorno alla caccia…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106117/yrN6PM7gdx6dTEWbQDGxuU-1920-80.jpg",
+      "publishedAt": "2026-08-06T16:27:25+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Stop ai giochi fisici su PlayStation: il nuovo avviso di Sony è l'ennesima conferma",
+      "link": "https://www.hdblog.it/sony/articoli/n666557/stop-giochi-fisici-playstation-avviso-sony/",
+      "excerpt": "Sony ribadisce che dal 2028 i nuovi giochi per PlayStation saranno solo digitali, scatenando le proteste dei giocatori.",
+      "image": "https://hd2.tudocdn.net/1354086?w=660",
+      "publishedAt": "2026-08-06T16:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "SpaceX vuole portare un milione di data center nello spazio: Nvidia sarà il cervello",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666549/spacex-nvidia-starmind-ai1-satellite-ai/",
+      "excerpt": "SpaceX e Nvidia sviluppano il primo satellite con capacità di calcolo AI da data center.",
+      "image": "https://hd2.tudocdn.net/1361400?w=660",
+      "publishedAt": "2026-08-06T16:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Onimusha: Way of the Sword, il trailer svela il santuario che recide i destini",
+      "link": "https://www.tomshw.it/videogioco/onimusha-way-of-the-sword-il-trailer-svela-il-santuario-che-recide",
+      "excerpt": "Un santuario legato alla separazione dei destini è diventato terreno di caccia per una presenza corrotta. È il fulcro di Severing Fates, il nuovo trailer ufficiale di Onimusha:…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106114/header.jpg",
+      "publishedAt": "2026-08-06T16:05:09+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "IT-Wallet entra nel vivo: meno certificati da stampare e più documenti digitali",
+      "link": "https://www.hdblog.it/smartphone/articoli/n666594/it-wallet-portafoglio-documenti-novita-cosa-cambia/",
+      "excerpt": "Il portafoglio digitale dell'app IO amplia le proprie funzioni. Con il nuovo decreto, cittadini, enti pubblici e aziende potranno condividere attestati elettronici senza ricorrere…",
+      "image": "https://hd2.tudocdn.net/1214909?w=660",
+      "publishedAt": "2026-08-06T16:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "ASUS ROG Carnyx a 169€, voce più pulita per streaming e podcast",
+      "link": "https://www.tomshw.it/offerte/asus-rog-carnyx-a-169eur-voce-piu-pulita-per-streaming-e-podcast",
+      "excerpt": "ASUS ROG Carnyx costa 169€ su Amazon, anziché 199,90€ di listino, con uno sconto del 15%. La capsula a condensatore da 25 mm e la registrazione a 192 kHz/24 bit puntano a dare più…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106115/tomshw-offer-668871.png",
+      "publishedAt": "2026-08-06T16:02:47+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Ford 1.0 EcoBoost: la cinghia a bagno d'olio finisce sotto inchiesta",
+      "link": "https://www.hdmotori.it/ford-1-0-ecoboost-indagine-nhtsa-cinghia-bagno-olio/",
+      "excerpt": "L'ente americano NHTSA avvia l'analisi su 135mila vetture Ford dotate del motore 1.0 EcoBoost per il degrado della cinghia a bagno d'olio. A rischio Fiesta, Focus ed EcoSport.",
+      "image": "https://hd2.tudocdn.net/1361465?w=660",
+      "publishedAt": "2026-08-06T16:00:49+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "eBay accelera nel Q2: ricavi +15% e utile netto +51%",
+      "link": "https://www.tomshw.it/business/ebay-accelera-nel-q2-ricavi-15-e-utile-netto-51",
+      "excerpt": "eBay ha chiuso il secondo trimestre 2026 con ricavi netti pari a 3,134 miliardi di dollari, il 15% in più rispetto ai 2,730 miliardi dello stesso periodo dell’anno precedente.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106100/news-flash-668643.png",
+      "publishedAt": "2026-08-06T14:30:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Quando compra l’IA, chi entra davvero nello store? Amazon perde contro Perplexity",
+      "link": "https://images.dday.it/lc3O0qklsZnQo0T533QEDKBp8GWGSyaaQfUJ27VvmYA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58303/2ac974_coev_rDepositphotos_472312256_L_copia.jpg",
+      "excerpt": "Amazon voleva bloccare gli acquisti effettuati dall’assistente di Perplexity. Per i giudici, però, l’IA è uno strumento nelle mani dell’utente e non è lei a “entrare” nei sistemi…",
+      "image": "https://images.dday.it/lc3O0qklsZnQo0T533QEDKBp8GWGSyaaQfUJ27VvmYA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58303/2ac974_coev_rDepositphotos_472312256_L_copia.jpg",
+      "publishedAt": "2026-08-06T14:09:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "La telecamera Arlo Essential HD è in super offerta su Amazon: proteggi la casa spendendo meno",
@@ -32,69 +194,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Larian torna su YouTube dopo la rimozione: caso legato ai contenuti adulti di BG3",
-      "link": "https://www.tomshw.it/videogioco/larian-torna-su-youtube-dopo-la-rimozione-caso-legato-ai-contenuti-adulti",
-      "excerpt": "Larian: Channel From Hell, il canale YouTube dedicato alla community di Larian Studios, è risultato temporaneamente rimosso o indisponibile prima di tornare regolarmente…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106091/LLwPXjS7GcU7ph7Vv52dgb-1607-80.jpg",
-      "publishedAt": "2026-08-06T13:38:18+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "LG UltraGear 32” QHD costa 209,88€ e rende gli FPS più fluidi a 180 Hz",
-      "link": "https://www.tomshw.it/offerte/lg-ultragear-32-qhd-costa-20988eur-e-rende-gli-fps-piu-fluidi-a-180-hz",
-      "excerpt": "LG UltraGear 32GS60QC costa 209,88€ su Amazon anziché 279,99€, con uno sconto del 25%. Il display curvo QHD da 32 pollici unisce una visuale ampia ai 180 Hz richiesti dai giochi…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106090/tomshw-offer-668497.png",
-      "publishedAt": "2026-08-06T13:33:33+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "GeForce NOW aggiunge 26 giochi ad agosto: Resonance arriva il 27",
-      "link": "https://www.tomshw.it/videogioco/geforce-now-aggiunge-26-giochi-ad-agosto-resonance-arriva-il-27",
-      "excerpt": "Sono 26 i giochi destinati ad arrivare su GeForce NOW nel corso di agosto 2026. L'aggiornamento ufficiale di NVIDIA parte con otto titoli disponibili nella prima settimana e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106084/geforce-rtx-50-series-laptops-learn-og-1200x6302x_jpg_1600x900_crop_q85_jpg_1200x0_crop_q85.jpg",
-      "publishedAt": "2026-08-06T13:08:06+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il mercato dei tablet frena nel 2026: i numeri della crisi mentre Apple resta leader",
-      "link": "https://www.hdblog.it/tablet/articoli/n666563/mercato-tablet-q2-2026-calo-spedizioni-apple-omdia/",
-      "excerpt": "Crisi delle memorie e aumenti dei prezzi lasciano il segno.",
-      "image": "https://hd2.tudocdn.net/1336390?w=660",
-      "publishedAt": "2026-08-06T13:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Volkswagen rivoluziona il Fantacalcio: due novità per gli appassionati di calcio",
-      "link": "https://www.hdmotori.it/volkswagen-fantacalcio-novita-calcio/",
-      "excerpt": "VW entra nel mondo del Fantacalcio mettendo a disposizione degli utenti le nuove funzionalità Tribuna Volkswagen e Sala Stampa Powered by Volkswagen, pensate per arricchire…",
-      "image": "https://hd2.tudocdn.net/1361435?w=660",
-      "publishedAt": "2026-08-06T13:00:28+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "PS5 Pro: la beta attiva il PSSR migliorato anche senza patch",
-      "link": "https://www.tomshw.it/videogioco/ps5-pro-la-beta-attiva-il-pssr-migliorato-anche-senza-patch",
-      "excerpt": "La nuova beta del software di sistema rende automatica su PlayStation 5 Pro l’attivazione dell’opzione «Enhance PSSR Image Quality». Dopo l’installazione, la console applica…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106081/news-flash-668388.png",
-      "publishedAt": "2026-08-06T12:55:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "GTA 6, ecco quando vedremo finalmente il gioco",
-      "link": "https://www.tomshw.it/videogioco/gta-vi-evento-dedicato-ufficiale-il-27-agosto-2026-08-06",
-      "excerpt": "Mancano tre settimane a uno degli appuntamenti più attesi nel mondo dei videogiochi degli ultimi anni. Rockstar Games ha ufficializzato la data di Grand Theft Auto VI: An Extended…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106080/gta-6-trailer-netflix.webp",
-      "publishedAt": "2026-08-06T12:51:21+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "GTA VI cambia le regole. L'anteprima verrà trasmessa su Netflix",
       "link": "https://images.dday.it/Bwo87QUylAV0e-Ly4EXoxrvhbb64iqjSGDTKsS72g4k/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58301/819347_Screenshot_2026-08-06_alle_15.00.33.png",
       "excerpt": "Una \"lunga anteprima\" sarà trasmessa su Netflix e poche ore dopo su YouTube e il sito ufficiale... Leggi tutto",
@@ -102,33 +201,6 @@
       "publishedAt": "2026-08-06T12:51:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il razzo Falcon 9 di SpaceX si è schiantato sulla Luna, un video falso da Elon Musk",
-      "link": "https://www.hdblog.it/scienza/articoli/n666560/razzo-falcon-spacex-schiantato-luna/",
-      "excerpt": "La NASA e SpaceX hanno confermato l'impatto del secondo stadio di Falcon 9 sulla Luna: si attendono le immagini autentiche del cratere.",
-      "image": "https://hd2.tudocdn.net/1361416?w=660",
-      "publishedAt": "2026-08-06T12:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Galaxy Z Fold8 spinge Samsung a un nuovo record di preordini in Europa",
-      "link": "https://www.tomshw.it/smartphone/galaxy-z-fold8-spinge-samsung-a-un-nuovo-record-di-preordini-in-europa",
-      "excerpt": "Samsung ha annunciato un nuovo record europeo per i preordini della serie Galaxy Z. La gamma composta da Galaxy Z Fold8 Ultra, Galaxy Z Fold8 e Galaxy Z Flip8 ha superato di oltre…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106078/galaxy-z-fold8-record-preordini-europa.png",
-      "publishedAt": "2026-08-06T12:48:36+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Fastweb + Vodafone, nei conti della prima metà 2026 i risultati della fusione",
-      "link": "https://www.hdblog.it/mobile/articoli/n666562/fastweb-vodafone-conti-prima-meta-2026/",
-      "excerpt": "Fastweb + Vodafone chiude il primo semestre 2026 con ricavi in calo del 3,3% e meno connessioni mobili e fisse, ma l’EBITDA cresce del 12,9% grazie ai risparmi generati dalla…",
-      "image": "https://hd2.tudocdn.net/1320835?w=660",
-      "publishedAt": "2026-08-06T12:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Il terremoto scuote la scuola in Toscana, otto macchine si muovono per fermarlo",
@@ -140,24 +212,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Ninja SLUSHi Twist arriva in Italia: doppio gusto e zero ghiaccio contro il caldo estivo",
-      "link": "https://www.hdblog.it/home/articoli/n666561/ninja-slushi-twist-granite-prezzo-italia/",
-      "excerpt": "Happy Hour!",
-      "image": "https://hd2.tudocdn.net/1361424?w=660",
-      "publishedAt": "2026-08-06T12:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Galaxy S26 FE e Galaxy Tab S12 vicini: a Samsung scappa una conferma",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666558/samsung-galaxy-s26-fetab-s12-lancio-quando-leak/",
-      "excerpt": "Ennesimo indizio: ormai ci siamo quasi.",
-      "image": "https://hd2.tudocdn.net/1361412?w=660",
-      "publishedAt": "2026-08-06T12:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "La webcam Logitech Brio 4K a un super-prezzo su Amazon",
       "link": "https://images.dday.it/5b2N9bP1Cj__QQA4JwDWDJCTsiivMVgBeTBtwg-YAkA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58298/197aab_logitech.jpg",
       "excerpt": "È compatibile con Windows Hello, ha la correzione automatica della luminosità e due microfoni. Funziona anche con macOS... Leggi tutto",
@@ -167,15 +221,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "IFA 2026, LG punta sull'intelligenza artificiale per la casa connessa",
-      "link": "https://www.hdblog.it/lg/articoli/n666559/lg-ifa-2026-fiera-cosa-ci-sara/",
-      "excerpt": "LG porterà a IFA 2026 la sua visione della casa intelligente con AI Appliances Orchestra, un ecosistema che adatta il funzionamento degli elettrodomestici alle abitudini…",
-      "image": "https://hd2.tudocdn.net/1361409?w=660",
-      "publishedAt": "2026-08-06T12:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "IT Wallet è operativo: come funziona il portafoglio digitale sullo smartphone degli italiani",
       "link": "https://images.dday.it/G6da1ZmaUE3TUqr_A-iM0djA91_nX6X9Evxu89QbSzg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58299/cfc2aa_doc.jpg",
       "excerpt": "Dal 3 agosto 2026 il Sistema IT-Wallet non è più solo una norma: è ufficialmente operativo, con un rilascio graduale delle funzionalità. Ecco quali documenti arrivano o…",
@@ -183,15 +228,6 @@
       "publishedAt": "2026-08-06T12:03:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Hispano Suiza, l’hypercar dalla tecnologia invisibile che rivoluziona la guida sportiva",
-      "link": "https://www.hdmotori.it/hispano-suiza-hypercar-tecnologia-guida-sportiva/",
-      "excerpt": "Sulla Carmen Sagrera è presente la Hispano Suiza Driver Dynamics (HSDD): la soluzione hi-tech al servizio del piacere di guida.",
-      "image": "https://hd2.tudocdn.net/1361418?w=660",
-      "publishedAt": "2026-08-06T12:00:37+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Monopattini a Roma: Bird, Dott e Lime multate per 2,7 milioni di euro. Hanno ostacolato l'uso delle corse gratis",
@@ -230,47 +266,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Private Relay di iCloud non è impenetrabile: tre falle di WebKit rivelano l'IP reale su iOS",
-      "link": "https://images.dday.it/3OgAIYVpxMqNxUHF4pKfOMRST2QN_k5pBQ_Vubp_rV4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58292/366125_pr.jpg",
-      "excerpt": "La scoperta di un gruppo di ricercatori: tre implementazioni del motore dei browser di Apple scavalcano l’anonimizzazione prevista dal Private Relay. Il problema? Su iOS ogni…",
-      "image": "https://images.dday.it/3OgAIYVpxMqNxUHF4pKfOMRST2QN_k5pBQ_Vubp_rV4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58292/366125_pr.jpg",
-      "publishedAt": "2026-08-06T08:55:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Hai un bug da segnalare? Il ticket lo legge l'IA",
-      "link": "https://www.tomshw.it/business/hai-un-big-da-segnalare-il-ticket-lo-legge-lia",
-      "excerpt": "Cloudflare paga 58 dollari al mese per il triage dei bug bounty Chi invia una segnalazione al programma di bug bounty di Cloudflare non parla più, per primo, con una persona. Il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105923/09-cloudflare-claude-triage-vulnerabilita.jpg",
-      "publishedAt": "2026-08-06T08:25:01+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori notebook 2 in 1 (agosto 2026)",
-      "link": "https://www.tomshw.it/guide/migliori-2-in-1",
-      "excerpt": "I notebook 2 in 1 restano una delle scelte più sensate per chi vuole un solo dispositivo da usare come portatile tradizionale, tablet touch e piccolo strumento creativo. Il punto…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/87665/migliori-notebook-2-in-1-copertina.jpg",
-      "publishedAt": "2026-08-06T06:41:25+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Anche Anthropic si mette a fare chip (un copione già visto)",
-      "link": "https://www.tomshw.it/business/anche-anthropic-si-mette-a-fare-chip-un-copione-gia-visto",
-      "excerpt": "Anthropic sta mettendo insieme un gruppo interno dedicato alla progettazione di chip AI su misura. L'azienda guidata da Dario Amodei ha aperto posizioni per ingegneri con…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105924/10-anthropic-chip-team.jpg",
-      "publishedAt": "2026-08-06T06:25:06+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Acquisti: automatizza le RFP con n8n e Mistral in 90 minuti",
-      "link": "https://www.tomshw.it/aioperator/acquisti-automatizza-le-rfp-con-n8n-e-mistral-in-90-minuti",
-      "excerpt": "L'ufficio acquisti apre ogni gara con lo stesso rito: un modulo Word riempito a mano, una mail ai soliti tre fornitori, una cartella dove le risposte arrivano in formati diversi.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104795/03-acq10-cover.jpg",
-      "publishedAt": "2026-07-31T09:00:17+00:00",
+      "title": "Dreamcast, la console perfetta dove gira ufficialmente Linux",
+      "link": "https://www.tomshw.it/hardware/dreamcast-e-ancora-viva-in-linux-la-versione-72-rc3-corregge-i-driver-maple",
+      "excerpt": "Linux 7.2-rc3 ha corretto quattro problemi nei driver della Sega Dreamcast, una console la cui produzione terminò nell’esercizio chiuso il 31 marzo 2001 ma che continua a essere…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100907/linux-7-2-non-dimentica-dreamcast-e-abbandona-i-vecchi-i486.png",
+      "publishedAt": "2026-08-06T07:24:38+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
