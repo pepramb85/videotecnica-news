@@ -1,17 +1,161 @@
 {
-  "generatedAt": "2026-08-07T14:46:16.889888+00:00",
+  "generatedAt": "2026-08-07T16:43:50.335254+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Tesla e SpaceX costruiscono la fabbrica di chip più grande mai vista",
-      "link": "https://www.hdblog.it/mercato/articoli/n666603/tesla-spacex-terafab-chip-factory/",
-      "excerpt": "Tesla e SpaceX avviano Terafab, la maxi fabbrica di chip dedicata ad AI, robot e spazio.",
-      "image": "https://hd2.tudocdn.net/1361473?w=660",
-      "publishedAt": "2026-08-07T14:45:00+00:00",
+      "title": "Alfa Romeo Gardena: l'identikit del maxi SUV immaginato per Usa e Cina",
+      "link": "https://www.hdmotori.it/alfa-romeo-gardena-phev-maxi-suv-concept-digitale/",
+      "excerpt": "Spuntano i render della nuova Alfa Romeo Gardena: il maxi SUV digitale passa al powertrain PHEV e sfida i mercati globali con uno stile imponente e sportivo.",
+      "image": "https://hd2.tudocdn.net/1361822?w=660",
+      "publishedAt": "2026-08-07T16:30:37+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Microsoft svela come l'AI sta riscrivendo il modo di creare software",
+      "link": "https://www.hdblog.it/microsoft/articoli/n666605/microsoft-ai-sviluppo-software-agenti/",
+      "excerpt": "Microsoft punta sugli agenti AI per trasformare l'intero ciclo di sviluppo del software.",
+      "image": "https://hd2.tudocdn.net/1361479?w=660",
+      "publishedAt": "2026-08-07T16:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il nuovo Roborock Qrevo 2 Pro si libera dei moci per pulire i tappeti | PREZZO",
+      "link": "https://www.hdblog.it/home/articoli/n666695/roborock-qrevo-2-pro-specifiche-prezzo-robot/",
+      "excerpt": "Qrevo 2 Pro debutta in Italia con navigazione LiDAR, riconoscimento degli ostacoli, supporto Matter e SmartPlan 3.0. Fino al 23 agosto il prezzo scende da 699 a 499 euro",
+      "image": "https://hd2.tudocdn.net/1361813?w=660",
+      "publishedAt": "2026-08-07T16:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Philips Gaming Monitor 34” a 203,58€, mai costato così poco per 180 Hz ultrawide",
+      "link": "https://www.tomshw.it/offerte/philips-gaming-monitor-34-a-20358eur-mai-costato-cosi-poco-per-180-hz-ultrawide",
+      "excerpt": "Il monitor gaming Philips 34M2C3500L costa 203,58€ su Amazon, il minimo storico: dal listino di 289€ si passa a uno sconto del 30%. Il pannello curvo UW-QHD a 180 Hz punta a…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106389/tomshw-offer-670672.png",
+      "publishedAt": "2026-08-07T16:03:32+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Più auto con meno dipendenti, i numeri Toyota che \"scuotono\" Volkswagen",
+      "link": "https://www.hdmotori.it/volkswagen-vs-toyota-crisi-produzione-tagli/",
+      "excerpt": "Produzione a rilento, costi fissi e scontro sui licenziamenti: perché il modello Volkswagen non funziona più rispetto a Toyota.",
+      "image": "https://hd2.tudocdn.net/1361818?w=660",
+      "publishedAt": "2026-08-07T16:00:43+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Occhiali a infrarossi: così potremmo vedere ciò che oggi è invisibile",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666681/occhiali-infrarossi-vista-umana/",
+      "excerpt": "Nuovi occhiali trasformano la luce infrarossa invisibile in colori percepibili dall’occhio umano.",
+      "image": "https://hd2.tudocdn.net/1361775?w=660",
+      "publishedAt": "2026-08-07T15:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "AI fuori controllo: anche Meta finisce nel caso degli agenti in fuga",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666685/meta-ai-agente-internet-test-sicurezza/",
+      "excerpt": "Un test AI di Meta finisce fuori dall’ambiente previsto e riapre il problema della sicurezza.",
+      "image": "https://hd2.tudocdn.net/1361780?w=660",
+      "publishedAt": "2026-08-07T15:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Beats Studio Pro al 55% in meno, un affare con ANC e 40 ore di autonomia",
+      "link": "https://www.tomshw.it/offerte/beats-studio-pro-al-55-in-meno-un-affare-con-anc-e-40-ore-di-autonomia",
+      "excerpt": "Le Beats Studio Pro costano 179€ su Amazon, invece dei 399,95€ di listino, con uno sconto del 55%. Cancellazione attiva del rumore e autonomia prolungata le rendono…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106386/tomshw-offer-670630.png",
+      "publishedAt": "2026-08-07T15:33:55+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "NVIDIA domina il mercato GPU: quali sono le conseguenze per il settore?",
+      "link": "https://www.tomshw.it/hardware/nvidia-domina-il-mercato-gpu-quali-sono-le-conseguenze-per-il-settore",
+      "excerpt": "NVIDIA detiene attualmente la quasi totalità del mercato delle schede grafiche, e là fuori c'è una community (rumorosa) di persone decisamente arrabbiate. Ma non è questo i...",
+      "image": "https://cdn.tomshw.it/storage/media/2026/05/93042/nvidia-gpu-ia-export-control-huang-bombe.webp",
+      "publishedAt": "2026-08-07T15:31:11+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Un grande ritorno: sta per arrivare una nuova Mitsubishi Pajero",
+      "link": "https://www.hdmotori.it/nuova-mitsubishi-pajero-novita/",
+      "excerpt": "La prossima generazione di Mitsubishi Pajero è attesa per la fine del 2026. Presenterà un telaio a longheroni e soluzioni hi-tech.",
+      "image": "https://hd2.tudocdn.net/1361810?w=660",
+      "publishedAt": "2026-08-07T15:30:32+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Giocare in cloud fra tre anni sarà la norma, parola di Take-Two",
+      "link": "https://www.tomshw.it/videogioco/take-two-game-streaming-a-bassa-latenza-abituale-entro-tre-anni",
+      "excerpt": "Il rincaro dell’hardware potrebbe accelerare la diffusione del game streaming e trasformare dispositivi finora estranei al gaming in terminali capaci di accedere ai titoli più…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106384/Boobie_Ike_01_tWpJHkQ.jpg",
+      "publishedAt": "2026-08-07T15:25:14+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "I dettagli di Dolby Vision 2 sui TV Hisense. Ecco i primi modelli che riceveranno Dolby Vision 2 Max",
+      "link": "https://images.dday.it/sCvvuJeqSTpviTUTISxbtn4UOlBccjBgpwCnlcp6hks/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58317/195fb5_hisense_thumb.jpg",
+      "excerpt": "La nuova versione del Dolby Vision arriverà inizialmente su alcuni televisori Hisense delle serie UX, UR9, UR8 e U7... Leggi tutto",
+      "image": "https://images.dday.it/sCvvuJeqSTpviTUTISxbtn4UOlBccjBgpwCnlcp6hks/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58317/195fb5_hisense_thumb.jpg",
+      "publishedAt": "2026-08-07T15:21:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Ecco il reattore a filamento che riduce le emissioni dell'industria chimica",
+      "link": "https://www.hdblog.it/green/articoli/n666608/reattore-lampadina-decarbonizzazione-industria/",
+      "excerpt": "Un nuovo reattore elettrico converte il metano riducendo emissioni e consumi energetici.",
+      "image": "https://hd2.tudocdn.net/1361482?w=660",
+      "publishedAt": "2026-08-07T15:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Anche il modello cinese Kimi K3 è evaso dai test di sicurezza: ma per barare sulla prova",
+      "link": "https://images.dday.it/PQfNZxOl-mO2ObC8qgw7Ub0c_w4QFlTI6z3TX4OATYc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58316/d74991_ChatGPT_Image_7_ago_2026__17_16_49.png",
+      "excerpt": "Una configurazione di rete errata ha permesso a Kimi K3 di raggiungere GitHub, clonare il repository del benchmark e leggere le soluzioni. Al di là della sicurezza è in dlubbio…",
+      "image": "https://images.dday.it/PQfNZxOl-mO2ObC8qgw7Ub0c_w4QFlTI6z3TX4OATYc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58316/d74991_ChatGPT_Image_7_ago_2026__17_16_49.png",
+      "publishedAt": "2026-08-07T15:17:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "OddCube è il purificatore d'aria che sfida l’obsolescenza programmata",
+      "link": "https://www.hdblog.it/home/articoli/n666687/purificatore-daria-virale-stampa-3d-prezzo/",
+      "excerpt": "OddCube è un purificatore d'aria progettato per essere riparabile e costruito con componenti comuni, filtri standard, ventole da PC e parti realizzabili con una normale stampante…",
+      "image": "https://hd2.tudocdn.net/1361784?w=660",
+      "publishedAt": "2026-08-07T15:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Ford e Dacia chiudono per siccità: il Danubio ferma la produzione auto",
+      "link": "https://www.hdmotori.it/dacia-ford-chiusura-fabbriche-siccita-danubio/",
+      "excerpt": "La siccità record del Danubio riduce la corrente alla centrale nucleare: Dacia e Ford fermano gli impianti per salvare la rete elettrica rumena.",
+      "image": "https://hd2.tudocdn.net/1361783?w=660",
+      "publishedAt": "2026-08-07T15:00:46+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il Sole nasconde vortici di plasma mai osservati così da vicino",
+      "link": "https://www.tomshw.it/scienze/il-telescopio-solare-piu-grande-svela-un-sole-mai-visto-cosi",
+      "excerpt": "Un gruppo guidato da David Kuridze e Friedrich Wöger, del National Solar Observatory, ha osservato sulla superficie del Sole minuscoli vortici di plasma cercati da decenni. Le…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106376/il-telescopio-solare-piu-grande-svela-un-sole-mai-visto-cosi.png",
+      "publishedAt": "2026-08-07T14:34:56+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Google apre la sua AI per prevedere gli uragani in anticipo",
@@ -19,33 +163,6 @@
       "excerpt": "Google ha reso disponibile un nuovo modello di intelligenza artificiale progettato per migliorare le previsioni dei cicloni tropicali. Sviluppato dai ricercatori di Google…",
       "image": "https://cdn.tomshw.it/storage/media/2026/08/106377/google-apre-la-sua-ai-per-prevedere-gli-uragani-un-giorno-prima.png",
       "publishedAt": "2026-08-07T14:31:29+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Gli smartphone più venduti di luglio 2026: Galaxy S26 Ultra domina con le super offerte | Video",
-      "link": "https://www.hdblog.it/smartphone/speciali/n666301/smartphone-piu-venduti-luglio-estate/",
-      "excerpt": "Abbiamo raccolto i dati di vendita dei link affiliati di Amazon a luglio 2026, ecco quali sono stati i prodotti più venduti!",
-      "image": "https://hd2.tudocdn.net/1361503?w=660",
-      "publishedAt": "2026-08-07T14:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Mazda, nuova sportiva in arrivo: cosa sappiamo sull’erede della RX-7",
-      "link": "https://www.hdmotori.it/mazda-erede-rx-7/",
-      "excerpt": "Il marchio di Fuchū potrebbe rilanciare in una chiave moderna la RX-7. La sportiva roadster ha fatto la storia nel mercato JDM.",
-      "image": "https://hd2.tudocdn.net/1361777?w=660",
-      "publishedAt": "2026-08-07T14:30:01+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "LightSpy: il malware multi-dispositivo gira anche in Italia",
-      "link": "https://www.tomshw.it/hardware/lightspy-spia-smartphone-pc-e-router-72-server-in-13-paesi",
-      "excerpt": "Una rete di 72 server di comando e controllo ha sostenuto operazioni di sorveglianza in almeno 13 Paesi, compresi gli Stati Uniti e diversi Paesi europei. L’infrastruttura è stata…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106358/news-flash-670491.png",
-      "publishedAt": "2026-08-07T14:22:26+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -59,65 +176,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "BMW i3, produzione anticipata: tutti vogliono l'elettrica",
-      "link": "https://www.tomshw.it/automotive/bmw-i3-produzione-al-via-la-forte-domanda-accelera-i-volumi",
-      "excerpt": "La nuova BMW i3 è entrata ufficialmente in produzione nello stabilimento principale di Monaco il 6 agosto 2026. BMW Group prevede una crescita rapida dei volumi, sostenuta dalla…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106356/P90651994-start-of-production-bmw-i3-at-bmw-plant-munich-08-2026-2519px.jpg",
-      "publishedAt": "2026-08-07T14:09:11+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "La fame di memoria spinge SK hynix a investire 38 miliardi",
       "link": "https://www.tomshw.it/hardware/la-fame-di-memoria-spinge-sk-hynix-a-investire-38-miliardi",
       "excerpt": "SK hynix ha annunciato un investimento da 54.000 miliardi di won, equivalenti a circa 38,1 miliardi di dollari, per costruire due nuovi impianti produttivi in Corea del Sud. Il…",
       "image": "https://cdn.tomshw.it/storage/media/2026/08/106354/la-fame-di-memoria-spinge-sk-hynix-a-investire-38-miliardi.png",
       "publishedAt": "2026-08-07T14:05:47+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "BaByliss Straight and Curl al 53% in meno, un affare contro il crespo",
-      "link": "https://www.tomshw.it/offerte/babyliss-straight-and-curl-al-53-in-meno-un-affare-contro-il-crespo",
-      "excerpt": "BaByliss Straight and Curl Brilliance costa 47,40€ su Amazon: il prezzo di listino è di 99,90€ e lo sconto raggiunge il 53%. Piastre in titanio, riscaldamento in 15 secondi e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106355/tomshw-offer-670469.png",
-      "publishedAt": "2026-08-07T14:04:09+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Troppe richieste: BMW avvia subito la produzione della i3",
-      "link": "https://www.hdmotori.it/bmw-produzione-i3/",
-      "excerpt": "Al via a Monaco la produzione della nuova BMW i3 elettrica. Forte domanda, costi tagliati del 10% e cantiere da record senza fermare le linee di montaggio.",
-      "image": "https://hd2.tudocdn.net/1361769?w=660",
-      "publishedAt": "2026-08-07T14:00:41+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Gli occhiali anti-AI di DuckDuckGo sono già andati esauriti",
-      "link": "https://www.tomshw.it/hardware/gli-occhiali-senza-ai-di-duckduckgo-vanno-subito-esauriti",
-      "excerpt": "DuckDuckGo ha lanciato gli occhiali da sole Paso Robles, un prodotto volutamente privo di intelligenza artificiale, fotocamere e connessioni al cloud. Il modello è andato esaurito…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106353/gli-occhiali-senza-ai-di-duckduckgo-vanno-subito-esauriti.png",
-      "publishedAt": "2026-08-07T13:58:53+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "BYD brevetta una nuova batteria allo stato solido, ecco cosa cambia",
-      "link": "https://www.tomshw.it/automotive/due-elettroliti-per-la-batteria-solida-byd-la-testera-nel-2027",
-      "excerpt": "BYD ha delineato attraverso sei brevetti una nuova architettura per la batteria allo stato solido, basata sulla combinazione di materiali con proprietà complementari. Il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106352/due-elettroliti-per-la-batteria-solida-byd-la-testera-nel-2027.png",
-      "publishedAt": "2026-08-07T13:55:10+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "ByteDance sfida Anthropic, l'AI punta a 10mila miliardi di parametri",
-      "link": "https://www.tomshw.it/hardware/bytedance-sfida-anthropic-lai-punta-a-10mila-miliardi-di-parametri",
-      "excerpt": "ByteDance ha avviato la fase iniziale di addestramento di un modello AI che potrebbe raggiungere i 10mila miliardi di parametri. Il progetto punta a confrontarsi direttamente con…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106351/bytedance-sfida-anthropic-l-ai-punta-a-10mila-miliardi-di-parametri.png",
-      "publishedAt": "2026-08-07T13:51:36+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -131,15 +194,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Con l'ultima novità Google Foto diventa meno \"scintillante\"",
-      "link": "https://www.hdblog.it/google/articoli/n666671/google-foto-effetto-luccicante-sticker-adesivi/",
-      "excerpt": "Un'opzione in più che riguarda gli adesivi.",
-      "image": "https://hd2.tudocdn.net/1355857?w=660",
-      "publishedAt": "2026-08-07T13:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Amazon aumenta i prezzi di Music Unlimited. Chi non vuole gli audiolibri paga come prima",
       "link": "https://images.dday.it/mceiTiPOXsZKQGgdPdXixjNdcrnGpcLY9FH7tGnDbCw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58312/f77e20_mus.jpg",
       "excerpt": "Amazon ha annunciato ieri un aumento delle tariffe di Music Unlimited. Per il piano famiglia l’aumento è di 50 euro all’anno, anche se chi è interessato alla musica può pagare…",
@@ -149,31 +203,13 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Carabinieri in e-bike: tra i turisti in spiaggia c'è un \"Arma\" in più",
-      "link": "https://www.hdmotori.it/carabinieri-e-bike-spiaggia/",
-      "excerpt": "A Montalto Marina i Carabinieri abbandonano le auto d'ordinanza bloccate dal traffico d'agosto e passano alle e-bike per i controlli di sicurezza sul lungomare.",
-      "image": "https://hd2.tudocdn.net/1361758?w=660",
-      "publishedAt": "2026-08-07T13:00:29+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Risparmiare sull'hardware potrebbe essere una cattiva idea",
-      "link": "https://www.tomshw.it/business/risparmiare-su-un-ssd-conviene-finche-non-si-rompe",
-      "excerpt": "Molte aziende trattano lo storage come una voce di budget qualunque e installano SSD NVMe di derivazione consumer per risparmiare qualche decina di euro sull'acquisto. È un errore…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106257/guasti-hardware-costi-operativi-cover.jpg",
-      "publishedAt": "2026-08-07T13:00:09+00:00",
+      "title": "Claude Code è il più caro e il migliore, ma ne vale la pena?",
+      "link": "https://www.tomshw.it/business/claude-code-e-il-piu-caro-e-il-migliore-ma-ne-vale-la-pena",
+      "excerpt": "Composio ha messo alla prova quattro strutture per agenti AI, Claude Code, Codex, OpenCode e Oh My Pi, facendo eseguire a tutti lo stesso modello su 30 compiti reali: gestire…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106308/02-claude-code-cover.jpg",
+      "publishedAt": "2026-08-07T13:05:06+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Apple corregge una grave vulnerabilità: update per macOS Tahoe, Sequoia, Sonoma",
-      "link": "https://www.hdblog.it/apple/articoli/n666667/apple-macos-aggiornamento-screen-sharing-sicurezza/",
-      "excerpt": "Conviene installarlo subito.",
-      "image": "https://hd2.tudocdn.net/1361748?w=660",
-      "publishedAt": "2026-08-07T12:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "70% di sconto?! Il robot Lefant M210 PRO OMNI a un prezzo assurdo su Amazon",
@@ -183,24 +219,6 @@
       "publishedAt": "2026-08-07T12:51:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il New Mexico impone a Meta pesanti modifiche per gli account dei minori",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n666668/il-new-mexico-impone-a-meta-pesanti-modifiche-per-gli-account-dei-minori/",
-      "excerpt": "Meta perde la causa avviata dal New Mexico e dovrà finanziare un fondo da 567 milioni di dollari oltre a modificare profondamente il funzionamento di Facebook e Instagram per i…",
-      "image": "https://hd2.tudocdn.net/1361746?w=660",
-      "publishedAt": "2026-08-07T12:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Nissan-NX7, debutta il nuovo SUV elettrico e range extender: arriverà in Europa?",
-      "link": "https://www.hdmotori.it/nissan-nx7-nuovo-suv-elettrico-range-extender/",
-      "excerpt": "La Casa giapponese ha intenzione di sfruttare la collaborazione con Dongfeng per il lancio di un nuovo SUV alla spina chiamato NX7.",
-      "image": "https://hd2.tudocdn.net/1361750?w=660",
-      "publishedAt": "2026-08-07T12:30:49+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "I primi virus creati in laboratori con l’IA generativa per attaccare i batteri. Lo studio riapre il tema della biosicurezza",
@@ -221,20 +239,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Insta360 Go Ultra parla con te: l'ultimo aggiornamento porta l'assistente vocale AI",
-      "link": "https://www.hdblog.it/fotografia/articoli/n666277/insta360-go-ultra-assistente-vocale-disponibile/",
-      "excerpt": "Quattro funzioni che rendono smart la piccola videocamera indossabile.",
-      "image": "https://hd2.tudocdn.net/1360794?w=660",
-      "publishedAt": "2026-08-07T12:01:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Migliori SSD M.2 NVMe economici (agosto 2026)",
-      "link": "https://www.tomshw.it/hardware/migliore-ssd-nvme-economico",
-      "excerpt": "Scegliere il miglior SSD M.2 NVMe economico oggi significa trovare il punto giusto tra velocità, capacità, compatibilità e affidabilità. I modelli PCIe 4.0 sono diventati molto…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/87640/migliori-ssd-m2-nvme-economici-copertina.jpg",
-      "publishedAt": "2026-08-07T11:14:45+00:00",
+      "title": "Migliori mouse ergonomici e verticali (agosto 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-mouse-ergonomici",
+      "excerpt": "Scegliere il miglior mouse ergonomico o verticale non significa soltanto trovare una periferica più comoda di un mouse tradizionale. Chi lavora molte ore al computer, alterna…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/87666/migliori-mouse-ergonomici-e-verticali-copertina.jpg",
+      "publishedAt": "2026-08-07T11:20:34+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -257,22 +266,13 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Il primo dispositivo di OpenAI sarà una ciambella di metallo con parti in movimento",
-      "link": "https://images.dday.it/PeRoWG4GoXQOmHH-eifJQzEcsqWeEoCV-FufgmgUsj0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58306/beb669_small_ChatGPT_Image_7_ago_2026__11_14_15_copia.png",
-      "excerpt": "Grande come un disco da hockey, alimentato a batteria, con videocamera e sensori. Il prezzo potrebbe andare dai 300 ai 400 dollari... Leggi tutto",
-      "image": "https://images.dday.it/PeRoWG4GoXQOmHH-eifJQzEcsqWeEoCV-FufgmgUsj0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58306/beb669_small_ChatGPT_Image_7_ago_2026__11_14_15_copia.png",
-      "publishedAt": "2026-08-07T09:16:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Suno si impone dei limiti per la musica generata con l’IA: arrivano i watermark e i limiti ai download",
-      "link": "https://images.dday.it/4Nv-6111r4U87jyYBFIyKyKdbijfHSFxswpDQojDUIw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58305/d11894_1722519437-suno-announcement-banner.png",
-      "excerpt": "La piattaforma introdurrà nuovi strumenti per identificare i brani creati con i suoi modelli e renderà più difficile esportare musica in massa verso i servizi di streaming...…",
-      "image": "https://images.dday.it/4Nv-6111r4U87jyYBFIyKyKdbijfHSFxswpDQojDUIw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58305/d11894_1722519437-suno-announcement-banner.png",
-      "publishedAt": "2026-08-07T08:11:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
+      "title": "Come trasformare i dati aziendali con l'AI sfruttando il RAG",
+      "link": "https://www.tomshw.it/aioperator/come-trasformare-i-dati-aziendali-con-lai-sfruttando-il-rag",
+      "excerpt": "Un responsabile acquisti apre una chat interna e chiede quali clausole di recesso valgono per un fornitore specifico, e ottiene il paragrafo esatto del contratto citato in calce.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104807/04-ai11-cover.jpg",
+      "publishedAt": "2026-07-31T09:01:16+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     }
   ]
 }
