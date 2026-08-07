@@ -1,26 +1,197 @@
 {
-  "generatedAt": "2026-08-07T12:43:50.526582+00:00",
+  "generatedAt": "2026-08-07T14:46:16.889888+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Voyager 2 sopravvive al \"Big Bang\" della NASA",
-      "link": "https://www.tomshw.it/scienze/voyager-2-sopravvive-al-big-bang-della-nasa",
-      "excerpt": "Gli ingegneri della NASA hanno completato su Voyager 2 una delicata riconfigurazione elettrica soprannominata «Big Bang». La sonda viaggia nello spazio da 49 anni e dispone ormai…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106299/voyager-2-sopravvive-al-big-bang-della-nasa.png",
-      "publishedAt": "2026-08-07T12:35:02+00:00",
+      "title": "Tesla e SpaceX costruiscono la fabbrica di chip più grande mai vista",
+      "link": "https://www.hdblog.it/mercato/articoli/n666603/tesla-spacex-terafab-chip-factory/",
+      "excerpt": "Tesla e SpaceX avviano Terafab, la maxi fabbrica di chip dedicata ad AI, robot e spazio.",
+      "image": "https://hd2.tudocdn.net/1361473?w=660",
+      "publishedAt": "2026-08-07T14:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google apre la sua AI per prevedere gli uragani in anticipo",
+      "link": "https://www.tomshw.it/hardware/google-apre-la-sua-ai-per-prevedere-gli-uragani-un-giorno-prima",
+      "excerpt": "Google ha reso disponibile un nuovo modello di intelligenza artificiale progettato per migliorare le previsioni dei cicloni tropicali. Sviluppato dai ricercatori di Google…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106377/google-apre-la-sua-ai-per-prevedere-gli-uragani-un-giorno-prima.png",
+      "publishedAt": "2026-08-07T14:31:29+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "L’hardware di Artemis ha un nemico, la NASA lo sfida sulla Terra",
-      "link": "https://www.tomshw.it/scienze/lhardware-di-artemis-ha-un-nemico-la-nasa-lo-sfida-sulla-terra",
-      "excerpt": "Gli ingegneri della NASA stanno mettendo alla prova tute, giunti e componenti spaziali prima che raggiungano la Luna con il programma Artemis. I test si svolgono al Johnson Space…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106295/l-hardware-di-artemis-ha-un-nemico-la-nasa-lo-sfida-sulla-terra.png",
-      "publishedAt": "2026-08-07T12:31:52+00:00",
+      "title": "Gli smartphone più venduti di luglio 2026: Galaxy S26 Ultra domina con le super offerte | Video",
+      "link": "https://www.hdblog.it/smartphone/speciali/n666301/smartphone-piu-venduti-luglio-estate/",
+      "excerpt": "Abbiamo raccolto i dati di vendita dei link affiliati di Amazon a luglio 2026, ecco quali sono stati i prodotti più venduti!",
+      "image": "https://hd2.tudocdn.net/1361503?w=660",
+      "publishedAt": "2026-08-07T14:31:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Mazda, nuova sportiva in arrivo: cosa sappiamo sull’erede della RX-7",
+      "link": "https://www.hdmotori.it/mazda-erede-rx-7/",
+      "excerpt": "Il marchio di Fuchū potrebbe rilanciare in una chiave moderna la RX-7. La sportiva roadster ha fatto la storia nel mercato JDM.",
+      "image": "https://hd2.tudocdn.net/1361777?w=660",
+      "publishedAt": "2026-08-07T14:30:01+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "LightSpy: il malware multi-dispositivo gira anche in Italia",
+      "link": "https://www.tomshw.it/hardware/lightspy-spia-smartphone-pc-e-router-72-server-in-13-paesi",
+      "excerpt": "Una rete di 72 server di comando e controllo ha sostenuto operazioni di sorveglianza in almeno 13 Paesi, compresi gli Stati Uniti e diversi Paesi europei. L’infrastruttura è stata…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106358/news-flash-670491.png",
+      "publishedAt": "2026-08-07T14:22:26+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Modifiche al Codice della Strada, il MIT prosegue: aperta la consultazione. Non servirà più la patente fisica",
+      "link": "https://images.dday.it/xHdEemP7EeOXNt57mYldnGssKrZnaPCPkZiZdPFFgkg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58315/ae5ca1_codicestrada_thumb.jpg",
+      "excerpt": "Le osservazioni potranno essere inviate fino al 13 settembre. La proposta punta a riscrivere l’impianto normativo attuale: patente C possibile già a 17 anni... Leggi tutto",
+      "image": "https://images.dday.it/xHdEemP7EeOXNt57mYldnGssKrZnaPCPkZiZdPFFgkg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58315/ae5ca1_codicestrada_thumb.jpg",
+      "publishedAt": "2026-08-07T14:10:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "BMW i3, produzione anticipata: tutti vogliono l'elettrica",
+      "link": "https://www.tomshw.it/automotive/bmw-i3-produzione-al-via-la-forte-domanda-accelera-i-volumi",
+      "excerpt": "La nuova BMW i3 è entrata ufficialmente in produzione nello stabilimento principale di Monaco il 6 agosto 2026. BMW Group prevede una crescita rapida dei volumi, sostenuta dalla…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106356/P90651994-start-of-production-bmw-i3-at-bmw-plant-munich-08-2026-2519px.jpg",
+      "publishedAt": "2026-08-07T14:09:11+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La fame di memoria spinge SK hynix a investire 38 miliardi",
+      "link": "https://www.tomshw.it/hardware/la-fame-di-memoria-spinge-sk-hynix-a-investire-38-miliardi",
+      "excerpt": "SK hynix ha annunciato un investimento da 54.000 miliardi di won, equivalenti a circa 38,1 miliardi di dollari, per costruire due nuovi impianti produttivi in Corea del Sud. Il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106354/la-fame-di-memoria-spinge-sk-hynix-a-investire-38-miliardi.png",
+      "publishedAt": "2026-08-07T14:05:47+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "BaByliss Straight and Curl al 53% in meno, un affare contro il crespo",
+      "link": "https://www.tomshw.it/offerte/babyliss-straight-and-curl-al-53-in-meno-un-affare-contro-il-crespo",
+      "excerpt": "BaByliss Straight and Curl Brilliance costa 47,40€ su Amazon: il prezzo di listino è di 99,90€ e lo sconto raggiunge il 53%. Piastre in titanio, riscaldamento in 15 secondi e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106355/tomshw-offer-670469.png",
+      "publishedAt": "2026-08-07T14:04:09+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Troppe richieste: BMW avvia subito la produzione della i3",
+      "link": "https://www.hdmotori.it/bmw-produzione-i3/",
+      "excerpt": "Al via a Monaco la produzione della nuova BMW i3 elettrica. Forte domanda, costi tagliati del 10% e cantiere da record senza fermare le linee di montaggio.",
+      "image": "https://hd2.tudocdn.net/1361769?w=660",
+      "publishedAt": "2026-08-07T14:00:41+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Gli occhiali anti-AI di DuckDuckGo sono già andati esauriti",
+      "link": "https://www.tomshw.it/hardware/gli-occhiali-senza-ai-di-duckduckgo-vanno-subito-esauriti",
+      "excerpt": "DuckDuckGo ha lanciato gli occhiali da sole Paso Robles, un prodotto volutamente privo di intelligenza artificiale, fotocamere e connessioni al cloud. Il modello è andato esaurito…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106353/gli-occhiali-senza-ai-di-duckduckgo-vanno-subito-esauriti.png",
+      "publishedAt": "2026-08-07T13:58:53+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "BYD brevetta una nuova batteria allo stato solido, ecco cosa cambia",
+      "link": "https://www.tomshw.it/automotive/due-elettroliti-per-la-batteria-solida-byd-la-testera-nel-2027",
+      "excerpt": "BYD ha delineato attraverso sei brevetti una nuova architettura per la batteria allo stato solido, basata sulla combinazione di materiali con proprietà complementari. Il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106352/due-elettroliti-per-la-batteria-solida-byd-la-testera-nel-2027.png",
+      "publishedAt": "2026-08-07T13:55:10+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "ByteDance sfida Anthropic, l'AI punta a 10mila miliardi di parametri",
+      "link": "https://www.tomshw.it/hardware/bytedance-sfida-anthropic-lai-punta-a-10mila-miliardi-di-parametri",
+      "excerpt": "ByteDance ha avviato la fase iniziale di addestramento di un modello AI che potrebbe raggiungere i 10mila miliardi di parametri. Il progetto punta a confrontarsi direttamente con…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106351/bytedance-sfida-anthropic-l-ai-punta-a-10mila-miliardi-di-parametri.png",
+      "publishedAt": "2026-08-07T13:51:36+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Tesla ha scelto il Texas per Terafab, la maxi fabbrica di chip. Quasi 17 miliardi di dollari per la fase iniziale",
+      "link": "https://images.dday.it/1whZEewm_RHFj4pFzhQqLkWgwSM3eyiWO_BeeLpqZpE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58313/474858_tesla_thumb.jpg",
+      "excerpt": "Il progetto sorgerà nella contea di Grimes, a nord-ovest di Houston, e punta a integrare produzione, memoria, packaging e test dei semiconduttori... Leggi tutto",
+      "image": "https://images.dday.it/1whZEewm_RHFj4pFzhQqLkWgwSM3eyiWO_BeeLpqZpE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58313/474858_tesla_thumb.jpg",
+      "publishedAt": "2026-08-07T13:37:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Con l'ultima novità Google Foto diventa meno \"scintillante\"",
+      "link": "https://www.hdblog.it/google/articoli/n666671/google-foto-effetto-luccicante-sticker-adesivi/",
+      "excerpt": "Un'opzione in più che riguarda gli adesivi.",
+      "image": "https://hd2.tudocdn.net/1355857?w=660",
+      "publishedAt": "2026-08-07T13:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Amazon aumenta i prezzi di Music Unlimited. Chi non vuole gli audiolibri paga come prima",
+      "link": "https://images.dday.it/mceiTiPOXsZKQGgdPdXixjNdcrnGpcLY9FH7tGnDbCw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58312/f77e20_mus.jpg",
+      "excerpt": "Amazon ha annunciato ieri un aumento delle tariffe di Music Unlimited. Per il piano famiglia l’aumento è di 50 euro all’anno, anche se chi è interessato alla musica può pagare…",
+      "image": "https://images.dday.it/mceiTiPOXsZKQGgdPdXixjNdcrnGpcLY9FH7tGnDbCw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58312/f77e20_mus.jpg",
+      "publishedAt": "2026-08-07T13:17:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Carabinieri in e-bike: tra i turisti in spiaggia c'è un \"Arma\" in più",
+      "link": "https://www.hdmotori.it/carabinieri-e-bike-spiaggia/",
+      "excerpt": "A Montalto Marina i Carabinieri abbandonano le auto d'ordinanza bloccate dal traffico d'agosto e passano alle e-bike per i controlli di sicurezza sul lungomare.",
+      "image": "https://hd2.tudocdn.net/1361758?w=660",
+      "publishedAt": "2026-08-07T13:00:29+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Risparmiare sull'hardware potrebbe essere una cattiva idea",
+      "link": "https://www.tomshw.it/business/risparmiare-su-un-ssd-conviene-finche-non-si-rompe",
+      "excerpt": "Molte aziende trattano lo storage come una voce di budget qualunque e installano SSD NVMe di derivazione consumer per risparmiare qualche decina di euro sull'acquisto. È un errore…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106257/guasti-hardware-costi-operativi-cover.jpg",
+      "publishedAt": "2026-08-07T13:00:09+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Apple corregge una grave vulnerabilità: update per macOS Tahoe, Sequoia, Sonoma",
+      "link": "https://www.hdblog.it/apple/articoli/n666667/apple-macos-aggiornamento-screen-sharing-sicurezza/",
+      "excerpt": "Conviene installarlo subito.",
+      "image": "https://hd2.tudocdn.net/1361748?w=660",
+      "publishedAt": "2026-08-07T12:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "70% di sconto?! Il robot Lefant M210 PRO OMNI a un prezzo assurdo su Amazon",
+      "link": "https://images.dday.it/ZJQDu0KefIx9TPrpA1bO3HBMcDTBbH4Nzehk6O1UpYU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58311/0958db_cove_rfdfsdfs_copia.jpg",
+      "excerpt": "Costa 299,99 euro invece di 999,99. Il Lefant M210 PRO OMNI aspira e lava con rullo autopulente. Ha la base multifunzione, la navigazione laser e può evitare anche i piccoli…",
+      "image": "https://images.dday.it/ZJQDu0KefIx9TPrpA1bO3HBMcDTBbH4Nzehk6O1UpYU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58311/0958db_cove_rfdfsdfs_copia.jpg",
+      "publishedAt": "2026-08-07T12:51:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Il New Mexico impone a Meta pesanti modifiche per gli account dei minori",
+      "link": "https://www.hdblog.it/applicazioni/articoli/n666668/il-new-mexico-impone-a-meta-pesanti-modifiche-per-gli-account-dei-minori/",
+      "excerpt": "Meta perde la causa avviata dal New Mexico e dovrà finanziare un fondo da 567 milioni di dollari oltre a modificare profondamente il funzionamento di Facebook e Instagram per i…",
+      "image": "https://hd2.tudocdn.net/1361746?w=660",
+      "publishedAt": "2026-08-07T12:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
     },
     {
       "title": "Nissan-NX7, debutta il nuovo SUV elettrico e range extender: arriverà in Europa?",
@@ -32,15 +203,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Le RAM cinesi CXMT volano a 8.800 MT/s sulle motherboard AM5",
-      "link": "https://www.tomshw.it/hardware/le-ram-cinesi-cxmt-volano-a-8800-mts-sulle-motherboard-am5",
-      "excerpt": "Colorful ha spinto le memorie basate su chip CXMT fino a 8.800 MT/s sulla piattaforma AMD X870E. Il risultato interessa sia un kit da 32 GB sia uno da 48 GB e porta la tecnologia…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106292/le-ram-cinesi-cxmt-volano-a-8-800-mt-s-sulle-motherboard-am5.png",
-      "publishedAt": "2026-08-07T12:14:33+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "I primi virus creati in laboratori con l’IA generativa per attaccare i batteri. Lo studio riapre il tema della biosicurezza",
       "link": "https://images.dday.it/s2sXMjKKlGv4PWuzbsZqKb-CwyJvp5i9zTDFqKrCD7o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58310/f16b6b_Depositphotos_5646196_XL.jpg",
       "excerpt": "Alcune delle sequenze generate hanno prodotto fagi capaci di colpire ceppi di E. coli resistenti. Gli stessi autori però chiedono nuove garanzie sul fronte della sicurezza...…",
@@ -48,42 +210,6 @@
       "publishedAt": "2026-08-07T12:14:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Antmicro rende open source il suo adattatore Thunderbolt dual 10GbE",
-      "link": "https://www.tomshw.it/hardware/antmicro-rende-open-source-il-suo-adattatore-thunderbolt-dual-10gbe",
-      "excerpt": "Antmicro ha pubblicato di recente i sorgenti hardware completi del suo adattatore di rete con collegamento Thunderbolt 3 e due porte Ethernet da 10 Gbit/s. Schemi, layout del…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106288/antmicro-rende-open-source-il-suo-adattatore-thunderbolt-dual-10gbe.png",
-      "publishedAt": "2026-08-07T12:06:32+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Claude Code e Gemini CLI, corrette due vulnerabilità nei sistemi CI",
-      "link": "https://www.tomshw.it/hardware/una-issue-github-puo-esporre-i-segreti-ci-di-claude-code-e-gemini",
-      "excerpt": "Una issue GitHub aperta da un account privo di privilegi sul repository poteva trasformarsi in un punto d’ingresso nei sistemi di continuous integration usati per gli agenti di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106286/una-issue-github-puo-esporre-i-segreti-ci-di-claude-code-e-gemini.png",
-      "publishedAt": "2026-08-07T12:05:34+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "I malware possono sfruttare Windows Hello per non perdere l’accesso",
-      "link": "https://www.tomshw.it/hardware/i-malware-possono-sfruttare-windows-hello-per-non-perdere-laccesso",
-      "excerpt": "Il ricercatore di Entra ID Dirk-jan Mollema ha dimostrato che un malware già in esecuzione nella sessione Windows di una vittima può usare silenziosamente la chiave di Windows…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106283/i-malware-possono-sfruttare-windows-hello-per-non-perdere-l-accesso.png",
-      "publishedAt": "2026-08-07T12:03:40+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "soundcore C40i al 41% in meno, open-ear comodi da mattina a sera",
-      "link": "https://www.tomshw.it/offerte/soundcore-c40i-al-41-in-meno-open-ear-comodi-da-mattina-a-sera",
-      "excerpt": "I soundcore C40i costano 58,99€ su Amazon invece di 99,99€ di listino, con uno sconto del 41%. Il design open-ear a clip punta su ascolto prolungato, stabilità e consapevolezza di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106287/tomshw-offer-670231.png",
-      "publishedAt": "2026-08-07T12:03:10+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Parti in vacanza? Questo router WiFi portatile TP-Link è in offerta e ti porta internet sempre con te",
@@ -104,85 +230,13 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Sinner, a Monte Carlo la sua Ferrari non è passata inosservata",
-      "link": "https://www.hdmotori.it/sinner-monte-carlo-ferrari/",
-      "excerpt": "Jannik Sinner è stato pizzicato nel Principato di Monaco accanto alla sua nuova Ferrari da mezzo milione di euro.",
-      "image": "https://hd2.tudocdn.net/1361745?w=660",
-      "publishedAt": "2026-08-07T12:00:31+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Fastweb, aumenti da settembre per alcuni clienti di linea fissa",
-      "link": "https://www.hdblog.it/mobile/articoli/n666665/fastweb-aumenti-linea-fissa-offerte-quali-settembre/",
-      "excerpt": "Ecco perché, quali offerte sono protagoniste della misura e a quanto ammonta il rincaro",
-      "image": "https://hd2.tudocdn.net/1232587?w=660",
-      "publishedAt": "2026-08-07T11:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Chip dedicato o GPU: le imprese italiane devono rifare il capitolato AI",
-      "link": "https://www.tomshw.it/business/chip-dedicato-o-gpu-le-imprese-italiane-devono-rifare-il-capitolato-ai",
-      "excerpt": "AMD ha raggiunto un accordo per acquisire Taalas, startup di Toronto che trasforma singoli modelli di intelligenza artificiale in acceleratori dedicati. Il prezzo dell’operazione…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106250/costi-ai-piu-bassi-ma-meno-flessibilita-lacquisizione-amd-apre-una-nuova-scelta.png",
-      "publishedAt": "2026-08-07T11:49:21+00:00",
+      "title": "Migliori SSD M.2 NVMe economici (agosto 2026)",
+      "link": "https://www.tomshw.it/hardware/migliore-ssd-nvme-economico",
+      "excerpt": "Scegliere il miglior SSD M.2 NVMe economico oggi significa trovare il punto giusto tra velocità, capacità, compatibilità e affidabilità. I modelli PCIe 4.0 sono diventati molto…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/87640/migliori-ssd-m2-nvme-economici-copertina.jpg",
+      "publishedAt": "2026-08-07T11:14:45+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Musica AI per le imprese italiane: il watermark può bloccarne la distribuzione",
-      "link": "https://www.tomshw.it/business/musica-ai-per-le-imprese-italiane-il-watermark-puo-bloccarne-la-distribuzione",
-      "excerpt": "Suno introdurrà nelle prossime settimane nuove tecnologie di watermarking e fingerprinting per rendere riconoscibili le canzoni create con i suoi modelli. Per agenzie, produttori…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106238/musica-ai-per-le-imprese-italiane-il-watermark-puo-bloccarne-la-distribuzione.png",
-      "publishedAt": "2026-08-07T11:41:53+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Nikita Bier lascia il ruolo di capo di X dopo poco più di un anno",
-      "link": "https://www.hdblog.it/mercato/articoli/n666661/nikita-brier-lascia-ruolo-capo-x/",
-      "excerpt": "Da capo del prodotto a semplice utente: Nikita Bier passa il testimone sulla piattaforma di Musk",
-      "image": "https://hd2.tudocdn.net/1361738?w=660",
-      "publishedAt": "2026-08-07T11:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "TIM entra nel mercato delle eSIM da viaggio con una formula originale",
-      "link": "https://www.hdblog.it/tim/articoli/n666662/tim-esim-viaggio-non-cliente-costi/",
-      "excerpt": "TIM lancia le nuove eSIM Travel acquistabili anche da chi non è cliente. La soluzione abbina una normale eSIM TIM a un pacchetto roaming TIM in Viaggio Pass, con attivazione…",
-      "image": "https://hd2.tudocdn.net/1345730?w=660",
-      "publishedAt": "2026-08-07T11:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Google Wallet: i genitori possono inviare la \"paghetta digitale\" ai figli negli USA",
-      "link": "https://www.hdblog.it/google/articoli/n666660/google-wallet-figli-family-link-inviare-soldi/",
-      "excerpt": "Ecco come funziona.",
-      "image": "https://hd2.tudocdn.net/1361736?w=660",
-      "publishedAt": "2026-08-07T11:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung presenta ISOCELL HPC da 200 MP: lo vedremo sui Galaxy S27?",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666654/samsung-sensore-isocell-hpc-200-mp-galaxy-s27/",
-      "excerpt": "Più luce e meno rumore grazie alla tecnologia DeepPix.",
-      "image": "https://hd2.tudocdn.net/1349938?w=660",
-      "publishedAt": "2026-08-07T11:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "G-Shock G-Steel GST-B1000: più sottile, leggero e connesso",
-      "link": "https://www.hdblog.it/indossabili/articoli/n666644/casio-gst-b1000-tough-solar-bluetooth/",
-      "excerpt": "Il nuovo G-Steel unisce resistenza G-Shock, ricarica solare e Bluetooth in 58 grammi.",
-      "image": "https://hd2.tudocdn.net/1361632?w=660",
-      "publishedAt": "2026-08-07T10:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Samsung ISOCELL HPC, il sensore da 200 MP che riprogetta il singolo pixel e scatta HDR 16 bit in un colpo solo",
@@ -192,24 +246,6 @@
       "publishedAt": "2026-08-07T10:41:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Samsung semplifica il passaggio da iPhone: passa WhatsApp e c'è l'assistenza",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666658/passaggio-iphone-galaxy-piu-semplice/",
-      "excerpt": "Samsung aggiorna Smart Switch con One UI 9 e introduce un trasferimento dati ancora più semplice da iPhone. Basta un QR Code per migrare contatti, foto, WhatsApp, password e altri…",
-      "image": "https://hd2.tudocdn.net/1359540?w=660",
-      "publishedAt": "2026-08-07T10:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Gears of War E-Day frantuma i record su Steam",
-      "link": "https://www.tomshw.it/videogioco/gears-of-war-e-day-14-331-giocatori-simultanei-record-della-serie",
-      "excerpt": "La beta multiplayer di Gears of War: E-Day ha raggiunto almeno 14.331 giocatori simultanei su Steam, stabilendo il nuovo massimo della serie sulla piattaforma Valve. SteamDB ha…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106258/header.jpg",
-      "publishedAt": "2026-08-07T10:30:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Ufficiali Redmi 17 e Redmi 17 5G: batteria da 7.500 mAh e prezzi da 249 euro",
@@ -235,42 +271,6 @@
       "excerpt": "La piattaforma introdurrà nuovi strumenti per identificare i brani creati con i suoi modelli e renderà più difficile esportare musica in massa verso i servizi di streaming...…",
       "image": "https://images.dday.it/4Nv-6111r4U87jyYBFIyKyKdbijfHSFxswpDQojDUIw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58305/d11894_1722519437-suno-announcement-banner.png",
       "publishedAt": "2026-08-07T08:11:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Festa per gli utenti free di ChatGPT, le chat di testo diventano illimitate",
-      "link": "https://images.dday.it/5F2KB66bPnB9GNJyp1Wxh_enZq3O_nahk6wNWfcohmM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58304/4f53b1_ChatGPT_Image_7_ago_2026__09_19_01.png",
-      "excerpt": "Free e Go passano a GPT-5.6 Luna e ottengono chat di testo illimitate. Plus e Pro ricevono il nuovo Sol con un cursore per regolare l’impegno... Leggi tutto",
-      "image": "https://images.dday.it/5F2KB66bPnB9GNJyp1Wxh_enZq3O_nahk6wNWfcohmM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58304/4f53b1_ChatGPT_Image_7_ago_2026__09_19_01.png",
-      "publishedAt": "2026-08-07T07:36:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Quando compra l’IA, chi entra davvero nello store? Amazon perde contro Perplexity",
-      "link": "https://images.dday.it/lc3O0qklsZnQo0T533QEDKBp8GWGSyaaQfUJ27VvmYA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58303/2ac974_coev_rDepositphotos_472312256_L_copia.jpg",
-      "excerpt": "Amazon voleva bloccare gli acquisti effettuati dall’assistente di Perplexity. Per i giudici, però, l’IA è uno strumento nelle mani dell’utente e non è lei a “entrare” nei sistemi…",
-      "image": "https://images.dday.it/lc3O0qklsZnQo0T533QEDKBp8GWGSyaaQfUJ27VvmYA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58303/2ac974_coev_rDepositphotos_472312256_L_copia.jpg",
-      "publishedAt": "2026-08-06T14:09:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "La telecamera Arlo Essential HD è in super offerta su Amazon: proteggi la casa spendendo meno",
-      "link": "https://images.dday.it/c79EFoQLXMngyx-MWkBMmc8BP0w7vC9wfzK5iuWDhMo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58302/1cf244_81zLUeBzQNL._AC_SL1500_.jpg",
-      "excerpt": "Senza fili e facile da installare, offre video in HD, rilevamento del movimento e notifiche in tempo reale: ora puoi acquistarla a un prezzo scontato su Amazon... Leggi tutto",
-      "image": "https://images.dday.it/c79EFoQLXMngyx-MWkBMmc8BP0w7vC9wfzK5iuWDhMo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58302/1cf244_81zLUeBzQNL._AC_SL1500_.jpg",
-      "publishedAt": "2026-08-06T13:42:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "GTA VI cambia le regole. L'anteprima verrà trasmessa su Netflix",
-      "link": "https://images.dday.it/Bwo87QUylAV0e-Ly4EXoxrvhbb64iqjSGDTKsS72g4k/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58301/819347_Screenshot_2026-08-06_alle_15.00.33.png",
-      "excerpt": "Una \"lunga anteprima\" sarà trasmessa su Netflix e poche ore dopo su YouTube e il sito ufficiale... Leggi tutto",
-      "image": "https://images.dday.it/Bwo87QUylAV0e-Ly4EXoxrvhbb64iqjSGDTKsS72g4k/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58301/819347_Screenshot_2026-08-06_alle_15.00.33.png",
-      "publishedAt": "2026-08-06T12:51:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
