@@ -1,17 +1,188 @@
 {
-  "generatedAt": "2026-08-07T10:43:47.693240+00:00",
+  "generatedAt": "2026-08-07T12:43:50.526582+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Trails in the Sky 2nd Chapter: Brave Rush nel trailer, esce il 17 settembre",
-      "link": "https://www.tomshw.it/videogioco/trails-in-the-sky-2nd-chapter-brave-rush-nel-trailer-esce-il",
-      "excerpt": "La scomparsa di Joshua mette subito Estelle di fronte a un nuovo viaggio attraverso Liberl. Il trailer ufficiale di Trails in the Sky 2nd Chapter, diffuso da GungHo Online…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106267/Trails-in-the-Sky-2nd-Chapter_Julia-Schwarz-2.jpg",
-      "publishedAt": "2026-08-07T10:41:41+00:00",
+      "title": "Voyager 2 sopravvive al \"Big Bang\" della NASA",
+      "link": "https://www.tomshw.it/scienze/voyager-2-sopravvive-al-big-bang-della-nasa",
+      "excerpt": "Gli ingegneri della NASA hanno completato su Voyager 2 una delicata riconfigurazione elettrica soprannominata «Big Bang». La sonda viaggia nello spazio da 49 anni e dispone ormai…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106299/voyager-2-sopravvive-al-big-bang-della-nasa.png",
+      "publishedAt": "2026-08-07T12:35:02+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "L’hardware di Artemis ha un nemico, la NASA lo sfida sulla Terra",
+      "link": "https://www.tomshw.it/scienze/lhardware-di-artemis-ha-un-nemico-la-nasa-lo-sfida-sulla-terra",
+      "excerpt": "Gli ingegneri della NASA stanno mettendo alla prova tute, giunti e componenti spaziali prima che raggiungano la Luna con il programma Artemis. I test si svolgono al Johnson Space…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106295/l-hardware-di-artemis-ha-un-nemico-la-nasa-lo-sfida-sulla-terra.png",
+      "publishedAt": "2026-08-07T12:31:52+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Nissan-NX7, debutta il nuovo SUV elettrico e range extender: arriverà in Europa?",
+      "link": "https://www.hdmotori.it/nissan-nx7-nuovo-suv-elettrico-range-extender/",
+      "excerpt": "La Casa giapponese ha intenzione di sfruttare la collaborazione con Dongfeng per il lancio di un nuovo SUV alla spina chiamato NX7.",
+      "image": "https://hd2.tudocdn.net/1361750?w=660",
+      "publishedAt": "2026-08-07T12:30:49+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Le RAM cinesi CXMT volano a 8.800 MT/s sulle motherboard AM5",
+      "link": "https://www.tomshw.it/hardware/le-ram-cinesi-cxmt-volano-a-8800-mts-sulle-motherboard-am5",
+      "excerpt": "Colorful ha spinto le memorie basate su chip CXMT fino a 8.800 MT/s sulla piattaforma AMD X870E. Il risultato interessa sia un kit da 32 GB sia uno da 48 GB e porta la tecnologia…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106292/le-ram-cinesi-cxmt-volano-a-8-800-mt-s-sulle-motherboard-am5.png",
+      "publishedAt": "2026-08-07T12:14:33+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "I primi virus creati in laboratori con l’IA generativa per attaccare i batteri. Lo studio riapre il tema della biosicurezza",
+      "link": "https://images.dday.it/s2sXMjKKlGv4PWuzbsZqKb-CwyJvp5i9zTDFqKrCD7o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58310/f16b6b_Depositphotos_5646196_XL.jpg",
+      "excerpt": "Alcune delle sequenze generate hanno prodotto fagi capaci di colpire ceppi di E. coli resistenti. Gli stessi autori però chiedono nuove garanzie sul fronte della sicurezza...…",
+      "image": "https://images.dday.it/s2sXMjKKlGv4PWuzbsZqKb-CwyJvp5i9zTDFqKrCD7o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58310/f16b6b_Depositphotos_5646196_XL.jpg",
+      "publishedAt": "2026-08-07T12:14:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Antmicro rende open source il suo adattatore Thunderbolt dual 10GbE",
+      "link": "https://www.tomshw.it/hardware/antmicro-rende-open-source-il-suo-adattatore-thunderbolt-dual-10gbe",
+      "excerpt": "Antmicro ha pubblicato di recente i sorgenti hardware completi del suo adattatore di rete con collegamento Thunderbolt 3 e due porte Ethernet da 10 Gbit/s. Schemi, layout del…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106288/antmicro-rende-open-source-il-suo-adattatore-thunderbolt-dual-10gbe.png",
+      "publishedAt": "2026-08-07T12:06:32+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Claude Code e Gemini CLI, corrette due vulnerabilità nei sistemi CI",
+      "link": "https://www.tomshw.it/hardware/una-issue-github-puo-esporre-i-segreti-ci-di-claude-code-e-gemini",
+      "excerpt": "Una issue GitHub aperta da un account privo di privilegi sul repository poteva trasformarsi in un punto d’ingresso nei sistemi di continuous integration usati per gli agenti di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106286/una-issue-github-puo-esporre-i-segreti-ci-di-claude-code-e-gemini.png",
+      "publishedAt": "2026-08-07T12:05:34+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "I malware possono sfruttare Windows Hello per non perdere l’accesso",
+      "link": "https://www.tomshw.it/hardware/i-malware-possono-sfruttare-windows-hello-per-non-perdere-laccesso",
+      "excerpt": "Il ricercatore di Entra ID Dirk-jan Mollema ha dimostrato che un malware già in esecuzione nella sessione Windows di una vittima può usare silenziosamente la chiave di Windows…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106283/i-malware-possono-sfruttare-windows-hello-per-non-perdere-l-accesso.png",
+      "publishedAt": "2026-08-07T12:03:40+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "soundcore C40i al 41% in meno, open-ear comodi da mattina a sera",
+      "link": "https://www.tomshw.it/offerte/soundcore-c40i-al-41-in-meno-open-ear-comodi-da-mattina-a-sera",
+      "excerpt": "I soundcore C40i costano 58,99€ su Amazon invece di 99,99€ di listino, con uno sconto del 41%. Il design open-ear a clip punta su ascolto prolungato, stabilità e consapevolezza di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106287/tomshw-offer-670231.png",
+      "publishedAt": "2026-08-07T12:03:10+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Parti in vacanza? Questo router WiFi portatile TP-Link è in offerta e ti porta internet sempre con te",
+      "link": "https://images.dday.it/IsrsfyTuIkVIk8QFRVSXbfw8F3KmYSbiYK6nHjcdm0M/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58309/78e262_71g818yKAHL._AC_SL1500_.jpg",
+      "excerpt": "Scopri TP-Link M7005, il router WiFi portatile con SIM e tecnologia WiFi 6, ora disponibile a un prezzo speciale... Leggi tutto",
+      "image": "https://images.dday.it/IsrsfyTuIkVIk8QFRVSXbfw8F3KmYSbiYK6nHjcdm0M/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58309/78e262_71g818yKAHL._AC_SL1500_.jpg",
+      "publishedAt": "2026-08-07T12:02:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Insta360 Go Ultra parla con te: l'ultimo aggiornamento porta l'assistente vocale AI",
+      "link": "https://www.hdblog.it/fotografia/articoli/n666277/insta360-go-ultra-assistente-vocale-disponibile/",
+      "excerpt": "Quattro funzioni che rendono smart la piccola videocamera indossabile.",
+      "image": "https://hd2.tudocdn.net/1360794?w=660",
+      "publishedAt": "2026-08-07T12:01:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Sinner, a Monte Carlo la sua Ferrari non è passata inosservata",
+      "link": "https://www.hdmotori.it/sinner-monte-carlo-ferrari/",
+      "excerpt": "Jannik Sinner è stato pizzicato nel Principato di Monaco accanto alla sua nuova Ferrari da mezzo milione di euro.",
+      "image": "https://hd2.tudocdn.net/1361745?w=660",
+      "publishedAt": "2026-08-07T12:00:31+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Fastweb, aumenti da settembre per alcuni clienti di linea fissa",
+      "link": "https://www.hdblog.it/mobile/articoli/n666665/fastweb-aumenti-linea-fissa-offerte-quali-settembre/",
+      "excerpt": "Ecco perché, quali offerte sono protagoniste della misura e a quanto ammonta il rincaro",
+      "image": "https://hd2.tudocdn.net/1232587?w=660",
+      "publishedAt": "2026-08-07T11:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Chip dedicato o GPU: le imprese italiane devono rifare il capitolato AI",
+      "link": "https://www.tomshw.it/business/chip-dedicato-o-gpu-le-imprese-italiane-devono-rifare-il-capitolato-ai",
+      "excerpt": "AMD ha raggiunto un accordo per acquisire Taalas, startup di Toronto che trasforma singoli modelli di intelligenza artificiale in acceleratori dedicati. Il prezzo dell’operazione…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106250/costi-ai-piu-bassi-ma-meno-flessibilita-lacquisizione-amd-apre-una-nuova-scelta.png",
+      "publishedAt": "2026-08-07T11:49:21+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Musica AI per le imprese italiane: il watermark può bloccarne la distribuzione",
+      "link": "https://www.tomshw.it/business/musica-ai-per-le-imprese-italiane-il-watermark-puo-bloccarne-la-distribuzione",
+      "excerpt": "Suno introdurrà nelle prossime settimane nuove tecnologie di watermarking e fingerprinting per rendere riconoscibili le canzoni create con i suoi modelli. Per agenzie, produttori…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106238/musica-ai-per-le-imprese-italiane-il-watermark-puo-bloccarne-la-distribuzione.png",
+      "publishedAt": "2026-08-07T11:41:53+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Nikita Bier lascia il ruolo di capo di X dopo poco più di un anno",
+      "link": "https://www.hdblog.it/mercato/articoli/n666661/nikita-brier-lascia-ruolo-capo-x/",
+      "excerpt": "Da capo del prodotto a semplice utente: Nikita Bier passa il testimone sulla piattaforma di Musk",
+      "image": "https://hd2.tudocdn.net/1361738?w=660",
+      "publishedAt": "2026-08-07T11:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "TIM entra nel mercato delle eSIM da viaggio con una formula originale",
+      "link": "https://www.hdblog.it/tim/articoli/n666662/tim-esim-viaggio-non-cliente-costi/",
+      "excerpt": "TIM lancia le nuove eSIM Travel acquistabili anche da chi non è cliente. La soluzione abbina una normale eSIM TIM a un pacchetto roaming TIM in Viaggio Pass, con attivazione…",
+      "image": "https://hd2.tudocdn.net/1345730?w=660",
+      "publishedAt": "2026-08-07T11:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google Wallet: i genitori possono inviare la \"paghetta digitale\" ai figli negli USA",
+      "link": "https://www.hdblog.it/google/articoli/n666660/google-wallet-figli-family-link-inviare-soldi/",
+      "excerpt": "Ecco come funziona.",
+      "image": "https://hd2.tudocdn.net/1361736?w=660",
+      "publishedAt": "2026-08-07T11:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung presenta ISOCELL HPC da 200 MP: lo vedremo sui Galaxy S27?",
+      "link": "https://www.hdblog.it/smartphone/articoli/n666654/samsung-sensore-isocell-hpc-200-mp-galaxy-s27/",
+      "excerpt": "Più luce e meno rumore grazie alla tecnologia DeepPix.",
+      "image": "https://hd2.tudocdn.net/1349938?w=660",
+      "publishedAt": "2026-08-07T11:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "G-Shock G-Steel GST-B1000: più sottile, leggero e connesso",
+      "link": "https://www.hdblog.it/indossabili/articoli/n666644/casio-gst-b1000-tough-solar-bluetooth/",
+      "excerpt": "Il nuovo G-Steel unisce resistenza G-Shock, ricarica solare e Bluetooth in 58 grammi.",
+      "image": "https://hd2.tudocdn.net/1361632?w=660",
+      "publishedAt": "2026-08-07T10:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
     },
     {
       "title": "Samsung ISOCELL HPC, il sensore da 200 MP che riprogetta il singolo pixel e scatta HDR 16 bit in un colpo solo",
@@ -32,67 +203,13 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "La nuova UI di Gemini sta arrivando sui Galaxy Watch: primi avvistamenti",
-      "link": "https://www.hdblog.it/indossabili/articoli/n666652/galaxy-watch-nuova-ui-gemini/",
-      "excerpt": "Il Glow Overlay è già disponibile su molti Galaxy Watch",
-      "image": "https://hd2.tudocdn.net/1358242?w=660",
-      "publishedAt": "2026-08-07T10:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "OpenAI porta a Microsoft 24 miliardi: svelati i numeri dell’accordo",
-      "link": "https://www.hdblog.it/microsoft/articoli/n666651/microsoft-openai-ricavi-2026/",
-      "excerpt": "Microsoft registra circa 20,7 miliardi di euro dai rapporti commerciali con OpenAI",
-      "image": "https://hd2.tudocdn.net/1361644?w=660",
-      "publishedAt": "2026-08-07T10:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Soundcore Boom 2 è la potente cassa bluetooth da 80W da portare in spiaggia: sconto Amazon",
-      "link": "https://www.hdblog.it/hardware/offerte/n666656/soundcore-boom-2-cassa-bluetooth-spiaggia-sconto/",
-      "excerpt": "Bassi potentissimi e 24 ore di autonomia per questa cassa bluetooth impermeabile.",
-      "image": "https://hd2.tudocdn.net/1361718?w=660",
-      "publishedAt": "2026-08-07T10:11:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Xiaomi lancia i Redmi 17 in Italia: batteria da 7.500 mAh e prezzi da 199 euro",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666655/redmi-17-5g-specifiche-immagini-prezzo-italia/",
-      "excerpt": "Xiaomi presenta in Italia Redmi 17 e Redmi 17 5G. I nuovi smartphone puntano su una batteria da 7.500 mAh, display da 6,9 pollici a 120 Hz e prezzi di lancio a partire da 199,90…",
-      "image": "https://hd2.tudocdn.net/1361719?w=660",
-      "publishedAt": "2026-08-07T10:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Proiettore Google TV a 229,99€, il minimo storico per l’home cinema",
-      "link": "https://www.tomshw.it/offerte/proiettore-google-tv-a-22999eur-il-minimo-storico-per-lhome-cinema",
-      "excerpt": "Il proiettore Google TV da 1200 ANSI costa 229,99€ su Amazon, invece di 369,99€, con uno sconto del 38% e al suo minimo storico. Streaming integrato, regolazione automatica…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106253/tomshw-offer-669941.png",
-      "publishedAt": "2026-08-07T10:04:37+00:00",
+      "title": "Gears of War E-Day frantuma i record su Steam",
+      "link": "https://www.tomshw.it/videogioco/gears-of-war-e-day-14-331-giocatori-simultanei-record-della-serie",
+      "excerpt": "La beta multiplayer di Gears of War: E-Day ha raggiunto almeno 14.331 giocatori simultanei su Steam, stabilendo il nuovo massimo della serie sulla piattaforma Valve. SteamDB ha…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106258/header.jpg",
+      "publishedAt": "2026-08-07T10:30:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "MiniMax H3 ricrea The Office e Friends, filtri anti-copyright a rischio",
-      "link": "https://www.tomshw.it/hardware/minimax-h3-ricrea-the-office-e-friends-i-filtri-sul-copyright-non",
-      "excerpt": "Kim Jong Un negli uffici della Dunder Mifflin e Darth Vader lanciato all’attacco di Ross Geller: sono alcuni dei crossover comparsi in video attribuiti a MiniMax H3. Le clip,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106225/news-flash-669855.png",
-      "publishedAt": "2026-08-07T09:53:32+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Musica AI: Suno prepara watermark invisibili per ogni brano",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n666641/suno-watermark-musica-ai/",
-      "excerpt": "Suno inserirà watermark nei brani AI per renderli riconoscibili dalle piattaforme.",
-      "image": "https://hd2.tudocdn.net/1361608?w=660",
-      "publishedAt": "2026-08-07T09:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Ufficiali Redmi 17 e Redmi 17 5G: batteria da 7.500 mAh e prezzi da 249 euro",
@@ -104,33 +221,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "ASUS ROG Strix Arion a 50,56€, l’SSD NVMe diventa esterno a 10 Gbps",
-      "link": "https://www.tomshw.it/offerte/asus-rog-strix-arion-a-5056eur-lssd-nvme-diventa-esterno-a-10-gbps",
-      "excerpt": "ASUS ROG STRIX ARION è a 50,56€ su Amazon, invece dei 69,90€ di listino, con uno sconto del 28%. Permette di trasformare un SSD NVMe in un’unità esterna veloce, portatile e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106228/tomshw-offer-669893.png",
-      "publishedAt": "2026-08-07T09:33:25+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Usare lo smartphone come navigatore in moto può costare fino a 1000 euro di multa",
-      "link": "https://www.hdmotori.it/smartphone-navigatore-moto-multa/",
-      "excerpt": "Usi lo smartphone come navigatore su moto e scooter? Potrebbe costarti caro: ecco regole, sanzioni e la posizione corretta per evitare multe.",
-      "image": "https://hd2.tudocdn.net/1361651?w=660",
-      "publishedAt": "2026-08-07T09:30:28+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Questi Ray-Ban Meta costano fino a 17 volte in più, e saranno presto fuori stock",
-      "link": "https://www.hdblog.it/indossabili/articoli/n666647/ray-ban-meta-caviar-lusso-prezzo/",
-      "excerpt": "La collezione Odyssey di Caviar trasforma i Ray-Ban Meta Wayfarer Gen 2 in un oggetto da collezione con oro 24 carati, argento, pelle di coccodrillo e produzione limitata a soli…",
-      "image": "https://hd2.tudocdn.net/1361621?w=660",
-      "publishedAt": "2026-08-07T09:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Il primo dispositivo di OpenAI sarà una ciambella di metallo con parti in movimento",
       "link": "https://images.dday.it/PeRoWG4GoXQOmHH-eifJQzEcsqWeEoCV-FufgmgUsj0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58306/beb669_small_ChatGPT_Image_7_ago_2026__11_14_15_copia.png",
       "excerpt": "Grande come un disco da hockey, alimentato a batteria, con videocamera e sensori. Il prezzo potrebbe andare dai 300 ai 400 dollari... Leggi tutto",
@@ -138,42 +228,6 @@
       "publishedAt": "2026-08-07T09:16:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Google stravolge i vertici della sua divisione AI: chi entra e chi cambia ruolo",
-      "link": "https://www.hdblog.it/google/articoli/n666634/google-cambio-vertice-intelligenza-artificiale/",
-      "excerpt": "Persino il capo di DeepMind è stato coinvolto dai cambiamenti",
-      "image": "https://hd2.tudocdn.net/793875?w=660",
-      "publishedAt": "2026-08-07T09:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Se volete spendere il minimo per questa TV Xiaomi, c'è un solo posto dove comprarla",
-      "link": "https://www.tomshw.it/hardware/xiaomi-s-mini-55-144hz-qd-mini-led-scontato-del-75-2026-08-07",
-      "excerpt": "Su AliExpress è disponibile una straordinaria offerta sul XIAOMI S MINI 55, il TV con tecnologia QD-Mini LED, refresh rate a 144Hz, supporto Dolby Vision, Dolby Atmos e Google TV.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106224/xiaomi-s-mini-55-144hz-qd-mini-led-scontato-del-75-2026-08-07-Qll3ipcpiquos18ZmM4K.jpg",
-      "publishedAt": "2026-08-07T09:05:40+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Alfa Romeo 8C sopravvalutata: parola dell’ex Stig di Top Gear",
-      "link": "https://www.hdmotori.it/alfa-romeo-8c-sopravvalutata-parola-dellex-stig-di-top-gear/",
-      "excerpt": "Ben Collins sorprende gli appassionati: l’Alfa Romeo 8C Competizione, pur affascinandolo per design e V8, sarebbe secondo lui una delle sportive più sopravvalutate",
-      "image": "https://hd2.tudocdn.net/1361618?w=660",
-      "publishedAt": "2026-08-07T09:00:55+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Perché spendere più di 1000€? Questo top di gamma oggi costa appena 808€",
-      "link": "https://www.tomshw.it/smartphone/honor-magic-8-pro-scontato-del-45-offerta-imperdibile-2026-08-07",
-      "excerpt": "Su AliExpress è disponibile un'offerta imperdibile per l'Honor Magic 8 Pro 5G Versione Globale, lo smartphone top di gamma dotato di processore Snapdragon 8 Elite Gen 5,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106220/honor-magic-8-pro-scontato-del-45-offerta-imperdibile-2026-08-04jva8bl0fphsawkNyCp.jpg",
-      "publishedAt": "2026-08-07T08:59:10+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Suno si impone dei limiti per la musica generata con l’IA: arrivano i watermark e i limiti ai download",
@@ -192,15 +246,6 @@
       "publishedAt": "2026-08-07T07:36:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migliori tablet economici (agosto 2026)",
-      "link": "https://www.tomshw.it/smartphone/migliori-tablet-economici",
-      "excerpt": "Se guardate spesso film, serie TV, lezioni online o documenti lunghi, lo schermo dello smartphone può diventare presto un limite. Un tablet economico risolve proprio questo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/89181/migliori-tablet-economici-copertina.jpg",
-      "publishedAt": "2026-08-07T06:18:17+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Quando compra l’IA, chi entra davvero nello store? Amazon perde contro Perplexity",
@@ -228,51 +273,6 @@
       "publishedAt": "2026-08-06T12:51:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il terremoto scuote la scuola in Toscana, otto macchine si muovono per fermarlo",
-      "link": "https://images.dday.it/fuK_S2hTa9tki4k3p6aWXO0HD6SQSgAktCZ0Zv0DhTg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58300/02d066_coe_r4unnamed_copia.jpg",
-      "excerpt": "Il sisma di magnitudo 4,1 del 4 agosto ha attivato per la prima volta il sistema antisismico della scuola di Buti. Masse mobili sul tetto hanno contrastato le oscillazioni…",
-      "image": "https://images.dday.it/fuK_S2hTa9tki4k3p6aWXO0HD6SQSgAktCZ0Zv0DhTg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58300/02d066_coe_r4unnamed_copia.jpg",
-      "publishedAt": "2026-08-06T12:44:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "La webcam Logitech Brio 4K a un super-prezzo su Amazon",
-      "link": "https://images.dday.it/5b2N9bP1Cj__QQA4JwDWDJCTsiivMVgBeTBtwg-YAkA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58298/197aab_logitech.jpg",
-      "excerpt": "È compatibile con Windows Hello, ha la correzione automatica della luminosità e due microfoni. Funziona anche con macOS... Leggi tutto",
-      "image": "https://images.dday.it/5b2N9bP1Cj__QQA4JwDWDJCTsiivMVgBeTBtwg-YAkA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58298/197aab_logitech.jpg",
-      "publishedAt": "2026-08-06T12:17:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Tutti li celebravano, poi sono finiti in galera: ecco i peggiori \"Forbes under 30\"",
-      "link": "https://www.tomshw.it/altro/tutti-li-celebravano-poi-sono-finiti-in-galera",
-      "excerpt": "La celebre classifica Forbes 30 Under 30, pubblicata puntualmente alla fine di ogni anno, rappresenta da tempo il Sacro Graal per i giovani innovatori di tutto il mondo. La nota…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105317/forbes.png",
-      "publishedAt": "2026-08-06T10:59:59+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Change request con AI: dal testo libero al ticket strutturato",
-      "link": "https://www.tomshw.it/aioperator/change-request-con-ai-dal-testo-libero-al-ticket-strutturato",
-      "excerpt": "Una change request nasce quasi sempre da una frase scritta di fretta: blocca l'accesso a questo sistema, serve un aggiornamento entro venerdì. Il messaggio arriva per email, su…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104801/02-it12-cover.jpg",
-      "publishedAt": "2026-07-31T08:35:12+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Prima notte in un rifugio montano: cosa portare (e serve il sacco a pelo?)",
-      "link": "https://www.tomshw.it/altro/prima-notte-in-un-rifugio-montano-cosa-portare-e-serve-il-sacco-a-pelo",
-      "excerpt": "Dormire per la prima volta in un rifugio ad alta quota è un’esperienza straordinaria, capace di regalare un contatto autentico con la natura e cieli stellati difficilmente…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104215/Prima-notte-in-un-rifugio-montano-cosa-portare-(e-serve-il-sacco-a-pelo).png",
-      "publishedAt": "2026-07-29T14:15:14+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     }
   ]
 }
