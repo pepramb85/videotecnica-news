@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-08-08T04:47:57.142000+00:00",
+  "generatedAt": "2026-08-08T06:37:31.862304+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Mini John Cooper Works, ancora più racing con gli accessori JCW",
+      "link": "https://www.hdmotori.it/mini-john-cooper-works-accessori-jcw/",
+      "excerpt": "La nuova Mini John Cooper Works con accessori originali e colorazione Indigo Sunset Blue è pensata per i veri appassionati di Motorsport.",
+      "image": "https://hd2.tudocdn.net/1361851?w=660",
+      "publishedAt": "2026-08-08T06:30:49+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "IRIS², la rete satellitare europea cresce a 414 satelliti: primi lanci nel 2029",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n666705/iris2-competitor-starlink-quando-parte/",
+      "excerpt": "La costellazione europea IRIS2 sarà più grande del previsto: 414 satelliti tra orbita bassa e media, con 66 unità aggiuntive dedicate a difesa, sicurezza e servizi di emergenza",
+      "image": "https://hd2.tudocdn.net/1361835?w=660",
+      "publishedAt": "2026-08-08T06:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Esodo estivo, weekend 8-9 agosto da bollino nero: gli orari da evitare",
+      "link": "https://www.hdmotori.it/esodo-estivo-8-9-agosto-bollino-nero-orari/",
+      "excerpt": "Oltre 25 milioni di veicoli in viaggio per il fine settimana più critico di agosto. Vediamo gli orari più a rischio e le tratte da evitare.",
+      "image": "https://hd2.tudocdn.net/1288426?w=660",
+      "publishedAt": "2026-08-08T06:00:21+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Corsair Commander Core XT gestisce 6 ventole e 264 LED, ora al 49% in meno",
       "link": "https://www.tomshw.it/offerte/corsair-commander-core-xt-gestisce-6-ventole-e-264-led-ora-al-49-in-meno",
@@ -111,33 +138,6 @@
       "publishedAt": "2026-08-07T16:03:32+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Più auto con meno dipendenti, i numeri Toyota che \"scuotono\" Volkswagen",
-      "link": "https://www.hdmotori.it/volkswagen-vs-toyota-crisi-produzione-tagli/",
-      "excerpt": "Produzione a rilento, costi fissi e scontro sui licenziamenti: perché il modello Volkswagen non funziona più rispetto a Toyota.",
-      "image": "https://hd2.tudocdn.net/1361818?w=660",
-      "publishedAt": "2026-08-07T16:00:43+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Occhiali a infrarossi: così potremmo vedere ciò che oggi è invisibile",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n666681/occhiali-infrarossi-vista-umana/",
-      "excerpt": "Nuovi occhiali trasformano la luce infrarossa invisibile in colori percepibili dall’occhio umano.",
-      "image": "https://hd2.tudocdn.net/1361775?w=660",
-      "publishedAt": "2026-08-07T15:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "AI fuori controllo: anche Meta finisce nel caso degli agenti in fuga",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n666685/meta-ai-agente-internet-test-sicurezza/",
-      "excerpt": "Un test AI di Meta finisce fuori dall’ambiente previsto e riapre il problema della sicurezza.",
-      "image": "https://hd2.tudocdn.net/1361780?w=660",
-      "publishedAt": "2026-08-07T15:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "I dettagli di Dolby Vision 2 sui TV Hisense. Ecco i primi modelli che riceveranno Dolby Vision 2 Max",
