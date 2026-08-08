@@ -1,9 +1,81 @@
 {
-  "generatedAt": "2026-08-08T08:30:59.424722+00:00",
+  "generatedAt": "2026-08-08T10:23:06.496138+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "DJI Osmo 360 II potrebbe arrivare il 13 agosto | Nuovo teaser",
+      "link": "https://www.hdblog.it/curiosita/articoli/n666713/dji-osmo-360-ii-8k-60-fps/",
+      "excerpt": "DJI prepara Osmo 360 II con batteria più grande e possibili video 8K a 60 fps.",
+      "image": "https://hd2.tudocdn.net/1357811?w=660",
+      "publishedAt": "2026-08-08T09:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Stellantis richiama 20.000 auto: un guasto al servosterzo potrebbe provocare un incendio",
+      "link": "https://www.hdmotori.it/stellantis-richiama-20-000-auto-un-guasto-al-servosterzo-potrebbe-provocare-un-incendio/",
+      "excerpt": "Nuovo richiamo per quasi 20.000 vetture Stellantis in Francia. Nel mirino quattro modelli di Citroën, Fiat e Opel: un problema al cablaggio della direzione assistita potrebbe…",
+      "image": "https://hd2.tudocdn.net/1330104?w=660",
+      "publishedAt": "2026-08-08T09:25:34+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "PlayStation 5: il supporto per la console Sony durerà ancora diversi anni?",
+      "link": "https://www.hdblog.it/sony/articoli/n666454/playstation-5-supporto-console-quanti-anni/",
+      "excerpt": "Un’analisi sul possibile futuro della nota console.",
+      "image": "https://hd2.tudocdn.net/1361147?w=660",
+      "publishedAt": "2026-08-08T09:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Braun Serie 9 BT9545 da 159,99€ a 109,99€, rifiniture precise ogni giorno",
+      "link": "https://www.tomshw.it/offerte/braun-serie-9-bt9545-da-15999eur-a-10999eur-rifiniture-precise-ogni-giorno",
+      "excerpt": "Braun Serie 9 BT9545 costa 109,99€ su Amazon anziché 159,99€, con uno sconto del 31%. Le 52 impostazioni a intervalli di 0,25 mm e i 180 minuti di autonomia aiutano a gestire…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106415/tomshw-offer-671177.png",
+      "publishedAt": "2026-08-08T09:03:32+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Recensione TV Sony Bravia 7 II: ottime prestazioni, ma i Mini LED RGB costano",
+      "link": "https://www.hdblog.it/tv/articoli/n666023/tv-sony-bravia7ii-miniledrgb-4k-test-prova-prezzi/",
+      "excerpt": "La nostra prova completa di misure del TV Sony Bravia 7 II da 65 pollici, con nuova soluzione di retorilluminazione Mini LED RGB super efficiente e colori al top",
+      "image": "https://hd2.tudocdn.net/1360136?w=660",
+      "publishedAt": "2026-08-08T09:01:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "DKW NZ 350-1: una storica moto della Grande Guerra è \"riemersa\" dal Danubio",
+      "link": "https://www.hdmotori.it/ritrovamento-moto-seconda-guerra-danubio/",
+      "excerpt": "La secca record del Danubio fa riaffiorare a Budapest una rara moto DKW del 1944 e un arsenale di bombe. Il ritrovamento storico dopo ben 80 anni.",
+      "image": "https://hd2.tudocdn.net/1361868?w=660",
+      "publishedAt": "2026-08-08T09:00:23+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "L'incredibile storia delle GPU NVIDIA per minare criptovalute che nascondevano 80 GB di RAM e ora vanno a ruba",
+      "link": "https://images.dday.it/-rJ-Lz_VbEXnTqEjQcDyCi3lOna85n86ZZDxcMcEK2A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58321/b3c635_nvcov.jpg",
+      "excerpt": "Nel 2021 NVIDIA lanciò la CMP 170HX per il mining, dichiarando 8-10 GB di memoria ma nascondendone in realtà fino a 80 GB via firmware, per non fare concorrenza alla A100. Un tool…",
+      "image": "https://images.dday.it/-rJ-Lz_VbEXnTqEjQcDyCi3lOna85n86ZZDxcMcEK2A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58321/b3c635_nvcov.jpg",
+      "publishedAt": "2026-08-08T08:45:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Xiaomi 17 12+512 a 809,99€, tanta memoria e un prezzo che convince",
+      "link": "https://www.tomshw.it/offerte/xiaomi-17-12512-a-80999eur-tanta-memoria-e-un-prezzo-che-convince",
+      "excerpt": "Xiaomi 17 12+512 costa 809,99€ su Amazon: il listino è di 1.099,90€ e lo sconto applicato è del 26%. La configurazione più capiente si rivolge soprattutto a chi installa molte app…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106414/tomshw-offer-671138.png",
+      "publishedAt": "2026-08-08T08:33:24+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "OpenAI ferma parte dei test di Astra per timori sulla cybersicurezza",
       "link": "https://www.hdblog.it/sicurezza/articoli/n666714/openai-astra-ai-cybersicurezza/",
@@ -86,76 +158,13 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Un Airbus volerà a 10.000 metri per inseguire l’eclissi del 12 agosto",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n666715/eclissi-totale-iberia-volo-airbus/",
-      "excerpt": "Un Airbus volerà sopra le nuvole per osservare e studiare l’eclissi totale del 12 agosto.",
-      "image": "https://hd2.tudocdn.net/1361848?w=660",
-      "publishedAt": "2026-08-08T06:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Mini John Cooper Works, ancora più racing con gli accessori JCW",
-      "link": "https://www.hdmotori.it/mini-john-cooper-works-accessori-jcw/",
-      "excerpt": "La nuova Mini John Cooper Works con accessori originali e colorazione Indigo Sunset Blue è pensata per i veri appassionati di Motorsport.",
-      "image": "https://hd2.tudocdn.net/1361851?w=660",
-      "publishedAt": "2026-08-08T06:30:49+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "IRIS², la rete satellitare europea cresce a 414 satelliti: primi lanci nel 2029",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n666705/iris2-competitor-starlink-quando-parte/",
-      "excerpt": "La costellazione europea IRIS2 sarà più grande del previsto: 414 satelliti tra orbita bassa e media, con 66 unità aggiuntive dedicate a difesa, sicurezza e servizi di emergenza",
-      "image": "https://hd2.tudocdn.net/1361835?w=660",
-      "publishedAt": "2026-08-08T06:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Esodo estivo, weekend 8-9 agosto da bollino nero: gli orari da evitare",
-      "link": "https://www.hdmotori.it/esodo-estivo-8-9-agosto-bollino-nero-orari/",
-      "excerpt": "Oltre 25 milioni di veicoli in viaggio per il fine settimana più critico di agosto. Vediamo gli orari più a rischio e le tratte da evitare.",
-      "image": "https://hd2.tudocdn.net/1288426?w=660",
-      "publishedAt": "2026-08-08T06:00:21+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Corsair Commander Core XT gestisce 6 ventole e 264 LED, ora al 49% in meno",
-      "link": "https://www.tomshw.it/offerte/corsair-commander-core-xt-gestisce-6-ventole-e-264-led-ora-al-49-in-meno",
-      "excerpt": "Corsair iCUE Commander Core XT costa 34,90€ su Amazon, anziché 68,90€, con uno sconto del 49%. Riunisce in un unico controller la gestione di sei ventole PWM, dell’illuminazione…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106402/tomshw-offer-670836.png",
-      "publishedAt": "2026-08-07T20:03:24+00:00",
+      "title": "Crittografia e computer quantistici: quanto sono al sicuro i nostri dati?",
+      "link": "https://www.tomshw.it/hardware/crittografia-e-computer-quantistici-quanto-sono-al-sicuro-i-nostri-dati",
+      "excerpt": "Se non esistesse la crittografia, Internet sarebbe un disastro. Anzi, probabilmente non esisterebbe nella forma in cui la conosciamo, dato che senza di essa non sarebbe possibile…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/05/94318/01.jpg",
+      "publishedAt": "2026-08-07T16:02:07+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Logitech G Yeti GX a 79,99€, da prendere per una voce più pulita in streaming",
-      "link": "https://www.tomshw.it/offerte/logitech-g-yeti-gx-a-7999eur-da-prendere-per-una-voce-piu-pulita-in-streaming",
-      "excerpt": "Logitech G Yeti GX costa 79,99€ su Amazon invece di 129,99€, con uno sconto del 38%. La capsula dinamica supercardioide è pensata per mettere la voce in primo piano e lasciare in…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106401/tomshw-offer-670828.png",
-      "publishedAt": "2026-08-07T19:32:59+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Razer Blackshark V2 Pro con il 50% di sconto, 70 ore wireless su PS5",
-      "link": "https://www.tomshw.it/offerte/razer-blackshark-v2-pro-con-il-50-di-sconto-70-ore-wireless-su-ps5",
-      "excerpt": "Razer Blackshark V2 Pro costa 109,99€ su Amazon: il listino è di 219,99€ e lo sconto applicato è del 50%. Le 70 ore di autonomia, il collegamento HyperSpeed a 2,4 GHz e i profili…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106399/tomshw-offer-670803.png",
-      "publishedAt": "2026-08-07T18:03:10+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Su Plutone potrebbe scorrere ancora azoto liquido",
-      "link": "https://www.hdblog.it/curiosita/articoli/n666689/plutone-azoto-liquido-new-horizons/",
-      "excerpt": "Su Plutone emergono le prime prove di recenti flussi di azoto liquido.",
-      "image": "https://hd2.tudocdn.net/1361789?w=660",
-      "publishedAt": "2026-08-07T17:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "I dettagli di Dolby Vision 2 sui TV Hisense. Ecco i primi modelli che riceveranno Dolby Vision 2 Max",
@@ -203,20 +212,29 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Qwen3.8 Max raggiunge Claude Opus nei test, ma inventa risposte quasi il doppio",
-      "link": "https://www.tomshw.it/business/qwen38-max-raggiunge-claude-opus-nei-test-ma-inventa-risposte-quasi-il-doppio",
-      "excerpt": "Alibaba ha rilasciato Qwen3.8 Max il 3 agosto 2026, e sulla carta il salto è netto: 58 punti sull'Artificial Analysis Intelligence Index, dieci in più rispetto a Qwen3.7 Max. Il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106312/07-qwen-cover.jpg",
+      "title": "Washington scrive le regole dell'AI di frontiera in segreto, i piccoli laboratori restano fuori",
+      "link": "https://www.tomshw.it/business/washington-scrive-le-regole-dellai-di-frontiera-in-segreto-i-piccoli-laboratori-restano-fuori",
+      "excerpt": "OpenAI, Anthropic, Google, Meta, NVIDIA e altri grandi nomi dell'AI si sono incontrati martedì alla Casa Bianca per chiudere un accordo ordinato dal presidente Trump a giugno: una…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106314/10-casa-bianca-cover.jpg",
       "publishedAt": "2026-08-07T13:10:05+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "AMD verso chip AI 48 volte più veloci di NVIDIA",
-      "link": "https://www.tomshw.it/business/amd-verso-chip-ai-48-volte-piu-veloci-di-nvidia",
-      "excerpt": "AMD ha acquisito Taalas, startup canadese fondata nel 2023 e con sede a Toronto, che incide i pesi del modello direttamente nel silicio, invece di caricarli ogni volta in memoria…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106311/06-amd-taalas-cover.jpg",
-      "publishedAt": "2026-08-07T13:05:06+00:00",
+      "title": "Migliaia di server aziendali sono ancora bucabili con una falla del 2013",
+      "link": "https://www.tomshw.it/business/migliaia-di-server-aziendali-sono-ancora-bucabili-con-una-falla-del-2013",
+      "excerpt": "Al Black Hat di Las Vegas, HD Moore, fondatore ed esperto di sicurezza firmware di runZero, ha presentato una ricerca dal titolo eloquente, che si potrebbe tradurre come luci…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106313/08-bmc-cover.jpg",
+      "publishedAt": "2026-08-07T13:10:05+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Qwen3.8 Max raggiunge Claude Opus nei test, ma inventa risposte quasi il doppio",
+      "link": "https://www.tomshw.it/business/qwen38-max-raggiunge-claude-opus-nei-test-ma-inventa-risposte-quasi-il-doppio",
+      "excerpt": "Alibaba ha rilasciato Qwen3.8 Max il 3 agosto 2026, e sulla carta il salto è netto: 58 punti sull'Artificial Analysis Intelligence Index, dieci in più rispetto a Qwen3.7 Max. Il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106312/07-qwen-cover.jpg",
+      "publishedAt": "2026-08-07T13:10:05+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -239,29 +257,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Parti in vacanza? Questo router WiFi portatile TP-Link è in offerta e ti porta internet sempre con te",
-      "link": "https://images.dday.it/IsrsfyTuIkVIk8QFRVSXbfw8F3KmYSbiYK6nHjcdm0M/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58309/78e262_71g818yKAHL._AC_SL1500_.jpg",
-      "excerpt": "Scopri TP-Link M7005, il router WiFi portatile con SIM e tecnologia WiFi 6, ora disponibile a un prezzo speciale... Leggi tutto",
-      "image": "https://images.dday.it/IsrsfyTuIkVIk8QFRVSXbfw8F3KmYSbiYK6nHjcdm0M/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58309/78e262_71g818yKAHL._AC_SL1500_.jpg",
-      "publishedAt": "2026-08-07T12:02:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Cinema in giardino: tutto il kit lo trovi su AliExpress",
-      "link": "https://www.tomshw.it/offerte/come-mettere-insieme-una-serata-di-cinema-in-giardino-con-proiettore-telo-cavi-e-audio-comprati-su-aliexpress",
-      "excerpt": "È quasi ora di iniziare il film, gli amici stanno prendendo posto in giardino e sul muro compare un'immagine piccola, storta e poco visibile. È una scena facile da evitare: per…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106174/ChatGPT-Image-7-ago-2026,-08_31_06.png",
-      "publishedAt": "2026-08-07T06:40:30+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Avatar Legends: 5 consigli per partire col piede giusto",
-      "link": "https://www.tomshw.it/videogioco/avatar-legends-the-fighting-game-come-iniziare-senza-errori",
-      "excerpt": "Avatar Legends: The Fighting Game è uscito il 23 luglio 2026, tredici giorni fa. Sviluppato da Gameplay Group International e pubblicato da PM Studios, è disponibile su PC,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105698/Avatar-Legends-The-Fighting-Game-cover-1600x900.jpg",
-      "publishedAt": "2026-08-05T08:10:10+00:00",
+      "title": "Mistfall Hunter: 6 consigli per partire con il piede giusto",
+      "link": "https://www.tomshw.it/videogioco/mistfall-hunter-6-consigli-per-iniziare",
+      "excerpt": "Mistfall Hunter è disponibile da sette giorni su PC, PlayStation 5 e Xbox Series X|S. Sviluppato da Bellring Games e pubblicato da Skystone Games, è un action RPG d’avventura in…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105634/ar6cyf.jpg",
+      "publishedAt": "2026-08-05T09:06:35+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
