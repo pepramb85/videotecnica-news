@@ -1,9 +1,99 @@
 {
-  "generatedAt": "2026-08-08T06:37:31.862304+00:00",
+  "generatedAt": "2026-08-08T08:30:59.424722+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "OpenAI ferma parte dei test di Astra per timori sulla cybersicurezza",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n666714/openai-astra-ai-cybersicurezza/",
+      "excerpt": "Astra mostra capacità cyber critiche e OpenAI rafforza i controlli.",
+      "image": "https://hd2.tudocdn.net/1361849?w=660",
+      "publishedAt": "2026-08-08T08:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "ReStory: Chill Electronics Repairs, i consigli per iniziare",
+      "link": "https://www.tomshw.it/videogioco/restory-chill-electronics-repairs-i-consigli-per-iniziare",
+      "excerpt": "ReStory: Chill Electronics Repairs è disponibile dal 6 agosto 2026 su PC. Sviluppato da Mandragora e pubblicato da tinyBuild, è un simulatore indie in prima persona e per…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106413/ReStory_-_CLEAN_No_logo-png.webp",
+      "publishedAt": "2026-08-08T08:19:35+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Microsoft Edge segue Chrome: uBlock Origin non funzionerà più",
+      "link": "https://images.dday.it/GVOTOI9TtP1gRk-kF-B_XBVfUTaO9hKX_R7kcH0qtkU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58320/2c2d71_edge.jpg",
+      "excerpt": "Microsoft avvia lo spegnimento delle estensioni Manifest V2 su Edge, seguendo il percorso già intrapreso da Chrome: uBlock Origin e gli altri adblocker \"classici\" verranno…",
+      "image": "https://images.dday.it/GVOTOI9TtP1gRk-kF-B_XBVfUTaO9hKX_R7kcH0qtkU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58320/2c2d71_edge.jpg",
+      "publishedAt": "2026-08-08T08:05:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Svelata la versione sportiva GT della Range Rover, il SUV fastback che non c'era",
+      "link": "https://www.hdmotori.it/range-rover-gt-fastback/",
+      "excerpt": "Per seguire il trend delle principali Case costruttrici Range Rover lancerà una variante GT, caratterizzata da un'impostazione differente rispetto ai tradizionali SUV del marchio…",
+      "image": "https://hd2.tudocdn.net/1361863?w=660",
+      "publishedAt": "2026-08-08T08:00:11+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Avvio lento di Windows: una serie di comandi per risolvere il problema",
+      "link": "https://www.hdblog.it/microsoft/articoli/n666409/avvio-lento-windows-comandi-risolvere-problema/",
+      "excerpt": "Senza scaricare alcun software.",
+      "image": "https://hd2.tudocdn.net/1361071?w=660",
+      "publishedAt": "2026-08-08T07:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Acceso in Cina il maxi data center AI alimentato dalle rinnovabili",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666691/cina-data-center-ai-rinnovabili-galaxy-campus/",
+      "excerpt": "In Mongolia Interna nasce un campus AI da oltre 2 GW alimentato direttamente da fonti rinnovabili.",
+      "image": "https://hd2.tudocdn.net/1361799?w=660",
+      "publishedAt": "2026-08-08T07:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Astra è troppo potente per i vecchi sistemi di sicurezza: OpenAI sospende parte dei test sul nuovo modello IA",
+      "link": "https://images.dday.it/MW4vm0dTld8A05YHY-JUw3ICawflXEUvPxXORaBMB1Y/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58319/af65d4_small_ChatGPT_Image_8_ago_2026__09_15_50_copia.png",
+      "excerpt": "Astra potrebbe essere il primo modello OpenAI a raggiungere la soglia “Critical” per i rischi informatici. L’azienda sta introducendo sandbox, accessi limitati e maggiori…",
+      "image": "https://images.dday.it/MW4vm0dTld8A05YHY-JUw3ICawflXEUvPxXORaBMB1Y/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58319/af65d4_small_ChatGPT_Image_8_ago_2026__09_15_50_copia.png",
+      "publishedAt": "2026-08-08T07:17:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Logitech Lift a 59,99€, comfort verticale per le giornate al PC",
+      "link": "https://www.tomshw.it/offerte/logitech-lift-a-5999eur-comfort-verticale-per-le-giornate-al-pc",
+      "excerpt": "Logitech Lift costa 59,99€ su Amazon, anziché 81,99€, con uno sconto del 27%. La forma verticale a 57 gradi favorisce una posizione più naturale dell’avambraccio durante le ore…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106407/tomshw-offer-671027.png",
+      "publishedAt": "2026-08-08T07:02:46+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Bollo auto, è rivoluzione dal 2028: tutte le novità della miniriforma",
+      "link": "https://www.hdmotori.it/bollo-auto-novita-riforma-2028/",
+      "excerpt": "Tra 2 anni una nuova disciplina gestirà le regole applicative della tassa automobilistica. Scopriamo cosa cambierà.",
+      "image": "https://hd2.tudocdn.net/1361854?w=660",
+      "publishedAt": "2026-08-08T07:00:11+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Un Airbus volerà a 10.000 metri per inseguire l’eclissi del 12 agosto",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666715/eclissi-totale-iberia-volo-airbus/",
+      "excerpt": "Un Airbus volerà sopra le nuvole per osservare e studiare l’eclissi totale del 12 agosto.",
+      "image": "https://hd2.tudocdn.net/1361848?w=660",
+      "publishedAt": "2026-08-08T06:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Mini John Cooper Works, ancora più racing con gli accessori JCW",
       "link": "https://www.hdmotori.it/mini-john-cooper-works-accessori-jcw/",
@@ -68,78 +158,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Anker Prime a 76,99€ ricarica due laptop insieme a 100W ciascuno",
-      "link": "https://www.tomshw.it/offerte/anker-prime-a-7699eur-ricarica-due-laptop-insieme-a-100w-ciascuno",
-      "excerpt": "Anker Prime da 200W costa 76,99€ su Amazon, contro un listino di 94,99€, grazie a uno sconto del 19%. Con due USB-C capaci di ricaricare due laptop contemporaneamente a 100W…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106397/tomshw-offer-670781.png",
-      "publishedAt": "2026-08-07T17:34:23+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "IXPE: l'osservatorio d NASA e ASI trova le tracce di una teoria formulata 90 anni fa",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n666686/ixpe-birifrangenza-vuoto-magnetar/",
-      "excerpt": "IXPE trova la prova più convincente di un effetto quantistico previsto nel 1936",
-      "image": "https://hd2.tudocdn.net/1361781?w=660",
-      "publishedAt": "2026-08-07T17:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Starship: SpaceX tenterà la prima cattura in volo della navetta",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n666683/starship-flight-14-spacex-cattura-ship-torre/",
-      "excerpt": "SpaceX prepara il primo tentativo di catturare Starship direttamente dalla torre",
-      "image": "https://hd2.tudocdn.net/1361778?w=660",
-      "publishedAt": "2026-08-07T16:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Incendi estivi, la Grecia usa quattro satelliti per scovare i focolai",
-      "link": "https://www.hdblog.it/green/articoli/n666698/incendi-sistema-satellitare-grecia/",
-      "excerpt": "La Grecia sperimenta Hellenic Fire System, una costellazione di quattro satelliti con sensori termici progettata per individuare rapidamente piccoli incendi e seguirne l’evoluzione",
-      "image": "https://hd2.tudocdn.net/1361821?w=660",
-      "publishedAt": "2026-08-07T16:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Alfa Romeo Gardena: l'identikit del maxi SUV immaginato per Usa e Cina",
-      "link": "https://www.hdmotori.it/alfa-romeo-gardena-phev-maxi-suv-concept-digitale/",
-      "excerpt": "Spuntano i render della nuova Alfa Romeo Gardena: il maxi SUV digitale passa al powertrain PHEV e sfida i mercati globali con uno stile imponente e sportivo.",
-      "image": "https://hd2.tudocdn.net/1361822?w=660",
-      "publishedAt": "2026-08-07T16:30:37+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Microsoft svela come l'AI sta riscrivendo il modo di creare software",
-      "link": "https://www.hdblog.it/microsoft/articoli/n666605/microsoft-ai-sviluppo-software-agenti/",
-      "excerpt": "Microsoft punta sugli agenti AI per trasformare l'intero ciclo di sviluppo del software.",
-      "image": "https://hd2.tudocdn.net/1361479?w=660",
-      "publishedAt": "2026-08-07T16:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il nuovo Roborock Qrevo 2 Pro si libera dei moci per pulire i tappeti | PREZZO",
-      "link": "https://www.hdblog.it/home/articoli/n666695/roborock-qrevo-2-pro-specifiche-prezzo-robot/",
-      "excerpt": "Qrevo 2 Pro debutta in Italia con navigazione LiDAR, riconoscimento degli ostacoli, supporto Matter e SmartPlan 3.0. Fino al 23 agosto il prezzo scende da 699 a 499 euro",
-      "image": "https://hd2.tudocdn.net/1361813?w=660",
-      "publishedAt": "2026-08-07T16:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Philips Gaming Monitor 34” a 203,58€, mai costato così poco per 180 Hz ultrawide",
-      "link": "https://www.tomshw.it/offerte/philips-gaming-monitor-34-a-20358eur-mai-costato-cosi-poco-per-180-hz-ultrawide",
-      "excerpt": "Il monitor gaming Philips 34M2C3500L costa 203,58€ su Amazon, il minimo storico: dal listino di 289€ si passa a uno sconto del 30%. Il pannello curvo UW-QHD a 180 Hz punta a…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106389/tomshw-offer-670672.png",
-      "publishedAt": "2026-08-07T16:03:32+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "I dettagli di Dolby Vision 2 sui TV Hisense. Ecco i primi modelli che riceveranno Dolby Vision 2 Max",
       "link": "https://images.dday.it/sCvvuJeqSTpviTUTISxbtn4UOlBccjBgpwCnlcp6hks/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58317/195fb5_hisense_thumb.jpg",
       "excerpt": "La nuova versione del Dolby Vision arriverà inizialmente su alcuni televisori Hisense delle serie UX, UR9, UR8 e U7... Leggi tutto",
@@ -185,28 +203,19 @@
       "sourceColor": "#E63946"
     },
     {
+      "title": "Qwen3.8 Max raggiunge Claude Opus nei test, ma inventa risposte quasi il doppio",
+      "link": "https://www.tomshw.it/business/qwen38-max-raggiunge-claude-opus-nei-test-ma-inventa-risposte-quasi-il-doppio",
+      "excerpt": "Alibaba ha rilasciato Qwen3.8 Max il 3 agosto 2026, e sulla carta il salto è netto: 58 punti sull'Artificial Analysis Intelligence Index, dieci in più rispetto a Qwen3.7 Max. Il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106312/07-qwen-cover.jpg",
+      "publishedAt": "2026-08-07T13:10:05+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "AMD verso chip AI 48 volte più veloci di NVIDIA",
       "link": "https://www.tomshw.it/business/amd-verso-chip-ai-48-volte-piu-veloci-di-nvidia",
       "excerpt": "AMD ha acquisito Taalas, startup canadese fondata nel 2023 e con sede a Toronto, che incide i pesi del modello direttamente nel silicio, invece di caricarli ogni volta in memoria…",
       "image": "https://cdn.tomshw.it/storage/media/2026/08/106311/06-amd-taalas-cover.jpg",
-      "publishedAt": "2026-08-07T13:05:06+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Prevedere un ciclone senza sapere come, questa IA open source è disponibile per tutti",
-      "link": "https://www.tomshw.it/business/prevedere-un-ciclone-senza-sapere-come-questa-ia-open-source-e-disponibile-per-tutti",
-      "excerpt": "Google DeepMind ha pubblicato su Nature i risultati di WeatherNext, il modello che prevede traiettoria, intensità e struttura dei venti di un ciclone tropicale con un giorno di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106310/05-weathernext-cover.jpg",
-      "publishedAt": "2026-08-07T13:05:06+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "SAP blocca viaggi e assunzioni, sta spendendo troppo per l'AI",
-      "link": "https://www.tomshw.it/business/sap-blocca-viaggi-e-assunzioni-sta-spendendo-troppo-per-lai",
-      "excerpt": "SAP ha bloccato quasi tutti i viaggi di lavoro e le nuove assunzioni dal mese scorso, con un'unica eccezione: se la spesa riguarda l'intelligenza artificiale, si può fare. La…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106309/04-sap-cover.jpg",
       "publishedAt": "2026-08-07T13:05:06+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
@@ -239,38 +248,29 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Samsung ISOCELL HPC, il sensore da 200 MP che riprogetta il singolo pixel e scatta HDR 16 bit in un colpo solo",
-      "link": "https://images.dday.it/WguLRT9AC-qnAS1o8kDLLdY94Ee71_ZznLxcZfQCFYI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58308/961be0_00-tab-kv.jpg",
-      "excerpt": "La nuova struttura DeepPix aumenta del 60% la carica accumulabile da ogni pixel grazie a un serbatoio condiviso per le cariche elettriche derivate dalla luce... Leggi tutto",
-      "image": "https://images.dday.it/WguLRT9AC-qnAS1o8kDLLdY94Ee71_ZznLxcZfQCFYI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58308/961be0_00-tab-kv.jpg",
-      "publishedAt": "2026-08-07T10:41:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Ufficiali Redmi 17 e Redmi 17 5G: batteria da 7.500 mAh e prezzi da 249 euro",
-      "link": "https://images.dday.it/3OQiKNiDZpp2dvUjBDc7MTUjv0XIyDb_lgml5La7Ugk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58307/88914c_redmi17_01.jpg",
-      "excerpt": "Il modello 5G arriverà in Italia a settembre, il Redmi 17 usa un processore MediaTek... Leggi tutto",
-      "image": "https://images.dday.it/3OQiKNiDZpp2dvUjBDc7MTUjv0XIyDb_lgml5La7Ugk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58307/88914c_redmi17_01.jpg",
-      "publishedAt": "2026-08-07T09:34:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Quando esce Samsung Galaxy S27? Data, rumor e cosa sappiamo",
-      "link": "https://www.tomshw.it/smartphone/quando-esce-samsung-galaxy-s27-data-rumor-e-cosa-sappiamo",
-      "excerpt": "Samsung Galaxy S27 non ha ancora una data di presentazione ufficiale. La finestra più plausibile coincide con i primi mesi del 2027, probabilmente tra gennaio e febbraio, sulla…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106177/quando-esce-samsung-galaxy-s27-data-rumor-e-cosa-sappiamo.png",
-      "publishedAt": "2026-08-07T06:54:01+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Cinema in giardino: tutto il kit lo trovi su AliExpress",
       "link": "https://www.tomshw.it/offerte/come-mettere-insieme-una-serata-di-cinema-in-giardino-con-proiettore-telo-cavi-e-audio-comprati-su-aliexpress",
       "excerpt": "È quasi ora di iniziare il film, gli amici stanno prendendo posto in giardino e sul muro compare un'immagine piccola, storta e poco visibile. È una scena facile da evitare: per…",
       "image": "https://cdn.tomshw.it/storage/media/2026/08/106174/ChatGPT-Image-7-ago-2026,-08_31_06.png",
       "publishedAt": "2026-08-07T06:40:30+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Avatar Legends: 5 consigli per partire col piede giusto",
+      "link": "https://www.tomshw.it/videogioco/avatar-legends-the-fighting-game-come-iniziare-senza-errori",
+      "excerpt": "Avatar Legends: The Fighting Game è uscito il 23 luglio 2026, tredici giorni fa. Sviluppato da Gameplay Group International e pubblicato da PM Studios, è disponibile su PC,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105698/Avatar-Legends-The-Fighting-Game-cover-1600x900.jpg",
+      "publishedAt": "2026-08-05T08:10:10+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il battesimo del fuoco in ferrata: l'attrezzatura per iniziare a salire sul serio",
+      "link": "https://www.tomshw.it/altro/il-battesimo-del-fuoco-in-ferrata-lattrezzatura-per-iniziare-a-salire-sul-serio",
+      "excerpt": "Arriva un momento, lungo i sentieri di montagna, in cui lo sguardo smette di seguire la traccia di terra e roccia sotto i piedi e comincia a salire verso l'alto. La voglia di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104289/Il-battesimo-del-fuoco-in-ferrata-l'attrezzatura-per-iniziare-a-salire-sul-serio.png",
+      "publishedAt": "2026-07-29T14:38:28+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
