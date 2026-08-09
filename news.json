@@ -1,9 +1,81 @@
 {
-  "generatedAt": "2026-08-09T06:41:19.969897+00:00",
+  "generatedAt": "2026-08-09T08:32:45.753894+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Smart home: una presa intelligente da pochi euro può fare la differenza",
+      "link": "https://www.hdblog.it/domotica/articoli/n666664/smart-home-presa-intelligente-pochi-euro/",
+      "excerpt": "Come rendere smart la propria casa con un solo accessorio.",
+      "image": "https://hd2.tudocdn.net/1361742?w=660",
+      "publishedAt": "2026-08-09T08:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Condizionatore: quanto pesa sulla bolletta e quando conviene il ventilatore",
+      "link": "https://www.hdblog.it/home/articoli/n666544/condizionatore-bolletta-quando-ventilatore/",
+      "excerpt": "Come crescono i consumi nella stagione estiva.",
+      "image": "https://hd2.tudocdn.net/1361371?w=660",
+      "publishedAt": "2026-08-09T08:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Lenovo Tab Plus sotto i 220€, display 2K e 12 ore per film e serie",
+      "link": "https://www.tomshw.it/offerte/lenovo-tab-plus-sotto-i-220eur-display-2k-e-12-ore-per-film-e-serie",
+      "excerpt": "Lenovo Tab Plus costa 219€ su Amazon, invece dei 329€ di listino, con uno sconto del 33%. Il display 2K a 90Hz e l’autonomia fino a 12 ore lo rendono particolarmente interessante…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106427/tomshw-offer-682889.png",
+      "publishedAt": "2026-08-09T08:03:30+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Ha un V8 Maserati da 460 CV, ma non è un’auto: questa moto costa 144.000 euro",
+      "link": "https://www.hdmotori.it/ha-un-v8-maserati-da-460-cv-ma-non-e-unauto-questa-moto-costa-144-000-euro/",
+      "excerpt": "Si chiama Lazareth Wazuma V8M ed è una delle moto più folli mai costruite. Quattro ruote, 855 kg e un V8 Maserati 4.7 aspirato da 460 CV. Un esemplare quasi nuovo è appena...",
+      "image": "https://hd2.tudocdn.net/1361937?w=660",
+      "publishedAt": "2026-08-09T08:00:40+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung Galaxy A18: i benchmark svelano una scheda tecnica senza sorprese",
+      "link": "https://www.hdblog.it/smartphone/articoli/n666753/samsung-galaxy-a18-4g-lte-specifiche-benchmark/",
+      "excerpt": "Il modello LTE si è fatto vedere su Geekbench: cosa sappiamo.",
+      "image": "https://hd2.tudocdn.net/1361914?w=660",
+      "publishedAt": "2026-08-09T07:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nuovi droni marziani: scoveranno ghiaccio utile per la colonizzazione",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666757/nasa-skyfall-antenna-radar-marte/",
+      "excerpt": "La NASA testa un'antenna in tessuto per cercare ghiaccio nel sottosuolo marziano.",
+      "image": "https://hd2.tudocdn.net/1361924?w=660",
+      "publishedAt": "2026-08-09T07:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Vuoi evitare la multa del Tutor? Questi “trucchi” non servono a nulla",
+      "link": "https://www.hdmotori.it/vuoi-evitare-la-multa-del-tutor-questi-trucchi-non-servono-a-nulla/",
+      "excerpt": "C’è chi pensa che basti rallentare, chi crede che le auto con targa straniera siano invisibili e chi è convinto che con la pioggia il Tutor non funzioni. Ma quante di queste...",
+      "image": "https://hd2.tudocdn.net/1361934?w=660",
+      "publishedAt": "2026-08-09T07:00:52+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "L'extender Wi-Fi 6 di TP-Link scontato del 38% risolve il problema delle zone morte",
+      "link": "https://www.hdblog.it/hardware/offerte/n666734/extender-wi-fi-6-tp-link-mercusys-sconto-amazon/",
+      "excerpt": "Amazon sconta l'extender Mercusys ME1500X, dispositivo utile per risolvere i problemi di segnale Wi-Fi in casa.",
+      "image": "https://hd2.tudocdn.net/1361897?w=660",
+      "publishedAt": "2026-08-09T07:00:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Dall’Italia a Capo Nord su un’Ape camperizzata: l’incredibile impresa di Francesco",
       "link": "https://www.hdmotori.it/italia-capo-nord-ape-camperizzata/",
@@ -68,11 +140,20 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Pokémon, Mario e altre IP usate dagli USA: Tokyo protesta",
-      "link": "https://www.tomshw.it/altro/pokemon-e-mario-usati-senza-permesso-dal-governo-usa-tokyo-chiede-il",
-      "excerpt": "Le immagini di Pokémon, Super Mario e Naruto sono finite al centro di un confronto diplomatico tra Giappone e Stati Uniti. Tokyo ha comunicato più volte a Washington la richiesta…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106422/images-16.jpg",
-      "publishedAt": "2026-08-08T16:25:04+00:00",
+      "title": "Fire Emblem: Fortune’s Weave: debutta il controllo mouse con i Joy-Con 2",
+      "link": "https://www.tomshw.it/videogioco/fire-emblem-fortune-s-weave-debutta-il-controllo-mouse-con-i-joy",
+      "excerpt": "Fire Emblem: Fortune’s Weave permetterà di muovere le unità sul campo di battaglia usando i comandi stile mouse dei Joy-Con 2. La funzione, confermata da Nintendo nella scheda…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106318/Fire-Emblem-Fortunes-Weave-motion-controls.jpg",
+      "publishedAt": "2026-08-08T16:23:29+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Linux, cinque kernel LTS da aggiornare subito: ecco perché",
+      "link": "https://www.tomshw.it/hardware/linux-cinque-kernel-lts-da-aggiornare-il-backport-safe-ret-era-errato",
+      "excerpt": "Un backport errato, distribuito appena il giorno precedente, ha richiesto una nuova tornata di aggiornamenti per cinque rami long-term del kernel Linux. Le versioni 6.12.102,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106348/news-flash-670442.png",
+      "publishedAt": "2026-08-08T16:23:05+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -84,87 +165,6 @@
       "publishedAt": "2026-08-08T16:22:03+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Serious Sam: Shatterverse cambia formula: roguelite co-op in cinque dal 31 agosto",
-      "link": "https://www.tomshw.it/videogioco/serious-sam-shatterverse-cambia-formula-roguelite-co-op-in-cinque-dal-31",
-      "excerpt": "Serious Sam: Shatterverse sarà pubblicato il 31 agosto 2026 su PC tramite Steam, PlayStation 5 e Xbox Series X|S. Il nuovo capitolo abbandona la tradizionale progressione lineare…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106398/serious-sam-shatterverse-keyart.png",
-      "publishedAt": "2026-08-08T16:19:58+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Evo: l’AI progetta 16 batteriofagi vitali capaci di uccidere E. coli",
-      "link": "https://www.tomshw.it/scienze/evo-l-ai-progetta-16-batteriofagi-vitali-capaci-di-uccidere-e-coli",
-      "excerpt": "Sedici genomi virali progettati con l’intelligenza artificiale hanno prodotto batteriofagi vitali, capaci di replicarsi in ceppi di Escherichia coli e provocarne la lisi. Il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/06/96854/un-codice-rna-svela-i-legami-nascosti-tra-virus-e-batteri.png",
-      "publishedAt": "2026-08-08T16:19:39+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Pixel Watch 5, Google sfida Apple Watch nel primo teaser: \"sembra un orologio\"",
-      "link": "https://www.hdblog.it/indossabili/articoli/n666746/pixel-watch-5-teaser-google-sfida-apple-video/",
-      "excerpt": "Il lancio si avvicina.",
-      "image": "https://hd2.tudocdn.net/1361303?w=660",
-      "publishedAt": "2026-08-08T15:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Motorola Edge 70 Neo si fa vedere nei primi render: la fotocamera è da 200 MP",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666743/motorola-edge-70-neo-render-fotocamera-200-mp-leak/",
-      "excerpt": "Scopriamo in anteprima design e una caratteristica chiave.",
-      "image": "https://hd2.tudocdn.net/1361902?w=660",
-      "publishedAt": "2026-08-08T14:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Xiaomi 17T Pro in offerta, è sempre più un flagship killer",
-      "link": "https://www.hdblog.it/smartphone/offerte/n666745/xiaomi-17t-pro-512-gb-offerta-agosto-2026/",
-      "excerpt": "Lo Xiaomi 17T Pro è in offerta e si conferma un vero e proprio flagship killer al prezzo a cui viene proposto.",
-      "image": "https://hd2.tudocdn.net/1345947?w=660",
-      "publishedAt": "2026-08-08T14:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone 18 Pro, scorte a rischio: la carenza di DRAM potrebbe far slittare le consegne",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666738/iphone-18-pro-carenza-dram-apple-lancio-ritardi/",
-      "excerpt": "Il lancio si avvicina e Apple sembra avere qualche problema.",
-      "image": "https://hd2.tudocdn.net/1350760?w=660",
-      "publishedAt": "2026-08-08T14:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Patente a 17 anni, multe e sorpasso a destra: cambia tutto, nuove regole allo studio",
-      "link": "https://www.hdmotori.it/patente-a-17-anni-multe-e-sorpasso-a-destra-cambia-tutto-nuove-regole-allo-studio/",
-      "excerpt": "Il nuovo Codice della Strada potrebbe cambiare parecchie regole per automobilisti, motociclisti e ciclisti. Dalla patente B a 17 anni alle nuove multe per chi corre, passando per…",
-      "image": "https://hd2.tudocdn.net/1361906?w=660",
-      "publishedAt": "2026-08-08T14:30:46+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Pixel 10 in offerta su Amazon, aspettare i Pixel 11 non serve",
-      "link": "https://www.hdblog.it/smartphone/offerte/n666739/google-pixel-10-offerta-amazon-agosto-2026/",
-      "excerpt": "Il Google Pixel 10 è in offerta su Amazon e rappresenta oggi la soluzione giusta per un nuovo smartphone Google: aspettare il Pixel 11 non serve.",
-      "image": "https://hd2.tudocdn.net/1354191?w=660",
-      "publishedAt": "2026-08-08T14:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Pilota di F1 derubato sul lago di Como: “Mi hanno portato via tutto”",
-      "link": "https://www.hdmotori.it/pilota-f1-derubato-lago-di-como/",
-      "excerpt": "L’ennesimo episodio spiacevole è avvenuto a un pilota di F1 sul lago di Como. Protagonista Franco Colapinto, driver dell’Alpine.",
-      "image": "https://hd2.tudocdn.net/1361899?w=660",
-      "publishedAt": "2026-08-08T14:00:56+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Se devi cambiare il tuo rasoio elettrico, questo Braun è da prendere al volo",
