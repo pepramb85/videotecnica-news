@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-08-09T10:24:32.509499+00:00",
+  "generatedAt": "2026-08-09T12:34:20.393809+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Ho utilizzato iPhone Air per un anno: come è andata? | Video",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n648894/iphone-air-dopo-un-anno/",
+      "excerpt": "iPhone Air non ha venduto secondo le aspettative di Apple. Lo abbiamo utilizzato per un anno e vi raccontiamo il perché, secondo noi.",
+      "image": "https://hd2.tudocdn.net/1358927?w=660",
+      "publishedAt": "2026-08-09T11:31:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "iPhone 17 in promo: i saldi di agosto sono l'occasione giusta per l'acquisto prima degli aumenti",
+      "link": "https://www.hdblog.it/smartphone/offerte/n666769/iphone-17-offerta-agosto-2026/",
+      "excerpt": "iPhone 17 è in offerta: è il momento giusto per acquistare lo smartphone di Apple prima degli aumenti di prezzo per la crisi delle memorie.",
+      "image": "https://hd2.tudocdn.net/1356729?w=660",
+      "publishedAt": "2026-08-09T10:30:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Eletta Ultra: la macchina caffé automatica che fa espresso, cappuccino e cold brew (e altre 50 ricette calde e fredde). La recensione",
       "link": "https://images.dday.it/2UxzYnJwXHWbXdKlOOosK6SjzNzcgxcEdqdRs_kzmLI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58318/7505b1_De_Longhi___ELETTA_ULTRA_4.jpg",
@@ -113,22 +131,31 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Vuoi evitare la multa del Tutor? Questi “trucchi” non servono a nulla",
-      "link": "https://www.hdmotori.it/vuoi-evitare-la-multa-del-tutor-questi-trucchi-non-servono-a-nulla/",
-      "excerpt": "C’è chi pensa che basti rallentare, chi crede che le auto con targa straniera siano invisibili e chi è convinto che con la pioggia il Tutor non funzioni. Ma quante di queste...",
-      "image": "https://hd2.tudocdn.net/1361934?w=660",
-      "publishedAt": "2026-08-09T07:00:52+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "AMD acquisirà Taalas: chip AI su misura accanto alle GPU Instinct",
+      "link": "https://www.tomshw.it/business/amd-acquisira-taalas-chip-ai-su-misura-accanto-alle-gpu-instinct",
+      "excerpt": "Silicio costruito attorno a uno specifico modello AI, con archiviazione e calcolo riuniti nello stesso chip: è la tecnologia che AMD vuole aggiungere alla propria roadmap di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106235/social_image_resized.jpg",
+      "publishedAt": "2026-08-08T16:26:18+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
-      "title": "L'extender Wi-Fi 6 di TP-Link scontato del 38% risolve il problema delle zone morte",
-      "link": "https://www.hdblog.it/hardware/offerte/n666734/extender-wi-fi-6-tp-link-mercusys-sconto-amazon/",
-      "excerpt": "Amazon sconta l'extender Mercusys ME1500X, dispositivo utile per risolvere i problemi di segnale Wi-Fi in casa.",
-      "image": "https://hd2.tudocdn.net/1361897?w=660",
-      "publishedAt": "2026-08-09T07:00:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Samsung Smart Switch: da iPhone a Galaxy via QR, senza installare app sull’iPhone",
+      "link": "https://www.tomshw.it/hardware/samsung-smart-switch-da-iphone-a-galaxy-via-qr-senza-installare-app",
+      "excerpt": "Il passaggio da iPhone a Galaxy può iniziare direttamente dalla scansione di un QR code, senza installare preventivamente un’app sul dispositivo Apple. Il nuovo flusso wireless di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103563/samsung-semplifica-il-passaggio-da-iphone-a-galaxy-senza-app.png",
+      "publishedAt": "2026-08-08T16:25:45+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Shopping con l'AI: i retailer stanno ottimizzando i cataloghi, ecco come",
+      "link": "https://www.tomshw.it/hardware/chatgpt-e-gemini-cataloghi-ottimizzati-checkout-sui-siti-dei-retailer",
+      "excerpt": "Cataloghi più dettagliati e pagine prodotto leggibili dalle macchine stanno diventando strumenti centrali per intercettare gli acquisti suggeriti dagli assistenti AI. Grandi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/01/80485/imageF3LdD4.jpg",
+      "publishedAt": "2026-08-08T16:25:05+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Splatoon Raiders: il limitatore dei tank ora si disattiva premendo A",
@@ -145,24 +172,6 @@
       "excerpt": "Fire Emblem: Fortune’s Weave permetterà di muovere le unità sul campo di battaglia usando i comandi stile mouse dei Joy-Con 2. La funzione, confermata da Nintendo nella scheda…",
       "image": "https://cdn.tomshw.it/storage/media/2026/08/106318/Fire-Emblem-Fortunes-Weave-motion-controls.jpg",
       "publishedAt": "2026-08-08T16:23:29+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Linux, cinque kernel LTS da aggiornare subito: ecco perché",
-      "link": "https://www.tomshw.it/hardware/linux-cinque-kernel-lts-da-aggiornare-il-backport-safe-ret-era-errato",
-      "excerpt": "Un backport errato, distribuito appena il giorno precedente, ha richiesto una nuova tornata di aggiornamenti per cinque rami long-term del kernel Linux. Le versioni 6.12.102,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106348/news-flash-670442.png",
-      "publishedAt": "2026-08-08T16:23:05+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "MDA Space: ricavi +34%, portafoglio ordini a 4 miliardi di dollari canadesi",
-      "link": "https://www.tomshw.it/business/mda-space-ricavi-34-portafoglio-ordini-a-4-miliardi-di-dollari-canadesi",
-      "excerpt": "MDA Space ha chiuso il secondo trimestre 2026 con ricavi per 498,6 milioni di dollari canadesi, quasi il 34% in più rispetto allo stesso periodo dell’anno precedente. La crescita…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106404/mda-space-ricavi-34-portafoglio-ordini-a-4-miliardi-di-dollari-canadesi.png",
-      "publishedAt": "2026-08-08T16:22:03+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -192,15 +201,6 @@
       "publishedAt": "2026-08-08T08:05:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Pebble, il ritorno: alla fine lo smartwatch open ce l'ha fatta",
-      "link": "https://www.tomshw.it/smartphone/pebble-e-tornato-davvero-oltre-23000-time-2-prodotti-e-consegne-in-93-paesi",
-      "excerpt": "Pebble è tornato davvero. Il 14 luglio 2026 l’azienda ha confermato di avere prodotto oltre 23.000 Pebble Time 2 dall’avvio della produzione di massa, avvenuto il 24 marzo, e di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106409/Pebble-Time-2-2120x848-jpg.webp",
-      "publishedAt": "2026-08-08T07:20:02+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Astra è troppo potente per i vecchi sistemi di sicurezza: OpenAI sospende parte dei test sul nuovo modello IA",
