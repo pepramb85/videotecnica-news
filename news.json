@@ -1,9 +1,198 @@
 {
-  "generatedAt": "2026-08-10T12:51:23.712434+00:00",
+  "generatedAt": "2026-08-10T14:51:07.701393+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Google cambia il backup foto: ecco come funziona ora",
+      "link": "https://www.tomshw.it/hardware/google-drive-per-desktop-il-backup-foto-passa-a-google-foto-web",
+      "excerpt": "Dal 10 agosto 2026, le cartelle locali di foto e video non vengono più caricate automaticamente su Google Foto attraverso Google Drive per desktop. La modifica è ufficiale e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106612/news-flash-702196.png",
+      "publishedAt": "2026-08-10T14:50:07+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "E se uno dei prossimi Apple Watch non dovesse avere alcun display?",
+      "link": "https://www.hdblog.it/indossabili/articoli/n666836/uno-prossimi-apple-watch-senza-display/",
+      "excerpt": "Possibile rivoluzione in arrivo per la gamma Apple Watch: display di dimensioni differenti e, forse, anche un modello senza schermo.",
+      "image": "https://hd2.tudocdn.net/1362053?w=660",
+      "publishedAt": "2026-08-10T14:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Light No Fire è già giocabile, ma Hello Games non mostra nulla",
+      "link": "https://www.tomshw.it/videogioco/light-no-fire-e-gia-giocabile-hello-games-non-mostra-nuovo-materiale",
+      "excerpt": "Una versione di Light No Fire è già giocabile all’interno di Hello Games e il materiale prodotto quotidianamente sarebbe sufficiente per una nuova presentazione pubblica. A…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106607/Light-No-Fire-Hello-Games-neues-Projekt-Aktueller-Stand-Beitragsbild.webp",
+      "publishedAt": "2026-08-10T14:42:31+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Google aggiorna i Nest con Thread 1.4: cosa cambia per la smart home",
+      "link": "https://www.hdblog.it/google/articoli/n666841/google-nest-thread-1-4-aggiornamento-novita/",
+      "excerpt": "Un update a fari spenti.",
+      "image": "https://hd2.tudocdn.net/1094733?w=660",
+      "publishedAt": "2026-08-10T14:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Furti auto in Italia, è emergenza: 285 vetture rubate ogni giorno",
+      "link": "https://www.hdmotori.it/furti-auto-italia-emergenza/",
+      "excerpt": "Furti auto in Italia: 285 vetture spariscono ogni giorno. Campania, Lazio e Sicilia le regioni più colpite. Crescono le polizze furto",
+      "image": "https://hd2.tudocdn.net/1362081?w=660",
+      "publishedAt": "2026-08-10T14:30:46+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Disney+ sperimenta la ricerca intelligente con l'AI",
+      "link": "https://www.hdblog.it/curiosita/articoli/n666783/disney-plus-intelligenza-artificiale-streaming/",
+      "excerpt": "Disney+ prova una ricerca AI che comprende linguaggio naturale, voce e preferenze.",
+      "image": "https://hd2.tudocdn.net/1361967?w=660",
+      "publishedAt": "2026-08-10T14:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple prepara un Watch senza display con focus sulla salute",
+      "link": "https://www.tomshw.it/smartphone/apple-watch-senza-schermo-raccoglierebbe-dati-biometrici",
+      "excerpt": "Un dispositivo da polso senza schermo, dedicato alla raccolta passiva dei dati biometrici, potrebbe ampliare la famiglia Apple Watch. L'ipotesi rientra in una revisione più estesa…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106593/news-flash-702125.png",
+      "publishedAt": "2026-08-10T14:20:15+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Un nuovo attacco aggira le difese dei processori Intel e AMD",
+      "link": "https://www.tomshw.it/hardware/un-nuovo-attacco-aggira-le-difese-dei-processori-intel-e-amd",
+      "excerpt": "I ricercatori del MIT CSAIL hanno dimostrato un nuovo attacco capace di superare diverse difese integrate nei processori Intel e AMD. La tecnica, battezzata TONTOU, sfrutta il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106594/un-nuovo-attacco-aggira-le-difese-dei-processori-intel-e-amd.png",
+      "publishedAt": "2026-08-10T14:16:05+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Starlink conquista i passeggeri, il gradimento del Wi-Fi raddoppia",
+      "link": "https://www.tomshw.it/hardware/starlink-conquista-i-passeggeri-il-gradimento-del-wi-fi-raddoppia",
+      "excerpt": "United Airlines e Virgin Atlantic hanno registrato un netto miglioramento della soddisfazione dei passeggeri sugli aerei equipaggiati con Starlink. Per United, il gradimento del…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106587/starlink-conquista-i-passeggeri-il-gradimento-del-wi-fi-raddoppia.png",
+      "publishedAt": "2026-08-10T14:09:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Le SIM malevole possono sabotare smartphone e colonnine EV",
+      "link": "https://www.tomshw.it/hardware/le-sim-malevole-possono-sabotare-smartphone-e-colonnine-ev",
+      "excerpt": "I ricercatori dell’Università di Birmingham, insieme alla società di sicurezza Fuzzware, hanno scoperto che una SIM malevola o compromessa può impartire istruzioni direttamente al…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106584/le-sim-malevole-possono-sabotare-smartphone-e-colonnine-ev.png",
+      "publishedAt": "2026-08-10T14:08:14+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Aspirapolvere senza fili Lefant al 71% in meno, da prendere per casa e auto",
+      "link": "https://www.tomshw.it/offerte/aspirapolvere-senza-fili-lefant-al-71-in-meno-da-prendere-per-casa-e-auto",
+      "excerpt": "L’aspirapolvere senza fili Lefant V1 a 99,99€ su Amazon beneficia di uno sconto del 71% sul listino di 339,99€. Aspirazione da 40.000 Pa, batteria rimovibile e accessori mirati lo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106585/tomshw-offer-702102.png",
+      "publishedAt": "2026-08-10T14:03:32+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "In Danimarca si vendono solo elettriche: nuova quota record per le BEV a luglio",
+      "link": "https://www.hdmotori.it/danimarca-quota-record-bev-luglio/",
+      "excerpt": "Il 97% degli automobilisti privati in Danimarca hanno scelto un veicolo elettrico a luglio, la quota più alta di sempre. Ma il futuro della transizione elettrica è legato alle…",
+      "image": "https://hd2.tudocdn.net/1362060?w=660",
+      "publishedAt": "2026-08-10T14:00:08+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "I cluster AI lasciano le GPU in attesa, Supermicro spiega perché",
+      "link": "https://www.tomshw.it/hardware/i-cluster-ai-lasciano-le-gpu-in-attesa-supermicro-spiega-perche",
+      "excerpt": "Supermicro ha individuato nella gestione della memoria e dello storage uno dei principali limiti operativi dei moderni cluster AI. L'azienda ha organizzato un ciclo di 12 sessioni…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106575/i-cluster-ai-lasciano-le-gpu-in-attesa-supermicro-spiega-perche.png",
+      "publishedAt": "2026-08-10T13:55:30+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Sembra un missile, ma parte da un cannone: raggiunge Mach 3,5",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666800/proiettile-ramjet-sceptre-155-mm/",
+      "excerpt": "Un proiettile ramjet da 155 mm promette 150 km di gittata e velocità fino a Mach 3,5.",
+      "image": "https://hd2.tudocdn.net/1362002?w=660",
+      "publishedAt": "2026-08-10T13:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple testa le DRAM di CXMT, ma la fornitura resta in dubbio",
+      "link": "https://www.tomshw.it/hardware/apple-testa-le-dram-di-cxmt-ma-la-fornitura-resta-in-dubbio",
+      "excerpt": "Apple starebbe testando le memorie prodotte da CXMT in diversi dispositivi destinati al mercato cinese, nel tentativo di ampliare la propria catena di approvvigionamento. La…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106572/apple-testa-le-dram-di-cxmt-ma-la-fornitura-resta-in-dubbio.png",
+      "publishedAt": "2026-08-10T13:52:39+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Google Pixel 11 Pro XL, SoC Tensor G6 in test su Geekbench: prestazioni da decifrare",
+      "link": "https://www.hdblog.it/smartphone/articoli/n666839/google-pixel-11-pro-xl-benchmark-tensor-g6-chip/",
+      "excerpt": "Un primo confronto con il predecessore Tensor G5.",
+      "image": "https://hd2.tudocdn.net/1360708?w=660",
+      "publishedAt": "2026-08-10T13:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Quasi l'intero mercato dei robot umanoidi è in mano a produttori cinesi",
+      "link": "https://images.dday.it/00Wn6dGp0HgRkmI78oNITRQGJHegtt4EvVb37b-xbYc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58334/69d000_2e5fd99df2837d807a7ab4fb28cc0493.jpg",
+      "excerpt": "Le spedizioni mondiali di robot umanoidi sono più che triplicate rispetto a un anno fa. Agibot ha superato Unitree e ha conquistato il primo posto... Leggi tutto",
+      "image": "https://images.dday.it/00Wn6dGp0HgRkmI78oNITRQGJHegtt4EvVb37b-xbYc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58334/69d000_2e5fd99df2837d807a7ab4fb28cc0493.jpg",
+      "publishedAt": "2026-08-10T13:42:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Apple TV punta ancora su James Marsden: sarà il protagonista di Bad News Dads",
+      "link": "https://www.hdblog.it/apple/articoli/n666793/james-marsden-bad-news-dads-apple-tv/",
+      "excerpt": "James Marsden torna su Apple TV con una comedy investigativa tra baseball e misteri.",
+      "image": "https://hd2.tudocdn.net/1341541?w=660",
+      "publishedAt": "2026-08-10T13:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "JBL, che offerte! Due prodotti imperdibili ora costano molto meno",
+      "link": "https://images.dday.it/W74f7-PG3tJWEtlJjtz35PxRs-7F_fhlCxRUKcZpet4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58333/f0534f_81qujpqiA8L._AC_SL1500_.jpg",
+      "excerpt": "JBL Live 670NC e Charge 5: se cercavi cuffie o speaker, questo è il momento giusto per comprarli... Leggi tutto",
+      "image": "https://images.dday.it/W74f7-PG3tJWEtlJjtz35PxRs-7F_fhlCxRUKcZpet4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58333/f0534f_81qujpqiA8L._AC_SL1500_.jpg",
+      "publishedAt": "2026-08-10T13:31:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "FlexiSpot E7 Plus e C7 Max: ad agosto sconti, cashback e Golden Ticket",
+      "link": "https://www.hdblog.it/tecnologia/offerte/n666540/flexispot-e7-plus-e-c7-max-ad-agosto-sconti-cashback-e-golden-ticket/",
+      "excerpt": "Ad agosto FlexiSpot mette al centro E7 Plus e C7 Max con sconti fino al 12%, cashback e un Golden Ticket da 10.000 euro",
+      "image": "https://hd2.tudocdn.net/1361356?w=660",
+      "publishedAt": "2026-08-10T13:31:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il router 4G+ trasforma qualsiasi SIM in una rete stabile: lo sconto è del 29%",
+      "link": "https://www.hdblog.it/hardware/offerte/n666833/router-4g-plus-strong-sconto-amazon/",
+      "excerpt": "In offerta su Amazon il router 4G+ di Strong che trasforma qualsiasi SIM in una rete che gestisce fino a 256 dispositivi.",
+      "image": "https://hd2.tudocdn.net/1362055?w=660",
+      "publishedAt": "2026-08-10T13:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Meta torna ai pesi aperti con Muse Glimmer, il modello agentico che gira su una sola GPU (carrozzata)",
       "link": "https://images.dday.it/Qy8aJe8eTCqU_mYBb6lKbHcRGV4MgB9i4LsoQoebBDM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58331/9d683a_hero-dark-v1_copia.jpg",
@@ -14,103 +203,13 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Questi satelliti NASA vedono il calore invisibile dei poli",
-      "link": "https://www.tomshw.it/scienze/questi-satelliti-nasa-vedono-il-calore-invisibile-dei-poli",
-      "excerpt": "I due piccoli satelliti della NASA appartenenti alla missione PREFIRE hanno raccolto dati per due interi cicli stagionali ai poli terrestri. Dal luglio 2024, i due CubeSat seguono…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106530/questi-satelliti-nasa-vedono-il-calore-invisibile-dei-poli.png",
-      "publishedAt": "2026-08-10T12:33:48+00:00",
+      "title": "TSMC decolla grazie ai chip AI: ricavi record a luglio",
+      "link": "https://www.tomshw.it/business/tsmc-vola-con-i-chip-ai-ricavi-record-a-luglio-44-7",
+      "excerpt": "TSMC ha registrato a luglio 2026 ricavi consolidati per 467,58 miliardi di dollari taiwanesi, il valore mensile più alto raggiunto dalla società. Il dato ufficiale segna una…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106527/news-flash-701882.png",
+      "publishedAt": "2026-08-10T12:30:05+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Un sistema quantistico fa a meno dei laser per la prima volta",
-      "link": "https://www.tomshw.it/scienze/un-sistema-quantistico-fa-a-meno-dei-laser-per-la-prima-volta",
-      "excerpt": "Un gruppo guidato da ricercatori dell’Università di Ottawa e del Max Planck Institute for the Science of Light ha usato la luce del Sole al posto di un laser per generare coppie…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106525/un-sistema-quantistico-fa-a-meno-dei-laser-per-la-prima-volta.png",
-      "publishedAt": "2026-08-10T12:27:50+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "eBay crolla del -28%: GameStop potrebbe ritirare l'offerta",
-      "link": "https://www.tomshw.it/business/gamestop-potrebbe-ritirare-l-offerta-da-56-miliardi-per-ebay-pesa-il",
-      "excerpt": "Il calo del 28% registrato dalle azioni GameStop ha reso meno favorevole la componente azionaria dell'offerta per eBay, mentre il titolo della società di commercio elettronico è…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106523/news-flash-701867.png",
-      "publishedAt": "2026-08-10T12:25:29+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "2K Sale su Instant Gaming: Borderlands, BioShock e Mafia fino al 92% di sconto",
-      "link": "https://www.tomshw.it/offerte/2k-publisher-sale-su-instant-gaming-borderlands-bioshock-e-mafia-fino-al-92-di-sconto",
-      "excerpt": "Ferragosto si avvicina e con lui il momento perfetto per svuotare la wishlist. Su Instant Gaming è infatti partito il 2K Publisher Sale, la svendita ufficiale dedicata all'intero…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106522/2kpublishersale-IG.jpg",
-      "publishedAt": "2026-08-10T12:24:05+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Framework conferma il furto dei dati dei clienti",
-      "link": "https://www.tomshw.it/hardware/framework-conferma-il-furto-dei-dati-dei-clienti",
-      "excerpt": "Framework Computer ha confermato una violazione dei dati che ha coinvolto tutti i suoi clienti, esponendo informazioni utilizzabili per campagne di phishing e impersonificazione.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106520/framework-conferma-il-furto-dei-dati-dei-clienti.png",
-      "publishedAt": "2026-08-10T12:15:05+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Microsoft Planner cambia interfaccia: il nuovo design arriva a settembre",
-      "link": "https://www.hdblog.it/microsoft/articoli/n666829/microsoft-planner-aggiornato-cosa-cambia-quando/",
-      "excerpt": "Microsoft prepara il rollout della nuova interfaccia di Planner: il redesign arriverà da settembre 2026 con navigazione semplificata e maggiore coerenza tra Web e Teams",
-      "image": "https://hd2.tudocdn.net/1362039?w=660",
-      "publishedAt": "2026-08-10T12:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "WRF punta su telecamere e AI per controllare la qualità dell’acqua",
-      "link": "https://www.tomshw.it/hardware/wrf-punta-su-telecamere-e-ai-per-controllare-la-qualita-dellacqua",
-      "excerpt": "La Water Research Foundation ha avviato di recente un progetto per sviluppare algoritmi capaci di usare telecamere nel controllo della qualità dell’acqua presso servizi idrici e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106517/wrf-punta-su-telecamere-e-ai-per-controllare-la-qualita-dell-acqua.png",
-      "publishedAt": "2026-08-10T12:06:46+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "GeForce NOW diventa un desktop Windows grazie ai modder",
-      "link": "https://www.tomshw.it/hardware/geforce-now-nasconde-un-desktop-windows-i-modder-lo-sbloccano",
-      "excerpt": "Un gruppo di modder ha trovato il modo di trasformare una sessione di NVIDIA GeForce NOW in un desktop Windows completo, aggirando l'interfaccia che normalmente limita l'accesso…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106516/geforce-now-nasconde-un-desktop-windows-i-modder-lo-sbloccano.png",
-      "publishedAt": "2026-08-10T12:06:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Apple avrebbe scelto ottobre per i nuovi MacBook Pro e iMac",
-      "link": "https://www.tomshw.it/hardware/apple-avrebbe-scelto-ottobre-per-i-nuovi-macbook-pro-e-imac",
-      "excerpt": "Apple starebbe preparando per ottobre la presentazione di un MacBook Pro M6 di base e di nuovi iMac. La finestra autunnale riorganizzerebbe il calendario dei Mac, separando il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106515/apple-avrebbe-scelto-ottobre-per-i-nuovi-macbook-pro-e-imac.png",
-      "publishedAt": "2026-08-10T12:04:13+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Anker Prime TB5 a 318,99€, 14 porte per chi lavora con file enormi",
-      "link": "https://www.tomshw.it/offerte/anker-prime-tb5-a-31899eur-14-porte-per-chi-lavora-con-file-enormi",
-      "excerpt": "Anker Prime TB5 costa 318,99€ su Amazon, anziché 419€, con uno sconto del 24%. Le 14 porte, la banda fino a 120 Gbps e la ricarica massima da 140W permettono di gestire una…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106518/tomshw-offer-701785.png",
-      "publishedAt": "2026-08-10T12:03:15+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "FAW: i pionieri dell'auto cinese arrivano in Italia, la gamma proposta",
-      "link": "https://www.hdmotori.it/faw-bestune-italia-models-china-car-company/",
-      "excerpt": "Il colosso cinese FAW sbarca in Italia con China Car Company. In arrivo i modelli T77, T90, B70S e la JoyEE 08 PHEV, in attesa dell'elettrica Joy EE04 nel 2027.",
-      "image": "https://hd2.tudocdn.net/1362044?w=660",
-      "publishedAt": "2026-08-10T12:00:17+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Se l’IA sostituisce i junior, chi controllerà gli errori dell’IA in futuro?",
@@ -120,78 +219,6 @@
       "publishedAt": "2026-08-10T11:47:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Mercato memorie, anomalia storica: la RAM costa quanto nel 2007",
-      "link": "https://www.hdblog.it/hardware/articoli/n666825/mercato-memorie-anomalia-storica-la-ram-costa-quanto-nel-2007/",
-      "excerpt": "La produzione di memoria cresce molto più lentamente della domanda generata dall’AI. Il risultato è un’anomalia storica che ha riportato il costo della RAM ai livelli di quasi…",
-      "image": "https://hd2.tudocdn.net/1351639?w=660",
-      "publishedAt": "2026-08-10T11:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "70mai rinnova l’offerta Dash Cam con T800 e A810 Lite",
-      "link": "https://www.hdblog.it/tecnologia/offerte/n666459/70mai-rinnova-lofferta-dash-cam-con-t800-e-a810-lite/",
-      "excerpt": "70mai sconta su Amazon le dash cam T800 e A810 Lite: prezzi, durata delle promozioni e specifiche dei due modelli con registrazione 4K.",
-      "image": "https://hd2.tudocdn.net/1361185?w=660",
-      "publishedAt": "2026-08-10T11:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "L'ultima RC di Linux 7.2 è qui: la versione stabile arriva la prossima settimana",
-      "link": "https://www.hdblog.it/linux/articoli/n666822/linux-7-2-rc-finale-disponibile/",
-      "excerpt": "Correzioni per S/390, BTRFS e driver: le novità dell'ultima release candidate di Linux",
-      "image": "https://hd2.tudocdn.net/1330452?w=660",
-      "publishedAt": "2026-08-10T11:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "La Smart #2 è tornata, svelate le prime immagini dell’erede della Fortwo",
-      "link": "https://www.hdmotori.it/smart-2-immagini-erede-fortwo/",
-      "excerpt": "Sta per sbarcare sul mercato il modello definitivo della nuova Smart due posti che rivoluzionerà il mercato.",
-      "image": "https://hd2.tudocdn.net/1362038?w=660",
-      "publishedAt": "2026-08-10T11:00:18+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone 17 batterà un importante record che manca dai tempi del buon vecchio iPhone 4",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666804/iphone-17-record-vecchio-iphone-4/",
-      "excerpt": "Per iPhone 17 si sta avvicinando un momento storico, che gli permetterà di superare iPhone 4.",
-      "image": "https://hd2.tudocdn.net/1307298?w=660",
-      "publishedAt": "2026-08-10T10:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "DJI Osmo 360 II si mostra prima del lancio: batteria più grande e video 8K",
-      "link": "https://www.hdblog.it/fotografia/articoli/n666820/dji-osmo-360-ii-video-unboxing-immagini-specifiche/",
-      "excerpt": "DJI Osmo 360 II compare in un video unboxing prima della presentazione del 13 agosto: design familiare, batteria da 2.150 mAh e possibile registrazione video 360 in 8K a 50 fps",
-      "image": "https://hd2.tudocdn.net/1362023?w=660",
-      "publishedAt": "2026-08-10T10:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Sony Xperia 1 IX: primo avvistamento per il top di gamma del 2027",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666817/sony-xperia-1-ix-certificazione-lancio-2027-leak/",
-      "excerpt": "In anticipo rispetto ai predecessori.",
-      "image": "https://hd2.tudocdn.net/1362019?w=660",
-      "publishedAt": "2026-08-10T10:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Mini friggitrice ad aria e macchina da caffè vintage: le offerte del volantino Lidl",
-      "link": "https://www.hdblog.it/home/articoli/n666823/lidl-nuovo-volantino-macchina-caffe-planetaria/",
-      "excerpt": "Il volantino Lidl della settimana è ricco di prodotti Silvercrest per la cucina: macinacaffè, tostapane, bollitore, friggitrice ad aria, planetaria e macchina da caffè a prezzi…",
-      "image": "https://hd2.tudocdn.net/1362028?w=660",
-      "publishedAt": "2026-08-10T10:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Recensione Nothing Ear 3A: audio voto 6, ma registrano le telefonate",
@@ -246,33 +273,6 @@
       "publishedAt": "2026-08-10T08:10:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Un futuro Apple Watch senza schermo? Apple sta studiando come rinnovare la gamma dopo tanti anni",
-      "link": "https://images.dday.it/W9Rdz-hG_yPy7w1MT4GKjoQsFPNU1PImC-59Sgd3AOA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58325/a6728a_Depositphotos_706806746_XL.jpg",
-      "excerpt": "Apple starebbe valutando una revisione profonda della gamma. Tra le ipotesi ci sono dispositivi con schermi di forme diverse e nuove fasce di prezzo... Leggi tutto",
-      "image": "https://images.dday.it/W9Rdz-hG_yPy7w1MT4GKjoQsFPNU1PImC-59Sgd3AOA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58325/a6728a_Depositphotos_706806746_XL.jpg",
-      "publishedAt": "2026-08-10T08:05:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Offerta del momento: il sistema di filtraggio a osmosi inversa Waterdrop è ora in sconto su Amazon",
-      "link": "https://images.dday.it/CLYt57dVomW2I4F1Zka7nT22HipUqWnrEapWu8rrQ78/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/54141/dc23ff_ape2.jpg",
-      "excerpt": "Avere acqua filtrata direttamente dal rubinetto è oggi più semplice grazie al sistema a osmosi inversa Waterdrop G3P600, ora in promozione su Amazon. Approfittane subito... Leggi…",
-      "image": "https://images.dday.it/CLYt57dVomW2I4F1Zka7nT22HipUqWnrEapWu8rrQ78/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/54141/dc23ff_ape2.jpg",
-      "publishedAt": "2026-08-09T13:25:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Palantir, cosa c'è dietro l’azienda che prevede il futuro?",
-      "link": "https://www.tomshw.it/hardware/palantir-questa-e-lazienda-che-prevede-il-futuro",
-      "excerpt": "Se esiste un nome che negli ultimi mesi ha monopolizzato il dibattito etico tecnologico e geopolitico globale quello è sicuramente Palantir. Da fornitore di nicchia per i servizi…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105087/palantir.png",
-      "publishedAt": "2026-08-06T12:15:47+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     }
   ]
 }
