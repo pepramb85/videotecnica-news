@@ -1,9 +1,189 @@
 {
-  "generatedAt": "2026-08-11T10:42:54.692501+00:00",
+  "generatedAt": "2026-08-11T12:45:43.518388+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Da domani cambiano gli imballaggi alimentari: l’UE frena gli inquinanti eterni",
+      "link": "https://www.hdblog.it/home/articoli/n666934/nuove-regole-ue-imballaggi-alimentari-cosa-cambia/",
+      "excerpt": "Dal 12 agosto 2026 iniziano ad applicarsi nell’Unione europea le nuove regole PPWR sugli imballaggi: il primo cambiamento riguarda i limiti agli PFAS nei materiali destinati al…",
+      "image": "https://hd2.tudocdn.net/1362269?w=660",
+      "publishedAt": "2026-08-11T12:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Max Payne Remake: cosa cambia con Rockstar al timone",
+      "link": "https://www.tomshw.it/videogioco/max-payne-1-2-remake-rockstar-controlla-gli-aggiornamenti",
+      "excerpt": "Max Payne 1 & 2 Remake è ancora in piena produzione e resta senza una finestra di lancio ufficiale. Remedy Entertainment ha aggiornato lo stato del progetto nella documentazione…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106805/news-flash-736403.png",
+      "publishedAt": "2026-08-11T12:43:53+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "IBM punta forte: cluster NVIDIA da 240 milioni con Together AI",
+      "link": "https://www.tomshw.it/business/ibm-e-together-ai-cluster-nvidia-da-240-milioni",
+      "excerpt": "Un cluster da 240 milioni di dollari, progettato per eseguire in produzione modelli AI aperti, sarà realizzato su IBM Cloud. L’infrastruttura nasce da un accordo pluriennale tra…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106804/ibm-together-ai-ink-240-million-deal-for-nvidia-powered-ai-inference-cluster.jpg",
+      "publishedAt": "2026-08-11T12:42:22+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Editori francesi contro Google: all'antitrust per AI Overview",
+      "link": "https://www.tomshw.it/hardware/google-ai-editori-francesi-all-antitrust-per-il-traffico-perso",
+      "excerpt": "Le rappresentanze degli editori francesi hanno chiesto alla Autorité de la concurrence di intervenire sui riepiloghi generati dall’intelligenza artificiale di Google. La…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106790/french-media-asks-french-anti-trust-watchdog-to-act-on-googles-ai.jpg",
+      "publishedAt": "2026-08-11T12:27:54+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Payday diventa una serie TV: 50 Cent produttore esecutivo",
+      "link": "https://www.tomshw.it/videogioco/payday-diventa-una-serie-tv-50-cent-sara-produttore-esecutivo",
+      "excerpt": "La serie televisiva di Payday avrà Curtis “50 Cent” Jackson tra i produttori esecutivi. Variety ha anticipato il suo ingresso nel progetto sviluppato da VICE Studios insieme a…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106802/news-flash-736365.png",
+      "publishedAt": "2026-08-11T12:27:24+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Samsung, su One UI 9.5 la modalità scura sarà ancora più scura",
+      "link": "https://www.hdblog.it/smartphone/articoli/n666930/samsung-one-ui-9-5-modalita-scura-dark-icone/",
+      "excerpt": "E più corente.",
+      "image": "https://hd2.tudocdn.net/1362268?w=660",
+      "publishedAt": "2026-08-11T12:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Tre anni e il vecchio record è battuto: nuovo picco per la temperatura degli oceani",
+      "link": "https://www.hdblog.it/green/articoli/n666932/temperatura-oceani-record-riscaldamento-globale/",
+      "excerpt": "Luglio 2026 ha segnato un nuovo record per la temperatura superficiale degli oceani lontani dai poli, con una media di 20,96 °C secondo Copernicus, superando il precedente massimo…",
+      "image": "https://hd2.tudocdn.net/1262967?w=660",
+      "publishedAt": "2026-08-11T12:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Arriva la prima TV totalmente IA: film e serie gratis non-stop",
+      "link": "https://www.tomshw.it/altro/fairground-ai-creator-tv-film-e-serie-ai-gratis-24-ore-su",
+      "excerpt": "Film, serie brevi e altri programmi creati con strumenti di intelligenza artificiale generativa vengono ora trasmessi senza interruzioni sul canale 300 di The Roku Channel. Il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106789/news-flash-736257.png",
+      "publishedAt": "2026-08-11T12:12:11+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Fino a 60 giorni senza svuotare il contenitore: Roborock H60 Hub al 58%",
+      "link": "https://www.tomshw.it/offerte/fino-a-60-giorni-senza-svuotare-il-contenitore-roborock-h60-hub-al-58",
+      "excerpt": "Roborock H60 Hub costa 167,98€ su Amazon, invece di 399€, con uno sconto del 58%. La base raccoglie automaticamente lo sporco in un sacchetto sigillato da 2 litri che può durare…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106796/tomshw-offer-736312.png",
+      "publishedAt": "2026-08-11T12:04:47+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Un modder spinge Steam Machine oltre 100 fps con una Radeon RX 9070 XT",
+      "link": "https://www.tomshw.it/hardware/un-modder-spinge-steam-machine-oltre-100-fps-con-radeon-rx-9070-xt",
+      "excerpt": "Un modder ha trasformato la Steam Machine in un sistema capace di sfruttare una Radeon RX 9070 XT esterna, superando i 100 fotogrammi al secondo in Crimson Desert con preset Alto.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106794/un-modder-spinge-steam-machine-oltre-100-fps-con-radeon-rx-9070-xt.png",
+      "publishedAt": "2026-08-11T12:03:03+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Alfa Romeo UK regala un corso di guida in Italia a chi acquista una Quadrifoglio",
+      "link": "https://www.hdmotori.it/alfa-romeo-uk-corso-guida-italia/",
+      "excerpt": "Comprare una Giulia o Stelvio Quadrifoglio e guidare in pista a Varano de' Melegari: l'iniziativa di Alfa Romeo UK valida fino al 30 novembre.",
+      "image": "https://hd2.tudocdn.net/1362267?w=660",
+      "publishedAt": "2026-08-11T12:00:46+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Un motore Stirling alimenta un computer che fa girare Tetris",
+      "link": "https://www.tomshw.it/hardware/un-motore-stirling-alimenta-un-computer-che-fa-girare-tetris",
+      "excerpt": "Il maker PickentCode ha completato di recente un microcomputer alimentato dal calore, capace di eseguire Tetris, Snake e Pong. La macchina ricava tutta l’elettricità necessaria da…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106793/un-motore-stirling-alimenta-un-computer-che-fa-girare-tetris.png",
+      "publishedAt": "2026-08-11T11:59:18+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Gemini ascolta di nascosto? Gli utenti segnalano attivazioni automatiche in auto",
+      "link": "https://www.hdblog.it/google/articoli/n666925/gemini-attiva-solo-auto/",
+      "excerpt": "Pare che Google abbia attivato silenziosamente l'ascolto ambientale di Gemini in modalità guida.",
+      "image": "https://hd2.tudocdn.net/1362252?w=660",
+      "publishedAt": "2026-08-11T11:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Un nuovo strumento smaschera chi carica per primo i torrent",
+      "link": "https://www.tomshw.it/hardware/un-nuovo-strumento-smaschera-chi-carica-per-primo-i-torrent",
+      "excerpt": "La Content Overseas Distribution Association, CODA, afferma di avere identificato l'utente che caricava per primo contenuti protetti su Nyaa senza monitorare direttamente lo swarm…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106792/un-nuovo-strumento-smaschera-chi-carica-per-primo-i-torrent.png",
+      "publishedAt": "2026-08-11T11:51:25+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Gemini Notebook, in arrivo le app generate direttamente dai documenti",
+      "link": "https://www.hdblog.it/google/articoli/n666929/gemini-notebook-app-in-arrivo-notebooklm/",
+      "excerpt": "Una nuova voce App è comparsa nel pannello Studio di Gemini Notebook: attraverso un prompt, l’intelligenza artificiale potrebbe utilizzare le fonti caricate per realizzare…",
+      "image": "https://hd2.tudocdn.net/1354207?w=660",
+      "publishedAt": "2026-08-11T11:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La soundbar low cost di Xiaomi oggi costa 39,99 euro: affare su eBay",
+      "link": "https://www.hdblog.it/tv/offerte/n666931/soundbar-low-cost-xiaomi-oggi-costa-39-euro-ebay/",
+      "excerpt": "Un'ottima occasione per TV e PC.",
+      "image": "https://hd2.tudocdn.net/1362263?w=660",
+      "publishedAt": "2026-08-11T11:24:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Difese cyber da rivedere per le imprese italiane: gli agenti AI accelerano gli attacchi",
+      "link": "https://www.tomshw.it/business/difese-cyber-da-rivedere-per-le-imprese-italiane-gli-agenti-ai-accelerano-gli-attacchi",
+      "excerpt": "Le azioni di CrowdStrike e Palo Alto Networks sono salite di oltre il 5%, raggiungendo nuovi massimi lunedì 10 agosto, dopo che la conferenza Black Hat di Las Vegas ha riportato…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106736/difese-cyber-da-rivedere-per-le-imprese-italiane-gli-agenti-ai-accelerano-gli-attacchi.png",
+      "publishedAt": "2026-08-11T11:17:32+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Ciarra porta in Europa i nuovi radiatori elettrici smart fino a 2 kW",
+      "link": "https://www.hdblog.it/home/articoli/n666926/ciarra-radiatori-e-termoconvettori-elettrici-novita/",
+      "excerpt": "Ciarra amplia la gamma per il riscaldamento domestico con nuovi radiatori e termoconvettori elettrici da 1, 1,5 e 2 kW, già disponibili nella maggior parte dei Paesi europei",
+      "image": "https://hd2.tudocdn.net/1362253?w=660",
+      "publishedAt": "2026-08-11T11:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Eccentrica V12 Roadster, la Lamborghini Diablo ritorna in vita in un restomod epocale",
+      "link": "https://www.hdmotori.it/eccentrica-v12-roadster-restomod-lamborghini-diablo/",
+      "excerpt": "Fate largo alla Eccentrica V12 Roadster, un bolide che si pone l’obiettivo di eguagliare il fascino della Lamborghini Diablo.",
+      "image": "https://hd2.tudocdn.net/1362257?w=660",
+      "publishedAt": "2026-08-11T11:00:02+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "WhatsApp integra gli username nella scheda dei nuovi contatti: cosa cambia",
+      "link": "https://www.hdblog.it/android/articoli/n666904/whatsapp-aggiornamento-username-contatti/",
+      "excerpt": "WhatsApp aggiunge un campo per gli username nella scheda dedicata all'aggiunta di un nuovo contatto.",
+      "image": "https://hd2.tudocdn.net/1362237?w=660",
+      "publishedAt": "2026-08-11T10:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Matrimonio tra Sony e TSMC: la nuova joint venture produrrà sensori d’immagine per smartphone",
       "link": "https://images.dday.it/JBJQzTg4HIaUC7uY0PsG04hzoXgySlSlozF_WZW31lI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58343/e41f1f_cvoe_rScreenshot_2026-08-11_alle_12.36.19_copia.png",
@@ -12,87 +192,6 @@
       "publishedAt": "2026-08-11T10:38:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "L’AI può aiutare il clima, ma potrebbe favorire molto di più petrolio e gas",
-      "link": "https://www.hdblog.it/green/articoli/n666922/ai-aiuta-lenergia-fossile/",
-      "excerpt": "L’intelligenza artificiale migliora anche efficienza e produzione delle energie rinnovabili, ma secondo un nuovo studio i vantaggi potrebbero non compensare quelli ottenuti dal…",
-      "image": "https://hd2.tudocdn.net/1191227?w=660",
-      "publishedAt": "2026-08-11T10:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Non solo iPhone 18: Apple lancerà 8 prodotti a settembre per i rumor",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666917/apple-evento-settembre-2026-novita-quali-iphone-18/",
-      "excerpt": "Ecco quali.",
-      "image": "https://hd2.tudocdn.net/1349858?w=660",
-      "publishedAt": "2026-08-11T10:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "No, la Terra non perderà la gravità il 12 Agosto",
-      "link": "https://www.tomshw.it/scienze/terra-senza-gravita-per-7-secondi-la-nasa-smentisce-la-bufala",
-      "excerpt": "La Terra non perderà la gravità per sette secondi domani, 12 agosto 2026. La previsione circolata sui social, attribuita a un presunto documento della NASA, è priva di fondamento…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106733/news-flash-736063.png",
-      "publishedAt": "2026-08-11T10:20:14+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Giardini e pannelli solari insieme: il biosolar roof cambia le città",
-      "link": "https://www.hdblog.it/green/articoli/n666915/giardini-pannelli-solari-biosolar-roof-citta/",
-      "excerpt": "Pannelli solari e vegetazione insieme portano notevoli benefici.",
-      "image": "https://hd2.tudocdn.net/1362240?w=660",
-      "publishedAt": "2026-08-11T10:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Minimal Phone 2, ecco le specifiche: display OLED, tastiera QWERTY e chip MediaTek",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666900/minimal-phone-2-specifiche-dettagli/",
-      "excerpt": "Parte la campagna Kickstarter di Minimal Phone 2: ecco cosa c'è da sapere",
-      "image": "https://hd2.tudocdn.net/1361075?w=660",
-      "publishedAt": "2026-08-11T10:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "TCL CrystalClip al 44% in meno, 36 ore senza isolarsi: un affare",
-      "link": "https://www.tomshw.it/offerte/tcl-crystalclip-al-44-in-meno-36-ore-senza-isolarsi-un-affare",
-      "excerpt": "TCL CrystalClip costa 44,10€ su Amazon anziché 79,99€, con uno sconto del 44%. Il formato clip-on permette di ascoltare musica, podcast e chiamate lasciando l’orecchio aperto…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106730/tomshw-offer-736017.png",
-      "publishedAt": "2026-08-11T10:04:01+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Samsung Galaxy Z Fold8: come sempre, JerryRigEverything ci va giù pesante",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666903/samsung-galaxy-z-fold8-jerryrigeverything/",
-      "excerpt": "Come si è comportato il Galaxy Z Fold8 affrontando graffi, fuoco, sabbia e piegature estreme nel durability test di JerryRigEverything.",
-      "image": "https://hd2.tudocdn.net/1362227?w=660",
-      "publishedAt": "2026-08-11T09:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Kamiya accende la speranza per un nuovo DMC",
-      "link": "https://www.tomshw.it/videogioco/kamiya-accende-la-speranza-per-un-nuovo-devil-may-cry-2026-08-11",
-      "excerpt": "Sono passati più di vent'anni da quando Hideki Kamiya sedette per la prima volta alla regia del primo Devil May Cry, eppure il suo nome continua a far battere il cuore dei fan…",
-      "image": "https://cdn.tomshw.it/storage/media/2025/06/60590/Devil-May-Cry-5-2.jpg",
-      "publishedAt": "2026-08-11T09:50:33+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il leak del brand luxury svela molto su iPhone 18 Pro: colori, display e data",
-      "link": "https://www.hdblog.it/smartphone/articoli/n666897/leak-brand-luxury-svela-molto-iphone-18-pro/",
-      "excerpt": "Caviar, brand che produce accessori luxury per i dispositivi, ha pubblicato un sito con molte informazioni su iPhone 18 Pro e Pro Max.",
-      "image": "https://hd2.tudocdn.net/1362138?w=660",
-      "publishedAt": "2026-08-11T09:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Dall’anno prossimo sarà più difficile fare soldi con YouTube",
@@ -104,60 +203,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Muse Glimmer è la nuova AI open source di Meta che gira in locale su PC e Mac",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n666920/meta-agenti-ai-locale-pc-mac-muse-glimmer/",
-      "excerpt": "La nuova AI Muse Glimmer di Meta porta attività agentiche, programmazione, utilizzo di strumenti e input multimodali direttamente sui computer con 24 o 32 GB di memoria",
-      "image": "https://hd2.tudocdn.net/1362242?w=660",
-      "publishedAt": "2026-08-11T09:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Galaxy S26 Ultra, la promo di agosto 2026 è l'occasione giusta per acquistare il flagship Samsung",
-      "link": "https://www.hdblog.it/smartphone/offerte/n666916/samsung-galaxy-s26-ultra-offerta-agosto26/",
-      "excerpt": "Il Samsung Galaxy S26 Ultra è in offerta anche ad agosto 2206 con un ottimo prezzo che lo rende un vero e proprio best buy della fascia alta.",
-      "image": "https://hd2.tudocdn.net/1361509?w=660",
-      "publishedAt": "2026-08-11T09:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Stop ai droni con LiDAR: gli USA vogliono vietare anche quelli già approvati",
-      "link": "https://www.hdblog.it/droni/articoli/n666907/usa-vieta-droni-lidar-dji/",
-      "excerpt": "Gli USA valutano un nuovo stop ai droni con LiDAR, anche se già autorizzati alla vendita.",
-      "image": "https://hd2.tudocdn.net/1331379?w=660",
-      "publishedAt": "2026-08-11T09:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Anker Nano 45W a 29,99€: il display smart fa la differenza su iPhone",
-      "link": "https://www.tomshw.it/offerte/anker-nano-45w-a-2999eur-il-display-smart-fa-la-differenza-su-iphone",
-      "excerpt": "Anker Nano 45W con Smart Display costa 29,99€ su Amazon, invece dei 39,99€ di listino, con uno sconto del 25%. Il piccolo schermo permette di controllare la ricarica dell’iPhone e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106723/tomshw-offer-735967.png",
-      "publishedAt": "2026-08-11T09:33:05+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Marsien, sognando la 959: l’iconica Porsche rivive in una GT estrema",
-      "link": "https://www.hdmotori.it/marsien-959-porsche-gt-estrema/",
-      "excerpt": "La Porsche 959 ha demolito record e fatto stragi di cuori. Marc Philipp Gemballa, noto tuner tedesco, ha partorito la Marsien GT.",
-      "image": "https://hd2.tudocdn.net/1362244?w=660",
-      "publishedAt": "2026-08-11T09:30:52+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "CONTROL Resonant tra le attese top, Alan Wake 2 vola",
-      "link": "https://www.tomshw.it/videogioco/alan-wake-2-oltre-3-milioni-di-copie-control-resonant-1-5",
-      "excerpt": "Oltre 1,5 milioni di wishlist accompagnano CONTROL Resonant verso il debutto, mentre Alan Wake 2 ha superato tre milioni di copie vendute complessivamente nel secondo trimestre…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106722/control-resonant-gameplay.webp",
-      "publishedAt": "2026-08-11T09:23:06+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Tesla mostra il primo Cybercab con Starlink integrato nel tetto",
       "link": "https://images.dday.it/7va1OxdDZvwXNbCQQysmlbt22oSDI13Ff6x51p-z_DY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58341/f5458b_cybercab_thumb.jpg",
       "excerpt": "Le nuove immagini pubblicate dall’account ufficiale mostrano per la prima volta l’hardware reale... Leggi tutto",
@@ -165,33 +210,6 @@
       "publishedAt": "2026-08-11T09:15:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Sempre meno diesel, appena 6 transiti dallo stretto di Hormuz",
-      "link": "https://www.tomshw.it/automotive/stretto-di-hormuz-solo-6-transiti-il-diesel-scarseggia",
-      "excerpt": "I transiti confermati nello Stretto di Hormuz sono scesi ad appena sei navi nell’ultimo giorno osservato, contro una media vicina a 11 nei dieci giorni precedenti. Il dato…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106714/news-flash-735802.png",
-      "publishedAt": "2026-08-11T09:05:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Halloween: The Game bandito in Australia per... droga",
-      "link": "https://www.tomshw.it/videogioco/halloween-the-game-droga-usata-come-bonus-stop-in-australia-e-nz",
-      "excerpt": "Una meccanica che permette ai civili di fumare cannabis per individuare Michael Myers sulla mappa impedirà la vendita di Halloween: The Game in Australia. L’account ufficiale del…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106715/news-flash-735814.png",
-      "publishedAt": "2026-08-11T09:05:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Meta di nuovo nei guai: 30.000 annunci truffa, accusa di negligenza",
-      "link": "https://www.tomshw.it/altro/meta-quasi-30-000-annunci-truffa-prove-gestite-con-grave-negligenza",
-      "excerpt": "Le versioni finali e i dati tecnici di quasi 30.000 presunte pubblicità truffa potrebbero essere andati perduti per le gravi carenze con cui Meta Platforms ha conservato le prove.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106691/news-flash-735630.png",
-      "publishedAt": "2026-08-11T08:55:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Tutti sapranno se usi l'IA per scrivere: Anthropic e OpenAI introdurranno i watermark sul testo",
@@ -230,15 +248,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Migliori dissipatori CPU (agosto 2026)",
-      "link": "https://www.tomshw.it/guide/migliori-dissipatori-cpu",
-      "excerpt": "Se per il vostro nuovo computer avete scelto uno dei migliori processori PC, il dissipatore non è un accessorio secondario: è il componente che permette alla CPU di mantenere…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/89859/migliori-dissipatori-cpu-copertina.jpg",
-      "publishedAt": "2026-08-11T06:23:48+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Esplode in volo un razzo cinese Long March 7A: possibile cedimento nel momento di massima pressione aerodinamica",
       "link": "https://images.dday.it/JFiEnMpZNiZalZzyFL4l0zMzgQcqC3M4mJyEnbo5OjY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58336/efbbd9_Screenshot_2026-08-10_alle_17.35.58.png",
       "excerpt": "Le immagini mostrano la deflagrazione dopo 85 secondi, vicino alla fase di Max Q. Le autorità cinesi non hanno ancora chiarito le cause dell’incidente... Leggi tutto",
@@ -264,15 +273,6 @@
       "publishedAt": "2026-08-10T13:42:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Quali contatti chiamare per primi, il punteggio con Claude e ActiveCampaign",
-      "link": "https://www.tomshw.it/aioperator/quali-contatti-chiamare-per-primi-il-punteggio-con-claude-e-activecampaign",
-      "excerpt": "La lista dei contatti in ActiveCampaign cresce ogni settimana, e il commerciale la lavora dall'alto o a naso. I contatti con potenziale reale si raffreddano mentre lui telefona a…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106329/02-ma08-cover.jpg",
-      "publishedAt": "2026-08-07T13:21:11+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     }
   ]
 }
