@@ -1,26 +1,152 @@
 {
-  "generatedAt": "2026-08-12T07:12:28.619388+00:00",
+  "generatedAt": "2026-08-12T09:04:14.040021+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "La dieta mediterranea degli antichi aveva un altro protagonista",
-      "link": "https://www.tomshw.it/scienze/la-dieta-mediterranea-degli-antichi-aveva-un-altro-protagonista",
-      "excerpt": "Una recente ricostruzione storica delle testimonianze greche e romane mostra che l'alimentazione del Mediterraneo antico non coincideva con il modello celebrato attualmente. Il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106951/la-dieta-mediterranea-degli-antichi-aveva-un-altro-protagonista.png",
-      "publishedAt": "2026-08-12T07:03:15+00:00",
+      "title": "Abbiamo usato un’IA per nascondere un testo scritto dall’IA: Pangram ci è cascato, ma che disastro",
+      "link": "https://images.dday.it/JabmAKo2VufJte8f9WOT46OflhGRIAmwnjkRln-KQbo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58353/7f534b_small_ChatGPT_Image_12_ago_2026__10_58_56_copia.png",
+      "excerpt": "Abbiamo provato un sistema per rendere \"umani\" i testi generati dall’IA. Pangram è stato ingannato completamente, ma il testo ha pagato un caro prezzo... Leggi tutto",
+      "image": "https://images.dday.it/JabmAKo2VufJte8f9WOT46OflhGRIAmwnjkRln-KQbo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58353/7f534b_small_ChatGPT_Image_12_ago_2026__10_58_56_copia.png",
+      "publishedAt": "2026-08-12T09:02:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "L’auto d’epoca per il viaggio più folle di tutti: 5.800 chilometri attraverso due continenti",
+      "link": "https://www.hdmotori.it/viaggio-citroen-dyane-5800-chilometri/",
+      "excerpt": "Una coppia è partita dal Friuli e ha raggiunto il Marocco senza troppi patemi a bordo di un'auto d'epoca francese del 1982",
+      "image": "https://hd2.tudocdn.net/1362419?w=660",
+      "publishedAt": "2026-08-12T09:00:35+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Un altro pezzo della vecchia Apple se ne va: la responsabile di Apple Pay va in pensione",
+      "link": "https://www.hdblog.it/apple/articoli/n667017/capo-apple-pay-wallet-lascia/",
+      "excerpt": "Apple perde un’altra dirigente storica: Jennifer Bailey, vicepresidente di Apple Pay fin dal debutto del servizio, lascerà l’azienda a ottobre e continuerà temporaneamente come…",
+      "image": "https://hd2.tudocdn.net/1362410?w=660",
+      "publishedAt": "2026-08-12T08:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "macOS Screen Sharing: exploit ricostruito dalla patch in 4 ore",
+      "link": "https://www.tomshw.it/hardware/macos-screen-sharing-exploit-ricostruito-dalla-patch-in-4-ore",
+      "excerpt": "Sono bastate circa quattro ore per ricostruire dalla patch di macOS Tahoe 26.6.1 un exploit pre-autenticazione contro Screen Sharing. Lo afferma Calif, che analizzando le…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106982/news-flash-765156.png",
+      "publishedAt": "2026-08-12T08:35:12+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Suzuki Swift Hybrid: pratica, funzionale e dai consumi contenuti - Video",
-      "link": "https://www.hdmotori.it/prove/suzuki-swift-hybrid-pratica-funzionale-e-dai-consumi-contenuti-video/",
-      "excerpt": "Giunta alla settima generazione, la Suzuki Swift si rinnova rimanendo fedele alla sua essenza: una vettura concreta, intelligente nello spazio e contenuta nei consumi. Una…",
-      "image": "https://hd2.tudocdn.net/1362394?w=660",
-      "publishedAt": "2026-08-12T07:00:54+00:00",
+      "title": "Manus torna indipendente dopo il blocco dell’acquisizione da parte di Meta",
+      "link": "https://images.dday.it/7O7piOGUiu7ARXoDcrkHxIodwVv8LKwheuv5kbgXlrk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58352/59aee4_Depositphotos_796943574_XL.jpg",
+      "excerpt": "Le autorità cinesi hanno imposto lo stop all’operazione. La startup di IA sta avviando la separazione da Meta e ha chiesto ad alcuni utenti di mettere al sicuro i propri dati...…",
+      "image": "https://images.dday.it/7O7piOGUiu7ARXoDcrkHxIodwVv8LKwheuv5kbgXlrk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58352/59aee4_Depositphotos_796943574_XL.jpg",
+      "publishedAt": "2026-08-12T08:32:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Anthropic prepara watermark digitali per rendere riconoscibili i contenuti AI",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n667010/claude-watermark-ai/",
+      "excerpt": "Claude introdurrà watermark invisibili per testi e immagini in linea con le norme UE.",
+      "image": "https://hd2.tudocdn.net/1362398?w=660",
+      "publishedAt": "2026-08-12T08:25:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Un iPhone in mano a un bimbo di due anni: la pubblicità che divide Milano",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667014/iphone-milano-bambino-pubblicita/",
+      "excerpt": "“Tutto ok, è iPhone” recita la pubblicità Apple comparsa a Milano, ma l’immagine di un bambino molto piccolo con lo smartphone ha acceso il dibattito sull’uso precoce dei…",
+      "image": "https://hd2.tudocdn.net/1362401?w=660",
+      "publishedAt": "2026-08-12T08:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "De'Longhi Nespresso Vertuo Pop a soli 64,34€, quattro formati con un tasto",
+      "link": "https://www.tomshw.it/offerte/delonghi-nespresso-vertuo-pop-a-soli-6434eur-quattro-formati-con-un-tasto",
+      "excerpt": "La De'Longhi Nespresso Vertuo Pop costa 64,34€ su Amazon, anziché 99€, con uno sconto del 37%. Con un solo pulsante prepara quattro formati, dall'espresso alla tazza grande,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106964/tomshw-offer-765028.png",
+      "publishedAt": "2026-08-12T08:03:47+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La Polonia pronta a radiare le auto con targhe polacche in Italia: Napoli trema",
+      "link": "https://www.hdmotori.it/polonia-radiazione-auto-targhe-polacche-napoli/",
+      "excerpt": "La Polonia chiede il conto per le targhe e le assicurazioni polacche, alle quali molti automobilisti italiani, specialmente nella zona Napoli si erano serviti.",
+      "image": "https://hd2.tudocdn.net/1362400?w=660",
+      "publishedAt": "2026-08-12T08:00:43+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "WhatsApp testa su iPhone i messaggi di benvenuto automatici nei gruppi",
+      "link": "https://www.hdblog.it/apple/articoli/n667008/whatsapp-benvenuto-gruppi-iphone/",
+      "excerpt": "Gli amministratori dei gruppi WhatsApp potranno creare un messaggio automatico con regole, informazioni o indicazioni per i nuovi arrivati, senza riempire la chat di notifiche…",
+      "image": "https://hd2.tudocdn.net/1044029?w=660",
+      "publishedAt": "2026-08-12T07:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La Formula E cambia casa: tutte le gare elettriche su Disney+",
+      "link": "https://www.hdblog.it/mercato/articoli/n667006/formula-e-disney-plus-streaming/",
+      "excerpt": "Disney+ trasmetterà la Formula E in oltre 140 Paesi a partire dalla stagione 2026/27.",
+      "image": "https://hd2.tudocdn.net/1362396?w=660",
+      "publishedAt": "2026-08-12T07:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung conferma: Galaxy Buds come dei veri apparecchi acustici entro fine anno",
+      "link": "https://www.hdblog.it/indossabili/articoli/n666993/samsung-galaxy-buds-apparecchi-acustici/",
+      "excerpt": "Samsung porterà sui Galaxy Buds funzioni proprie degli apparecchi acustici, con test uditivo e amplificazione sonora.",
+      "image": "https://hd2.tudocdn.net/1180086?w=660",
+      "publishedAt": "2026-08-12T07:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Xbox Elite 3: spunta un prototipo del nuovo controller Microsoft e c'è un piccolo display",
+      "link": "https://www.hdblog.it/microsoft/articoli/n666999/xbox-elite-series-3-prototipo-schermo-controller/",
+      "excerpt": "A cosa serve? Abbiamo già qualche idea.",
+      "image": "https://hd2.tudocdn.net/1362385?w=660",
+      "publishedAt": "2026-08-12T07:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Corsair FRAME 4500X al 59%: tre ventole e vetro panoramico, un affare",
+      "link": "https://www.tomshw.it/offerte/corsair-frame-4500x-al-59-tre-ventole-e-vetro-panoramico-un-affare",
+      "excerpt": "Corsair FRAME 4500X costa 103,31€ su Amazon, con il 59% di sconto sui 249,90€ di listino. Il pannello panoramico e le tre ventole RGB incluse permettono di costruire subito un PC…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106959/tomshw-offer-764949.png",
+      "publishedAt": "2026-08-12T07:33:24+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Gemini supera il miliardo di utenti mensili: Google raggiunge un nuovo record",
+      "link": "https://www.hdblog.it/google/articoli/n667000/google-gemini-ai-1-miliardo-utenti-mensili-record/",
+      "excerpt": "Lo ha annunciato il CEO Sundar Pichai.",
+      "image": "https://hd2.tudocdn.net/1362387?w=660",
+      "publishedAt": "2026-08-12T07:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Formula E, dalla prossima stagione si vedrà (anche) su Disney+ a livello mondiale",
+      "link": "https://images.dday.it/LZvCfwGQ3SRx0F1cBraDURi5OLFFlNDxlIVYyEGNBrk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58351/fb65dc_HPcX14SXcAA9ldp.jpeg",
+      "excerpt": "Disney+ diventa la casa streaming globale della Formula E dal 2026/27, affiancando le trasmissioni gratuite. La stessa stagione introdurrà le GEN4, più potenti e a trazione…",
+      "image": "https://images.dday.it/LZvCfwGQ3SRx0F1cBraDURi5OLFFlNDxlIVYyEGNBrk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58351/fb65dc_HPcX14SXcAA9ldp.jpeg",
+      "publishedAt": "2026-08-12T07:20:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "ChatGPT arriva su Linux, disponibile l’app desktop in anteprima",
@@ -32,146 +158,56 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "ExpressVPN sconta l'80%: VPN a 2,49€ al mese con 4 mesi extra",
-      "link": "https://www.tomshw.it/offerte/expressvpn-sconta-l80-vpn-a-249eur-al-mese-con-4-mesi-extra",
-      "excerpt": "Settembre si avvicina e con lui il rientro in aula, tra biblioteche, residenze universitarie e aule studio dove il Wi-Fi è gratuito ma quasi mai protetto. È in questo scenario che…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106948/express-vpn-back-to-campus.jpg",
-      "publishedAt": "2026-08-12T06:56:26+00:00",
+      "title": "Migliori smartwatch per fare sport (agosto 2026)",
+      "link": "https://www.tomshw.it/smartphone/migliori-smartwatch-sport",
+      "excerpt": "Scegliere uno smartwatch sportivo significa partire dallo sport che praticate davvero, non dalla scheda tecnica più lunga. Chi corre in città ha bisogno soprattutto di GPS…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/88364/migliori-smartwatch-per-fare-sport-copertina.jpg",
+      "publishedAt": "2026-08-12T06:17:21+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Zelda compie 40 anni: in rete filtrano Switch 2 e Pro Controller personalizzati",
-      "link": "https://www.hdblog.it/nintendo/articoli/n666998/nintendo-switch-2-zelda-edizione-speciale-pro-leak/",
-      "excerpt": "A tutta Triforza.",
-      "image": "https://hd2.tudocdn.net/1362377?w=660",
-      "publishedAt": "2026-08-12T06:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "La NASA ha pronta una valigia scientifica per ascoltare la Luna",
-      "link": "https://www.tomshw.it/scienze/la-nasa-ha-pronta-una-valigia-scientifica-per-ascoltare-la-luna",
-      "excerpt": "La NASA ha completato lo sviluppo e i collaudi della Lunar Environment Monitoring Station (LEMS), il primo carico scientifico ultimato tra quelli progettati per essere installati…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106947/la-nasa-ha-pronta-una-valigia-scientifica-per-ascoltare-la-luna.jpg",
-      "publishedAt": "2026-08-12T06:50:07+00:00",
+      "title": "Migliori smartphone per fotografare (agosto 2026)",
+      "link": "https://www.tomshw.it/smartphone/migliori-smartphone-per-fotografare",
+      "excerpt": "Negli ultimi anni gli smartphone hanno smesso di essere semplici alternative di emergenza alle fotocamere compatte: per molte persone sono ormai lo strumento principale con cui…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/88362/migliori-smartphone-per-fotografare-copertina.jpg",
+      "publishedAt": "2026-08-12T06:10:42+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Windows 11 costa di più ai produttori: i prezzi dei PC rischiano nuovi aumenti",
-      "link": "https://www.hdblog.it/microsoft/articoli/n666996/microsoft-windows-11-aumento-prezzo-licenze-pc/",
-      "excerpt": "Quest'anno l'incremento sarebbe più alto del solito.",
-      "image": "https://hd2.tudocdn.net/1348132?w=660",
-      "publishedAt": "2026-08-12T06:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Eclissi solare, dove vederla oggi: NASA live dalle 19:15",
-      "link": "https://www.tomshw.it/scienze/eclissi-solare-dove-vederla-nasa-live-dalle-19-15",
-      "excerpt": "Alle 19:15 italiane prende il via la copertura ufficiale della NASA per l’eclissi solare del 12 agosto 2026, seguita alle 19:30 dalla diretta organizzata per il pubblico italiano…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106926/news-flash-764362.png",
-      "publishedAt": "2026-08-12T06:41:46+00:00",
+      "title": "SteelSeries Arctis Nova Pro: l’upgrade audio da gaming ora è più accessibile",
+      "link": "https://www.tomshw.it/videogioco/steelseries-arctis-nova-pro-upgrade-audio-gaming-amazon-2026-08-12",
+      "excerpt": "Le SteelSeries Arctis Nova Pro Wireless sono cuffie gaming di fascia alta con cancellazione attiva del rumore, base OLED e un sistema a due batterie sostituibili. La versione…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106911/steelseries-arctis-nova-pro-upgrade-audio-gaming-amazon-2026-08jgb12rd71fcu3tBImEs.png",
+      "publishedAt": "2026-08-12T05:10:40+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Programma Artemis: ecco dove la NASA prova ogni tecnologia prima del decollo",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n666942/nasa-lunar-development-test-facility-artemis/",
-      "excerpt": "La NASA testa habitat, rover e strumenti in un laboratorio che replica la superficie lunare.",
-      "image": "https://hd2.tudocdn.net/1362280?w=660",
-      "publishedAt": "2026-08-12T06:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il caldo estremo è sottostimato: la notte pesa più del previsto",
-      "link": "https://www.tomshw.it/scienze/il-caldo-estremo-si-conta-in-giorni-ma-le-ore-cambiano-tutto",
-      "excerpt": "Un gruppo guidato da Weilin Liao e Xuanzong Zhang della Sun Yat-sen University ha misurato l'esposizione al caldo su scala oraria, anziché limitarsi alle temperature minime,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106939/il-caldo-estremo-si-conta-in-giorni-ma-le-ore-cambiano-tutto.png",
-      "publishedAt": "2026-08-12T06:32:48+00:00",
+      "title": "Soundcore Select 4 Go: la cassa tascabile ideale per l’estate costa meno",
+      "link": "https://www.tomshw.it/hardware/soundcore-select-4-go-cassa-tascabile-estate-costa-meno-amazon-2026-08-12",
+      "excerpt": "La Soundcore Select 4 Go è una mini cassa Bluetooth portatile progettata per accompagnare giornate all’aperto, viaggi e ascolto informale senza occupare molto spazio. La…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106910/soundcore-select-4-go-cassa-tascabile-estate-costa-meno-amazon-1oscj7l0rs199JgU8dk.png",
+      "publishedAt": "2026-08-12T05:10:39+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Il salto mortale delle vedove nere potrebbe essere scritto nel DNA",
-      "link": "https://www.tomshw.it/scienze/il-salto-mortale-delle-vedove-nere-potrebbe-essere-scritto-nel-dna",
-      "excerpt": "Un gruppo di ricercatori ha studiato l'origine genetica del comportamento riproduttivo estremo dei maschi di vedova nera, scoprendo che il salto verso le zanne della femmina…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106937/il-salto-mortale-delle-vedove-nere-potrebbe-essere-scritto-nel-dna.png",
-      "publishedAt": "2026-08-12T06:26:57+00:00",
+      "title": "GOBBLE arriva in Europa nel 2027: ecco le piattaforme",
+      "link": "https://www.tomshw.it/videogioco/gobble-arrivera-ufficialmente-in-europa-nel-2027-su-console-e-pc",
+      "excerpt": "GOBBLE uscirà ufficialmente anche in Europa e Nord America nel 2027. La pubblicazione occidentale sarà curata da NIS America, mentre lo sviluppo porta la firma di Nippon Ichi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106818/Gobble-west.jpg",
+      "publishedAt": "2026-08-11T15:55:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "iPhone 20 con schermo curvo e tutto vetro si farà o no? Il punto sugli ultimi rumor",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667001/iphone-20-xx-design-vetro-apple-leak-ventennale/",
-      "excerpt": "C'è un'ipotesi che può spiegare la discordanza tra le voci.",
-      "image": "https://hd2.tudocdn.net/1342766?w=660",
-      "publishedAt": "2026-08-12T06:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Addio al boom supersonico? Il segreto dell'aereo NASA X-59",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n666946/x59-nasa-boom-sonico/",
-      "excerpt": "L'X-59 punta a rendere silenziosi i voli supersonici grazie a una nuova aerodinamica.",
-      "image": "https://hd2.tudocdn.net/1362284?w=660",
-      "publishedAt": "2026-08-12T06:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Ecco Lumo: il robot umanoide cinese che impara guardando gli uomini",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n666953/lumo-robot-umanoide-cina/",
-      "excerpt": "Lumo punta su apprendimento visivo e destrezza per portare i robot fuori dai laboratori.",
-      "image": "https://hd2.tudocdn.net/1362291?w=660",
-      "publishedAt": "2026-08-12T06:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Migliori sedie da ufficio ergonomiche (agosto 2026)",
-      "link": "https://www.tomshw.it/offerte/sedie-da-ufficio-ergonomiche",
-      "excerpt": "Una buona sedia da ufficio ergonomica non serve soltanto a stare più comodi: è uno degli elementi che determinano quanto a lungo riuscite a lavorare, studiare o giocare senza…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/88361/migliori-sedie-ufficio-ergonomiche-copertina.jpg",
-      "publishedAt": "2026-08-12T06:04:36+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Stop agli occhiali intelligenti nei tribunali di Regno Unito e New York",
-      "link": "https://www.hdblog.it/indossabili/articoli/n667002/meta-glasses-vietati-tribunali-regno-unito/",
-      "excerpt": "Regno Unito e New York vietano i Meta Glasses nei tribunali per motivi di privacy.",
-      "image": "https://hd2.tudocdn.net/1362389?w=660",
-      "publishedAt": "2026-08-12T05:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Webb osserva la Nebulosa del Leone e racconta la morte di una stella",
-      "link": "https://www.hdblog.it/curiosita/articoli/n666940/webb-nebulosa-del-leone/",
-      "excerpt": "Webb mostra dettagli mai osservati della Nebulosa del Leone e della sua stella morente.",
-      "image": "https://hd2.tudocdn.net/1362276?w=660",
-      "publishedAt": "2026-08-12T05:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "La Grande Muraglia Solare cambia la Cina: energia anche di notte",
-      "link": "https://www.hdblog.it/green/articoli/n666958/cina-progetto-rinnovabili-deserto-kubuqi/",
-      "excerpt": "La Cina accelera sulle rinnovabili con un gigantesco progetto nel deserto della Kubuqi.",
-      "image": "https://hd2.tudocdn.net/1362302?w=660",
-      "publishedAt": "2026-08-12T05:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Marshall Stanmore III scende a 271€: 32% di sconto per il Bluetooth speaker",
-      "link": "https://www.tomshw.it/hardware/marshall-stanmore-iii-scende-a-271eur-sconto-32-amazon-2026-08-12",
-      "excerpt": "Il Marshall Stanmore III è uno speaker Bluetooth pensato per diventare il centro dell’ascolto domestico, con un’impostazione sonora ampia e il design immediatamente riconoscibile…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106908/marshall-stanmore-iii-scende-a-271eur-sconto-32-amazon-2026-08-segemfkjhast3sFravH.png",
-      "publishedAt": "2026-08-12T05:10:36+00:00",
+      "title": "NVIDIA Nemotron 3.5 Lightning: 669 token al secondo",
+      "link": "https://www.tomshw.it/hardware/nvidia-nemotron-3-5-lightning-669-token-al-secondo",
+      "excerpt": "Circa 3 miliardi di parametri attivi per token, a fronte di 30 miliardi complessivi, e una finestra di contesto che arriva a 1.048.576 token: sono le coordinate principali di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106865/news-flash-736920.png",
+      "publishedAt": "2026-08-11T15:50:03+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -212,6 +248,15 @@
       "sourceColor": "#E63946"
     },
     {
+      "title": "Recensione Withings BodyFit: la bilancia smart equilibrata",
+      "link": "https://www.tomshw.it/altro/withings-bodyfit-la-bilancia-smart-di-fascia-alta",
+      "excerpt": "Usare una bilancia smart, soprattutto se non siete più così giovani, vi permette di tenere sotto controllo una lunga serie di parametri vitali, senza azioni complicate: basta…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106588/Withings-Bodyfit-2.png",
+      "publishedAt": "2026-08-11T12:53:51+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "Matrimonio tra Sony e TSMC: la nuova joint venture produrrà sensori d’immagine per smartphone",
       "link": "https://images.dday.it/JBJQzTg4HIaUC7uY0PsG04hzoXgySlSlozF_WZW31lI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58343/e41f1f_cvoe_rScreenshot_2026-08-11_alle_12.36.19_copia.png",
       "excerpt": "La promessa fatta a maggio è stata rispetta dall’annuncio della joint venture tra Sony e TSMC, che si alleano per combattere Samsung e i cinesi... Leggi tutto",
@@ -228,51 +273,6 @@
       "publishedAt": "2026-08-11T09:45:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Tesla mostra il primo Cybercab con Starlink integrato nel tetto",
-      "link": "https://images.dday.it/7va1OxdDZvwXNbCQQysmlbt22oSDI13Ff6x51p-z_DY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58341/f5458b_cybercab_thumb.jpg",
-      "excerpt": "Le nuove immagini pubblicate dall’account ufficiale mostrano per la prima volta l’hardware reale... Leggi tutto",
-      "image": "https://images.dday.it/7va1OxdDZvwXNbCQQysmlbt22oSDI13Ff6x51p-z_DY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58341/f5458b_cybercab_thumb.jpg",
-      "publishedAt": "2026-08-11T09:15:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Tutti sapranno se usi l'IA per scrivere: Anthropic e OpenAI introdurranno i watermark sul testo",
-      "link": "https://images.dday.it/n6Zk47CWjIUXkJdoDOKFFseWtdoAVUun0jbe1Jf1T2w/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58340/0007d0_sdmall_ChatGPT_Image_11_ago_2026__10_46_45_copia.png",
-      "excerpt": "L’AI Act spinge Anthropic e OpenAI a rendere riconoscibili i testi prodotti dall’IA. Il watermark non sarà nei metadati perché verrà incorporato statisticamente nelle parole…",
-      "image": "https://images.dday.it/n6Zk47CWjIUXkJdoDOKFFseWtdoAVUun0jbe1Jf1T2w/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58340/0007d0_sdmall_ChatGPT_Image_11_ago_2026__10_46_45_copia.png",
-      "publishedAt": "2026-08-11T08:48:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "PC, in vista altri rincari. Microsoft sta aumentando i prezzi delle licenze Windows per i produttori",
-      "link": "https://images.dday.it/TfNyjw_joef3yCJHqFVxchMAENdMdQE0baTFE0OrBdI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58339/3c63b7_Depositphotos_371271542_XL.jpg",
-      "excerpt": "Da luglio alcuni produttori starebbero pagando tra il 7% e il 10% in più per installare Windows sui propri dispositivi. Un aumento superiore al solito che probabilmente si…",
-      "image": "https://images.dday.it/TfNyjw_joef3yCJHqFVxchMAENdMdQE0baTFE0OrBdI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58339/3c63b7_Depositphotos_371271542_XL.jpg",
-      "publishedAt": "2026-08-11T08:12:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Da 1299€ a soli 296€: questo robot lava e aspira è uno degli affari migliori dell'anno",
-      "link": "https://www.tomshw.it/hardware/da-1299eur-a-soli-296eur-questo-robot-lava-e-aspira-e-uno-degli-affari-migliori-dellanno",
-      "excerpt": "Chi sta pensando di acquistare un robot aspirapolvere con stazione di svuotamento automatica sa bene quanto sia facile superare i 600 o addirittura gli 800 euro. Ecco perché…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106319/Da-1299€-a-soli-296€-questo-robot-lava-e-aspira-è-uno-degli-affari-migliori-dell'anno.jpg",
-      "publishedAt": "2026-08-10T08:17:45+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Come usare l'AI per analizzare le note spese e bloccare le anomalie prima del rimborso",
-      "link": "https://www.tomshw.it/aioperator/come-usare-lai-per-analizzare-le-note-spese-e-bloccare-le-anomalie-prima-del-rimborso",
-      "excerpt": "Il responsabile amministrativo firma la nota spese guardando il totale in fondo alla pagina, quasi mai le righe che la compongono. Il controllo a campione nasce da lì: manca il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106332/01-amm11-cover.jpg",
-      "publishedAt": "2026-08-07T13:21:14+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     }
   ]
 }
