@@ -1,87 +1,177 @@
 {
-  "generatedAt": "2026-08-12T10:53:45.599569+00:00",
+  "generatedAt": "2026-08-12T12:51:02.309884+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "20 milioni di copie in 2 mesi: il trionfo di Meccha Chameleon",
+      "link": "https://www.tomshw.it/videogioco/meccha-chameleon-vende-20-milioni-di-copie-in-poco-piu-di-2",
+      "excerpt": "Meccha Chameleon ha superato 20 milioni di copie vendute a poco più di due mesi dal debutto su Steam. Il nuovo traguardo è stato annunciato ufficialmente da lemorion_1224,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107069/meccha-chameleon.jpg",
+      "publishedAt": "2026-08-12T12:39:06+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "iPhone pieghevole: i dipendenti Apple lo chiamano già Ultra",
+      "link": "https://www.tomshw.it/smartphone/iphone-ultra-i-dipendenti-apple-chiamerebbero-cosi-il-pieghevole",
+      "excerpt": "Alcuni dipendenti Apple userebbero già il nome iPhone Ultra per indicare il primo iPhone pieghevole dell'azienda. L'indiscrezione arriva da Mark Gurman di Bloomberg e conferisce…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107090/news-flash-765819.png",
+      "publishedAt": "2026-08-12T12:37:35+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il nuovo PowerDetect di Shark pulisce anche all’indietro e regola la potenza",
+      "link": "https://www.hdblog.it/home/articoli/n667045/shark-aspirapolvere-senza-filo-detect-funzioni-prezzo/",
+      "excerpt": "Il nuovo Shark PowerDetect utilizza quattro sistemi di rilevamento per adattare la pulizia alla superficie e allo sporco. Offre inoltre Reverse Clean e fino a 70 minuti di…",
+      "image": "https://hd2.tudocdn.net/1362484?w=660",
+      "publishedAt": "2026-08-12T12:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Halo: Campaign Evolved vola: stimate già 1,2 milioni di copie",
+      "link": "https://www.tomshw.it/videogioco/halo-campaign-evolved-stimate-1-2-milioni-di-copie-in-2-settimane",
+      "excerpt": "Halo: Campaign Evolved avrebbe venduto 1,2 milioni di copie nelle prime due settimane, generando circa 67 milioni di dollari lordi. La stima arriva da Alinea Analytics e copre il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105107/halo-campaign-evolved-non-conquistato-giocatori-ps5-v3-893725.jpg",
+      "publishedAt": "2026-08-12T12:33:58+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Xiaomi Redmi Note 15 5G: autonomia senza ansia spendendo 180€",
+      "link": "https://www.hdblog.it/smartphone/offerte/n667040/xiaomi-redmi-note-15-5g-codice-promo-ebay/",
+      "excerpt": "Ancora più economico lo Xiaomi Redmi Note 15 5G con fotocamera da 108MP e batteria da 5.520mAh.",
+      "image": "https://hd2.tudocdn.net/1347104?w=660",
+      "publishedAt": "2026-08-12T12:28:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Budget AI da rivedere per le PMI italiane: la RTX Pro 6000 raddoppia a 16.000 dollari",
+      "link": "https://www.tomshw.it/business/budget-ai-da-rivedere-per-le-pmi-italiane-la-rtx-pro-6000-raddoppia-a-16000-dollari",
+      "excerpt": "La GPU professionale NVIDIA RTX PRO 6000 Blackwell è arrivata a 16.000 dollari nel listino statunitense, contro un prezzo di lancio indicato attorno agli 8.000 dollari. La…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107068/budget-ai-da-rivedere-per-le-pmi-italiane-la-rtx-pro-6000-raddoppia-a-16000-dollari.png",
+      "publishedAt": "2026-08-12T12:27:48+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Samsung rinvia il processo a 1,4 nm, appuntamento al 2029",
+      "link": "https://www.tomshw.it/hardware/samsung-rinvia-il-processo-a-14-nm-appuntamento-al-2029",
+      "excerpt": "Samsung Foundry ha aggiornato la propria roadmap produttiva, spostando il processo SF1.4 dal 2027 al 2029. Il nuovo calendario rallenta la corsa verso i nodi più avanzati e indica…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107070/samsung-rinvia-il-processo-a-1-4-nm-appuntamento-al-2029.png",
+      "publishedAt": "2026-08-12T12:25:25+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Abode porta garage e cancelli in Apple Home con due sensori",
+      "link": "https://www.tomshw.it/hardware/abode-porta-garage-e-cancelli-dentro-apple-home-con-due-sensori",
+      "excerpt": "Abode ha ampliato di recente la propria gamma per la sicurezza domestica con due sensori wireless dedicati agli accessi esterni. Outdoor Contact Sensor controlla cancelli, capanni…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107067/abode-porta-garage-e-cancelli-dentro-apple-home-con-due-sensori.png",
+      "publishedAt": "2026-08-12T12:24:43+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "BOE punta all’iPad Air 2027, poi toccherà ai MacBook OLED",
+      "link": "https://www.tomshw.it/hardware/boe-punta-ai-macbook-oled-samsung-potrebbe-non-essere-piu-sola",
+      "excerpt": "BOE sta sviluppando nuovi pannelli per tablet con l’obiettivo di entrare nella catena di fornitura Apple a partire dall’iPad Air previsto nel 2027. Il produttore cinese punta al…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107064/boe-punta-ai-macbook-oled-samsung-potrebbe-non-essere-piu-sola.png",
+      "publishedAt": "2026-08-12T12:23:52+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La California finanzia ormeggi intelligenti per l’eolico offshore",
+      "link": "https://www.tomshw.it/hardware/la-california-sviluppa-una-cima-per-proteggere-balene-e-parchi-eolici",
+      "excerpt": "La California Energy Commission finanzia lo sviluppo di MoorSEA, un sistema progettato per individuare detriti impigliati e possibili collisioni tra animali marini e ormeggi delle…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107072/la-california-sviluppa-una-cima-per-proteggere-balene-e-parchi-eolici.png",
+      "publishedAt": "2026-08-12T12:22:13+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Baseus AC22 Mini a 38,99€, il minimo storico con 45W sempre in tasca",
+      "link": "https://www.tomshw.it/offerte/baseus-ac22-mini-a-3899eur-il-minimo-storico-con-45w-sempre-in-tasca",
+      "excerpt": "Baseus AC22 Mini da 10.000mAh costa 38,99€ su Amazon, il minimo storico, con uno sconto del 35% sui 59,99€ di listino. Con dimensioni paragonabili a una custodia per auricolari,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107073/tomshw-offer-765760.png",
+      "publishedAt": "2026-08-12T12:03:07+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Armani, il suo yacht è in Toscana: quanto vale l’imbarcazione di 65 metri",
+      "link": "https://www.hdmotori.it/armani-yacht-toscana-valore/",
+      "excerpt": "Il superyacht Main di Giorgio Armani è arrivato a Porto Santo Stefano: lungo 65 metri, vale 65 milioni di dollari e ospita 14 persone",
+      "image": "https://hd2.tudocdn.net/1362482?w=660",
+      "publishedAt": "2026-08-12T12:00:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Prima un mese, ora due giorni: così Claude Code sta accelerando i chip Samsung",
+      "link": "https://www.hdblog.it/hardware/articoli/n667041/samsung-chip-uso-ai-claude-applicazioni/",
+      "excerpt": "Samsung sta utilizzando Claude Code di Anthropic nello sviluppo e nella verifica dei semiconduttori. In alcuni test interni attività da oltre un mese sono state completate in…",
+      "image": "https://hd2.tudocdn.net/1302734?w=660",
+      "publishedAt": "2026-08-12T11:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Lefant M5 Pro a 296€ euro su Amazon: robot con lavaggio e base automatica",
+      "link": "https://www.hdblog.it/tecnologia/offerte/n666404/lefant-m5-pro-crolla-a-29699-euro-su-amazon-robot-con-lavaggio-a-rullo-in-tempo-reale-e-base-automatica/",
+      "excerpt": "Lefant M5 Pro è in offerta su Amazon a 449,99 euro, ma con il codice ZRWC75TK il prezzo finale scende a 296,99 euro.",
+      "image": "https://hd2.tudocdn.net/1361490?w=660",
+      "publishedAt": "2026-08-12T11:31:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "IMAP pubblica i primi dati scientifici: cosa rivelano sullo spazio interstellare",
+      "link": "https://www.hdblog.it/curiosita/articoli/n666941/nasa-imap-primi-dati-scientifici/",
+      "excerpt": "La missione IMAP rende pubblici i primi dati per studiare Sole, vento solare e spazio interstellare.",
+      "image": "https://hd2.tudocdn.net/1362279?w=660",
+      "publishedAt": "2026-08-12T11:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Sonos alza il volume: in arrivo le cuffie Ace Ultra con supporto AI",
+      "link": "https://www.hdblog.it/indossabili/articoli/n667035/sonos-ace-ultra-cuffie-ai-settembre-leak/",
+      "excerpt": "E il lancio potrebbe essere molto vicino.",
+      "image": "https://hd2.tudocdn.net/1163254?w=660",
+      "publishedAt": "2026-08-12T11:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La strage delle gomme dell’estate italiana di cui nessuno parla: officine prese d’assalto",
+      "link": "https://www.hdmotori.it/strage-gomme-estate-italiana/",
+      "excerpt": "Le temperature bollenti stanno causando danni agli automobilisti italiani. Non si contano più le esplosioni e le crepe sugli pneumatici",
+      "image": "https://hd2.tudocdn.net/1362442?w=660",
+      "publishedAt": "2026-08-12T11:00:46+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Gli USA preparano occhiali contro il lampo nucleare: si oscurano in 150 microsecondi",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666959/air-force-occhiali-lampo-nucleare/",
+      "excerpt": "Nuovi occhiali intelligenti proteggono i piloti dal lampo di un'esplosione nucleare.",
+      "image": "https://hd2.tudocdn.net/1362303?w=660",
+      "publishedAt": "2026-08-12T10:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Gli USA riaprono a TikTok: può tornare sui dispositivi federali",
       "link": "https://www.hdblog.it/applicazioni/articoli/n667036/tiktok-usa-divieto-revocato/",
       "excerpt": "Gli Stati Uniti riaprono a TikTok sui dispositivi governativi. Secondo l’OMB, la legge del 2022 non si applica più all’attuale versione americana dopo la riorganizzazione delle…",
       "image": "https://hd2.tudocdn.net/1310432?w=660",
       "publishedAt": "2026-08-12T10:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Nessuno di voi ha mai provato questo Windows Phone: o meglio, Surface Phone",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667019/windows-phone-surface-prototipo/",
-      "excerpt": "Spunta fuori un prototipo del Surface Phone che Microsoft non ha più lanciato.",
-      "image": "https://hd2.tudocdn.net/1362414?w=660",
-      "publishedAt": "2026-08-12T10:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Pokémon Rubino, Zaffiro e Smeraldo su Switch in autunno?",
-      "link": "https://www.tomshw.it/videogioco/pokemon-rubino-zaffiro-e-smeraldo-su-switch-tra-settembre-e-ottobre",
-      "excerpt": "Pokémon Rubino, Zaffiro e Smeraldo potrebbero approdare su Nintendo Switch tra settembre e ottobre 2026. La finestra arriva da Shpeshal Nick, che parla di port pianificati per i…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107003/Pokemon-Emerald-Sapphire-Ruby-1.jpg",
-      "publishedAt": "2026-08-12T10:35:39+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "iPhone Ultra è il nome giusto del fold di Apple? Ecco cosa ne pensa Gurman",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667023/iphone-pieghevole-nome-ultra-vero-o-no/",
-      "excerpt": "In tanti hanno dubbi sul nome reale del primo iPhone pieghevole, ma Gurman ci dice la sua",
-      "image": "https://hd2.tudocdn.net/1348038?w=660",
-      "publishedAt": "2026-08-12T10:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Gemini arriva sui TV TCL in Italia: tutti i modelli compatibili",
-      "link": "https://www.hdblog.it/tv/articoli/n667034/tcl-tv-arriva-gemini-modelli-elenco/",
-      "excerpt": "Google Gemini arriva sui televisori TCL anche in Italia. Il rollout coinvolgerà numerosi modelli delle gamme 2025 e 2026: ecco l’elenco completo dei TV compatibili e quelli da…",
-      "image": "https://hd2.tudocdn.net/1362433?w=660",
-      "publishedAt": "2026-08-12T10:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Batteria da 12.000 mAh su smartphone? Honor ci sta lavorando ed è a buon punto",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667031/honor-smartphone-batteria-12000-mah-power3-leak/",
-      "excerpt": "Impressionante.",
-      "image": "https://hd2.tudocdn.net/1355986?w=660",
-      "publishedAt": "2026-08-12T10:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung S Pen per Galaxy S26 Ultra al 53%, scrivi e disegna a 28,06€",
-      "link": "https://www.tomshw.it/offerte/samsung-s-pen-per-galaxy-s26-ultra-al-53-scrivi-e-disegna-a-2806eur",
-      "excerpt": "La Samsung S Pen per Galaxy S26 Ultra costa 28,06€ su Amazon, con il 53% di sconto sul listino di 59,90€ e il prezzo più basso mai raggiunto. È l’accessorio originale pensato per…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107007/tomshw-offer-765428.png",
-      "publishedAt": "2026-08-12T10:05:01+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Londra, maxi-blitz polizia: sequestrate supercar per oltre 8 milioni di sterline",
-      "link": "https://www.hdmotori.it/londra-blitz-supercar-sequestrate-supercar/",
-      "excerpt": "Sequestrata anche una Ferrari Monza SP2 da 3,7 milioni: guidava un ragazzo col foglio rosa e senza assicurazione nel maxi-blitz contro i bolidi da 8 milioni di sterline",
-      "image": "https://hd2.tudocdn.net/1362431?w=660",
-      "publishedAt": "2026-08-12T10:00:55+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Amazon non dice più cosa avete comprato nelle email: c’entra anche l’AI",
-      "link": "https://www.hdblog.it/amazon/articoli/n667029/amazon-email-inutili-ordini-perche/",
-      "excerpt": "Le email di conferma degli ordini Amazon mostrano sempre meno dettagli e spesso sostituiscono il nome del prodotto con una categoria generica. Dietro la scelta ci sarebbero…",
-      "image": "https://hd2.tudocdn.net/1289509?w=660",
-      "publishedAt": "2026-08-12T09:50:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -93,60 +183,6 @@
       "publishedAt": "2026-08-12T09:48:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Space-tech europeo: 2,9 miliardi, ma il 91,5% è in 10 operazioni",
-      "link": "https://www.tomshw.it/scienze/space-tech-europeo-2-9-miliardi-ma-il-91-5-e-in",
-      "excerpt": "Trenta aziende europee dello space-tech hanno raccolto complessivamente 2,9 miliardi di euro nel primo semestre 2026. Il dataset di Tech.eu Funding Explorer, aggiornato al 12…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106994/news-flash-765336.png",
-      "publishedAt": "2026-08-12T09:40:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Apple Reference Image è la novità di iOS 27 (beta 5) per certificare le foto autentiche",
-      "link": "https://www.hdblog.it/apple/articoli/n667021/apple-reference-image-ios-27-foto-autentiche/",
-      "excerpt": "Apple Reference Image in iOS 27 usa il sensore dell'iPhone e Private Cloud Compute per certificare l'autenticità delle fotografie scattate.",
-      "image": "https://hd2.tudocdn.net/1362423?w=660",
-      "publishedAt": "2026-08-12T09:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Macchina da caffè Ariete con macinacaffè a 132,44€, mai costata così poco",
-      "link": "https://www.tomshw.it/offerte/macchina-da-caffe-ariete-con-macinacaffe-a-13244eur-mai-costata-cosi-poco",
-      "excerpt": "La macchina da caffè Ariete 1318 costa 132,44€ su Amazon, invece di 200€, con uno sconto del 34% e il prezzo più basso mai raggiunto. Il macinacaffè integrato permette di partire…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106995/tomshw-offer-765331.png",
-      "publishedAt": "2026-08-12T09:35:03+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Truffa della bottiglia nel parcheggio: cos'è e come evitarla",
-      "link": "https://www.hdmotori.it/truffa-bottiglia-plastica-auto-come-evitarla/",
-      "excerpt": "Attenti al trucco della bottiglia di plastica tra la ruota e il passaruota nei parcheggi. Come agiscono i ladri e le regole da seguire per non farsi derubare",
-      "image": "https://hd2.tudocdn.net/1362424?w=660",
-      "publishedAt": "2026-08-12T09:30:52+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Un pannello solare in perovskite sarà testato a oltre 5mila metri",
-      "link": "https://www.hdblog.it/green/articoli/n667027/pannello-perovskite-test-alta-quota-k2/",
-      "excerpt": "Monochrome porterà un prototipo di pannello solare in perovskite fino a 5.150 metri nell’area del K2 Base Camp, per studiarne produzione, affidabilità e deterioramento in…",
-      "image": "https://hd2.tudocdn.net/1362421?w=660",
-      "publishedAt": "2026-08-12T09:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iOS 27 beta 5 svela la novità di Reference Image",
-      "link": "https://www.tomshw.it/hardware/ios-27-beta-5-apple-reference-image-certificherebbe-solo-scatti-dedicati",
-      "excerpt": "Il codice di iOS 27 beta 5 contiene i riferimenti a un sistema capace di collegare una fotografia allo specifico hardware fotografico dell’iPhone che l’ha acquisita. La funzione…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106977/news-flash-765083.png",
-      "publishedAt": "2026-08-12T09:10:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Abbiamo usato un’IA per nascondere un testo scritto dall’IA: Pangram ci è cascato, ma che disastro",
@@ -167,15 +203,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Esplode il prezzo di ChatGPT Business, 5x per chi usa gli agenti",
-      "link": "https://www.tomshw.it/business/esplode-il-prezzo-di-chatgpt-business-5x-per-chi-usa-gli-agenti",
-      "excerpt": "OpenAI aggiunge ai piani ChatGPT Business un posto premium da 125 dollari al mese, o 100 con fatturazione annuale, contro i 25 dollari (20 in annuale) del posto standard:…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106966/02-openai-premium-seats-cover-web.jpg",
-      "publishedAt": "2026-08-12T08:25:03+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Formula E, dalla prossima stagione si vedrà (anche) su Disney+ a livello mondiale",
       "link": "https://images.dday.it/LZvCfwGQ3SRx0F1cBraDURi5OLFFlNDxlIVYyEGNBrk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58351/fb65dc_HPcX14SXcAA9ldp.jpeg",
       "excerpt": "Disney+ diventa la casa streaming globale della Formula E dal 2026/27, affiancando le trasmissioni gratuite. La stessa stagione introdurrà le GEN4, più potenti e a trazione…",
@@ -194,20 +221,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Migliori tablet (agosto 2026)",
-      "link": "https://www.tomshw.it/smartphone/migliori-tablet",
-      "excerpt": "Scegliere il miglior tablet non significa puntare sempre al modello più costoso o alla scheda tecnica più lunga. Il tablet giusto è quello che riesce a stare dentro il vostro modo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/88371/migliori-tablet-copertina.jpg",
-      "publishedAt": "2026-08-12T06:23:21+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "River AI promette un'AI personale: 1,1 miliardi raccolti",
-      "link": "https://www.tomshw.it/hardware/river-ai-1-1-miliardi-per-costruire-l-ai-personale",
-      "excerpt": "River AI ha raccolto 1,1 miliardi di dollari complessivi tra i round Seed e Series A per costruire uno stack completo dedicato all’intelligenza artificiale personale. Il capitale…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106831/River_Series_A.jpg",
-      "publishedAt": "2026-08-11T15:55:04+00:00",
+      "title": "Migliori chiavette Internet e router wifi portatili (agosto 2026)",
+      "link": "https://www.tomshw.it/hardware/chiavette-internet-migliori",
+      "excerpt": "Nel panorama digitale odierno, la possibilità di navigare su Internet in modo rapido e affidabile ovunque ci si trovi è diventata una necessità più che un lusso. Che si tratti di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/88511/migliori-chiavette-router-wifi-copertina.jpg",
+      "publishedAt": "2026-08-12T06:29:20+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -248,15 +266,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Recensione Withings BodyScan 2: la bilancia smart che controlla tutto",
-      "link": "https://www.tomshw.it/altro/withings-bodyscan-2-recensione-completa",
-      "excerpt": "Withings ha costruito la sua reputazione trasformando la banale operazione di salire su una bilancia in un momento di raccolta dati sulla salute. Con la BodyScan 2 il produttore…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106578/Withings-Bodyscan-2-6.png",
-      "publishedAt": "2026-08-11T12:53:37+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Matrimonio tra Sony e TSMC: la nuova joint venture produrrà sensori d’immagine per smartphone",
       "link": "https://images.dday.it/JBJQzTg4HIaUC7uY0PsG04hzoXgySlSlozF_WZW31lI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58343/e41f1f_cvoe_rScreenshot_2026-08-11_alle_12.36.19_copia.png",
       "excerpt": "La promessa fatta a maggio è stata rispetta dall’annuncio della joint venture tra Sony e TSMC, che si alleano per combattere Samsung e i cinesi... Leggi tutto",
@@ -264,15 +273,6 @@
       "publishedAt": "2026-08-11T10:38:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Previsione dei consumi energetici in fabbrica con AI: dal contatore smart al modello di ottimizzazione",
-      "link": "https://www.tomshw.it/aioperator/previsione-dei-consumi-energetici-in-fabbrica-con-ai-dal-contatore-smart-al-modello-di-ottimizzazione",
-      "excerpt": "Un contatore generale registra il consumo totale dello stabilimento ogni quarto d'ora, e quel numero non dice se il picco arriva dal forno di cottura o dai compressori dell'aria.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106333/02-pro17-cover.jpg",
-      "publishedAt": "2026-08-07T13:21:15+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     }
   ]
 }
