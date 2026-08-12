@@ -1,9 +1,54 @@
 {
-  "generatedAt": "2026-08-12T18:51:51.562293+00:00",
+  "generatedAt": "2026-08-12T20:34:54.957875+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Xiaomi Smart Projector L1 a 179,99€: Netflix senza chiavette, ne vale ogni euro",
+      "link": "https://www.tomshw.it/offerte/xiaomi-smart-projector-l1-a-17999eur-netflix-senza-chiavette-ne-vale-ogni-euro",
+      "excerpt": "Xiaomi Smart Projector L1 costa 179,99€ su Amazon, anziché 229,99€, con uno sconto del 22%. Google TV e Netflix sono già integrati, così film e serie partono senza aggiungere…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107181/tomshw-offer-766730.png",
+      "publishedAt": "2026-08-12T20:02:53+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Lenovo ThinkVision T-series da 219€ a 144€, 120 Hz per lavorare meglio",
+      "link": "https://www.tomshw.it/offerte/lenovo-thinkvision-t-series-da-219eur-a-144eur-120-hz-per-lavorare-meglio",
+      "excerpt": "Lenovo ThinkVision T-series costa 144€ su Amazon, invece dei 219€ di listino, con uno sconto del 34%. Il pannello IPS da 24 pollici, i 120 Hz e la base completamente regolabile…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107177/tomshw-offer-766723.png",
+      "publishedAt": "2026-08-12T19:32:46+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Abbiamo provato la Insta360 X6: la nuova regina del 360 | Video",
+      "link": "https://www.hdblog.it/tecnologia/recensioni/n664820/insta360-x6--ciao-ciao-concorrenza/",
+      "excerpt": "Insta360 lancia la sua nuova videocamera 360 di punta ovvero la X6. Quest'ultimo modello migliora tutti i piccoli dettagli che mancavano sul precedente.",
+      "image": "https://hd2.tudocdn.net/1358296?w=660",
+      "publishedAt": "2026-08-12T18:54:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Anteprima Google Pixel 11 e Watch 5: cosa cambia davvero nella nuova generazione",
+      "link": "https://www.hdblog.it/smartphone/speciali/n666254/anteprima-google-pixel-11-watch-5-prezzi/",
+      "excerpt": "Abbiamo provato i nuovi Google Pixel 11, 11 Pro, 11 Pro Xl e Watch 5. Prezzi che fortunatamente non salgono per tutti i modelli e migliorie evidenti alle fotocamere ed ai consumi.…",
+      "image": "https://hd2.tudocdn.net/1360677?w=660",
+      "publishedAt": "2026-08-12T18:53:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Canon PIXMA TR4755i al 41% in meno, un affare per l’home office a 49,90€",
+      "link": "https://www.tomshw.it/offerte/canon-pixma-tr4755i-al-41-in-meno-un-affare-per-lhome-office-a-4990eur",
+      "excerpt": "Canon PIXMA TR4755i a 49,90€ su Amazon, con il 41% di sconto sul listino di 84,99€, riunisce stampa, copia, scansione e fax in un solo dispositivo. È un prezzo particolarmente…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107174/tomshw-offer-766709.png",
+      "publishedAt": "2026-08-12T18:40:10+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "Anker Power Bank 25.000mAh a 84,99€, 165W per lavorare anche in viaggio",
       "link": "https://www.tomshw.it/offerte/anker-power-bank-25000mah-a-8499eur-165w-per-lavorare-anche-in-viaggio",
@@ -77,15 +122,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Google Pixel 11: Video Boost 8K sui Pro, bokeh 4K per tutti",
-      "link": "https://www.tomshw.it/smartphone/google-pixel-11-video-boost-8k-sui-pro-bokeh-4k-per-tutti",
-      "excerpt": "La serie Google Pixel 11 porta il video ritratto con sfocatura bokeh in 4K su tutti i modelli, elaborando l’effetto in tempo reale. Alla base delle nuove capacità c’è Tensor...",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104938/news-flash-618218.png",
-      "publishedAt": "2026-08-12T16:43:33+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Abode lancia due nuovi sensori smart per proteggere garage e spazi esterni",
       "link": "https://www.hdblog.it/domotica/articoli/n667074/abode-sensori-esterni-garage-prezzi/",
       "excerpt": "Abode presenta Outdoor Contact Sensor e Garage Tilt Sensor, due nuovi dispositivi wireless progettati per monitorare garage, cancelli, capanni e altre strutture situate all’esterno",
@@ -100,24 +136,6 @@
       "excerpt": "La Cina inaugura una piattaforma eolica galleggiante che alimenta impianti offshore.",
       "image": "https://hd2.tudocdn.net/1362292?w=660",
       "publishedAt": "2026-08-12T16:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Ororo lancia la Home Collection: coperte e cuscini riscaldati a batteria",
-      "link": "https://www.hdblog.it/home/articoli/n667082/ororo-abbigliamento-riscaldato-accessori/",
-      "excerpt": "Ororo presenta Home Collection, una nuova gamma di cuscini, coperte, sedute e fasce riscaldate alimentate da batterie ricaricabili e pensate per l’utilizzo dentro e fuori casa",
-      "image": "https://hd2.tudocdn.net/1362559?w=660",
-      "publishedAt": "2026-08-12T16:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "La Mercedes di LeBron James fatta su misura, lusso sfrenato per il king dell’NBA",
-      "link": "https://www.hdmotori.it/mercedes-lebron-james-su-misura/",
-      "excerpt": "La Mercedes-Maybach S 680 personalizzata da LeBron James è stata esposta nella kermesse di Monterey in California.",
-      "image": "https://hd2.tudocdn.net/1362584?w=660",
-      "publishedAt": "2026-08-12T16:00:06+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -183,24 +201,6 @@
       "publishedAt": "2026-08-12T13:00:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migliori stampanti laser (agosto 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-stampanti-laser",
-      "excerpt": "Scegliere una stampante laser nel 2026 significa prima di tutto capire che tipo di documenti producete davvero: poche pagine al mese per casa e smart working, fascicoli continui…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/88631/migliori-stampanti-laser-copertina.jpg",
-      "publishedAt": "2026-08-12T11:33:44+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Commodore riporta in vita il joystick TAC-2 dopo 40 anni",
-      "link": "https://www.tomshw.it/videogioco/commodore-riporta-in-vita-il-joystick-tac-2-dopo-40-anni",
-      "excerpt": "Commodore ha aperto i preordini del nuovo TAC-2, riedizione del joystick introdotto nel 1983 da Suncom e diventato una delle periferiche più riconoscibili dell’epoca a 8 bit. Il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107042/commodore-riporta-in-vita-il-joystick-tac-2-dopo-40-anni.png",
-      "publishedAt": "2026-08-12T11:24:22+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Prezzi carburanti stabili, il calo del gasolio è quasi impercettibile",
