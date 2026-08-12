@@ -1,9 +1,81 @@
 {
-  "generatedAt": "2026-08-12T16:49:16.312791+00:00",
+  "generatedAt": "2026-08-12T18:51:51.562293+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Anker Power Bank 25.000mAh a 84,99€, 165W per lavorare anche in viaggio",
+      "link": "https://www.tomshw.it/offerte/anker-power-bank-25000mah-a-8499eur-165w-per-lavorare-anche-in-viaggio",
+      "excerpt": "Anker Laptop Power Bank da 25.000mAh costa 84,99€ su Amazon, anziché 99,99€, con il 15% di sconto. I 165W e i due cavi USB-C integrati lo rendono adatto a chi deve alimentare…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107173/tomshw-offer-766684.png",
+      "publishedAt": "2026-08-12T18:03:52+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Multata perché guida con il telefono, ma per lei era una zucchina: il caso finisce in Cassazione",
+      "link": "https://www.hdmotori.it/multata-telefono-zucchina-cassazione/",
+      "excerpt": "Dopo aver ricevuto una multa di 320 euro, una automobilista friulana si è difesa, affermando di aver avuto tra le mani una semplice zucchina",
+      "image": "https://hd2.tudocdn.net/1362606?w=660",
+      "publishedAt": "2026-08-12T18:00:48+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Navi cargo più sicure grazie al robot autonomo che ispeziona i ponti",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666955/robot-autonomo-navi-cargo/",
+      "excerpt": "Un robot autonomo ispeziona le navi cargo e migliora sicurezza ed efficienza.",
+      "image": "https://hd2.tudocdn.net/1362298?w=660",
+      "publishedAt": "2026-08-12T17:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung Galaxy S25 al 41% in meno, 256GB per foto, video e app",
+      "link": "https://www.tomshw.it/offerte/samsung-galaxy-s25-al-41-in-meno-256gb-per-foto-video-e-app",
+      "excerpt": "Samsung Galaxy S25 256GB costa 579,99€ su Amazon: il listino è di 989€ e lo sconto raggiunge il 41%. È il minimo storico per la versione Icyblue, con una capacità pensata per…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107171/tomshw-offer-766655.png",
+      "publishedAt": "2026-08-12T17:33:24+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Jaguar Type 01: svelati gli interni minimalisti",
+      "link": "https://www.hdmotori.it/jaguar-type-01-interni-minimalisti/",
+      "excerpt": "La nuova supercar di Jaguar da 1.000 CV ridefinisce il lusso con un abitacolo minimalista e privo del classico maxi-schermo centrale.",
+      "image": "https://hd2.tudocdn.net/1362602?w=660",
+      "publishedAt": "2026-08-12T17:30:02+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Anche i computer quantistici entrano nella difesa della rete elettrica",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666950/quantum-computing-rete-elettrica/",
+      "excerpt": "Il calcolo quantistico potrebbe aiutare a prevenire blackout e attacchi alla rete elettrica.",
+      "image": "https://hd2.tudocdn.net/1362288?w=660",
+      "publishedAt": "2026-08-12T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Moto della Wehrmacht riemerge dal Danubio: le immagini la dipingono quasi \"nuova\"",
+      "link": "https://www.hdmotori.it/moto-wehrmacht-intatta-fango-danubio-immagini/",
+      "excerpt": "Le foto della moto riemersa dal Danubio fanno il giro del mondo. Il veicolo del '44 è quasi intatto: sotto il telaio la drammatica scoperta degli archeologi",
+      "image": "https://hd2.tudocdn.net/1362591?w=660",
+      "publishedAt": "2026-08-12T17:00:12+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Motori spaziali stampati in 3D: perché sono sempre più importanti",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n666949/motore-spaziale-stampato-3d/",
+      "excerpt": "Un nuovo motore stampato in 3D punta a rendere i trasporti spaziali più economici e rapidi.",
+      "image": "https://hd2.tudocdn.net/1362287?w=660",
+      "publishedAt": "2026-08-12T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Google Pixel 11: Video Boost 8K sui Pro, bokeh 4K per tutti",
       "link": "https://www.tomshw.it/smartphone/google-pixel-11-video-boost-8k-sui-pro-bokeh-4k-per-tutti",
@@ -32,15 +104,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Lost Ark e Throne and Liberty: Amazon si defila ma i giochi restano",
-      "link": "https://www.tomshw.it/videogioco/amazon-lascia-lost-ark-e-throne-and-liberty-non-chiuderanno",
-      "excerpt": "Lost Ark e Throne and Liberty continueranno a operare senza Amazon come publisher. Amazon Game Studios ha ufficializzato l'uscita dalla gestione dei due MMO: il servizio…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107165/lost-ark-e1623899477506.jpg",
-      "publishedAt": "2026-08-12T16:11:11+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Ororo lancia la Home Collection: coperte e cuscini riscaldati a batteria",
       "link": "https://www.hdblog.it/home/articoli/n667082/ororo-abbigliamento-riscaldato-accessori/",
       "excerpt": "Ororo presenta Home Collection, una nuova gamma di cuscini, coperte, sedute e fasce riscaldate alimentate da batterie ricaricabili e pensate per l’utilizzo dentro e fuori casa",
@@ -48,15 +111,6 @@
       "publishedAt": "2026-08-12T16:10:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
-    },
-    {
-      "title": "JBL Quantum 910P al 52%, 39 ore su PlayStation: un affare",
-      "link": "https://www.tomshw.it/offerte/jbl-quantum-910p-al-52-39-ore-su-playstation-un-affare",
-      "excerpt": "JBL Quantum 910P costa 143,99€ su Amazon, con uno sconto del 52% sul prezzo di listino di 299,99€. Audio spaziale, head tracking e fino a 39 ore di autonomia puntano a rendere più…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107163/tomshw-offer-766522.png",
-      "publishedAt": "2026-08-12T16:03:02+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "La Mercedes di LeBron James fatta su misura, lusso sfrenato per il king dell’NBA",
@@ -68,67 +122,13 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "MQ-28 Ghost Bat: perché i droni gregari sono il futuro del combattimento",
-      "link": "https://www.hdblog.it/droni/articoli/n666957/ghost-bat-test-usa-f35/",
-      "excerpt": "Il Ghost Bat vola con i caccia USA: ecco perché i droni gregari stanno cambiando la difesa.",
-      "image": "https://hd2.tudocdn.net/1362299?w=660",
-      "publishedAt": "2026-08-12T15:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Orbitals: 7 minuti tra gameplay e interviste agli sviluppatori",
-      "link": "https://www.tomshw.it/videogioco/orbitals-oltre-7-minuti-tra-nuovo-gameplay-e-stile-anime-retro",
-      "excerpt": "Due personaggi con ruoli e strumenti diversi dovranno coordinarsi per superare i pericoli di Orbitals, avventura cooperativa di Shapefarm che debutterà il 3 settembre 2026 in…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107159/ar4v1i.jpg",
-      "publishedAt": "2026-08-12T15:48:46+00:00",
+      "title": "Allarme TPM 2.0: falle critiche espongono chiavi RSA a rischio",
+      "link": "https://www.tomshw.it/hardware/tpm-2-0-2-falle-gravi-minacciano-chiavi-rsa-e-attestazioni",
+      "excerpt": "Due vulnerabilità ad alta gravità nel codice di riferimento Trusted Platform Module 2.0 possono compromettere la riservatezza delle chiavi RSA e consentire la falsificazione delle…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107141/news-flash-766304.png",
+      "publishedAt": "2026-08-12T15:03:14+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Trovata la prima glueball: confermata una particella prevista da 50 anni",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n666952/prima-glueball-confermata/",
-      "excerpt": "Confermata la prima glueball: ecco perché cambia lo studio della materia.",
-      "image": "https://hd2.tudocdn.net/1362289?w=660",
-      "publishedAt": "2026-08-12T15:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "UGREEN Revodok 107 a 27,06€, il minimo storico per collegare tutto al laptop",
-      "link": "https://www.tomshw.it/offerte/ugreen-revodok-107-a-2706eur-il-minimo-storico-per-collegare-tutto-al-laptop",
-      "excerpt": "UGREEN Revodok 107 è al minimo storico di 27,06€ su Amazon: dai 39,49€ scende del 31%. Con un solo collegamento USB-C permette di usare monitor, rete cablata, schede di memoria e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107156/tomshw-offer-766437.png",
-      "publishedAt": "2026-08-12T15:33:43+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Porsche scarica Volkswagen e si allea con Xpeng per le emissioni",
-      "link": "https://www.hdmotori.it/porsche-volkswagen-xpeng-emissioni/",
-      "excerpt": "Porsche esce dal pool europeo sulle emissioni guidato da Volkswagen e si allea con il costruttore cinese Xpeng per affrontare la sfida della CO2",
-      "image": "https://hd2.tudocdn.net/1362554?w=660",
-      "publishedAt": "2026-08-12T15:30:19+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Così il calcolo quantistico ispira eliche più efficienti per i droni",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n666947/calcolo-quantistico-eliche-droni/",
-      "excerpt": "Un nuovo metodo di calcolo crea eliche per droni più efficienti e facili da produrre.",
-      "image": "https://hd2.tudocdn.net/1362285?w=660",
-      "publishedAt": "2026-08-12T15:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "SwitchBot lancia kata: l’assistente AI controlla casa e crea automazioni",
-      "link": "https://www.hdblog.it/domotica/articoli/n667072/switchbot-assistente-ai-domotica-kata/",
-      "excerpt": "SwitchBot introduce kata nella propria app, un assistente AI capace di controllare i dispositivi smart, interpretare richieste in linguaggio naturale e trasformarle in automazioni",
-      "image": "https://hd2.tudocdn.net/1262401?w=660",
-      "publishedAt": "2026-08-12T15:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Ecco come riconoscere un'offerta FWA da 1 gbit/s. AGCOM introduce un bollino dedicato",
@@ -138,24 +138,6 @@
       "publishedAt": "2026-08-12T15:01:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Sogni di guidare la prima monoposto F1 di Michael Schumacher? All’asta è un affare",
-      "link": "https://www.hdmotori.it/asta-jordan-f1-michael-schumacher/",
-      "excerpt": "La carriera di Michael Schumacher nel Circus è cominciata nell’abitacolo di una Jordan 191. Uno dei sette esemplari finirà all’asta",
-      "image": "https://hd2.tudocdn.net/1362543?w=660",
-      "publishedAt": "2026-08-12T15:00:55+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Watermark sui testi AI, la risposta sbagliata a un problema vero",
-      "link": "https://www.tomshw.it/business/watermark-sui-testi-ai-la-risposta-sbagliata-a-un-problema-vero",
-      "excerpt": "Il marchio invisibile che Claude inserisce nei testi generati dovrebbe aiutare a riconoscere al volo un testo scritto con l'AI. Ma a chi interessa davvero, a chi serve, quali…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107123/12-editoriale-porcu-watermark-cover-v3.jpg",
-      "publishedAt": "2026-08-12T14:10:34+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Pixel 11 e Pixel 11 Pro ufficiali. Design iconico e cuore Gemini",
@@ -203,11 +185,20 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Migliori cuffie gaming economiche (agosto 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-cuffie-gaming-economiche",
-      "excerpt": "Nell'attuale panorama degli accessori PC e console, trovare cuffie gaming economiche capaci di unire qualità, comodità e prezzo accessibile è molto più semplice rispetto a qualche…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/88559/migliori-cuffie-gaming-economiche-copertina.jpg",
-      "publishedAt": "2026-08-12T11:26:09+00:00",
+      "title": "Migliori stampanti laser (agosto 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-stampanti-laser",
+      "excerpt": "Scegliere una stampante laser nel 2026 significa prima di tutto capire che tipo di documenti producete davvero: poche pagine al mese per casa e smart working, fascicoli continui…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/88631/migliori-stampanti-laser-copertina.jpg",
+      "publishedAt": "2026-08-12T11:33:44+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Commodore riporta in vita il joystick TAC-2 dopo 40 anni",
+      "link": "https://www.tomshw.it/videogioco/commodore-riporta-in-vita-il-joystick-tac-2-dopo-40-anni",
+      "excerpt": "Commodore ha aperto i preordini del nuovo TAC-2, riedizione del joystick introdotto nel 1983 da Suncom e diventato una delle periferiche più riconoscibili dell’epoca a 8 bit. Il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107042/commodore-riporta-in-vita-il-joystick-tac-2-dopo-40-anni.png",
+      "publishedAt": "2026-08-12T11:24:22+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -219,15 +210,6 @@
       "publishedAt": "2026-08-12T09:48:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "I testi generati con AI avranno un watermark, ma a chi interessa?",
-      "link": "https://www.tomshw.it/business/i-testi-generati-con-ai-avranno-un-watermark-ma-a-chi-interessa",
-      "excerpt": "Anthropic ha attivato un marchio invisibile in ogni testo generato dai modelli Claude rilasciati dal 2 agosto 2026 in avanti. Il pattern statistico non altera la leggibilità della…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106972/07-claude-watermarking-cover-web.jpg",
-      "publishedAt": "2026-08-12T09:42:35+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Abbiamo usato un’IA per nascondere un testo scritto dall’IA: Pangram ci è cascato, ma che disastro",
@@ -248,10 +230,19 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Usare gli LLM per rispondere ai ticket potrebbe costare troppo",
-      "link": "https://www.tomshw.it/business/usare-gli-llm-per-rispondere-ai-ticket-potrebbe-costare-troppo",
-      "excerpt": "Alibaba Cloud vende Qwen, la sua famiglia di modelli linguistici, come motore per agenti aziendali di ogni settore. Nella propria unità di supporto tecnico, però, ha deciso di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106973/08-alibaba-cloud-duallane-cover.jpg",
+      "title": "Claude Code, la modalità AUTO diventa default. Vi fiderete?",
+      "link": "https://www.tomshw.it/business/claude-code-la-modalita-auto-diventa-default-vi-fiderete",
+      "excerpt": "Claude Code smette di fermarsi a ogni passaggio dal 14 agosto 2026: su Pro, Max e Team l'agente di coding scrive file, esegue comandi e modifica repository senza chiedere conferma…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106975/10-claude-code-auto-mode-cover.jpg",
+      "publishedAt": "2026-08-12T08:30:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Cancella la prenotazione degli altri per non fare coda, ecco un altro problema con l'AI",
+      "link": "https://www.tomshw.it/business/cancella-la-prenotazione-degli-altri-per-non-fare-coda-ecco-un-altro-problema-con-lai",
+      "excerpt": "Andrew lavora per un'azienda B2B che sviluppa intelligenza artificiale in Australia, e considerava la prenotazione del suo corso di palestra preferito una scocciatura quasi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106974/09-openclaw-palestra-cover.jpg",
       "publishedAt": "2026-08-12T08:30:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
@@ -266,11 +257,20 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Economia circolare degli asset IT, ecco come massimizzare il ciclo di vita",
-      "link": "https://www.tomshw.it/aioperator/economia-circolare-degli-asset-it-ecco-come-massimizzare-il-ciclo-di-vita",
-      "excerpt": "La policy IT di molte aziende medie sostituisce ogni portatile a trentasei mesi, ogni monitor a sette anni, ogni server al quinto compleanno, indipendentemente dal carico di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106335/04-mgt15-cover.jpg",
-      "publishedAt": "2026-08-07T13:21:16+00:00",
+      "title": "SteamBoy: lo Steam Deck si trasforma in un Game Boy 3D",
+      "link": "https://www.tomshw.it/videogioco/steamboy-steam-deck-lcd-diventa-un-game-boy-stampato-in-3d",
+      "excerpt": "Uno Steam Deck LCD è stato ricostruito in formato verticale, dentro una scocca dalle dimensioni paragonabili a quelle di un Game Boy. Il progetto si chiama SteamBoy ed è opera del…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106925/news-flash-764352.png",
+      "publishedAt": "2026-08-12T06:40:33+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Recensione DJI Lito X1: drone entry-level con funzioni avanzate",
+      "link": "https://www.tomshw.it/altro/dji-lito-x1-recensione-del-drone-entry-level",
+      "excerpt": "Con la serie Lito, DJI apre un capitolo nuovo nel segmento entry‑level dei droni. Il Lito X1 ne rappresenta la versione più completa e si colloca in una fascia di prezzo attorno…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106559/DJI-Lito-X1-12.jpg",
+      "publishedAt": "2026-08-11T13:02:07+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
