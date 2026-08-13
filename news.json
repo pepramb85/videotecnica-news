@@ -1,33 +1,186 @@
 {
-  "generatedAt": "2026-08-13T07:15:21.640833+00:00",
+  "generatedAt": "2026-08-13T09:04:38.802116+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "iPhone Ultra e le fotocamera dove non te l'aspetti: cosa filtra dagli accessori",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667102/iphone-ultra-pieghevole-fotocamera-esterna-leak/",
-      "excerpt": "Il video di un proteggi-schermo anticipa un possibile dettaglio.",
-      "image": "https://hd2.tudocdn.net/1353268?w=660",
-      "publishedAt": "2026-08-13T07:15:00+00:00",
+      "title": "Twitch: così Amazon addestra in automatico la sua AI",
+      "link": "https://www.tomshw.it/hardware/twitch-stream-e-chat-possono-addestrare-l-ia-di-amazon-di-default",
+      "excerpt": "Dirette, chat associate agli stream, VOD, clip, highlights, testi e immagini dei canali possono essere utilizzati per addestrare i modelli di IA generativa di Amazon. Twitch ha…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107332/news-flash-778223.png",
+      "publishedAt": "2026-08-13T09:04:05+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Pixel 11 Pro è il più fragile di tutti: non supera 180 cadute",
+      "link": "https://www.tomshw.it/smartphone/google-pixel-11-pro-solo-180-cadute-gli-altri-arrivano-a-270",
+      "excerpt": "Il Google Pixel 11 Pro ha superato 180 cadute senza difetti nei test dichiarati per il registro europeo EPREL, fermandosi alla classe B di resistenza. Pixel 11 e Pixel 11 Pro XL…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105803/l-intro-1785928808.jpg",
+      "publishedAt": "2026-08-13T08:59:49+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "L'IA può creare un exploit per soli 3,61 dollari: lo dice Microsoft",
+      "link": "https://www.tomshw.it/hardware/microsoft-l-ai-genera-un-exploit-in-21-minuti-per-3-61",
+      "excerpt": "Ventuno minuti e una spesa stimata di 3,61 dollari sono bastati per completare un caso dimostrativo di generazione di exploit. David Weston, dirigente della sicurezza di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107324/news-flash-778151.png",
+      "publishedAt": "2026-08-13T08:57:45+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Snapdragon C, il nuovo chip Qualcomm rivoluziona i laptop economici",
+      "link": "https://www.tomshw.it/hardware/qualcomm-snapdragon-c-8-core-per-portatili-da-300-dollari",
+      "excerpt": "Otto core Kryo, grafica Adreno e produzione a 6 nm sono la base dello Snapdragon C, il processore con cui Qualcomm punta ai notebook Windows entry-level con prezzi indicativi da…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107317/social_f988a3_cnpc.jpg",
+      "publishedAt": "2026-08-13T08:55:56+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Duskfade: 5 consigli per iniziare con il piede giusto",
+      "link": "https://www.tomshw.it/videogioco/duskfade-i-consigli-per-iniziare-bene",
+      "excerpt": "Duskfade è disponibile da oggi, 13 agosto 2026, su PC, PlayStation 5, Xbox Series X|S e Nintendo Switch 2. Sviluppato da Weird Beluga Studio e pubblicato da Fireshine Games,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107315/ar3fkx.jpg",
+      "publishedAt": "2026-08-13T08:52:41+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Revolut prepara la sua prima lounge: sarà molto grande e apre nel 2027",
+      "link": "https://www.hdblog.it/fintech/articoli/n667124/revolut-lounge-aeroporti-prima-apertura-dove/",
+      "excerpt": "Revolut vuole rafforzare la propria presenza fisica e punta sul settore dei viaggi: nel 2027 aprirà a Copenaghen la prima lounge aeroportuale, destinata a diventare un modello per…",
+      "image": "https://hd2.tudocdn.net/1362670?w=660",
+      "publishedAt": "2026-08-13T08:50:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "SpaceX lancerà 32 laboratori orbitali per accelerare la ricerca farmaceutica",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n667051/spacex-laboratori-farmaceutici-orbita/",
-      "excerpt": "32 laboratori in orbita per sfruttare la microgravità e sviluppare nuovi farmaci.",
-      "image": "https://hd2.tudocdn.net/1362495?w=660",
-      "publishedAt": "2026-08-13T07:10:00+00:00",
+      "title": "Mozilla avverte: Firefox potrebbe sparire, e con lei altri browser. Le servono i soldi di Google",
+      "link": "https://images.dday.it/-WLqTuVBky6fiJStg3ByLDV2GHOdWKnigyR4LF9guCQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58364/5fb509_ff.jpg",
+      "excerpt": "La sorte di Firefox e di decine di altri browser è legata a una sentenza del tribunale antitrust americano, che rischia di sortire l'effetto opposto a quello previsto, ovvero…",
+      "image": "https://images.dday.it/-WLqTuVBky6fiJStg3ByLDV2GHOdWKnigyR4LF9guCQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58364/5fb509_ff.jpg",
+      "publishedAt": "2026-08-13T08:44:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "'Tutto ok, è iPhone': il Codacons presenta un esposto sulla pubblicità con il bambino",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667119/tutto-ok-iphone-codacons-esposto/",
+      "excerpt": "L’associazione chiede di verificare se la campagna possa presentare profili di scorrettezza",
+      "image": "https://hd2.tudocdn.net/1362669?w=660",
+      "publishedAt": "2026-08-13T08:40:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Con Quick Share sui Pixel basta avvicinare gli smartphone per scambiare file",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667101/google-quick-tap-to-share-pixel-samsung-invio-file/",
-      "excerpt": "Presto la funzione arriverà anche sui Samsung Galaxy più recenti.",
-      "image": "https://hd2.tudocdn.net/1362619?w=660",
-      "publishedAt": "2026-08-13T07:05:00+00:00",
+      "title": "Gamma Pixel 11: sette novità che fanno la differenza",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667117/pixel-11-pro-xl-novita-software-ai-fotocamera/",
+      "excerpt": "Google Pixel 11, Pixel 11 Pro e Pro XL introducono numerose funzioni software basate sull’AI, tra Gemini Intelligence, Magic Capture, Rambler, Creator Suite e un Live Translate…",
+      "image": "https://hd2.tudocdn.net/1360799?w=660",
+      "publishedAt": "2026-08-13T08:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Honor lo ha fatto davvero: Robot Phone annunciato in Cina. Il prezzo è altissimo",
+      "link": "https://images.dday.it/np2xbDxl1T8eJQ5e1b7nZs19ooq4I77GsT5fX98WTKM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58363/2609d7_Screenshot_2026-08-13_alle_10.30.38.png",
+      "excerpt": "Honor ha presentato ufficialmente il suo smartphone con gimbal motorizzato e funzioni da “compagno robotico”. Persino in Cina però il prezzo è molto alto... Leggi tutto",
+      "image": "https://images.dday.it/np2xbDxl1T8eJQ5e1b7nZs19ooq4I77GsT5fX98WTKM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58363/2609d7_Screenshot_2026-08-13_alle_10.30.38.png",
+      "publishedAt": "2026-08-13T08:32:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "WhatsApp, nuovi temi in arrivo su iPhone con sfondi animati per le chat",
+      "link": "https://www.hdblog.it/apple/articoli/n667114/whatsapp-sfondi-animati-chat-iphone-ios/",
+      "excerpt": "Nuove possibilità di personalizzazione sono in arrivo su WhatsApp: la beta per iOS anticipa tre categorie di temi, sfondi animati e colori delle bolle scelti automaticamente…",
+      "image": "https://hd2.tudocdn.net/1355124?w=660",
+      "publishedAt": "2026-08-13T08:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Realme P4s Lite, c'è anche lui: in arrivo un altro modello super economico",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667104/realme-p4s-lite-specifiche-leak-economico/",
+      "excerpt": "Conferme dalle certificazioni.",
+      "image": "https://hd2.tudocdn.net/1351242?w=660",
+      "publishedAt": "2026-08-13T08:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Snapdragon C, ecco cosa c'è nel processore Qualcomm per i notebook Windows da 300 euro",
+      "link": "https://images.dday.it/Sf-6ZTLP5feSGQxw1RLBLalLFRYqai7oDPHW5sa8nik/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58362/f988a3_cnpc.jpg",
+      "excerpt": "Presentato al Computex, lo Snapdragon C era rimasto coperto da segreto fino a ieri, quando Qualcomm ne ha rilasciato le specifiche: è un vecchio chip per smartphone adattato per i…",
+      "image": "https://images.dday.it/Sf-6ZTLP5feSGQxw1RLBLalLFRYqai7oDPHW5sa8nik/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58362/f988a3_cnpc.jpg",
+      "publishedAt": "2026-08-13T08:14:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Virgin Galactic rinvia ancora: i voli commerciali slittano al 2027",
+      "link": "https://www.hdblog.it/mercato/articoli/n667112/virgin-galactic-voli-commerciali-2027/",
+      "excerpt": "Il nuovo spazioplano accumula ritardi nell'assemblaggio e debutterà a febbraio 2027",
+      "image": "https://hd2.tudocdn.net/1036812?w=660",
+      "publishedAt": "2026-08-13T08:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Estate 2026, le foto choc dell'Europa stravolta dal caldo",
+      "link": "https://www.hdblog.it/green/articoli/n667064/estate-2026-foto-choc-europa-stravolta-caldo/",
+      "excerpt": "Alcune riguardano anche l'Italia",
+      "image": "https://hd2.tudocdn.net/1362653?w=660",
+      "publishedAt": "2026-08-13T08:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "GoPro MISSION 1 PRO a 619,90€, il minimo storico per girare in 8K",
+      "link": "https://www.tomshw.it/offerte/gopro-mission-1-pro-a-61990eur-il-minimo-storico-per-girare-in-8k",
+      "excerpt": "GoPro MISSION 1 PRO costa 619,90€ su Amazon anziché 699,99€, con uno sconto dell’11% e il prezzo più basso mai raggiunto. Il sensore da 1 pollice e la registrazione Open Gate 8K60…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107313/tomshw-offer-778068.png",
+      "publishedAt": "2026-08-13T08:03:12+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Agricoltore distrugge 200 metri di asfalto con l'aratro: «È roba mia». Arrestato",
+      "link": "https://www.hdmotori.it/agricoltore-distrugge-strada-asfalto/",
+      "excerpt": "In Polonia un agricoltore distrugge la strada nuova col trattore per una lite di vicinato. Il Comune smentisce la proprietà privata e il mezzo era senza assicurazione.",
+      "image": "https://hd2.tudocdn.net/1362668?w=660",
+      "publishedAt": "2026-08-13T08:00:58+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Xbox, Microsoft svela i gamepad dedicati a Gears of War: E-Day",
+      "link": "https://www.hdblog.it/hardware/articoli/n667098/xbox-gears-of-war-e-day-controller-limited-edition/",
+      "excerpt": "Scopriamo disponibilità e prezzi.",
+      "image": "https://hd2.tudocdn.net/1362614?w=660",
+      "publishedAt": "2026-08-13T07:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Pixel Watch 5, arrivano i suggerimenti proattivi e raddoppia RAM, archiviazione e anche la precisione del GPS",
+      "link": "https://images.dday.it/SFH9yJuUMPg6N1hi8MHUWEanqw_a-N7pQ0hYFEkhcLA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58361/0878ed_Screenshot_2026-08-13_alle_09.46.55.png",
+      "excerpt": "Sul Pixel Watch 5, grazie a Gemini Intelligence, arrivano anche i suggerimenti proattivi. L’orologio può suggerire attività conoscendo il contesto personale dell’utente... Leggi…",
+      "image": "https://images.dday.it/SFH9yJuUMPg6N1hi8MHUWEanqw_a-N7pQ0hYFEkhcLA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58361/0878ed_Screenshot_2026-08-13_alle_09.46.55.png",
+      "publishedAt": "2026-08-13T07:51:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "iPhone 18 standard dopo i Pro: da Pegatron arriva una nuova conferma",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667113/iphone-18-standard-dopo-pro/",
+      "excerpt": "Il motivo sarebbe soprattutto uno: mancano componenti.",
+      "image": "https://hd2.tudocdn.net/1359643?w=660",
+      "publishedAt": "2026-08-13T07:50:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -41,31 +194,13 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Poco F9 Pro e F9 Ultra: i primi rumor anticipano la capienza delle batterie",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667100/poco-f9-pro-ultra-batteria-velocita-ricarica-redmi/",
-      "excerpt": "Dovrebbero essere la versione global di Redmi K100 Pro e Pro Max.",
-      "image": "https://hd2.tudocdn.net/1305276?w=660",
-      "publishedAt": "2026-08-13T06:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "HONOR Robot Phone è finalmente arrivato con prezzo e data di uscita",
-      "link": "https://www.tomshw.it/smartphone/honor-robot-phone-e-finalmente-arrivato-con-prezzo-e-data-di-uscita-2026-08-13",
-      "excerpt": "Esiste un confine preciso tra uno smartphone e una macchina da presa professionale? HONOR ha deciso di rispondere a questa domanda non con un aggiornamento incrementale, ma con un…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107063/840_560.png",
-      "publishedAt": "2026-08-13T06:49:35+00:00",
+      "title": "Anthropic in Borsa a ottobre: valutazione da 2.000 miliardi",
+      "link": "https://www.tomshw.it/business/anthropic-in-borsa-a-ottobre-investitori-puntano-a-2-000-miliardi",
+      "excerpt": "Una valutazione di almeno 2.000 miliardi di dollari e una quotazione già a ottobre 2026: è lo scenario previsto da sei investitori di Anthropic, citati in forma anonima. La stima…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107286/news-flash-777814.png",
+      "publishedAt": "2026-08-13T06:55:06+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "A 4.550 metri nasce la centrale solare termica da record della Cina",
-      "link": "https://www.hdblog.it/green/articoli/n667052/cina-centrale-solare-termica-piu-alta-mondo/",
-      "excerpt": "La Cina porta il solare termico oltre i 4.500 metri con un impianto da record.",
-      "image": "https://hd2.tudocdn.net/1362496?w=660",
-      "publishedAt": "2026-08-13T06:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Jaguar, ecco gli interni della Type 01: quattro posti separati da una grande \"spina centrale\"",
@@ -77,119 +212,20 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Nelle foreste tropicali il clima cambia le regole del carbonio",
-      "link": "https://www.tomshw.it/scienze/nelle-foreste-tropicali-il-clima-cambia-le-regole-del-carbonio",
-      "excerpt": "M. H. Nunes e colleghi hanno pubblicato su Nature uno studio che mette in discussione l'idea di una regola climatica universale per le foreste tropicali. L'analisi mostra che gli…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107283/nelle-foreste-tropicali-il-clima-cambia-le-regole-del-carbonio.png",
-      "publishedAt": "2026-08-13T06:37:55+00:00",
+      "title": "Migliori smartphone con IA integrata (agosto 2026)",
+      "link": "https://www.tomshw.it/smartphone/migliori-smartphone-con-ia-integrata",
+      "excerpt": "Gli smartphone con IA non sono più una curiosità da scheda tecnica: nel 2026 sono diventati una categoria concreta, ma non tutti la interpretano nello stesso modo. Alcuni modelli…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/88370/migliori-smartphone-ia-integrata-copertina.jpg",
+      "publishedAt": "2026-08-13T06:16:11+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "La NASA prepara la prima base sulla Luna: ecco come sarà davvero",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n667058/nasa-base-luna-progetto/",
-      "excerpt": "La NASA svela come nascerà la prima base permanente sulla Luna.",
-      "image": "https://hd2.tudocdn.net/1362500?w=660",
-      "publishedAt": "2026-08-13T06:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Le feci dei primi animali potrebbero aver cambiato gli oceani",
-      "link": "https://www.tomshw.it/scienze/la-cacca-potrebbe-aver-dato-una-spinta-agli-animali-complessi",
-      "excerpt": "Julien Kimming, paleontologo del Karlsruhe Institute of Technology, e Russell Bicknell, paleobiologo della Flinders University, suggeriscono che l’evoluzione dei primi sistemi…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107220/la-cacca-potrebbe-aver-dato-una-spinta-agli-animali-complessi.png",
-      "publishedAt": "2026-08-13T06:30:18+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Un nuovo telescopio svela l’anello mancante del riciclo cosmico",
-      "link": "https://www.tomshw.it/scienze/un-nuovo-telescopio-svela-lanello-mancante-del-riciclo-cosmico",
-      "excerpt": "Un gruppo internazionale guidato da ricercatori della Chinese Academy of Sciences ha osservato con il James Webb Space Telescope un possibile ciclo di espulsione e recupero della…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107277/un-nuovo-telescopio-svela-l-anello-mancante-del-riciclo-cosmico.png",
-      "publishedAt": "2026-08-13T06:28:25+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "I Google Pixel 11 traducono anche la lingua dei segni grazie all'AI di DeepMind",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667105/google-pixel-11-lingua-segni-deepmind-ai-testo/",
-      "excerpt": "Un bel passo in avanti per l'accessibilità: come funziona.",
-      "image": "https://hd2.tudocdn.net/1360728?w=660",
-      "publishedAt": "2026-08-13T06:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Un fossile riapre la storia del parto nei mammiferi",
-      "link": "https://www.tomshw.it/scienze/un-fossile-riapre-la-storia-del-parto-nei-mammiferi",
-      "excerpt": "Un gruppo di paleontologi del CONICET argentino ha presentato la prima evidenza convincente che Chiniquodon theotonicus, un antenato dei mammiferi, potesse partorire piccoli vivi.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107250/un-fossile-riapre-la-storia-del-parto-nei-mammiferi.png",
-      "publishedAt": "2026-08-13T06:24:23+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il principio d’incertezza frattale ora vale in ogni dimensione",
-      "link": "https://www.tomshw.it/scienze/un-dottorando-ha-risolto-un-rebus-tra-frattali-e-caos-quantistico",
-      "excerpt": "Alex Cohen, all’epoca dottorando al Massachusetts Institute of Technology, ha esteso il principio d’incertezza frattale a tutte le dimensioni superiori. La dimostrazione,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107248/un-dottorando-ha-risolto-un-rebus-tra-frattali-e-caos-quantistico.png",
-      "publishedAt": "2026-08-13T06:23:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "SpaceXAI rilascia Grok 4.6: il nuovo modello punta sui task lunghi e sul coding",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n667108/spacexai-rilascia-grok-46-piu-autonomia/",
-      "excerpt": "Grok 4.6 può seguire attività composte da numerosi passaggi",
-      "image": "https://hd2.tudocdn.net/1362630?w=660",
-      "publishedAt": "2026-08-13T06:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Finto Wi-Fi su un volo Delta: così un passeggero ha messo in allarme l'equipaggio",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n667062/delta-finto-wifi-volo/",
-      "excerpt": "Una rete Wi-Fi falsa su un volo Delta riaccende l'attenzione sui rischi della sicurezza digitale.",
-      "image": "https://hd2.tudocdn.net/1362506?w=660",
-      "publishedAt": "2026-08-13T06:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Migliori dissipatori ad aria per CPU (agosto 2026)",
-      "link": "https://www.tomshw.it/hardware/dissipatori-aria-cpu-migliori",
-      "excerpt": "Scegliere il miglior dissipatore ad aria per CPU non significa soltanto abbassare qualche grado nei benchmark: vuol dire mantenere il PC stabile, silenzioso e prevedibile quando…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/88634/migliori-dissipatori-aria-cpu-copertina.jpg",
-      "publishedAt": "2026-08-13T06:09:15+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Google testa una nuova homepage: l'AI prende il posto della ricerca classica",
-      "link": "https://www.hdblog.it/google/articoli/n667060/google-homepage-ai-mode/",
-      "excerpt": "Google prova una homepage dove l'AI diventa protagonista al posto della ricerca tradizionale.",
-      "image": "https://hd2.tudocdn.net/1362503?w=660",
-      "publishedAt": "2026-08-13T06:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "JBL Quantum 100X: le cuffie Xbox diventano ancora più convenienti",
-      "link": "https://www.tomshw.it/videogioco/jbl-quantum-100x-cuffie-xbox-in-offerta-2026-08-13",
-      "excerpt": "Le JBL Quantum 100X sono cuffie gaming cablate progettate con una particolare attenzione all’ecosistema Xbox, ma abbastanza versatili da accompagnare anche altre piattaforme. Il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/05/94543/jbl-quantum-100x-a-30eur-headset-gaming-xbox-per-spendere-poco-gtnrl4g5v0235bgxW2t.png",
-      "publishedAt": "2026-08-13T05:10:45+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "GKU D600Pro: la doppia dash cam 4K con GPS ora costa meno",
-      "link": "https://www.tomshw.it/hardware/gku-d600pro-dash-cam-4k-gps-in-offerta-2026-08-13",
-      "excerpt": "La GKU D600Pro è una dash cam doppia pensata per documentare ciò che accade davanti e dietro l’auto senza complicare troppo l’installazione. In questo momento è proposta a 75,99€,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107187/gku-d600pro-dash-cam-4k-gps-in-offerta-2026-08-13-BbFn1BSuo37jbf13bbjeFH8FMj.png",
-      "publishedAt": "2026-08-13T05:08:38+00:00",
+      "title": "Apple AirPods Pro 3: l’ANC di nuova generazione è più accessibile",
+      "link": "https://www.tomshw.it/smartphone/apple-airpods-pro-3-in-offerta-2026-08-13",
+      "excerpt": "Gli Apple AirPods Pro 3 sono auricolari true wireless pensati per chi cerca cancellazione attiva del rumore, integrazione con i dispositivi Apple e funzioni dedicate anche…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107190/apple-airpods-pro-3-in-offerta-2026-08-13-Si33W05dqmhl17lbo098Uyu26v.png",
+      "publishedAt": "2026-08-13T05:17:59+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -230,47 +266,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "La dashcam che tutti vogliono in auto ora costa meno",
-      "link": "https://images.dday.it/UymOyT69hjLYPzawcOtT5AsJ0Azz5AdpDsfbXivjCok/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58355/ae5c41_71U82SIpFxL._AC_SL1500_.jpg",
-      "excerpt": "Doppia videocamera, visione notturna e GPS: tutto quello che serve per registrare ciò che accade sulla strada... Leggi tutto",
-      "image": "https://images.dday.it/UymOyT69hjLYPzawcOtT5AsJ0Azz5AdpDsfbXivjCok/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58355/ae5c41_71U82SIpFxL._AC_SL1500_.jpg",
-      "publishedAt": "2026-08-12T13:04:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Insta360 X6 ufficiale: sensori da 1.1”, Dolby Vision e un regista AI che lavora in locale",
-      "link": "https://images.dday.it/eURMhZOk7R2W83MFoYISNcAG9PENZ6_q1P-k6hm1fVE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58349/017e9d_insta.JPG",
-      "excerpt": "Insta festeggia i dieci anni dal lancio della prima camera a 360 con la nuova X6, che stiamo provando in questi giorni. Oltre ai nuovi sensori e al Dolby Vision la funzione più…",
-      "image": "https://images.dday.it/eURMhZOk7R2W83MFoYISNcAG9PENZ6_q1P-k6hm1fVE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58349/017e9d_insta.JPG",
-      "publishedAt": "2026-08-12T13:00:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Prezzi carburanti stabili, il calo del gasolio è quasi impercettibile",
-      "link": "https://images.dday.it/wIx1_q5NokjBXlrp7vip3Z8jICah59Dl-ZTnXLCU2T4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58354/a66064_fuel_thumb.jpg",
-      "excerpt": "La scorsa settimana i prezzi medi (self-service per benzina e gasolio) non hanno subito variazioni rilevanti... Leggi tutto",
-      "image": "https://images.dday.it/wIx1_q5NokjBXlrp7vip3Z8jICah59Dl-ZTnXLCU2T4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58354/a66064_fuel_thumb.jpg",
-      "publishedAt": "2026-08-12T09:48:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Abbiamo usato un’IA per nascondere un testo scritto dall’IA: Pangram ci è cascato, ma che disastro",
-      "link": "https://images.dday.it/JabmAKo2VufJte8f9WOT46OflhGRIAmwnjkRln-KQbo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58353/7f534b_small_ChatGPT_Image_12_ago_2026__10_58_56_copia.png",
-      "excerpt": "Abbiamo provato un sistema per rendere \"umani\" i testi generati dall’IA. Pangram è stato ingannato completamente, ma il testo ha pagato un caro prezzo... Leggi tutto",
-      "image": "https://images.dday.it/JabmAKo2VufJte8f9WOT46OflhGRIAmwnjkRln-KQbo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58353/7f534b_small_ChatGPT_Image_12_ago_2026__10_58_56_copia.png",
-      "publishedAt": "2026-08-12T09:02:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Performance marketing 2026, come bilanciare conversioni e brand con l'AI",
-      "link": "https://www.tomshw.it/aioperator/performance-marketing-2026-come-bilanciare-conversioni-e-brand-con-lai",
-      "excerpt": "Il cruscotto di Google Ads o Meta Ads assegna quasi ogni conversione all'ultimo annuncio visto prima dell'acquisto, di solito una ricerca sul nome del marchio o un retargeting.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106336/01-mkt04-cover.jpg",
-      "publishedAt": "2026-08-07T13:21:17+00:00",
+      "title": "Recensione Scuf Valor TMR Wired: prestazioni al top a meno di 100 euro",
+      "link": "https://www.tomshw.it/videogioco/scuf-valor-pro-smoke-tmr-cablato-la-recensione",
+      "excerpt": "Il mercato dei controller di fascia alta ha trovato nel 2026 un nuovo terreno di battaglia, e non riguarda più soltanto paddle posteriori e trigger regolabili, ma anche la…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106595/Scuf-Valor-Wired-1.jpg",
+      "publishedAt": "2026-08-11T13:13:43+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
