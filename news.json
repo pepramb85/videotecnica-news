@@ -1,107 +1,179 @@
 {
-  "generatedAt": "2026-08-13T14:50:35.053010+00:00",
+  "generatedAt": "2026-08-13T16:47:24.924132+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Twitch usa di default i contenuti degli streamer per addestrare l'AI di Amazon",
-      "link": "https://www.hdblog.it/amazon/articoli/n667163/twitch-contenuti-streamer-addestramento-amazon-ai/",
-      "excerpt": "E la community non l'ha presa bene.",
-      "image": "https://hd2.tudocdn.net/1163976?w=660",
-      "publishedAt": "2026-08-13T14:45:00+00:00",
+      "title": "Il caldo fa volare i consumi elettrici: luglio da record in Italia",
+      "link": "https://www.hdblog.it/green/articoli/n667203/consumo-elettrico-luglio-2026-record/",
+      "excerpt": "A luglio la domanda di energia elettrica in Italia ha raggiunto il record mensile di 32,5 TWh, con una crescita dell’8,3% sul 2025 spinta soprattutto dalle temperature eccezionali",
+      "image": "https://hd2.tudocdn.net/1341290?w=660",
+      "publishedAt": "2026-08-13T16:45:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Ho provato la nuova Creative Deck di Ulanzi: D200X e D100H | VIDEO",
-      "link": "https://www.hdblog.it/tecnologia/recensioni/n666067/ulanzi/",
-      "excerpt": "Queste 2 periferiche sono pensate per aiutare durante l'editing di foto e video. Le abbiamo testate per diversi giorni.",
-      "image": "https://hd2.tudocdn.net/1360240?w=660",
-      "publishedAt": "2026-08-13T14:31:00+00:00",
+      "title": "ESPHome, ufficiale il primo kit per la domotica fai da te (adatto ai principianti)",
+      "link": "https://www.hdblog.it/domotica/articoli/n667165/esphome-kit-domotica-fai-da-te-principianti/",
+      "excerpt": "Ecco cosa contiene",
+      "image": "https://hd2.tudocdn.net/1362771?w=660",
+      "publishedAt": "2026-08-13T16:35:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Compost Genie lancia un nuovo contenitore per gli scarti in cucina",
-      "link": "https://www.hdblog.it/home/articoli/n667174/contenitore-umido-piccolo-compost-genie/",
-      "excerpt": "Compost Genie presenta Countertop Bin, un contenitore da 4,92 litri progettato per raccogliere temporaneamente bucce, fondi di caffè e altri scarti alimentari direttamente sul…",
-      "image": "https://hd2.tudocdn.net/1362748?w=660",
-      "publishedAt": "2026-08-13T14:15:00+00:00",
+      "title": "Volkswagen punta alla Cina, sbuca il nuovo SUV ID. Era 5X",
+      "link": "https://www.hdmotori.it/volkswagen-nuovo-suv-id-era-5x-cina/",
+      "excerpt": "Il Gruppo Volkswagen ha un estremo bisogno di tornare competitivo in Cina. In una fase delicata ha svelato la ID. Era 5X",
+      "image": "https://hd2.tudocdn.net/1362814?w=660",
+      "publishedAt": "2026-08-13T16:30:03+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Darksiders 4 esiste ancora: previsto tra aprile 2027 e marzo 2028",
-      "link": "https://www.tomshw.it/videogioco/darksiders-4-uscita-prevista-tra-aprile-2027-e-marzo-2028",
-      "excerpt": "Darksiders 4 è previsto tra aprile 2027 e marzo 2028. La collocazione emerge dalla roadmap di Embracer Group, che nel report relativo al primo trimestre dell’anno fiscale 2026/27…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107461/darksiders4.jpg",
-      "publishedAt": "2026-08-13T14:12:14+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Soundcore P31i al 59%, ANC adattivo e fino a 50 ore a soli 28,49€",
-      "link": "https://www.tomshw.it/offerte/soundcore-p31i-al-59-anc-adattivo-e-fino-a-50-ore-a-soli-2849eur",
-      "excerpt": "Le Soundcore P31i di Anker costano 28,49€ su Amazon, contro un listino di 69,99€: lo sconto dichiarato è del 59% e il risparmio arriva a 41,50€. Cancellazione adattiva, codec LDAC…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107456/tomshw-offer-779300.png",
-      "publishedAt": "2026-08-13T14:05:28+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Missione NASA Dragonfly: test superati, si passa all'integrazione",
-      "link": "https://www.tomshw.it/scienze/nasa-dragonfly-test-strutturali-conclusi-parte-l-integrazione-al-jhu-apl",
-      "excerpt": "La fusoliera di volo di Dragonfly, la missione della NASA destinata a Titano, ha superato le principali prove strutturali ed è entrata il 1° luglio 2026 nella fase di integrazione…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107455/missione-nasa-dragonfly-test-superati-si-passa-all-integrazione.png",
-      "publishedAt": "2026-08-13T14:02:43+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Nuovo record di velocità, un'auto a idrogeno vola a quasi 654 km/h | Video",
-      "link": "https://www.hdmotori.it/nuovo-record-velocita-auto-idrogeno-654-km-h/",
-      "excerpt": "Nuovo primato di velocità per un'auto a idrogeno. Andy Green ha sfiorato i 654 chilometri orari nel deserto dello Utah",
-      "image": "https://hd2.tudocdn.net/1362747?w=660",
-      "publishedAt": "2026-08-13T14:00:37+00:00",
+      "title": "La missione impossibile continua: NASA non rinuncia a salvare Swift",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n667057/nasa-swift-missione-recupero-link/",
+      "excerpt": "La missione per salvare il telescopio Swift continua dopo il recupero del veicolo LINK.",
+      "image": "https://hd2.tudocdn.net/1353235?w=660",
+      "publishedAt": "2026-08-13T16:25:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Banca Pokémon chiude nel 2027: ecco come salvarli tutti",
-      "link": "https://www.tomshw.it/videogioco/pokemon-bank-chiude-il-26-febbraio-2027-spostateli-su-pokemon-home",
-      "excerpt": "Il 26 febbraio 2027 alle 12:00 terminerà il servizio di Banca Pokémon, con la contestuale interruzione dei trasferimenti verso Pokémon HOME. Nintendo e The Pokémon Company...",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107449/pokemon-bank.jpg",
-      "publishedAt": "2026-08-13T13:47:36+00:00",
+      "title": "Beast of Reincarnation: scuse ufficiali e nuove patch",
+      "link": "https://www.tomshw.it/videogioco/beast-of-reincarnation-il-director-si-scusa-e-promette-altre-patch",
+      "excerpt": "Kota Furushima ha ammesso che Beast of Reincarnation non ha soddisfatto pienamente le aspettative al lancio. In un'intervista concessa a 4Gamer, il director si è scusato per le…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105839/Beasts-of-Reincarnation-1.jpg",
+      "publishedAt": "2026-08-13T16:17:07+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Monitor Philips QD-OLED da 240 Hz a 389€, eccellente per gli FPS competitivi",
-      "link": "https://www.tomshw.it/offerte/monitor-philips-qd-oled-da-240-hz-a-389eur-eccellente-per-gli-fps-competitivi",
-      "excerpt": "Il monitor Philips QD-OLED da 26,5 pollici è a 389€ su Amazon, segnando il minimo storico: il listino è di 399€ e lo sconto è del 3%. Il pannello QHD da 240 Hz e il tempo di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107439/tomshw-offer-779190.png",
-      "publishedAt": "2026-08-13T13:34:30+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "NVIDIA GeForce NOW Linux: l'app nativa esce dalla beta",
-      "link": "https://www.tomshw.it/hardware/nvidia-geforce-now-l-app-linux-esce-dalla-beta-con-flatpak",
-      "excerpt": "L’app nativa di GeForce NOW per Linux è uscita dalla beta e passa alla distribuzione stabile, mantenendo il supporto per Ubuntu 24.04 e versioni successive. NVIDIA l’aveva…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107436/geforcenow-linux.jpg",
-      "publishedAt": "2026-08-13T13:26:17+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Sui Pixel 11 l'antenna NFC cambia posto per pagamenti più semplici e Tap to Share",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667159/google-pixel-antenna-nfc-posizione-alto-pagamenti/",
-      "excerpt": "Una modifica che c'è, si sente ma non si vede.",
-      "image": "https://hd2.tudocdn.net/1362522?w=660",
-      "publishedAt": "2026-08-13T13:25:00+00:00",
+      "title": "Xiaomi lancia un nuovo massaggiatore economico da un mese di autonomia",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n667198/xiaomi-pistola-massaggiante-economica/",
+      "excerpt": "Xiaomi presenta Mijia Multi-Head Massage Gun 3, una pistola massaggiante con tre testine multipunto, motore brushless, fino a 25 kg di spinta e 310 minuti di autonomia",
+      "image": "https://hd2.tudocdn.net/1362801?w=660",
+      "publishedAt": "2026-08-13T16:15:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Un materiale potrebbe sbloccare i moduli solari in perovskite",
+      "link": "https://www.tomshw.it/scienze/un-materiale-potrebbe-sbloccare-i-moduli-solari-in-perovskite",
+      "excerpt": "Un gruppo guidato dalla Università di Nanchino, insieme a partner accademici e industriali, ha realizzato moduli fotovoltaici di grandi dimensioni trattando la superficie della…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107497/un-materiale-potrebbe-sbloccare-i-moduli-solari-in-perovskite.jpg",
+      "publishedAt": "2026-08-13T16:14:39+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Dati sintetici per addestrare modelli proprietari senza violare la privacy",
+      "link": "https://www.tomshw.it/aioperator/dati-sintetici-per-addestrare-modelli-proprietari-senza-violare-la-privacy",
+      "excerpt": "Un responsabile IT propone di addestrare un modello proprietario sui dati clienti dell'azienda. Il reparto legale blocca il progetto alla prima occhiata, perché quella tabella…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107502/04-ai13-cover.jpg",
+      "publishedAt": "2026-08-13T16:14:21+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Tesla integrerà Starlink nelle future auto: vantaggi e sfide della novità",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n667061/tesla-starlink-auto-2027/",
+      "excerpt": "Tesla punta su Starlink per offrire connettività satellitare integrata su tutte le future auto.",
+      "image": "https://hd2.tudocdn.net/1362504?w=660",
+      "publishedAt": "2026-08-13T16:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Corsair iCUE Link H115i RGB da 79,09€ a 59,99€, un affare per la CPU",
+      "link": "https://www.tomshw.it/offerte/corsair-icue-link-h115i-rgb-da-7909eur-a-5999eur-un-affare-per-la-cpu",
+      "excerpt": "Corsair iCUE Link H115i RGB costa 59,99€ su Amazon, dai 79,09€ di listino con uno sconto del 24%. È il minimo storico per questo dissipatore a liquido da 280 mm, completo di due…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107485/tomshw-offer-781314.png",
+      "publishedAt": "2026-08-13T16:03:49+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "AION UT, la compatta cinese disegnata a Milano: ecco cosa sappiamo",
+      "link": "https://www.hdmotori.it/aion-ut-la-compatta-cinese-disegnata-a-milano-ecco-cosa-sappiamo/",
+      "excerpt": "Dalla Cina sta per sbarcare in Europa una moderna utilitaria 100% elettrica con una linea piacevole e un strategia d’attacco",
+      "image": "https://hd2.tudocdn.net/1362809?w=660",
+      "publishedAt": "2026-08-13T16:00:24+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "X-BAT: il jet autonomo che non ha più bisogno delle piste",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n667049/shield-ai-x-bat/",
+      "excerpt": "X-BAT unisce IA e decollo verticale per operare anche senza aeroporti.",
+      "image": "https://hd2.tudocdn.net/1362493?w=660",
+      "publishedAt": "2026-08-13T15:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Un incendio scuote la corsa italiana al telescopio Einstein",
+      "link": "https://www.tomshw.it/scienze/un-incendio-scuote-la-corsa-italiana-al-telescopio-einstein",
+      "excerpt": "Due geofisici dell'Istituto Nazionale di Geofisica e Vulcanologia, Carlo Giunchi e Spina Cianetti, hanno visto incendiate le proprie automobili a Lula, in Sardegna, dove lavorano…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107479/un-incendio-scuote-la-corsa-italiana-al-telescopio-einstein.jpg",
+      "publishedAt": "2026-08-13T15:50:26+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Forza Horizon 6: dove trovare il tesoro da 100.000 crediti",
+      "link": "https://www.tomshw.it/videogioco/forza-horizon-6-dove-trovare-il-tesoro-da-100-000-crediti",
+      "excerpt": "Il tesoro di Shimanoyama si nasconde dentro lo Shimanoyama Circuit, ma per raggiungerlo è fondamentale affrontare la sfida nel modo corretto. La Caccia al tesoro settimanale di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107478/ar5vr3.jpg",
+      "publishedAt": "2026-08-13T15:47:26+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Phantom Blade Zero: serve una RTX 5080 per path tracing 4K a 60 fps",
+      "link": "https://www.tomshw.it/videogioco/phantom-blade-zero-nvidia-geforce-rtx-5080-per-path-tracing-4k-a",
+      "excerpt": "Una GeForce RTX 5080 da 16 GB è il requisito indicato per giocare a Phantom Blade Zero in 4K e a 60 fps con path tracing completo. È il vertice delle configurazioni PC ufficiali…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/89568/phantom-blade-zero-rhg5g65vl8sbo2C6IhiF.webp",
+      "publishedAt": "2026-08-13T15:42:12+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Plato5X promette data center AI grandi come un armadio",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n667048/plato5x-data-center-ai/",
+      "excerpt": "Plato5X concentra la potenza di un data center AI in moduli compatti e scalabili.",
+      "image": "https://hd2.tudocdn.net/1362492?w=660",
+      "publishedAt": "2026-08-13T15:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nintendo Switch 2 Pro Controller Resident Evil Requiem a 71,99€, minimo storico",
+      "link": "https://www.tomshw.it/offerte/nintendo-switch-2-pro-controller-resident-evil-requiem-a-7199eur-minimo-storico",
+      "excerpt": "Nintendo Switch 2 Pro Controller a 71,99€ su Amazon, nell’edizione speciale Resident Evil Requiem, passa dai 99,99€ di listino con uno sconto del 28%. È il minimo storico per un…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107477/tomshw-offer-781219.png",
+      "publishedAt": "2026-08-13T15:34:28+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Singer e Louis Vuitton: due Porsche 911 diventano capolavori artigianali",
+      "link": "https://www.hdmotori.it/porsche-911-singer-louis-vuitton/",
+      "excerpt": "Il concetto stilistico dell’Art of Travel di Louis Vuitton si unisce al mondo di Singer per la creazione di due unità speciali di Porsche 911 Type 964",
+      "image": "https://hd2.tudocdn.net/1362805?w=660",
+      "publishedAt": "2026-08-13T15:30:48+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Voyah come Schumacher sulla Mercedes: Passion S completa un giro a 360° dentro un tunnel",
+      "link": "https://images.dday.it/kvslVL44gj0wxS8TgkOiMuQ9cGwO7WUyiB-THm31aIo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58370/42c3c3_voyah_thumb.jpg",
+      "excerpt": "Il marchio premium di Dongfeng sostiene di aver realizzato la manovra con un esemplare di serie, senza modifiche speciali. Per riuscirci, il SUV elettrico è entrato nel tunnel a…",
+      "image": "https://images.dday.it/kvslVL44gj0wxS8TgkOiMuQ9cGwO7WUyiB-THm31aIo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58370/42c3c3_voyah_thumb.jpg",
+      "publishedAt": "2026-08-13T14:50:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Se vuoi una friggitrice ad aria, questa Hisense è un vero affare",
@@ -122,69 +194,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Video musicali offline su Spotify? Novità in arrivo per gli utenti premium",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n667144/video-musicali-offline-spotify-premium/",
-      "excerpt": "Spotify starebbe preparando una funzione che permetterà agli utenti Premium di scaricare e guardare video musicali offline.",
-      "image": "https://hd2.tudocdn.net/1362732?w=660",
-      "publishedAt": "2026-08-13T13:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Un software cerca nei dati NASA dove potremmo abitare sulla Luna",
-      "link": "https://www.tomshw.it/scienze/un-software-cerca-nei-dati-nasa-dove-potremmo-abitare-sulla-luna",
-      "excerpt": "La NASA ha raccolto per decenni immagini e misure della Luna, creando un archivio utile anche alle imprese che preparano missioni commerciali. Lunar Station Corp., azienda di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107434/un-software-cerca-nei-dati-nasa-dove-potremmo-abitare-sulla-luna.png",
-      "publishedAt": "2026-08-13T13:12:46+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "ShieldFont inganna gli scraper AI alterando il testo nell’HTML",
-      "link": "https://www.tomshw.it/hardware/shieldfont-inganna-gli-scraper-ai-il-testo-resta-leggibile",
-      "excerpt": "I designer Isaque Seneda e Gabriel Abrucio hanno descritto di recente ShieldFont, un carattere progettato per ostacolare la raccolta non autorizzata di contenuti destinati…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107431/shieldfont-inganna-gli-scraper-ai-il-testo-resta-leggibile.png",
-      "publishedAt": "2026-08-13T13:11:56+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Auto a fine vita, cambiano le regole UE: cosa succede dal 2026 al 2036",
-      "link": "https://www.hdmotori.it/auto-fine-vita-regole-ue/",
-      "excerpt": "Nuove regole UE sulle auto a fine vita: più riciclo, passaporto digitale e stretta sulle esportazioni. Ecco cosa cambia e quando",
-      "image": "https://hd2.tudocdn.net/1362728?w=660",
-      "publishedAt": "2026-08-13T13:00:59+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung sarà a Gamescom 2026 con i suoi prodotti per il gaming",
-      "link": "https://www.hdblog.it/samsung/articoli/n667150/samsung-gamescom-2026-odyssey-g8-playgalaxy-cup/",
-      "excerpt": "#PlaySamsung.",
-      "image": "https://hd2.tudocdn.net/1362708?w=660",
-      "publishedAt": "2026-08-13T12:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Copie e diritto d'uscita dal cloud: la lezione per le PMI italiane dopo un fallimento",
-      "link": "https://www.tomshw.it/business/copie-e-diritto-duscita-dal-cloud-la-lezione-per-le-pmi-italiane-dopo-un-fallimento",
-      "excerpt": "L’emittente pubblica statunitense Nine PBS non riesce più ad accedere a oltre 50 TB di dati che comprendono circa settant’anni di programmi e materiali d’archivio, dopo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107410/copie-e-diritto-duscita-dal-cloud-la-lezione-per-le-pmi-italiane-dopo-un-fallimento.png",
-      "publishedAt": "2026-08-13T12:47:40+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Meta dona 15mila Ray-Ban Meta a persone non vedenti e ipovedenti",
-      "link": "https://www.hdblog.it/indossabili/articoli/n667155/meta-regala-rayban-non-vedenti/",
-      "excerpt": "I Ray-Ban Meta possono leggere testi, riconoscere oggetti e descrivere elementi dell’ambiente attraverso fotocamera, comandi vocali e Meta AI: 15mila paia saranno distribuite…",
-      "image": "https://hd2.tudocdn.net/1253367?w=660",
-      "publishedAt": "2026-08-13T12:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Un ricercatore in guerra con Microsoft sta rendendo pubbliche le vulnerabilità zero-day di Windows",
       "link": "https://images.dday.it/W7yTeW7dREqSn6hWdP0qhykj9UI84I7lAG916y0cY78/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58367/9efb5d_ec.jpg",
       "excerpt": "C'è poco da fare, se non correre ai ripari e preparare le patch: quelle che il ricercatore di sicurezza che si fa chiamare Nightmare Eclipse pubblica sono falle gravi che…",
@@ -192,15 +201,6 @@
       "publishedAt": "2026-08-13T12:26:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Identità rubate e AI: così la Corea del Nord infiltra lavoratori nelle aziende americane",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n667153/identita-rubate-ai-corea-nord-infiltra-lavoratori/",
-      "excerpt": "È quanto emerge da un'inchiesta del Wall Street Journal",
-      "image": "https://hd2.tudocdn.net/1362722?w=660",
-      "publishedAt": "2026-08-13T12:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "I video degli streamer su Twitch saranno usati per addestrare l’IA di Amazon. E l’opzione è attiva di default",
@@ -221,10 +221,19 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Il vibe coding ormai è un mercato vero, Lovable vale miliardi",
-      "link": "https://www.tomshw.it/business/il-vibe-coding-ormai-e-un-mercato-vero-lovable-vale-miliardi",
-      "excerpt": "Lovable ha chiuso un nuovo round Series C da 400 milioni di dollari, portando la valutazione a 13,3 miliardi: il raddoppio rispetto ai 6,6 miliardi di dicembre 2025 è arrivato in…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107358/12-lovable-valutazione-13-miliardi-cover.jpg",
+      "title": "Usi Cloudflare per Durable Objects? Da domani potrai farne a meno (forse)",
+      "link": "https://www.tomshw.it/business/usi-cloudflare-per-durable-objects-da-domani-potrai-farne-a-meno-forse",
+      "excerpt": "Ryan Dahl, il creatore di Node.js e di Deno, ha pubblicato un runtime open source che replica due dei prodotti più venduti di Cloudflare: Workers e Durable Objects. Il progetto si…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107363/07-celld-durable-objects-cloudflare-cover.jpg",
+      "publishedAt": "2026-08-13T09:55:03+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Gli agenti AI usano meno della metà dei dati aziendali",
+      "link": "https://www.tomshw.it/business/gli-agenti-ai-usano-meno-della-meta-dei-dati-aziendali",
+      "excerpt": "Le aziende che affidano decisioni operative agli agenti AI lasciano fuori dalla loro portata la maggior parte dei dati che possiedono. Trecento dirigenti IT interpellati per…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107360/01-agenti-ai-dati-fidati-cover.jpg",
       "publishedAt": "2026-08-13T09:55:03+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
@@ -262,15 +271,6 @@
       "excerpt": "Presentato al Computex, lo Snapdragon C era rimasto coperto da segreto fino a ieri, quando Qualcomm ne ha rilasciato le specifiche: è un vecchio chip per smartphone adattato per i…",
       "image": "https://images.dday.it/Sf-6ZTLP5feSGQxw1RLBLalLFRYqai7oDPHW5sa8nik/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58362/f988a3_cnpc.jpg",
       "publishedAt": "2026-08-13T08:14:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Pixel Watch 5, arrivano i suggerimenti proattivi e raddoppia RAM, archiviazione e anche la precisione del GPS",
-      "link": "https://images.dday.it/SFH9yJuUMPg6N1hi8MHUWEanqw_a-N7pQ0hYFEkhcLA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58361/0878ed_Screenshot_2026-08-13_alle_09.46.55.png",
-      "excerpt": "Sul Pixel Watch 5, grazie a Gemini Intelligence, arrivano anche i suggerimenti proattivi. L’orologio può suggerire attività conoscendo il contesto personale dell’utente... Leggi…",
-      "image": "https://images.dday.it/SFH9yJuUMPg6N1hi8MHUWEanqw_a-N7pQ0hYFEkhcLA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58361/0878ed_Screenshot_2026-08-13_alle_09.46.55.png",
-      "publishedAt": "2026-08-13T07:51:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
