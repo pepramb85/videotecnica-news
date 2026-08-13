@@ -1,62 +1,197 @@
 {
-  "generatedAt": "2026-08-13T09:04:38.802116+00:00",
+  "generatedAt": "2026-08-13T10:54:56.619511+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Twitch: così Amazon addestra in automatico la sua AI",
-      "link": "https://www.tomshw.it/hardware/twitch-stream-e-chat-possono-addestrare-l-ia-di-amazon-di-default",
-      "excerpt": "Dirette, chat associate agli stream, VOD, clip, highlights, testi e immagini dei canali possono essere utilizzati per addestrare i modelli di IA generativa di Amazon. Twitch ha…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107332/news-flash-778223.png",
-      "publishedAt": "2026-08-13T09:04:05+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Pixel 11 Pro è il più fragile di tutti: non supera 180 cadute",
-      "link": "https://www.tomshw.it/smartphone/google-pixel-11-pro-solo-180-cadute-gli-altri-arrivano-a-270",
-      "excerpt": "Il Google Pixel 11 Pro ha superato 180 cadute senza difetti nei test dichiarati per il registro europeo EPREL, fermandosi alla classe B di resistenza. Pixel 11 e Pixel 11 Pro XL…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105803/l-intro-1785928808.jpg",
-      "publishedAt": "2026-08-13T08:59:49+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "L'IA può creare un exploit per soli 3,61 dollari: lo dice Microsoft",
-      "link": "https://www.tomshw.it/hardware/microsoft-l-ai-genera-un-exploit-in-21-minuti-per-3-61",
-      "excerpt": "Ventuno minuti e una spesa stimata di 3,61 dollari sono bastati per completare un caso dimostrativo di generazione di exploit. David Weston, dirigente della sicurezza di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107324/news-flash-778151.png",
-      "publishedAt": "2026-08-13T08:57:45+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Snapdragon C, il nuovo chip Qualcomm rivoluziona i laptop economici",
-      "link": "https://www.tomshw.it/hardware/qualcomm-snapdragon-c-8-core-per-portatili-da-300-dollari",
-      "excerpt": "Otto core Kryo, grafica Adreno e produzione a 6 nm sono la base dello Snapdragon C, il processore con cui Qualcomm punta ai notebook Windows entry-level con prezzi indicativi da…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107317/social_f988a3_cnpc.jpg",
-      "publishedAt": "2026-08-13T08:55:56+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Duskfade: 5 consigli per iniziare con il piede giusto",
-      "link": "https://www.tomshw.it/videogioco/duskfade-i-consigli-per-iniziare-bene",
-      "excerpt": "Duskfade è disponibile da oggi, 13 agosto 2026, su PC, PlayStation 5, Xbox Series X|S e Nintendo Switch 2. Sviluppato da Weird Beluga Studio e pubblicato da Fireshine Games,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107315/ar3fkx.jpg",
-      "publishedAt": "2026-08-13T08:52:41+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Revolut prepara la sua prima lounge: sarà molto grande e apre nel 2027",
-      "link": "https://www.hdblog.it/fintech/articoli/n667124/revolut-lounge-aeroporti-prima-apertura-dove/",
-      "excerpt": "Revolut vuole rafforzare la propria presenza fisica e punta sul settore dei viaggi: nel 2027 aprirà a Copenaghen la prima lounge aeroportuale, destinata a diventare un modello per…",
-      "image": "https://hd2.tudocdn.net/1362670?w=660",
-      "publishedAt": "2026-08-13T08:50:00+00:00",
+      "title": "Fusione nucleare: il MIT svela il vero ostacolo, e non è la fisica",
+      "link": "https://www.hdblog.it/green/articoli/n667055/mit-fusione-nucleare-qecon/",
+      "excerpt": "Il MIT propone un metodo per capire quando la fusione può diventare davvero conveniente.",
+      "image": "https://hd2.tudocdn.net/1362498?w=660",
+      "publishedAt": "2026-08-13T10:50:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "iPhone 18, possibile salto a 12GB di RAM: ma le indiscrezioni non concordano",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667142/iphone-18-possibile-salto-12gb-ram/",
+      "excerpt": "Con 12GB di RAM, iPhone 18 raggiungerebbe la stessa quantità di memoria oggi prevista sui modelli Pro della generazione precedente",
+      "image": "https://hd2.tudocdn.net/1362698?w=660",
+      "publishedAt": "2026-08-13T10:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Siri AI: Apple pronta a pagare gli editori di notizie",
+      "link": "https://www.tomshw.it/smartphone/apple-siri-ai-pagherebbe-gli-editori-per-le-notizie-usate",
+      "excerpt": "Apple starebbe valutando un budget complessivo nell’ordine delle centinaia di milioni di dollari per consentire a Siri AI di utilizzare contenuti giornalistici aggiornati.…",
+      "image": "https://cdn.tomshw.it/storage/media/2025/03/51390/Siri.png",
+      "publishedAt": "2026-08-13T10:37:05+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Dopo l'offerta da 2,5 miliardi per Ducati, Patritalia vuole anche MV Agusta",
+      "link": "https://www.hdmotori.it/patritalia-offerta-ducati-mv-agusta/",
+      "excerpt": "Patritalia punta a Ducati con un'offerta da 2,5 miliardi ma nel mirino c'è anche MV Agusta. Nel piano? Organico solo italiano, fornitura per la Moto2 e modelli stradali…",
+      "image": "https://hd2.tudocdn.net/1362697?w=660",
+      "publishedAt": "2026-08-13T10:30:07+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple vuole pagare gli editori per migliorare Siri AI con notizie e contenuti",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667138/apple-pagare-editori-siri-contenuti/",
+      "excerpt": "I contatti sarebbero iniziati nei mesi scorsi e Apple avrebbe proposto accordi pluriennali.",
+      "image": "https://hd2.tudocdn.net/1362694?w=660",
+      "publishedAt": "2026-08-13T10:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung prepara la tecnologia per i chip a 1 nm: debutto atteso nel 2030",
+      "link": "https://www.hdblog.it/hardware/articoli/n667139/samsung-produzione-chip-avanzati-1-nm/",
+      "excerpt": "Dopo il processo SF1.4 a 1,4 nm previsto nel 2029, Samsung guarda alla generazione da 1 nm e alla litografia High-NA EUV, che dovrebbe iniziare ad affiancare gli attuali sistemi…",
+      "image": "https://hd2.tudocdn.net/1337346?w=660",
+      "publishedAt": "2026-08-13T10:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "I video degli streamer su Twitch saranno usati per addestrare l’IA di Amazon. E l’opzione è attiva di default",
+      "link": "https://images.dday.it/FbBtmllvxJtc0i3uE1U_RVCoOs_g6fqa2orotmzevTY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58365/2356f3_Depositphotos_368454066_XL.jpg",
+      "excerpt": "La piattaforma consentirà ad Amazon di usare video e audio pubblicati dai creator per l'addestramento dei modelli generativi. Gli utenti possono disattivare la funzione, ma devono…",
+      "image": "https://images.dday.it/FbBtmllvxJtc0i3uE1U_RVCoOs_g6fqa2orotmzevTY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58365/2356f3_Depositphotos_368454066_XL.jpg",
+      "publishedAt": "2026-08-13T10:09:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Garmin fēnix 8 Pro al minimo storico, LTE e satellite per uscire senza telefono",
+      "link": "https://www.tomshw.it/offerte/garmin-fenix-8-pro-al-minimo-storico-lte-e-satellite-per-uscire-senza-telefono",
+      "excerpt": "Garmin fēnix 8 Pro 47 mm costa 946,62€ su Amazon, il minimo storico, contro 1.010,59€ di listino e con uno sconto del 6%. Chiamate LTE, messaggi e tecnologia satellitare inReach…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107373/tomshw-offer-778471.png",
+      "publishedAt": "2026-08-13T10:03:24+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Claude Cowork ora può lavorare direttamente nell’estensione per Chrome",
+      "link": "https://images.dday.it/0pYqgMdBKEoSiax-RiWq-bfbgii_VVqE1Z1zKtwYFkQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58366/3167c2_small_ccd_copia.jpg",
+      "excerpt": "Il pannello laterale mantiene cronologia e connettori sincronizzati tra browser, desktop e telefono, in modo da poter continuare il lavoro su altri dispositivi... Leggi tutto",
+      "image": "https://images.dday.it/0pYqgMdBKEoSiax-RiWq-bfbgii_VVqE1Z1zKtwYFkQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58366/3167c2_small_ccd_copia.jpg",
+      "publishedAt": "2026-08-13T10:02:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Strofinare un limone sul parabrezza: tutti i rischi del \"rimedio\" contro gli insetti",
+      "link": "https://www.hdmotori.it/strofinare-limone-parabrezza-rischi/",
+      "excerpt": "Vedere chiaro alla guida è fondamentale per la sicurezza, ma il rimedio fai-da-te del limone sul parabrezza può essere rischioso. Facciamo chiarezza.",
+      "image": "https://hd2.tudocdn.net/1362693?w=660",
+      "publishedAt": "2026-08-13T10:00:02+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "PRECOGNITION: il nuovo horror di Sam Barlow nel 2028",
+      "link": "https://www.tomshw.it/videogioco/precognition-l-horror-di-sam-barlow-arrivera-in-primavera-2028",
+      "excerpt": "Un impianto cerebrale sperimentale permette a Diana di vedere frammenti del futuro, ma ogni intervento sulla catena degli eventi può produrre nuove conseguenze. È la premessa di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107370/Precognition-Sam-Barlow-jpg.webp",
+      "publishedAt": "2026-08-13T09:56:06+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Nvidia risponde ai costi dell'AI aziendale con ... un router?",
+      "link": "https://www.tomshw.it/business/nvidia-risponde-ai-costi-dellai-aziendale-con-un-router",
+      "excerpt": "NVIDIA vende calcolo, e la sua ultima risposta ai costi dell'AI aziendale ne vende meno, instradato meglio. NeMo Switchyard è un router software che decide da solo, richiesta per…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107354/02-nvidia-nemo-switchyard-router-cover.jpg",
+      "publishedAt": "2026-08-13T09:50:03+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Gemini è in ritardo sui rivali, Sergey Brin preme per recuperare il gap",
+      "link": "https://www.hdblog.it/google/articoli/n667133/google-gemini-in-ritardo-pressioni-brin/",
+      "excerpt": "Il cofondatore Sergey Brin spinge Google a muoversi più rapidamente sull’intelligenza artificiale. Intanto DeepMind cambia organizzazione e aumentano gli investimenti nelle…",
+      "image": "https://hd2.tudocdn.net/1261275?w=660",
+      "publishedAt": "2026-08-13T09:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google Quick Share: avvicini 2 Pixel e scambi foto e contatti",
+      "link": "https://www.tomshw.it/smartphone/google-quick-share-avvicini-2-pixel-e-scambi-foto-e-contatti",
+      "excerpt": "Avvicinare la parte superiore di due smartphone Android sbloccati è sufficiente per iniziare uno scambio con Tap to share, la nuova modalità di Google Quick Share. Il rollout è…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107346/pixel11share.png",
+      "publishedAt": "2026-08-13T09:44:02+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Lenovo ThinkCentre M80q con due monitor a 559,20€, il minimo di sempre",
+      "link": "https://www.tomshw.it/offerte/lenovo-thinkcentre-m80q-con-due-monitor-a-55920eur-il-minimo-di-sempre",
+      "excerpt": "Il bundle Lenovo ThinkCentre M80q con due monitor da 27 pollici costa 559,20€ su Amazon, anziché 699€, con uno sconto del 20%. Riunisce in un solo acquisto la base di una…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107345/tomshw-offer-778361.png",
+      "publishedAt": "2026-08-13T09:33:46+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Ecco la prima SSD da mezzo petabyte (che non puoi avere)",
+      "link": "https://www.tomshw.it/hardware/dapustor-r6060-da-512-tb-ssd-e2-in-sviluppo-per-data-center",
+      "excerpt": "Mezzo petabyte di memoria flash concentrato in una singola unità: DapuStor ha mostrato al Future of Memory and Storage 2026 una variante da 512 TB del suo SSD enterprise R6060. Il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107344/ChatGPT-Image-13-ago-2026,-11_32_35.png",
+      "publishedAt": "2026-08-13T09:32:56+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Honor Magic 9 series, c'è la data ufficiale: appuntamento al 28 settembre",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667115/honor-magic-9-presentazione-settembre-data/",
+      "excerpt": "Arriva la data ufficiale dell'evento di settembre",
+      "image": "https://hd2.tudocdn.net/1314862?w=660",
+      "publishedAt": "2026-08-13T09:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Klarna, le nuove membership: fino all’1,5% di cashback e lounge gratis",
+      "link": "https://www.hdblog.it/pagamenti/articoli/n667129/klarna-nuove-membership-prezzi-vantaggi/",
+      "excerpt": "Klarna amplia la propria offerta a pagamento con quattro membership: si parte da 4,99 euro al mese e si arriva a 44,99 euro con cashback, assicurazioni, eSIM e accesso alle lounge",
+      "image": "https://hd2.tudocdn.net/1362680?w=660",
+      "publishedAt": "2026-08-13T09:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "ShieldBreak: ecco il malware che aggira Defender e diventa SYSTEM",
+      "link": "https://www.tomshw.it/hardware/microsoft-defender-shieldbreak-aggira-la-patch-e-diventa-system",
+      "excerpt": "Un processo con permessi limitati può arrivare al contesto NT AUTHORITY\\SYSTEM anche su un PC Windows 11 aggiornato. È quanto dimostra ShieldBreak, il proof of concept pubblicato…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107335/news-flash-778275.png",
+      "publishedAt": "2026-08-13T09:15:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Gisèle, il brano è stato generato con AI: escluso dalle classifiche e da RTL 102.5",
+      "link": "https://www.hdblog.it/curiosita/articoli/n667128/gisele-brano-generato-ai-classifiche-rtl-1025/",
+      "excerpt": "La vicenda ha portato FIMI a fissare nuovi criteri",
+      "image": "https://hd2.tudocdn.net/1362678?w=660",
+      "publishedAt": "2026-08-13T09:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Starfield rivela un indizio su The Elder Scrolls VI",
+      "link": "https://www.tomshw.it/videogioco/the-elder-scrolls-vi-un-codice-di-starfield-suggerirebbe-sentinel",
+      "excerpt": "Una sequenza numerica nascosta nella creazione del personaggio di Starfield forma la parola “SENTINEL”, lo stesso termine che ora la community associa al possibile sottotitolo di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107329/sc144sh.jpg",
+      "publishedAt": "2026-08-13T09:05:03+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Mozilla avverte: Firefox potrebbe sparire, e con lei altri browser. Le servono i soldi di Google",
@@ -68,24 +203,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "'Tutto ok, è iPhone': il Codacons presenta un esposto sulla pubblicità con il bambino",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667119/tutto-ok-iphone-codacons-esposto/",
-      "excerpt": "L’associazione chiede di verificare se la campagna possa presentare profili di scorrettezza",
-      "image": "https://hd2.tudocdn.net/1362669?w=660",
-      "publishedAt": "2026-08-13T08:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Gamma Pixel 11: sette novità che fanno la differenza",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667117/pixel-11-pro-xl-novita-software-ai-fotocamera/",
-      "excerpt": "Google Pixel 11, Pixel 11 Pro e Pro XL introducono numerose funzioni software basate sull’AI, tra Gemini Intelligence, Magic Capture, Rambler, Creator Suite e un Live Translate…",
-      "image": "https://hd2.tudocdn.net/1360799?w=660",
-      "publishedAt": "2026-08-13T08:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Honor lo ha fatto davvero: Robot Phone annunciato in Cina. Il prezzo è altissimo",
       "link": "https://images.dday.it/np2xbDxl1T8eJQ5e1b7nZs19ooq4I77GsT5fX98WTKM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58363/2609d7_Screenshot_2026-08-13_alle_10.30.38.png",
       "excerpt": "Honor ha presentato ufficialmente il suo smartphone con gimbal motorizzato e funzioni da “compagno robotico”. Persino in Cina però il prezzo è molto alto... Leggi tutto",
@@ -93,24 +210,6 @@
       "publishedAt": "2026-08-13T08:32:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "WhatsApp, nuovi temi in arrivo su iPhone con sfondi animati per le chat",
-      "link": "https://www.hdblog.it/apple/articoli/n667114/whatsapp-sfondi-animati-chat-iphone-ios/",
-      "excerpt": "Nuove possibilità di personalizzazione sono in arrivo su WhatsApp: la beta per iOS anticipa tre categorie di temi, sfondi animati e colori delle bolle scelti automaticamente…",
-      "image": "https://hd2.tudocdn.net/1355124?w=660",
-      "publishedAt": "2026-08-13T08:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Realme P4s Lite, c'è anche lui: in arrivo un altro modello super economico",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667104/realme-p4s-lite-specifiche-leak-economico/",
-      "excerpt": "Conferme dalle certificazioni.",
-      "image": "https://hd2.tudocdn.net/1351242?w=660",
-      "publishedAt": "2026-08-13T08:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Snapdragon C, ecco cosa c'è nel processore Qualcomm per i notebook Windows da 300 euro",
@@ -122,51 +221,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Virgin Galactic rinvia ancora: i voli commerciali slittano al 2027",
-      "link": "https://www.hdblog.it/mercato/articoli/n667112/virgin-galactic-voli-commerciali-2027/",
-      "excerpt": "Il nuovo spazioplano accumula ritardi nell'assemblaggio e debutterà a febbraio 2027",
-      "image": "https://hd2.tudocdn.net/1036812?w=660",
-      "publishedAt": "2026-08-13T08:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Estate 2026, le foto choc dell'Europa stravolta dal caldo",
-      "link": "https://www.hdblog.it/green/articoli/n667064/estate-2026-foto-choc-europa-stravolta-caldo/",
-      "excerpt": "Alcune riguardano anche l'Italia",
-      "image": "https://hd2.tudocdn.net/1362653?w=660",
-      "publishedAt": "2026-08-13T08:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "GoPro MISSION 1 PRO a 619,90€, il minimo storico per girare in 8K",
-      "link": "https://www.tomshw.it/offerte/gopro-mission-1-pro-a-61990eur-il-minimo-storico-per-girare-in-8k",
-      "excerpt": "GoPro MISSION 1 PRO costa 619,90€ su Amazon anziché 699,99€, con uno sconto dell’11% e il prezzo più basso mai raggiunto. Il sensore da 1 pollice e la registrazione Open Gate 8K60…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107313/tomshw-offer-778068.png",
-      "publishedAt": "2026-08-13T08:03:12+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Agricoltore distrugge 200 metri di asfalto con l'aratro: «È roba mia». Arrestato",
-      "link": "https://www.hdmotori.it/agricoltore-distrugge-strada-asfalto/",
-      "excerpt": "In Polonia un agricoltore distrugge la strada nuova col trattore per una lite di vicinato. Il Comune smentisce la proprietà privata e il mezzo era senza assicurazione.",
-      "image": "https://hd2.tudocdn.net/1362668?w=660",
-      "publishedAt": "2026-08-13T08:00:58+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Xbox, Microsoft svela i gamepad dedicati a Gears of War: E-Day",
-      "link": "https://www.hdblog.it/hardware/articoli/n667098/xbox-gears-of-war-e-day-controller-limited-edition/",
-      "excerpt": "Scopriamo disponibilità e prezzi.",
-      "image": "https://hd2.tudocdn.net/1362614?w=660",
-      "publishedAt": "2026-08-13T07:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Pixel Watch 5, arrivano i suggerimenti proattivi e raddoppia RAM, archiviazione e anche la precisione del GPS",
       "link": "https://images.dday.it/SFH9yJuUMPg6N1hi8MHUWEanqw_a-N7pQ0hYFEkhcLA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58361/0878ed_Screenshot_2026-08-13_alle_09.46.55.png",
       "excerpt": "Sul Pixel Watch 5, grazie a Gemini Intelligence, arrivano anche i suggerimenti proattivi. L’orologio può suggerire attività conoscendo il contesto personale dell’utente... Leggi…",
@@ -174,15 +228,6 @@
       "publishedAt": "2026-08-13T07:51:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "iPhone 18 standard dopo i Pro: da Pegatron arriva una nuova conferma",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667113/iphone-18-standard-dopo-pro/",
-      "excerpt": "Il motivo sarebbe soprattutto uno: mancano componenti.",
-      "image": "https://hd2.tudocdn.net/1359643?w=660",
-      "publishedAt": "2026-08-13T07:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "uBlock Origin si arrende: smette di provare a bloccare le pubblicità su Facebook",
@@ -194,15 +239,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Anthropic in Borsa a ottobre: valutazione da 2.000 miliardi",
-      "link": "https://www.tomshw.it/business/anthropic-in-borsa-a-ottobre-investitori-puntano-a-2-000-miliardi",
-      "excerpt": "Una valutazione di almeno 2.000 miliardi di dollari e una quotazione già a ottobre 2026: è lo scenario previsto da sei investitori di Anthropic, citati in forma anonima. La stima…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107286/news-flash-777814.png",
-      "publishedAt": "2026-08-13T06:55:06+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Jaguar, ecco gli interni della Type 01: quattro posti separati da una grande \"spina centrale\"",
       "link": "https://images.dday.it/FRWb_RDURWPP1uRoMxWyhrZTJEWxE-ZOswxWxJRZJ6k/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58359/ee43a2_Type01_thumb.jpg",
       "excerpt": "La nuova GT elettrica adotta un abitacolo molto diverso dagli schemi tradizionali, con una struttura longitudinale che divide i quattro occupanti... Leggi tutto",
@@ -210,24 +246,6 @@
       "publishedAt": "2026-08-13T06:38:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migliori smartphone con IA integrata (agosto 2026)",
-      "link": "https://www.tomshw.it/smartphone/migliori-smartphone-con-ia-integrata",
-      "excerpt": "Gli smartphone con IA non sono più una curiosità da scheda tecnica: nel 2026 sono diventati una categoria concreta, ma non tutti la interpretano nello stesso modo. Alcuni modelli…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/88370/migliori-smartphone-ia-integrata-copertina.jpg",
-      "publishedAt": "2026-08-13T06:16:11+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Apple AirPods Pro 3: l’ANC di nuova generazione è più accessibile",
-      "link": "https://www.tomshw.it/smartphone/apple-airpods-pro-3-in-offerta-2026-08-13",
-      "excerpt": "Gli Apple AirPods Pro 3 sono auricolari true wireless pensati per chi cerca cancellazione attiva del rumore, integrazione con i dispositivi Apple e funzioni dedicate anche…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107190/apple-airpods-pro-3-in-offerta-2026-08-13-Si33W05dqmhl17lbo098Uyu26v.png",
-      "publishedAt": "2026-08-13T05:17:59+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Ecco come riconoscere un'offerta FWA da 1 gbit/s. AGCOM introduce un bollino dedicato",
@@ -248,29 +266,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Era la \"fabbrica degli iPhone\", ora fa più soldi con i server per l'IA. Come sta cambiando Foxconn",
-      "link": "https://images.dday.it/1WOdFrvK2ctrasFocyetuy8T1eY9b_B6M6Efnv-oKlA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58357/f28de0_Depositphotos_244646260_XL.jpg",
-      "excerpt": "Nel secondo trimestre 2026 il business cloud e networking ha generato il 51% dei ricavi, superando nettamente l’elettronica di consumo... Leggi tutto",
-      "image": "https://images.dday.it/1WOdFrvK2ctrasFocyetuy8T1eY9b_B6M6Efnv-oKlA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58357/f28de0_Depositphotos_244646260_XL.jpg",
-      "publishedAt": "2026-08-12T13:40:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Piracy Shield fa scuola in Europa: elogiata la rapidità di intervento e l’accentramento di AGCOM",
-      "link": "https://images.dday.it/2y7oeLAragNBdK-HpJxl0sYU7l7_d6ZmhuYnYEfL1ZI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58356/985b5e_Depositphotos_537490166_XL.jpg",
-      "excerpt": "Uno studio voluto dal Parlamento Europeo che ha individuato, tra gli altri sistemi dell’Unione, due elementi di Piracy Shield da prendere come esempio... Leggi tutto",
-      "image": "https://images.dday.it/2y7oeLAragNBdK-HpJxl0sYU7l7_d6ZmhuYnYEfL1ZI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58356/985b5e_Depositphotos_537490166_XL.jpg",
-      "publishedAt": "2026-08-12T13:14:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Recensione Scuf Valor TMR Wired: prestazioni al top a meno di 100 euro",
-      "link": "https://www.tomshw.it/videogioco/scuf-valor-pro-smoke-tmr-cablato-la-recensione",
-      "excerpt": "Il mercato dei controller di fascia alta ha trovato nel 2026 un nuovo terreno di battaglia, e non riguarda più soltanto paddle posteriori e trigger regolabili, ma anche la…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106595/Scuf-Valor-Wired-1.jpg",
-      "publishedAt": "2026-08-11T13:13:43+00:00",
+      "title": "Churn prevention e upsell: come usare i dati CRM per trovare i clienti a rischio prima che vadano via",
+      "link": "https://www.tomshw.it/aioperator/churn-prevention-e-upsell-come-usare-i-dati-crm-per-trovare-i-clienti-a-rischio-prima-che-vadano-via",
+      "excerpt": "Un cliente che smette di comprare non lo comunica prima di andarsene. L'abbandono dei clienti che smettono di rinnovare o di ordinare lascia tracce nel CRM settimane prima della…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106337/02-ven14-cover.jpg",
+      "publishedAt": "2026-08-07T13:21:18+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
