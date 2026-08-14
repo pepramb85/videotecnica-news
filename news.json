@@ -1,9 +1,153 @@
 {
-  "generatedAt": "2026-08-14T10:50:50.909183+00:00",
+  "generatedAt": "2026-08-14T12:46:05.705886+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Un rompicapo di Eulero mette alla prova il calcolo quantistico",
+      "link": "https://www.tomshw.it/scienze/un-rompicapo-di-eulero-mette-alla-prova-il-calcolo-quantistico",
+      "excerpt": "Robin Simoens e Simeon Ball dell’Università Politecnica della Catalogna hanno chiuso un caso rimasto aperto nella versione quantistica del celebre problema dei 36 ufficiali di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107651/un-rompicapo-di-eulero-mette-alla-prova-il-calcolo-quantistico.png",
+      "publishedAt": "2026-08-14T12:27:36+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Apple avvisa gli utenti in 110 Paesi: possibile attacco con spyware mercenari",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667269/apple-avvisa-utenti-attacco-spyware-mercenari/",
+      "excerpt": "Non è la prima volta che vengono inviati avvisi di questo tipo",
+      "image": "https://hd2.tudocdn.net/1233873?w=660",
+      "publishedAt": "2026-08-14T12:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "VLC lento su Windows 11? La reinstallazione risolve",
+      "link": "https://www.tomshw.it/hardware/vlc-media-player-lento-su-windows-11-reinstallarlo-rigenera-la-cache",
+      "excerpt": "Un file MP3 ha richiesto 33 secondi prima di partire su VLC Media Player: è il caso segnalato dallo sviluppatore Jonathan Blow, uno dei più evidenti fra i recenti rallentamenti…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107647/news-flash-799578.png",
+      "publishedAt": "2026-08-14T12:15:31+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Samsung One UI 9: ora SwiftKey si può disinstallare",
+      "link": "https://www.tomshw.it/smartphone/samsung-one-ui-9-microsoft-swiftkey-diventa-disinstallabile",
+      "excerpt": "Microsoft SwiftKey può essere rimossa completamente dai Galaxy aggiornati a Samsung One UI 9. La modifica è stata verificata su un Galaxy S26 con la Beta 5: nella schermata delle…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107648/one-ui-9_1200x675.jpg",
+      "publishedAt": "2026-08-14T12:13:39+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Questo horror in mixed reality porta i fantasmi nel vostro salotto",
+      "link": "https://www.tomshw.it/videogioco/un-nuovo-horror-porta-in-casa-fantasmi-da-fotografare-in-mixed-reality",
+      "excerpt": "Spirit Ritual è stato annunciato come un nuovo horror soprannaturale capace di trasformare l'abitazione del giocatore in uno scenario infestato. Il titolo sfrutta principalmente…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107645/spiritual-ritual.png",
+      "publishedAt": "2026-08-14T12:11:53+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Samsung Galaxy S25 256GB a 599,99€, un affare con 12GB di RAM",
+      "link": "https://www.tomshw.it/offerte/samsung-galaxy-s25-256gb-a-59999eur-un-affare-con-12gb-di-ram",
+      "excerpt": "Samsung Galaxy S25 256GB costa 599,99€ su Amazon, con il 39% di sconto sul listino di 989€. La configurazione Navy con 12GB di RAM, 5G e Dual SIM punta su spazio e flessibilità…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107641/tomshw-offer-799544.png",
+      "publishedAt": "2026-08-14T12:03:39+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Porsche Taycan, game over: vendite in calo e uscita di scena",
+      "link": "https://www.hdmotori.it/porsche-taycan-stop-produzione/",
+      "excerpt": "In un futuro sempre più incerto per l’industria dell’automotive 2.0, Porsche deve affrontare numeri a ribasso per la Taycan",
+      "image": "https://hd2.tudocdn.net/1362938?w=660",
+      "publishedAt": "2026-08-14T12:00:28+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "AMD prende in prestito 4,75 miliardi di dollari, ma per cosa?",
+      "link": "https://www.tomshw.it/hardware/amd-prende-in-prestito-475-miliardi-di-dollari-ma-per-cosa",
+      "excerpt": "AMD ha raccolto 4,75 miliardi di dollari attraverso una nuova emissione obbligazionaria, senza indicare una destinazione precisa per il capitale. La società ha comunicato che i…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107639/amd-prende-in-prestito-4-75-miliardi-di-dollari-ma-per-cosa.png",
+      "publishedAt": "2026-08-14T11:55:17+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il Danubio è ai minimi e spegne l'unica centrale nucleare romena",
+      "link": "https://www.tomshw.it/scienze/il-danubio-e-ai-minimi-e-spegne-lunica-centrale-nucleare-romena",
+      "excerpt": "L’operatore statale della centrale di Cernavodă ha avviato lo spegnimento controllato dell’Unità 2, dopo che il primo reattore era già stato scollegato dalla rete. L’unico…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107636/il-danubio-e-ai-minimi-e-spegne-l-unica-centrale-nucleare-romena.png",
+      "publishedAt": "2026-08-14T11:47:17+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Intel tiene in vita le DDR4, Raptor Lake resterà per anni",
+      "link": "https://www.tomshw.it/hardware/intel-tiene-in-vita-le-ddr4-raptor-lake-restera-per-anni",
+      "excerpt": "Intel ha delineato una strategia desktop che manterrà attivo il supporto alle DDR4 attraverso una piattaforma basata su Raptor Lake, affiancandola alle future proposte Nova Lake.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107635/intel-tiene-in-vita-le-ddr4-raptor-lake-restera-per-anni.png",
+      "publishedAt": "2026-08-14T11:46:28+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "AGCOM fa ordine nelle offerte FWA: arriva un nuovo bollino per quelle da 1 Gbps",
+      "link": "https://www.hdblog.it/mobile/articoli/n667264/bollino-blu-fwa-veloci-agcom/",
+      "excerpt": "Le offerte internet FWA non saranno più tutte nello stesso calderone: AGCOM introduce un bollino blu per le reti VHCN e mantiene giallo e rosso per le connessioni meno performanti",
+      "image": "https://hd2.tudocdn.net/1060217?w=660",
+      "publishedAt": "2026-08-14T11:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Truffe su WhatsApp? Meta presenta la nuova funzione per non farsi più fregare",
+      "link": "https://www.hdblog.it/android/articoli/n667258/truffe-whatsapp-scam-alert/",
+      "excerpt": "Su WhatsApp sta arrivando Scam Alert, nuova funzione che rileva messaggi fraudolenti proteggendo la privacy.",
+      "image": "https://hd2.tudocdn.net/1362936?w=660",
+      "publishedAt": "2026-08-14T11:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Dazi USA sui droni fino al 100%: le imprese italiane verifichino l'origine dei componenti",
+      "link": "https://www.tomshw.it/business/dazi-usa-sui-droni-fino-al-100-le-imprese-italiane-verifichino-lorigine-dei-componenti",
+      "excerpt": "La nuova stretta statunitense sui droni apre per la filiera italiana una verifica che precede prezzi, contratti e strategie commerciali: per ottenere l’aliquota del 15% riservata…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107591/la-filiera-italiana-dei-droni-deve-verificare-lorigine-ue-per-ottenere-il-dazio-usa-al-15.png",
+      "publishedAt": "2026-08-14T11:20:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Apple verso la svolta AI in Cina: modello proprietario addestrato con Alibaba",
+      "link": "https://www.hdblog.it/apple/articoli/n667260/apple-intelligence-cina-aiuto-alibaba/",
+      "excerpt": "Apple avrebbe sviluppato un modello linguistico proprietario destinato esclusivamente alla Cina, addestrandolo con il supporto di Alibaba per portare Apple Intelligence nel Paese",
+      "image": "https://hd2.tudocdn.net/1241297?w=660",
+      "publishedAt": "2026-08-14T11:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nuovo Codice della Strada, senza PEC niente revisione né targa",
+      "link": "https://www.hdmotori.it/nuovo-codice-della-strada-senza-pec-niente-revisione-targa/",
+      "excerpt": "Il nuovo Codice della strada propone il domicilio digitale obbligatorio per i proprietari di veicoli. Senza PEC potrebbero bloccarsi revisione e passaggio",
+      "image": "https://hd2.tudocdn.net/1362931?w=660",
+      "publishedAt": "2026-08-14T11:00:15+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Un cane, ChatGPT e un vaccino mRNA: ora nasce una startup",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n667175/vaccino-cancro-cane-ai-mrna-gamgee/",
+      "excerpt": "Da un vaccino mRNA personalizzato per un cane nasce una startup sostenuta da Y Combinator.",
+      "image": "https://hd2.tudocdn.net/1362750?w=660",
+      "publishedAt": "2026-08-14T10:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Caraffa addio? Ninja HydraSense filtra l’acqua fino a 6 volte più velocemente",
       "link": "https://www.hdblog.it/home/articoli/n667259/sistema-filtrare-acqua-ninja-hydrasense-prezzo/",
@@ -12,15 +156,6 @@
       "publishedAt": "2026-08-14T10:35:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Google Tensor G6: confermati i 3 nm, smentiti i 2 nm",
-      "link": "https://www.tomshw.it/hardware/google-tensor-g6-confermati-i-3-nm-smentiti-i-2-nm",
-      "excerpt": "Il Google Tensor G6 della gamma Pixel 11 utilizza un processo produttivo potenziato a 3 nm. La precisazione arriva da Peng Yu-Chun, vicepresidente di Google, nel corso di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107596/tensor-g6-google-1280w-720h_jpg_1200x0_crop_q85.jpg",
-      "publishedAt": "2026-08-14T10:34:32+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Xiaomi 17 Ultra si è inventato una Luna che non esiste durante l'ultima eclissi di Sole",
@@ -50,33 +185,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Samsung OLED S83H da 65 pollici a 1.456€, il minimo storico per film e gaming",
-      "link": "https://www.tomshw.it/offerte/samsung-oled-s83h-da-65-pollici-a-1456eur-il-minimo-storico-per-film-e-gaming",
-      "excerpt": "Il Samsung OLED S83H da 65 pollici costa 1.456€ su Amazon, il suo minimo storico: dal listino di 2.299€ si passa a uno sconto del 37%. Il pannello OLED, la fluidità a 120 Hz e le…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107602/tomshw-offer-799216.png",
-      "publishedAt": "2026-08-14T10:03:01+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Hai compiuto 70 anni? Addio patente! La proposta scioccante in UK",
-      "link": "https://www.hdmotori.it/addio-patente-70-anni-proposta-uk/",
-      "excerpt": "Nel Regno Unito, il nuovo governo di Andy Burnham, sta considerando la possibilità di revocare le patenti di guida ai conducenti di età superiore ai 70 anni",
-      "image": "https://hd2.tudocdn.net/1362918?w=660",
-      "publishedAt": "2026-08-14T10:00:46+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Battlefield 6 gratis per una settimana: ecco quando. E si prepara al decollo con Top Gun",
-      "link": "https://www.hdblog.it/games/articoli/n667230/battlefield-6-gratis-data-top-gun-danger-zone/",
-      "excerpt": "Agosto al mare? Sì, ma su una portaerei di Battlefield 6.",
-      "image": "https://hd2.tudocdn.net/1362850?w=660",
-      "publishedAt": "2026-08-14T09:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "DeepSeek V4 Pro esce dall’anteprima, ma sono finiti i tempi della magia cinese",
       "link": "https://images.dday.it/GYHRTR2gqiqgTIoY-VJ8WtE4k8uBFiX_NOoTKDBC3i0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58376/01bac7_ChatGPT_Image_14_ago_2026__11_53_12.png",
       "excerpt": "DeepSeek chiude l’anteprima di V4 Pro con prestazioni agentiche migliori, ma benchmark così così, assenza di immagini e API più care hanno rotto l’incantesimo... Leggi tutto",
@@ -86,69 +194,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Prepariamoci all'eclissi solare del 2027: ecco dove si vedrà meglio",
-      "link": "https://www.hdblog.it/curiosita/articoli/n667166/eclissi-solare-2027-italia/",
-      "excerpt": "Il 2 agosto 2027 una spettacolare eclissi solare attraverserà il Mediterraneo.",
-      "image": "https://hd2.tudocdn.net/1308735?w=660",
-      "publishedAt": "2026-08-14T09:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Netflix arretra sul gaming e si prepara a chiudere due studi di produzione",
-      "link": "https://www.hdblog.it/games/articoli/n667248/netflix-chiude-due-studi-produzione-giochi/",
-      "excerpt": "Si tratta di Night School Studio e Moonloot Games",
-      "image": "https://hd2.tudocdn.net/1176454?w=660",
-      "publishedAt": "2026-08-14T09:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Halo: Campaign Evolved: la patch invalida i salvataggi a metà missione",
-      "link": "https://www.tomshw.it/videogioco/halo-campaign-evolved-la-patch-invalida-i-salvataggi-a-meta-missione",
-      "excerpt": "Aberrazione cromatica e grana cinematografica potranno essere disattivate separatamente con il prossimo aggiornamento di Halo: Campaign Evolved. Halo Support ha confermato che la…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103018/news-flash-594631.png",
-      "publishedAt": "2026-08-14T09:35:11+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "2K si prepara a sfidare EA FC con un suo gioco di calcio? Nasce Small Axe Studios",
-      "link": "https://www.hdblog.it/games/articoli/n667225/2k-small-axe-studios-fifa-ea-nuovo-gioco-calcio/",
-      "excerpt": "Gli indizi ci sono.",
-      "image": "https://hd2.tudocdn.net/1362841?w=660",
-      "publishedAt": "2026-08-14T09:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Belkin 3 in 1 MagSafe al 47%, ricarica iPhone, Watch e AirPods insieme",
-      "link": "https://www.tomshw.it/offerte/belkin-3-in-1-magsafe-al-47-ricarica-iphone-watch-e-airpods-insieme",
-      "excerpt": "Il Belkin 3 in 1 MagSafe è a 79,99€ su Amazon, con uno sconto del 47% sul listino di 149,99€. Una sola base può alimentare contemporaneamente iPhone, Apple Watch e AirPods,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107584/tomshw-offer-799076.png",
-      "publishedAt": "2026-08-14T09:32:53+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Nothing OS 5.0 in anteprima su Phone (3): candidature per la beta aperte pochi giorni",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667253/nothing-os-5-android-17-beta-candidati/",
-      "excerpt": "Nothing cerca possessori di Phone (3) disposti a provare in anteprima il prossimo software, probabilmente Nothing OS 5.0 basato su Android 17. Candidature aperte fino al 17 agosto",
-      "image": "https://hd2.tudocdn.net/1315472?w=660",
-      "publishedAt": "2026-08-14T09:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "GPT-5.6 Sol Ultrafast: OpenAI accelera fino a 14 volte",
-      "link": "https://www.tomshw.it/hardware/openai-presenta-gpt-5-6-sol-ultrafast-fino-a-14-volte-piu",
-      "excerpt": "Fino a 750 token di output al secondo e una velocità dichiarata fino a 14 volte superiore al livello Standard: sono i numeri della modalità GPT-5.6 Sol Ultrafast, presentata…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107583/openai-chatgpt-jpg.webp",
-      "publishedAt": "2026-08-14T09:23:12+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "HoverAir Aqua: recensione. Il drone autonomo per sport acquatici è un vero spettacolo",
       "link": "https://images.dday.it/UezwxrpM7vooJvmvKE6ebMVAuofv-40qZK9RW6WDHww/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58332/20c12b_drone_8.JPG",
       "excerpt": "Abbiamo provato il nuovo Aqua di HoverAir, il drone pensato per gli sport acquatici che non ha bisogno di pilota: segue il soggetto, riprende, e se cade in acqua si rialza. Tutto…",
@@ -156,15 +201,6 @@
       "publishedAt": "2026-08-14T09:20:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Trump stanga i droni stranieri: dazi fino al 100% negli USA",
-      "link": "https://www.hdblog.it/droni/articoli/n667246/usa-dazi-droni-componenti-cina/",
-      "excerpt": "Gli USA colpiscono droni e componenti esteri con dazi fino al 100%.",
-      "image": "https://hd2.tudocdn.net/1350026?w=660",
-      "publishedAt": "2026-08-14T09:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Google, nuova tirata d'orecchie: sta facendo di tutto per non far installare gli app store alternativi",
@@ -212,29 +248,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Migliori VPN per la Svizzera (agosto 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-vpn-per-la-svizzera",
-      "excerpt": "La Svizzera è spesso associata a un livello alto di tutela della privacy, ma questo non significa che ogni connessione usata nel Paese sia automaticamente sicura. Chi vive, lavora…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/88993/migliori-vpn-svizzera-copertina.jpg",
-      "publishedAt": "2026-08-14T06:14:06+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori stampanti 3D a resina (agosto 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-stampanti-3d-resina",
-      "excerpt": "Le stampanti 3D a resina sono la scelta più indicata quando il risultato finale deve mostrare dettagli fini, superfici lisce e bordi netti: miniature, busti, gioielli, componenti…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/88743/migliori-stampanti-3d-resina-copertina.jpg",
-      "publishedAt": "2026-08-14T06:11:31+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Come ridurre del 40% i tempi di qualifica fornitori con n8n e l'AI",
-      "link": "https://www.tomshw.it/aioperator/come-ridurre-del-40-i-tempi-di-qualifica-fornitori-con-n8n-e-lai",
-      "excerpt": "Una PMI manifatturiera di circa ottanta persone qualificava un nuovo fornitore in dieci ore di lavoro effettivo, distribuite su quasi tre settimane di calendario. Il tempo finiva…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107503/02-acq17-cover.jpg",
-      "publishedAt": "2026-08-13T16:14:21+00:00",
+      "title": "Migliori eSIM da usare in Italia (agosto 2026)",
+      "link": "https://www.tomshw.it/smartphone/migliori-esim-da-usare-in-italia",
+      "excerpt": "Le eSIM sono ormai una scelta concreta per chi vuole attivare o cambiare offerta mobile senza aspettare una scheda fisica. Il profilo dell'operatore viene scaricato nel…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/89172/migliori-esim-italia-copertina.jpg",
+      "publishedAt": "2026-08-14T06:26:39+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -255,24 +273,6 @@
       "publishedAt": "2026-08-13T13:22:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "La corsa ai data center AI sta triplicando il prezzo di un server qualunque",
-      "link": "https://www.tomshw.it/business/la-corsa-ai-data-center-ai-sta-triplicando-il-prezzo-di-un-server-qualunque",
-      "excerpt": "Un preventivo reale per un server destinato a CRM, ERP e storage aziendale, niente che abbia a che fare con l'intelligenza artificiale, oggi supera i 34.000 euro. Il conto lo fa…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107122/ywmezinsn58km9jjaxpdg.jpg",
-      "publishedAt": "2026-08-13T10:20:48+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Mappare i processi aziendali è un nuovo business, alto valore che crescerà ancora",
-      "link": "https://www.tomshw.it/business/mappare-i-processi-aziendali-e-un-nuovo-business-alto-valore-che-crescera-ancora",
-      "excerpt": "Skan AI ha chiuso un round Series C da 63 milioni di dollari, guidato da Cathay Innovation e Dell Technologies Capital. Tra i soci figurano anche Citi Ventures, Bloomberg Beta,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107365/13-skan-ai-context-graph-cover.jpg",
-      "publishedAt": "2026-08-13T09:55:03+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     }
   ]
 }
