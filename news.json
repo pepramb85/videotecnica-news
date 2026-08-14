@@ -1,134 +1,197 @@
 {
-  "generatedAt": "2026-08-14T05:37:56.478226+00:00",
+  "generatedAt": "2026-08-14T07:13:02.683802+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "GPT-5.6 Sol cambia marcia: con Ultrafast l’AI arriva a velocità record",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n667228/openai-ultrafast-gpt-5-6-sol-14-volte-veloce/",
-      "excerpt": "Ultrafast accelera GPT-5.6 Sol fino a 750 token al secondo grazie ai chip Cerebras.",
-      "image": "https://hd2.tudocdn.net/1362849?w=660",
-      "publishedAt": "2026-08-14T05:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Instagram cambia logo dopo 10 anni: nuovo wordmark più moderno, ma non convince tutti",
+      "link": "https://images.dday.it/T2YdXehOHOED7T7VDL4izZ89-CgqM3FcWBUFERuFdrQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58372/f9f471_773876032_18619179328031562_7686782652632862128_n.jpg",
+      "excerpt": "La piattaforma abbandona la scritta corsiva utilizzata per un decennio e introduce un carattere ibrido tra corsivo e stampatello... Leggi tutto",
+      "image": "https://images.dday.it/T2YdXehOHOED7T7VDL4izZ89-CgqM3FcWBUFERuFdrQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58372/f9f471_773876032_18619179328031562_7686782652632862128_n.jpg",
+      "publishedAt": "2026-08-14T07:11:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
-      "title": "AOC 27B36X sotto i 100€, 144 Hz e IPS per giocare senza spendere troppo",
-      "link": "https://www.tomshw.it/offerte/aoc-27b36x-sotto-i-100eur-144-hz-e-ips-per-giocare-senza-spendere-troppo",
-      "excerpt": "Il monitor AOC 27B36X costa 92,99€ su Amazon, anziché 109€, con uno sconto del 15%. Per meno di cento euro porta sulla scrivania un pannello IPS da 27 pollici con 144 Hz, pensato…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107512/tomshw-offer-781500.png",
-      "publishedAt": "2026-08-13T20:03:05+00:00",
+      "title": "Alzheimer, una chirurgia controversa ora affronta i test clinici",
+      "link": "https://www.tomshw.it/scienze/alzheimer-una-chirurgia-controversa-ora-affronta-i-test-clinici",
+      "excerpt": "Gruppi clinici in diversi Paesi stanno avviando sperimentazioni controllate sulla anastomosi linfatico-venosa cervicale profonda, o dcLVA, una procedura proposta contro la…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107553/alzheimer-una-chirurgia-controversa-ora-affronta-i-test-clinici.png",
+      "publishedAt": "2026-08-14T07:08:51+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "92,90€ in meno sulle Logitech G Astro A50, alta gamma per PC e console",
-      "link": "https://www.tomshw.it/offerte/9290eur-in-meno-sulle-logitech-g-astro-a50-alta-gamma-per-pc-e-console",
-      "excerpt": "Logitech G Astro A50 è a 207,09€ su Amazon: il prezzo scende da 299,99€ con uno sconto del 31% e un risparmio di 92,90€. La base magnetica e il passaggio rapido tra più…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107511/tomshw-offer-781493.png",
-      "publishedAt": "2026-08-13T19:33:15+00:00",
+      "title": "La foto impossibile dell’”eclissi lunare-lunare”: Xiaomi 17 Ultra ha scambiato il Sole per la Luna",
+      "link": "https://images.dday.it/4M16SZSSj4Jz_ElzVyHKqDjwK_cNchdlwa5c0JNo8n8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58371/52b82e_HPjZEoZWMAASufM.jpg",
+      "excerpt": "Non si tratta di Photoshop. A modificare involontariamente la foto è stato lo stesso Xiaomi 17 Ultra. La funzione IA dedicata alla Luna ha trasformato l’eclissi di Sole del 12…",
+      "image": "https://images.dday.it/4M16SZSSj4Jz_ElzVyHKqDjwK_cNchdlwa5c0JNo8n8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58371/52b82e_HPjZEoZWMAASufM.jpg",
+      "publishedAt": "2026-08-14T07:05:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "iPhone Ultra, debutto col contagocce: potrebbe arrivare solo negli USA all'inizio",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667218/iphone-ultra-pieghevole-lancio-solo-usa-limitato/",
+      "excerpt": "Una nuova ipotesi che potrebbe spiegare i rumor contrastanti.",
+      "image": "https://hd2.tudocdn.net/1362828?w=660",
+      "publishedAt": "2026-08-14T07:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Kingdom Hearts, incassi record: Disney conferma il miliardo",
+      "link": "https://www.tomshw.it/videogioco/kingdom-hearts-disney-conferma-ha-generato-oltre-1-miliardo-di-dollari",
+      "excerpt": "Kingdom Hearts ha generato complessivamente oltre un miliardo di dollari. The Walt Disney Company ha inserito ufficialmente la serie sviluppata con Square Enix tra le proprietà…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/88373/kingdom-hearts-4-sora.webp",
+      "publishedAt": "2026-08-14T07:00:17+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Ho provato la nuova Creative Deck di Ulanzi: D200X e D100H | VIDEO",
-      "link": "https://www.hdblog.it/tecnologia/recensioni/n666067/ulanzi/",
-      "excerpt": "Queste 2 periferiche sono pensate per aiutare durante l'editing di foto e video. Le abbiamo testate per diversi giorni.",
-      "image": "https://hd2.tudocdn.net/1360240?w=660",
-      "publishedAt": "2026-08-13T18:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung Galaxy S26 512GB a 999€, tanto spazio per foto, video e app",
-      "link": "https://www.tomshw.it/offerte/samsung-galaxy-s26-512gb-a-999eur-tanto-spazio-per-foto-video-e-app",
-      "excerpt": "Samsung Galaxy S26 512GB costa 999€ su Amazon, anziché 1.229€, con uno sconto del 19%. La memoria capiente, la struttura rinforzata e il raffreddamento riprogettato rispondono…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107509/tomshw-offer-781457.png",
-      "publishedAt": "2026-08-13T18:04:32+00:00",
+      "title": "Il gioco (non) paga: Netflix Games chiude 2 studi e taglia personale",
+      "link": "https://www.tomshw.it/videogioco/netflix-games-chiude-2-studi-e-taglia-il-personale",
+      "excerpt": "Netflix sta chiudendo Night School Studio, lo sviluppatore di Oxenfree acquisito nel 2021, e prevede di fermare anche Moonloot. Un portavoce dell’azienda ha confermato entrambe le…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107549/1300044-unhinged-jeu-video-netflix.jpg",
+      "publishedAt": "2026-08-14T06:58:05+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Nancy Grace Roman: scopriamo il telescopio che mapperà il cosmo su scala mai vista",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n667056/nancy-grace-roman-space-telescope/",
-      "excerpt": "Roman osserverà vaste aree di cielo per studiare materia oscura ed esopianeti.",
-      "image": "https://hd2.tudocdn.net/1362499?w=660",
-      "publishedAt": "2026-08-13T17:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Corsair SABRE v2 PRO pesa 36 grammi e costa 79,99€, fatto per gli FPS",
-      "link": "https://www.tomshw.it/offerte/corsair-sabre-v2-pro-pesa-36-grammi-e-costa-7999eur-fatto-per-gli-fps",
-      "excerpt": "Il Corsair SABRE v2 PRO costa 79,99€ su Amazon: il listino è di 109,99€ e lo sconto mostrato è del 27%. Il peso di appena 36 grammi punta direttamente agli appassionati di FPS che…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107507/tomshw-offer-781427.png",
-      "publishedAt": "2026-08-13T17:33:12+00:00",
+      "title": "Guardare l'eclissi: ecco i danni agli occhi dopo 48 ore",
+      "link": "https://www.tomshw.it/scienze/eclissi-solare-macchie-e-vista-sfocata-anche-dopo-2-giorni",
+      "excerpt": "Una macchia nera o grigiastra che rimane nello stesso punto al centro del campo visivo può essere il segnale di una retinopatia solare. Dopo l’eclissi totale del 12 agosto 2026,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107532/news-flash-798351.png",
+      "publishedAt": "2026-08-14T06:55:27+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Centrali idroelettriche, l'intelligenza artificiale identifica i pesci uno a uno",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n667054/riconoscimento-pesci-ai-idroelettrico/",
-      "excerpt": "L'AI identifica i pesci nelle centrali idroelettriche per ridurre l'impatto ambientale.",
-      "image": "https://hd2.tudocdn.net/1362497?w=660",
-      "publishedAt": "2026-08-13T17:20:00+00:00",
+      "title": "Anthropic pronta a battere ogni record in Borsa con un'Ipo da 2 mila miliardi di dollari",
+      "link": "https://www.hdblog.it/business/articoli/n667212/anthropic-ipo-2-mila-miliardi-dollari-record-borsa/",
+      "excerpt": "Le stime degli investitori sono astronomiche.",
+      "image": "https://hd2.tudocdn.net/1362825?w=660",
+      "publishedAt": "2026-08-14T06:55:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Chevrolet al capolinea in Cina: GM ritira il marchio e punta tutto sull'export",
-      "link": "https://www.hdmotori.it/chevrolet-addio-cina-gm-stop-vendite/",
-      "excerpt": "General Motors stoppa le vendite Chevrolet in Cina dopo il crollo dei volumi. Resta la produzione per l’export, mentre l’elettrico punterà su Buick e Cadillac",
-      "image": "https://hd2.tudocdn.net/1362818?w=660",
-      "publishedAt": "2026-08-13T17:00:29+00:00",
+      "title": "Google corre con Gemini 3.7 Flash: più potente dopo sole 3 settimane",
+      "link": "https://www.hdblog.it/google/articoli/n667233/gemini-3-7-flash-google-prezzo/",
+      "excerpt": "Gemini 3.7 Flash migliora coding e agenti AI, con prezzi dimezzati.",
+      "image": "https://hd2.tudocdn.net/1362859?w=660",
+      "publishedAt": "2026-08-14T06:50:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Lockheed Martin punta a una rete spaziale unificata per la difesa",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n667050/lockheed-martin-rete-satelliti-difesa/",
-      "excerpt": "Una rete che collega satelliti, sensori e difesa per rispondere più rapidamente alle minacce.",
-      "image": "https://hd2.tudocdn.net/1362494?w=660",
-      "publishedAt": "2026-08-13T16:55:00+00:00",
+      "title": "Gemini 3.7 Flash: prezzi ridotti del 50% fino al 2027",
+      "link": "https://www.tomshw.it/hardware/google-gemini-3-7-flash-prezzi-dimezzati-fino-al-2027",
+      "excerpt": "Tre settimane dopo Gemini 3.6 Flash, Google ha già portato in produzione Gemini 3.7 Flash, un nuovo modello multimodale indirizzato soprattutto a programmazione, agenti e flussi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107526/gemini-3-7-flash-width-1300.png",
+      "publishedAt": "2026-08-14T06:49:35+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Mafia The Old Country: quando esce oggi e dove scaricarlo",
+      "link": "https://www.tomshw.it/videogioco/a-che-ora-esce-mafia-the-old-country-man-of-honor-oggi-in-italia-e-dove-scaricarlo",
+      "excerpt": "Mafia: The Old Country – Man of Honor esce oggi su Steam per PC come DLC a pagamento da acquistare e scaricare; serve il gioco base. L'orario italiano esatto non è confermato: le…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107513/dqv-toms-cover-798251-0.png",
+      "publishedAt": "2026-08-14T06:49:02+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Ted Lasso non molla la panchina: Apple suggerisce che ci saranno altre stagioni",
+      "link": "https://www.hdblog.it/apple/articoli/n667211/ted-lasso-apple-tv-nuova-stagione-quinta-5-rinnovo/",
+      "excerpt": "Ted Lasso à la Sir Alex Ferguson.",
+      "image": "https://hd2.tudocdn.net/1225707?w=660",
+      "publishedAt": "2026-08-14T06:45:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Il caldo fa volare i consumi elettrici: luglio da record in Italia",
-      "link": "https://www.hdblog.it/green/articoli/n667203/consumo-elettrico-luglio-2026-record/",
-      "excerpt": "A luglio la domanda di energia elettrica in Italia ha raggiunto il record mensile di 32,5 TWh, con una crescita dell’8,3% sul 2025 spinta soprattutto dalle temperature eccezionali",
-      "image": "https://hd2.tudocdn.net/1341290?w=660",
-      "publishedAt": "2026-08-13T16:45:00+00:00",
+      "title": "Grok Bot porta l’AI oltre la chat: ora lavora al posto nostro",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n667180/grok-bot-agenti-ai-autonomi/",
+      "excerpt": "Grok Bot usa un computer nel cloud per svolgere autonomamente interi flussi di lavoro",
+      "image": "https://hd2.tudocdn.net/1362757?w=660",
+      "publishedAt": "2026-08-14T06:40:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "ESPHome, ufficiale il primo kit per la domotica fai da te (adatto ai principianti)",
-      "link": "https://www.hdblog.it/domotica/articoli/n667165/esphome-kit-domotica-fai-da-te-principianti/",
-      "excerpt": "Ecco cosa contiene",
-      "image": "https://hd2.tudocdn.net/1362771?w=660",
-      "publishedAt": "2026-08-13T16:35:00+00:00",
+      "title": "Per leggere l’aria di un’altra Terra potrebbero bastare 900 telescopi",
+      "link": "https://www.tomshw.it/scienze/per-leggere-laria-di-unaltra-terra-potrebbero-bastare-900-telescopi",
+      "excerpt": "Un gruppo guidato da Jian Ge dello Shanghai Astronomical Observatory, insieme a collaboratori cinesi e spagnoli, ha presentato Life 2.0: una proposta per utilizzare 900 telescopi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107543/per-leggere-laria-di-unaltra-terra-potrebbero-bastare-900-telescopi.jpg",
+      "publishedAt": "2026-08-14T06:35:42+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Qualcuno sta già facendo girare One UI 9.5 su Galaxy S26",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667221/one-ui-9-5-samsung-galaxy-s26-test-leak-update/",
+      "excerpt": "Segno che lo sviluppo è a buon punto.",
+      "image": "https://hd2.tudocdn.net/1349898?w=660",
+      "publishedAt": "2026-08-14T06:35:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Volkswagen punta alla Cina, sbuca il nuovo SUV ID. Era 5X",
-      "link": "https://www.hdmotori.it/volkswagen-nuovo-suv-id-era-5x-cina/",
-      "excerpt": "Il Gruppo Volkswagen ha un estremo bisogno di tornare competitivo in Cina. In una fase delicata ha svelato la ID. Era 5X",
-      "image": "https://hd2.tudocdn.net/1362814?w=660",
-      "publishedAt": "2026-08-13T16:30:03+00:00",
+      "title": "Le farfalle australiane si spostano, ora sappiamo quanto",
+      "link": "https://www.tomshw.it/scienze/le-farfalle-australiane-si-spostano-ora-sappiamo-quanto",
+      "excerpt": "Il tassonomo Michael Braby, confrontando i dati custoditi dal CSIRO, nei musei e nelle piattaforme di osservazione naturalistica, ha identificato almeno 23 specie sedentarie di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107541/le-farfalle-australiane-si-spostano-ora-sappiamo-quanto.png",
+      "publishedAt": "2026-08-14T06:34:49+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Addio all'uomo che cambiò il destino di Toyota: dalla Prius all'ascesa globale",
+      "link": "https://www.hdmotori.it/addio-uomo-cambio-toyota/",
+      "excerpt": "Hiroshi Okuda si è spento a 93 anni: è stato il presidente che ha posto le basi per la leadership di Toyota nell'ibrido e per l'ascesa nel panorama automobilistico mondiale.",
+      "image": "https://hd2.tudocdn.net/1362864?w=660",
+      "publishedAt": "2026-08-14T06:30:35+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "La missione impossibile continua: NASA non rinuncia a salvare Swift",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n667057/nasa-swift-missione-recupero-link/",
-      "excerpt": "La missione per salvare il telescopio Swift continua dopo il recupero del veicolo LINK.",
-      "image": "https://hd2.tudocdn.net/1353235?w=660",
-      "publishedAt": "2026-08-13T16:25:00+00:00",
+      "title": "La NASA aggiorna il simulatore che prepara i piloti alle missioni lunari",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n667190/nasa-vertical-motion-simulator-lander-lunare/",
+      "excerpt": "Il simulatore NASA diventa digitale per testare lander lunari, velivoli e futuri air taxi.",
+      "image": "https://hd2.tudocdn.net/1362776?w=660",
+      "publishedAt": "2026-08-14T06:25:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Instagram, il nuovo logo è qui (ma non piacerà a tutti)",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667197/instagram-nuovo-logo-commenti/",
+      "excerpt": "Prima modifica dopo 10 anni di staticità",
+      "image": "https://hd2.tudocdn.net/1362856?w=660",
+      "publishedAt": "2026-08-14T06:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Galaxy S27, Samsung ci ripensa: niente fotocamera ad apertura variabile?",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667216/samsung-galaxy-s27-fotocamera-apertura-variabile/",
+      "excerpt": "Gli ultimi rumor parlano di un ripensamento: ecco perché.",
+      "image": "https://hd2.tudocdn.net/1348820?w=660",
+      "publishedAt": "2026-08-14T06:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Migliori schede video gaming per il FullHD (agosto 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-schede-video-gaming-fullhd",
+      "excerpt": "Giocare in Full HD (1.920 x 1.080 pixel) continua a essere una scelta molto sensata per chi vuole un PC reattivo, capace di sostenere frame rate elevati senza inseguire per forza…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/88637/migliori-schede-video-fullhd-copertina.jpg",
+      "publishedAt": "2026-08-14T06:06:25+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Voyah come Schumacher sulla Mercedes: Passion S completa un giro a 360° dentro un tunnel",
@@ -185,33 +248,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Le AI stanno facendo danni ma non sappiamo a chi dare la colpa",
-      "link": "https://www.tomshw.it/business/le-ai-stanno-facendo-danni-ma-non-sappiamo-a-chi-dare-la-colpa",
-      "excerpt": "Il chatbot che promette una tariffa, e il conto lo paga l'azienda Nel 2022 un chatbot di Air Canada ha promesso a un passeggero in lutto una tariffa scontata che la compagnia…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107362/08-agenti-ai-responsabilita-legale-cover.jpg",
-      "publishedAt": "2026-08-13T09:55:03+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Una persona + agenti AI, la rivista pubblicata da una vera impresa individuale",
-      "link": "https://www.tomshw.it/business/una-persona-agenti-ai-la-rivista-pubblicata-da-una-vera-impresa-individuale",
-      "excerpt": "Ryan Merket ha fondato RuntimeWire nel maggio 2026, dopo un percorso che passa per Microsoft for Startups, Reddit, AWS e il fondo Comal Ventures che ha creato lui stesso. La…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107364/10-runtimewire-redazione-autonoma-cover.jpg",
-      "publishedAt": "2026-08-13T09:55:03+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Usi Cloudflare per Durable Objects? Da domani potrai farne a meno (forse)",
-      "link": "https://www.tomshw.it/business/usi-cloudflare-per-durable-objects-da-domani-potrai-farne-a-meno-forse",
-      "excerpt": "Ryan Dahl, il creatore di Node.js e di Deno, ha pubblicato un runtime open source che replica due dei prodotti più venduti di Cloudflare: Workers e Durable Objects. Il progetto si…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107363/07-celld-durable-objects-cloudflare-cover.jpg",
-      "publishedAt": "2026-08-13T09:55:03+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Mozilla avverte: Firefox potrebbe sparire, e con lei altri browser. Le servono i soldi di Google",
       "link": "https://images.dday.it/-WLqTuVBky6fiJStg3ByLDV2GHOdWKnigyR4LF9guCQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58364/5fb509_ff.jpg",
       "excerpt": "La sorte di Firefox e di decine di altri browser è legata a una sentenza del tribunale antitrust americano, che rischia di sortire l'effetto opposto a quello previsto, ovvero…",
@@ -230,47 +266,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "La telecamera Arlo Essential HD è in super offerta su Amazon: proteggi la casa spendendo meno",
-      "link": "https://images.dday.it/c79EFoQLXMngyx-MWkBMmc8BP0w7vC9wfzK5iuWDhMo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58302/1cf244_81zLUeBzQNL._AC_SL1500_.jpg",
-      "excerpt": "Senza fili e facile da installare, offre video in HD, rilevamento del movimento e notifiche in tempo reale: ora puoi acquistarla a un prezzo scontato su Amazon... Leggi tutto",
-      "image": "https://images.dday.it/c79EFoQLXMngyx-MWkBMmc8BP0w7vC9wfzK5iuWDhMo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58302/1cf244_81zLUeBzQNL._AC_SL1500_.jpg",
-      "publishedAt": "2026-08-13T08:30:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Snapdragon C, ecco cosa c'è nel processore Qualcomm per i notebook Windows da 300 euro",
-      "link": "https://images.dday.it/Sf-6ZTLP5feSGQxw1RLBLalLFRYqai7oDPHW5sa8nik/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58362/f988a3_cnpc.jpg",
-      "excerpt": "Presentato al Computex, lo Snapdragon C era rimasto coperto da segreto fino a ieri, quando Qualcomm ne ha rilasciato le specifiche: è un vecchio chip per smartphone adattato per i…",
-      "image": "https://images.dday.it/Sf-6ZTLP5feSGQxw1RLBLalLFRYqai7oDPHW5sa8nik/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58362/f988a3_cnpc.jpg",
-      "publishedAt": "2026-08-13T08:14:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Quando esce Google Pixel 12? Data, rumor e cosa sappiamo",
-      "link": "https://www.tomshw.it/smartphone/quando-esce-google-pixel-12-data-rumor-e-cosa-sappiamo",
-      "excerpt": "Google non ha ancora annunciato il Pixel 12 né la sua data di presentazione. La finestra più plausibile è agosto 2027, in linea con il recente calendario della famiglia, ma non…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107309/quando-esce-google-pixel-12-data-rumor-e-cosa-sappiamo.png",
-      "publishedAt": "2026-08-13T07:36:07+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "C'è chi vuole far resuscitare il BlackBerry nel 2026",
-      "link": "https://www.tomshw.it/smartphone/blackberry-la-tastiera-fisica-torna-con-unihertz-titan-2-elite",
-      "excerpt": "La formula BlackBerry è tornata nelle mani degli utenti. Il 10 agosto 2026 almeno due finanziatori statunitensi hanno documentato la consegna di Unihertz Titan 2 Elite, smartphone…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107290/ChatGPT-Image-13-ago-2026,-09_15_14.png",
-      "publishedAt": "2026-08-13T07:20:48+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "L'iPhone 17 potrebbe essere lo smartphone Apple più duraturo di sempre",
-      "link": "https://www.tomshw.it/smartphone/apple-iphone-17-ciclo-record-di-550-giorni-per-il-modello-standard",
-      "excerpt": "iPhone 17 potrebbe restare il modello standard di punta di Apple per circa 550 giorni, una permanenza superiore a quella di qualsiasi altro iPhone degli ultimi quindici anni. Il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107005/news-flash-765394.png",
-      "publishedAt": "2026-08-12T10:33:12+00:00",
+      "title": "Automatizzare i report settimanali del customer care con n8n e un LLM: zero ore di raccolta dati",
+      "link": "https://www.tomshw.it/aioperator/automatizzare-i-report-settimanali-del-customer-care-con-n8n-e-un-llm-zero-ore-di-raccolta-dati",
+      "excerpt": "Ogni lunedì mattina qualcuno del team assistenza clienti apre il sistema di ticketing, esporta i dati della settimana e li incolla in un foglio di calcolo. Costruisce gli stessi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106340/01-cs18-cover.jpg",
+      "publishedAt": "2026-08-07T13:21:20+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
