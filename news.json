@@ -1,15 +1,168 @@
 {
-  "generatedAt": "2026-08-14T09:00:26.948911+00:00",
+  "generatedAt": "2026-08-14T10:50:50.909183+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Un assaggio di Pixel 11? I nuovi sfondi sono già disponibili",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667249/sfondi-pixel-11-pro-xl-scaricare/",
-      "excerpt": "Gli sfondi dei nuovi Google Pixel 11 sono già stati estratti e condivisi online. Ecco i wallpaper della nuova gamma e come impostarli facilmente sul proprio smartphone",
-      "image": "https://hd2.tudocdn.net/1360735?w=660",
-      "publishedAt": "2026-08-14T08:55:00+00:00",
+      "title": "Caraffa addio? Ninja HydraSense filtra l’acqua fino a 6 volte più velocemente",
+      "link": "https://www.hdblog.it/home/articoli/n667259/sistema-filtrare-acqua-ninja-hydrasense-prezzo/",
+      "excerpt": "Ninja HydraSense è il nuovo sistema SharkNinja per avere acqua filtrata direttamente sul piano della cucina, senza installazione: rimuove oltre 80 contaminanti e mantiene alcuni…",
+      "image": "https://hd2.tudocdn.net/1362922?w=660",
+      "publishedAt": "2026-08-14T10:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google Tensor G6: confermati i 3 nm, smentiti i 2 nm",
+      "link": "https://www.tomshw.it/hardware/google-tensor-g6-confermati-i-3-nm-smentiti-i-2-nm",
+      "excerpt": "Il Google Tensor G6 della gamma Pixel 11 utilizza un processo produttivo potenziato a 3 nm. La precisazione arriva da Peng Yu-Chun, vicepresidente di Google, nel corso di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107596/tensor-g6-google-1280w-720h_jpg_1200x0_crop_q85.jpg",
+      "publishedAt": "2026-08-14T10:34:32+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Xiaomi 17 Ultra si è inventato una Luna che non esiste durante l'ultima eclissi di Sole",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667250/xiaomi-17-ultra-eclissi-sole-luna-foto-ai/",
+      "excerpt": "Xiaomi 17 Ultra si è decisamente confuso durante l'ultima eclissi, scambiando il Sole per la Luna.",
+      "image": "https://hd2.tudocdn.net/1362906?w=660",
+      "publishedAt": "2026-08-14T10:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Porsche, fine della Taycan dal 2030? Le consegne sono crollate",
+      "link": "https://images.dday.it/52IJlouEsietFxlHJETDbn9R39PT80hqHRery9UV100/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58377/cf3841_taycan_thumb.jpg",
+      "excerpt": "Secondo le indiscrezioni, Porsche avrebbe deciso di mantenere la sportiva elettrica in produzione ancora per alcuni anni, ma senza spostarla a Lipsia... Leggi tutto",
+      "image": "https://images.dday.it/52IJlouEsietFxlHJETDbn9R39PT80hqHRery9UV100/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58377/cf3841_taycan_thumb.jpg",
+      "publishedAt": "2026-08-14T10:13:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Pixel 11, Google fa chiarezza sul Tensor G6: lo fa TSMC, ma non a 2 nm",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667255/pixel-11-pro-xl-tensor-g6-nm-processo-produttivo/",
+      "excerpt": "Niente processo a 2 nm per Tensor G6: durante la presentazione dei Pixel 11 a Taiwan, Google ha spiegato che il nuovo SoC è realizzato da TSMC con una tecnologia a 3 nm evoluta",
+      "image": "https://hd2.tudocdn.net/1360733?w=660",
+      "publishedAt": "2026-08-14T10:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung OLED S83H da 65 pollici a 1.456€, il minimo storico per film e gaming",
+      "link": "https://www.tomshw.it/offerte/samsung-oled-s83h-da-65-pollici-a-1456eur-il-minimo-storico-per-film-e-gaming",
+      "excerpt": "Il Samsung OLED S83H da 65 pollici costa 1.456€ su Amazon, il suo minimo storico: dal listino di 2.299€ si passa a uno sconto del 37%. Il pannello OLED, la fluidità a 120 Hz e le…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107602/tomshw-offer-799216.png",
+      "publishedAt": "2026-08-14T10:03:01+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Hai compiuto 70 anni? Addio patente! La proposta scioccante in UK",
+      "link": "https://www.hdmotori.it/addio-patente-70-anni-proposta-uk/",
+      "excerpt": "Nel Regno Unito, il nuovo governo di Andy Burnham, sta considerando la possibilità di revocare le patenti di guida ai conducenti di età superiore ai 70 anni",
+      "image": "https://hd2.tudocdn.net/1362918?w=660",
+      "publishedAt": "2026-08-14T10:00:46+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Battlefield 6 gratis per una settimana: ecco quando. E si prepara al decollo con Top Gun",
+      "link": "https://www.hdblog.it/games/articoli/n667230/battlefield-6-gratis-data-top-gun-danger-zone/",
+      "excerpt": "Agosto al mare? Sì, ma su una portaerei di Battlefield 6.",
+      "image": "https://hd2.tudocdn.net/1362850?w=660",
+      "publishedAt": "2026-08-14T09:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "DeepSeek V4 Pro esce dall’anteprima, ma sono finiti i tempi della magia cinese",
+      "link": "https://images.dday.it/GYHRTR2gqiqgTIoY-VJ8WtE4k8uBFiX_NOoTKDBC3i0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58376/01bac7_ChatGPT_Image_14_ago_2026__11_53_12.png",
+      "excerpt": "DeepSeek chiude l’anteprima di V4 Pro con prestazioni agentiche migliori, ma benchmark così così, assenza di immagini e API più care hanno rotto l’incantesimo... Leggi tutto",
+      "image": "https://images.dday.it/GYHRTR2gqiqgTIoY-VJ8WtE4k8uBFiX_NOoTKDBC3i0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58376/01bac7_ChatGPT_Image_14_ago_2026__11_53_12.png",
+      "publishedAt": "2026-08-14T09:54:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Prepariamoci all'eclissi solare del 2027: ecco dove si vedrà meglio",
+      "link": "https://www.hdblog.it/curiosita/articoli/n667166/eclissi-solare-2027-italia/",
+      "excerpt": "Il 2 agosto 2027 una spettacolare eclissi solare attraverserà il Mediterraneo.",
+      "image": "https://hd2.tudocdn.net/1308735?w=660",
+      "publishedAt": "2026-08-14T09:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Netflix arretra sul gaming e si prepara a chiudere due studi di produzione",
+      "link": "https://www.hdblog.it/games/articoli/n667248/netflix-chiude-due-studi-produzione-giochi/",
+      "excerpt": "Si tratta di Night School Studio e Moonloot Games",
+      "image": "https://hd2.tudocdn.net/1176454?w=660",
+      "publishedAt": "2026-08-14T09:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Halo: Campaign Evolved: la patch invalida i salvataggi a metà missione",
+      "link": "https://www.tomshw.it/videogioco/halo-campaign-evolved-la-patch-invalida-i-salvataggi-a-meta-missione",
+      "excerpt": "Aberrazione cromatica e grana cinematografica potranno essere disattivate separatamente con il prossimo aggiornamento di Halo: Campaign Evolved. Halo Support ha confermato che la…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103018/news-flash-594631.png",
+      "publishedAt": "2026-08-14T09:35:11+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "2K si prepara a sfidare EA FC con un suo gioco di calcio? Nasce Small Axe Studios",
+      "link": "https://www.hdblog.it/games/articoli/n667225/2k-small-axe-studios-fifa-ea-nuovo-gioco-calcio/",
+      "excerpt": "Gli indizi ci sono.",
+      "image": "https://hd2.tudocdn.net/1362841?w=660",
+      "publishedAt": "2026-08-14T09:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Belkin 3 in 1 MagSafe al 47%, ricarica iPhone, Watch e AirPods insieme",
+      "link": "https://www.tomshw.it/offerte/belkin-3-in-1-magsafe-al-47-ricarica-iphone-watch-e-airpods-insieme",
+      "excerpt": "Il Belkin 3 in 1 MagSafe è a 79,99€ su Amazon, con uno sconto del 47% sul listino di 149,99€. Una sola base può alimentare contemporaneamente iPhone, Apple Watch e AirPods,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107584/tomshw-offer-799076.png",
+      "publishedAt": "2026-08-14T09:32:53+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Nothing OS 5.0 in anteprima su Phone (3): candidature per la beta aperte pochi giorni",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667253/nothing-os-5-android-17-beta-candidati/",
+      "excerpt": "Nothing cerca possessori di Phone (3) disposti a provare in anteprima il prossimo software, probabilmente Nothing OS 5.0 basato su Android 17. Candidature aperte fino al 17 agosto",
+      "image": "https://hd2.tudocdn.net/1315472?w=660",
+      "publishedAt": "2026-08-14T09:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "GPT-5.6 Sol Ultrafast: OpenAI accelera fino a 14 volte",
+      "link": "https://www.tomshw.it/hardware/openai-presenta-gpt-5-6-sol-ultrafast-fino-a-14-volte-piu",
+      "excerpt": "Fino a 750 token di output al secondo e una velocità dichiarata fino a 14 volte superiore al livello Standard: sono i numeri della modalità GPT-5.6 Sol Ultrafast, presentata…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107583/openai-chatgpt-jpg.webp",
+      "publishedAt": "2026-08-14T09:23:12+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "HoverAir Aqua: recensione. Il drone autonomo per sport acquatici è un vero spettacolo",
+      "link": "https://images.dday.it/UezwxrpM7vooJvmvKE6ebMVAuofv-40qZK9RW6WDHww/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58332/20c12b_drone_8.JPG",
+      "excerpt": "Abbiamo provato il nuovo Aqua di HoverAir, il drone pensato per gli sport acquatici che non ha bisogno di pilota: segue il soggetto, riprende, e se cade in acqua si rialza. Tutto…",
+      "image": "https://images.dday.it/UezwxrpM7vooJvmvKE6ebMVAuofv-40qZK9RW6WDHww/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58332/20c12b_drone_8.JPG",
+      "publishedAt": "2026-08-14T09:20:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Trump stanga i droni stranieri: dazi fino al 100% negli USA",
+      "link": "https://www.hdblog.it/droni/articoli/n667246/usa-dazi-droni-componenti-cina/",
+      "excerpt": "Gli USA colpiscono droni e componenti esteri con dazi fino al 100%.",
+      "image": "https://hd2.tudocdn.net/1350026?w=660",
+      "publishedAt": "2026-08-14T09:15:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -23,24 +176,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Suno Studio 2.0 porta l’AI dentro la produzione musicale",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n667238/suno-studio-2-ai-midi-produzione-musicale/",
-      "excerpt": "Suno Studio 2.0 aggiunge MIDI, automazioni e un assistente AI per produrre musica.",
-      "image": "https://hd2.tudocdn.net/1362876?w=660",
-      "publishedAt": "2026-08-14T08:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Paramount-Warner Bros: a ottobre scatta la penale shock da 7 milioni di $ al giorno",
-      "link": "https://www.hdblog.it/mercato/articoli/n667241/paramount-warner-bros-acquisizione-problemi/",
-      "excerpt": "Il CEO minaccia l'addio alla California.",
-      "image": "https://hd2.tudocdn.net/1362887?w=660",
-      "publishedAt": "2026-08-14T08:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "ChatGPT osserva cosa fai sul Mac e se lo ricorda: arriva Computer History",
       "link": "https://images.dday.it/nFD1gNehebYjGYxZuUH6OgxNuNj0Qx2LnpSY4r0Qf6Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58374/6d01bc_snal_Senza_titolo-2.jpg",
       "excerpt": "Computer History porta ChatGPT dentro la cronologia d’uso del Mac. OpenAI annuncia anche Google Drive integrato nella chat e Ultrafast, GPT-5.6 Sol fino a 14 volte più veloce...…",
@@ -50,15 +185,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Fairphone 6+, filtrano data di lancio e prezzo del nuovo smartphone modulare",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667222/fairphone-6-plus-prezzo-specifiche-data-lancio/",
-      "excerpt": "Il lancio potrebbe essere dietro l'angolo.",
-      "image": "https://hd2.tudocdn.net/1362218?w=660",
-      "publishedAt": "2026-08-14T08:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Gemini 3.7 Flash è già qui: più efficace con codice e agenti. Fino a fine anno costa la metà di 3.6 Flash",
       "link": "https://images.dday.it/KtigXI0rmW3srW0EZOBMYmxpNKclAlp1MjbEj71vVFg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58373/b0dfbd_gemini-3-7-flash.width-2200.format-webp.jpeg",
       "excerpt": "La nuova versione arriva appena tre settimane dopo Gemini 3.6 Flash. E fino a fine anno il costo è dimezzato... Leggi tutto",
@@ -66,105 +192,6 @@
       "publishedAt": "2026-08-14T08:29:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Galaxy Z Fold8 smontato da iFixit: piccoli progressi, ma ancora non ci siamo",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667243/galaxy-z-fold8-riparabilita-voto-ifixit/",
-      "excerpt": "Quanto è semplice riparare Samsung Galaxy Z Fold8? Il teardown di iFixit evidenzia alcuni progressi, ma anche i problemi del display pieghevole e i dubbi sulla protezione dalla…",
-      "image": "https://hd2.tudocdn.net/1362882?w=660",
-      "publishedAt": "2026-08-14T08:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "WindTre, ricavi in calo del 4% nella prima metà 2026: pesa il wholesale",
-      "link": "https://www.hdblog.it/h3g/articoli/n667240/windtre-prima-meta-2026-andamento-finanze-clienti/",
-      "excerpt": "WindTre chiude il primo semestre 2026 con ricavi per 1,842 miliardi di euro, in calo del 4%. Pesano soprattutto le prestazioni del wholesale, mentre l’EBITDA scende dell’11%",
-      "image": "https://hd2.tudocdn.net/1351015?w=660",
-      "publishedAt": "2026-08-14T08:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Corsair 3500X LX-R RGB al 62%, un affare per una build pulita",
-      "link": "https://www.tomshw.it/offerte/corsair-3500x-lx-r-rgb-al-62-un-affare-per-una-build-pulita",
-      "excerpt": "Il Corsair 3500X LX-R RGB costa 74,81€ su Amazon, con uno sconto del 62% rispetto ai 194,90€ di listino. È il minimo storico per questo case panoramico bianco, già equipaggiato…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107573/tomshw-offer-798793.png",
-      "publishedAt": "2026-08-14T08:03:40+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Esodo estivo, le previsioni sul traffico nel weekend di Ferragosto: quando partire",
-      "link": "https://www.hdmotori.it/esodo-estivo-previsioni-traffico-ferragosto/",
-      "excerpt": "Nel fine settimana di Ferragosto bisognerà considerare il rischio di dover fare i conti con giornate da bollino rosso sulle autostrade italiane per via del traffico intenso",
-      "image": "https://hd2.tudocdn.net/1362883?w=660",
-      "publishedAt": "2026-08-14T08:00:46+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "L'intera gamma Fire TV Stick in offerta su Amazon: si parte da 29,99 euro",
-      "link": "https://www.hdblog.it/tv/offerte/n667242/gamma-fire-tv-stick-offerta-amazon/",
-      "excerpt": "Occasione da non perdere per dare una svolta alla tua vecchia TV.",
-      "image": "https://hd2.tudocdn.net/1362878?w=660",
-      "publishedAt": "2026-08-14T07:59:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il gioco gratis dell'Epic Games Store per ferragosto ci porta sulla sabbia",
-      "link": "https://www.hdblog.it/games/articoli/n667220/epic-games-store-gioco-gratis-agosto-2026-come/",
-      "excerpt": "Se vi piace l'esplorazione, è il titolo che fa per voi.",
-      "image": "https://hd2.tudocdn.net/1362834?w=660",
-      "publishedAt": "2026-08-14T07:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Apple iPhone X, da oggi è ufficialmente obsoleto",
-      "link": "https://www.tomshw.it/smartphone/apple-iphone-x-e-obsoleto-stop-ad-assistenza-e-ricambi",
-      "excerpt": "Per iPhone X non sono più disponibili l’assistenza hardware di Apple e i ricambi destinati ai centri autorizzati. La pagina italiana di Supporto, aggiornata il 13 agosto 2026,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107566/news-flash-798726.png",
-      "publishedAt": "2026-08-14T07:42:30+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Xiaomi Mijia Smart Range Hood 3: la cappa si pulisce da sola",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n667236/xiaomi-mijia-smart-range-hood-3/",
-      "excerpt": "La nuova cappa Xiaomi regola l’aspirazione e pulisce la girante ad alta velocità",
-      "image": "https://hd2.tudocdn.net/1362868?w=660",
-      "publishedAt": "2026-08-14T07:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Recensione Marvel Tōkon: Fighting Souls, l'eredità perfetta?",
-      "link": "https://www.tomshw.it/videogioco/recensione-marvel-tokon-fighting-souls",
-      "excerpt": "Quando si parla di picchiaduro a tema Marvel, l'elefante nella stanza ha un nome e un cognome ben precisi: Marvel vs. Capcom. Si tratta di un'eredità a dir poco monumentale,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107563/Tokon-21.jpg",
-      "publishedAt": "2026-08-14T07:39:27+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Epson Lifestudio Plus EF-72 sotto 1.120€, cinema 4K fino a 150 pollici",
-      "link": "https://www.tomshw.it/offerte/epson-lifestudio-plus-ef-72-sotto-1120eur-cinema-4k-fino-a-150-pollici",
-      "excerpt": "Epson Lifestudio Plus EF-72 costa 1.115€ su Amazon, anziché 1.372,49€ di listino, con uno sconto del 19% e 257,49€ risparmiati. La combinazione di immagine 4K PRO-UHD, diagonale…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107567/tomshw-offer-798743.png",
-      "publishedAt": "2026-08-14T07:33:01+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Alzheimer, una chirurgia controversa ora affronta i test clinici",
-      "link": "https://www.tomshw.it/scienze/alzheimer-una-chirurgia-controversa-ora-affronta-i-test-clinici",
-      "excerpt": "Gruppi clinici in diversi Paesi stanno avviando sperimentazioni controllate sulla anastomosi linfatico-venosa cervicale profonda, o dcLVA, una procedura proposta contro la…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107556/alzheimer-una-chirurgia-controversa-ora-affronta-i-test-clinici.png",
-      "publishedAt": "2026-08-14T07:16:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Instagram cambia logo dopo 10 anni: nuovo wordmark più moderno, ma non convince tutti",
@@ -185,20 +212,29 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Migliori ripetitori Wi-Fi e range extender (agosto 2026)",
-      "link": "https://www.tomshw.it/guide/migliori-ripetitori-wi-fi",
-      "excerpt": "Una rete domestica stabile non dipende solo dalla velocità del contratto Internet: spesso il vero limite è la copertura Wi-Fi nelle stanze più lontane dal router, dietro pareti…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/88641/migliori-ripetitori-wifi-range-ext-copertina.jpg",
-      "publishedAt": "2026-08-14T06:09:09+00:00",
+      "title": "Migliori VPN per la Svizzera (agosto 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-vpn-per-la-svizzera",
+      "excerpt": "La Svizzera è spesso associata a un livello alto di tutela della privacy, ma questo non significa che ogni connessione usata nel Paese sia automaticamente sicura. Chi vive, lavora…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/88993/migliori-vpn-svizzera-copertina.jpg",
+      "publishedAt": "2026-08-14T06:14:06+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Migliori schede video gaming per il FullHD (agosto 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-schede-video-gaming-fullhd",
-      "excerpt": "Giocare in Full HD (1.920 x 1.080 pixel) continua a essere una scelta molto sensata per chi vuole un PC reattivo, capace di sostenere frame rate elevati senza inseguire per forza…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/88637/migliori-schede-video-fullhd-copertina.jpg",
-      "publishedAt": "2026-08-14T06:06:25+00:00",
+      "title": "Migliori stampanti 3D a resina (agosto 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-stampanti-3d-resina",
+      "excerpt": "Le stampanti 3D a resina sono la scelta più indicata quando il risultato finale deve mostrare dettagli fini, superfici lisce e bordi netti: miniature, busti, gioielli, componenti…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/88743/migliori-stampanti-3d-resina-copertina.jpg",
+      "publishedAt": "2026-08-14T06:11:31+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Come ridurre del 40% i tempi di qualifica fornitori con n8n e l'AI",
+      "link": "https://www.tomshw.it/aioperator/come-ridurre-del-40-i-tempi-di-qualifica-fornitori-con-n8n-e-lai",
+      "excerpt": "Una PMI manifatturiera di circa ottanta persone qualificava un nuovo fornitore in dieci ore di lavoro effettivo, distribuite su quasi tre settimane di calendario. Il tempo finiva…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107503/02-acq17-cover.jpg",
+      "publishedAt": "2026-08-13T16:14:21+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -221,56 +257,20 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "È morto Hiroshi Okuda, l’uomo che spinse Toyota a scommettere sulla Prius e sulle ibride",
-      "link": "https://images.dday.it/uQurZcLuCGg5QoPpArBOas-IuyslGBNE9i8zI2lJchU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58368/1ff072_prius_thumb.jpg",
-      "excerpt": "L’ex presidente e chairman di Toyota aveva 93 anni. Sostenne con forza il progetto Prius, anticipando di molti anni una strategia ibrida che oggi rappresenta uno dei pilastri del…",
-      "image": "https://images.dday.it/uQurZcLuCGg5QoPpArBOas-IuyslGBNE9i8zI2lJchU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58368/1ff072_prius_thumb.jpg",
-      "publishedAt": "2026-08-13T13:15:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Un ricercatore in guerra con Microsoft sta rendendo pubbliche le vulnerabilità zero-day di Windows",
-      "link": "https://images.dday.it/W7yTeW7dREqSn6hWdP0qhykj9UI84I7lAG916y0cY78/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58367/9efb5d_ec.jpg",
-      "excerpt": "C'è poco da fare, se non correre ai ripari e preparare le patch: quelle che il ricercatore di sicurezza che si fa chiamare Nightmare Eclipse pubblica sono falle gravi che…",
-      "image": "https://images.dday.it/W7yTeW7dREqSn6hWdP0qhykj9UI84I7lAG916y0cY78/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58367/9efb5d_ec.jpg",
-      "publishedAt": "2026-08-13T12:26:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "I video degli streamer su Twitch saranno usati per addestrare l’IA di Amazon. E l’opzione è attiva di default",
-      "link": "https://images.dday.it/FbBtmllvxJtc0i3uE1U_RVCoOs_g6fqa2orotmzevTY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58365/2356f3_Depositphotos_368454066_XL.jpg",
-      "excerpt": "La piattaforma consentirà ad Amazon di usare video e audio pubblicati dai creator per l'addestramento dei modelli generativi. Gli utenti possono disattivare la funzione, ma devono…",
-      "image": "https://images.dday.it/FbBtmllvxJtc0i3uE1U_RVCoOs_g6fqa2orotmzevTY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58365/2356f3_Depositphotos_368454066_XL.jpg",
-      "publishedAt": "2026-08-13T10:09:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Validare il codice scritto dall'AI, ci si guadagna più che a sviluppare",
-      "link": "https://www.tomshw.it/business/validare-il-codice-scritto-dallai-ci-si-guadagna-piu-che-a-sviluppare",
-      "excerpt": "Blacksmith ha chiuso un round Series B da 45 milioni di dollari guidato da Peak XV Partners, con la partecipazione di GV e Y Combinator. La valutazione è salita a quasi dieci…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107366/11-blacksmith-validazione-codice-ai-cover.jpg",
-      "publishedAt": "2026-08-13T09:55:03+00:00",
+      "title": "La corsa ai data center AI sta triplicando il prezzo di un server qualunque",
+      "link": "https://www.tomshw.it/business/la-corsa-ai-data-center-ai-sta-triplicando-il-prezzo-di-un-server-qualunque",
+      "excerpt": "Un preventivo reale per un server destinato a CRM, ERP e storage aziendale, niente che abbia a che fare con l'intelligenza artificiale, oggi supera i 34.000 euro. Il conto lo fa…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107122/ywmezinsn58km9jjaxpdg.jpg",
+      "publishedAt": "2026-08-13T10:20:48+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "I licenziamenti \"per colpa dell'AI\" affondano la produttività aziendale. Perché?",
-      "link": "https://www.tomshw.it/business/i-licenziamenti-per-colpa-dellai-affondano-la-produttivita-aziendale-perche",
-      "excerpt": "Le aziende licenziano invocando l'intelligenza artificiale, e promettono margini più alti e organici più leggeri. Un nuovo studio su oltre 3.200 aziende statunitensi rovescia la…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107361/04-licenziamenti-ai-produttivita-cover.jpg",
+      "title": "Mappare i processi aziendali è un nuovo business, alto valore che crescerà ancora",
+      "link": "https://www.tomshw.it/business/mappare-i-processi-aziendali-e-un-nuovo-business-alto-valore-che-crescera-ancora",
+      "excerpt": "Skan AI ha chiuso un round Series C da 63 milioni di dollari, guidato da Cathay Innovation e Dell Technologies Capital. Tra i soci figurano anche Citi Ventures, Bloomberg Beta,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107365/13-skan-ai-context-graph-cover.jpg",
       "publishedAt": "2026-08-13T09:55:03+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Scarpe da trekking impermeabili: quando servono davvero",
-      "link": "https://www.tomshw.it/altro/scarpe-da-trekking-impermeabili-quando-servono-davvero",
-      "excerpt": "Quando si tratta di abbigliamento e attrezzatura per la montagna, la membrana impermeabile è uno degli elementi più desiderati, ma anche uno dei più sopravvalutati se usata nel…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105211/Scarpe-da-trekking-impermeabili-quando-servono-davvero.png",
-      "publishedAt": "2026-08-03T14:19:22+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
