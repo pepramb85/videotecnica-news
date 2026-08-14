@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-08-14T03:58:37.388723+00:00",
+  "generatedAt": "2026-08-14T05:37:56.478226+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "GPT-5.6 Sol cambia marcia: con Ultrafast l’AI arriva a velocità record",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n667228/openai-ultrafast-gpt-5-6-sol-14-volte-veloce/",
+      "excerpt": "Ultrafast accelera GPT-5.6 Sol fino a 750 token al secondo grazie ai chip Cerebras.",
+      "image": "https://hd2.tudocdn.net/1362849?w=660",
+      "publishedAt": "2026-08-14T05:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "AOC 27B36X sotto i 100€, 144 Hz e IPS per giocare senza spendere troppo",
       "link": "https://www.tomshw.it/offerte/aoc-27b36x-sotto-i-100eur-144-hz-e-ips-per-giocare-senza-spendere-troppo",
@@ -118,15 +127,6 @@
       "excerpt": "La missione per salvare il telescopio Swift continua dopo il recupero del veicolo LINK.",
       "image": "https://hd2.tudocdn.net/1353235?w=660",
       "publishedAt": "2026-08-13T16:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Xiaomi lancia un nuovo massaggiatore economico da un mese di autonomia",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n667198/xiaomi-pistola-massaggiante-economica/",
-      "excerpt": "Xiaomi presenta Mijia Multi-Head Massage Gun 3, una pistola massaggiante con tre testine multipunto, motore brushless, fino a 25 kg di spinta e 310 minuti di autonomia",
-      "image": "https://hd2.tudocdn.net/1362801?w=660",
-      "publishedAt": "2026-08-13T16:15:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
