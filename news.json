@@ -1,9 +1,63 @@
 {
-  "generatedAt": "2026-08-15T12:21:27.581333+00:00",
+  "generatedAt": "2026-08-15T14:14:20.205806+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Gemma Translator, il traduttore con l’AI di Google che funziona senza Internet",
+      "link": "https://www.hdblog.it/google/articoli/n667125/gemma-translator-ai-google-senza-internet/",
+      "excerpt": "Il dispositivo sfrutta un Raspberry Pi 5.",
+      "image": "https://hd2.tudocdn.net/1362687?w=660",
+      "publishedAt": "2026-08-15T13:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Thrustmaster T300RS GT + TH8S a 321,54€, il kit per correre sul serio",
+      "link": "https://www.tomshw.it/offerte/thrustmaster-t300rs-gt-th8s-a-32154eur-il-kit-per-correre-sul-serio",
+      "excerpt": "Il Thrustmaster T300RS GT con cambio TH8S costa 321,54€ su Amazon, contro i 353,21€ di listino e con uno sconto del 9%. Il bundle riunisce in un solo acquisto i controlli…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107712/tomshw-offer-800771.png",
+      "publishedAt": "2026-08-15T13:33:46+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Game of Thrones: War for Westeros batte un colpo con un trailer e un appuntamento",
+      "link": "https://www.hdblog.it/games/articoli/n667330/game-of-thrones-war-for-westeros-trailer-gamescom/",
+      "excerpt": "È ferragosto, ma fidatevi: winter is coming.",
+      "image": "https://hd2.tudocdn.net/1363047?w=660",
+      "publishedAt": "2026-08-15T13:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Batterie stilo in offerta su Amazon: fai scorta e risparmia",
+      "link": "https://images.dday.it/VIf8NIpAcQvPRv1Wa1vvBT6sUASWPjdkZKJ0AUN7AWw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58383/55953e_61kutZZv4CL._AC_SL1280_.jpg",
+      "excerpt": "Le classiche batterie stilo servono sempre: approfitta dei prezzi in offerta per averne una buona scorta a casa... Leggi tutto",
+      "image": "https://images.dday.it/VIf8NIpAcQvPRv1Wa1vvBT6sUASWPjdkZKJ0AUN7AWw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58383/55953e_61kutZZv4CL._AC_SL1280_.jpg",
+      "publishedAt": "2026-08-15T13:10:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Un cannone da 50 mm contro droni e missili: la nuova difesa USA",
+      "link": "https://www.hdblog.it/droni/articoli/n667281/cannone-50mm-droni-difesa-aerea/",
+      "excerpt": "Un cannone da 50 mm con munizioni guidate punta a fermare droni e missili a basso costo.",
+      "image": "https://hd2.tudocdn.net/1362956?w=660",
+      "publishedAt": "2026-08-15T12:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung Good Lock ha un problema con widget e cartelle",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667328/samsung-good-lock-home-uo-bug-galaxy-z-fold-8-s26/",
+      "excerpt": "Bug segnalati su Galaxy Z Fold 8 e Galaxy S26: di cosa si tratta.",
+      "image": "https://hd2.tudocdn.net/1360658?w=660",
+      "publishedAt": "2026-08-15T12:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Roborock Qrevo S Pro a 369,99€, lava i panni a 75°C e si svuota da solo",
       "link": "https://www.tomshw.it/offerte/roborock-qrevo-s-pro-a-36999eur-lava-i-panni-a-75c-e-si-svuota-da-solo",
@@ -86,65 +140,11 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Samsung TV Plus punta sullo sport: nasce un canale attivo 24 ore",
-      "link": "https://www.hdblog.it/samsung/articoli/n667177/samsung-tv-plus-your-sports-news/",
-      "excerpt": "Samsung TV Plus aggiunge nel Regno Unito un canale gratuito dedicato alle notizie sportive.",
-      "image": "https://hd2.tudocdn.net/1055867?w=660",
-      "publishedAt": "2026-08-15T09:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "160€ in meno su Apple iPhone 17 Pro Max 512GB, mai costato così poco",
       "link": "https://www.tomshw.it/offerte/160eur-in-meno-su-apple-iphone-17-pro-max-512gb-mai-costato-cosi-poco",
       "excerpt": "Apple iPhone 17 Pro Max 512GB costa 1.579€ su Amazon anziché 1.739€, con uno sconto del 9% e 160€ che restano in tasca. È anche il minimo storico della configurazione Arancione…",
       "image": "https://cdn.tomshw.it/storage/media/2026/08/107709/tomshw-offer-800612.png",
       "publishedAt": "2026-08-15T09:06:20+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Su WhatsApp si potranno scegliere le emoji preferite per le reazioni",
-      "link": "https://www.hdblog.it/android/articoli/n667327/whatsapp-reazioni-emoji-come-cambiare-preferite/",
-      "excerpt": "La novità è stata avvistata ora anche su iOS.",
-      "image": "https://hd2.tudocdn.net/1332977?w=660",
-      "publishedAt": "2026-08-15T08:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Bose QuietComfort Ultra (2ª Gen): Amazon sconta del 35% le cuffie con audio spaziale",
-      "link": "https://www.hdblog.it/indossabili/offerte/n667336/bose-quietcomfort-ultra-2a-gen-sconto-amazon/",
-      "excerpt": "Le Bose QuietComfort Ultra Gen 2 con audio spaziale avanzato, modalità Cinema e cancellazione del rumore sono a prezzo ridotto su Amazon.",
-      "image": "https://hd2.tudocdn.net/1363055?w=660",
-      "publishedAt": "2026-08-15T08:44:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il monitor ASUS ROG Strix da 31,5″ a 343,20€ regge gli FPS a 280 Hz",
-      "link": "https://www.tomshw.it/offerte/il-monitor-asus-rog-strix-da-315-a-34320eur-regge-gli-fps-a-280-hz",
-      "excerpt": "ASUS ROG Strix XG32WCMS costa 343,20€ su Amazon, con uno sconto del 25% sui 459€ di listino. Il pannello curvo QHD da 31,5 pollici lavora a 280 Hz, una combinazione pensata per…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107708/tomshw-offer-800572.png",
-      "publishedAt": "2026-08-15T08:34:08+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "iPhone 20, lo schermo curvo sarà senza cornici grazie a un \"trucco\"",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667322/iphone-20-display-senza-cornici-vetro-rifrazione/",
-      "excerpt": "I rumor insistono.",
-      "image": "https://hd2.tudocdn.net/1363025?w=660",
-      "publishedAt": "2026-08-15T08:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Abbiamo barattato l'arte dell'orientamento per la schiavitù del GPS nei videogiochi",
-      "link": "https://www.tomshw.it/videogioco/abbiamo-barattato-larte-dellorientamento-per-la-schiavitu-del-gps-nei-videogiochi",
-      "excerpt": "Sono sempre stato conosciuto per avere un'ottima memoria, pensate che ricordo alla perfezione date e avvenimento anche di distanza di anni, anche solo di semplici appuntamento o…",
-      "image": "https://cdn.tomshw.it/storage/media/2025/08/65769/Hell-is-Us.jpg",
-      "publishedAt": "2026-08-14T13:58:13+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -221,15 +221,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Gemini 3.7 Flash è già qui: più efficace con codice e agenti. Fino a fine anno costa la metà di 3.6 Flash",
-      "link": "https://images.dday.it/KtigXI0rmW3srW0EZOBMYmxpNKclAlp1MjbEj71vVFg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58373/b0dfbd_gemini-3-7-flash.width-2200.format-webp.jpeg",
-      "excerpt": "La nuova versione arriva appena tre settimane dopo Gemini 3.6 Flash. E fino a fine anno il costo è dimezzato... Leggi tutto",
-      "image": "https://images.dday.it/KtigXI0rmW3srW0EZOBMYmxpNKclAlp1MjbEj71vVFg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58373/b0dfbd_gemini-3-7-flash.width-2200.format-webp.jpeg",
-      "publishedAt": "2026-08-14T08:29:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
       "title": "Resident Evil Requiem: la versione fisica domina ancora in Europa",
       "link": "https://www.tomshw.it/videogioco/resident-evil-requiem-fisico-al-55-in-francia-22-negli-usa",
       "excerpt": "In Francia le copie fisiche di Resident Evil Requiem hanno superato quelle digitali, mentre in Giappone i due formati sono rimasti quasi alla pari. Le stime diffuse da Ampere…",
@@ -239,11 +230,29 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "La revisione del codice quando metà del lavoro arriva da un modello",
-      "link": "https://www.tomshw.it/business/la-revisione-del-codice-quando-meta-del-lavoro-arriva-da-un-modello",
-      "excerpt": "Il codice generato da un modello richiede una revisione umana completa. La compilazione riuscita, i test superati e la leggibilità dell’output non garantiscono sicurezza,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107043/weekend-desk-cover-765561.png",
-      "publishedAt": "2026-08-12T11:06:15+00:00",
+      "title": "AI sotto controllo: ecco il nuovo A10 AI Gateway",
+      "link": "https://www.tomshw.it/business/a10-ai-gateway-disponibile-governa-modelli-costi-e-sicurezza",
+      "excerpt": "A10 AI Gateway concentra in un unico piano di controllo le interazioni tra applicazioni, agenti AI e modelli linguistici usati dalle imprese. La piattaforma di A10 Networks è…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107437/news-flash-779181.png",
+      "publishedAt": "2026-08-13T13:35:11+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Sophie Adenot: prima francese nello spazio il 18 agosto",
+      "link": "https://www.tomshw.it/scienze/sophie-adenot-prima-donna-francese-in-passeggiata-spaziale-il-18-agosto",
+      "excerpt": "Il 18 agosto 2026 Sophie Adenot raggiungerà un doppio traguardo: affronterà la prima passeggiata spaziale della sua carriera e diventerà la prima donna francese a svolgere…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107107/meir.jpg",
+      "publishedAt": "2026-08-12T13:25:14+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Helldivers 2: con la nuova patch le truppe SEAF diventano alleati",
+      "link": "https://www.tomshw.it/videogioco/helldivers-2-le-truppe-seaf-ora-combattono-al-tuo-fianco",
+      "excerpt": "Le truppe della Super Terra possono ora combattere direttamente al fianco dei giocatori in Helldivers 2. Arrowhead Game Studios ha pubblicato il 12 agosto Devoid of Liberty 7.0.0,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107080/SEAF-16x9-1920x1080-1-ae034fec9bc74edb18c6.jpg",
+      "publishedAt": "2026-08-12T12:35:40+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -262,15 +271,6 @@
       "excerpt": "Il simbolo di Bluetooth non è un monogramma medievale appartenuto a un sovrano vichingo. È una bind-rune moderna costruita a partire dalle iniziali H e B, quelle di Harald…",
       "image": "https://cdn.tomshw.it/storage/media/2026/08/106828/news-flash-736563.png",
       "publishedAt": "2026-08-11T13:55:24+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Claude nasconde un watermark che sopravvive al copia-incolla",
-      "link": "https://www.tomshw.it/hardware/claude-il-watermark-nei-testi-puo-resistere-al-copia-incolla",
-      "excerpt": "I testi prodotti dai modelli supportati di Claude contengono un watermark statistico impercettibile, incorporato direttamente durante la generazione. Anthropic afferma che il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106706/news-flash-735731.png",
-      "publishedAt": "2026-08-11T08:45:34+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
