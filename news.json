@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T04:21:48.147995+00:00",
+  "generatedAt": "2026-08-15T06:23:40.581506+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
@@ -131,24 +131,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Giovani e lavoro: il report ILO lancia l'allarme IA",
-      "link": "https://www.tomshw.it/altro/ilo-67-3-milioni-di-giovani-senza-lavoro-l-ia-puo-frenare",
-      "excerpt": "L’ingresso nel mercato del lavoro si è fatto leggermente più difficile per i giovani: nel 2025 il tasso mondiale di disoccupazione tra i 15 e i 24 anni ha raggiunto il 12,4%,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107693/news-flash-800064.png",
-      "publishedAt": "2026-08-14T15:42:24+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Un satellite lunare per svelare l'alba dell'Universo",
-      "link": "https://www.tomshw.it/scienze/cosmocube-in-orbita-lunare-cerchera-il-segnale-dell-idrogeno-a-21-cm",
-      "excerpt": "Un satellite grande quanto una valigia potrebbe usare la Luna come scudo contro il rumore radio terrestre. Il consorzio britannico CosmoCube sta sviluppando un osservatorio da…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107694/CosmoCubeSmall3.png",
-      "publishedAt": "2026-08-14T15:41:32+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "GeForce NOW esce dalla beta su Linux: il cloud gaming abbatte un altro muro",
       "link": "https://www.hdblog.it/nvidia/articoli/n667176/geforce-now-linux-app-nativa-dlss-4-5/",
       "excerpt": "GeForce NOW arriva nativamente su Linux mentre NVIDIA migliora il DLSS 4.5",
@@ -167,7 +149,7 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "A soli 19,99 euro: la videocamera Ring da interno è un affare",
+      "title": "A soli 29,99 euro: la videocamera Ring da interno è un affare",
       "link": "https://images.dday.it/9KjlDm5XQzq034jBlnjdDEzBGOPtaEn2V_RKJ4w6p1U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58379/2c0f64_61rmWb4W42L._SL1500_.jpg",
       "excerpt": "Scopri la nuova videocamera interna Ring (Indoor Camera 2ª gen.) con audio bidirezionale e copertura per la privacy, ora disponibile a un prezzo speciale su Amazon... Leggi tutto",
       "image": "https://images.dday.it/9KjlDm5XQzq034jBlnjdDEzBGOPtaEn2V_RKJ4w6p1U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58379/2c0f64_61rmWb4W42L._SL1500_.jpg",
@@ -264,6 +246,24 @@
       "publishedAt": "2026-08-14T07:11:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
+    },
+    {
+      "title": "Sole, le incredibili immagini a 19km mostrano 47 vortici",
+      "link": "https://www.tomshw.it/scienze/sole-il-dettaglio-record-di-19-km-rivela-47-vortici-magnetici",
+      "excerpt": "Una sequenza della fotosfera risolta fino a circa 19 chilometri ha mostrato 47 piccoli vortici ai bordi delle concentrazioni di flusso magnetico del Sole. Le immagini ottenute con…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107341/ChatGPT-Image-13-ago-2026,-11_16_40.png",
+      "publishedAt": "2026-08-13T09:18:09+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Tumore vitale ridotto grazie a ultrasuoni e microbolle",
+      "link": "https://www.tomshw.it/scienze/ultrasuoni-e-microbolle-diametro-massimo-del-tumore-vitale-minore-nello-studio-su",
+      "excerpt": "Il diametro massimo del tumore vitale si è ridotto maggiormente nei pazienti trattati con ultrasuoni e microbolle in aggiunta alle terapie già previste contro il carcinoma…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106450/news-flash-701025.png",
+      "publishedAt": "2026-08-10T06:15:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Inventario asset IT con AI: come estrarre, pulire e tenere aggiornato il registro automaticamente",
