@@ -1,9 +1,81 @@
 {
-  "generatedAt": "2026-08-15T10:14:33.998482+00:00",
+  "generatedAt": "2026-08-15T12:21:27.581333+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Roborock Qrevo S Pro a 369,99€, lava i panni a 75°C e si svuota da solo",
+      "link": "https://www.tomshw.it/offerte/roborock-qrevo-s-pro-a-36999eur-lava-i-panni-a-75c-e-si-svuota-da-solo",
+      "excerpt": "Roborock Qrevo S Pro costa 369,99€ su Amazon: il prezzo di listino è 599,99€, lo sconto dichiarato dal merchant è del 38% e il risparmio arriva a 230€. È anche il minimo storico,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107711/tomshw-offer-800724.png",
+      "publishedAt": "2026-08-15T12:03:24+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "SpaceX studia i sistemi vitali per una presenza stabile sulla Luna",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n667187/spacex-base-lunare-riciclo-acqua/",
+      "excerpt": "SpaceX guarda oltre Starship e lavora sui sistemi necessari per vivere stabilmente sulla Luna",
+      "image": "https://hd2.tudocdn.net/1362772?w=660",
+      "publishedAt": "2026-08-15T11:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nintendo 3DS XL, così il modding dà nuova vita alla storica console",
+      "link": "https://www.hdblog.it/nintendo/articoli/n667066/nintendo-3ds-xl-modding/",
+      "excerpt": "Tante funzioni sbloccate con il software homebrew.",
+      "image": "https://hd2.tudocdn.net/1362515?w=660",
+      "publishedAt": "2026-08-15T11:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Opel Corsa Hybrid a 99 euro al mese: la promozione",
+      "link": "https://www.hdmotori.it/opel-corsa-hybrid-a-99-euro-al-mese-la-promozione/",
+      "excerpt": "Opel Corsa Hybrid in offerta fino al 31 agosto: prezzo da 16.550 euro, 33 rate da 99 euro e prima rata a novembre 2026",
+      "image": "https://hd2.tudocdn.net/1363064?w=660",
+      "publishedAt": "2026-08-15T11:00:41+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Huawei, il prossimo smartphone ha un design a passaporto ma non è pieghevole",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667326/huawei-pura-x-passaporto-design-lancio-settembre/",
+      "excerpt": "Una sorta di Pura X Max che non si apre.",
+      "image": "https://hd2.tudocdn.net/1338612?w=660",
+      "publishedAt": "2026-08-15T10:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Anthropic ha svelato come riconoscerà i testi generati da Claude: userà SynthID di Google. Abbiamo creato un'app demo",
+      "link": "https://images.dday.it/lnX5WtKa7r4jABXdjSfhm43dCkj3KC9STrclezNzQzo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58382/5b9ea6_small_ChatGPT_Image_15_ago_2026__12_31_13_copia.png",
+      "excerpt": "La nuova FAQ di Anthropic mette un nome al sistema scelto per Claude: una versione di SynthID-Text di Google, senza caratteri nascosti, token extra o dati identificativi... Leggi…",
+      "image": "https://images.dday.it/lnX5WtKa7r4jABXdjSfhm43dCkj3KC9STrclezNzQzo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58382/5b9ea6_small_ChatGPT_Image_15_ago_2026__12_31_13_copia.png",
+      "publishedAt": "2026-08-15T10:45:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "UGREEN 130W sotto i 19€, tre porte per ricaricare in auto",
+      "link": "https://www.tomshw.it/offerte/ugreen-130w-sotto-i-19eur-tre-porte-per-ricaricare-in-auto",
+      "excerpt": "UGREEN Caricatore Auto USB-C 130W costa 18,99€ su Amazon, anziché 24,99€, con uno sconto dichiarato del 24% e 6€ di risparmio. Le tre porte permettono di alimentare anche…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107710/tomshw-offer-800670.png",
+      "publishedAt": "2026-08-15T10:33:01+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Android 17 QPR2 ti lascia scegliere il colore che vuoi per l'interfaccia",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667329/android-17-qpr2-pixel-colori-dinamici-come-novita/",
+      "excerpt": "Questione di sfumature: ecco come Google potenzia i colori dinamici.",
+      "image": "https://hd2.tudocdn.net/1363044?w=660",
+      "publishedAt": "2026-08-15T10:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Microsoft Word 1.1a del 1990 torna a funzionare su Windows 11",
       "link": "https://www.hdblog.it/microsoft/articoli/n667158/microsoft-word-11a-su-windows-11/",
@@ -64,60 +136,6 @@
       "excerpt": "I rumor insistono.",
       "image": "https://hd2.tudocdn.net/1363025?w=660",
       "publishedAt": "2026-08-15T08:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone 17 Pro Max 512GB star del Ferragosto di Amazon: nuovo minimo storico",
-      "link": "https://www.hdblog.it/smartphone/offerte/n667335/iphone-17-pro-max-512gb-minimo-storico-amazon/",
-      "excerpt": "Nel giorno di Ferragosto, iPhone 17 Pro Max da 512GB (Arancione Cosmico) raggiunge un nuovo minimo storico su Amazon.",
-      "image": "https://hd2.tudocdn.net/1289386?w=660",
-      "publishedAt": "2026-08-15T08:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung vuole sfidare le AirPods Max di Apple con un paio di cuffie over ear",
-      "link": "https://www.hdblog.it/indossabili/articoli/n667320/samsung-galaxy-cuffie-over-ear-h1-airpods-max-2027/",
-      "excerpt": "L'indizio arriva direttamente da Samsung.",
-      "image": "https://hd2.tudocdn.net/1363022?w=660",
-      "publishedAt": "2026-08-15T07:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "PowerToys porta l’AI dei Copilot+ PC direttamente sul desktop",
-      "link": "https://www.hdblog.it/windows/articoli/n667183/powertoys-ai-phi-silica-windows-11/",
-      "excerpt": "PowerToys integra Phi Silica per elaborare testi con l’AI direttamente sul PC",
-      "image": "https://hd2.tudocdn.net/1362766?w=660",
-      "publishedAt": "2026-08-15T07:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung Galaxy S26 Ultra, ora a meno di 900€ con l'offerta di Ferragosto",
-      "link": "https://www.hdblog.it/smartphone/offerte/n667331/samsung-galaxy-s26-ultra-offerta-ferragosto26/",
-      "excerpt": "Il Samsung Galaxy S26 Ultra è in offerta e nel corso del weekend di Ferragosto scende sotto quota 900 euro.",
-      "image": "https://hd2.tudocdn.net/1351234?w=660",
-      "publishedAt": "2026-08-15T07:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Lenovo IdeaPad Slim 3 a 449,90€, minimo storico per studio e lavoro",
-      "link": "https://www.tomshw.it/offerte/lenovo-ideapad-slim-3-a-44990eur-minimo-storico-per-studio-e-lavoro",
-      "excerpt": "Lenovo IdeaPad Slim 3 costa 449,90€ su Amazon, anziché 599€, con uno sconto del 25%. A questa cifra mette insieme Ryzen 5, SSD rapido e display ampio per coprire studio, lavoro…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107706/tomshw-offer-800457.png",
-      "publishedAt": "2026-08-15T07:04:44+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Snapdragon 8 Elite Gen 6 Pro, il prossimo chip top di Qualcomm vola su AnTuTu",
-      "link": "https://www.hdblog.it/hardware/articoli/n667325/snapdragon-8-elite-gen-6-pro-benchmark-antutu-soc/",
-      "excerpt": "Filtra un primo benchmark decisamente promettente.",
-      "image": "https://hd2.tudocdn.net/1290855?w=660",
-      "publishedAt": "2026-08-15T06:55:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -212,20 +230,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Instagram cambia logo dopo 10 anni: nuovo wordmark più moderno, ma non convince tutti",
-      "link": "https://images.dday.it/T2YdXehOHOED7T7VDL4izZ89-CgqM3FcWBUFERuFdrQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58372/f9f471_773876032_18619179328031562_7686782652632862128_n.jpg",
-      "excerpt": "La piattaforma abbandona la scritta corsiva utilizzata per un decennio e introduce un carattere ibrido tra corsivo e stampatello... Leggi tutto",
-      "image": "https://images.dday.it/T2YdXehOHOED7T7VDL4izZ89-CgqM3FcWBUFERuFdrQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58372/f9f471_773876032_18619179328031562_7686782652632862128_n.jpg",
-      "publishedAt": "2026-08-14T07:11:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Trump Media sotto accusa per l'uso di Truth API",
-      "link": "https://www.tomshw.it/business/trump-media-causa-per-bloccare-il-feed-rapido-dei-post-ai-trader",
-      "excerpt": "Un accesso più rapido ai post di Donald Trump e degli altri account influenti di Truth Social è al centro di una nuova causa contro Trump Media & Technology Group. The Intercept…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107161/463906873.jpg",
-      "publishedAt": "2026-08-12T16:05:07+00:00",
+      "title": "Resident Evil Requiem: la versione fisica domina ancora in Europa",
+      "link": "https://www.tomshw.it/videogioco/resident-evil-requiem-fisico-al-55-in-francia-22-negli-usa",
+      "excerpt": "In Francia le copie fisiche di Resident Evil Requiem hanno superato quelle digitali, mentre in Giappone i due formati sono rimasti quasi alla pari. Le stime diffuse da Ampere…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107457/ar4v90.jpg",
+      "publishedAt": "2026-08-13T14:13:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -239,11 +248,11 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Modelli AI in locale: le quattro domande da farsi prima di iniziare",
-      "link": "https://www.tomshw.it/hardware/modelli-ai-in-locale-le-quattro-domande-da-farsi-prima-di-iniziare",
-      "excerpt": "Eseguire un modello sul proprio computer richiede una valutazione di memoria, velocità, qualità e vantaggi concreti. Questi quattro aspetti sono collegati: la quantizzazione…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106880/weekend-desk-cover-737069.png",
-      "publishedAt": "2026-08-11T16:12:14+00:00",
+      "title": "Apollo divide l'AI: hardware in utile, software in perdita",
+      "link": "https://www.tomshw.it/business/apollo-hardware-ai-al-41-di-margine-modelli-e-app-al-59",
+      "excerpt": "Per ogni 41% di margine medio generato dai produttori di semiconduttori e attrezzature, il livello dell’intelligenza artificiale più vicino agli utenti registra un margine…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106830/2441875.jpg",
+      "publishedAt": "2026-08-11T13:56:26+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -262,15 +271,6 @@
       "excerpt": "I testi prodotti dai modelli supportati di Claude contengono un watermark statistico impercettibile, incorporato direttamente durante la generazione. Anthropic afferma che il…",
       "image": "https://cdn.tomshw.it/storage/media/2026/08/106706/news-flash-735731.png",
       "publishedAt": "2026-08-11T08:45:34+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Se l'IA fa i compiti junior, chi formerà i futuri esperti?",
-      "link": "https://www.tomshw.it/hardware/ia-automatizzare-i-compiti-junior-potrebbe-lasciare-senza-esperti-chi-dovra-controllarla",
-      "excerpt": "Affidare all’intelligenza artificiale i compiti tradizionalmente svolti dai professionisti junior potrebbe eliminare una parte essenziale del percorso con cui si formano gli…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106528/news-flash-701880.png",
-      "publishedAt": "2026-08-10T12:50:29+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
