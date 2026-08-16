@@ -1,15 +1,33 @@
 {
-  "generatedAt": "2026-08-16T18:17:09.607539+00:00",
+  "generatedAt": "2026-08-16T20:12:56.945841+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Intel Core i5-14600K a 295€, l’upgrade desktop che fa risparmiare 47,75€",
+      "link": "https://www.tomshw.it/offerte/intel-core-i5-14600k-a-295eur-lupgrade-desktop-che-fa-risparmiare-4775eur",
+      "excerpt": "Intel Core i5-14600K è a 295€ su Amazon, con 47,75€ di risparmio sul listino di 342,75€ e uno sconto del 14%. L’offerta interessa soprattutto chi sta assemblando un PC desktop o…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107737/tomshw-offer-818226.png",
+      "publishedAt": "2026-08-16T18:34:12+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "Il tuo Galaxy Watch riceverà One UI 9 Watch? La lista dei modelli compatibili",
       "link": "https://www.hdblog.it/indossabili/articoli/n667372/samsung-galaxy-one-ui-watch-modelli-compatibili/",
       "excerpt": "Al momento è ancora un'esclusiva dei nuovi Galaxy Watch 9 e Galaxy Watch Ultra 2.",
       "image": "https://hd2.tudocdn.net/1359052?w=660",
       "publishedAt": "2026-08-16T18:01:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Motorola Edge 60 Fusion in offerta a 235€: la migliore scelta in questa fascia di prezzo?",
+      "link": "https://www.hdblog.it/smartphone/offerte/n667373/motorola-edge-60-fusion-offerta-agosto-2026/",
+      "excerpt": "Il Motorola Edge 60 Fusion è in offerta e diventa la scelta giusta per un nuovo smartphone economico.",
+      "image": "https://hd2.tudocdn.net/1347927?w=660",
+      "publishedAt": "2026-08-16T17:15:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -86,24 +104,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Quattro Motorola Moto Tag sotto i 110€, per ritrovare chiavi, zaini e valigie",
-      "link": "https://www.tomshw.it/offerte/quattro-motorola-moto-tag-sotto-i-110eur-per-ritrovare-chiavi-zaini-e-valigie",
-      "excerpt": "Quattro Motorola Moto Tag costano 109,95€ su Amazon, anziché 129,65€, con uno sconto del 15%. Il kit permette di distribuire un tracker fra chiavi, zaino, valigia e un altro…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107732/tomshw-offer-818113.png",
-      "publishedAt": "2026-08-16T13:03:16+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Candy Rapidò al 48% asciuga 9 kg con sette cicli rapidi, un affare",
-      "link": "https://www.tomshw.it/offerte/candy-rapido-al-48-asciuga-9-kg-con-sette-cicli-rapidi-un-affare",
-      "excerpt": "Candy Rapidò da 9 kg costa 329€ su Amazon, con il 48% di sconto sui 628,99€ di listino. Sette cicli rapidi sotto i 90 minuti aiutano a smaltire il bucato quotidiano senza lasciare…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107731/tomshw-offer-818101.png",
-      "publishedAt": "2026-08-16T12:33:06+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Il mistero dell'auto da record, la vettura all'asta non sarebbe quella di Talladega",
       "link": "https://www.hdmotori.it/audi-5000-cs-mistero-auto-record-talladega/",
       "excerpt": "L’Audi 5000 CS Quattro all’asta non è l’auto del record di Talladega: le differenze emerse e la nuova descrizione della vettura",
@@ -149,20 +149,20 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Ferrari Luce, follia a Monterey: la prima elettrica di Maranello venduta a 40 milioni di dollari",
-      "link": "https://www.hdmotori.it/ferrari-luce-follia-a-monterey-la-prima-elettrica-di-maranello-viene-venduta-a-40-milioni-di-dollari/",
-      "excerpt": "Sembra incredibile, ma è successo davvero: la Luce \"Chassis 0\" è entrata nella storia con un prezzo da capogiro diventando la vettura nuova più costosa mai venduta...",
-      "image": "https://hd2.tudocdn.net/1363100?w=660",
-      "publishedAt": "2026-08-16T09:07:57+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Quando esce Huawei Mate 90? Data, rumor e cosa sappiamo",
       "link": "https://www.tomshw.it/smartphone/quando-esce-huawei-mate-90-data-rumor-e-cosa-sappiamo",
       "excerpt": "Huawei non ha ancora annunciato la data di presentazione del Mate 90. Secondo rumor non ufficiali, la nuova serie potrebbe debuttare in Cina a settembre 2026, ma non risultano…",
       "image": "https://cdn.tomshw.it/storage/media/2026/08/107725/quando-esce-huawei-mate-90-data-rumor-e-cosa-sappiamo.png",
       "publishedAt": "2026-08-16T08:27:10+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Torna ICQ: la nuova app Windows che rievoca gli anni '90",
+      "link": "https://www.tomshw.it/hardware/icq-reborn-12-e-arrivato-il-classico-icq-torna-come-applicazione-windows",
+      "excerpt": "ICQ Reborn 1.2 è stato distribuito alla fine di luglio 2026 e riporta sui PC moderni un’esperienza che sembrava conclusa insieme al servizio originale. Il 29 luglio, alle…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107722/amarcord-cover-817850.png",
+      "publishedAt": "2026-08-16T07:42:46+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
