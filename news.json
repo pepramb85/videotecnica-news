@@ -1,9 +1,54 @@
 {
-  "generatedAt": "2026-08-16T08:19:10.112680+00:00",
+  "generatedAt": "2026-08-16T10:15:07.416596+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Elettricità, calore e aria fredda da un unico tetto: nuovo sistema ibrido dalla Germania",
+      "link": "https://www.hdblog.it/home/articoli/n667323/elettricita-riscaldamento-raffreddamento-tetto/",
+      "excerpt": "Sfrutta sia il calore del Sole che il freddo dello spazio",
+      "image": "https://hd2.tudocdn.net/1363032?w=660",
+      "publishedAt": "2026-08-16T09:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Intel Core i7-14700KF da 378,64€ a 300,50€, mai costato così poco",
+      "link": "https://www.tomshw.it/offerte/intel-core-i7-14700kf-da-37864eur-a-30050eur-mai-costato-cosi-poco",
+      "excerpt": "Intel Core i7-14700KF costa 300,50€ su Amazon, anziché 378,64€, con uno sconto del 21%. I suoi 20 core e la frequenza massima di 5,6 GHz lo rendono particolarmente interessante…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107727/tomshw-offer-817973.png",
+      "publishedAt": "2026-08-16T09:33:33+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Ferrari Luce, follia a Monterey: la prima elettrica di Maranello venduta a 40 milioni di dollari",
+      "link": "https://www.hdmotori.it/ferrari-luce-follia-a-monterey-la-prima-elettrica-di-maranello-viene-venduta-a-40-milioni-di-dollari/",
+      "excerpt": "Sembra incredibile, ma è successo davvero: la Luce \"Chassis 0\" è entrata nella storia con un prezzo da capogiro diventando la vettura nuova più costosa mai venduta...",
+      "image": "https://hd2.tudocdn.net/1363100?w=660",
+      "publishedAt": "2026-08-16T09:07:57+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Le future basi spaziali potrebbero essere progettate sulle emozioni",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n667275/emozioni-habitat-spaziali-astronauti/",
+      "excerpt": "Una mappa collega 14 emozioni agli ambienti per progettare habitat spaziali più vivibili.",
+      "image": "https://hd2.tudocdn.net/1362951?w=660",
+      "publishedAt": "2026-08-16T08:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google Drive in esaurimento: come liberare spazio senza pagare Google One",
+      "link": "https://www.hdblog.it/google/articoli/n667270/google-drive-come-ottenere-spazio-senza-google-one/",
+      "excerpt": "Eliminare file superflui può evitare costi aggiuntivi.",
+      "image": "https://hd2.tudocdn.net/1362941?w=660",
+      "publishedAt": "2026-08-16T08:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Samsung Flash Drive Type-C al 51%, 512 GB per foto e video 4K",
       "link": "https://www.tomshw.it/offerte/samsung-flash-drive-type-c-al-51-512-gb-per-foto-e-video-4k",
@@ -73,60 +118,6 @@
       "excerpt": "Il primo trailer svela Doctor Doom e anticipa lo scontro tra tutti gli eroi Marvel.",
       "image": "https://hd2.tudocdn.net/1357691?w=660",
       "publishedAt": "2026-08-16T05:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Baseus FC41 al 41%, ricarica laptop e smartphone insieme: un affare",
-      "link": "https://www.tomshw.it/offerte/baseus-fc41-al-41-ricarica-laptop-e-smartphone-insieme-un-affare",
-      "excerpt": "Baseus FC41 da 25.000 mAh costa 53,19€ su Amazon, invece di 89,99€, con uno sconto del 41% e 36,80€ di risparmio. È una batteria pensata per alimentare notebook e smartphone…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107718/tomshw-offer-800931.png",
-      "publishedAt": "2026-08-15T19:34:43+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "LG US20A sotto i 95€, la soundbar compatta che si controlla dalla TV",
-      "link": "https://www.tomshw.it/offerte/lg-us20a-sotto-i-95eur-la-soundbar-compatta-che-si-controlla-dalla-tv",
-      "excerpt": "LG Soundbar US20A costa 94,15€ su Amazon, invece di 109,73€, con uno sconto del 14%. Il formato compatto e AI Sound Pro puntano a dare più presenza a film, serie e partite senza…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107717/tomshw-offer-800903.png",
-      "publishedAt": "2026-08-15T18:03:21+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Virgin Galactic cerca un nome per la nuova navetta Delta",
-      "link": "https://www.hdblog.it/mercato/articoli/n667272/virgin-galactic-nuova-navetta-delta/",
-      "excerpt": "La nuova Delta si prepara ai test e Virgin Galactic coinvolge il pubblico per darle un nome.",
-      "image": "https://hd2.tudocdn.net/1180621?w=660",
-      "publishedAt": "2026-08-15T16:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung Galaxy S27, il nuovo design delle fotocamere confermato da un brevetto",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667349/samsung-galaxy-s27-brevetto-design-fotocamere/",
-      "excerpt": "Dopo anni di continuità, sembra proprio stia per arrivare un cambiamento importante nel design dei flagship Samsung.",
-      "image": "https://hd2.tudocdn.net/1358830?w=660",
-      "publishedAt": "2026-08-15T16:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Citizen AT8260-85X: ecco il nuovo Eco-Drive radiocontrollato",
-      "link": "https://www.hdblog.it/indossabili/articoli/n667271/citizen-eco-drive-at8260-85x/",
-      "excerpt": "Citizen AT8260-85X usa luce e segnali radio per mantenere ora e calendario sempre corretti.",
-      "image": "https://hd2.tudocdn.net/1362947?w=660",
-      "publishedAt": "2026-08-15T15:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "SpaceX compra Cursor, startup di programmazione AI per 60 miliardi di dollari",
-      "link": "https://www.hdblog.it/business/articoli/n667347/spacex-acquisisce-cursor-60-miliardi-ai-coding/",
-      "excerpt": "Ora è ufficiale.",
-      "image": "https://hd2.tudocdn.net/1214878?w=660",
-      "publishedAt": "2026-08-15T15:35:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -203,15 +194,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Power Rangers: Disney+ ferma la serie live-action, pesano i costi",
-      "link": "https://www.tomshw.it/altro/power-rangers-disney-ferma-la-serie-live-action-pesano-i-costi",
-      "excerpt": "Il nuovo tentativo di riportare Power Rangers sul piccolo schermo si è fermato prima di ricevere il via libera definitivo. Dopo circa un anno e mezzo di lavoro, Disney+ ha deciso…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107580/news-flash-798947.png",
-      "publishedAt": "2026-08-14T08:58:21+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Google, nuova tirata d'orecchie: sta facendo di tutto per non far installare gli app store alternativi",
       "link": "https://images.dday.it/i4bfaG44aeYa0gzcfMiwA7iPKD2UQxh7Mx6ZbyqBYZ0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58375/442896_Depositphotos_625503040_XL.jpg",
       "excerpt": "Google ha interpretato a suo modo la sentenza che la obbligava ad aprire il suo Play Store agli store di terze parti. Dopo un mese torna così davanti al giudice, che impone…",
@@ -239,11 +221,11 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "7 accessori tech \"geniali\" che costano pochissimo su Aliexpress",
-      "link": "https://www.tomshw.it/offerte/7-accessori-tech-da-pochi-euro-che-risolvono-problemi-veri",
-      "excerpt": "La scheda è piena, ma il portatile non ha il lettoreSuccede al rientro da una giornata fuori: foto e filmati sono sulla scheda, mentre il computer offre soltanto porte USB. Questo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107249/hub-ali-cover-777629.png",
-      "publishedAt": "2026-08-13T06:25:39+00:00",
+      "title": "Ghost Recon Wildlands: addio Easy Anti-Cheat su PC",
+      "link": "https://www.tomshw.it/videogioco/tom-clancy-s-ghost-recon-wildlands-easy-anti-cheat-sparisce-su-pc",
+      "excerpt": "L’aggiornamento distribuito il 13 agosto 2026 per la versione PC di Tom Clancy's Ghost Recon Wildlands sembra aver rimosso Easy Anti-Cheat dall’installazione del gioco. La…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106119/Ghost-Recon-Wildlands-Artikelbild-1.webp",
+      "publishedAt": "2026-08-13T14:54:21+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -266,11 +248,29 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "I computer con Microsoft preinstallato costeranno di più",
-      "link": "https://www.tomshw.it/hardware/microsoft-avrebbe-rincarato-del-7-10-le-licenze-windows-oem",
-      "excerpt": "Il costo di Windows preinstallato su alcuni nuovi PC sarebbe aumentato del 7-10%. Il rincaro riguarderebbe le licenze vendute da Microsoft ai produttori OEM e sarebbe entrato in…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106702/news-flash-735663.png",
-      "publishedAt": "2026-08-11T08:38:45+00:00",
+      "title": "UEFA dichiara guerra al VAR microscopico: \"è un gioco, non la PlayStation\"",
+      "link": "https://www.tomshw.it/altro/uefa-clear-line-oltre-100-casi-e-stop-al-var-al-microscopio",
+      "excerpt": "Oltre cento episodi arbitrali diventano una guida pubblica per stabilire quando il VAR deve correggere una decisione. La UEFA ha attivato Clear Line, una piattaforma ufficiale che…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106731/news-flash-736045.png",
+      "publishedAt": "2026-08-11T10:11:14+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "In Cina si usa l’AI per prevedere i tifoni",
+      "link": "https://www.tomshw.it/hardware/cina-l-ai-accelera-le-previsioni-dei-tifoni-resta-un-supporto",
+      "excerpt": "Durante il passaggio del tifone Dolphin, diversi modelli meteorologici basati sull’intelligenza artificiale sviluppati in Cina hanno lavorato accanto ai sistemi numerici…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106717/news-flash-735836.png",
+      "publishedAt": "2026-08-11T09:05:11+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Atari-nostalgia? L'800 torna con il supporto online",
+      "link": "https://www.tomshw.it/hardware/atari-800-torna-online-atari800-700-scarica-rom-e-dischi-da-internet",
+      "excerpt": "Atari800 7.0.0 è stato pubblicato il 27 giugno 2026 e porta i computer Atari a 8 bit direttamente nell’era dei download integrati. Il salto di versione non è cosmetico: per la…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106713/atari800.png",
+      "publishedAt": "2026-08-11T09:00:20+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
