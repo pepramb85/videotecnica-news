@@ -1,9 +1,189 @@
 {
-  "generatedAt": "2026-08-17T08:33:51.038700+00:00",
+  "generatedAt": "2026-08-17T10:24:05.915326+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Stripe vuole PayPal, avrebbe offerto 53 miliardi di dollari. E nel frattempo si sarebbe presa OpenRouter",
+      "link": "https://images.dday.it/XXM-bGkfgTUrHM5Kyl8Ng0Rk-OMyh9ZxgskCud-iHYk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58390/3e7998_Depositphotos_41891409_XL.jpg",
+      "excerpt": "PayPal fa gola a Stripe che mette sul piatto 53 miliardi di dollari per fare suo il servizio di pagamenti digitali più noto al mondo. Nel frattempo guarda anche all’IA e avrebbe…",
+      "image": "https://images.dday.it/XXM-bGkfgTUrHM5Kyl8Ng0Rk-OMyh9ZxgskCud-iHYk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58390/3e7998_Depositphotos_41891409_XL.jpg",
+      "publishedAt": "2026-08-17T10:16:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "HMD pronta a rilasciare una versione \"Pro\" del suo 102 4G | Rumor",
+      "link": "https://www.hdblog.it/hmd/articoli/n667439/hmd-102-4g-pro-specifiche-novita-quando-prezzo/",
+      "excerpt": "Qualche upgrade mirato per un \"telefonino\" con connettività 4G essenziale e senza pretese.",
+      "image": "https://hd2.tudocdn.net/1363215?w=660",
+      "publishedAt": "2026-08-17T10:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "TCL porta a IFA 2026 la sua idea di casa connessa: TV, NXTPAPER, smart glass e AI",
+      "link": "https://www.hdblog.it/tv/articoli/n667436/tcl-ifa-2026-casa-connessa-tv-nxtpaper/",
+      "excerpt": "Il produttore occuperà la Hall 21A di Messe Berlin",
+      "image": "https://hd2.tudocdn.net/1363212?w=660",
+      "publishedAt": "2026-08-17T10:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Sony rimuove 13 giochi Ternox dal PS Store: l'annuncio",
+      "link": "https://www.tomshw.it/videogioco/ternox-games-sony-rimuoverebbe-13-giochi-dal-ps-store-il-23-agosto",
+      "excerpt": "Tredici giochi di Ternox Games dovrebbero sparire dal PlayStation Store il 23 agosto 2026, mentre la versione PS5 di STONKS-9800 è stata cancellata. Lo studio indipendente afferma…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107832/840_560.jpg",
+      "publishedAt": "2026-08-17T10:09:14+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "RAEE: oltre metà degli italiani non conosce il ritiro gratuito Uno contro Zero",
+      "link": "https://www.hdblog.it/green/articoli/n667437/raee-smaltimento-gratuito-servizio/",
+      "excerpt": "Il 54% degli italiani non conosce il ritiro Uno contro Zero. Ecco come smaltire correttamente power bank, smartwatch, spazzolini elettrici e altri piccoli dispositivi elettronici",
+      "image": "https://hd2.tudocdn.net/1363213?w=660",
+      "publishedAt": "2026-08-17T10:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "249,67€ in meno sul Samsung Galaxy Watch Ultra 2025, sport senza telefono",
+      "link": "https://www.tomshw.it/offerte/24967eur-in-meno-sul-samsung-galaxy-watch-ultra-2025-sport-senza-telefono",
+      "excerpt": "Samsung Galaxy Watch Ultra 2025 costa 449,33€ su Amazon, anziché 699€, con uno sconto del 36%. La versione Titanium Blue da 47 mm combina LTE, GPS a doppia frequenza e una…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107830/tomshw-offer-830233.png",
+      "publishedAt": "2026-08-17T10:03:57+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "ChatGPT, l’accusa: il 17enne creava storie sull’uccisione della famiglia",
+      "link": "https://www.tomshw.it/hardware/chatgpt-l-accusa-il-17enne-creava-storie-sull-uccisione-della-famiglia",
+      "excerpt": "Le interazioni con ChatGPT sono entrate nel procedimento contro Arjun Aravind, diciassettenne accusato di avere ucciso la madre e il fratello ad Acton, in Massachusetts. I…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107828/news-flash-830223.png",
+      "publishedAt": "2026-08-17T10:02:18+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Koenigsegg CCGT1: rispolverato il mito del 2007 con una belva da 1.600 CV",
+      "link": "https://www.hdmotori.it/nuova-koenigsegg-ccgt1-1600-cv/",
+      "excerpt": "Svelata la nuova Koenigsegg CCGT1: omaggio al mito del 2007 con V8 fino a 1.600 CV, aerodinamica da gara, cambio KSS e l'inedito Track Package ufficiale.",
+      "image": "https://hd2.tudocdn.net/1363216?w=660",
+      "publishedAt": "2026-08-17T10:00:34+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "No, il watermark di Claude non nasconderà caratteri nascosti",
+      "link": "https://www.tomshw.it/hardware/claude-il-watermark-e-una-firma-statistica-senza-caratteri-nascosti",
+      "excerpt": "Nei testi generati dai modelli supportati di Claude non c’è una sequenza nascosta da scoprire né un metadato da estrarre. Il watermark è una firma statistica costruita durante la…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107822/opengraph-illustration.png",
+      "publishedAt": "2026-08-17T09:56:10+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "RTX 2080 Ti con VRAM raddoppiata contro la crisi delle memorie?",
+      "link": "https://www.hdblog.it/hardware/articoli/n667433/nvidia-geforce-rtx-2080-ti-22-gb-vram-modifica/",
+      "excerpt": "500 dollari per GPU con 22 GB di GDDR6.",
+      "image": "https://hd2.tudocdn.net/909304?w=660",
+      "publishedAt": "2026-08-17T09:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "JBL Tune 770NC a 80€: cancellazione del rumore e 70 ore di autonomia",
+      "link": "https://www.tomshw.it/hardware/jbl-tune-770nc-a-80-euro-38-sconto-amazon-2026-08-17",
+      "excerpt": "Le JBL Tune 770NC sono cuffie Bluetooth on-ear con cancellazione attiva del rumore, pensate per accompagnare ascolto, chiamate e spostamenti senza dipendere continuamente dalla…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107773/jbl-tune-770nc-a-80-euro-38-sconto-amazon-2026-08-17-N00T2yv3mr1mrurmloc3F1AmPy.png",
+      "publishedAt": "2026-08-17T09:52:54+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "UGREEN FineTrack Slim perde il 33%: Find My entra davvero nel portafoglio",
+      "link": "https://www.tomshw.it/smartphone/ugreen-finetrack-slim-sconto-33-amazon-2026-08-17",
+      "excerpt": "UGREEN FineTrack Slim è un localizzatore a forma di carta che funziona con la rete Apple Find My e trova posto negli spazi dove un tracker tradizionale sarebbe troppo spesso. Su…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107777/ugreen-finetrack-slim-sconto-33-amazon-2026-08-17-vypNtmj074frju17m975djEZ0A.png",
+      "publishedAt": "2026-08-17T09:52:41+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Shein verso la quotazione in borsa, ma il valore crolla da 98 a meno di 30 miliardi",
+      "link": "https://www.hdblog.it/mercato/articoli/n667431/shein-valutazione-borsa-in-calo/",
+      "excerpt": "Shein si prepara alla quotazione alla Borsa di Hong Kong con una valutazione stimata tra 25 e 28 miliardi di dollari, molto lontana dai 98,2 miliardi raggiunti nel 2022",
+      "image": "https://hd2.tudocdn.net/1363200?w=660",
+      "publishedAt": "2026-08-17T09:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "SanDisk Extreme 1TB a 115,53€, file veloci e protetti anche in viaggio",
+      "link": "https://www.tomshw.it/offerte/sandisk-extreme-1tb-a-11553eur-file-veloci-e-protetti-anche-in-viaggio",
+      "excerpt": "SanDisk Extreme SSD portatile da 1TB costa 115,53€ su Amazon, contro un prezzo di listino di 177,29€ e con uno sconto del 35%. La combinazione di velocità NVMe, formato…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107807/tomshw-offer-830077.png",
+      "publishedAt": "2026-08-17T09:38:13+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Apple: gli USA dicono no alle memorie cinesi di CXMT e YMTC",
+      "link": "https://www.tomshw.it/hardware/apple-gli-usa-dicono-no-alle-memorie-cinesi-di-cxmt-e-ymtc",
+      "excerpt": "La pressione di Washington entra direttamente nelle scelte di approvvigionamento di Apple. Il segretario al Commercio Howard Lutnick ha riferito di aver comunicato alla società la…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107804/news-flash-830027.png",
+      "publishedAt": "2026-08-17T09:35:05+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "HMD prepara 2760 Flip 4G: smartphone Android (Go) con corpo da feature phone",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667429/hmd-2760-flip-4g-android-13-go/",
+      "excerpt": "L'erede spirituale del Nokia 2760 Flip ma con Android Go invece di KaiOS.",
+      "image": "https://hd2.tudocdn.net/1359343?w=660",
+      "publishedAt": "2026-08-17T09:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La Voyah Passion S completa il giro della morte come Schumacher: il web si divide",
+      "link": "https://www.hdmotori.it/voyah-passion-s-giro-morte/",
+      "excerpt": "L'auto elettrica Voyah Passion S ha replicato la manovra estrema compiuta nello spot Mercedes del 2010 con protagonista il 7 volte campione del mondo, Michael Schumacher.",
+      "image": "https://hd2.tudocdn.net/1363206?w=660",
+      "publishedAt": "2026-08-17T09:30:59+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Lo specchio bugiardo: mente, nasconde ciò che vede e mostra tutt’altro",
+      "link": "https://www.hdblog.it/scienza/articoli/n667427/specchio-bugiardo-cosa-come-fa/",
+      "excerpt": "Ricercatori della UCLA hanno sviluppato un “lying mirror”, capace di nascondere l’immagine ricevuta e mostrarne un’altra",
+      "image": "https://hd2.tudocdn.net/1363196?w=660",
+      "publishedAt": "2026-08-17T09:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Tring perde il segnale di Serie A e Coppa Italia: la Lega vuole un blocco territoriale",
+      "link": "https://www.hdblog.it/internet/articoli/n667414/tring-perde-segnale-serie-a-blocco-territoriale/",
+      "excerpt": "Lega Serie A ha deciso di interrompere la fornitura del segnale alla piattaforma albanese Tring, finché non sarà garantito il geoblocking.",
+      "image": "https://hd2.tudocdn.net/1363187?w=660",
+      "publishedAt": "2026-08-17T09:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Roblox è sotto indagine da parte del Senato degli Stati Uniti: la piattaforma è pericolosa per i bambini",
+      "link": "https://images.dday.it/WXuu9A42Uod96i5g44dFgwrM588oLu0W5fICMBd8JsQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58389/dd2d77_d2dc99fe-4b2c-4ca1-97d3-c6179ce749e8.png",
+      "excerpt": "La sottocommissione per il crimine e il controtterrorismo del Senato degli Stati Unti ha annunciato l’apertura di un’inchiesta sulla piattaforma Roblox, accusata di non proteggere…",
+      "image": "https://images.dday.it/WXuu9A42Uod96i5g44dFgwrM588oLu0W5fICMBd8JsQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58389/dd2d77_d2dc99fe-4b2c-4ca1-97d3-c6179ce749e8.png",
+      "publishedAt": "2026-08-17T09:14:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
     {
       "title": "La prima Ferrari Luce prodotta è stata battuta all’asta per 40 milioni di dollari",
       "link": "https://images.dday.it/4WbunBLKkdReq4PzZLbNCiYppQfBNbAqy4tn9hwEPRs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58388/c4b445_asmall_Screenshot_2026-08-17_alle_10.24.38_copia.png",
@@ -14,114 +194,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Gordon Murray S1: il nuovo capolavoro è un V12 manuale da 12.100 giri",
-      "link": "https://www.hdmotori.it/nuova-gordon-murray-s1-2026/",
-      "excerpt": "Aria di rivoluzione per Gordon Murray: la nuova S1 rinuncia al carico estremo per il massimo comfort su strada. Motore V12 da 12.100 giri e produzione limitata a 64 unità.",
-      "image": "https://hd2.tudocdn.net/1363190?w=660",
-      "publishedAt": "2026-08-17T08:30:15+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Back to School a mattoncini: su IBS i set LEGO sono in sconto del 30%",
-      "link": "https://www.tomshw.it/altro/back-to-school-a-mattoncini-su-ibs-i-set-lego-sono-in-sconto-del-30",
-      "excerpt": "La fine delle vacanze e il ritorno sui banchi di scuola sono ormai alle porte, portando con sé la necessità di riorganizzare le giornate e la routine quotidiana. Tuttavia,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107787/Back-to-School-a-mattoncini-su-IBS-i-set-LEGO-sono-in-sconto-del-30-.png",
-      "publishedAt": "2026-08-17T08:28:28+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Estate 2026 da record: luglio tra i più roventi di sempre, mari mai così caldi",
-      "link": "https://www.hdblog.it/green/articoli/n667408/estate-2026-record-luglio-caldi/",
-      "excerpt": "L'estate 2026 ha già fatto abbastanza per essere ricordata tra le più calde di sempre.",
-      "image": "https://hd2.tudocdn.net/1363179?w=660",
-      "publishedAt": "2026-08-17T08:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Quando Sacred osò sfidare il trono di Diablo",
-      "link": "https://www.tomshw.it/videogioco/quando-sacred-oso-sfidare-il-trono-di-diablo",
-      "excerpt": "All'inizio degli anni Duemila, il panorama degli Hack and Slash con visuale isometrica era dominato da un solo enorme gioco, apparentemente imbattibile: quella di Blizzard e del…",
-      "image": "https://cdn.tomshw.it/storage/media/2025/07/64604/sacred-wallpaper.jpg",
-      "publishedAt": "2026-08-17T08:24:09+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Amazon cerca di bloccare definitivamente le class action dei suoi utenti",
-      "link": "https://www.hdblog.it/amazon/articoli/n667406/amazon-prova-blocco-class-action/",
-      "excerpt": "I nuovi termini e condizioni di Amazon cercano di stroncare le class action sul nascere",
-      "image": "https://hd2.tudocdn.net/1263490?w=660",
-      "publishedAt": "2026-08-17T08:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Narwal rivoluziona il Back to School: coupon da 200€, bundle in omaggio e tre nuovi prodotti in arrivo",
-      "link": "https://www.tomshw.it/altro/narwal-rivoluziona-il-back-to-school-coupon-da-200eur-bundle-in-omaggio-e-tre-nuovi-prodotti-in-arrivo",
-      "excerpt": "Con l'avvicinarsi di settembre e il ritorno alla routine quotidiana, Narwal inaugura la stagione del rientro con la speciale promozione Back to School Sale, attiva dal 17 al 30…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107781/Narwal-rivoluziona-il-Back-to-School-coupon-da-200€,-bundle-in-omaggio-e-tre-nuovi-prodotti-in-arrivo.png",
-      "publishedAt": "2026-08-17T08:19:09+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "I Google Pixel aiuteranno l'utente a risolvere i problemi di connettività",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667412/google-pixel-diagnostica-wifi-chiamate-internet/",
-      "excerpt": "Nuovi strumenti di diagnostica automatizzata sono in sviluppo.",
-      "image": "https://hd2.tudocdn.net/1363133?w=660",
-      "publishedAt": "2026-08-17T08:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il monitor Xiaomi 27'' a 144Hz e con elevata fedeltà cromatica costa solo 89€",
-      "link": "https://www.hdblog.it/hardware/offerte/n667405/monitor-xiaomi-27-144hz-minimo-storico-amazon/",
-      "excerpt": "In offerta a meno di 90€ il monitor Xiaomi da 27 pollici con frequenza di aggiornamento di 144Hz e alta fedeltà dei colori. Su Amazon, è il nuovo minimo storico.",
-      "image": "https://hd2.tudocdn.net/1363182?w=660",
-      "publishedAt": "2026-08-17T08:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Sconti Dyson di agosto: fino a 320€ di risparmio e omaggi esclusivi con il codice promozionale",
-      "link": "https://www.tomshw.it/altro/sconti-dyson-di-agosto-fino-a-320eur-di-risparmio-e-omaggi-esclusivi-con-il-codice-promozionale",
-      "excerpt": "Rinnovare gli elettrodomestici di casa o aggiornare la propria routine di bellezza diventa decisamente più vantaggioso. Lo store ufficiale Dyson ha infatti lanciato una ricca…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/86385/Dyson-Spot.jpg",
-      "publishedAt": "2026-08-17T08:08:31+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Samsung One UI 9.5, continuano i leak: animazioni più fluide per default",
-      "link": "https://www.hdblog.it/samsung/articoli/n667407/samsung-one-ui-9-5-novita-design-fotocamera/",
-      "excerpt": "Tante novità anche per l'app fotocamera.",
-      "image": "https://hd2.tudocdn.net/1360658?w=660",
-      "publishedAt": "2026-08-17T08:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "200 Hz sotto i 100€ con il monitor ASUS TUF Gaming, per chi gioca competitivo",
-      "link": "https://www.tomshw.it/offerte/200-hz-sotto-i-100eur-con-il-monitor-asus-tuf-gaming-per-chi-gioca-competitivo",
-      "excerpt": "Il monitor ASUS TUF Gaming VG249Q5R costa 99€ su Amazon, anziché 109€, con uno sconto del 9%. Il pannello Fast IPS Full HD da 23,8 pollici arriva a 200 Hz, una combinazione…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107780/tomshw-offer-829813.png",
-      "publishedAt": "2026-08-17T08:03:32+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Ferrari Luce, chi è l’uomo che ha speso 40 milioni di dollari per il primo esemplare?",
-      "link": "https://www.hdmotori.it/ferrari-luce-40-milioni-dollari-primo-esemplare/",
-      "excerpt": "Lo stesso collezionista che nel 2025 ha comprato la Ferrari Daytona SP3 \"Tailor Made\" ora si è portato a casa la Ferrari Luce Chassis 0.",
-      "image": "https://hd2.tudocdn.net/1363189?w=660",
-      "publishedAt": "2026-08-17T08:00:47+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Abbiamo provato la Eufymake E1, il sogno proibito di ogni maker. Stampa su 300 materiali con qualità incredibile",
       "link": "https://images.dday.it/Oh9D-vsmkXmS_BA5m-5ShSf-F0YsZsL7lIAq5XvxnQw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58381/994346_Gemini_Generated_Image_y5z9dqy5z9dqy5z9.jpg",
       "excerpt": "Stampa su oltre 300 materiali creando anche texture fino a 5 mm di spessore. La facilità d'uso e la qualità di stampa sono a dir poco eccezionali, ma non è ancora un prodotto per…",
@@ -129,33 +201,6 @@
       "publishedAt": "2026-08-17T07:55:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "WhatsApp: foto e video si vedono già dall’elenco delle conversazioni",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667404/whatsapp-anteprima-foto-video-elenco-chat/",
-      "excerpt": "Con la beta 2.26.32.11 di WhatsApp per Android arrivano piccole anteprime dei contenuti multimediali nell’elenco delle chat, accanto alle indicazioni Foto, Video e Sticker",
-      "image": "https://hd2.tudocdn.net/1361397?w=660",
-      "publishedAt": "2026-08-17T07:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "20% di sconto su eBay: con questo codice potete risparmiare fino a 75€",
-      "link": "https://www.tomshw.it/altro/20-di-sconto-su-ebay-con-questo-codice-potete-risparmiare-fino-a-75eur",
-      "excerpt": "Se avete intenzione di fare qualche acquisto su eBay nelle prossime settimane, c’è una nuova promozione che può permettervi di risparmiare sul prezzo finale. A partire da oggi,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107779/20--di-sconto-su-eBay-con-questo-codice-potete-risparmiare-fino-a-75€.png",
-      "publishedAt": "2026-08-17T07:52:49+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Fairphone 6 Plus, ci siamo: conferma ufficiale sulla data di lancio",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667400/fairphone-6-plus-quando-specifiche-teaser/",
-      "excerpt": "Appuntamento a domani per pranzo!",
-      "image": "https://hd2.tudocdn.net/1363153?w=660",
-      "publishedAt": "2026-08-17T07:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Sony non ha fretta di lanciare PlayStation 6, parola del CEO Hiroki Totoki",
@@ -176,24 +221,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Due Falcon 9 in appena 38 minuti: SpaceX batte il suo record",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n667397/spacex-falcon-9-record-due-lanci-38-minuti/",
-      "excerpt": "Due Falcon 9 decollano dalle coste opposte degli USA a soli 38 minuti di distanza.",
-      "image": "https://hd2.tudocdn.net/1361416?w=660",
-      "publishedAt": "2026-08-17T07:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Sony WF-C710N al 42%, ANC per musica e chiamate: un affare da 69,99€",
-      "link": "https://www.tomshw.it/offerte/sony-wf-c710n-al-42-anc-per-musica-e-chiamate-un-affare-da-6999eur",
-      "excerpt": "I Sony WF-C710N costano 69,99€ su Amazon, con 50€ di risparmio sul listino di 119,99€ e uno sconto del 42%. Cancellazione del rumore, connessione multipoint e autonomia fino a 40…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107774/tomshw-offer-829790.png",
-      "publishedAt": "2026-08-17T07:34:12+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "La Lega Calcio toglie il segnale a Tring: la pay TV albanese costa meno di DAZN e non ha il geoblocking",
       "link": "https://images.dday.it/NdumVQY1qVKv1wKK2-RG-j3ZVAadsnoHQj6QRgO2Dpo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58386/8a166f_Depositphotos_732303994_XL.jpg",
       "excerpt": "Trasmetteva le partite di Serie A senza alcuna protezione territoriale, in un pacchetto che a 20 euro includeva anche la Champions League. La Lega Calcio non se ne era accorta…",
@@ -203,20 +230,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "World of Warships: Legends offline oggi: a che ora torna online",
-      "link": "https://www.tomshw.it/videogioco/world-of-warships-legends-a-che-ora-inizia-la-manutenzione-oggi-e-quando-tornano-i-server",
-      "excerpt": "I server di World of Warships: Legends saranno indisponibili oggi, 17 agosto 2026, dalle 10:00 alle 12:00 circa in Italia. La manutenzione riguarda il gioco gratuito su Steam e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107743/dqv-toms-cover-829542-1.png",
-      "publishedAt": "2026-08-17T06:51:09+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori docking station (agosto 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-docking-station",
-      "excerpt": "L'evoluzione dei notebook ultrasottili, dei MacBook e dei tablet usati come strumenti di lavoro ha reso le scrivanie più ordinate, ma anche più dipendenti da un singolo connettore…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/89228/migliori-docking-station-copertina.jpg",
-      "publishedAt": "2026-08-17T06:12:04+00:00",
+      "title": "Migliori adattatori Android Auto wireless (agosto 2026)",
+      "link": "https://www.tomshw.it/automotive/migliori-adattatori-android-auto-wireless",
+      "excerpt": "Usare lo smartphone alla guida resta una delle abitudini più rischiose, perché basta distogliere lo sguardo per pochi secondi per perdere informazioni importanti su traffico,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/89422/migliori-adattatori-android-auto-wireless-copertina.jpg",
+      "publishedAt": "2026-08-17T06:27:51+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -228,15 +246,6 @@
       "publishedAt": "2026-08-16T13:21:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Huawei WATCH GT 7 potrebbe essere lo smartwatch del 2026 per gli sportivi",
-      "link": "https://www.tomshw.it/smartphone/huawei-watch-gt-7-potrebbe-essere-lo-smartwatch-del-2026-2026-08-16",
-      "excerpt": "Chi pratica sport sulla neve conosce bene la sensazione di libertà che si prova lungo una pista innevata, ma sa anche quanto sia difficile trasformare quell'esperienza in dati…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107728/Screenshot-2026-08-16-alle-12-59-04.png",
-      "publishedAt": "2026-08-16T10:08:20+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Batterie stilo in offerta su Amazon: fai scorta e risparmia",
@@ -257,22 +266,13 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "A soli 29,99 euro: la videocamera Ring da interno è un affare",
-      "link": "https://images.dday.it/9KjlDm5XQzq034jBlnjdDEzBGOPtaEn2V_RKJ4w6p1U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58379/2c0f64_61rmWb4W42L._SL1500_.jpg",
-      "excerpt": "Scopri la nuova videocamera interna Ring (Indoor Camera 2ª gen.) con audio bidirezionale e copertura per la privacy, ora disponibile a un prezzo speciale su Amazon... Leggi tutto",
-      "image": "https://images.dday.it/9KjlDm5XQzq034jBlnjdDEzBGOPtaEn2V_RKJ4w6p1U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58379/2c0f64_61rmWb4W42L._SL1500_.jpg",
-      "publishedAt": "2026-08-14T13:34:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Sei alla ricerca di cuffie wireless che eliminano il rumore e durano tutto il giorno? Scopri le Bose QuietComfort in offerta su Amazon",
-      "link": "https://images.dday.it/b3aodXA-9uyBCwc3xrnb_KDOlcoNwCpcIE2LvQm5P1g/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/54023/ba35d2_ape2.jpg",
-      "excerpt": "Le Bose QuietComfort sono ora disponibili in offerta al prezzo più basso su Amazon: con cancellazione del rumore, comfort prolungato e un’autonomia fino a 24 ore, sono perfette…",
-      "image": "https://images.dday.it/b3aodXA-9uyBCwc3xrnb_KDOlcoNwCpcIE2LvQm5P1g/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/54023/ba35d2_ape2.jpg",
-      "publishedAt": "2026-08-14T12:58:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
+      "title": "Forecast di vendita con l'AI affidabile, con HubSpot AI o TeamSystem",
+      "link": "https://www.tomshw.it/aioperator/forecast-di-vendita-affidabile-con-hubspot-ai-o-teamsystem-senza-fidarsi-del-venditore",
+      "excerpt": "Il venditore dichiara l'ottanta per cento di probabilità su un affare fermo da sei settimane nello stesso stadio della pipeline. Quel numero misura quanto lui crede di poter…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107486/02-ven06-cover.jpg",
+      "publishedAt": "2026-08-13T16:04:18+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     }
   ]
 }
