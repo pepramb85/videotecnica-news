@@ -1,35 +1,170 @@
 {
-  "generatedAt": "2026-08-17T14:19:16.560094+00:00",
+  "generatedAt": "2026-08-17T16:18:21.997373+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Il controller di Wii diventa un telecomando per la smart home, grazie a OpenMote",
-      "link": "https://www.hdblog.it/domotica/articoli/n667466/controller-wii-telecomando-smart-home-openmote/",
-      "excerpt": "Il progetto OpenMote trasforma il vecchio Wiimote di Nintendo in un telecomando universale per controllare tutto nella smart home.",
-      "image": "https://hd2.tudocdn.net/1363270?w=660",
-      "publishedAt": "2026-08-17T14:15:00+00:00",
+      "title": "GIMP si prepara a dire addio al classico formato XCF dopo quasi trent'anni",
+      "link": "https://www.hdblog.it/windows/articoli/n667492/gimp-addio-formato-xcf-novita-quando/",
+      "excerpt": "Il vecchio formato fa sempre più fatica a gestire progetti particolarmente complessi e articolati. Rimarrà comunque disponibile per ragioni di retrocompatibilità.",
+      "image": "https://hd2.tudocdn.net/1242454?w=660",
+      "publishedAt": "2026-08-17T16:15:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "IBM, accordo con OpenAI per GPT-5.6, Codex e ChatGPT Work nelle aziende",
-      "link": "https://www.hdblog.it/business/articoli/n667472/ibm-accordo-gpt-codex-chatgpt-opeani/",
-      "excerpt": "IBM creerà all'interno della propria divisione di consulenza una struttura dedicata a OpenAI",
-      "image": "https://hd2.tudocdn.net/1363286?w=660",
-      "publishedAt": "2026-08-17T14:10:00+00:00",
+      "title": "Con iOS 27 le comunicazioni con Android saranno ancora migliori",
+      "link": "https://www.hdblog.it/apple/articoli/n667488/ios-27-messaggi-android-iphone-rcs-imessage/",
+      "excerpt": "Sarà possibile rispondere a uno specifico messaggio e non ci saranno più testi strani quando si applicheranno le reazioni in Emoji.",
+      "image": "https://hd2.tudocdn.net/1362698?w=660",
+      "publishedAt": "2026-08-17T16:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Samsung Galaxy S26 FE si avvicina: tutto da ammirare nel video leak",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667456/samsung-galaxy-s26-video-leak/",
-      "excerpt": "Sta per scattare l'ora di Samsung Galaxy S26 FE, che fa bella mostra di sé in un nuovo video leak.",
-      "image": "https://hd2.tudocdn.net/1363281?w=660",
-      "publishedAt": "2026-08-17T14:05:00+00:00",
+      "title": "Porsche celebra i 100 anni del Nürburgring con una 911 a tiratura limitata",
+      "link": "https://www.hdmotori.it/porsche-911-100-anni-nurburgring/",
+      "excerpt": "Per celebrare i 100 anni del Nürburgring, Porsche presenta una serie speciale della 911 GT3 limitata a soli 100 esemplari",
+      "image": "https://hd2.tudocdn.net/1363317?w=660",
+      "publishedAt": "2026-08-17T16:00:08+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "IKEA lancia ÖRNVRÅK, un mini display multifunzione incredibilmente economico",
+      "link": "https://www.hdblog.it/home/articoli/n667486/ikea-termometro-igrometro-orologio-prezzo/",
+      "excerpt": "Neanche 6 euro!",
+      "image": "https://hd2.tudocdn.net/1363313?w=660",
+      "publishedAt": "2026-08-17T15:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Pewex, la spesa si può pagare fino a 12 mesi: come funzionano le rate",
+      "link": "https://www.hdblog.it/home/articoli/n667484/pewex-spesa-a-rate-con-klarna-interessi/",
+      "excerpt": "La spesa al supermercato entra nel mondo del buy now, pay later: Pewex introduce Klarna, ma le dilazioni da 6 a 12 mesi sono finanziamenti che prevedono interessi",
+      "image": "https://hd2.tudocdn.net/1363312?w=660",
+      "publishedAt": "2026-08-17T15:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "400€ in meno su LG OLED B6E 48″, un affare per film e gaming 4K",
+      "link": "https://www.tomshw.it/offerte/400eur-in-meno-su-lg-oled-b6e-48-un-affare-per-film-e-gaming-4k",
+      "excerpt": "LG OLED AI B6E da 48 pollici è a 899€ su Amazon, invece di 1.299€, con uno sconto del 31% e 400€ risparmiati. Il pannello OLED e il gaming 4K fino a 120 fps ne fanno un televisore…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107909/tomshw-offer-831091.png",
+      "publishedAt": "2026-08-17T15:33:53+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "GitHub in tilt: download dei repository al 50% di errori",
+      "link": "https://www.tomshw.it/hardware/github-in-tilt-errori-quasi-al-50-nei-download-dei-repository",
+      "excerpt": "I download degli archivi e dei contenuti raw dei repository hanno registrato errori vicini al 50% durante una grave interruzione di GitHub. Il disservizio ha interessato…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107908/news-flash-831070.png",
+      "publishedAt": "2026-08-17T15:31:28+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Auto elettriche, polemica in Belgio: bandite dai parcheggi sopraelevati dei supermercati",
+      "link": "https://www.hdmotori.it/auto-elettriche-belgio-parcheggi-sopraelevati/",
+      "excerpt": "In Belgio le auto elettriche sono state messe al bando dai Carrefour. I motivi della misura eccezionale.",
+      "image": "https://hd2.tudocdn.net/1363311?w=660",
+      "publishedAt": "2026-08-17T15:30:24+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Qwen3.8 27B è davvero un modello locale così potente? Lo abbiamo provato su una scheda a migliaia di chilometri di distanza",
+      "link": "https://images.dday.it/QSxGmy7m_ycu2D7sdi60oQL-oMCI9Gg6Qv7T0xwduQs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58397/8ba10d_ChatGPT_Image_17_ago_2026__17_21_01.png",
+      "excerpt": "Un piccolo modello che è stato associato addirittura a Opus 4.6 di Anthropic, il top di gamma di sei mesi fa. Avere un mostro simile installato in locale farebbe una grande…",
+      "image": "https://images.dday.it/QSxGmy7m_ycu2D7sdi60oQL-oMCI9Gg6Qv7T0xwduQs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58397/8ba10d_ChatGPT_Image_17_ago_2026__17_21_01.png",
+      "publishedAt": "2026-08-17T15:21:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Xiaomi lancia un acquario smart che pensa quasi a tutto, anche a nutrire i pesci",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n667481/xiaomi-acquario-smart-smart-fish-tank-2-pro-prezzo/",
+      "excerpt": "Xiaomi presenta Mijia Smart Fish Tank 2 Pro, acquario intelligente con filtrazione multistrato, mangiatoia automatica, display LCD e controllo a distanza attraverso l’app Mi Home",
+      "image": "https://hd2.tudocdn.net/1363307?w=660",
+      "publishedAt": "2026-08-17T15:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Superman di Unitree: il nuovo robot straccia l'uomo in velocità e salto | Video",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n667467/unitree-superman-robot-umanoide-velocita/",
+      "excerpt": "Il nuovo umanoide Superman raggiunge 45,6 km/h e salta 2 metri da fermo.",
+      "image": "https://hd2.tudocdn.net/1363282?w=660",
+      "publishedAt": "2026-08-17T15:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Fotocamera ZEISS e super teleobiettivo: il vivo V70 5G è al minimo storico",
+      "link": "https://www.hdblog.it/smartphone/offerte/n667470/vivo-v70-5g-fotocamere-zeiss-sconto-amazon/",
+      "excerpt": "Prezzo più basso di sempre su Amazon per il vivo V70 5G da 256GB: fotocamera ZEISS da 50 MP, super teleobiettivo 3x, video 4K a 60 fps, display OLED 1.5K e batteria da 5400 mAh.",
+      "image": "https://hd2.tudocdn.net/1363306?w=660",
+      "publishedAt": "2026-08-17T15:08:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "L’auto più estrema al mondo si chiama Czinger 21C Spyder, 1.250 CV e un limite d'altezza",
+      "link": "https://www.hdmotori.it/czinger-21c-spyder-1-250-cv/",
+      "excerpt": "Una meravigliosa creatura su quattro ruote ha fatto capolino al Monterey Car Week 2026. Tenetevi forte per le caratteristiche della Czinger 21C Spyder.",
+      "image": "https://hd2.tudocdn.net/1363305?w=660",
+      "publishedAt": "2026-08-17T15:00:36+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung a tutto Galaxy Fold: nel 2027 cinque nuovi modelli, due con schermo “wide” come lo Z Fold8",
+      "link": "https://images.dday.it/EH0xCmfXKrA4ZQhqcWYQnX2LaTTnp3rBKcZrza4dcOU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58396/aa244e_Samsung-Mobile-Galaxy-Unpacked-July-2026-Galaxy-Z-Fold8-Ultra-Galaxy-Z-Fold8-Galaxy-Z-Flip8-Launch_dl1.jpg",
+      "excerpt": "Secondo le ultime indiscrezioni, Samsung vorrebbe lanciare il prossimo anno ben 5 nuovi modelli, dal Flip ad un nuovo TriFold, passando per un nuovo Fold con schermo più largo...…",
+      "image": "https://images.dday.it/EH0xCmfXKrA4ZQhqcWYQnX2LaTTnp3rBKcZrza4dcOU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58396/aa244e_Samsung-Mobile-Galaxy-Unpacked-July-2026-Galaxy-Z-Fold8-Ultra-Galaxy-Z-Fold8-Galaxy-Z-Flip8-Launch_dl1.jpg",
+      "publishedAt": "2026-08-17T14:58:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Recensione Mortal Shell 2, più grande, grosso e cattivo?",
+      "link": "https://www.tomshw.it/videogioco/recensione-mortal-shell-2-piu-grande-grosso-e-cattivo",
+      "excerpt": "In questo caldo, caldissimo agosto che sta attanagliando la nostra penisola e buona parte del globo a provare a rinfrescarci un po’ è Cold Symmetry. Dopo averci regalato nel 2020…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107741/Mortal-Shell-2-(4).jpg",
+      "publishedAt": "2026-08-17T14:49:30+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Giochi PS solo digitali, continua la polemica sotto il nuovo video",
+      "link": "https://www.tomshw.it/videogioco/playstation-giochi-solo-digitali-dal-2028-protesta-sullo-spot-gta-vi",
+      "excerpt": "Il nuovo spot globale It Happens on PS5, pubblicato da Sony Interactive Entertainment il 17 agosto 2026, ha trovato nei commenti una risposta molto diversa da quella cercata dalla…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107897/81a9c783e964f2a74ec46253e6d81a4f6bd84a3a-scaled.webp",
+      "publishedAt": "2026-08-17T14:44:50+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Samsung Galaxy S26 FE, prime indiscrezioni: Exynos 2500 e 8 GB",
+      "link": "https://www.tomshw.it/smartphone/samsung-galaxy-s26-fe-play-console-indica-exynos-2500-e-8-gb",
+      "excerpt": "Tre smartphone Samsung ancora inediti sono comparsi nel catalogo di Google Play Console, lasciando emergere una parte delle rispettive configurazioni hardware. Le registrazioni…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107509/tomshw-offer-781457.png",
+      "publishedAt": "2026-08-17T14:41:41+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Una vulnerabilità di macOS sta venendo sfruttata per compromettere Mac da remoto",
+      "link": "https://images.dday.it/c6-c2YREL0O16xsnDRCFZgGXAiBSqM83md3-5Bu_ehc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58395/c40f63_highlights_security.jpg",
+      "excerpt": "Apple ha chiuso la falla a inizio agosto con appositi aggiornamenti per macOS Tahoe‌, Sonoma e Sequoia, ma ci sono report di casi di abuso della vulnerabilità che sfrutta un baco…",
+      "image": "https://images.dday.it/c6-c2YREL0O16xsnDRCFZgGXAiBSqM83md3-5Bu_ehc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58395/c40f63_highlights_security.jpg",
+      "publishedAt": "2026-08-17T14:35:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "NVIDIA frena su OpenAI e dimezza la garanzia per il maxi data center",
@@ -50,51 +185,6 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "McLaren svela la McL 6GT Concept: ritorno al passato con la tecnologia del futuro",
-      "link": "https://www.hdmotori.it/mclaren-mcl-6gt-concept/",
-      "excerpt": "Ispirata alla McLaren M6GT, la supercar originale di Bruce McLaren, la 6GT Concept ha fatto capolino alla Monterey Car Week del 2026.",
-      "image": "https://hd2.tudocdn.net/1363283?w=660",
-      "publishedAt": "2026-08-17T14:00:12+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Groq crolla a 3,5 miliardi dopo l'intesa con NVIDIA",
-      "link": "https://www.tomshw.it/hardware/groq-valutazione-a-3-5-miliardi-dopo-l-accordo-con-nvidia",
-      "excerpt": "La valutazione di Groq è scesa a circa 3,5 miliardi di dollari, quasi la metà dei 6,9 miliardi raggiunti nel settembre 2025. Il nuovo valore è emerso dopo il finanziamento…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107887/news-flash-830843.png",
-      "publishedAt": "2026-08-17T13:58:27+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Sam Altman contro l'università: dura troppo, bastano l'AI e una stanza",
-      "link": "https://www.hdblog.it/mercato/articoli/n667465/sam-altman-universita-troppo-lunga-ai-lavoro/",
-      "excerpt": "Le parole del CEO di OpenAI.",
-      "image": "https://hd2.tudocdn.net/1232352?w=660",
-      "publishedAt": "2026-08-17T13:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Windows abbassa di nascosto a 60Hz i monitor ad alto refresh",
-      "link": "https://www.tomshw.it/hardware/windows-abbassa-di-nascosto-a-60-hz-i-monitor-ad-alto-refresh",
-      "excerpt": "Windows può riportare automaticamente a 60 Hz un monitor configurato per funzionare a frequenze superiori, senza mostrare un avviso evidente all’utente. Il comportamento emerge…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107888/windows-abbassa-di-nascosto-a-60-hz-i-monitor-ad-alto-refresh.png",
-      "publishedAt": "2026-08-17T13:53:31+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il database delle falle è in affanno, NIST punta all’automazione",
-      "link": "https://www.tomshw.it/hardware/il-database-delle-falle-e-in-affanno-nist-punta-allautomazione",
-      "excerpt": "Il NIST ha avviato una richiesta di informazioni per capire quali attività della National Vulnerability Database possano essere automatizzate con l’intelligenza artificiale e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107886/il-database-delle-falle-e-in-affanno-nist-punta-all-automazione.png",
-      "publishedAt": "2026-08-17T13:49:28+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Se cerchi auricolari di fascia alta, questi Bang & Olufsen in offerta meritano un’occhiata",
       "link": "https://images.dday.it/2_1bICbuPgGKicGA2JL0AFzGrWPw6GHRqTqHZN_ndKY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58393/2f9cc0_61Uw8pZRDfL._AC_SL1500_.jpg",
       "excerpt": "ANC, fino a 28 ore di autonomia e un design raffinato: un’occasione interessante per portarsi a casa auricolari di fascia alta a un prezzo più conveniente... Leggi tutto",
@@ -102,42 +192,6 @@
       "publishedAt": "2026-08-17T13:45:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Film sul soffitto con BenQ GV50 a 545,49€, mai costato così poco",
-      "link": "https://www.tomshw.it/offerte/film-sul-soffitto-con-benq-gv50-a-54549eur-mai-costato-cosi-poco",
-      "excerpt": "BenQ GV50 è a 545,49€ su Amazon, il suo minimo storico, con uno sconto del 9% sul listino di 599€. La base orientabile permette di proiettare film e serie sul soffitto, una…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107884/tomshw-offer-830817.png",
-      "publishedAt": "2026-08-17T13:34:29+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Google potrebbe affidare ad AMD una TPU di nuova generazione",
-      "link": "https://www.tomshw.it/hardware/google-potrebbe-affidare-ad-amd-una-tpu-di-nuova-generazione",
-      "excerpt": "Google starebbe valutando il coinvolgimento di AMD nello sviluppo di una TPU di nuova generazione. Le indiscrezioni riguardano la famiglia v10 e, in particolare, un possibile…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107883/google-potrebbe-affidare-ad-amd-una-tpu-di-nuova-generazione.png",
-      "publishedAt": "2026-08-17T13:24:29+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Honor Turbo 5G spunta a sorpresa prima del lancio: design e specifiche",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667457/honor-turbo-5g-specifiche-batteria-design-lancio/",
-      "excerpt": "Vediamo cosa offre.",
-      "image": "https://hd2.tudocdn.net/1363271?w=660",
-      "publishedAt": "2026-08-17T13:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Intel Arc Pro B70 costa sempre di più: rincari fino al 48%",
-      "link": "https://www.tomshw.it/hardware/intel-arc-pro-b70-rincara-del-48-in-appena-un-mese",
-      "excerpt": "La GPU professionale Intel Arc Pro B70 ha registrato negli ultimi giorni aumenti particolarmente bruschi nei principali mercati internazionali, arrivando a costare fino al 48% in…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107879/intel-arc-pro-b70-rincara-del-48-in-appena-un-mese.png",
-      "publishedAt": "2026-08-17T13:10:21+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Ecco Superman, il nuovo robot Unitree da record: corre più veloce di Usain Bolt e salta da fermo oltre 2 metri. Il video",
@@ -149,24 +203,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "I fondi cinesi tagliano NVIDIA e puntano su memoria e storage",
-      "link": "https://www.tomshw.it/hardware/i-fondi-cinesi-riducono-nvidia-e-puntano-su-memoria-e-storage",
-      "excerpt": "I principali hedge fund cinesi hanno ricalibrato le proprie strategie internazionali, riducendo l’esposizione a NVIDIA e alle grandi società tecnologiche statunitensi per…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107877/i-fondi-cinesi-riducono-nvidia-e-puntano-su-memoria-e-storage.png",
-      "publishedAt": "2026-08-17T13:01:10+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Brabus Bodo Cabriolet: 1.000 CV e 360 km/h a cielo aperto",
-      "link": "https://www.hdmotori.it/brabus-bodo-cabriolet/",
-      "excerpt": "Basata sull'Aston Martin Vanquish Volante, la nuova cabriolet di Brabus unisce l’artigianalità, le prestazioni del motore V12 biturbo e la tecnologia blockchain.",
-      "image": "https://hd2.tudocdn.net/1363267?w=660",
-      "publishedAt": "2026-08-17T13:00:47+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Pony.ai e Uber vogliono oltre 2.000 robotaxi in Europa: altre quattro città dopo Zagabria",
       "link": "https://images.dday.it/HkjL7uQB1Q0Y8g8jJNbrm5R8BQlvVQiUdY4FJaCE0Zg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58391/849d5e_ponyuber_thumb.jpg",
       "excerpt": "I dettagli sono scarsi: le nuove città non sono ancora state annunciate e l’espansione dipenderà anche dalle autorizzazioni locali... Leggi tutto",
@@ -176,38 +212,20 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Vivo come Samsung Galaxy e Google Pixel: tutto pronto per il rilevamento delle truffe",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667441/vivo-rilevamento-truffe-samsung-galaxy-pixel/",
-      "excerpt": "Anche sugli smartphone Vivo sta arrivando la funzione Scam Detection per rilevare le truffe telefoniche.",
-      "image": "https://hd2.tudocdn.net/1348954?w=660",
-      "publishedAt": "2026-08-17T12:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Migliori password manager (agosto 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-password-manager",
+      "excerpt": "Quella delle password sicure è una questione aperta da anni, ma il problema non è solo scegliere una combinazione difficile da indovinare. Nella pratica quotidiana molti utenti…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/89711/migliori-password-manager-copertina.jpg",
+      "publishedAt": "2026-08-17T11:17:51+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Anthropic, un watermark invisibile nei testi generati da Claude AI: ecco come funziona",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n667459/anthropic-watermark-invisibile-testi-claude-come/",
-      "excerpt": "La tecnologia adotta un approccio simile a SynthID-Text",
-      "image": "https://hd2.tudocdn.net/1363264?w=660",
-      "publishedAt": "2026-08-17T12:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Pixel 11, Gemini ci dirà come e perché si scarica la batteria con questa novità",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667454/google-pixel-battery-usage-summaries-riepilogo-ai/",
-      "excerpt": "Ecco cosa farà la nuova funzione in sviluppo.",
-      "image": "https://hd2.tudocdn.net/1360736?w=660",
-      "publishedAt": "2026-08-17T12:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Migliori wallbox (agosto 2026)",
-      "link": "https://www.tomshw.it/automotive/migliori-wallbox",
-      "excerpt": "Ricaricare un'auto elettrica a casa è comodo solo se l'impianto è pensato per farlo in modo continuo, sicuro e prevedibile. Una presa domestica può bastare per emergenze o per…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/89708/migliori-wallbox-copertina.jpg",
-      "publishedAt": "2026-08-17T11:13:30+00:00",
+      "title": "Migliori eSIM da usare negli Stati Uniti (agosto 2026)",
+      "link": "https://www.tomshw.it/smartphone/migliori-esim-da-usare-negli-stati-uniti",
+      "excerpt": "Organizzare un viaggio negli Stati Uniti significa usare lo smartphone per quasi tutto: mappe, prenotazioni, ride sharing, pagamenti, traduzioni, check-in, messaggi e chiamate via…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/89682/migliori-esim-stati-uniti-copertina.jpg",
+      "publishedAt": "2026-08-17T11:16:10+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -248,31 +266,13 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Abbiamo provato la Eufymake E1, il sogno proibito di ogni maker. Stampa su 300 materiali con qualità incredibile",
-      "link": "https://images.dday.it/Oh9D-vsmkXmS_BA5m-5ShSf-F0YsZsL7lIAq5XvxnQw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58381/994346_Gemini_Generated_Image_y5z9dqy5z9dqy5z9.jpg",
-      "excerpt": "Stampa su oltre 300 materiali creando anche texture fino a 5 mm di spessore. La facilità d'uso e la qualità di stampa sono a dir poco eccezionali, ma non è ancora un prodotto per…",
-      "image": "https://images.dday.it/Oh9D-vsmkXmS_BA5m-5ShSf-F0YsZsL7lIAq5XvxnQw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58381/994346_Gemini_Generated_Image_y5z9dqy5z9dqy5z9.jpg",
-      "publishedAt": "2026-08-17T07:55:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Sony non ha fretta di lanciare PlayStation 6, parola del CEO Hiroki Totoki",
-      "link": "https://images.dday.it/BEI5VKYl4ebXZHcsEMmjU5Db1DA60dKroRzu_wqj5DY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58387/8987f0_totoki.jpg",
-      "excerpt": "In un'intervista, il CEO di Sony, Hiroki Totoki, conferma che Sony non ha ancora deciso una data di lancio per la console di nuova generazione: nella trasformazione dell'azienda…",
-      "image": "https://images.dday.it/BEI5VKYl4ebXZHcsEMmjU5Db1DA60dKroRzu_wqj5DY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58387/8987f0_totoki.jpg",
-      "publishedAt": "2026-08-17T07:44:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Mozilla ha integrato un ad-blocker in Firefox per iOS",
-      "link": "https://images.dday.it/MzZ7qxlkW0YBbTwJePvFsimysMc5tcFXI03v6beCEiM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58385/a65b6b_Depositphotos_218306756_L.jpg",
-      "excerpt": "Un ad-blocker nativo e integrato in Firefox per iOS che accoglie una lista basata su EasyList... Leggi tutto",
-      "image": "https://images.dday.it/MzZ7qxlkW0YBbTwJePvFsimysMc5tcFXI03v6beCEiM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58385/a65b6b_Depositphotos_218306756_L.jpg",
-      "publishedAt": "2026-08-17T07:39:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
+      "title": "Stack di automazione IT: n8n self-hosted, Make o script Python, ecco come scegliere",
+      "link": "https://www.tomshw.it/aioperator/stack-di-automazione-it-n8n-self-hosted-make-o-script-python-il-confronto-operativo",
+      "excerpt": "Un responsabile IT di una PMI valuta tre strade per automatizzare un processo aziendale: n8n self-hosted, Make in cloud, oppure uno script Python scritto su misura. Le tre opzioni…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107487/04-it19-cover.jpg",
+      "publishedAt": "2026-08-13T16:04:19+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     }
   ]
 }
