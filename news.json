@@ -1,9 +1,90 @@
 {
-  "generatedAt": "2026-08-17T16:18:21.997373+00:00",
+  "generatedAt": "2026-08-17T18:26:11.134483+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Samsung aumenta la produzione di OLED: e la spinta arriva da Apple",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667504/samsung-display-impianto-a7-oled-apple-pieghevoli/",
+      "excerpt": "L'idea è di rafforzare la produzione entro il 2028.",
+      "image": "https://hd2.tudocdn.net/1357535?w=660",
+      "publishedAt": "2026-08-17T18:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Lenovo Yoga Pro 27UD-10 a 1.115,26€, il QD-OLED 4K per chi crea",
+      "link": "https://www.tomshw.it/offerte/lenovo-yoga-pro-27ud-10-a-111526eur-il-qd-oled-4k-per-chi-crea",
+      "excerpt": "Il Lenovo Yoga Pro 27UD-10 costa 1.115,26€ su Amazon, rispetto al prezzo di listino di 1.499€: lo sconto è del 26% e consente di risparmiare 383,74€. Il pannello QD-OLED e la…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107917/tomshw-offer-831285.png",
+      "publishedAt": "2026-08-17T18:03:26+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "C'è stato un down piuttosto serio di GitHub, pare in risoluzione",
+      "link": "https://www.hdblog.it/microsoft/articoli/n667506/github-down-disservizi-non-va-cosa-succede/",
+      "excerpt": "Microsoft sta già intervenendo ma a quanto pare non ha risolto ancora del tutto.",
+      "image": "https://hd2.tudocdn.net/1354686?w=660",
+      "publishedAt": "2026-08-17T18:00:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Honor Pad 20 Pro ufficiale: un tablet multimediale / gaming di fascia alta",
+      "link": "https://www.hdblog.it/tablet/articoli/n667505/honor-pad-20-pro-specifiche-prezzi-immagini/",
+      "excerpt": "Display bello ampio e super definito, batteria enorme e tanta potenza.",
+      "image": "https://hd2.tudocdn.net/1363338?w=660",
+      "publishedAt": "2026-08-17T17:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "ASUS Prime AP201 sotto gli 82€, per un PC potente in soli 33 litri",
+      "link": "https://www.tomshw.it/offerte/asus-prime-ap201-sotto-gli-82eur-per-un-pc-potente-in-soli-33-litri",
+      "excerpt": "ASUS Prime AP201 costa 81,89€ su Amazon, con uno sconto del 18% sul listino di 99,90€. Il telaio da 33 litri permette di concentrare componenti ad alte prestazioni in una build…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107916/tomshw-offer-831279.png",
+      "publishedAt": "2026-08-17T17:33:58+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Vivo V80 Lite 5G in dirittura d'arrivo: upper midrange con una feature anacronistica",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667502/vivo-v80-lite-5g-specifiche-teaser-quando-prezzi/",
+      "excerpt": "Le specifiche sembrano decisamente allettanti, al giusto prezzo.",
+      "image": "https://hd2.tudocdn.net/1363330?w=660",
+      "publishedAt": "2026-08-17T17:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Traffico, l'esodo estivo deve ancora venire: attesi 34 milioni di spostamenti",
+      "link": "https://www.hdmotori.it/traffico-esodo-estivo-previsioni/",
+      "excerpt": "Ferragosto si è chiuso senza criticità sulla rete Anas, ma le previsioni indicano un forte aumento dei movimenti tra lunedì e giovedì",
+      "image": "https://hd2.tudocdn.net/1363327?w=660",
+      "publishedAt": "2026-08-17T17:00:15+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "iPhone pieghevole, continuano i dubbi su disponibilità e addirittura il nome",
+      "link": "https://www.hdblog.it/apple/articoli/n667498/apple-iphone-pieghevole-nome-lancio/",
+      "excerpt": "Nel weekend i vari leaker cinesi hanno espresso ancora opinioni piuttosto contrastanti su alcuni aspetti tutto sommato molto basilari del device. Chi avrà ragione, in ultimo?",
+      "image": "https://hd2.tudocdn.net/1354211?w=660",
+      "publishedAt": "2026-08-17T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Abbandona una Ferrari Roma a un incrocio: mistero a Brescia",
+      "link": "https://www.hdmotori.it/ferrari-roma-incrocio-mistero-brescia/",
+      "excerpt": "Una preziosa Ferrari Roma è stata lasciata in stato di abbandono la sera del 13 agosto in provincia di Brescia. Una ammaccatura ha sollevato degli interrogativi.",
+      "image": "https://hd2.tudocdn.net/1363323?w=660",
+      "publishedAt": "2026-08-17T16:30:54+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "GIMP si prepara a dire addio al classico formato XCF dopo quasi trent'anni",
       "link": "https://www.hdblog.it/windows/articoli/n667492/gimp-addio-formato-xcf-novita-quando/",
@@ -23,29 +104,20 @@
       "sourceColor": "#0066CC"
     },
     {
+      "title": "Nespresso Vertuo Pop sotto i 70€, con 60 capsule incluse: da prendere al volo",
+      "link": "https://www.tomshw.it/offerte/nespresso-vertuo-pop-sotto-i-70eur-con-60-capsule-incluse-da-prendere-al-volo",
+      "excerpt": "La Nespresso Vertuo Pop ENV90.B costa 69,90€ su Amazon anziché 129€, con uno sconto del 46% e 60 capsule incluse. Il ricco assortimento nella confezione permette di provare subito…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107912/tomshw-offer-831145.png",
+      "publishedAt": "2026-08-17T16:03:17+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "Porsche celebra i 100 anni del Nürburgring con una 911 a tiratura limitata",
       "link": "https://www.hdmotori.it/porsche-911-100-anni-nurburgring/",
       "excerpt": "Per celebrare i 100 anni del Nürburgring, Porsche presenta una serie speciale della 911 GT3 limitata a soli 100 esemplari",
       "image": "https://hd2.tudocdn.net/1363317?w=660",
       "publishedAt": "2026-08-17T16:00:08+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "IKEA lancia ÖRNVRÅK, un mini display multifunzione incredibilmente economico",
-      "link": "https://www.hdblog.it/home/articoli/n667486/ikea-termometro-igrometro-orologio-prezzo/",
-      "excerpt": "Neanche 6 euro!",
-      "image": "https://hd2.tudocdn.net/1363313?w=660",
-      "publishedAt": "2026-08-17T15:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Pewex, la spesa si può pagare fino a 12 mesi: come funzionano le rate",
-      "link": "https://www.hdblog.it/home/articoli/n667484/pewex-spesa-a-rate-con-klarna-interessi/",
-      "excerpt": "La spesa al supermercato entra nel mondo del buy now, pay later: Pewex introduce Klarna, ma le dilazioni da 6 a 12 mesi sono finanziamenti che prevedono interessi",
-      "image": "https://hd2.tudocdn.net/1363312?w=660",
-      "publishedAt": "2026-08-17T15:45:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -59,24 +131,6 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "GitHub in tilt: download dei repository al 50% di errori",
-      "link": "https://www.tomshw.it/hardware/github-in-tilt-errori-quasi-al-50-nei-download-dei-repository",
-      "excerpt": "I download degli archivi e dei contenuti raw dei repository hanno registrato errori vicini al 50% durante una grave interruzione di GitHub. Il disservizio ha interessato…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107908/news-flash-831070.png",
-      "publishedAt": "2026-08-17T15:31:28+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Auto elettriche, polemica in Belgio: bandite dai parcheggi sopraelevati dei supermercati",
-      "link": "https://www.hdmotori.it/auto-elettriche-belgio-parcheggi-sopraelevati/",
-      "excerpt": "In Belgio le auto elettriche sono state messe al bando dai Carrefour. I motivi della misura eccezionale.",
-      "image": "https://hd2.tudocdn.net/1363311?w=660",
-      "publishedAt": "2026-08-17T15:30:24+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Qwen3.8 27B è davvero un modello locale così potente? Lo abbiamo provato su una scheda a migliaia di chilometri di distanza",
       "link": "https://images.dday.it/QSxGmy7m_ycu2D7sdi60oQL-oMCI9Gg6Qv7T0xwduQs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58397/8ba10d_ChatGPT_Image_17_ago_2026__17_21_01.png",
       "excerpt": "Un piccolo modello che è stato associato addirittura a Opus 4.6 di Anthropic, il top di gamma di sei mesi fa. Avere un mostro simile installato in locale farebbe una grande…",
@@ -84,42 +138,6 @@
       "publishedAt": "2026-08-17T15:21:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Xiaomi lancia un acquario smart che pensa quasi a tutto, anche a nutrire i pesci",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n667481/xiaomi-acquario-smart-smart-fish-tank-2-pro-prezzo/",
-      "excerpt": "Xiaomi presenta Mijia Smart Fish Tank 2 Pro, acquario intelligente con filtrazione multistrato, mangiatoia automatica, display LCD e controllo a distanza attraverso l’app Mi Home",
-      "image": "https://hd2.tudocdn.net/1363307?w=660",
-      "publishedAt": "2026-08-17T15:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Superman di Unitree: il nuovo robot straccia l'uomo in velocità e salto | Video",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n667467/unitree-superman-robot-umanoide-velocita/",
-      "excerpt": "Il nuovo umanoide Superman raggiunge 45,6 km/h e salta 2 metri da fermo.",
-      "image": "https://hd2.tudocdn.net/1363282?w=660",
-      "publishedAt": "2026-08-17T15:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Fotocamera ZEISS e super teleobiettivo: il vivo V70 5G è al minimo storico",
-      "link": "https://www.hdblog.it/smartphone/offerte/n667470/vivo-v70-5g-fotocamere-zeiss-sconto-amazon/",
-      "excerpt": "Prezzo più basso di sempre su Amazon per il vivo V70 5G da 256GB: fotocamera ZEISS da 50 MP, super teleobiettivo 3x, video 4K a 60 fps, display OLED 1.5K e batteria da 5400 mAh.",
-      "image": "https://hd2.tudocdn.net/1363306?w=660",
-      "publishedAt": "2026-08-17T15:08:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "L’auto più estrema al mondo si chiama Czinger 21C Spyder, 1.250 CV e un limite d'altezza",
-      "link": "https://www.hdmotori.it/czinger-21c-spyder-1-250-cv/",
-      "excerpt": "Una meravigliosa creatura su quattro ruote ha fatto capolino al Monterey Car Week 2026. Tenetevi forte per le caratteristiche della Czinger 21C Spyder.",
-      "image": "https://hd2.tudocdn.net/1363305?w=660",
-      "publishedAt": "2026-08-17T15:00:36+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Samsung a tutto Galaxy Fold: nel 2027 cinque nuovi modelli, due con schermo “wide” come lo Z Fold8",
@@ -131,33 +149,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Recensione Mortal Shell 2, più grande, grosso e cattivo?",
-      "link": "https://www.tomshw.it/videogioco/recensione-mortal-shell-2-piu-grande-grosso-e-cattivo",
-      "excerpt": "In questo caldo, caldissimo agosto che sta attanagliando la nostra penisola e buona parte del globo a provare a rinfrescarci un po’ è Cold Symmetry. Dopo averci regalato nel 2020…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107741/Mortal-Shell-2-(4).jpg",
-      "publishedAt": "2026-08-17T14:49:30+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Giochi PS solo digitali, continua la polemica sotto il nuovo video",
-      "link": "https://www.tomshw.it/videogioco/playstation-giochi-solo-digitali-dal-2028-protesta-sullo-spot-gta-vi",
-      "excerpt": "Il nuovo spot globale It Happens on PS5, pubblicato da Sony Interactive Entertainment il 17 agosto 2026, ha trovato nei commenti una risposta molto diversa da quella cercata dalla…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107897/81a9c783e964f2a74ec46253e6d81a4f6bd84a3a-scaled.webp",
-      "publishedAt": "2026-08-17T14:44:50+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Samsung Galaxy S26 FE, prime indiscrezioni: Exynos 2500 e 8 GB",
-      "link": "https://www.tomshw.it/smartphone/samsung-galaxy-s26-fe-play-console-indica-exynos-2500-e-8-gb",
-      "excerpt": "Tre smartphone Samsung ancora inediti sono comparsi nel catalogo di Google Play Console, lasciando emergere una parte delle rispettive configurazioni hardware. Le registrazioni…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107509/tomshw-offer-781457.png",
-      "publishedAt": "2026-08-17T14:41:41+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Una vulnerabilità di macOS sta venendo sfruttata per compromettere Mac da remoto",
       "link": "https://images.dday.it/c6-c2YREL0O16xsnDRCFZgGXAiBSqM83md3-5Bu_ehc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58395/c40f63_highlights_security.jpg",
       "excerpt": "Apple ha chiuso la falla a inizio agosto con appositi aggiornamenti per macOS Tahoe‌, Sonoma e Sequoia, ma ci sono report di casi di abuso della vulnerabilità che sfrutta un baco…",
@@ -165,24 +156,6 @@
       "publishedAt": "2026-08-17T14:35:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "NVIDIA frena su OpenAI e dimezza la garanzia per il maxi data center",
-      "link": "https://www.tomshw.it/hardware/nvidia-frena-su-openai-e-dimezza-la-garanzia-per-il-maxi-data-center",
-      "excerpt": "NVIDIA avrebbe ridimensionato il sostegno finanziario destinato al gigantesco data center che OpenAI sta negoziando in Ohio. Il chipmaker dovrebbe garantire soltanto la prima fase…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107892/nvidia-frena-su-openai-e-dimezza-la-garanzia-per-il-maxi-data-center.png",
-      "publishedAt": "2026-08-17T14:04:29+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Elgato Wave:3 al 41%, il microfono USB per streaming sotto i 100€",
-      "link": "https://www.tomshw.it/offerte/elgato-wave3-al-41-il-microfono-usb-per-streaming-sotto-i-100eur",
-      "excerpt": "Elgato Wave:3 è a 99,99€ su Amazon, anziché 169,99€, con uno sconto del 41% e 70€ di risparmio. È un upgrade pensato per dare più chiarezza alla voce durante streaming, podcast,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107893/tomshw-offer-830883.png",
-      "publishedAt": "2026-08-17T14:03:18+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Se cerchi auricolari di fascia alta, questi Bang & Olufsen in offerta meritano un’occhiata",
@@ -212,20 +185,29 @@
       "sourceColor": "#E63946"
     },
     {
+      "title": "Migliori zaini per l'aereo, Ryanair e non solo (agosto 2026)",
+      "link": "https://www.tomshw.it/altro/migliori-zaini-da-viaggio-in-aereo-ryanair-e-non-solo",
+      "excerpt": "Organizzare un viaggio in aereo con uno zaino al posto del trolley può sembrare semplice, ma diventa una scelta delicata quando si vola con compagnie low cost e tariffe base. Il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/89732/migliori-zaini-aereo-copertina.jpg",
+      "publishedAt": "2026-08-17T11:25:55+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori stampanti 3D (agosto 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-stampanti-3d",
+      "excerpt": "Scegliere una stampante 3D significa ragionare attentamente sulle proprie necessità e su pochi fattori chiave: precisione, velocità, volume utile, software di slicing, materiali…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/89688/migliori-stampanti-3d-filamento-copertina.jpg",
+      "publishedAt": "2026-08-17T11:19:42+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "Migliori password manager (agosto 2026)",
       "link": "https://www.tomshw.it/hardware/migliori-password-manager",
       "excerpt": "Quella delle password sicure è una questione aperta da anni, ma il problema non è solo scegliere una combinazione difficile da indovinare. Nella pratica quotidiana molti utenti…",
       "image": "https://cdn.tomshw.it/storage/media/2026/04/89711/migliori-password-manager-copertina.jpg",
       "publishedAt": "2026-08-17T11:17:51+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori eSIM da usare negli Stati Uniti (agosto 2026)",
-      "link": "https://www.tomshw.it/smartphone/migliori-esim-da-usare-negli-stati-uniti",
-      "excerpt": "Organizzare un viaggio negli Stati Uniti significa usare lo smartphone per quasi tutto: mappe, prenotazioni, ride sharing, pagamenti, traduzioni, check-in, messaggi e chiamate via…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/89682/migliori-esim-stati-uniti-copertina.jpg",
-      "publishedAt": "2026-08-17T11:16:10+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -257,6 +239,15 @@
       "sourceColor": "#E63946"
     },
     {
+      "title": "Quando esce macOS 27? Data, rumor e cosa sappiamo",
+      "link": "https://www.tomshw.it/altro/quando-esce-macos-27-data-rumor-e-cosa-sappiamo",
+      "excerpt": "macOS 27 uscirà nell’autunno 2026, finestra confermata da Apple. Non c’è ancora un giorno preciso: settembre e ottobre restano le ipotesi più credibili, ma non sono date…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107793/quando-esce-macos-27-data-rumor-e-cosa-sappiamo.png",
+      "publishedAt": "2026-08-17T08:58:56+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "La prima Ferrari Luce prodotta è stata battuta all’asta per 40 milioni di dollari",
       "link": "https://images.dday.it/4WbunBLKkdReq4PzZLbNCiYppQfBNbAqy4tn9hwEPRs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58388/c4b445_asmall_Screenshot_2026-08-17_alle_10.24.38_copia.png",
       "excerpt": "La somma andrà in beneficenza; uno schema ben noto per Ferrari che l’anno scorso aveva donato attraverso quest’asta una Daytona SP3 per 26 milioni di dollari... Leggi tutto",
@@ -264,6 +255,15 @@
       "publishedAt": "2026-08-17T08:33:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
+    },
+    {
+      "title": "Return to Castle Wolfenstein ce l'ha fatta, torna in Germania (senza censure)",
+      "link": "https://www.tomshw.it/videogioco/return-to-castle-wolfenstein-torna-integrale-in-germania-ora-e-acquistabile-senza-censure",
+      "excerpt": "Dal 7 agosto 2026 i giocatori tedeschi possono acquistare regolarmente la versione PC internazionale, integrale e non censurata di Return to Castle Wolfenstein su Steam, GOG e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107770/images-17.jpg",
+      "publishedAt": "2026-08-17T07:22:24+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Stack di automazione IT: n8n self-hosted, Make o script Python, ecco come scegliere",
