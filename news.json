@@ -1,33 +1,123 @@
 {
-  "generatedAt": "2026-08-18T04:27:25.928204+00:00",
+  "generatedAt": "2026-08-18T06:28:47.798306+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Rubavano GeForce RTX 5080 in hotel: traditi da un blackout",
+      "link": "https://www.tomshw.it/hardware/rubano-nvidia-geforce-rtx-5080-negli-hotel-li-tradisce-un-blackout",
+      "excerpt": "Due NVIDIA GeForce RTX 3060 installate al posto di due GeForce RTX 5080 hanno rivelato una serie di manomissioni nei PC di alcuni esports hotel cinesi. Lo scambio è emerso dopo un…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107943/CHINA-GPU-THIEVES-HERO-1200x624.webp",
+      "publishedAt": "2026-08-18T06:27:43+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Robot umanoidi, SONIC trasforma testo e musica in movimenti",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n667522/sonic-robot-umanoidi-nvidia-movimenti-ai/",
+      "excerpt": "SONIC permette agli umanoidi di eseguire movimenti complessi usando un unico sistema di controllo.",
+      "image": "https://hd2.tudocdn.net/1363365?w=660",
+      "publishedAt": "2026-08-18T06:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "The Duskbloods: orario di apertura del Closed Network Test",
+      "link": "https://www.tomshw.it/videogioco/a-che-ora-apre-oggi-il-download-di-the-duskbloods-in-italia-e-dove-scaricare-il-closed-network-test",
+      "excerpt": "Il preload di The Duskbloods Closed Network Test apre oggi, 18 agosto 2026, alle 15:00 italiane sul Nintendo eShop di Nintendo Switch 2. I candidati selezionati devono recuperare…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107942/Hg5T2wStF3eHgKdVJxDs2N-1200-80.jpg",
+      "publishedAt": "2026-08-18T06:24:44+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "The Sinking City 2: orario di uscita in Italia e download",
+      "link": "https://www.tomshw.it/videogioco/a-che-ora-esce-the-sinking-city-2-in-italia-orario-di-sblocco-e-dove-scaricarlo",
+      "excerpt": "The Sinking City 2 esce oggi, 18 agosto 2026, alle 11:00 in Italia su PS5. È un gioco a pagamento: va acquistato e scaricato dal PlayStation Store Italia, direttamente dalla…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107938/blob_a9vy-1280-jpg.webp",
+      "publishedAt": "2026-08-18T06:22:13+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Samsung Galaxy Z TriFold 2: erede atteso solo nel 2027",
+      "link": "https://www.tomshw.it/smartphone/samsung-galaxy-z-trifold-il-successore-debutterebbe-nel-2027",
+      "excerpt": "Il successore del Samsung Galaxy Z TriFold sarebbe entrato nella fase iniziale di sviluppo, con le prime informazioni già condivise da Samsung Electronics con i fornitori. ETNews…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107933/news-flash-853038.png",
+      "publishedAt": "2026-08-18T06:20:52+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Nvidia investe 21 miliardi in SpaceX e si lega ai suoi data center",
+      "link": "https://www.hdblog.it/nvidia/articoli/n667523/nvidia-investimento-spacex-21-miliardi/",
+      "excerpt": "Nvidia possiede 123 milioni di azioni SpaceX mentre Musk punta tutto sui suoi chip.",
+      "image": "https://hd2.tudocdn.net/1363364?w=660",
+      "publishedAt": "2026-08-18T06:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple, la RC di macOS Tahoe 26.7 svela una lunga lista di prodotti non annunciati",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667527/apple-rc-macos-tahoe-lista-prodotti/",
+      "excerpt": "I primi prodotti di questa lunga lista potrebbero arrivare già a settembre",
+      "image": "https://hd2.tudocdn.net/1363370?w=660",
+      "publishedAt": "2026-08-18T06:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Giocare a 200 Hz costa 129€ con ASUS TUF Gaming 27″, il minimo di sempre",
+      "link": "https://www.tomshw.it/offerte/giocare-a-200-hz-costa-129eur-con-asus-tuf-gaming-27-il-minimo-di-sempre",
+      "excerpt": "Su Amazon, ASUS TUF Gaming VG279Q5A costa 129€: il listino è 159,98€ e lo sconto è del 19%. I 200 Hz e il tempo di risposta minimo di 0,3 ms sono pensati per rendere più leggibili…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107929/tomshw-offer-852980.png",
+      "publishedAt": "2026-08-18T06:05:19+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "YouTube cambia ancora le regole: calcolerà le visualizzazioni in un modo diverso",
+      "link": "https://www.hdblog.it/google/articoli/n667513/youtube-nuovo-conteggio-visualizzazioni-video-2026/",
+      "excerpt": "Cosa cambia a partire dal 24 agosto.",
+      "image": "https://hd2.tudocdn.net/1318204?w=660",
+      "publishedAt": "2026-08-18T06:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "ByteDance cede a Hollywood: stretta dell’AI sui contenuti protetti",
+      "link": "https://www.hdblog.it/mercato/articoli/n667524/bytedance-hollywood-ai-copyright-2/",
+      "excerpt": "ByteDance e Hollywood trovano un accordo per limitare l’uso dei contenuti protetti nell’AI.",
+      "image": "https://hd2.tudocdn.net/1363360?w=660",
+      "publishedAt": "2026-08-18T05:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple prepara il Mac mini made in USA: Tim Cook visita lo stabilimento di Houston",
+      "link": "https://www.hdblog.it/apple/articoli/n667517/apple-mac-mini-produzione-usa-houston-tim-cook/",
+      "excerpt": "Un tassello di una strategia \"domestica\" più ampia.",
+      "image": "https://hd2.tudocdn.net/1220607?w=660",
+      "publishedAt": "2026-08-18T05:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Higgsfield esplode: ora vale 4,7 miliardi grazie ai video AI",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n667525/bytedance-hollywood-ai-copyright/",
+      "excerpt": "ByteDance e Hollywood trovano un accordo per limitare l’uso dei contenuti protetti nell’AI.",
+      "image": "https://hd2.tudocdn.net/1363359?w=660",
+      "publishedAt": "2026-08-18T05:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Migliori zaini per l'aereo, Ryanair e non solo (agosto 2026)",
       "link": "https://www.tomshw.it/altro/migliori-zaini-da-viaggio-in-aereo-ryanair-e-non-solo",
       "excerpt": "Organizzare un viaggio in aereo con uno zaino al posto del trolley può sembrare semplice, ma diventa una scelta delicata quando si vola con compagnie low cost e tariffe base. Il…",
       "image": "https://cdn.tomshw.it/storage/media/2026/04/89732/migliori-zaini-aereo-copertina.jpg",
       "publishedAt": "2026-08-18T00:20:12+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori stampanti 3D (agosto 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-stampanti-3d",
-      "excerpt": "Scegliere una stampante 3D significa ragionare attentamente sulle proprie necessità e su pochi fattori chiave: precisione, velocità, volume utile, software di slicing, materiali…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/89688/migliori-stampanti-3d-filamento-copertina.jpg",
-      "publishedAt": "2026-08-18T00:11:12+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori password manager (agosto 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-password-manager",
-      "excerpt": "Quella delle password sicure è una questione aperta da anni, ma il problema non è solo scegliere una combinazione difficile da indovinare. Nella pratica quotidiana molti utenti…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/89711/migliori-password-manager-copertina.jpg",
-      "publishedAt": "2026-08-18T00:03:11+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -84,87 +174,6 @@
       "publishedAt": "2026-08-17T18:00:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Honor Pad 20 Pro ufficiale: un tablet multimediale / gaming di fascia alta",
-      "link": "https://www.hdblog.it/tablet/articoli/n667505/honor-pad-20-pro-specifiche-prezzi-immagini/",
-      "excerpt": "Display bello ampio e super definito, batteria enorme e tanta potenza.",
-      "image": "https://hd2.tudocdn.net/1363338?w=660",
-      "publishedAt": "2026-08-17T17:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "ASUS Prime AP201 sotto gli 82€, per un PC potente in soli 33 litri",
-      "link": "https://www.tomshw.it/offerte/asus-prime-ap201-sotto-gli-82eur-per-un-pc-potente-in-soli-33-litri",
-      "excerpt": "ASUS Prime AP201 costa 81,89€ su Amazon, con uno sconto del 18% sul listino di 99,90€. Il telaio da 33 litri permette di concentrare componenti ad alte prestazioni in una build…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107916/tomshw-offer-831279.png",
-      "publishedAt": "2026-08-17T17:33:58+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "La Duesenberg di Clark Gable regina di Pebble Beach, vince l'edizione 2026",
-      "link": "https://www.hdmotori.it/duesenberg-clark-gable-pebble-beach-2026/",
-      "excerpt": "La Duesemberg SSJ Special Speedster dell’iconico attore americano ha conquistato il Best of Show alla 75ª edizione del Concorso d'Eleganza di Pebble Beach in California.",
-      "image": "https://hd2.tudocdn.net/1363343?w=660",
-      "publishedAt": "2026-08-17T17:30:33+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Vivo V80 Lite 5G in dirittura d'arrivo: upper midrange con una feature anacronistica",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667502/vivo-v80-lite-5g-specifiche-teaser-quando-prezzi/",
-      "excerpt": "Le specifiche sembrano decisamente allettanti, al giusto prezzo.",
-      "image": "https://hd2.tudocdn.net/1363330?w=660",
-      "publishedAt": "2026-08-17T17:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Traffico, l'esodo estivo deve ancora venire: attesi 34 milioni di spostamenti",
-      "link": "https://www.hdmotori.it/traffico-esodo-estivo-previsioni/",
-      "excerpt": "Ferragosto si è chiuso senza criticità sulla rete Anas, ma le previsioni indicano un forte aumento dei movimenti tra lunedì e giovedì",
-      "image": "https://hd2.tudocdn.net/1363327?w=660",
-      "publishedAt": "2026-08-17T17:00:15+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone pieghevole, continuano i dubbi su disponibilità e addirittura il nome",
-      "link": "https://www.hdblog.it/apple/articoli/n667498/apple-iphone-pieghevole-nome-lancio/",
-      "excerpt": "Nel weekend i vari leaker cinesi hanno espresso ancora opinioni piuttosto contrastanti su alcuni aspetti tutto sommato molto basilari del device. Chi avrà ragione, in ultimo?",
-      "image": "https://hd2.tudocdn.net/1354211?w=660",
-      "publishedAt": "2026-08-17T16:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Abbandona una Ferrari Roma a un incrocio: mistero a Brescia",
-      "link": "https://www.hdmotori.it/ferrari-roma-incrocio-mistero-brescia/",
-      "excerpt": "Una preziosa Ferrari Roma è stata lasciata in stato di abbandono la sera del 13 agosto in provincia di Brescia. Una ammaccatura ha sollevato degli interrogativi.",
-      "image": "https://hd2.tudocdn.net/1363323?w=660",
-      "publishedAt": "2026-08-17T16:30:54+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "GIMP si prepara a dire addio al classico formato XCF dopo quasi trent'anni",
-      "link": "https://www.hdblog.it/windows/articoli/n667492/gimp-addio-formato-xcf-novita-quando/",
-      "excerpt": "Il vecchio formato fa sempre più fatica a gestire progetti particolarmente complessi e articolati. Rimarrà comunque disponibile per ragioni di retrocompatibilità.",
-      "image": "https://hd2.tudocdn.net/1242454?w=660",
-      "publishedAt": "2026-08-17T16:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Nespresso Vertuo Pop sotto i 70€, con 60 capsule incluse: da prendere al volo",
-      "link": "https://www.tomshw.it/offerte/nespresso-vertuo-pop-sotto-i-70eur-con-60-capsule-incluse-da-prendere-al-volo",
-      "excerpt": "La Nespresso Vertuo Pop ENV90.B costa 69,90€ su Amazon anziché 129€, con uno sconto del 46% e 60 capsule incluse. Il ricco assortimento nella confezione permette di provare subito…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107912/tomshw-offer-831145.png",
-      "publishedAt": "2026-08-17T16:03:17+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Qwen3.8 27B è davvero un modello locale così potente? Lo abbiamo provato su una scheda a migliaia di chilometri di distanza",
@@ -246,15 +255,6 @@
       "publishedAt": "2026-08-17T09:14:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Quando esce macOS 27? Data, rumor e cosa sappiamo",
-      "link": "https://www.tomshw.it/altro/quando-esce-macos-27-data-rumor-e-cosa-sappiamo",
-      "excerpt": "macOS 27 uscirà nell’autunno 2026, finestra confermata da Apple. Non c’è ancora un giorno preciso: settembre e ottobre restano le ipotesi più credibili, ma non sono date…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107793/quando-esce-macos-27-data-rumor-e-cosa-sappiamo.png",
-      "publishedAt": "2026-08-17T08:58:56+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "La prima Ferrari Luce prodotta è stata battuta all’asta per 40 milioni di dollari",
