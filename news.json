@@ -1,80 +1,206 @@
 {
-  "generatedAt": "2026-08-18T08:26:11.924646+00:00",
+  "generatedAt": "2026-08-18T10:20:00.607487+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Da Caravaggio a Klimt, Samsung porta 43 nuovi capolavori in 4K sui TV compatibili",
-      "link": "https://www.hdblog.it/tv/articoli/n667553/samsung-tv-opere-darte-museo-vienna/",
-      "excerpt": "Samsung Art Store amplia il proprio catalogo con una nuova collezione dedicata al Kunsthistorisches Museum: 43 grandi opere possono essere visualizzate ad alta risoluzione…",
-      "image": "https://hd2.tudocdn.net/1363414?w=660",
-      "publishedAt": "2026-08-18T08:15:00+00:00",
+      "title": "Spotify rende le playlist più personali con le Playlist Notes",
+      "link": "https://www.hdblog.it/android/articoli/n667574/spotify-note-playlist-come-scriverle/",
+      "excerpt": "Con le nuove Playlist Notes di Spotify puoi spiegare perché hai scelto una canzone, lasciare un ricordo o aggiungere una raccomandazione visibile a chiunque possa consultare la…",
+      "image": "https://hd2.tudocdn.net/1363462?w=660",
+      "publishedAt": "2026-08-18T10:10:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Meno di 50€ per prepararsi al Back to School: le migliori offerte Amazon",
-      "link": "https://www.tomshw.it/altro/meno-di-50eur-per-prepararsi-al-back-to-school-le-migliori-offerte-amazon",
-      "excerpt": "Settembre si avvicina e, con il ritorno sui banchi ormai alle porte, è arrivato il momento di iniziare a pensare a tutto il necessario per affrontare il nuovo anno scolastico.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107980/Meno-di-50€-per-prepararsi-al-Back-to-School-le-migliori-offerte-Amazon.png",
-      "publishedAt": "2026-08-18T08:14:34+00:00",
+      "title": "617€ in meno sul Samsung S83H OLED 55″, un affare per film e gaming",
+      "link": "https://www.tomshw.it/offerte/617eur-in-meno-sul-samsung-s83h-oled-55-un-affare-per-film-e-gaming",
+      "excerpt": "617€ di risparmio sul Samsung S83H OLED 55″, ora a 982€ su Amazon con un prezzo di listino di 1599€ e uno sconto del 39%. OLED HDR, refresh rate a 120 Hz e funzioni dedicate al…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108010/tomshw-offer-853866.png",
+      "publishedAt": "2026-08-18T10:03:58+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Dyson OnTrac a 340,78€, ANC e 55 ore per viaggiare senza rumore",
-      "link": "https://www.tomshw.it/offerte/dyson-ontrac-a-34078eur-anc-e-55-ore-per-viaggiare-senza-rumore",
-      "excerpt": "Le Dyson OnTrac costano 340,78€ su Amazon, anziché 499€, con uno sconto del 32%. Le 55 ore di ascolto anche con ANC attivo le rendono particolarmente interessanti per viaggi,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107981/tomshw-offer-853474.png",
-      "publishedAt": "2026-08-18T08:05:45+00:00",
+      "title": "YouTube cambia il conteggio delle visualizzazioni: dal 24 agosto basta il primo frame",
+      "link": "https://images.dday.it/hpXwEUyczNuTPgoSBvMBVpd4SbtyNpZ7scS5P0N_EUs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58402/53815e_small_Depositphotos_465076298_XL_copia.jpg",
+      "excerpt": "Questo significa che anche i record delle visualizzazioni cambieranno? YouTube forse lo ha fatto per competere con TikTok e Instagram... Leggi tutto",
+      "image": "https://images.dday.it/hpXwEUyczNuTPgoSBvMBVpd4SbtyNpZ7scS5P0N_EUs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58402/53815e_small_Depositphotos_465076298_XL_copia.jpg",
+      "publishedAt": "2026-08-18T10:01:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Auto elettriche, spunta un nuovo problema: colpa delle ricariche al mattino",
+      "link": "https://www.hdmotori.it/auto-elettriche-spunta-un-nuovo-problema-colpa-delle-ricariche-al-mattino/",
+      "excerpt": "Le auto elettriche hanno tante criticità, ma una in particolare rischia di cambiare gli scenari dei dipendenti che arrivano al lavoro con il bisogno di attaccare la spina alle…",
+      "image": "https://hd2.tudocdn.net/1363466?w=660",
+      "publishedAt": "2026-08-18T10:00:38+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Sonos riporta i controlli sulla lockscreen di iPhone con la nuova app",
+      "link": "https://images.dday.it/fDVdli9yIC7j-raTd61zWqt17wO4hcROhvqdQBZmHco/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58401/bfa3d1_IMG_7181.jpg",
+      "excerpt": "Con l'ultimo aggiornamento dell'app per iOS, Sonos riporta i controlli di riproduzione sulla lockscreen di iPhone tramite la funzionalità \"attività in tempo reale\" del sistema…",
+      "image": "https://images.dday.it/fDVdli9yIC7j-raTd61zWqt17wO4hcROhvqdQBZmHco/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58401/bfa3d1_IMG_7181.jpg",
+      "publishedAt": "2026-08-18T09:55:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Acer Go Air 2026 è l'anti-MacBook Neo perfetto? Windows e chip Intel",
+      "link": "https://www.hdblog.it/portatili/articoli/n667572/acer-go-air-2026-specifiche-prezzi-macbook-neo/",
+      "excerpt": "Anche i prezzi sono molto simili (almeno in Cina).",
+      "image": "https://hd2.tudocdn.net/1363457?w=660",
+      "publishedAt": "2026-08-18T09:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Pixel 11a sarà il primo smartphone di Google prodotto fuori dalla Cina?",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667557/pixel-11a-primo-smartphone-google-fuori-cina/",
+      "excerpt": "I prossimi Pixel, non solo smartphone, potrebbero non arrivare dalla Cina: l'obiettivo sarebbe spostare la produzione in Vietnam e in India.",
+      "image": "https://hd2.tudocdn.net/1363420?w=660",
+      "publishedAt": "2026-08-18T09:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Sonos torna sulla lock screen di iPhone: controlli per la musica senza aprire l’app",
+      "link": "https://www.hdblog.it/apple/articoli/n667567/sonos-controlli-iphone-schermata-di-blocco/",
+      "excerpt": "Con l’ultimo aggiornamento dell’app Sonos tornano su iPhone i controlli dalla lock screen. Le Live Activities mostrano cosa sta suonando e permettono di gestire volume e…",
+      "image": "https://hd2.tudocdn.net/1338486?w=660",
+      "publishedAt": "2026-08-18T09:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Lenovo Tab Plus cala di 110€: ora il tablet è un'occasione",
+      "link": "https://www.tomshw.it/offerte/lenovo-tab-plus-cala-di-110eur-ora-il-tablet-e-unoccasione",
+      "excerpt": "Se cercate un tablet Android pensato soprattutto per film, serie TV, musica e navigazione quotidiana, Lenovo Tab Plus torna a farsi notare con un taglio di prezzo consistente: lo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108001/B0D4ZK6BPK.webp",
+      "publishedAt": "2026-08-18T09:43:11+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Ecco la rete che cattura la nebbia e produce 37.000 litri d’acqua",
-      "link": "https://www.hdblog.it/green/articoli/n667546/cloudfisher-rete-nebbia-acqua-siccita/",
-      "excerpt": "Una rete cattura le gocce della nebbia e porta acqua potabile nei villaggi più aridi.",
-      "image": "https://hd2.tudocdn.net/1363393?w=660",
-      "publishedAt": "2026-08-18T08:05:00+00:00",
+      "title": "Cina, i missili ipersonici potrebbero orientarsi con le stelle",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n667532/cina-missili-ipersonici-navigazione-stelle/",
+      "excerpt": "Un sensore stellare promette di guidare i velivoli ipersonici anche senza segnali satellitari",
+      "image": "https://hd2.tudocdn.net/1363441?w=660",
+      "publishedAt": "2026-08-18T09:35:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Nuova Mercedes-Benz Classe C, molto più che un restyling: resistono diesel e benzina",
-      "link": "https://www.hdmotori.it/nuova-mercedes-benz-classe-c-motori-prezzi/",
-      "excerpt": "Mercedes aggiorna profondamente Classe C berlina e station-wagon: motori rivisti, più tecnologia e plug-in fino a 100 km in EV",
-      "image": "https://hd2.tudocdn.net/1363413?w=660",
-      "publishedAt": "2026-08-18T08:00:24+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Xiaomi lancia un frigorifero smart da 600 litri che fa anche i cubetti di ghiaccio",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n667549/frigorifero-xiaomi-600-litri-macchina-ghiaccio-prezzo/",
-      "excerpt": "Mijia Refrigerator Pro 600L combina frigorifero e freezer con circuiti di raffreddamento indipendenti, congelamento rapido fino a -30 °C e produzione automatica del ghiaccio",
-      "image": "https://hd2.tudocdn.net/1363396?w=660",
-      "publishedAt": "2026-08-18T07:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Cybersecurity a prezzo stracciato: con Surfshark la privacy online parte da soli 2,49€/mese",
-      "link": "https://www.tomshw.it/hardware/cybersecurity-a-prezzo-stracciato-con-surfshark-la-privacy-online-parte-da-soli-249eurmese",
-      "excerpt": "Proteggere la propria privacy e la sicurezza dei propri dati personali non è mai stato così accessibile. Surfshark ha lanciato un'offerta imperdibile dedicata ai piani da 24 mesi,…",
-      "image": "https://cdn.tomshw.it/storage/media/2024/04/18269/Surfshark-VPN.jpg",
-      "publishedAt": "2026-08-18T07:54:32+00:00",
+      "title": "Sette heatpipe per CPU spinte: be quiet! Dark Rock Elite a soli 84,37€",
+      "link": "https://www.tomshw.it/offerte/sette-heatpipe-per-cpu-spinte-be-quiet-dark-rock-elite-a-soli-8437eur",
+      "excerpt": "Il be quiet! Dark Rock Elite costa 84,37€ su Amazon, anziché 119,90€, con uno sconto del 30%. Le sette heatpipe e le due ventole Silent Wings sono pensate per mantenere sotto…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107999/tomshw-offer-853799.png",
+      "publishedAt": "2026-08-18T09:33:38+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Google rilascia la beta 9 di Android 17 QPR1: corretti bug, migliorata la stabilità",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667544/google-rilascia-beta-9-android-17-qpr1/",
-      "excerpt": "La nuova build è identificata dalla sigla CP31.260623.012",
-      "image": "https://hd2.tudocdn.net/1352001?w=660",
-      "publishedAt": "2026-08-18T07:45:00+00:00",
+      "title": "Porsche Flachbau RS: la 911 che riporta in vita la leggenda Moby Dick",
+      "link": "https://www.hdmotori.it/porsche-flachbau-rs-la-911-che-riporta-in-vita-la-leggenda-moby-dick/",
+      "excerpt": "Porsche ha svelato la Flachbau RS, un progetto unico ispirato a una delle auto da corsa più iconiche di sempre. La base è una 911 GT2 RS ma della vettura originale rimane ben…",
+      "image": "https://hd2.tudocdn.net/1363447?w=660",
+      "publishedAt": "2026-08-18T09:30:14+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "GitLab, falla critica: progetti pubblici cancellabili senza login",
+      "link": "https://www.tomshw.it/hardware/gitlab-falla-critica-progetti-pubblici-cancellabili-senza-login",
+      "excerpt": "Una direttiva GraphQL può consentire a un attaccante remoto di modificare o cancellare progetti pubblici e dati degli utenti su alcune installazioni GitLab. La vulnerabilità,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107997/GitLab.jpg",
+      "publishedAt": "2026-08-18T09:25:10+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Pixel 11 Series, Google punta molto sul nuovo modem MediaTek",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667565/google-pixel-11-tensor-g6-modem-mediatek/",
+      "excerpt": "Google promette più efficienza, meno calore e più stabilità.",
+      "image": "https://hd2.tudocdn.net/1362212?w=660",
+      "publishedAt": "2026-08-18T09:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Marvel's Wolverine, Insomniac accusa X: amplifica la negatività",
+      "link": "https://www.tomshw.it/videogioco/marvel-s-wolverine-insomniac-accusa-x-amplifica-la-negativita",
+      "excerpt": "Gli algoritmi di X renderebbero predominanti i contenuti negativi dedicati a Marvel's Wolverine, restituendo un quadro poco rappresentativo delle reazioni al gioco. È il problema…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107996/ar6b5e.jpg",
+      "publishedAt": "2026-08-18T09:23:49+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Ceramica, acqua e stampa 3D: così un’Università raffredda l’aria anche di 7 °C",
+      "link": "https://www.hdblog.it/green/articoli/n667563/cubi-raffreddano-aria-ceramica/",
+      "excerpt": "Cubi di ceramica porosa stampati in 3D sfruttano l’evaporazione dell’acqua per raffreddare l’aria. Nel test della TU Graz è stata misurata una riduzione locale di quasi 7 °C",
+      "image": "https://hd2.tudocdn.net/1363432?w=660",
+      "publishedAt": "2026-08-18T09:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il boom dell'AI è sempre più simile alla bolla dot-com: l'allarme arriva dalla BCE",
+      "link": "https://www.hdblog.it/business/articoli/n667558/boom-ai-bolla-dot-com-allarme-bce/",
+      "excerpt": "Il tema è stato affrontato in un'analisi pubblicata sul blog della Banca Centrale Europea",
+      "image": "https://hd2.tudocdn.net/1363426?w=660",
+      "publishedAt": "2026-08-18T09:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Un numero record di utenti iPhone è stato avvisato di essere obiettivo di spyware \"mercenari\"",
+      "link": "https://images.dday.it/VTMwXOjIUnu1XsZrtPUe98mo7s0A1d42qv7gzM0PTIE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58400/f33daf_ios-26-iphone-17-pro-lock-screen-threat-notification.jpg",
+      "excerpt": "Secondo gli esperti di sicurezza, un numero senza precedenti di utenti ha ricevuto l'ultima tornata di notifiche da parte di Apple di rischi di attacchi spyware da parte di gruppi…",
+      "image": "https://images.dday.it/VTMwXOjIUnu1XsZrtPUe98mo7s0A1d42qv7gzM0PTIE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58400/f33daf_ios-26-iphone-17-pro-lock-screen-threat-notification.jpg",
+      "publishedAt": "2026-08-18T09:09:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "TikTok: 3 esperti di finanza su 4 non hanno una qualifica",
+      "link": "https://www.tomshw.it/business/tiktok-nel-74-di-150-video-finanziari-qualifiche-non-chiare",
+      "excerpt": "Nel 74% di 150 video finanziari virali su TikTok, le qualifiche professionali dei creator non erano dichiarate chiaramente. È il risultato di un’analisi condotta da…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107989/news-flash-853640.png",
+      "publishedAt": "2026-08-18T08:55:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "macOS Tahoe 26.7 RC svela Home Hub, AirPods e iPhone",
+      "link": "https://www.tomshw.it/hardware/macos-tahoe-26-7-rc-il-codice-cita-home-hub-airpods-iphone",
+      "excerpt": "Uno stream di immagini avviato direttamente dall’auricolare sinistro è tra i riferimenti più espliciti trovati nel codice di macOS Tahoe 26.7. La release candidate distribuita…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107986/Apple-AI-Command-Center-Concept-Mock-1-Textless.jpg",
+      "publishedAt": "2026-08-18T08:50:03+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Anthropic verso la Borsa: ricavi record oltre 65 miliardi",
+      "link": "https://www.tomshw.it/business/anthropic-verso-l-ipo-ricavi-annualizzati-sopra-65-miliardi",
+      "excerpt": "Più di 65 miliardi di dollari su base annualizzata: è il livello che Anthropic avrebbe superato alla fine di luglio 2026, circa sette volte il dato registrato alla chiusura del…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107977/news-flash-853424.png",
+      "publishedAt": "2026-08-18T08:45:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Mettono un AirTag in un libro raro: finisce nel centro Amazon dove i volumi vengono “tagliati” per l’IA",
+      "link": "https://images.dday.it/eIAtwYspHMd_JW_2vIyophmMZ1hniE36FokyHpIX_Jc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58399/3dec83_Depositphotos_32878571_XL.jpg",
+      "excerpt": "Dopo la prima indagine di luglio, la nuova inchiesta di 404 Media ha documentato acquisti massivi di libri fisici e un processo di scansione distruttivo destinato…",
+      "image": "https://images.dday.it/eIAtwYspHMd_JW_2vIyophmMZ1hniE36FokyHpIX_Jc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58399/3dec83_Depositphotos_32878571_XL.jpg",
+      "publishedAt": "2026-08-18T08:45:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Gli auricolari AirPods con videocamere per Apple Intelligence esistono davvero",
@@ -86,110 +212,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Il nuovo Tomb Raider prende in prestito una meccanica di Max Payne",
-      "link": "https://www.tomshw.it/videogioco/tomb-raider-legacy-of-atlantis-focus-rallenta-il-tempo",
-      "excerpt": "Infliggere e subire danni, schivare e contrattaccare alimenteranno una risorsa che Lara Croft potrà spendere per rallentare il tempo ed eseguire manovre acrobatiche. È il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107971/ar4vaq.jpg",
-      "publishedAt": "2026-08-18T07:36:24+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Anche Honor avrà il suo pieghevole a passaporto, e sarà potentissimo per i rumor",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667519/honor-pieghevole-wide-snapdragon-8-elite-gen-6-pro/",
-      "excerpt": "Il lancio è atteso per l'autunno: cosa sappiamo.",
-      "image": "https://hd2.tudocdn.net/1363418?w=660",
-      "publishedAt": "2026-08-18T07:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Lenovo V15 G5 da 879€ a 619€, il notebook da lavoro che fa risparmiare",
-      "link": "https://www.tomshw.it/offerte/lenovo-v15-g5-da-879eur-a-619eur-il-notebook-da-lavoro-che-fa-risparmiare",
-      "excerpt": "Il Lenovo V15 G5 IRL a 619€ su Amazon passa dal listino di 879€ al prezzo attuale, con uno sconto del 30%. Intel i5 di 13ª generazione, 16GB DDR5 e SSD da 512GB puntano a rendere…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107972/tomshw-offer-853393.png",
-      "publishedAt": "2026-08-18T07:33:45+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Back to School su Amazon: gli affari migliori vanno ben oltre la scuola",
-      "link": "https://www.tomshw.it/altro/back-to-school-su-amazon-gli-affari-migliori-vanno-ben-oltre-la-scuola",
-      "excerpt": "Settembre si avvicina e, come ogni anno, Amazon ha dato il via alla sua promozione dedicata al Back to School, un appuntamento pensato per permettere di prepararsi al nuovo anno…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107966/Back-to-School-su-Amazon-gli-affari-migliori-vanno-ben-oltre-la-scuola.png",
-      "publishedAt": "2026-08-18T07:33:39+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Citizen Star Wars: l’orologio Eco-Drive che ogni fan dovrebbe possedere",
-      "link": "https://www.hdblog.it/indossabili/articoli/n667536/citizen-star-wars-luke-skywalker-eco-drive/",
-      "excerpt": "Citizen porta Luke Skywalker al polso con Eco-Drive e una spada laser che brilla al buio.",
-      "image": "https://hd2.tudocdn.net/1363390?w=660",
-      "publishedAt": "2026-08-18T07:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Insta360 nel sacchetto di snack per spiare l'azienda: tradito dal segnale wireless",
-      "link": "https://www.hdblog.it/hardware/articoli/n667460/nasconde-insta360-sacchetto-snack-spia/",
-      "excerpt": "Voleva scambiarli in Cina per uno stipendio più alto",
-      "image": "https://hd2.tudocdn.net/1363334?w=660",
-      "publishedAt": "2026-08-18T07:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "X-Files: il film che Chris Carter voleva davvero arriva dopo 18 anni",
-      "link": "https://www.hdblog.it/curiosita/articoli/n667529/x-files-i-want-to-believe-nuova-versione/",
-      "excerpt": "Il secondo film di X-Files torna in una versione più cupa e vicina all'idea originale.",
-      "image": "https://hd2.tudocdn.net/1363368?w=660",
-      "publishedAt": "2026-08-18T07:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone 18 Pro: col nuovo chip A20 aumentano prestazioni, autonomia e... prezzi",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667510/iphone-18-pro-a20-chip-prestazioni-autonomia-apple/",
-      "excerpt": "Per i leak il salto in avanti sarà importante.",
-      "image": "https://hd2.tudocdn.net/1363350?w=660",
-      "publishedAt": "2026-08-18T07:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Migliori siti per prenotare hotel (agosto 2026)",
-      "link": "https://www.tomshw.it/altro/migliori-siti-per-prenotare-hotel",
-      "excerpt": "Organizzare un viaggio è più semplice di qualche anno fa, ma scegliere il sito giusto per prenotare l'hotel resta una decisione meno banale di quanto sembri. Le piattaforme non…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/89734/migliori-siti-hotel-copertina.jpg",
-      "publishedAt": "2026-08-18T06:06:43+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Sony WH-CH720N a 64€: il noise cancelling diventa più accessibile",
-      "link": "https://www.tomshw.it/hardware/sony-wh-ch720n-a-64-euro-2026-08-18",
-      "excerpt": "Sony WH-CH720N sono cuffie wireless over-ear con cancellazione attiva del rumore, modalità ambiente e connessione multipoint. Il prezzo attuale è 64,49€ con uno sconto del 28%…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107923/sony-wh-ch720n-a-64-euro-2026-08-18-YN4xod0l2k1llc7kcmscfFXpKv.png",
-      "publishedAt": "2026-08-18T05:15:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Sony SRS-XB100 a 30€: lo speaker compatto ora costa un terzo in meno",
-      "link": "https://www.tomshw.it/hardware/sony-srs-xb100-a-30-euro-2026-08-18",
-      "excerpt": "Sony SRS-XB100 è uno speaker Bluetooth portatile progettato per occupare poco spazio e accompagnare l’ascolto fuori casa. Il prezzo scende a 29,99€ con uno sconto del 33% rispetto…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107922/sony-srs-xb100-a-30-euro-2026-08-18-F1B7CRvhv46g7nhupmc3gdWBuN.png",
-      "publishedAt": "2026-08-18T05:14:52+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Marshall Stanmore III perde 121€: più conveniente per l’audio di casa",
-      "link": "https://www.tomshw.it/hardware/marshall-stanmore-iii-perde-121-euro-2026-08-18",
-      "excerpt": "Marshall Stanmore III è uno speaker Bluetooth da ambiente che punta su una scena stereo ampia, comandi immediati e più possibilità di collegamento. Ora costa 278,20€ con uno…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107921/marshall-stanmore-iii-perde-121-euro-2026-08-18-Q7aMHWY11037nlt7v97crOCJ7Y.png",
-      "publishedAt": "2026-08-18T05:14:44+00:00",
+      "title": "Migliori carte da usare in viaggio (agosto 2026)",
+      "link": "https://www.tomshw.it/altro/migliori-carte-da-usare-in-viaggio",
+      "excerpt": "Quando si pianifica un viaggio, scegliere la carta giusta è importante quasi quanto scegliere voli, alloggio e bagaglio: all'estero una piccola commissione ripetuta molte volte,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/89738/migliori-carte-viaggio-copertina.jpg",
+      "publishedAt": "2026-08-18T06:14:13+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -239,40 +266,13 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Pony.ai e Uber vogliono oltre 2.000 robotaxi in Europa: altre quattro città dopo Zagabria",
-      "link": "https://images.dday.it/HkjL7uQB1Q0Y8g8jJNbrm5R8BQlvVQiUdY4FJaCE0Zg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58391/849d5e_ponyuber_thumb.jpg",
-      "excerpt": "I dettagli sono scarsi: le nuove città non sono ancora state annunciate e l’espansione dipenderà anche dalle autorizzazioni locali... Leggi tutto",
-      "image": "https://images.dday.it/HkjL7uQB1Q0Y8g8jJNbrm5R8BQlvVQiUdY4FJaCE0Zg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58391/849d5e_ponyuber_thumb.jpg",
-      "publishedAt": "2026-08-17T12:40:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Apple dovrà cambiare in Europa il popup che permette agli utenti di non essere tracciati dalle app",
-      "link": "https://images.dday.it/5oRhOuC-t--5FigSwlG3P8jw4iQ1_MhfmcTM9nJWSm4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58392/3f1a7c_Gemini_Generated_Image_4t757g4t757g4t75.jpeg",
-      "excerpt": "Tra qualche mese cambierà per gli utenti europei il popup con il quale iOS chiede se si vuole essere tracciati o meno. Apple accetta (non certo di buon grado) le richieste delle…",
-      "image": "https://images.dday.it/5oRhOuC-t--5FigSwlG3P8jw4iQ1_MhfmcTM9nJWSm4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58392/3f1a7c_Gemini_Generated_Image_4t757g4t757g4t75.jpeg",
-      "publishedAt": "2026-08-17T10:42:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Stripe vuole PayPal, avrebbe offerto 53 miliardi di dollari. E nel frattempo si sarebbe presa OpenRouter",
-      "link": "https://images.dday.it/XXM-bGkfgTUrHM5Kyl8Ng0Rk-OMyh9ZxgskCud-iHYk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58390/3e7998_Depositphotos_41891409_XL.jpg",
-      "excerpt": "PayPal fa gola a Stripe che mette sul piatto 53 miliardi di dollari per fare suo il servizio di pagamenti digitali più noto al mondo. Nel frattempo guarda anche all’IA e avrebbe…",
-      "image": "https://images.dday.it/XXM-bGkfgTUrHM5Kyl8Ng0Rk-OMyh9ZxgskCud-iHYk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58390/3e7998_Depositphotos_41891409_XL.jpg",
-      "publishedAt": "2026-08-17T10:16:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Roblox è sotto indagine da parte del Senato degli Stati Uniti: la piattaforma è pericolosa per i bambini",
-      "link": "https://images.dday.it/WXuu9A42Uod96i5g44dFgwrM588oLu0W5fICMBd8JsQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58389/dd2d77_d2dc99fe-4b2c-4ca1-97d3-c6179ce749e8.png",
-      "excerpt": "La sottocommissione per il crimine e il controtterrorismo del Senato degli Stati Unti ha annunciato l’apertura di un’inchiesta sulla piattaforma Roblox, accusata di non proteggere…",
-      "image": "https://images.dday.it/WXuu9A42Uod96i5g44dFgwrM588oLu0W5fICMBd8JsQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58389/dd2d77_d2dc99fe-4b2c-4ca1-97d3-c6179ce749e8.png",
-      "publishedAt": "2026-08-17T09:14:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
+      "title": "Controllo qualità visivo con AI edge: 5 soluzioni che girano in reparto senza mandare immagini al cloud",
+      "link": "https://www.tomshw.it/aioperator/controllo-qualita-visivo-con-ai-edge-5-soluzioni-che-girano-in-reparto-senza-mandare-immagini-al-cloud",
+      "excerpt": "Una telecamera con AI a bordo scarta un pezzo difettoso in pochi millisecondi, senza spedire nessuna immagine fuori dalla linea. Questo pezzo copre cinque strade diverse per…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107224/02-pro02-cover.jpg",
+      "publishedAt": "2026-08-13T06:20:12+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     }
   ]
 }
