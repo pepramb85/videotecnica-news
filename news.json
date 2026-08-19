@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-08-18T22:14:12.114817+00:00",
+  "generatedAt": "2026-08-19T00:47:30.298812+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Migliori NAS (agosto 2026)",
+      "link": "https://www.tomshw.it/guide/migliori-nas",
+      "excerpt": "I NAS, ovvero Network Attached Storage, sono dispositivi di archiviazione collegati alla rete: non servono solo in azienda, ma anche in casa quando foto, video, backup dei PC e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/89857/migliori-nas-copertina.jpg",
+      "publishedAt": "2026-08-19T00:11:09+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori antivirus (agosto 2026)",
+      "link": "https://www.tomshw.it/guide/antivirus-vpn-sicurezza-migliori",
+      "excerpt": "La sicurezza informatica non riguarda più soltanto il PC di casa: oggi protegge documenti di lavoro, foto personali, home banking, account social, servizi cloud e dispositivi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/89856/migliori-antivirus-copertina.jpg",
+      "publishedAt": "2026-08-19T00:06:17+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "Selfie in 4K con la fotocamera posteriore: Insta360 Snap al minimo di 80€",
       "link": "https://www.tomshw.it/offerte/selfie-in-4k-con-la-fotocamera-posteriore-insta360-snap-al-minimo-di-80eur",
@@ -201,24 +219,6 @@
       "publishedAt": "2026-08-18T12:21:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migliori NAS (agosto 2026)",
-      "link": "https://www.tomshw.it/guide/migliori-nas",
-      "excerpt": "I NAS, ovvero Network Attached Storage, sono dispositivi di archiviazione collegati alla rete: non servono solo in azienda, ma anche in casa quando foto, video, backup dei PC e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/89857/migliori-nas-copertina.jpg",
-      "publishedAt": "2026-08-18T11:27:17+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori antivirus (agosto 2026)",
-      "link": "https://www.tomshw.it/guide/antivirus-vpn-sicurezza-migliori",
-      "excerpt": "La sicurezza informatica non riguarda più soltanto il PC di casa: oggi protegge documenti di lavoro, foto personali, home banking, account social, servizi cloud e dispositivi…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/89856/migliori-antivirus-copertina.jpg",
-      "publishedAt": "2026-08-18T11:24:58+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "YouTube cambia il conteggio delle visualizzazioni: dal 24 agosto basta il primo frame",
