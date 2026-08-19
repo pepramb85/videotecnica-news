@@ -1,9 +1,189 @@
 {
-  "generatedAt": "2026-08-19T10:20:17.118953+00:00",
+  "generatedAt": "2026-08-19T12:29:23.182849+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Apple ha in serbo parecchie novità per CarPlay con iOS 27: quali sono",
+      "link": "https://www.hdblog.it/apple/articoli/n667696/apple-carplay-nuove-funzioni-ios-27/",
+      "excerpt": "Apple arricchisce CarPlay con iOS 27: video a veicolo fermo, nuova interfaccia ed una Siri ancora più avanzata.",
+      "image": "https://hd2.tudocdn.net/1363732?w=660",
+      "publishedAt": "2026-08-19T12:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Un Robotaxi Tesla sbaglia strada ad Austin e travolge i dissuasori",
+      "link": "https://www.tomshw.it/automotive/un-robotaxi-tesla-travolge-i-dissuasori-e-continua-la-corsa",
+      "excerpt": "Un Robotaxi Tesla impegnato nel servizio senza conducente ad Austin ha imboccato un’area stradale protetta, piegato diversi dissuasori e proseguito la corsa con passeggeri a…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108309/un-robotaxi-tesla-travolge-i-dissuasori-e-continua-la-corsa.png",
+      "publishedAt": "2026-08-19T12:11:44+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Alan Wake 2 si aggiorna: arriva il supporto ad AMD FSR 4",
+      "link": "https://www.tomshw.it/videogioco/alan-wake-2-si-aggiorna-con-amd-fsr-4-lincubo-e-piu-nitido",
+      "excerpt": "Alan Wake 2 ha ricevuto un nuovo aggiornamento che introduce il supporto ufficiale ad AMD FSR 4 nella versione PC. Remedy continua così a intervenire sul suo survival horror a…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108303/alan-wake-2-si-aggiorna-con-amd-fsr-4-l-incubo-e-piu-nitido.png",
+      "publishedAt": "2026-08-19T12:09:37+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Addio test sugli animali? Vivodyne punta sui tessuti umani",
+      "link": "https://www.tomshw.it/scienze/vivodyne-3-1-milioni-di-test-su-tessuti-umani-per-l-ai",
+      "excerpt": "Dodici laboratori robotizzati capaci di coltivare, trattare e osservare tessuti umani tridimensionali costituiscono il nuovo datacenter biologico di Vivodyne. L'impianto produce…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108331/vivodyne.jpg",
+      "publishedAt": "2026-08-19T12:09:09+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La scommessa sui chip AI fa volare Etched a 21 miliardi",
+      "link": "https://www.tomshw.it/business/la-scommessa-sui-chip-ai-fa-volare-etched-a-21-miliardi",
+      "excerpt": "Etched ha visto la propria valutazione attribuita raddoppiare da 10,3 a 21 miliardi di dollari nell’arco di meno di un mese. L’incremento, pari a quasi 11 miliardi, è legato alla…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108302/la-scommessa-sui-chip-ai-fa-volare-etched-a-21-miliardi.png",
+      "publishedAt": "2026-08-19T12:07:38+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Bose Smart Ultra Soundbar al 40%, Dolby Atmos e voci chiare ne valgono la spesa",
+      "link": "https://www.tomshw.it/offerte/bose-smart-ultra-soundbar-al-40-dolby-atmos-e-voci-chiare-ne-valgono-la-spesa",
+      "excerpt": "Bose Smart Ultra Soundbar costa 599,99€ su Amazon, con il 40% di sconto sul listino di 999,95€ e un risparmio di 399,96€. Dolby Atmos, TrueSpace e la modalità AI dedicata ai…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108329/tomshw-offer-856698.png",
+      "publishedAt": "2026-08-19T12:03:12+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La Ferrari 550 Maranello è tornata e si chiama Veloce 12 Aperta",
+      "link": "https://www.hdmotori.it/ferrari-550-maranello-veloce-12-aperta/",
+      "excerpt": "Touring Superleggera si è superata e ha svelato la Veloce12 Aperta, restomod della Ferrari 550 Maranello con V12 da 530 CV e cambio manuale.",
+      "image": "https://hd2.tudocdn.net/1363838?w=660",
+      "publishedAt": "2026-08-19T12:00:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google Calendar finalmente permette di bloccare gli utenti",
+      "link": "https://www.hdblog.it/google/articoli/n667719/google-calendar-blocco-utenti-inviti-spam/",
+      "excerpt": "Il colosso di Mountain View vuole eliminare, o quantomeno ridurre, il fastidioso fenomeno degli inviti ed eventi spam.",
+      "image": "https://hd2.tudocdn.net/1274793?w=660",
+      "publishedAt": "2026-08-19T11:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Net zero urbano, lo studio: i piani europei dipendono troppo dalle rimozioni di CO2",
+      "link": "https://www.hdblog.it/green/articoli/n667717/citta-ue-emissioni-zero-troppa-co2/",
+      "excerpt": "Nature Climate Change pubblica un’analisi dei piani di 103 città europee: gli obiettivi sono ambiziosi, ma la robustezza media delle strategie di compensazione resta medio-bassa",
+      "image": "https://hd2.tudocdn.net/1205643?w=660",
+      "publishedAt": "2026-08-19T11:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple Magic Mouse a soli 59,99€, gesti Multi-Touch per Mac e iPad",
+      "link": "https://www.tomshw.it/offerte/apple-magic-mouse-a-soli-5999eur-gesti-multi-touch-per-mac-e-ipad",
+      "excerpt": "Apple Magic Mouse USB-C costa 59,99€ su Amazon, contro gli 85€ di listino, grazie a uno sconto del 29%. La superficie Multi-Touch consente di navigare fra pagine web e documenti…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108301/tomshw-offer-856644.png",
+      "publishedAt": "2026-08-19T11:33:18+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Pokémon Center: cyberattacco a CEVA, dati forse esposti in UK e Germania",
+      "link": "https://www.tomshw.it/altro/pokemon-center-cyberattacco-a-ceva-dati-forse-esposti-in-uk-e-germania",
+      "excerpt": "Alcuni ordini del Pokémon Center nel Regno Unito e in Germania, compresi prodotti legati al trentesimo anniversario, sono stati cancellati dopo un attacco informatico contro CEVA…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108293/data.jpg",
+      "publishedAt": "2026-08-19T11:30:34+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Oppo prepara uno smartphone wide-screen con cam da 200 MP e tele periscopica",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667706/oppo-wide-dettagli-fotocamere/",
+      "excerpt": "Nuovi dettagli sul misterioso wide-screen di Oppo: tra specifiche da flagship e data di debutto",
+      "image": "https://hd2.tudocdn.net/1359628?w=660",
+      "publishedAt": "2026-08-19T11:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Telemarketing in outsourcing, le imprese italiane documentino l’origine di ogni contatto",
+      "link": "https://www.tomshw.it/business/telemarketing-affidato-ai-partner-il-codice-di-condotta-non-esclude-le-sanzioni",
+      "excerpt": "Il Garante per la protezione dei dati personali, con il provvedimento n. 556 del 23 luglio 2026, ha sanzionato TIM per 9.516.000 euro. Come emerge nell’analisi delle nuove…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108259/telemarketing-affidato-ai-partner-il-codice-di-condotta-non-esclude-le-sanzioni.png",
+      "publishedAt": "2026-08-19T11:19:15+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Windows Defender, la saga continua: ora le scansioni vanno in crash",
+      "link": "https://www.hdblog.it/microsoft/articoli/n667715/windows-defender-bug-crash-scansioni-malware/",
+      "excerpt": "Arriva quasi alla fine, poi si pianta.",
+      "image": "https://hd2.tudocdn.net/1311677?w=660",
+      "publishedAt": "2026-08-19T11:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Migliori alimentatori PC economici (agosto 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-alimentatori-pc-economici",
+      "excerpt": "Acquistare uno dei migliori alimentatori economici per PC non significa scegliere il modello meno costoso e sperare che basti. La PSU è il componente che alimenta tutto il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/87668/migliori-alimentatori-pc-economici-copertina.jpg",
+      "publishedAt": "2026-08-19T11:05:26+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Hyundai Tucson: la nuova generazione è più grande e spigolosa",
+      "link": "https://www.hdmotori.it/hyundai-tucson-nuova-generazione/",
+      "excerpt": "Le immagini della nuova Tucson, attesa in Europa nel 2027, offrono una visione completa del nuovo linguaggio stilistico di Hyundai.",
+      "image": "https://hd2.tudocdn.net/1363806?w=660",
+      "publishedAt": "2026-08-19T11:00:25+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Paramount+ prova ad attirare nuovi abbonati con episodi gratuiti",
+      "link": "https://www.hdblog.it/android/articoli/n667714/paramount-plus-episodi-gratis-pubblicita/",
+      "excerpt": "Per ora i test sembrano circoscritti all'ecosistema Android e i dettagli sono poco chiari.",
+      "image": "https://hd2.tudocdn.net/1058519?w=660",
+      "publishedAt": "2026-08-19T10:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Xiaomi aggiorna la lista EOL: stop agli aggiornamenti per 12 Lite e altri modelli",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667712/xiaomi-12-lite-fine-supporto-cosa-significa/",
+      "excerpt": "Xiaomi interrompe il supporto per sei dispositivi tra smartphone e tablet. Tra quelli che interessano direttamente l’Europa c’è Xiaomi 12 Lite, che ora fa parte della lista EOL",
+      "image": "https://hd2.tudocdn.net/1054261?w=660",
+      "publishedAt": "2026-08-19T10:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "L’impatto dello stadio del Falcon 9 ha creato un nuovo cratere sulla Luna",
+      "link": "https://images.dday.it/p4EB-8dTbG8vqtQ2tKkT3luMN140i-iZm3FaYxWkQyY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58416/76fee4_Screenshot_2026-08-19_alle_12.29.44.png",
+      "excerpt": "Schiantatosi a inizio agosto sulla superficie del nostro satellite, lo stadio del Falcon 9 ha prodotto un cratere largo 18 metri... Leggi tutto",
+      "image": "https://images.dday.it/p4EB-8dTbG8vqtQ2tKkT3luMN140i-iZm3FaYxWkQyY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58416/76fee4_Screenshot_2026-08-19_alle_12.29.44.png",
+      "publishedAt": "2026-08-19T10:30:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Arrivano gli speaker PlayStation: i preordini di Pulse Elevate da settembre. Supportano l'audio 3D e si inclinano",
+      "link": "https://images.dday.it/NdlRCzqeUGkwfMlVqDWCKVsUeSt_TTT_ljArO6zQayU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58415/72bce3_pulseelevate_thumb__1_.jpg",
+      "excerpt": "I nuovi altoparlanti desktop della linea PlayStation supportano audio spaziale, connessione wireless a bassa latenza e Bluetooth... Leggi tutto",
+      "image": "https://images.dday.it/NdlRCzqeUGkwfMlVqDWCKVsUeSt_TTT_ljArO6zQayU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58415/72bce3_pulseelevate_thumb__1_.jpg",
+      "publishedAt": "2026-08-19T10:23:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
     {
       "title": "Xiaomi ha una nuova fontanella smart per cani e gatti che sterilizza anche l’acqua",
       "link": "https://www.hdblog.it/home/articoli/n667710/xiaomi-dispenser-acqua-cani-gatti-prezzo/",
@@ -12,24 +192,6 @@
       "publishedAt": "2026-08-19T10:20:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Back to School AliExpress: le migliori offerte solo sui veri top di gamma Android",
-      "link": "https://www.tomshw.it/smartphone/back-to-school-aliexpress-le-migliori-offerte-solo-sui-veri-top-di-gamma-android",
-      "excerpt": "La promo Back to School di AliExpress è entrata nel vivo e, per orientarvi al meglio tra la marea di sconti disponibili, abbiamo deciso di fare un lavoro di selezione chirurgica:…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108271/Back-to-School-AliExpress-le-migliori-offerte-solo-sui-veri-top-di-gamma-Android.jpg",
-      "publishedAt": "2026-08-19T10:17:43+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Ray-Ban Meta: il DHS vieta agli agenti ICE di usarli per registrare",
-      "link": "https://www.tomshw.it/smartphone/ray-ban-meta-il-dhs-vieta-agli-agenti-ice-di-usarli-per",
-      "excerpt": "Per gli agenti dell’immigrazione statunitense, ogni registrazione operativa deve passare da apparecchiature governative autorizzate. Il U.S. Department of Homeland Security ha…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108268/news-flash-856385.png",
-      "publishedAt": "2026-08-19T10:17:39+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Spotify lancia il Running Mode su iOS e Android: playlist su misura per gli allenamenti generate con l'IA",
@@ -41,105 +203,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Lidl da Guinness World Record: un trapano Parkside fa muovere il London Eye",
-      "link": "https://www.hdblog.it/home/articoli/n667705/lidl-guinness-world-record-trapano-parkside/",
-      "excerpt": "Un trapano a batteria da 20 V è riuscito a mettere in movimento il London Eye",
-      "image": "https://hd2.tudocdn.net/1363795?w=660",
-      "publishedAt": "2026-08-19T10:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "L'algoritmo di X (Twitter) si impegna per far arrabbiare gli utenti Democratici?",
-      "link": "https://www.hdblog.it/android/articoli/n667708/x-twitter-algoritmo-ragebait-democratici/",
-      "excerpt": "Uno studio pubblicato di recente suggerisce di sì, ma la società potrebbe già essere intervenuta per correggere il problema.",
-      "image": "https://hd2.tudocdn.net/1330283?w=660",
-      "publishedAt": "2026-08-19T10:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone 17 Pro Max 512GB da 1.739€ a 1.579€, il top per foto e autonomia",
-      "link": "https://www.tomshw.it/offerte/iphone-17-pro-max-512gb-da-1739eur-a-1579eur-il-top-per-foto-e-autonomia",
-      "excerpt": "iPhone 17 Pro Max 512GB costa 1.579€ su Amazon, anziché 1.739€, con lo sconto del 9% applicato da Amazon. La variante Blu profondo riunisce ampia memoria, fotocamere da 48MP e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108269/tomshw-offer-856395.png",
-      "publishedAt": "2026-08-19T10:03:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il prezzo della benzina è raddoppiato negli ultimi 30 anni",
-      "link": "https://www.hdmotori.it/prezzo-benzina-raddoppiato-30-anni/",
-      "excerpt": "Un'analisi del Codacons evidenzia come, tra il 1996 e il 2026, la benzina sia raddoppiata e il diesel sia quasi triplicato, con pesanti effetti a catena su inflazione e carrello…",
-      "image": "https://hd2.tudocdn.net/1326688?w=660",
-      "publishedAt": "2026-08-19T10:00:08+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "TikTok sta pensando ai pagamenti peer-to-peer tra utenti, attraverso i messaggi privati",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n667689/tiktok-pagamenti-peer-to-peer-messaggi-privati/",
-      "excerpt": "Nel codice dell'app di TikTok sono stati individuati riferimenti alla possibilità di inviare denaro con modalità P2P, attraverso i messaggi.",
-      "image": "https://hd2.tudocdn.net/1363720?w=660",
-      "publishedAt": "2026-08-19T09:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Claude entra in Gmail: invia e risponde alle tue email",
-      "link": "https://www.tomshw.it/hardware/claude-gestisce-gmail-ora-invia-risponde-e-inoltra-le-email",
-      "excerpt": "Claude può ora completare direttamente alcune delle operazioni più comuni su Gmail: l’assistente è in grado di inviare un’email, rispondere all’interno di una conversazione e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108263/76f3062d78ebbb04863fb1de3ef9cca0.png",
-      "publishedAt": "2026-08-19T09:53:43+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Ban degli occhiali smart di Meta anche per gli agenti dell'ICE: la nota del Dipartimento",
-      "link": "https://www.hdblog.it/indossabili/articoli/n667695/ban-occhiali-smart-meta-agenti-ice/",
-      "excerpt": "Gli occhiali smart come quelli di Meta nel mirino dell'ICE per i possibili rischi legati a privacy e prove raccolte durante le operazioni.",
-      "image": "https://hd2.tudocdn.net/1363726?w=660",
-      "publishedAt": "2026-08-19T09:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "2TB di SSD a 200€ netti: il prezzo è uno dei più convenienti di oggi",
-      "link": "https://www.tomshw.it/hardware/fanxiang-s880-ssd-nvme-sconto-pazzesco-del-56-2026-08-19",
-      "excerpt": "Su AliExpress è disponibile un'ottima offerta per l'SSD Fanxiang S880 M.2 NVMe, con velocità fino a 7300MB/s e compatibile con PS5, laptop e PC. Il prezzo scende a 220,04€, e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108266/fanxiang-s880-ssd-nvme-sconto-pazzesco-del-56-2026-08-19-qrQqcBf2d3983jm95n9VETP4Z.jpg",
-      "publishedAt": "2026-08-19T09:49:44+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Gemini arriva in Chrome su Android, e può anche navigare al posto dell’utente",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667704/gemini-in-chrome-rollout-android/",
-      "excerpt": "Google completa il rollout di Gemini in Chrome su Android negli Stati Uniti: l’assistente può riassumere pagine, rispondere a domande e, con Auto browse, navigare autonomamente",
-      "image": "https://hd2.tudocdn.net/1363736?w=660",
-      "publishedAt": "2026-08-19T09:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "OnePlus Watch 4 sotto i 200€? Sì, è davvero possibile, ma dovete fare in fretta",
-      "link": "https://www.tomshw.it/smartphone/oneplus-watch-4-smartwatch-a-prezzo-shock-79-2026-08-19",
-      "excerpt": "Su AliExpress è disponibile un'imperdibile offerta per OnePlus Watch 4, proposto a soli 211,24€. Grazie a un coupon aggiuntivo di 20€, potrete acquistarlo al prezzo finale di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108258/oneplus-watch-4-smartwatch-a-prezzo-shock-79-2026-08-19-KaAF4s9nugm7499l2342UKhcHL.jpg",
-      "publishedAt": "2026-08-19T09:41:57+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Social e minori, il Codacons chiede l'adozione di limiti più severi anche in Italia",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667703/social-minori-codacons-limiti-italia/",
-      "excerpt": "Per il Codacons non basta affidarsi alle misure decise dalle piattaforme",
-      "image": "https://hd2.tudocdn.net/1350157?w=660",
-      "publishedAt": "2026-08-19T09:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Il Cybercab di Tesla si ricaricherà da solo: ad Austin previsto un impianto per “80 posti wireless”",
       "link": "https://images.dday.it/salt0YK-3ZZdomNQKbSd1p66-qoS3iHFi4deOnYxVWI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58413/1f98ee_Screenshot_2026-08-19_alle_11.31.08.png",
       "excerpt": "Tesla vuole trasformare un’area logistica di Austin in una grande stazione di ricarica, pronta anche per il futuro rifornimento wireless e automatizzato dei Cybercab... Leggi tutto",
@@ -147,33 +210,6 @@
       "publishedAt": "2026-08-19T09:36:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Claude entra in Gmail: prepara le risposte e può inviarle direttamente",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n667701/claude-risponde-mail-gmail/",
-      "excerpt": "Anthropic amplia le capacità agentiche di Claude su Gmail e Google Drive: l’assistente può completare direttamente alcune operazioni, dall’invio delle email alla gestione dei file",
-      "image": "https://hd2.tudocdn.net/1363730?w=660",
-      "publishedAt": "2026-08-19T09:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung Soundbar Serie B al 49%, un affare per sentire meglio film e serie",
-      "link": "https://www.tomshw.it/offerte/samsung-soundbar-serie-b-al-49-un-affare-per-sentire-meglio-film-e-serie",
-      "excerpt": "La Samsung Soundbar HW-B400F/ZF è a 76,64€ su Amazon, con uno sconto del 49% sul prezzo di listino di 149€. Con quattro speaker, woofer integrato e Voice Enhance, è pensata per…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108253/tomshw-offer-856337.png",
-      "publishedAt": "2026-08-19T09:33:21+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Apple Home Hub, tante anticipazioni su come funzionerà l'interfaccia",
-      "link": "https://www.hdblog.it/apple/articoli/n667700/apple-home-hub-funzioni-interfaccia-ui-widget/",
-      "excerpt": "Si baserà tantissimo sui widget, a quanto pare.",
-      "image": "https://hd2.tudocdn.net/1316470?w=660",
-      "publishedAt": "2026-08-19T09:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Samsung Display ha risolto il problema della perdita di luminosità della piega dei display pieghevoli",
@@ -212,11 +248,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Migliori monitor gaming sotto i 500 euro (agosto 2026)",
-      "link": "https://www.tomshw.it/videogioco/monitor-gaming-500-euro",
-      "excerpt": "Quali sono i migliori monitor gaming sotto i 500 euro? La risposta dipende meno dal prezzo massimo e molto di più dal modo in cui giocate: un competitivo online cerca fluidità,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/90003/migliori-monitor-gaming-sotto-500-euro-copertina.jpg",
-      "publishedAt": "2026-08-19T06:20:31+00:00",
+      "title": "Migliori robot tosaerba (agosto 2026)",
+      "link": "https://www.tomshw.it/altro/migliori-robot-tosaerba",
+      "excerpt": "Un robot tosaerba moderno può cambiare davvero la gestione del giardino, ma nel 2026 non basta più chiedersi se taglia bene l'erba. La differenza reale la fanno superficie…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/90031/migliori-robot-tosaerba-copertina.jpg",
+      "publishedAt": "2026-08-19T06:32:34+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -237,42 +273,6 @@
       "publishedAt": "2026-08-18T14:05:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "OpenAI lancia ChatGPT for Teens: pensato per aiutare a studiare e con più protezioni per i minori",
-      "link": "https://images.dday.it/x3s0zB8MNySSjmSv4qYbe2DocW4glkJS_-ftR8phhbA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58404/4fc50f_Still-04-HomeworkReminder__1_.jpg",
-      "excerpt": "La nuova versione è in grado di riconoscere automaticamente i minori di 18 anni e invita i ragazzi a non cercare scorciatoie nel risolvere i problemi e anzi a ragionarci sopra…",
-      "image": "https://images.dday.it/x3s0zB8MNySSjmSv4qYbe2DocW4glkJS_-ftR8phhbA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58404/4fc50f_Still-04-HomeworkReminder__1_.jpg",
-      "publishedAt": "2026-08-18T13:41:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "DAZN lancia l’abbonamento per vedere i contenuti solo sullo smartphone: nasce Full Mobile a 19,99 euro al mese",
-      "link": "https://images.dday.it/EWzybWO0vPe19Th5LoJDcs-vX2EytUnR8urny-dRSk0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58405/12ca08_Screenshot_2026-08-18_alle_15.17.21.png",
-      "excerpt": "Non sono accettati altri dispositivi che non siano smartphone. Non valgono nemmeno casting e mirroring, e fuori anche i tablet. Non esiste impegno annuale, solo mensile... Leggi…",
-      "image": "https://images.dday.it/EWzybWO0vPe19Th5LoJDcs-vX2EytUnR8urny-dRSk0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58405/12ca08_Screenshot_2026-08-18_alle_15.17.21.png",
-      "publishedAt": "2026-08-18T13:18:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "People analytics per prevedere le dimissioni, tutorial operativo per Direttori HR",
-      "link": "https://www.tomshw.it/aioperator/people-analytics-per-prevedere-le-dimissioni-il-tutorial-operativo-per-hr-director",
-      "excerpt": "Un algoritmo di people analytics può stimare la probabilità di dimissioni di ogni dipendente con mesi di anticipo. La parte tecnica è ormai alla portata di un'azienda media, con…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107489/02-hr24-cover.jpg",
-      "publishedAt": "2026-08-13T16:04:20+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Giacca softshell: quando serve (e quando basta l'antivento)",
-      "link": "https://www.tomshw.it/altro/giacca-softshell-quando-serve-e-quando-basta-lantivento",
-      "excerpt": "Quando ci si avventura all'aperto nelle stagioni di transizione o in montagna, il comfort termico e la protezione dagli elementi diventano prioritari. Saper scegliere il capo da…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106073/Giacca-softshell-quando-serve-(e-quando-basta-l'antivento).png",
-      "publishedAt": "2026-08-06T13:00:25+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     }
   ]
 }
