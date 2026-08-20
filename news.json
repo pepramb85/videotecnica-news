@@ -1,9 +1,117 @@
 {
-  "generatedAt": "2026-08-20T16:24:47.844829+00:00",
+  "generatedAt": "2026-08-20T18:26:58.062386+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Windows 11, le patch di agosto mandano in crisi alcuni videogiochi",
+      "link": "https://www.hdblog.it/microsoft/articoli/n667916/windows-11-patch-agosto-bug-videogiochi-crash/",
+      "excerpt": "Crash e riavvii spontanei, a quanto pare a causa di un singolo file modificato. Per fortuna c'è un workaround che sembra efficace.",
+      "image": "https://hd2.tudocdn.net/1337911?w=660",
+      "publishedAt": "2026-08-20T18:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Corsair VIRTUOSO MAX WIRELESS al 47%, ANC e Dolby Atmos per giocare concentrati",
+      "link": "https://www.tomshw.it/offerte/corsair-virtuoso-max-wireless-al-47-anc-e-dolby-atmos-per-giocare-concentrati",
+      "excerpt": "Corsair VIRTUOSO MAX WIRELESS costa 175,44€ su Amazon, invece di 329,99€, grazie a uno sconto del 47% che coincide con il suo minimo storico. Driver in grafene, cancellazione…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108690/tomshw-offer-882399.png",
+      "publishedAt": "2026-08-20T18:03:52+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Google Pixel 11 Pro, arriva l'app per scatenare tutto il potenziale di HiLight",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667915/google-pixel-11-pro-app-hilight-studio/",
+      "excerpt": "Purtroppo non è semplicissima da installare. Per ora è appannaggio degli utenti più smaliziati.",
+      "image": "https://hd2.tudocdn.net/1363822?w=660",
+      "publishedAt": "2026-08-20T17:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Honor esagera: 200 MP e batterie da 12.000 mAh per i suoi prossimi smartphone",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667913/honor-magic-9-pro-win-2-power-3-700-batteria-leak/",
+      "excerpt": "Un poker di leak svela caratteristiche davvero interessanti.",
+      "image": "https://hd2.tudocdn.net/1347696?w=660",
+      "publishedAt": "2026-08-20T17:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Insta360 GO 3S 128GB sotto i 280€, video 4K in soli 39 grammi",
+      "link": "https://www.tomshw.it/offerte/insta360-go-3s-128gb-sotto-i-280eur-video-4k-in-soli-39-grammi",
+      "excerpt": "Insta360 GO 3S 128GB costa 279€ su Amazon, anziché 329€, con uno sconto del 15%. In soli 39 grammi registra video 4K a mani libere, sfruttando il corpo magnetico per ottenere…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108688/tomshw-offer-882393.png",
+      "publishedAt": "2026-08-20T17:33:42+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Ecco quando arriva la serie animata di Golden Axe! | Primo trailer",
+      "link": "https://www.hdblog.it/games/articoli/n667914/golden-axe-serie-tv-trailer-quando/",
+      "excerpt": "Iniziate a raccogliere le pozioni!",
+      "image": "https://hd2.tudocdn.net/1364250?w=660",
+      "publishedAt": "2026-08-20T17:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Data center e rinnovabili corrono, la rete no: arriva Heron Link",
+      "link": "https://www.hdblog.it/green/articoli/n667842/heron-power-fabbrica-rete-elettrica-california/",
+      "excerpt": "Una nuova fabbrica produrrà sistemi da 5 MW per collegare più rapidamente energia e data center.",
+      "image": "https://hd2.tudocdn.net/1364159?w=660",
+      "publishedAt": "2026-08-20T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Falso rimborso sui farmaci da 20,73 euro: attenzione alla nuova truffa",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n667909/falso-rimborso-farmaci-truffa/",
+      "excerpt": "Il CERT-AGID segnala una nuova campagna di phishing che promette un falso rimborso di 20,73 euro per l’acquisto di farmaci e punta a sottrarre dati personali e informazioni della…",
+      "image": "https://hd2.tudocdn.net/1364246?w=660",
+      "publishedAt": "2026-08-20T17:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "FIAT Pandina Tributo Autobianchi, la novità principale è nell’abitacolo",
+      "link": "https://www.hdmotori.it/fiat-pandina-tributo-autobianchi-novita-principale/",
+      "excerpt": "FIAT sta lavorando a una Pandina Tributo Autobianchi con prove su strada mirate. Sono spuntati i primi dettagli degli interni.",
+      "image": "https://hd2.tudocdn.net/1364248?w=660",
+      "publishedAt": "2026-08-20T17:00:46+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il Governo vuole porre fine al trucco della targa polacca per non pagare l'assicurazione italiana a Napoli",
+      "link": "https://images.dday.it/LJSG2DCHotY90VesffdcbgX4CZzaBndw218UZ-qqWvQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58433/faeae8_Image_c3cq9zc3cq9zc3cq.jpg",
+      "excerpt": "La misura intende rendere obbligatoria l'assicurazione italiana anche per il noleggio a lungo termine tramite compagnie straniere, ma non è così semplice: il rischio è violare le…",
+      "image": "https://images.dday.it/LJSG2DCHotY90VesffdcbgX4CZzaBndw218UZ-qqWvQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58433/faeae8_Image_c3cq9zc3cq9zc3cq.jpg",
+      "publishedAt": "2026-08-20T16:55:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "L’US Army testa robot autonomi per rifornire il fronte",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n667819/us-army-robot-autonomi-rifornimenti-fronte/",
+      "excerpt": "Sei veicoli autonomi saranno testati per rifornimenti ed evacuazioni nelle zone più pericolose.",
+      "image": "https://hd2.tudocdn.net/1364058?w=660",
+      "publishedAt": "2026-08-20T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "YouTube Premium aumenta in Italia: fino a 4€/mese in più",
+      "link": "https://www.hdblog.it/google/articoli/n667910/youtube-premium-aumento-prezzi-italia-quanto/",
+      "excerpt": "Il piano regolare sale di 2€, quello Family di 4€ e quello Lite di 1€.",
+      "image": "https://hd2.tudocdn.net/1344115?w=660",
+      "publishedAt": "2026-08-20T16:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Beats 360, tante nuove anticipazioni: render dettagliati e specifiche",
       "link": "https://www.hdblog.it/indossabili/articoli/n667904/beats-360-cuffie-avvistate-anatel-quando/",
@@ -32,24 +140,6 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "L’auto che non ha mai bisogno di riparazioni: meccanico consiglia questo modello",
-      "link": "https://www.hdmotori.it/auto-nessuna-riparzione-modello/",
-      "excerpt": "Gli automobilisti europei ritengono che i marchi tedeschi siano i migliori, ma c’è un brand che supera in termini di affidabilità Mercedes, BMW e Audi",
-      "image": "https://hd2.tudocdn.net/1364236?w=660",
-      "publishedAt": "2026-08-20T16:00:28+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Webb, Hubble e Chandra mostrano la Nebulosa Tarantola come non l’abbiamo mai vista",
-      "link": "https://www.hdblog.it/curiosita/articoli/n667877/nebulosa-tarantola-webb-hubble-chandra/",
-      "excerpt": "Webb, Hubble e Chandra ricostruiscono la vita nascosta della Nebulosa Tarantola.",
-      "image": "https://hd2.tudocdn.net/1364184?w=660",
-      "publishedAt": "2026-08-20T15:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "007 First Light fa centro: oltre 4 milioni di copie vendute",
       "link": "https://www.tomshw.it/videogioco/007-first-light-fa-centro-oltre-4-milioni-di-copie-vendute",
       "excerpt": "Quattro milioni di copie vendute nel mondo a meno di tre mesi dal debutto: 007 First Light ha raggiunto un nuovo traguardo commerciale su PlayStation 5, Xbox Series X|S e PC. IO…",
@@ -59,92 +149,11 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Google fa sparire Android dai Pixel 11, ma solo dalla schermata di avvio",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667902/pixel-11-pro-xl-logo-avvio/",
-      "excerpt": "Pixel 11 cambia anche nella schermata di avvio: sotto alla grande G di Google spariscono la dicitura “Powered by Android” e il robottino che erano presenti sui Pixel della…",
-      "image": "https://hd2.tudocdn.net/1363813?w=660",
-      "publishedAt": "2026-08-20T15:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Steam Frame, forse ci siamo: trapelano tanti nuovi indizi sul lancio imminente",
-      "link": "https://www.hdblog.it/indossabili/articoli/n667900/valve-steam-frame-uscita-imminente/",
-      "excerpt": "Diversi osservatori indicano che la società americana sta manovrando dietro le quinte.",
-      "image": "https://hd2.tudocdn.net/1302092?w=660",
-      "publishedAt": "2026-08-20T15:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Anker Prime 160W ricarica MacBook, iPhone e iPad insieme a 115,99€",
       "link": "https://www.tomshw.it/offerte/anker-prime-160w-ricarica-macbook-iphone-e-ipad-insieme-a-11599eur",
       "excerpt": "Anker Prime 160W costa 115,99€ su Amazon, con uno sconto dell’11% sul listino di 129,99€. L’uscita da 140W su una sola porta e la gestione simultanea di tre dispositivi permettono…",
       "image": "https://cdn.tomshw.it/storage/media/2026/08/108677/tomshw-offer-882210.png",
       "publishedAt": "2026-08-20T15:33:45+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Non buttare la carta scaduta ancora intera: in alcuni casi può ancora pagare",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n667897/pagamenti-con-carte-scadute-vulnerabilita/",
-      "excerpt": "Alcune carte di credito scadute possono ancora essere utilizzate per effettuare pagamenti: uno studio presentato a USENIX Security 2026 mostra una vulnerabilità legata ai…",
-      "image": "https://hd2.tudocdn.net/1364219?w=660",
-      "publishedAt": "2026-08-20T15:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Targhe polacche al capolinea, scatta l’obbligo dell’assicurazione italiana",
-      "link": "https://www.hdmotori.it/targhe-polacche-obbligo-assicurazione-italiana/",
-      "excerpt": "Il boom di targhe polacche in Italia, specialmente in Campania, sta per finire. L'Rc auto italiana diventerà obbligatoria",
-      "image": "https://hd2.tudocdn.net/1364220?w=660",
-      "publishedAt": "2026-08-20T15:00:45+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Arterie su chip, un possibile passo verso cure più personalizzate",
-      "link": "https://www.tomshw.it/scienze/queste-arterie-su-chip-potrebbero-anticipare-un-ictus",
-      "excerpt": "Un team con ricercatori della University of Sydney ha costruito copie miniaturizzate delle arterie carotidi di singoli pazienti. Queste arterie-su-chip riproducono restringimenti…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108674/queste-arterie-su-chip-potrebbero-anticipare-un-ictus.png",
-      "publishedAt": "2026-08-20T14:51:17+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Oura Ring 4, lo smart ring che controlla sonno e stress torna a buon prezzo su Amazon",
-      "link": "https://www.hdblog.it/indossabili/offerte/n667892/oura-ring-4-stealth-smart-ring-amazon/",
-      "excerpt": "Oura Ring 4 Stealth misura 12 è in offerta su Amazon a 237,62€: smart ring in titanio per sonno, frequenza cardiaca, attività e recupero.",
-      "image": "https://hd2.tudocdn.net/1292024?w=660",
-      "publishedAt": "2026-08-20T14:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "World Humanoid Robot Games 2026: in gara 2.056 robot",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n667827/world-humanoid-robot-games-2026-pechino/",
-      "excerpt": "A Pechino 2.056 robot affronteranno sport e prove ispirate al lavoro reale",
-      "image": "https://hd2.tudocdn.net/1364089?w=660",
-      "publishedAt": "2026-08-20T14:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "USA, hacker usano l'AI per attaccare acquedotti e infrastrutture critiche",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n667893/usa-hacker-usano-ai-acquedotti-infrastrutture/",
-      "excerpt": "Negli Stati Uniti è scattato un nuovo allarme per gli attacchi informatici alle infrastrutture critiche",
-      "image": "https://hd2.tudocdn.net/1364214?w=660",
-      "publishedAt": "2026-08-20T14:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "QNAP potenzia i suoi NAS con snapshot e replica tra cluster",
-      "link": "https://www.tomshw.it/hardware/qnap-porta-snapshot-e-mirroring-tra-cluster-sui-nas-scale-out",
-      "excerpt": "QNAP ha rilasciato QuTS MEGA 2.0, aggiornamento del sistema operativo dedicato alla piattaforma MEGA Scale-out NAS. La nuova versione introduce snapshot locali e replica tra…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108670/qnap-porta-snapshot-e-mirroring-tra-cluster-sui-nas-scale-out.png",
-      "publishedAt": "2026-08-20T14:27:05+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -185,11 +194,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Un link usava i permessi di Copilot Personal: le PMI italiane verifichino i servizi collegati",
-      "link": "https://www.tomshw.it/business/un-link-usava-i-permessi-di-copilot-personal-le-pmi-italiane-verifichino-i-servizi-collegati",
-      "excerpt": "Un solo link poteva indurre Microsoft Copilot Personal a eseguire automaticamente un prompt malevolo, leggere email, calendari, file e conversazioni già accessibili all’assistente…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108606/un-link-usava-i-permessi-di-copilot-personal-le-pmi-italiane-verifichino-i-servizi-collegati.png",
-      "publishedAt": "2026-08-20T12:48:14+00:00",
+      "title": "Migliori mouse wireless (agosto 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-mouse-wireless",
+      "excerpt": "Oggi scegliere il mouse wireless ideale non significa soltanto liberare la scrivania da un cavo. La differenza vera si vede quando il puntatore resta stabile durante una giornata…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/87012/migliori-mouse-wireless-copertina.jpg",
+      "publishedAt": "2026-08-20T11:21:34+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -199,15 +208,6 @@
       "excerpt": "Usare una VPN per il gaming non è una scorciatoia magica per abbassare il ping: nella maggior parte dei casi aggiunge un passaggio extra alla connessione e va quindi valutata con…",
       "image": "https://cdn.tomshw.it/storage/media/2026/03/87010/migliori-vpn-per-giocare-copertina.jpg",
       "publishedAt": "2026-08-20T11:15:13+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori caschi per bici ed e-bike (agosto 2026)",
-      "link": "https://www.tomshw.it/automotive/migliori-caschi-per-bici-ed-e-bike",
-      "excerpt": "Usare ogni giorno una bici tradizionale o una e-bike significa muoversi più velocemente nel traffico, condividere la strada con auto e scooter e affrontare superfici non sempre…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/05/93371/migliori-caschi-bici-copertina.jpg",
-      "publishedAt": "2026-08-20T11:12:53+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -257,13 +257,13 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Meta AI debutta su Mac con una dettatura vocale che funziona in tutto il sistema",
-      "link": "https://images.dday.it/mRnoHR9RdMHn-HBiUFRi99xZAChVytfYGxlDFwdWFxY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58421/b575f1_small_meta_copia.jpg",
-      "excerpt": "La nuova app di Meta AI per Mac consente di dettare testo in qualunque campo di macOS e di mostrare al modello il contenuto di finestre e applicazioni aperte... Leggi tutto",
-      "image": "https://images.dday.it/mRnoHR9RdMHn-HBiUFRi99xZAChVytfYGxlDFwdWFxY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58421/b575f1_small_meta_copia.jpg",
-      "publishedAt": "2026-08-20T07:38:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
+      "title": "Quando esce Galaxy Z TriFold 2? Data e cosa sappiamo",
+      "link": "https://www.tomshw.it/smartphone/quando-esce-galaxy-z-trifold-2-data-e-cosa-sappiamo",
+      "excerpt": "Galaxy Z TriFold 2 non ha una data di uscita ufficiale e Samsung non ha ancora confermato neppure questo nome. I rumor più consistenti indicano però il 2027, con una possibile…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108470/quando-esce-galaxy-z-trifold-2-data-e-cosa-sappiamo.png",
+      "publishedAt": "2026-08-20T07:36:11+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Targa Telematics vs Webfleet: confronto pratico per chi gestisce una flotta mista in Italia",
