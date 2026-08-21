@@ -1,62 +1,206 @@
 {
-  "generatedAt": "2026-08-21T08:30:02.021781+00:00",
+  "generatedAt": "2026-08-21T10:21:30.577863+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Zuckerberg si compra un castello in Irlanda, un gioiello del 1830",
-      "link": "https://www.hdblog.it/mercato/articoli/n667942/mark-zuckerberg-castello-irlanda-strancally/",
-      "excerpt": "Zuckerberg acquista Strancally Castle, una tenuta irlandese da 178 ettari.",
-      "image": "https://hd2.tudocdn.net/1364305?w=660",
-      "publishedAt": "2026-08-21T08:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Lord of Mysteries: 5 consigli per non perdersi all'inizio",
-      "link": "https://www.tomshw.it/videogioco/lord-of-mysteries-5-consigli-per-iniziare",
-      "excerpt": "Lord of Mysteries, conosciuto anche come 诡秘之主, esce oggi, 21 agosto 2026, su PC. È un RPG online multigiocatore sviluppato e pubblicato da SPARK NEXA, basato sull’omonimo web…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108810/lordofmysteries_klein.avif",
-      "publishedAt": "2026-08-21T08:22:43+00:00",
+      "title": "Anthropic, i tuoi prompt nel cloud aziendale per un mese",
+      "link": "https://www.tomshw.it/business/anthropic-prompt-e-risposte-resterebbero-30-giorni-nel-cloud-aziendale",
+      "excerpt": "Prompt e risposte prodotti con i modelli più avanzati di Anthropic potranno restare per 30 giorni direttamente nell’infrastruttura cloud del cliente. Il piano, riferito da una…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108843/news-flash-885003.png",
+      "publishedAt": "2026-08-21T10:08:23+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Kismile AeroLucen, arriva la friggitrice ad aria trasparente",
-      "link": "https://www.hdblog.it/home/articoli/n667952/kismile-aerolucen-friggitrice-aria-trasparente/",
-      "excerpt": "Così si può tenere sotto controllo la cottura del cibo in tutte le fasi.",
-      "image": "https://hd2.tudocdn.net/1364303?w=660",
-      "publishedAt": "2026-08-21T08:15:00+00:00",
+      "title": "YouTube Premium aumenta il costo di tutti gli abbonamenti: fino a 4 euro in più al mese",
+      "link": "https://images.dday.it/J4ZHcsu4AkjK9Gx9Co3z2VZnObzNc7UWv328XebBJys/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58440/2fcad0_Depositphotos_624967678_XL.jpg",
+      "excerpt": "YouTube Premium aumenta in Italia il prezzo di tutti i piani: rincari tra 1 e 4 euro al mese, con il Family che sale a 29,99 euro. L’aumento medio è di circa il 15%... Leggi tutto",
+      "image": "https://images.dday.it/J4ZHcsu4AkjK9Gx9Co3z2VZnObzNc7UWv328XebBJys/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58440/2fcad0_Depositphotos_624967678_XL.jpg",
+      "publishedAt": "2026-08-21T10:06:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Bilibili, lo \"YouTube cinese\" vuole espandersi nel resto del mondo",
+      "link": "https://www.hdblog.it/android/articoli/n667968/bilibili-streaming-video-espansione-internazionale/",
+      "excerpt": "La società ha rilasciato la versione globale della sua app Android, localizzata in inglese e senza l'obbligo di verifica dell'età con documenti ufficiali, e tante altre iniziative…",
+      "image": "https://hd2.tudocdn.net/1364338?w=660",
+      "publishedAt": "2026-08-21T10:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Back to School, ma in versione tech: le migliori offerte Amazon",
-      "link": "https://www.tomshw.it/altro/back-to-school-ma-in-versione-tech-le-migliori-offerte-amazon",
-      "excerpt": "Con l'avvicinarsi di settembre torna la promozione Back to School di Amazon, attiva fino al prossimo 3 settembre, un’occasione ideale per prepararsi al meglio al rientro sui…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108803/Back-to-School,-ma-in-versione-tech-le-migliori-offerte-Amazon.jpg",
-      "publishedAt": "2026-08-21T08:03:28+00:00",
+      "title": "Logitech Signature Slim K950 a 56,99€, minimo storico per scrivere in silenzio",
+      "link": "https://www.tomshw.it/offerte/logitech-signature-slim-k950-a-5699eur-minimo-storico-per-scrivere-in-silenzio",
+      "excerpt": "La Logitech Signature Slim K950 costa 56,99€ su Amazon, contro un prezzo di listino di 79,99€ e con uno sconto del 29%. È il minimo storico per una tastiera wireless che permette…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108842/tomshw-offer-884963.png",
+      "publishedAt": "2026-08-21T10:03:33+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Con il 43% in meno, Dreame L40 Ultra AE pulisce e si gestisce quasi da solo",
-      "link": "https://www.tomshw.it/offerte/con-il-43-in-meno-dreame-l40-ultra-ae-pulisce-e-si-gestisce-quasi-da-solo",
-      "excerpt": "Dreame L40 Ultra AE costa 399€ su Amazon: il listino è 699€, lo sconto applicato è del 43% e il risparmio arriva a 300€. La PowerDock all-in-1 riduce anche le operazioni da…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108807/tomshw-offer-884406.png",
-      "publishedAt": "2026-08-21T08:03:26+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Tenere monete e fazzoletti in auto: i vantaggi di questa abitudine",
-      "link": "https://www.hdmotori.it/monete-fazzoletti-auto/",
-      "excerpt": "Scopriamo perché molti automobilisti conservano una moneta da 1 euro o un fazzoletto sul cruscotto o in altri punti dell’abitacolo.",
-      "image": "https://hd2.tudocdn.net/1364311?w=660",
-      "publishedAt": "2026-08-21T08:00:09+00:00",
+      "title": "Toyota Corolla: negli USA arriva l'edizione limitata per i 60 anni",
+      "link": "https://www.hdmotori.it/toyota-corolla-60-anni/",
+      "excerpt": "Toyota celebra i 60 anni della Corolla con il Model Year 2027 e l'inedita 60th Anniversary Special Edition, edizione limitata da 2.500 unità, insieme a nuovi dettagli estetica e...",
+      "image": "https://hd2.tudocdn.net/1364342?w=660",
+      "publishedAt": "2026-08-21T10:00:50+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google Pixel Search sul Play Store, gira su Samsung Galaxy Z Fold 8",
+      "link": "https://www.tomshw.it/smartphone/google-pixel-search-sul-play-store-gira-su-samsung-galaxy-z-fold",
+      "excerpt": "Pixel Search è ora distribuita come app separata e aggiornabile tramite Google Play. Il cambiamento è comparso sui Pixel 11 ricevuti da Droid-Life per le recensioni, dove una…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108839/Pixel-Launcher-search-bar-tall-jpg.webp",
+      "publishedAt": "2026-08-21T09:57:24+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La NASA fotografa l'estate più rovente della storia europea",
+      "link": "https://www.hdblog.it/green/articoli/n667946/nasa-timelapse-satellite-ondata-calore-europa-2026/",
+      "excerpt": "Un'estate da record per l'Europa: cinque ondate di calore, temperature oltre i 40°C e circa 10.000 morti in eccesso secondo la NASA, che punta il dito anche sulla scarsa…",
+      "image": "https://hd2.tudocdn.net/1364333?w=660",
+      "publishedAt": "2026-08-21T09:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Marvel's Wolverine: è ambientato alcuni anni dopo Marvel's Spider-Man 2",
+      "link": "https://www.tomshw.it/videogioco/marvel-s-wolverine-e-ambientato-alcuni-anni-dopo-marvel-s-spider-man",
+      "excerpt": "Tra gli eventi di Marvel's Spider-Man 2 e la vicenda principale di Marvel's Wolverine trascorrono alcuni anni. Il game director Mike Daly lo ha confermato durante un evento…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107472/ar6b5e.jpg",
+      "publishedAt": "2026-08-21T09:41:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Eco-Sistema Xiaomi in sconto: 6 occasioni aggiornate da cogliere al volo su AliExpress",
+      "link": "https://www.tomshw.it/smartphone/eco-sistema-xiaomi-in-sconto-6-occasioni-aggiornate-da-cogliere-al-olo-su-aliexpress",
+      "excerpt": "Con il nuovo aggiornamento del listino offerte su AliExpress, l'ecosistema Xiaomi si conferma tra i protagonisti assoluti della promozione. I codici sconto applicabili sulla…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108836/Eco-Sistema-Xiaomi-in-sconto-6-occasioni-aggiornate-da-cogliere-al-volo-su-AliExpress.jpg",
+      "publishedAt": "2026-08-21T09:40:48+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Dalla Corea arriva il maxi SUV di lusso Genesis GV90",
+      "link": "https://www.hdmotori.it/maxi-suv-lusso-genesis-gv90/",
+      "excerpt": "Alla lunga lista di brand che vogliono ritagliarsi uno spazio nel segmento dei super SUV elettrici si è aggiunto anche Genesis con la nuova GV90.",
+      "image": "https://hd2.tudocdn.net/1364332?w=660",
+      "publishedAt": "2026-08-21T09:39:23+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Portiamo vita sulla Luna? Un fungo terrestre può resistere 7 giorni",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n667927/funghi-terrestri-luna-polo-sud/",
+      "excerpt": "Alcune zone del polo sud lunare possono conservare microbi terrestri per giorni",
+      "image": "https://hd2.tudocdn.net/1364292?w=660",
+      "publishedAt": "2026-08-21T09:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Xiaomi TV F Pro 55 a 329€, il minimo storico per un QLED 4K completo",
+      "link": "https://www.tomshw.it/offerte/xiaomi-tv-f-pro-55-a-329eur-il-minimo-storico-per-un-qled-4k-completo",
+      "excerpt": "Xiaomi TV F Pro 55 costa 329€ su Amazon: dai 449€ di listino, lo sconto è del 27% e il prezzo eguaglia il minimo storico. Il pannello QLED 4K, Fire TV e la modalità Game Boost a…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108835/tomshw-offer-884758.png",
+      "publishedAt": "2026-08-21T09:33:15+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Geely beffa i dazi dell'UE: utilizzerà le fabbriche Volvo e Ford dal 2028",
+      "link": "https://www.hdmotori.it/geely-auto-cinesi-fabbriche-volvo-europa-2028/",
+      "excerpt": "Con le fabbriche Volvo in Svezia e il sito Ford in Spagna, Geely azzera dazi e trasporti producendo i nuovi crossover ibridi direttamente in Europa dal 2028.",
+      "image": "https://hd2.tudocdn.net/1364330?w=660",
+      "publishedAt": "2026-08-21T09:30:25+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Speciale DJI su AliExpress: 7 offerte aggiornate per Droni, Gimbal e Audio di cui approfittare subito",
+      "link": "https://www.tomshw.it/altro/speciale-dji-su-aliexpress-7-offerte-aggiornate-per-droni-gimbal-e-audio-di-cui-approfittare-subito",
+      "excerpt": "L'ultimo aggiornamento delle offerte promozionali su AliExpress riserva una sorpresa imperdibile per tutti i filmmaker, i vlogger e gli appassionati di tecnologia visiva: una…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108815/Speciale-DJI-su-AliExpress-7-offerte-aggiornate-per-Droni,-Gimbal-e-Audio-di-cui-approfittare-subito.jpg",
+      "publishedAt": "2026-08-21T09:29:41+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori smart glasses — guida agli occhiali smart (agosto 2026)",
+      "link": "https://www.tomshw.it/smartphone/migliori-smart-glasses-guida-agli-occhiali-smart",
+      "excerpt": "Ray-Ban Meta Gen 2 Wayfarer sono i migliori smart glasses per la maggior parte delle persone: mantengono l'aspetto di normali occhiali, ma integrano fotocamera da 12 MP, video 3K,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108834/guide-thw-884734.png",
+      "publishedAt": "2026-08-21T09:28:47+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Bilibili, il \"social ibrido\" cinese per la GenZ è quasi pronto a conquistare il mondo",
+      "link": "https://images.dday.it/n5dAfaX5qsvWUZZyOIjaD6IZg1xwfZTA2O1oCG-9NjM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58439/d26601_smal_unnamed_copia.jpg",
+      "excerpt": "Bilibili vuole uscire davvero dai confini cinesi. Nuova app internazionale, sito in inglese, e strumenti per creator. Ma non avrà gli stessi “problemi di sicurezza” di TikTok?...…",
+      "image": "https://images.dday.it/n5dAfaX5qsvWUZZyOIjaD6IZg1xwfZTA2O1oCG-9NjM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58439/d26601_smal_unnamed_copia.jpg",
+      "publishedAt": "2026-08-21T09:27:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Galbot ET1 è il robot che copia i movimenti umani semplicemente guardando dei video",
+      "link": "https://images.dday.it/M4NzXGj8YD5Se2N9R4wipDv9xDfQKMmJKoYXcm3nNXY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58438/5b52de_Galbot_1.jpg",
+      "excerpt": "Presentato alla World Robot Conference di Pechino con l'usuale spettacolare balletto, il robot sarebbe pilotato da un singolo modello di intelligenza artificiale capace di fare…",
+      "image": "https://images.dday.it/M4NzXGj8YD5Se2N9R4wipDv9xDfQKMmJKoYXcm3nNXY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58438/5b52de_Galbot_1.jpg",
+      "publishedAt": "2026-08-21T09:26:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Google Pixel, il widget At a Glance sarà potenziato da Gemini",
+      "link": "https://www.hdblog.it/google/articoli/n667963/google-pixel-at-a-glance-widget-gemini-lock-screen/",
+      "excerpt": "A quanto pare la società sta lavorando per implementare i Gemini Daily Brief nel suo famoso widget.",
+      "image": "https://hd2.tudocdn.net/1030782?w=660",
+      "publishedAt": "2026-08-21T09:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Tesla abbandona Solar Roof, dopo quasi dieci anni stop alle tegole fotovoltaiche",
+      "link": "https://www.hdblog.it/home/articoli/n667962/tesla-abbandona-solar-roof-tegole-fotovoltaiche/",
+      "excerpt": "L'azienda ha già comunicato agli installatori certificati che non fornirà più le tegole",
+      "image": "https://hd2.tudocdn.net/1364324?w=660",
+      "publishedAt": "2026-08-21T09:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "YASA sviluppa motori elettrici privi di terre rare per ridurre la dipendenza dalla Cina",
+      "link": "https://www.hdmotori.it/yasa-motori-elettrici-terre-rare/",
+      "excerpt": "Il progetto di YASA punta a svincolare l'industria automobilistica dalla dipendenza dai magneti a base di terre rare, garantendo alte prestazioni e una maggiore sicurezza nelle…",
+      "image": "https://hd2.tudocdn.net/1364320?w=660",
+      "publishedAt": "2026-08-21T09:00:05+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "HP OmniBook 5 su Amazon a 799€: OLED 2K e Copilot+ su Amazon al minimo storico",
+      "link": "https://www.hdblog.it/portatili/offerte/n667957/hp-omnibook-5-16-oled-copilot-pc-amazon/",
+      "excerpt": "HP OmniBook 5 da 16\" è in offerta su Amazon a 799,99€: notebook Copilot+ PC con Ryzen AI 5, display OLED 2K, 16GB RAM e SSD da 512GB.",
+      "image": "https://hd2.tudocdn.net/1364319?w=660",
+      "publishedAt": "2026-08-21T09:00:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple avrebbe licenziato decine di dipendenti che lavoravano al Vision Pro",
+      "link": "https://images.dday.it/VuL0CBAX-Rxz8iy_Rmf0MjcuvMmvuK_9eqJDDTZ6N5M/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58437/d82460_Depositphotos_702044948_XL.jpg",
+      "excerpt": "Apple avrebbe ridimensionato il gruppo che lavora al Vision Pro, mentre le priorità dell’azienda si spostano sulla nuova Siri e sugli smart glass attesi nei prossimi anni... Leggi…",
+      "image": "https://images.dday.it/VuL0CBAX-Rxz8iy_Rmf0MjcuvMmvuK_9eqJDDTZ6N5M/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58437/d82460_Depositphotos_702044948_XL.jpg",
+      "publishedAt": "2026-08-21T08:46:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Addio tegole solari di Tesla: le Solar Roof non erano economicamente sostenibili",
@@ -68,58 +212,13 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "GitHub cresce troppo in fretta: i commit sono più che raddoppiati in quattro mesi",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n667948/github-cresce-troppo-in-fretta-commit-raddoppiati/",
-      "excerpt": "GitHub sta gestendo una crescita dell'attività sulla piattaforma",
-      "image": "https://hd2.tudocdn.net/1364296?w=660",
-      "publishedAt": "2026-08-21T07:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Phantom Blade Zero: stimati 300.000 preordini Steam in una settimana",
-      "link": "https://www.tomshw.it/videogioco/phantom-blade-zero-stimati-300-000-preordini-steam-in-una-settimana",
-      "excerpt": "Circa 300.000 copie prenotate su Steam dopo una sola settimana, per ricavi stimati in 14,5 milioni di dollari. È il risultato che Alinea Analytics attribuisce a Phantom Blade…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108113/ar6eyx.jpg",
-      "publishedAt": "2026-08-21T07:48:08+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Apple, la XR non decolla: cospicui licenziamenti nel team Vision Grop",
-      "link": "https://www.hdblog.it/indossabili/articoli/n667945/apple-licenziamenti-team-vision-pro/",
-      "excerpt": "Almeno 60 persone sono state lasciate a casa nelle ultime settimane.",
-      "image": "https://hd2.tudocdn.net/1294379?w=660",
-      "publishedAt": "2026-08-21T07:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Quando esce Samsung Galaxy S26 FE? Data e cosa sappiamo",
-      "link": "https://www.tomshw.it/smartphone/quando-esce-samsung-galaxy-s26-fe-data-e-cosa-sappiamo",
-      "excerpt": "Il Galaxy S26 FE è atteso al Galaxy Event fissato da Samsung per il 27 agosto, dedicato a un nuovo componente della famiglia S26, ma il nome FE non è ancora stato confermato. La…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108799/quando-esce-samsung-galaxy-s26-fe-data-e-cosa-sappiamo.png",
-      "publishedAt": "2026-08-21T07:42:14+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Luce e Gas in un solo click: la nuova offerta E.ON che blocca i prezzi e premia chi sceglie la coppia",
-      "link": "https://www.tomshw.it/altro/luce-e-gas-in-un-solo-click-la-nuova-offerta-eon-che-blocca-i-prezzi-e-premia-chi-sceglie-la-coppia",
-      "excerpt": "In un periodo in cui la stabilità delle spese domestiche è diventata una priorità per le famiglie italiane, E.ON lancia sul mercato la nuova offerta Luce e Gas Insieme. Si…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108798/Luce-e-Gas-in-un-solo-click-la-nuova-offerta-E-ON-che-blocca-i-prezzi-e-premia-chi-sceglie-la-coppia.jpg",
-      "publishedAt": "2026-08-21T07:33:53+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Monitor gaming Xiaomi 27″ a 119€: mai costato così poco, 200 Hz per gli FPS",
-      "link": "https://www.tomshw.it/offerte/monitor-gaming-xiaomi-27-a-119eur-mai-costato-cosi-poco-200-hz-per-gli-fps",
-      "excerpt": "Il monitor gaming Xiaomi da 27 pollici costa 119€ su Amazon, invece dei 159€ di listino, con uno sconto del 25%. I 200 Hz e il tempo di risposta di 1 ms GTG sono pensati per…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108797/tomshw-offer-884292.png",
-      "publishedAt": "2026-08-21T07:33:21+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
+      "title": "Tutto pronto per il lancio di Chang'e-7: sarà la prima missione a cercare ghiaccio al polo sud della Luna",
+      "link": "https://images.dday.it/r0Do8w9Uk3nVRR2ZoAg9yqJPqQmgu01YCRhn3M2QHMg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58436/412e5c_640.jpg",
+      "excerpt": "La missione cinese, che trasporta anche diversi strumenti scientifici internazionali, include anche un rover e un mini hopper, che esploreranno i crateri in ombra del polo sud…",
+      "image": "https://images.dday.it/r0Do8w9Uk3nVRR2ZoAg9yqJPqQmgu01YCRhn3M2QHMg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58436/412e5c_640.jpg",
+      "publishedAt": "2026-08-21T07:50:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Claude finalmente insegna agli utenti come usare Claude: nasce la Claude Academy con tutorial e corsi gratis",
@@ -131,74 +230,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "TikTok e Reels spengono parte del cervello | Lo afferma uno studio",
-      "link": "https://www.hdblog.it/curiosita/articoli/n667939/tiktok-reels-cervello-controllo-cognitivo/",
-      "excerpt": "I video brevi riducono temporaneamente l’attività di due aree legate al controllo cognitivo.",
-      "image": "https://hd2.tudocdn.net/1364285?w=660",
-      "publishedAt": "2026-08-21T07:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Google Discover diventa più personale: basterà dire cosa vogliamo vedere",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667940/google-discover-diventa-piu-personale/",
-      "excerpt": "Sarà possibile spiegare cosa vogliamo trovare più spesso nel feed e quali contenuti preferiamo invece evitare.",
-      "image": "https://hd2.tudocdn.net/1364291?w=660",
-      "publishedAt": "2026-08-21T07:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Hammond testa una moto cinese da 135 CV contro una Ducati Panigale V2: risultato spiazzante",
-      "link": "https://www.hdmotori.it/hammond-moto-cinese-ducati-panigale-v2/",
-      "excerpt": "Il noto giornalista e presentatore Richard Hammond ha messo a confronto la ZX Moto 820RR con una Ducati Panigale V2",
-      "image": "https://hd2.tudocdn.net/1364287?w=660",
-      "publishedAt": "2026-08-21T07:00:45+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "WhatsApp sposa sempre di più il Liquid Glass con questi cambiamenti",
-      "link": "https://www.hdblog.it/apple/articoli/n667922/whatsapp-liquid-glass-editor-video-player-ios/",
-      "excerpt": "Il processo non è ancora terminato.",
-      "image": "https://hd2.tudocdn.net/1335725?w=660",
-      "publishedAt": "2026-08-21T06:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Grok è impazzito? L’AI di xAI risponde con parole senza senso",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n667935/grok-risposte-senza-senso-bug/",
-      "excerpt": "Uno strano bug di Grok Lite genera risposte senza senso e mette in luce un problema delle AI.",
-      "image": "https://hd2.tudocdn.net/1280363?w=660",
-      "publishedAt": "2026-08-21T06:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Migliori webcam per videoconferenza (agosto 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-webcam-professionali-videoconferenza",
-      "excerpt": "Se gestite riunioni ibride, lezioni, webinar o conferenze in sale medio-grandi, una webcam professionale non serve solo a ottenere un'immagine più nitida: serve a far vedere e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/87497/migliori-webcam-videoconferenza-copertina.jpg",
-      "publishedAt": "2026-08-21T06:07:58+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Perlegear PGMFK6 al 27%: la staffa TV orientabile ora costa 24€",
-      "link": "https://www.tomshw.it/hardware/perlegear-pgmfk6-al-27-staffa-tv-orientabile-a-24-euro",
-      "excerpt": "La Perlegear PGMFK6 è una staffa da parete orientabile per televisori da 26 a 65 pollici, con braccio estensibile e portata dichiarata fino a 45 kg. Con lo sconto del 27%, il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/103044/perlegear-pgmfk6-staffa-tv-girevole-a-meno-di-24-euro-2026-07-28o976pqodcscavCF9ea.png",
-      "publishedAt": "2026-08-21T05:13:09+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "UGREEN FineTrack Slim al 33%: il localizzatore Find My scende sotto i 20€",
-      "link": "https://www.tomshw.it/smartphone/ugreen-finetrack-slim-al-33-localizzatore-find-my-sotto-i-20-euro",
-      "excerpt": "UGREEN FineTrack Slim è un localizzatore in formato carta progettato per portafogli, valigie e zaini, integrato con la rete Apple Find My. Il prezzo di 19,99€, con uno sconto del…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107777/ugreen-finetrack-slim-sconto-33-amazon-2026-08-17-vypNtmj074frju17m975djEZ0A.png",
-      "publishedAt": "2026-08-21T05:13:00+00:00",
+      "title": "Migliori climatizzatori (agosto 2026)",
+      "link": "https://www.tomshw.it/offerte/migliori-climatizzatori",
+      "excerpt": "Se cercate un elettrodomestico capace di mantenere stabile la temperatura di casa in estate e in inverno, un climatizzatore fisso resta la soluzione più completa rispetto ai…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/90963/migliori-climatizzatori-copertina.jpg",
+      "publishedAt": "2026-08-21T06:24:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -230,49 +266,13 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Sony Alpha 7 III in offerta: il prezzo scende e nella confezione ci sono anche 2 batterie",
-      "link": "https://images.dday.it/1YsbD-wJAI_w4aCI9FeoM4bogxcEk_mi314ejC4DcLg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58429/103be6_71stW55xLGL._AC_SL1500_.jpg",
-      "excerpt": "Sensore full frame, autofocus avanzato e due batterie incluse: una mirrorless di livello che ora si può acquistare a un prezzo decisamente interessante... Leggi tutto",
-      "image": "https://images.dday.it/1YsbD-wJAI_w4aCI9FeoM4bogxcEk_mi314ejC4DcLg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58429/103be6_71stW55xLGL._AC_SL1500_.jpg",
-      "publishedAt": "2026-08-20T13:15:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Pornhub: i controlli d’età nel Regno Unito stanno spingendo gli utenti verso siti non verificati",
-      "link": "https://images.dday.it/uWVQuM6b_K2BxxUiHOzIHiT9_axscWLcHSH5Za_x3Hg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58428/1e7b2a_small_mobile_copia.png",
-      "excerpt": "Pornhub ha scritto a 300 parlamentari britannici, dimostrando che i controlli d’età avrebbero favorito i siti irregolari, i quali hanno anche posti prominenti nei motori di…",
-      "image": "https://images.dday.it/uWVQuM6b_K2BxxUiHOzIHiT9_axscWLcHSH5Za_x3Hg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58428/1e7b2a_small_mobile_copia.png",
-      "publishedAt": "2026-08-20T12:58:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il trapano del Lidl di nuovo nel Guinness dei primati: ha ruotato il London Eye",
-      "link": "https://images.dday.it/s4vkAdIhgbvn2fdiHK2FIhomOWp7H-cZgaHJbO8-2lY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58427/2702dd_PARKSIDE-30YEARS-The-Rotation-Key-Visual.png",
-      "excerpt": "Il trapano avvitatore a batteria PARKSIDE PERFORMANCE 20V è riuscito a smuovere la ruota panoramica a sbalzo più grande del mondo, aggiudicandosi così un nuovo Guinness World…",
-      "image": "https://images.dday.it/s4vkAdIhgbvn2fdiHK2FIhomOWp7H-cZgaHJbO8-2lY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58427/2702dd_PARKSIDE-30YEARS-The-Rotation-Key-Visual.png",
-      "publishedAt": "2026-08-20T10:16:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Xiaomi ha consegnato mezzo milione di SU7 in poco più di due anni",
-      "link": "https://images.dday.it/cKFj0RGUSCtYGDgg5jCTxeZGShK-kQ5A4sS4FPiksT4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58426/bfb913_bfee1c9db8e622d44d38bdd14e3c10bf.png",
-      "excerpt": "Nel primo semestre è la berlina più venduta in Cina fra le elettriche sopra 25.400 euro (convertiti dallo yuan). Con l'Europa che l'aspetta nel 2027... Leggi tutto",
-      "image": "https://images.dday.it/cKFj0RGUSCtYGDgg5jCTxeZGShK-kQ5A4sS4FPiksT4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58426/bfb913_bfee1c9db8e622d44d38bdd14e3c10bf.png",
-      "publishedAt": "2026-08-20T09:11:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "LG Display investirà 1,8 miliardi nella tecnologia OLED FLiPP. Produzione non prima del 2028",
-      "link": "https://images.dday.it/J9zJZi-SEgg30v1w63HPkNuNxlmJ-RxDpT_a3vXfw2A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58424/20c971_FLiPP-2.jpg",
-      "excerpt": "Emergono nuovi dettagli sull'investimento di LG Display nella nuova tecnica di produzione di schermi OLED: gli ordini per le macchine necessarie partiranno a gennaio 2027.…",
-      "image": "https://images.dday.it/J9zJZi-SEgg30v1w63HPkNuNxlmJ-RxDpT_a3vXfw2A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58424/20c971_FLiPP-2.jpg",
-      "publishedAt": "2026-08-20T09:00:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
+      "title": "Anonimizzare un PDF sul serio, perché il rettangolo nero spesso non basta",
+      "link": "https://www.tomshw.it/aioperator/anonimizzare-un-pdf-sul-serio-il-rettangolo-nero-lascia-il-testo-sotto-e-si-recupera",
+      "excerpt": "Il rettangolo nero disegnato sopra un PDF è un oggetto grafico aggiunto in cima alla pagina. Il testo che copre resta dove era, dentro il file, e si seleziona con il mouse o si…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107256/02-anon1-cover.jpg",
+      "publishedAt": "2026-08-13T09:11:01+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     }
   ]
 }
