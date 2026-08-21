@@ -1,9 +1,90 @@
 {
-  "generatedAt": "2026-08-21T16:22:49.152718+00:00",
+  "generatedAt": "2026-08-21T18:24:50.689679+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Bitcoin, super impennata negli ultimi giorni: caso isolato o segnale di risalita?",
+      "link": "https://www.hdblog.it/mercato/articoli/n668024/bitcoin-impennata-short-squeeze/",
+      "excerpt": "C'è stato un massiccio \"short squeeze\" che ha portato alla liquidazione di oltre 2,7 miliardi di dollari di posizioni.",
+      "image": "https://hd2.tudocdn.net/1273896?w=660",
+      "publishedAt": "2026-08-21T18:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "HP Travel al 42%, lo zaino da 30 litri per notebook che vale la spesa",
+      "link": "https://www.tomshw.it/offerte/hp-travel-al-42-lo-zaino-da-30-litri-per-notebook-che-vale-la-spesa",
+      "excerpt": "HP Travel costa 34,99€ su Amazon, invece dei 59,99€ di listino, con uno sconto del 42% e 25€ lasciati in tasca. È il suo minimo storico: un prezzo particolarmente invitante per…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108893/tomshw-offer-886648.png",
+      "publishedAt": "2026-08-21T18:03:30+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Hyundai Pony, il progetto italiano che cambiò il destino del marchio coreano",
+      "link": "https://www.hdmotori.it/hyundai-pony-giorgetto-giugiaro/",
+      "excerpt": "Dalla matita di Giugiaro agli stabilimenti di Ulsan, la storia della vettura che segnò il debutto internazionale di Hyundai e l'inizio della sua crescita mondiale",
+      "image": "https://hd2.tudocdn.net/1364504?w=660",
+      "publishedAt": "2026-08-21T18:00:06+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il drone Amazon fa centro... in piscina: consegna fallita",
+      "link": "https://www.tomshw.it/altro/amazon-prime-air-il-drone-consegna-il-pacco-in-piscina",
+      "excerpt": "Il vano di carico si è aperto sopra una piscina e il pacco è finito direttamente in acqua. È successo a Richmond, in Texas, durante la prima consegna Amazon Prime Air ricevuta da…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108889/cDXJBLUFxWijbbBF4JWhXB-2000-80.jpg",
+      "publishedAt": "2026-08-21T17:47:16+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "GTA VI, Take-Two coinvolge anche Microsoft e Discord nella caccia ai leaker",
+      "link": "https://www.hdblog.it/microsoft/articoli/n668021/gta-6-leak-tribunale-microsoft-discord/",
+      "excerpt": "Take-Two ha presentato in tribunale richieste formali per entrambe le società di consegnare i dati di eventuali account legati ai leak per identificare e denunciare i responsabili.",
+      "image": "https://hd2.tudocdn.net/1361474?w=660",
+      "publishedAt": "2026-08-21T17:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "12 dispositivi da una presa: la torretta Anker è al minimo storico di 32,99€",
+      "link": "https://www.tomshw.it/offerte/12-dispositivi-da-una-presa-la-torretta-anker-e-al-minimo-storico-di-3299eur",
+      "excerpt": "La torretta multipresa Anker 12-in-1 costa 32,99€ su Amazon: il listino è di 42,99€ e lo sconto dichiarato è del 23%. Riunisce otto prese CA e quattro porte USB in un corpo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108892/tomshw-offer-886630.png",
+      "publishedAt": "2026-08-21T17:33:15+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Doom gira anche su una fotocamera Canon di 15 anni fa, e pure bene",
+      "link": "https://www.hdblog.it/games/articoli/n668019/doom-fotocamera-canon-magic-lantern/",
+      "excerpt": "Le meraviglie del mitico firmware open-source Magic Lantern.",
+      "image": "https://hd2.tudocdn.net/1364500?w=660",
+      "publishedAt": "2026-08-21T17:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Rientro dalle vacanze, le previsioni da bollino rosso del controesodo",
+      "link": "https://www.hdmotori.it/rientro-vacanze-previsioni-bollino-rosso-controesodo/",
+      "excerpt": "Per milioni di italiani le vacanze estive si stanno concludendo con un drammatico rientro a casa. Scopriamo cosa dicono i dati",
+      "image": "https://hd2.tudocdn.net/1364501?w=660",
+      "publishedAt": "2026-08-21T17:00:54+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Microsoft Edge per Android, arrivano gli sfondi custom... ma solo a una condizione",
+      "link": "https://www.hdblog.it/microsoft/articoli/n668016/microsoft-edge-sfondi-android-browser-predefinito/",
+      "excerpt": "Bisogna impostare Edge come browser di sistema. Quando imparerai, Microsoft?",
+      "image": "https://hd2.tudocdn.net/1354714?w=660",
+      "publishedAt": "2026-08-21T16:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Hubble risolve un mistero della Via Lattea vecchio 12 miliardi di anni",
       "link": "https://www.hdblog.it/curiosita/articoli/n668004/hubble-fusione-via-lattea-lkh/",
@@ -41,101 +122,20 @@
       "sourceColor": "#0066CC"
     },
     {
+      "title": "Un gruppo di pirati informatici sta pubblicando video di GTA VI per pompare una criptomoneta",
+      "link": "https://images.dday.it/ZAOFhDjfyYPAagS_XY-E8Gmk-ixgPVQK4Q2h8OIGMbI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58443/6ebfa6_07_-_Brian_Heder_03.jpg",
+      "excerpt": "Il gruppo si fa chiamare Cyberleek e con ogni probabilità è in possesso di una build non definitiva del gioco per PC. Da un paio di giorni pubblica video di gameplay per…",
+      "image": "https://images.dday.it/ZAOFhDjfyYPAagS_XY-E8Gmk-ixgPVQK4Q2h8OIGMbI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58443/6ebfa6_07_-_Brian_Heder_03.jpg",
+      "publishedAt": "2026-08-21T16:00:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
       "title": "Motorola e GrapheneOS, la partnership è molto ambiziosa: primi dettagli",
       "link": "https://www.hdblog.it/smartphone/articoli/n668012/motorola-grapheneos-partnership-quando/",
       "excerpt": "I device saranno dei veri e propri flagship progettati ad hoc, ancora più prestigiosi dei Google Pixel.",
       "image": "https://hd2.tudocdn.net/1216694?w=660",
       "publishedAt": "2026-08-21T15:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Poco X8 Power, in arrivo c'è anche lui con una super batteria",
-      "link": "https://www.hdblog.it/smartphone/articoli/n668010/poco-x8-power-batteria-10000-mah-specifiche-rumor/",
-      "excerpt": "Ancora più impressionante di quella vista su X8 Pro e Pro Max.",
-      "image": "https://hd2.tudocdn.net/1347040?w=660",
-      "publishedAt": "2026-08-21T15:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Astronauti nello spazio: la microgravità frena l'intestino",
-      "link": "https://www.tomshw.it/scienze/astronauti-la-microgravita-rallenterebbe-l-intestino",
-      "excerpt": "Durante i soggiorni sulla Stazione Spaziale Internazionale, nel sangue degli astronauti aumentano diversi metaboliti prodotti dalla fermentazione batterica delle proteine. Il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108886/RMPrYpjgkRMUjvzgsxvhFQ-1600-80.jpg",
-      "publishedAt": "2026-08-21T15:40:19+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Alimentatore MSI MAG A1000GLS a 119,99€, mai costato così poco per PC potenti",
-      "link": "https://www.tomshw.it/offerte/alimentatore-msi-mag-a1000gls-a-11999eur-mai-costato-cosi-poco-per-pc-potenti",
-      "excerpt": "L'alimentatore MSI MAG A1000GLS PCIE5 costa 119,99€ su Amazon, anziché 134,99€, con lo sconto dell'11% e il prezzo più basso raggiunto finora. I suoi 1000W, lo standard ATX 3.1 e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108885/tomshw-offer-886444.png",
-      "publishedAt": "2026-08-21T15:33:45+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Guerra agli emulatori: Nintendo fa chiudere 400 repo GitHub",
-      "link": "https://www.tomshw.it/videogioco/nintendo-github-disabilita-oltre-400-repository-di-emulatori-switch",
-      "excerpt": "GitHub ha disabilitato oltre 400 repository collegati agli emulatori di Nintendo Switch dopo una richiesta DMCA presentata da Nintendo of America. L’intervento, documentato…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108883/news-flash-886384.png",
-      "publishedAt": "2026-08-21T15:29:47+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Honor Turbo 5G svelato ufficialmente: la batteria è protagonista assoluta",
-      "link": "https://www.hdblog.it/smartphone/articoli/n668005/honor-turbo-5g-specifiche-immagini-prezzo-os/",
-      "excerpt": "8.500 mAh, nientemeno!",
-      "image": "https://hd2.tudocdn.net/1364489?w=660",
-      "publishedAt": "2026-08-21T15:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Magia da bere: Ninja SLUSHi Twist si veste a tema Practical Magic 2",
-      "link": "https://www.hdblog.it/home/articoli/n668001/ninja-slushi-twist-practical-magic-2-prezzo/",
-      "excerpt": "Il ritorno del Midnight Margarita.",
-      "image": "https://hd2.tudocdn.net/1364482?w=660",
-      "publishedAt": "2026-08-21T15:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Niente 60 fps per The Blood of Dawnwalker, anche su PS5 Pro",
-      "link": "https://www.tomshw.it/videogioco/the-blood-of-dawnwalker-niente-60-fps-al-lancio-neppure-su-ps5",
-      "excerpt": "The Blood of Dawnwalker non proporrà una modalità a 60 fps su PS5, PS5 Pro e Xbox Series X al momento del lancio. Rebel Wolves ha mostrato due configurazioni grafiche per le tre…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104426/titolo_dd3w-1200.jpg",
-      "publishedAt": "2026-08-21T15:14:13+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Arrivano in Germania le AUDI cinesi che la Casa non vuole in Europa",
-      "link": "https://www.hdmotori.it/germania-audi-cinesi/",
-      "excerpt": "Importate da un operatore indipendente, i modelli E5 ed E7X arrivano sul mercato tedesco a prezzi inferiori rispetto alle equivalenti europee.",
-      "image": "https://hd2.tudocdn.net/1281217?w=660",
-      "publishedAt": "2026-08-21T15:00:40+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung aggiorna Galaxy S8 e Galaxy Note 8, due smartphone di quasi dieci anni fa",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667999/samsung-aggiornamento-galaxy-s8-note-8-2026-agosto/",
-      "excerpt": "Highlander.",
-      "image": "https://hd2.tudocdn.net/850455?w=660",
-      "publishedAt": "2026-08-21T14:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung Galaxy S26 FE dal vivo: filtrano un video unboxing e ancora tante immagini",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667993/samsung-galaxy-s26-fe-video-unboxing-leak/",
-      "excerpt": "Il lancio è fissato per il 27 agosto.",
-      "image": "https://hd2.tudocdn.net/1364451?w=660",
-      "publishedAt": "2026-08-21T14:35:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -158,20 +158,29 @@
       "sourceColor": "#E63946"
     },
     {
+      "title": "Migliori Chromebook (agosto 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-chromebook",
+      "excerpt": "Scegliere uno dei migliori Chromebook significa puntare su un portatile veloce nell'avvio, semplice da gestire e pensato per chi lavora molto tra browser, documenti condivisi,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/87517/migliori-chromebook-copertina.jpg",
+      "publishedAt": "2026-08-21T11:30:11+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori stampanti economiche a getto d'inchiostro (agosto 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-stampanti-economiche-getto-inchiostro",
+      "excerpt": "Scegliere una delle migliori stampanti a getto d’inchiostro economiche resta una soluzione sensata per casa, studio, università e piccoli uffici quando si vuole stampare a colori…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/87511/migliori-stampanti-economiche-getto-copertina.jpg",
+      "publishedAt": "2026-08-21T11:24:45+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "Migliori chiavette USB (agosto 2026)",
       "link": "https://www.tomshw.it/hardware/migliori-chiavette-usb",
       "excerpt": "Le chiavette USB, o pen drive, restano uno degli accessori più comodi quando bisogna spostare file tra computer, smartphone, tablet, console e dispositivi di lavoro senza…",
       "image": "https://cdn.tomshw.it/storage/media/2026/03/87515/migliori-chiavette-usb-copertina.jpg",
       "publishedAt": "2026-08-21T11:23:18+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori monitor gaming (agosto 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-monitor-gaming",
-      "excerpt": "Scegliere il miglior monitor gaming non significa inseguire il dato più alto in scheda tecnica, ma capire quale combinazione di risoluzione, refresh rate, pannello e connessioni…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/87508/migliori-monitor-gaming-copertina.jpg",
-      "publishedAt": "2026-08-21T11:19:11+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -239,13 +248,22 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Claude finalmente insegna agli utenti come usare Claude: nasce la Claude Academy con tutorial e corsi gratis",
-      "link": "https://images.dday.it/TMQ3dmSUoQ3RGEerZaq4tq--C8lNSIEkwX8iE8QNWPQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58434/f473ba_Screenshot_2026-08-21_alle_09.30.01.png",
-      "excerpt": "Ci sono voluti oltre tre anni perché Claude avesse finalmente un vero percorso di apprendimento. Anthropic ha aperto una Academy gratuita con corsi, video, guide e tutorial per…",
-      "image": "https://images.dday.it/TMQ3dmSUoQ3RGEerZaq4tq--C8lNSIEkwX8iE8QNWPQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58434/f473ba_Screenshot_2026-08-21_alle_09.30.01.png",
-      "publishedAt": "2026-08-21T07:30:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
+      "title": "La \"truffa del reso\": cos'è e come funziona il raggiro",
+      "link": "https://www.tomshw.it/altro/truffa-del-reso-iphone-va-ai-truffatori-il-debito-resta",
+      "excerpt": "Lo smartphone viene acquistato attraverso i canali autentici dell’operatore, ma il successivo reso finisce nelle mani dei truffatori. È il meccanismo della truffa della consegna…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107289/news-flash-777962.png",
+      "publishedAt": "2026-08-21T06:09:11+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Le spedizioni dei pieghevoli potrebbero raddoppiare entro il 2028",
+      "link": "https://www.tomshw.it/smartphone/le-spedizioni-dei-pieghevoli-potrebbero-raddoppiare-entro-il-2028",
+      "excerpt": "Omdia ha pubblicato di recente una previsione che assegna al mercato degli smartphone pieghevoli un nuovo ciclo di espansione. Le spedizioni globali potrebbero raggiungere 36…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108725/le-spedizioni-dei-pieghevoli-potrebbero-raddoppiare-entro-il-2028.png",
+      "publishedAt": "2026-08-20T21:14:15+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "AMD prepara le Radeon per A Plague Tale, Star Wars e Call of Duty",
@@ -253,24 +271,6 @@
       "excerpt": "AMD ha pubblicato Adrenalin Edition 26.8.1, un aggiornamento dei driver grafici che introduce il supporto per nuovo hardware e prepara le Radeon a tre giochi prossimi al debutto.…",
       "image": "https://cdn.tomshw.it/storage/media/2026/08/108724/amd-prepara-le-radeon-per-a-plague-tale-star-wars-e-call-of-duty.png",
       "publishedAt": "2026-08-20T21:13:20+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "HUMAIN anticipa il laptop sviluppato con Qualcomm per l’AI agentica",
-      "link": "https://www.tomshw.it/hardware/humain-anticipa-il-laptop-sviluppato-con-qualcomm-per-lai-agentica",
-      "excerpt": "HUMAIN ha anticipato un nuovo laptop sviluppato insieme a Qualcomm, progettato per eseguire modelli di intelligenza artificiale direttamente sul dispositivo. L’azienda vuole…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108723/humain-anticipa-il-laptop-sviluppato-con-qualcomm-per-l-ai-agentica.png",
-      "publishedAt": "2026-08-20T21:12:15+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Leggere un bilancio con l'AI: prompt e metodo per estrarre i segnali di rischio in 10 minuti",
-      "link": "https://www.tomshw.it/aioperator/leggere-un-bilancio-con-lai-prompt-e-metodo-per-estrarre-i-segnali-di-rischio-in-10-minuti",
-      "excerpt": "Un bilancio racconta la salute di un'azienda con dodici o diciotto mesi di ritardo. Il documento che stai per scaricare fotografa un esercizio chiuso mesi fa, non la situazione di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107258/04-amm13-cover.jpg",
-      "publishedAt": "2026-08-13T06:33:55+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
