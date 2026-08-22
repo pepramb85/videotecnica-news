@@ -1,9 +1,81 @@
 {
-  "generatedAt": "2026-08-22T12:22:06.345650+00:00",
+  "generatedAt": "2026-08-22T14:13:25.228841+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Gruppo Spaggiari, 6 TB di dati di studenti e docenti nelle mani degli hacker. L'azienda minimizza",
+      "link": "https://images.dday.it/BPw2uNJ1iPznradHro8hb8ulCKwm4_3Bc14ye3xsFH8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58444/3c448d_Depositphotos_80122056_XL.jpg",
+      "excerpt": "Gruppo Spaggiari Parma è forse una delle aziende più note a genitori e studenti: da anni sviluppa e gestisce Classeviva, il registro elettronico più diffuso in Italia. Ora un…",
+      "image": "https://images.dday.it/BPw2uNJ1iPznradHro8hb8ulCKwm4_3Bc14ye3xsFH8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58444/3c448d_Depositphotos_80122056_XL.jpg",
+      "publishedAt": "2026-08-22T13:44:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "HP Z3700 scontato del 40%, 16 mesi di autonomia per lavorare ovunque",
+      "link": "https://www.tomshw.it/offerte/hp-z3700-scontato-del-40-16-mesi-di-autonomia-per-lavorare-ovunque",
+      "excerpt": "HP Z3700 costa 17,99€ su Amazon anziché 29,99€, con uno sconto del 40% che lascia subito 12€ nel portafoglio. L’autonomia dichiarata fino a 16 mesi lo rende particolarmente…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108948/tomshw-offer-898310.png",
+      "publishedAt": "2026-08-22T13:33:08+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Motorola Edge 60 Neo a meno di 300€ su Amazon: è il più completo a questo prezzo",
+      "link": "https://www.hdblog.it/portatili/offerte/n668064/motorola-edge-60-neo-offerta-amazon-agosto26/",
+      "excerpt": "Il Motorola Edge 60 Neo è in offerta su Amazon e ora è uno dei best buy da prendere sotto i 300 euro.",
+      "image": "https://hd2.tudocdn.net/1341241?w=660",
+      "publishedAt": "2026-08-22T13:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple Vision Pro non doveva chiamarsi così: spunta il nome originale",
+      "link": "https://www.hdblog.it/indossabili/articoli/n668063/apple-vision-pro-reality-nome-originale-retroscena/",
+      "excerpt": "Il retroscena.",
+      "image": "https://hd2.tudocdn.net/1173557?w=660",
+      "publishedAt": "2026-08-22T13:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Sony Xperia 10 VIII sarà così? Un'immagine anticipa il possibile design",
+      "link": "https://www.hdblog.it/smartphone/articoli/n668060/sony-xperia-10-viii-design-specifiche-leak-foto/",
+      "excerpt": "Alla presentazione ufficiale manca pochissimo.",
+      "image": "https://hd2.tudocdn.net/1287174?w=660",
+      "publishedAt": "2026-08-22T13:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Pluto TV: ecco le novità di settembre 2026",
+      "link": "https://www.hdblog.it/spettacolo/articoli/n668053/pluto-tv-settembre-nuovi-canali-gratis/",
+      "excerpt": "Due nuovi canali e maratone speciali ampliano l'offerta gratuita di Pluto TV.",
+      "image": "https://hd2.tudocdn.net/1364543?w=660",
+      "publishedAt": "2026-08-22T12:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Si, il morbillo è ancora pericoloso (e colpisce ancora)",
+      "link": "https://www.tomshw.it/scienze/morbillo-puo-cancellare-fino-al-73-degli-anticorpi-acquisiti",
+      "excerpt": "Guarire dal morbillo non significa necessariamente recuperare subito tutte le difese immunitarie presenti prima dell’infezione. Il virus può cancellare una parte della memoria…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108456/17857778596a70cec341bc6_1785777859_3x2_rt.jpg",
+      "publishedAt": "2026-08-22T12:54:47+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Robot umanoidi, due curiosi malfunzionamenti alla fiera cinese | VIDEO",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n667991/robot-umanoidi-malfunzionamenti-fiera-cinese-video/",
+      "excerpt": "Divertenti da guardare, al netto dei pericoli",
+      "image": "https://hd2.tudocdn.net/1364479?w=660",
+      "publishedAt": "2026-08-22T12:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "MSI G2422C a 89€ con 180 Hz per gli FPS, mai costato così poco",
       "link": "https://www.tomshw.it/offerte/msi-g2422c-a-89eur-con-180-hz-per-gli-fps-mai-costato-cosi-poco",
@@ -64,60 +136,6 @@
       "excerpt": "Vapore a 230°C, rullo reversibile ReverseScrub e prezzo di lancio più basso della generazione precedente: Tineco rinnova la sua lavapavimenti top di gamma con il Floor One S9…",
       "image": "https://hd2.tudocdn.net/1364492?w=660",
       "publishedAt": "2026-08-22T10:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Intel Core i7-14700K a 370,82€, 20 core per giocare e creare",
-      "link": "https://www.tomshw.it/offerte/intel-core-i7-14700k-a-37082eur-20-core-per-giocare-e-creare",
-      "excerpt": "Intel Core i7-14700K costa 370,82€ su Amazon, rispetto al prezzo di listino di 412,84€, con uno sconto del 10%. I suoi 20 core e la frequenza massima di 5,6 GHz puntano a gestire…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108943/tomshw-offer-898145.png",
-      "publishedAt": "2026-08-22T10:33:57+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Meta Pocket porta i minigiochi AI dentro un social network",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n668047/meta-pocket-minigiochi-ai/",
-      "excerpt": "Pocket permette di creare minigiochi con l’AI e condividerli in un feed social.",
-      "image": "https://hd2.tudocdn.net/1364542?w=660",
-      "publishedAt": "2026-08-22T10:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "HoverAir Versa, da cam stabilizzata a drone in un secondo | Prezzo e dettagli",
-      "link": "https://www.hdblog.it/droni/articoli/n668044/hoverair-versa-vola-cam-stabilizzata-drone-prezzo/",
-      "excerpt": "Il nuovo HoverAir è la soluzione definitiva",
-      "image": "https://hd2.tudocdn.net/1364540?w=660",
-      "publishedAt": "2026-08-22T09:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Dietro alla camuffatura si nasconde la nuova Audi RS Q7? Foto spia",
-      "link": "https://www.hdmotori.it/nuova-audi-rs-q7-foto-spia/",
-      "excerpt": "Arrivano da Bressanone le foto spia di un'Audi Q7 che potrebbe essere la futura RS, la chiacchierata versione al vertice delle prestazioni",
-      "image": "https://hd2.tudocdn.net/1364547?w=660",
-      "publishedAt": "2026-08-22T09:30:39+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Cavi Ethernet piatti o rotondi? Cosa cambia davvero nelle prestazioni",
-      "link": "https://www.hdblog.it/hardware/articoli/n667878/cavi-ethernet-piatti-rotondi-cosa-cambia/",
-      "excerpt": "Un confronto tra le due tipologie di cavo.",
-      "image": "https://hd2.tudocdn.net/1364189?w=660",
-      "publishedAt": "2026-08-22T09:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone 18 Pro, quando arriva? Apple prepara un autunno diverso dal solito",
-      "link": "https://www.hdblog.it/smartphone/articoli/n668034/iphone-18-pro-presentazione-data-quando-esce-apple/",
-      "excerpt": "Se guardiamo alle abitudini di Apple, il cerchio si stringe attorno a due giorni in particolare.",
-      "image": "https://hd2.tudocdn.net/1364523?w=660",
-      "publishedAt": "2026-08-22T08:55:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -212,29 +230,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Tutto pronto per il lancio di Chang'e-7: sarà la prima missione a cercare ghiaccio al polo sud della Luna",
-      "link": "https://images.dday.it/r0Do8w9Uk3nVRR2ZoAg9yqJPqQmgu01YCRhn3M2QHMg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58436/412e5c_640.jpg",
-      "excerpt": "La missione cinese, che trasporta anche diversi strumenti scientifici internazionali, include anche un rover e un mini hopper, che esploreranno i crateri in ombra del polo sud…",
-      "image": "https://images.dday.it/r0Do8w9Uk3nVRR2ZoAg9yqJPqQmgu01YCRhn3M2QHMg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58436/412e5c_640.jpg",
-      "publishedAt": "2026-08-21T07:50:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
       "title": "CDN Tsunami, poche richieste possono generare 350 volte il traffico",
       "link": "https://www.tomshw.it/hardware/cdn-tsunami-sfrutta-http3-e-amplifica-gli-attacchi-dos",
       "excerpt": "Una nuova classe di attacchi Denial-of-Service, battezzata CDN Tsunami, colpisce l'architettura usata da alcuni dei maggiori fornitori di Content Delivery Network. Il problema…",
       "image": "https://cdn.tomshw.it/storage/media/2026/08/108732/cdn-tsunami-sfrutta-http-3-e-amplifica-gli-attacchi-dos.png",
       "publishedAt": "2026-08-20T21:21:40+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "EPC Space spinge il calcolo in orbita con nuovi transistor eGaN",
-      "link": "https://www.tomshw.it/hardware/epc-space-lancia-tre-transistor-egan-per-i-computer-spaziali",
-      "excerpt": "EPC Space ha presentato tre nuovi transistor eGaN destinati alla conversione di potenza nei computer spaziali. I dispositivi EPC7050PCSH, EPC7066PCSH ed EPC7065PCSH puntano ad…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108731/epc-space-lancia-tre-transistor-egan-per-i-computer-spaziali.png",
-      "publishedAt": "2026-08-20T21:20:17+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -257,11 +257,11 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Furto di LEGO e Magic: la targa tradisce due agenti di polizia",
-      "link": "https://www.tomshw.it/altro/flock-safety-legge-la-targa-2-agenti-accusati-di-furto-lego",
-      "excerpt": "Una Hyundai Sonata bianca seguita attraverso una telecamera per la lettura automatica delle targhe ha portato al fermo di due agenti penitenziari della Florida. La Bay County…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108510/4ceaf38f-untitled-2.jpg",
-      "publishedAt": "2026-08-20T09:42:58+00:00",
+      "title": "Marvell, Google potrà comprare azioni per 12,2 miliardi",
+      "link": "https://www.tomshw.it/hardware/marvell-google-potra-comprare-azioni-per-12-2-miliardi-di-dollari",
+      "excerpt": "Un warrant fino a 58.970.907 azioni lega Google alla crescita del business dei chip personalizzati di Marvell Technology. Il gruppo ha concesso alla società di Alphabet il diritto…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108379/news-flash-861110.png",
+      "publishedAt": "2026-08-19T14:12:23+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
