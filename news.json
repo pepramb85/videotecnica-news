@@ -1,150 +1,114 @@
 {
-  "generatedAt": "2026-08-22T06:25:56.907509+00:00",
+  "generatedAt": "2026-08-22T08:19:28.675823+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Razzi alimentati con plastica e gomma: la scommessa giapponese",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n668038/letara-razzi-ibridi-plastica-gomma/",
-      "excerpt": "Letara raccoglie 16 milioni di dollari e porta i razzi ibridi oltre i piccoli satelliti.",
-      "image": "https://hd2.tudocdn.net/1364529?w=660",
-      "publishedAt": "2026-08-22T06:15:00+00:00",
+      "title": "Casella Gmail in esaurimento? Per liberare spazio servono solo pochi passaggi",
+      "link": "https://www.hdblog.it/google/articoli/n667848/casella-gmail-liberare-spazio-pochi-passaggi/",
+      "excerpt": "Come cancellare in blocco mail e allegati pesanti.",
+      "image": "https://hd2.tudocdn.net/1317536?w=660",
+      "publishedAt": "2026-08-22T08:15:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "RayNeo iO e GT ufficiali: un assistente e un cinema a portata di occhio",
-      "link": "https://www.hdblog.it/games/articoli/n668029/rayneo-io-gt-occhiali-smart-ar-specifiche-prezzo/",
-      "excerpt": "Nuovi occhiali AR pensati per rivoluzionare lavoro e intrattenimento",
-      "image": "https://hd2.tudocdn.net/1364507?w=660",
-      "publishedAt": "2026-08-22T05:55:00+00:00",
+      "title": "Cyberpunk: Edgerunners 2, la nuova stagione della serie Netflix ha una data",
+      "link": "https://www.hdblog.it/games/articoli/n668032/cyberpunk-edgerunners-2-data-netflix-quando-2026/",
+      "excerpt": "E anche un nuovo trailer.",
+      "image": "https://hd2.tudocdn.net/1364518?w=660",
+      "publishedAt": "2026-08-22T08:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "La \"truffa del reso\": cos'è e come funziona il raggiro",
-      "link": "https://www.tomshw.it/altro/truffa-del-reso-iphone-va-ai-truffatori-il-debito-resta",
-      "excerpt": "Lo smartphone viene acquistato attraverso i canali autentici dell’operatore, ma il successivo reso finisce nelle mani dei truffatori. È il meccanismo della truffa della consegna…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107289/news-flash-777962.png",
-      "publishedAt": "2026-08-21T21:30:59+00:00",
+      "title": "Poco X8 e X8 Power presto all'attacco della fascia media con batterie pazzesche",
+      "link": "https://www.hdblog.it/smartphone/articoli/n668030/poco-x8-power-specifiche-batteria-leak-fotocamere/",
+      "excerpt": "Un leak anticipare alcune specifiche chiave.",
+      "image": "https://hd2.tudocdn.net/1364516?w=660",
+      "publishedAt": "2026-08-22T07:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "TikTok paga 344 milioni: il conto della privacy dei minori",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n668045/tiktok-accordo-privacy-bambini-344-milioni/",
+      "excerpt": "TikTok chiude con 344 milioni di euro la causa USA sulla privacy dei minori.",
+      "image": "https://hd2.tudocdn.net/1363720?w=660",
+      "publishedAt": "2026-08-22T07:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "iPhone 17 in offerta: è lo smartphone da prendere questo weekend",
+      "link": "https://www.hdblog.it/smartphone/offerte/n668051/iphone-17-256-gb-offerta-22-agosto-2026/",
+      "excerpt": "iPhone 17 da 256 GB è lo smartphone giusto da prendere nel corso di questo weekend: il prezzo è ottimo.",
+      "image": "https://hd2.tudocdn.net/1314596?w=660",
+      "publishedAt": "2026-08-22T07:30:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Microsoft conferma i bug dell'ultimo Patch Tuesday con alcuni sistemi gaming",
+      "link": "https://www.hdblog.it/microsoft/articoli/n668026/windows-11-bug-videogiochi-patch-agosto-rgb-driver/",
+      "excerpt": "Come sospettato la radice del bug è in un driver ben specifico ma per ora Microsoft non ha ancora individuato il guasto preciso.",
+      "image": "https://hd2.tudocdn.net/1351157?w=660",
+      "publishedAt": "2026-08-22T07:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google Pixel 10 Pro (256 GB) in offerta su Amazon: l'alternativa giusta ai Pixel 11",
+      "link": "https://www.hdblog.it/smartphone/offerte/n668050/google-pixel-10-256-gb-offerta-amazon-agosto-2026/",
+      "excerpt": "Il Google Pixel 10 da 256 GB è in offerta su Amazon: si tratta di un'alternativa eccellente al ben più costoso Pixel 11.",
+      "image": "https://hd2.tudocdn.net/1364539?w=660",
+      "publishedAt": "2026-08-22T07:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Claude Opus 4.6 aggira i filtri di Anthropic con troppa facilità",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n668039/claude-opus-4-6-jailbreak-filtri-anthropic/",
+      "excerpt": "I test mostrano quanto sia difficile trasformare i divieti imposti alle AI in barriere davvero solide.",
+      "image": "https://hd2.tudocdn.net/1364530?w=660",
+      "publishedAt": "2026-08-22T07:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il leggendario Task Manager arriva su macOS: beta gratuita",
+      "link": "https://www.tomshw.it/hardware/task-manager-og-e-arrivato-dave-plummer-lancia-la-beta-gratuita-per-macos",
+      "excerpt": "Task Manager OG è disponibile gratuitamente per macOS. Il 31 luglio 2026 Dave W. Plummer, creatore del Task Manager originale di Windows, ha pubblicato la BETA 01 della sua…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108909/amarcord-cover-897862.png",
+      "publishedAt": "2026-08-22T07:09:54+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Google Pixel 10 256GB sotto i 650€, un affare per foto e IA",
-      "link": "https://www.tomshw.it/offerte/google-pixel-10-256gb-sotto-i-650eur-un-affare-per-foto-e-ia",
-      "excerpt": "Google Pixel 10 256GB costa 649,90€ su Amazon, anziché 999€, con uno sconto del 35%. Tripla fotocamera con zoom 20x, Gemini e sette anni di aggiornamenti lo rendono adatto a chi…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108899/tomshw-offer-886704.png",
-      "publishedAt": "2026-08-21T20:03:06+00:00",
+      "title": "Panasonic QLED 43″ a 399€, Fire TV e 120 Hz che valgono la spesa",
+      "link": "https://www.tomshw.it/offerte/panasonic-qled-43-a-399eur-fire-tv-e-120-hz-che-valgono-la-spesa",
+      "excerpt": "La Smart TV Panasonic W85B da 43 pollici costa 399€ su Amazon, anziché 649€, con uno sconto del 39%. Il pannello QLED a 120 Hz, affiancato da VRR e AMD FreeSync, la rende…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108908/tomshw-offer-897861.png",
+      "publishedAt": "2026-08-22T07:03:30+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Logitech G Astro A30 al 48%, 27 ore su PC e console: un affare",
-      "link": "https://www.tomshw.it/offerte/logitech-g-astro-a30-al-48-27-ore-su-pc-e-console-un-affare",
-      "excerpt": "Logitech G Astro A30 costa 139,90€ su Amazon, con uno sconto del 48% che taglia il listino di 269€ e lascia 129,10€ in tasca. La possibilità di alternare PC, console e smartphone…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108896/tomshw-offer-886695.png",
-      "publishedAt": "2026-08-21T19:33:12+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Bitcoin, super impennata negli ultimi giorni: caso isolato o segnale di risalita?",
-      "link": "https://www.hdblog.it/mercato/articoli/n668024/bitcoin-impennata-short-squeeze/",
-      "excerpt": "C'è stato un massiccio \"short squeeze\" che ha portato alla liquidazione di oltre 2,7 miliardi di dollari di posizioni.",
-      "image": "https://hd2.tudocdn.net/1273896?w=660",
-      "publishedAt": "2026-08-21T18:05:00+00:00",
+      "title": "Stellantis rafforza l’alleanza con Dongfeng: nuova joint venture da un miliardo di euro",
+      "link": "https://www.hdmotori.it/stellantis-dongfeng-joint-venture-un-miliardo/",
+      "excerpt": "Inaugurata a Wuhan la joint venture Dongfeng Peugeot-Citroën Technology, finalizzata allo sviluppo di modelli Peugeot e Jeep a nuova energia.",
+      "image": "https://hd2.tudocdn.net/1364541?w=660",
+      "publishedAt": "2026-08-22T07:00:05+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "HP Travel al 42%, lo zaino da 30 litri per notebook che vale la spesa",
-      "link": "https://www.tomshw.it/offerte/hp-travel-al-42-lo-zaino-da-30-litri-per-notebook-che-vale-la-spesa",
-      "excerpt": "HP Travel costa 34,99€ su Amazon, invece dei 59,99€ di listino, con uno sconto del 42% e 25€ lasciati in tasca. È il suo minimo storico: un prezzo particolarmente invitante per…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108893/tomshw-offer-886648.png",
-      "publishedAt": "2026-08-21T18:03:30+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Hyundai Pony, il progetto italiano che cambiò il destino del marchio coreano",
-      "link": "https://www.hdmotori.it/hyundai-pony-giorgetto-giugiaro/",
-      "excerpt": "Dalla matita di Giugiaro agli stabilimenti di Ulsan, la storia della vettura che segnò il debutto internazionale di Hyundai e l'inizio della sua crescita mondiale",
-      "image": "https://hd2.tudocdn.net/1364504?w=660",
-      "publishedAt": "2026-08-21T18:00:06+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il drone Amazon fa centro... in piscina: consegna fallita",
-      "link": "https://www.tomshw.it/altro/amazon-prime-air-il-drone-consegna-il-pacco-in-piscina",
-      "excerpt": "Il vano di carico si è aperto sopra una piscina e il pacco è finito direttamente in acqua. È successo a Richmond, in Texas, durante la prima consegna Amazon Prime Air ricevuta da…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108889/cDXJBLUFxWijbbBF4JWhXB-2000-80.jpg",
-      "publishedAt": "2026-08-21T17:47:16+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "GTA VI, Take-Two coinvolge anche Microsoft e Discord nella caccia ai leaker",
-      "link": "https://www.hdblog.it/microsoft/articoli/n668021/gta-6-leak-tribunale-microsoft-discord/",
-      "excerpt": "Take-Two ha presentato in tribunale richieste formali per entrambe le società di consegnare i dati di eventuali account legati ai leak per identificare e denunciare i responsabili.",
-      "image": "https://hd2.tudocdn.net/1361474?w=660",
-      "publishedAt": "2026-08-21T17:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "12 dispositivi da una presa: la torretta Anker è al minimo storico di 32,99€",
-      "link": "https://www.tomshw.it/offerte/12-dispositivi-da-una-presa-la-torretta-anker-e-al-minimo-storico-di-3299eur",
-      "excerpt": "La torretta multipresa Anker 12-in-1 costa 32,99€ su Amazon: il listino è di 42,99€ e lo sconto dichiarato è del 23%. Riunisce otto prese CA e quattro porte USB in un corpo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108892/tomshw-offer-886630.png",
-      "publishedAt": "2026-08-21T17:33:15+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Doom gira anche su una fotocamera Canon di 15 anni fa, e pure bene",
-      "link": "https://www.hdblog.it/games/articoli/n668019/doom-fotocamera-canon-magic-lantern/",
-      "excerpt": "Le meraviglie del mitico firmware open-source Magic Lantern.",
-      "image": "https://hd2.tudocdn.net/1364500?w=660",
-      "publishedAt": "2026-08-21T17:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Rientro dalle vacanze, le previsioni da bollino rosso del controesodo",
-      "link": "https://www.hdmotori.it/rientro-vacanze-previsioni-bollino-rosso-controesodo/",
-      "excerpt": "Per milioni di italiani le vacanze estive si stanno concludendo con un drammatico rientro a casa. Scopriamo cosa dicono i dati",
-      "image": "https://hd2.tudocdn.net/1364501?w=660",
-      "publishedAt": "2026-08-21T17:00:54+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Microsoft Edge per Android, arrivano gli sfondi custom... ma solo a una condizione",
-      "link": "https://www.hdblog.it/microsoft/articoli/n668016/microsoft-edge-sfondi-android-browser-predefinito/",
-      "excerpt": "Bisogna impostare Edge come browser di sistema. Quando imparerai, Microsoft?",
-      "image": "https://hd2.tudocdn.net/1354714?w=660",
-      "publishedAt": "2026-08-21T16:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Hubble risolve un mistero della Via Lattea vecchio 12 miliardi di anni",
-      "link": "https://www.hdblog.it/curiosita/articoli/n668004/hubble-fusione-via-lattea-lkh/",
-      "excerpt": "Hubble trova le tracce di una galassia inglobata dalla Via Lattea quasi 12 miliardi di anni fa.",
-      "image": "https://hd2.tudocdn.net/1364481?w=660",
-      "publishedAt": "2026-08-21T16:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Google rilascia le Factory Image dei suoi smartphone Pixel 11",
-      "link": "https://www.hdblog.it/smartphone/articoli/n668014/google-pixel-11-pro-xl-fold-factory-image/",
-      "excerpt": "Disponibili al download proprio il giorno di inizio commercializzazione dei device.",
-      "image": "https://hd2.tudocdn.net/1363813?w=660",
-      "publishedAt": "2026-08-21T16:10:00+00:00",
+      "title": "Smart home, una VLAN separata può migliorare le prestazioni della rete WiFi",
+      "link": "https://www.hdblog.it/domotica/articoli/n667721/smart-home-vlan-separata-migliora-rete-wifi/",
+      "excerpt": "Troppi dispositivi possono rallentare la rete domestica.",
+      "image": "https://hd2.tudocdn.net/1363837?w=660",
+      "publishedAt": "2026-08-22T06:55:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -174,24 +138,6 @@
       "publishedAt": "2026-08-21T12:25:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Migliori Chromebook (agosto 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-chromebook",
-      "excerpt": "Scegliere uno dei migliori Chromebook significa puntare su un portatile veloce nell'avvio, semplice da gestire e pensato per chi lavora molto tra browser, documenti condivisi,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/87517/migliori-chromebook-copertina.jpg",
-      "publishedAt": "2026-08-21T11:30:11+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori stampanti economiche a getto d'inchiostro (agosto 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-stampanti-economiche-getto-inchiostro",
-      "excerpt": "Scegliere una delle migliori stampanti a getto d’inchiostro economiche resta una soluzione sensata per casa, studio, università e piccoli uffici quando si vuole stampare a colori…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/87511/migliori-stampanti-economiche-getto-copertina.jpg",
-      "publishedAt": "2026-08-21T11:24:45+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Semi, il camion elettrico Tesla arriva in Europa",
@@ -257,11 +203,65 @@
       "sourceColor": "#E63946"
     },
     {
+      "title": "Tesla scommette su AI4, ma la guida autonoma resta da dimostrare",
+      "link": "https://www.tomshw.it/automotive/tesla-svela-fsd-v15-e-punta-a-vendere-optimus-nel-2027",
+      "excerpt": "Tesla ha delineato una nuova tabella di marcia per guida autonoma, robotaxi e robot umanoidi durante un incontro nello stabilimento di Fremont. L'azienda presenta FSD v15 come un…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108737/tesla-svela-fsd-v15-e-punta-a-vendere-optimus-nel-2027.png",
+      "publishedAt": "2026-08-20T21:23:20+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Steam Deck, le mod di Nexus si installano direttamente dalla Gaming Mode",
+      "link": "https://www.tomshw.it/videogioco/decky-nexus-installa-le-mod-pc-su-steam-deck-dalla-modalita-gaming",
+      "excerpt": "Il plugin comunitario Decky-Nexus, sviluppato da RedRanger14, consente di cercare, scaricare, installare e amministrare le mod di Nexus direttamente dalla modalità Gaming di Steam…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108727/decky-nexus-installa-le-mod-pc-su-steam-deck-dalla-modalita-gaming.png",
+      "publishedAt": "2026-08-20T21:16:38+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "Criogenia nello spazio: la svolta IMLI della NASA",
       "link": "https://www.tomshw.it/scienze/nasa-imli-l-isolamento-limita-le-dispersioni-criogeniche",
       "excerpt": "Piccoli distanziatori polimerici a forma di treppiede tengono separati gli strati riflettenti e limitano i punti attraverso cui il calore può propagarsi. È il principio alla base…",
       "image": "https://cdn.tomshw.it/storage/media/2026/08/108559/criogenia-nello-spazio-la-svolta-imli-della-nasa.png",
       "publishedAt": "2026-08-20T10:38:14+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Google Gboard: nella beta scegli la grandezza delle emoji",
+      "link": "https://www.tomshw.it/smartphone/google-gboard-nella-beta-scegli-la-grandezza-delle-emoji",
+      "excerpt": "Un nuovo cursore permette di cambiare la dimensione delle emoji direttamente nel pannello di Google Gboard. Il controllo è comparso nella versione beta 18.0.3.9 della tastiera per…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108501/emojis.jpg",
+      "publishedAt": "2026-08-20T09:47:52+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Recensione Mafia: Terra Madre - Uomo d'onore",
+      "link": "https://www.tomshw.it/videogioco/recensione-mafia-terra-madre-uomo-donore",
+      "excerpt": "Ci sono nomi che, nella storia del medium videoludico, evocano immediatamente un immaginario fatto di completi gessati, fumose stanze sul retro e codici d'onore scritti col…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108507/Uomo-d'onore-(3).webp",
+      "publishedAt": "2026-08-20T09:16:16+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Ecco come comandare un iPad dal vostro iPhone",
+      "link": "https://www.tomshw.it/smartphone/apple-iphone-controlla-ipad-via-accessibilita-stesso-account-e-wi-fi",
+      "excerpt": "L’iPhone può diventare un telecomando essenziale per un iPad vicino, permettendo di gestire anche la riproduzione di film e serie senza dover raggiungere fisicamente il tablet. A…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108394/iPhone-tv-remote-iPad_01b-jpg.webp",
+      "publishedAt": "2026-08-19T15:25:19+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Wispr Flow vola: 280 milioni e valutazione da 2 miliardi",
+      "link": "https://www.tomshw.it/business/wispr-flow-round-da-280-milioni-valutazione-a-2-miliardi",
+      "excerpt": "Un Series B da 280 milioni di dollari ha portato la società dietro Wispr Flow a una valutazione post-money di 2 miliardi. Il round è stato guidato da Menlo Ventures e porta a 361…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/05/92426/wispr-flow-india-ia-vocale-hinglish.webp",
+      "publishedAt": "2026-08-17T15:23:14+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
