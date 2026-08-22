@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-08-22T04:24:51.034874+00:00",
+  "generatedAt": "2026-08-22T06:25:56.907509+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Razzi alimentati con plastica e gomma: la scommessa giapponese",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n668038/letara-razzi-ibridi-plastica-gomma/",
+      "excerpt": "Letara raccoglie 16 milioni di dollari e porta i razzi ibridi oltre i piccoli satelliti.",
+      "image": "https://hd2.tudocdn.net/1364529?w=660",
+      "publishedAt": "2026-08-22T06:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "RayNeo iO e GT ufficiali: un assistente e un cinema a portata di occhio",
+      "link": "https://www.hdblog.it/games/articoli/n668029/rayneo-io-gt-occhiali-smart-ar-specifiche-prezzo/",
+      "excerpt": "Nuovi occhiali AR pensati per rivoluzionare lavoro e intrattenimento",
+      "image": "https://hd2.tudocdn.net/1364507?w=660",
+      "publishedAt": "2026-08-22T05:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "La \"truffa del reso\": cos'è e come funziona il raggiro",
       "link": "https://www.tomshw.it/altro/truffa-del-reso-iphone-va-ai-truffatori-il-debito-resta",
@@ -131,24 +149,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "HyperX Pulsefire Haste 2 al 57%, il mouse da 53 grammi per gli FPS",
-      "link": "https://www.tomshw.it/offerte/hyperx-pulsefire-haste-2-al-57-il-mouse-da-53-grammi-per-gli-fps",
-      "excerpt": "HyperX Pulsefire Haste 2 costa 29,99€ su Amazon, con uno sconto del 57% sul prezzo di listino di 69,99€. Il peso di appena 53 grammi permette di spostarlo rapidamente durante gli…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108887/tomshw-offer-886534.png",
-      "publishedAt": "2026-08-21T16:03:26+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Bugatti Veyron, quando il restauro diventa un’opera d’arte",
-      "link": "https://www.hdmotori.it/bugatti-veyron-restauro/",
-      "excerpt": "Con il programma La Maison Pur Sang, un cliente Bugatti ha ottenuto una versione moderna della Bugatti Veyron",
-      "image": "https://hd2.tudocdn.net/1364496?w=660",
-      "publishedAt": "2026-08-21T16:00:16+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Un gruppo di pirati informatici sta pubblicando video di GTA VI per pompare una criptomoneta",
       "link": "https://images.dday.it/ZAOFhDjfyYPAagS_XY-E8Gmk-ixgPVQK4Q2h8OIGMbI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58443/6ebfa6_07_-_Brian_Heder_03.jpg",
       "excerpt": "Il gruppo si fa chiamare Cyberleek e con ogni probabilità è in possesso di una build non definitiva del gioco per PC. Da un paio di giorni pubblica video di gameplay per…",
@@ -156,15 +156,6 @@
       "publishedAt": "2026-08-21T16:00:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Motorola e GrapheneOS, la partnership è molto ambiziosa: primi dettagli",
-      "link": "https://www.hdblog.it/smartphone/articoli/n668012/motorola-grapheneos-partnership-quando/",
-      "excerpt": "I device saranno dei veri e propri flagship progettati ad hoc, ancora più prestigiosi dei Google Pixel.",
-      "image": "https://hd2.tudocdn.net/1216694?w=660",
-      "publishedAt": "2026-08-21T15:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Google consentirà di personalizzare in modo preciso il proprio feed di Discover con un semplice prompt",
@@ -266,11 +257,20 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Le spedizioni dei pieghevoli potrebbero raddoppiare entro il 2028",
-      "link": "https://www.tomshw.it/smartphone/le-spedizioni-dei-pieghevoli-potrebbero-raddoppiare-entro-il-2028",
-      "excerpt": "Omdia ha pubblicato di recente una previsione che assegna al mercato degli smartphone pieghevoli un nuovo ciclo di espansione. Le spedizioni globali potrebbero raggiungere 36…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108725/le-spedizioni-dei-pieghevoli-potrebbero-raddoppiare-entro-il-2028.png",
-      "publishedAt": "2026-08-20T21:14:15+00:00",
+      "title": "Criogenia nello spazio: la svolta IMLI della NASA",
+      "link": "https://www.tomshw.it/scienze/nasa-imli-l-isolamento-limita-le-dispersioni-criogeniche",
+      "excerpt": "Piccoli distanziatori polimerici a forma di treppiede tengono separati gli strati riflettenti e limitano i punti attraverso cui il calore può propagarsi. È il principio alla base…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108559/criogenia-nello-spazio-la-svolta-imli-della-nasa.png",
+      "publishedAt": "2026-08-20T10:38:14+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il tesoro nascosto di NVIDIA: 21 miliardi in SpaceX",
+      "link": "https://www.tomshw.it/business/nvidia-la-sec-svela-quasi-21-miliardi-in-azioni-spacex",
+      "excerpt": "Quasi 21 miliardi di dollari in azioni SpaceX figuravano nel portafoglio di NVIDIA alla fine del secondo trimestre. Il Form 13F depositato presso la U.S. Securities and Exchange…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107891/news-flash-830861.png",
+      "publishedAt": "2026-08-17T14:21:48+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
