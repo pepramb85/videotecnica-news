@@ -1,9 +1,99 @@
 {
-  "generatedAt": "2026-08-23T06:27:06.748199+00:00",
+  "generatedAt": "2026-08-23T08:20:08.861024+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "LinkedIn ha trovato un modo per fermare l’invasione dei post AI",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n668084/linkedin-ai-slop-post-intelligenza-artificiale/",
+      "excerpt": "LinkedIn riduce del 40% le visualizzazioni dei post classificati come AI slop",
+      "image": "https://hd2.tudocdn.net/1343550?w=660",
+      "publishedAt": "2026-08-23T08:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Insta360 Link 2 a 172€, la webcam 4K ideale per chi presenta in movimento",
+      "link": "https://www.tomshw.it/offerte/insta360-link-2-a-172eur-la-webcam-4k-ideale-per-chi-presenta-in-movimento",
+      "excerpt": "Insta360 Link 2 costa 172€ su Amazon anziché 229,99€, con uno sconto del 25%. Il sistema PTZ e il tracciamento IA mantengono l’inquadratura sul soggetto anche quando una…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108960/tomshw-offer-909786.png",
+      "publishedAt": "2026-08-23T08:03:34+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Recensione Boox Go 6 Gen 2: il piccolo e-reader con Android e supporto alla penna",
+      "link": "https://www.hdblog.it/tablet/recensioni/n667969/boox-go-6-gen-2-recensione-e-reader/",
+      "excerpt": "Dopo aver provato Boox Note Air5 C e il BOOX Go 7, tocca ora al piccolo Boox Go 6 Gen 2",
+      "image": "https://hd2.tudocdn.net/1364386?w=660",
+      "publishedAt": "2026-08-23T08:01:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Thunderbird 153 “Meadow” è arrivato: la posta Exchange ora è nativa",
+      "link": "https://www.tomshw.it/hardware/thunderbird-153-meadow-e-arrivato-la-posta-exchange-ora-e-nativa",
+      "excerpt": "La nuova Extended Support Release di Thunderbird è stata annunciata il 22 luglio 2026, un giorno dopo il rilascio di Desktop 153.0. Il suo nome è “Meadow” e la novità più…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108958/amarcord-cover-909709.png",
+      "publishedAt": "2026-08-23T07:46:28+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Gboard legge tra le righe sui Pixel 11: l'AI di Gemini suggerisce le risposte",
+      "link": "https://www.hdblog.it/google/articoli/n668077/pixel-11-gboard-gemini-suggerimenti-personalizzati/",
+      "excerpt": "Gboard prova a capire come scrivi: ecco come funziona.",
+      "image": "https://hd2.tudocdn.net/1363825?w=660",
+      "publishedAt": "2026-08-23T07:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "GTA 6, leak e polemiche non smuovono Rockstar: confermato l'evento Netflix",
+      "link": "https://www.hdblog.it/games/articoli/n668076/gta-6-leak-rockstar-evento-netflix-27-agosto-vi/",
+      "excerpt": "Il polverone di questi giorni non cambia i piani.",
+      "image": "https://hd2.tudocdn.net/1358489?w=660",
+      "publishedAt": "2026-08-23T07:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Un algoritmo può toglierti il lavoro? Uber multata per 825 milioni",
+      "link": "https://www.hdblog.it/mercato/articoli/n668080/uber-multa-europa-account-autisti-algoritmo/",
+      "excerpt": "Un algoritmo disattivava gli autisti senza intervento umano: arriva la maxi multa europea",
+      "image": "https://hd2.tudocdn.net/1364580?w=660",
+      "publishedAt": "2026-08-23T07:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Migliori coperte elettriche e scaldasonno (agosto 2026)",
+      "link": "https://www.tomshw.it/offerte/migliori-coperte-elettriche-e-scaldasonno",
+      "excerpt": "Imetec CaldoPlaid Elegance 180x140 cm è la migliore coperta elettrica per la maggior parte delle persone: offre una superficie ampia, 6 temperature, riscaldamento rapido, timer da…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108959/guide-thw-909752.png",
+      "publishedAt": "2026-08-23T07:19:19+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Android: le opzioni per proteggere i dati dello smartphone in caso di furto",
+      "link": "https://www.hdblog.it/smartphone/articoli/n667899/android-come-proteggere-dati-smartphone-furto/",
+      "excerpt": "Le funzioni sono disponibili a partire da Android 10.",
+      "image": "https://hd2.tudocdn.net/1364224?w=660",
+      "publishedAt": "2026-08-23T07:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Vivo T5 5G è in arrivo con display curvo, profilo sottile e tanta AI",
+      "link": "https://www.hdblog.it/smartphone/articoli/n668075/vivo-t5-5g-display-curvo-ai-teaser-lancio/",
+      "excerpt": "Un primo sguardo a caratteristiche chiave e design.",
+      "image": "https://hd2.tudocdn.net/1364572?w=660",
+      "publishedAt": "2026-08-23T06:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Microsoft porta Copilot nelle chat Teams: può scrivere il codice",
       "link": "https://www.hdblog.it/microsoft/articoli/n668081/github-copilot-microsoft-teams-codice/",
@@ -59,74 +149,11 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Echo Dot al 56%, Alexa e musica in casa: un affare da 39,99€",
-      "link": "https://www.tomshw.it/offerte/echo-dot-al-56-alexa-e-musica-in-casa-un-affare-da-3999eur",
-      "excerpt": "Echo Dot costa 39,99€ su Amazon, con il 56% di sconto rispetto al prezzo di listino di 89,99€. Alexa, riproduzione musicale e routine per la casa connessa sono racchiuse in uno…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108953/tomshw-offer-898427.png",
-      "publishedAt": "2026-08-22T17:23:14+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "La Fotocamera Pixel cambia sui Pixel 11 con queste due novità",
       "link": "https://www.hdblog.it/google/comparazioni/n668071/fotocamera-pixel-11-modalita-avvio-rapido-novita/",
       "excerpt": "Una funzione inedita e un ritocco all'interfaccia.",
       "image": "https://hd2.tudocdn.net/1363814?w=660",
       "publishedAt": "2026-08-22T17:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "G.Skill rimborsa gli utenti per aver mentito sulle RAM (ma solo in USA)",
-      "link": "https://www.tomshw.it/hardware/g-skill-accordo-ram-da-2-4-milioni-pagamenti-al-via-negli",
-      "excerpt": "Accrediti da 19,68 e 24,60 dollari stanno raggiungendo i consumatori statunitensi ammessi all’accordo sulle velocità pubblicizzate per alcune memorie desktop G.Skill DDR4 e DDR5.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108952/kAur2rfLMuXGArbhKVE2jU-2560-80.jpg",
-      "publishedAt": "2026-08-22T16:59:30+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Android offrirà più controllo sui dati condivisi dei file multimediali: ecco come",
-      "link": "https://www.hdblog.it/google/articoli/n668066/google-selettore-file-privacy-posizione-condivisi/",
-      "excerpt": "Un'opzione in più.",
-      "image": "https://hd2.tudocdn.net/1354191?w=660",
-      "publishedAt": "2026-08-22T16:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Xiaomi Smart Band 10 Pro in offerta su Amazon: è la smartband che sostituisce gli smartwatch",
-      "link": "https://www.hdblog.it/indossabili/offerte/n668070/xiaomi-smart-band-10-pro-offerta-amazon-ago26/",
-      "excerpt": "La Xiaomi Smart Band 10 Pro è in offerta su Amazon ed è ora disponibile con un prezzo ridotto fino a 74,99 euro.",
-      "image": "https://hd2.tudocdn.net/1346245?w=660",
-      "publishedAt": "2026-08-22T16:30:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Roborock QV 35A al 50%: aspira, lava e si prepara da solo, un affare",
-      "link": "https://www.tomshw.it/offerte/roborock-qv-35a-al-50-aspira-lava-e-si-prepara-da-solo-un-affare",
-      "excerpt": "Roborock QV 35A costa 299,99€ su Amazon, la metà del listino di 599,99€ grazie allo sconto del 50%. Aspirazione, lavaggio e manutenzione automatica lavorano insieme per ridurre…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108951/tomshw-offer-898379.png",
-      "publishedAt": "2026-08-22T16:03:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Apple iPhone 17 Pro Max 256GB a 1299€, minimo storico per foto e video",
-      "link": "https://www.tomshw.it/offerte/apple-iphone-17-pro-max-256gb-a-1299eur-minimo-storico-per-foto-e-video",
-      "excerpt": "Apple iPhone 17 Pro Max 256GB costa 1299€ su Amazon, il minimo storico, anziché 1489€ di listino con uno sconto del 13%. Fotocamere posteriori da 48MP, zoom 8x e fino a 37 ore di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108950/tomshw-offer-898368.png",
-      "publishedAt": "2026-08-22T15:34:15+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Galaxy Z Fold 7, saldi di fine serie per il pieghevole Samsung (-40%): ora è un best buy",
-      "link": "https://www.hdblog.it/smartphone/offerte/n668065/samsung-galaxy-z-fold-7-offerta-agosto-2026/",
-      "excerpt": "Il Samsung Galaxy Z Fold 7 è in offerta e diventa oggi un vero e proprio best buy tra gli smartphone pieghevoli.",
-      "image": "https://hd2.tudocdn.net/1364555?w=660",
-      "publishedAt": "2026-08-22T13:45:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -138,51 +165,6 @@
       "publishedAt": "2026-08-22T13:44:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Motorola Edge 60 Neo a meno di 300€ su Amazon: è il più completo a questo prezzo",
-      "link": "https://www.hdblog.it/portatili/offerte/n668064/motorola-edge-60-neo-offerta-amazon-agosto26/",
-      "excerpt": "Il Motorola Edge 60 Neo è in offerta su Amazon e ora è uno dei best buy da prendere sotto i 300 euro.",
-      "image": "https://hd2.tudocdn.net/1341241?w=660",
-      "publishedAt": "2026-08-22T13:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Apple Vision Pro non doveva chiamarsi così: spunta il nome originale",
-      "link": "https://www.hdblog.it/indossabili/articoli/n668063/apple-vision-pro-reality-nome-originale-retroscena/",
-      "excerpt": "Il retroscena.",
-      "image": "https://hd2.tudocdn.net/1173557?w=660",
-      "publishedAt": "2026-08-22T13:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Migliori valvole termostatiche smart (agosto 2026)",
-      "link": "https://www.tomshw.it/altro/migliori-valvole-termostatiche-smart",
-      "excerpt": "tado° Termostato Intelligente X Starter Kit è la scelta migliore per iniziare: comprende valvola e Bridge X, supporta Matter e Thread e permette di espandere il controllo stanza…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108947/guide-thw-898303.png",
-      "publishedAt": "2026-08-22T13:19:18+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Sony Xperia 10 VIII sarà così? Un'immagine anticipa il possibile design",
-      "link": "https://www.hdblog.it/smartphone/articoli/n668060/sony-xperia-10-viii-design-specifiche-leak-foto/",
-      "excerpt": "Alla presentazione ufficiale manca pochissimo.",
-      "image": "https://hd2.tudocdn.net/1287174?w=660",
-      "publishedAt": "2026-08-22T13:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Pluto TV: ecco le novità di settembre 2026",
-      "link": "https://www.hdblog.it/spettacolo/articoli/n668053/pluto-tv-settembre-nuovi-canali-gratis/",
-      "excerpt": "Due nuovi canali e maratone speciali ampliano l'offerta gratuita di Pluto TV.",
-      "image": "https://hd2.tudocdn.net/1364543?w=660",
-      "publishedAt": "2026-08-22T12:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Un gruppo di pirati informatici sta pubblicando video di GTA VI per pompare una criptomoneta",
@@ -271,6 +253,24 @@
       "excerpt": "Dal 21 luglio 2026, chi vuole esplorare il patrimonio software dell’Atari ST può cercare, consultare e scaricare immagini di dischetti attraverso il browser web pubblico…",
       "image": "https://cdn.tomshw.it/storage/media/2026/08/108786/doubledragon_atarist.jpg",
       "publishedAt": "2026-08-21T07:13:52+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Resonance: A Plague Tale Legacy su Game Pass dal 27 agosto",
+      "link": "https://www.tomshw.it/videogioco/resonance-a-plague-tale-legacy-su-xbox-game-pass-dal-27-agosto",
+      "excerpt": "Un nuovo viaggio nell’universo di A Plague Tale entrerà subito nel catalogo Xbox Game Pass. Resonance: A Plague Tale Legacy sarà disponibile dal 27 agosto 2026, nello stesso…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108110/ar6f07.jpg",
+      "publishedAt": "2026-08-18T13:58:23+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Boom dei miliardari AI: superyacht e Ferrari su misura",
+      "link": "https://www.tomshw.it/altro/ricchi-dell-ai-boom-di-jet-privati-superyacht-e-ferrari-su-misura",
+      "excerpt": "Le fortune generate dall’intelligenza artificiale stanno alimentando una nuova domanda internazionale di jet privati, superyacht e supercar personalizzate. La platea comprende…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107907/17515721426866deae79b5b_1751572142_3x2_rt.jpg",
+      "publishedAt": "2026-08-17T15:32:15+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
