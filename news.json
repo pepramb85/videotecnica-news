@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-08-23T04:28:44.238326+00:00",
+  "generatedAt": "2026-08-23T06:27:06.748199+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Microsoft porta Copilot nelle chat Teams: può scrivere il codice",
+      "link": "https://www.hdblog.it/microsoft/articoli/n668081/github-copilot-microsoft-teams-codice/",
+      "excerpt": "Copilot usa le conversazioni Teams per sviluppare funzioni, correggere bug e preparare pull request.",
+      "image": "https://hd2.tudocdn.net/1364579?w=660",
+      "publishedAt": "2026-08-23T06:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Compra un Ryzen 5 9600X ma la scatola è vuota... per due volte!",
+      "link": "https://www.tomshw.it/hardware/amazon-cliente-segnala-2-scatole-amd-ryzen-5-9600x-vuote",
+      "excerpt": "Due ordini dello stesso processore, effettuati nell’arco di tre giorni, sarebbero arrivati senza la CPU all’interno. A denunciarlo è PC Plug, negozio di riparazione e assemblaggio…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108957/nYVKau5tqBwsj9B5FJ3qbA-1920-80.jpg",
+      "publishedAt": "2026-08-23T06:12:42+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Strade e habitat lunari: la NASA chiede aiuto agli studenti",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n668082/nasa-tecnologie-polo-sud-luna/",
+      "excerpt": "La NASA cerca nuove tecnologie per rendere possibili missioni durature al Polo Sud lunare.",
+      "image": "https://hd2.tudocdn.net/1364578?w=660",
+      "publishedAt": "2026-08-23T05:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Switch Mercusys 2.5G a 32,99€, il minimo storico per una LAN più veloce",
       "link": "https://www.tomshw.it/offerte/switch-mercusys-25g-a-3299eur-il-minimo-storico-per-una-lan-piu-veloce",
@@ -95,15 +122,6 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Xiaomi Soundbar Pro 2.1 a 156,79€, mai costata così poco per film e gaming",
-      "link": "https://www.tomshw.it/offerte/xiaomi-soundbar-pro-21-a-15679eur-mai-costata-cosi-poco-per-film-e-gaming",
-      "excerpt": "La Xiaomi Soundbar Pro 2.1 costa 156,79€ su Amazon ed è al suo minimo storico: dai 179€ di listino si risparmiano 22,21€, con uno sconto del 12%. Subwoofer wireless e audio…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108949/tomshw-offer-898321.png",
-      "publishedAt": "2026-08-22T14:03:44+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Galaxy Z Fold 7, saldi di fine serie per il pieghevole Samsung (-40%): ora è un best buy",
       "link": "https://www.hdblog.it/smartphone/offerte/n668065/samsung-galaxy-z-fold-7-offerta-agosto-2026/",
       "excerpt": "Il Samsung Galaxy Z Fold 7 è in offerta e diventa oggi un vero e proprio best buy tra gli smartphone pieghevoli.",
@@ -163,24 +181,6 @@
       "excerpt": "Due nuovi canali e maratone speciali ampliano l'offerta gratuita di Pluto TV.",
       "image": "https://hd2.tudocdn.net/1364543?w=660",
       "publishedAt": "2026-08-22T12:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Robot umanoidi, due curiosi malfunzionamenti alla fiera cinese | VIDEO",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n667991/robot-umanoidi-malfunzionamenti-fiera-cinese-video/",
-      "excerpt": "Divertenti da guardare, al netto dei pericoli",
-      "image": "https://hd2.tudocdn.net/1364479?w=660",
-      "publishedAt": "2026-08-22T12:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Plastiche contaminate da laboratori e ospedali, ma come avviene il riciclo?",
-      "link": "https://www.hdblog.it/green/articoli/n668013/plastiche-contaminate-laboratori-ospedali-riciclo/",
-      "excerpt": "Una soluzione dalla Scozia",
-      "image": "https://hd2.tudocdn.net/1364497?w=660",
-      "publishedAt": "2026-08-22T11:35:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
