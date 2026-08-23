@@ -1,9 +1,90 @@
 {
-  "generatedAt": "2026-08-23T08:20:08.861024+00:00",
+  "generatedAt": "2026-08-23T10:15:26.736258+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Fusione nucleare: il segreto per triplicare l’energia è nel diamante",
+      "link": "https://www.hdblog.it/green/articoli/n668089/fusione-nucleare-diamante-guadagno-energia/",
+      "excerpt": "Capire come fonde il diamante potrebbe aumentare fino a tre volte il guadagno della fusione laser",
+      "image": "https://hd2.tudocdn.net/1364586?w=660",
+      "publishedAt": "2026-08-23T10:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Amazon aumenta i prezzi di Echo, Fire TV e Kindle: per ora le offerte attenuano i rincari",
+      "link": "https://www.hdblog.it/amazon/articoli/n668104/amazon-aumenta-prezzi-echo-kindle-fire-tv/",
+      "excerpt": "I rincari in alcuni casi superano il 40%",
+      "image": "https://hd2.tudocdn.net/1345978?w=660",
+      "publishedAt": "2026-08-23T09:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La NASA insegna ai satelliti a orientarsi nello spazio senza GPS",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n668086/nasa-starling-navigazione-senza-gps/",
+      "excerpt": "FALCON usa satelliti e detriti come riferimenti per navigare autonomamente nello spazio.",
+      "image": "https://hd2.tudocdn.net/1364585?w=660",
+      "publishedAt": "2026-08-23T09:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Logitech K400 Plus al 46%, l’affare per gestire PC e TV dal divano",
+      "link": "https://www.tomshw.it/offerte/logitech-k400-plus-al-46-laffare-per-gestire-pc-e-tv-dal-divano",
+      "excerpt": "Logitech K400 Plus costa 24,39€ su Amazon, con il 46% di sconto sul listino di 44,99€ e un risparmio di 20,60€. Tastiera e touchpad convivono in un solo dispositivo, così il PC…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108962/tomshw-offer-909888.png",
+      "publishedAt": "2026-08-23T09:33:42+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Chromebook: le funzioni da non sottovalutare per sfruttarlo al meglio",
+      "link": "https://www.hdblog.it/portatili/articoli/n667990/chromebook-google-come-sfruttarlo-meglio/",
+      "excerpt": "Come utilizzare ChromeOS al pari degli altri sistemi.",
+      "image": "https://hd2.tudocdn.net/1364408?w=660",
+      "publishedAt": "2026-08-23T09:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Segway-Ninebot Max G2E al 41%, un affare per percorrere fino a 70 km",
+      "link": "https://www.tomshw.it/offerte/segway-ninebot-max-g2e-al-41-un-affare-per-percorrere-fino-a-70-km",
+      "excerpt": "Segway-Ninebot Max G2E costa 474€ su Amazon, con il 41% di sconto sul listino di 799€. L’autonomia fino a 70 km è pensata per affrontare più tragitti senza dover cercare…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108961/tomshw-offer-909861.png",
+      "publishedAt": "2026-08-23T09:02:39+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "In Cina arriva lo skateboard volante elettrico a otto rotori",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n668083/cina-skateboard-volante-elettrico-otto-rotori/",
+      "excerpt": "Uno skateboard volante elettrico a otto rotori riporta in vita un’idea nata negli anni Cinquanta.",
+      "image": "https://hd2.tudocdn.net/1364582?w=660",
+      "publishedAt": "2026-08-23T08:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Stick 2 arriva su Apple TV: Rhea Seehorn entra nel cast",
+      "link": "https://www.hdblog.it/apple/articoli/n668085/stick-2-apple-tv-rhea-seehorn/",
+      "excerpt": "Stick torna il 4 novembre con Owen Wilson e Rhea Seehorn nel cast.",
+      "image": "https://hd2.tudocdn.net/1364583?w=660",
+      "publishedAt": "2026-08-23T08:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple CarPlay e Android Auto: cosa cambia tra i due sistemi di infotainment",
+      "link": "https://www.hdblog.it/android/articoli/n667967/apple-carplay-android-auto-differenze/",
+      "excerpt": "Un confronto tra le funzioni delle due piattaforme.",
+      "image": "https://hd2.tudocdn.net/1364337?w=660",
+      "publishedAt": "2026-08-23T08:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "LinkedIn ha trovato un modo per fermare l’invasione dei post AI",
       "link": "https://www.hdblog.it/tecnologia/articoli/n668084/linkedin-ai-slop-post-intelligenza-artificiale/",
@@ -50,24 +131,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "GTA 6, leak e polemiche non smuovono Rockstar: confermato l'evento Netflix",
-      "link": "https://www.hdblog.it/games/articoli/n668076/gta-6-leak-rockstar-evento-netflix-27-agosto-vi/",
-      "excerpt": "Il polverone di questi giorni non cambia i piani.",
-      "image": "https://hd2.tudocdn.net/1358489?w=660",
-      "publishedAt": "2026-08-23T07:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Un algoritmo può toglierti il lavoro? Uber multata per 825 milioni",
-      "link": "https://www.hdblog.it/mercato/articoli/n668080/uber-multa-europa-account-autisti-algoritmo/",
-      "excerpt": "Un algoritmo disattivava gli autisti senza intervento umano: arriva la maxi multa europea",
-      "image": "https://hd2.tudocdn.net/1364580?w=660",
-      "publishedAt": "2026-08-23T07:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Migliori coperte elettriche e scaldasonno (agosto 2026)",
       "link": "https://www.tomshw.it/offerte/migliori-coperte-elettriche-e-scaldasonno",
       "excerpt": "Imetec CaldoPlaid Elegance 180x140 cm è la migliore coperta elettrica per la maggior parte delle persone: offre una superficie ampia, 6 temperature, riscaldamento rapido, timer da…",
@@ -77,87 +140,6 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Android: le opzioni per proteggere i dati dello smartphone in caso di furto",
-      "link": "https://www.hdblog.it/smartphone/articoli/n667899/android-come-proteggere-dati-smartphone-furto/",
-      "excerpt": "Le funzioni sono disponibili a partire da Android 10.",
-      "image": "https://hd2.tudocdn.net/1364224?w=660",
-      "publishedAt": "2026-08-23T07:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Vivo T5 5G è in arrivo con display curvo, profilo sottile e tanta AI",
-      "link": "https://www.hdblog.it/smartphone/articoli/n668075/vivo-t5-5g-display-curvo-ai-teaser-lancio/",
-      "excerpt": "Un primo sguardo a caratteristiche chiave e design.",
-      "image": "https://hd2.tudocdn.net/1364572?w=660",
-      "publishedAt": "2026-08-23T06:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Microsoft porta Copilot nelle chat Teams: può scrivere il codice",
-      "link": "https://www.hdblog.it/microsoft/articoli/n668081/github-copilot-microsoft-teams-codice/",
-      "excerpt": "Copilot usa le conversazioni Teams per sviluppare funzioni, correggere bug e preparare pull request.",
-      "image": "https://hd2.tudocdn.net/1364579?w=660",
-      "publishedAt": "2026-08-23T06:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Compra un Ryzen 5 9600X ma la scatola è vuota... per due volte!",
-      "link": "https://www.tomshw.it/hardware/amazon-cliente-segnala-2-scatole-amd-ryzen-5-9600x-vuote",
-      "excerpt": "Due ordini dello stesso processore, effettuati nell’arco di tre giorni, sarebbero arrivati senza la CPU all’interno. A denunciarlo è PC Plug, negozio di riparazione e assemblaggio…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108957/nYVKau5tqBwsj9B5FJ3qbA-1920-80.jpg",
-      "publishedAt": "2026-08-23T06:12:42+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Strade e habitat lunari: la NASA chiede aiuto agli studenti",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n668082/nasa-tecnologie-polo-sud-luna/",
-      "excerpt": "La NASA cerca nuove tecnologie per rendere possibili missioni durature al Polo Sud lunare.",
-      "image": "https://hd2.tudocdn.net/1364578?w=660",
-      "publishedAt": "2026-08-23T05:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Switch Mercusys 2.5G a 32,99€, il minimo storico per una LAN più veloce",
-      "link": "https://www.tomshw.it/offerte/switch-mercusys-25g-a-3299eur-il-minimo-storico-per-una-lan-piu-veloce",
-      "excerpt": "Lo switch Mercusys 2.5G a cinque porte costa 32,99€ su Amazon, invece di 39,99€, con uno sconto del 18%. È il minimo storico per un aggiornamento capace di eliminare il collo di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108956/tomshw-offer-898499.png",
-      "publishedAt": "2026-08-22T19:33:40+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "GIGABYTE B850 Gaming X WiFi6E a 170,99€, minimo storico per Ryzen 9000",
-      "link": "https://www.tomshw.it/offerte/gigabyte-b850-gaming-x-wifi6e-a-17099eur-minimo-storico-per-ryzen-9000",
-      "excerpt": "La GIGABYTE B850 Gaming X WiFi6E costa 170,99€ su Amazon, anziché 270,22€, con uno sconto del 37% e un risparmio di 99,23€. È una base AM5 attrezzata per assemblare un PC Ryzen…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108955/tomshw-offer-898453.png",
-      "publishedAt": "2026-08-22T18:04:07+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Thrustmaster T248R a 249,99€ con LCD e 3,1 Nm per sentire ogni curva",
-      "link": "https://www.tomshw.it/offerte/thrustmaster-t248r-a-24999eur-con-lcd-e-31-nm-per-sentire-ogni-curva",
-      "excerpt": "Il Thrustmaster T248R costa 249,99€ su Amazon, invece dei 299,99€ di listino, con uno sconto del 17%. Force Feedback ibrido, display LCD e pedaliera magnetica rendono le gare su…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108954/tomshw-offer-898443.png",
-      "publishedAt": "2026-08-22T17:33:49+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "La Fotocamera Pixel cambia sui Pixel 11 con queste due novità",
-      "link": "https://www.hdblog.it/google/comparazioni/n668071/fotocamera-pixel-11-modalita-avvio-rapido-novita/",
-      "excerpt": "Una funzione inedita e un ritocco all'interfaccia.",
-      "image": "https://hd2.tudocdn.net/1363814?w=660",
-      "publishedAt": "2026-08-22T17:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Gruppo Spaggiari, 6 TB di dati di studenti e docenti nelle mani degli hacker. L'azienda minimizza",
       "link": "https://images.dday.it/BPw2uNJ1iPznradHro8hb8ulCKwm4_3Bc14ye3xsFH8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58444/3c448d_Depositphotos_80122056_XL.jpg",
       "excerpt": "Gruppo Spaggiari Parma è forse una delle aziende più note a genitori e studenti: da anni sviluppa e gestisce Classeviva, il registro elettronico più diffuso in Italia. Ora un…",
@@ -165,6 +147,15 @@
       "publishedAt": "2026-08-22T13:44:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
+    },
+    {
+      "title": "Europa occidentale: giugno-luglio 2026, il bimestre più caldo",
+      "link": "https://www.tomshw.it/scienze/europa-occidentale-giugno-luglio-2026-il-bimestre-piu-caldo",
+      "excerpt": "Un divario di quasi 0,9 °C separa giugno-luglio 2026 dal precedente record di caldo nell’Europa occidentale. I dati ERA5 elaborati dal Copernicus Climate Change Service indicano…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108890/europa-occidentale-giugno-luglio-2026-il-bimestre-piu-caldo.png",
+      "publishedAt": "2026-08-21T17:14:05+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Un gruppo di pirati informatici sta pubblicando video di GTA VI per pompare una criptomoneta",
@@ -212,6 +203,15 @@
       "sourceColor": "#E63946"
     },
     {
+      "title": "Simula l'accoltellamento per rubare un PC gaming: indagato",
+      "link": "https://www.tomshw.it/altro/pc-gaming-avrebbe-tentato-il-furto-e-avrebbe-finto-l-accoltellamento",
+      "excerpt": "Un presunto furto di un PC gaming, una grave ferita all’addome e il racconto di un accoltellamento che le prove avrebbero poi smentito. È la sequenza ricostruita dalla polizia di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108837/news-flash-884770.png",
+      "publishedAt": "2026-08-21T09:39:39+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "Bilibili, il \"social ibrido\" cinese per la GenZ è quasi pronto a conquistare il mondo",
       "link": "https://images.dday.it/n5dAfaX5qsvWUZZyOIjaD6IZg1xwfZTA2O1oCG-9NjM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58439/d26601_smal_unnamed_copia.jpg",
       "excerpt": "Bilibili vuole uscire davvero dai confini cinesi. Nuova app internazionale, sito in inglese, e strumenti per creator. Ma non avrà gli stessi “problemi di sicurezza” di TikTok?...…",
@@ -248,29 +248,29 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Atari ST, il Public Floppy Database è ora aperto a tutti sul web",
-      "link": "https://www.tomshw.it/hardware/atari-st-il-public-floppy-database-e-ora-aperto-a-tutti-sul-web",
-      "excerpt": "Dal 21 luglio 2026, chi vuole esplorare il patrimonio software dell’Atari ST può cercare, consultare e scaricare immagini di dischetti attraverso il browser web pubblico…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108786/doubledragon_atarist.jpg",
-      "publishedAt": "2026-08-21T07:13:52+00:00",
+      "title": "Un ricercatore apre Apple Dov'è a Linux con un trucco",
+      "link": "https://www.tomshw.it/hardware/un-ricercatore-apre-apple-find-my-a-linux-con-un-trucco",
+      "excerpt": "Il ricercatore di sicurezza ventiduenne noto come Zerotistic è riuscito di recente a registrare un computer Linux nella rete Apple Dov'è e a ricevere le posizioni in tempo reale…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108741/un-ricercatore-apre-apple-find-my-a-linux-con-un-trucco.png",
+      "publishedAt": "2026-08-20T21:30:25+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Resonance: A Plague Tale Legacy su Game Pass dal 27 agosto",
-      "link": "https://www.tomshw.it/videogioco/resonance-a-plague-tale-legacy-su-xbox-game-pass-dal-27-agosto",
-      "excerpt": "Un nuovo viaggio nell’universo di A Plague Tale entrerà subito nel catalogo Xbox Game Pass. Resonance: A Plague Tale Legacy sarà disponibile dal 27 agosto 2026, nello stesso…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108110/ar6f07.jpg",
-      "publishedAt": "2026-08-18T13:58:23+00:00",
+      "title": "SanDisk porta gli SSD PCIe 5.0 nei NAS e sfiora i 15 GB/s",
+      "link": "https://www.tomshw.it/hardware/sandisk-porta-gli-ssd-pcie-50-nei-nas-e-sfiora-i-15-gbs",
+      "excerpt": "SanDisk ha presentato due nuove famiglie di SSD progettate specificamente per lo storage di rete. Il nuovo NAS 800 porta le prestazioni NVMe di ultima generazione nei sistemi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108740/sandisk-porta-gli-ssd-pcie-5-0-nei-nas-e-sfiora-i-15-gb-s.png",
+      "publishedAt": "2026-08-20T21:24:09+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Boom dei miliardari AI: superyacht e Ferrari su misura",
-      "link": "https://www.tomshw.it/altro/ricchi-dell-ai-boom-di-jet-privati-superyacht-e-ferrari-su-misura",
-      "excerpt": "Le fortune generate dall’intelligenza artificiale stanno alimentando una nuova domanda internazionale di jet privati, superyacht e supercar personalizzate. La platea comprende…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107907/17515721426866deae79b5b_1751572142_3x2_rt.jpg",
-      "publishedAt": "2026-08-17T15:32:15+00:00",
+      "title": "Clive Barker’s Hellraiser: Revival su Switch 2 l'8 ottobre",
+      "link": "https://www.tomshw.it/videogioco/clive-barker-s-hellraiser-revival-arriva-su-nintendo-switch-2-l-8",
+      "excerpt": "Clive Barker’s Hellraiser: Revival arriverà anche su Nintendo Switch 2 l’8 ottobre 2026, senza ritardi rispetto alle altre edizioni. Saber Interactive e Boss Team Games hanno…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108339/ar42el.jpg",
+      "publishedAt": "2026-08-19T12:37:14+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
