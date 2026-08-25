@@ -1,17 +1,125 @@
 {
-  "generatedAt": "2026-08-25T04:31:15.097318+00:00",
+  "generatedAt": "2026-08-25T06:32:48.711240+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Migliori monitor per PC (agosto 2026)",
-      "link": "https://www.tomshw.it/guide/migliori-monitor-pc",
-      "excerpt": "Scegliere un nuovo monitor per il vostro computer può sembrare semplice finché non iniziate a confrontare risoluzione, diagonale, refresh rate, pannello, porte e funzioni…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/89685/migliori-monitor-pc-copertina.jpg",
-      "publishedAt": "2026-08-25T00:16:27+00:00",
+      "title": "Il nucleare entra in fabbrica: reattori pronti in meno di due anni",
+      "link": "https://www.hdblog.it/green/articoli/n668163/reattore-nucleare-compatto-apollo-atomics/",
+      "excerpt": "Un reattore compatto punta a ridurre spazio, tempi e complessità del nucleare",
+      "image": "https://hd2.tudocdn.net/1364709?w=660",
+      "publishedAt": "2026-08-25T06:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "XPeng raccoglie 771 milioni: IRON verso la produzione",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n668249/xpeng-iron-robot-umanoide-finanziamento/",
+      "excerpt": "XPeng raccoglie 771 milioni di euro per portare il robot IRON alla produzione di massa.",
+      "image": "https://hd2.tudocdn.net/1319218?w=660",
+      "publishedAt": "2026-08-25T06:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Artemis II ha superato un limite, ora il suo equipaggio sarà premiato",
+      "link": "https://www.tomshw.it/scienze/artemis-ii-ha-superato-un-limite-ora-il-suo-equipaggio-sara-premiato",
+      "excerpt": "La NASA ha annunciato che il presidente statunitense Donald Trump consegnerà una delle più alte onorificenze legate al volo spaziale umano negli Stati Uniti ai quattro astronauti…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109333/artemis-ii-ha-superato-un-limite-ora-il-suo-equipaggio-sara-premiato.png",
+      "publishedAt": "2026-08-25T06:14:41+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La biostampa fa un salto avanti: creati capillari sotto i 10 micrometri",
+      "link": "https://www.tomshw.it/scienze/i-ricercatori-stampano-capillari-3d-organi-su-misura-piu-vicini",
+      "excerpt": "I ricercatori della University of Notre Dame hanno sviluppato un metodo per realizzare reti capillari stampate in 3D con canali grandi meno di 10 micrometri. La tecnica affronta…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109330/i-ricercatori-stampano-capillari-3d-organi-su-misura-piu-vicini.png",
+      "publishedAt": "2026-08-25T06:13:58+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Materia oscura, un nastro di stelle apre una nuova pista",
+      "link": "https://www.tomshw.it/scienze/materia-oscura-un-nastro-di-stelle-apre-una-nuova-pista",
+      "excerpt": "Un gruppo internazionale di astronomi ha identificato il primo flusso stellare prodotto da un ammasso globulare mai osservato fuori dalla Via Lattea. Il sottile nastro di stelle…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109327/materia-oscura-un-nastro-di-stelle-apre-una-nuova-pista.png",
+      "publishedAt": "2026-08-25T06:07:34+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Un integratore di lievito potrebbe allenare le difese antitumorali",
+      "link": "https://www.tomshw.it/scienze/un-integratore-di-lievito-potrebbe-allenare-le-difese-antitumorali",
+      "excerpt": "Ricercatori del Trinity College Dublin e dell'University College Dublin hanno scoperto che un integratore alimentare a base di lievito può rafforzare nei topi obesi alcune difese…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109323/un-integratore-di-lievito-potrebbe-allenare-le-difese-antitumorali.png",
+      "publishedAt": "2026-08-25T06:06:46+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Hugging Face verso la vendita: sul tavolo oltre 11 miliardi",
+      "link": "https://www.hdblog.it/mercato/articoli/n668250/hugging-face-acquisizione-13-miliardi/",
+      "excerpt": "Hugging Face avrebbe ricevuto offerte che valutano la società oltre 11 miliardi di euro.",
+      "image": "https://hd2.tudocdn.net/1364883?w=660",
+      "publishedAt": "2026-08-25T06:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "UGREEN per Mac mini M4 a 71,24€, 10 porte e SSD fino a 8TB: ne vale la spesa",
+      "link": "https://www.tomshw.it/offerte/ugreen-per-mac-mini-m4-a-7124eur-10-porte-e-ssd-fino-a-8tb-ne-vale-la-spesa",
+      "excerpt": "La docking station UGREEN per Mac mini M4 costa 71,24€ su Amazon, anziché 94,99€, con uno sconto del 25%. Con dieci porte, alloggiamento NVMe e DisplayPort, concentra sulla base…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109325/tomshw-offer-930114.png",
+      "publishedAt": "2026-08-25T06:04:30+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Once Human: orario di uscita in Italia e dove scaricarlo",
+      "link": "https://www.tomshw.it/videogioco/a-che-ora-esce-once-human-in-italia-orario-di-sblocco-e-dove-scaricarlo",
+      "excerpt": "Once Human esce oggi, 25 agosto 2026, alle 19:00 CEST, su PS5 e Xbox Series X|S. Il download è gratis dal PlayStation Store e dal Microsoft Store italiani: basta cercare il gioco…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109319/game-page-featured_once-human-inits_jpg_1600x900_crop_q85.jpg",
+      "publishedAt": "2026-08-25T05:55:12+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Curiosity torna a scalare Marte e cerca le ultime tempeste",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n668173/curiosity-monte-sharp-marte/",
+      "excerpt": "Curiosity riprende la salita del Monte Sharp studiando rocce, atmosfera e tempeste di polvere.",
+      "image": "https://hd2.tudocdn.net/1364717?w=660",
+      "publishedAt": "2026-08-25T05:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "A che ora esce Aliens: Fireteam Elite 2 oggi in Italia",
+      "link": "https://www.tomshw.it/videogioco/a-che-ora-esce-aliens-fireteam-elite-2-oggi-in-italia-orario-e-dove-scaricarlo",
+      "excerpt": "Aliens: Fireteam Elite 2 esce in Italia oggi, 25 agosto 2026, alle 17:00 su PlayStation Store per PS5, Microsoft Store per Xbox Series X|S, Steam ed Epic Games Store su PC.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/106206/Aliens-Fireteam-Elite-2-screenshot-02.jpg",
+      "publishedAt": "2026-08-25T05:54:05+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Atari sta preparando qualcosa di grosso (o grande?) | teaser ufficiali",
+      "link": "https://www.hdblog.it/games/articoli/n668238/atari-teaser-progetto-grosso/",
+      "excerpt": "Di che cosa si tratterà mai? Le parole usate dalla società sono incredibilmente ambigue.",
+      "image": "https://hd2.tudocdn.net/1183255?w=660",
+      "publishedAt": "2026-08-25T05:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Può un dissipatore a liquido di 22 anni fa domare la CPU gaming più potente di oggi?",
+      "link": "https://www.hdblog.it/hardware/articoli/n668236/dissipatore-aio-22-anni-vs-amd-ryzen-9800x3d/",
+      "excerpt": "Ti aspetteresti di peggio, e invece , se si tratta solo di giocare e non di stress test, se la cava più che egregiamente, come dimostra uno degli ultimi video di DerBauer.",
+      "image": "https://hd2.tudocdn.net/1364858?w=660",
+      "publishedAt": "2026-08-25T05:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
     },
     {
       "title": "250€ in meno sul Galaxy Tab S11 Ultra, 14,6″ e DeX che valgono la spesa",
@@ -59,92 +167,11 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "ASUS TUF Gaming B550-Plus WiFi II a 119,99€, l’upgrade AM4 con Wi-Fi 6",
-      "link": "https://www.tomshw.it/offerte/asus-tuf-gaming-b550-plus-wifi-ii-a-11999eur-lupgrade-am4-con-wi-fi-6",
-      "excerpt": "ASUS TUF Gaming B550-Plus WiFi II costa 119,99€ su Amazon, anziché 139,19€, con uno sconto del 14%. Wi-Fi 6, rete 2.5Gbps e PCIe 4.0 permettono di aggiornare una configurazione…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109310/tomshw-offer-929986.png",
-      "publishedAt": "2026-08-24T18:03:58+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Il ritorno del cambio manuale, perché le supercar riscoprono il terzo pedale",
       "link": "https://www.hdmotori.it/ritorno-cambio-manuale-supercar/",
       "excerpt": "",
       "image": "https://hd2.tudocdn.net/1364856?w=660",
       "publishedAt": "2026-08-24T18:00:25+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone 20 sarà tutto in vetro e con display avvolgente? Merito anche di iPhone Air",
-      "link": "https://www.hdblog.it/smartphone/articoli/n668220/iphone-20-pro-design-vetro-display-curvo-2027/",
-      "excerpt": "Apple prepara una rivoluzione del design.",
-      "image": "https://hd2.tudocdn.net/1360663?w=660",
-      "publishedAt": "2026-08-24T17:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Corsair HS65 Surround da 89,99€ a 59,99€, un affare per giocare in 7.1",
-      "link": "https://www.tomshw.it/offerte/corsair-hs65-surround-da-8999eur-a-5999eur-un-affare-per-giocare-in-71",
-      "excerpt": "Le Corsair HS65 Surround costano 59,99€ su Amazon, anziché 89,99€ di listino, con uno sconto del 33%. L’audio 7.1 e il funzionamento cablato le rendono interessanti per chi vuole…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109309/tomshw-offer-929977.png",
-      "publishedAt": "2026-08-24T17:33:50+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Toyota sviluppa il cambio automatico che memorizza le richieste del guidatore",
-      "link": "https://www.hdmotori.it/toyota-cambio-automatico-memorizza-richieste/",
-      "excerpt": "L’ultima novità della Casa dei tre ellissi è un cambio con palette al volante che dovrebbe far dimenticare i manuali grazie a una innovazione che consente di memorizzare le...",
-      "image": "https://hd2.tudocdn.net/1364853?w=660",
-      "publishedAt": "2026-08-24T17:30:59+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "SGT STOUT: il blindato anti-drone ora cambia bersaglio con facilità",
-      "link": "https://www.hdblog.it/droni/articoli/n668099/sgt-stout-software-anti-drone/",
-      "excerpt": "Un aggiornamento software permette allo SGT STOUT di contrastare droni fino a 25 kg.",
-      "image": "https://hd2.tudocdn.net/1364601?w=660",
-      "publishedAt": "2026-08-24T17:30:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "The Witcher 4 arriva nel 2028: la promessa / conferma di CDPR",
-      "link": "https://www.hdblog.it/games/articoli/n668230/the-witcher-4-quando-esce-finestra-lancio/",
-      "excerpt": "Niente anteprime alla Gamescom... ci dovremo consolare con Songs of the Past!",
-      "image": "https://hd2.tudocdn.net/1264131?w=660",
-      "publishedAt": "2026-08-24T17:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Turbina a idrogeno da 65 kW verso i test indipendenti",
-      "link": "https://www.hdblog.it/green/articoli/n668095/turbina-idrogeno-65-kw-test-vivify/",
-      "excerpt": "Una turbina a idrogeno da 65 kW sarà testata prima del salto a 1 MW",
-      "image": "https://hd2.tudocdn.net/1364597?w=660",
-      "publishedAt": "2026-08-24T17:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Ring Stick Up Cam al 50%, controlli due zone dal telefono a soli 79,99€",
-      "link": "https://www.tomshw.it/offerte/ring-stick-up-cam-al-50-controlli-due-zone-dal-telefono-a-soli-7999eur",
-      "excerpt": "Ring Stick Up Cam Battery, proposta nel kit da due a 79,99€ su Amazon, scende dal prezzo di listino di 160,97€ con uno sconto del 50% e raggiunge il minimo storico. Le due unità a…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109300/tomshw-offer-929936.png",
-      "publishedAt": "2026-08-24T17:03:59+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Fusione nucleare, arrivano gli stellarator con magneti piatti",
-      "link": "https://www.hdblog.it/green/articoli/n668094/fusione-nucleare-stellarator-magneti-piatti/",
-      "excerpt": "Magneti piatti e software potrebbero rendere gli stellarator più facili da costruire",
-      "image": "https://hd2.tudocdn.net/1311125?w=660",
-      "publishedAt": "2026-08-24T16:55:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -174,15 +201,6 @@
       "publishedAt": "2026-08-24T12:47:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Tengono viva la pelle umana per un mese, così l'AI trova le molecole giuste",
-      "link": "https://www.tomshw.it/business/tengono-viva-la-pelle-umana-per-un-mese-cosi-lai-trova-le-molecole-giuste",
-      "excerpt": "Outer Biosciences tiene in vita frammenti di pelle umana donata per circa trenta giorni, ci mette alla prova dei composti chimici e usa quello che succede per addestrare un…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109193/10-cover.jpg",
-      "publishedAt": "2026-08-24T11:15:03+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Nintendo ha fatto chiudere 401 emulatori di Switch in un solo giorno",
@@ -230,15 +248,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Chang’e-7: la Cina rinvia il lancio, salta la finestra 2026",
-      "link": "https://www.tomshw.it/scienze/chang-e-7-la-cina-rinvia-il-lancio-salta-la-finestra-2026",
-      "excerpt": "Il complesso formato dalla sonda Chang’e-7 e dal razzo Long March 5 Y14 era già sulla rampa di Wenchang quando le autorità spaziali cinesi hanno fermato il lancio. Dopo il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109066/news-flash-928614.png",
-      "publishedAt": "2026-08-24T08:19:19+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Le Olimpiadi dei robot fanno già la storia, Tiangong Ultra corre i 400 metri in 38,16 secondi: battuto il record umano",
       "link": "https://images.dday.it/CtPc-3G4zubMdG-0AMzc3vBJXI_biV7echQil1OSngQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58446/a9927a_tiangong__1_.jpeg",
       "excerpt": "Il robot ha completato il giro di pista quasi cinque secondi più velocemente del primato mondiale di Wayde van Niekerk. Ai World Humanoid Robot Games di Pechino sono arrivati…",
@@ -248,6 +257,15 @@
       "sourceColor": "#E63946"
     },
     {
+      "title": "Contrabbando di chip NVIDIA in Cina: nove incriminati",
+      "link": "https://www.tomshw.it/altro/nvidia-b300-74-server-ai-verso-la-cina-9-incriminati",
+      "excerpt": "Settantquattro server AI Supermicro con GPU NVIDIA B300 sarebbero stati trasferiti a clienti cinesi dopo essere stati acquistati per un data center di Taiwan. La Procura…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109057/news-flash-928510.png",
+      "publishedAt": "2026-08-24T08:16:08+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "Torino-Milan finisce gratis su YouTube in Italia: probabile errore di geoblocking dell’africana Sporty TV",
       "link": "https://images.dday.it/0Nrj_tL2yBrIa5oJNwmaqJOTgWpUlFbtGhsVCzpowgs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58445/7ba9c7_HQcGXBSWMAA5Bg7.jpg",
       "excerpt": "La prima giornata di Serie A ha avuto una finestra gratuita inattesa: Sporty TV ha reso visibile Torino-Milan su YouTube anche dall’Italia, fuori dai territori coperti dalla…",
@@ -255,24 +273,6 @@
       "publishedAt": "2026-08-24T07:42:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Ruba 423 laptop e brucia tutto in Borsa: l'ex Deloitte nei guai",
-      "link": "https://www.tomshw.it/altro/ex-manager-deloitte-ruba-423-laptop-perde-tutto-in-borsa",
-      "excerpt": "Per quasi un anno e mezzo, centinaia di laptop sono usciti dal magazzino di Deloitte Hong Kong per essere rivenduti e finanziare operazioni speculative. L’ex responsabile IT Ho…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108946/NN250304EC101_3_.jpg",
-      "publishedAt": "2026-08-24T07:00:32+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Laptop prende fuoco in volo: paura su American Airlines",
-      "link": "https://www.tomshw.it/altro/laptop-in-fiamme-sul-volo-american-airlines-1-persona-medicata",
-      "excerpt": "Un laptop ha iniziato a fumare e ha preso fuoco nella cabina del volo American Airlines 2398, quando mancava circa mezz’ora all’arrivo a Dallas. L’incidente si è verificato…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108993/gettyimages-2272819697.jpg",
-      "publishedAt": "2026-08-24T06:08:03+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     }
   ]
 }
