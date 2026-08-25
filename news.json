@@ -1,17 +1,188 @@
 {
-  "generatedAt": "2026-08-25T08:32:30.957114+00:00",
+  "generatedAt": "2026-08-25T10:23:31.118898+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Windows, ecco la \"modalità segreta\" che riduce lo spazio occupato su disco",
-      "link": "https://www.hdblog.it/microsoft/articoli/n668275/windows-10-11-compact-os-risparmiare-spazio-ssd/",
-      "excerpt": "Si chiama Compact OS, e si attiva con un semplice comando dal prompt. Da 15 GB si può scendere a poco più di 11. Ma ci sono anche dei contro da tenere presente.",
-      "image": "https://hd2.tudocdn.net/1356360?w=660",
-      "publishedAt": "2026-08-25T08:25:00+00:00",
+      "title": "Artemis II, una medaglia celebra il ritorno dell’uomo oltre la Luna",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n668171/artemis-ii-medaglia-astronauti-nasa/",
+      "excerpt": "L’equipaggio di Artemis II riceverà la Congressional Space Medal of Honor.",
+      "image": "https://hd2.tudocdn.net/1364715?w=660",
+      "publishedAt": "2026-08-25T10:20:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Windows 11 può rimuovere autonomamente i driver della vostra GPU",
+      "link": "https://www.hdblog.it/microsoft/articoli/n668274/windows-11-rimozione-automatica-driver-gpu/",
+      "excerpt": "Il problema è stato individuato su PC Asus, ma potrebbero non essere gli unici ad essere coinvolti",
+      "image": "https://hd2.tudocdn.net/1348132?w=660",
+      "publishedAt": "2026-08-25T10:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Honor Play 20A ufficiale: la vera novità è il display secondario",
+      "link": "https://www.hdblog.it/smartphone/articoli/n668283/honor-play-20a-display-secondario-caratteristiche/",
+      "excerpt": "La batteria è da 6.000mAh.",
+      "image": "https://hd2.tudocdn.net/1364951?w=660",
+      "publishedAt": "2026-08-25T10:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Philips Hue Sync Box Lite in arrivo: una sola HDMI, prezzo super conveniente",
+      "link": "https://www.hdblog.it/philips/articoli/n668295/philips-hue-sync-box-lite-specifiche-prezzo-leak/",
+      "excerpt": "Peccato che la singola porta sia limitata alle specifiche 2.0, quindi 4K a 60 FPS o FHD 1080p a 120 FPS.",
+      "image": "https://hd2.tudocdn.net/1364959?w=660",
+      "publishedAt": "2026-08-25T10:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Pixel: con Android 17 arriva la funzione anti-mal d'auto",
+      "link": "https://www.tomshw.it/smartphone/pixel-motion-assist-contro-il-mal-d-auto-arriva-con-android-17",
+      "excerpt": "Gli indicatori animati contro la cinetosi possono ora comparire anche sopra notifiche, schermata di blocco e altri elementi protetti dell’interfaccia di sistema. È il cambiamento…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/100886/android-auto-apps-for-long-drives-3.jpg",
+      "publishedAt": "2026-08-25T10:03:56+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "LG Smart Monitor 27″ a 129,99€, lavoro e streaming senza PC al minimo storico",
+      "link": "https://www.tomshw.it/offerte/lg-smart-monitor-27-a-12999eur-lavoro-e-streaming-senza-pc-al-minimo-storico",
+      "excerpt": "LG Smart Monitor 27U511SA da 27 pollici costa 129,99€ su Amazon, invece dei 199,99€ di listino, con uno sconto del 35%. WebOS, connettività wireless e altoparlanti integrati…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109461/tomshw-offer-931042.png",
+      "publishedAt": "2026-08-25T10:03:55+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Dalla plastica ai biscotti: la NASA studia come trasformare i rifiuti in cibo",
+      "link": "https://www.hdblog.it/curiosita/articoli/n668293/biscotti-prodotti-a-partire-dalla-plastica/",
+      "excerpt": "Un progetto guidato dalla NASA punta a trasformare il carbonio contenuto nel PET e negli scarti agricoli in ingredienti alimentari grazie a lieviti modificati, producendo piccoli…",
+      "image": "https://hd2.tudocdn.net/1364957?w=660",
+      "publishedAt": "2026-08-25T09:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Dev scrive un exploit per Amazon Fire HD con soli 266 dollari",
+      "link": "https://www.tomshw.it/hardware/amazon-fire-hd-10-2021-exploit-root-creato-con-4-ai-per",
+      "excerpt": "Un Amazon Fire HD 10 del 2021 è stato sbloccato con una catena di exploit sviluppata e corretta attraverso quattro modelli di intelligenza artificiale. Eric Pardee riferisce di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109453/news-flash-930932.png",
+      "publishedAt": "2026-08-25T09:52:11+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Excel cambia i connettori per Exchange: alcuni file potrebbero non funzionare dal 2027. Per tante aziende è un grattacapo",
+      "link": "https://images.dday.it/YIcBcoFa_UoVgc7DHWP-2oooX9iUtnj5s23mzrxSg0Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58463/9aee56_Depositphotos_226141392_XL.jpg",
+      "excerpt": "Microsoft ritirerà l’attuale Exchange Connector e lo sostituirà con nuove soluzioni. I file esistenti non verranno aggiornati automaticamente e gli utenti dovranno intervenire…",
+      "image": "https://images.dday.it/YIcBcoFa_UoVgc7DHWP-2oooX9iUtnj5s23mzrxSg0Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58463/9aee56_Depositphotos_226141392_XL.jpg",
+      "publishedAt": "2026-08-25T09:48:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Musk conferma: con l’arrivo di Starship, il Falcon 9 andrà in pensione. Ma per molti non è una buona notizia",
+      "link": "https://images.dday.it/Tqx0X8WWtXKNegeFrAGn6_VKG48j_wRKdT2RDNDcde0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58461/e3a860_HQUHOvza0AAoPmK.jpeg",
+      "excerpt": "Il Falcon 9 è il razzo che più di ogni altro ha sostenuto la nuova economia dello spazio, ma SpaceX vuole ritirarlo per lasciare spazio a Starship, il che potrebbe portare…",
+      "image": "https://images.dday.it/Tqx0X8WWtXKNegeFrAGn6_VKG48j_wRKdT2RDNDcde0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58461/e3a860_HQUHOvza0AAoPmK.jpeg",
+      "publishedAt": "2026-08-25T09:47:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Xiaomi lancia la Mijia Vertical Study Lamp 2C: tanta luce e un prezzo più basso",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n668288/xiaomi-lampada-studio-doppia-luce-prezzo/",
+      "excerpt": "Xiaomi punta sull’illuminazione da studio con una lampada da terra da 11.000 lumen, resa cromatica Ra98, temperatura colore di 4.000 K e un sistema progettato per limitare…",
+      "image": "https://hd2.tudocdn.net/1364940?w=660",
+      "publishedAt": "2026-08-25T09:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "UGREEN Nexode 65W a 31,99€, tre spine per caricare tutto in viaggio",
+      "link": "https://www.tomshw.it/offerte/ugreen-nexode-65w-a-3199eur-tre-spine-per-caricare-tutto-in-viaggio",
+      "excerpt": "UGREEN Nexode 65W costa 31,99€ su Amazon, anziché 46,95€, con uno sconto del 32%. Il formato GaN, le tre porte e gli adattatori EU, UK e USA consentono di portare un solo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109440/tomshw-offer-930865.png",
+      "publishedAt": "2026-08-25T09:34:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "HOVERAir VERSA è un gimbal che può volare: una sola fotocamera per riprese a terra e in aria",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n667723/hoverair-versa-e-un-gimbal-che-puo-volare-una-sola-fotocamera-per-riprese-a-terra-e-in-aria/",
+      "excerpt": "HOVERAir VERSA combina un gimbal a 3 assi con una fotocamera volante autonoma. Le ali removibili permettono di passare dalle riprese a mano al volo.",
+      "image": "https://hd2.tudocdn.net/1363840?w=660",
+      "publishedAt": "2026-08-25T09:30:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nuovo Mac mini dopo 2 anni: Apple accelera per agosto",
+      "link": "https://www.tomshw.it/hardware/apple-mac-mini-nuovo-modello-dopo-2-anni-gia-entro-agosto",
+      "excerpt": "Il primo nuovo Mac mini in quasi due anni potrebbe arrivare entro la fine di agosto, prima dell’evento di settembre dedicato ai nuovi iPhone. Le fonti vicine ai piani di Apple…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109438/news-flash-930823.png",
+      "publishedAt": "2026-08-25T09:27:56+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "ChatGPT Plus: torna il limite di 5 ore su Codex e ChatGPT Work",
+      "link": "https://www.tomshw.it/hardware/chatgpt-plus-torna-il-limite-di-5-ore-su-codex-e-chatgpt",
+      "excerpt": "Dal 25 agosto 2026 gli account ChatGPT Plus tornano ad avere una finestra di utilizzo di cinque ore per Codex e ChatGPT Work. La modifica è ufficiale e riguarda esclusivamente il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107583/openai-chatgpt-jpg.webp",
+      "publishedAt": "2026-08-25T09:26:58+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Gemini sempre più integrato in Android: arriva anche nel menu contestuale",
+      "link": "https://www.hdblog.it/google/articoli/n668286/google-gemini-ai-menu-contestuale-android/",
+      "excerpt": "Compare tra le opzioni quando si seleziona una porzione di testo.",
+      "image": "https://hd2.tudocdn.net/1362387?w=660",
+      "publishedAt": "2026-08-25T09:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Tom Selleck entra nella nuova commedia Apple TV con Elizabeth Banks",
+      "link": "https://www.hdblog.it/apple/articoli/n668279/tom-selleck-apple-tv-nuova-commedia/",
+      "excerpt": "Tom Selleck sarà guest star nella nuova commedia Apple TV con Elizabeth Banks e Ted Danson",
+      "image": "https://hd2.tudocdn.net/1364928?w=660",
+      "publishedAt": "2026-08-25T09:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "I migliori titoli indie in sconto su Instant Gaming",
+      "link": "https://www.tomshw.it/videogioco/i-migliori-titoli-indie-in-sconto-su-instant-gaming",
+      "excerpt": "Aggiornamento 25/08: tra le offerte più rilevanti dei giochi indie di questa settimana troviamo IRON NEST, A Way Out e altri. Se siete appassionati di videogiochi, probabilmente…",
+      "image": "https://cdn.tomshw.it/storage/media/2025/12/78383/I-migliori-titoli-indie-in-sconto-su-Instant-Gaming.jpg",
+      "publishedAt": "2026-08-25T09:14:38+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Riparare il MacBook costa 700 dollari, così usa un altro Mac come schermo",
+      "link": "https://www.hdblog.it/portatili/articoli/n668278/macbook-pro-m4-pro-display-rotto-soluzione/",
+      "excerpt": "Invece di riparare lo schermo del MacBook Pro M4 Pro, un utente ha collegato un vecchio MacBook M1 tramite Thunderbolt e Moonlight, trasformandolo in un insolito monitor a bassa…",
+      "image": "https://hd2.tudocdn.net/1258932?w=660",
+      "publishedAt": "2026-08-25T09:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Well Dweller, horror atteso: dal 22 settembre su Game Pass",
+      "link": "https://www.tomshw.it/videogioco/well-dweller-uscita-il-22-settembre-su-game-pass-al-day-one",
+      "excerpt": "Un piccolo uccello armato di un fiammifero dovrà attraversare un regno fiabesco oscuro per salvare la propria famiglia. È il punto di partenza di Well Dweller, metroidvania 2D che…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109398/ar3z8j.jpg",
+      "publishedAt": "2026-08-25T09:04:22+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Torna il limite della finestra di 5 ore per ChatGPT Work e Codex sul piano Plus",
@@ -23,15 +194,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "1666: Amsterdam, consigli per iniziare e guida principianti",
-      "link": "https://www.tomshw.it/videogioco/1666-amsterdam-guida-alle-prime-ore",
-      "excerpt": "1666: Amsterdam è disponibile da oggi, 25 agosto 2026, su PC tramite Steam ed Epic Games Store. L’avventura in terza persona di Panache Digital Games è single player e debutta in…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/106876/1666-amsterdam-header.jpg",
-      "publishedAt": "2026-08-25T08:20:06+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Un laser da tavolo contro le zanzare: ma attenzione a persone, animali e superfici riflettenti",
       "link": "https://images.dday.it/JNKUrcPNwP3_EbFO_22niDpxG9Fdi5vrhpjxyIl0eoo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58459/bd4619_Photon_Matrix_Blue_Laser_mosquito_air_defense_for_outdoor_party_and_backyard_use.jpg",
       "excerpt": "Photon Matrix vende un dispositivo da tavolo che individua le zanzare con LiDAR, radar e visione artificiale e le colpisce con un laser. Ai sensori il compito di evitare persone e…",
@@ -39,141 +201,6 @@
       "publishedAt": "2026-08-25T08:20:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Revolut Research, la nuova divisione che svilupperà l'AI per i servizi finanziari",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n668267/revolut-research-nuova-divisione-ai/",
-      "excerpt": "Lavorerà allo sviluppo dei modelli utilizzati nei servizi finanziari della piattaforma",
-      "image": "https://hd2.tudocdn.net/1364911?w=660",
-      "publishedAt": "2026-08-25T08:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Windows 11 permetterà di controllare quanta memoria unificata assegnare ai programmi",
-      "link": "https://www.hdblog.it/microsoft/articoli/n668270/windows-11-controllo-memoria-unificata/",
-      "excerpt": "Una funzione che sarà molto apprezzata soprattutto in scenari d'uso \"sbilanciati\", con carichi di lavoro molto pesanti e tutto il resto di poca importanza (AI in locale,…",
-      "image": "https://hd2.tudocdn.net/1295272?w=660",
-      "publishedAt": "2026-08-25T08:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il nuovo Apple Home Hub potrebbe sapere chi sei senza chiedertelo",
-      "link": "https://www.hdblog.it/apple/articoli/n668262/apple-home-hub-riconoscimento-utenti/",
-      "excerpt": "Home Hub potrebbe riconoscere gli utenti e mostrare automaticamente contenuti personali.",
-      "image": "https://hd2.tudocdn.net/1364908?w=660",
-      "publishedAt": "2026-08-25T08:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Google Pixel 11 Pro XL è resistente e molto facile da riparare",
-      "link": "https://www.hdblog.it/smartphone/articoli/n668264/google-pixel-11-pro-xl-teardown-test-resistenza/",
-      "excerpt": "Decisamente meglio del \"cugino\" pieghevole.",
-      "image": "https://hd2.tudocdn.net/1364909?w=660",
-      "publishedAt": "2026-08-25T08:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "MSI Vigor GK30 Combo sotto i 50€, tastiera e mouse per giocare spendendo meno",
-      "link": "https://www.tomshw.it/offerte/msi-vigor-gk30-combo-sotto-i-50eur-tastiera-e-mouse-per-giocare-spendendo-meno",
-      "excerpt": "MSI Vigor GK30 Combo è sotto i 50€ su Amazon: costa 49,99€ anziché 79,90€, con uno sconto del 37% e 29,91€ di risparmio. Tastiera e mouse arrivano insieme, offrendo tutto il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109378/tomshw-offer-930575.png",
-      "publishedAt": "2026-08-25T08:04:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Alfa Romeo da 30 milioni scomparsa: il caso arriva al Ministero",
-      "link": "https://www.hdmotori.it/alfa-romeo-30-milioni-scomparsa-ministero/",
-      "excerpt": "La Procura di Milano sta indagando sull’Alfa Romeo 33 Stradale scomparsa nel nulla. I legali degli eredi del proprietario hanno fatto un appello al Ministero della Cultura.",
-      "image": "https://hd2.tudocdn.net/1364921?w=660",
-      "publishedAt": "2026-08-25T08:00:41+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Quaderni, astucci e lavapavimenti: le (insolite) promozioni Back to School firmate Dyson",
-      "link": "https://www.tomshw.it/altro/quaderni-astucci-e-lavapavimenti-le-insolite-promozioni-back-to-school-firmate-dyson",
-      "excerpt": "Settembre è alle porte e, come da tradizione, il panorama tecnologico e commerciale si riempie di offerte dedicate al Back to School. Solitamente la mente corre subito a laptop…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109374/Quaderni,-astucci-e-lavapavimenti-le-(insolite)-promozioni-Back-to-School-firmate-Dyson.png",
-      "publishedAt": "2026-08-25T07:56:36+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Netflix vuole diventare l'hub dello streaming: in arrivo Peacock e Fox One?",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n668248/netflix-peacock-fox-one-hub-streaming-app/",
-      "excerpt": "Lo riferisce il New York Times.",
-      "image": "https://hd2.tudocdn.net/1364882?w=660",
-      "publishedAt": "2026-08-25T07:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Dopo 140 anni il trasformatore cambia: il merito è dell'IA",
-      "link": "https://www.tomshw.it/hardware/i-data-center-ai-spingono-nuovi-trasformatori-dopo-140-anni",
-      "excerpt": "Le aziende impegnate nella costruzione dei più grandi data center AI stanno accelerando lo sviluppo dei trasformatori allo stato solido, dispositivi pensati per alimentare…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109360/i-data-center-ai-spingono-nuovi-trasformatori-dopo-140-anni.png",
-      "publishedAt": "2026-08-25T07:50:21+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Galaxy S27 Ultra: i micro graffi non saranno un problema grazie al vetro autoriparante",
-      "link": "https://www.hdblog.it/smartphone/articoli/n668256/samsung-galaxy-s27-ultra-vetro-autoriparante/",
-      "excerpt": "In collaborazione con Corning.",
-      "image": "https://hd2.tudocdn.net/1364907?w=660",
-      "publishedAt": "2026-08-25T07:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Parole innocue nascondono malware, è il trucco di WordlistLoader",
-      "link": "https://www.tomshw.it/hardware/parole-innocue-nascondono-malware-e-il-trucco-di-wordlistloader",
-      "excerpt": "I ricercatori di Gen Threat Labs hanno individuato WordlistLoader, un nuovo loader che nasconde codice malevolo dietro liste di comuni parole inglesi. Il programma agisce tra la…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109358/parole-innocue-nascondono-malware-e-il-trucco-di-wordlistloader.png",
-      "publishedAt": "2026-08-25T07:47:22+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Google Store rilancia sui Pixel 11: permuta, Watch 5 scontato e bonus fino a 980€",
-      "link": "https://www.hdblog.it/smartphone/offerte/n668260/google-store-pixel-11-permuta-watch-5-bonus/",
-      "excerpt": "Google Store propone permute fino a 980€ sui Pixel 11 Pro, fino a 780€ su Pixel 11 e sconti fino a 90€ acquistando anche Pixel Watch 5.",
-      "image": "https://hd2.tudocdn.net/1364724?w=660",
-      "publishedAt": "2026-08-25T07:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Apple ci ripensa su Nascondi la mia email: il dominio iCloud.com non verrà cambiato",
-      "link": "https://www.hdblog.it/apple/articoli/n668259/apple-ripensa-nascondi-mia-email-dominio/",
-      "excerpt": "Gli alias continueranno a utilizzare il dominio icloud.com",
-      "image": "https://hd2.tudocdn.net/1364905?w=660",
-      "publishedAt": "2026-08-25T07:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "MetaRoCE: la rete che unisce un milione di GPU AI",
-      "link": "https://www.tomshw.it/hardware/meta-svela-metaroce-per-collegare-un-milione-di-gpu-ai",
-      "excerpt": "Meta ha presentato MetaRoCE, un nuovo protocollo di trasporto progettato da zero per collegare cluster AI su reti Ethernet commerciali, con l'obiettivo dichiarato di arrivare alla…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109354/meta-svela-metaroce-per-collegare-un-milione-di-gpu-ai.png",
-      "publishedAt": "2026-08-25T07:44:17+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Samsung prova Claude Code per progettare chip, ma l'AI fa errori gravi",
-      "link": "https://www.tomshw.it/hardware/samsung-prova-claude-code-per-progettare-chip-ma-lai-fa-errori-gravi",
-      "excerpt": "Samsung System LSI ha esteso di recente l'impiego di Claude Code dallo sviluppo software alla progettazione e alla verifica dei chip. I primi test mostrano accelerazioni…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109353/samsung-prova-claude-code-per-progettare-chip-ma-l-ai-fa-errori-gravi.png",
-      "publishedAt": "2026-08-25T07:40:49+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Nuovi Mac mini dopo due anni di stop: forse il lancio già questa settimana",
@@ -185,29 +212,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Migliori climatizzatori 18000 BTU (agosto 2026)",
-      "link": "https://www.tomshw.it/offerte/migliori-climatizzatori-18000-btu",
-      "excerpt": "Il migliore climatizzatore 18000 BTU della selezione è Hisense Easy Smart CA50XS1GG: combina inverter, pompa di calore, Wi-Fi integrato e sensore i-FEEL, risultando equilibrato…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109367/guide-thw-930439.png",
-      "publishedAt": "2026-08-25T07:22:35+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori autoradio 2 DIN (agosto 2026)",
-      "link": "https://www.tomshw.it/automotive/migliori-autoradio-2-din",
-      "excerpt": "Volete modernizzare l'infotainment della vostra auto senza cambiare veicolo? Una buona autoradio 2 DIN resta uno degli upgrade più sensati per chi desidera navigazione, streaming…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/90255/migliori-autoradio-2din-copertina.jpg",
-      "publishedAt": "2026-08-25T06:09:09+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "UGREEN FineTrack Slim al 33% in meno: il tracker da portafoglio costa 20€",
-      "link": "https://www.tomshw.it/smartphone/ugreen-finetrack-slim-tracker-20-euro-2026-08-25",
-      "excerpt": "L'UGREEN FineTrack Slim è un localizzatore in formato carta progettato per portafogli, zaini e valigie, compatibile esclusivamente con la rete Apple Find My. Lo spessore è di 1,7…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109315/ugreen-finetrack-slim-tracker-20-euro-2026-08-25-AJxNPChetv8rr24pj3p2PRlt91.png",
-      "publishedAt": "2026-08-25T05:11:47+00:00",
+      "title": "Migliori webcam e videocamere per streaming (agosto 2026)",
+      "link": "https://www.tomshw.it/videogioco/migliori-webcam-videocamere-per-streaming",
+      "excerpt": "Le webcam e le videocamere per streaming sono diventate molto più importanti di quanto fossero qualche anno fa: oggi non servono solo a mostrare il volto durante una live, ma…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/90321/migliori-webcam-videocamere-streaming-copertina.jpg",
+      "publishedAt": "2026-08-25T06:18:26+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -239,6 +248,15 @@
       "sourceColor": "#E63946"
     },
     {
+      "title": "Trascrivi la chiamata di vendita e aggiorna il CRM: il metodo con Whisper e n8n",
+      "link": "https://www.tomshw.it/aioperator/trascrivi-la-chiamata-di-vendita-e-aggiorna-il-crm-il-metodo-con-whisper-e-n8n",
+      "excerpt": "Il commerciale chiude la chiamata e passa a quella successiva, senza aggiornare il CRM. L'obiezione sul prezzo appena sollevata dal cliente resta solo nella sua memoria, insieme…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109094/02-ven02-cover.jpg",
+      "publishedAt": "2026-08-24T10:50:49+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
       "title": "Nintendo ha fatto chiudere 401 emulatori di Switch in un solo giorno",
       "link": "https://images.dday.it/CUKccBYWKiBiTDXDr9cOYVHLcFjuqViymR6dix3Hhto/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58453/cf5a5e_Depositphotos_204477670_XL.jpg",
       "excerpt": "Secondo Nintendo questi emulatori aggirano illegalmente il modulo sicurezza hardware che verifica l'autenticità dei giochi... Leggi tutto",
@@ -253,24 +271,6 @@
       "excerpt": "La società ha parlato dell'aumento dei costi delle memorie e dello storage. Echo Dot costa 25 euro in più ... Leggi tutto",
       "image": "https://images.dday.it/Zctk7yelNnzA7cxgYngfMu-ciMGvgdaxzofXqOlJIpE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58451/98e632_Depositphotos_687703536_XL.jpg",
       "publishedAt": "2026-08-24T09:48:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "L’IA ha bisogno di energia e territorio, ma le comunità iniziano a dire no ai data center",
-      "link": "https://images.dday.it/q5RXtTPe3LW5XC6wMW2ALJObHVOwAciYWo0Y4SHvyqQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58449/e7a49d_small_Immagine_Codex_24_ago_2026__11_28_58_copia.png",
-      "excerpt": "La corsa alla costruzione di data center per l’intelligenza artificiale incontra un ostacolo inatteso: negli Stati Uniti cresce il rifiuto delle comunità locali, preoccupate per…",
-      "image": "https://images.dday.it/q5RXtTPe3LW5XC6wMW2ALJObHVOwAciYWo0Y4SHvyqQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58449/e7a49d_small_Immagine_Codex_24_ago_2026__11_28_58_copia.png",
-      "publishedAt": "2026-08-24T09:31:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Ninja CRISPi PRO XL in offerta su Amazon: la friggitrice ad aria in vetro da non perdere",
-      "link": "https://images.dday.it/aypAXNDJndmxQmOoVXSDkUOIsyzl4xyV83v2afCKzs0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58450/02d8de_81T8RRMZ7UL._AC_SL1500_-1.jpg",
-      "excerpt": "Il modello XL con contenitori in vetro è ora disponibile a un prezzo più conveniente su Amazon: un’occasione da valutare per chi cerca una friggitrice capiente e versatile ...…",
-      "image": "https://images.dday.it/aypAXNDJndmxQmOoVXSDkUOIsyzl4xyV83v2afCKzs0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58450/02d8de_81T8RRMZ7UL._AC_SL1500_-1.jpg",
-      "publishedAt": "2026-08-24T09:22:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
