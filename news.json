@@ -1,98 +1,188 @@
 {
-  "generatedAt": "2026-08-26T08:33:41.197438+00:00",
+  "generatedAt": "2026-08-26T10:26:27.983069+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "The Witcher 3 Remastered in arrivo: sarà gratis per chi possiede l'originale",
-      "link": "https://www.hdblog.it/games/articoli/n668382/the-witcher-3-remastered-data-lancio-gratis-novita/",
-      "excerpt": "Lancio fissato per il 29 settembre.",
-      "image": "https://hd2.tudocdn.net/1365161?w=660",
-      "publishedAt": "2026-08-26T08:25:00+00:00",
+      "title": "Samsung corregge uno dei gesti più fastidiosi di One UI 9: novità nella beta 6",
+      "link": "https://www.hdblog.it/smartphone/articoli/n668427/samsung-corregge-gesto-oneui9/",
+      "excerpt": "Con One UI 9 Beta 6 compare una nuova opzione per AI Select",
+      "image": "https://hd2.tudocdn.net/1365263?w=660",
+      "publishedAt": "2026-08-26T10:20:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Gamescom 2026: ecco i giochi che hanno usato l'AI (forse)",
-      "link": "https://www.tomshw.it/videogioco/gamescom-2026-i-giochi-dell-opening-night-live-che-usano-l-ia",
-      "excerpt": "Il trailer live action di HUMANKIND 2, sospettato online di essere stato generato con l’IA per la sua estetica, è stato realizzato con attori e scenografie fisiche. Nello stesso…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109801/840_560.jpg",
-      "publishedAt": "2026-08-26T08:19:01+00:00",
+      "title": "OpenAI sfida Nvidia: Jalapeño accelera l’AI consumando meno",
+      "link": "https://www.hdblog.it/mercato/articoli/n668423/openai-jalapeno-chip-ai-nvidia/",
+      "excerpt": "Jalapeño promette risposte AI più rapide e maggiore efficienza energetica.",
+      "image": "https://hd2.tudocdn.net/1365248?w=660",
+      "publishedAt": "2026-08-26T10:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Revolut lancia EURR, la sua prima stablecoin ancorata all’euro",
+      "link": "https://www.hdblog.it/mercato/articoli/n668431/revolut-stablecoin-euro-eurr-cose/",
+      "excerpt": "Revolut amplia la propria offerta crypto con EURR, una nuova stablecoin ancorata all’euro e integrata direttamente nell’app. Il lancio parte in tre Paesi europei e successivamente…",
+      "image": "https://hd2.tudocdn.net/1365261?w=660",
+      "publishedAt": "2026-08-26T10:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Volvo, lo Spatial Audio di Apple CarPlay debutta su EX90 ed ES90",
+      "link": "https://images.dday.it/guyfSw8KQaaH8I1swjuBB9qWolKB9r9OTu_XhPogPNU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58481/f87fcc_es90_thumb.jpg",
+      "excerpt": "L’aggiornamento introduce il supporto al suono multidimensionale con Dolby Atmos sui modelli dotati di impianto Bowers & Wilkins... Leggi tutto",
+      "image": "https://images.dday.it/guyfSw8KQaaH8I1swjuBB9qWolKB9r9OTu_XhPogPNU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58481/f87fcc_es90_thumb.jpg",
+      "publishedAt": "2026-08-26T10:06:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "ChatGPT Free: arrivano le attività programmate",
+      "link": "https://www.tomshw.it/hardware/chatgpt-free-riceve-le-attivita-programmate-massimo-3-attive",
+      "excerpt": "Tre attività programmate attive e una frequenza massima giornaliera: sono i limiti con cui le automazioni di ChatGPT diventano accessibili anche agli account Free idonei. La…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107583/openai-chatgpt-jpg.webp",
+      "publishedAt": "2026-08-26T10:05:03+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Xring O3, Xiaomi impressiona nei primi benchmark indipendenti",
-      "link": "https://www.hdblog.it/hardware/articoli/n668408/xiaomi-xring-o3-benchmark-indipendenti-test/",
-      "excerpt": "Il chip è in grado di giocarsela addirittura con \"il Re\" Snapdragon 8 Elite Gen 5 (che però è in procinto di essere sostituito). In multi-core lo supera addirittura, e di molto.",
-      "image": "https://hd2.tudocdn.net/1365208?w=660",
-      "publishedAt": "2026-08-26T08:15:00+00:00",
+      "title": "Crimson Desert Enhanced è arrivato, con tanti miglioramenti alla storia",
+      "link": "https://www.hdblog.it/games/articoli/n668429/crimson-desert-enhanced-novita-storia-doppiaggio/",
+      "excerpt": "Pearl Abyss si rivela ancora una volta super reattiva alle richieste e critiche della community.",
+      "image": "https://hd2.tudocdn.net/1365253?w=660",
+      "publishedAt": "2026-08-26T10:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "AliExpress, è l’ultimo giorno: ecco il coupon per spremere al massimo la promo",
-      "link": "https://www.tomshw.it/altro/aliexpress-e-lultimo-giorno-ecco-il-coupon-per-spremere-al-massimo-la-promo",
-      "excerpt": "La promo Ritorno a Scuola di AliExpress è arrivata al suo ultimo giorno e questa è quindi l'ultima occasione per approfittare degli sconti ancora disponibili. Per chi stava…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109794/AliExpress,-è-l’ultimo-giorno-ecco-il-coupon-per-spremere-al-massimo-la-promo.png",
-      "publishedAt": "2026-08-26T08:10:04+00:00",
+      "title": "150€ in meno sull’HP All-in-One 27, per lavorare senza torre",
+      "link": "https://www.tomshw.it/offerte/150eur-in-meno-sullhp-all-in-one-27-per-lavorare-senza-torre",
+      "excerpt": "L’HP All-in-One 27-cr0014sl costa 799,99€ su Amazon, anziché 949,99€, con uno sconto del 16% e 150€ di risparmio. Riunisce computer, display e webcam in un unico elemento,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109826/tomshw-offer-950872.png",
+      "publishedAt": "2026-08-26T10:04:02+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Spotify Premium aumenta ancora in Europa. Per ora l’Italia è esclusa",
-      "link": "https://www.hdblog.it/mercato/articoli/n668409/spotify-premium-aumenti-europa-quanto-dove/",
-      "excerpt": "Spotify comunica un nuovo aumento dei prezzi Premium in alcuni Paesi europei: il piano Individual passa da 11,99 a 13,99 euro al mese. Per il momento nessun rincaro è stato…",
-      "image": "https://hd2.tudocdn.net/1365213?w=660",
-      "publishedAt": "2026-08-26T08:10:00+00:00",
+      "title": "Disegno GPS più grande del mondo: l'impresa di due motocicliste è da record",
+      "link": "https://www.hdmotori.it/wr3-ride-guinness-world-record-disegno-gps-moto/",
+      "excerpt": "Il viaggio da Guinness di Wendy Crockett e Liza Miller: 21.900 km attraverso gli Stati Uniti per comporre con il GPS la gigantesca traccia WRWR 2026.",
+      "image": "https://hd2.tudocdn.net/1365264?w=660",
+      "publishedAt": "2026-08-26T10:00:53+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Game of Thrones: War for Westeros si mostra in un video tra draghi e strategia",
-      "link": "https://www.hdblog.it/games/articoli/n668381/game-of-thrones-war-for-westeros-video-gameplay/",
-      "excerpt": "Draghi, giganti, battaglie e soprattutto tanta strategia.",
-      "image": "https://hd2.tudocdn.net/1365159?w=660",
-      "publishedAt": "2026-08-26T08:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "DJI Osmo 360 a 375€, il minimo di sempre per girare ogni avventura in 8K",
-      "link": "https://www.tomshw.it/offerte/dji-osmo-360-a-375eur-il-minimo-di-sempre-per-girare-ogni-avventura-in-8k",
-      "excerpt": "DJI Osmo 360 Combo Essenziale costa 375€ su Amazon, con uno sconto del 33% sul listino di 559€ e un risparmio di 184€. Video a 360° in 8K e 105 GB integrati consentono di partire…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109798/tomshw-offer-950414.png",
-      "publishedAt": "2026-08-26T08:03:46+00:00",
+      "title": "5 proiettori economici da comprare oggi su AliExpress: il più folle è anche uno smartphone",
+      "link": "https://www.tomshw.it/altro/5-proiettori-economici-da-comprare-oggi-su-aliexpress-il-piu-folle-e-anche-uno-smartphone",
+      "excerpt": "Il mondo dei proiettori portatili ha fatto passi da gigante negli ultimi anni, rendendo l'esperienza del grande schermo accessibile a chiunque. Su AliExpress è possibile trovare…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109824/5-proiettori-economici-da-comprare-oggi-su-AliExpress-il-più-folle-è-anche-uno-smartphone.png",
+      "publishedAt": "2026-08-26T09:56:42+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Volkswagen Electro Vibes: ID. Polo e ID. Cross protagoniste in 5 città",
-      "link": "https://www.hdmotori.it/volkswagen-electro-vibes/",
-      "excerpt": "Dal 30 agosto al 13 settembre le nuove ID. Polo e ID. Cross debuttano in anteprima nazionale nell’ambito di un roadshow che toccherà cinque piazze italiane.",
-      "image": "https://hd2.tudocdn.net/1365210?w=660",
-      "publishedAt": "2026-08-26T08:00:29+00:00",
+      "title": "Dipendenza da smartphone, in Francia via libera al divieto per i licei",
+      "link": "https://www.hdblog.it/smartphone/articoli/n668426/divieto-smartphone-liceo-francia/",
+      "excerpt": "La Francia estende la stretta sugli smartphone a scuola anche agli studenti dei licei. Il divieto potrebbe entrare in vigore già a settembre, ma gli istituti hanno pochissimo…",
+      "image": "https://hd2.tudocdn.net/1354848?w=660",
+      "publishedAt": "2026-08-26T09:55:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "GTA 6 diventa un incentivo militare: 4 giorni liberi ai soldati USA",
-      "link": "https://www.hdblog.it/games/articoli/n668396/gta-6-esercito-usa-soldati-giorni-liberi/",
-      "excerpt": "Quattro giorni liberi per GTA 6 diventano un incentivo al ri-arruolamento negli USA",
-      "image": "https://hd2.tudocdn.net/1354877?w=660",
-      "publishedAt": "2026-08-26T07:55:00+00:00",
+      "title": "Droni contro le nuvole: la scommessa per far produrre di più il solare",
+      "link": "https://www.hdblog.it/droni/articoli/n668339/droni-autonomi-nuvole-energia-solare/",
+      "excerpt": "Sciami di droni potrebbero disperdere le nuvole e aumentare fino al 30% la produzione solare.",
+      "image": "https://hd2.tudocdn.net/1365230?w=660",
+      "publishedAt": "2026-08-26T09:45:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Nothing OS 5.0, open beta al via: design, personalizzazione e tutte le altre novità",
-      "link": "https://www.hdblog.it/smartphone/articoli/n668395/nothing-os-5-novita-cosa-cambia-quando-arriva/",
-      "excerpt": "Tutto quello che c'è da sapere sulla nuova versione di Nothing OS.",
-      "image": "https://hd2.tudocdn.net/1365190?w=660",
-      "publishedAt": "2026-08-26T07:50:00+00:00",
+      "title": "CIE, come recuperare PIN e/o PUK della carta d'identità elettronica",
+      "link": "https://www.hdblog.it/android/articoli/n668422/cie-carta-identita-elettronica-recuperare-pin-puk/",
+      "excerpt": "È relativamente facile, basta usare l'app ufficiale per Android e iOS.",
+      "image": "https://hd2.tudocdn.net/1350466?w=660",
+      "publishedAt": "2026-08-26T09:35:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Logitech MX Master 3S a 78,09€, il mouse da ufficio che fa risparmiare tempo",
+      "link": "https://www.tomshw.it/offerte/logitech-mx-master-3s-a-7809eur-il-mouse-da-ufficio-che-fa-risparmiare-tempo",
+      "excerpt": "Logitech MX Master 3S costa 78,09€ su Amazon, invece dei 99,99€ di listino: lo sconto è del 22% e il risparmio raggiunge 21,90€. Sensore preciso, comandi personalizzabili e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109820/tomshw-offer-950768.png",
+      "publishedAt": "2026-08-26T09:33:49+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Prezzi carburanti, la proroga \"dell'ultimo minuto\" e l'ipotesi bonus 100 euro",
+      "link": "https://www.hdmotori.it/caro-carburanti-proroga-taglio-accise-gasolio/",
+      "excerpt": "Il governo valuta la proroga di dieci giorni sullo sconto del gasolio per coprire il controesodo, mentre studia una misura mirata per le fasce di reddito più basse",
+      "image": "https://hd2.tudocdn.net/1365247?w=660",
+      "publishedAt": "2026-08-26T09:30:27+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La “vampira” di Pień aveva una falce sul collo e un lucchetto al piede. Lo studio sulla ragazza temuta anche da morta",
+      "link": "https://images.dday.it/gzVOLwoPCtSwwbV6nuRq_OIm8cOIgg2BC6231g7lXvs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58479/4c7438_Screenshot_2026-08-26_alle_11.20.49.png",
+      "excerpt": "Un lucchetto all’alluce, una falce rivolta verso la gola e forse un oggetto di rame nella bocca. La tomba 75 di Pień racconta i rituali usati per impedire ai morti di tornare tra…",
+      "image": "https://images.dday.it/gzVOLwoPCtSwwbV6nuRq_OIm8cOIgg2BC6231g7lXvs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58479/4c7438_Screenshot_2026-08-26_alle_11.20.49.png",
+      "publishedAt": "2026-08-26T09:24:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Una Anker SOLIX top di gamma a meno di 900€? Su AliExpress oggi si può",
+      "link": "https://www.tomshw.it/hardware/anker-solix-c2000-gen-2-sconto-pazzesco-del-66-corri-su-aliexpress-2026-08-26",
+      "excerpt": "Su AliExpress è disponibile un'offerta sulla Anker SOLIX C2000 Gen 2, la stazione di alimentazione professionale con batteria da 2048Wh e 4 generatori solari. Il prezzo scende a…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109816/anker-solix-c2000-gen-2-sconto-pazzesco-del-66-corri-su-aliexprmaje4fhbd29vcgl3VTR.jpg",
+      "publishedAt": "2026-08-26T09:15:07+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "ToxicPanda torna su Android: il malware ora ruba PIN e attiva il debug wireless",
+      "link": "https://www.hdblog.it/android/articoli/n668419/toxicpanda-malware-android-cosa-fa/",
+      "excerpt": "ToxicPanda 2.0 è una nuova variante del trojan bancario Android capace di eseguire 167 comandi, intercettare PIN e credenziali e attivare autonomamente il debug wireless…",
+      "image": "https://hd2.tudocdn.net/1206266?w=660",
+      "publishedAt": "2026-08-26T09:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Riprendi a correre: Amazfit Active 3 Premium a prezzo scontato su Amazon",
+      "link": "https://images.dday.it/IKn0rW54IFv1ah2pHmYN7qxtUqdsYKyGjimZZOPc-CI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58478/f25af2_active3.jpeg",
+      "excerpt": "Su Amazon, Amazfit Active 3 Premium 45 mm è scontato. GPS, schermo AMOLED e oltre 170 modalità sportive a un prezzo ancora più interessante... Leggi tutto",
+      "image": "https://images.dday.it/IKn0rW54IFv1ah2pHmYN7qxtUqdsYKyGjimZZOPc-CI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58478/f25af2_active3.jpeg",
+      "publishedAt": "2026-08-26T09:07:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Disney+ e 4K, il contezioso legale si allarga. InterDigital: \"Anche usare il codec VP9 viola i nostri brevetti\"",
+      "link": "https://images.dday.it/zL21pGHC71Va3nJO81hBpNKvWJrVG0_FpWMzGcI6H3s/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58477/60cc5f_Depositphotos_534950506_XL.jpg",
+      "excerpt": "Avviato un nuovo procedimento contro Disney. InterDigital: \"A Disney chiediamo di smettere di danneggiare i clienti e trovare un accordo di lungo termine\"... Leggi tutto",
+      "image": "https://images.dday.it/zL21pGHC71Va3nJO81hBpNKvWJrVG0_FpWMzGcI6H3s/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58477/60cc5f_Depositphotos_534950506_XL.jpg",
+      "publishedAt": "2026-08-26T08:43:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Il ROI dell'AI aziendale arriva o no? C'è chi dice di sì ma i numeri non convincono?",
+      "link": "https://www.tomshw.it/business/il-roi-dellai-aziendale-arriva-o-no-ce-chi-dice-di-si-ma-i-numeri-non-convincono",
+      "excerpt": "Solo il 6% delle aziende che investono in intelligenza artificiale raggiunge oggi la soglia che si può chiamare alto rendimento, e il dato è fermo da un anno. La soglia richiede…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109787/01-mckinsey-roi-ai-aziendale-cover.jpg",
+      "publishedAt": "2026-08-26T07:50:05+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Il più grande richiamo di auto in Cina, oltre 4 milioni. Dopo un incidente le maniglie di emergenza delle portiere sono difficili da trovare",
@@ -104,15 +194,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Lo sport è sempre più digitale, ma i tifosi sono stanchi di app e abbonamenti",
-      "link": "https://www.hdblog.it/mercato/articoli/n668400/sport-digitale-tifosi-stanchi-app-abbonamenti/",
-      "excerpt": "Il 39% degli appassionati si dice frustrato dalla necessità di gestire più abbonamenti per vedere gli sport che segue",
-      "image": "https://hd2.tudocdn.net/1365203?w=660",
-      "publishedAt": "2026-08-26T07:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "OpenAI mostra i muscoli di Jalapeño: il chip “fatto in casa” batte Nvidia nei primi test",
       "link": "https://images.dday.it/NXWpJfc3VonorBN3rSZYCkNyv3aMCX8tcvLLnBQZNC0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58474/e4958b_Screenshot_2026-08-26_alle_09.43.25.png",
       "excerpt": "OpenAI ha pubblicato i primi benchmark di Jalapeño. Fino a 3,6 volte meno latenza rispetto ai sistemi Nvidia e quasi il doppio dei token elaborati per ogni kW... Leggi tutto",
@@ -122,74 +203,29 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "AliExpress chiude la promo dazi: ultime ore per riscattare i coupon più ricchi dell'estate",
-      "link": "https://www.tomshw.it/altro/aliexpress-chiude-la-promo-dazi-ultime-ore-per-riscattare-i-coupon-piu-ricchi-dellestate",
-      "excerpt": "Se avete puntato un prodotto su AliExpress e stavate aspettando il momento giusto per completare il carrello, quel momento è adesso. Oggi, mercoledì 26 agosto, è infatti…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109784/AliExpress-chiude-la-promo-dazi-ultime-ore-per-riscattare-i-coupon-più-ricchi-dell'estate.png",
-      "publishedAt": "2026-08-26T07:40:42+00:00",
+      "title": "Bill Gates: \"tassare robot e token per frenare l'AI\"",
+      "link": "https://www.tomshw.it/hardware/bill-gates-tasse-su-token-e-robot-contro-i-rischi-dell-ai",
+      "excerpt": "Imposte sull’uso dei token AI e dei robot, attività protette dall’automazione e un’autorità internazionale con poteri di controllo: sono alcune delle misure proposte da Bill Gates…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109778/news-flash-950223.png",
+      "publishedAt": "2026-08-26T07:30:06+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Soundbar Hisense 3.1.2 da 269€ a 170,05€, minimo storico per film e gaming",
-      "link": "https://www.tomshw.it/offerte/soundbar-hisense-312-da-269eur-a-17005eur-minimo-storico-per-film-e-gaming",
-      "excerpt": "La soundbar Hisense AX3120Q costa 170,05€ su Amazon: dal prezzo di listino di 269€ si risparmiano 98,95€, grazie allo sconto del 37%. Il sistema 3.1.2 con Dolby Atmos, DTS:X e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109782/tomshw-offer-950262.png",
-      "publishedAt": "2026-08-26T07:35:35+00:00",
+      "title": "Migliori mini PC (agosto 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-mini-pc",
+      "excerpt": "Se non volete comprare né un desktop tradizionale né un portatile, il mini PC resta una delle soluzioni più intelligenti da valutare nel 2026. Occupa pochissimo spazio, consuma…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/90457/migliori-mini-pc-copertina.jpg",
+      "publishedAt": "2026-08-26T06:18:18+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "iPhone Ultra, nuove immagini mostrerebbero la scheda madre e l’A20 Pro",
-      "link": "https://www.hdblog.it/smartphone/articoli/n668401/iphone-ultra-scheda-madre-come-fatta-rumor/",
-      "excerpt": "La presunta scheda madre dell’iPhone pieghevole compare online con il possibile A20 Pro a 2 nm. Le immagini suggeriscono l’utilizzo del packaging WMCM di TSMC, ma restano diversi…",
-      "image": "https://hd2.tudocdn.net/1353268?w=660",
-      "publishedAt": "2026-08-26T07:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Migliori power station portatili (agosto 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-power-station-portatili",
-      "excerpt": "La AFERIY P180Pro è la migliore power station portatile della selezione: combina 1024 Wh, uscita continua da 1800 W e capacità espandibile fino a 5120 Wh, risultando adatta a…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109776/guide-thw-950212.png",
-      "publishedAt": "2026-08-26T07:22:11+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il nuovo Mac Mini M6 mostra i muscoli nel divertente spot di Apple realizzato a mano",
-      "link": "https://www.hdblog.it/apple/articoli/n668380/apple-mac-mini-m6-m5-pro-spot-dietro-le-quinte/",
-      "excerpt": "In epoca di AI slop, Apple rivendica lo stop-motion.",
-      "image": "https://hd2.tudocdn.net/1365153?w=660",
-      "publishedAt": "2026-08-26T07:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Migliori aspirapolvere senza filo (agosto 2026)",
-      "link": "https://www.tomshw.it/offerte/migliori-scope-elettriche-senza-filo",
-      "excerpt": "Se volete dire addio al cavo ma non volete sbagliare acquisto, questa guida ai migliori aspirapolvere senza filo è pensata per aiutarvi a distinguere i modelli davvero convincenti…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/90429/migliori-aspirapolvere-senza-filo-copertina.jpg",
-      "publishedAt": "2026-08-26T06:05:20+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Sony WH-1000XM6: il modello premium fa risparmiare 100€",
-      "link": "https://www.tomshw.it/hardware/sony-wh-1000xm6-modello-premium-risparmia-100eur-2026-08-26",
-      "excerpt": "Le Sony WH-1000XM6 rappresentano la proposta over-ear più evoluta del marchio per cancellazione del rumore, ascolto Hi-Res e chiamate. Il nuovo design torna pieghevole e viene…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108412/sony-wh-1000xm6-a-349eur-100eur-in-meno-sulle-cuffie-anc-di-punf4jqjh7klt6e5Giqp6l.png",
-      "publishedAt": "2026-08-26T05:15:01+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Sony WH-1000XM5: cuffie premium a un prezzo più accessibile",
-      "link": "https://www.tomshw.it/hardware/sony-wh-1000xm5-cuffie-premium-prezzo-piu-accessibile-2026-08-26",
-      "excerpt": "Le Sony WH-1000XM5 sono cuffie Bluetooth over-ear con cancellazione adattiva del rumore, supporto all'audio ad alta risoluzione e custodia rigida inclusa. Il prezzo è di 229€, con…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109746/sony-wh-1000xm5-cuffie-premium-prezzo-piu-accessibile-2026-08-2sdcbkt3lvve10r0RLFE.png",
-      "publishedAt": "2026-08-26T05:14:11+00:00",
+      "title": "IKEA e XBOX insieme per YXSTABY, ecco di cosa si tratta",
+      "link": "https://www.tomshw.it/videogioco/ikea-e-xbox-insieme-per-yxstaby-gaming-a-casa-2026-08-25",
+      "excerpt": "Quando si parla di videogiochi, l'immagine che spesso viene in mente è quella di una stanza dedicata, buia e isolata dal resto della casa. Ma la realtà di oggi è molto diversa:…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109699/Ikea-Xbox-(4).jpg",
+      "publishedAt": "2026-08-25T21:43:30+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -230,47 +266,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "AirTag in offerta: mai visto a questo prezzo",
-      "link": "https://images.dday.it/zqBn8MLagI4aS7efzOOafGVQgPkGAFAwFqobhFNc9_Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/55578/d5e4fc_ape2.jpg",
-      "excerpt": "Non perdere l’occasione: il tracker più smart per ritrovare subito chiavi, borse e altri oggetti personali, ora scontato al massimo su Amazon ... Leggi tutto",
-      "image": "https://images.dday.it/zqBn8MLagI4aS7efzOOafGVQgPkGAFAwFqobhFNc9_Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/55578/d5e4fc_ape2.jpg",
-      "publishedAt": "2026-08-25T13:51:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Suoni inudibili riprodotti dal browser per tracciare gli utenti: beccata AliExpress",
-      "link": "https://images.dday.it/5qJ-AMs-wHpg6i3zUEM3d0BhgQUhBW1BIdS9YCac8J8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58468/ebbbe4_Depositphotos_664177848_XL.jpg",
-      "excerpt": "Un ricercatore lo ha scoperto per caso. Una vecchia tecnica basata su WebAudio ha persino interferito con le sue cuffie Bluetooth... Leggi tutto",
-      "image": "https://images.dday.it/5qJ-AMs-wHpg6i3zUEM3d0BhgQUhBW1BIdS9YCac8J8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58468/ebbbe4_Depositphotos_664177848_XL.jpg",
-      "publishedAt": "2026-08-25T13:11:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "La CPU Oryon dello Snapdragon 8 Elite Gen 6 sarà la prima mobile al mondo a 5 GHz",
-      "link": "https://images.dday.it/GVkk7EDFgrSIj9lVK_VhzqHingbGxwh_lFsr6evnrmw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58464/de8cde_Screenshot_2026-08-25_alle_11.52.35.png",
-      "excerpt": "Qualcomm anticipa la CPU Oryon dello Snapdragon 8 Elite Gen 6. Due prime core a 5 GHz e nuova FlexCache L2 condivisa dinamicamente tra tutti gli 8 core... Leggi tutto",
-      "image": "https://images.dday.it/GVkk7EDFgrSIj9lVK_VhzqHingbGxwh_lFsr6evnrmw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58464/de8cde_Screenshot_2026-08-25_alle_11.52.35.png",
-      "publishedAt": "2026-08-25T13:00:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Dreame, il sogno dell'automobile è già finito. Progetto cancellato",
-      "link": "https://images.dday.it/r2NTy-Ca7tTXM0iq3QsJw2gB7klCWcGG4i-2k9qnYco/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58467/7de261_Dreame_thumb.jpg",
-      "excerpt": "Il produttore, noto per i suoi robot aspirapolvere, ha già fermato il progetto di creare auto elettriche sportive. Solo pochi mesi fa annunciava sportive dalle prestazioni…",
-      "image": "https://images.dday.it/r2NTy-Ca7tTXM0iq3QsJw2gB7klCWcGG4i-2k9qnYco/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58467/7de261_Dreame_thumb.jpg",
-      "publishedAt": "2026-08-25T11:20:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Quando il Remake cancella l'originale e danneggia la preservazione",
-      "link": "https://www.tomshw.it/videogioco/quando-il-remake-cancella-loriginale-e-danneggia-la-preservazione",
-      "excerpt": "Immaginate di varcare la soglia del Museo del Louvre e scoprire che la Gioconda di Leonardo da Vinci è stata rimossa dalla sua parete. Al suo posto, un imponente schermo OLED ad…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109288/demon-s-souls-guida-sopravvivere-remake-ps5-v13-51005.jpg",
-      "publishedAt": "2026-08-24T16:06:11+00:00",
+      "title": "Category management con AI: costruisci la matrice Kraljic in un pomeriggio",
+      "link": "https://www.tomshw.it/aioperator/category-management-con-ai-costruisci-la-matrice-kraljic-in-un-pomeriggio",
+      "excerpt": "Il category management raggruppa migliaia di codici di acquisto in categorie omogenee, materie prime, packaging, servizi IT, logistica, e assegna a ciascuna una strategia…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109102/02-acq12-cover.jpg",
+      "publishedAt": "2026-08-24T10:50:52+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
