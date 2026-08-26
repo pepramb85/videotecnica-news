@@ -1,96 +1,150 @@
 {
-  "generatedAt": "2026-08-26T16:42:05.985310+00:00",
+  "generatedAt": "2026-08-26T19:39:11.284029+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Apple annuncia evento per il 9 settembre: è giunta l'ora dei nuovi iPhone?",
+      "link": "https://www.hdblog.it/smartphone/articoli/n668500/apple-evento-9-settembre-iphone-18-pro-max-fold/",
+      "excerpt": "I protagonisti dovrebbero essere iPhone 18 Pro, Pro Max, e chissà, forse finalmente il pieghevole?",
+      "image": "https://hd2.tudocdn.net/1365377?w=660",
+      "publishedAt": "2026-08-26T19:00:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "45,11€ in meno sul Makita DTD156Z, 155 Nm per i lavori più impegnativi",
+      "link": "https://www.tomshw.it/offerte/4511eur-in-meno-sul-makita-dtd156z-155-nm-per-i-lavori-piu-impegnativi",
+      "excerpt": "Makita DTD156Z è a 74,88€ su Amazon, con 45,11€ di risparmio sul prezzo di listino di 119,99€ e uno sconto del 38%. La coppia di 155 Nm porta più velocità nei serraggi ripetitivi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109897/tomshw-offer-952446.png",
+      "publishedAt": "2026-08-26T18:34:20+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "80€ in meno sull’Oral-B iO 3, a 59,99€ per gengive più sane",
+      "link": "https://www.tomshw.it/offerte/80eur-in-meno-sulloral-b-io-3-a-5999eur-per-gengive-piu-sane",
+      "excerpt": "Oral-B iO 3 a 59,99€ su Amazon fa risparmiare 80€ sul listino di 139,99€, con uno sconto del 57%. Sensore di pressione, timer luminoso e guida tramite app trasformano la pulizia…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109894/tomshw-offer-952424.png",
+      "publishedAt": "2026-08-26T18:04:19+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il collezionista che non ti aspetti aveva 200 supercar: spicca anche una Ferrari F40",
+      "link": "https://www.hdmotori.it/collezione-philippe-bouvard-ferrari-f40/",
+      "excerpt": "Philippe Bouvard, giornalista e fondatore di Les Grosses Têtes, è scomparso all’età di 96 anni, lasciando una collezione di supercar da sogno",
+      "image": "https://hd2.tudocdn.net/1365395?w=660",
+      "publishedAt": "2026-08-26T18:00:20+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung alla Gamescom 2026 con due nuovi SSD esterni USB 4",
+      "link": "https://www.hdblog.it/hardware/articoli/n668510/samsung-ssd-p9-p7-specifiche-velocita-prezzi/",
+      "excerpt": "I prezzi sono davvero tanto, tanto alti. Prevedibile in questo periodo di crisi delle memorie, ma il problema rimane.",
+      "image": "https://hd2.tudocdn.net/1365388?w=660",
+      "publishedAt": "2026-08-26T17:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Pixel 11 Pro XL: ricarica molto più rapida attivando questa funzione nascosta",
+      "link": "https://www.hdblog.it/smartphone/articoli/n668468/pixel-11-pro-xl-ricarica-rapida-extreme-charging/",
+      "excerpt": "Ecco come (e quale)",
+      "image": "https://hd2.tudocdn.net/1364723?w=660",
+      "publishedAt": "2026-08-26T17:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Meta annuncia massicce restrizioni agli adolescenti su Facebook e Instagram",
+      "link": "https://www.hdblog.it/android/articoli/n668508/facebook-instagram-limitazioni-adolescenti-come/",
+      "excerpt": "Meta dovrà anche versare la bellezza di 18 miliardi di dollari - solo 13 se TikTok e YouTube non implementeranno limitazioni analoghe.",
+      "image": "https://hd2.tudocdn.net/1112108?w=660",
+      "publishedAt": "2026-08-26T17:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung Galaxy A37 5G a 419€ dura nel tempo con 6 anni di sicurezza",
+      "link": "https://www.tomshw.it/offerte/samsung-galaxy-a37-5g-a-419eur-dura-nel-tempo-con-6-anni-di-sicurezza",
+      "excerpt": "Samsung Galaxy A37 5G da 256GB costa 419€ su Amazon, con il 26% di sconto sul listino di 529€ e 110€ risparmiati. Memoria capiente, protezione IP68 e supporto software esteso lo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109893/tomshw-offer-952415.png",
+      "publishedAt": "2026-08-26T17:34:10+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Ring migliora la privacy: TAKE è cripta i video \"quasi end-to-end\"",
+      "link": "https://www.hdblog.it/amazon/articoli/n668507/amazon-ring-cifratura-video-take-privacy-sicurezza/",
+      "excerpt": "Si basa sull'uso di chiavi crittografiche che cambiano continuamente, ogni 5 minuti. Ring le conserva solo per 24 ore, poi rimangono in mano solo all'utente.",
+      "image": "https://hd2.tudocdn.net/833715?w=660",
+      "publishedAt": "2026-08-26T17:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Recensione Star Wars Zero Company, una galassia da salvare",
+      "link": "https://www.tomshw.it/videogioco/recensione-star-wars-zero-company",
+      "excerpt": "Il bello di un franchise come Star Wars, oltre ovviamente all’atmosfera, agli incredibili personaggi e alle ambientazioni, è anche la sua capacità di sapersi adattare a svariati…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/108971/Star-wars-zero-company-(1).jpg",
+      "publishedAt": "2026-08-26T17:04:02+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Anycubic Kobra X a 299,99€, il minimo storico per stampare in quattro colori",
+      "link": "https://www.tomshw.it/offerte/anycubic-kobra-x-a-29999eur-il-minimo-storico-per-stampare-in-quattro-colori",
+      "excerpt": "Anycubic Kobra X costa 299,99€ su Amazon anziché 429€, con il 30% di sconto e un risparmio di 129,01€. È il suo minimo storico e porta la stampa multicolore integrata in una…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109892/tomshw-offer-952393.png",
+      "publishedAt": "2026-08-26T17:03:46+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Haier porta la tecnologia al Gran Galà del Calcio AIC 2026",
+      "link": "https://www.tomshw.it/altro/haier-porta-la-tecnologia-al-gran-gala-del-calcio-aic-2026",
+      "excerpt": "Haier sarà title sponsor del Gran Galà del Calcio AIC 2026, l'appuntamento dedicato ai protagonisti e alle migliori prestazioni della stagione calcistica italiana. La serata è…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109891/Emiliano-Garofalo---Country-Manager-Haier-Italia.jpg",
+      "publishedAt": "2026-08-26T17:01:45+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Mitsubishi, la nuova Pajero sta per arrivare: presentazione già fissata",
+      "link": "https://www.hdmotori.it/mitsubishi-nuova-pajero-presentazione/",
+      "excerpt": "Il fuoristrada Pajero ha fatto scuola e, dopo anni, sta per tornare in una nuova veste. La vettura a ruote alte si farà strada tra numerosi competitor",
+      "image": "https://hd2.tudocdn.net/1365383?w=660",
+      "publishedAt": "2026-08-26T17:00:22+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Telescopio Roman: come seguire il lancio NASA del 30 agosto",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n668291/telescopio-roman-lancio-nasa-30-agosto/",
+      "excerpt": "Il telescopio Roman parte il 30 agosto per studiare energia oscura ed esopianeti.",
+      "image": "https://hd2.tudocdn.net/1359762?w=660",
+      "publishedAt": "2026-08-26T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Bluesky triplica la lunghezza massima dei video: ora il limite è 10 minuti",
+      "link": "https://www.hdblog.it/android/articoli/n668503/bluesky-nuovo-limite-lunghezza-video-peso/",
+      "excerpt": "Triplica anche la dimensione massima supportata e la velocità di upload.",
+      "image": "https://hd2.tudocdn.net/1209701?w=660",
+      "publishedAt": "2026-08-26T16:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Threads punta sui podcast: trascrizioni automatiche in arrivo",
       "link": "https://www.hdblog.it/curiosita/articoli/n668340/threads-trascrizione-automatica-podcast/",
       "excerpt": "Threads testa la trascrizione automatica dei podcast per rendere l’audio leggibile nel feed.",
       "image": "https://hd2.tudocdn.net/1365055?w=660",
       "publishedAt": "2026-08-26T16:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Renault 5 E-Tech: come cambia con il restyling la compatta elettrica",
-      "link": "https://www.hdmotori.it/renault-5-etech-aggiornamento-autonomia-batteria/",
-      "excerpt": "La Renault 5 E-Tech si aggiorna: arriva la nuova batteria LFP, aumenta l'autonomia e spuntano i cerchi dorati d'ispirazione Clio Williams",
-      "image": "https://hd2.tudocdn.net/1365380?w=660",
-      "publishedAt": "2026-08-26T16:30:44+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Apple annuncia evento per il 9 settembre: è giunta l'ora dei nuovi iPhone?",
-      "link": "https://www.hdblog.it/smartphone/articoli/n668500/apple-evento-9-settembre-iphone-18-pro-max-fold/",
-      "excerpt": "I protagonisti dovrebbero essere iPhone 18 Pro, Pro Max, e chissà, forse finalmente il pieghevole?",
-      "image": "https://hd2.tudocdn.net/1365377?w=660",
-      "publishedAt": "2026-08-26T16:23:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "ASUS porta Dolby Atmos e chat vocale dentro una soundbar gaming",
-      "link": "https://www.hdblog.it/tv/articoli/n668327/asus-rog-gjallar-soundbar-gaming/",
-      "excerpt": "ROG Gjallar combina audio Dolby Atmos e microfoni per giocare e comunicare senza cuffie",
-      "image": "https://hd2.tudocdn.net/1365046?w=660",
-      "publishedAt": "2026-08-26T16:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Google Home, problemi con le automatizzazioni basate sulle smart TV",
-      "link": "https://www.hdblog.it/google/articoli/n668496/google-home-bug-automazioni-smart-tv/",
-      "excerpt": "A quanto pare la piattaforma ha improvvisamente perso la capacità di rilevare quando un televisore si accende o si spegne.",
-      "image": "https://hd2.tudocdn.net/1332776?w=660",
-      "publishedAt": "2026-08-26T16:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "HP OmniBook Ultra AI PC a 1.549,99€, il minimo storico per lavorare in mobilità",
-      "link": "https://www.tomshw.it/offerte/hp-omnibook-ultra-ai-pc-a-154999eur-il-minimo-storico-per-lavorare-in-mobilita",
-      "excerpt": "HP OmniBook Ultra AI PC costa 1.549,99€ su Amazon, anziché 1.799,99€, con uno sconto del 14%. Il convertibile abbina uno schermo touch 3K OLED a una configurazione pensata per…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109884/tomshw-offer-952322.png",
-      "publishedAt": "2026-08-26T16:03:24+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Nuovo Codice della Strada, divieti anche per i pedoni: giubbotto riflettente obbligatorio",
-      "link": "https://www.hdmotori.it/nuovo-codice-della-strada-divieti-pedoni-giubbotto-riflettente/",
-      "excerpt": "I soggetti più a rischio dovranno munirsi di giubbotto riflettente ad alta visibilità. Scopriamo quando scatterà l'obbligo e tutte le principali novità del Cds",
-      "image": "https://hd2.tudocdn.net/1365372?w=660",
-      "publishedAt": "2026-08-26T16:00:45+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "The Wolf Among Us Remastered: c'è la data, il 29 ottobre",
-      "link": "https://www.tomshw.it/videogioco/the-wolf-among-us-remastered-uscita-fissata-al-29-ottobre-2026",
-      "excerpt": "I cinque episodi di The Wolf Among Us Remastered torneranno insieme il 29 ottobre 2026, data scelta da Telltale Games e PM Studios per l’uscita mondiale. La rimasterizzazione sarà…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109883/ar60cs.jpg",
-      "publishedAt": "2026-08-26T15:56:54+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "I robot sanno correre a tutta velocità, ma anche fermarsi? | Video",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n668332/robot-umanoide-crash-pechino/",
-      "excerpt": "Un crash spettacolare mostra quanto sia difficile controllare un umanoide ad alta velocità.",
-      "image": "https://hd2.tudocdn.net/1365049?w=660",
-      "publishedAt": "2026-08-26T15:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone Ultra, un video immagina come sarà la presentazione del primo pieghevole Apple",
-      "link": "https://www.hdblog.it/smartphone/articoli/n668491/iphone-ultra-pieghevole-video-presentazione-apple/",
-      "excerpt": "Un modo per farsi un'idea più tridimensionale dello smartphone.",
-      "image": "https://hd2.tudocdn.net/1365368?w=660",
-      "publishedAt": "2026-08-26T15:45:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -102,60 +156,6 @@
       "publishedAt": "2026-08-26T15:35:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Scoperta la galassia divorata dalla Via Lattea all'inizio della sua storia",
-      "link": "https://www.hdblog.it/curiosita/articoli/n668343/via-lattea-galassia-divorata-12-miliardi-anni/",
-      "excerpt": "Una collisione di 12 miliardi di anni fa riscrive l'infanzia della Via Lattea.",
-      "image": "https://hd2.tudocdn.net/1365057?w=660",
-      "publishedAt": "2026-08-26T15:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Apple iPad Air 13″ M4 da 1.159€ a 1.059€, eccellente per creare ovunque",
-      "link": "https://www.tomshw.it/offerte/apple-ipad-air-13-m4-da-1159eur-a-1059eur-eccellente-per-creare-ovunque",
-      "excerpt": "Apple iPad Air 13″ M4 costa 1.059€ su Amazon, anziché 1.159€, con uno sconto del 9%. Il grande display Liquid Retina e il nuovo chip Apple lo rendono particolarmente interessante…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109879/tomshw-offer-952209.png",
-      "publishedAt": "2026-08-26T15:33:21+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Ferrari, la carrozzeria potrebbe cambiare forma: nuova hypercar rivoluzionaria",
-      "link": "https://www.hdmotori.it/ferrari-hypercar-soluzione-carrozzeria/",
-      "excerpt": "Dopo le colorazioni che alla luce cambiano tonalità, Ferrari potrebbe lanciare una hypercar in grado di cambiare forma in movimento",
-      "image": "https://hd2.tudocdn.net/1365369?w=660",
-      "publishedAt": "2026-08-26T15:30:19+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Recensione Resonance: A Plague Tale Legacy",
-      "link": "https://www.tomshw.it/videogioco/recensione-resonance-a-plague-tale-legacy",
-      "excerpt": "Quando si pensa al franchise di A Plague Tale, sono piuttosto certo che la vostra mente corre inevitabilmente a fiumi di ratti portatori di morte, a meccaniche stealth in cui…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108610/RESONANCE_3840x2160_no_LOGO.jpg",
-      "publishedAt": "2026-08-26T15:23:49+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "I giochi Xbox su disco diventano digitali: i test partono il 31 agosto",
-      "link": "https://www.tomshw.it/videogioco/xbox-porta-i-giochi-su-disco-nel-digitale-test-dal-31-agosto",
-      "excerpt": "Microsoft vuole ridurre la distanza tra librerie fisiche e servizi digitali di Xbox. La società ha annunciato una nuova funzione che permette di ottenere un diritto d’uso digitale…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109874/xbox-giochi-disco-licenze-digitali.png",
-      "publishedAt": "2026-08-26T15:15:34+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Commodore 77 si veste di Cyberpunk 2077 con un chip AMD più potente",
-      "link": "https://www.tomshw.it/videogioco/commodore-77-si-veste-di-cyberpunk-2077-con-un-chip-amd-piu-potente",
-      "excerpt": "Commodore ha presentato e aperto i preordini del Commodore 77, una versione speciale ispirata a Cyberpunk 2077 che introduce un FPGA più potente rispetto al Commodore 64 Ultimate.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109786/commodore-77-si-veste-di-cyberpunk-2077-con-un-chip-amd-piu-potente.png",
-      "publishedAt": "2026-08-26T15:06:51+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Renault 5 si aggiorna: migliora l’autonomia e arriva un nuovo modello entry level con batteria LFP",
@@ -230,20 +230,20 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Migliori VPN gratis (agosto 2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-vpn-gratuite",
-      "excerpt": "Scegliere una delle migliori VPN gratis ha senso solo se si parte da aspettative realistiche. Una VPN gratuita può aiutarvi a proteggere il traffico su Wi-Fi pubblici, limitare il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/90529/migliori-vpn-gratis-copertina.jpg",
-      "publishedAt": "2026-08-26T11:25:25+00:00",
+      "title": "Migliori notebook da gaming (agosto 2026)",
+      "link": "https://www.tomshw.it/guide/migliori-notebook-gaming",
+      "excerpt": "I notebook gaming non sono più una categoria di compromesso: nel 2026 possono offrire prestazioni molto vicine a quelle di un fisso, ma con la flessibilità di un portatile che si…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/90539/migliori-notebook-gaming-copertina.jpg",
+      "publishedAt": "2026-08-26T11:33:55+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Samsung svela P9 e P7: SSD USB4 da record fino a 8 TB",
-      "link": "https://www.tomshw.it/hardware/samsung-p9-e-p7-sono-i-nuovi-ssd-portatili-usb4-fino-a-8-tb",
-      "excerpt": "Samsung Electronics ha scelto Gamescom 2026 per presentare P9 e P7, una nuova famiglia di SSD portatili costruita attorno alla connettività USB4. I due modelli debuttano durante…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109823/samsung-ssd-p9-p7-usb4-gamescom-2026.png",
-      "publishedAt": "2026-08-26T11:15:56+00:00",
+      "title": "Migliori notebook sotto i 1000€ (agosto 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-notebook-sotto-i-1000eur",
+      "excerpt": "Trovare il miglior notebook sotto i 1000 euro nel 2026 significa muoversi in una fascia di mercato molto più interessante rispetto a pochi anni fa. Oggi, con questo budget, si…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/90532/migliori-notebook-sotto-1000-euro-copertina.jpg",
+      "publishedAt": "2026-08-26T11:28:09+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -257,20 +257,20 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "GeForce Now apre le porte allo Steam Controller",
-      "link": "https://www.tomshw.it/videogioco/geforce-now-apre-le-porte-allo-steam-controller",
-      "excerpt": "NVIDIA ha annunciato che GeForce NOW supporterà ufficialmente lo Steam Controller e Steam Machine a fine anno. L'integrazione permetterà di utilizzare il nuovo gamepad di Valve…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109691/geforce-now-apre-le-porte-allo-steam-controller.png",
-      "publishedAt": "2026-08-25T22:23:46+00:00",
+      "title": "Quando esce Steam Frame? Data, rumor e cosa sappiamo",
+      "link": "https://www.tomshw.it/videogioco/quando-esce-steam-frame-data-rumor-e-cosa-sappiamo",
+      "excerpt": "Steam Frame è atteso nell’estate 2026: questa resta la finestra ufficiale indicata da Valve per la commercializzazione. Una data precisa, però, non è stata annunciata e non…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109780/quando-esce-steam-frame-data-rumor-e-cosa-sappiamo.png",
+      "publishedAt": "2026-08-26T07:37:01+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Rogito e atti immobiliari, le verifiche preliminari (visure, ipocatastali) accelerate con l'AI",
-      "link": "https://www.tomshw.it/aioperator/rogito-e-atti-immobiliari-le-verifiche-preliminari-visure-ipocatastali-accelerate-con-l-ai",
-      "excerpt": "Un rogito immobiliare richiede il confronto di tre documenti: la visura catastale, l'ispezione ipotecaria e l'atto di provenienza. Chi cura la due diligence rilegge le stesse voci…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109113/04-not1-cover.jpg",
-      "publishedAt": "2026-08-24T10:50:54+00:00",
+      "title": "Meglio comprare Steam Deck OLED ora o aspettare Steam Deck 2?",
+      "link": "https://www.tomshw.it/videogioco/meglio-comprare-steam-deck-oled-ora-o-aspettare-steam-deck-2",
+      "excerpt": "Steam Deck OLED è acquistabile nuova in Italia, mentre Steam Deck 2 resta un progetto atteso senza una data di lancio, un prezzo o caratteristiche confermate. Per chi vuole…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109146/meglio-comprare-steam-deck-oled-ora-o-aspettare-steam-deck-2.png",
+      "publishedAt": "2026-08-24T13:23:08+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     }
