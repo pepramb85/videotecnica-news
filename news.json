@@ -1,107 +1,161 @@
 {
-  "generatedAt": "2026-08-28T15:52:46.521743+00:00",
+  "generatedAt": "2026-08-29T00:17:35.223068+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Gateway sarà il primo aeroporto lunare? Ecco come gestirà le navette",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n668600/nasa-gateway-aeroporto-lunare-traffico-spaziale/",
-      "excerpt": "Gateway potrebbe gestire capsule e lander come un aeroporto in orbita attorno alla Luna",
-      "image": "https://hd2.tudocdn.net/1365878?w=660",
-      "publishedAt": "2026-08-28T15:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il disastro dallo spazio: foto satellitari mostrano prima e dopo l'alluvione in Nepal",
-      "link": "https://www.hdblog.it/green/articoli/n668731/nepal-alluvione-immagini-satellite-copernicus/",
-      "excerpt": "I dati di Copernicus.",
-      "image": "https://hd2.tudocdn.net/1366224?w=660",
-      "publishedAt": "2026-08-28T15:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Google AI Mode diventa un agente di viaggio per voli e hotel",
-      "link": "https://www.hdblog.it/google/articoli/n668732/google-ai-mode-viaggi-voli-hotel/",
-      "excerpt": "AI Mode controlla voli, prezzi e hotel e aiuta anche a completare le prenotazioni",
-      "image": "https://hd2.tudocdn.net/1366210?w=660",
-      "publishedAt": "2026-08-28T15:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Marvel's Wolverine: al lancio ci sarà il New Game Plus",
-      "link": "https://www.tomshw.it/videogioco/marvel-s-wolverine-new-game-plus-e-mission-replay-al-lancio",
-      "excerpt": "Artigli, calci, raffiche di colpi e tecniche speciali compongono il sistema di combattimento mostrato nel nuovo trailer ufficiale di Marvel's Wolverine. Logan potrà equipaggiare…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107472/ar6b5e.jpg",
-      "publishedAt": "2026-08-28T15:34:02+00:00",
+      "title": "Apple Alimentatore USB-C da 140W a 89€, mai costato così poco",
+      "link": "https://www.tomshw.it/offerte/apple-alimentatore-usb-c-da-140w-a-89eur-mai-costato-cosi-poco",
+      "excerpt": "A 89€ su Amazon, l’Apple Alimentatore USB-C da 140W (ultimo modello) raggiunge il minimo storico, partendo da un listino di 119€ con uno sconto del 25%. È pensato soprattutto per…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/110275/tomshw-offer-974034.png",
+      "publishedAt": "2026-08-28T20:04:02+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "File pesanti sulla rete 10GbE: UGREEN NASync DXP4800 Plus a 619,98€",
-      "link": "https://www.tomshw.it/offerte/file-pesanti-sulla-rete-10gbe-ugreen-nasync-dxp4800-plus-a-61998eur",
-      "excerpt": "UGREEN NASync DXP4800 Plus costa 619,98€ su Amazon, anziché 729,99€, con uno sconto del 15%. È un NAS a quattro vani pensato per raccogliere grandi archivi e trasferire video 4K o…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/110267/tomshw-offer-973891.png",
-      "publishedAt": "2026-08-28T15:33:57+00:00",
+      "title": "Logitech G203 LIGHTSYNC scontato del 49%, gaming preciso a soli 18€",
+      "link": "https://www.tomshw.it/offerte/logitech-g203-lightsync-scontato-del-49-gaming-preciso-a-soli-18eur",
+      "excerpt": "Logitech G203 LIGHTSYNC a 18€ su Amazon fa risparmiare il 49% rispetto al prezzo di listino di 34,99€. Il sensore da 8.000 DPI, i sei pulsanti e l’illuminazione RGB lo rendono…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/110274/tomshw-offer-974024.png",
+      "publishedAt": "2026-08-28T19:33:07+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Volkswagen ID. California Cruise, il camper diventa elettrico: autonomia e prezzo",
-      "link": "https://www.hdmotori.it/volkswagen-id-california-cruise-camper-elettrico-autonomia-prezzo/",
-      "excerpt": "Volkswagen ID. California Cruise è il primo camper elettrico della famiglia: due posti letto, V2L fino a 3,6 kW e prezzo da 60.761 euro",
-      "image": "https://hd2.tudocdn.net/1366225?w=660",
-      "publishedAt": "2026-08-28T15:30:58+00:00",
+      "title": "Recensione Google Pixel 11: il top di gamma \"economico\" da 999 euro ha senso?",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n668413/recensione-google-pixel-11-test-prova-prezzo/",
+      "excerpt": "Cosa cambia e cosa no",
+      "image": "https://hd2.tudocdn.net/1365925?w=660",
+      "publishedAt": "2026-08-28T18:40:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "NVIDIA verso lo stop al rilascio di nuovi driver GeForce GameReady su Windows 10",
-      "link": "https://www.hdblog.it/hardware/articoli/n668737/windows-10-driver-geforce-rtx-stop-nvidia-quando/",
-      "excerpt": "L'ultimo arriverà a ottobre 2026.",
-      "image": "https://hd2.tudocdn.net/1035059?w=660",
-      "publishedAt": "2026-08-28T15:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Microsoft Flight Simulator omaggia l'Italia con un nuovo aggiornamento | VIDEO",
-      "link": "https://www.hdblog.it/games/articoli/n668718/microsoft-flight-simulator-italia-aggiornamento/",
-      "excerpt": "E non è l'unica novità",
-      "image": "https://hd2.tudocdn.net/1366211?w=660",
-      "publishedAt": "2026-08-28T15:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Einhell CE-CC 18 Li-Solo a 49,99€, il minimo storico per le gomme auto",
-      "link": "https://www.tomshw.it/offerte/einhell-ce-cc-18-li-solo-a-4999eur-il-minimo-storico-per-le-gomme-auto",
-      "excerpt": "Il compressore per auto Einhell CE-CC 18 Li-Solo costa 49,99€ su Amazon anziché 53,01€, con uno sconto del 6%. Il manometro digitale e l’arresto automatico permettono di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/110266/tomshw-offer-973846.png",
-      "publishedAt": "2026-08-28T15:03:16+00:00",
+      "title": "Bosch Professional GSR 12V-15 a 109,99€, il kit completo per lavorare subito",
+      "link": "https://www.tomshw.it/offerte/bosch-professional-gsr-12v-15-a-10999eur-il-kit-completo-per-lavorare-subito",
+      "excerpt": "Bosch Professional GSR 12V-15 costa 109,99€ su Amazon, anziché 139,99€, con uno sconto del 21%. Il set riunisce trapano compatto, due batterie, caricabatterie e 39 accessori: una…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/110273/tomshw-offer-974005.png",
+      "publishedAt": "2026-08-28T18:33:21+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Volvo: la sicurezza connessa si aggiorna e impara a evitare gli ostacoli",
-      "link": "https://www.hdmotori.it/volvo-connected-safety-nuove-funzioni-ex60-ex90-es90/",
-      "excerpt": "Volvo aggiorna il software dei modelli EX60, EX90 ed ES90 con quattro nuove segnalazioni di pericolo in tempo reale e introduce lo Spatial Audio con Dolby Atmos",
-      "image": "https://hd2.tudocdn.net/1366216?w=660",
-      "publishedAt": "2026-08-28T15:00:09+00:00",
+      "title": "Rete 10GbE e Wi-Fi 7 per creator: ASUS ProArt Z890-Creator WiFi a 453,90€",
+      "link": "https://www.tomshw.it/offerte/rete-10gbe-e-wi-fi-7-per-creator-asus-proart-z890-creator-wifi-a-45390eur",
+      "excerpt": "ASUS ProArt Z890-Creator WiFi costa 453,90€ su Amazon, anziché 543,50€, con uno sconto del 14% e un risparmio di 89,60€. Rete 10 Gb, Wi-Fi 7 e supporto a 256GB di memoria la…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/110272/tomshw-offer-973989.png",
+      "publishedAt": "2026-08-28T18:04:29+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Trapela il DLSS 5, primi test indipendenti su Cyberpunk, Skyrim e tanti altri",
+      "link": "https://www.hdblog.it/nvidia/articoli/n668750/dlss-5-nvidia-leak-mod-cyberpunk-skyrim-control/",
+      "excerpt": "\"Sbobba AI\" o grande rivoluzione del gaming?",
+      "image": "https://hd2.tudocdn.net/1366251?w=660",
+      "publishedAt": "2026-08-28T17:50:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Basta previsioni approssimative: con 84€ avete il meteo direttamente a casa",
-      "link": "https://www.tomshw.it/smartphone/stazione-meteo-wi-fi-succebuy-in-offerta-a-soli-79eur-2026-08-28",
-      "excerpt": "Scoprite la Stazione Meteo Wi-Fi 7-in-1 SucceBuy, dotata di display a colori da 7,5 pollici e sensore esterno wireless solare, ideale per monitorare temperatura e umidità con…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/110261/stazione-meteo-wi-fi-succebuy-in-offerta-a-soli-79eur-2026-08-2di2j554nh297daDzfVv.jpg",
-      "publishedAt": "2026-08-28T14:35:39+00:00",
+      "title": "Perceptron porta l’AI visiva nelle fabbriche con Isaac 0.5",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n668593/perceptron-porta-lai-visiva-nelle-fabbriche-con-isaac-05/",
+      "excerpt": "Isaac 0.5 porta l’AI visiva di Perceptron tra robot, fabbriche e magazzini.",
+      "image": "https://hd2.tudocdn.net/1365868?w=660",
+      "publishedAt": "2026-08-28T17:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "UGREEN Switch HDMI 2.1 sotto i 42€, alterna PC e console dal telecomando",
+      "link": "https://www.tomshw.it/offerte/ugreen-switch-hdmi-21-sotto-i-42eur-alterna-pc-e-console-dal-telecomando",
+      "excerpt": "UGREEN Switch HDMI 2.1 costa 41,99€ su Amazon, invece dei 59,99€ di listino, con il 30% di sconto e 18€ di risparmio. Permette di lasciare PC, PS5 e Xbox collegati allo stesso…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/110271/tomshw-offer-973978.png",
+      "publishedAt": "2026-08-28T17:34:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il leaker di GTA 6 si dilegua lasciando in eredità una truffa crypto",
+      "link": "https://www.hdblog.it/games/articoli/n668748/gta-6-leak-cyberleek-truffa-crypto-meme-coin/",
+      "excerpt": "Una variante giusto un pelo più sofisticata del solito \"pump & dump\" con \"rug pull\" finale, ma lì siamo andati a finire. Bottino relativamente magro, tutto considerato: 250.000…",
+      "image": "https://hd2.tudocdn.net/1366003?w=660",
+      "publishedAt": "2026-08-28T17:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Piccoli Big Bang al CERN: cosa hanno scoperto gli scienziati",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n668606/cern-piccoli-big-bang-plasma-quark-gluoni/",
+      "excerpt": "Al CERN collisioni di ossigeno e neon aiutano a studiare il plasma dell’universo primordiale.",
+      "image": "https://hd2.tudocdn.net/1365884?w=660",
+      "publishedAt": "2026-08-28T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Pixel 11 Pro XL, recensione. Born for the USA",
+      "link": "https://images.dday.it/YyIZhz5dJdo9Q2HYLogPfulIN6gltzrNYlb8_mZoHlU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58522/5687bd_pixcov.jpg",
+      "excerpt": "Chi si disinteressa totalmente della scheda tecnica e vuole solo uno smartphone che funziona bene lo amerà, chi guarda all'hardware lo vedrà come uno scandalo. Perché i problemi…",
+      "image": "https://images.dday.it/YyIZhz5dJdo9Q2HYLogPfulIN6gltzrNYlb8_mZoHlU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58522/5687bd_pixcov.jpg",
+      "publishedAt": "2026-08-28T17:06:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Arlo Pro 6 a 149,99€, il minimo di sempre per sorvegliare casa in 2K",
+      "link": "https://www.tomshw.it/offerte/arlo-pro-6-a-14999eur-il-minimo-di-sempre-per-sorvegliare-casa-in-2k",
+      "excerpt": "Arlo Pro 6 costa 149,99€ su Amazon, anziché 199,99€, con uno sconto del 25%. La batteria fino a otto mesi permette di sorvegliare casa senza dover predisporre cavi o rincorrere…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/110270/tomshw-offer-973951.png",
+      "publishedAt": "2026-08-28T17:03:30+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Zontes lancia il nuovo 125V: arriva il gemello più \"cattivo\" del 125X",
+      "link": "https://www.hdmotori.it/zontes-lancia-il-nuovo-125v-arriva-il-gemello-piu-cattivo-del-125x/",
+      "excerpt": "Il nuovo Zontes 125V punta su leggerezza e dotazione: pesa appena 108 kg, ha 15 CV, spazio per due caschi integrali e in Spagna costa 2.688 euro",
+      "image": "https://hd2.tudocdn.net/1366247?w=660",
+      "publishedAt": "2026-08-28T17:00:18+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Fuxi: questo robot diventerà il tuo corpo nei compiti pericolosi",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n668480/fuxi-robot-umanoide-cina-teleoperazione/",
+      "excerpt": "Fuxi replica a distanza i movimenti umani per operare nelle aree ad alto rischio.",
+      "image": "https://hd2.tudocdn.net/1365354?w=660",
+      "publishedAt": "2026-08-28T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple TV, il nuovo thriller con Mackie e Dornan ha una data",
+      "link": "https://www.hdblog.it/apple/articoli/n668601/apple-tv-12-12-12-anthony-mackie-jamie-dornan/",
+      "excerpt": "12 12 12 debutta a novembre su Apple TV con Anthony Mackie e Jamie Dornan",
+      "image": "https://hd2.tudocdn.net/1365881?w=660",
+      "publishedAt": "2026-08-28T16:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Roblox, nuove iniziative per limitare il doomscrolling tra i più giovani",
+      "link": "https://www.hdblog.it/games/articoli/n668742/roblox-blocco-doomscrolling-utenti-giovani/",
+      "excerpt": "Pratiche che incentivano la visualizzazione di video uno dietro l'altro saranno bloccate per gli account Kids e Select.",
+      "image": "https://hd2.tudocdn.net/1206826?w=660",
+      "publishedAt": "2026-08-28T16:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "OpenAI svela cosa è successo nel caso Hugging Face",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n668591/openai-rapporto-breach-hugging-face/",
+      "excerpt": "OpenAI ricostruisce il breach di Hugging Face e presenta nuove misure di sicurezza",
+      "image": "https://hd2.tudocdn.net/1365866?w=660",
+      "publishedAt": "2026-08-28T16:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
     },
     {
       "title": "Apple TV aumenta ancora negli Stati Uniti: in Italia c’è calma piatta da 3 anni",
@@ -111,24 +165,6 @@
       "publishedAt": "2026-08-28T14:33:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Recensione Google Pixel 11: il top di gamma \"economico\" da 999 euro ha senso?",
-      "link": "https://www.hdblog.it/smartphone/recensioni/n668413/recensione-google-pixel-11-test-prova-prezzo/",
-      "excerpt": "Cosa cambia e cosa no",
-      "image": "https://hd2.tudocdn.net/1365925?w=660",
-      "publishedAt": "2026-08-28T14:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Gli USA pensano a nuovi dazi sui chip: i prezzi tech possono salire ancora",
-      "link": "https://www.hdblog.it/business/articoli/n668729/usa-nuovi-dazi-chip-semiconduttori-trumo-prezzi/",
-      "excerpt": "Uno scenario che si complica sempre di più.",
-      "image": "https://hd2.tudocdn.net/1322907?w=660",
-      "publishedAt": "2026-08-28T14:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "BYD rallenta nel primo semestre: ricavi e utili in calo, ma l’estero cresce del 68%",
@@ -149,33 +185,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Apple TV: aumenta il prezzo negli Stati Uniti e si tira dietro anche Apple One",
-      "link": "https://www.hdblog.it/apple/articoli/n668725/apple-tv-aumento-prezzi-abbonamento-stati-uniti/",
-      "excerpt": "Dopo toccherà anche a noi?",
-      "image": "https://hd2.tudocdn.net/1309269?w=660",
-      "publishedAt": "2026-08-28T14:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Chitarra RIFFMASTER scontata del 40%: 36 ore di Rock Band 4 senza cavi",
-      "link": "https://www.tomshw.it/offerte/chitarra-riffmaster-scontata-del-40-36-ore-di-rock-band-4-senza-cavi",
-      "excerpt": "La chitarra wireless PDP RIFFMASTER per PS5 e PS4 costa 89,99€ su Amazon, il 40% in meno rispetto al listino di 149,99€; è anche il suo minimo storico. Con una batteria…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/110259/tomshw-offer-973774.png",
-      "publishedAt": "2026-08-28T14:04:15+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "RAM alle stelle? Questo Mini PC ha 24GB e tanta potenza per soli 451€",
-      "link": "https://www.tomshw.it/hardware/soyo-s4-plus-mini-pc-ryzen-7-in-offerta-a-soli-451eur-2026-08-28",
-      "excerpt": "Su AliExpress è disponibile il SOYO S4 PLUS MINI PC, dotato di processore Ryzen 7 H255, 24GB di RAM LPDDR5 e SSD PCIe3.0 Nvme da 512GB, con connettività WIFI6 e BT5.2, perfetto…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/110258/soyo-s4-plus-mini-pc-ryzen-7-in-offerta-a-soli-451eur-2026-08-2dj3g18lr26ht6onk0zI.jpg",
-      "publishedAt": "2026-08-28T13:59:15+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "La password non viene mai inviata ai server. Brave lancia un nuovo sistema di login per i suoi servizi",
       "link": "https://images.dday.it/3eYnHXHzvNES-kWaK5q5ukAcPH9TFyMZEJta4_vxT3M/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58517/edd22d_Depositphotos_443451866_XL.jpg",
       "excerpt": "I nuovi Brave Accounts utilizzano il protocollo crittografico OPAQUE: la password resta sul dispositivo dell’utente anche durante l’accesso... Leggi tutto",
@@ -194,20 +203,20 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Migliori macchine da caffè a capsule (agosto 2026)",
-      "link": "https://www.tomshw.it/offerte/migliori-macchine-da-caffe-a-capsule",
-      "excerpt": "Le macchine da caffè a capsule restano una delle scelte più comode per chi vuole un espresso rapido, ripetibile e con poca manutenzione quotidiana. Richiedono meno prove sulla…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/86808/migliori-macchine-caffe-capsule-copertina.jpg",
-      "publishedAt": "2026-08-28T11:18:04+00:00",
+      "title": "Migliori sedie gaming su Amazon (agosto 2026)",
+      "link": "https://www.tomshw.it/videogioco/sedie-gaming-amazon",
+      "excerpt": "Tra gaming, lavoro da casa e studio, una sedia usata per molte ore al giorno deve fare qualcosa in più rispetto a completare l'estetica della postazione. Una buona sedia da gaming…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/86819/migliori-sedie-gaming-su-amazon-copertina.jpg",
+      "publishedAt": "2026-08-28T11:32:47+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Migliori volanti gaming (agosto 2026)",
-      "link": "https://www.tomshw.it/videogioco/miglior-volante-da-gaming",
-      "excerpt": "Se vi piacciono i giochi di corse, sapete già quanto sterzo, freno e acceleratore incidano sulla qualità della guida. Con un pad si può essere competitivi, ma un volante ben…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/86814/migliori-volanti-gaming-copertina.jpg",
-      "publishedAt": "2026-08-28T11:10:54+00:00",
+      "title": "Migliori macchine da caffè portatili (agosto 2026)",
+      "link": "https://www.tomshw.it/altro/migliori-macchine-da-caffe-portatili",
+      "excerpt": "Quando si desidera preparare un buon caffè, il pensiero corre quasi sempre ai metodi più familiari: la moka, le macchine a capsule, le soluzioni a cialde o le macchine…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/86813/migliori-macchine-caffe-portatili-copertina.jpg",
+      "publishedAt": "2026-08-28T11:30:43+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -221,11 +230,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Frazionare l'hardware su più PC potrebbe costare più che consolidarlo",
-      "link": "https://www.tomshw.it/business/frazionare-lhardware-su-piu-pc-potrebbe-costare-piu-che-consolidarlo",
-      "excerpt": "Un PC economico da 500 euro e uno da 2.500 sembrano separati da un solo numero sulla fattura. La differenza reale emerge nei tre anni successivi, quando il primo va sostituito o…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/110156/01-consolidamento-hardware-cover.jpg",
-      "publishedAt": "2026-08-28T10:05:17+00:00",
+      "title": "Anche Claude si mette alla guida di robot e microscopi da laboratorio, con qualche limite",
+      "link": "https://www.tomshw.it/business/anche-claude-si-mette-alla-guida-di-robot-e-microscopi-da-laboratorio-con-qualche-limite",
+      "excerpt": "Cos'è il Model Hardware Standard, in pratica Anthropic ha presentato il Model Hardware Standard, un protocollo pensato per collegare Claude a strumenti fisici: bracci robotici,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/110167/05-anthropic-hardware-standard-laboratori-cover-web.jpg",
+      "publishedAt": "2026-08-28T10:00:54+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -248,10 +257,10 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "1 azienda su 20 vieta l'AI ai dipendenti, ma quasi nessuna ha davvero deciso come usarla",
-      "link": "https://www.tomshw.it/business/1-azienda-su-20-vieta-lai-ai-dipendenti-ma-quasi-nessuna-ha-davvero-deciso-come-usarla",
-      "excerpt": "Il vuoto che nessuno ha scelto Un sondaggio trimestrale di SurveyMonkey, condotto a luglio 2026 su 1.686 tra lavoratori e studenti negli Stati Uniti, mette in luce un paradosso…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/110164/02-lavoratori-senza-regole-ai-cover.jpg",
+      "title": "Un modello cinese gira senza Nvidia e costa sette volte meno",
+      "link": "https://www.tomshw.it/business/un-modello-cinese-gira-senza-nvidia-e-costa-sette-volte-meno",
+      "excerpt": "Cosa è GLM-5.3-Flash e chi lo fa girare Z.ai ha rilasciato GLM-5.3-Flash, un modello con 320 miliardi di parametri totali e 18 miliardi di parametri attivi grazie a…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/110166/04-glm-5-3-flash-senza-nvidia-cover.jpg",
       "publishedAt": "2026-08-28T09:40:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
@@ -262,15 +271,6 @@
       "excerpt": "Le trattative, rivelate nelle scorse settimane, si sarebbero interrotte a causa dell'aumento del valore delle azioni di PayPal. Ma potrebbe essere solo uno stop momentaneo...…",
       "image": "https://images.dday.it/4M3ViItpQRvHXG9QAwcICDkrc0Vwqi6vvIYEb_rvtw4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58511/ca8dae_julio-lopez-8ODECVQWbFQ-unsplash.jpg",
       "publishedAt": "2026-08-28T09:16:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Nella nuova gamma Samsung Odyssey c'è il primo monitor da gioco a 1100 Hz",
-      "link": "https://images.dday.it/dGGCKBVbQseEl8nWMaloY_bmKKyRhzSb07dzbfCNBSQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58510/ba122e_Samsung-TVs-and-Displays-New-Odyssey-Lineup-Fast-Paced-Gaming-Gamescom-2026_dl10.jpg",
-      "excerpt": "Samsung ha presentato a Gamescom la nuova gamma di monitor da gaming OLED e LCD. Tra le novità un monitor capace di raggiungere una frequenza di refresh rate massima di 1100 Hz.…",
-      "image": "https://images.dday.it/dGGCKBVbQseEl8nWMaloY_bmKKyRhzSb07dzbfCNBSQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58510/ba122e_Samsung-TVs-and-Displays-New-Odyssey-Lineup-Fast-Paced-Gaming-Gamescom-2026_dl10.jpg",
-      "publishedAt": "2026-08-28T09:10:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
