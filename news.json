@@ -1,24 +1,213 @@
 {
-  "generatedAt": "2026-09-01T02:54:36.729676+00:00",
+  "generatedAt": "2026-09-01T09:02:40.745145+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Migliori macchine per caffè in cialde (settembre 2026)",
-      "link": "https://www.tomshw.it/offerte/macchine-per-caffe-cialde-capsule",
-      "excerpt": "Se avete deciso di acquistare una macchina per caffè in cialde, dopo aver letto la nostra guida sulle migliori macchine da caffè, siete nel posto giusto. Le cialde E.S.E. sono una…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/87026/migliori-macchine-caffe-cialde-copertina.jpg",
-      "publishedAt": "2026-09-01T02:06:00+00:00",
+      "title": "Crimson Moon: consigli utili per i principianti",
+      "link": "https://www.tomshw.it/videogioco/crimson-moon-6-consigli-per-iniziare",
+      "excerpt": "Crimson Moon è disponibile da oggi, 1° settembre 2026. Sviluppato e pubblicato da ProbablyMonsters, è un action adventure RPG gotico in terza persona per PC, PlayStation 5 e Xbox…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/110696/Crimson-Moon-Date_06-10-26.jpg",
+      "publishedAt": "2026-09-01T09:01:58+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Migliori macchine caffè americano (settembre 2026)",
-      "link": "https://www.tomshw.it/offerte/macchine-per-caffe-americano",
-      "excerpt": "Se vi piace il caffè lungo e aromatico ma non volete affidarvi ogni volta a moka, capsule o espresso allungato con acqua calda, una macchina per caffè americano è…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/87296/migliori-macchine-caffe-americano-copertina.jpg",
-      "publishedAt": "2026-09-01T02:06:00+00:00",
+      "title": "Neocloud: cos’è, dove nasce e perché sta cambiando l’economia del cloud",
+      "link": "https://www.tomshw.it/business/neocloud-cose-dove-nasce-e-perche-sta-cambiando-leconomia-del-cloud",
+      "excerpt": "Per gran parte della storia del cloud, l’obiettivo è stato nascondere l’hardware. I server sono diventati istanze, i dischi sono diventati oggetti e le reti sono diventate servizi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109487/neocloud-cover.jpg",
+      "publishedAt": "2026-09-01T08:58:17+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Apple rilascia le Beta 8 di iOS 27 e gli altri: le novità in attesa delle RC",
+      "link": "https://www.hdblog.it/smartphone/articoli/n668982/ios-27-macos-beta-8-novita-quali/",
+      "excerpt": "Apple rilascia iOS 27 Beta 8 insieme alle nuove beta di iPadOS, macOS, watchOS, tvOS e visionOS. I test entrano nella fase finale, con il lavoro concentrato su stabilità e…",
+      "image": "https://hd2.tudocdn.net/1348687?w=660",
+      "publishedAt": "2026-09-01T08:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Scam Detection in arrivo su molti più smartphone Samsung | Rumor",
+      "link": "https://www.hdblog.it/smartphone/articoli/n668981/samsung-galaxy-s27-s25-scam-detection/",
+      "excerpt": "A quanto pare la troveremo sia sui flagship del 2027 sia su quelli del 2025 (ma niente FE).",
+      "image": "https://hd2.tudocdn.net/1300071?w=660",
+      "publishedAt": "2026-09-01T08:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "HMD 105 4G School Edition: il telefono per studenti che elimina le distrazioni",
+      "link": "https://www.hdblog.it/smartphone/articoli/n668968/hmd-105-4g-school-edition-studenti-prezzo/",
+      "excerpt": "Se non si può rinunciare a Snake è meglio scegliere qualcos'altro.",
+      "image": "https://hd2.tudocdn.net/1367150?w=660",
+      "publishedAt": "2026-09-01T08:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il Pentagono fa entrare nei suoi ranghi anche Grok e ChatGPT, usati nella piattaforma militare IA degli USA",
+      "link": "https://images.dday.it/A3PWo4aW-nnpWg5WUPKTQt1TFofcxCXBil7IvhaNu9Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58550/14b891_Depositphotos_221575454_XL.jpg",
+      "excerpt": "La piattaforma IA del Pentagono si allarga oltre Gemini. Arrivano Grok e ChatGPT per attività militari e amministrative. Claude invece è ancora in tribunale... Leggi tutto",
+      "image": "https://images.dday.it/A3PWo4aW-nnpWg5WUPKTQt1TFofcxCXBil7IvhaNu9Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58550/14b891_Depositphotos_221575454_XL.jpg",
+      "publishedAt": "2026-09-01T08:38:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Aqara FP2 sotto i 70€, 30 zone per una casa smart che reagisce davvero",
+      "link": "https://www.tomshw.it/offerte/aqara-fp2-sotto-i-70eur-30-zone-per-una-casa-smart-che-reagisce-davvero",
+      "excerpt": "Aqara FP2 a 69,34€ su Amazon scende dagli 85,99€ di listino con uno sconto del 19%. Il radar mmWave distingue fino a 30 zone della stessa stanza, permettendo alla casa connessa di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/110667/tomshw-offer-1025391.png",
+      "publishedAt": "2026-09-01T08:35:10+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Tim Cook saluta i dipendenti Apple con una toccante lettera d'addio",
+      "link": "https://www.hdblog.it/apple/articoli/n668970/im-cook-apple-john-ternus-ceo-lettera/",
+      "excerpt": "Tim Cook lascia il ruolo di CEO e affida Apple a John Ternus.",
+      "image": "https://hd2.tudocdn.net/1337180?w=660",
+      "publishedAt": "2026-09-01T08:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Server casalinghi e sistemi audio? IKEA è un alleato inaspettato per contenere i costi",
+      "link": "https://www.hdblog.it/domotica/articoli/n668976/ikea-lack-server-rack-lackrack-nas-audio/",
+      "excerpt": "Invece che spendere centinaia di euro in scaffali rack, un tavolino da 10 euro potrebbe essere tutto quello di cui avete bisogno.",
+      "image": "https://hd2.tudocdn.net/1367147?w=660",
+      "publishedAt": "2026-09-01T08:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Android Auto verso il restyling: il nuovo logo è il primo cambiamento",
+      "link": "https://www.hdblog.it/android/articoli/n668972/android-auto-nuovo-logo-restyling/",
+      "excerpt": "Google ha iniziato a distribuire ad alcuni utenti il nuovo logo di Android Auto. Il cambiamento grafico potrebbe anticipare il futuro restyling dell’interfaccia",
+      "image": "https://hd2.tudocdn.net/1037696?w=660",
+      "publishedAt": "2026-09-01T08:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "TP-Link Archer NX200 sotto i 200€, il 5G pratico per chi non ha la fibra",
+      "link": "https://www.tomshw.it/offerte/tp-link-archer-nx200-sotto-i-200eur-il-5g-pratico-per-chi-non-ha-la-fibra",
+      "excerpt": "TP-Link Archer NX200 costa 199,99€ su Amazon, al posto del prezzo di listino di 239,99€, con uno sconto del 17%. Inserendo una SIM, consente di distribuire una connessione 5G tra…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/110663/tomshw-offer-1025313.png",
+      "publishedAt": "2026-09-01T08:07:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Lewis Hamilton fa rinascere una iconica Ferrari ferma da oltre 30 anni in un garage",
+      "link": "https://www.hdmotori.it/lewis-hamilton-ferrari-garage/",
+      "excerpt": "Il 7 volte iridato ha mostrato sul profilo Instagram la sua F40 in fase di restauro dopo oltre tre decadi di abbandono, mandando in visibilio i fan della Ferrari.",
+      "image": "https://hd2.tudocdn.net/1367149?w=660",
+      "publishedAt": "2026-09-01T08:00:44+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Da oggi i chip Qualcomm costano di più. Rincari a doppia cifra",
+      "link": "https://images.dday.it/nlRbCc3yzKM9n6qgfkdzzeLHZ6kgDZFnlyosGucKq-g/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58548/b86e2f_Depositphotos_235076656_XL.jpg",
+      "excerpt": "La società attribuisce l’aumento ai maggiori costi dei fornitori. L’impatto riguarderà modem e chip destinati a produttori come Apple e Samsung... Leggi tutto",
+      "image": "https://images.dday.it/nlRbCc3yzKM9n6qgfkdzzeLHZ6kgDZFnlyosGucKq-g/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58548/b86e2f_Depositphotos_235076656_XL.jpg",
+      "publishedAt": "2026-09-01T07:56:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Revolut lancia AIR: l'assistente AI per gestire soldi, investimenti e viaggi",
+      "link": "https://www.hdblog.it/smartphone/articoli/n668962/revolut-lancia-air-lassistente-ai/",
+      "excerpt": "AIR permette di interagire con diversi servizi di Revolut attraverso una singola chat",
+      "image": "https://hd2.tudocdn.net/1314296?w=660",
+      "publishedAt": "2026-09-01T07:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "GrapheneOS non arriverà sul Pixel 11: manca una protezione hardware fondamentale",
+      "link": "https://images.dday.it/bpq0X0CxzR__JqqgBs3adVgPtK8DYyRXnyjBvKDBRP4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58547/6d605a_Screenshot_2026-09-01_alle_09.48.44.png",
+      "excerpt": "La funzione si chiama Memory Tagging Extension e aiuta a impedire che alcuni errori di memoria diventino attacchi reali. Era presente sui Pixel delle tre generazioni precedenti.…",
+      "image": "https://images.dday.it/bpq0X0CxzR__JqqgBs3adVgPtK8DYyRXnyjBvKDBRP4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58547/6d605a_Screenshot_2026-09-01_alle_09.48.44.png",
+      "publishedAt": "2026-09-01T07:53:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "JBL sfida Sonos con il nuovo sistema di diffusori Wi-Fi JBL Cove",
+      "link": "https://images.dday.it/AGLOsQDAsui_XXKZHn0eMUiEMyvesuQkmRJb1m_tUa8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58549/d8263d_696853-JBL_Cove_M1_lifestyle__1_-5775a4-original-1787833486.jpeg",
+      "excerpt": "JBL ha tolto i veli ad un nuovo ecosistema multi room e multi speaker denominato JBL Cove: si può configurare anche senza app ed è già compatibile con la gamma di soundbar MK2 per…",
+      "image": "https://images.dday.it/AGLOsQDAsui_XXKZHn0eMUiEMyvesuQkmRJb1m_tUa8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58549/d8263d_696853-JBL_Cove_M1_lifestyle__1_-5775a4-original-1787833486.jpeg",
+      "publishedAt": "2026-09-01T07:50:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Samsung Galaxy S27 Ultra, ritorno alle origini con una sola tele 4X?",
+      "link": "https://www.hdblog.it/smartphone/articoli/n668967/galaxy-s27-ultra-telefoto-4x-sensore-grande/",
+      "excerpt": "Addio alla doppia tele (3x e 5x) in favore di una singola 4x ma con sensore molto grande?",
+      "image": "https://hd2.tudocdn.net/910722?w=660",
+      "publishedAt": "2026-09-01T07:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Occhiali smart al ristorante? Iniziano i primi divieti",
+      "link": "https://www.hdblog.it/indossabili/articoli/n668966/smart-glasses-ristoranti-divieti-privacy/",
+      "excerpt": "Gli smart glasses arrivano a tavola, ma telecamere e AI sollevano nuovi problemi di privacy.",
+      "image": "https://hd2.tudocdn.net/1367134?w=660",
+      "publishedAt": "2026-09-01T07:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Logitech G402 a 39,29€, 500 IPS per non perdere il controllo negli FPS",
+      "link": "https://www.tomshw.it/offerte/logitech-g402-a-3929eur-500-ips-per-non-perdere-il-controllo-negli-fps",
+      "excerpt": "Logitech G G402 costa 39,29€ su Amazon invece dei 49,99€ di listino, con uno sconto dichiarato del 21%. Il Fusion Engine raggiunge i 500 IPS e lavora con una risposta di 1 ms,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/110661/tomshw-offer-1025255.png",
+      "publishedAt": "2026-09-01T07:34:46+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori robot lavavetri: guida alla scelta (settembre 2026)",
+      "link": "https://www.tomshw.it/altro/migliori-robot-lavavetri-guida-alla-scelta",
+      "excerpt": "ECOVACS WINBOT W2 PRO OMNI è il miglior robot lavavetri della selezione per grandi superfici e finestre difficili da raggiungere: funziona a batteria o collegato alla rete,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/110654/guide-thw-1025205.png",
+      "publishedAt": "2026-09-01T07:23:10+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Ecco i dispositivi Wi-Fi 8 di TP-Link: debuttano Archer 8 Ultra e Deco 8 Ultra",
+      "link": "https://images.dday.it/uW5mx6FpKSaYqh43yZZenjDB14heAqcj-kWF755Uazk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58543/c95074_Archer_8_Ultra_Deco_8_Ultra_Hero.png",
+      "excerpt": "La nuova gamma punta più sulla stabilità che sulla sola velocità: fino a 22 Gbps, copertura più uniforme e gestione migliore delle reti affollate... Leggi tutto",
+      "image": "https://images.dday.it/uW5mx6FpKSaYqh43yZZenjDB14heAqcj-kWF755Uazk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58543/c95074_Archer_8_Ultra_Deco_8_Ultra_Hero.png",
+      "publishedAt": "2026-09-01T07:05:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Migliori VPN per la Cina (settembre 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-vpn-cina",
+      "excerpt": "La censura di internet in Cina è notoriamente tra le più severe al mondo. Il cosiddetto Great Firewall (letteralmente “Grande Firewall”, in assonanza con la Grande Muraglia)...",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/87302/migliori-vpn-cina-copertina.jpg",
+      "publishedAt": "2026-09-01T06:12:38+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori VPN streaming - non solo Netflix (settembre 2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-vpn-streaming",
+      "excerpt": "Al giorno d'oggi, scegliere la migliore VPN per lo streaming non significa soltanto cambiare indirizzo IP per vedere un catalogo estero. Le piattaforme riconoscono sempre meglio…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/87299/migliori-vpn-streaming-copertina.jpg",
+      "publishedAt": "2026-09-01T06:08:30+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -32,105 +221,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Oltre 30 ore di musica: Marshall Minor IV a 79,99€, un affare",
-      "link": "https://www.tomshw.it/offerte/oltre-30-ore-di-musica-marshall-minor-iv-a-7999eur-un-affare",
-      "excerpt": "Gli auricolari Marshall Minor IV costano 79,99€ su Amazon anziché 129€, con uno sconto dichiarato del 38%. Oltre 30 ore di riproduzione e il Bluetooth multipoint li rendono…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/110592/tomshw-offer-1012762.png",
-      "publishedAt": "2026-08-31T20:04:55+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "ANNO 117: Pax Romana PS5 scontato del 50%, un affare per gli strateghi",
-      "link": "https://www.tomshw.it/offerte/anno-117-pax-romana-ps5-scontato-del-50-un-affare-per-gli-strateghi",
-      "excerpt": "ANNO 117: Pax Romana per PS5 costa 29,99€ su Amazon, con il 50% di sconto sul listino di 59,99€. Il gestionale strategico di Ubisoft porta costruzione, politica e guerra nel cuore…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/110591/tomshw-offer-1012752.png",
-      "publishedAt": "2026-08-31T19:35:40+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Tassa UE sui pacchi cinesi, importazioni in calo fino al 40%",
-      "link": "https://www.hdblog.it/mercato/articoli/n668913/tassa-ue-pacchi-cinesi-temu-aliexpress/",
-      "excerpt": "La tassa da 3 euro frena i pacchi cinesi: importazioni UE in calo fino al 40%.",
-      "image": "https://hd2.tudocdn.net/1366990?w=660",
-      "publishedAt": "2026-08-31T19:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "eufy S330 4G LTE a 178,99€, mai così poco per sorvegliare senza Wi-Fi",
-      "link": "https://www.tomshw.it/offerte/eufy-s330-4g-lte-a-17899eur-mai-cosi-poco-per-sorvegliare-senza-wi-fi",
-      "excerpt": "eufy Security S330 4G LTE costa 178,99€ su Amazon, da un listino di 229,99€ e con uno sconto del 22%. Pannello solare, batteria e connessione mobile permettono di sorvegliare in…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/110590/tomshw-offer-1012728.png",
-      "publishedAt": "2026-08-31T18:35:35+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "iPhone 20 sarà così? La rivoluzione nel design di Apple anticipata da un video",
-      "link": "https://www.hdblog.it/smartphone/articoli/n668940/iphone-20--render-prosser-batteria-silicio-design/",
-      "excerpt": "Prosser anticipa anche una batteria al silicio-carbonio.",
-      "image": "https://hd2.tudocdn.net/1367099?w=660",
-      "publishedAt": "2026-08-31T18:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "La TV arriva su PlayStation 5: gratuita ma con pubblicità, per ora solo in USA",
-      "link": "https://www.hdblog.it/sony/articoli/n668941/sony-ps5-live-tv-streaming-pubblicita-gratis-usa/",
-      "excerpt": "La società intende espandersi in Canada e altre regioni nei prossimi mesi.",
-      "image": "https://hd2.tudocdn.net/1365221?w=660",
-      "publishedAt": "2026-08-31T18:09:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Logitech H390 sotto i 25€, un affare per chiamate chiare al PC",
-      "link": "https://www.tomshw.it/offerte/logitech-h390-sotto-i-25eur-un-affare-per-chiamate-chiare-al-pc",
-      "excerpt": "La Logitech H390 costa 24,99€ su Amazon, invece di 39,99€, con uno sconto del 38%. Il collegamento USB-A immediato e i controlli sul cavo la rendono pratica per riunioni, lezioni…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/110589/tomshw-offer-1012701.png",
-      "publishedAt": "2026-08-31T18:05:15+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Meta AI inizia a fare capolino su Apple CarPlay: test limitati negli USA",
-      "link": "https://www.hdblog.it/apple/articoli/n668939/meta-ai-apple-carplay-iphone-app-chatbot/",
-      "excerpt": "Per ora l'esperienza sembra accessibile a un numero limitato di utenti.",
-      "image": "https://hd2.tudocdn.net/1262651?w=660",
-      "publishedAt": "2026-08-31T17:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Unimicron accusata di spacciare per \"Made in Taiwan\" componenti cinesi",
-      "link": "https://www.hdblog.it/hardware/articoli/n668937/unimicron-accusa-taiwan-prodotti-origine-falsa/",
-      "excerpt": "La società è una delle fornitrici chiave del settore dei semiconduttori.",
-      "image": "https://hd2.tudocdn.net/1367089?w=660",
-      "publishedAt": "2026-08-31T17:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "52,31€ in meno sul Withings ScanWatch 2, fino a 35 giorni di autonomia",
-      "link": "https://www.tomshw.it/offerte/5231eur-in-meno-sul-withings-scanwatch-2-fino-a-35-giorni-di-autonomia",
-      "excerpt": "Withings ScanWatch 2 costa 279,95€ su Amazon, con 52,31€ di risparmio rispetto ai 332,26€ di listino e uno sconto dichiarato del 16%. È pensato per chi vuole seguire cuore, sonno…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/110587/tomshw-offer-1012692.png",
-      "publishedAt": "2026-08-31T17:35:41+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Stellantis, torna il turbodiesel MultiJet: 160 CV e affidabilità massima",
-      "link": "https://www.hdmotori.it/stellantis-turbodiesel-multijet-160-cv/",
-      "excerpt": "Il colosso italofrancese ha deciso di riportare in auge un motore che mancava in gamma. I dettagli della scelta di Stellantis.",
-      "image": "https://hd2.tudocdn.net/1367087?w=660",
-      "publishedAt": "2026-08-31T17:30:32+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Instagram contro i finti influencer: arriva l'etichetta per individuare i profili generati con IA",
       "link": "https://images.dday.it/YJmc1PPyj77ADuRn4wGpC744uO4VxhhYtubLR5AXDDs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58546/c06a70_a2.png",
       "excerpt": "Chi non la attiva verrà fortemente penalizzato dall'algoritmo. Si tratta di un'operazione volta ad aumentare la trasparenza verso gli utenti... Leggi tutto",
@@ -140,51 +230,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Il ritorno in ufficio è un momento delicato per la cybersicurezza",
-      "link": "https://www.hdblog.it/business/articoli/n668934/ritorno-ufficio-malware-rischio-kaspersky-analisi/",
-      "excerpt": "Sono tanti gli attacchi che si mascherano da strumenti di produttività cloud molto diffusi, e la fine delle vacanze è un momento particolarmente delicato.",
-      "image": "https://hd2.tudocdn.net/1351739?w=660",
-      "publishedAt": "2026-08-31T17:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Harvard trasforma batteri marini in alleati contro la CO2",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n668834/harvard-trasforma-batteri-marini-in-alleati-contro-la-co2/",
-      "excerpt": "Batteri modificati accelerano l’olivina e aumentano la rimozione della CO₂ atmosferica.",
-      "image": "https://hd2.tudocdn.net/1366469?w=660",
-      "publishedAt": "2026-08-31T17:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Disney+, un cliente italiano ha ricevuto un rimborso eccezionale di 40 euro",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n668922/disney-cliente-italiano-rimborso-40-euro/",
-      "excerpt": "Potreste riceverlo anche voi, a queste condizioni",
-      "image": "https://hd2.tudocdn.net/1367084?w=660",
-      "publishedAt": "2026-08-31T17:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "33,14€ in meno sull’aspirapolvere auto HOTO, un affare da 20.000 Pa",
-      "link": "https://www.tomshw.it/offerte/3314eur-in-meno-sullaspirapolvere-auto-hoto-un-affare-da-20000-pa",
-      "excerpt": "L’aspirapolvere auto portatile HOTO costa 56,85€ su Amazon, anziché 89,99€, con uno sconto del 37%. La combinazione di aspirazione fino a 20.000 Pa e quattro funzioni concentra in…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/110586/tomshw-offer-1012676.png",
-      "publishedAt": "2026-08-31T17:06:01+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Reattori nucleari grandi come container: il segreto è nel combustibile",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n668896/reattori-nucleari-container-segreto-combustibile/",
-      "excerpt": "Antares si assicura 8 tonnellate di TRISO per microreattori terrestri e spaziali",
-      "image": "https://hd2.tudocdn.net/1366747?w=660",
-      "publishedAt": "2026-08-31T16:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "LG lancerà a IFA ThinQ Claw, agente stile OpenClaw per il suo ecosistema smart",
       "link": "https://images.dday.it/UazgVjbHfQarH8_YAF8G5ksF9jQcBKmkedgoDOvrhcY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58545/aaffee_LG_AI_Home_IFA_Pic3.png",
       "excerpt": "LG ha annunciato che mostrerà a IFA l’evoluzione della sua piattaforma per la smart home ThinQ con l’integrazione di un agente IA in stile OpenClaw: sarà possibile creare scenari…",
@@ -192,6 +237,15 @@
       "publishedAt": "2026-08-31T15:25:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
+    },
+    {
+      "title": "Fino a 20.000 euro a fondo perduto per cloud e cybersecurity, ecco come le PMI possono partecipare",
+      "link": "https://www.tomshw.it/business/fino-a-20000-euro-a-fondo-perduto-per-cloud-e-cybersecurity-ecco-come-le-pmi-possono-partecipare",
+      "excerpt": "Le PMI e i lavoratori autonomi possono chiedere un contributo a fondo perduto per acquistare servizi cloud e strumenti di cybersecurity. Il fondo vale 150 milioni di euro, con 71…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/110552/09-voucher-cloud-cybersecurity.jpg",
+      "publishedAt": "2026-08-31T14:30:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Gemini Nano, AI e agenti: ecco dove il Tensor G6 va più veloce dello Snapdragon",
@@ -212,67 +266,13 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Claude Code, l'annuncio di un aumento dei limiti nasconde in realtà un taglio del 17%",
-      "link": "https://images.dday.it/IOGdC05mtjc1V4MPEPwMLS0HV5lxOtba8Lk_Wl8GKIQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58542/b565fa_fadeed6b-d829-4312-9d63-97f026a5ff34.jpg",
-      "excerpt": "Anthropic promette dal 14 settembre un +25% permanente rispetto ai limiti originari di Claude Code, ma rispetto alla soglia oggi in vigore la variazione è una riduzione... Leggi…",
-      "image": "https://images.dday.it/IOGdC05mtjc1V4MPEPwMLS0HV5lxOtba8Lk_Wl8GKIQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58542/b565fa_fadeed6b-d829-4312-9d63-97f026a5ff34.jpg",
-      "publishedAt": "2026-08-31T14:15:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Un immenso database di Steam è finito online con 12 TB di videogiochi pubblicati tra il 2003 e il 2013",
-      "link": "https://images.dday.it/OkpmsYdeTw917n2_w5-iAAVIl0uLhaDMAo8MJCWDFZw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58538/028d9d_ss_f3f6787d74739d3b2ec8a484b5c994b3d31ef325.1920x1080.jpg",
-      "excerpt": "Finito in rete quello che appare essere un archivio di 12 Terabyte di dati della vecchia architettura Steam2 dello store di Valve, contenente migliaia di videogiochi pubblicati su…",
-      "image": "https://images.dday.it/OkpmsYdeTw917n2_w5-iAAVIl0uLhaDMAo8MJCWDFZw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58538/028d9d_ss_f3f6787d74739d3b2ec8a484b5c994b3d31ef325.1920x1080.jpg",
-      "publishedAt": "2026-08-31T13:44:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Nissan e Honda uniscono le forze sul software: piattaforma comune per le auto dal 2029",
-      "link": "https://images.dday.it/qAP5MaYpW_6PwPIUQ6mvYS4potk83BzpE81-ShPeA9M/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58539/8427fd_nissan_honda_thumb.jpg",
-      "excerpt": "I due costruttori svilupperanno insieme centraline elettroniche, sistemi operativi e parte del software dei futuri veicoli definiti dal software. Mitsubishi valuta l’ingresso nel…",
-      "image": "https://images.dday.it/qAP5MaYpW_6PwPIUQ6mvYS4potk83BzpE81-ShPeA9M/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58539/8427fd_nissan_honda_thumb.jpg",
-      "publishedAt": "2026-08-31T13:32:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Scoring per valutare i clienti senza trasparenza, arrivano le multe",
-      "link": "https://www.tomshw.it/business/scoring-per-valutare-i-clienti-senza-trasparenza-arrivano-le-multe",
-      "excerpt": "Il Garante Privacy sanziona quattro società per complessivi 7,72 milioni di euro, con un provvedimento datato 3 luglio 2026. Il testo integrale diventa pubblico solo il 21 luglio,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/110481/08-garante-scoring-sanzioni.jpg",
-      "publishedAt": "2026-08-31T13:15:04+00:00",
+      "title": "Quando la penna era la nostra unica mappa",
+      "link": "https://www.tomshw.it/videogioco/quando-la-penna-era-la-nostra-unica-mappa",
+      "excerpt": "Fate un piccolo salto indietro nel tempo e riaprite la cassettiera della vostra vecchia scrivania da adolescenti, oppure curiosate dentro uno di quegli scatoloni che conservate in…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/110373/another-world-(2).jpg",
+      "publishedAt": "2026-08-31T07:33:17+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Per il DSA dell'UE ChatGPT diventa ufficialmente un grande motore di ricerca, e Reddit e Roblox grandi piattaforme",
-      "link": "https://images.dday.it/YH6QuauL2R7kX3oE3T0r7OVWzu04mO5-vw80mgEgIU4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58537/054043_Immagine_Codex_31_ago_2026__15_10_07.png",
-      "excerpt": "La Commissione ha designato i tre servizi come \"very large\" sotto il Digital Services Act. A ChatGPT tocca la responsabilità di essere un grande motore di ricerca... Leggi tutto",
-      "image": "https://images.dday.it/YH6QuauL2R7kX3oE3T0r7OVWzu04mO5-vw80mgEgIU4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58537/054043_Immagine_Codex_31_ago_2026__15_10_07.png",
-      "publishedAt": "2026-08-31T13:11:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Digital Twin su software aziendali, per testare AI e modifiche senza rischi",
-      "link": "https://www.tomshw.it/business/digital-twin-su-software-aziendali-per-testare-ai-e-modifiche-senza-rischi",
-      "excerpt": "Arga Labs costruisce copie digitali di applicazioni aziendali come Salesforce e Workday, ambienti dove un agente IA prova azioni reali senza toccare i dati di produzione veri. Il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/110467/07-gemelli-digitali-sandbox-agenti.jpg",
-      "publishedAt": "2026-08-31T11:35:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "La kei car di BYD arriverà in Europa? Il costruttore è pronto a riutilizzare la tecnologia X-PACK",
-      "link": "https://images.dday.it/LQVgkKbnHwlbWCYgebZpJjrAkohXdAJo9eZHmLxe0S0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58535/152828_racco_thumb.jpg",
-      "excerpt": "BYD starebbe preparando una nuova famiglia di auto elettriche di piccole dimensioni basata sulla tecnologia sviluppata per Racco, la sua kei car giapponese... Leggi tutto",
-      "image": "https://images.dday.it/LQVgkKbnHwlbWCYgebZpJjrAkohXdAJo9eZHmLxe0S0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58535/152828_racco_thumb.jpg",
-      "publishedAt": "2026-08-31T10:38:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
     }
   ]
 }
