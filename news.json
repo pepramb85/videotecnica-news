@@ -1,24 +1,186 @@
 {
-  "generatedAt": "2026-09-01T14:25:49.939316+00:00",
+  "generatedAt": "2026-09-01T19:04:45.065944+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "La beta di One UI 9 arriva anche sui Galaxy S25 ed altri smartphone Samsung",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669017/aggiornamento-samsung-galaxy-s25-one-ui-9/",
-      "excerpt": "Samsung estende la beta di One UI 9 ai Galaxy S25 ed ai pieghevoli in quattro mercati internazionali.",
-      "image": "https://hd2.tudocdn.net/1367344?w=660",
-      "publishedAt": "2026-09-01T14:10:00+00:00",
+      "title": "Fujinon svela l'obiettivo 4K che arriva fino a 818 mm",
+      "link": "https://www.tomshw.it/altro/fujinon-ua94x87besm-lo-zoom-4k-arriva-a-818-mm",
+      "excerpt": "Fujifilm amplia la propria gamma professionale con il FUJINON UA94x8.7BESM, un obiettivo zoom box-type 4K destinato alle telecamere broadcast con sensore da 2/3 di pollice. Il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/110738/fujinon-ua94x8-7besm-zoom-broadcast-4k.jpg",
+      "publishedAt": "2026-09-01T18:57:30+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Anthropic lancia Claude Fable 5.1 e Mythos 5.1: più efficienza e meno blocchi",
+      "link": "https://www.tomshw.it/business/anthropic-lancia-claude-fable-51-e-mythos-51-piu-efficienza-e-meno-blocchi",
+      "excerpt": "Anthropic ha annunciato il debutto di Claude Fable 5.1 e Claude Mythos 5.1, due nuovi modelli pensati per rafforzare le capacità della famiglia Claude nel coding, nel lavoro della…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/110909/claude-fable-5-1-mythos-5-1.png",
+      "publishedAt": "2026-09-01T18:48:01+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "ELEGOO Saturn 4 Ultra 16K a 615,58€, il kit che stampa, lava e polimerizza",
+      "link": "https://www.tomshw.it/offerte/elegoo-saturn-4-ultra-16k-a-61558eur-il-kit-che-stampa-lava-e-polimerizza",
+      "excerpt": "ELEGOO Saturn 4 Ultra 16K costa 615,58€ su Amazon, con una riduzione del 6% rispetto ai 651,98€ abituali. Il bundle riunisce stampa, lavaggio e polimerizzazione, evitando di dover…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/110908/tomshw-offer-1026660.png",
+      "publishedAt": "2026-09-01T18:34:47+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Horizon Zero Dawn Remastered a 19,99€, il minimo di sempre per PS5",
+      "link": "https://www.tomshw.it/offerte/horizon-zero-dawn-remastered-a-1999eur-il-minimo-di-sempre-per-ps5",
+      "excerpt": "Horizon Zero Dawn Remastered costa 19,99€ su Amazon: dai 31,90€ di listino, il taglio del 37% porta l’edizione PS5 al suo minimo storico. La riedizione combina grafica rinnovata,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/110905/tomshw-offer-1026633.png",
+      "publishedAt": "2026-09-01T18:05:38+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Mozilla Firefox, arriva l'ad blocker integrato nella versione per iOS",
+      "link": "https://www.hdblog.it/apple/articoli/n669050/mozilla-firefox-ios-ad-blocker-integrato-rollout/",
+      "excerpt": "Si basa su tecnologia sviluppata da Apple stessa.",
+      "image": "https://hd2.tudocdn.net/1262176?w=660",
+      "publishedAt": "2026-09-01T18:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "La TV Samsung da 98 pollici non era mai costata così poco: 1.229€ per il 4K",
-      "link": "https://www.tomshw.it/offerte/la-tv-samsung-da-98-pollici-non-era-mai-costata-cosi-poco-1229eur-per-il-4k",
-      "excerpt": "Samsung TV LED 4K da 98 pollici costa 1.229€ su Amazon, contro i 1.399€ di listino e con uno sconto del 7% dichiarato dal merchant. La diagonale enorme permette di seguire film,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/110844/tomshw-offer-1026167.png",
-      "publishedAt": "2026-09-01T14:05:47+00:00",
+      "title": "Le offrono 350mila dollari per la sua Ferrari modificata: venderla però non è semplice",
+      "link": "https://www.hdmotori.it/emelia-hartford-ferrari-458-liberty-walk-offerta/",
+      "excerpt": "Un concessionario offre 350.000$ a Emelia Hartford per la sua Ferrari 458 Liberty Walk. Cifra record, ma per la YouTuber è il progetto di una vita. Venderà?",
+      "image": "https://hd2.tudocdn.net/1367398?w=660",
+      "publishedAt": "2026-09-01T18:00:55+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Crimson Desert, Pearl Abyss inarrestabile: nuova patch e demo via cloud!",
+      "link": "https://www.hdblog.it/windows/articoli/n669049/crimson-desert-nuova-patch-cloud-demo-gratis/",
+      "excerpt": "Pearl Abyss Studios dimostra a tutti come si fa a prendersi cura di un AAA.",
+      "image": "https://hd2.tudocdn.net/1339116?w=660",
+      "publishedAt": "2026-09-01T17:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Chrome su Android \"alza l'asticella\" con l'ultimo redesign: forse un po' troppo",
+      "link": "https://www.hdblog.it/google/articoli/n669047/chrome-android-nuova-interfaccia-barra-navigazione/",
+      "excerpt": "Un'aggiunta che crea un effetto decisamente sgradevole.",
+      "image": "https://hd2.tudocdn.net/829674?w=660",
+      "publishedAt": "2026-09-01T17:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "iPhone 18 Pro e Pro Max, le ultime sui colori: saranno tre, tutti inediti",
+      "link": "https://www.hdblog.it/smartphone/articoli/n669048/apple-iphone-18-pro-max-colori-dark-cherry/",
+      "excerpt": "In un caso più unico che raro, tutti e tre i colori potrebbero essere inediti rispetto alla generazione precedente.",
+      "image": "https://hd2.tudocdn.net/1349340?w=660",
+      "publishedAt": "2026-09-01T17:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Logitech G413 SE a 49,99€, una meccanica full size che vale la spesa",
+      "link": "https://www.tomshw.it/offerte/logitech-g413-se-a-4999eur-una-meccanica-full-size-che-vale-la-spesa",
+      "excerpt": "Logitech G413 SE costa 49,99€ su Amazon, contro un prezzo di listino di 79,99€, con uno sconto del 38%. Copritasti in PBT, switch meccanici tattili e telaio in alluminio la…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/110904/tomshw-offer-1026615.png",
+      "publishedAt": "2026-09-01T17:34:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Nintendo Switch 2, aumentano i prezzi da oggi (ma c'è ancora qualche offerta)",
+      "link": "https://www.hdblog.it/nintendo/articoli/n669046/nintendo-switch-2-aumenti-quanto-offerte-promo/",
+      "excerpt": "Da 469€ si passa a 499.",
+      "image": "https://hd2.tudocdn.net/1343103?w=660",
+      "publishedAt": "2026-09-01T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Bosch Professional GBH 2-21 D a 89,94€, minimo storico per forare il calcestruzzo",
+      "link": "https://www.tomshw.it/offerte/bosch-professional-gbh-2-21-d-a-8994eur-minimo-storico-per-forare-il-calcestruzzo",
+      "excerpt": "Bosch Professional GBH 2-21 D costa 89,94€ su Amazon, contro un prezzo di listino di 115,54€ e con uno sconto del 22%. Il motore da 720 W e l’energia del colpo di 2,0 J lo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/110900/tomshw-offer-1026602.png",
+      "publishedAt": "2026-09-01T17:05:28+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Qualcomm sempre più cara: gli aumenti dei listini sono attivi da oggi",
+      "link": "https://www.hdblog.it/hardware/articoli/n669042/qualcomm-aumento-listini-chip-crisi-costi/",
+      "excerpt": "Indovinate chi ne farà in ultimo le spese?",
+      "image": "https://hd2.tudocdn.net/1308996?w=660",
+      "publishedAt": "2026-09-01T17:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Arriva la nuova Porsche 911 GT3 Bergsport, 100 esemplari esclusivissimi",
+      "link": "https://www.hdmotori.it/nuova-porsche-911-gt3-bergsport-100-esemplari/",
+      "excerpt": "Vernice ispirata alle Alpi e potenza da brividi: l’edizione dell’anno della Porsche 911 GT3 Bergsport è fatta per le curve",
+      "image": "https://hd2.tudocdn.net/1367388?w=660",
+      "publishedAt": "2026-09-01T17:00:45+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Un aereo attraversa la Luna durante l’eclissi: la foto è spettacolare",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n669010/eclissi-lunare-aereo-luna-portogallo/",
+      "excerpt": "Un aereo incrocia la Luna durante l’eclissi in uno spettacolare gioco di prospettiva.",
+      "image": "https://hd2.tudocdn.net/1367333?w=660",
+      "publishedAt": "2026-09-01T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple interrompe il supporto per 3 modelli di MacBook Intel",
+      "link": "https://www.hdblog.it/portatili/articoli/n669019/apple-interrompe--supporto-3-modelli-macbook-intel/",
+      "excerpt": "Riparazioni più difficili",
+      "image": "https://hd2.tudocdn.net/1367379?w=660",
+      "publishedAt": "2026-09-01T16:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Sony rinnova la gamma ULT: arrivano Tower 5, Tower 7 e Tower Max. Fino a 2.150 W",
+      "link": "https://images.dday.it/3Gso_nL9UPa3yRGM-nag1be6U7JKgWeLLLwg3h8UzPI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58540/69ba59_FY26_ULT_Family_KV1-Large.jpg",
+      "excerpt": "Nuovi woofer circolari, più LED, modalità audio riviste e collegamento tra più speaker tramite Auracast. I prezzi indicativi vanno da circa 400 a 1.500 euro... Leggi tutto",
+      "image": "https://images.dday.it/3Gso_nL9UPa3yRGM-nag1be6U7JKgWeLLLwg3h8UzPI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58540/69ba59_FY26_ULT_Family_KV1-Large.jpg",
+      "publishedAt": "2026-09-01T16:00:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Sonos allarga la gamma premium con le nuove Beam Ultra e Ace Ultra: più integrazione e ChatGPT con l’OS Sonos 27",
+      "link": "https://images.dday.it/lKXhhpcqD55nS6shhe6w_TK48UMi3wet9X5qWf-U_Rg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58544/042f2a_Sonos_BeamUltra__Black_Lifestyle.JPG",
+      "excerpt": "Beam Ultra porta per la prima volta due driver up-firing nella gamma compatta Sonos, con Dolby Atmos 7.1.2, mentre Ace Ultra migliora ANC, autonomia e integrazione domestica...…",
+      "image": "https://images.dday.it/lKXhhpcqD55nS6shhe6w_TK48UMi3wet9X5qWf-U_Rg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58544/042f2a_Sonos_BeamUltra__Black_Lifestyle.JPG",
+      "publishedAt": "2026-09-01T14:52:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Usare una supercar al posto di un'utilitaria è stupido, ma è ciò che facciamo con l'AI",
+      "link": "https://www.tomshw.it/business/usare-una-supercar-al-posto-di-unutilitaria-e-stupido-ma-e-cio-che-facciamo-con-lai",
+      "excerpt": "Un'azienda che compra accesso a un assistente AI ha davanti un intero catalogo di modelli, ciascuno con un prezzo diverso per la stessa domanda. Nella pratica quasi nessuno guarda…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/110841/08-modelli-piccoli-router.jpg",
+      "publishedAt": "2026-09-01T14:05:04+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Gli agenti AI autenticati sono ancora un problema (serio) da gestire",
+      "link": "https://www.tomshw.it/business/gli-agenti-ai-autenticati-sono-ancora-un-problema-serio-da-gestire",
+      "excerpt": "Un agente AI supera l'autenticazione aziendale, riceve un token valido, e da quel momento è libero di agire quanto un dipendente appena assunto. Il controllo di identità risponde…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/110840/07-agenti-ai-identita-runtime.jpg",
+      "publishedAt": "2026-09-01T14:05:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -32,60 +194,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Putin guida la \"nuova\" Volga: ma sotto la scocca c'è un'auto cinese",
-      "link": "https://www.hdmotori.it/nuova-volga-k50-putin-suv-cinese-geely/",
-      "excerpt": "Putin testa la nuova Volga K50 a Nižnij Novgorod. Il SUV russo rilancia lo storico marchio, ma nasconde piattaforma, motore e tecnologia della cinese Geely",
-      "image": "https://hd2.tudocdn.net/1367347?w=660",
-      "publishedAt": "2026-09-01T14:00:21+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "L'AI accelera la corsa ai chip, SEMI alza ancora le stime",
-      "link": "https://www.tomshw.it/hardware/lai-accelera-la-corsa-ai-chip-semi-alza-ancora-le-stime",
-      "excerpt": "SEMI ha alzato a 220 miliardi di dollari la previsione delle vendite globali di attrezzature per la produzione di wafer nel 2028, rispetto ai circa 200 miliardi stimati a luglio.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/110836/l-ai-accelera-la-corsa-ai-chip-semi-alza-ancora-le-stime.png",
-      "publishedAt": "2026-09-01T13:48:28+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "FRITZ compie 40 anni e rinnova la casa connessa a IFA 2026",
-      "link": "https://www.tomshw.it/hardware/fritz-compie-40-anni-e-rinnova-la-casa-connessa-a-ifa-2026",
-      "excerpt": "FRITZ! presenterà nuovi prodotti per la casa connessa durante IFA 2026, la fiera dell'elettronica di consumo in programma a Berlino. L'annuncio trasforma il quarantesimo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/110835/fritz-compie-40-anni-e-rinnova-la-casa-connessa-a-ifa-2026.png",
-      "publishedAt": "2026-09-01T13:47:41+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Logitech G Saitek PRO Flight a 204,48€, yoke e pedaliera al minimo storico",
-      "link": "https://www.tomshw.it/offerte/logitech-g-saitek-pro-flight-a-20448eur-yoke-e-pedaliera-al-minimo-storico",
-      "excerpt": "Logitech G Saitek PRO Flight Yoke System con pedaliera costa 204,48€ su Amazon, anziché 269,98€, con uno sconto del 24%. Il bundle porta sulla scrivania i due comandi dedicati che…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/110830/tomshw-offer-1026072.png",
-      "publishedAt": "2026-09-01T13:35:47+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Switch 2, c'è un Nintendo Direct dietro l'angolo per i rumor",
-      "link": "https://www.hdblog.it/nintendo/articoli/n669018/nintendo-direct-switch-2-10-settembre-data-2026/",
-      "excerpt": "Ecco quando e cosa possiamo aspettarci.",
-      "image": "https://hd2.tudocdn.net/1266508?w=660",
-      "publishedAt": "2026-09-01T13:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Honor Choice: non solo mini aspirapolvere, fa 5 cose in 1",
-      "link": "https://www.hdblog.it/honor/articoli/n668993/honor-choice-mini-aspirapolvere-5-in-1/",
-      "excerpt": "HONOR lancia CHOICE Vacuum Cleaner Mini, un aspirapolvere portatile 5 in 1 pensato per la pulizia profonda di auto e casa: aspira fino a 21.000Pa, soffia, mette sottovuoto, gonfia…",
-      "image": "https://hd2.tudocdn.net/1367219?w=660",
-      "publishedAt": "2026-09-01T13:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Aggiornata Renault Scenic E-Tech Electric: fino a 642 km di autonomia e più tecnologia a bordo",
       "link": "https://images.dday.it/6RfXUMhTqdnIVkSYxumeNFdFuru14kl-LgZTDxQkNtU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58555/3a531d_scenic_thumb.jpg",
       "excerpt": "La monovolume elettrica introduce nuove batterie da 89 e 67 kWh, migliora la ricarica rapida e aggiunge Gemini, nuovi ADAS e funzioni di personalizzazione... Leggi tutto",
@@ -93,33 +201,6 @@
       "publishedAt": "2026-09-01T13:19:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Xiaomi Redmi Note 15 a poco più di 160€: la batteria è da 6000mAh",
-      "link": "https://www.hdblog.it/smartphone/offerte/n669016/xiaomi-redmi-note-15-a-poco-piu-di-160e-ebay/",
-      "excerpt": "Prezzo ancora più competitivo per lo Xiaomi Redmi Note 15, smartphone con batteria da 6000mAh.",
-      "image": "https://hd2.tudocdn.net/1367345?w=660",
-      "publishedAt": "2026-09-01T13:19:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Rincari RTX 5090 Blackwell: le PMI italiane ricalcolano budget e procurement AI",
-      "link": "https://www.tomshw.it/business/il-budget-per-le-workstation-ai-delle-pmi-italiane-sale-con-la-rtx-5090-a-4850-euro",
-      "excerpt": "Il prezzo europeo della GeForce RTX 5090 ha raggiunto 4.850 euro per una MSI Gaming Trio OC, più del doppio rispetto ai 2.249 euro rilevati un anno prima. Per le PMI italiane che…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/110819/il-budget-per-le-workstation-ai-delle-pmi-italiane-sale-con-la-rtx-5090-a-4850-euro.png",
-      "publishedAt": "2026-09-01T13:14:52+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Batterie al silicio, 100 milioni per superare il nodo della produzione",
-      "link": "https://www.tomshw.it/hardware/nexeon-raccoglie-100-milioni-le-batterie-al-silicio-accelerano",
-      "excerpt": "Nexeon ha raccolto 100 milioni di sterline per ampliare nel Regno Unito la propria attività dedicata ai materiali avanzati per batterie al silicio. Oltre metà dell’investimento è…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/110811/nexeon-raccoglie-100-milioni-le-batterie-al-silicio-accelerano.png",
-      "publishedAt": "2026-09-01T13:06:02+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Il nuovo Galaxy Book6 entry level è la risposta di Samsung al MacBook Neo",
@@ -131,15 +212,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Nuova Lexus NX, meno consumi e più efficienza: debutto vicino in Europa",
-      "link": "https://www.hdmotori.it/nuova-lexus-nx-europa/",
-      "excerpt": "La nuova Lexus NX 2027 si è mostrata ufficialmente con novità tecniche di livello, ma per l’arrivo nel Vecchio Continente ci sarà da aspettare",
-      "image": "https://hd2.tudocdn.net/1367342?w=660",
-      "publishedAt": "2026-09-01T13:00:46+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Prezzi medi carburanti, ancora aumenti. Gasolio vicino ai massimi dell'anno",
       "link": "https://images.dday.it/pGwBTTbIut0Eun53PdiY1mTdYEtJk4k6lbEucis3B5c/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58558/758268_fuel_thumb.jpg",
       "excerpt": "L'unico a scendere (ma di pochissimo) è il prezzo medio del GPL. Di questo passo anche il gasolio raggiungerà il prezzo medio più alto dell'anno... Leggi tutto",
@@ -147,60 +219,6 @@
       "publishedAt": "2026-09-01T12:57:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "JBL entra nel regno di Sonos con gli speaker Cove",
-      "link": "https://www.tomshw.it/altro/jbl-entra-nel-regno-di-sonos-con-gli-speaker-cove",
-      "excerpt": "JBL ha presentato la nuova famiglia JBL Cove, composta da tre speaker capaci di funzionare singolarmente, in coppia stereo oppure come sistema connesso per tutta la casa. Il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/110810/jbl-entra-nel-regno-di-sonos-con-gli-speaker-cove.png",
-      "publishedAt": "2026-09-01T12:55:55+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Questa tastiera si divide in due e ogni metà diventa un controller",
-      "link": "https://www.tomshw.it/hardware/tiwaz-si-divide-in-due-tastiere-e-sfoggia-un-doppio-joystick",
-      "excerpt": "Il maker Timo Strube ha presentato Tiwaz, un progetto open hardware che reinterpreta la tastiera meccanica split: le due metà possono essere collegate per formare una periferica…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/110806/tiwaz-si-divide-in-due-tastiere-e-sfoggia-un-doppio-joystick.png",
-      "publishedAt": "2026-09-01T12:46:07+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il Campanello Smart Yale ora dialoga con TV, frigoriferi e serrature Samsung",
-      "link": "https://www.hdblog.it/samsung/articoli/n669006/yale-campanello-smart-samsung-smartthings/",
-      "excerpt": "Con l’arrivo del Campanello Smart Yale, Samsung SmartThings può riunire videocamera, notifiche e serratura nello stesso ecosistema, riducendo la necessità di passare continuamente…",
-      "image": "https://hd2.tudocdn.net/1367270?w=660",
-      "publishedAt": "2026-09-01T12:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "POCO ha annunciato i nuovi F9 Ultra e F9 Pro: prezzi e promozioni di lancio",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669001/poco-ha-annunciato-nuovi-f9-ultra-pro/",
-      "excerpt": "Display AMOLED a 185 Hz, dual-chip con Qualcomm e processore grafico VisionBoost D8",
-      "image": "https://hd2.tudocdn.net/1367255?w=660",
-      "publishedAt": "2026-09-01T12:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Zhanjian 700, l'off-road ibrido basato sull'AI: sa anche galleggiare",
-      "link": "https://www.hdmotori.it/geely-zhanjian-700-fuoristrada-ibrido-ai/",
-      "excerpt": "Geely sfida il mercato off-road con la Zhanjian 700: un concentrato di intelligenza artificiale, sicurezza IPX8 e prestazioni estreme.",
-      "image": "https://hd2.tudocdn.net/1367337?w=660",
-      "publishedAt": "2026-09-01T12:30:10+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Dreame H12 Dual FlexReach aspira e lava, ma si trasforma anche per divani e auto",
-      "link": "https://www.hdblog.it/home/articoli/n669009/dreame-lavapavimenti-6-in-1-funzioni-prezzo/",
-      "excerpt": "Dreame H12 Dual FlexReach è un aspirapolvere wet & dry da 23.000 Pa che aspira sporco secco e liquidi e, grazie agli accessori, può essere utilizzato anche su tappeti, divani,…",
-      "image": "https://hd2.tudocdn.net/1367271?w=660",
-      "publishedAt": "2026-09-01T12:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Oral-B iO 3 a meno di 60 euro: torna in offerta su Amazon anche il kit con due spazzolini",
@@ -212,20 +230,20 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Migliori smartphone (settembre 2026)",
-      "link": "https://www.tomshw.it/guide/migliori-smartphone",
-      "excerpt": "Scegliere uno smartphone nel 2026 significa guardare oltre la classica scheda tecnica: processore, fotocamere e display restano fondamentali, ma oggi contano molto anche…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/87484/migliori-smartphone.jpg",
-      "publishedAt": "2026-09-01T11:23:47+00:00",
+      "title": "Migliori decoder digitale terrestre DVB-T2 (settembre 2026)",
+      "link": "https://www.tomshw.it/guide/migliori-decoder-digitale-terrestre-dvb-t2",
+      "excerpt": "Il passaggio al digitale terrestre di seconda generazione non è più soltanto una prospettiva futura: una parte dell'offerta Rai è già trasmessa in DVB-T2 e il calendario di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/87487/migliori-decoder-dtt-copertina.jpg",
+      "publishedAt": "2026-09-01T11:45:03+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Anthropic aumenta la sicurezza dei test, fine delle \"AI scappate\"?",
-      "link": "https://www.tomshw.it/business/anthropic-aumenta-la-sicurezza-dei-test-fine-delle-ai-scappate",
-      "excerpt": "Anthropic ha tirato le somme sui tre incidenti di sicurezza avvenuti fra aprile e luglio 2026. La causa è una configurazione sbagliata: sandbox di test collegate a Internet per un…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/110720/03-anthropic-sicurezza-test-ai-scappate.jpg",
-      "publishedAt": "2026-09-01T11:20:06+00:00",
+      "title": "Quando esce Marvel's Wolverine? Data e cosa sappiamo",
+      "link": "https://www.tomshw.it/videogioco/quando-esce-marvels-wolverine-data-e-cosa-sappiamo",
+      "excerpt": "Marvel's Wolverine esce il 15 settembre 2026: la data è confermata da Insomniac Games e il lancio riguarda PS5. Non sono state annunciate versioni per PC o PS4; a due settimane…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/110743/wolverine-cover.jpg",
+      "publishedAt": "2026-09-01T11:36:40+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -253,24 +271,6 @@
       "excerpt": "Il nuovo diffusore da scaffale in effetti non ha nulla di speciale, ma sorprende il marchio che porta visto che Rotel non si cimentava con i diffusori da decenni. Molto…",
       "image": "https://images.dday.it/ENtd_bIGxsQno5VHI8TcjYOgfRlFCsih6DIZj5fmd0I/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58554/c7a587_lifestlyle.jpeg",
       "publishedAt": "2026-09-01T10:31:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Fosi S3 Lite, lo streamer leggero perde il DAC ma non il prezzo",
-      "link": "https://images.dday.it/Skx4j0kCvInqAKPLxU1hUh0bWEsAn_DCaxDsDjOEEnw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58552/ff6cec_s3-lite-streamer-3.jpeg",
-      "excerpt": "La nuova versione alleggerita dello streamer S3 perde la sezione di conversione D/A per chi non ha bisogno di questa funzione, però il prezzo di listino scende solo di poco ...…",
-      "image": "https://images.dday.it/Skx4j0kCvInqAKPLxU1hUh0bWEsAn_DCaxDsDjOEEnw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58552/ff6cec_s3-lite-streamer-3.jpeg",
-      "publishedAt": "2026-09-01T10:30:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Dyson CameraJet è lo spazzolino elettrico che sostituisce il filo interdentale con getti di collutorio pilotati dall'IA",
-      "link": "https://images.dday.it/UTOiMYCuB58TwNE9TsLJqopsDp28PFxbcbpU2MW5Jko/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58533/1cd789_Dyson_CameraJet_James_Dyson.jpg",
-      "excerpt": "È probabilmente lo spazzolino elettrico più sofisticato del mercato: integra una telecamera che riconosce il gap tra un dente e l’altro durante il lavaggio e spruzza con…",
-      "image": "https://images.dday.it/UTOiMYCuB58TwNE9TsLJqopsDp28PFxbcbpU2MW5Jko/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58533/1cd789_Dyson_CameraJet_James_Dyson.jpg",
-      "publishedAt": "2026-09-01T09:30:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
