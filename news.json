@@ -1,53 +1,269 @@
 {
-  "generatedAt": "2026-09-03T14:01:15.890181+00:00",
+  "generatedAt": "2026-09-03T18:59:57.725689+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "AI da indossare e serrature smart: le novità SwitchBot per IFA 2026",
-      "link": "https://www.hdblog.it/tecnologia/offerte/n667697/ai-da-indossare-e-serrature-smart-le-novita-switchbot-per-ifa-2026/",
-      "excerpt": "SwitchBot presenta a IFA 2026 AI MindClip, assistente AI indossabile per appunti e promemoria, e la nuova serratura smart Lock Ultra Max.",
-      "image": "https://hd2.tudocdn.net/1363731?w=660",
-      "publishedAt": "2026-09-03T14:01:00+00:00",
+      "title": "Tapo C211 scontata del 48%, un affare per sorvegliare tutta la stanza",
+      "link": "https://www.tomshw.it/offerte/tapo-c211-scontata-del-48-un-affare-per-sorvegliare-tutta-la-stanza",
+      "excerpt": "Tapo C211 costa 20,99€ su Amazon, anziché 39,99€, con uno sconto del 48%. La testa pan/tilt e il tracciamento automatico permettono a una sola telecamera di seguire ciò che accade…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111689/tomshw-offer-1035667.png",
+      "publishedAt": "2026-09-03T18:49:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Baseus Picogo da 39,99€ a 26,99€, un affare per ricaricare in viaggio",
+      "link": "https://www.tomshw.it/offerte/baseus-picogo-da-3999eur-a-2699eur-un-affare-per-ricaricare-in-viaggio",
+      "excerpt": "Baseus Picogo costa 26,99€ su Amazon anziché 39,99€, con uno sconto del 33% e un risparmio di 13€. I suoi 10.000 mAh, la potenza fino a 45W e il cavo USB-C integrato aiutano a…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111688/tomshw-offer-1035639.png",
+      "publishedAt": "2026-09-03T18:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Previsione della domanda, come costruire un modello con ChatGPT in 6 passaggi",
+      "link": "https://www.tomshw.it/aioperator/previsione-della-domanda-come-costruire-un-modello-con-chatgpt-in-6-passaggi",
+      "excerpt": "ChatGPT legge un file Excel con due anni di vendite e restituisce un grafico di stagionalità in meno di un minuto. Il passaggio successivo, costruire un modello che stimi le…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111492/02-pro08-cover.jpg",
+      "publishedAt": "2026-09-03T18:12:57+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Chrome, individuate 19 estensioni che rubavano credenziali crypto",
+      "link": "https://www.hdblog.it/windows/articoli/n669314/google-chrome-estensioni-malware-chromium/",
+      "excerpt": "Una campagna \"paziente\": le estensioni funzionavano bene e senza sospetti finché non si raggiungeva una massa critica di installazioni, poi sferravano l'attacco.",
+      "image": "https://hd2.tudocdn.net/1213246?w=660",
+      "publishedAt": "2026-09-03T18:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Zero Motorcycles: la ricarica rapida sulle moto arriverà nel 2027",
-      "link": "https://www.hdmotori.it/zero-motorcycles-la-ricarica-rapida-sulle-moto-arrivera-nel-2027/",
-      "excerpt": "La Casa californiana annuncia una ricarica rapida con presa CCS che riduce i tempi sotto i 30 minuti ed è compatibile con i modelli prodotti dal 2022.",
-      "image": "https://hd2.tudocdn.net/1368395?w=660",
-      "publishedAt": "2026-09-03T14:00:35+00:00",
+      "title": "Allucinazioni AI, un nuovo metodo aiuta a svelarle più facilmente",
+      "link": "https://www.tomshw.it/business/allucinazioni-ai-un-nuovo-metodo-aiuta-a-svelarle-piu-facilmente",
+      "excerpt": "Un gruppo di ricercatori di Skoltech e del centro di intelligenza artificiale di Sberbank ha pubblicato su ACL 2026 un metodo chiamato TOHA, che legge la forma delle matrici di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111463/05-toha-allucinazioni-rilevamento.jpg",
+      "publishedAt": "2026-09-03T18:01:28+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Gemini Flash continua a evolvere rapidamente: ecco la versione 3.8",
+      "link": "https://www.hdblog.it/google/articoli/n669309/google-gemini-flash-3-8-cyber-novita-rilascio/",
+      "excerpt": "Il terzo modello in appena sei settimane. Anche in versione Cyber, dedicato a trovare vulnerabilità e sviluppare correzioni.",
+      "image": "https://hd2.tudocdn.net/1365447?w=660",
+      "publishedAt": "2026-09-03T17:55:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Enphase porta in Italia backup e ricarica EV solare",
-      "link": "https://www.tomshw.it/automotive/enphase-porta-in-italia-backup-e-ricarica-ev-solare-2026-09-03",
-      "excerpt": "Il 23 giugno 2026 la rete elettrica italiana ha toccato un picco di domanda di 55 gigawatt, segnando un incremento del 4,4% rispetto alla settimana precedente. Dietro questo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111628/Screenshot-2026-09-03-154746.png",
-      "publishedAt": "2026-09-03T13:50:00+00:00",
+      "title": "Dyson Corrale a 299€, il minimo storico per lo styling senza filo",
+      "link": "https://www.tomshw.it/offerte/dyson-corrale-a-299eur-il-minimo-storico-per-lo-styling-senza-filo",
+      "excerpt": "Dyson Corrale costa 299€ su Amazon, anziché 399€ di listino, con uno sconto del 25% e un risparmio di 100€. La libertà dal cavo permette di lisciare, creare onde e sistemare…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111687/tomshw-offer-1035617.png",
+      "publishedAt": "2026-09-03T17:50:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "220€ in meno su ECOVACS T50 PRO OMNI Gen3, fa quasi tutto da solo",
-      "link": "https://www.tomshw.it/offerte/220eur-in-meno-su-ecovacs-t50-pro-omni-gen3-fa-quasi-tutto-da-solo",
-      "excerpt": "Su Amazon, ECOVACS DEEBOT T50 PRO OMNI Gen3 costa 379€: sono 220€ in meno rispetto al prezzo di listino di 599€, con uno sconto del 37%. È pensato per togliere di mezzo buona…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111604/tomshw-offer-1034985.png",
-      "publishedAt": "2026-09-03T13:50:00+00:00",
+      "title": "GTA 6 arriverà a 60 FPS su PS5 Pro?",
+      "link": "https://www.hdblog.it/games/articoli/n669307/gta-6-60-fps-playstation-5-pro/",
+      "excerpt": "In molti ritengono che sia parecchio difficile: il collo di bottiglia potrebbe essere la CPU, più che la GPU.",
+      "image": "https://hd2.tudocdn.net/1366017?w=660",
+      "publishedAt": "2026-09-03T17:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Claude Mythos è la prima AI che conclude da sola un attacco informatico fino in fondo",
+      "link": "https://www.tomshw.it/business/claude-mythos-e-la-prima-ai-che-conclude-da-sola-un-attacco-informatico-fino-in-fondo",
+      "excerpt": "Claude Mythos è stato l'unico LLM, fra gli 18 testati, a completare un attacco informatico end-to-end, mostrandosi capace di entrare in una rete aziendale con credenziali rubate,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111460/04-claude-mythos-cyber-kill-chain.jpg",
+      "publishedAt": "2026-09-03T17:43:45+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "RPCS3 boccia DLSS 5: il futuro del gaming passa davvero dall’IA?",
-      "link": "https://www.tomshw.it/hardware/il-dlss-5-di-nvidia-nasconde-giochi-poco-ottimizzati-laccusa-rpcs3",
-      "excerpt": "Il team di RPCS3 ha criticato duramente DLSS 5 dopo che alcuni utenti hanno provato una DLL trapelata della tecnologia sul renderer dell'emulatore PlayStation 3. Gli sviluppatori…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111610/il-dlss-5-di-nvidia-nasconde-giochi-poco-ottimizzati-l-accusa-rpcs3.png",
-      "publishedAt": "2026-09-03T13:50:00+00:00",
+      "title": "MacBook Ultra con OLED touch: sarà Ultra anche il chip per gli ultimi rumor",
+      "link": "https://www.hdblog.it/portatili/articoli/n669299/macbook-ultra-chip-m5-oled-touch-rumor-potenza/",
+      "excerpt": "Ultra di nome e di fatto?",
+      "image": "https://hd2.tudocdn.net/1364323?w=660",
+      "publishedAt": "2026-09-03T17:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il nuovo CEO di Apple è un pilota Porsche: piede pesante e tanto cervello",
+      "link": "https://www.hdmotori.it/nuovo-ceo-apple-pilota-porsche/",
+      "excerpt": "Si chiama John Ternus e ha chiuso un giro veloce sulla pista di Laguna Seca sotto il minuto e quarta secondi al volante di una super sportiva",
+      "image": "https://hd2.tudocdn.net/1368539?w=660",
+      "publishedAt": "2026-09-03T17:30:22+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Quando esce The Elder Scrolls VI? Data e cosa sappiamo",
+      "link": "https://www.tomshw.it/videogioco/quando-esce-the-elder-scrolls-vi-data-e-cosa-sappiamo",
+      "excerpt": "The Elder Scrolls VI non ha ancora una data di lancio. Bethesda conferma che lo sviluppo procede e che il progetto è diventato centrale per lo studio, ma non ha indicato né l’anno…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/107329/sc144sh.jpg",
+      "publishedAt": "2026-09-03T17:30:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "GTA 6, Sony svela i controller DualSense in edizione limitata: prezzi e data di lancio",
+      "link": "https://www.hdblog.it/hardware/articoli/n669303/gta-6-vi-dualsense-prezzo-italia-preordini-data/",
+      "excerpt": "In arrivo anche in Italia: ecco come preordinarli.",
+      "image": "https://hd2.tudocdn.net/1368529?w=660",
+      "publishedAt": "2026-09-03T17:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Xbox Cloud Gaming cambia, ora ci saranno limiti di orario",
+      "link": "https://www.tomshw.it/videogioco/xbox-cloud-gaming-solo-15-ore-al-mese-per-ultimate-2026-09-03",
+      "excerpt": "Meno di dodici mesi dopo aver eliminato ogni restrizione sul cloud gaming per gli abbonati Game Pass, Microsoft cambia nuovamente rotta. Da novembre, chi utilizza il servizio di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101050/i-fan-xbox-contro-mi8t6djlvnncm76vrnoBi.webp",
+      "publishedAt": "2026-09-03T17:21:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Anycubic Photon P1 a 549,99€: 14K e automazione che valgono la spesa",
+      "link": "https://www.tomshw.it/offerte/anycubic-photon-p1-a-54999eur-14k-e-automazione-che-valgono-la-spesa",
+      "excerpt": "Anycubic Photon P1 costa 549,99€ su Amazon, invece di 599,99€, con uno sconto dell’8%. Il richiamo è la stampa 14K unita a un volume di 223 × 126 × 230 mm, pensato per dettagli…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111684/tomshw-offer-1035580.png",
+      "publishedAt": "2026-09-03T17:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "State of Play settembre 2026, tutti gli annunci",
+      "link": "https://www.tomshw.it/videogioco/state-of-play-tutti-gli-annunci-e-i-trailer-2026-09-03",
+      "excerpt": "Sony ha messo in scena oggi un evento fuori dal comune: due State of Play consecutivi, per un totale di oltre trenta annunci che spaziano dai colossi tripla A alle produzioni…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111685/state-of-play-tutti-hn598249k0ut28TRUTX.webp",
+      "publishedAt": "2026-09-03T17:17:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La LEGO PlayStation è ufficiale! Quasi 2.000 pezzi, in vendita da ottobre",
+      "link": "https://www.hdblog.it/sony/articoli/n669300/lego-playstation-ufficiale-prezzi-pezzi-immagini/",
+      "excerpt": "179,99 euro di listino... forse si fa prima a prenderne una vera usata ai mercatini?",
+      "image": "https://hd2.tudocdn.net/1368528?w=660",
+      "publishedAt": "2026-09-03T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "iPhone pieghevole: potrebbe superare i 3.000 dollari col massimo della memoria",
+      "link": "https://www.hdblog.it/smartphone/articoli/n669293/iphone-ultra-pieghevole-prezzo-2000-3000-dollari/",
+      "excerpt": "E partire da oltre 2.000 dollari per la configurazione base.",
+      "image": "https://hd2.tudocdn.net/1362828?w=660",
+      "publishedAt": "2026-09-03T17:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Toyota vende biscotti gelato da 86 dollari: la strana trovata pubblicitaria",
+      "link": "https://www.hdmotori.it/toyota-sienna-gelato-86-dollari/",
+      "excerpt": "Per lanciare il minivan Sienna Platinum con frigo di bordo, Toyota si allea con Graeter's Ice Cream: arrivano i biscotti gelato al caramello salato da 86 dollari a confezione",
+      "image": "https://hd2.tudocdn.net/1368535?w=660",
+      "publishedAt": "2026-09-03T17:00:31+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Droni militari: la struttura potrebbe trasportare anche elettricità",
+      "link": "https://www.hdblog.it/droni/articoli/n669227/droni-militari-stampa-3d-cavi-integrati/",
+      "excerpt": "La stampa 3D integra cavi e fibre ottiche direttamente nelle strutture dei droni.",
+      "image": "https://hd2.tudocdn.net/1368244?w=660",
+      "publishedAt": "2026-09-03T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "NVIDIA DLSS 5 al debutto: come funziona il neural rendering che porterà al fotorealismo in tempo reale",
+      "link": "https://images.dday.it/VFxwjgfAA-jbvbVFcQtnOWEDqL9T15P3ChEOrSnOiR8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58607/d5dd69_nvidia-dlss-5-zorah-comparison-002-on.jpg",
+      "excerpt": "Domani sarà disponibile il primo gioco con supporto al DLSS 5 di NVIDIA, la nuova soluzione di rendering neurale che porterà nei giochi quel fotorealismo a cui tanti aspirano ma…",
+      "image": "https://images.dday.it/VFxwjgfAA-jbvbVFcQtnOWEDqL9T15P3ChEOrSnOiR8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58607/d5dd69_nvidia-dlss-5-zorah-comparison-002-on.jpg",
+      "publishedAt": "2026-09-03T16:39:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Lenovo IdeaPad Vibe: un MacBook Neo che ha tutto quello che manca al MacBook Neo",
+      "link": "https://images.dday.it/1K-uy7E3uTH3gWrygi2gmOsBwhsgu3A0YZjBDhu1TVw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58562/6449dc_P1233685_t.jpg",
+      "excerpt": "Debutta ad Ifa il laptop economico di Lenovo pensato per fare concorrenza al MacBook Neo: parte da 799 euro, a bordo c’è Windows ed è molto più versatile del laptop Apple: monitor…",
+      "image": "https://images.dday.it/1K-uy7E3uTH3gWrygi2gmOsBwhsgu3A0YZjBDhu1TVw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58562/6449dc_P1233685_t.jpg",
+      "publishedAt": "2026-09-03T16:00:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Project AeroBlade: l'incredibile notebook Lenovo raffreddato allo stato solido",
+      "link": "https://images.dday.it/PJ9tPF_taEBHr3-r_D9u_DWgjDsBapvB2qw3cS-Y3rE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58564/a3d817_P1233691.jpg",
+      "excerpt": "Lenovo ha deciso di usare la tecnologia AirJet di Frore su un concept di laptop che pesa meno di 830 grammi ed è sottile quanto un tablet. Le prestazioni ci sono, le ventole no.…",
+      "image": "https://images.dday.it/PJ9tPF_taEBHr3-r_D9u_DWgjDsBapvB2qw3cS-Y3rE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58564/a3d817_P1233691.jpg",
+      "publishedAt": "2026-09-03T16:00:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "L'ultimo esperimento di Lenovo con i display flessibili è un notebook da 14\" che diventa 17\"",
+      "link": "https://images.dday.it/ZzIXlalmDKVTAj7Ru9p67APOrtGVTQBY4z__lBHOUHc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58568/794881_lenovo_swan_1.JPG",
+      "excerpt": "Basta premere un tasto sulla tastiera per allargare il monitor del laptop di 3\", cambiando formato da un quasi 4:3 a un 16:9: Lenovo porta in fiera a Berlino Project Swan, un…",
+      "image": "https://images.dday.it/ZzIXlalmDKVTAj7Ru9p67APOrtGVTQBY4z__lBHOUHc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58568/794881_lenovo_swan_1.JPG",
+      "publishedAt": "2026-09-03T16:00:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Google lancia Gemini 3.8 Flash solo tre settimane dopo 3.7 Flash, e una versione Cyber per la sicurezza",
+      "link": "https://images.dday.it/RH39zVrPTMQoCZUvFAsv1r0OsXv2FC9Q1QnlzdHrWWY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58608/d843e2_cvo_rScreenshot_2026-09-03_alle_17.44.09_copia.png",
+      "excerpt": "Stesso prezzo introduttivo di 3.7 Flash fino al 31 dicembre, poi aumenterà. La variante Cyber, riservata ai \"difensori fidati\", trova e corregge vulnerabilità nel codice... Leggi…",
+      "image": "https://images.dday.it/RH39zVrPTMQoCZUvFAsv1r0OsXv2FC9Q1QnlzdHrWWY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58608/d843e2_cvo_rScreenshot_2026-09-03_alle_17.44.09_copia.png",
+      "publishedAt": "2026-09-03T15:45:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Cerchi una nuova scopa elettrica? Dyson V8 Cyclone è di nuovo al prezzo più basso su Amazon",
+      "link": "https://images.dday.it/URCTKroGxRaWNmF5aWM6lxq9PZeoZ2orbE3g1nlXsR4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58606/79f3c0_dysonv8cyclone.jpg",
+      "excerpt": "Tanti lo cercano e per giusti motivi. Dyson V8 Cyclone è tornato a 249 euro su Amazon: conviene approfittarne... Leggi tutto",
+      "image": "https://images.dday.it/URCTKroGxRaWNmF5aWM6lxq9PZeoZ2orbE3g1nlXsR4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58606/79f3c0_dysonv8cyclone.jpg",
+      "publishedAt": "2026-09-03T15:21:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Ecco l'anteprima del nuovo sistema Sonos 27: introdurrà gli agenti AI e un'app rinnovata",
+      "link": "https://images.dday.it/pHo0Fir0OpnvjpYYV9L5VaOe0HQtgZped4DCXBX4RyA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58602/785f7d_sonos-cop-2.jpg",
+      "excerpt": "Sonos ha mostrato (a porte chiuse) il nuovo sistema, chiamato Sonos 27: introduce un nuovo orchestratore per i dispositivi e la nuova app. La novità più grande è l'introduzione…",
+      "image": "https://images.dday.it/pHo0Fir0OpnvjpYYV9L5VaOe0HQtgZped4DCXBX4RyA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58602/785f7d_sonos-cop-2.jpg",
+      "publishedAt": "2026-09-03T15:03:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Seat rischia la chiusura. Volkswagen pronta a concentrarsi su Cupra",
+      "link": "https://images.dday.it/6ap7EpPplbnMB-yTVH5GTvybt_i15WasQcfrYn4uh9c/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58605/1ae542_seat_thumb.jpg",
+      "excerpt": "Il piano rientrerebbe nella ristrutturazione del gruppo e sarebbe già passato dal management board. Nessuna decisione definitiva, per ora... Leggi tutto",
+      "image": "https://images.dday.it/6ap7EpPplbnMB-yTVH5GTvybt_i15WasQcfrYn4uh9c/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58605/1ae542_seat_thumb.jpg",
+      "publishedAt": "2026-09-03T14:38:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Ecco DJI Osmo 360 II: video a 8K/60p, riprese più luminose e le lenti diventano sostituibili",
+      "link": "https://images.dday.it/bRpTsFPGHAbyFeycKKbhYBWjrdhGuwgh6w1-hU_-yfQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58603/d0c462_Kayaking_Dual-Direction_Quick-Release_Adapter_Mount.jpg",
+      "excerpt": "DJI Osmo 360 II migliora il modello precedente con 8K/60fps, 14,5 stop di gamma dinamica, nuove funzioni IA e lenti sostituibili... Leggi tutto",
+      "image": "https://images.dday.it/bRpTsFPGHAbyFeycKKbhYBWjrdhGuwgh6w1-hU_-yfQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58603/d0c462_Kayaking_Dual-Direction_Quick-Release_Adapter_Mount.jpg",
+      "publishedAt": "2026-09-03T14:22:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Compatta, componibile e riprende fino a 8K: è la nuova camera LEAPTIC Cube Mini di Dreame",
@@ -55,222 +271,6 @@
       "excerpt": "Dreame entra in un altro settore con la camera compatta LEAPTIC Cube Mini. Piccola, leggerissima e soprattutto modulare... Leggi tutto",
       "image": "https://images.dday.it/qn8Umie5oZjFaoPpRe7ZUwq5tuKO731eB2bLLLv7ng4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58589/e7ec87_IMG_2898.JPG",
       "publishedAt": "2026-09-03T13:49:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Stanchi dei soliti best buy? Nothing Phone (3a) Pro oggi è a un prezzone su AliExpress",
-      "link": "https://www.tomshw.it/smartphone/prezzo-bomba-nothing-phone-3a-pro-58-2026-09-03",
-      "excerpt": "Su AliExpress è disponibile un'ottima offerta sul Nothing Phone (3a) Pro, smartphone dotato di sistema fotocamera Pro da 50 Mpx, registrazione video 4K e display AMOLED flessibile…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111625/prezzo-bomba-nothing-phone-3a-pro-58-2026-09-03-ONQbXFij6netvnv27q0fhGLpth.jpg",
-      "publishedAt": "2026-09-03T13:46:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Haier trasforma la casa con l’AI: tutte le novità di IFA 2026",
-      "link": "https://www.tomshw.it/altro/ifa-2026-haier-svela-la-casa-che-ti-capisce-prima-2026-09-03",
-      "excerpt": "Immaginate una casa che accende il deumidificatore prima ancora che l'umidità diventi un problema, che sceglie il ciclo di lavaggio più adatto osservando i vestiti nel cestello,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111603/Haier-Vision-15-_Washing-Machine-(2).jpg",
-      "publishedAt": "2026-09-03T13:45:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "I top di gamma sono diventati proibitivi? Questo oggi costa 633€ su AliExpress",
-      "link": "https://www.tomshw.it/smartphone/honor-600-pro-super-sconto-del-57-2026-09-03",
-      "excerpt": "Su AliExpress è disponibile l'HONOR 600 Pro, smartphone 5G con fotocamera notturna da 200MP, OIS e batteria da 6400mAh. Il prezzo scende a soli 633,70€, un'occasione perfetta per…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111622/honor-600-pro-super-sconto-del-57-2026-09-03-iD6xbxVnri6u9avg20pag2ZhHo.jpg",
-      "publishedAt": "2026-09-03T13:42:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Fermare le frodi con il volto porta i dati biometrici nei sistemi delle app attive in Italia",
-      "link": "https://www.tomshw.it/business/fermare-le-frodi-con-il-volto-porta-i-dati-biometrici-nei-sistemi-delle-app-attive-in-italia",
-      "excerpt": "La verifica del volto sta diventando uno strumento ordinario contro profili falsi, deepfake e truffe nelle app di incontri. Per i servizi offerti anche in Italia, però, introdurre…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111594/fermare-le-frodi-con-il-volto-porta-i-dati-biometrici-nei-sistemi-delle-app-attive-in-italia.png",
-      "publishedAt": "2026-09-03T13:40:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il robot tagliaerba di Dreame sale pendenze fino al 90% e rifinisce i bordi in maniera perfetta",
-      "link": "https://images.dday.it/mXB4szSmqmBcACVAYz-Lap11mXc-G6XoYXNMEnzyV68/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58588/017b39_IMG_2886.JPG",
-      "excerpt": "A4 AWD Pro è il nuovo robot tagliaerba di Dreame che aggiorna tutte le tecnologie arrivando a tagliare completamente i bordi del prato e a salire pendii con ripidità fino al…",
-      "image": "https://images.dday.it/mXB4szSmqmBcACVAYz-Lap11mXc-G6XoYXNMEnzyV68/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58588/017b39_IMG_2886.JPG",
-      "publishedAt": "2026-09-03T13:35:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Amazon, ultimi sconti fino a 20€: la promo finisce stasera, cosa conviene comprare",
-      "link": "https://www.tomshw.it/altro/amazon-ultimi-sconti-fino-a-20eur-la-promo-finisce-stasera-cosa-conviene-comprare",
-      "excerpt": "Si avvia verso la conclusione una delle promozioni più interessanti lanciate recentemente da Amazon, che permette di ottenere un risparmio extra fino a 20 euro direttamente al…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111600/Amazon,-ultimi-sconti-fino-a-20€-la-promo-finisce-stasera,-cosa-conviene-comprare.jpg",
-      "publishedAt": "2026-09-03T13:31:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Ford scommette sul pick-up elettrico, 100.000 vendite in un anno",
-      "link": "https://www.tomshw.it/automotive/ford-scommette-sul-pick-up-elettrico-100000-vendite-in-un-anno",
-      "excerpt": "Ford avrebbe fissato un obiettivo interno particolarmente ambizioso per il nuovo pick-up elettrico Fathom: raggiungere 100.000 unità vendute negli Stati Uniti durante il primo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111585/ford-scommette-sul-pick-up-elettrico-100-000-vendite-in-un-anno.png",
-      "publishedAt": "2026-09-03T13:30:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Hypershell presenta Halo, l'esoscheletro che vi fa camminare a 17 km/h",
-      "link": "https://www.tomshw.it/hardware/hypershell-presenta-halo-esoscheletro-full-leg-da-1490-w-e-17-kmh",
-      "excerpt": "Hypershell ha scelto il palco di IFA 2026 a Berlino per presentare Halo, un esoscheletro consumer “full-leg” che assiste sia le anche sia le ginocchia. Il nuovo modello adotta…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111595/hypershell-halo-esoscheletro-full-leg-ifa-2026.png",
-      "publishedAt": "2026-09-03T13:29:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Android Drop di settembre: 5 novità, c'è Gemini che ricorda dove sono gli oggetti",
-      "link": "https://www.hdblog.it/google/articoli/n669256/google-android-drop-settembre-gemini-find-hub/",
-      "excerpt": "Scopriamole tutte.",
-      "image": "https://hd2.tudocdn.net/1368245?w=660",
-      "publishedAt": "2026-09-03T13:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Amazon taglia del 54% le Fire TV Stick 4K Plus e Max: si parte da 38,99 euro",
-      "link": "https://images.dday.it/qsvLZcsyvgR5hq_fc5rtPgPmTIF6NpJczUKtbIFL3F4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58601/40914c_61c3-QPX6AL._AC_SL1500__copia.jpg",
-      "excerpt": "Due modelli 4K di fascia alta, due sconti pesanti: Fire TV Stick 4K Plus a 38,99 euro e Max a 52,99 euro. La differenza è soprattutto in processore, storage e Wi-Fi... Leggi tutto",
-      "image": "https://images.dday.it/qsvLZcsyvgR5hq_fc5rtPgPmTIF6NpJczUKtbIFL3F4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58601/40914c_61c3-QPX6AL._AC_SL1500__copia.jpg",
-      "publishedAt": "2026-09-03T13:21:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Dreame lancia il robot lavapavimenti con vapore a 180 gradi, autopulente e intelligente",
-      "link": "https://images.dday.it/hOTruoY7U50fhvIpyHuNJMZk7_jH1RKAt6xPNh0Vj_A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58587/552e4c_IMG_2921.jpg",
-      "excerpt": "Dreame ha presentato un robot lavapavimenti che introduce il vapore a 180° C. Non mancano tutte le tecnologie più evolute per il riconoscimento di oggetti e ostacoli... Leggi tutto",
-      "image": "https://images.dday.it/hOTruoY7U50fhvIpyHuNJMZk7_jH1RKAt6xPNh0Vj_A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58587/552e4c_IMG_2921.jpg",
-      "publishedAt": "2026-09-03T13:19:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Nvidia ha comprato Hugging Face per 12,9 miliardi di dollari. E rassicura: resterà una piattaforma open source",
-      "link": "https://images.dday.it/TzegG4wa3wrvDyjp77wixfp-lYOVkRLxyubtli7lZ7k/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58600/ccae07_Depositphotos_716321542_XL.jpg",
-      "excerpt": "L’acquisizione porta il colosso dei chip ancora più in alto nello stack dell’IA. Jensen Huang promette di mantenere aperto l’ecosistema di Hugging Face... Leggi tutto",
-      "image": "https://images.dday.it/TzegG4wa3wrvDyjp77wixfp-lYOVkRLxyubtli7lZ7k/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58600/ccae07_Depositphotos_716321542_XL.jpg",
-      "publishedAt": "2026-09-03T13:15:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Gemini for Home, ora, fa finalmente quello che ci si aspetta da un assistente AI",
-      "link": "https://www.hdblog.it/google/articoli/n669264/gemini-for-home-richieste-multiple-bug-fix-novita/",
-      "excerpt": "Il nuovo aggiornamento di Google Home migliora anche le automazioni: starter, condizioni e azioni vengono ordinati alfabeticamente e le routine di terze parti rispettano le…",
-      "image": "https://hd2.tudocdn.net/1348988?w=660",
-      "publishedAt": "2026-09-03T13:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Laifen punta sulla bellezza smart: le novità per la cura della persona lanciate a IFA",
-      "link": "https://www.hdblog.it/home/articoli/n669248/laifen-ifa-2026-novita-cura-persona/",
-      "excerpt": "Nuovi spazzolini, uno specchio con luce LED e un arricciacapelli di livello professionale.",
-      "image": "https://hd2.tudocdn.net/1368325?w=660",
-      "publishedAt": "2026-09-03T13:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il Cavatappi di Laguna Seca intitolato a Zanardi: tributo da brividi",
-      "link": "https://www.hdmotori.it/cavatappi-laguna-seca-intitolato-zanardi/",
-      "excerpt": "Trent’anni fa la manovra di Zanardi su Herta venne ribattezzata \"The Pass\" dagli americani. Il Cavatappi rende omaggio al compianto pilota bolognese",
-      "image": "https://hd2.tudocdn.net/1368319?w=660",
-      "publishedAt": "2026-09-03T13:00:44+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il nuovo notebook di Acer è una piuma: Swift Blade 14 pesa solo 799 grammi",
-      "link": "https://images.dday.it/NOYaZrlop9O79goPO_Es6rcBO8RxDpvYpet5UIHdoTU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58580/181d6d_P1233626.jpg",
-      "excerpt": "Accanto arriva anche Swift Air 16, più grande e orientato alla produttività. Entrambi utilizzano processori Intel Core Serie 3 e adottano chassis sottili... Leggi tutto",
-      "image": "https://images.dday.it/NOYaZrlop9O79goPO_Es6rcBO8RxDpvYpet5UIHdoTU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58580/181d6d_P1233626.jpg",
-      "publishedAt": "2026-09-03T12:56:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Aqara illumina tutta la casa: cinque novità smart a IFA con Matter e Thread",
-      "link": "https://www.hdblog.it/apple/articoli/n669262/aqara-ifa-2026-luci-apple-novita/",
-      "excerpt": "Aqara Floor Lamp T1 offre 18 zone controllabili, fino a 1.000 lumen e luce bianca regolabile da 2000K a 9000K, mentre LED Strip T2 punta su effetti multizona e sincronizzazione…",
-      "image": "https://hd2.tudocdn.net/1368238?w=660",
-      "publishedAt": "2026-09-03T12:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Multiverse Computing presenta Quasar 438B, il \"miglior modello europeo\". Ma forse non è tutta farina del loro sacco",
-      "link": "https://images.dday.it/dPCCRyGhAfUsnQ9yG5tKGuAuRBKPn5_zchoARg4ZBxo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58599/f59307_ove_r9d72d17c5a3ae1d6e11decb87c61336f6e588b5b-1920x1080_copia.png",
-      "excerpt": "Quasar 438B supera Mistral nei benchmark europei, ma potrebbe non essere “nato” davvero in Europa. Quasi certamente deriva da un modello cinese... Leggi tutto",
-      "image": "https://images.dday.it/dPCCRyGhAfUsnQ9yG5tKGuAuRBKPn5_zchoARg4ZBxo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58599/f59307_ove_r9d72d17c5a3ae1d6e11decb87c61336f6e588b5b-1920x1080_copia.png",
-      "publishedAt": "2026-09-03T12:44:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Cuffie Bose, TV OLED, monitor gaming e tantissimo altro: le migliori offerte del 3 settembre",
-      "link": "https://www.hdblog.it/amazon/offerte/n669263/offerte-tech-3-settembre-2026-amazon/",
-      "excerpt": "Offerte tech del 3 settembre su Amazon: cuffie, smartwatch, TV OLED, robot aspirapolvere e monitor gaming con sconti diretti, coupon e promo “Più acquisti e più risparmi”.",
-      "image": "https://hd2.tudocdn.net/1368241?w=660",
-      "publishedAt": "2026-09-03T12:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Skoda Peaq da record: percorsi 936 km con una sola ricarica",
-      "link": "https://www.hdmotori.it/skoda-peaq-record-percorrenza/",
-      "excerpt": "Dalla Repubblica Ceca ai Paesi Bassi senza soste alle colonnine: l'ammiraglia elettrica di Skoda stabilisce un primato di efficienza.",
-      "image": "https://hd2.tudocdn.net/1368246?w=660",
-      "publishedAt": "2026-09-03T12:30:34+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Tecno vuole eliminare del tutto le cornici dagli smartphone",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669258/tecno-ifa-2026-smartphone-senza-bordi/",
-      "excerpt": "Tecno porta a IFA 2026 il Next-Gen Bezelless Concept Phone, uno smartphone sperimentale che punta a eliminare completamente la cornice nera tra display e scocca, arrivando a 0 mm",
-      "image": "https://hd2.tudocdn.net/1368231?w=660",
-      "publishedAt": "2026-09-03T12:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Anche Dacia Sandero Streetway diventa full hybrid: 155 CV e prezzi da 19.900 euro",
-      "link": "https://images.dday.it/mhIgcybv4_0amVizcM8tBTN-HWtksjdorsLwjjwAffk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58598/6f810b_sandero_thumb.jpg",
-      "excerpt": "La nuova motorizzazione arriva dopo la Stepway. Consumi dichiarati da 4,2 l/100 km e due allestimenti disponibili... Leggi tutto",
-      "image": "https://images.dday.it/mhIgcybv4_0amVizcM8tBTN-HWtksjdorsLwjjwAffk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58598/6f810b_sandero_thumb.jpg",
-      "publishedAt": "2026-09-03T10:35:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Crooks, la serie “ibrida” di Singapore: attori veri davanti alla camera, sfondi IA in post-produzione. Funziona",
-      "link": "https://images.dday.it/Dc_AWyemClrAn7YRJpeafCtDoCk3CFVyvq5FY2wYYAU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58597/f5d83c_cove_rSenza_titolo-1.png",
-      "excerpt": "La serie Crooks è un mix di riprese reali e ambienti creati con l’IA. Una soluzione nata da un’emergenza che oggi promette meno costi e giornate di set più brevi. E i risultati…",
-      "image": "https://images.dday.it/Dc_AWyemClrAn7YRJpeafCtDoCk3CFVyvq5FY2wYYAU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58597/f5d83c_cove_rSenza_titolo-1.png",
-      "publishedAt": "2026-09-03T10:20:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "ho.Mobile, debutta lo smartphone in abbonamento. C'è anche la permuta del vecchio telefono",
-      "link": "https://images.dday.it/60uCEv-PjO4Xji1PJ4xAX8VgBrrjByfZDIzBQcM3cDM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58596/8c43c5_Depositphotos_841334066_XL.jpg",
-      "excerpt": "Il nuovo servizio, realizzato con Subbyx, permette di scegliere dispositivi nuovi o ricondizionati, con protezione inclusa e possibilità di permuta dell’usato... Leggi tutto",
-      "image": "https://images.dday.it/60uCEv-PjO4Xji1PJ4xAX8VgBrrjByfZDIzBQcM3cDM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58596/8c43c5_Depositphotos_841334066_XL.jpg",
-      "publishedAt": "2026-09-03T09:29:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
