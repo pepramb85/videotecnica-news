@@ -1,9 +1,234 @@
 {
-  "generatedAt": "2026-09-03T02:22:03.212075+00:00",
+  "generatedAt": "2026-09-03T08:25:47.237420+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Provate gli agenti ma con cautela, il consiglio di Google per le aziende",
+      "link": "https://www.tomshw.it/business/provate-gli-agenti-ma-con-cautela-il-consiglio-di-google-per-le-aziende",
+      "excerpt": "Mike Clark, a capo del prodotto per la Gemini Enterprise Agent Platform di Google Cloud, si rivolge alle piccole e medie imprese con un metodo preciso. Testare un agente su un…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111370/05-google-agenti-pmi.jpg",
+      "publishedAt": "2026-09-03T08:21:11+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Oral-B iO 6 scontato del 52%, l’affare per una pulizia guidata",
+      "link": "https://www.tomshw.it/offerte/oral-b-io-6-scontato-del-52-laffare-per-una-pulizia-guidata",
+      "excerpt": "Oral-B iO 6 costa 119,99€ su Amazon: dai 249,99€ si scende con uno sconto del 52%, pari a 130€ risparmiati. Testina rotonda, micro-vibrazioni e guida intelligente rendono la…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111429/tomshw-offer-1034074.png",
+      "publishedAt": "2026-09-03T08:21:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Miele a IFA 2026: la lavastoviglie G8 Diamond riconosce da sola il carico",
+      "link": "https://www.hdblog.it/home/articoli/n669205/miele-lavastoviglie-g8-telecamera-ai-ifa2026/",
+      "excerpt": "Miele porta a IFA 2026 la nuova lavastoviglie top di gamma G8 Diamond, capace di riconoscere carico e stoviglie tramite una fotocamera integrata, insieme al CulinaryCoach,…",
+      "image": "https://hd2.tudocdn.net/1368016?w=660",
+      "publishedAt": "2026-09-03T08:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Bolletta del gas, un altro mese nero: prezzi in forte aumento per i clienti vulnerabili",
+      "link": "https://www.hdblog.it/green/articoli/n669206/prezzo-gas-vulnerabili-arera-aumento-agosto/",
+      "excerpt": "L'aumento rispetto a febbraio supera l'80%.",
+      "image": "https://hd2.tudocdn.net/1368073?w=660",
+      "publishedAt": "2026-09-03T08:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "L’IA di Claude ripulisce una smart TV dalle app inutili: dopo 4 anni va meglio che da nuova",
+      "link": "https://images.dday.it/WN-rKVRfWS0hkNjXH292x1S8_uECsGXh65Ln5KjMnQU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58592/03ca5d_HQvC0KuW8AAvI26.jpg",
+      "excerpt": "Claude Code può fare ordine in una smart TV Android disattivando bloatware e servizi inutili. C’è anche un sito dedicato, ma serve cautela: toccare il pacchetto sbagliato può far…",
+      "image": "https://images.dday.it/WN-rKVRfWS0hkNjXH292x1S8_uECsGXh65Ln5KjMnQU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58592/03ca5d_HQvC0KuW8AAvI26.jpg",
+      "publishedAt": "2026-09-03T08:06:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Quasi pronto il \"super modello\" di OpenAI, ma i ricercatori sono preoccupati: Astra sarebbe più difficile da monitorare",
+      "link": "https://images.dday.it/VxJTjd1cYiR_GaS8RwAr5GiSgYbgiNZNPDwfJfVJel0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58593/dbe951_Depositphotos_650518866_XL.jpg",
+      "excerpt": "Il rilascio di Astra è stato rinviato per rafforzare le misure di sicurezza dopo alcuni incidenti nei test. A preoccupare i ricercatori è soprattutto una possibile architettura…",
+      "image": "https://images.dday.it/VxJTjd1cYiR_GaS8RwAr5GiSgYbgiNZNPDwfJfVJel0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58593/dbe951_Depositphotos_650518866_XL.jpg",
+      "publishedAt": "2026-09-03T08:02:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Narwal, tutte le novità a IFA 2026: nuovi robot, aspirapolvere e lavapavimenti",
+      "link": "https://www.hdblog.it/home/articoli/n668713/narwal-tutte-novita-ifa-2026-nuovi-robot/",
+      "excerpt": "Narwal amplia il proprio catalogo europeo a IFA 2026",
+      "image": "https://hd2.tudocdn.net/1366181?w=660",
+      "publishedAt": "2026-09-03T08:01:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Perché l'estate è la nemica giurata del videogiocatore",
+      "link": "https://www.tomshw.it/videogioco/perche-lestate-e-la-nemica-giurata-del-videogiocatore",
+      "excerpt": "L'estate, nella narrazione collettiva e nell'immaginario della cultura popolare, rappresenta da sempre il vertice della spensieratezza. È la stagione della liberazione dai doveri,…",
+      "image": "https://cdn.tomshw.it/storage/media/2024/09/32984/Astro-Bot-Announce-Screenshot-19.png",
+      "publishedAt": "2026-09-03T08:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Recensione HUAWEI WATCH GT 7, al limite della perfezione!",
+      "link": "https://www.tomshw.it/smartphone/recensione-huawei-watch-gt-7-al-limite-della-perfezione",
+      "excerpt": "Oramai mi viene spontaneo credere che HUAWEI abbia deciso di farsi concorrenza da sola. Smartwatch dopo smartwatch, difatti, l’azienda ha migliorato così tanto i suoi wearable da…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111036/IMG_3334---dimensioni-grandi.jpg",
+      "publishedAt": "2026-09-03T08:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Dreame SF25 da 349€ a 249€, trita gli scarti e si pulisce da solo",
+      "link": "https://www.tomshw.it/offerte/dreame-sf25-da-349eur-a-249eur-trita-gli-scarti-e-si-pulisce-da-solo",
+      "excerpt": "Dreame SF25 costa 249€ su Amazon: dai 349€ di listino si passa al minimo storico, con uno sconto del 29% e 100€ risparmiati. La tripla lama, il controllo degli odori e la pulizia…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111414/tomshw-offer-1032516.png",
+      "publishedAt": "2026-09-03T07:49:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Torna a scuola con Google: promozioni, credito in regalo e sconti sui Pixel",
+      "link": "https://www.tomshw.it/smartphone/torna-a-scuola-con-google-promozioni-credito-in-regalo-e-sconti-sui-pixel",
+      "excerpt": "Il mese di settembre parte con il piede giusto per gli amanti della tecnologia e dell'ecosistema Google. Sullo store ufficiale sono infatti ufficialmente scattate le promozioni…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/98942/L'estate-hi-tech-di-Google-sconti-folli-e-supervalutazioni-sulla-gamma-Pixel-10.png",
+      "publishedAt": "2026-09-03T07:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Philips Hue: Nanoleaf Shapes nell’app e pulsanti per Sonos",
+      "link": "https://www.tomshw.it/hardware/philips-hue-nanoleaf-shapes-nell-app-e-pulsanti-per-sonos",
+      "excerpt": "I pannelli Nanoleaf Shapes possono entrare direttamente nelle stanze, nelle scene e nelle automazioni di Philips Hue. L’integrazione passa dal nuovo Philips Hue Wall Light Module,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111417/Nanoleaf-1200x675.jpg",
+      "publishedAt": "2026-09-03T07:46:19+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Samsung porta design e soluzioni premium sulle lavatrici più accessibili",
+      "link": "https://www.hdblog.it/samsung/articoli/n669209/samsung-ifa-2026-lavatrici-design-funzioni/",
+      "excerpt": "Samsung presenta a IFA di Berlino una nuova gamma di lavatrici a carica frontale da 24 pollici con Flat Design, una soluzione estetica finora riservata ad alcuni modelli premium…",
+      "image": "https://hd2.tudocdn.net/1368023?w=660",
+      "publishedAt": "2026-09-03T07:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Abbiamo provato lo strumento che dovrebbe riconoscere i file di creati da Claude. Non funziona",
+      "link": "https://images.dday.it/m065pofmvpGKiOd93pL9SLDEDukFkuilQMh7r2IXV78/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58591/027e50_Immagine_Codex_3_set_2026__09_40_38.png",
+      "excerpt": "Anthropic ha pubblicato uno strumento per riconoscere i file creati da Claude (credenziale C2PA), ma nei nostri test non ha funzionato. Si parla di immagini, audio e video, non…",
+      "image": "https://images.dday.it/m065pofmvpGKiOd93pL9SLDEDukFkuilQMh7r2IXV78/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58591/027e50_Immagine_Codex_3_set_2026__09_40_38.png",
+      "publishedAt": "2026-09-03T07:41:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Dalle cuffie con AI ai power bank con ventola: ecco la nuova Anker svelata a IFA",
+      "link": "https://www.hdblog.it/indossabili/articoli/n669144/anker-nuovo-brand-ifa-auricolari-power-bank/",
+      "excerpt": "Tre marchi storici sotto un'unica identità.",
+      "image": "https://hd2.tudocdn.net/1367836?w=660",
+      "publishedAt": "2026-09-03T07:31:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Anker MindBase è l’hub per la smart home con agenti IA che girano in locale",
+      "link": "https://images.dday.it/lwGGrlVdUgvuqvweJ_rlddYtyPWlP5eSvTsZUZmCjPw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58553/b1fafd_mindbase01.jpeg",
+      "excerpt": "Un hub per la smart home in grado di gestire tutto l’ecosistema Anker e i dispositivi compatibili Matter e che offre un modello di intelligenza artificiale locale per ridurre la…",
+      "image": "https://images.dday.it/lwGGrlVdUgvuqvweJ_rlddYtyPWlP5eSvTsZUZmCjPw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58553/b1fafd_mindbase01.jpeg",
+      "publishedAt": "2026-09-03T07:30:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Anker unifica tutti i suoi brand a IFA 2026 e presenta il futuro dell'azienda",
+      "link": "https://www.tomshw.it/smartphone/anker-riunisce-tutti-i-brand-e-svela-le-novita-di-ifa-2026",
+      "excerpt": "Anker Innovations apre una nuova fase della propria storia riunendo sotto un unico marchio le attività finora identificate come Anker, Anker SOLIX, soundcore, eufy ed eufyMake.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111254/anker-ifa-2026-brand-unico-nuovi-prodotti.png",
+      "publishedAt": "2026-09-03T07:30:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "OpenClaw 2.0 arriva con la sicurezza attivata di serie (era ora)",
+      "link": "https://www.tomshw.it/business/openclaw-20-arriva-con-la-sicurezza-attivata-di-serie-era-ora",
+      "excerpt": "OpenClaw ha rilasciato la versione 2.0, con la sicurezza applicata alla configurazione predefinita invece che lasciata come opzione da attivare in un secondo momento. È il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111369/04-openclaw-2-sicurezza.jpg",
+      "publishedAt": "2026-09-03T07:28:12+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Dell a IFA con un laptop compatto ma potente e due monitor Alienware",
+      "link": "https://www.hdblog.it/portatili/articoli/n669203/dell-laptop-alienware-monitor-oled-wildcat-lake/",
+      "excerpt": "Anche in casa Dell debutta la piattaforma Intel Wildcat Lake.",
+      "image": "https://hd2.tudocdn.net/1367989?w=660",
+      "publishedAt": "2026-09-03T07:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Navigare sicuri può essere economico! Scopri l'offerta PrivadoVPN con 3 mesi GRATIS",
+      "link": "https://www.tomshw.it/hardware/navigare-sicuri-puo-essere-economico-scopri-lofferta-privadovpn-con-3-mesi-gratis",
+      "excerpt": "Proteggere la propria navigazione e i dati personali su internet non è mai stato così accessibile ed economico. PrivadoVPN ha lanciato una promozione sui suoi piani a lungo…",
+      "image": "https://cdn.tomshw.it/storage/media/2024/11/41878/Privado-VPN-90--copertina.jpg",
+      "publishedAt": "2026-09-03T07:21:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "ASUS a IFA 2026: nuovi Zenbook, primi ProArt con RTX Spark e molto altro",
+      "link": "https://www.hdblog.it/hardware/articoli/n669197/asus-proart-p16-p14-rtx-spark-ifa-2026/",
+      "excerpt": "ASUS presenta ProArt P16, P14 e GR1X con NVIDIA RTX Spark e AI locale avanzata.",
+      "image": "https://hd2.tudocdn.net/1367983?w=660",
+      "publishedAt": "2026-09-03T07:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Alcuni account Samsung sono stati disattivati: il motivo ancora non è chiaro",
+      "link": "https://www.hdblog.it/smartphone/articoli/n669175/account-samsung-disattivati/",
+      "excerpt": "Fioccano le segnalazioni per account Samsung disattivati: cosa sta succedendo?",
+      "image": "https://hd2.tudocdn.net/1367906?w=660",
+      "publishedAt": "2026-09-03T07:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Dropbox, un hacker è entrato in 5.000 account sfruttando una falla nell'accesso con Lenovo ID",
+      "link": "https://images.dday.it/yGzT-sGRcA8XxYsEBiIm6spZrKpIufNFJCarlSxg4qo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58590/02f4eb_Depositphotos_740553424_XL.jpg",
+      "excerpt": "L’attacco ha colpito utenti senza autenticazione a più fattori. Il problema è nato da una vecchia integrazione tra Dropbox e il sistema di accesso di Lenovo... Leggi tutto",
+      "image": "https://images.dday.it/yGzT-sGRcA8XxYsEBiIm6spZrKpIufNFJCarlSxg4qo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58590/02f4eb_Depositphotos_740553424_XL.jpg",
+      "publishedAt": "2026-09-03T07:04:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Xiaomi 18 Fold si mostra ufficialmente: chiamatelo \"mid-fold\"",
+      "link": "https://www.hdblog.it/smartphone/articoli/n669179/xiaomi-18-fold-immagini-ufficiali-specifiche/",
+      "excerpt": "Confermato il design \"a passaporto\". E anche un colore che si fa notare.",
+      "image": "https://hd2.tudocdn.net/1367923?w=660",
+      "publishedAt": "2026-09-03T06:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Galaxy Buds3 Pro su Amazon a 86€: prezzo top (con coupon) per gli auricolari Samsung",
+      "link": "https://www.hdblog.it/indossabili/offerte/n669195/samsung-galaxy-buds3-pro-amazon-codice-20oaz/",
+      "excerpt": "Le Samsung Galaxy Buds3 Pro bianche sono in offerta su Amazon a 86,89€ con codice 20OAZ: true wireless con ANC, audio Hi-Fi, LED, IP57 e case USB-C.",
+      "image": "https://hd2.tudocdn.net/1180096?w=660",
+      "publishedAt": "2026-09-03T06:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "HERE mappa l’Italia in 3D: sulle strade i veicoli per censire anche i cartelli e i negozi",
       "link": "https://images.dday.it/mXmBT-K4R1JAoY8xVyZSyARVHoD8WD7Kfr88CH7eJw8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57445/85f9b8_here_thumb.jpg",
@@ -12,186 +237,6 @@
       "publishedAt": "2026-09-03T01:03:05+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Epson Lifestudio Pop a 549€ porta il cinema fino a 150 pollici",
-      "link": "https://www.tomshw.it/offerte/epson-lifestudio-pop-a-549eur-porta-il-cinema-fino-a-150-pollici",
-      "excerpt": "Epson Lifestudio Pop EF-61W costa 549€ su Amazon, anziché 762,49€, con uno sconto del 28%. È pensato per trasformare film, serie, video e fotografie in uno spettacolo Full HD che…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111351/tomshw-offer-1029051.png",
-      "publishedAt": "2026-09-02T20:20:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Logitech G735 sotto i 130€, comfort leggero per gioco, chat e musica",
-      "link": "https://www.tomshw.it/offerte/logitech-g735-sotto-i-130eur-comfort-leggero-per-gioco-chat-e-musica",
-      "excerpt": "Le Logitech G735 costano 129,99€ su Amazon, invece di 159,99€, con uno sconto del 19%. La combinazione di leggerezza, tre modalità di collegamento e doppio mix audio è pensata per…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111350/tomshw-offer-1029030.png",
-      "publishedAt": "2026-09-02T19:49:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "La verità sulla ricarica degli smartphone | Video",
-      "link": "https://www.hdblog.it/smartphone/comparazioni/n666672/cuktech-ricarica-smartphone-test-video-comparativa/",
-      "excerpt": "Chi vince?",
-      "image": "https://hd2.tudocdn.net/1361752?w=660",
-      "publishedAt": "2026-09-02T19:00:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Green Climate Fund: dopo il Nepal bisogna rilanciare i fondi",
-      "link": "https://www.tomshw.it/scienze/green-climate-fund-alluvioni-e-incendi-rilancino-i-fondi-climatici",
-      "excerpt": "Almeno 2,2 milioni di tonnellate di detriti si sono accumulate nelle aree del Nepal esaminate dopo le alluvioni del 26 agosto. La United Nations Development Programme ha inoltre…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111272/news-flash-1028865.png",
-      "publishedAt": "2026-09-02T18:57:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Risparmi 25,50€ sul termostato Bosch Smart Home II [+M] per ogni stanza",
-      "link": "https://www.tomshw.it/offerte/risparmi-2550eur-sul-termostato-bosch-smart-home-ii-m-per-ogni-stanza",
-      "excerpt": "Bosch Smart Home Termostato per radiatore II costa 61,59€ su Amazon: il listino è 87,09€ e lo sconto applicato è del 29%. Il supporto Matter consente di rendere intelligente il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111347/tomshw-offer-1029006.png",
-      "publishedAt": "2026-09-02T18:50:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "46,47€ in meno su De'Longhi La Specialista Arte per il caffè da barista",
-      "link": "https://www.tomshw.it/offerte/4647eur-in-meno-su-delonghi-la-specialista-arte-per-il-caffe-da-barista",
-      "excerpt": "De'Longhi La Specialista Arte costa 363,43€ su Amazon, invece dei 409,90€ di listino: lo sconto è dell'8% e il risparmio arriva a 46,47€. La macchina manuale riunisce macinatura,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111346/tomshw-offer-1028995.png",
-      "publishedAt": "2026-09-02T18:20:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Nothing OS 5.0 è ufficiale: le novità tra AI, trasparenze e Quick Share con iPhone",
-      "link": "https://www.hdblog.it/smartphone/comparazioni/n669173/nothing-os-5-0-android-17-novita-quando-modelli/",
-      "excerpt": "Novità, modelli coinvolti e tempistiche.",
-      "image": "https://hd2.tudocdn.net/1367890?w=660",
-      "publishedAt": "2026-09-02T18:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Huawei Watch D3, potrà misurare la pressione dal polso",
-      "link": "https://www.tomshw.it/smartphone/huawei-watch-d3-pressione-col-manicotto-integrato-a-449-euro",
-      "excerpt": "Un manicotto gonfiabile inserito direttamente nel cinturino consente a Huawei Watch D3 di misurare la pressione sanguigna con metodo oscillometrico. Huawei ha presentato lo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111232/qgzy9vtorbfncupt5ZZ57d-2492-80.jpg",
-      "publishedAt": "2026-09-02T18:08:40+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Huawei rinnova i suoi smartwatch: Watch 6 Pro è il primo tutto in ceramica",
-      "link": "https://www.hdblog.it/indossabili/articoli/n669176/huawei-watch-6-pro-specifiche-immagini-prezzi/",
-      "excerpt": "Huawei Watch 6 da 42 mm pesa appena 38 grammi ed è, secondo l’azienda, il suo smartwatch più leggero di sempre. La nuova gamma introduce anche cinturini EasyCross e controlli…",
-      "image": "https://hd2.tudocdn.net/1367891?w=660",
-      "publishedAt": "2026-09-02T18:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Genesis X Gran Berlinetta, la super GT da pista nata dai videogame",
-      "link": "https://www.hdmotori.it/genesis-x-gran-berlinetta-vision-gran-turismo/",
-      "excerpt": "Dal videogame Gran Turismo all'asfalto di Bathurst: la Genesis X Gran Berlinetta unisce design scultoreo, tinta Magma e un powertrain V6 ibrido da 1.086 CV",
-      "image": "https://hd2.tudocdn.net/1367907?w=660",
-      "publishedAt": "2026-09-02T18:00:24+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iRobot Roomba 115 Combo a 179,90€, il minimo storico per aspirare e lavare",
-      "link": "https://www.tomshw.it/offerte/irobot-roomba-115-combo-a-17990eur-il-minimo-storico-per-aspirare-e-lavare",
-      "excerpt": "iRobot Roomba 115 Combo costa 179,90€ su Amazon: è il suo minimo storico, anziché 249€, con uno sconto del 28%. Aspira e lava nello stesso passaggio, affidandosi a 15.000 Pa e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111345/tomshw-offer-1028974.png",
-      "publishedAt": "2026-09-02T17:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Quando esce Gears of War: E-Day? Data e cosa sappiamo",
-      "link": "https://www.tomshw.it/videogioco/quando-esce-gears-of-war-e-day",
-      "excerpt": "Gears of War: E-Day uscirà ufficialmente il 6 ottobre 2026. Il nuovo capitolo sviluppato da The Coalition arriverà contemporaneamente su Xbox Series X|S e PC, attraverso Microsoft…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/110822/cover.jpg",
-      "publishedAt": "2026-09-02T17:30:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Robot morbido: salta da solo usando soltanto luce infrarossa",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n669139/robot-morbido-luce-infrarossa-salti/",
-      "excerpt": "Un robot morbido usa luce infrarossa ed elasticità per saltare e resettarsi da solo.",
-      "image": "https://hd2.tudocdn.net/1367712?w=660",
-      "publishedAt": "2026-09-02T17:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Aspirabriciole 4-in-1 a 38,99€, minimo di sempre per pulire l’auto",
-      "link": "https://www.tomshw.it/offerte/aspirabriciole-4-in-1-a-3899eur-minimo-di-sempre-per-pulire-lauto",
-      "excerpt": "L’aspirabriciole SEALIGHT 4-in-1 costa 38,99€ su Amazon, anziché 59,99€, con uno sconto del 35% e 21€ lasciati in tasca. Motore brushless da 32.000 Pa e quattro funzioni lo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111320/tomshw-offer-1028962.png",
-      "publishedAt": "2026-09-02T17:19:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Range Rover Electric sbarca in Italia: prezzi da 165.400€",
-      "link": "https://www.tomshw.it/automotive/range-rover-electric-ordini-aperti-in-italia-da-165-400-euro",
-      "excerpt": "Circa 600 km di autonomia WLTP e una ricarica dal 10% all'80% in 22 minuti segnano il debutto commerciale della Range Rover Electric, prima vettura completamente elettrica nella…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111269/news-flash-1028800.png",
-      "publishedAt": "2026-09-02T17:06:29+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Auto elettriche, dal 2027 cambia la ricarica: colonnine ogni 60 km e pagamenti più facili",
-      "link": "https://www.hdmotori.it/auto-elettriche-2027-cambia-ricarica/",
-      "excerpt": "Dal 2027 entrano nel vivo le nuove regole europee sulla ricarica delle auto elettriche: più colonnine sulla rete TEN-T, pagamenti diretti e tariffe trasparenti",
-      "image": "https://hd2.tudocdn.net/1367878?w=660",
-      "publishedAt": "2026-09-02T17:00:37+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Arriva il suono privato: lo senti solo se sei nel punto giusto",
-      "link": "https://www.hdblog.it/tv/articoli/n669140/altoparlante-audio-direzionale-mipal/",
-      "excerpt": "Un nuovo speaker concentra il suono su una sola persona riducendo la dispersione laterale.",
-      "image": "https://hd2.tudocdn.net/1367710?w=660",
-      "publishedAt": "2026-09-02T16:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Xiaomi porta in Italia Redmi Watch 6 e Smart Band 11 Active: prezzi da 29,99 euro",
-      "link": "https://www.hdblog.it/indossabili/articoli/n669167/xiaomi-redmi-watch-6-smart-band-11-active-prezzi/",
-      "excerpt": "Xiaomi porta in Italia Redmi Watch 6 Lite, Redmi Watch 6 Active e Xiaomi Smart Band 11 Active: tre nuovi wearable pensati per fasce di prezzo differenti, con listini compresi tra…",
-      "image": "https://hd2.tudocdn.net/1367864?w=660",
-      "publishedAt": "2026-09-02T16:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung porta a IFA 2026 nuove lavatrici Bespoke AI: fino a 13kg di bucato",
-      "link": "https://www.hdblog.it/samsung/articoli/n669165/samsung-ifa26-lavatrici-bespoke-ai-13kg-a70/",
-      "excerpt": "Samsung annuncia due nuove lavatrici Bespoke AI per IFA 2026: un modello da 10 kg con efficienza energetica A-70% e uno da 13 kg che mantiene la profondità standard di 600 mm,…",
-      "image": "https://hd2.tudocdn.net/1367861?w=660",
-      "publishedAt": "2026-09-02T16:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Fusione nucleare, il Texatron prova la strada dei super impulsi",
-      "link": "https://www.hdblog.it/green/articoli/n669133/fusione-nucleare-texatron-plasma-100000-atmosfere/",
-      "excerpt": "Il Texatron comprime plasma a 100.000 atmosfere senza enormi magneti superconduttori.",
-      "image": "https://hd2.tudocdn.net/1367707?w=660",
-      "publishedAt": "2026-09-02T16:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Acer ha fatto un laptop aggiornabile e facilissimo da riparare. Zero viti e prestazioni super",
@@ -226,51 +271,6 @@
       "excerpt": "Packard Bell festeggia 100 anni con un rilancio firmato Acer: nuovo logo, slogan “Tech it easy” e nove prodotti, dal laptop DotBook agli occhiali smart, passando per giradischi e…",
       "image": "https://images.dday.it/kI1Ph8PMtFgZQXLZ6_7DRPQp46JVaebXOdYMPhRti7Y/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58579/8f8184_P1233634.jpg",
       "publishedAt": "2026-09-02T15:54:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Nuovi test Euro NCAP, cinque stelle per Aion UT, Geely E2 e Leapmotor B05. Cupra Raval si ferma a quattro",
-      "link": "https://images.dday.it/Dp_knfx_3g5PPRUpjS-9c1aZYO0j-FhAaxKV7BvMV3w/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58583/9d2184_testeuroncap_thumb.jpg",
-      "excerpt": "I nuovi test 2026 premiano tre elettriche cinesi, mentre la compatta spagnola raggiunge le cinque stelle solo con il Safety Pack opzionale... Leggi tutto",
-      "image": "https://images.dday.it/Dp_knfx_3g5PPRUpjS-9c1aZYO0j-FhAaxKV7BvMV3w/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58583/9d2184_testeuroncap_thumb.jpg",
-      "publishedAt": "2026-09-02T14:38:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Super-prezzo per il Samsung Galaxy S25 su Amazon. Top di gamma a prezzo di fascia media",
-      "link": "https://images.dday.it/hihoE2rQIBS_JxwawvZtomNUq_7DJPxMo61SdNJocBo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58574/470cd0_Depositphotos_784764782_XL.jpg",
-      "excerpt": "Galaxy S25 da 128 GB è in sconto su Amazon al prezzo più basso raggiunto sulla piattaforma... Leggi tutto",
-      "image": "https://images.dday.it/hihoE2rQIBS_JxwawvZtomNUq_7DJPxMo61SdNJocBo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58574/470cd0_Depositphotos_784764782_XL.jpg",
-      "publishedAt": "2026-09-02T13:18:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Shelly, ecco la prima videocamera di sorveglianza: costa 40 euro e non serve l'abbonamento",
-      "link": "https://images.dday.it/W9bwt8tINohu1SmIOHt_ziliOJdQqJSeK5kOj2elKsE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58577/2095cc_shellycamera_thumb.jpg",
-      "excerpt": "La prima videocamera del marchio registra in Full HD e può attivare automazioni domestiche senza abbonamento. Il cloud resta opzionale... Leggi tutto",
-      "image": "https://images.dday.it/W9bwt8tINohu1SmIOHt_ziliOJdQqJSeK5kOj2elKsE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58577/2095cc_shellycamera_thumb.jpg",
-      "publishedAt": "2026-09-02T12:33:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "La Polizia Postale incolla una risposta di Copilot su LinkedIn. Ha violato l’AI Act? Non necessariamente",
-      "link": "https://images.dday.it/Xs-S0iZJ2PWyzddATXCU_R2WakJifWyT1oIyBOwG7NI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58575/667a83_small_HRIv1ARXUAEvm6i_copia.jpg",
-      "excerpt": "Il testo era destinato a informare il pubblico e quindi rientra nell’articolo 50. Ma se c’è stata revisione umana, dichiarare l’uso dell’IA non è obbligatorio... Leggi tutto",
-      "image": "https://images.dday.it/Xs-S0iZJ2PWyzddATXCU_R2WakJifWyT1oIyBOwG7NI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58575/667a83_small_HRIv1ARXUAEvm6i_copia.jpg",
-      "publishedAt": "2026-09-02T12:20:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Una falla di WhatsApp su Android permette di vedere le foto senza sbloccare lo smartphone",
-      "link": "https://images.dday.it/KIzq1AAxBGe_wbjCkCpaxMbCLXFeC_zR23licDqTUhA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58573/02c692_Depositphotos_391072452_XL.jpg",
-      "excerpt": "Il problema sfrutta una videochiamata e la funzione “Crea con Meta AI”. Il bypass è stato verificato su alcuni dispositivi Android, ma non sembra colpire tutti i produttori...…",
-      "image": "https://images.dday.it/KIzq1AAxBGe_wbjCkCpaxMbCLXFeC_zR23licDqTUhA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58573/02c692_Depositphotos_391072452_XL.jpg",
-      "publishedAt": "2026-09-02T11:30:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
