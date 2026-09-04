@@ -1,17 +1,224 @@
 {
-  "generatedAt": "2026-09-04T13:54:15.986712+00:00",
+  "generatedAt": "2026-09-04T17:17:50.302789+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Microsoft Project Zenith: i primi PC avranno almeno 64 GB",
-      "link": "https://www.tomshw.it/hardware/microsoft-project-zenith-i-primi-pc-avranno-almeno-64-gb",
-      "excerpt": "Almeno 64 GB di memoria unificata e più di 250 GB/s di banda costituiscono la base hardware scelta da Microsoft per Project Zenith, un'esperienza Windows 11 pronta all'uso per…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111815/Windows365-wallpaper-dark-1024x768-1.png",
-      "publishedAt": "2026-09-04T13:51:38+00:00",
+      "title": "Dati aziendali e Intelligenza Artificiale: checklist con 8 voci da spuntare prima di iniziare",
+      "link": "https://www.tomshw.it/aioperator/dati-aziendali-e-intelligenza-artificiale-checklist-con-8-voci-da-spuntare-prima-di-iniziare",
+      "excerpt": "Il fornitore di intelligenza artificiale a cui affidi i dati dei clienti diventa un soggetto con obblighi contrattuali precisi sul trattamento dei dati personali. Prima di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111513/01-conf9-cover.jpg",
+      "publishedAt": "2026-09-04T17:07:04+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "UGREEN punta su AIoT e smart home: tutte le novità presentate a IFA",
+      "link": "https://www.hdblog.it/home/articoli/n668992/ugreen-novita-ifa-smart-home-ricarica-ai/",
+      "excerpt": "Da UGREEN tante soluzioni per la ricarica e la gestione della casa connessa.",
+      "image": "https://hd2.tudocdn.net/1368680?w=660",
+      "publishedAt": "2026-09-04T17:01:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Bristol Cars riprende forma, torna nel 2026 con le supercar Fighter",
+      "link": "https://www.hdmotori.it/bristol-cars-supercar-fighter/",
+      "excerpt": "Il produttore britannico di auto di lusso costruite a mano con sede a Bristol si rilancia con la potenza di un V10 da 8 litri e 600 CV",
+      "image": "https://hd2.tudocdn.net/1368841?w=660",
+      "publishedAt": "2026-09-04T17:00:33+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Comprare GeForce RTX 5070 Ti ora o aspettare RTX 5070 Ti SUPER?",
+      "link": "https://www.tomshw.it/hardware/comprare-geforce-rtx-5070-ti-ora-o-aspettare-rtx-5070-ti-super",
+      "excerpt": "La GeForce RTX 5070 Ti è acquistabile in Italia, ma il suo prezzo di strada resta elevato rispetto al posizionamento della scheda. La GeForce RTX 5070 Ti SUPER è attesa non prima…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/110480/comprare-geforce-rtx-5070-ti-ora-o-aspettare-rtx-5070-ti-super.png",
+      "publishedAt": "2026-09-04T17:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Audacity 4.0: la rivoluzione più attesa è finalmente qui",
+      "link": "https://www.tomshw.it/hardware/audacity-40-e-arrivato-il-piu-grande-aggiornamento-della-sua-storia",
+      "excerpt": "Audacity 4.0.0 è stato pubblicato il 3 settembre 2026 e porta il più grande aggiornamento nella storia dell’editor audio. Dopo 26 anni dalla prima versione pubblica, il programma…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111725/amarcord-cover-1053171.png",
+      "publishedAt": "2026-09-04T16:56:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Škoda Karoq Black Edition, arriva la versione per celebrare il milionesimo esemplare",
+      "link": "https://www.hdmotori.it/skoda-karoq-black-edition/",
+      "excerpt": "Per celebrare il milionesimo esemplare prodotto, Škoda lancia la nuova Karoq Black Edition: look nero integrale e dotazione al top",
+      "image": "https://hd2.tudocdn.net/1368838?w=660",
+      "publishedAt": "2026-09-04T16:30:04+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "90€ in meno su Insta360 GO Ultra Pack Creator, 4K60 a mani libere",
+      "link": "https://www.tomshw.it/offerte/90eur-in-meno-su-insta360-go-ultra-pack-creator-4k60-a-mani-libere",
+      "excerpt": "Insta360 GO Ultra Pack Creator a 389€ su Amazon fa risparmiare 90€ sul listino di 479€, con il 19% di sconto. Il corpo da 53 g si indossa o si aggancia dove serve, così le riprese…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111843/tomshw-offer-1054529.png",
+      "publishedAt": "2026-09-04T16:21:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Google porta Gemini Spark dentro Google Foto: cosa può fare",
+      "link": "https://www.hdblog.it/google/articoli/n669397/google-porta-gemini-spark-dentro-foto-novita/",
+      "excerpt": "Gemini Spark arriva in Google Photos per modificare foto, creare album e automatizzare attività.",
+      "image": "https://hd2.tudocdn.net/1368834?w=660",
+      "publishedAt": "2026-09-04T16:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La casa del futuro secondo Haier: tutte le novità presentate a IFA 2026",
+      "link": "https://www.hdblog.it/tv/articoli/n668695/haier-ifa-2026-novita-smart-home-tv/",
+      "excerpt": "Prestazioni, design e AI: ecco i nuovi frigoriferi, lavatrici e piccoli elettrodomestici di Haier.",
+      "image": "https://hd2.tudocdn.net/1367592?w=660",
+      "publishedAt": "2026-09-04T16:01:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Volkswagen mostra la mobilità del futuro, mercato pronto alla rivoluzione",
+      "link": "https://www.hdmotori.it/volkswagen-mobilita-futuro-rivoluzione-mercato/",
+      "excerpt": "Per uscire dalla crisi il Gruppo tedesco ha lanciato un servizio ride sharing e una soluzione di trasporto autonomo di merci con ID. Buzz AD",
+      "image": "https://hd2.tudocdn.net/1368837?w=660",
+      "publishedAt": "2026-09-04T16:00:12+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Migliori tastiere economiche (settembre 2026)",
+      "link": "https://www.tomshw.it/guide/migliori-tastiere-economiche",
+      "excerpt": "Scegliere una tastiera economica non significa accontentarsi della prima periferica in offerta: significa capire quale modello risolve meglio il problema della vostra postazione…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/87637/migliori-tastiere-economiche-copertina.jpg",
+      "publishedAt": "2026-09-04T16:00:02+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "FPS che calano dopo pochi minuti: thermal throttling, driver e alimentazione GPU da verificare",
+      "link": "https://www.tomshw.it/hardware/scheda-video-perde-fps-controlli-thermal-throttling",
+      "excerpt": "Se il gioco parte fluido e rallenta dopo pochi minuti, il thermal throttling della scheda video è un’ipotesi concreta, ma non è ancora una diagnosi. La conferma arriva quando…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/110565/cover.png",
+      "publishedAt": "2026-09-04T16:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Risposta automatica alle FAQ: come addestrare il modello solo sui dati che possiedi già",
+      "link": "https://www.tomshw.it/aioperator/risposta-automatica-alle-faq-come-addestrare-il-modello-solo-sui-dati-che-possiedi-gia",
+      "excerpt": "Nel 2026 la piattaforma Fin di Intercom dichiara una percentuale media di risoluzione del 76% su oltre 12.000 clienti, con punte sopra l'85% quando la base di conoscenza è curata…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/110217/04-cs07-cover.jpg",
+      "publishedAt": "2026-09-04T16:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Nintendo annuncia due Direct per la prossima settimana: data e ora",
+      "link": "https://www.hdblog.it/nintendo/articoli/n669401/nintendo-direct-settembre-zelda-data-ora-italia/",
+      "excerpt": "Ecco come e quando seguirli.",
+      "image": "https://hd2.tudocdn.net/1357363?w=660",
+      "publishedAt": "2026-09-04T15:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung HW-B750F al minimo storico: 149€ per film e giochi in 5.1",
+      "link": "https://www.tomshw.it/offerte/samsung-hw-b750f-al-minimo-storico-149eur-per-film-e-giochi-in-51",
+      "excerpt": "La Samsung HW-B750F costa 149€ su Amazon, il suo minimo storico, con il 6% di sconto sul prezzo di listino di 159€. Sei speaker, subwoofer e audio 5.1 danno a film e giochi una…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111839/tomshw-offer-1054497.png",
+      "publishedAt": "2026-09-04T15:50:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Ezviz a IFA 2026: telecamere a tre obiettivi e AI che lavora in casa",
+      "link": "https://www.hdblog.it/home/articoli/n669403/ezviz-ifa-2026-novita-casa/",
+      "excerpt": "Ezviz porta a IFA 2026 una nuova generazione di dispositivi per la sicurezza domestica, con telecamere a triplo obiettivo, videocitofoni evoluti e AI elaborata sempre più…",
+      "image": "https://hd2.tudocdn.net/1368833?w=660",
+      "publishedAt": "2026-09-04T15:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Gestione acquisti: come controllare tail spend e maverick buying con AI e policy digitali",
+      "link": "https://www.tomshw.it/aioperator/gestione-acquisti-come-controllare-tail-spend-e-maverick-buying-con-ai-e-policy-digitali",
+      "excerpt": "Il tail spend è la parte di spesa aziendale fatta di acquisti piccoli, frequenti e dispersi su troppi fornitori: secondo la definizione di DealHub, rappresenta circa l'ottanta per…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111509/04-acq09-cover.jpg",
+      "publishedAt": "2026-09-04T15:44:14+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Moto Guzzi 105 Anniversary, 5 modelli con livree speciali in arrivo",
+      "link": "https://www.hdmotori.it/moto-guzzi-105-anniversary-modelli-novita/",
+      "excerpt": "Il restyling dello stabilimento di Mandello ispira la serie speciale 105 Anniversary: stile e dettagli inediti per Stelvio, V100, V85 Strada e V7 Stone",
+      "image": "https://hd2.tudocdn.net/1368831?w=660",
+      "publishedAt": "2026-09-04T15:30:39+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Anche Motorola prepara un pieghevole \"a passaporto\": eccolo nei bozzetti",
+      "link": "https://www.hdblog.it/smartphone/articoli/n669393/motorola-wide-foldable-design-bozzetti-pieghevole/",
+      "excerpt": "Ci sono alcune soluzioni ergonomiche interessanti.",
+      "image": "https://hd2.tudocdn.net/1368828?w=660",
+      "publishedAt": "2026-09-04T15:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Bosch GO 3 a 68,66€, 7 livelli di coppia per i lavori delicati",
+      "link": "https://www.tomshw.it/offerte/bosch-go-3-a-6866eur-7-livelli-di-coppia-per-i-lavori-delicati",
+      "excerpt": "Bosch GO 3 costa 68,66€ su Amazon: dai 72,99€ di listino scende di 4,33€, con il 6% di sconto. La frizione a 7 impostazioni permette di dosare la coppia nei montaggi che…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111831/tomshw-offer-1054423.png",
+      "publishedAt": "2026-09-04T15:20:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Una lavatrice da 9 kg a 299 euro: la Candy ProWash 300 diventa difficilissima da ignorare",
+      "link": "https://images.dday.it/QgilvWvoaCLdLGGUW5JGZA7zt5XVX7L3pp_3i8CDpOw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58627/78f889_cove_r51K3FdlaAAL._AC_SL1000__copia.jpg",
+      "excerpt": "Capiente, efficiente e ora anche molto conveniente: la Candy ProWash 300 da 9 kg scende a 299 euro su Amazon, con uno sconto del 15% e una dotazione davvero completa... Leggi tutto",
+      "image": "https://images.dday.it/QgilvWvoaCLdLGGUW5JGZA7zt5XVX7L3pp_3i8CDpOw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58627/78f889_cove_r51K3FdlaAAL._AC_SL1000__copia.jpg",
+      "publishedAt": "2026-09-04T15:09:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "RTX Spark arriva a ottobre: se NVIDIA ci ha visto giusto, gli altri hanno preso una strada sbagliata",
+      "link": "https://images.dday.it/wVmv4lUr2KMWgiTH_SxvRj0wTjSXJCg5xyo1g_KmWi8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58619/b12ec8_P1233624.jpg",
+      "excerpt": "NVIDIA prende tutto. Dopo aver disseminato milioni di GPU in tutti i datacenter AI nel mondo, ora vuole prendersi anche le case e i piccoli uffici: con RTX Spark si apre una…",
+      "image": "https://images.dday.it/wVmv4lUr2KMWgiTH_SxvRj0wTjSXJCg5xyo1g_KmWi8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58619/b12ec8_P1233624.jpg",
+      "publishedAt": "2026-09-04T14:37:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "I robot tagliaerba imparano a tagliare i bordi: a IFA 2026 diverse soluzioni per lo stesso problema",
+      "link": "https://images.dday.it/A8_nUmT5lWLgunNdNNYvndLdUJYA-BmwCjfhN41dL10/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58625/d20d43_IMG_20260904_130749293.jpg",
+      "excerpt": "Svariati brand hanno avuto la stessa idea, ma applicata in modo diverso, per risolvere il principale problema dei robot tagliaerba.... Leggi tutto",
+      "image": "https://images.dday.it/A8_nUmT5lWLgunNdNNYvndLdUJYA-BmwCjfhN41dL10/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58625/d20d43_IMG_20260904_130749293.jpg",
+      "publishedAt": "2026-09-04T14:34:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Agenti OpenAI fuori controllo: prima di Hugging Face si coordinavano già su una wiki tedesca per rispondere a un quiz",
+      "link": "https://images.dday.it/Fl4P2CfTWTlBcdZY-IOdqOHszNyvebWOxDyKPx4atPE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58626/e70631_Immagine_Codex_4_set_2026__15_53_32.png",
+      "excerpt": "Una wiki quasi abbandonata è diventata la bacheca di migliaia di agenti OpenAI, che si passavano risposte, trucchi per la sandbox e strategie contro i moderatori. Motivo?…",
+      "image": "https://images.dday.it/Fl4P2CfTWTlBcdZY-IOdqOHszNyvebWOxDyKPx4atPE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58626/e70631_Immagine_Codex_4_set_2026__15_53_32.png",
+      "publishedAt": "2026-09-04T13:55:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Maestro è il frigo del futuro di Haier, con scomparto a microonde per scongelare i cibi",
@@ -21,123 +228,6 @@
       "publishedAt": "2026-09-04T13:50:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Corsair MP600 Elite 1TB al 54%: fino a 7.000 MB/s per rendere il PC più reattivo",
-      "link": "https://www.tomshw.it/offerte/corsair-mp600-elite-1tb-al-54-fino-a-7000-mbs-per-rendere-il-pc-piu-reattivo",
-      "excerpt": "Corsair MP600 Elite 1TB costa 199,40€ su Amazon con il 54% di sconto, rispetto ai 433,99€ di listino. Velocità elevate e dissipatore già installato lo rendono adatto a chi vuole…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111814/tomshw-offer-1054243.png",
-      "publishedAt": "2026-09-04T13:50:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Diesel, proroga firmata: taglio di 17 centesimi fino al 10 settembre",
-      "link": "https://www.tomshw.it/automotive/diesel-proroga-firmata-taglio-di-17-centesimi-fino-al-10-settembre",
-      "excerpt": "Il taglio di 17 centesimi al litro sul diesel dovrebbe proseguire fino al 10 settembre 2026, evitando che l’agevolazione termini alla scadenza prevista per il 5 settembre. Le…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111813/images-16.jpg",
-      "publishedAt": "2026-09-04T13:31:46+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Gamma Kawasaki rétro e cruiser 2027: tutti i modelli aggiornati",
-      "link": "https://www.hdmotori.it/kawasaki-gamma-2027-retro-cruiser/",
-      "excerpt": "Dalla guidabilità A2 di Eliminator e KLE500 allo stile classico di Z650RS e Z900RS: ecco come cambia la gamma Kawasaki 2027.",
-      "image": "https://hd2.tudocdn.net/1368761?w=660",
-      "publishedAt": "2026-09-04T13:30:56+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "AMD guadagna terreno nelle GPU dedicate, NVIDIA perde quote",
-      "link": "https://www.tomshw.it/hardware/amd-guadagna-terreno-nelle-gpu-dedicate-nvidia-perde-quote",
-      "excerpt": "AMD ha guadagnato terreno nel mercato grafico consumer, raggiungendo una quota del 21%, mentre NVIDIA si è attestata al 23%. Il movimento coincide con una forte crescita delle…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111808/amd-guadagna-terreno-nelle-gpu-dedicate-nvidia-perde-quote.png",
-      "publishedAt": "2026-09-04T13:30:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "I metalli svelano reti commerciali africane di 700 anni fa",
-      "link": "https://www.tomshw.it/scienze/il-rame-viaggiava-per-lafrica-ma-lo-stagno-ha-unaltra-storia",
-      "excerpt": "Un gruppo internazionale guidato da Jay Stephens e colleghi ha ricostruito la provenienza dei metalli trovati in tre siti dell'Età del Ferro nel Botswana centro-orientale. I…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111805/il-rame-viaggiava-per-l-africa-ma-lo-stagno-ha-un-altra-storia.png",
-      "publishedAt": "2026-09-04T13:20:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "EcoFlow STREAM Ultra da 899€ a 699€, il minimo storico per il solare di casa",
-      "link": "https://www.tomshw.it/offerte/ecoflow-stream-ultra-da-899eur-a-699eur-il-minimo-storico-per-il-solare-di-casa",
-      "excerpt": "EcoFlow STREAM Ultra costa 699€ su Amazon, invece di 899€, con uno sconto del 22% e 200€ di risparmio. È un sistema di accumulo da 1,92 kWh pensato per conservare l’energia…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111809/tomshw-offer-1054149.png",
-      "publishedAt": "2026-09-04T13:19:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Lite-On investe 170 milioni di dollari per raffreddare l'AI",
-      "link": "https://www.tomshw.it/hardware/lite-on-investe-170-milioni-di-dollari-per-raffreddare-lai",
-      "excerpt": "Lite-On Technology ha annunciato un investimento strategico da 170 milioni di dollari in DCX Polska, società polacca conosciuta anche come DCX Liquid Cooling Systems e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111806/lite-on-investe-170-milioni-di-dollari-per-raffreddare-l-ai.png",
-      "publishedAt": "2026-09-04T13:15:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Le motherboard Intel potrebbero supportare tre generazioni di CPU",
-      "link": "https://www.tomshw.it/hardware/le-motherboard-intel-potrebbero-supportare-tre-generazioni-di-cpu",
-      "excerpt": "Intel potrebbe cambiare strategia sulla longevità delle piattaforme desktop: una roadmap non ufficiale attribuita a un partner indica che il nuovo socket LGA-1954 sarebbe…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111803/le-motherboard-intel-potrebbero-supportare-tre-generazioni-di-cpu.png",
-      "publishedAt": "2026-09-04T13:10:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Mercedes EQA batte Tesla nella sfida delle batterie più longeve",
-      "link": "https://www.tomshw.it/automotive/mercedes-eqa-batte-tesla-nella-sfida-delle-batterie-piu-longeve",
-      "excerpt": "La Mercedes EQA conserva meglio la propria batteria rispetto alle altre auto elettriche esaminate nella più ampia indagine indipendente dedicata agli accumulatori dei veicoli…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111802/mercedes-eqa-batte-tesla-nella-sfida-delle-batterie-piu-longeve.png",
-      "publishedAt": "2026-09-04T13:05:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Terremoto in corso per Volkswagen, possibile addio a SEAT entro 3 anni",
-      "link": "https://www.hdmotori.it/volkswagen-possibile-addio-seat/",
-      "excerpt": "Le voci di un possibile exit del brand SEAT si stanno facendo insistenti in Germania. Volkswagen potrebbe essere costretta al sacrificio spagnolo",
-      "image": "https://hd2.tudocdn.net/1368754?w=660",
-      "publishedAt": "2026-09-04T13:00:35+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Migliori eSIM da usare in Albania (settembre 2026)",
-      "link": "https://www.tomshw.it/smartphone/migliori-esim-da-usare-in-albania",
-      "excerpt": "L'Albania è una meta sempre più frequentata da chi parte dall'Italia per un viaggio breve, per un tour dei Balcani o per una vacanza tra Tirana, Berat, Valona, Saranda e la…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/88202/migliori-esim-albania-copertina.jpg",
-      "publishedAt": "2026-09-04T13:00:02+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Bluetti a IFA 2026 con Balco 500: dal balcone all'energia per tutta la casa",
-      "link": "https://www.hdblog.it/home/articoli/n668675/bluetti-ifa-2026-balco-500-balcone-energia/",
-      "excerpt": "BLUETTI mostrerà anche Pioneer 5000 e la gamma Elite mini",
-      "image": "https://hd2.tudocdn.net/1366100?w=660",
-      "publishedAt": "2026-09-04T13:00:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Monitor OLED, notebook con AI, robot e tanto altro: le top offerte del 4 settembre",
-      "link": "https://www.hdblog.it/amazon/offerte/n669376/migliori-offerte-tech-4-settembre-2026-amazon-/",
-      "excerpt": "Le migliori offerte tech di oggi puntano su monitor OLED, notebook, robot aspirapolvere, power bank e accessori smart: prezzi interessanti soprattutto su Amazon.",
-      "image": "https://hd2.tudocdn.net/1368753?w=660",
-      "publishedAt": "2026-09-04T12:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Il nuovo OLED di Philips riduce gli scatti dei video 24p, senza effetto telenovela e solo quando serve",
@@ -158,24 +248,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Sky prepara le nuove SIM di Sky Mobile da operatore virtuale",
-      "link": "https://www.hdblog.it/virtuali/articoli/n669371/sky-mobile-nuove-sim-quando/",
-      "excerpt": "I rivenditori Sky starebbero ricevendo nuove indicazioni operative per la vendita del futuro Sky Mobile, insieme a strumenti per ordinare SIM fisiche, eSIM, gestire le scorte e le…",
-      "image": "https://hd2.tudocdn.net/1287527?w=660",
-      "publishedAt": "2026-09-04T12:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Supercar con targhe estere: pioggia di multe, ma quasi nessuno le paga",
-      "link": "https://www.hdmotori.it/supercar-targhe-estere-multe/",
-      "excerpt": "Dopo lo scandalo delle targhe polacche in Italia, in Inghilterra c’è un boom di auto di lusso con targhe estere.",
-      "image": "https://hd2.tudocdn.net/1368724?w=660",
-      "publishedAt": "2026-09-04T12:00:18+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "AmbiScape, l'Ambilight immersivo dei TV Philips guadagna il supporto per Matter over Thread",
       "link": "https://images.dday.it/y0xqluK_XENTVJqcfCK0cbBKQSug4l84gdgz6i_aEyg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58621/d58ac5_IMG_7394.jpg",
       "excerpt": "La nuova funzionalità AmbiScape che consente di estendere la funzione Ambilight dei TV Philips alle lampade smart di terze parti, dal 2027 supporterà anche i modelli basati su…",
@@ -185,16 +257,7 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Dipendenza da ChatGPT: uno studio rivela il forte legame con insicurezza e solitudine",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n669354/chatgpt-dipendenza-insicurezza-solitudine/",
-      "excerpt": "ChatGPT è per molti una sorta di rifugio: qual è il nesso con l'isolamento sociale.",
-      "image": "https://hd2.tudocdn.net/1368720?w=660",
-      "publishedAt": "2026-09-04T11:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "La nuova lavatrice di Samsung ha una capacità di carico di 13 Kg ma non \"ingrassa\"",
+      "title": "La nuova lavatrice di Samsung ha una capacità di carico di 13 kg ma non \"ingrassa\"",
       "link": "https://images.dday.it/LB965A1TJ5FifnUEOmxFQCoDAXyH-05cagMfFxQfk7Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58620/96d19f_IMG_7304.jpg",
       "excerpt": "Samsung ha svelato a IFA le ultime novità sul fronte lavaggio. Aumenta la capacità, ma non le dimensioni e nemmeno i consumi: la nuova Bespoke AI porta la capacità del cestello a…",
       "image": "https://images.dday.it/LB965A1TJ5FifnUEOmxFQCoDAXyH-05cagMfFxQfk7Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58620/96d19f_IMG_7304.jpg",
@@ -203,74 +266,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Hisense punta al salto di qualità sull'AI per la smart home",
-      "link": "https://www.hdblog.it/hisense/articoli/n669353/hisense-v-aios-strategia-ai-casa-connessa/",
-      "excerpt": "Hisense annuncia a IFA 2026 V AIOS, il nuovo sistema operativo AI per la casa connessa che promette di anticipare le esigenze degli utenti, e conferma la partnership con UEFA fino…",
-      "image": "https://hd2.tudocdn.net/1368675?w=660",
-      "publishedAt": "2026-09-04T11:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Plex invita ad aggiornare subito Media Server e Desktop per motivi di sicurezza",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n669368/plex-server-vulnerabilita-aggiornare/",
-      "excerpt": "L’aggiornamento di Plex può richiedere qualche passaggio aggiuntivo sui NAS Synology, QNAP e di altri produttori, dove i nuovi pacchetti potrebbero arrivare più tardi e rendere…",
-      "image": "https://hd2.tudocdn.net/1286366?w=660",
-      "publishedAt": "2026-09-04T11:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Haier diventa Global Partner della UEFA Champions League",
       "link": "https://images.dday.it/Cp_3CFFbpPudfYlhEVlcOF53y4VWPVwEIEbXiwd6ghQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58618/733aaf_IMG_7444.jpg",
       "excerpt": "Haier ha annunciato a IFA 2026 una partnership strategica quadriennale con UC3 per diventare Global Partner della UEFA Champions League dal 2027 al 2031... Leggi tutto",
       "image": "https://images.dday.it/Cp_3CFFbpPudfYlhEVlcOF53y4VWPVwEIEbXiwd6ghQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58618/733aaf_IMG_7444.jpg",
       "publishedAt": "2026-09-04T11:08:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "L'AI non ruba il lavoro, lo trasforma: la sfida di Amazon tra tagli e nuove opportunità",
-      "link": "https://www.hdblog.it/amazon/articoli/n669363/amazon-ai-scrittura-codice-dipendenti/",
-      "excerpt": "Crea un'app durante un volo aereo: il racconto di una manager Amazon a sostegno dell'utilità dell'AI in ambito lavorativo.",
-      "image": "https://hd2.tudocdn.net/1368715?w=660",
-      "publishedAt": "2026-09-04T11:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "I nuovi smartphone TCL NXTPAPER P80 Ultra e P80 Pro uniscono OLED ed effetto carta",
-      "link": "https://images.dday.it/MIuS4lL7CoAClZlQJFdcr-khvm8MgFw6VpyWsw61nwU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58609/1ba718_IMG_7550.jpg",
-      "excerpt": "Svelata a IFA 2026 la nuova serie di smartphone NXTPAPER P80 con schermo OLED: tre modelli tutti con nuovo display OLED da 6,83 pollici, di cui due con il rivestimento…",
-      "image": "https://images.dday.it/MIuS4lL7CoAClZlQJFdcr-khvm8MgFw6VpyWsw61nwU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58609/1ba718_IMG_7550.jpg",
-      "publishedAt": "2026-09-04T11:00:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "“Gemini, organizzaci la scalata!”: tre escursionisti soccorsi sul Monte Shasta dopo aver seguito l'IA",
-      "link": "https://images.dday.it/CQXU1LGuDAEe2cZLDX0GtgRImblEfK9iUTtry1VXfIk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58617/120e3f_Depositphotos_32723725_XL.jpg",
-      "excerpt": "Il chatbot Google aveva indicato percorso, cibo e acqua per la scalata. Il gruppo è finito fuori rotta nel Mud Creek Canyon prima del recupero dei ranger... Leggi tutto",
-      "image": "https://images.dday.it/CQXU1LGuDAEe2cZLDX0GtgRImblEfK9iUTtry1VXfIk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58617/120e3f_Depositphotos_32723725_XL.jpg",
-      "publishedAt": "2026-09-04T10:19:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Volkswagen, approvati i maxi-tagli: altri 50.000 esuberi e gamma dimezzata entro il 2030",
-      "link": "https://images.dday.it/lt8IqUXrddaFM2mrJ0ritOcvr_DJjrkEpIvUqeRW0tc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58616/617646_vw_thumb.jpg",
-      "excerpt": "Il consiglio di vigilanza ha dato il via libera al progetto dell'ad Oliver Blume dopo lo stop di luglio. Nessuna chiusura immediata degli stabilimenti... Leggi tutto",
-      "image": "https://images.dday.it/lt8IqUXrddaFM2mrJ0ritOcvr_DJjrkEpIvUqeRW0tc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58616/617646_vw_thumb.jpg",
-      "publishedAt": "2026-09-04T10:06:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "FRITZ!Box, il nuovo design visto da vicino: minimalismo, cavi nascosti e libertà di posizionamento",
-      "link": "https://images.dday.it/qCWADREWhBKWzFovlufcBdGhq9DfRrYm23Ku4GlcKWc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58614/48f142_cover.png",
-      "excerpt": "Il DSL/Fiber 7-90 è il nuovo router che celebra i 40 anni dell'azienda portando un design più pulito e una nomenclatura chiara da comprendere... Leggi tutto",
-      "image": "https://images.dday.it/qCWADREWhBKWzFovlufcBdGhq9DfRrYm23Ku4GlcKWc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58614/48f142_cover.png",
-      "publishedAt": "2026-09-04T09:48:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
