@@ -1,69 +1,123 @@
 {
-  "generatedAt": "2026-09-05T11:38:34.765762+00:00",
+  "generatedAt": "2026-09-05T14:19:42.330043+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "XbotGo Falcon è la videocamera che trasforma le partite di calcetto in una produzione professionale grazie all’IA",
+      "link": "https://images.dday.it/_C-whmyidMtmoqXj_Nz8zeBkGAilONy92ucxGgyQADk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58638/4e71aa_IMG_20260905_105129017.png",
+      "excerpt": "La si monta su un treppiede e al resto ci pensa lei. Si muove seguendo l'azione, cattura il video, ritaglia i momenti salienti e dà consigli su come migliorare il gioco... Leggi…",
+      "image": "https://images.dday.it/_C-whmyidMtmoqXj_Nz8zeBkGAilONy92ucxGgyQADk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58638/4e71aa_IMG_20260905_105129017.png",
+      "publishedAt": "2026-09-05T14:00:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Tesla FSD ora interviene nella guida manuale per evitare collisioni",
+      "link": "https://www.tomshw.it/automotive/tesla-fsd-ora-interviene-nella-guida-manuale-per-evitare-collisioni",
+      "excerpt": "Tesla ha annunciato il rilascio imminente di FSD Supervised v14.3.9, un aggiornamento che estende il sistema oltre le sessioni avviate volontariamente dal conducente. Il software…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111877/tesla-fsd-ora-interviene-nella-guida-manuale-per-evitare-collisioni.png",
+      "publishedAt": "2026-09-05T14:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "L'Egitto diventa il nuovo campo di battaglia dell'AI",
+      "link": "https://www.tomshw.it/business/huawei-ai-in-egitto-gli-usa-schiererebbero-nvidia-amd-e-microsoft",
+      "excerpt": "Duemilaotto acceleratori AI, un cloud per l’addestramento e due cluster dedicati all’inferenza: è il cuore dell’offerta che Huawei avrebbe presentato per costruire…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111226/news-flash-1028416.png",
+      "publishedAt": "2026-09-05T13:53:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Logitech G560 a 159,99€, l’audio RGB che fa la differenza nel gaming",
+      "link": "https://www.tomshw.it/offerte/logitech-g560-a-15999eur-laudio-rgb-che-fa-la-differenza-nel-gaming",
+      "excerpt": "Logitech G560 costa 159,99€ su Amazon, invece di 229,99€, con uno sconto del 30% e 70€ di risparmio. La combinazione di subwoofer, audio spaziale e illuminazione sincronizzata è…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111939/tomshw-offer-1074300.png",
+      "publishedAt": "2026-09-05T13:50:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Sorpresa: anche Haier ha il suo TV SQD Mini LED",
+      "link": "https://images.dday.it/bH6jxWbAWv--ArBi4GtTtHOzu8tOtORiMclWBmwPojo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58637/42c094_IMG_7500.jpg",
+      "excerpt": "Sul fronte TV, Haier ha presentato due nuovi modelli, uno RGB mini LED e uno SQD Mini LED, come la soluzione di TCL. Ma cosa sia in realtà, non è ancora chiaro. Mostrato anche un…",
+      "image": "https://images.dday.it/bH6jxWbAWv--ArBi4GtTtHOzu8tOtORiMclWBmwPojo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58637/42c094_IMG_7500.jpg",
+      "publishedAt": "2026-09-05T13:32:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Bambu Lab A1 Combo a 399€, il multicolore senza regolazioni infinite",
+      "link": "https://www.tomshw.it/offerte/bambu-lab-a1-combo-a-399eur-il-multicolore-senza-regolazioni-infinite",
+      "excerpt": "Bambu Lab A1 Combo costa 399€ su Amazon e riunisce stampa 3D multicolore, AMS lite e kit luce LED in un solo pacchetto. Automazione e velocità aiutano a passare dal modello…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111937/tomshw-offer-1074276.png",
+      "publishedAt": "2026-09-05T13:19:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "SONOFF amplia la casa smart con termostati e telecamere",
+      "link": "https://www.tomshw.it/altro/sonoff-amplia-la-casa-smart-con-termostati-e-telecamere",
+      "excerpt": "SONOFF ha ampliato a IFA 2026 il proprio ecosistema per la casa intelligente, presentando nuovi dispositivi dedicati al riscaldamento, alla videosorveglianza e alla gestione degli…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111876/sonoff-amplia-la-casa-smart-con-termostati-e-telecamere.png",
+      "publishedAt": "2026-09-05T13:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "iPhone Ultra, il pieghevole rischia di essere quasi introvabile al lancio",
+      "link": "https://www.hdblog.it/smartphone/articoli/n669406/iphone-ultra-pieghevole-produzione-lenta-apple/",
+      "excerpt": "Apple starebbe producendo solo poche centinaia di unità al giorno.",
+      "image": "https://hd2.tudocdn.net/1365368?w=660",
+      "publishedAt": "2026-09-05T12:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Webcam UGREEN Full HD sotto i 19€, pronta per call e lezioni",
+      "link": "https://www.tomshw.it/offerte/webcam-ugreen-full-hd-sotto-i-19eur-pronta-per-call-e-lezioni",
+      "excerpt": "La webcam UGREEN Full HD 1080p costa 18,60€ su Amazon, invece dei 27,99€ di listino, con uno sconto del 34%. È pensata per rendere più chiare videochiamate, lezioni online e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111936/tomshw-offer-1074212.png",
+      "publishedAt": "2026-09-05T12:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Abbina ordini e mezzi con l'AI: 6 criteri per il software di pianificazione carichi",
+      "link": "https://www.tomshw.it/aioperator/abbina-ordini-e-mezzi-con-lai-6-criteri-per-il-software-di-pianificazione-carichi",
+      "excerpt": "Barilla gestisce circa 600mila tonnellate di merce all'anno su 110mila spedizioni stradali, con il trasporto che assorbe il 65% del budget logistico: con quei volumi, un…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111529/04-log13-cover.jpg",
+      "publishedAt": "2026-09-05T12:15:39+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Piene da laghi glaciali: il caso del Nepal è solo l'inizio",
+      "link": "https://www.tomshw.it/scienze/piene-da-laghi-glaciali-15-milioni-di-persone-a-rischio",
+      "excerpt": "Il livello del Trishuli sarebbe salito fino a nove metri in circa 30 minuti in una località a valle. La piena che il 26 agosto 2026 ha attraversato il confine tra Nepal e Tibet ha…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/110879/piene-da-laghi-glaciali-il-caso-del-nepal-e-solo-l-inizio.png",
+      "publishedAt": "2026-09-05T12:13:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "ReRoom pianifica l'arredamento in scala reale con la mixed reality",
+      "link": "https://www.tomshw.it/hardware/reroom-pianifica-larredamento-in-scala-reale-con-la-mixed-reality",
+      "excerpt": "Hongliang Yang, Yanjing Xu, Anhang Zhang, Hui Ye e Pengfei Xu hanno presentato ReRoom, un sistema di mixed reality che permette di progettare l’arredamento direttamente nella…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111875/reroom-pianifica-l-arredamento-in-scala-reale-con-la-mixed-reality.png",
+      "publishedAt": "2026-09-05T12:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "Sconto del 52% sulla Bosch GWS 12-125, 1.200 W per lavorare il metallo",
       "link": "https://www.tomshw.it/offerte/sconto-del-52-sulla-bosch-gws-12-125-1200-w-per-lavorare-il-metallo",
       "excerpt": "Con uno sconto del 52%, la Bosch Professional GWS 12-125 costa 80,09€ su Amazon invece di 166,23€: restano in tasca 86,14€ e il prezzo coincide con il minimo storico. Il motore da…",
       "image": "https://cdn.tomshw.it/storage/media/2026/09/111930/tomshw-offer-1074145.png",
       "publishedAt": "2026-09-05T11:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Mass Effect 4: \"Lasciate lavorare BioWare in pace\"",
-      "link": "https://www.tomshw.it/videogioco/mass-effect-4-lasciate-lavorare-bioware-in-pace-2026-09-05",
-      "excerpt": "Quando un franchise storico attraversa una fase di transizione, la domanda più naturale è sempre la stessa: chi può davvero guidare il cambiamento? Per Armando Troisi, che ha…",
-      "image": "https://cdn.tomshw.it/storage/media/2023/10/1415/Mass-Effect.webp",
-      "publishedAt": "2026-09-05T11:14:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Tim Schafer: \"Solo io posso chiudere Double Fine\"",
-      "link": "https://www.tomshw.it/videogioco/tim-schafer-solo-io-posso-chiudere-double-fine-2026-09-05",
-      "excerpt": "Quando una grande azienda decide di liberarsi di uno studio di sviluppo, la reazione più comune è la rassegnazione. Non è stato così per Tim Schafer, fondatore di Double Fine e…",
-      "image": "https://cdn.tomshw.it/storage/media/2024/10/37485/psychonauts-2.webp",
-      "publishedAt": "2026-09-05T11:14:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Kamiya: \"Voglio davvero riportare in vita Scalebound\"",
-      "link": "https://www.tomshw.it/videogioco/kamiya-voglio-davvero-riportare-in-vita-scalebound-2026-09-05",
-      "excerpt": "Nel mondo dei videogiochi esistono progetti che, pur non essendo mai arrivati sugli scaffali, continuano a esercitare un fascino particolare sugli appassionati. Scalebound, il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111935/scalebound.jpg",
-      "publishedAt": "2026-09-05T11:13:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "NAVEE a IFA 2026: Fold P10 e robotica indossabile",
-      "link": "https://www.tomshw.it/altro/navee-a-ifa-2026-fold-p10-e-robotica-indossabile-2026-09-05",
-      "excerpt": "Alla fiera berlinese IFA 2026, il palcoscenico dedicato all'innovazione tecnologica europea, il marchio cinese di micromobilità NAVEE ha scelto di presentare non uno, ma due volti…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111931/image003.png",
-      "publishedAt": "2026-09-05T11:09:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Fujifilm presenta l'XF400mm F4.5: super-tele leggero e potente",
-      "link": "https://www.tomshw.it/altro/fujifilm-xf400mm-f45-super-tele-leggero-e-potente-2026-09-05",
-      "excerpt": "Fujifilm amplia la propria offerta di ottiche professionali con un nuovo super-teleobiettivo pensato per chi insegue soggetti lontani e in movimento rapido: fotografi naturalisti,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111925/XF400F4-5_Product-shots_black-background_15.jpg",
-      "publishedAt": "2026-09-05T11:02:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Reshoring o nearshoring, come scegliere dove produrre con una matrice a 7 criteri",
-      "link": "https://www.tomshw.it/aioperator/reshoring-o-nearshoring-come-scegliere-dove-produrre-con-una-matrice-a-7-criteri",
-      "excerpt": "Dal primo agosto 2026 i farmaci generici importati negli Stati Uniti restano a dazio zero, ma solo per due anni: dal terzo anno la tariffa sale al 100%, dal quarto al 200%,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111528/03-mgt10-cover.jpg",
-      "publishedAt": "2026-09-05T11:00:53+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -75,33 +129,6 @@
       "publishedAt": "2026-09-05T11:00:01+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Un meteorite antartico conserva un indizio sulla nascita del Sole",
-      "link": "https://www.tomshw.it/scienze/un-meteorite-antartico-conserva-un-indizio-sulla-nascita-del-sole",
-      "excerpt": "Un gruppo di ricercatori della Purdue University e del MIT ha analizzato minuscoli grani custoditi in un meteorite antartico, trovando la traccia di un intenso campo magnetico…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111869/un-meteorite-antartico-conserva-un-indizio-sulla-nascita-del-sole.png",
-      "publishedAt": "2026-09-05T11:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "L’IA entra nei laboratori e ridisegna gli esperimenti di fisica",
-      "link": "https://www.tomshw.it/scienze/lia-entra-nei-laboratori-e-ridisegna-gli-esperimenti-di-fisica",
-      "excerpt": "Un gruppo di ricercatori ha pubblicato su Nature una Review che definisce come l’intelligenza artificiale possa contribuire alla progettazione degli esperimenti di fisica.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111896/l-ia-entra-nei-laboratori-e-ridisegna-gli-esperimenti-di-fisica.png",
-      "publishedAt": "2026-09-05T11:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "HyperX Cloud Alpha al 54%, il minimo storico per giocare su PC e console",
-      "link": "https://www.tomshw.it/offerte/hyperx-cloud-alpha-al-54-il-minimo-storico-per-giocare-su-pc-e-console",
-      "excerpt": "Le HyperX Cloud Alpha costano 45,58€ su Amazon, con il 54% di sconto sul listino di 99,99€ e il prezzo al minimo storico. Sono cuffie gaming cablate pensate per passare facilmente…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111915/tomshw-offer-1074132.png",
-      "publishedAt": "2026-09-05T10:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Insta360 Luna Ultra premiata a IFA 2026, conquista il Best of Tech",
@@ -194,7 +221,7 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "GPT-6 Astra è già disponibile anche su ChatGPT Plus. Restano da chiarire i limiti e la marcatura AI Act",
+      "title": "GPT-6 Astra è già disponibile anche su ChatGPT Plus. Restano da chiarire la marcatura AI Act",
       "link": "https://images.dday.it/4zraQ7C9_VAxD3JyKQwsIfeEJEQHrql7jOvA7ndMfEw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58634/0f6c09_Immagine_Codex_5_set_2026__10_08_04.png",
       "excerpt": "OpenAI apre GPT-6 Astra agli utenti Plus e Pro appena un giorno dopo il lancio. In Work compaiono Light e Medio, ma la documentazione non chiarisce ancora i livelli di impegno…",
       "image": "https://images.dday.it/4zraQ7C9_VAxD3JyKQwsIfeEJEQHrql7jOvA7ndMfEw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58634/0f6c09_Immagine_Codex_5_set_2026__10_08_04.png",
@@ -208,15 +235,6 @@
       "excerpt": "La porta VGA è ancora presente su migliaia di dispositivi.",
       "image": "https://hd2.tudocdn.net/1367664?w=660",
       "publishedAt": "2026-09-05T08:01:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Meteo, Google ha appena reso le sue previsioni del tempo più precise",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669375/meteo-google-previsioni-del-tempo-precise/",
-      "excerpt": "Puoi fidarti del meteo sul tuo smartphone Android",
-      "image": "https://hd2.tudocdn.net/1368848?w=660",
-      "publishedAt": "2026-09-05T07:45:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -253,24 +271,6 @@
       "excerpt": "Sono passati 15 anni da quando tado° ha lanciato la prima versione del suo termostato smart: moltissime famiglie hanno risparmiato in questi anni migliaia di euro sul…",
       "image": "https://images.dday.it/2uO8Q_YKVFWnoDSqqTf1g8Y3RPJTv_9OCwqYxLK1MX8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58628/abad7b_P1233657.jpg",
       "publishedAt": "2026-09-05T07:14:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Edge 70 Plus è il primo Motorola con doppia cella al silicio-carbonio",
-      "link": "https://images.dday.it/J5EWGQZndFmij9oXq8MTXqtkr_V2udclCOzBmhdTqwA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58630/d28c8c_motorola_9.jpg",
-      "excerpt": "Motorola porta a IFA il nuovo Edge 70 Plus. Forte negli Stati Uniti il brand di Lenovo si trova a fare i conti con la rigida normativa sui trasporti delle batterie. Ecco quindi…",
-      "image": "https://images.dday.it/J5EWGQZndFmij9oXq8MTXqtkr_V2udclCOzBmhdTqwA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58630/d28c8c_motorola_9.jpg",
-      "publishedAt": "2026-09-05T07:09:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Una lavatrice da 9 kg a 299 euro: la Candy ProWash 300 diventa difficilissima da ignorare",
-      "link": "https://images.dday.it/QgilvWvoaCLdLGGUW5JGZA7zt5XVX7L3pp_3i8CDpOw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58627/78f889_cove_r51K3FdlaAAL._AC_SL1000__copia.jpg",
-      "excerpt": "Capiente, efficiente e ora anche molto conveniente: la Candy ProWash 300 da 9 kg scende a 299 euro su Amazon, con uno sconto del 15% e una dotazione davvero completa... Leggi tutto",
-      "image": "https://images.dday.it/QgilvWvoaCLdLGGUW5JGZA7zt5XVX7L3pp_3i8CDpOw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58627/78f889_cove_r51K3FdlaAAL._AC_SL1000__copia.jpg",
-      "publishedAt": "2026-09-04T15:09:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
