@@ -1,9 +1,90 @@
 {
-  "generatedAt": "2026-09-06T02:13:28.602219+00:00",
+  "generatedAt": "2026-09-06T08:15:04.316502+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Android Auto: come personalizzare il sistema e sfruttare al meglio le funzioni",
+      "link": "https://www.hdblog.it/android/articoli/n669315/android-auto-funzioni-per-personalizzare/",
+      "excerpt": "Una serie di trucchi per migliorare l’esperienza in auto.",
+      "image": "https://hd2.tudocdn.net/1368544?w=660",
+      "publishedAt": "2026-09-06T08:01:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il “ghepardo americano” era un parente del puma, rivela il DNA",
+      "link": "https://www.tomshw.it/scienze/nellartico-viveva-un-ghepardo-ma-il-dna-cambia-la-storia",
+      "excerpt": "Un gruppo guidato dalla University of California, Santa Cruz ha ricostruito la storia di Miracinonyx trumani, il felino estinto conosciuto come «ghepardo americano». L'analisi del…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111863/nell-artico-viveva-un-ghepardo-ma-il-dna-cambia-la-storia.png",
+      "publishedAt": "2026-09-06T08:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Apple-1 firmato da Wozniak all’asta: può valere 683.000 euro",
+      "link": "https://www.hdblog.it/apple/articoli/n669446/apple-1-firmato-wozniak-asta/",
+      "excerpt": "Un Apple-1 funzionante e firmato da Wozniak torna all’asta dopo 50 anni.",
+      "image": "https://hd2.tudocdn.net/1368899?w=660",
+      "publishedAt": "2026-09-06T07:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Settembre fa salire la bolletta: questi accessori smart vi aiutano a scoprire dove sprecate energia",
+      "link": "https://www.tomshw.it/altro/settembre-fa-salire-la-bolletta-questi-accessori-smart-vi-aiutano-a-scoprire-dove-sprecate-energia",
+      "excerpt": "Il mese di settembre porta con sé il fatidico rientro alla routine quotidiana. Che si tratti di smart working, dello studio dei ragazzi o del ritorno ai ritmi lavorativi standard,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111812/Settembre-fa-salire-la-bolletta-questi-accessori-smart-vi-aiutano-a-scoprire-dove-sprecate-energia.jpg",
+      "publishedAt": "2026-09-06T07:35:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Paint.NET sbarca su Linux grazie a WINE",
+      "link": "https://www.tomshw.it/hardware/paintnet-arriva-su-linux-con-wine-la-versione-52-alpha-apre-la-porta-ma-e-ancora-instabile",
+      "excerpt": "Paint.NET 5.2 Alpha build 9739, pubblicata il 1° settembre 2026, è la prima versione dell’editor capace di avviarsi tramite WINE su Linux. Non è un port nativo e non vuole ancora…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111409/amarcord-cover-1030340.png",
+      "publishedAt": "2026-09-06T07:13:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Smartphone che traballa? La soluzione arriva con un anello stampato in 3D",
+      "link": "https://www.hdblog.it/smartphone/articoli/n669380/smartphone-traballa-anello-stampato-in-3d/",
+      "excerpt": "Un piccolo supporto può migliorare la stabilità del telefono.",
+      "image": "https://hd2.tudocdn.net/1368757?w=660",
+      "publishedAt": "2026-09-06T07:01:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Semaglutide, nei topi rallenta alcuni segni dell’invecchiamento",
+      "link": "https://www.tomshw.it/scienze/nei-topi-femmina-il-semaglutide-potrebbe-fare-piu-che-ridurre-il-peso",
+      "excerpt": "Un gruppo guidato da Feng e colleghi ha riferito su Nature che il trattamento con semaglutide, iniziato in una fase avanzata della vita, ha migliorato le condizioni fisiologiche e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111861/nei-topi-femmina-il-semaglutide-potrebbe-fare-piu-che-ridurre-il-peso.png",
+      "publishedAt": "2026-09-06T07:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Paga 1.400 dollari per una RTX 5080 e gli arriva un thermos",
+      "link": "https://www.tomshw.it/hardware/msi-geforce-rtx-5080-spende-quasi-1-400-dollari-e-riceve-un",
+      "excerpt": "Un thermos sottovuoto e un volantino sono arrivati al posto di una MSI GeForce RTX 5080 16G SUPRIM LIQUID SOC da quasi 1.400 dollari. È quanto sostiene BransonArsen, acquirente…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111381/2026-09-01-image-15.jpg",
+      "publishedAt": "2026-09-06T06:40:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La monoposto a guida autonoma di Unimore Racing trionfa a Laguna Seca",
+      "link": "https://www.hdmotori.it/monoposto-guida-autonoma-unimore-laguna-seca/",
+      "excerpt": "Il team dell’Università di Modena e Reggio Emilia vince l'Indy Autonomous Challenge in California con tre epici sorpassi nella leggendaria curva del Cavatappi.",
+      "image": "https://hd2.tudocdn.net/1368897?w=660",
+      "publishedAt": "2026-09-06T06:30:51+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Status Pro X GoldenSound Edition: ecco le cuffie nate dopo 2 anni di ricerca",
       "link": "https://www.tomshw.it/hardware/status-audio-goldensound-pro-x-ledizione-limitata-hi-fi-costa-279-dollari",
@@ -46,51 +127,6 @@
       "excerpt": "EcoFlow RIVER 3 Plus costa 295€ su Amazon: in 4,7 kg riunisce una batteria da 286 Wh, sette uscite e una potenza adatta a numerosi dispositivi. Nel lavoro da casa può intervenire…",
       "image": "https://cdn.tomshw.it/storage/media/2026/09/111951/tomshw-offer-1074513.png",
       "publishedAt": "2026-09-05T18:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Insta360 X3 a 229€, il minimo storico per riprendere ogni angolo",
-      "link": "https://www.tomshw.it/offerte/insta360-x3-a-229eur-il-minimo-storico-per-riprendere-ogni-angolo",
-      "excerpt": "Insta360 X3 costa 229€ su Amazon, con il 36% di sconto sul listino di 359,99€ e un risparmio di 130,99€: è il suo minimo storico. La registrazione a 360° permette di catturare…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111950/tomshw-offer-1074501.png",
-      "publishedAt": "2026-09-05T18:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Lo fermano alla dogana: 36 smartphone, 550 display e 950 schede madri in valigia",
-      "link": "https://www.tomshw.it/altro/dhaka-36-smartphone-550-display-e-950-schede-madri-in-valigia",
-      "excerpt": "Trentasei smartphone, 550 display e 950 schede madri dotate di schermo viaggiavano nello stesso bagaglio, occultati e non dichiarati. La Customs Intelligence and Investigation…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111304/news-flash-1028938.png",
-      "publishedAt": "2026-09-05T18:06:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "80€ in meno sullo Xiaomi Redmi Note 15 Pro+ 5G, 6.500 mAh per giornate intense",
-      "link": "https://www.tomshw.it/offerte/80eur-in-meno-sullo-xiaomi-redmi-note-15-pro-5g-6500-mah-per-giornate-intense",
-      "excerpt": "Xiaomi Redmi Note 15 Pro+ 5G costa 399,90€ su Amazon, anziché 479,90€, con uno sconto del 17%. La batteria al silicio-carbonio da 6.500 mAh e la turbo-ricarica da 100 W sono…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111949/tomshw-offer-1074484.png",
-      "publishedAt": "2026-09-05T17:49:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Quando esce Fable? Data e cosa sappiamo",
-      "link": "https://www.tomshw.it/videogioco/quando-esce-fable-data-ufficiale-e-cosa-sappiamo",
-      "excerpt": "Fable ha finalmente una data precisa: il nuovo action RPG di Playground Games uscirà il 23 febbraio 2027. Non si tratta di una previsione né di una finestra indicativa, ma del…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/110828/cover.jpg",
-      "publishedAt": "2026-09-05T17:30:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Aqara E1 a 65,99€, tapparelle automatiche con HomeKit, Alexa e Google",
-      "link": "https://www.tomshw.it/offerte/aqara-e1-a-6599eur-tapparelle-automatiche-con-homekit-alexa-e-google",
-      "excerpt": "Aqara Motore Tapparelle E1 costa 65,99€ su Amazon, anziché 85,99€, con uno sconto del 23%. Permette di programmare tende e tapparelle a catenella, inserirle nelle routine…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111948/tomshw-offer-1074476.png",
-      "publishedAt": "2026-09-05T17:19:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -167,24 +203,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Insta360 Luna Ultra premiata a IFA 2026, conquista il Best of Tech",
-      "link": "https://www.hdblog.it/mercato/articoli/n669423/insta360-luna-ultra-ifa-2026/",
-      "excerpt": "Luna Ultra e Mic Pro premiati a IFA 2026 per tecnologia e design.",
-      "image": "https://hd2.tudocdn.net/1348885?w=660",
-      "publishedAt": "2026-09-05T10:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Prova del Narwal V50 Cube: Modalità AI, stazione automatica e doppia batteria",
-      "link": "https://www.hdblog.it/home/recensioni/n668057/prova-narwal-v50-cube-ai-stazione-doppia-batteria/",
-      "excerpt": "Test completo del nuovo Narwal V50 Cube, aspirapolvere wireless molto potente e dotato di una stazione di auto-svuotamento molto efficace.",
-      "image": "https://hd2.tudocdn.net/1366422?w=660",
-      "publishedAt": "2026-09-05T10:01:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Ha ragione X: il marchio Twitter è suo. Ma \"tweet\" e l'uccellino no",
       "link": "https://images.dday.it/fOziBOMSRl2A-JSn5JsUbshc0CyJzmQWASsy0f69UEY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58636/82a00d_Depositphotos_667543716_XL.jpg",
       "excerpt": "Il tribunale ha ritenuto probabile che X non abbia abbandonato del tutto il marchio Twitter, ma ha aperto la strada all’uso di “tweet” e del vecchio logo con l’uccellino... Leggi…",
@@ -194,15 +212,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Dai baci alle mutande sepolte: gli Ig Nobel premiano la scienza più eccentrica",
-      "link": "https://www.hdblog.it/curiosita/articoli/n669392/ignobel-premi-scienza-assurda/",
-      "excerpt": "Perché la scienza non dovrebbe prendersi troppo sul serio.",
-      "image": "https://hd2.tudocdn.net/1368829?w=660",
-      "publishedAt": "2026-09-05T09:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "iRobot ha creato Duo, un Roomba che si porta dietro un altro Roomba: il piccolo pulisce dove il grande non arriva",
       "link": "https://images.dday.it/t43halZjN4KhCjZSrUITCXw99W4jjQ95Ze7KH3jQn3A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58635/172b65_small_dsc00429_copia.jpg",
       "excerpt": "Roomba Duo è un prototipo formato da due robot. Quello grande pulisce le superfici libere, funge anche da base, e trasporta un Roomba più piccolo da liberare sotto mobili e…",
@@ -210,15 +219,6 @@
       "publishedAt": "2026-09-05T09:29:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Samsung Galaxy Book 4 Edge in offerta su Amazon, un'ottima scelta per il Back to School",
-      "link": "https://www.hdblog.it/portatili/offerte/n669431/samsung-galaxy-book-4-edge-offerta-amazon-set26/",
-      "excerpt": "Il Samsung Galaxy Book 4 Edge è in offerta su Amazon e diventa una delle migliori opzioni per il Back to School.",
-      "image": "https://hd2.tudocdn.net/1206009?w=660",
-      "publishedAt": "2026-09-05T09:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Dyson CameraJet, parla Jake Dyson: «È il prodotto più difficile che abbiamo mai realizzato»",
