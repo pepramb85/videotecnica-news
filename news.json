@@ -1,9 +1,63 @@
 {
-  "generatedAt": "2026-09-06T13:19:04.538293+00:00",
+  "generatedAt": "2026-09-06T16:36:38.410625+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Samsung Galaxy A18 4G, filtrano design, specifiche e prezzo: costerà di più",
+      "link": "https://www.hdblog.it/smartphone/articoli/n669456/samsung-galaxy-a18-specifiche-prezzo-render-leak/",
+      "excerpt": "Ma cambierà poco.",
+      "image": "https://hd2.tudocdn.net/1368946?w=660",
+      "publishedAt": "2026-09-06T16:01:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Microfono USB con fruscio o volume a salti: gain, porta e alimentazione da controllare",
+      "link": "https://www.tomshw.it/hardware/microfono-usb-fruscio-volume-instabile-controlli",
+      "excerpt": "Se il microfono USB porta in videochiamata un evidente rumore di fondo, oppure la voce aumenta, diminuisce e talvolta scompare, non significa necessariamente che sia guasto. Prima…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/110570/cover.png",
+      "publishedAt": "2026-09-06T16:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Motorola moto g67 a 229,90€, minimo storico con 256GB e fino a 37 ore",
+      "link": "https://www.tomshw.it/offerte/motorola-moto-g67-a-22990eur-minimo-storico-con-256gb-e-fino-a-37-ore",
+      "excerpt": "Motorola moto g67 costa 229,90€ su Amazon, invece di 329€, con uno sconto del 30%. È il prezzo più basso mai raggiunto dal modello e rende particolarmente interessante la versione…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112042/tomshw-offer-1077046.png",
+      "publishedAt": "2026-09-06T15:19:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "DeepSeek sceglie 160.000 chip Huawei, ma NVIDIA resta essenziale",
+      "link": "https://www.tomshw.it/hardware/deepseek-sceglie-160000-chip-huawei-ma-nvidia-resta-essenziale",
+      "excerpt": "DeepSeek avrebbe ordinato 160.000 acceleratori Huawei Ascend 950DT per alimentare un data center da 1 GW nella Mongolia Interna. La commessa sposta verso un fornitore cinese una…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111884/deepseek-sceglie-160-000-chip-huawei-ma-nvidia-resta-essenziale.png",
+      "publishedAt": "2026-09-06T15:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "70€ in meno sul Braun Serie 5, rasoio e rifinitore corpo a 74,99€",
+      "link": "https://www.tomshw.it/offerte/70eur-in-meno-sul-braun-serie-5-rasoio-e-rifinitore-corpo-a-7499eur",
+      "excerpt": "Il Braun Serie 5 costa 74,99€ su Amazon, con uno sconto del 48% che lascia 70€ in tasca rispetto al prezzo di listino di 144,99€. È anche il minimo storico per questo rasoio con…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112041/tomshw-offer-1077033.png",
+      "publishedAt": "2026-09-06T14:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "RugOne lancia lo smartphone rugged con action cam removibile",
+      "link": "https://www.tomshw.it/smartphone/rugone-lancia-lo-smartphone-rugged-con-action-cam-removibile",
+      "excerpt": "RugOne ha presentato all’IFA 2026 di Berlino il RugOne Xsnap 7 Pro, uno smartphone rugged costruito attorno a una action cam rimovibile. Il modulo si aggancia magneticamente al…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111883/rugone-lancia-lo-smartphone-rugged-con-action-cam-removibile.png",
+      "publishedAt": "2026-09-06T14:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "Frigorifero LG da incasso al minimo storico: 569,40€ e niente sbrinamento",
       "link": "https://www.tomshw.it/offerte/frigorifero-lg-da-incasso-al-minimo-storico-56940eur-e-niente-sbrinamento",
@@ -46,51 +100,6 @@
       "excerpt": "A IFA 2026, Ottocast ha presentato quattro dispositivi che ampliano il concetto di adattatore wireless per CarPlay e Android Auto, spingendosi oltre la semplice funzione di…",
       "image": "https://cdn.tomshw.it/storage/media/2026/09/112035/Ottocast-IFA-4.jpg",
       "publishedAt": "2026-09-06T12:31:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "350 ricariche rapide: la BYD Yangwang U7 perde solo l'1,3%",
-      "link": "https://www.tomshw.it/automotive/byd-yangwang-u7-capacita-al-98-7-dopo-350-ricariche-ultrarapide",
-      "excerpt": "Trentamila chilometri percorsi in 8 giorni, 19 ore e 58 minuti, con oltre 350 ricariche ultrarapide: al termine della prova, la batteria della Yangwang U7 conservava il 98,7%…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/110792/c0776dd6-2f52-4a05-a2fb-fd520f109908.webp",
-      "publishedAt": "2026-09-06T12:10:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "COSORI ICONIC Dual e Levoit Eleva 300X: la casa smart protagonista a IFA 2026",
-      "link": "https://www.tomshw.it/altro/cosori-iconic-dual-e-levoit-eleva-300x-la-casa-smart-protagonista-a-ifa-2026",
-      "excerpt": "COSORI e Levoit hanno scelto IFA 2026 per aggiornare due categorie ormai centrali nella casa connessa: la cottura ad aria e la qualità dell'aria. Le novità sono COSORI ICONIC…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112010/cosori-iconic-dual-levoit-eleva-300x-ifa-2026.jpg",
-      "publishedAt": "2026-09-06T12:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Mullvad chiude il suo DNS pubblico, gli utenti devono intervenire",
-      "link": "https://www.tomshw.it/hardware/mullvad-chiude-il-dns-pubblico-crittografato-e-finanzia-quad9",
-      "excerpt": "Mullvad interromperà il proprio servizio pubblico di DNS over HTTPS e destinerà le risorse risparmiate al sostegno economico della Quad9 Foundation. La chiusura, prevista per il 2…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111880/mullvad-chiude-il-dns-pubblico-crittografato-e-finanzia-quad9.png",
-      "publishedAt": "2026-09-06T12:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Recensione Hot Wheels Infinite Rush, un parco giochi in miniatura",
-      "link": "https://www.tomshw.it/videogioco/recensione-hot-wheels-infinite-rush",
-      "excerpt": "Tra le software house più prolifiche degli ultimi tempi possiamo sicuramente annoverare anche l’italiana Milestone, che sta sfornando da diversi anni a questa parte un titolo dopo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108906/Hot-Wheels-Infinite-Rush-(3).jpg",
-      "publishedAt": "2026-09-06T12:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "IFA 2026, arrivano gli smart glasses con guida turistica AI",
-      "link": "https://www.tomshw.it/hardware/latitude-52n-svela-occhiali-smart-per-traduzioni-live-a-ifa-2026-09-03",
-      "excerpt": "Immaginate di camminare per le vie di Roma, puntare lo sguardo su un monumento e sentire raccontare la sua storia con una colonna sonora che si adatta perfettamente all'atmosfera…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112016/Latitude-52N-IFA-6.jpg",
-      "publishedAt": "2026-09-06T11:30:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -181,15 +190,6 @@
       "excerpt": "Il team dell’Università di Modena e Reggio Emilia vince l'Indy Autonomous Challenge in California con tre epici sorpassi nella leggendaria curva del Cavatappi.",
       "image": "https://hd2.tudocdn.net/1368897?w=660",
       "publishedAt": "2026-09-06T06:30:51+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone Ultra, a IFA abbiamo già messo le mani sul pieghevole di Apple (o quasi)",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669438/iphone-ultra-pieghevole-hands-on-video-ifa-cover/",
-      "excerpt": "E ve ne mostriamo il design in video.",
-      "image": "https://hd2.tudocdn.net/1368882?w=660",
-      "publishedAt": "2026-09-05T15:10:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
