@@ -1,179 +1,206 @@
 {
-  "generatedAt": "2026-09-07T02:10:36.948885+00:00",
+  "generatedAt": "2026-09-07T08:47:23.494660+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Miniature 9K e stampe sotto controllo: ELEGOO Mars 5 Ultra a 303,99€",
-      "link": "https://www.tomshw.it/offerte/miniature-9k-e-stampe-sotto-controllo-elegoo-mars-5-ultra-a-30399eur",
-      "excerpt": "ELEGOO Mars 5 Ultra costa 303,99€ su Amazon e combina risoluzione 9K, stampa fino a 150 mm/h, livellamento automatico e telecamera AI in un sistema MSLA pensato per ridurre i…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112077/tomshw-offer-1077182.png",
-      "publishedAt": "2026-09-06T19:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "DREO a IFA 2026 porta l'IA su purificatori e riscaldamento",
-      "link": "https://www.tomshw.it/altro/dreo-porta-lia-nellaria-di-casa-a-ifa-2026-debutta-il-purificatore-530s",
-      "excerpt": "DREO ha scelto IFA 2026 per mostrare come intende rendere più intelligente la gestione dell'aria in casa. Al centro della presentazione ci sono il nuovo Air Purifier 530S, una…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112065/dreo-ifa-2026-air-purifier-530s-air-intelligence.jpg",
-      "publishedAt": "2026-09-06T19:13:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Apple MacBook Pro 14 M5 Pro a 2.599€: potenza da studio anche in viaggio",
-      "link": "https://www.tomshw.it/offerte/apple-macbook-pro-14-m5-pro-a-2599eur-potenza-da-studio-anche-in-viaggio",
-      "excerpt": "Apple MacBook Pro 14 con chip M5 Pro costa 2.599€ su Amazon, anziché 2.999€, con il 13% di sconto. CPU a 15 core, GPU a 16 core e 24GB di memoria unificata ne fanno una postazione…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112064/tomshw-offer-1077171.png",
-      "publishedAt": "2026-09-06T18:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Apple cambia volto: Tim Cook resterà dietro le quinte per l'evento degli iPhone 18 Pro",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669461/apple-lancio-iphone-18-pro-tim-cook-john-ternus/",
-      "excerpt": "I riflettori saranno tutti del nuovo CEO John Ternus.",
-      "image": "https://hd2.tudocdn.net/1368962?w=660",
-      "publishedAt": "2026-09-06T18:20:00+00:00",
+      "title": "Il frigorifero che arreda: Candy unisce stile, smart home e versatilità a IFA 2026",
+      "link": "https://www.hdblog.it/home/articoli/n668683/candy-frigoriferi-novita-ifa-2026/",
+      "excerpt": "Tre soluzioni per tutte le esigenze: le novità Candy a Berlino.",
+      "image": "https://hd2.tudocdn.net/1367609?w=660",
+      "publishedAt": "2026-09-07T08:45:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Cuktech sfida i caricabatterie tradizionali: a IFA 2026 arriva una stazione da 300W",
-      "link": "https://www.tomshw.it/smartphone/cuktech-sfida-i-caricabatterie-tradizionali-a-ifa-2026-arriva-una-stazione-da-300w",
-      "excerpt": "Cuktech ha scelto IFA 2026 per mostrare una nuova famiglia di dispositivi dedicati alla ricarica ad alta potenza. La proposta comprende una stazione desktop capace di alimentare…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112056/Cuktech-IFA-10.jpg",
-      "publishedAt": "2026-09-06T18:10:00+00:00",
+      "title": "Xiaomi lancia un depuratore che filtra l’acqua e aggiunge sei minerali",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n669501/xiaomi-depuratore-acqua-rubinetto-prezzo/",
+      "excerpt": "Xiaomi presenta Mijia Rich Mineral Water Purifier 2, depuratore domestico con osmosi inversa, nove stadi di filtrazione e un sistema che arricchisce l’acqua con sei componenti…",
+      "image": "https://hd2.tudocdn.net/1369025?w=660",
+      "publishedAt": "2026-09-07T08:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Smart TV LG, microfono attivo anche in standby: allarme privacy",
+      "link": "https://www.hdblog.it/lg/articoli/n669494/smart-tv-lg-microfono-standby-privacy/",
+      "excerpt": "Un’indagine rivela raccolta audio e scansioni della rete domestica sulle Smart TV LG",
+      "image": "https://hd2.tudocdn.net/1369032?w=660",
+      "publishedAt": "2026-09-07T08:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "L'IA ora riesce a leggere i software già compilati e a capire come funzionano. Per i produttori è un problema serio",
+      "link": "https://images.dday.it/fg6pTYAgrnPrjhKaIzyc03Bkp68dJFR1TLPK1i5RTCU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58642/297a69_Immagine_Codex_7_set_2026__10_22_40.png",
+      "excerpt": "Astra sta mostrando come l’IA possa accelerare il reverse engineering. Funzioni software esclusive diventano più facili da capire, adattare e riprodurre anche su prodotti…",
+      "image": "https://images.dday.it/fg6pTYAgrnPrjhKaIzyc03Bkp68dJFR1TLPK1i5RTCU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58642/297a69_Immagine_Codex_7_set_2026__10_22_40.png",
+      "publishedAt": "2026-09-07T08:25:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Apple, conto alla rovescia per l'evento del 9 settembre: cosa aspettarsi e cosa no",
+      "link": "https://www.hdblog.it/smartphone/articoli/n669492/apple-evento-9-settembre-cosa-aspettarsi-cosa-no/",
+      "excerpt": "Apple presenterà la nuova generazione di iPhone mercoledì 9 settembre, durante l’evento \"Surprise and Shine\"",
+      "image": "https://hd2.tudocdn.net/1369014?w=660",
+      "publishedAt": "2026-09-07T08:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Migliori rilevatori di fumo e monossido (settembre 2026)",
+      "link": "https://www.tomshw.it/altro/migliori-rilevatori-di-fumo-e-monossido",
+      "excerpt": "X-Sense SC07-WX è la scelta migliore in assoluto perché riunisce rilevamento fotoelettrico del fumo, sensore elettrochimico di CO, durata dichiarata di 10 anni e notifiche Wi-Fi.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112139/guide-thw-1094807.png",
+      "publishedAt": "2026-09-07T08:24:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "ENGWE EP-2 BOOST fa fino a 120 km e si piega per entrare in auto: 1.049€",
-      "link": "https://www.tomshw.it/offerte/engwe-ep-2-boost-fa-fino-a-120-km-e-si-piega-per-entrare-in-auto-1049eur",
-      "excerpt": "ENGWE EP-2 BOOST costa 1.049€ su Amazon e mette insieme telaio pieghevole, pneumatici fat da 20 pollici e una batteria rimovibile da 48 V e 13 Ah. L’autonomia fino a 120 km…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112046/tomshw-offer-1077138.png",
-      "publishedAt": "2026-09-06T17:50:00+00:00",
+      "title": "La soundbar LG S40T porta 300W e bassi più profondi sotto i 100€",
+      "link": "https://www.tomshw.it/offerte/la-soundbar-lg-s40t-porta-300w-e-bassi-piu-profondi-sotto-i-100eur",
+      "excerpt": "LG S40T costa 99,99€ su Amazon, invece di 119€, con uno sconto del 16%. I 300W complessivi e il subwoofer wireless puntano dritti al limite più evidente dei televisori sottili:…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112143/tomshw-offer-1094870.png",
+      "publishedAt": "2026-09-07T08:21:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "WhatsApp va \"in fissa\" coi messaggi per chat e gruppi: novità in arrivo",
-      "link": "https://www.hdblog.it/android/articoli/n669460/hatsapp-quattro-messaggi-fissati-android-beta-come/",
-      "excerpt": "Utile soprattutto per i gruppi.",
-      "image": "https://hd2.tudocdn.net/1340382?w=660",
-      "publishedAt": "2026-09-06T17:35:00+00:00",
+      "title": "MacBook Ultra, conferme per l'affiancamento agli attuali MacBook Pro",
+      "link": "https://www.hdblog.it/portatili/articoli/n669497/apple-macbook-ultra-affiancato-pro-prezzi/",
+      "excerpt": "Il prezzo potrebbe partire da 3.000 dollari.",
+      "image": "https://hd2.tudocdn.net/1368935?w=660",
+      "publishedAt": "2026-09-07T08:15:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Quando esce Kingdom Hearts IV? Data e cosa sappiamo",
-      "link": "https://www.tomshw.it/videogioco/quando-esce-kingdom-hearts-iv-data-e-cosa-sappiamo",
-      "excerpt": "Kingdom Hearts IV uscirà ufficialmente a fine 2027. La finestra comunicata da Square Enix e Disney non corrisponde ancora a una data precisa: mancano quindi giorno, mese e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/107795/sc13r3m.jpg",
-      "publishedAt": "2026-09-06T17:30:00+00:00",
+      "title": "Occasione MediaWorld: la tecnologia Motorola va in sconto, ed è subito affare per gli iscritti al Club",
+      "link": "https://www.tomshw.it/smartphone/occasione-mediaworld-la-tecnologia-motorola-va-in-sconto-ed-e-subito-affare-per-gli-iscritti-al-club",
+      "excerpt": "Se siete alla ricerca di un nuovo smartphone dall'eccellente rapporto qualità-prezzo, la nuova promo Motorola Days targata MediaWorld cade a pennello. Fino al 13 settembre, il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112141/Occasione-MediaWorld-la-tecnologia-Motorola-va-in-sconto,-ed-è-subito-affare-per-gli-iscritti-al-Club.png",
+      "publishedAt": "2026-09-07T08:14:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "eufy SoloCam S340 2+1 costa 315,99€ e sorveglia casa in 3K a 360°",
-      "link": "https://www.tomshw.it/offerte/eufy-solocam-s340-21-costa-31599eur-e-sorveglia-casa-in-3k-a-360",
-      "excerpt": "eufy SoloCam S340 2+1 costa 315,99€ su Amazon, anziché 399,99€, con uno sconto del 21%. La combinazione di doppia telecamera, alimentazione solare e movimento a 360° permette di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112045/tomshw-offer-1077127.png",
-      "publishedAt": "2026-09-06T17:18:00+00:00",
+      "title": "PosteMobile, offerta con 160 GB, minuti e SMS illimitati: le condizioni",
+      "link": "https://www.hdblog.it/virtuali/articoli/n669495/postemobile-creami-extra-wow-160-promo-prezzo/",
+      "excerpt": "PosteMobile rilancia Creami Extra WOW 160: l’offerta include 160 GB di traffico dati, minuti e SMS illimitati a 7,99 euro al mese ed è disponibile esclusivamente negli Uffici…",
+      "image": "https://hd2.tudocdn.net/1257912?w=660",
+      "publishedAt": "2026-09-07T08:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nuova FIAT Panda, non sarà elettrica ma ancora ibrida e italiana",
+      "link": "https://www.hdmotori.it/nuova-fiat-panda-nuova-serie-motore/",
+      "excerpt": "Gaetano Thorel, manager di lunga data di Stellantis, attuale responsabile per l'Europa di FIAT e Abarth, ha parlato della nuova Panda",
+      "image": "https://hd2.tudocdn.net/1369011?w=660",
+      "publishedAt": "2026-09-07T08:00:28+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Migliori action cam (settembre 2026)",
+      "link": "https://www.tomshw.it/altro/migliori-action-cam",
+      "excerpt": "Le action cam, o action camera, nascono per registrare sport e attività in movimento, ma oggi sono diventate strumenti molto più versatili: servono per viaggi, moto, bici, sci,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/89429/migliori-action-cam-copertina.jpg",
+      "publishedAt": "2026-09-07T08:00:02+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Comprare Meta Quest 3 adesso o aspettare Meta Phoenix: cosa conviene",
-      "link": "https://www.tomshw.it/hardware/comprare-meta-quest-3-adesso-o-aspettare-meta-phoenix-cosa-conviene",
-      "excerpt": "Meta Quest 3 è acquistabile in Italia e rimane il visore più sensato per chi vuole entrare subito nella realtà virtuale, soprattutto per giocare. Meta Phoenix è invece un progetto…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/110486/comprare-meta-quest-3-adesso-o-aspettare-meta-phoenix-cosa-conviene.png",
-      "publishedAt": "2026-09-06T17:00:00+00:00",
+      "title": "UGREEN NASync DH4300 Plus a 339,99€, fino a 128TB senza canoni cloud",
+      "link": "https://www.tomshw.it/offerte/ugreen-nasync-dh4300-plus-a-33999eur-fino-a-128tb-senza-canoni-cloud",
+      "excerpt": "UGREEN NASync DH4300 Plus costa 339,99€ su Amazon, anziché 439,99€, con uno sconto del 23%. I quattro vani permettono di riunire foto, documenti e video in un archivio personale…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112140/tomshw-offer-1094821.png",
+      "publishedAt": "2026-09-07T07:49:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Samsung Galaxy S27 Pro come l'Ultra: uguale anche la velocità di ricarica",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669458/samsung-galaxy-s27-pro-ultra-velocita-ricarica/",
-      "excerpt": "La certificazione cinese CCC ci anticipa una specifica chiave.",
-      "image": "https://hd2.tudocdn.net/1368954?w=660",
-      "publishedAt": "2026-09-06T16:55:00+00:00",
+      "title": "Computer in UE: arriva l’etichetta che svela quanto consumano",
+      "link": "https://www.hdblog.it/green/articoli/n669487/etichetta-energetica-ue-computer-pc/",
+      "excerpt": "L’UE studia una nuova etichetta per confrontare consumi e prestazioni dei computer.",
+      "image": "https://hd2.tudocdn.net/1369005?w=660",
+      "publishedAt": "2026-09-07T07:45:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "dreame D20 Pro Plus scende a 199€, fino a 150 giorni senza svuotarlo",
-      "link": "https://www.tomshw.it/offerte/dreame-d20-pro-plus-scende-a-199eur-fino-a-150-giorni-senza-svuotarlo",
-      "excerpt": "dreame D20 Pro Plus costa 199€ su Amazon, anziché 249€, con uno sconto del 20% e un risparmio di 50€. La base autosvuotante e la doppia spazzola antigroviglio riducono il lavoro…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112043/tomshw-offer-1077105.png",
-      "publishedAt": "2026-09-06T16:48:00+00:00",
+      "title": "Vivo X500 Pro Max in pole position con il nuovo SoC flagship MediaTek",
+      "link": "https://www.hdblog.it/smartphone/articoli/n669491/vivo-x500-pro-max-benchmark-dimensity-9600/",
+      "excerpt": "Punteggi da vero primo della classe.",
+      "image": "https://hd2.tudocdn.net/1333750?w=660",
+      "publishedAt": "2026-09-07T07:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Coupon Amazon: i migliori della settimana (7 settembre)",
+      "link": "https://www.tomshw.it/offerte/migliori-coupon-amazon",
+      "excerpt": "Aggiornamento 07/09: tra i coupon più interessanti attivati recentemente da Amazon segnaliamo la lucidatrice a nastro, il POCO F9 Ultra e il telefono rugged Hammer H Basalt.…",
+      "image": "https://cdn.tomshw.it/storage/media/2024/02/13856/Coupon-Amazon-i-migliori-della-settimana-copertina.png",
+      "publishedAt": "2026-09-07T07:35:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Germania, stop a 5 unità RWE: si indaga su un sabotaggio",
-      "link": "https://www.tomshw.it/altro/germania-5-unita-rwe-fermate-sospetto-sabotaggio",
-      "excerpt": "Sei dispositivi di lancio nascosti in un campo di mais avrebbero portato materiale conduttivo sopra le linee della sottostazione Amprion di Bergheim, creando un collegamento verso…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111683/90.jpg",
-      "publishedAt": "2026-09-06T16:39:00+00:00",
+      "title": "I RayNeo iO sono gli occhiali smart con display più leggeri e sottili che abbiamo mai provato",
+      "link": "https://images.dday.it/_9K1jbLPjGm_0tPCukndyBWEKZcDhapwOlIk6HM0h8A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58639/2a244f_IMG_7555_2.jpg",
+      "excerpt": "La divisione di TCL specializzata in occhiali smart ha presentato un modello con display con montatura sottilissima e un peso ridottissimo. Non ha telecamere, solo microfoni ed…",
+      "image": "https://images.dday.it/_9K1jbLPjGm_0tPCukndyBWEKZcDhapwOlIk6HM0h8A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58639/2a244f_IMG_7555_2.jpg",
+      "publishedAt": "2026-09-07T07:34:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Piccoli elettrodomestici a prezzi mini: da Aldi la cucina economica parte da 6,99 euro",
+      "link": "https://www.hdblog.it/home/articoli/n669482/aldi-volantino-novita-settimana-friggitrice-prezzo/",
+      "excerpt": "Le offerte del nuovo volantino.",
+      "image": "https://hd2.tudocdn.net/1369006?w=660",
+      "publishedAt": "2026-09-07T07:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Makita DHP489Z a 149,17€, il trapano compatto per i lavori più pesanti",
+      "link": "https://www.tomshw.it/offerte/makita-dhp489z-a-14917eur-il-trapano-compatto-per-i-lavori-piu-pesanti",
+      "excerpt": "Makita DHP489Z costa 149,17€ su Amazon, anziché 154,30€ di listino, con uno sconto del 3%. Il motore brushless, il corpo compatto e la modalità a percussione lo preparano per…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112121/tomshw-offer-1094702.png",
+      "publishedAt": "2026-09-07T07:18:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Samsung Galaxy A18 4G, filtrano design, specifiche e prezzo: costerà di più",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669456/samsung-galaxy-a18-specifiche-prezzo-render-leak/",
-      "excerpt": "Ma cambierà poco.",
-      "image": "https://hd2.tudocdn.net/1368946?w=660",
-      "publishedAt": "2026-09-06T16:01:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "SPESA Amazon: 10 prodotti da supermercato a prezzi imperdibili!",
+      "link": "https://www.tomshw.it/offerte/spesa-amazon-supermercato",
+      "excerpt": "Aggiornamento 07/09: tra le offerte più recenti aggiunte nell'articolo segnaliamo le ricariche Swiffer Duster, le lamette di ricambio Gillette e il bagnoschiuma Aveeno Baby Daily.…",
+      "image": "https://cdn.tomshw.it/storage/media/2024/08/32011/Prodotti-da-supermercato-a-prezzi-imperdibili-copertina.png",
+      "publishedAt": "2026-09-07T07:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Il climatizzatore Hisense da 9000 BTU che promette consumi ridotti è in offerta",
-      "link": "https://www.hdblog.it/ebay/offerte/n669457/climatizzatore-9000btu-hisense-sconto-ebay/",
-      "excerpt": "Prezzo leggermente ridotto per il climatizzatore Hisense Easy Smart da 9.000 BTU con Wi-Fi integrato, tecnologia inverter 3D e classe energetica A++.",
-      "image": "https://hd2.tudocdn.net/1368953?w=660",
-      "publishedAt": "2026-09-06T15:57:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Sicurezza in viaggio e dati gratuiti: la nuova promo NordVPN con Claudio Marchisio",
+      "link": "https://www.tomshw.it/hardware/sicurezza-in-viaggio-e-dati-gratuiti-la-nuova-promo-nordvpn-con-claudio-marchisio",
+      "excerpt": "NordVPN torna con un'offerta promozionale pensata per chi desidera navigare in totale sicurezza, sia a casa che in viaggio. Sponsorizzata dall'ex calciatore Claudio Marchisio con…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104073/Con-NordVPN-e-Marchisio-l'antivirus-e-i-GIGA-all'estero-sono-inclusi.png",
+      "publishedAt": "2026-09-07T07:13:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Galaxy Z Fold 8 cala ancora di prezzo: è lui il pieghevole su cui puntare oggi",
-      "link": "https://www.hdblog.it/smartphone/offerte/n669454/samsung-galaxy-z-fold-8-offerta-settembre-2026/",
-      "excerpt": "IL Samsung Galaxy Z Fold 8 torna in offerta con oltre 700 euro di sconto rispetto al prezzo di listino: è lui il best buy tra i pieghevoli.",
-      "image": "https://hd2.tudocdn.net/1359618?w=660",
-      "publishedAt": "2026-09-06T14:00:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone 17 Pro e Pro Max al minimo su Amazon: l'occasione giusta per acquistare un nuovo iPhone?",
-      "link": "https://www.hdblog.it/smartphone/offerte/n669451/iphone-17-pro-17-pro-max-offerta-amazon-sett26/",
-      "excerpt": "iPhone 17 Pro e Pro Max tornano al minimo storico su Amazon in vista della fine della commercializzazione con il lancio dei nuovi iPhone 18 Pro e Pro Max.",
-      "image": "https://hd2.tudocdn.net/1357356?w=660",
-      "publishedAt": "2026-09-06T10:30:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Motorola Moto G67 5G in offerta, a 182€ è il low cost da prendere a settembre",
-      "link": "https://www.hdblog.it/smartphone/offerte/n669449/motorola-moto-g67-5g-offerta-psprsett26/",
-      "excerpt": "Il Motorola Moto G67 5G è in offerta e costa ora 182 euro diventando il best buy tra gli smartphone low cost.",
-      "image": "https://hd2.tudocdn.net/1366375?w=660",
-      "publishedAt": "2026-09-06T10:00:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Disney+ perde un’altra funzione: questa volta tocca a Chromecast",
-      "link": "https://www.hdblog.it/spettacolo/articoli/n669448/disney-plus-google-cast-chromecast-blocco/",
-      "excerpt": "Una disputa sui brevetti costringe Disney+ a disattivare Google Cast in alcuni Paesi.",
-      "image": "https://hd2.tudocdn.net/1368905?w=660",
-      "publishedAt": "2026-09-06T09:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Aviaria, una mappa potrebbe svelare quali uccelli rischiano di più",
+      "link": "https://www.tomshw.it/scienze/aviaria-una-mappa-potrebbe-svelare-quali-uccelli-rischiano-di-piu",
+      "excerpt": "I ricercatori della Deakin University hanno stimato quali famiglie di uccelli australiani potrebbero essere più vulnerabili all’influenza aviaria H5N1, utilizzando le segnalazioni…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112111/aviaria-una-mappa-potrebbe-svelare-quali-uccelli-rischiano-di-piu.png",
+      "publishedAt": "2026-09-07T07:10:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Il momento giusto per comprare iPhone Air? Su Amazon è sceso ancora di prezzo",
@@ -183,15 +210,6 @@
       "publishedAt": "2026-09-06T09:20:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Samsung Galaxy, la ricerca offline incide poco sull’autonomia dello smartphone",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669261/samsung-galaxy-ricerca-offline-non-erode-autonomia/",
-      "excerpt": "Perché conviene lasciare attiva la funzione.",
-      "image": "https://hd2.tudocdn.net/1368236?w=660",
-      "publishedAt": "2026-09-06T09:01:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "XbotGo Falcon è la videocamera che trasforma le partite di calcetto in una produzione professionale grazie all’IA",
@@ -253,24 +271,6 @@
       "excerpt": "Abbiamo incontrato a Berlino il numero uno di Lenovo, Luca Rossi: dall'IA agli agenti, dal futuro del computer ai prezzi che non scenderanno, ma si stabilizzeranno, ne è nata una…",
       "image": "https://images.dday.it/1sDvzR9Ra6QGAVVEEFvpzUcYg41eYVuGBe1hnDDm4uk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58629/0ef0eb_IMG_7350.jpg",
       "publishedAt": "2026-09-05T07:28:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "La Casa Bianca trasforma l’agenda di Trump in videogiochi. E si gioca anche alle deportazioni",
-      "link": "https://images.dday.it/0hma7MGtCB9UM72CVz7Ua6VMbeHlGVSnZmj0tWwpqFA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58633/27f8d4_small_Screenshot_2026-09-05_alle_09.25.02_copia.png",
-      "excerpt": "Snake diventa una caccia ai migranti e Tetris serve a costruire il muro. Con Arcade la Casa Bianca porta cinque videogiochi politici sul proprio sito ufficiale... Leggi tutto",
-      "image": "https://images.dday.it/0hma7MGtCB9UM72CVz7Ua6VMbeHlGVSnZmj0tWwpqFA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58633/27f8d4_small_Screenshot_2026-09-05_alle_09.25.02_copia.png",
-      "publishedAt": "2026-09-05T07:28:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "moto watch ultra, Motorola adesso ha un vero smartwatch. Wear OS, eSIM e algoritmi fitness Polar",
-      "link": "https://images.dday.it/W64JKJV2loWPegL2bKSkeWx65F6LYCXP9cBXVCvB7HE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58632/af2a28_motorola.JPG",
-      "excerpt": "Oltre dieci anni dopo Moto 360, il primo smartwatch ad avere un design circolare con Android Wear a bordo Motorola torna su un dispositivo indossabile Motorola WearOS. Sarà il…",
-      "image": "https://images.dday.it/W64JKJV2loWPegL2bKSkeWx65F6LYCXP9cBXVCvB7HE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58632/af2a28_motorola.JPG",
-      "publishedAt": "2026-09-05T07:16:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
