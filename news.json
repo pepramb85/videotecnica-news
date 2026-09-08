@@ -1,17 +1,206 @@
 {
-  "generatedAt": "2026-09-08T14:01:26.375935+00:00",
+  "generatedAt": "2026-09-08T19:09:58.447116+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Limitazioni alle targhe polacche, la nuova misura rischia di essere un flop",
-      "link": "https://www.hdmotori.it/limitazioni-targhe-polacche-nuova-misura-flop/",
-      "excerpt": "Dopo il boom delle targhe polacche si sta cercando di trovare una soluzione. L’ammissione di un broker assicurativo non lascia molto speranze",
-      "image": "https://hd2.tudocdn.net/1369572?w=660",
-      "publishedAt": "2026-09-08T14:00:27+00:00",
+      "title": "eufy Video Doorbell E340 a 121,99€, due telecamere per vedere anche i pacchi",
+      "link": "https://www.tomshw.it/offerte/eufy-video-doorbell-e340-a-12199eur-due-telecamere-per-vedere-anche-i-pacchi",
+      "excerpt": "eufy Security Video Doorbell E340 costa 121,99€ su Amazon, invece dei 179,99€ di listino, con uno sconto del 32%. Le due telecamere riprendono sia chi suona sia la soglia, così…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112477/tomshw-offer-1109334.png",
+      "publishedAt": "2026-09-08T18:49:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Navi e aerei ora cambiano rotta perché lo dice un algoritmo, e ci guadagna anche l'ambiente",
+      "link": "https://www.tomshw.it/business/navi-e-aerei-ora-cambiano-rotta-perche-lo-dice-un-algoritmo-e-ci-guadagna-anche-lambiente",
+      "excerpt": "Un modulo di intelligenza artificiale per l'instradamento delle merci taglia il consumo di carburante del 15-20% e i costi di trasporto del 12-22%, con un ritorno…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112357/04-ai-logistica-rotte-emissioni.jpg",
+      "publishedAt": "2026-09-08T18:45:17+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "HDblog IFA Awards: i vincitori dell'edizione 2026",
+      "link": "https://www.hdblog.it/home/articoli/n669493/ifa-2026-hdblog-awards-vincitori/",
+      "excerpt": "5 categorie, 5 prodotti innovativi.",
+      "image": "https://hd2.tudocdn.net/1369457?w=660",
+      "publishedAt": "2026-09-08T18:35:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "De’Longhi Nespresso Gran Lattissima a 313,94€, cappuccino con un solo tocco",
+      "link": "https://www.tomshw.it/offerte/delonghi-nespresso-gran-lattissima-a-31394eur-cappuccino-con-un-solo-tocco",
+      "excerpt": "La De’Longhi Nespresso Gran Lattissima a 313,94€ su Amazon scende dai 399€ di listino con uno sconto del 23%. Tre ricette al latte azionabili con un pulsante la rendono…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112476/tomshw-offer-1109324.png",
+      "publishedAt": "2026-09-08T18:20:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Doom gira anche sul... modello completo del cervello di un moscerino?!",
+      "link": "https://www.hdblog.it/games/articoli/n669753/doom-cervello-moscerino-connettoma-mappa/",
+      "excerpt": "Google annuncia una scoperta scientifica potenzialmente rivoluzionaria... e questa è la priorità della community!",
+      "image": "https://hd2.tudocdn.net/1342888?w=660",
+      "publishedAt": "2026-09-08T18:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Cosa si nasconde dietro al successo delle auto EREV, i segreti del boom",
+      "link": "https://www.hdmotori.it/successo-auto-erev-segreti/",
+      "excerpt": "In un car market sempre più variegato stanno emergendo i modelli EREV, auto elettriche con range extender a benzina",
+      "image": "https://hd2.tudocdn.net/1369628?w=660",
+      "publishedAt": "2026-09-08T18:00:05+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Oppo A7 Pro è ufficiale in Cina con una super batteria",
+      "link": "https://www.hdblog.it/smartphone/articoli/n669746/oppo-a7-pro-8000-mah-specifiche-prezzo-ufficiale/",
+      "excerpt": "Non come quella del Pro Max, ma comunque impressionante.",
+      "image": "https://hd2.tudocdn.net/1369616?w=660",
+      "publishedAt": "2026-09-08T17:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Motorola razr fold da 1.999,99€ a 1.499,49€, mai costato così poco",
+      "link": "https://www.tomshw.it/offerte/motorola-razr-fold-da-199999eur-a-149949eur-mai-costato-cosi-poco",
+      "excerpt": "Motorola razr fold costa 1.499,49€ su Amazon, anziché 1.999,99€: lo sconto del 25% porta il risparmio a 500,50€. Il grande display pieghevole e l’autonomia superiore alle 43 ore…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112475/tomshw-offer-1109312.png",
+      "publishedAt": "2026-09-08T17:51:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Intel, arrivano nuovi driver Wi-Fi e Bluetooth per Windows 10 e 11",
+      "link": "https://www.hdblog.it/intel/articoli/n669750/intel-driver-wifi-bluetooth-windows-10-11-novita/",
+      "excerpt": "A quanto pare ci sono solo bug fix e ottimizzazioni prestazionali.",
+      "image": "https://hd2.tudocdn.net/1367682?w=660",
+      "publishedAt": "2026-09-08T17:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Schede video gaming, ottimo periodo per AMD ai danni di NVIDIA, ma durerà?",
+      "link": "https://www.hdblog.it/hardware/articoli/n669747/mercato-schede-video-gaming-amd-recupero-nvidia/",
+      "excerpt": "Nelle ultime settimane la casa di Sunnyvale sembra battere l'eterna rivale, ma resta da capire se riuscirà a mantenere il ritmo o se si è trattato solo di un excursus.",
+      "image": "https://hd2.tudocdn.net/1305074?w=660",
+      "publishedAt": "2026-09-08T17:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Mazda MX-5, il mito non tramonta: nuova serie speciale Yakudo",
+      "link": "https://www.hdmotori.it/mazda-mx-5-serie-speciale-yakudo/",
+      "excerpt": "Mazda MX-5 si aggiorna per il 2027 con motore 1.5 da 136 CV, nuova serie speciale Yakudo e colore Zinc Green. Debutto italiano al Salone Auto Torino",
+      "image": "https://hd2.tudocdn.net/1369620?w=660",
+      "publishedAt": "2026-09-08T17:30:36+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Niente DLSS 5 ufficiale sulle RTX più vecchie? Ci pensa la community",
+      "link": "https://www.hdblog.it/hardware/articoli/n669744/dlss-5-mod-ufficiosa-rtx-20-30-40-mfg/",
+      "excerpt": "Multi Frame Gen per tutti... con l'aiuto degli algoritmi di AMD.",
+      "image": "https://hd2.tudocdn.net/885286?w=660",
+      "publishedAt": "2026-09-08T17:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Se non sai usare l'AI oggi non lavori, ma forse si chiede troppo ai junior",
+      "link": "https://www.tomshw.it/business/se-non-sai-usare-lai-oggi-non-lavori-ma-forse-si-chiede-troppo-ai-junior",
+      "excerpt": "Dal 2027 UBS chiederà a ogni laureato e stagista della divisione Global Banking and Markets di dimostrare competenze concrete nell'uso dell'intelligenza artificiale: i colloqui…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112354/03-banche-competenze-ai-lavoro.jpg",
+      "publishedAt": "2026-09-08T17:21:47+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "eufy Security C220 da 39,99€ a 27,99€, un affare per sorvegliare casa",
+      "link": "https://www.tomshw.it/offerte/eufy-security-c220-da-3999eur-a-2799eur-un-affare-per-sorvegliare-casa",
+      "excerpt": "eufy Security C220 costa 27,99€ su Amazon, invece di 39,99€, con uno sconto del 30% e 12€ che restano in tasca. La sua idea è semplice: coprire l’intera stanza in 2K, riconoscere…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112474/tomshw-offer-1109296.png",
+      "publishedAt": "2026-09-08T17:20:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Apple, senti CXMT: \"Sulle RAM siamo pronti a collaborazioni di primo piano\"",
+      "link": "https://www.hdblog.it/apple/articoli/n669741/apple-ram-cinesi-iphone-cxmt-interesse-va-avanti/",
+      "excerpt": "CXMT potrebbe entrare nella supply chain Apple grazie ai progressi nelle memorie LPDDR5X e LPDDR6, offrendo al gruppo di Cupertino un’ulteriore alternativa a Samsung, SK Hynix e…",
+      "image": "https://hd2.tudocdn.net/1147907?w=660",
+      "publishedAt": "2026-09-08T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "MediaTek Dimensity 9600 e 9600 Pro, ecco la data di presentazione",
+      "link": "https://www.hdblog.it/hardware/articoli/n669739/mediatek-dimensity-9600-presentazione-quando/",
+      "excerpt": "Appuntamento il 15 settembre!",
+      "image": "https://hd2.tudocdn.net/1369607?w=660",
+      "publishedAt": "2026-09-08T17:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Meglio comprare iPhone 17e ora o aspettare iPhone 18e?",
+      "link": "https://www.tomshw.it/smartphone/meglio-comprare-iphone-17e-ora-o-aspettare-iphone-18e",
+      "excerpt": "Tra circa 640 e 730 euro per il nuovo da 256 GB, iPhone 17e è un acquisto sensato per chi deve sostituire un telefono ormai scomodo da usare. iPhone 18e è atteso nella primavera…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112212/meglio-comprare-iphone-17e-ora-o-aspettare-iphone-18e.png",
+      "publishedAt": "2026-09-08T17:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Quando esce GeForce RTX 5070 Super? Data e cosa sappiamo",
+      "link": "https://www.tomshw.it/hardware/quando-esce-geforce-rtx-5070-super-data-e-cosa-sappiamo",
+      "excerpt": "La GeForce RTX 5070 Super non ha una data di uscita ufficiale: al 7 settembre 2026, NVIDIA non ha annunciato questo modello. Secondo rumor non ufficiali, il possibile…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112191/quando-esce-geforce-rtx-5070-super-data-e-cosa-sappiamo.png",
+      "publishedAt": "2026-09-08T17:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "PMI italiane e appalti pubblici, arriva la startup che cerca di risolvere il problema",
+      "link": "https://www.tomshw.it/business/pmi-italiane-e-appalti-pubblici-arriva-la-startup-che-cerca-di-risolvere-il-problema",
+      "excerpt": "Cato ha chiuso un round Series Seed da 6 milioni di euro guidato dal fondo olandese Keen Venture Partners, portando a 7,6 milioni il capitale raccolto dalla startup dopo il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112352/02-cato-pmi-appalti-pubblici.jpg",
+      "publishedAt": "2026-09-08T16:36:03+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Corsair HS35 v3 a 59,99€, 30 ore senza fili per giocare più a lungo",
+      "link": "https://www.tomshw.it/offerte/corsair-hs35-v3-a-5999eur-30-ore-senza-fili-per-giocare-piu-a-lungo",
+      "excerpt": "Le Corsair HS35 v3 costano 59,99€ su Amazon, anziché 79,99€, con uno sconto del 25%. La possibilità di passare fra wireless 2,4 GHz, Bluetooth e cavo permette di usarle con quasi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112472/tomshw-offer-1109247.png",
+      "publishedAt": "2026-09-08T16:24:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Tineco a IFA 2026. La lavapavimenti a vapore e acqua calda. E l'aspirapolvere che si svuota senza contaminazione",
+      "link": "https://images.dday.it/-PFnBH__gZB3SDQUMtv0ZILf2KXkXaE3SCwmzTBh3NI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58668/d6cffc_IT-Opening-Day2.jpg",
+      "excerpt": "Il produttore numero uno di lavapavimenti rinnova il suo top di gamma: FLOOR ONE S11 Artist Fusion Steam unisce la comodità dell'acqua calda con la potenza del calore. E…",
+      "image": "https://images.dday.it/-PFnBH__gZB3SDQUMtv0ZILf2KXkXaE3SCwmzTBh3NI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58668/d6cffc_IT-Opening-Day2.jpg",
+      "publishedAt": "2026-09-08T16:11:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "La gamma Fidelio di Philips torna con le cuffie ANC Fidelio L5 e il mini Hi-Fi con lettore CD Fidelio FA7",
+      "link": "https://images.dday.it/dK7aNszcfVvdrGpfBRLsC0wY1bxJn_k2EMg3GMAAg3Y/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58669/1a6b34_IMG_7398.jpg",
+      "excerpt": "Le nuove cuffie Philips Fidelio L5 puntano su un interessante rapporto qualità/prezzo. Il sistema stereo FA7 unisce diffusori da scaffale con bi-amping, lettore CD e compatibilità…",
+      "image": "https://images.dday.it/dK7aNszcfVvdrGpfBRLsC0wY1bxJn_k2EMg3GMAAg3Y/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58669/1a6b34_IMG_7398.jpg",
+      "publishedAt": "2026-09-08T15:16:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Un obiettivo, due tipi di fisheye: Sony lancia l’FE 8-14mm F3.5 G",
@@ -23,112 +212,13 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "CXMT e YMTC fanno scorta di macchine ASML per tre anni",
-      "link": "https://www.tomshw.it/hardware/cxmt-e-ymtc-accumulano-macchine-asml-per-i-chip-prima-dei-limiti",
-      "excerpt": "I produttori cinesi di memorie CXMT e YMTC avrebbero accumulato macchine litografiche ASML sufficienti a coprire i propri programmi di espansione per i prossimi tre anni. Gli…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112388/cxmt-e-ymtc-accumulano-macchine-asml-per-i-chip-prima-dei-limiti.png",
-      "publishedAt": "2026-09-08T14:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Suunto Run 2 ufficiale: display super luminoso, GNSS e mappe offline | Prezzo",
-      "link": "https://www.hdblog.it/indossabili/articoli/n669703/suunto-run-2-sportwatch-corsa-specifiche-prezzo-it/",
-      "excerpt": "Perfetto per corse e maratone.",
-      "image": "https://hd2.tudocdn.net/1369559?w=660",
-      "publishedAt": "2026-09-08T13:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Questo proiettore è scontato del 33% e risolve il peggior difetto dei modelli portatili",
-      "link": "https://www.tomshw.it/smartphone/soundcore-nebula-p1-scontato-del-33-risparmi-260eur-2026-09-08",
-      "excerpt": "Su Amazon è disponibile un'ottima offerta sul Soundcore Nebula P1, il proiettore portatile firmato Anker con altoparlanti wireless removibili da 20W e immagini Full HD 1080P fino…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112455/soundcore-nebula-p1-scontato-del-33-risparmi-260eur-2026-09-08-g0q849afn4v2de8CAkH.png",
-      "publishedAt": "2026-09-08T13:55:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Videogiochi, l'IA spaventa il 61% degli sviluppatori",
-      "link": "https://www.tomshw.it/videogioco/videogiochi-il-61-degli-sviluppatori-teme-piu-pressione-dall-ia",
-      "excerpt": "La prospettiva di dover lavorare più velocemente e produrre una quantità maggiore di contenuti preoccupa il 61% degli sviluppatori di videogiochi europei coinvolti nel Big Games…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112456/news-flash-1108764.png",
-      "publishedAt": "2026-09-08T13:53:44+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Samsung QS90H, 13 speaker e Dolby Atmos al minimo storico di 569€",
-      "link": "https://www.tomshw.it/offerte/samsung-qs90h-13-speaker-e-dolby-atmos-al-minimo-storico-di-569eur",
-      "excerpt": "Samsung QS90H costa 569€ su Amazon, invece degli 849€ di listino: lo sconto è del 33% e il risparmio arriva a 280€. La configurazione 7.1.2 con 13 altoparlanti integrati punta a…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112452/tomshw-offer-1108736.png",
-      "publishedAt": "2026-09-08T13:50:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Nuovo di zecca e già al -38%: il nuovo Roborock debutta così su Amazon",
-      "link": "https://www.tomshw.it/hardware/roborock-saros-20-neo-sconto-pazzesco-del-39-su-amazon-2026-09-08",
-      "excerpt": "Su Amazon è disponibile il roborock Saros 20 Neo, il robot aspirapolvere lavapavimenti con LDS retrattile che unisce potenza di aspirazione da 36.000 Pa e lavaggio con acqua calda…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112453/roborock-saros-20-neo-sconto-pazzesco-del-39-su-amazon-2026-09-eciotugfaguufNfk04j.png",
-      "publishedAt": "2026-09-08T13:49:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "WhatsApp mostra anteprime di foto, video e sticker direttamente nell'elenco delle chat",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n669698/whatsapp-anteprime-foto-video-sticker-elenco-chat/",
-      "excerpt": "Una nuova funzione di WhatsApp mostra una miniatura dei contenuti multimediali direttamente nell'elenco delle chat, prima di aprirle.",
-      "image": "https://hd2.tudocdn.net/1369528?w=660",
-      "publishedAt": "2026-09-08T13:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il satellite Vela vide un test nucleare? L’ozono riapre il caso",
-      "link": "https://www.tomshw.it/scienze/il-satellite-vela-capto-un-segnale-e-il-mistero-dura-dal-1979",
-      "excerpt": "Un gruppo di ricercatori ha riesaminato i dati del satellite Nimbus-7 della NASA per cercare tracce di una possibile esplosione nucleare. Lo studio, pubblicato nel 2022, ha…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112411/il-satellite-vela-capto-un-segnale-e-il-mistero-dura-dal-1979.png",
-      "publishedAt": "2026-09-08T13:45:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "26\", 2K e OLED: la combo perfetta per giocare. E questo ASUS è al minimo storico",
-      "link": "https://www.tomshw.it/hardware/asus-rog-strix-oled-xg27aqdng-solo-571eur-su-amazon-2026-09-08",
-      "excerpt": "Su Amazon è disponibile l'ASUS ROG STRIX OLED XG27AQDNG, monitor gaming da 26,5 con pannello QD-OLED e refresh rate a 360 Hz. Il prezzo scende a 571,43€ invece di 699€, con uno…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112451/asus-rog-strix-oled-xg27aqdng-solo-571eur-su-amazon-2026-09-08-2m7jonkabsdrdWNuWwh.png",
-      "publishedAt": "2026-09-08T13:38:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "E se il nuovo iPhone Air fosse il prossimo modello \"base\"? Spunta l'ipotesi",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669705/iphone-18-air-2-apple-cambia-strategia-gamma-2027/",
-      "excerpt": "Un rumor suggerisce uno scenario sorprendente ma non insensato.",
-      "image": "https://hd2.tudocdn.net/1358930?w=660",
-      "publishedAt": "2026-09-08T13:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Surfshark acquisisce Optery per rimuovere i dati personali dal web",
-      "link": "https://www.tomshw.it/hardware/surfshark-acquisisce-optery-per-rimuovere-i-dati-personali-dal-web",
-      "excerpt": "Surfshark ha annunciato l'acquisizione di Optery, società specializzata nell'individuazione e nella rimozione delle informazioni personali disponibili online. L'operazione porta a…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112384/surfshark-acquisisce-optery-per-rimuovere-i-dati-personali-dal-web.png",
-      "publishedAt": "2026-09-08T13:30:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Philips Hue LED A60 sotto i 24€, la luce smart si regola dal divano",
-      "link": "https://www.tomshw.it/offerte/philips-hue-led-a60-sotto-i-24eur-la-luce-smart-si-regola-dal-divano",
-      "excerpt": "Su Amazon, Philips Hue LED A60 E27 costa 23,76€, in calo dai 27,99€ grazie allo sconto del 15%. Porta il controllo dall’app su una comune lampada E27, con luce calda regolabile…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112449/tomshw-offer-1108664.png",
-      "publishedAt": "2026-09-08T13:21:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
+      "title": "Meliconi ridona il piedistallo centrale ai TV con i piedini laterali",
+      "link": "https://images.dday.it/3wnjIg02vy8hpTjdELnsclWUOSCzbqAb00sDhVflzSc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58667/accbb7_IMG_7689.jpg",
+      "excerpt": "L’azienda bolognese ha portato a IFA 2026 le sue ultime soluzioni per l’installazione di TV, tra cui la staffa universale per soundbar, staffa per pareti in cartongesso e un…",
+      "image": "https://images.dday.it/3wnjIg02vy8hpTjdELnsclWUOSCzbqAb00sDhVflzSc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58667/accbb7_IMG_7689.jpg",
+      "publishedAt": "2026-09-08T13:27:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Suunto annuncia il nuovo sportwatch Suunto Run 2, ora anche con mappe offline incluse",
@@ -138,24 +228,6 @@
       "publishedAt": "2026-09-08T13:16:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "I dazi europei non fermano le auto cinesi in Italia, ma spostano la sfida al concessionario",
-      "link": "https://www.tomshw.it/business/i-dazi-europei-non-fermano-le-auto-cinesi-in-italia-ma-spostano-la-sfida-al-concessionario",
-      "excerpt": "Nei primi sette mesi del 2026 BYD ha quasi triplicato le immatricolazioni in Italia rispetto allo stesso periodo del 2025, Omoda & Jaecoo è cresciuta del 269% e Leapmotor è…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112267/01-cover-web.jpg",
-      "publishedAt": "2026-09-08T13:10:18+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "iPhone 17 Pro Max, Galaxy Watch Ultra 2, Roborock e altro: le TOP offerte dell'8 settembre",
-      "link": "https://www.hdblog.it/amazon/offerte/n669701/offerte-tech-8-settembre-2026-amazon/",
-      "excerpt": "Le migliori offerte tech di oggi su Amazon: smartphone, robot aspirapolvere, cuffie, TV, proiettori e accessori utili con prezzi in forte ribasso.",
-      "image": "https://hd2.tudocdn.net/1369128?w=660",
-      "publishedAt": "2026-09-08T13:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "UGREEN reinventa il NAS di casa: arriva HomeAgent, l'hub AI che opera in locale, senza mandare nulla in cloud",
@@ -176,24 +248,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Costruttore cinese al lavoro su una Superbike V5 da oltre 1000 cc",
-      "link": "https://www.hdmotori.it/zxmoto-motore-v5-1000-superbike-zhang-xue/",
-      "excerpt": "ZXMoto lavora a un'inedita superbike V5 da 1.100 cc per sfidare le sportive europee e giapponesi. Debutto previsto nelle competizioni internazionali entro il 2028",
-      "image": "https://hd2.tudocdn.net/1369534?w=660",
-      "publishedAt": "2026-09-08T13:00:20+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone Ultra, debutto a tappe: Cina in ritardo e dubbi sulla disponibilità in Europa",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669700/iphone-ultra-debutto-tappe-cina-ritardo-europa/",
-      "excerpt": "La Cina continentale potrebbe dover aspettare più di altri Paesi",
-      "image": "https://hd2.tudocdn.net/1356141?w=660",
-      "publishedAt": "2026-09-08T12:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Il motore di ricerca di Google funzionerà peggio in Europa per rispettare il DMA, dice Google",
       "link": "https://images.dday.it/aBsReUUcxXvcbRGVkwPJWrMu0yHYRGS1ndEq0uUHdHE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58664/89b872_Depositphotos_172571566_XL.jpg",
       "excerpt": "Per scansare un aggravio della sanzione europea sull'”auto-preferenza” in Google Search, Big G da oggi presenterà la ricerca di hotel, ristoranti e compagni aeree in modo diverso…",
@@ -201,33 +255,6 @@
       "publishedAt": "2026-09-08T12:49:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Fan di Zelda, oggi è il giorno: Nintendo celebra i 40anni con un Direct | Link",
-      "link": "https://www.hdblog.it/nintendo/articoli/n669695/zelda-nintendo-direct-streaming-dove-vederlo/",
-      "excerpt": "The Legend of Zelda: Ocarina of Time è tra i protagonisti più attesi del Direct celebrativo: Nintendo potrebbe chiarire quanto sarà profondo il remake e fornire nuove informazioni…",
-      "image": "https://hd2.tudocdn.net/1348266?w=660",
-      "publishedAt": "2026-09-08T12:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Jaguar Land Rover nel baratro, 4.000 posti di lavoro in meno in due anni",
-      "link": "https://www.hdmotori.it/jaguar-land-rover-perde-posti-lavoro/",
-      "excerpt": "Per provare a uscire dalla crisi il brand Jaguar Land Rover ha proposto un piano di prepensionamenti che dovrebbe portare a un corposo risparmio",
-      "image": "https://hd2.tudocdn.net/1369497?w=660",
-      "publishedAt": "2026-09-08T12:00:08+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Project Zenith promette AI potente in locale, ma serviva una nuova categoria?",
-      "link": "https://www.hdblog.it/microsoft/articoli/n669694/project-zenith-serviva-davvero-microsoft/",
-      "excerpt": "La nuova categoria Microsoft solleva alcuni dubbi: aziende e professionisti dispongono già di strumenti per configurare rapidamente i PC, mentre l’hardware richiesto potrebbe…",
-      "image": "https://hd2.tudocdn.net/1269433?w=660",
-      "publishedAt": "2026-09-08T11:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Nuova Dacia Spring: la seconda generazione elettrica parte da 17.900 euro",
@@ -244,33 +271,6 @@
       "excerpt": "A IFA 2026 abbiamo avuto modo di parlare con il management di Panasonic e SWMEU, la nuova società del gruppo Skyworth che da quest'anno produrrà e venderà i TV a marchio Panasonic…",
       "image": "https://images.dday.it/in0O1Y5RKc_c3ZzkhCxk6yVO-1W9avaipUjbAxbTTko/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58656/ab5b9d_IMG_7567.jpg",
       "publishedAt": "2026-09-08T10:31:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Cerchi cuffie wireless comode con ANC? Questa offerta fa per te",
-      "link": "https://images.dday.it/7RAPPnVPVGhmRVdeIxhal3QfXPQma2ussUscy6OIXgU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58661/a5d5f8_ape2.jpg",
-      "excerpt": "Le Bose QuietComfort SC uniscono comfort, cancellazione del rumore e qualità audio, ora a un prezzo ancora più interessante... Leggi tutto",
-      "image": "https://images.dday.it/7RAPPnVPVGhmRVdeIxhal3QfXPQma2ussUscy6OIXgU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58661/a5d5f8_ape2.jpg",
-      "publishedAt": "2026-09-08T10:27:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Per chi ama le Harley Davison arriva un giradischi da collezione. Costa meno di una moto",
-      "link": "https://images.dday.it/E9R5xT9VrMhucwEqBE1dLvi9ucNqFgL6sx183QwRpY0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58660/def1b6_hd-diagonal-leather-mat-web-scaled.jpeg",
-      "excerpt": "Nella serie di edizioni limitate dei giradischi Pro-Ject arriva un modello dedicato al famoso marchio motociclistico, un oggetto di prestigio come gli omologhi a due ruote ...…",
-      "image": "https://images.dday.it/E9R5xT9VrMhucwEqBE1dLvi9ucNqFgL6sx183QwRpY0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58660/def1b6_hd-diagonal-leather-mat-web-scaled.jpeg",
-      "publishedAt": "2026-09-08T10:07:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Xpeng ora può costruire i suoi robot umanoidi dalla “camminata fluida”: IRON ha la sua linea di produzione",
-      "link": "https://images.dday.it/IlFYJO72pf8VPH3karVVjtSc3QngzqXnNeqH6PNkTn8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58659/f532bd_78fa3d5e3d7c471ba32f8eea1287656b.png",
-      "excerpt": "La linea è automatizzata per oltre l'80% dei processi. La produzione di massa attesa entro fine anno, con vendite dal 2027... Leggi tutto",
-      "image": "https://images.dday.it/IlFYJO72pf8VPH3karVVjtSc3QngzqXnNeqH6PNkTn8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58659/f532bd_78fa3d5e3d7c471ba32f8eea1287656b.png",
-      "publishedAt": "2026-09-08T09:32:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
