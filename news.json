@@ -1,35 +1,206 @@
 {
-  "generatedAt": "2026-09-09T14:03:54.813733+00:00",
+  "generatedAt": "2026-09-09T18:58:04.602613+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Nuovo brevetto Mercedes, divertimento assicurato anche nell’acqua",
-      "link": "https://www.hdmotori.it/nuovo-brevetto-mercedes-acqua/",
-      "excerpt": "Mercedes ha depositato un brevetto per un veicolo in grado di affrontare qualsiasi ostacolo, acqua compresa",
-      "image": "https://hd2.tudocdn.net/1369814?w=660",
-      "publishedAt": "2026-09-09T14:00:55+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Apple lancia i nuovi Watch series 12 e Ultra 4 con sensori migliorati e nuove funzioni IA",
+      "link": "https://images.dday.it/kJBHq97mrLlFd_bTMgDA4i7Nho8Hd6jHlWcy8PUhMKQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58685/4d8219_Apple_-114.jpg",
+      "excerpt": "I nuovi smartwatch di Apple hanno un nuovo processore, S11, che supporta nuove funzionalità basate su IA e un nuovo cardiofrequenzimetro in grado di misurare dati con una maggiore…",
+      "image": "https://images.dday.it/kJBHq97mrLlFd_bTMgDA4i7Nho8Hd6jHlWcy8PUhMKQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58685/4d8219_Apple_-114.jpg",
+      "publishedAt": "2026-09-09T18:56:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
-      "title": "Meta presenta Muse, l'AI che invia email e prenota viaggi: ecco come funziona",
-      "link": "https://www.tomshw.it/hardware/meta-presenta-muse-lai-che-invia-email-e-prenota-viaggi",
-      "excerpt": "Meta ha presentato Muse, un assistente personale capace, secondo l’azienda, di svolgere attività come inviare email, fare acquisti online e pianificare viaggi. Alimentato dal…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112687/meta-presenta-muse-l-ai-che-invia-email-e-prenota-viaggi.png",
-      "publishedAt": "2026-09-09T14:00:00+00:00",
+      "title": "ENGWE P275 SE a 999€, sensore di coppia per pedalare senza strappi",
+      "link": "https://www.tomshw.it/offerte/engwe-p275-se-a-999eur-sensore-di-coppia-per-pedalare-senza-strappi",
+      "excerpt": "A 999€ su Amazon, la ENGWE P275 SE mette sul piatto fino a 120 km di autonomia, sensore di coppia e freni a disco idraulici. È pensata per trasformare casa-lavoro, commissioni e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112768/tomshw-offer-1129957.png",
+      "publishedAt": "2026-09-09T18:50:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Samsung Galaxy Glasses, la seconda generazione avrà un display a colori?",
-      "link": "https://www.hdblog.it/indossabili/articoli/n669848/samsung-galaxy-glasses-display-colori-2027/",
-      "excerpt": "L'indiscrezione arriva direttamente dalla Corea del Sud.",
-      "image": "https://hd2.tudocdn.net/1369798?w=660",
-      "publishedAt": "2026-09-09T13:55:00+00:00",
+      "title": "iPhone Duo è il nome del nuovo foldable di Apple, ed è finalmente ufficiale",
+      "link": "https://www.tomshw.it/smartphone/iphone-duo-e-il-nome-del-nuovo-foldable-di-apple-ed-e-finalmente-ufficiale",
+      "excerpt": "Con l'annuncio di iPhone Duo, il primo iPhone pieghevole della storia, Apple entra ufficialmente in un segmento di mercato già esplorato da rivali come Samsung, ma lo fa con un…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112769/Screenshot-2026-09-09-alle-21-35-50.png",
+      "publishedAt": "2026-09-09T18:34:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Anker MagGo 10K a 52,99€, fino a 1,8 ricariche per l’iPhone 15 Pro",
+      "link": "https://www.tomshw.it/offerte/anker-maggo-10k-a-5299eur-fino-a-18-ricariche-per-liphone-15-pro",
+      "excerpt": "Anker MagGo Power Bank 10K costa 52,99€ su Amazon, anziché 68,09€, con il 22% di sconto. La capacità da 10.000 mAh e la ricarica Qi2 trasformano questa batteria sottile in una…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112757/tomshw-offer-1129938.png",
+      "publishedAt": "2026-09-09T18:19:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Apple Intelligence rivoluziona salute e fitness sui nuovi Apple Watch",
+      "link": "https://www.tomshw.it/smartphone/apple-intelligence-rivoluziona-salute-e-fitness-sui-nuovi-apple-watch-2026-09-09",
+      "excerpt": "Con l'arrivo dell'autunno, Apple rilancia la sua strategia nel settore della salute digitale presentando quello che definisce l'ecosistema più sofisticato mai sviluppato per il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112760/Apple-Watch-Ultra-4-readiness-260909.jpg",
+      "publishedAt": "2026-09-09T18:17:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Le piccole imprese italiane vogliono l'AI, ma restano senza le competenze per usarla",
+      "link": "https://www.tomshw.it/business/le-piccole-imprese-italiane-vogliono-lai-ma-restano-senza-le-competenze-per-usarla",
+      "excerpt": "Quasi una piccola impresa italiana su sette usa già l'intelligenza artificiale nella propria attività, e più di sei su dieci hanno messo in programma investimenti digitali…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112641/06-confartigianato-pmi-ai-competenze.jpg",
+      "publishedAt": "2026-09-09T18:11:31+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Riot Games finalmente implementa la chat di squadra in League of Legends",
+      "link": "https://www.hdblog.it/games/articoli/n669895/league-of-legends-chat-squadra-partita/",
+      "excerpt": "Primi test in USA e Oceania. Servirà un punteggio Honor pari ad almeno 3.",
+      "image": "https://hd2.tudocdn.net/979967?w=660",
+      "publishedAt": "2026-09-09T18:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple presenta iPhone Duo: il primo iPhone pieghevole si ispira a iPad",
+      "link": "https://www.hdblog.it/smartphone/articoli/n669902/apple-presenta-iphone-duo/",
+      "excerpt": "Insieme ai nuovi iPhone 18 Pro e Pro Max, come ampiamente anticipato dalle indiscrezioni degli ultimi mesi, Apple ha annunciato il suo primo smartphone pieghevole: iPhone Duo.…",
+      "image": "https://hd2.tudocdn.net/1369924?w=660",
+      "publishedAt": "2026-09-09T18:01:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Freccia Rossa oltre i confini: il piano d'autunno della 1000 Miglia",
+      "link": "https://www.hdmotori.it/1000-miglia-eventi-internazionali-2026/",
+      "excerpt": "Dopo Pebble Beach, la Freccia Rossa vola all'estero: da settembre a dicembre quattro tappe tra Austria, Grecia, Cina ed Emirati per esportare lo stile italiano",
+      "image": "https://hd2.tudocdn.net/1369901?w=660",
+      "publishedAt": "2026-09-09T18:00:13+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nintendo Direct settembre 2026, tutti gli annunci",
+      "link": "https://www.tomshw.it/videogioco/nintendo-direct-nuovi-metroid-e-kirby-su-switch-2-2026-09-09",
+      "excerpt": "Il Nintendo Direct di settembre 2026 si è concluso lasciando dietro di sé un ventaglio di annunci capace di ridisegnare il calendario Switch 2 fino a metà del prossimo anno. Tra…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105971/ARY-1200-x-675-px-2026-08-06T123104-594.jpg",
+      "publishedAt": "2026-09-09T17:58:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Apple Watch Series 12 e Ultra 4 ufficiali: più precisi, più intelligenti con l'AI | Prezzi",
+      "link": "https://www.hdblog.it/indossabili/articoli/n669888/apple-watch-series-12-ultra-4-prezzi-novita-ai/",
+      "excerpt": "Fuori cambia poco, dentro tanto: ecco le novità.",
+      "image": "https://hd2.tudocdn.net/1369885?w=660",
+      "publishedAt": "2026-09-09T17:53:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Epson EcoTank ET-1810 al 45%, migliaia di pagine senza cartucce",
+      "link": "https://www.tomshw.it/offerte/epson-ecotank-et-1810-al-45-migliaia-di-pagine-senza-cartucce",
+      "excerpt": "Su Amazon, Epson EcoTank ET-1810 è a 114,96€ anziché 209,99€, con il 45% di sconto. I serbatoi ricaricabili e i quattro flaconi inclusi puntano a ridurre drasticamente la…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112748/tomshw-offer-1129921.png",
+      "publishedAt": "2026-09-09T17:50:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "AirPods 5 ufficiali: Apple porta l’ANC su tutta la gamma",
+      "link": "https://www.hdblog.it/indossabili/articoli/n669864/airpods-5-caratteristiche-prezzo-novita/",
+      "excerpt": "AirPods 5 puntano su audio migliore e cancellazione del rumore più efficace.",
+      "image": "https://hd2.tudocdn.net/1369892?w=660",
+      "publishedAt": "2026-09-09T17:44:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple Watch Series 12 e Ultra 4 ufficiali: ecco le novità",
+      "link": "https://www.tomshw.it/smartphone/apple-watch-nuovo-sistema-di-rilevazione-salute-2026-09-09",
+      "excerpt": "Apple rinnova la propria gamma di smartwatch presentando contemporaneamente due modelli che ridefiniscono gli standard del monitoraggio della salute personale: Apple Watch Series…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112750/f-3656cf5ae2c6d4b1a55158777caea326f6c509e8.jpg",
+      "publishedAt": "2026-09-09T17:38:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Apple svela le nuove AirPods 5, le open ear col miglior ANC sul mercato",
+      "link": "https://www.tomshw.it/smartphone/apple-nuove-airpods-5-novita",
+      "excerpt": "Apple rinnova la sua gamma di auricolari entry-level e lo fa puntando su una delle caratteristiche più richieste dagli utenti: la cancellazione attiva del rumore anche in un…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112749/Apple-AirPods-5-hero-260909_big-jpg-large_2x.jpg",
+      "publishedAt": "2026-09-09T17:36:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Hyundai IONIQ 3 apre gli ordini: la nuova elettrica compatta parte da 29.900 euro",
+      "link": "https://www.hdmotori.it/hyundai-ioniq-3-ordini-prezzo/",
+      "excerpt": "Hyundai IONIQ 3 debutta con due batterie, cinque allestimenti e fino a 497 km di autonomia: con la promozione di lancio si parte da 27.900 euro",
+      "image": "https://hd2.tudocdn.net/1369880?w=660",
+      "publishedAt": "2026-09-09T17:30:24+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "SwitchBot termometro igrometro a 16,99€, controlla serra e cantina dall’app",
+      "link": "https://www.tomshw.it/offerte/switchbot-termometro-igrometro-a-1699eur-controlla-serra-e-cantina-dallapp",
+      "excerpt": "SwitchBot termometro igrometro costa 16,99€ su Amazon: il prezzo scende da 19,99€ con il 15% di sconto e 3€ di risparmio. Il sensore Sensirion e le letture ogni quattro secondi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112745/tomshw-offer-1129893.png",
+      "publishedAt": "2026-09-09T17:22:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "iPhone 18 Pro e Pro Max ufficiali: nuovi colori, Siri AI e tanto altro | PREZZI ITALIA",
+      "link": "https://www.hdblog.it/smartphone/articoli/n669896/iphone-18-pro-max-specifiche-prezzi-novita/",
+      "excerpt": "Più veloce, più efficiente, più AI.",
+      "image": "https://hd2.tudocdn.net/1369898?w=660",
+      "publishedAt": "2026-09-09T17:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Truffe, attenti alla falsa notifica del rimborso TARI",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n669839/truffe-attenti-falsa-notifica-rimborso-tari/",
+      "excerpt": "Ecco in cosa consiste",
+      "image": "https://hd2.tudocdn.net/1346423?w=660",
+      "publishedAt": "2026-09-09T17:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Volkswagen ID. Polo presa d'assalto: ordini esauriti e liste d'attesa oltre i 10 mesi",
+      "link": "https://www.hdmotori.it/volkswagen-id-polo-2026-ordini-prezzi-ritardi/",
+      "excerpt": "Debutto da record per la nuova elettrica di Wolfsburg: produzione al via in Spagna ma le consegne slittano già a fine 2027 per troppe richieste",
+      "image": "https://hd2.tudocdn.net/1369865?w=660",
+      "publishedAt": "2026-09-09T17:00:37+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Da 20 anni è Samsung il marchio di TV più venduto in Italia",
+      "link": "https://www.hdblog.it/tv/articoli/n669874/da-20-anni-samsung-tv-piu-venduti-italia/",
+      "excerpt": "La concorrenza nel mercato TV è sicuramente molto agguerrita, ma Samsung è riuscita a mantenere la leadership del mercato italiano per il ventesimo anno consecutivo.",
+      "image": "https://hd2.tudocdn.net/1369843?w=660",
+      "publishedAt": "2026-09-09T16:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "No, il tuo TV LG non ti sta spiando di nascosto con il microfono",
+      "link": "https://images.dday.it/cMQk3XxHhLYLo4rglGgiSARwdhxROkwSKLwkbtxJF0Y/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58673/f6a1b9_LG-Ads.jpg",
+      "excerpt": "Un’inchiesta di Gamer Nexus sta scatenando il panico in rete, ma in molti non stanno distinguendo tra potenziali vulnerabilità ed effettivo comportamento delle piattaforme…",
+      "image": "https://images.dday.it/cMQk3XxHhLYLo4rglGgiSARwdhxROkwSKLwkbtxJF0Y/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58673/f6a1b9_LG-Ads.jpg",
+      "publishedAt": "2026-09-09T14:14:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "LG trova il modo per far durare le batterie LMR: 92% di energia dopo 883 cicli con pochissimo cobalto",
@@ -41,33 +212,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Macchina da caffè Polti Coffea a 109,99€, dose e temperatura su misura",
-      "link": "https://www.tomshw.it/offerte/macchina-da-caffe-polti-coffea-a-10999eur-dose-e-temperatura-su-misura",
-      "excerpt": "La macchina da caffè a cialde E.S.E. Polti Coffea S15B costa 109,99€ su Amazon: il listino è di 139€ e lo sconto applicato è del 21%. Dose programmabile, tre temperature ed…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112699/tomshw-offer-1129142.png",
-      "publishedAt": "2026-09-09T13:50:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "La stampante 3D a 12 ugelli slitta al 2027, ecco perché",
-      "link": "https://www.tomshw.it/hardware/atomform-rinvia-al-2027-la-stampante-3d-con-dodici-ugelli",
-      "excerpt": "Atomform ha rinviato al 2027 la Palette 300, la stampante 3D con dodici ugelli intercambiabili. L'aggiornamento emerso all'IFA di Berlino lega lo slittamento a problemi di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112684/atomform-rinvia-al-2027-la-stampante-3d-con-dodici-ugelli.png",
-      "publishedAt": "2026-09-09T13:50:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Stop aggiornamenti per questi due pieghevoli Samsung: supporto terminato",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669821/stop-aggiornamenti-pieghevoli-samsung/",
-      "excerpt": "Terminano gli aggiornamenti di Samsung per due popolari modelli delle linee Fold e Flip.",
-      "image": "https://hd2.tudocdn.net/1369739?w=660",
-      "publishedAt": "2026-09-09T13:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Vuoi una bici elettrica? Oggi su Amazon c’è un’offerta da non perdere",
       "link": "https://images.dday.it/Xn6DsD_VMfwYVp_PkZESW1SNsHeCA9ljTESY-M7z04U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58682/ad10de_ape2.jpg",
       "excerpt": "Scopri la Bodywel F20, una bici elettrica versatile e robusta, ora disponibile in sconto. Approfitta dell'offerta per un'esperienza di guida unica su tutti i terreni... Leggi tutto",
@@ -75,15 +219,6 @@
       "publishedAt": "2026-09-09T13:44:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Curiosity raggiunge un nuovo record e trasforma una ruota in uno strumento scientifico",
-      "link": "https://www.tomshw.it/scienze/curiosity-5000-giorni-marziani-e-un-nuovo-enigma-nella-sabbia",
-      "excerpt": "Curiosity ha raggiunto i 5.000 giorni marziani di missione e superato un chilometro di quota rispetto al punto di atterraggio. Il rover della NASA sta ora studiando Chocolatal,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112683/curiosity-5-000-giorni-marziani-e-un-nuovo-enigma-nella-sabbia.png",
-      "publishedAt": "2026-09-09T13:40:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Etichetta energetica, l'80% degli smartphone non rispetta la legge. Tanto nessuno controlla",
@@ -95,24 +230,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Voli aerei, enorme blackout nel Regno Unito: cause ancora sconosciute",
-      "link": "https://www.hdblog.it/eventi/articoli/n669735/voli-aerei-blackout-regno-unito-causa/",
-      "excerpt": "Disagi per migliaia di passeggeri",
-      "image": "https://hd2.tudocdn.net/1369617?w=660",
-      "publishedAt": "2026-09-09T13:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Framework taglia il prezzo della RAM per il Laptop 13 Pro",
-      "link": "https://www.tomshw.it/hardware/framework-taglia-il-prezzo-della-ram-per-il-laptop-13-pro",
-      "excerpt": "Framework ha annunciato una riduzione dei prezzi della memoria per il Laptop 13 Pro, dopo aver acquistato una quantità limitata di moduli Micron da 32 e 64 GB a condizioni più…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112681/framework-taglia-il-prezzo-della-ram-per-il-laptop-13-pro.png",
-      "publishedAt": "2026-09-09T13:30:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Il rasoio più venduto di Philips ora costa solo 49,99 €",
       "link": "https://images.dday.it/fyueE1dJKCVimpS3SsQ712nriLQFuoItq_Et6L9i0b4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/57594/0c0da6_ape2.jpg",
       "excerpt": "Per chi cerca un rasoio elettrico performante senza spendere una fortuna, questa offerta Amazon sul rasoio Philips serie 3000X è da tenere d'occhio: design ergonomico, tecnologia…",
@@ -120,51 +237,6 @@
       "publishedAt": "2026-09-09T13:26:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Fino a 85 km con ENGWE Y700, minimo storico a 483,55€",
-      "link": "https://www.tomshw.it/offerte/fino-a-85-km-con-engwe-y700-minimo-storico-a-48355eur",
-      "excerpt": "ENGWE Y700 costa 483,55€ su Amazon anziché 699€, con uno sconto del 31%. I suoi 85 km di autonomia massima accompagnano chi vuole coprire più tragitti urbani senza programmare una…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112692/tomshw-offer-1129010.png",
-      "publishedAt": "2026-09-09T13:20:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "L'e-bike di Rivian è in ritardo e c'entra anche il boom dell'AI",
-      "link": "https://www.tomshw.it/automotive/le-e-bike-di-also-tardano-e-lo-spin-off-di-rivian-si-scusa",
-      "excerpt": "Also, lo spin-off di Rivian dedicato alla micromobilità, ha chiesto scusa ai clienti per i ritardi della sua e-bike TM-B. Le consegne erano previste inizialmente in primavera, poi…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112677/le-e-bike-di-also-tardano-e-lo-spin-off-di-rivian-si-scusa.png",
-      "publishedAt": "2026-09-09T13:20:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Chi vive(va) di traffico da Google ora deve inseguire ChatGPT, TikTok e i creator",
-      "link": "https://www.tomshw.it/business/chi-viveva-di-traffico-da-google-ora-deve-inseguire-chatgpt-tiktok-e-i-creator",
-      "excerpt": "Sergio Amati, direttore generale di IAB Italia, racconta un cambiamento che si è consumato in meno di due anni: milioni di persone hanno smesso di digitare una query su Google e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112571/articolo-iab-sergio-amati.jpg",
-      "publishedAt": "2026-09-09T13:17:23+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Beats 360, Apple prepara il lancio delle nuove cuffie: indizi dal firmware",
-      "link": "https://www.hdblog.it/indossabili/articoli/n669840/beats-360-firmware-apple-lancio-settembre-2026/",
-      "excerpt": "Debutto vicinissimo: cosa sappiamo.",
-      "image": "https://hd2.tudocdn.net/1364227?w=660",
-      "publishedAt": "2026-09-09T13:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Quanta AI compra il budget aziendale? La class action su Claude Max contesta le promesse d’uso",
-      "link": "https://www.tomshw.it/business/quanta-ai-compra-il-budget-aziendale-la-class-action-su-claude-max-contesta-le-promesse-duso",
-      "excerpt": "Anthropic affronta una class action ampliata sulle promesse d’uso di Claude Max, l’abbonamento da 100 o 200 dollari al mese: gli utenti contestano la distanza tra i moltiplicatori…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112609/quanta-ai-compra-il-budget-aziendale-la-class-action-su-claude-max-contesta-le-promesse-duso.png",
-      "publishedAt": "2026-09-09T13:15:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "LG a IFA 2026: l’AI capisce cosa serve e coordina gli elettrodomestici (che occupano meno spazio e consumano meno)",
@@ -185,60 +257,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "USA contro sei aziende cinesi: nel mirino la distillazione AI",
-      "link": "https://www.tomshw.it/hardware/gli-usa-accusano-le-aziende-ai-cinesi-di-copiare-su-scala-industriale",
-      "excerpt": "NSA, CISA e FBI hanno pubblicato un avviso congiunto di cybersicurezza che accusa sei aziende cinesi di aver condotto campagne di distillazione su scala industriale ai danni dei…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112675/gli-usa-accusano-le-aziende-ai-cinesi-di-copiare-su-scala-industriale.png",
-      "publishedAt": "2026-09-09T13:10:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Toyota e Scania preparano 40 camion a idrogeno da 300 kW entro il 2027",
-      "link": "https://www.hdmotori.it/scania-toyota-camion-idrogeno/",
-      "excerpt": "Celle a idrogeno di terza generazione per i camion Scania: l'intesa con Toyota punta sulle lunghe percorrenze per offrire un'alternativa concreta all'elettrico",
-      "image": "https://hd2.tudocdn.net/1369792?w=660",
-      "publishedAt": "2026-09-09T13:00:18+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Ecovacs, Huawei Watch GT 7 e Garmin Venu X1: le migliori offerte Amazon del 9 settembre",
-      "link": "https://www.hdblog.it/amazon/offerte/n669838/migliori-offerte-tech-amazon-9-settembre-2026/",
-      "excerpt": "Smartwatch Huawei e Garmin, robot Ecovacs, prodotti smart home Sonoff e Tapo, power bank e altri sconti tech: le migliori offerte Amazon del 9 settembre.",
-      "image": "https://hd2.tudocdn.net/1369786?w=660",
-      "publishedAt": "2026-09-09T12:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Intel potrebbe aumentare ancora i prezzi delle CPU: rincari fino al 10%",
-      "link": "https://www.hdblog.it/hardware/articoli/n669836/intel-alza-prezzi-cpu-terza-volta-2026/",
-      "excerpt": "Intel starebbe preparando un nuovo aumento dei prezzi delle CPU nell’ordine del 10%, dopo due ritocchi già applicati nel 2026",
-      "image": "https://hd2.tudocdn.net/1280825?w=660",
-      "publishedAt": "2026-09-09T12:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Con il SUV Ferrari da 500.000 euro attraversa 51 Paesi: sfida epica non senza guai",
-      "link": "https://www.hdmotori.it/suv-ferrari-puosangue-viaggio-americhe/",
-      "excerpt": "A bordo di un’auto da mezzo milione non sempre tutto va programmato. Questa storia ci trasmette insegnamenti importanti sulle sfide off-road",
-      "image": "https://hd2.tudocdn.net/1369756?w=660",
-      "publishedAt": "2026-09-09T12:00:57+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Xbox Disc-To-Digital parte fortissimo anche tra gli editori: arriva anche Ubisoft",
-      "link": "https://www.hdblog.it/microsoft/articoli/n669834/xbox-disc-digital-ubisoft/",
-      "excerpt": "Siamo già a oltre 1.000 giochi compatibili.",
-      "image": "https://hd2.tudocdn.net/1349138?w=660",
-      "publishedAt": "2026-09-09T11:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Con il pieghevole si apre l'era Ternus. Dall'iPhone 18 Pro alle AirPods 5, cosa presenterà Apple stasera",
       "link": "https://images.dday.it/Rj96hj2S3hyvaakHAhszg9dEoTp8VqLrym3y6DFEplc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58665/4de369_tnus.jpg",
       "excerpt": "15 anni fa Tim Cook salì sul palco dell'auditorium del campus di Cupertino con l'iPhone 4S tra le mani. Domani tocca a John Ternus iniziare la sua avventura da CEO, e questa volta…",
@@ -253,24 +271,6 @@
       "excerpt": "A IFA 2026, Hisense ha presentato RoamView, un display a batteria e su carrello che ha una caratteristica chiave: invece di avere i classici sistemi operativi dei TV, ha Android e…",
       "image": "https://images.dday.it/6CjYIBRh8VXawkcOA0Rqm5H4LKuMHFl0rZXsS_Wzsv8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58680/07ba8e_DSC00479.jpg",
       "publishedAt": "2026-09-09T11:03:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "OpenAI aggiorna ChatGPT Images: con la versione 2.5 i ritocchi sono più precisi e i soggetti più coerenti",
-      "link": "https://images.dday.it/s9Pj0Hv8JVE0Hzyjl6F3jjdqYuEGXuedqoSx50irnfg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58679/7e9146_small_Screenshot_2026-09-09_alle_12.36.53_copia.png",
-      "excerpt": "Images 2.5 è già disponibile per tutti gli utenti ChatGPT. Per gli sviluppatori arrivano invece GPT-Image-2.5 Flare e Sunburst, entrambi accessibili esclusivamente tramite API...…",
-      "image": "https://images.dday.it/s9Pj0Hv8JVE0Hzyjl6F3jjdqYuEGXuedqoSx50irnfg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58679/7e9146_small_Screenshot_2026-09-09_alle_12.36.53_copia.png",
-      "publishedAt": "2026-09-09T10:38:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "L’IA rende il software più sicuro: Microsoft ha corretto quasi 1.000 vulnerabilità di Windows",
-      "link": "https://images.dday.it/I7c1DXbrjkp4kuPzovbxPLbI_U7vh9PBFwRpZpDJelY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58676/6c7571_11.png",
-      "excerpt": "Negli ultimi mesi il numero di patch applicate è schizzato. Il motivo? L'introduzione di un sistema multi-agente che individua e corregge le debolezze del codice... Leggi tutto",
-      "image": "https://images.dday.it/I7c1DXbrjkp4kuPzovbxPLbI_U7vh9PBFwRpZpDJelY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58676/6c7571_11.png",
-      "publishedAt": "2026-09-09T10:19:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
