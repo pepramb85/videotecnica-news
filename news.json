@@ -1,26 +1,233 @@
 {
-  "generatedAt": "2026-09-10T13:58:46.557024+00:00",
+  "generatedAt": "2026-09-10T17:31:59.488491+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "iPhone 18 Pro e Pro Max, quanto sono potenti? Arrivano i primi benchmark",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669980/iphone-18-pro-max-chip-a20-benchmark-prestazioni/",
-      "excerpt": "Come si comporta il nuovo chip A20 Pro.",
-      "image": "https://hd2.tudocdn.net/1370178?w=660",
-      "publishedAt": "2026-09-10T13:55:00+00:00",
+      "title": "L’AI europea Mistral incassa miliardi, anche da Samsung e Blackrock. E la sovranità?",
+      "link": "https://www.tomshw.it/business/lai-europea-mistral-incassa-miliardi-anche-da-samsung-e-blackrock-e-la-sovranita",
+      "excerpt": "Samsung Electronics ha guidato il round Series D da 3 miliardi di euro chiuso da Mistral AI, il più alto mai raccolto in capitale da una tecnologica europea, portando la…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112806/10-mistral-samsung-ai-sovrana.jpg",
+      "publishedAt": "2026-09-10T17:28:36+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "NASA e IBM hanno creato un modello AI per esplorare la Luna",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n669982/nasa-ibm-modello-ai-esplorare-la-luna/",
+      "excerpt": "Ecco cosa può fare",
+      "image": "https://hd2.tudocdn.net/1350882?w=660",
+      "publishedAt": "2026-09-10T17:25:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "iOS 27 e iPadOS 27 arrivano in Release Candidate: chi può provarli?",
-      "link": "https://www.tomshw.it/smartphone/ios-27-e-ipados-27-arrivano-in-release-candidate-chi-puo-provarli",
-      "excerpt": "Apple ha distribuito le Release Candidate di iOS 27 e iPadOS 27, portando il nuovo aggiornamento per iPhone e iPad all'ultima fase del programma beta prima della disponibilità…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112935/ios-27-e-ipados-27-arrivano-in-release-candidate-chi-puo-provarli.png",
-      "publishedAt": "2026-09-10T13:55:00+00:00",
+      "title": "macOS 27 Golden Gate ha una data: ecco quando arriva e quali Mac sono compatibili",
+      "link": "https://www.hdblog.it/apple/articoli/n670026/macos-27-golden-gate-data-update-mac-compatibili/",
+      "excerpt": "Questione di giorni.",
+      "image": "https://hd2.tudocdn.net/1370232?w=660",
+      "publishedAt": "2026-09-10T17:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Bambu Lab A2L Combo a 749,99€, stampa in più colori senza complicarsi la vita",
+      "link": "https://www.tomshw.it/offerte/bambu-lab-a2l-combo-a-74999eur-stampa-in-piu-colori-senza-complicarsi-la-vita",
+      "excerpt": "Bambu Lab A2L Combo costa 749,99€ su Amazon e riunisce stampa 3D FDM multicolore, calibrazione automatica e alta velocità in una macchina pensata per progetti ambiziosi. Maker,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112966/tomshw-offer-1142994.png",
+      "publishedAt": "2026-09-10T17:20:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Dodge Charger arriva in Italia, benzina ed elettrica: si parte da 72.000 euro",
+      "link": "https://www.hdmotori.it/dodge-charger-italia-prezzi-motori-versioni/",
+      "excerpt": "In Italia la nuova Dodge Charger raddoppia: dai 420 CV del 3.0 biturbo Hurricane all'elettrica Daytona da 670 CV. Disponibili carrozzeria a 2 e 4 porte",
+      "image": "https://hd2.tudocdn.net/1370240?w=660",
+      "publishedAt": "2026-09-10T17:00:33+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Meglio comprare GeForce RTX 5090 ora o aspettare RTX 6090?",
+      "link": "https://www.tomshw.it/hardware/meglio-comprare-geforce-rtx-5090-ora-o-aspettare-rtx-6090",
+      "excerpt": "La RTX 5090 è acquistabile nuova in Italia, ma una fascia indicativa di circa 4.900–5.600 € restringe molto il pubblico per cui rappresenta un acquisto sensato. La GeForce RTX…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112221/meglio-comprare-geforce-rtx-5090-ora-o-aspettare-rtx-6090.png",
+      "publishedAt": "2026-09-10T17:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Quando esce Judas? Data e cosa sappiamo",
+      "link": "https://www.tomshw.it/videogioco/quando-esce-judas-data-e-cosa-sappiamo",
+      "excerpt": "Judas non ha ancora una data di uscita annunciata. Al 7 settembre 2026, lo sparatutto narrativo di Ghost Story Games resta previsto per PC, PlayStation 5 e Xbox Series X|S, ma…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112218/cover.jpg",
+      "publishedAt": "2026-09-10T17:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Chandra trova 84 oggetti misteriosi: potrebbero risolvere due enigmi",
+      "link": "https://www.hdblog.it/curiosita/articoli/n670013/chandra-nuovi-oggetti-raggi-x-ipersoft/",
+      "excerpt": "Chandra scopre 84 sorgenti cosmiche che potrebbero chiarire due grandi misteri dell’Universo.",
+      "image": "https://hd2.tudocdn.net/1370217?w=660",
+      "publishedAt": "2026-09-10T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Pixel 11, Google rilascia un aggiornamento a sorpresa: ma cosa fa?",
+      "link": "https://www.hdblog.it/smartphone/articoli/n670002/google-pixel-11-aggiornamento-settembre-bug-fix/",
+      "excerpt": "Fixa alcuni bug: ma quali?",
+      "image": "https://hd2.tudocdn.net/1365925?w=660",
+      "publishedAt": "2026-09-10T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Instagram cambia la griglia: ora puoi aggiungere anche i post in cui sei taggato",
+      "link": "https://www.hdblog.it/applicazioni/articoli/n670023/instagram-aggiungere-foto-taggate/",
+      "excerpt": "Instagram introduce la possibilità di aggiungere alla griglia principale del profilo anche foto e post pubblicati da altri utenti in cui si è stati taggati, senza rimuoverli dalla…",
+      "image": "https://hd2.tudocdn.net/1339947?w=660",
+      "publishedAt": "2026-09-10T16:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "L’AI di ElevenLabs potrà remixare legalmente le hit di Universal Music",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n670018/universal-music-elevenlabs-ai-remix/",
+      "excerpt": "Universal Music prepara una piattaforma AI per remix e mashup di brani concessi in licenza.",
+      "image": "https://hd2.tudocdn.net/1370224?w=660",
+      "publishedAt": "2026-09-10T16:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Ti rubano modelli e prompt AI, poi minacciano di pubblicarli",
+      "link": "https://www.tomshw.it/business/ti-rubano-modelli-e-prompt-ai-poi-minacciano-di-pubblicarli",
+      "excerpt": "Un’azienda farmaceutica si è vista sottrarre ricerca sui farmaci e un modello AI proprietario, con la minaccia di pubblicare tutto se il riscatto non fosse arrivato. Una società…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112804/08-estorsione-modelli-ai.jpg",
+      "publishedAt": "2026-09-10T16:33:36+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Promozioni auto: i modelli con più del 25% di sconto a settembre 2026",
+      "link": "https://www.hdmotori.it/promozioni-auto-sconto-25-settembre-2026/",
+      "excerpt": "Ecco tutte le promozioni auto che a settembre 2026 prevedono uno sconto pari o superiore al 25%. Il prezzo d’acquisto si riduce, ma attenzione alle condizioni per accedere…",
+      "image": "https://hd2.tudocdn.net/1370231?w=660",
+      "publishedAt": "2026-09-10T16:30:57+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Soundcore Rave 3S a 239,99€, karaoke da 200W con due microfoni",
+      "link": "https://www.tomshw.it/offerte/soundcore-rave-3s-a-23999eur-karaoke-da-200w-con-due-microfoni",
+      "excerpt": "Soundcore Rave 3S costa 239,99€ su Amazon, anziché 349,99€, con uno sconto del 31% e 110€ lasciati in tasca. Il pacchetto riunisce 200W, due microfoni wireless e rimozione vocale…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112955/tomshw-offer-1142946.png",
+      "publishedAt": "2026-09-10T16:21:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Samsung porta l’AI dentro le fabbriche di chip",
+      "link": "https://www.hdblog.it/hardware/articoli/n669989/samsung-mistral-ai-produzione-chip/",
+      "excerpt": "Samsung userà modelli AI locali per trovare difetti e migliorare la produzione dei chip",
+      "image": "https://hd2.tudocdn.net/1370101?w=660",
+      "publishedAt": "2026-09-10T16:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Truffa dei km scalati, in Italia cancellati fino a 70mila per auto",
+      "link": "https://www.hdmotori.it/truffa-chilometri-scalati-auto-usate/",
+      "excerpt": "In Italia i casi di manomissione sono pochi, ma con una media di 70.000 km scalati a vettura. Un mercato opaco favorito anche dalla mancanza di database europei unici",
+      "image": "https://hd2.tudocdn.net/1352348?w=660",
+      "publishedAt": "2026-09-10T16:00:48+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Open AI perde la battaglia sul marchio nell'UE: per il tribunale «OpenAI» è descrittivo",
+      "link": "https://www.tomshw.it/business/open-ai-perde-la-battaglia-sul-marchio-nellue-per-il-tribunale-openai-e-descrittivo",
+      "excerpt": "Open AI perde la battaglia sul marchio nell’UE: per il tribunale “OpenAI” è descrittivo Avv. Giuseppe Croari – Dott.ssa Silvia Di Paola Il nome OpenAI, uno dei marchi più…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112947/openai-marchio-ue-cover-v2.jpg",
+      "publishedAt": "2026-09-10T16:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "7 casi in cui l'AI peggiora la qualità in produzione, e come evitarli",
+      "link": "https://www.tomshw.it/aioperator/7-casi-in-cui-lai-peggiora-la-qualita-in-produzione-e-come-evitarli",
+      "excerpt": "Lo standard EEMUA-191 fissa a 12 il numero di allarmi orari che un operatore riesce a gestire senza perdere efficacia. Sette pattern documentati mostrano cosa succede quando un…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/111342/04-pro06-cover.jpg",
+      "publishedAt": "2026-09-10T16:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Samsung Galaxy S26+ 256GB a 919€ con 370€ in meno, fatto per durare",
+      "link": "https://www.tomshw.it/offerte/samsung-galaxy-s26-256gb-a-919eur-con-370eur-in-meno-fatto-per-durare",
+      "excerpt": "Samsung Galaxy S26+ 256GB costa 919€ su Amazon, invece di 1289€, con il 29% di sconto. Il risparmio di 370€ rende particolarmente interessante una configurazione capiente,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112954/tomshw-offer-1142899.png",
+      "publishedAt": "2026-09-10T15:50:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Le aziende scalano l’AI a ritmo record, ma dove sono i soldi?",
+      "link": "https://www.tomshw.it/business/le-aziende-scalano-lai-a-ritmo-record-ma-dove-sono-i-soldi",
+      "excerpt": "Il 44% delle aziende ha portato l’intelligenza artificiale a scala in tutta l’organizzazione, sei punti più che un anno fa. Ma la quota che dichiara un impatto positivo sull’EBIT…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112803/07-ai-adozione-ebit-fermo.jpg",
+      "publishedAt": "2026-09-10T15:39:54+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Nuovo acquisto di Bending Spoons: tocca a Miro, per 1,79 miliardi di dollari",
+      "link": "https://images.dday.it/aSpTe5UezAj4XkYlv3XE-kjEyFlqkwZ5efwBI1q29ds/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58702/37c869_aaa.png",
+      "excerpt": "La celebre lavagna digitale entro fine anno diventerà di proprietà dell'azienda milanese, che vuole tenersi stretti i milioni di clienti paganti ... Leggi tutto",
+      "image": "https://images.dday.it/aSpTe5UezAj4XkYlv3XE-kjEyFlqkwZ5efwBI1q29ds/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58702/37c869_aaa.png",
+      "publishedAt": "2026-09-10T14:30:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Analizzare crateri e depositi di ghiaccio sulla Luna con un modello di IA open source. Lo hanno fatto IBM e la NASA",
+      "link": "https://images.dday.it/MJ_dgkGSwxqCq05VeYLj47Ln4FmBV11W-Mh7kgu47AA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58703/eaafe2_Moon_Frost.jpg",
+      "excerpt": "Si chiama NASA-IBM Lunar Foundation Model e analizza dati provenienti da diverse missioni spaziali e può aiutare a individuare depositi di ghiaccio, crateri e formazioni…",
+      "image": "https://images.dday.it/MJ_dgkGSwxqCq05VeYLj47Ln4FmBV11W-Mh7kgu47AA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58703/eaafe2_Moon_Frost.jpg",
+      "publishedAt": "2026-09-10T14:17:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Apple AirPods Max 2 a 499 euro su Amazon: è uno dei prezzi più interessanti",
+      "link": "https://images.dday.it/5FMVJad55Az8-smX2U4fUmEz877xuwFlwDOuF9piJBo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58701/0cec5f_81Q3X+7Bu9L._AC_SL1500_.jpg",
+      "excerpt": "Le cuffie over-ear di Apple sono in offerta su Amazon ad un prezzo mai visto... Leggi tutto",
+      "image": "https://images.dday.it/5FMVJad55Az8-smX2U4fUmEz877xuwFlwDOuF9piJBo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58701/0cec5f_81Q3X+7Bu9L._AC_SL1500_.jpg",
+      "publishedAt": "2026-09-10T14:07:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "iPhone Duo, la sfida dei pieghevoli si gioca sul software, non sull’hardware",
+      "link": "https://images.dday.it/stJM13AAbLDLo4DY7ru2g3mRAFqHRZG6VBfVHa7X5vo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58698/638c0f_duot.jpg",
+      "excerpt": "A poche ore dalla presentazione del nuovo iPhone Duo il pieghevole Apple fa discutere: c'è chi lo vede una copia del Samsung, chi critica la piega comunque visibile e chi lo…",
+      "image": "https://images.dday.it/stJM13AAbLDLo4DY7ru2g3mRAFqHRZG6VBfVHa7X5vo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58698/638c0f_duot.jpg",
+      "publishedAt": "2026-09-10T14:01:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Alla guida di Mazda CX-6e. Tanto comfort, ma l'assenza del quadro strumenti stranisce",
+      "link": "https://images.dday.it/_16JvxUh78AJkZyeybid4UCOhGsCuC2O238Lt-LTamA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58699/1e8258_cx6e_thumb.jpg",
+      "excerpt": "La CX-6e convince soprattutto per comfort, silenziosità e precisione dello sterzo, ma alcune scelte dell’interfaccia non sono immediate né intuitive... Leggi tutto",
+      "image": "https://images.dday.it/_16JvxUh78AJkZyeybid4UCOhGsCuC2O238Lt-LTamA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58699/1e8258_cx6e_thumb.jpg",
+      "publishedAt": "2026-09-10T14:00:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "1800W, 1024 Wh e ricarica rapida: la power station AFERIY è in offerta su Amazon",
@@ -30,168 +237,6 @@
       "publishedAt": "2026-09-10T13:53:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Braun Silk-expert Pro 5 a 399,99€, 230€ in meno per trattarsi a casa",
-      "link": "https://www.tomshw.it/offerte/braun-silk-expert-pro-5-a-39999eur-230eur-in-meno-per-trattarsi-a-casa",
-      "excerpt": "Braun Silk·Expert Pro 5 PL5382 costa 399,99€ su Amazon, con il 37% di sconto sul prezzo di 629,99€ e 230€ di risparmio. Il trattamento completo richiede solo 10 minuti, così la…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112931/tomshw-offer-1142613.png",
-      "publishedAt": "2026-09-10T13:51:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "G.SKILL avrebbe detto no alla garanzia RAM: basta una scheggiatura?",
-      "link": "https://www.tomshw.it/hardware/g-skill-avrebbe-detto-no-alla-garanzia-ram-basta-una-scheggiatura",
-      "excerpt": "G.SKILL avrebbe respinto una richiesta di assistenza in garanzia per un kit di RAM a causa di una piccola scheggiatura sul circuito stampato di uno dei moduli. A raccontarlo è il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112883/una-scheggiatura-sulla-ram-e-g-skill-avrebbe-negato-la-garanzia.png",
-      "publishedAt": "2026-09-10T13:50:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Torna una delle mirrorless più apprezzate: ecco la nuova OM System PEN | Prezzo",
-      "link": "https://www.hdblog.it/fotografia/articoli/n669986/om-system-pen-micro-quattro-terzi-prezzo-italia/",
-      "excerpt": "La fotocamera micro 4/3 integra finalmente un mirino elettronico.",
-      "image": "https://hd2.tudocdn.net/1370141?w=660",
-      "publishedAt": "2026-09-10T13:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iOS 27, l'app Fotocamera consente di personalizzare i controlli da mostrare",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669994/ios-27-app-fotocamera-diventa-personalizzabile/",
-      "excerpt": "Apple ha aggiunto in iOS 27 una nuova possibilità di personalizzazione dell'app Fotocamera",
-      "image": "https://hd2.tudocdn.net/1370138?w=660",
-      "publishedAt": "2026-09-10T13:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "GIGABYTE taglia le RTX 5070: conviene prenderla prima che sparisca?",
-      "link": "https://www.tomshw.it/hardware/gigabyte-taglia-le-rtx-5070-conviene-prenderla-prima-che-sparisca",
-      "excerpt": "GIGABYTE potrebbe ridurre le forniture di GeForce RTX 5070 fino al 30% a settembre rispetto ad agosto. Un aggiornamento proveniente dal canale distributivo indica disponibilità…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112878/le-rtx-5070-di-gigabyte-potrebbero-diventare-piu-difficili-da-trovare.png",
-      "publishedAt": "2026-09-10T13:40:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Ecco l'app per Android e iOS che ti aiuta a proteggere l'auto dalla grandine",
-      "link": "https://www.hdblog.it/android/articoli/n669993/app-grandine-allerta-community-tempo-reale/",
-      "excerpt": "Si chiama Grandinometro ed è stata sviluppata da uno studente ventunenne padovano.",
-      "image": "https://hd2.tudocdn.net/1181307?w=660",
-      "publishedAt": "2026-09-10T13:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Prima uscita pubblica per la Pagani Huayra 70 Trionfo, sound da brividi",
-      "link": "https://www.hdmotori.it/pagani-huayra-70-trionfo-prima-uscita/",
-      "excerpt": "La prima sgasata della Pagani Huayra 70 Trionfo sta facendo il giro del mondo. La vettura emiliana ha caratteristiche speciali",
-      "image": "https://hd2.tudocdn.net/1370126?w=660",
-      "publishedAt": "2026-09-10T13:30:30+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Audi e-tron, l'update blocca la ricarica: cosa fare se succede a te?",
-      "link": "https://www.tomshw.it/automotive/audi-e-tron-l-update-blocca-la-ricarica-cosa-fare-se-succede-a-te",
-      "excerpt": "Alcuni proprietari di Audi e-tron segnalano che, dopo un aggiornamento software installato in officina, le loro auto hanno iniziato a rifiutare la ricarica domestica o ad…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112877/alcune-audi-e-tron-non-ricaricano-a-casa-dopo-l-update-perche.png",
-      "publishedAt": "2026-09-10T13:30:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Tapo C110 sotto i 20€, il minimo di sempre per vedere casa in 2K",
-      "link": "https://www.tomshw.it/offerte/tapo-c110-sotto-i-20eur-il-minimo-di-sempre-per-vedere-casa-in-2k",
-      "excerpt": "La Tapo C110 costa 19,99€ su Amazon: dai 23,99€ di listino scende del 17%, con 4€ di risparmio e il suo minimo storico. È una telecamera Wi-Fi interna compatta, capace di unire…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112926/tomshw-offer-1142522.png",
-      "publishedAt": "2026-09-10T13:20:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Inter vs Udinese: dove vedere la partita di Serie A in TV e streaming",
-      "link": "https://www.tomshw.it/altro/inter-vs-udinese-dove-vedere-la-partita-di-serie-a-in-tv-e-streaming",
-      "excerpt": "La quarta giornata del campionato di Serie A mette di fronte Inter e Udinese in un posticipo serale ricco di spunti e motivi d'interesse. I nerazzurri tornano sul prato di San…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112924/Inter-vs-Udinese-dove-vedere-la-partita-di-Serie-A-in-TV-e-streaming.jpg",
-      "publishedAt": "2026-09-10T13:06:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "MOVA E50 Ultra, LG UltraGear e JBL Tour Pro 3: le top offerte tech del 10 settembre",
-      "link": "https://www.hdblog.it/amazon/offerte/n669981/migliori-offerte-tech-10-settembre-2026-amazon/",
-      "excerpt": "Dai robot aspirapolvere ai monitor gaming, passando per cuffie, videocamere e prodotti smart home: le migliori offerte tech di oggi su Amazon.",
-      "image": "https://hd2.tudocdn.net/1370098?w=660",
-      "publishedAt": "2026-09-10T13:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "11 milioni per liberarsi di Microsoft, la Svizzera cerca sovranità e Open Source",
-      "link": "https://www.tomshw.it/business/11-milioni-per-liberarsi-di-microsoft-la-svizzera-cerca-sovranita-e-open-source",
-      "excerpt": "La Cancelleria Federale svizzera ha stanziato 9 milioni di franchi, circa 11 milioni di dollari, per un progetto pilota che porta la suite open source openDesk su 3.000 postazioni…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112801/05-svizzera-microsoft-opendesk.jpg",
-      "publishedAt": "2026-09-10T13:04:20+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Insta360 Luna Pro arriva oggi in Italia: prezzi e specifiche",
-      "link": "https://www.hdblog.it/fotografia/articoli/n669973/insta360-luna-pro-arriva-italia-prezzi-quando/",
-      "excerpt": "Acquistabile già da oggi a 529€.",
-      "image": "https://hd2.tudocdn.net/1370088?w=660",
-      "publishedAt": "2026-09-10T13:01:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Opel Grandland a 27.650 euro: le offerte di settembre sui prezzi di tutta la gamma",
-      "link": "https://www.hdmotori.it/opel-grandland-prezzi-offerte-promozioni-settembre/",
-      "excerpt": "Opel rilancia il SUV Grandland con promozioni sulle pronte consegna: la gamma parte da 27.650 euro tra incentivi rottamazione, formule plug-in e opzioni noleggio",
-      "image": "https://hd2.tudocdn.net/1370099?w=660",
-      "publishedAt": "2026-09-10T13:00:36+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Rivoluzione vlogging a IFA 2026: Insta360 porta la qualità 8K nel palmo della tua mano",
-      "link": "https://www.tomshw.it/altro/rivoluzione-vlogging-a-ifa-2026-insta360-porta-la-qualita-8k-nel-palmo-della-tua-mano",
-      "excerpt": "A IFA 2026, il palcoscenico tecnologico di Berlino, i riflettori si sono accesi sulle ultime creazioni firmate Insta360. Sebbene la serie Luna rappresenti la nuova generazione di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111829/Luna-Pro-PIU.jpg",
-      "publishedAt": "2026-09-10T13:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Claude Skills, ecco come costruirne una che migliora le risposte",
-      "link": "https://www.tomshw.it/aioperator/claude-skills-ecco-come-costruirne-una-che-migliora-le-risposte",
-      "excerpt": "Anthropic pubblica le Claude Skills come cartelle di istruzioni che il modello carica solo quando servono, non ad ogni conversazione. Un manager che scrive la stessa procedura di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111339/03-b106-cover.jpg",
-      "publishedAt": "2026-09-10T13:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Google Pixel Tablet al capolinea, e di eredi non si vede neanche l'ombra",
-      "link": "https://www.hdblog.it/tablet/articoli/n669985/google-pixel-tablet-capolinea-rimosso-store/",
-      "excerpt": "La pagina dedicata sul Google Store è stata rimossa.",
-      "image": "https://hd2.tudocdn.net/1274456?w=660",
-      "publishedAt": "2026-09-10T12:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Bending Spoons firma un accordo definitivo per acquisire Miro",
-      "link": "https://www.hdblog.it/business/articoli/n669984/bending-spoons-acquisire-miro/",
-      "excerpt": "L’operazione sarà interamente in denaro",
-      "image": "https://hd2.tudocdn.net/1243679?w=660",
-      "publishedAt": "2026-09-10T12:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Abbiamo provato la Cayenne elettrica fuoristrada. Ci ha lasciato a bocca aperta",
@@ -226,51 +271,6 @@
       "excerpt": "A 50 anni di distanza, il primo Star Wars e Star Wars: Starfighter arriveranno entrambi in IMAX 70mm. Il film del 1977 sarà restaurato e proiettato senza le aggiunte digitali del…",
       "image": "https://images.dday.it/j4R7qFimPWmfwvcq0Zh24xQaerL2c2QgBuEtR3dp_bU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58692/52d08b_small_star-wars-swstarfighter-50-collage-misc_b86e207c_copia.jpg",
       "publishedAt": "2026-09-10T08:01:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Dai pavimenti alla piscina: così Roborock celebra il primo posto tra i produttori di robot e amplia il suo mondo a IFA 2026",
-      "link": "https://images.dday.it/R_8EJixKrLUeagTmI8uxWNSiLw8IM3xhD5DAPc8eaE0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58666/db2398_DSC00084.jpg",
-      "excerpt": "Dai nuovi robot Saros 20 alle lavapavimenti F25, passando per il robot per la piscina e quello per il prato: Roborock amplia il suo ecosistema per automatizzare sempre più…",
-      "image": "https://images.dday.it/R_8EJixKrLUeagTmI8uxWNSiLw8IM3xhD5DAPc8eaE0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58666/db2398_DSC00084.jpg",
-      "publishedAt": "2026-09-10T07:32:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Prime Video usa l’IA per cambiare il labiale degli attori e adattarlo al doppiaggio",
-      "link": "https://images.dday.it/yaNd0niSeU-UL4ZbkZWmd5Wzp6tlXSF5C2NTPwHXj5E/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58691/533350_about-amazon-hero-maxton-hall-staffel-3-first-look-c-prime-video-stephan-rabold-2.jpg",
-      "excerpt": "Prime Video debutta con una tecnologia che modifica tramite IA i movimenti della bocca degli attori per adattarli al doppiaggio umano. Si parte dall’inglese con Maxton Hall...…",
-      "image": "https://images.dday.it/yaNd0niSeU-UL4ZbkZWmd5Wzp6tlXSF5C2NTPwHXj5E/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58691/533350_about-amazon-hero-maxton-hall-staffel-3-first-look-c-prime-video-stephan-rabold-2.jpg",
-      "publishedAt": "2026-09-10T07:09:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Tineco a IFA 2026. La lavapavimenti a vapore e acqua calda. E l'aspirapolvere che si svuota senza contaminazione",
-      "link": "https://images.dday.it/-PFnBH__gZB3SDQUMtv0ZILf2KXkXaE3SCwmzTBh3NI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58668/d6cffc_IT-Opening-Day2.jpg",
-      "excerpt": "Il produttore numero uno di lavapavimenti rinnova il suo top di gamma: FLOOR ONE S11 Artist Fusion Steam unisce la comodità dell'acqua calda con la potenza del calore. E…",
-      "image": "https://images.dday.it/-PFnBH__gZB3SDQUMtv0ZILf2KXkXaE3SCwmzTBh3NI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58668/d6cffc_IT-Opening-Day2.jpg",
-      "publishedAt": "2026-09-10T01:03:05+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "UGREEN reinventa il NAS di casa: arriva HomeAgent, l'hub AI che opera in locale, senza mandare nulla in cloud",
-      "link": "https://images.dday.it/pZvwSoM_D95FGuPrCEwtqvAYrytVTGlBVMpUD7Uc24k/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58640/700500_DSC00436.jpg",
-      "excerpt": "Presentata a Berlino, nel contesto di IFA 2026, la nuova linea AIoT di UGREEN: tre hub di intelligenza artificiale locale, telecamere, cornice fotografica smart e uno speaker…",
-      "image": "https://images.dday.it/pZvwSoM_D95FGuPrCEwtqvAYrytVTGlBVMpUD7Uc24k/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58640/700500_DSC00436.jpg",
-      "publishedAt": "2026-09-10T01:03:05+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Apple ha aumentato i prezzi di tutti gli iPhone. Da stasera iPhone 17 costa 150 euro in più",
-      "link": "https://images.dday.it/K2mVbYX6_a_jIeZlP6hnpx-NBSS1a7rBmwDG2Ql1NL4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58690/c0741b_Senza-titolo-2.jpg",
-      "excerpt": "iPhone 18 Pro e iPhone 18 Pro Max, annunciati questa sera, costano 150 euro in più dei due modelli che vanno a sostituire. L'aumento però tocca tutti gli iPhone, anche quelli già…",
-      "image": "https://images.dday.it/K2mVbYX6_a_jIeZlP6hnpx-NBSS1a7rBmwDG2Ql1NL4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58690/c0741b_Senza-titolo-2.jpg",
-      "publishedAt": "2026-09-09T20:27:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
