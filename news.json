@@ -1,125 +1,251 @@
 {
-  "generatedAt": "2026-09-14T09:25:55.723752+00:00",
+  "generatedAt": "2026-09-14T16:04:52.298650+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Windows 11, nuovo semplicissimo trucco per aggirare l'obbligo di account online",
-      "link": "https://www.hdblog.it/microsoft/articoli/n670282/windows-11-bypass-account-online-metodo-semplice/",
-      "excerpt": "Basta scegliere una voce durante la prima configurazione. Facile pensare che sia un bug che Microsoft correggerà quanto prima.",
-      "image": "https://hd2.tudocdn.net/1338675?w=660",
-      "publishedAt": "2026-09-14T09:25:00+00:00",
+      "title": "Hyundai porta Mocean in Italia: l'auto in abbonamento e zero anticipo",
+      "link": "https://www.hdmotori.it/hyundai-mocean-italia-auto-abbonamento/",
+      "excerpt": "Arriva in Italia Hyundai Mocean: il servizio di auto in abbonamento da 12 a 24 mesi senza anticipo, con tutto incluso e gestione interamente online.",
+      "image": "https://hd2.tudocdn.net/1370851?w=660",
+      "publishedAt": "2026-09-14T16:00:30+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Licenziati ma ancora più ricchi, il paradosso dell'AI fa piovere sul bagnato",
-      "link": "https://www.tomshw.it/business/licenziati-ma-ancora-piu-ricchi-il-paradosso-dellai-fa-piovere-sul-bagnato",
-      "excerpt": "Morgan Stanley ha detto venerdì 11 settembre che i lavoratori più esposti ai tagli di posti legati all'intelligenza artificiale sono anche quelli con più da guadagnarci.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113185/03-licenziati-ma-ricchi-ai.jpg",
-      "publishedAt": "2026-09-14T09:22:44+00:00",
+      "title": "Ransomware, record di 997 attacchi: quanto è esposta l'Italia?",
+      "link": "https://www.tomshw.it/hardware/ransomware-record-di-997-attacchi-quanto-e-esposta-litalia",
+      "excerpt": "Comparitech ha registrato 997 attacchi ransomware nel mondo ad agosto 2026, il massimo mensile del suo monitoraggio: circa 32 episodi al giorno, con un aumento del 23% rispetto…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113374/ransomware-record-di-997-attacchi-quanto-e-esposta-l-italia.png",
+      "publishedAt": "2026-09-14T16:00:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "L'AI ci ucciderà tutti? Forse, ma intanto marketing e finanza ci stanno consumando a forza di dichiarazioni assurde",
-      "link": "https://www.tomshw.it/business/lai-ci-uccidera-tutti-forse-ma-intanto-marketing-e-finanza-ci-stanno-consumando-a-forza-di-dichiarazioni-assurde",
-      "excerpt": "L'8 settembre Jacob Coxon si è dimesso da Anthropic e ha messo su X il proprio atto d'accusa: chi costruisce l'intelligenza artificiale, ha scritto, crede davvero che potrebbe…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113208/01-ai-marketing-apocalisse.jpg",
-      "publishedAt": "2026-09-14T09:21:27+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Samsung porta gli OLED degli smartphone fino a 10.000 nit",
-      "link": "https://www.hdblog.it/smartphone/articoli/n670273/samsung-oled-smartphone-10000-nit/",
-      "excerpt": "Il nuovo OLED M16 arriva a 10.000 nit e promette consumi inferiori del 30%.",
-      "image": "https://hd2.tudocdn.net/1370710?w=660",
-      "publishedAt": "2026-09-14T09:20:00+00:00",
+      "title": "Le future città su Marte potrebbero nascere dal lievito",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n670319/case-3d-marte-lievito/",
+      "excerpt": "Sabbia, gelatina e lievito per stampare edifici resistenti direttamente su Marte.",
+      "image": "https://hd2.tudocdn.net/1370783?w=660",
+      "publishedAt": "2026-09-14T15:55:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "OPPO Reno15 5G a 414,99€, minimo storico con 512GB e batteria da 6.500 mAh",
-      "link": "https://www.tomshw.it/offerte/oppo-reno15-5g-a-41499eur-minimo-storico-con-512gb-e-batteria-da-6500-mah",
-      "excerpt": "OPPO Reno15 5G costa 414,99€ su Amazon, anziché 534,45€, con uno sconto del 21% e 119,46€ di risparmio. È il prezzo più basso toccato finora da uno smartphone che abbina 512GB,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113222/tomshw-offer-1196983.png",
-      "publishedAt": "2026-09-14T09:19:00+00:00",
+      "title": "CUDA gira su una Radeon in Windows, ma manca ancora qualcosa",
+      "link": "https://www.tomshw.it/hardware/zluda-porta-librerie-cuda-su-rx-9060-xt-in-windows-ecco-come",
+      "excerpt": "Uno sviluppatore indipendente ha realizzato CUDA-for-AMD-Windows, un progetto open source che permette di eseguire alcune librerie CUDA su una Radeon RX 9060 XT direttamente in…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113366/zluda-porta-librerie-cuda-su-rx-9060-xt-in-windows-ecco-come.png",
+      "publishedAt": "2026-09-14T15:50:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Motorola vuole fare un iPhone Duo migliore di Apple, ecco il piano",
-      "link": "https://www.tomshw.it/smartphone/motorola-sfida-apple-con-il-nuovo-razr-fold-wide-2026-09-14",
-      "excerpt": "Motorola vuole puntare dritto al cuore della concorrenza. Attraverso un mix di documenti trapelati e listing ufficiali del World Power Consortium, emergono i contorni di un nuovo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113224/Motorola-Razr-Fold-Wide-concept-leak-header.jpg",
-      "publishedAt": "2026-09-14T09:17:00+00:00",
+      "title": "De'Longhi Dedica a 150,84€, espresso e cappuccino senza ingombrare il piano",
+      "link": "https://www.tomshw.it/offerte/delonghi-dedica-a-15084eur-espresso-e-cappuccino-senza-ingombrare-il-piano",
+      "excerpt": "La De'Longhi Dedica EC685.R costa 150,84€ su Amazon, anziché 203,99€, con uno sconto del 26%. In appena 15 cm di larghezza riunisce espresso, cappuccino e compatibilità con le…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113379/tomshw-offer-1197506.png",
+      "publishedAt": "2026-09-14T15:49:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Diablo 4 non avrà più espansioni: perché questa brutta decisione?",
-      "link": "https://www.tomshw.it/videogioco/diablo-4-niente-nuove-espansioni-in-programma-2026-09-14",
-      "excerpt": "Durante la BlizzCon di quest'anno, Blizzard ha svelato che Diablo 5 ambienterà la propria trama cento anni dopo gli eventi di Diablo 4, in un mondo ormai sopraffatto dalla…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113139/Diablo_30th_Anniversary_Key_Art.png",
-      "publishedAt": "2026-09-14T09:17:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "TIM apre i preordini Apple: i prezzi di iPhone 18 Pro, Watch e AirPods a rate",
-      "link": "https://www.hdblog.it/smartphone/articoli/n670278/iphone-18-pro-max-tim-offerte/",
-      "excerpt": "Dai nuovi iPhone 18 Pro agli Apple Watch e AirPods 5: TIM ha aperto i preordini della nuova gamma Apple con consegne dal 18 settembre e diverse formule di finanziamento fino a 36…",
-      "image": "https://hd2.tudocdn.net/1369898?w=660",
-      "publishedAt": "2026-09-14T09:15:00+00:00",
+      "title": "Sfortunato redditor dimostra che anche i connettori a 8 pin possono fondere",
+      "link": "https://www.hdblog.it/hardware/articoli/n670338/amd-radeon-rx-7900-xtx-connettori-fusi/",
+      "excerpt": "Caso molto più raro che con i 12V-HPWR. Forse user error? O qualche difetto di fabbricazione?",
+      "image": "https://hd2.tudocdn.net/1370836?w=660",
+      "publishedAt": "2026-09-14T15:45:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "La Cina boccia il “tutto touchscreen” in auto, 19 funzioni dovranno tornare fisiche",
-      "link": "https://www.tomshw.it/automotive/cina-addio-touchscreen-per-i-comandi-essenziali-auto-2026-09-14",
-      "excerpt": "Chi guida un'auto di ultima generazione lo sa bene: quasi ogni funzione, dal climatizzatore alle frecce, è ormai racchiusa in un display centrale che promette eleganza e…",
-      "image": "https://cdn.tomshw.it/storage/media/2023/12/7398/porsche-macan-2024-lenkrad-mit-fahrmodus-schalter-instrumentendisplay-und-touchscreen.webp",
-      "publishedAt": "2026-09-14T09:13:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Ocarina of Time su Switch 2: DF conferma il FullHD a 60 fps, ma niente DLSS",
-      "link": "https://www.hdblog.it/nintendo/articoli/n670254/zelda-ocarina-of-time-switch-2-analisi-df/",
-      "excerpt": "I primi riscontri di Digital Foundry sono molto positivi",
-      "image": "https://hd2.tudocdn.net/1369585?w=660",
-      "publishedAt": "2026-09-14T09:10:00+00:00",
+      "title": "George Lucas incorona il film sci-fi che ritiene migliore di Star Wars",
+      "link": "https://www.hdblog.it/curiosita/articoli/n670235/george-lucas-2001-miglior-film-fantascienza/",
+      "excerpt": "Per George Lucas il vertice della fantascienza non è Star Wars, ma 2001 di Kubrick.",
+      "image": "https://hd2.tudocdn.net/1370654?w=660",
+      "publishedAt": "2026-09-14T15:40:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Apple lavora a un controller da gioco: cosa potrebbe avere in mente",
-      "link": "https://www.tomshw.it/smartphone/apple-al-lavoro-su-controller-di-gioco-per-iphone-2026-09-14",
-      "excerpt": "Il colosso di Cupertino sembra intenzionato a entrare direttamente nel mercato degli accessori da gaming, un settore che finora aveva lasciato ad altri produttori. A confermarlo è…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113223/apple-game-controller-backbone.jpg",
-      "publishedAt": "2026-09-14T09:09:00+00:00",
+      "title": "Need for Speed Underground 2 gira su Nintendo Switch: ecco come fare",
+      "link": "https://www.tomshw.it/videogioco/need-for-speed-underground-2-gira-su-nintendo-switch-ecco-come",
+      "excerpt": "Il progetto homebrew Wine-NX porta la versione Windows di Need for Speed Underground 2 su Nintendo Switch: una dimostrazione video mostra il gioco in esecuzione direttamente sulla…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113365/need-for-speed-underground-2-gira-su-nintendo-switch-ecco-come.png",
+      "publishedAt": "2026-09-14T15:40:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Ecobonus, novità in arrivo: Governo valuta aumento della detrazione al 65%",
-      "link": "https://www.hdblog.it/home/articoli/n670251/ecobonus-65-50-efficienza-energetica-italia/",
-      "excerpt": "Si potrebbero utilizzare i 14 miliardi di euro per la transizione energetica.",
-      "image": "https://hd2.tudocdn.net/1370703?w=660",
-      "publishedAt": "2026-09-14T09:05:00+00:00",
+      "title": "L'acqua alimentava i vulcani primordiali: come arrivava in profondità?",
+      "link": "https://www.tomshw.it/scienze/lacqua-alimentava-i-vulcani-primordiali-come-arrivava-in-profondita",
+      "excerpt": "Un gruppo internazionale guidato dal geochimico Eric Vandenburg, della Adelaide University, ha individuato in antiche rocce vulcaniche australiane indizi della presenza di acqua…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113362/l-acqua-alimentava-i-vulcani-primordiali-come-arrivava-in-profondita.png",
+      "publishedAt": "2026-09-14T15:30:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Perplexity Portable Computer arriva su Windows, ma vi serve una GPU ben specifica",
+      "link": "https://www.tomshw.it/hardware/perplexity-portable-computer-arriva-su-windows-lai-locale-sfrutta-le-gpu-nvidia-rtx",
+      "excerpt": "Perplexity e NVIDIA estendono Portable Computer ai PC Windows, portando sulla piattaforma Microsoft l'agente capace di pianificare ed eseguire attività in più fasi direttamente…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113378/perplexity-portable-computer-windows-nvidia-rtx.jpg",
+      "publishedAt": "2026-09-14T15:20:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Un computer quantistico entra nel microscopio: ecco cosa cambia",
+      "link": "https://www.tomshw.it/scienze/un-microscopio-con-qubit-potrebbe-vedere-di-piu-e-danneggiare-meno",
+      "excerpt": "Un gruppo della TU Wien, insieme alle università di Vienna, Linz e Innsbruck, ha sviluppato un metodo per collegare un microscopio elettronico a un computer quantistico.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113364/un-microscopio-con-qubit-potrebbe-vedere-di-piu-e-danneggiare-meno.png",
+      "publishedAt": "2026-09-14T15:20:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "EZVIZ C6N sotto i 20€, costa poco e sorveglia tutta la stanza",
+      "link": "https://www.tomshw.it/offerte/ezviz-c6n-sotto-i-20eur-costa-poco-e-sorveglia-tutta-la-stanza",
+      "excerpt": "La telecamera Wi-Fi EZVIZ C6N costa 19,90€ su Amazon, con un listino di 29€ e il 31% di sconto. La testa motorizzata segue i movimenti e permette di controllare l’intera stanza…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113367/tomshw-offer-1197455.png",
+      "publishedAt": "2026-09-14T15:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Arrivano i gruppi di acquisto per i token, tipo Groupon ma per DeepSeek e simili",
+      "link": "https://www.tomshw.it/business/orcarouter-apre-un-gruppo-dacquisto-per-deepseek-e-per-ora-nessuno-ha-ancora-vinto-lo-sconto",
+      "excerpt": "OrcaRouter ha aggiunto alla sua piattaforma di routing multi-modello un pool di domanda per DeepSeek V4 Flash 0731: chi usa il modello attraverso il suo gateway entra…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113207/09-orcarouter-pool-deepseek.jpg",
+      "publishedAt": "2026-09-14T15:15:02+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "El Niño sarà sempre più forte: cresce il rischio di eventi estremi",
+      "link": "https://www.hdblog.it/green/articoli/n670332/el-nino-eventi-estremi-2027/",
+      "excerpt": "El Niño si rafforza nel Pacifico e aumenta il rischio di siccità, alluvioni e caldo estremo.",
+      "image": "https://hd2.tudocdn.net/1370810?w=660",
+      "publishedAt": "2026-09-14T15:15:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Amazon, torna “Un Click per la Scuola”: basta fare acquisti per aiutare il vostro istituto",
-      "link": "https://www.tomshw.it/altro/amazon-torna-un-click-per-la-scuola-basta-fare-acquisti-per-aiutare-il-vostro-istituto",
-      "excerpt": "Amazon riporta anche per l’anno scolastico 2026/2027 “Un Click per la Scuola”, l’iniziativa che permette ai clienti di sostenere concretamente gli istituti scolastici italiani...",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113220/Amazon,-torna-“Un-Click-per-la-Scuola”-basta-fare-acquisti-per-aiutare-il-vostro-istituto.png",
-      "publishedAt": "2026-09-14T09:04:00+00:00",
+      "title": "Più pellet per il Giappone: perché le foreste dell'Indonesia sono a rischio?",
+      "link": "https://www.tomshw.it/scienze/piu-pellet-per-il-giappone-a-rischio-le-foreste-dellindonesia",
+      "excerpt": "Earth Insight, Auriga Nusantara e l’alleanza dei popoli indigeni AMAN hanno collegato nuovi disboscamenti in Indonesia alle aree di approvvigionamento dell’industria del pellet e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113360/piu-pellet-per-il-giappone-a-rischio-le-foreste-dell-indonesia.png",
+      "publishedAt": "2026-09-14T15:15:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Bracci meccanici a soffitto e AI: ecco come sarà la casa robotica del futuro",
+      "link": "https://www.hdblog.it/domotica/articoli/n670327/casa-robotica-mw-ai-come-funziona-quando/",
+      "excerpt": "La prima casa verrà consegnata nel 2028.",
+      "image": "https://hd2.tudocdn.net/1370812?w=660",
+      "publishedAt": "2026-09-14T15:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "MV Agusta in crisi: cosa succede davvero alla fabbrica di Schiranna?",
+      "link": "https://www.hdmotori.it/mv-agusta-crisi-finanziaria-composizione-negoziata-2026/",
+      "excerpt": "Il marchio italiano chiarisce la situazione finanziaria dopo l'uscita da KTM: avviata la procedura di risanamento, con immatricolazioni in crescita nel 2026.",
+      "image": "https://hd2.tudocdn.net/1370818?w=660",
+      "publishedAt": "2026-09-14T15:00:25+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Mission Efficiency: il prototipo elettrico di Volkswagen dai consumi bassissimi",
+      "link": "https://images.dday.it/Z_BbU0OJXxqyR1zgYbBFr8lmCDE1xoHb73DIKJIOXRs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58736/faeb0b_mission_efficiency_thumb.jpg",
+      "excerpt": "Il prototipo è basato sulla piattaforma MEB+ e sulla meccanica della nuova ID. Polo. Aerodinamica estrema, tetto solare e peso ridotto sono alla base del progetto... Leggi tutto",
+      "image": "https://images.dday.it/Z_BbU0OJXxqyR1zgYbBFr8lmCDE1xoHb73DIKJIOXRs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58736/faeb0b_mission_efficiency_thumb.jpg",
+      "publishedAt": "2026-09-14T14:57:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Microsoft e la sicurezza dei modelli, nasce il codice di condotta: l’IA non può opporsi allo spegnimento",
+      "link": "https://images.dday.it/O3vCyk1ypA0YWLPspJX-i8ot-kSB9DX7pjTN7Ek-GGY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58735/b530b1_small_Immagine_Codex_14_set_2026__16_52_44_copia.png",
+      "excerpt": "Microsoft fissa le regole per i prossimi modelli MAI: niente resistenza allo spegnimento, inganni o linguaggi incomprensibili agli umani. Il codice guiderà lo sviluppo dal 2027...…",
+      "image": "https://images.dday.it/O3vCyk1ypA0YWLPspJX-i8ot-kSB9DX7pjTN7Ek-GGY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58735/b530b1_small_Immagine_Codex_14_set_2026__16_52_44_copia.png",
+      "publishedAt": "2026-09-14T14:55:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Testiamo 6 gadget Xiaomi per la casa, utili ed economici | Video",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n668122/accessori-xiaomi-strani-video/",
+      "excerpt": "Gadget apparentemente assurdi nascondo idee semplici ed efficaci",
+      "image": "https://hd2.tudocdn.net/1369760?w=660",
+      "publishedAt": "2026-09-14T14:31:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "iPhone 17, già in sconto dopo l'aumento di prezzo: è il best buy di Apple?",
+      "link": "https://www.hdblog.it/smartphone/offerte/n670333/iphone-17-offerta-879-euro-sett26/",
+      "excerpt": "iPhone 17 è in offerta e si conferma un best buy tra gli smartphone Apple a questo prezzo.",
+      "image": "https://hd2.tudocdn.net/1357177?w=660",
+      "publishedAt": "2026-09-14T14:30:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Galaxy S27 Ultra: Samsung esita sull'aggiunta di un nuovo teleobiettivo",
+      "link": "https://www.hdblog.it/smartphone/articoli/n670312/samsung-galaxy-s27-ultra-teleobiettivo/",
+      "excerpt": "Secondo Ice Universe, Samsung non avrebbe intenzione di cambiare il teleobiettivo.",
+      "image": "https://hd2.tudocdn.net/1365023?w=660",
+      "publishedAt": "2026-09-14T14:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Musica, lo streaming vale due terzi dei ricavi nell'UE ma gli abbonamenti sono ancora pochi",
+      "link": "https://images.dday.it/wt_dzAFIWu-6IQuMof_z7nYGuybR6T36MZJmdKafCW4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58733/72dc8f_Depositphotos_869149610_XL.jpg",
+      "excerpt": "Secondo il nuovo rapporto IFPI, nel 2025 l’UE ha rappresentato il 21,3% dei ricavi globali del settore. La penetrazione degli abbonamenti resta inferiore a Stati Uniti e Regno…",
+      "image": "https://images.dday.it/wt_dzAFIWu-6IQuMof_z7nYGuybR6T36MZJmdKafCW4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58733/72dc8f_Depositphotos_869149610_XL.jpg",
+      "publishedAt": "2026-09-14T13:11:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Samsung Gallery smetterà di sincronizzarsi con OneDrive dal 30 settembre. Cosa cambia",
+      "link": "https://images.dday.it/uhX_tJKVUhXuF2q3VSgPnJkbGZlit8BKN6b04aWyqhI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58734/192407_synccc.jpg",
+      "excerpt": "Tra due settimane si interromperà il legame tra il servizio cloud di Microsoft e l’app Galleria di Samsung: il backup potrà continuare a funzionare, ma molti potrebbero…",
+      "image": "https://images.dday.it/uhX_tJKVUhXuF2q3VSgPnJkbGZlit8BKN6b04aWyqhI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58734/192407_synccc.jpg",
+      "publishedAt": "2026-09-14T13:08:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Acqua filtrata direttamente dal rubinetto: il sistema a osmosi inversa Waterdrop è in offerta",
+      "link": "https://images.dday.it/L0AW_aWHZYOSuJeX1-DYH0oJRjSwRs72bTSHFNsP8_E/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58729/dbdb9c_717n5RnCWYL._AC_SL1500_.jpg",
+      "excerpt": "Niente serbatoio sotto il lavello, fino a 1500 litri al giorno e filtrazione a osmosi inversa. Il Waterdrop G2 è ora disponibile in offerta su Amazon... Leggi tutto",
+      "image": "https://images.dday.it/L0AW_aWHZYOSuJeX1-DYH0oJRjSwRs72bTSHFNsP8_E/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58729/dbdb9c_717n5RnCWYL._AC_SL1500_.jpg",
+      "publishedAt": "2026-09-14T13:00:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Ecobonus al 65%, il Governo ripensa agli incentivi per infissi e pompe di calore",
+      "link": "https://images.dday.it/bOu6CaNlrlHsFdZTEUwTpkb-BADXrC1p0-DchZHoUKs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58732/34cc0d_Depositphotos_684130400_XL.jpg",
+      "excerpt": "Tra le misure allo studio per la prossima legge di bilancio c'è anche un rafforzamento dell'ecobonus, la detrazione fiscale dedicata agli interventi di efficientamento energetico…",
+      "image": "https://images.dday.it/bOu6CaNlrlHsFdZTEUwTpkb-BADXrC1p0-DchZHoUKs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58732/34cc0d_Depositphotos_684130400_XL.jpg",
+      "publishedAt": "2026-09-14T10:47:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Questa cantina da vino Candy è un affare da non lasciarsi scappare: 41 bottiglie e temperatura regolabile a soli 199 euro",
+      "link": "https://images.dday.it/YKunD0qjK3Y_WGDz7i5wRTDxXwqZZZrAZFwkE2futYk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58726/6f520b_fee_786_587_png.jpg",
+      "excerpt": "Se il vino merita il suo posto, questa Candy DiVino fa al caso tuo: può contenere fino a 41 bottiglie e permette di conservarle alla temperatura desiderata. E ora è in offerta a…",
+      "image": "https://images.dday.it/YKunD0qjK3Y_WGDz7i5wRTDxXwqZZZrAZFwkE2futYk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58726/6f520b_fee_786_587_png.jpg",
+      "publishedAt": "2026-09-14T10:00:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Spionaggio, la Corea del Sud rafforza le leggi. Vuole proteggere i suoi chip e l'IA",
@@ -131,42 +257,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Fiat Grizzly e Grizzly Fastback al Salone di Torino 2026",
-      "link": "https://www.hdmotori.it/fiat-grizzly-fastback-salone-torino/",
-      "excerpt": "Le nuove Fiat Grizzly e Grizzly Fastback si sono mostrate in anteprima nel capoluogo piemontese.",
-      "image": "https://hd2.tudocdn.net/1370714?w=660",
-      "publishedAt": "2026-09-14T09:00:50+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "I connettori NVIDIA bruciano ancora, guardate questa GPU da 16.000 dollari",
-      "link": "https://www.tomshw.it/hardware/12v-26-perche-i-connettori-nvidia-continuano-a-fondere",
-      "excerpt": "Il connettore a 16 pin che alimenta le GPU più potenti degli ultimi anni continua a fondere, e l'ultimo episodio è il più difficile da liquidare come distrazione dell'utente:…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/88189/nome-NVIDIA.jpg",
-      "publishedAt": "2026-09-14T08:58:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Honor Robot Phone non è uno smartphone da spiaggia: test e teardown",
-      "link": "https://www.hdblog.it/smartphone/articoli/n670270/honor-robot-phone-test-robustezza-teardown/",
-      "excerpt": "Il sistema gimbal a 3 assi non digerisce granché bene sabbia e polvere. Ma per il resto sembra decisamente solido e ben costruito.",
-      "image": "https://hd2.tudocdn.net/1370699?w=660",
-      "publishedAt": "2026-09-14T08:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "La tosse di Arthur Morgan di Red Dead era così realistica per un motivo",
-      "link": "https://www.tomshw.it/videogioco/lattore-usava-la-vera-tosse-per-arthur-morgan-2026-09-11",
-      "excerpt": "Quando un attore prende il metodo interpretativo troppo sul serio, il risultato può diventare storia videoludica. È quello che è successo con Roger Clark, la voce e il volto…",
-      "image": "https://cdn.tomshw.it/storage/media/2024/03/15921/Red-Dead-Redemption-2.jpg",
-      "publishedAt": "2026-09-14T08:54:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "L’OLED stampato a getto di TCL CSOT ha raggiunto la maturità per la produzione su grande scala",
       "link": "https://images.dday.it/0WJCi6E9NTjL4AXy7zeiuwFP3busmzQpGuSvBw6qgdw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58725/707ee5_IMG_7403.jpg",
       "excerpt": "TCL CSOT spiega che sono stati raggiunti gli obiettivi di qualità e costo di produzione per avviare la commercializzazione su larga scala dei suoi schermi OLED prodotti con…",
@@ -176,101 +266,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Pannelli solari sott’acqua: producono energia a 10 metri di profondità",
-      "link": "https://www.hdblog.it/green/articoli/n670263/pannelli-solari-sottacqua-10-metri/",
-      "excerpt": "Celle solari in perovskite alimentano batterie e dispositivi a 10 metri sotto il mare",
-      "image": "https://hd2.tudocdn.net/1370691?w=660",
-      "publishedAt": "2026-09-14T08:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Linux 7.3, disponibile la rc3: tanti fix per XFS e SMB, Torvalds chiede nuovi test",
-      "link": "https://www.hdblog.it/linux/articoli/n670269/linux-73-rc3-disponibile-fix-torvalds-chiede-test/",
-      "excerpt": "Linux 7.3 prosegue il suo percorso di sviluppo con la pubblicazione della terza release candidate",
-      "image": "https://hd2.tudocdn.net/1256309?w=660",
-      "publishedAt": "2026-09-14T08:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "UGREEN MagFlow ad IFA 2026: la ricarica wireless magnetica che non scalda più",
       "link": "https://images.dday.it/IqOEZA1QLNXz4Uq-1PaHo7i2ccnf45UAP1dRq_o45Ps/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58595/3803c2_ape_2.jpg",
       "excerpt": "UGREEN svela ad IFA 2026 la gamma di power bank e stazioni di ricarica MagFlow Qi2 a 25W: raffreddamento attivo a liquido e TEC per dire addio al surriscaldamento, sbloccare la…",
       "image": "https://images.dday.it/IqOEZA1QLNXz4Uq-1PaHo7i2ccnf45UAP1dRq_o45Ps/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58595/3803c2_ape_2.jpg",
       "publishedAt": "2026-09-14T08:34:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "La pizzeria più piccola di New York è su una Smart (ed è un successo)",
-      "link": "https://www.hdmotori.it/pizzeria-smart/",
-      "excerpt": "Una Smart Fortwo è diventata la più piccola pizzeria di New York City. Dopo essere rimasto senza lavoro un ragazzo ha cambiato vita.",
-      "image": "https://hd2.tudocdn.net/1370696?w=660",
-      "publishedAt": "2026-09-14T08:30:58+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Geely EX5, la prova: ottimo SUV elettrico, efficiente e molto confortevole. Con qualche svista software",
-      "link": "https://images.dday.it/FrSRJLgCV_xc-T1-Sy-r5gOrZI8K-RwfmCEWXvr91XA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58721/fe842d__7R66433.jpg",
-      "excerpt": "E il modello più importante della gamma che Geely ha portato in Italia: la EX5 è un SUV elettrico di 4,61 metri che costa 41.900 euro nella versione iper-accessoriata Launch…",
-      "image": "https://images.dday.it/FrSRJLgCV_xc-T1-Sy-r5gOrZI8K-RwfmCEWXvr91XA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58721/fe842d__7R66433.jpg",
-      "publishedAt": "2026-09-14T08:23:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Friggitrice ad aria a 24,90 euro su Amazon: questa Cecotec ha anche la finestra per vedere la cottura",
-      "link": "https://images.dday.it/XO1bhnQ5A7FrKYuA2Gr7yevNe-yazdCMzlT-m9USt5I/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58720/22ef09_61mD+JcxAFL._AC_SL1000_.jpg",
-      "excerpt": "Cecofry Fantastik Window 4000 ha un cestello da 4 litri e una finestra trasparente che permette di controllare la cottura senza aprire il cestello. Su Amazon è ora disponibile a…",
-      "image": "https://images.dday.it/XO1bhnQ5A7FrKYuA2Gr7yevNe-yazdCMzlT-m9USt5I/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58720/22ef09_61mD+JcxAFL._AC_SL1000_.jpg",
-      "publishedAt": "2026-09-14T08:18:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Tesla Roadster, è la volta buona? Nuovo evento fissato per il 1° ottobre",
-      "link": "https://images.dday.it/EIVnPBGcJeSGYfGRUbTbK_oUyPcgLk9vEUVufrqRJnE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58724/3fa36a_roadster_thumb.jpg",
-      "excerpt": "Dopo nove anni di rinvii, Tesla prepara la presentazione della seconda generazione della Roadster. Resta il mistero sulla promessa di una versione capace di “volare”... Leggi tutto",
-      "image": "https://images.dday.it/EIVnPBGcJeSGYfGRUbTbK_oUyPcgLk9vEUVufrqRJnE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58724/3fa36a_roadster_thumb.jpg",
-      "publishedAt": "2026-09-14T08:15:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Revolut abbocca alla falsa richiesta governativa: esposti documenti, IBAN e transazioni Bitcoin",
-      "link": "https://images.dday.it/fFyYztmBcOWJtulCC1naNSmnLRTGf93usYzgmjvux-U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58723/fddd99_Depositphotos_623644226_XL.jpg",
-      "excerpt": "Passaporti, selfie di verifica, IBAN e cronologie delle transazioni: Revolut ha esposto dati sensibili dopo aver scambiato per autentica una richiesta fraudolenta... Leggi tutto",
-      "image": "https://images.dday.it/fFyYztmBcOWJtulCC1naNSmnLRTGf93usYzgmjvux-U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58723/fddd99_Depositphotos_623644226_XL.jpg",
-      "publishedAt": "2026-09-14T07:36:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "IA, Amodei propone una tregua sullo sviluppo ma Trump respinge ogni rallentamento: \"Chi vince guida il mondo\"",
-      "link": "https://images.dday.it/SE5qrHlWwySTT42vNcNKkFSDTI68eFrCcxhGTICs4MQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58722/17285b_ChatGPT_Image_14_set_2026__09_10_03.png",
-      "excerpt": "Il capo di Anthropic propone un piano per rallentare i modelli di frontiera, il capo di OpenAI concorda e rinvia la quotazione in borsa, ma Trump dice di andare avanti senza…",
-      "image": "https://images.dday.it/SE5qrHlWwySTT42vNcNKkFSDTI68eFrCcxhGTICs4MQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58722/17285b_ChatGPT_Image_14_set_2026__09_10_03.png",
-      "publishedAt": "2026-09-14T07:11:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Dai pavimenti alla piscina: così Roborock celebra il primo posto tra i produttori di robot e amplia il suo mondo a IFA 2026",
-      "link": "https://images.dday.it/R_8EJixKrLUeagTmI8uxWNSiLw8IM3xhD5DAPc8eaE0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58666/db2398_DSC00084.jpg",
-      "excerpt": "Dai nuovi robot Saros 20 alle lavapavimenti F25, passando per il robot per la piscina e quello per il prato: Roborock amplia il suo ecosistema per automatizzare sempre più…",
-      "image": "https://images.dday.it/R_8EJixKrLUeagTmI8uxWNSiLw8IM3xhD5DAPc8eaE0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58666/db2398_DSC00084.jpg",
-      "publishedAt": "2026-09-14T01:03:05+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Lefant M210 Pro Omni, il robot lavapavimenti che a 250 euro offre quello per cui gli altri chiedono il triplo",
-      "link": "https://images.dday.it/dcy3a4RdZBxC-Q2EbEy44p0F1bCEPDX65RKjc183sEA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58578/6f88ef_ape_lefant_2.jpg",
-      "excerpt": "Alla scoperta del nuovo Lefant M210 Pro Omni: il robot super compatto che pulisce e lava i pavimenti con acqua sempre pulita, aspira senza intoppi e semplifica la manutenzione. In…",
-      "image": "https://images.dday.it/dcy3a4RdZBxC-Q2EbEy44p0F1bCEPDX65RKjc183sEA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58578/6f88ef_ape_lefant_2.jpg",
-      "publishedAt": "2026-09-14T01:03:05+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
