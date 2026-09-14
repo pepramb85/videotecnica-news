@@ -1,15 +1,258 @@
 {
-  "generatedAt": "2026-09-14T02:42:58.958509+00:00",
+  "generatedAt": "2026-09-14T09:25:55.723752+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
+      "title": "Windows 11, nuovo semplicissimo trucco per aggirare l'obbligo di account online",
+      "link": "https://www.hdblog.it/microsoft/articoli/n670282/windows-11-bypass-account-online-metodo-semplice/",
+      "excerpt": "Basta scegliere una voce durante la prima configurazione. Facile pensare che sia un bug che Microsoft correggerà quanto prima.",
+      "image": "https://hd2.tudocdn.net/1338675?w=660",
+      "publishedAt": "2026-09-14T09:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Licenziati ma ancora più ricchi, il paradosso dell'AI fa piovere sul bagnato",
+      "link": "https://www.tomshw.it/business/licenziati-ma-ancora-piu-ricchi-il-paradosso-dellai-fa-piovere-sul-bagnato",
+      "excerpt": "Morgan Stanley ha detto venerdì 11 settembre che i lavoratori più esposti ai tagli di posti legati all'intelligenza artificiale sono anche quelli con più da guadagnarci.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113185/03-licenziati-ma-ricchi-ai.jpg",
+      "publishedAt": "2026-09-14T09:22:44+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "L'AI ci ucciderà tutti? Forse, ma intanto marketing e finanza ci stanno consumando a forza di dichiarazioni assurde",
+      "link": "https://www.tomshw.it/business/lai-ci-uccidera-tutti-forse-ma-intanto-marketing-e-finanza-ci-stanno-consumando-a-forza-di-dichiarazioni-assurde",
+      "excerpt": "L'8 settembre Jacob Coxon si è dimesso da Anthropic e ha messo su X il proprio atto d'accusa: chi costruisce l'intelligenza artificiale, ha scritto, crede davvero che potrebbe…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113208/01-ai-marketing-apocalisse.jpg",
+      "publishedAt": "2026-09-14T09:21:27+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Samsung porta gli OLED degli smartphone fino a 10.000 nit",
+      "link": "https://www.hdblog.it/smartphone/articoli/n670273/samsung-oled-smartphone-10000-nit/",
+      "excerpt": "Il nuovo OLED M16 arriva a 10.000 nit e promette consumi inferiori del 30%.",
+      "image": "https://hd2.tudocdn.net/1370710?w=660",
+      "publishedAt": "2026-09-14T09:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "OPPO Reno15 5G a 414,99€, minimo storico con 512GB e batteria da 6.500 mAh",
+      "link": "https://www.tomshw.it/offerte/oppo-reno15-5g-a-41499eur-minimo-storico-con-512gb-e-batteria-da-6500-mah",
+      "excerpt": "OPPO Reno15 5G costa 414,99€ su Amazon, anziché 534,45€, con uno sconto del 21% e 119,46€ di risparmio. È il prezzo più basso toccato finora da uno smartphone che abbina 512GB,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113222/tomshw-offer-1196983.png",
+      "publishedAt": "2026-09-14T09:19:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Motorola vuole fare un iPhone Duo migliore di Apple, ecco il piano",
+      "link": "https://www.tomshw.it/smartphone/motorola-sfida-apple-con-il-nuovo-razr-fold-wide-2026-09-14",
+      "excerpt": "Motorola vuole puntare dritto al cuore della concorrenza. Attraverso un mix di documenti trapelati e listing ufficiali del World Power Consortium, emergono i contorni di un nuovo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113224/Motorola-Razr-Fold-Wide-concept-leak-header.jpg",
+      "publishedAt": "2026-09-14T09:17:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Diablo 4 non avrà più espansioni: perché questa brutta decisione?",
+      "link": "https://www.tomshw.it/videogioco/diablo-4-niente-nuove-espansioni-in-programma-2026-09-14",
+      "excerpt": "Durante la BlizzCon di quest'anno, Blizzard ha svelato che Diablo 5 ambienterà la propria trama cento anni dopo gli eventi di Diablo 4, in un mondo ormai sopraffatto dalla…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113139/Diablo_30th_Anniversary_Key_Art.png",
+      "publishedAt": "2026-09-14T09:17:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "TIM apre i preordini Apple: i prezzi di iPhone 18 Pro, Watch e AirPods a rate",
+      "link": "https://www.hdblog.it/smartphone/articoli/n670278/iphone-18-pro-max-tim-offerte/",
+      "excerpt": "Dai nuovi iPhone 18 Pro agli Apple Watch e AirPods 5: TIM ha aperto i preordini della nuova gamma Apple con consegne dal 18 settembre e diverse formule di finanziamento fino a 36…",
+      "image": "https://hd2.tudocdn.net/1369898?w=660",
+      "publishedAt": "2026-09-14T09:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La Cina boccia il “tutto touchscreen” in auto, 19 funzioni dovranno tornare fisiche",
+      "link": "https://www.tomshw.it/automotive/cina-addio-touchscreen-per-i-comandi-essenziali-auto-2026-09-14",
+      "excerpt": "Chi guida un'auto di ultima generazione lo sa bene: quasi ogni funzione, dal climatizzatore alle frecce, è ormai racchiusa in un display centrale che promette eleganza e…",
+      "image": "https://cdn.tomshw.it/storage/media/2023/12/7398/porsche-macan-2024-lenkrad-mit-fahrmodus-schalter-instrumentendisplay-und-touchscreen.webp",
+      "publishedAt": "2026-09-14T09:13:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Ocarina of Time su Switch 2: DF conferma il FullHD a 60 fps, ma niente DLSS",
+      "link": "https://www.hdblog.it/nintendo/articoli/n670254/zelda-ocarina-of-time-switch-2-analisi-df/",
+      "excerpt": "I primi riscontri di Digital Foundry sono molto positivi",
+      "image": "https://hd2.tudocdn.net/1369585?w=660",
+      "publishedAt": "2026-09-14T09:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple lavora a un controller da gioco: cosa potrebbe avere in mente",
+      "link": "https://www.tomshw.it/smartphone/apple-al-lavoro-su-controller-di-gioco-per-iphone-2026-09-14",
+      "excerpt": "Il colosso di Cupertino sembra intenzionato a entrare direttamente nel mercato degli accessori da gaming, un settore che finora aveva lasciato ad altri produttori. A confermarlo è…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113223/apple-game-controller-backbone.jpg",
+      "publishedAt": "2026-09-14T09:09:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Ecobonus, novità in arrivo: Governo valuta aumento della detrazione al 65%",
+      "link": "https://www.hdblog.it/home/articoli/n670251/ecobonus-65-50-efficienza-energetica-italia/",
+      "excerpt": "Si potrebbero utilizzare i 14 miliardi di euro per la transizione energetica.",
+      "image": "https://hd2.tudocdn.net/1370703?w=660",
+      "publishedAt": "2026-09-14T09:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Amazon, torna “Un Click per la Scuola”: basta fare acquisti per aiutare il vostro istituto",
+      "link": "https://www.tomshw.it/altro/amazon-torna-un-click-per-la-scuola-basta-fare-acquisti-per-aiutare-il-vostro-istituto",
+      "excerpt": "Amazon riporta anche per l’anno scolastico 2026/2027 “Un Click per la Scuola”, l’iniziativa che permette ai clienti di sostenere concretamente gli istituti scolastici italiani...",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113220/Amazon,-torna-“Un-Click-per-la-Scuola”-basta-fare-acquisti-per-aiutare-il-vostro-istituto.png",
+      "publishedAt": "2026-09-14T09:04:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Spionaggio, la Corea del Sud rafforza le leggi. Vuole proteggere i suoi chip e l'IA",
+      "link": "https://images.dday.it/OcXWqyD4fCgltD352OaQ6qBOQu_ZiXfTAH56U1_-71M/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58728/bc1125_Depositphotos_357529734_XL.jpg",
+      "excerpt": "La riforma è entrata in vigore il 13 settembre e punta a colpire con pene più severe anche i casi di spionaggio industriale e tecnologico, non più soltanto quelli legati alla…",
+      "image": "https://images.dday.it/OcXWqyD4fCgltD352OaQ6qBOQu_ZiXfTAH56U1_-71M/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58728/bc1125_Depositphotos_357529734_XL.jpg",
+      "publishedAt": "2026-09-14T09:03:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Fiat Grizzly e Grizzly Fastback al Salone di Torino 2026",
+      "link": "https://www.hdmotori.it/fiat-grizzly-fastback-salone-torino/",
+      "excerpt": "Le nuove Fiat Grizzly e Grizzly Fastback si sono mostrate in anteprima nel capoluogo piemontese.",
+      "image": "https://hd2.tudocdn.net/1370714?w=660",
+      "publishedAt": "2026-09-14T09:00:50+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "I connettori NVIDIA bruciano ancora, guardate questa GPU da 16.000 dollari",
+      "link": "https://www.tomshw.it/hardware/12v-26-perche-i-connettori-nvidia-continuano-a-fondere",
+      "excerpt": "Il connettore a 16 pin che alimenta le GPU più potenti degli ultimi anni continua a fondere, e l'ultimo episodio è il più difficile da liquidare come distrazione dell'utente:…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/88189/nome-NVIDIA.jpg",
+      "publishedAt": "2026-09-14T08:58:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Honor Robot Phone non è uno smartphone da spiaggia: test e teardown",
+      "link": "https://www.hdblog.it/smartphone/articoli/n670270/honor-robot-phone-test-robustezza-teardown/",
+      "excerpt": "Il sistema gimbal a 3 assi non digerisce granché bene sabbia e polvere. Ma per il resto sembra decisamente solido e ben costruito.",
+      "image": "https://hd2.tudocdn.net/1370699?w=660",
+      "publishedAt": "2026-09-14T08:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La tosse di Arthur Morgan di Red Dead era così realistica per un motivo",
+      "link": "https://www.tomshw.it/videogioco/lattore-usava-la-vera-tosse-per-arthur-morgan-2026-09-11",
+      "excerpt": "Quando un attore prende il metodo interpretativo troppo sul serio, il risultato può diventare storia videoludica. È quello che è successo con Roger Clark, la voce e il volto…",
+      "image": "https://cdn.tomshw.it/storage/media/2024/03/15921/Red-Dead-Redemption-2.jpg",
+      "publishedAt": "2026-09-14T08:54:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "L’OLED stampato a getto di TCL CSOT ha raggiunto la maturità per la produzione su grande scala",
+      "link": "https://images.dday.it/0WJCi6E9NTjL4AXy7zeiuwFP3busmzQpGuSvBw6qgdw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58725/707ee5_IMG_7403.jpg",
+      "excerpt": "TCL CSOT spiega che sono stati raggiunti gli obiettivi di qualità e costo di produzione per avviare la commercializzazione su larga scala dei suoi schermi OLED prodotti con…",
+      "image": "https://images.dday.it/0WJCi6E9NTjL4AXy7zeiuwFP3busmzQpGuSvBw6qgdw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58725/707ee5_IMG_7403.jpg",
+      "publishedAt": "2026-09-14T08:52:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Pannelli solari sott’acqua: producono energia a 10 metri di profondità",
+      "link": "https://www.hdblog.it/green/articoli/n670263/pannelli-solari-sottacqua-10-metri/",
+      "excerpt": "Celle solari in perovskite alimentano batterie e dispositivi a 10 metri sotto il mare",
+      "image": "https://hd2.tudocdn.net/1370691?w=660",
+      "publishedAt": "2026-09-14T08:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Linux 7.3, disponibile la rc3: tanti fix per XFS e SMB, Torvalds chiede nuovi test",
+      "link": "https://www.hdblog.it/linux/articoli/n670269/linux-73-rc3-disponibile-fix-torvalds-chiede-test/",
+      "excerpt": "Linux 7.3 prosegue il suo percorso di sviluppo con la pubblicazione della terza release candidate",
+      "image": "https://hd2.tudocdn.net/1256309?w=660",
+      "publishedAt": "2026-09-14T08:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
       "title": "UGREEN MagFlow ad IFA 2026: la ricarica wireless magnetica che non scalda più",
       "link": "https://images.dday.it/IqOEZA1QLNXz4Uq-1PaHo7i2ccnf45UAP1dRq_o45Ps/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58595/3803c2_ape_2.jpg",
       "excerpt": "UGREEN svela ad IFA 2026 la gamma di power bank e stazioni di ricarica MagFlow Qi2 a 25W: raffreddamento attivo a liquido e TEC per dire addio al surriscaldamento, sbloccare la…",
       "image": "https://images.dday.it/IqOEZA1QLNXz4Uq-1PaHo7i2ccnf45UAP1dRq_o45Ps/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58595/3803c2_ape_2.jpg",
-      "publishedAt": "2026-09-14T01:03:05+00:00",
+      "publishedAt": "2026-09-14T08:34:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "La pizzeria più piccola di New York è su una Smart (ed è un successo)",
+      "link": "https://www.hdmotori.it/pizzeria-smart/",
+      "excerpt": "Una Smart Fortwo è diventata la più piccola pizzeria di New York City. Dopo essere rimasto senza lavoro un ragazzo ha cambiato vita.",
+      "image": "https://hd2.tudocdn.net/1370696?w=660",
+      "publishedAt": "2026-09-14T08:30:58+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Geely EX5, la prova: ottimo SUV elettrico, efficiente e molto confortevole. Con qualche svista software",
+      "link": "https://images.dday.it/FrSRJLgCV_xc-T1-Sy-r5gOrZI8K-RwfmCEWXvr91XA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58721/fe842d__7R66433.jpg",
+      "excerpt": "E il modello più importante della gamma che Geely ha portato in Italia: la EX5 è un SUV elettrico di 4,61 metri che costa 41.900 euro nella versione iper-accessoriata Launch…",
+      "image": "https://images.dday.it/FrSRJLgCV_xc-T1-Sy-r5gOrZI8K-RwfmCEWXvr91XA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58721/fe842d__7R66433.jpg",
+      "publishedAt": "2026-09-14T08:23:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Friggitrice ad aria a 24,90 euro su Amazon: questa Cecotec ha anche la finestra per vedere la cottura",
+      "link": "https://images.dday.it/XO1bhnQ5A7FrKYuA2Gr7yevNe-yazdCMzlT-m9USt5I/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58720/22ef09_61mD+JcxAFL._AC_SL1000_.jpg",
+      "excerpt": "Cecofry Fantastik Window 4000 ha un cestello da 4 litri e una finestra trasparente che permette di controllare la cottura senza aprire il cestello. Su Amazon è ora disponibile a…",
+      "image": "https://images.dday.it/XO1bhnQ5A7FrKYuA2Gr7yevNe-yazdCMzlT-m9USt5I/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58720/22ef09_61mD+JcxAFL._AC_SL1000_.jpg",
+      "publishedAt": "2026-09-14T08:18:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Tesla Roadster, è la volta buona? Nuovo evento fissato per il 1° ottobre",
+      "link": "https://images.dday.it/EIVnPBGcJeSGYfGRUbTbK_oUyPcgLk9vEUVufrqRJnE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58724/3fa36a_roadster_thumb.jpg",
+      "excerpt": "Dopo nove anni di rinvii, Tesla prepara la presentazione della seconda generazione della Roadster. Resta il mistero sulla promessa di una versione capace di “volare”... Leggi tutto",
+      "image": "https://images.dday.it/EIVnPBGcJeSGYfGRUbTbK_oUyPcgLk9vEUVufrqRJnE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58724/3fa36a_roadster_thumb.jpg",
+      "publishedAt": "2026-09-14T08:15:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Revolut abbocca alla falsa richiesta governativa: esposti documenti, IBAN e transazioni Bitcoin",
+      "link": "https://images.dday.it/fFyYztmBcOWJtulCC1naNSmnLRTGf93usYzgmjvux-U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58723/fddd99_Depositphotos_623644226_XL.jpg",
+      "excerpt": "Passaporti, selfie di verifica, IBAN e cronologie delle transazioni: Revolut ha esposto dati sensibili dopo aver scambiato per autentica una richiesta fraudolenta... Leggi tutto",
+      "image": "https://images.dday.it/fFyYztmBcOWJtulCC1naNSmnLRTGf93usYzgmjvux-U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58723/fddd99_Depositphotos_623644226_XL.jpg",
+      "publishedAt": "2026-09-14T07:36:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "IA, Amodei propone una tregua sullo sviluppo ma Trump respinge ogni rallentamento: \"Chi vince guida il mondo\"",
+      "link": "https://images.dday.it/SE5qrHlWwySTT42vNcNKkFSDTI68eFrCcxhGTICs4MQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58722/17285b_ChatGPT_Image_14_set_2026__09_10_03.png",
+      "excerpt": "Il capo di Anthropic propone un piano per rallentare i modelli di frontiera, il capo di OpenAI concorda e rinvia la quotazione in borsa, ma Trump dice di andare avanti senza…",
+      "image": "https://images.dday.it/SE5qrHlWwySTT42vNcNKkFSDTI68eFrCcxhGTICs4MQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58722/17285b_ChatGPT_Image_14_set_2026__09_10_03.png",
+      "publishedAt": "2026-09-14T07:11:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     },
@@ -28,249 +271,6 @@
       "excerpt": "Alla scoperta del nuovo Lefant M210 Pro Omni: il robot super compatto che pulisce e lava i pavimenti con acqua sempre pulita, aspira senza intoppi e semplifica la manutenzione. In…",
       "image": "https://images.dday.it/dcy3a4RdZBxC-Q2EbEy44p0F1bCEPDX65RKjc183sEA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58578/6f88ef_ape_lefant_2.jpg",
       "publishedAt": "2026-09-14T01:03:05+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Anycubic Kobra X a 319,99€ stampa in quattro colori fino a 600 mm/s",
-      "link": "https://www.tomshw.it/offerte/anycubic-kobra-x-a-31999eur-stampa-in-quattro-colori-fino-a-600-mms",
-      "excerpt": "Anycubic Kobra X costa 319,99€ su Amazon, anziché 339,99€, con il 6% di sconto e 20€ di risparmio. Il sistema ACE GEN 2 stampa nativamente in quattro colori, una caratteristica…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113169/tomshw-offer-1184805.png",
-      "publishedAt": "2026-09-13T19:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Samsung Galaxy Z Fold8 Ultra a 1.799€, minimo storico per il multitasking",
-      "link": "https://www.tomshw.it/offerte/samsung-galaxy-z-fold8-ultra-a-1799eur-minimo-storico-per-il-multitasking",
-      "excerpt": "Samsung Galaxy Z Fold8 Ultra 256GB costa 1.799€ su Amazon: parte da un listino di 2.299€ e beneficia di uno sconto del 22%, pari a 500€. Con lo schermo pieghevole, il multitasking…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113168/tomshw-offer-1184792.png",
-      "publishedAt": "2026-09-13T18:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Bambu Lab P2S Combo a 948€ gestisce più colori e controlla gli errori",
-      "link": "https://www.tomshw.it/offerte/bambu-lab-p2s-combo-a-948eur-gestisce-piu-colori-e-controlla-gli-errori",
-      "excerpt": "Bambu Lab P2S Combo costa 948€ su Amazon: nel pacchetto è compreso AMS 2 Pro, il sistema che gestisce colori e materiali durante la stampa. Calibrazione attiva, controllo AI e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113167/tomshw-offer-1184774.png",
-      "publishedAt": "2026-09-13T17:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "De'Longhi Capsule Desk a soli 39,90€, mani calde mentre lavori o studi",
-      "link": "https://www.tomshw.it/offerte/delonghi-capsule-desk-a-soli-3990eur-mani-calde-mentre-lavori-o-studi",
-      "excerpt": "De'Longhi Capsule Desk costa 39,90€ su Amazon anziché 64,99€, con uno sconto del 39%. Il formato da 10 x 15 cm porta calore ravvicinato a mani, gambe o piedi senza ingombrare la…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113166/tomshw-offer-1184761.png",
-      "publishedAt": "2026-09-13T17:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Meglio comprare iPhone 17 ora o aspettare iPhone 18?",
-      "link": "https://www.tomshw.it/smartphone/meglio-comprare-iphone-17-ora-o-aspettare-iphone-18",
-      "excerpt": "iPhone 17 è acquistabile nuovo in Italia nella fascia indicativa di 800–900 euro per 256 GB, mentre iPhone 18 base è atteso nella primavera 2027 secondo indiscrezioni non…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112240/meglio-comprare-iphone-17-ora-o-aspettare-iphone-18.png",
-      "publishedAt": "2026-09-13T17:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Quando esce State of Decay 3? Data e cosa sappiamo",
-      "link": "https://www.tomshw.it/videogioco/quando-esce-state-of-decay-3-data-e-cosa-sappiamo",
-      "excerpt": "State of Decay 3 è previsto per il 2027: questa è la finestra ufficiale, mentre giorno e mese non sono ancora stati annunciati. Al 7 settembre 2026, il survival di Undead Labs ha…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112236/cover.jpg",
-      "publishedAt": "2026-09-13T17:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Anker Prime da 199,99€ a 169,99€, 300W per notebook e smartphone",
-      "link": "https://www.tomshw.it/offerte/anker-prime-da-19999eur-a-16999eur-300w-per-notebook-e-smartphone",
-      "excerpt": "Anker Prime Power Bank da 26.250 mAh costa 169,99€ su Amazon, invece dei 199,99€ di listino, con uno sconto del 15%. I 300W complessivi consentono di alimentare contemporaneamente…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113164/tomshw-offer-1184746.png",
-      "publishedAt": "2026-09-13T16:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Logitech G PRO X 60 a 109,99€, più spazio al mouse per gli FPS competitivi",
-      "link": "https://www.tomshw.it/offerte/logitech-g-pro-x-60-a-10999eur-piu-spazio-al-mouse-per-gli-fps-competitivi",
-      "excerpt": "Logitech G PRO X 60 costa 109,99€ su Amazon anziché 169,99€, con uno sconto del 35% e 60€ lasciati nel portafoglio. Il formato compatto libera l’area necessaria per muovere il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113163/tomshw-offer-1184684.png",
-      "publishedAt": "2026-09-13T15:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Dreame Z30 a 303,73€ con 310 AW contro peli e polvere, ne vale la spesa",
-      "link": "https://www.tomshw.it/offerte/dreame-z30-a-30373eur-con-310-aw-contro-peli-e-polvere-ne-vale-la-spesa",
-      "excerpt": "Dreame Z30 costa 303,73€ su Amazon, contro i 359€ di listino e con il 15% di sconto. La combinazione di aspirazione da 310 AW, autonomia prolungata e accessori per i peli punta…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113162/tomshw-offer-1184675.png",
-      "publishedAt": "2026-09-13T14:49:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Redmi Watch 6 in offerta su Amazon: tanta qualità a un prezzo accessibile",
-      "link": "https://www.hdblog.it/indossabili/offerte/n670218/redmi-watch-6-offerta-amazon-sett26/",
-      "excerpt": "Lo Xiaomi Redmi Watch 6 è in offerta su Amazon e ora costa 85,99 euro: si tratta di un best buy tra gli smartwatch.",
-      "image": "https://hd2.tudocdn.net/1340673?w=660",
-      "publishedAt": "2026-09-13T14:30:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "TP-Link Tapo C200 a 22,79€ controlla tutta la stanza dal telefono",
-      "link": "https://www.tomshw.it/offerte/tp-link-tapo-c200-a-2279eur-controlla-tutta-la-stanza-dal-telefono",
-      "excerpt": "La TP-Link Tapo C200 costa 22,79€ su Amazon, anziché 29,99€, grazie a uno sconto del 24%. Video Full HD, visuale panoramica e notifiche sul telefono permettono di sorvegliare…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113161/tomshw-offer-1184652.png",
-      "publishedAt": "2026-09-13T14:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Galaxy S27, Samsung prepara un salto in avanti per gli schermi OLED",
-      "link": "https://www.hdblog.it/smartphone/articoli/n670214/samsung-galaxy-s27-schermo-oledm16-m14-novita/",
-      "excerpt": "Miglioramenti a tutto tondo.",
-      "image": "https://hd2.tudocdn.net/1341485?w=660",
-      "publishedAt": "2026-09-13T13:06:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Router Wi-Fi: un riavvio periodico può migliorare le performance",
-      "link": "https://www.hdblog.it/hardware/articoli/n670106/router-riavvio-periodico-migliora-performance/",
-      "excerpt": "Quali sono i benefici nel riavviare il dispositivo.",
-      "image": "https://hd2.tudocdn.net/1370422?w=660",
-      "publishedAt": "2026-09-13T09:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il vibe coding sta cambiando il modo di programmare: quali sono i rischi",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n670066/vibe-coding-quali-sono-i-rischi/",
-      "excerpt": "Le criticità sollevate dagli sviluppatori esperti.",
-      "image": "https://hd2.tudocdn.net/1370297?w=660",
-      "publishedAt": "2026-09-13T08:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Xiaomi 17T Pro, veloce, completo e ora con un ottimo prezzo: è l'alternativa ai top di gamma",
-      "link": "https://www.hdblog.it/smartphone/offerte/n670212/xiaomi-17t-pro-offerta-settembre-2026/",
-      "excerpt": "Lo Xiaomi 17T Pro è in offerta ed è ora disponibile in sconto con un prezzo ottimo, diventando l'alternativa giusta ai top di gamma.",
-      "image": "https://hd2.tudocdn.net/1345956?w=660",
-      "publishedAt": "2026-09-13T08:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Cavi USB-C a confronto: cosa incide sulla ricarica veloce dei dispositivi",
-      "link": "https://www.hdblog.it/smartphone/articoli/n669990/cavo-usb-c-confronto-per-ricarica-veloce/",
-      "excerpt": "Quali sono le reali differenze tra i cavi in commercio.",
-      "image": "https://hd2.tudocdn.net/1370104?w=660",
-      "publishedAt": "2026-09-13T07:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Apple TV porta sul K2 la sfida che ha cambiato l’alpinismo",
-      "link": "https://www.hdblog.it/apple/articoli/n670208/apple-tv-the-last-first-winter-k2/",
-      "excerpt": "Il K2 diventa il teatro di una storia di rischio, denaro e potere nell’alpinismo moderno",
-      "image": "https://hd2.tudocdn.net/1370590?w=660",
-      "publishedAt": "2026-09-13T07:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "L'AI va fermata prima che sia tropo tardi: il piano di Anthropic",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n670209/rallentare-sviluppo-ai-piano-amodei/",
-      "excerpt": "Il CEO di Anthropic propone tre livelli di controllo per rallentare lo sviluppo dell’AI.",
-      "image": "https://hd2.tudocdn.net/1370587?w=660",
-      "publishedAt": "2026-09-13T06:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Motorola Moto G77, la versione da 256 GB in offerta a meno di 220€ su eBay",
-      "link": "https://www.hdblog.it/smartphone/offerte/n670206/motorola-moto-g77-la-versione-da-256-gb-in-offerta-a-meno-di-220-su-ebay/",
-      "excerpt": "Equilibrio generale e rapporto qualità-prezzo al top.",
-      "image": "https://hd2.tudocdn.net/1340731?w=660",
-      "publishedAt": "2026-09-13T05:02:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung Galaxy S26 Ultra a meno di 900€: è lui il flagship da scegliere oggi?",
-      "link": "https://www.hdblog.it/smartphone/offerte/n670203/samsung-gaaxy-s26-ultra-offerta-settebre26/",
-      "excerpt": "Il Samsung Galaxy S26 Ultra è in offerta ed è sempre uno dei best buy più interessanti nella fascia alta del mercato.",
-      "image": "https://hd2.tudocdn.net/1361509?w=660",
-      "publishedAt": "2026-09-12T14:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Tineco a IFA 2026. La lavapavimenti a vapore e acqua calda. E l'aspirapolvere che si svuota senza contaminazione",
-      "link": "https://images.dday.it/-PFnBH__gZB3SDQUMtv0ZILf2KXkXaE3SCwmzTBh3NI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58668/d6cffc_IT-Opening-Day2.jpg",
-      "excerpt": "Il produttore numero uno di lavapavimenti rinnova il suo top di gamma: FLOOR ONE S11 Artist Fusion Steam unisce la comodità dell'acqua calda con la potenza del calore. E…",
-      "image": "https://images.dday.it/-PFnBH__gZB3SDQUMtv0ZILf2KXkXaE3SCwmzTBh3NI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58668/d6cffc_IT-Opening-Day2.jpg",
-      "publishedAt": "2026-09-12T01:03:05+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "AirTag in offerta: torna al prezzo di basso",
-      "link": "https://images.dday.it/zqBn8MLagI4aS7efzOOafGVQgPkGAFAwFqobhFNc9_Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/55578/d5e4fc_ape2.jpg",
-      "excerpt": "Non perdere l’occasione: il tracker più smart per ritrovare subito chiavi, borse e altri oggetti personali, ora scontato al massimo su Amazon ... Leggi tutto",
-      "image": "https://images.dday.it/zqBn8MLagI4aS7efzOOafGVQgPkGAFAwFqobhFNc9_Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/55578/d5e4fc_ape2.jpg",
-      "publishedAt": "2026-09-11T15:51:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Registro elettronico: SPID e CIE obbligatori per legge. Milioni di studenti e genitori rischiano di non poter entrare",
-      "link": "https://images.dday.it/UrzFXhoJiPg1xaRuu2Y3Ex2Qk5DYpZo4pvKXgQxK41g/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58719/3261e0_spidcie.jpg",
-      "excerpt": "Dall’inizio dello scorso anno per legge l’accesso ai registri elettronici delle scuole dovrebbe essere fatto mediante CIE o SPID. Quasi nessuna scuola si è adeguata, ora il tempo…",
-      "image": "https://images.dday.it/UrzFXhoJiPg1xaRuu2Y3Ex2Qk5DYpZo4pvKXgQxK41g/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58719/3261e0_spidcie.jpg",
-      "publishedAt": "2026-09-11T14:59:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Astra succhia troppi calcoli dai data center: OpenAI sospende il piano da 200 dollari al mese",
-      "link": "https://images.dday.it/cnfptvXPFckcj6AEDqo2-ccBEO-wXjbtIxXXDemzr8c/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58717/2bc054_small_Immagine_Codex_11_set_2026__16_50_48_copia.png",
-      "excerpt": "Astra mette sotto pressione l’infrastruttura di OpenAI. Per contenere il carico sui data center, l’azienda ha bloccato temporaneamente le nuove sottoscrizioni al piano Pro più…",
-      "image": "https://images.dday.it/cnfptvXPFckcj6AEDqo2-ccBEO-wXjbtIxXXDemzr8c/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58717/2bc054_small_Immagine_Codex_11_set_2026__16_50_48_copia.png",
-      "publishedAt": "2026-09-11T14:52:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Riforma del cinema: salta l'osservatorio IA, più generico il sostegno ai videogiochi. Pirateria? Una delega generale",
-      "link": "https://images.dday.it/6nWgXbz9jLbacjMYQgqeQPn7eLhE5EUchPvStVQMLh4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58716/2a3efa_Immagine_Codex_11_set_2026__16_20_52.png",
-      "excerpt": "Il testo approvato dalla Camera ridimensiona alcune misure previste in Commissione. Niente osservatorio IA, meno indicazioni sui crediti d’imposta ai videogiochi e nessun…",
-      "image": "https://images.dday.it/6nWgXbz9jLbacjMYQgqeQPn7eLhE5EUchPvStVQMLh4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58716/2a3efa_Immagine_Codex_11_set_2026__16_20_52.png",
-      "publishedAt": "2026-09-11T14:22:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Toyota e Iveco insieme sui camion a idrogeno: oltre 900 km di autonomia per il nuovo S-eWay Fuel Cell",
-      "link": "https://images.dday.it/Asn9sXacd4K7gajbQ1AwVjWPQww3bFuTMdPwh0nyIHg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58715/fcf122_iveco_thumb.jpg",
-      "excerpt": "Toyota fornirà a Iveco i sistemi a celle a combustibile di nuova generazione. I primi test inizieranno entro fine anno, con le prove su strada previste nel 2027... Leggi tutto",
-      "image": "https://images.dday.it/Asn9sXacd4K7gajbQ1AwVjWPQww3bFuTMdPwh0nyIHg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58715/fcf122_iveco_thumb.jpg",
-      "publishedAt": "2026-09-11T13:53:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Hisense risveglia a IFA 2026 i videoproiettori: dal P1 al C3 Ultra Max, tutti i modelli. Ora la gamma è completa",
-      "link": "https://images.dday.it/bPDiiG7OSGUNgnFc5qplkfmYQivpU3gRI53y7KUpZ44/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58711/c8a168_DSC00488_2.jpg",
-      "excerpt": "Hisense, dopo i primi lanci delle ultime due stagioni, ci prende gusto sui proiettori smart \"mobili\" (ma utilizzabili anche come fissi): alla fiera di Berlino arriva una gamma…",
-      "image": "https://images.dday.it/bPDiiG7OSGUNgnFc5qplkfmYQivpU3gRI53y7KUpZ44/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58711/c8a168_DSC00488_2.jpg",
-      "publishedAt": "2026-09-11T13:03:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
