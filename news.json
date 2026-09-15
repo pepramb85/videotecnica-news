@@ -1,9 +1,63 @@
 {
-  "generatedAt": "2026-09-15T17:51:03.891799+00:00",
+  "generatedAt": "2026-09-15T20:42:23.929864+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Logitech G915 X LIGHTSPEED a 163,71€, passa da gioco a lavoro con un tasto",
+      "link": "https://www.tomshw.it/offerte/logitech-g915-x-lightspeed-a-16371eur-passa-da-gioco-a-lavoro-con-un-tasto",
+      "excerpt": "Logitech G915 X LIGHTSPEED costa 163,71€ su Amazon, con il 29% di sconto sul prezzo di listino di 229,99€ e un risparmio di 66,28€. Il formato meccanico a profilo ribassato unisce…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113638/tomshw-offer-1210403.png",
+      "publishedAt": "2026-09-15T20:19:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Ho provato Honor Pad 20 Pro, tuttofare con display e audio ottimi",
+      "link": "https://www.hdblog.it/android/recensioni/n667841/ho-provato-honor-pad-20-pro-tuttofare-con-display-e-audio-ottimi/",
+      "excerpt": "Abbiamo provato il nuovo HONOR Pad 20 Pro, ecco cosa ci è piaciuto del tablet android di fascia media.",
+      "image": "https://hd2.tudocdn.net/1364098?w=660",
+      "publishedAt": "2026-09-15T19:00:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "ENGWE ENGINE PRO 3.0 BOOST sotto i 1.700€, fino a 130 km tra città e sterrato",
+      "link": "https://www.tomshw.it/offerte/engwe-engine-pro-30-boost-sotto-i-1700eur-fino-a-130-km-tra-citta-e-sterrato",
+      "excerpt": "ENGWE ENGINE PRO 3.0 BOOST costa 1.699€ su Amazon e combina telaio pieghevole, batteria da 48 V 15 Ah e autonomia dichiarata fino a 130 km. È pensata per coprire tragitti lunghi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113636/tomshw-offer-1210379.png",
+      "publishedAt": "2026-09-15T18:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Minecraft Legacy gira su PS2 con soli 32 MB di RAM: come ci riesce?",
+      "link": "https://www.tomshw.it/videogioco/minecraft-legacy-gira-su-ps2-con-soli-32-mb-di-ram-ecco-come",
+      "excerpt": "OptiProjects ha annunciato un port non ufficiale di Minecraft Legacy per PlayStation 2 e Nintendo Wii, già provato anche sulle console originali. Il progetto porta il gioco su due…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113615/minecraft-legacy-gira-su-ps2-con-soli-32-mb-di-ram-ecco-come.png",
+      "publishedAt": "2026-09-15T18:45:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Bosch Spotless+ sotto i 350€, aspira a 11.000 Pa e si svuota da solo",
+      "link": "https://www.tomshw.it/offerte/bosch-spotless-sotto-i-350eur-aspira-a-11000-pa-e-si-svuota-da-solo",
+      "excerpt": "Bosch Spotless+ BCRD1W costa 349,99€ su Amazon, anziché 429€, con uno sconto del 18%. Aspirazione da 11.000 Pa, funzione antigroviglio e stazione autosvuotante puntano a ridurre…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113635/tomshw-offer-1210355.png",
+      "publishedAt": "2026-09-15T18:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Promiseware, o la sottile arte di vendere hardware che non esiste",
+      "link": "https://www.tomshw.it/business/promiseware-o-la-sottile-arte-di-vendere-hardware-che-non-esiste",
+      "excerpt": "Un produttore annuncia un'architettura di calcolo le cui prestazioni dipendono da un firmware ancora in roadmap, un distributore apre i pre-ordini su una linea di notebook non…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113610/promiseware-hardware-b2b.jpg",
+      "publishedAt": "2026-09-15T18:08:16+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "Philips Sonicare Serie 3100 a 39,97€, mai costato così poco",
       "link": "https://www.tomshw.it/offerte/philips-sonicare-serie-3100-a-3997eur-mai-costato-cosi-poco",
@@ -129,60 +183,6 @@
       "publishedAt": "2026-09-15T16:45:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Cina-USA, la nuova guerra fredda si combatte sui chip per l’AI",
-      "link": "https://www.hdblog.it/hardware/articoli/n670408/cina-usa-guerra-chip-intelligenza-artificiale/",
-      "excerpt": "Pechino respinge le richieste di limitare chip e sviluppo dell’AI cinese.",
-      "image": "https://hd2.tudocdn.net/1370963?w=660",
-      "publishedAt": "2026-09-15T16:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Lagarde: dobbiamo diventare una potenza AI, o resteremo ostaggi degli altri",
-      "link": "https://www.tomshw.it/business/lagarde-dobbiamo-diventare-una-potenza-ai-o-resteremo-ostaggi-degli-altri",
-      "excerpt": "La presidente della Banca centrale europea Christine Lagarde ha detto lunedì 14 settembre, in un discorso a Vienna, che l'Europa rischia di ritrovarsi senza vera libertà di scelta…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113552/05-lagarde-potenza-ai-ostaggi.jpg",
-      "publishedAt": "2026-09-15T16:39:43+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "18 giorni e chiamate al polso, Xiaomi Redmi Watch 5 Lite costa 45,90€",
-      "link": "https://www.tomshw.it/offerte/18-giorni-e-chiamate-al-polso-xiaomi-redmi-watch-5-lite-costa-4590eur",
-      "excerpt": "Xiaomi Redmi Watch 5 Lite costa 45,90€ su Amazon, invece di 52,99€, con uno sconto del 13%. Display AMOLED ampio, GNSS integrato e autonomia fino a 18 giorni lo rendono adatto a…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113630/tomshw-offer-1210283.png",
-      "publishedAt": "2026-09-15T16:19:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Trust Trezo a 29,90€, tastiera e mouse silenziosi per lavorare senza rumore",
-      "link": "https://www.tomshw.it/offerte/trust-trezo-a-2990eur-tastiera-e-mouse-silenziosi-per-lavorare-senza-rumore",
-      "excerpt": "Trust Trezo costa 29,90€ su Amazon, anziché 39,99€, con uno sconto del 25%. Tasti morbidi, clic discreti e una lunga autonomia lo rendono particolarmente interessante nelle…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113629/tomshw-offer-1210268.png",
-      "publishedAt": "2026-09-15T15:50:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Altri licenziamenti per pagare l'AI, di nuovo in casa Oracle",
-      "link": "https://www.tomshw.it/business/altri-licenziamenti-per-pagare-lai-di-nuovo-in-casa-oracle",
-      "excerpt": "Oracle ha avviato il 14 settembre un nuovo giro di licenziamenti, comunicato ai dipendenti coinvolti via email nella stessa mattinata. L'azienda non ha reso pubblico il numero di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113551/04-altri-licenziamenti-pagare-ai-oracle.jpg",
-      "publishedAt": "2026-09-15T15:31:33+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Levigatrice BLACK+DECKER a 39,60€, ne vale la pena per rinnovare i mobili",
-      "link": "https://www.tomshw.it/offerte/levigatrice-blackdecker-a-3960eur-ne-vale-la-pena-per-rinnovare-i-mobili",
-      "excerpt": "La levigatrice roto orbitale BLACK+DECKER BEW210-QS costa 39,60€ su Amazon, invece di 44,95€, con uno sconto del 10%. Il motore da 230 W e la possibilità di lavorare superfici…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113626/tomshw-offer-1210246.png",
-      "publishedAt": "2026-09-15T15:19:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "100 km di autonomia, ruote fat e spazio per due persone: questa bici elettrica ha tutto quello che serve ed è pure in offerta",
