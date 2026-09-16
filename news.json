@@ -1,9 +1,216 @@
 {
-  "generatedAt": "2026-09-16T02:40:50.022251+00:00",
+  "generatedAt": "2026-09-16T08:58:14.069192+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Evento Microsoft il 7 ottobre, cosa ci sarà?",
+      "link": "https://www.tomshw.it/hardware/evento-microsoft-il-7-ottobre-cosa-ci-sara",
+      "excerpt": "Microsoft ha fissato per il 7 ottobre a San Francisco il suo primo evento dedicato a Windows e Surface dopo oltre due anni di silenzio, con inizio alle 10 del mattino in…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113685/il-nuovo-windows-svelato-il-7-ottobre-cosa-ci-sara.png",
+      "publishedAt": "2026-09-16T08:56:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Google prepara Android ai Googlebook: novità nell'ultimo Play Services",
+      "link": "https://www.hdblog.it/google/articoli/n670568/googlebook-preparativi-android-17-play-service/",
+      "excerpt": "L'ultimo aggiornamento dei Play Service su Android 17 porta in dote un nuovo Continue Activity Hub.",
+      "image": "https://hd2.tudocdn.net/1360274?w=660",
+      "publishedAt": "2026-09-16T08:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Pulizia smart e refrigerio portatile: le offerte AliExpress su robot aspirapolvere e ventilatori",
+      "link": "https://www.tomshw.it/altro/pulizia-smart-e-refrigerio-portatile-le-offerte-aliexpress-su-robot-aspirapolvere-e-ventilatori",
+      "excerpt": "Tra le categorie più interessanti della promozione autunnale di AliExpress per chi vuole semplificarsi la vita in casa ci sono senza dubbio i robot aspirapolvere e lavapavimenti,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113703/Pulizia-smart-e-refrigerio-portatile-le-offerte-AliExpress-su-robot-aspirapolvere-e-ventilatori.jpg",
+      "publishedAt": "2026-09-16T08:53:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "SwitchBot AI MindClip a 119,99€, 20 ore per non perdere una decisione",
+      "link": "https://www.tomshw.it/offerte/switchbot-ai-mindclip-a-11999eur-20-ore-per-non-perdere-una-decisione",
+      "excerpt": "SwitchBot AI MindClip costa 119,99€ su Amazon: un registratore vocale AI da 16,8 grammi che trasforma le conversazioni in riepiloghi, attività e promemoria. L’obiettivo è evitare…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113700/tomshw-offer-1228604.png",
+      "publishedAt": "2026-09-16T08:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "L'aggiornamento di settembre dei Pixel è qui, ecco le novità",
+      "link": "https://www.tomshw.it/smartphone/laggiornamento-di-settembre-dei-pixel-e-qui-ecco-le-novita",
+      "excerpt": "Google ha avviato la distribuzione dell'aggiornamento di settembre per la gamma Pixel, il primo costruito sulla versione stabile di Android 17 QPR1 dopo mesi di test nel canale…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113695/l-aggiornamento-di-settembre-dei-pixel-e-qui-ecco-le-novita.png",
+      "publishedAt": "2026-09-16T08:46:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Pompe di calore per condomini: il nuovo progetto LG con tecnologia Power-to-Heat",
+      "link": "https://www.hdblog.it/home/articoli/n670553/lg-pompa-calore-power-to-heat-condominio/",
+      "excerpt": "Il progetto in Corea del Sud.",
+      "image": "https://hd2.tudocdn.net/1371384?w=660",
+      "publishedAt": "2026-09-16T08:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Gemini ora aiuta anche in casa, dalla spesa alle riparazioni",
+      "link": "https://www.hdblog.it/google/articoli/n670550/gemini-ai-faccende-domestiche/",
+      "excerpt": "Gemini viene usato soprattutto fuori dal lavoro, anche per gestire le faccende di casa.",
+      "image": "https://hd2.tudocdn.net/1371380?w=660",
+      "publishedAt": "2026-09-16T08:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Questa stazione da 1800 W si ricarica anche con il sole. E ora è in offerta",
+      "link": "https://images.dday.it/LCrSHl5K24rQiina4ZiE46NT3CKkklMM1nc0BaKeUso/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58758/f997d6_ape2.jpg",
+      "excerpt": "1800 W di potenza, 1024 Wh di capacità e un pannello solare pieghevole da 200 W incluso: Aferiy P180 Pro può alimentare fino a 9 dispositivi e ora è disponibile in offerta su…",
+      "image": "https://images.dday.it/LCrSHl5K24rQiina4ZiE46NT3CKkklMM1nc0BaKeUso/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58758/f997d6_ape2.jpg",
+      "publishedAt": "2026-09-16T08:39:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Galaxy S24 non è morto: le quattro novità dell'ultimo aggiornamento",
+      "link": "https://www.tomshw.it/smartphone/galaxy-s24-non-e-morto-le-quattro-novita-dellultimo-aggiornamento",
+      "excerpt": "Samsung ha avviato nei giorni scorsi la distribuzione della seconda beta di One UI 9 per Galaxy S24, S24+ e S24 Ultra, individuata da un firmware con sigla finale ZZI4. Una delle…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113690/galaxy-s24-non-e-morto-le-quattro-novita-dell-ultimo-aggiornamento.png",
+      "publishedAt": "2026-09-16T08:36:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Xiaomi rende smart anche il bagno: il nuovo riscaldatore rileva quando entri",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n670562/xiaomi-riscaldamento-illuminazione-bagno-smart-bath-heater-2c/",
+      "excerpt": "Xiaomi presenta Mijia Smart Bath Heater 2C, sistema da soffitto per il bagno con riscaldamento in grafene da 3.000 W, ventilazione, luce da 1.600 lumen e radar a 24 GHz",
+      "image": "https://hd2.tudocdn.net/1371375?w=660",
+      "publishedAt": "2026-09-16T08:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Smartphone in offerta su AliExpress: la categoria più affollata della promozione autunnale",
+      "link": "https://www.tomshw.it/smartphone/smartphone-in-offerta-su-aliexpress-la-categoria-piu-affollata-della-promozione-autunnale",
+      "excerpt": "Se c'è una categoria che più di tutte racconta l'ampiezza della promozione autunnale di AliExpress, questa è senza dubbio la telefonia. Il numero di smartphone coinvolti è...",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113699/Smartphone-in-offerta-su-AliExpress-la-categoria-più-affollata-della-promozione-autunnale.jpg",
+      "publishedAt": "2026-09-16T08:33:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Segue il navigatore e finisce su un sentiero pedonale: 800 metri tra panchine e scogliera prima di restare incastrato",
+      "link": "https://www.hdmotori.it/segue-navigatore-incastrato-incidente/",
+      "excerpt": "C’è chi in auto si fida ciecamente del GPS a tal punto da ritrovarsi bloccato tra un palo e una panchina.",
+      "image": "https://hd2.tudocdn.net/1371385?w=660",
+      "publishedAt": "2026-09-16T08:30:18+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung Galaxy Z Fold 8 in offerta, ora costa 1.000€ in meno rispetto ad iPhone Duo",
+      "link": "https://www.hdblog.it/smartphone/offerte/n670563/samsung-galaxy-z-fold-8-offerta-sett26/",
+      "excerpt": "Il Samsung Galaxy Z Fold 8 è in offerta e ora costa oltre 1.000 euro in meno rispetto ad iPhone Duo.",
+      "image": "https://hd2.tudocdn.net/1362516?w=660",
+      "publishedAt": "2026-09-16T08:30:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Aniimo: consigli essenziali per i tuoi primi passi",
+      "link": "https://www.tomshw.it/videogioco/aniimo-7-consigli-per-iniziare-bene",
+      "excerpt": "Aniimo è disponibile dal 16 settembre 2026 su PC, PlayStation 5 e Xbox Series X|S. Sviluppato da Pawprint Studio e pubblicato da Kingsglory, è un RPG free-to-play in terza persona…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113698/ar6ki5.jpg",
+      "publishedAt": "2026-09-16T08:27:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Come Apple nasconde un segreto nelle foto dell'iPhone, e a cosa serve",
+      "link": "https://www.tomshw.it/smartphone/come-apple-nasconde-un-segreto-nelle-foto-delliphone-e-a-cosa-serve",
+      "excerpt": "Apple ha pubblicato sul blog Security Research un documento che spiega nel dettaglio il funzionamento di Apple Reference Image, la modalità di scatto verificato annunciata il 9…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112881/iPhone-18-0.jpg",
+      "publishedAt": "2026-09-16T08:26:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Xiaomi, ecco la nuova lampada da tavolo smart con luce naturale",
+      "link": "https://www.hdblog.it/xiaomi/articoli/n670557/xiaomi-ecco-la-nuova-lampada-da-tavolo-smart-con-luce-naturale/",
+      "excerpt": "Xiaomi ha lanciato una nuova lampada da tavolo smart tramite il suo brand Mijia: si chiama come sempre con un nome molto descrittivo, ovvero Mijia Desk Lamp 2 Clear Vision…",
+      "image": "https://hd2.tudocdn.net/1371369?w=660",
+      "publishedAt": "2026-09-16T08:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Arrivano gli abbonamenti Meta, da 2,49 euro al mese: tutti i vantaggi. Non solo più IA",
+      "link": "https://images.dday.it/yhWYWxHE2pN6urpS-hiI-ssnZQXqPUAgeZdGvo8L22I/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58757/59129a_Depositphotos_523072132_XL.jpg",
+      "excerpt": "I nuovi piani sbloccano funzioni aggiuntive, maggiore utilizzo dell’IA e strumenti dedicati a creatori di contenuti e aziende... Leggi tutto",
+      "image": "https://images.dday.it/yhWYWxHE2pN6urpS-hiI-ssnZQXqPUAgeZdGvo8L22I/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58757/59129a_Depositphotos_523072132_XL.jpg",
+      "publishedAt": "2026-09-16T08:21:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Fable: da quanto è in sviluppo? La data vi sorprenderà",
+      "link": "https://www.tomshw.it/videogioco/fable-da-quanto-e-in-sviluppo-la-data-vi-sorprendera",
+      "excerpt": "Il reboot di Fable è in lavorazione da dieci anni: lo ha confermato Ralph Fulton, cofondatore di Playground Games e game director del progetto, in un'intervista rilasciata al…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/110349/fable-20-ore-per-la-sdgdju191k5m9xr037E.webp",
+      "publishedAt": "2026-09-16T08:20:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "TCL NXTPAPER 60 Ultra a 379,90€: leggere e annotare senza affaticare gli occhi",
+      "link": "https://www.tomshw.it/offerte/tcl-nxtpaper-60-ultra-a-37990eur-leggere-e-annotare-senza-affaticare-gli-occhi",
+      "excerpt": "Il TCL NXTPAPER 60 Ultra costa 379,90€ su Amazon: dai 474€ di listino passa al minimo storico con uno sconto del 20%. Il display NXTPAPER 4.0 lo rende particolarmente interessante…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113696/tomshw-offer-1228535.png",
+      "publishedAt": "2026-09-16T08:19:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Boox rinnova i suoi tablet ePaper: c’è anche un Note a colori più compatto",
+      "link": "https://www.hdblog.it/tablet/articoli/n670549/boox-nuovi-tablet-note-air6-c-mini-c-palma-3-prezzi/",
+      "excerpt": "Il nuovo Boox Note Mini C combina display ePaper a colori da 8,52 pollici, 6 GB di RAM, 64 GB di memoria espandibile e supporto alla penna InkSight in un formato più facile da…",
+      "image": "https://hd2.tudocdn.net/1371358?w=660",
+      "publishedAt": "2026-09-16T08:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Accedi al registro elettronico di tuo figlio e ti chiedono il consenso alla pubblicità: ma il Ministero dell'Istruzione lo vieta",
+      "link": "https://images.dday.it/sWBdb1_A9MoeB50KUU_6u7650D8XsJHZQ8YtRoe2pVI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58756/86123e_small_Immagine_Codex_16_set_2026__10_02_35_copia.png",
+      "excerpt": "Axios chiede ai genitori il consenso a banner ed e-mail pubblicitarie, anche di terze parti, nella piattaforma usata per accedere al registro elettronico. Il MIM aveva già…",
+      "image": "https://images.dday.it/sWBdb1_A9MoeB50KUU_6u7650D8XsJHZQ8YtRoe2pVI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58756/86123e_small_Immagine_Codex_16_set_2026__10_02_35_copia.png",
+      "publishedAt": "2026-09-16T08:07:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Sony PlayStation Pulse e Pulse Edge ufficiali: ecco le nuove cuffie gaming",
+      "link": "https://www.hdblog.it/indossabili/articoli/n670551/sony-playstation-pulse-edge-cuffie-novita-quando/",
+      "excerpt": "In arrivo tra fine 2026 e inizio 2027.",
+      "image": "https://hd2.tudocdn.net/1371339?w=660",
+      "publishedAt": "2026-09-16T08:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google aggiorna i Pixel e Pixel Watch: Android 17 QPR1, Pixel Drop e altre novità",
+      "link": "https://www.hdblog.it/smartphone/articoli/n670546/google-aggiorna-pixel-android-17-qpr1-drop/",
+      "excerpt": "Nuove funzioni per Pixel e Pixel Watch, insieme alle correzioni di Android 17 QPR1",
+      "image": "https://hd2.tudocdn.net/1352001?w=660",
+      "publishedAt": "2026-09-16T07:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Una calza che traduce la musica in vibrazioni vince il James Dyson Award in Italia",
       "link": "https://images.dday.it/6Ii2otFs_1xVEb9rNke1EgXltppLyQcxC_07tfdesck/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58753/91222b_Orpheus_JDA_2026_1.png",
@@ -21,186 +228,6 @@
       "publishedAt": "2026-09-15T21:51:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Logitech G915 X LIGHTSPEED a 163,71€, passa da gioco a lavoro con un tasto",
-      "link": "https://www.tomshw.it/offerte/logitech-g915-x-lightspeed-a-16371eur-passa-da-gioco-a-lavoro-con-un-tasto",
-      "excerpt": "Logitech G915 X LIGHTSPEED costa 163,71€ su Amazon, con il 29% di sconto sul prezzo di listino di 229,99€ e un risparmio di 66,28€. Il formato meccanico a profilo ribassato unisce…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113638/tomshw-offer-1210403.png",
-      "publishedAt": "2026-09-15T20:19:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Ho provato Honor Pad 20 Pro, tuttofare con display e audio ottimi",
-      "link": "https://www.hdblog.it/android/recensioni/n667841/ho-provato-honor-pad-20-pro-tuttofare-con-display-e-audio-ottimi/",
-      "excerpt": "Abbiamo provato il nuovo HONOR Pad 20 Pro, ecco cosa ci è piaciuto del tablet android di fascia media.",
-      "image": "https://hd2.tudocdn.net/1364098?w=660",
-      "publishedAt": "2026-09-15T19:00:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "ENGWE ENGINE PRO 3.0 BOOST sotto i 1.700€, fino a 130 km tra città e sterrato",
-      "link": "https://www.tomshw.it/offerte/engwe-engine-pro-30-boost-sotto-i-1700eur-fino-a-130-km-tra-citta-e-sterrato",
-      "excerpt": "ENGWE ENGINE PRO 3.0 BOOST costa 1.699€ su Amazon e combina telaio pieghevole, batteria da 48 V 15 Ah e autonomia dichiarata fino a 130 km. È pensata per coprire tragitti lunghi…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113636/tomshw-offer-1210379.png",
-      "publishedAt": "2026-09-15T18:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Minecraft Legacy gira su PS2 con soli 32 MB di RAM: come ci riesce?",
-      "link": "https://www.tomshw.it/videogioco/minecraft-legacy-gira-su-ps2-con-soli-32-mb-di-ram-ecco-come",
-      "excerpt": "OptiProjects ha annunciato un port non ufficiale di Minecraft Legacy per PlayStation 2 e Nintendo Wii, già provato anche sulle console originali. Il progetto porta il gioco su due…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113615/minecraft-legacy-gira-su-ps2-con-soli-32-mb-di-ram-ecco-come.png",
-      "publishedAt": "2026-09-15T18:45:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Bosch Spotless+ sotto i 350€, aspira a 11.000 Pa e si svuota da solo",
-      "link": "https://www.tomshw.it/offerte/bosch-spotless-sotto-i-350eur-aspira-a-11000-pa-e-si-svuota-da-solo",
-      "excerpt": "Bosch Spotless+ BCRD1W costa 349,99€ su Amazon, anziché 429€, con uno sconto del 18%. Aspirazione da 11.000 Pa, funzione antigroviglio e stazione autosvuotante puntano a ridurre…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113635/tomshw-offer-1210355.png",
-      "publishedAt": "2026-09-15T18:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Promiseware, o la sottile arte di vendere hardware che non esiste",
-      "link": "https://www.tomshw.it/business/promiseware-o-la-sottile-arte-di-vendere-hardware-che-non-esiste",
-      "excerpt": "Un produttore annuncia un'architettura di calcolo le cui prestazioni dipendono da un firmware ancora in roadmap, un distributore apre i pre-ordini su una linea di notebook non…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113610/promiseware-hardware-b2b.jpg",
-      "publishedAt": "2026-09-15T18:08:16+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Philips Sonicare Serie 3100 a 39,97€, mai costato così poco",
-      "link": "https://www.tomshw.it/offerte/philips-sonicare-serie-3100-a-3997eur-mai-costato-cosi-poco",
-      "excerpt": "Philips Sonicare Serie 3100 costa 39,97€ su Amazon: sono 20,02€ in meno rispetto ai 59,99€, grazie allo sconto del 33%. Il sensore di pressione e le tre intensità aiutano a pulire…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113634/tomshw-offer-1210344.png",
-      "publishedAt": "2026-09-15T17:49:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il notebook aziendale inquina soprattutto in fabbrica, non nel sacchetto riciclato",
-      "link": "https://www.tomshw.it/business/il-notebook-aziendale-inquina-soprattutto-in-fabbrica-non-nel-sacchetto-riciclato",
-      "excerpt": "Un notebook aziendale genera la parte più grande della propria impronta di CO2 prima ancora di uscire dalla fabbrica: la produzione pesa fra il 79% e l'87% delle emissioni totali…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113559/pcf-notebook-produzione-packaging.jpg",
-      "publishedAt": "2026-09-15T17:34:42+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Jeep Avenger, il SUV più venduto d’Italia si rinnova: porte aperte e offerta a tasso zero",
-      "link": "https://www.hdmotori.it/jeep-avenger-porte-aperte-offerta-tasso-zero/",
-      "excerpt": "Jeep Avenger, il SUV più venduto d’Italia si rinnova: porte aperte e offerta a tasso zero",
-      "image": "https://hd2.tudocdn.net/1371221?w=660",
-      "publishedAt": "2026-09-15T17:30:03+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Apple M6 avvistato sui benchmark: il single-core più veloce al mondo?",
-      "link": "https://www.hdblog.it/hardware/articoli/n670500/apple-mac-mini-m6-silicon-benchmark-punteggi/",
-      "excerpt": "Ben oltre 4.000 punti nel test single-core. Inaudito!",
-      "image": "https://hd2.tudocdn.net/1365004?w=660",
-      "publishedAt": "2026-09-15T17:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "5.000 test per fermare gli agenti AI prima che facciano danni",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n670468/agenti-ai-sicurezza-test-aiuc/",
-      "excerpt": "Un nuovo standard mette alla prova gli agenti AI prima del loro utilizzo in azienda.",
-      "image": "https://hd2.tudocdn.net/1371113?w=660",
-      "publishedAt": "2026-09-15T17:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "DEWALT 18V XR con due batterie a 179,90€, dal mobile alla muratura",
-      "link": "https://www.tomshw.it/offerte/dewalt-18v-xr-con-due-batterie-a-17990eur-dal-mobile-alla-muratura",
-      "excerpt": "Il trapano avvitatore a percussione DEWALT 18V XR costa 179,90€ su Amazon e comprende due batterie agli ioni di litio da 2Ah. È un kit pensato per passare dall’assemblaggio di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113633/tomshw-offer-1210334.png",
-      "publishedAt": "2026-09-15T17:19:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Fujifilm Instax Pal 2 ufficiale: la super compatta diventa ancora più analogica",
-      "link": "https://www.hdblog.it/fotografia/articoli/n670495/fujifilm-instax-pal-2-specifiche-novita-compatta/",
-      "excerpt": "Rimane compattissima come la Pal di prima generazione, ma include diverse novità ed è estremamente versatile.",
-      "image": "https://hd2.tudocdn.net/1371210?w=660",
-      "publishedAt": "2026-09-15T17:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Basta musica per bambini nelle tue playlist: Spotify permette di toglierla dal Wrapped",
-      "link": "https://www.hdblog.it/curiosita/articoli/n670487/spotify-interruttore-musica-bambini-off-correlati/",
-      "excerpt": "Spotify introduce un nuovo interruttore che esclude la musica per bambini e famiglia dal profilo gusti degli utenti, così Discover Weekly, Daily Mix e Wrapped non finiscono più…",
-      "image": "https://hd2.tudocdn.net/1365213?w=660",
-      "publishedAt": "2026-09-15T17:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Zuckerberg accelera con gli abbonamenti premium: ecco l'articolata offerta Meta One",
-      "link": "https://www.hdblog.it/android/articoli/n670493/meta-one-piani-premium-abbonamento-prezzi/",
-      "excerpt": "Si arriva anche a 500 dollari... con tanto di supporto telefonico con esseri umani!",
-      "image": "https://hd2.tudocdn.net/1236572?w=660",
-      "publishedAt": "2026-09-15T17:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "La Topolino mette la capote: nuova versione Dolcevita a 39 euro al mese",
-      "link": "https://www.hdmotori.it/fiat-topolino-dolcevita-tetto-apribile-prezzo/",
-      "excerpt": "La Fiat Topolino riceve la capote apribile nella nuova versione Dolcevita. Le caratteristiche, i prezzi e i dettagli dell'offerta finanziaria \"Back to School\"",
-      "image": "https://hd2.tudocdn.net/1371214?w=660",
-      "publishedAt": "2026-09-15T17:00:16+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Meglio comprare iPhone 17 Pro Max ora o aspettare iPhone 18 Pro Max?",
-      "link": "https://www.tomshw.it/smartphone/meglio-comprare-iphone-17-pro-max-ora-o-aspettare-iphone-18-pro-max",
-      "excerpt": "iPhone 17 Pro Max nuovo, nella versione da 256 GB, si trova in Italia intorno a 1.180–1.300 euro: una fascia che rende ancora sensato comprarlo. iPhone 18 Pro Max è stato…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113390/meglio-comprare-iphone-17-pro-max-ora-o-aspettare-iphone-18-pro-max.png",
-      "publishedAt": "2026-09-15T17:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Quando esce iPhone Duo? Data ufficiale e cosa sappiamo",
-      "link": "https://www.tomshw.it/smartphone/quando-esce-iphone-duo-data-ufficiale-e-cosa-sappiamo",
-      "excerpt": "iPhone Duo esce in Italia il 23 ottobre 2026, mentre i preordini aprono il 16 ottobre. Il primo smartphone pieghevole di Apple ha dunque un calendario ufficiale: la presentazione…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113389/quando-esce-iphone-duo-data-ufficiale-e-cosa-sappiamo.png",
-      "publishedAt": "2026-09-15T17:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Blindato con laser da 50 kW contro i droni: la difesa diventa mobile",
-      "link": "https://www.hdblog.it/droni/articoli/n670385/aser-50-kw-blindato-contro-droni/",
-      "excerpt": "Un blindato 8x8 con laser da 50 kW punta a fermare droni spendendo pochi euro per colpo.",
-      "image": "https://hd2.tudocdn.net/1370924?w=660",
-      "publishedAt": "2026-09-15T16:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "IBAN non italiani rifiutati: Altroconsumo e Satispay portano il caso alla Camera",
-      "link": "https://www.hdblog.it/pagamenti/articoli/n670491/iban-europeo-rifiutato-caso-in-parlamento/",
-      "excerpt": "Hai un IBAN europeo che non inizia con IT? Per bonifici e addebiti diretti in euro non può essere discriminato in base al Paese in cui si trova il conto, come stabilisce il…",
-      "image": "https://hd2.tudocdn.net/1371186?w=660",
-      "publishedAt": "2026-09-15T16:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "100 km di autonomia, ruote fat e spazio per due persone: questa bici elettrica ha tutto quello che serve ed è pure in offerta",
@@ -244,33 +271,6 @@
       "excerpt": "Nel 2025 sono rientrati circa 1.200 oggetti intatti. L’ESA stima per la prima volta il rischio aggregato al suolo e avverte che, senza misure migliori, continuerà a crescere...…",
       "image": "https://images.dday.it/f2ZaAmoX22Jt6S2XBGpTw8BrgLQQMn2QOXpSzdjMg6I/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58749/441ae0_small_Immagine_Codex_15_set_2026__15_09_26_copia.png",
       "publishedAt": "2026-09-15T13:11:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Hyundai, rinviato al 2029 il suo software di guida assistita. Nel frattempo si affida a Nvidia",
-      "link": "https://images.dday.it/3FE2Uz2QMkW-XXwMTRKw7w1dQfpZVJnI-YsvYAeNUDQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58750/47f493_Depositphotos_697229762_XL.jpg",
-      "excerpt": "I primi modelli con sistemi di livello 2+ e 2++ sviluppati insieme a Nvidia arriveranno nel 2028. La piattaforma proprietaria Atria slitta invece di due anni... Leggi tutto",
-      "image": "https://images.dday.it/3FE2Uz2QMkW-XXwMTRKw7w1dQfpZVJnI-YsvYAeNUDQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58750/47f493_Depositphotos_697229762_XL.jpg",
-      "publishedAt": "2026-09-15T12:59:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Apple Watch che ascolta tutti (senza proteste) è il simbolo della fiducia degli utenti in Apple",
-      "link": "https://images.dday.it/FuVNfWStqFUl-JPODl_AwJkks94nlqZWJzaMtUFOlQI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58748/a98e79_rec.jpg",
-      "excerpt": "Con Audio Intelligence Apple Watch può rilevare e riassumere le conversazioni che avvengono intorno a chi lo indossa. Apple ha costruito un’architettura pensata per fare in modo…",
-      "image": "https://images.dday.it/FuVNfWStqFUl-JPODl_AwJkks94nlqZWJzaMtUFOlQI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58748/a98e79_rec.jpg",
-      "publishedAt": "2026-09-15T11:20:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Apple TV fa il pieno di Emmy Awards con Widow’s Bay. HBO Max si difende con The Pitt e DTF St. Louis",
-      "link": "https://images.dday.it/Dd9QY_Y4qExPjP2Ptns8VB6ZaiOIcNzy2QAXZzPDf0k/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58745/3b19cc_Apple-TV-Emmy-nominations-Widows-Bay.jpg",
-      "excerpt": "Il servizio di streaming video di Apple sbanca agli Emmy grazie a serie come Widow’s Bay e Pluribus, con un totale di 28 statuette. HBO Max è il secondo servizio di streaming con…",
-      "image": "https://images.dday.it/Dd9QY_Y4qExPjP2Ptns8VB6ZaiOIcNzy2QAXZzPDf0k/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58745/3b19cc_Apple-TV-Emmy-nominations-Widows-Bay.jpg",
-      "publishedAt": "2026-09-15T11:07:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
