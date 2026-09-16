@@ -1,152 +1,224 @@
 {
-  "generatedAt": "2026-09-16T14:29:36.857692+00:00",
+  "generatedAt": "2026-09-16T19:14:41.817733+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Ve ne eravate accorti? Apple ha citato 007 nell'ultimo keynote",
-      "link": "https://www.hdblog.it/apple/articoli/n670609/apple-james-bond-007-skyfall-citazioni-cook-ternus/",
-      "excerpt": "Piacere Ternus. John Ternus.",
-      "image": "https://hd2.tudocdn.net/1371512?w=660",
-      "publishedAt": "2026-09-16T14:25:00+00:00",
+      "title": "Canon EOS R8 Mark II, mirrorless full frame da viaggio. Piccola, stabilizzata e capace di scattare in 3D",
+      "link": "https://images.dday.it/s4WzaYyFZncsqOA3S-kpYx-ZvisvoG38Jw5DSgfZpGE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58772/c1ebad_EOS_R8_Mark_II_-Flatlay-Frauki-622836.jpg",
+      "excerpt": "Tre anni dopo la EOS R8, Canon aggiorna la sua full frame più leggera con lo stabilizzatore integrato da 7,5 stop, un autofocus intelligente, il joystick posteriore che mancava e…",
+      "image": "https://images.dday.it/s4WzaYyFZncsqOA3S-kpYx-ZvisvoG38Jw5DSgfZpGE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58772/c1ebad_EOS_R8_Mark_II_-Flatlay-Frauki-622836.jpg",
+      "publishedAt": "2026-09-16T18:52:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Jackery Explorer 1000 v2 a 1299€, il kit solare pronto per camper e blackout",
+      "link": "https://www.tomshw.it/offerte/jackery-explorer-1000-v2-a-1299eur-il-kit-solare-pronto-per-camper-e-blackout",
+      "excerpt": "Jackery Explorer 1000 v2 con pannello solare costa 1299€ su Amazon e unisce una batteria LFP da 1070 Wh a un’uscita CA da 1500 W. È costruita per tenere operativi dispositivi,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113858/tomshw-offer-1229419.png",
+      "publishedAt": "2026-09-16T18:49:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Apple porta l'iPhone 18 Pro in mostra: scatti firmati da tre fotografi",
+      "link": "https://www.hdblog.it/apple/articoli/n670655/apple-iphone-18-pro-mostra-foto-what-holds-us/",
+      "excerpt": "Si comincia da New York il 18 settembre.",
+      "image": "https://hd2.tudocdn.net/1371612?w=660",
+      "publishedAt": "2026-09-16T18:25:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "RTX 4090, il connettore si fonde con un cavo CableMod: cosa è successo?",
-      "link": "https://www.tomshw.it/hardware/rtx-4090-connettore-fuso-con-cavo-cablemod-cosa-e-successo",
-      "excerpt": "Un utente ha segnalato la fusione del connettore di alimentazione della propria GeForce RTX 4090, collegata all’alimentatore tramite un cavo CableMod. Il computer aveva funzionato…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113789/rtx-4090-connettore-fuso-con-cavo-cablemod-cosa-e-successo.png",
-      "publishedAt": "2026-09-16T14:20:00+00:00",
+      "title": "Sei terabyte nello zaino: WD My Passport costa 229,99€ su Amazon",
+      "link": "https://www.tomshw.it/offerte/sei-terabyte-nello-zaino-wd-my-passport-costa-22999eur-su-amazon",
+      "excerpt": "Il WD My Passport da 6TB costa 229,99€ su Amazon, con uno sconto del 9% sul prezzo di listino di 251,99€. In un formato portatile da 2,5 pollici concentra lo spazio necessario per…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113857/tomshw-offer-1229410.png",
+      "publishedAt": "2026-09-16T18:18:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "ECOVACS X12 OMNICYCLONE, 500€ in meno per togliere di mezzo peli e macchie",
-      "link": "https://www.tomshw.it/offerte/ecovacs-x12-omnicyclone-500eur-in-meno-per-togliere-di-mezzo-peli-e-macchie",
-      "excerpt": "ECOVACS X12 OMNICYCLONE costa 899€ su Amazon, anziché 1.399€, con uno sconto del 36% e 500€ che restano in tasca. Aspirazione da 22.000 Pa, rullo attivo e stazione ciclonica…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113796/tomshw-offer-1229065.png",
-      "publishedAt": "2026-09-16T14:19:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il prezzo dell'AI: la nuova barriera del digital divide",
-      "link": "https://www.hdblog.it/mercato/articoli/n670605/digital-divide-ai-gsma-smartphone-aumento-prezzi/",
-      "excerpt": "Il report GSMA.",
-      "image": "https://hd2.tudocdn.net/1371515?w=660",
-      "publishedAt": "2026-09-16T14:15:00+00:00",
+      "title": "Google Pixel, le patch di settembre correggono una falla molto pericolosa",
+      "link": "https://www.hdblog.it/smartphone/articoli/n670653/google-pixel-patch-sicurezza-modem-exploit/",
+      "excerpt": "È zero-click, funziona da remoto... E ci sono già exploit in circolazione. Aggiornare quanto prima!",
+      "image": "https://hd2.tudocdn.net/1371270?w=660",
+      "publishedAt": "2026-09-16T18:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "UE, il Kids Act punta a limitare i chatbot: cosa cambia per i minori",
-      "link": "https://www.tomshw.it/hardware/ue-il-kids-act-punta-a-limitare-i-chatbot-cosa-cambia-per-i-minori",
-      "excerpt": "La Commissione europea si prepara a presentare il Kids Act, una proposta che introduce restrizioni all'accesso dei minori a social network, alcune piattaforme di gioco e chatbot…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113786/ue-il-kids-act-punta-a-limitare-i-chatbot-cosa-cambia-per-i-minori.png",
-      "publishedAt": "2026-09-16T14:10:00+00:00",
+      "title": "De'Longhi Rivelia a 552€, minimo storico per cambiare miscela al volo",
+      "link": "https://www.tomshw.it/offerte/delonghi-rivelia-a-552eur-minimo-storico-per-cambiare-miscela-al-volo",
+      "excerpt": "De'Longhi Rivelia Perfetto EXAM440.55.G costa 552€ su Amazon, anziché 591€, con uno sconto del 7% e un risparmio di 39€. Il sistema con due portachicchi intercambiabili permette…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113854/tomshw-offer-1229399.png",
+      "publishedAt": "2026-09-16T17:48:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Altro che \"filtro sbobba AI\", il DLSS 5 ha un potenziale enorme | Focus di HDblog.it",
-      "link": "https://www.hdblog.it/hardware/recensioni/n670513/dlss-5-nvidia-neural-rendering-test-nba2k27-mod/",
-      "excerpt": "I timori iniziali erano infondati, e NBA 2K27 lo dimostra molto bene. Certo, l'impatto sulle prestazioni è pesante... Ma tanto c'è la Frame Generation!",
-      "image": "https://hd2.tudocdn.net/1371254?w=660",
-      "publishedAt": "2026-09-16T14:01:00+00:00",
+      "title": "Addio Claude Cowork, ora ci sarà solo Claude con un router automatico tra chat e agenti",
+      "link": "https://www.tomshw.it/business/addio-claude-cowork-ora-ci-sara-solo-claude-con-un-router-automatico-tra-chat-e-agenti",
+      "excerpt": "Da oggi Claude Cowork non esiste più come prodotto separato: confluisce nella chat normale, e il prodotto si chiamerà solo Claude. A decidere è ora un router automatico, non più…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113853/02-cowork-router-claude.jpg",
+      "publishedAt": "2026-09-16T17:38:43+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Slow Horses non si ferma più: Apple ordina già la stagione 8",
+      "link": "https://www.hdblog.it/apple/articoli/n670531/slow-horses-8-apple-tv-gary-oldman/",
+      "excerpt": "Apple conferma Slow Horses 8: Gary Oldman tornerà nei panni di Jackson Lamb.",
+      "image": "https://hd2.tudocdn.net/1197240?w=660",
+      "publishedAt": "2026-09-16T17:30:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Copilot Cowork può sbagliare: Microsoft invita a controllare ogni azione",
-      "link": "https://www.hdblog.it/microsoft/articoli/n670611/copilot-cowork-puo-sbagliare-microsoft/",
-      "excerpt": "Copilot può commettere errori, interpretare male le istruzioni o essere ingannato",
-      "image": "https://hd2.tudocdn.net/1371504?w=660",
-      "publishedAt": "2026-09-16T13:55:00+00:00",
+      "title": "Google Home apre agli agenti di terze parti: arriva il supporto a MCP",
+      "link": "https://www.hdblog.it/google/articoli/n670647/google-home-protocollo-mcp-agenti-terze-parti/",
+      "excerpt": "Per ora in versione Preview, riservato solo agli abbonati Google Home Premium negli USA.",
+      "image": "https://hd2.tudocdn.net/1352867?w=660",
+      "publishedAt": "2026-09-16T17:25:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "UGREEN Nexode Pro al 44%, 20.000 mAh per laptop e smartphone",
-      "link": "https://www.tomshw.it/offerte/ugreen-nexode-pro-al-44-20000-mah-per-laptop-e-smartphone",
-      "excerpt": "UGREEN Nexode Pro costa 99,97€ su Amazon: il power bank da 20.000 mAh è scontato del 44% rispetto ai 179,99€ di listino. Con 145W complessivi, ricarica Qi2 e quattro dispositivi…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113784/tomshw-offer-1229043.png",
-      "publishedAt": "2026-09-16T13:50:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Cygnus alza l'orbita della ISS: ecco perché",
-      "link": "https://www.tomshw.it/scienze/cygnus-alza-lorbita-della-iss-cosi-prepara-i-nuovi-rifornimenti",
-      "excerpt": "Il cargo Cygnus XL di Northrop Grumman ha acceso i motori mentre era collegato alla Stazione Spaziale Internazionale, sollevandone l'orbita. La manovra ha preparato la ISS…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113781/cygnus-alza-l-orbita-della-iss-cosi-prepara-i-nuovi-rifornimenti.png",
-      "publishedAt": "2026-09-16T13:50:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Studiate o lavorate in biblioteca? Questo kit tech vi dà silenzio, autonomia e zero cavi",
-      "link": "https://www.tomshw.it/smartphone/studiate-o-lavorate-in-biblioteca-questo-kit-tech-vi-da-silenzio-autonomia-e-zero-cavi",
-      "excerpt": "Lavorare o studiare fuori casa offre uno stimolante cambio di prospettiva, ma basta poco per trasformare una giornata produttiva in una corsa ad ostacoli. La ricerca spasmodica di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113761/Studiate-o-lavorate-in-biblioteca-Questo-kit-tech-vi-dà-silenzio,-autonomia-e-zero-cavi.jpg",
-      "publishedAt": "2026-09-16T13:47:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Googlebook, ci siamo: spuntano immagini col design dei modelli Acer, ASUS e Lenovo",
-      "link": "https://www.hdblog.it/portatili/articoli/n670595/googlebook-immagini-design-acer-asus-lenovo/",
-      "excerpt": "Mancano pochi giorni ai preordini dei Googlebook: sono spuntate le immagini dei modelli che saranno proposti da Acer, ASUS e Lenovo.",
-      "image": "https://hd2.tudocdn.net/1371483?w=660",
-      "publishedAt": "2026-09-16T13:45:00+00:00",
+      "title": "Occhiali smart, Meta starebbe per lanciare un modello meno controverso",
+      "link": "https://www.hdblog.it/accessori/articoli/n670598/occhiali-smart-meta-modello-piu-sicuro/",
+      "excerpt": "Così sfugge alle polemiche legate ai Ray-Ban e alla loro fotocamera",
+      "image": "https://hd2.tudocdn.net/1233375?w=660",
+      "publishedAt": "2026-09-16T17:20:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Fairphone, la memoria arriva fino al 60% dei costi: prezzi a rischio?",
-      "link": "https://www.tomshw.it/smartphone/fairphone-memoria-fino-al-60-dei-costi-prezzi-a-rischio",
-      "excerpt": "La memoria può arrivare a rappresentare quasi il 60% del costo dei materiali di uno smartphone da circa 400 dollari. A indicarlo è Raymond van Eck, CEO di Fairphone, descrivendo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113769/fairphone-memoria-fino-al-60-dei-costi-prezzi-a-rischio.png",
-      "publishedAt": "2026-09-16T13:40:00+00:00",
+      "title": "Nuki Smart Lock Pro a 269€, apre da remoto senza hub né lavori alla porta",
+      "link": "https://www.tomshw.it/offerte/nuki-smart-lock-pro-a-269eur-apre-da-remoto-senza-hub-ne-lavori-alla-porta",
+      "excerpt": "Nuki Smart Lock Pro costa 269€ su Amazon e porta Bluetooth, Wi-Fi e Matter sulla serratura esistente senza sostituire il cilindro. Il motore brushless apre e chiude la porta in…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113852/tomshw-offer-1229389.png",
+      "publishedAt": "2026-09-16T17:19:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Smartphone ancora in calo nel 2026: si stima un preoccupante -12% nelle vendite",
-      "link": "https://www.hdblog.it/smartphone/articoli/n670586/vendite-smartphone-calo-2026/",
-      "excerpt": "Anche per il 2026 si prevede un significativo calo nel mercato degli smartphone.",
-      "image": "https://hd2.tudocdn.net/1371439?w=660",
-      "publishedAt": "2026-09-16T13:35:00+00:00",
+      "title": "Amazon aumenta la paga ai lavoratori USA e introduce nuovi benefit",
+      "link": "https://www.hdblog.it/amazon/articoli/n670639/amazon-aumento-stipendio-dipendenti-usa-1-dollaro/",
+      "excerpt": "Dal salario minimo iniziale di 20 dollari l’ora agli sconti fino al 20% da Whole Foods: Amazon annuncia aumenti e nuovi benefit destinati ai dipendenti statunitensi",
+      "image": "https://hd2.tudocdn.net/1371596?w=660",
+      "publishedAt": "2026-09-16T17:10:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Xbox Game Pass, Microsoft non smentisce i rumor: cosa accadrà?",
-      "link": "https://www.tomshw.it/videogioco/xbox-game-pass-microsoft-non-smentisce-i-rumor-cosa-accadra",
-      "excerpt": "Microsoft non ha smentito le indiscrezioni su un nuovo riassetto di Xbox Game Pass, emerse su ResetEra dall'utente Slayven, la stessa fonte che nel 2025 aveva anticipato in parte…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/89753/xbox-game-pass-e-tro8c95f8smaicp4RFwqVY.webp",
-      "publishedAt": "2026-09-16T13:34:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Cambio automatico, il meccanico avverte: attenzione alla trappola manutenzione",
-      "link": "https://www.hdmotori.it/olio-cambio-automatico-manutenzione-guasti/",
-      "excerpt": "Automatico o manuale? Il meccanico social Ebenezer smentisce i costruttori sull'olio \"eterno\": senza manutenzione le riparazioni del cambio superano i 2.000 euro",
-      "image": "https://hd2.tudocdn.net/1371503?w=660",
-      "publishedAt": "2026-09-16T13:30:01+00:00",
+      "title": "Progetto open-source rende il Neural Band di Meta un controller per Mac",
+      "link": "https://www.hdblog.it/apple/articoli/n670643/meta-ray-ban-display-neural-band-controller-mac/",
+      "excerpt": "Merito del reverse engineering.",
+      "image": "https://hd2.tudocdn.net/1322423?w=660",
+      "publishedAt": "2026-09-16T17:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Doggy Don't Care supera 60 fps su Steam Deck: quali impostazioni utilizzare?",
-      "link": "https://www.tomshw.it/videogioco/doggy-dont-care-supera-60-fps-su-steam-deck-con-quali-impostazioni",
-      "excerpt": "Doggy Don't Care punta a debuttare su Steam Deck con prestazioni superiori a 60 fps usando le impostazioni predefinite. A dichiararlo è lo sviluppatore Rohan Nowell, che ha…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113755/doggy-don-t-care-supera-60-fps-su-steam-deck-con-quali-impostazioni.png",
-      "publishedAt": "2026-09-16T13:30:00+00:00",
+      "title": "Cancellato il bollo auto e moto 2027: limiti di potenza e requisiti per l’esenzione",
+      "link": "https://www.hdmotori.it/focus/mercato/normative/cancellato-bollo-auto-moto-2027-limiti-requisiti-esenzione/",
+      "excerpt": "Il Consiglio dei Ministri cancella la tassa automobilistica per 14,5 milioni di veicoli. Ecco tutti i dettagli sui criteri di accesso all’esenzione per auto e moto.",
+      "image": "https://hd2.tudocdn.net/1340959?w=660",
+      "publishedAt": "2026-09-16T17:00:54+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Comprare Apple Watch Ultra 3 adesso o aspettare Apple Watch Ultra 4?",
+      "link": "https://www.tomshw.it/smartphone/comprare-apple-watch-ultra-3-adesso-o-aspettare-apple-watch-ultra-4",
+      "excerpt": "Apple Watch Ultra 3 è acquistabile nuovo in Italia nella fascia indicativa di 700–910 €, mentre Apple Watch Ultra 4 è stato annunciato ufficialmente e al 14 settembre 2026 è…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113395/comprare-apple-watch-ultra-3-adesso-o-aspettare-apple-watch-ultra-4.png",
+      "publishedAt": "2026-09-16T17:00:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Quando esce Apple Watch Ultra 4? Data e cosa sappiamo",
+      "link": "https://www.tomshw.it/smartphone/quando-esce-apple-watch-ultra-4-data-e-cosa-sappiamo",
+      "excerpt": "Apple Watch Ultra 4 esce venerdì 18 settembre 2026, anche in Italia. La data è ufficiale: la presentazione è avvenuta il 9 settembre e i preordini sono già aperti. Per chi aspetta…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113392/quando-esce-apple-watch-ultra-4-data-e-cosa-sappiamo.png",
+      "publishedAt": "2026-09-16T17:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "GeForce RTX 5090 FE, il seriale si sbiadisce e l'assistenza in garanzia viene rifiutata",
+      "link": "https://www.hdblog.it/hardware/articoli/n670640/nvidia-geforce-rtx-5090-seriale-sbiadito/",
+      "excerpt": "A quanto pare capita piuttosto spesso nelle GeForce RTX Founders di ultima generazione.",
+      "image": "https://hd2.tudocdn.net/1227043?w=660",
+      "publishedAt": "2026-09-16T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Rovina il padre a 9 anni per fare lo Youtuber, ecco cosa è successo",
+      "link": "https://www.tomshw.it/videogioco/rovina-il-padre-a-9-anni-per-fare-lo-youtuber-ecco-cosa-e-successo",
+      "excerpt": "Un bambino di nove anni ha accumulato oltre 118.000 dollari di spese pubblicitarie su YouTube, circa 100.000 euro, per promuovere il canale dedicato alle sue partite a Minecraft e…",
+      "image": "https://cdn.tomshw.it/storage/media/2023/10/1786/minecraft-s2kxfahyg30sob8q.jpg",
+      "publishedAt": "2026-09-16T16:49:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il seguito di The Blood of Dawnwalker potrebbe perdere la sua caratteristica principale",
+      "link": "https://www.tomshw.it/videogioco/il-seguito-di-the-blood-of-dawnwalker-potrebbe-perdere-la-sua-caratteristica-principale",
+      "excerpt": "La meccanica del tempo di The Blood of Dawnwalker, il tratto più discusso del gioco di ruolo di Rebel Wolves, potrebbe non tornare in un eventuale seguito. Lo ha dichiarato il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/102302/brencis-danwalker-artwork.jpg",
+      "publishedAt": "2026-09-16T16:49:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "JustWatch diventa una piattaforma di streaming: in arrivo a ottobre",
+      "link": "https://www.hdblog.it/android/articoli/n670636/justwatch-piattaforma-streaming-quando/",
+      "excerpt": "Ci saranno piani gratis con pubblicità e abbonamenti premium. Per ora zero info sui prezzi.",
+      "image": "https://hd2.tudocdn.net/1371595?w=660",
+      "publishedAt": "2026-09-16T16:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Via il bollo su auto piccole e medie e moto: cosa cambia ora",
+      "link": "https://www.tomshw.it/automotive/via-il-bollo-su-auto-piccole-e-medie-e-moto-2026-09-16",
+      "excerpt": "Il governo italiano interviene con un provvedimento che ridisegna la fiscalità automobilistica nazionale, incidendo direttamente sui costi di gestione per milioni di…",
+      "image": "https://cdn.tomshw.it/storage/media/2024/09/35337/Leapmotor-T03-3.jpg",
+      "publishedAt": "2026-09-16T16:26:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il bollo auto sarà abolito per auto di piccola e media potenza e motocicli. Una sola agevolazione per cittadino",
+      "link": "https://images.dday.it/tSEUZ3fofYHzoUUPxGc6QAaMo94pEtPqfriQvUXfYA8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58771/14cde4_Depositphotos_273653916_XL.jpg",
+      "excerpt": "Lo ha deciso il Consiglio dei Ministri, anche se mancano ancora i dettagli tecnici riguardo alla potenza massima... Leggi tutto",
+      "image": "https://images.dday.it/tSEUZ3fofYHzoUUPxGc6QAaMo94pEtPqfriQvUXfYA8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58771/14cde4_Depositphotos_273653916_XL.jpg",
+      "publishedAt": "2026-09-16T15:00:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Panasonic lancia una nuova ottica 20 mm Lumix full frame ultracompatta e leggera",
+      "link": "https://images.dday.it/Ti9K93uF9L3brbMd3AkZIaLB-HjUUBkYyo9ncpISFik/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58769/c0079b_lumix-S-S20EK-lifestyleimage-B2_16X9.jpg",
+      "excerpt": "La nuova ottica per fotocamere full frame L-Mount offre un’apertura di F2.5, resistenza a schizzi e polvere e un corpo estremamente compatto e leggero pensato per abbinarsi alla…",
+      "image": "https://images.dday.it/Ti9K93uF9L3brbMd3AkZIaLB-HjUUBkYyo9ncpISFik/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58769/c0079b_lumix-S-S20EK-lifestyleimage-B2_16X9.jpg",
+      "publishedAt": "2026-09-16T14:51:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Arriva Just Watch TV. Film gratis (ma con pubblicità) o paghi l'abbonamento",
+      "link": "https://images.dday.it/FYS2-OaIAd9nc3-e--9QwTh5YDjN0BPVREQFhyd736Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58770/63fd10_JWTV_Logo__dark_bg_.png",
+      "excerpt": "La piattaforma che aiuta a trovare film e serie proporrà presto anche un servizio di visione, con contenuti gratuiti con pubblicità, noleggio e un’opzione senza annunci... Leggi…",
+      "image": "https://images.dday.it/FYS2-OaIAd9nc3-e--9QwTh5YDjN0BPVREQFhyd736Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58770/63fd10_JWTV_Logo__dark_bg_.png",
+      "publishedAt": "2026-09-16T14:42:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Samsung Display ha realizzato un super display OLED per smartphone 2K a 165 Hz e che brilla a 10.000 nit",
@@ -156,24 +228,6 @@
       "publishedAt": "2026-09-16T13:25:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Super Smash Bros. Melee arriva su PC senza emulatore: come farlo partire?",
-      "link": "https://www.tomshw.it/videogioco/super-smash-bros-melee-arriva-su-pc-senza-emulatore-ecco-come",
-      "excerpt": "Lo sviluppatore 999sian ha pubblicato la prima beta di melee-pc, un porting non ufficiale che porta Super Smash Bros. Melee su Windows, Linux e Android senza ricorrere a un…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113766/super-smash-bros-melee-arriva-su-pc-senza-emulatore-ecco-come.png",
-      "publishedAt": "2026-09-16T13:20:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Samsung Gallery verso Google Foto: pronta l’alternativa a OneDrive",
-      "link": "https://www.hdblog.it/smartphone/articoli/n670603/samsung-gallery-verso-google-foto/",
-      "excerpt": "Samsung sembra aver già scelto il servizio che prenderà il posto di OneDrive all’interno dell’app Galleria",
-      "image": "https://hd2.tudocdn.net/1371496?w=660",
-      "publishedAt": "2026-09-16T13:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Fire TV, ritorna il sideload delle app. Amazon: \"Era un bug\"",
@@ -194,15 +248,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Pixel 11 Pro da 1TB, S26 Ultra e Apple Watch 11: le migliori offerte del 16 settembre",
-      "link": "https://www.hdblog.it/amazon/offerte/n670597/migliori-offerte-tech-16-settembre-2026-amazon/",
-      "excerpt": "Smartphone top, smartwatch, auricolari, monitor gaming e action cam: le migliori offerte tech di oggi su Amazon e Unieuro, con sconti diretti e promo al checkout.",
-      "image": "https://hd2.tudocdn.net/1371493?w=660",
-      "publishedAt": "2026-09-16T13:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Bose con Dolby Atmos, su Amazon la soundbar scende di prezzo: ora costa meno",
       "link": "https://images.dday.it/opU57ugjbcKuACMIDw4xyEnWywYx7FaNVpXxFBQKROY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58759/2a4778_811HikHxX-L._AC_SL1500_.jpg",
       "excerpt": "Bluetooth, AirPlay 2, Spotify Connect, Chromecast e Dolby Atmos: la soundbar Bose è ora in offerta su Amazon... Leggi tutto",
@@ -210,15 +255,6 @@
       "publishedAt": "2026-09-16T13:04:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Land Rover Defender pick-up, c’è lo zampino di Stellantis: sorprenderà tutti",
-      "link": "https://www.hdmotori.it/land-rover-defender-pick-up-stellantis/",
-      "excerpt": "Dall’accordo tra il colosso italo-francese e Land Rover potrebbe prendere vita una muscolosa Defender pick-up",
-      "image": "https://hd2.tudocdn.net/1371484?w=660",
-      "publishedAt": "2026-09-16T12:30:34+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Le miniserie verticali debuttano su Mediaset Infinity. Riadattate anche \"Rosy Abate\" e \"Il peccato e la vergogna\"",
@@ -235,42 +271,6 @@
       "excerpt": "Quanto campo elettromagnetico c’è intorno a casa? Cartoradio lo stima su una mappa nazionale, usando i dati delle antenne. Anche se il dettaglio grafico è maggiore della…",
       "image": "https://images.dday.it/raXpiulUG-79c_qK3fI2_tWgkGjQVVA3h3OA3F-jJZ0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58764/970725_Screenshot_2026-09-16_alle_12.22.41.png",
       "publishedAt": "2026-09-16T10:24:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Ikea Badkruka, il diffusore bluetooth cubico adatto anche al multiroom",
-      "link": "https://images.dday.it/QWCxVgXe0qA-M__40zVqymt_pUtQGWyfJKP3NXvx4MQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58763/1fb3a3_badkruka-cassa-bluetooth-r-nero-1542964-pe1018592-s5.jpeg",
-      "excerpt": "Un nuovo diffusore giunge nel catalogo Ikea, questa volta con qualche ambizione audio per dimensioni, dotazione e possibilità di essere collegato in stereo; il prezzo è sempre…",
-      "image": "https://images.dday.it/QWCxVgXe0qA-M__40zVqymt_pUtQGWyfJKP3NXvx4MQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58763/1fb3a3_badkruka-cassa-bluetooth-r-nero-1542964-pe1018592-s5.jpeg",
-      "publishedAt": "2026-09-16T10:10:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il 22 settembre Starship tenterà per la prima volta di entrare in orbita intorno alla Terra",
-      "link": "https://images.dday.it/2YzZFcwW34wfUvHJ617Wqj0Zim300PK_aU10jbSkSq4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58760/604660_Flight_13_Onboards_07272601927_109bc83623.jpg",
-      "excerpt": "SpaceX ha annunciato il programma di volo del nuovo test di Starship e gli obiettivi si fanno più ambiziosi: Starship punterà ad entrare in orbita, completando sei giri della…",
-      "image": "https://images.dday.it/2YzZFcwW34wfUvHJ617Wqj0Zim300PK_aU10jbSkSq4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58760/604660_Flight_13_Onboards_07272601927_109bc83623.jpg",
-      "publishedAt": "2026-09-16T09:41:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Volkswagen ID.3 GTI debutta nel 2027: 326 CV e fino a 601 km di autonomia",
-      "link": "https://images.dday.it/QqLLbVvKZmw790cigLo19g-DD21eYdsutBtw0by5Pps/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58762/0f4c7b_DB2026AU00611_large.jpg",
-      "excerpt": "La prima ID.3 con sigla GTI sarà anche la GTI di serie più potente mai realizzata da Volkswagen. Trazione posteriore, batteria da 79 kWh e una specifico \"GTI Mode\"... Leggi tutto",
-      "image": "https://images.dday.it/QqLLbVvKZmw790cigLo19g-DD21eYdsutBtw0by5Pps/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58762/0f4c7b_DB2026AU00611_large.jpg",
-      "publishedAt": "2026-09-16T09:25:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Truffa Revolut, le richieste potrebbero essere passate anche da una PEC della Prefettura di Reggio Calabria",
-      "link": "https://images.dday.it/_fwJ9BS-XB_eZUiDPN-9sQX7wQrQWHpIhTVVKWWLgWM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58761/1adc53_Depositphotos_663424306_XL.jpg",
-      "excerpt": "Nel caso Revolut compare una PEC riconducibile alla Prefettura di Reggio Calabria. L’indirizzo sembra riferirsi all’Area Enti locali, estranea alle normali procedure investigative…",
-      "image": "https://images.dday.it/_fwJ9BS-XB_eZUiDPN-9sQX7wQrQWHpIhTVVKWWLgWM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58761/1adc53_Depositphotos_663424306_XL.jpg",
-      "publishedAt": "2026-09-16T09:02:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
