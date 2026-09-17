@@ -1,53 +1,260 @@
 {
-  "generatedAt": "2026-09-17T09:03:33.790579+00:00",
+  "generatedAt": "2026-09-17T14:33:47.462758+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Helldivers 2 e altri giochi Sony spariscono da Steam, cosa sta succedendo",
-      "link": "https://www.tomshw.it/videogioco/sony-responds-after-pc-games-including-helldivers-2-disappear-in-uk",
-      "excerpt": "Sony Interactive Entertainment ha confermato di essere al lavoro con Valve per rimettere in vendita alcuni dei suoi giochi per PC spariti dalla versione britannica di Steam. Il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/02/83267/helldivers-2-al-prezzo-minimo-storico-su-xbox-2026-02-09-GVygPLe03id5r86r6c6lPX7Xc.png",
-      "publishedAt": "2026-09-17T09:00:00+00:00",
+      "title": "I CIO stanno correndo dietro agli agenti AI, ma forse è una battaglia persa in partenza",
+      "link": "https://www.tomshw.it/business/i-cio-stanno-correndo-dietro-agli-agenti-ai-ma-forse-e-una-battaglia-persa-in-partenza",
+      "excerpt": "Cisco ha centralizzato tutti i modelli linguistici, gli agenti e i dati aziendali autorizzati in un'unica piattaforma, MyAgent, lanciata ad agosto per tenere sotto controllo la…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113909/02-cio-agenti-ai-battaglia.jpg",
+      "publishedAt": "2026-09-17T14:32:48+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Apple rilascia la prima beta di iOS 27.2: nuova app Salute e tutte le altre novità",
-      "link": "https://www.hdblog.it/smartphone/articoli/n670703/ios-27-arriva-prima-beta-app-salut/",
-      "excerpt": "A mancare, per il momento, è iOS 27.1: colpa del Duo",
-      "image": "https://hd2.tudocdn.net/1371725?w=660",
-      "publishedAt": "2026-09-17T08:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Ora l’iPhone può sventare le truffe, ma la funzione va attivata",
-      "link": "https://www.hdblog.it/apple/articoli/n670708/ios-27-riconosce-truffe-ingegneria-sociale-come-attivare/",
-      "excerpt": "iOS 27 può aiutare a riconoscere alcune truffe basate sulla manipolazione senza analizzare Foto, Messaggi o Mail: ecco come funziona e come attivare la protezione",
-      "image": "https://hd2.tudocdn.net/1371686?w=660",
-      "publishedAt": "2026-09-17T08:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Makita DGA504Z sotto i 132€, la smerigliatrice 18 V per lavorare senza cavo",
-      "link": "https://www.tomshw.it/offerte/makita-dga504z-sotto-i-132eur-la-smerigliatrice-18-v-per-lavorare-senza-cavo",
-      "excerpt": "Makita DGA504Z costa 131,99€ su Amazon e porta il formato da 125 mm in un utensile a batteria da 18 V. È pensata per tagli, sbavature e finiture quando il cavo limiterebbe i…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113917/tomshw-offer-1248407.png",
-      "publishedAt": "2026-09-17T08:49:00+00:00",
+      "title": "I chip NVIDIA arrivano in Cina aggirando i divieti: ecco come ci sono riusciti",
+      "link": "https://www.tomshw.it/hardware/i-chip-nvidia-arrivano-in-cina-aggirando-i-divieti-ecco-come",
+      "excerpt": "Un'indagine di C4ADS ha ricostruito tre canali attraverso cui gli acceleratori NVIDIA soggetti a restrizioni raggiungono la Cina: acquisti da parte di istituti di ricerca,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114012/i-chip-nvidia-arrivano-in-cina-aggirando-i-divieti-ecco-come.png",
+      "publishedAt": "2026-09-17T14:30:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Googlebook, l'evento di lancio si terrà... due settimane dopo i preordini",
-      "link": "https://www.hdblog.it/portatili/articoli/n670711/googlebook-evento-lancio-ottobre-quando/",
-      "excerpt": "Google ha pensato a un lancio \"al contrario\"?",
-      "image": "https://hd2.tudocdn.net/1371483?w=660",
-      "publishedAt": "2026-09-17T08:45:00+00:00",
+      "title": "Chrome sta per essere superato su Android, chi è il rivale?",
+      "link": "https://www.tomshw.it/smartphone/chrome-superato-android-chi-e-il-rivale",
+      "excerpt": "Chrome resta il browser più usato su Android, però il suo vantaggio sugli inseguitori si è assottigliato più di quanto ci si potrebbe aspettare. Lo indica un sondaggio cond...",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114011/survey-shows-chrome-still-rules-android-but-another-browser-is-breathing-down-its-neck.png",
+      "publishedAt": "2026-09-17T14:27:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "L'ESA punta sui satelliti per salvare internet quando i cavi sottomarini si guastano",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n670757/cableshield-backup-satelliti-guasti-cavi-marini/",
+      "excerpt": "L'ESA ha selezionato neXat, Telesat e Colt per sviluppare CableShield, un sistema da 1,5 milioni di euro che sposta automaticamente su satellite il traffico dei cavi sottomarini…",
+      "image": "https://hd2.tudocdn.net/1371830?w=660",
+      "publishedAt": "2026-09-17T14:25:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Anche AMD vittima dei rincari, ecco cosa aumenterà presto di prezzo",
+      "link": "https://www.tomshw.it/hardware/anche-amd-vittima-dei-rincari-ecco-cosa-aumentera-presto-di-prezzo",
+      "excerpt": "AMD ha comunicato ai propri partner commerciali un adeguamento dei listini nell'ordine del 10%, destinato a scattare nel quarto trimestre del 2026. La decisione, riportata dalla…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114009/anche-amd-vittima-dei-rincari-ecco-cosa-aumentera-presto-di-prezzo.png",
+      "publishedAt": "2026-09-17T14:20:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "AMD comunica rincari del 10%: cosa cambia per chi assembla un PC",
+      "link": "https://www.tomshw.it/hardware/amd-comunica-rincari-del-10-cosa-cambia-per-chi-assembla-un-pc",
+      "excerpt": "AMD avrebbe comunicato ai propri partner rincari del 10% circa, con applicazione prevista nel quarto trimestre. All'origine della comunicazione ci sarebbe l'aumento dei costi di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114007/amd-comunica-rincari-del-10-cosa-cambia-per-chi-assembla-un-pc.png",
+      "publishedAt": "2026-09-17T14:20:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Quanto ne sai su Resident Evil? Il quiz in 20 domande",
+      "link": "https://www.tomshw.it/videogioco/quanto-ne-sai-su-resident-evil-il-quiz-in-20-domande",
+      "excerpt": "Ci sono saghe che hanno definito un genere, e poi c'è Resident Evil. Dal 1996, anno in cui Capcom spalancò per la prima volta le porte di Villa Spencer, la serie ha inventato,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/87096/resident-evil-3.webp",
+      "publishedAt": "2026-09-17T14:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Samsung OLED S83H 48″ a 899€, minimo storico per film e gaming",
+      "link": "https://www.tomshw.it/offerte/samsung-oled-s83h-48-a-899eur-minimo-storico-per-film-e-gaming",
+      "excerpt": "Samsung OLED S83H da 48 pollici costa 899€ su Amazon, anziché 1.299€, con uno sconto del 31%. Il pannello OLED, il gaming 4K a 120 Hz e l’elaborazione AI lo rendono…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114013/tomshw-offer-1249831.png",
+      "publishedAt": "2026-09-17T14:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "GTA 6 The Album, ufficiale la colonna sonora: anche in formato fisico (CD e vinile)",
+      "link": "https://www.hdblog.it/games/articoli/n670763/gta-6-colonna-sonora-the-album-quando-prezzi/",
+      "excerpt": "Ecco quando esce e quanto costa. Preordini aperti da subito.",
+      "image": "https://hd2.tudocdn.net/1371835?w=660",
+      "publishedAt": "2026-09-17T14:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Fujifilm investe 83 milioni di dollari nei chip: perché proprio in India?",
+      "link": "https://www.tomshw.it/hardware/fujifilm-investe-83-milioni-di-dollari-nei-chip-perche-in-india",
+      "excerpt": "Fujifilm ha annunciato un investimento previsto di circa 83 milioni di dollari per realizzare in India uno stabilimento di materiali per semiconduttori. Il gruppo giapponese punta…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113996/fujifilm-investe-83-milioni-di-dollari-nei-chip-perche-in-india.png",
+      "publishedAt": "2026-09-17T14:10:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Digitale terrestre in tilt con canali doppi o spariti? Ecco come risintonizzare la TV",
+      "link": "https://www.hdblog.it/tv/articoli/n670749/digitale-terrestre-risintonizzare-canali-tv/",
+      "excerpt": "L'aggiornamento del Digitale Terrestre in Italia sta modificando le numerazioni dei canali.",
+      "image": "https://hd2.tudocdn.net/1191424?w=660",
+      "publishedAt": "2026-09-17T14:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "ChatGPT vuole liberarsi dalle regole: ci dobbiamo preoccupare?",
+      "link": "https://www.tomshw.it/altro/chatgpt-vuole-liberarsi-dalle-regole-ci-dobbiamo-preoccupare",
+      "excerpt": "OpenAI ha presentato il 16 settembre 2026 un framework per monitorare, indagare e rendere pubblici i casi di disallineamento dei propri modelli, accompagnato da sei report su…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/105875/a989a564-3796-479b-a4bd-542e146b302a.webp",
+      "publishedAt": "2026-09-17T14:01:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Samsung Galaxy S27 Ultra, la fotocamera virerà su toni più caldi e realistici",
+      "link": "https://www.hdblog.it/smartphone/articoli/n670759/samsung-galaxy-s27-ultra-fotocamera-toni-caldi/",
+      "excerpt": "Miglioramenti previsti anche agli algoritmi video.",
+      "image": "https://hd2.tudocdn.net/1364860?w=660",
+      "publishedAt": "2026-09-17T13:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "DJI SDR Transmission II trasmette in 4K HDR: cosa cambia sui set",
+      "link": "https://www.tomshw.it/altro/dji-sdr-transmission-ii-trasmette-in-4k-hdr-cosa-cambia-sui-set",
+      "excerpt": "DJI ha presentato SDR Transmission II, il nuovo sistema di trasmissione video wireless per produzioni professionali che porta sui monitor del set un segnale 4K HDR a 60 fps, con…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113989/dji-sdr-transmission-ii-trasmette-in-4k-hdr-cosa-cambia-sui-set.png",
+      "publishedAt": "2026-09-17T13:50:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Iliad, arriva il nuovo prefisso 3523",
+      "link": "https://www.hdblog.it/mobile/articoli/n670755/iliad-nuovo-prefisso-3523-mimit/",
+      "excerpt": "La società francese continua a espandersi sul territorio.",
+      "image": "https://hd2.tudocdn.net/1343772?w=660",
+      "publishedAt": "2026-09-17T13:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La nuova Lamborghini Revuelto da 1065 CV paparazzata in strada: dettagli unici",
+      "link": "https://www.hdmotori.it/nuova-lamborghini-revuelto-1065-cv/",
+      "excerpt": "Alla Monterey Car Week aveva strappato applausi e finalmente la nuova Lamborghini Revuelto è apparsa nel traffico",
+      "image": "https://hd2.tudocdn.net/1371828?w=660",
+      "publishedAt": "2026-09-17T13:30:06+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il nuovo film di Resident Evil conquista la critica, arriva oggi nelle sale italiane",
+      "link": "https://www.hdblog.it/spettacolo/articoli/n670746/nuovo-film-resident-evil-conquistato-critica/",
+      "excerpt": "Resident Evil torna al cinema con il nuovo film di Zach Cregger: le recensioni lo descrivono come l'adattamento perfetto da un videogame.",
+      "image": "https://hd2.tudocdn.net/1371817?w=660",
+      "publishedAt": "2026-09-17T13:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung One UI 9, pronto l'aggiornamento per i Galaxy S26. Cosa cambia e quali altri dispositivi lo riceveranno",
+      "link": "https://images.dday.it/5W-TDHA6a4Ju-omjhf9g1Wejg9S7xViL6d9fgEkhDqk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58784/13a694_Depositphotos_874287770_XL.jpg",
+      "excerpt": "Dopo circa quattro mesi di beta, l’aggiornamento stabile arriva su Galaxy S26, S26+ e S26 Ultra. Nelle prossime settimane toccherà progressivamente ad altri smartphone e tablet…",
+      "image": "https://images.dday.it/5W-TDHA6a4Ju-omjhf9g1Wejg9S7xViL6d9fgEkhDqk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58784/13a694_Depositphotos_874287770_XL.jpg",
+      "publishedAt": "2026-09-17T13:19:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Robot aspirapolvere a 190 euro, ma solo per poco: ecco il modello in offerta",
+      "link": "https://images.dday.it/a3Vj_d2OeakPW1n4ArVTddR_9u8q7eeGPUQT3WG8N1U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58782/b7db75_ape2.jpg",
+      "excerpt": "Un modello pensato per la pulizia dei pavimenti che mappa la casa con LiDAR, supera ostacoli fino a 2 cm e può raccogliere automaticamente la polvere nella base per fino a 7…",
+      "image": "https://images.dday.it/a3Vj_d2OeakPW1n4ArVTddR_9u8q7eeGPUQT3WG8N1U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58782/b7db75_ape2.jpg",
+      "publishedAt": "2026-09-17T13:13:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "DAZN unisce Full e NFL Game Pass: nuovo bundle da 44,99 euro al mese",
+      "link": "https://www.hdblog.it/applicazioni/articoli/n670754/dazn-unisce-full-nfl-game-pass-bundle/",
+      "excerpt": "DAZN ha aggiunto alla propria offerta un nuovo bundle",
+      "image": "https://hd2.tudocdn.net/1371822?w=660",
+      "publishedAt": "2026-09-17T13:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Recensione Huawei FreeBuds Neo: gli auricolari che si sentono bene e non si sentono addosso",
+      "link": "https://images.dday.it/Ri4RC--9btI1tJfgptbB12OZG9r2wxYMVUQRL5zgkrQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58773/e92831_P1233797.jpg",
+      "excerpt": "La famiglia di auricolari Huawei accoglie un nuovo componente. È il più piccolo ed è anche il più leggero: le nuove FreeBuds Neo, in meno di 5 grammi, provano a far dimenticare le…",
+      "image": "https://images.dday.it/Ri4RC--9btI1tJfgptbB12OZG9r2wxYMVUQRL5zgkrQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58773/e92831_P1233797.jpg",
+      "publishedAt": "2026-09-17T13:05:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Starlink e FRITZ! contro il digital divide: il caso dell'Agriturismo Monte Sereo",
+      "link": "https://www.hdblog.it/hardware/articoli/n670753/starlink-fritz-digital-divide-agriturismo-padova/",
+      "excerpt": "Ora i turisti possono soggiornare nel cuore dei Colli Euganei senza rinunciare alle comodità di un buon servizio internet.",
+      "image": "https://hd2.tudocdn.net/1356055?w=660",
+      "publishedAt": "2026-09-17T13:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Con iOS 27.2 arriverà in Italia per iPhone il “filtro scocciatori” sulle chiamate",
+      "link": "https://images.dday.it/vSq1eJyoTSJa3IeXZv1vPBaL40-mvFHIG3-T8F7eTFA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58783/4d8805_Depositphotos_459104474_XL.jpg",
+      "excerpt": "Con iOS 27.2 Apple sembra pronta a portare in Italia il Call Screening. L’iPhone chiede ai numeri sconosciuti chi sono e perché chiamano prima ancora di squillare... Leggi tutto",
+      "image": "https://images.dday.it/vSq1eJyoTSJa3IeXZv1vPBaL40-mvFHIG3-T8F7eTFA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58783/4d8805_Depositphotos_459104474_XL.jpg",
+      "publishedAt": "2026-09-17T13:00:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Migliori Tostapane 2026 per Rapporto Qualità Prezzo",
+      "link": "https://www.hdblog.it/home/guide/n670027/migliori-tostapane/",
+      "excerpt": "Come scegliere il tostapane perfetto senza spendere troppo. Guida e recensione dei migliori modelli.",
+      "image": "https://hd2.tudocdn.net/1371201?w=660",
+      "publishedAt": "2026-09-17T12:43:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Plenitude On The Road, da ottobre tre abbonamenti per la ricarica delle auto elettriche. Da 45 euro al mese",
+      "link": "https://images.dday.it/_Wg18yYZeRPQccE_p4dkb7-brWDjkgYGsxfCgUXXXcs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58781/b62d10_Depositphotos_799337238_XL.jpg",
+      "excerpt": "Dal 1° ottobre arrivano Smart Road, Fast Road e Open Road, con pacchetti da 100 a 200 kWh mensili... Leggi tutto",
+      "image": "https://images.dday.it/_Wg18yYZeRPQccE_p4dkb7-brWDjkgYGsxfCgUXXXcs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58781/b62d10_Depositphotos_799337238_XL.jpg",
+      "publishedAt": "2026-09-17T12:41:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Niente bollo auto nel 2027: cosa sappiamo",
+      "link": "https://images.dday.it/JBUuD7swyJFUiLrL5ilOxW70WlNjg4Sum4z4jN2JHZw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58780/8377ac_Depositphotos_123177136_XL.jpg",
+      "excerpt": "Quali veicoli sono esentati, che succede a chi ha più di un veicolo e altre domande: la guida... Leggi tutto",
+      "image": "https://images.dday.it/JBUuD7swyJFUiLrL5ilOxW70WlNjg4Sum4z4jN2JHZw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58780/8377ac_Depositphotos_123177136_XL.jpg",
+      "publishedAt": "2026-09-17T12:08:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Google Home apre la porta agli agenti IA: con MCP la casa non dipende più da un solo assistente",
+      "link": "https://images.dday.it/uWIuZHbf1dgQo3iV9_Uod3Uqd2NFvAj1u4hZ20-phIY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58779/747ae9_small_thread-467705013-16615446470770111905_copia.png",
+      "excerpt": "La casa connessa di Google non sarà più legata a un solo assistente: Home MCP apre l’accesso agli agenti IA compatibili, anche sviluppati da altre aziende... Leggi tutto",
+      "image": "https://images.dday.it/uWIuZHbf1dgQo3iV9_Uod3Uqd2NFvAj1u4hZ20-phIY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58779/747ae9_small_thread-467705013-16615446470770111905_copia.png",
+      "publishedAt": "2026-09-17T10:47:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Il robot che lava i vetri e si pulisce da solo è in offerta: ECOVACS W2 PRO OMNI",
+      "link": "https://images.dday.it/B3I5ZwUlD3EK9Wyd7wMzv4AXJJCfaGBSIrDZ1MnsWWU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58778/64da7b_ape2.jpg",
+      "excerpt": "Pulisce le finestre in autonomia e, una volta finito, la stazione lava il panno senza bisogno di interventi manuali. Ora in offerta su Amazon 349 euro... Leggi tutto",
+      "image": "https://images.dday.it/B3I5ZwUlD3EK9Wyd7wMzv4AXJJCfaGBSIrDZ1MnsWWU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58778/64da7b_ape2.jpg",
+      "publishedAt": "2026-09-17T09:03:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Google Traduttore, la traduzione vocale offline arriva sui Pixel: la nostra (breve) prova",
@@ -59,218 +266,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "La smart home si controlla dalla console: il fascino di manopole e tasti contro le app",
-      "link": "https://www.hdblog.it/domotica/articoli/n670698/console-fai-da-te-illuminazione-smart-analogica/",
-      "excerpt": "Compatibile con Home Assistant.",
-      "image": "https://hd2.tudocdn.net/1371680?w=660",
-      "publishedAt": "2026-09-17T08:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Anche i robot hanno la loro ambulanza, succede in Giappone",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n670700/ambulanza-robot-umanoidi-giappone/",
-      "excerpt": "In Giappone un’ambulanza ripara i robot e porta sul posto un umanoide sostitutivo.",
-      "image": "https://hd2.tudocdn.net/1371682?w=660",
-      "publishedAt": "2026-09-17T08:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Huawei presenta le nuove FreeBuds Neo: caratteristiche, prezzo e disponibilità",
-      "link": "https://www.hdblog.it/tecnologia/offerte/n670434/huawei-presenta-le-nuove-freebuds-neo-caratteristiche-prezzo-e-disponibilita/",
-      "excerpt": "Huawei FreeBuds Neo arrivano in Italia a 129 euro. Con il codice ABLOGNEO si ottengono 35 euro di sconto fino al 25 ottobre: il prezzo scende a 94 euro",
-      "image": "https://hd2.tudocdn.net/1371073?w=660",
-      "publishedAt": "2026-09-17T08:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Recensione Horizon eSIM, un servizio semplice e conveniente",
-      "link": "https://www.tomshw.it/smartphone/recensione-horizon-esim-un-servizio-semplice-e-conveniente",
-      "excerpt": "Pianificare un viaggio al di fuori dell'Unione Europea porta sempre con sé una certezza quasi matematica, un piccolo brivido freddo lungo la schiena che accomuna tutti i…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111213/Horizon-eSIM-la-soluzione-smart-per-internet-in-viaggio-che-ti-rimborsa-mentre-navighi.jpg",
-      "publishedAt": "2026-09-17T08:30:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Apple assieme a Nvidia per l'IA, ecco cosa potrebbe succedere",
-      "link": "https://www.tomshw.it/smartphone/apple-weighs-return-to-server-market-with-nvidia-networking-technology",
-      "excerpt": "Apple sta studiando un rientro nel mercato dei server, abbandonato nel 2011 con la fine di Xserve, questa volta con una macchina rack dedicata all'intelligenza artificiale e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/85397/macbook-neo-il-mac-economico-con-chip-da-iphone-2026-03-03-n6a0b3dm4rlmj9umbUE2Emr.png",
-      "publishedAt": "2026-09-17T08:30:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori plotter da taglio per hobby (2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-plotter-da-taglio-per-hobby",
-      "excerpt": "Cricut Maker 4 è il miglior plotter da taglio hobbistico della selezione: lavora oltre 300 materiali e può tagliare, disegnare, cordonare, incidere e applicare lamine con gli…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113894/guide-thw-1248112.png",
-      "publishedAt": "2026-09-17T08:24:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Xiaomi ha un nuovo pediluvio che massaggia i piedi e sterilizza i condotti",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n670701/xiaomi-pediluvio-smart-massaggio-piedi-prezzo/",
-      "excerpt": "Il nuovo pediluvio Xiaomi Mijia combina massaggio, riscaldamento dell’acqua e sterilizzazione UV interna, con una vasca più profonda e timer regolabile fino a 60 minuti",
-      "image": "https://hd2.tudocdn.net/1371670?w=660",
-      "publishedAt": "2026-09-17T08:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Garmin Edge 550 a 399€, il minimo storico per pedalare con mappe precise",
-      "link": "https://www.tomshw.it/offerte/garmin-edge-550-a-399eur-il-minimo-storico-per-pedalare-con-mappe-precise",
-      "excerpt": "Garmin Edge 550 costa 399€ su Amazon, dai 449€ di partenza con uno sconto dell’11%: è il minimo storico. Mappe dedicate alla bici, comandi a pulsante e rilevamento GPS avanzato lo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113902/tomshw-offer-1248257.png",
-      "publishedAt": "2026-09-17T08:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il primo Googlebook di Dell potrebbe essere marchiato XPS",
-      "link": "https://www.hdblog.it/portatili/articoli/n670702/dell-xps-googlebook-specifiche/",
-      "excerpt": "Display da 13,4\" e chip ARM Qualcomm.",
-      "image": "https://hd2.tudocdn.net/1312547?w=660",
-      "publishedAt": "2026-09-17T08:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Un bug in iOS 27 blocca gli iPhone, come risolvere?",
-      "link": "https://www.tomshw.it/smartphone/un-bug-in-ios-27-blocca-gli-iphone-come-risolvere",
-      "excerpt": "Apple ha distribuito la versione stabile di iOS 27 il 14 settembre 2026 e, a pochi giorni dal rilascio globale, gli utenti hanno individuato una sequenza di gesti che manda…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/102952/iOS-27-Next-to-iPhone.jpg",
-      "publishedAt": "2026-09-17T08:15:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Lenti a contatto hi-tech: lo stress si misura dalle lacrime",
-      "link": "https://www.hdblog.it/indossabili/articoli/n670688/lenti-contatto-hi-tech-misurare-stress/",
-      "excerpt": "Sensori nelle lenti misurano la serotonina nelle lacrime per monitorare lo stress.",
-      "image": "https://hd2.tudocdn.net/1371667?w=660",
-      "publishedAt": "2026-09-17T08:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Nuove schede grafiche Nvidia e AMD rimandate, ecco quanto dovrete aspettare",
-      "link": "https://www.tomshw.it/hardware/nvidia-and-amds-next-gaming-gpus-could-be-delayed-until-2028-because-ai-pays-better",
-      "excerpt": "Le prossime generazioni di schede grafiche per il gioco su PC rischiano di arrivare molto più tardi del previsto. Rispondendo a una domanda sui forum di AnandTech, il leaker…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/110471/rtx-5080-ora-o-geforce-rtx-5080-super-cosa-conviene.png",
-      "publishedAt": "2026-09-17T08:08:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Un mese con Redmi Note 17 Pro Max: ha quasi 10.000mAh di batteria | VIDEO",
-      "link": "https://www.hdblog.it/smartphone/recensioni/n669872/redmi-note-17-pro-max-video-prova/",
-      "excerpt": "Abbiamo messo alla prova il nuovo Redmi Note 17 Pro Max e la sua batteria da quasi 10.000 mAh, che promette fino a 3 giorni di utilizzo con una sola carica.",
-      "image": "https://hd2.tudocdn.net/1371662?w=660",
-      "publishedAt": "2026-09-17T08:01:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "PS2 finalmente hackerata, ma non per quello che pensate",
-      "link": "https://www.tomshw.it/videogioco/ps2-finalmente-hackerata-ma-non-per-quello-che-pensate",
-      "excerpt": "Uno degli ultimi segreti hardware della PlayStation 2 è caduto dopo 26 anni: il 13 settembre il reverse engineer canadese DiscoStarslayer ha annunciato di aver estratto il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/01/80589/ps2-preoccupava-i-militari-rivela-dev-di-ff9-2026-01-09-MsegxPMdpt10ds9uq3jfNPuAYK.png",
-      "publishedAt": "2026-09-17T08:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Logitech G305 LIGHTSPEED al 47%, 250 ore con una batteria: un affare",
-      "link": "https://www.tomshw.it/offerte/logitech-g305-lightspeed-al-47-250-ore-con-una-batteria-un-affare",
-      "excerpt": "Il Logitech G305 LIGHTSPEED costa 31,82€ su Amazon, da 59,99€: lo sconto del 47% equivale a 28,17€ risparmiati e porta il mouse al suo minimo storico. Tra collegamento wireless da…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113898/tomshw-offer-1248166.png",
-      "publishedAt": "2026-09-17T07:49:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "La chat di Claude e Cowork diventano una cosa sola: sparisce la possibilità di scelta perché decide l’IA",
       "link": "https://images.dday.it/zgbNVkFx3h12q8qXDPXnH5L7Hn46_hR3VYUa0DKwlY4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58775/d43916_Immagine_Codex_17_set_2026__09_41_56.png",
       "excerpt": "La scelta tra i due ambienti non è più disponibile perché di fatto l’ambiente diventa uno solo; anche perché prima della modifica gli utenti non sapevano come scegliere l’ambiente…",
       "image": "https://images.dday.it/zgbNVkFx3h12q8qXDPXnH5L7Hn46_hR3VYUa0DKwlY4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58775/d43916_Immagine_Codex_17_set_2026__09_41_56.png",
       "publishedAt": "2026-09-17T07:43:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "In viaggio tra Sud Africa e Thailandia con Oppo Find X9 Ultra. Più vicino di quanto si pensi ad una vera fotocamera",
-      "link": "https://images.dday.it/JVY0hgMtuZd3hdaodZHGLDbv4ZvMrKC1WzTLl__ksZk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58727/9cc585_oppo_find_x9.jpg",
-      "excerpt": "Un telefono forse per pochi, anche per il prezzo, ma uno smartphone che ha due caratteristiche uniche che lo avvicinano molto a quello che può fare una fotocamera: il…",
-      "image": "https://images.dday.it/JVY0hgMtuZd3hdaodZHGLDbv4ZvMrKC1WzTLl__ksZk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58727/9cc585_oppo_find_x9.jpg",
-      "publishedAt": "2026-09-17T06:58:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Canon EOS R8 Mark II, mirrorless full frame da viaggio. Piccola, stabilizzata e capace di scattare in 3D",
-      "link": "https://images.dday.it/s4WzaYyFZncsqOA3S-kpYx-ZvisvoG38Jw5DSgfZpGE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58772/c1ebad_EOS_R8_Mark_II_-Flatlay-Frauki-622836.jpg",
-      "excerpt": "Tre anni dopo la EOS R8, Canon aggiorna la sua full frame più leggera con lo stabilizzatore integrato da 7,5 stop, un autofocus intelligente, il joystick posteriore che mancava e…",
-      "image": "https://images.dday.it/s4WzaYyFZncsqOA3S-kpYx-ZvisvoG38Jw5DSgfZpGE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58772/c1ebad_EOS_R8_Mark_II_-Flatlay-Frauki-622836.jpg",
-      "publishedAt": "2026-09-16T18:52:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il bollo auto sarà abolito per auto di piccola e media potenza e motocicli. Una sola agevolazione per cittadino",
-      "link": "https://images.dday.it/tSEUZ3fofYHzoUUPxGc6QAaMo94pEtPqfriQvUXfYA8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58771/14cde4_Depositphotos_273653916_XL.jpg",
-      "excerpt": "Lo ha deciso il Consiglio dei Ministri, anche se mancano ancora i dettagli tecnici riguardo alla potenza massima... Leggi tutto",
-      "image": "https://images.dday.it/tSEUZ3fofYHzoUUPxGc6QAaMo94pEtPqfriQvUXfYA8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58771/14cde4_Depositphotos_273653916_XL.jpg",
-      "publishedAt": "2026-09-16T15:00:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Panasonic lancia una nuova ottica 20 mm Lumix full frame ultracompatta e leggera",
-      "link": "https://images.dday.it/Ti9K93uF9L3brbMd3AkZIaLB-HjUUBkYyo9ncpISFik/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58769/c0079b_lumix-S-S20EK-lifestyleimage-B2_16X9.jpg",
-      "excerpt": "La nuova ottica per fotocamere full frame L-Mount offre un’apertura di F2.5, resistenza a schizzi e polvere e un corpo estremamente compatto e leggero pensato per abbinarsi alla…",
-      "image": "https://images.dday.it/Ti9K93uF9L3brbMd3AkZIaLB-HjUUBkYyo9ncpISFik/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58769/c0079b_lumix-S-S20EK-lifestyleimage-B2_16X9.jpg",
-      "publishedAt": "2026-09-16T14:51:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Arriva Just Watch TV. Film gratis (ma con pubblicità) o paghi l'abbonamento",
-      "link": "https://images.dday.it/FYS2-OaIAd9nc3-e--9QwTh5YDjN0BPVREQFhyd736Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58770/63fd10_JWTV_Logo__dark_bg_.png",
-      "excerpt": "La piattaforma che aiuta a trovare film e serie proporrà presto anche un servizio di visione, con contenuti gratuiti con pubblicità, noleggio e un’opzione senza annunci... Leggi…",
-      "image": "https://images.dday.it/FYS2-OaIAd9nc3-e--9QwTh5YDjN0BPVREQFhyd736Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58770/63fd10_JWTV_Logo__dark_bg_.png",
-      "publishedAt": "2026-09-16T14:42:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Samsung Display ha realizzato un super display OLED per smartphone 2K a 165 Hz e che brilla a 10.000 nit",
-      "link": "https://images.dday.it/ZyyGDUd_qeu2o--4ljKIut_JXw3tKCFudsZsaPNQC44/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58767/f6a3f4_9yGXflAfzu_20260915183309.jpg",
-      "excerpt": "Il nuovo display è dedicato a smartphone da gaming, porta la risoluzione da 1 a 2K rispetto al modello precedente, ma soprattutto è luminosissimo e nonostante ciò consuma il 30%…",
-      "image": "https://images.dday.it/ZyyGDUd_qeu2o--4ljKIut_JXw3tKCFudsZsaPNQC44/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58767/f6a3f4_9yGXflAfzu_20260915183309.jpg",
-      "publishedAt": "2026-09-16T13:25:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Fire TV, ritorna il sideload delle app. Amazon: \"Era un bug\"",
-      "link": "https://images.dday.it/yX-qEI_b_UJ1Sp8JIT3Ve97MnWgHfcnLnzTDKNRY5-M/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58768/887d69_firetvstick.jpg",
-      "excerpt": "Un aggiornamento a fine agosto aveva fatto sparire o svuotare l’elenco “Installa app sconosciute” su alcuni dispositivi. Secondo Amazon non si trattava di una scelta…",
-      "image": "https://images.dday.it/yX-qEI_b_UJ1Sp8JIT3Ve97MnWgHfcnLnzTDKNRY5-M/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58768/887d69_firetvstick.jpg",
-      "publishedAt": "2026-09-16T13:14:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "L’UE approva la nuova commissione sugli acquisti extra-UE. Ma non c’era già il dazio da 3 euro?",
-      "link": "https://images.dday.it/gEiLBJ5XeI3SpBj33807JgWovZLCpbvpt3P2V84gS-M/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58766/9ae3e5_Depositphotos_547299816_XL.jpg",
-      "excerpt": "L’UE dà il via libera allla riforma doganale: piattaforme e venditori extra-UE diventano importatori responsabili e arriva una nuova “handling fee”, distinta dal dazio da 3…",
-      "image": "https://images.dday.it/gEiLBJ5XeI3SpBj33807JgWovZLCpbvpt3P2V84gS-M/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58766/9ae3e5_Depositphotos_547299816_XL.jpg",
-      "publishedAt": "2026-09-16T13:08:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
