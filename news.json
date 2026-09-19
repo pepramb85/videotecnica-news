@@ -1,26 +1,143 @@
 {
-  "generatedAt": "2026-09-19T08:25:12.163090+00:00",
+  "generatedAt": "2026-09-19T13:36:38.320854+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Segway-Ninebot E2 Plus E II a 249€, doppia sospensione per la città",
-      "link": "https://www.tomshw.it/offerte/segway-ninebot-e2-plus-e-ii-a-249eur-doppia-sospensione-per-la-citta",
-      "excerpt": "Segway-Ninebot E2 Plus E II costa 249€ su Amazon, anziché 256,99€, con uno sconto del 3%. La doppia sospensione anteriore e gli pneumatici che non richiedono manutenzione lo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114252/tomshw-offer-1271440.png",
-      "publishedAt": "2026-09-19T08:18:00+00:00",
+      "title": "Vimar 02912 a 119,91€, il comfort si regola dall’app e con la voce",
+      "link": "https://www.tomshw.it/offerte/vimar-02912-a-11991eur-il-comfort-si-regola-dallapp-e-con-la-voce",
+      "excerpt": "Vimar 02912 costa 119,91€ su Amazon, invece di 127,33€, con uno sconto del 6% e 7,42€ di risparmio. Permette di gestire riscaldamento e condizionamento dal display, dall’app o con…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114263/tomshw-offer-1271701.png",
+      "publishedAt": "2026-09-19T13:18:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Migliori pentole a pressione elettriche (2026)",
-      "link": "https://www.tomshw.it/offerte/migliori-pentole-a-pressione-elettriche",
-      "excerpt": "Instant Pot Duo 7-in-1 da 5,7 L è la migliore pentola a pressione elettrica per la maggior parte delle famiglie: offre una capacità equilibrata, recipiente in acciaio inox e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114250/guide-thw-1271402.png",
-      "publishedAt": "2026-09-19T08:18:00+00:00",
+      "title": "Nordic presenta il chip nRF54LC10A: smart home più economica?",
+      "link": "https://www.tomshw.it/hardware/nordic-presenta-il-chip-nrf54lc10a-smart-home-piu-economica",
+      "excerpt": "Nordic Semiconductor ha annunciato nRF54LC10A, un nuovo system-on-chip della famiglia nRF54L destinato a dispositivi connessi economici, dai localizzatori di oggetti ai sensori…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114236/nordic-presenta-il-chip-nrf54lc10a-smart-home-piu-economica.png",
+      "publishedAt": "2026-09-19T13:00:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Nintendo Switch 2 Pro Controller al minimo storico, con 25€ eShop inclusi",
+      "link": "https://www.tomshw.it/offerte/nintendo-switch-2-pro-controller-al-minimo-storico-con-25eur-eshop-inclusi",
+      "excerpt": "Il Nintendo Switch 2 Pro Controller con carta eShop da 25€ costa 94,99€ su Amazon, anziché 114,99€, con il 17% di sconto. È il minimo storico del bundle e riunisce in un solo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114262/tomshw-offer-1271666.png",
+      "publishedAt": "2026-09-19T12:19:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Fare lo sviluppatore oggi non è più (solo) questione di scrivere codice",
+      "link": "https://www.tomshw.it/business/fare-lo-sviluppatore-oggi-non-e-piu-solo-questione-di-scrivere-codice",
+      "excerpt": "Per molti anni abbiamo guardato al programmatore come a un professionista di alto livello. Imparava molti linguaggi, ed era in grado di far fare alla macchina ciò che serviva. A…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114215/15-non-e-il-codice-il-lavoro-difficile.jpg",
+      "publishedAt": "2026-09-19T12:18:03+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il nuovo monitor ASRock arriva a 720 Hz: meglio fluidità o dettaglio?",
+      "link": "https://www.tomshw.it/hardware/asrock-tco27qxb-arriva-a-720-hz-meglio-fluidita-o-dettaglio",
+      "excerpt": "ASRock amplia la gamma Taichi con tre nuovi monitor gaming OLED da 27 pollici. Il modello che spinge più in alto la frequenza è ASRock TCO27QXB, capace di raggiungere 720 Hz…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114234/asrock-tco27qxb-arriva-a-720-hz-meglio-fluidita-o-dettaglio.png",
+      "publishedAt": "2026-09-19T12:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Un agente ha modificato da solo il modello che lo faceva funzionare, senza che nessuno glielo avesse chiesto",
+      "link": "https://www.tomshw.it/business/un-agente-ha-modificato-da-solo-il-modello-che-lo-faceva-funzionare-senza-che-nessuno-glielo-avesse-chiesto",
+      "excerpt": "Ricercatori della società di sicurezza AI Irregular hanno chiesto a un coding agent di risolvere un problema su un'applicazione che restituiva risposte sbagliate, basata su un…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114194/09-agente-ai-modifica-modello-irregular.jpg",
+      "publishedAt": "2026-09-19T11:41:43+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Anker SOLIX S2000 alimenta il frigo per 35 ore: backup serio a 1.199,99€",
+      "link": "https://www.tomshw.it/offerte/anker-solix-s2000-alimenta-il-frigo-per-35-ore-backup-serio-a-119999eur",
+      "excerpt": "Anker SOLIX S2000 costa 1.199,99€ su Amazon e racchiude 2.010 Wh in una power station progettata per backup domestico, camper e lavoro lontano dalla rete. Fino a 35 ore di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114259/tomshw-offer-1271613.png",
+      "publishedAt": "2026-09-19T11:19:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Un uomo con SLA migliora dopo la terapia a RNA: chi può beneficiarne?",
+      "link": "https://www.tomshw.it/scienze/un-uomo-con-sla-migliora-dopo-la-terapia-a-rna-chi-puo-beneficiarne",
+      "excerpt": "Un medico con una rara forma genetica di sclerosi laterale amiotrofica (SLA) ha mostrato un miglioramento dei sintomi dopo aver ricevuto una terapia sperimentale diretta contro…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114226/un-uomo-con-sla-migliora-dopo-la-terapia-a-rna-chi-puo-beneficiarne.png",
+      "publishedAt": "2026-09-19T11:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "NIS2, a ottobre scade il primo obbligo per le aziende in elenco, meglio controllare la data adesso",
+      "link": "https://www.tomshw.it/business/nis2-a-ottobre-scade-il-primo-obbligo-per-le-aziende-in-elenco-meglio-controllare-la-data-adesso",
+      "excerpt": "Le aziende inserite per la prima volta nell'elenco dei soggetti NIS nel corso del 2025 hanno diciotto mesi dalla comunicazione di inserimento per attuare le misure di sicurezza di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114179/11-nis2-vademecum-acn-scadenza-ottobre.jpg",
+      "publishedAt": "2026-09-19T10:53:25+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "LG NANO AI 43 pollici scende a 369€, 5 anni di aggiornamenti fanno la differenza",
+      "link": "https://www.tomshw.it/offerte/lg-nano-ai-43-pollici-scende-a-369eur-5-anni-di-aggiornamenti-fanno-la-differenza",
+      "excerpt": "LG NANO AI UHD 43 pollici costa 369€ su Amazon, invece dei 459€ di listino, con uno sconto del 20%. Il formato compatto incontra un sistema smart pensato per restare attuale,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114258/tomshw-offer-1271605.png",
+      "publishedAt": "2026-09-19T10:49:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Account Google, dalla privacy all'eredità digitale: cosa sapere",
+      "link": "https://www.hdblog.it/google/articoli/n670870/account-google-funzioni-privacy-eredita-digitale/",
+      "excerpt": "Le impostazioni per gestire al meglio i dati personali.",
+      "image": "https://hd2.tudocdn.net/1372123?w=660",
+      "publishedAt": "2026-09-19T09:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Casio Edifice EFS-S660: zaffiro e ricarica solare a meno di 200 euro",
+      "link": "https://www.hdblog.it/indossabili/articoli/n670944/casio-edifice-efs-s660-vetro-zaffiro-solare/",
+      "excerpt": "Due cronografi compatti con vetro zaffiro, ricarica solare e autonomia di cinque mesi.",
+      "image": "https://hd2.tudocdn.net/1372300?w=660",
+      "publishedAt": "2026-09-19T09:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Formattare lo smartphone Android con un PIN: non è così semplice come sembra",
+      "link": "https://www.hdblog.it/smartphone/articoli/n670728/formattare-smartphone-android-con-pin/",
+      "excerpt": "Un test mostra una serie di blocchi del sistema operativo.",
+      "image": "https://hd2.tudocdn.net/1371786?w=660",
+      "publishedAt": "2026-09-19T08:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Fusione nucleare: miliardi investiti, ma le centrali restano lontane",
+      "link": "https://www.hdblog.it/green/articoli/n670942/fusione-nucleare-centrali-restano-lontane/",
+      "excerpt": "La fusione funziona nei test, trasformarla in una centrale è un altro problema.",
+      "image": "https://hd2.tudocdn.net/1364586?w=660",
+      "publishedAt": "2026-09-19T08:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "iPhone 17 Pro Max, ultimi pezzi in sconto su Amazon: è lo smartphone Apple da prendere?",
+      "link": "https://www.hdblog.it/smartphone/offerte/n670951/iphone-17-pro-max-offerta-amazon-sett26/",
+      "excerpt": "iPhone 17 Pro Max è in offerta con sconti di fine serie su Amazon per questo weekend: sono gli ultimi pezzi.",
+      "image": "https://hd2.tudocdn.net/1366742?w=660",
+      "publishedAt": "2026-09-19T08:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
     },
     {
       "title": "Trackpad che sporge dal notebook? Attenzione alla batteria",
@@ -32,22 +149,13 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Un modello di virus si assembla in diretta: aiuterà i vaccini?",
-      "link": "https://www.tomshw.it/scienze/un-modello-di-virus-si-assembla-in-diretta-aiutera-i-vaccini",
-      "excerpt": "Un gruppo dell’Università di Oxford, con Roi Asor e Philipp Kukura, ha osservato in tempo reale l’assemblaggio di una particella che riproduce il guscio dei virus. Lo studio,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114223/un-modello-di-virus-si-assembla-in-diretta-aiutera-i-vaccini.png",
-      "publishedAt": "2026-09-19T08:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "ENGWE L20 3.0 Pro a 1699€, 160 km per lavoro e gite senza ricaricare",
-      "link": "https://www.tomshw.it/offerte/engwe-l20-30-pro-a-1699eur-160-km-per-lavoro-e-gite-senza-ricaricare",
-      "excerpt": "ENGWE L20 3.0 Pro costa 1699€ su Amazon e combina autonomia estesa, ricarica rapida e controllo GPS tramite app. È pensata per alternare tragitti casa-lavoro, salite e uscite nel…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114251/tomshw-offer-1271412.png",
-      "publishedAt": "2026-09-19T07:49:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
+      "title": "HONOR 600 Lite in offerta: un'ottima scelta per un mid-range sotto i 300€",
+      "link": "https://www.hdblog.it/smartphone/offerte/n670948/honor-600-lite-offerta-sett26/",
+      "excerpt": "HONOR 600 Lite è in offerta e ora costa meno di 300 euro: è la scelta giusta per un nuovo mid-range.",
+      "image": "https://hd2.tudocdn.net/1343170?w=660",
+      "publishedAt": "2026-09-19T07:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
     },
     {
       "title": "Il Play Store è pieno di app Huawei Health false",
@@ -59,24 +167,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Prima notifica ufficiale di violazione fatta con AI, arriva dalla Spagna",
-      "link": "https://www.tomshw.it/business/prima-notifica-ufficiale-di-violazione-fatta-con-ai-arriva-dalla-spagna",
-      "excerpt": "L'Agenzia spagnola per la protezione dei dati ha reso pubblica la prima notifica ufficiale di una violazione di dati personali attribuita a un agente di intelligenza artificiale,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114161/08-spagna-primo-attacco-agente-ai.jpg",
-      "publishedAt": "2026-09-19T07:30:19+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "UGREEN Nexode 100W a 33,82€, una presa per laptop, tablet e telefono",
-      "link": "https://www.tomshw.it/offerte/ugreen-nexode-100w-a-3382eur-una-presa-per-laptop-tablet-e-telefono",
-      "excerpt": "UGREEN Nexode 100W costa 33,82€ su Amazon, anziché 49,99€, con uno sconto del 32%. Le quattro porte consentono di sostituire più alimentatori sulla scrivania o nel bagaglio,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114248/tomshw-offer-1271354.png",
-      "publishedAt": "2026-09-19T07:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Un errore dell’AI ha quasi spinto gli USA contro una nave cinese",
       "link": "https://www.hdblog.it/tecnologia/articoli/n670943/ai-usa-cina-nave-errore-militare/",
       "excerpt": "Un falso rapporto AI ha quasi portato gli USA a intercettare una nave cinese",
@@ -86,101 +176,11 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Treno o autobus ogni giorno? 8 gadget tech che vi cambieranno il viaggio",
-      "link": "https://www.tomshw.it/smartphone/treno-o-autobus-ogni-giorno-8-gadget-tech-che-vi-cambieranno-il-viaggio",
-      "excerpt": "Ogni pendolare conosce fin troppo bene la routine: la corsa mattutina per prendere il primo mezzo disponibile, il brusio di sottofondo delle carrozze affollate, le notifiche di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114212/Treno-o-autobus-ogni-giorno-5-gadget-tech-che-vi-cambieranno-il-viaggio.jpg",
-      "publishedAt": "2026-09-19T07:11:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il ritorno di Metal Slug: la Ultimate Collection nel 2027",
-      "link": "https://www.tomshw.it/videogioco/metal-slug-torna-con-ultimate-collection-dieci-titoli-su-pc-e-console-nel-2027",
-      "excerpt": "Metal Slug Ultimate Collection arriverà nel 2027 e riunirà quasi tutta la traiettoria principale della serie in una sola raccolta. SNK l'ha presentata ufficialmente il 9 settembre…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113672/amarcord-cover-1228425.png",
-      "publishedAt": "2026-09-19T07:08:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Due catene di vulcani hanno una fonte comune: cosa le tiene separate?",
-      "link": "https://www.tomshw.it/scienze/due-catene-di-vulcani-hanno-una-fonte-comune-cosa-le-tiene-separate",
-      "excerpt": "Un gruppo di ricercatori guidato da Ben Mather, dell’Università di Melbourne, ha pubblicato su Gondwana Research uno studio che propone un’origine comune per le catene vulcaniche…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114222/due-catene-di-vulcani-hanno-una-fonte-comune-cosa-le-tiene-separate.png",
-      "publishedAt": "2026-09-19T07:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Samsung One UI 9.5: ecco su quali smartphone e tablet potrebbe arrivare",
       "link": "https://www.hdblog.it/smartphone/articoli/n670571/samsung-aggiornamento-one-ui-9-5-smartphone-tablet/",
       "excerpt": "Comincia a prendere forma l'ipotetica lista dei tablet e smartphone Samsung che si aggiorneranno a One UI 9.5.",
       "image": "https://hd2.tudocdn.net/1371398?w=660",
       "publishedAt": "2026-09-19T06:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "L’impastatrice Kenwood con bilancia scende a 549,90€, il minimo storico",
-      "link": "https://www.tomshw.it/offerte/limpastatrice-kenwood-con-bilancia-scende-a-54990eur-il-minimo-storico",
-      "excerpt": "L’impastatrice planetaria Kenwood Titanium Chef Baker XL costa 549,90€ su Amazon, invece di 699,93€, con il 21% di sconto. Bilancia integrata, due ciotole e una dotazione completa…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114247/tomshw-offer-1271261.png",
-      "publishedAt": "2026-09-19T06:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il J-50 potrebbe continuare a combattere se il pilota sviene",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n670940/j-50-caccia-cinese-volo-autonomo/",
-      "excerpt": "La Cina studia caccia autonomi capaci di volare senza GPS e assistere il pilota.",
-      "image": "https://hd2.tudocdn.net/1372291?w=660",
-      "publishedAt": "2026-09-19T06:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "L'impresa di Max Verstappen: supera 100 kart in soli 14 giri e appena 35 minuti",
-      "link": "https://www.hdmotori.it/max-verstappen-supera-100-kart/",
-      "excerpt": "Il campione olandese vince la folle gara \"Max vs 100\" partendo dall’ultima posizione contro 100 kartisti dilettanti.",
-      "image": "https://hd2.tudocdn.net/1372294?w=660",
-      "publishedAt": "2026-09-19T06:30:07+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Razer porta il feedback aptico nelle cuffie gaming",
-      "link": "https://www.hdblog.it/indossabili/articoli/n670939/azer-kraken-v4-x-sensa-hd-haptics/",
-      "excerpt": "Cuffie gaming con feedback aptico direzionale, audio 7.1 e driver da 40 mm.",
-      "image": "https://hd2.tudocdn.net/1372289?w=660",
-      "publishedAt": "2026-09-19T06:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Esperimenti biologici con Claude, l'AI entra in laboratorio",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n670938/anthropic-claude-laboratorio-biologia-ai/",
-      "excerpt": "Anthropic porta Claude nel mondo reale con un laboratorio dedicato alla biologia",
-      "image": "https://hd2.tudocdn.net/1372290?w=660",
-      "publishedAt": "2026-09-19T05:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "È Samsung la regina del mercato smartphone nella prima metà del 2026",
-      "link": "https://www.hdblog.it/smartphone/articoli/n670923/mercato-smartphone-h1-2026-samsung-prima-analisi/",
-      "excerpt": "Samsung aumenta la sua quota di mercato: cosa dicono i dati.",
-      "image": "https://hd2.tudocdn.net/1371147?w=660",
-      "publishedAt": "2026-09-18T17:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone Duo è ispirato a uno dei princìpi più famosi di Steve Jobs",
-      "link": "https://www.hdblog.it/smartphone/articoli/n670926/iphone-duo-steve-jobs-intersezione-tecnologia-arte/",
-      "excerpt": "\"La vera magia avviene all'intersezione tra tecnologia e arte\", diceva: e per John Ternus è dove si trova iPhone Duo.",
-      "image": "https://hd2.tudocdn.net/1370650?w=660",
-      "publishedAt": "2026-09-18T17:25:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
