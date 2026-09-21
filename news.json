@@ -1,80 +1,251 @@
 {
-  "generatedAt": "2026-09-21T09:28:07.939215+00:00",
+  "generatedAt": "2026-09-21T16:07:07.531243+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Xiaomi 18 Fold, saranno un salasso anche le riparazioni",
-      "link": "https://www.hdblog.it/smartphone/articoli/n671034/xiaomi-18-fold-riparazioni-costo-componenti-prezzi/",
-      "excerpt": "La sola scheda madre del taglio da 16 GB + 1 TB si avvicina ai 900 euro: il 40% del prezzo complessivo!",
-      "image": "https://hd2.tudocdn.net/1372439?w=660",
-      "publishedAt": "2026-09-21T09:25:00+00:00",
+      "title": "Le nuove Maserati avranno tecnologia cinese? Tra rinascita e sacrilegio",
+      "link": "https://www.hdmotori.it/nuove-maserati-tecnologia-cinese/",
+      "excerpt": "Il marchio del Tridente sarebbe preparando nuovi prodotti con tecnologia asiatica per superare la crisi delle vendite e rilanciare il marchio.",
+      "image": "https://hd2.tudocdn.net/1372617?w=660",
+      "publishedAt": "2026-09-21T16:00:14+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Wimius G1 scontato del 43%, Google TV e 1.100 ANSI per il cinema in casa",
-      "link": "https://www.tomshw.it/offerte/wimius-g1-scontato-del-43-google-tv-e-1100-ansi-per-il-cinema-in-casa",
-      "excerpt": "Wimius G1 costa 183,19€ su Amazon, invece di 319€, con uno sconto del 43%. Google TV integrata, luminosità di 1.100 ANSI e regolazione automatica dell’immagine lo rendono adatto a…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114476/tomshw-offer-1303437.png",
-      "publishedAt": "2026-09-21T09:21:00+00:00",
+      "title": "Ventole del case al massimo: cosa controllare prima di sostituirle",
+      "link": "https://www.tomshw.it/hardware/ventole-case-al-massimo-controlli-pwm-dc-hub-bios",
+      "excerpt": "Se le ventole del case restano sempre al massimo anche dopo aver modificato la curva nel BIOS, controlla prima temperature e giri effettivi, poi il connettore utilizzato, la…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113833/cover.png",
+      "publishedAt": "2026-09-21T16:00:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Sei modi pratici di usare GPT-6 Astra, con i prompt già pronti",
-      "link": "https://www.tomshw.it/business/sei-modi-pratici-di-usare-gpt-6-astra-con-i-prompt-gia-pronti-1",
-      "excerpt": "Un modello capace di eseguire più passaggi da solo cambia anche il modo di interpellarlo: la domanda lascia spazio alla descrizione di un compito, con vincoli e un obiettivo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114380/14-gpt6-astra-prompt-pratici.jpg",
-      "publishedAt": "2026-09-21T09:19:46+00:00",
+      "title": "PC in crash con XMP o EXPO: cosa controllare prima di cambiare RAM?",
+      "link": "https://www.tomshw.it/hardware/pc-crash-xmp-expo-controlli-ram-ddr5",
+      "excerpt": "Se la RAM è instabile dopo aver attivato XMP o EXPO, il primo controllo consiste nel disabilitare il profilo e ripetere le prove con le impostazioni standard JEDEC. Se errori e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113683/cover.png",
+      "publishedAt": "2026-09-21T16:00:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Samsung pronta a dire addio ai Quantum Dot (QLED e Neo QLED)?",
-      "link": "https://www.hdblog.it/tv/articoli/n671031/samsung-addio-qled-neo-quantum-dot/",
-      "excerpt": "La concorrenza sempre più serrata dei colossi cinesi, TCL e HiSense, richiede di spingere su tecnologie più raffinate per differenziarsi.",
-      "image": "https://hd2.tudocdn.net/1349748?w=660",
-      "publishedAt": "2026-09-21T09:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Starship, si passa alla fase operativa: abbiamo la data",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n671029/starship-primo-volo-orbitale-starlink-v3/",
-      "excerpt": "Starship punta all’orbita con sei giri della Terra e 26 nuovi satelliti Starlink V3",
-      "image": "https://hd2.tudocdn.net/1358859?w=660",
-      "publishedAt": "2026-09-21T09:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Microsoft e pubblicità nei videogiochi, nuovo brevetto depositato",
-      "link": "https://www.hdblog.it/microsoft/articoli/n671022/microsoft-brevetto-pubblicita-videogiochi/",
-      "excerpt": "Dialogando direttamente col motore grafico, il sistema saprebbe quando erogare annunci nel modo meno invasivo per il giocatore. Una soluzione valida per i titoli free-to-play?",
-      "image": "https://hd2.tudocdn.net/1362385?w=660",
-      "publishedAt": "2026-09-21T09:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "\"Aggiungi alla Consegna\": la novità Amazon per i ritardatari",
-      "link": "https://www.tomshw.it/altro/amazon-risolve-la-dimenticanza-dopo-lordine-ecco-aggiungi-alla-consegna",
-      "excerpt": "Amazon porta in Italia “Aggiungi alla Consegna”, una nuova funzione pensata per chi completa un ordine e si accorge subito dopo di avere dimenticato qualcosa. I clienti Prime…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114470/amazon-aggiungi-alla-consegna-prime-italia.png",
-      "publishedAt": "2026-09-21T09:03:00+00:00",
+      "title": "ESG fornitori senza consulenti: come raccogliere e verificare i dati con un agente AI",
+      "link": "https://www.tomshw.it/aioperator/esg-fornitori-senza-consulenti-come-raccogliere-e-verificare-i-dati-con-un-agente-ai",
+      "excerpt": "Il cliente principale invia un questionario ESG a fine trimestre. Chiede consumi energetici, elenco dei subfornitori, certificazioni ambientali e policy sul lavoro che in azienda…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113504/04-acq11-cover.jpg",
+      "publishedAt": "2026-09-21T16:00:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "La moto ora si compra da Lidl: una vasta gamma a prezzi stracciati",
-      "link": "https://www.hdmotori.it/moto-lidl-prezzi/",
-      "excerpt": "Lidl inizia a vendere moto e scooter 125 in Germania. Dai modelli Prike 125 al tecnologico scooter XDV i prezzi sono davvero low cost.",
-      "image": "https://hd2.tudocdn.net/1372433?w=660",
-      "publishedAt": "2026-09-21T09:00:34+00:00",
+      "title": "Google crea un’AI di famiglia: gestisce impegni, email e spesa",
+      "link": "https://www.hdblog.it/google/articoli/n671066/google-cc-ai-agente-famiglie/",
+      "excerpt": "Google CC coordina calendari, attività e documenti condivisi fino a sei persone.",
+      "image": "https://hd2.tudocdn.net/1372542?w=660",
+      "publishedAt": "2026-09-21T15:55:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "SteelSeries Rival 3 Wireless Gen 2 a 49,49€, gioca per 200 ore senza cavi",
+      "link": "https://www.tomshw.it/offerte/steelseries-rival-3-wireless-gen-2-a-4949eur-gioca-per-200-ore-senza-cavi",
+      "excerpt": "SteelSeries Rival 3 Wireless Gen 2 costa 49,49€ su Amazon: il prezzo di listino è 59,99€ e lo sconto applicato è del 19%. La doppia modalità wireless permette di passare dal gioco…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114580/tomshw-offer-1304420.png",
+      "publishedAt": "2026-09-21T15:49:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "I Googlebook vogliono reinventare il modo in cui si usa il laptop con l'AI di Gemini",
+      "link": "https://www.hdblog.it/portatili/articoli/n671083/googleboo-gemini-magic-pointer-rambler-rivoluzione/",
+      "excerpt": "Come Google ha ripensato l'esperienza d'uso dei laptop.",
+      "image": "https://hd2.tudocdn.net/1372588?w=660",
+      "publishedAt": "2026-09-21T15:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Bollo auto 2027: spunta l'ipotesi di esenzione per le famiglie numerose",
+      "link": "https://www.hdmotori.it/bollo-auto-2027-esenzione-famiglie-numerose/",
+      "excerpt": "L’esenzione dal pagamento del bollo auto e moto potrebbe essere estesa anche oltre gli 80 KW a categorie specifiche di contribuenti, a partire dalle famiglie con tre o più figli.",
+      "image": "https://hd2.tudocdn.net/1372607?w=660",
+      "publishedAt": "2026-09-21T15:30:25+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Anche Google hackera aziende con l'AI, dopo Anthropic e OpenAI",
+      "link": "https://www.tomshw.it/business/anche-google-hackera-aziende-con-lai-dopo-anthropic-e-openai",
+      "excerpt": "Gemini ha violato i sistemi di tre aziende a maggio 2026, durante un test di sicurezza commissionato da Google alla società israeliana Irregular. Il modello doveva restare dentro…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114530/06-gemini-hackerato-aziende-test-sicurezza.jpg",
+      "publishedAt": "2026-09-21T15:27:54+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "iPad Air 11'' M4: sconto di 130€ su Amazon e lo paghi anche a rate",
+      "link": "https://www.hdblog.it/tablet/offerte/n671085/ipad-air-11-m4-sconto-130-amazon/",
+      "excerpt": "Il tablet perfetto per la produttività e lo studio.",
+      "image": "https://hd2.tudocdn.net/1372603?w=660",
+      "publishedAt": "2026-09-21T15:22:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Googlebook sono realtà: arrivano i laptop con Gemini e OS basato su Android",
+      "link": "https://www.hdblog.it/portatili/articoli/n671079/googlebook-google-ai-laptop-modelli-prezzo/",
+      "excerpt": "I prezzi dei 5 modelli.",
+      "image": "https://hd2.tudocdn.net/1372596?w=660",
+      "publishedAt": "2026-09-21T15:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il videocitofono Wi-Fi Vimar a 229€ salva video e gestisce l’apriporta",
+      "link": "https://www.tomshw.it/offerte/il-videocitofono-wi-fi-vimar-a-229eur-salva-video-e-gestisce-lapriporta",
+      "excerpt": "Il kit videocitofono Wi-Fi Vimar costa 229€ su Amazon e porta in un impianto monofamiliare monitor touch, registrazione locale e gestione dell’apriporta. Il display a colori da 7…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114576/tomshw-offer-1304327.png",
+      "publishedAt": "2026-09-21T15:20:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Codice della Prima guerra mondiale cede dopo 108 anni a GPT-6 Astra",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n671080/gpt-6-astra-codice-prima-guerra-mondiale/",
+      "excerpt": "GPT-6 Astra avrebbe decifrato un messaggio militare tedesco rimasto irrisolto per 108 anni.",
+      "image": "https://hd2.tudocdn.net/1372589?w=660",
+      "publishedAt": "2026-09-21T15:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Kawasaki Ninja H2 2027: la regina sovralimentata si rinnova",
+      "link": "https://www.hdmotori.it/kawasaki-ninja-h2-h2r-2027-novita/",
+      "excerpt": "Kawasaki rinnova la Ninja H2 per il 2027: motore supercharged riprogettato con 209 CV, freni Brembo Hypure, nuova elettronica e la versione pista H2R da 300 CV.",
+      "image": "https://hd2.tudocdn.net/1372591?w=660",
+      "publishedAt": "2026-09-21T15:00:02+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La plastica diventa carburante: potremo usarla per fare il pieno?",
+      "link": "https://www.tomshw.it/scienze/la-plastica-diventa-carburante-potremo-usarla-per-fare-il-pieno",
+      "excerpt": "Un gruppo dell'Oak Ridge National Laboratory ha sviluppato un processo che trasforma il polietilene, la plastica comune di sacchetti e taglieri, in idrocarburi simili a benzina e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114571/la-plastica-diventa-carburante-potremo-usarla-per-fare-il-pieno.png",
+      "publishedAt": "2026-09-21T15:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Oppo A7 Pro Max 5G con batteria da 10.000 mAh varca i confini della Cina",
+      "link": "https://www.hdblog.it/smartphone/articoli/n671061/oppo-a7-pro-max-5g-lancio-fuori-cina/",
+      "excerpt": "Oppo A7 Pro Max 5G è ufficialmente disponibile anche fuori dal mercato cinese.",
+      "image": "https://hd2.tudocdn.net/1372516?w=660",
+      "publishedAt": "2026-09-21T14:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "TypeSafe AI presenta Jev: addio agli LLM per le decisioni?",
+      "link": "https://www.tomshw.it/hardware/typesafe-ai-lancia-jev-per-le-decisioni-quando-sostituisce-i-llm",
+      "excerpt": "TypeSafe AI ha presentato Jev, un modello di intelligenza artificiale progettato per prendere decisioni probabilistiche all'interno di applicazioni software. Anziché sostenere…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114569/typesafe-ai-lancia-jev-per-le-decisioni-quando-sostituisce-i-llm.png",
+      "publishedAt": "2026-09-21T14:50:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Con l'AI dovremmo lavorare meno, e invece inventiamo \"bullshit jobs\". Perché lo facciamo?",
+      "link": "https://www.tomshw.it/business/con-lai-dovremmo-lavorare-meno-e-invece-inventiamo-bullshit-jobs-perche-lo-facciamo",
+      "excerpt": "Chi usa l'AI regolarmente sul lavoro risparmia in media otto ore alla settimana, quanto un'intera giornata lavorativa. Due lavoratori su tre, però, non ricevono nessuna…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114523/05-ai-risparmia-tempo-lavoriamo-di-piu.jpg",
+      "publishedAt": "2026-09-21T14:48:50+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Cinque accessori Trust per studio, lavoro e gaming per ripartire al meglio",
+      "link": "https://www.tomshw.it/hardware/trust-aggiorna-la-scrivania-cinque-accessori-per-studio-lavoro-e-gaming",
+      "excerpt": "Trust aggiorna il proprio catalogo in vista del rientro a scuola e al lavoro con cinque accessori pensati per postazioni molto diverse: dalla scrivania dello studente a quella…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114572/Trust-Vyran-Mouse-ergonomico-multi-wireless-4-(Grande).jpg",
+      "publishedAt": "2026-09-21T14:46:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Googlebook parte da 899 dollari: il nuovo “laptop di Google” unisce Android, ChromeOS e Linux",
+      "link": "https://images.dday.it/xui8kMUvI1-sbnoWEkx1he0qh6r5PyJp367X_lExcxc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58809/6a5760_cov_rScreenshot_2026-09-21_alle_16.34.33_copia.png",
+      "excerpt": "Googlebook non è un semplice Chromebook con Gemini: esegue app Android, integra Chrome e Linux e dialoga direttamente con lo smartphone. Prezzi da 899 dollari, ma l’Italia deve…",
+      "image": "https://images.dday.it/xui8kMUvI1-sbnoWEkx1he0qh6r5PyJp367X_lExcxc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58809/6a5760_cov_rScreenshot_2026-09-21_alle_16.34.33_copia.png",
+      "publishedAt": "2026-09-21T14:40:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "La power station AFERIY da 800W si ricarica in un'ora: ora su Amazon costa meno",
+      "link": "https://images.dday.it/f-rKnNXiL1p5PxuoiejYXAETSNA37vJRbsBGgrq3KX8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58808/894a5c_ape2.jpg",
+      "excerpt": "Può alimentare diversi dispositivi, si ricarica anche con i pannelli solari e integra una batteria LiFePO4 da 512Wh. La power station AFERIY scende di prezzo su Amazon... Leggi…",
+      "image": "https://images.dday.it/f-rKnNXiL1p5PxuoiejYXAETSNA37vJRbsBGgrq3KX8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58808/894a5c_ape2.jpg",
+      "publishedAt": "2026-09-21T14:31:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Recensione Samsung Galaxy S26 FE: sotto i 500 euro il discorso cambia | Video",
+      "link": "https://www.hdblog.it/samsung/recensioni/n670305/recensione-samsung-galaxy-s26-fe/",
+      "excerpt": "Consigliato ma attenzione al prezzo",
+      "image": "https://hd2.tudocdn.net/1371107?w=660",
+      "publishedAt": "2026-09-21T14:31:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Le etichette energetiche anche per i data center: la Commissione Europea vuole definirne i consumi di energia e acqua",
+      "link": "https://images.dday.it/DFMX4fNplbLmzzJy0CFza94jzF_qy4CPrg_I_8PR60w/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58807/db14eb_small_Immagine_Codex_21_set_2026__15_15_30_copia.png",
+      "excerpt": "La nuova etichetta europea valuterà efficienza energetica e uso dell’acqua dei data center con classi da A a G. Per l’Italia emergono valori peggiori della media sull’acqua...…",
+      "image": "https://images.dday.it/DFMX4fNplbLmzzJy0CFza94jzF_qy4CPrg_I_8PR60w/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58807/db14eb_small_Immagine_Codex_21_set_2026__15_15_30_copia.png",
+      "publishedAt": "2026-09-21T13:17:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Mac Mini M6, recensione. Il primo computer con processore a 2 nanometri va fortissimo e consuma poco. Ma costa di più",
+      "link": "https://images.dday.it/CaGzh9S8UZHNmHBrMD3mOGCn67imC9W5SsbbSnXpB2s/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58799/3b5259_DSC02591_t.jpg",
+      "excerpt": "Apple sceglie di far debuttare sul piccolo Mac mini il nuovo processore M6, il primo SoC realizzato interamente a 2 nanometri che condivide la stessa architettura del nuovo A20…",
+      "image": "https://images.dday.it/CaGzh9S8UZHNmHBrMD3mOGCn67imC9W5SsbbSnXpB2s/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58799/3b5259_DSC02591_t.jpg",
+      "publishedAt": "2026-09-21T13:07:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Bonus colonnine, da domani via alle domande. Come funziona e chi può richiederlo",
+      "link": "https://images.dday.it/lwpZEQgi1erQu2ew5rZRDuOGnZOOaSvcbezi2eg8p2Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58806/c94895_Depositphotos_502513286_XL.jpg",
+      "excerpt": "Il contributo arriva fino a 1.500 euro per i privati e a 8.000 euro per i condomìni. Le richieste potranno essere presentate tramite Invitalia fino al 31 gennaio... Leggi tutto",
+      "image": "https://images.dday.it/lwpZEQgi1erQu2ew5rZRDuOGnZOOaSvcbezi2eg8p2Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58806/c94895_Depositphotos_502513286_XL.jpg",
+      "publishedAt": "2026-09-21T10:35:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "La soundbar LG da 300W con subwoofer wireless scende a 99 euro su Amazon",
+      "link": "https://images.dday.it/dFVxTo1JDTljTD2ncoaDXPQycP8uiiOtKLa1jBZSKgw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58804/6198ad_ape2.jpg",
+      "excerpt": "Più bassi, dialoghi più chiari e un sistema semplice da gestire: la soundbar LG con subwoofer wireless è in offerta su Amazon ... Leggi tutto",
+      "image": "https://images.dday.it/dFVxTo1JDTljTD2ncoaDXPQycP8uiiOtKLa1jBZSKgw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58804/6198ad_ape2.jpg",
+      "publishedAt": "2026-09-21T09:56:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Sanremo 2027 limita l’IA generativa nei brani: il contributo creativo deve restare umano",
+      "link": "https://images.dday.it/NYatPY8DK_173OkeW2LRxmDT8cb_Uk0czipA_Z8PkHk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58803/000e8b_Depositphotos_229769508_XL.jpg",
+      "excerpt": "A Sanremo 2027 l’IA generativa non sarà vietata in assoluto. Il discrimine sarà la prevalenza del contributo umano... Leggi tutto",
+      "image": "https://images.dday.it/NYatPY8DK_173OkeW2LRxmDT8cb_Uk0czipA_Z8PkHk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58803/000e8b_Depositphotos_229769508_XL.jpg",
+      "publishedAt": "2026-09-21T09:39:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Un uomo contro un “Terminator”: il primo combattimento tra umano e robot. Il video",
@@ -84,114 +255,6 @@
       "publishedAt": "2026-09-21T08:57:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Un nuovo operatore mobile potrebbe arrivare in Italia: si chiama SY Mobile",
-      "link": "https://www.hdblog.it/virtuali/articoli/n671030/sy-mobile-operatore-virtuale-italia/",
-      "excerpt": "SY Mobile potrebbe diventare un nuovo operatore virtuale italiano. Il marchio è stato depositato per servizi di telefonia, ma al momento il progetto non risulta ancora operativo",
-      "image": "https://hd2.tudocdn.net/1043035?w=660",
-      "publishedAt": "2026-09-21T08:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Amazon lancia 'Aggiungi alla Consegna': nuovi acquisti anche dopo l'ordine",
-      "link": "https://www.hdblog.it/amazon/articoli/n671027/amazon-prime-arriva-aggiungi-consegna/",
-      "excerpt": "La funzione consente di aggiungere prodotti idonei a una consegna in arrivo, anche dopo aver completato l'ordine",
-      "image": "https://hd2.tudocdn.net/1372426?w=660",
-      "publishedAt": "2026-09-21T08:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Einhell TC-OS 1520 da 36,90€ a 29,99€, leviga senza complicazioni",
-      "link": "https://www.tomshw.it/offerte/einhell-tc-os-1520-da-3690eur-a-2999eur-leviga-senza-complicazioni",
-      "excerpt": "La levigatrice orbitale Einhell TC-OS 1520 costa 29,99€ su Amazon, anziché 36,90€, grazie a uno sconto del 19%. Il cambio rapido della carta e il collegamento all’aspirapolvere la…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114467/tomshw-offer-1303350.png",
-      "publishedAt": "2026-09-21T08:50:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Hanno deciso di rallentare l'AI, ora arriva una class action",
-      "link": "https://www.tomshw.it/hardware/hanno-deciso-di-rallentare-lai-ora-arriva-una-class-action",
-      "excerpt": "Quattro utenti che pagano un abbonamento a ChatGPT, Claude, Grok o Gemini hanno depositato venerdì, presso la Corte distrettuale federale della California del Nord, la richiesta…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114465/hanno-deciso-di-rallentare-l-ai-ora-arriva-una-causa-antitrust.png",
-      "publishedAt": "2026-09-21T08:50:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "GTA, spunta un vecchio leak con la prima bozza della mappa di Grand Theft Auto VI",
-      "link": "https://www.hdblog.it/giochi/articoli/n671003/gta-leak-bozza-mappa-grand-theft-auto-vi/",
-      "excerpt": "Rockstar Games si è subito mossa per mettere offline le immagini e i video trapelati: mostravano una prima versione della mappa di GTA 6.",
-      "image": "https://hd2.tudocdn.net/1372373?w=660",
-      "publishedAt": "2026-09-21T08:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Migliori caricatori wireless (2026)",
-      "link": "https://www.tomshw.it/smartphone/migliori-caricatori-wireless",
-      "excerpt": "La ricarica wireless è diventata una soluzione quotidiana per tenere in ordine scrivania, comodino e zaino, ma scegliere uno dei migliori caricatori wireless non significa…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/04/89714/migliori-caricatori-wireless-copertina.jpg",
-      "publishedAt": "2026-09-21T08:42:10+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Galaxy Tab S12 senza segreti prima del lancio: le novità",
-      "link": "https://www.tomshw.it/smartphone/galaxy-tab-s12-senza-segreti-prima-del-lancio-le-novita",
-      "excerpt": "Samsung dovrebbe alzare il velo sui nuovi tablet di fascia alta il prossimo 7 ottobre 2026, ma le informazioni sui Galaxy Tab S12+ e Galaxy Tab S12 Ultra sono già circolate in…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114461/galaxy-tab-s12-senza-segreti-prima-del-lancio-le-novita.png",
-      "publishedAt": "2026-09-21T08:41:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Winamp tornerà nel 2027: la sfida a Spotify",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n671018/winamp-tornera-nel-2027-la-sfida-a-spotify/",
-      "excerpt": "Winamp tornerà nel 2027 con streaming, MP3, radio, podcast e musica cloud.",
-      "image": "https://hd2.tudocdn.net/1372416?w=660",
-      "publishedAt": "2026-09-21T08:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone 18 Pro finisce sotto i ferri: c'è un problema preoccupante",
-      "link": "https://www.tomshw.it/smartphone/iphone-18-pro-finisce-sotto-i-ferri-ce-un-problema-preoccupante",
-      "excerpt": "iFixit ha pubblicato il consueto smontaggio dell'iPhone 18 Pro a pochi giorni dall'arrivo sul mercato, concentrandosi sull'apertura variabile della fotocamera principale, la nuova…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114466/iphone-18-pro-finisce-sotto-i-ferri-c-e-un-problema-preoccupante.png",
-      "publishedAt": "2026-09-21T08:36:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Apple prepara il suo hub per la casa: debutto possibile già il mese prossimo",
-      "link": "https://www.hdblog.it/apple/articoli/n671023/apple-prepara-hub-casa-debutto-ottobre/",
-      "excerpt": "Apple prepara un nuovo dispositivo per la casa con display, fotocamera e microfoni",
-      "image": "https://hd2.tudocdn.net/1198309?w=660",
-      "publishedAt": "2026-09-21T08:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "L'AI ci distruggerà entro il 2030? Jensen Huang risponde così",
-      "link": "https://www.tomshw.it/hardware/lai-ci-distruggera-entro-il-2030-jensen-huang-risponde-cosi",
-      "excerpt": "Jensen Huang, amministratore delegato di NVIDIA, ha escluso qualsiasi scenario di estinzione legato all'intelligenza artificiale entro la fine del decennio. Lo ha detto a Jo Ling…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114464/l-ai-ci-distruggera-entro-il-2030-jensen-huang-risponde-cosis.png",
-      "publishedAt": "2026-09-21T08:29:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Imou 4MP a 25,99€ segue i movimenti e vale ogni euro",
-      "link": "https://www.tomshw.it/offerte/imou-4mp-a-2599eur-segue-i-movimenti-e-vale-ogni-euro",
-      "excerpt": "La telecamera Imou 4MP costa 25,99€ su Amazon, anziché 29,99€, con uno sconto del 13%. La risoluzione 2.5K, la visuale panoramica e il tracciamento automatico permettono di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114462/tomshw-offer-1303249.png",
-      "publishedAt": "2026-09-21T08:20:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Škoda Peaq è il primo SUV elettrico a 7 posti di Škoda: prime impressioni sulla nuova flagship elettrica",
@@ -208,69 +271,6 @@
       "excerpt": "La batteria di iPhone 18 Pro Max supera la soglia dei 20 Wh prevista per il trasporto semplificato. Apple la limita via firmware prima della spedizione e la sblocca…",
       "image": "https://images.dday.it/KdL2FjPt5ixUXN_JgJagDk43OUY72fZGnCCksxAONEk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58801/0e9dab_iphone-18-pro-model-unselect-gallery-1-202609_copia.jpg",
       "publishedAt": "2026-09-21T07:55:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "OpenAI violata passando dal suo forum: i ricercatori di sicurezza sono riusciti ad arrivare fino al codice dell’azienda",
-      "link": "https://images.dday.it/uPRF-7kIAfcgFiXsNgKWPKpXFdc0Q78jcNUwQpfXuHA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58797/b72d8f_Immagine_Codex_18_set_2026__17_25_20.png",
-      "excerpt": "Per fortuna si trattava di ricercatori di sicurezza che si sono fermati quando potevano fare danni e hanno avvisato OpenAI dell’attacco. Chissà cosa sarebbe successo se fosse…",
-      "image": "https://images.dday.it/uPRF-7kIAfcgFiXsNgKWPKpXFdc0Q78jcNUwQpfXuHA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58797/b72d8f_Immagine_Codex_18_set_2026__17_25_20.png",
-      "publishedAt": "2026-09-18T15:26:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Sony BRAVIA 3 in promo: la scelta concreta per entrare nel mondo 4K",
-      "link": "https://images.dday.it/Rk9SivNVuuEWvAp92rcfK-ttJcUa7YHrJeioOJYZ2jw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/56881/6d6ec8_ape2.jpg",
-      "excerpt": "Colori realistici, audio coinvolgente e Google TV integrata: una soluzione completa per film, serie e gaming, ora più accessibile grazie allo sconto Amazon... Leggi tutto",
-      "image": "https://images.dday.it/Rk9SivNVuuEWvAp92rcfK-ttJcUa7YHrJeioOJYZ2jw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/56881/6d6ec8_ape2.jpg",
-      "publishedAt": "2026-09-18T13:51:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "L’estensione di ChatGPT arriva anche in Word su tutti i piani, anche quello gratuito",
-      "link": "https://images.dday.it/grs5h9CaU-HLLQSaQCWacORL3r9A4Flq3YUPQsr54tU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58795/42dd57_smal_Screenshot_2026-09-18_alle_14.53.17_copia.png",
-      "excerpt": "ChatGPT si “integra” in Word aprendosi dalla barra laterale dell’app. Usa il login di ChatGPT ma non ha memoria dell’utente e non può usare le skill già create... Leggi tutto",
-      "image": "https://images.dday.it/grs5h9CaU-HLLQSaQCWacORL3r9A4Flq3YUPQsr54tU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58795/42dd57_smal_Screenshot_2026-09-18_alle_14.53.17_copia.png",
-      "publishedAt": "2026-09-18T12:56:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Truffa Revolut, il giallo dei 147 GB: i primi controlli non confermano il furto al Viminale",
-      "link": "https://images.dday.it/a-1jDkf6C-uclQ6wnH6hpJMCnyxpxSGHEO312aqiIv8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58794/b5bb0b_Screenshot_2026-09-18_alle_12.46.56.png",
-      "excerpt": "Nessuna conferma, per ora, sui 147 GB che gli hacker dicevano di aver rubato alle forze dell’ordine. Proseguono invece le verifiche sulla casella istituzionale usata contro…",
-      "image": "https://images.dday.it/a-1jDkf6C-uclQ6wnH6hpJMCnyxpxSGHEO312aqiIv8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58794/b5bb0b_Screenshot_2026-09-18_alle_12.46.56.png",
-      "publishedAt": "2026-09-18T10:47:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il presidente di Samsung Display lancia l’allarme: la Cina rischia di far fare all’OLED la stessa fine degli LCD",
-      "link": "https://images.dday.it/ncF6wvpdxZhZ9tV8ilVIGfJrZPwJZIa5WqqDIhrj5ds/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58791/ff27b2_CEO_SD.jpg",
-      "excerpt": "Samsung Display richiama istituzioni e industria coreane ad affrontare in modo coeso la minaccia rappresentata dagli ingenti investimenti delle aziende cinesi sulla tecnologia…",
-      "image": "https://images.dday.it/ncF6wvpdxZhZ9tV8ilVIGfJrZPwJZIa5WqqDIhrj5ds/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58791/ff27b2_CEO_SD.jpg",
-      "publishedAt": "2026-09-18T10:35:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Crei una canzone con l’IA, la pubblichi sulla pagina Spotify di un altro artista e incassi tu: una truffa incredibile",
-      "link": "https://images.dday.it/mPP1pIk2HEaCQk3bxJDxVfNHfMDXBjjyLqEeTM4_KfA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58793/91bbc2_Depositphotos_869220072_XL.jpg",
-      "excerpt": "Un giornalista è riuscito a creare un brano con l’IA e pubblicarlo sul profilo Spotify di una band reale. Gli ascolti, però, avrebbero pagato lui e non l’artista impersonato.…",
-      "image": "https://images.dday.it/mPP1pIk2HEaCQk3bxJDxVfNHfMDXBjjyLqEeTM4_KfA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58793/91bbc2_Depositphotos_869220072_XL.jpg",
-      "publishedAt": "2026-09-18T09:55:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Power bank magnetico da 10.000 mAh, l’accessorio perfetto per l’iPhone: ora è in offerta su Amazon",
-      "link": "https://images.dday.it/_4mUfnHteeWT0_LNDXR5BJgr6Ahym-KpH9yK2NetyeY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58789/a57592_71N5tBM02tL._AC_SL1500_.jpg",
-      "excerpt": "Ricarica wireless, attacco magnetico, USB-C e display LED: questo power bank compatibile con iPhone 13, 14, 15 e 16 si trova ora a prezzo scontato su Amazon ... Leggi tutto",
-      "image": "https://images.dday.it/_4mUfnHteeWT0_LNDXR5BJgr6Ahym-KpH9yK2NetyeY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58789/a57592_71N5tBM02tL._AC_SL1500_.jpg",
-      "publishedAt": "2026-09-18T09:47:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
