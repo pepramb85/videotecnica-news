@@ -1,161 +1,242 @@
 {
-  "generatedAt": "2026-09-22T12:58:34.039140+00:00",
+  "generatedAt": "2026-09-22T17:50:47.355856+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Il chip LightTok crea token dalla luce: droni in volo più a lungo?",
-      "link": "https://www.tomshw.it/scienze/il-chip-lighttok-crea-token-dalla-luce-droni-in-volo-piu-a-lungo",
-      "excerpt": "Un gruppo guidato dall’Università di Nanchino ha sviluppato LightTok, un chip capace di trasformare direttamente la luce in dati utilizzabili dai sistemi di intelligenza…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114764/il-chip-lighttok-crea-token-dalla-luce-droni-in-volo-piu-a-lungo.png",
-      "publishedAt": "2026-09-22T12:50:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "5 gadget da comprare su AliExpress per rivoluzionare casa e scrivania con circa 50€",
-      "link": "https://www.tomshw.it/altro/5-gadget-da-comprare-su-aliexpress-per-rivoluzionare-casa-e-scrivania-con-meno-di-50eur",
-      "excerpt": "Negli ultimi tempi il settore della tecnologia di consumo ha visto un'impennata di prezzi sui canali tradizionali, spingendo sempre più utenti a cercare alternative intelligenti…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114741/5-gadget-da-comprare-su-AliExpress-per-rivoluzionare-casa-e-scrivania-con-meno-di-50€.jpg",
-      "publishedAt": "2026-09-22T12:49:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Apple Music Hall apre a Londra: puoi seguire i concerti da casa?",
-      "link": "https://www.tomshw.it/hardware/apple-music-hall-apre-a-londra-puoi-seguire-i-concerti-da-casa",
-      "excerpt": "Apple si prepara ad aprire Apple Music Hall, un nuovo spazio londinese dedicato a concerti, sessioni di registrazione e produzioni video. La struttura, collocata sotto la sede…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114760/apple-music-hall-apre-a-londra-puoi-seguire-i-concerti-da-casa.png",
-      "publishedAt": "2026-09-22T12:45:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Fino al 75% a fondo perduto e tasso zero per le PMI del Sud che investono in sostenibilità, ecco come fare domanda",
-      "link": "https://www.tomshw.it/business/fino-al-75-a-fondo-perduto-e-tasso-zero-per-le-pmi-del-sud-che-investono-in-sostenibilita-ecco-come-fare-domanda",
-      "excerpt": "Le micro, piccole e medie imprese di sette regioni del Sud possono chiedere fino al 75% delle spese a fondo perduto e a tasso zero per investimenti in sostenibilità e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114601/14-bando-invitalia-investimenti-sostenibili.jpg",
-      "publishedAt": "2026-09-22T12:43:03+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Sky diventa MVNO: la nuova offerta Sky Mobile parte da 7,90 euro al mese",
-      "link": "https://www.hdblog.it/smartphone/articoli/n671188/sky-mobile-cambia-diventa-mvno-offerte/",
-      "excerpt": "Sky rilancia la sua offerta mobile e cambia anche il modello con cui gestirà il servizio",
-      "image": "https://hd2.tudocdn.net/1372787?w=660",
-      "publishedAt": "2026-09-22T12:40:00+00:00",
+      "title": "La funzione contro il mal d'auto di Android 17 arriva anche su smartphone non Pixel",
+      "link": "https://www.hdblog.it/smartphone/articoli/n671232/android-17-mal-dauto-distribuzione-play-service/",
+      "excerpt": "Per ora i device aggiornati sono pochi, ma verosimilmente la feature si espanderà man mano che arrivano gli update.",
+      "image": "https://hd2.tudocdn.net/1371147?w=660",
+      "publishedAt": "2026-09-22T17:50:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Cisco lancia CAIRN per tracciare i malware AI: quali rischi corriamo?",
-      "link": "https://www.tomshw.it/hardware/cisco-lancia-cairn-per-tracciare-i-malware-ai-quali-rischi-corriamo",
-      "excerpt": "Cisco Talos ha presentato CAIRN, acronimo di Cognitive Artifact Intelligence Research Network, un toolkit di ricerca progettato per individuare, classificare e seguire nel tempo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114757/cisco-lancia-cairn-per-tracciare-i-malware-ai-quali-rischi-corriamo.png",
-      "publishedAt": "2026-09-22T12:35:00+00:00",
+      "title": "Corsair M75 Wireless a 79,44€, ben spesi per giocare agli FPS senza cavi",
+      "link": "https://www.tomshw.it/hardware/corsair-m75-wireless-a-7944eur-ben-spesi-per-giocare-agli-fps-senza-cavi",
+      "excerpt": "Il Corsair M75 Wireless costa 79,44€ su Amazon: rispetto al listino di 129,99€, lo sconto è del 39%. Con un peso di 89 g, il design ambidestro e la connessione senza fili, è…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114820/tomshw-offer-1325770.png",
+      "publishedAt": "2026-09-22T17:50:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Una backdoor ruba documenti su Windows: come proteggere i tuoi file?",
-      "link": "https://www.tomshw.it/hardware/taskstomp-ruba-documenti-su-windows-come-proteggere-i-tuoi-file",
-      "excerpt": "I ricercatori di Securonix hanno individuato TASK#STOMP su un sistema Windows compromesso: la nuova backdoor sottraeva documenti aziendali e manteneva un accesso remoto…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114754/task-stomp-ruba-documenti-su-windows-come-proteggere-i-tuoi-file.png",
-      "publishedAt": "2026-09-22T12:25:00+00:00",
+      "title": "Boom delle auto elettriche in Europa (ma non in Italia)",
+      "link": "https://www.tomshw.it/automotive/auto-elettriche-quota-record-ue-al-17-3-italia-ferma-al-6",
+      "excerpt": "Quasi un’auto nuova su sei immatricolata nell’Unione europea nel 2025 era esclusivamente elettrica. La quota delle BEV ha raggiunto il 17,3%, il livello più alto mai registrato…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114702/news-flash-1324674.png",
+      "publishedAt": "2026-09-22T17:50:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Dreame D20 Air Plus a 159€, minimo storico e 120 giorni a mani libere",
-      "link": "https://www.tomshw.it/altro/dreame-d20-air-plus-a-159eur-minimo-storico-e-120-giorni-a-mani-libere",
-      "excerpt": "Dreame D20 Air Plus costa 159€ su Amazon, il suo minimo storico, anziché 199€ con uno sconto del 20%. La base con sacchetto da 4 L e l’aspirazione da 20.000 Pa puntano a togliere…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114762/tomshw-offer-1325426.png",
-      "publishedAt": "2026-09-22T12:21:00+00:00",
+      "title": "Claude Opus 5.5 costa il 40% in meno, va come Fable 5.1",
+      "link": "https://www.tomshw.it/hardware/claude-opus-55-costa-il-40-in-meno-va-come-fable-5-1",
+      "excerpt": "Anthropic ha presentato Claude Opus 5.5, primo modello della nuova famiglia 5.5 e nuova proposta di punta dell’azienda. L’obiettivo dichiarato è combinare capacità elevate, costi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114819/claude-opus-5-5-costa-meno-sicurezza.png",
+      "publishedAt": "2026-09-22T17:47:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Moto Buds 2, monitor QD-OLED, cuffie Sennheiser: le migliori offerte del 22 settembre",
-      "link": "https://www.hdblog.it/amazon/offerte/n671186/migliori-offerte-tech-22-settembre-2026-amazon/",
-      "excerpt": "Cuffie, monitor gaming QD-OLED, webcam 4K e smart home: le migliori offerte tech di oggi su Amazon.",
-      "image": "https://hd2.tudocdn.net/1372782?w=660",
-      "publishedAt": "2026-09-22T12:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il Giappone smantella una laptop farm nordcoreana: aziende a rischio?",
-      "link": "https://www.tomshw.it/hardware/il-giappone-smantella-una-laptop-farm-nordcoreana-aziende-a-rischio",
-      "excerpt": "La polizia giapponese ha smantellato la prima laptop farm nordcoreana individuata nel Paese, un'infrastruttura usata per far apparire lavoratori collegati a Pyongyang come…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114753/il-giappone-smantella-una-laptop-farm-nordcoreana-aziende-a-rischio.png",
-      "publishedAt": "2026-09-22T12:15:00+00:00",
+      "title": "Grok costa poco e fa molto, ma Claude e GPT-6 restano un passo avanti",
+      "link": "https://www.tomshw.it/business/grok-costa-poco-e-fa-molto-ma-claude-e-gpt-6-restano-un-passo-avanti",
+      "excerpt": "SpaceXAI ha lanciato Grok 4.7 il 21 settembre 2026, presentandolo come il modello più capace finora per programmazione e lavoro di conoscenza. Il prezzo resta quello del…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114708/04-grok-4-7-prezzi-benchmark.jpg",
+      "publishedAt": "2026-09-22T17:25:47+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Grave falla nel Gigabyte Control Center, cosa fare se lo usate",
-      "link": "https://www.tomshw.it/hardware/grave-falla-nel-gigabyte-control-center-cosa-fare-se-lo-usate",
-      "excerpt": "Gigabyte ha pubblicato sul proprio portale dedicato agli avvisi di sicurezza una segnalazione che riguarda due driver a livello kernel installati insieme al Gigabyte Control…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114761/grave-falla-nel-gigabyte-control-center-cosa-fare-se-lo-usate.png",
-      "publishedAt": "2026-09-22T12:06:00+00:00",
+      "title": "Perché LibreOffice non riesce a visualizzare alcuni grafici di Microsoft Office?",
+      "link": "https://www.hdblog.it/android/articoli/n671230/libreoffice-grafici-incompatibili-perche/",
+      "excerpt": "Per farla breve, perché Microsoft ha implementato delle tecnologie fuori standard (per quanto aperte) che costringono gli sviluppatori di suite alternative a rincorrere…",
+      "image": "https://hd2.tudocdn.net/1372890?w=660",
+      "publishedAt": "2026-09-22T17:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Tapo D205 a 44,99€ vale la spesa, vede chi suona in 2K",
+      "link": "https://www.tomshw.it/altro/tapo-d205-a-4499eur-vale-la-spesa-vede-chi-suona-in-2k",
+      "excerpt": "Il videocitofono Tapo D205 costa 44,99€ su Amazon, anziché 49,99€, con uno sconto del 10%. Video 2K, inquadratura ampia e avvisi AI gratuiti consentono di controllare l’ingresso…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114818/tomshw-offer-1325757.png",
+      "publishedAt": "2026-09-22T17:20:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Tesla FSD Supervised: via libera in Repubblica Ceca",
-      "link": "https://www.hdmotori.it/tesla-fsd-repubblica-ceca/",
-      "excerpt": "La Repubblica Ceca approva la Full Self Driving Supervised di Tesla: il sistema arriva per l'hardware HW 4 a 99 euro al mese in attesa del voto UE del 6 ottobre.",
-      "image": "https://hd2.tudocdn.net/1306032?w=660",
-      "publishedAt": "2026-09-22T12:00:17+00:00",
+      "title": "Un macropad che fa anche da controller Home Assistant, con ESP32",
+      "link": "https://www.hdblog.it/hardware/articoli/n671227/esp32-macropad-smart-home-assistant-fai-da-te/",
+      "excerpt": "Ha addirittura le lucine RGB personalizzabili.",
+      "image": "https://hd2.tudocdn.net/1372888?w=660",
+      "publishedAt": "2026-09-22T17:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "I giganti dell'AI continuano a spendere cifre folli, ma i dubbi non mancano",
-      "link": "https://www.tomshw.it/business/i-giganti-dellai-continuano-a-spendere-cifre-folli-ma-i-dubbi-non-mancano",
-      "excerpt": "Amazon, Microsoft, Alphabet e Meta metteranno sul piatto circa 725 miliardi di dollari nel 2026 per costruire l'infrastruttura dell'intelligenza artificiale, il 77% in più…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114600/13-bolla-ai-investimenti-valutazioni.jpg",
-      "publishedAt": "2026-09-22T11:51:26+00:00",
+      "title": "Volkswagen ID. Polo, l’elettrica da 24.995 euro batte tutte le rivali in Germania",
+      "link": "https://www.hdmotori.it/volkswagen-id-polo-elettrica-anno-germania/",
+      "excerpt": "Volkswagen ID. Polo conquista la categoria Budget del German Car of the Year: l’elettrica compatta supera Renault Twingo e Clio e parte da 24.995 euro",
+      "image": "https://hd2.tudocdn.net/1372889?w=660",
+      "publishedAt": "2026-09-22T17:00:37+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Quando esce Control Resonant? Data e cosa sappiamo",
+      "link": "https://www.tomshw.it/videogioco/quando-esce-control-resonant-data-e-cosa-sappiamo",
+      "excerpt": "Control Resonant esce il 24 settembre 2026 su PlayStation 5, Xbox Series X|S e PC. La data è ufficiale: il seguito di Control ha quindi un appuntamento preciso, che sostituisce la…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114619/cover.jpg",
+      "publishedAt": "2026-09-22T17:00:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Raspberry Pi blocca intenzionalmente upgrade della RAM, ecco perché",
-      "link": "https://www.hdblog.it/hardware/articoli/n671183/raspberry-pi-upgrade-ram-bloccato-perche/",
-      "excerpt": "La società vuole proteggere gli utenti da rivenditori terzi con pochi scrupoli (e scarso controllo qualità).",
-      "image": "https://hd2.tudocdn.net/1306536?w=660",
-      "publishedAt": "2026-09-22T11:45:00+00:00",
+      "title": "La CO2 potrebbe alimentare gli aerei: il segreto è un plasma elettrico",
+      "link": "https://www.hdblog.it/green/articoli/n671208/o2-plasma-carburante-sostenibile/",
+      "excerpt": "Plasma ed elettricità trasformano la CO₂ in molecole utili per carburanti e industria.",
+      "image": "https://hd2.tudocdn.net/1372858?w=660",
+      "publishedAt": "2026-09-22T16:55:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Move-In: la scatola nera che evita legalmente il blocco dei diesel Euro 5",
-      "link": "https://www.hdmotori.it/focus/mercato/normative/move-in-scatola-nera-blocco-diesel-euro-5/",
-      "excerpt": "Dal 1° ottobre entrano in vigore le limitazioni alla circolazione per le auto a gasolio, ma la normativa prevede un'alternativa legale ai divieti basati su giorni e orari: il…",
-      "image": "https://hd2.tudocdn.net/1357502?w=660",
-      "publishedAt": "2026-09-22T11:30:33+00:00",
+      "title": "Cheat nei videogiochi, il giro d'affari è diventato miliardario",
+      "link": "https://www.hdblog.it/microsoft/articoli/n671226/mercato-cheat-videogiochi-miliardi-dollari/",
+      "excerpt": "Activision osserva che il business si è espanso tantissimo negli ultimi anni.",
+      "image": "https://hd2.tudocdn.net/1267478?w=660",
+      "publishedAt": "2026-09-22T16:40:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Samsung potrebbe aver brevettato il blocco delle chiamate spam più efficace di sempre",
-      "link": "https://www.hdblog.it/smartphone/articoli/n671163/samsung-blocco-chiamate-spam/",
-      "excerpt": "Il nuovo filtro di Samsung per le chiamate indesiderate sarà estremamente discreto e silenzioso.",
-      "image": "https://hd2.tudocdn.net/1372728?w=660",
-      "publishedAt": "2026-09-22T11:20:00+00:00",
+      "title": "L'incredibile storia della superbike italiana tradita dal design: aveva un motore V8",
+      "link": "https://www.hdmotori.it/morbidelli-850-v8-storia-superbike/",
+      "excerpt": "La storia della Morbidelli 850 V8: la superbike italiana dal motore rivoluzionario stroncata dal design. Dagli elogi tecnici al flop commerciale fino al Guinness dei primati",
+      "image": "https://hd2.tudocdn.net/1372882?w=660",
+      "publishedAt": "2026-09-22T16:30:14+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Xiaomi, arriva un dispenser di acqua calda istantaneo: fino a 100°C",
-      "link": "https://www.hdblog.it/xiaomi/articoli/n671181/xiaomi-dispenser-acqua-calda-100-gradi-3-secondi/",
-      "excerpt": "Perfetta per prepararsi il tè al volo.",
-      "image": "https://hd2.tudocdn.net/1372777?w=660",
-      "publishedAt": "2026-09-22T11:15:00+00:00",
+      "title": "Smart TV TCL QLED da 40 pollici a 249€, minimo storico per film e streaming",
+      "link": "https://www.tomshw.it/altro/smart-tv-tcl-qled-da-40-pollici-a-249eur-minimo-storico-per-film-e-streaming",
+      "excerpt": "La Smart TV TCL 40V5D costa 249€ su Amazon, contro un listino di 299€ e con uno sconto del 17%. È il suo minimo storico, con un pannello QLED da 40 pollici pensato per portare…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114817/tomshw-offer-1325705.png",
+      "publishedAt": "2026-09-22T16:19:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Signal, su Android arriva la possibilità di registrarsi senza numero di telefono",
+      "link": "https://www.hdblog.it/android/articoli/n671222/signal-registrazione-senza-numero-telefono/",
+      "excerpt": "Costa 3 dollari, per ora è in Beta e richiede per forza il Play Store. Ma nei prossimi mesi sarà disponibile anche per dispositivi senza servizi Google. E iPhone?",
+      "image": "https://hd2.tudocdn.net/954006?w=660",
+      "publishedAt": "2026-09-22T16:15:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Xbox, nuovi tagli ufficiali e profonda riorganizzazione degli studios",
+      "link": "https://www.hdblog.it/microsoft/articoli/n671220/xbox-licenziamenti-halo-studios-riorganizzazione/",
+      "excerpt": "Colpo particolarmente grave per Halo Studios, a cui è stato anche tolto l'incarico di sviluppare il prossimo capitolo della saga.",
+      "image": "https://hd2.tudocdn.net/1365880?w=660",
+      "publishedAt": "2026-09-22T16:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "L'AI potrebbe (finalmente) alzare la produttività italiana, ma è una strada difficile",
+      "link": "https://www.tomshw.it/business/lai-potrebbe-finalmente-alzare-la-produttivita-italiana-ma-e-una-strada-difficile",
+      "excerpt": "Il governatore della Banca d'Italia Fabio Panetta ha detto che un'adozione diffusa dell'intelligenza artificiale potrebbe alzare la crescita della produttività del lavoro in…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114706/03-bankitalia-produttivita-ai.jpg",
+      "publishedAt": "2026-09-22T16:01:24+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "BMW va oltre al touch: arrivano gli ologrammi 3D nell'abitacolo?",
+      "link": "https://www.hdmotori.it/bmw-brevetto-ologrammi-3d-abitacolo/",
+      "excerpt": "BMW deposita un brevetto che rivoluziona l'abitacolo: ologrammi 3D a mezz'aria, assistenti virtuali e tasti invisibili con feedback tattile ad aria",
+      "image": "https://hd2.tudocdn.net/1372877?w=660",
+      "publishedAt": "2026-09-22T16:00:36+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung Galaxy S26 Ultra vs S25 Ultra: quale scegliere?",
+      "link": "https://www.tomshw.it/smartphone/samsung-galaxy-s26-ultra-vs-s25-ultra-quale-scegliere",
+      "excerpt": "Samsung Galaxy S26 Ultra porta soprattutto il Privacy Display integrato, utile a chi legge messaggi e documenti sui mezzi pubblici, insieme a un processore aggiornato e alla…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114606/samsung-galaxy-s26-ultra-vs-s25-ultra-quale-scegliere.png",
+      "publishedAt": "2026-09-22T16:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Adozione AI in Italia: i dati reali per confrontare la tua azienda con il settore",
+      "link": "https://www.tomshw.it/aioperator/adozione-ai-in-italia-i-dati-reali-per-confrontare-la-tua-azienda-con-il-settore",
+      "excerpt": "Il 16,4% delle imprese con almeno dieci addetti usa oggi almeno una tecnologia di intelligenza artificiale, secondo l'ultima rilevazione Istat pubblicata a dicembre 2025. Era…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/113526/04-conf14-cover.jpg",
+      "publishedAt": "2026-09-22T16:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Xbox, di nuovo licenziamenti. Ninja Theory vicina alla chiusura",
+      "link": "https://images.dday.it/_F9nlYg1C4QL4RAVG19_qSu-ls_06gMB_TNCb51vKhs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58825/cc22bf_xbox.png",
+      "excerpt": "Matt Booty ha annunciato una nuova fase del “reset” di Xbox: Rare e World’s Edge passano sotto Activision, Obsidian sotto Bethesda... Leggi tutto",
+      "image": "https://images.dday.it/_F9nlYg1C4QL4RAVG19_qSu-ls_06gMB_TNCb51vKhs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58825/cc22bf_xbox.png",
+      "publishedAt": "2026-09-22T15:28:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Tesla FSD Supervised in Europa: approvato anche in Repubblica Ceca",
+      "link": "https://images.dday.it/r_Ou2554F7V5vytREahBGldzokqAwXRTOoVWBaHXCjY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58822/f33368_Depositphotos_169268944_XL.jpg",
+      "excerpt": "Praga ha riconosciuto l’approvazione provvisoria rilasciata dall’autorità olandese RDW ad aprile... Leggi tutto",
+      "image": "https://images.dday.it/r_Ou2554F7V5vytREahBGldzokqAwXRTOoVWBaHXCjY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58822/f33368_Depositphotos_169268944_XL.jpg",
+      "publishedAt": "2026-09-22T15:20:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Amazfit T-Rex Dual Solar ha due pannelli solari. La modalità estrema arriva a 180 giorni di autonomia",
+      "link": "https://images.dday.it/HPVQRr4J_aLJsSZZUHkYD61sHxL6187G-EyKxJObfX4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58823/93f570_trex_thumb.jpg",
+      "excerpt": "Usa un pannello integrato nello schermo e uno sul retro. In modalità Outdoor Extreme, con esposizione continua alla luce, l’autonomia dichiarata può arrivare fino a sei mesi...…",
+      "image": "https://images.dday.it/HPVQRr4J_aLJsSZZUHkYD61sHxL6187G-EyKxJObfX4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58823/93f570_trex_thumb.jpg",
+      "publishedAt": "2026-09-22T14:57:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Adobe Premiere arriva su Android, gratis senza account né watermark",
+      "link": "https://images.dday.it/-uChzatKsrwNTlfd7gnmfqq5BMRwDPbtOAQux8TVXZE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58824/850a08_small_sas_copia.jpg",
+      "excerpt": "L'app sostituisce Premiere Rush, che dirà addio il 30 settembre, e porta editing multitraccia fino al 4K, audio potenziato e Adobe Stock integrato... Leggi tutto",
+      "image": "https://images.dday.it/-uChzatKsrwNTlfd7gnmfqq5BMRwDPbtOAQux8TVXZE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58824/850a08_small_sas_copia.jpg",
+      "publishedAt": "2026-09-22T14:49:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "L’Europa vuole rendere più semplice usare i dati personali per addestrare l’IA",
+      "link": "https://images.dday.it/OyUbK6uWpj15cPFMYAmHdADCpIXRxd_xEc8Rdq6jAAI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58821/dfab45_Immagine_Codex_22_set_2026__15_26_25.png",
+      "excerpt": "Una bozza del Consiglio UE renderebbe più esplicito l’uso del legittimo interesse per addestrare modelli IA con i dati personali degli europei, introducendo anche una deroga per…",
+      "image": "https://images.dday.it/OyUbK6uWpj15cPFMYAmHdADCpIXRxd_xEc8Rdq6jAAI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58821/dfab45_Immagine_Codex_22_set_2026__15_26_25.png",
+      "publishedAt": "2026-09-22T13:27:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Sky Mobile, svelate le nuove offerte: da 7,90 euro al mese. Vantaggi per chi è già abbonato Sky",
+      "link": "https://images.dday.it/Oaek7343AZ_qAHlV9Yzb57kZzVz4yAffKbcI0fOxEj0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58820/309080_b93980_skymobile_cover.jpg",
+      "excerpt": "Sky gestirà direttamente il servizio mobile appoggiandosi alla rete Fastweb + Vodafone. Due i piani principali: fino a 250 GB per i nuovi clienti e Giga illimitati per chi abbina…",
+      "image": "https://images.dday.it/Oaek7343AZ_qAHlV9Yzb57kZzVz4yAffKbcI0fOxEj0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58820/309080_b93980_skymobile_cover.jpg",
+      "publishedAt": "2026-09-22T13:05:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Per benzina e gasolio ennesimo aumento: com'è variato il prezzo medio",
@@ -167,33 +248,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "TrumpTV contro le fake news: al via il nuovo canale dopo il ban alla CNN",
-      "link": "https://www.hdblog.it/mercato/articoli/n671175/trump-tv-nuovo-canale-casa-bianca-cnn-ban/",
-      "excerpt": "Livestreaming 24/7.",
-      "image": "https://hd2.tudocdn.net/1372774?w=660",
-      "publishedAt": "2026-09-22T11:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Auto usate, aumentano le truffe con l'AI: annuncio perfetto, ma il veicolo non esiste",
-      "link": "https://www.hdmotori.it/auto-usate-truffe-ai/",
-      "excerpt": "Foto false, voci contraffatte e offerta a prezzo realistico. Ecco come l'intelligenza artificiale sta alimentando le truffe sui portali online.",
-      "image": "https://hd2.tudocdn.net/1372773?w=660",
-      "publishedAt": "2026-09-22T11:00:10+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Ecco la retro-console portatile che legge le cartucce originali di Game Boy e GBC",
-      "link": "https://www.hdblog.it/games/articoli/n671176/game-boy-replica-fpga-cartucce-originali-color/",
-      "excerpt": "Per ora è tutto esaurito, ma altre unità arriveranno nelle prossime settimane.",
-      "image": "https://hd2.tudocdn.net/992172?w=660",
-      "publishedAt": "2026-09-22T10:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Disney+: anche i piani senza pubblicità vedranno della pubblicità. Chi usa gli ad blocker rischia la sospensione",
       "link": "https://images.dday.it/jQ9x3F_nrh3KGqtCJAb6JpyvuFhkgiKDvTuWlLjwFsQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58817/71883a_Depositphotos_339076766_XL.jpg",
       "excerpt": "I film e le serie on demand restano senza interruzioni pubblicitarie, ma i termini del servizio consentono promo e annunci prima o dopo la riproduzione, oltre che nei contenuti in…",
@@ -203,7 +257,7 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Rezos, l’IA italiana che scova le aziende “in odore di criminalità” dai loro bilanci",
+      "title": "Rozes, l’IA italiana che scova le aziende “in odore di criminalità” dai loro bilanci",
       "link": "https://images.dday.it/g-DmQ230TNOPg_9vtcFsqIoi7ojrwTpmpfYDPHdkBVM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58816/c0c289_Immagine_Codex_22_set_2026__11_48_02_copia.png",
       "excerpt": "Il sistema non accerta reati, ma individua somiglianze statistiche con imprese già collegate alla criminalità organizzata. Ha attirato le attenzione anche del Parlamento... Leggi…",
       "image": "https://images.dday.it/g-DmQ230TNOPg_9vtcFsqIoi7ojrwTpmpfYDPHdkBVM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58816/c0c289_Immagine_Codex_22_set_2026__11_48_02_copia.png",
@@ -217,60 +271,6 @@
       "excerpt": "Scopri le offerte speciali sui set LEGO ora in sconto su Amazon: il Dodge Charger di Fast and Furious, E.T. the Extra-Terrestrial e il Tower Bridge. Approfitta dello sconto del…",
       "image": "https://images.dday.it/-Ap3p5JppIZW5ovAGTZdX6S0PL9giFlpJY777dEdXU0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58814/9d21aa_ape2.jpg",
       "publishedAt": "2026-09-22T09:43:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Per la prima volta, i componenti elettronici di un TV costano di più dello schermo",
-      "link": "https://images.dday.it/d03c1E-Fls4XWvb8So7V2h-89b7Sh4nMd7mr-ShoCKM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58815/5e6482_Depositphotos_674077874_XL.jpg",
-      "excerpt": "È l’effetto del continuo incremento dei costi delle memorie, che stanno facendo schizzare i costi di schede madri e altri componenti elettronici all’interno dei televisori, tanto…",
-      "image": "https://images.dday.it/d03c1E-Fls4XWvb8So7V2h-89b7Sh4nMd7mr-ShoCKM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58815/5e6482_Depositphotos_674077874_XL.jpg",
-      "publishedAt": "2026-09-22T09:38:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Xiaomi 18 Pro avrà lo schermo privacy come il Galaxy S26 Ultra, ma più versatile",
-      "link": "https://images.dday.it/jEqO6iyapicNziETOGSyDSu8iDw45lwMfjpehHC9ZoE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58813/f5f07c_cove_rScreenshot_2026-09-22_alle_10.39.52_copia.png",
-      "excerpt": "Uno schermo che saprà adattare la privacy anche a sezioni del pannello, app flottanti e notifiche... Leggi tutto",
-      "image": "https://images.dday.it/jEqO6iyapicNziETOGSyDSu8iDw45lwMfjpehHC9ZoE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58813/f5f07c_cove_rScreenshot_2026-09-22_alle_10.39.52_copia.png",
-      "publishedAt": "2026-09-22T08:41:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Samsung potrebbe smettere di vendere TV QLED e Neo QLED",
-      "link": "https://images.dday.it/7ZWpZcTRdE6I0qfB18jrOeeP7Qc7SzogEmTlznudMo4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58812/91fddf_Samsung_MD80H_1.jpg",
-      "excerpt": "L’intenzione sarebbe quella di ridurre significativamente i volumi di TV QLED e Neo QLED fino ad arrivare a interromperne gradualmente la produzione, per concentrarsi su Mini LED…",
-      "image": "https://images.dday.it/7ZWpZcTRdE6I0qfB18jrOeeP7Qc7SzogEmTlznudMo4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58812/91fddf_Samsung_MD80H_1.jpg",
-      "publishedAt": "2026-09-22T08:24:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Petal è il primo cavo transatlantico da 1 Petabit al secondo. L'annuncio di Meta",
-      "link": "https://images.dday.it/RE6E7hMWOnUYGpxzOB8iFuOudVVIFBPk_QzuuxwISCg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58811/4e4a70_Announcing-Petal-a-First-of-its-Kind-Transoceanic-Subsea-Cable_Header.jpeg",
-      "excerpt": "Collegherà Stati Uniti e Francia lungo 7.000 km e userà fibre multicore per raddoppiare la capacità rispetto ai cavi transoceanici più avanzati di oggi. L’entrata in servizio è…",
-      "image": "https://images.dday.it/RE6E7hMWOnUYGpxzOB8iFuOudVVIFBPk_QzuuxwISCg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58811/4e4a70_Announcing-Petal-a-First-of-its-Kind-Transoceanic-Subsea-Cable_Header.jpeg",
-      "publishedAt": "2026-09-22T08:07:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "I bot agentici sono la “next big thing” dell’IA: Muse fa download da record e presto arriverà il bot di OpenAI",
-      "link": "https://images.dday.it/Q1cKQcMcNdE1-K3sNTkUfszifPKmT0g85PKw61lPuBM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58810/b25b81_Immagine_Codex_22_set_2026__09_58_39.png",
-      "excerpt": "Muse ha superato 2,5 milioni di download in 13 giorni negli USA. È il segnale che i bot capaci di agire autonomamente per conto dell’utente stanno entrando nella fase mainstream.…",
-      "image": "https://images.dday.it/Q1cKQcMcNdE1-K3sNTkUfszifPKmT0g85PKw61lPuBM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58810/b25b81_Immagine_Codex_22_set_2026__09_58_39.png",
-      "publishedAt": "2026-09-22T07:59:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Mac Studio M5 Ultra, recensione. Ciao NVIDIA, ci sono anch’io",
-      "link": "https://images.dday.it/lqhwOM6W1fCK4Yfw454uCjk3FgKr-BxqPe5wrMrGNqY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58798/aea63b_DSC02574_t.jpg",
-      "excerpt": "Due processori M5 Max uniti tra loro da un bridge a larga banda a formare un unico chip gigante, 36 core CPU, 80 core GPU e fino a 512 GB di RAM con 1.2TB/s di banda. Un mostro di…",
-      "image": "https://images.dday.it/lqhwOM6W1fCK4Yfw454uCjk3FgKr-BxqPe5wrMrGNqY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58798/aea63b_DSC02574_t.jpg",
-      "publishedAt": "2026-09-22T06:45:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
