@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-09-23T19:21:49.489049+00:00",
+  "generatedAt": "2026-09-23T22:35:27.871928+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Surface Pro e Laptop con Snapdragon X2: anteprima dall'evento Qualcomm",
+      "link": "https://www.hdblog.it/portatili/articoli/n671272/microsoft-nuovi-surface-immagini-qualcomm/",
+      "excerpt": "L'evento di presentazione ufficiale si terrà il 7 ottobre.",
+      "image": "https://hd2.tudocdn.net/1372963?w=660",
+      "publishedAt": "2026-09-23T20:30:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nespresso Pixie a 105.49€, l’espresso è pronto in 25 secondi",
+      "link": "https://www.tomshw.it/altro/nespresso-pixie-a-10549eur-lespresso-e-pronto-in-25-secondi",
+      "excerpt": "Nespresso Pixie costa 105.49€ su Amazon, anziché 149€, con uno sconto del 30% e un risparmio di 43.51€. Il riscaldamento in 25 secondi e il corpo compatto la rendono adatta a una…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114976/tomshw-offer-1345984.png",
+      "publishedAt": "2026-09-23T20:19:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Qualcomm, arriva Snapdragon Sound Elite Gen 2: AI anche sui wearable audio",
+      "link": "https://www.hdblog.it/hardware/articoli/n671388/qualcomm-snapdragon-sound-elite-gen-2/",
+      "excerpt": "Raddoppia la potenza AI in locale, calano i consumi e gli ingombri, debutta il Wi-Fi 6E integrato.",
+      "image": "https://hd2.tudocdn.net/1373295?w=660",
+      "publishedAt": "2026-09-23T19:31:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Snapdragon Sound Elite Gen 2 è ufficiale, l'IA ci accompagnerà dappertutto",
+      "link": "https://www.tomshw.it/smartphone/snapdragon-sound-elite-gen-2-e-ufficiale-lia-ci-accompagnera-dappertutto",
+      "excerpt": "Durante il secondo giorno dello Snapdragon Summit 2026 a Maui, Qualcomm ha spostato il focus oltre smartphone e PC, mostrando in modo piuttosto chiaro quale potrebbe essere il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114843/Snapdragon-Sound-2.png",
+      "publishedAt": "2026-09-23T19:30:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "Redmi Buds 8 in offerta su Amazon: auricolari di qualità a 41,60€",
       "link": "https://www.hdblog.it/indossabili/offerte/n671390/redmi-buds-8-offerta-amazon-settembre-2026/",
@@ -140,47 +176,11 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Quando esce Silent Hill: Townfall? Data e cosa sappiamo",
-      "link": "https://www.tomshw.it/videogioco/quando-esce-silent-hill-townfall-data-e-cosa-sappiamo",
-      "excerpt": "Silent Hill: Townfall esce il 24 settembre 2026 su PlayStation 5 e PC, attraverso Steam ed Epic Games Store. La data è ufficiale: Konami ha definito il calendario del nuovo horror…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114621/cover.jpg",
-      "publishedAt": "2026-09-23T17:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "L’AI di OpenAI avrebbe risolto 100 problemi matematici: chi li verifica?",
       "link": "https://www.hdblog.it/tecnologia/articoli/n671266/openai-ai-100-problemi-matematici-gruppo-indipende/",
       "excerpt": "OpenAI rivendica oltre 100 risultati matematici. Un gruppo indipendente ne seguirà la diffusione.",
       "image": "https://hd2.tudocdn.net/1373189?w=660",
       "publishedAt": "2026-09-23T16:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Microsoft smantella EvilTokens: l'AI al servizio delle frodi informatiche",
-      "link": "https://www.hdblog.it/microsoft/articoli/n671372/microsoft-eviltokens-ai-phishing-truffe/",
-      "excerpt": "Compromettevano account aziendali e creavano finte richieste di pagamento da fornitori, fatture e altre truffe super convincenti analizzando le inbox con l'AI.",
-      "image": "https://hd2.tudocdn.net/1371686?w=660",
-      "publishedAt": "2026-09-23T16:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "L'AI può aiutare ad avere idee, ma poi ti viene il dubbio che siano davvero idee tue",
-      "link": "https://www.tomshw.it/business/lai-puo-aiutare-ad-avere-idee-ma-poi-ti-viene-il-dubbio-che-siano-davvero-idee-tue",
-      "excerpt": "Due esperimenti del Teamwork Lab di Atlassian, uno su 797 lavoratori e uno su 12 HR business partner dell'azienda, hanno misurato che cosa succede quando l'intelligenza…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114728/11-ai-brainstorming-originalita-atlassian.jpg",
-      "publishedAt": "2026-09-23T16:40:47+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "AirTag e stalking, nuova causa contro Apple per il mancato avviso su iPhone",
-      "link": "https://www.hdblog.it/apple/articoli/n671367/airtag-stalking-mancato-avviso-iphone-causa/",
-      "excerpt": "Apple affronta una nuova causa sugli AirTag: una donna dell’Oregon afferma che il sistema di sicurezza non l’abbia avvisata mentre un tracker nascosto sotto la sua automobile…",
-      "image": "https://hd2.tudocdn.net/1352351?w=660",
-      "publishedAt": "2026-09-23T16:35:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
