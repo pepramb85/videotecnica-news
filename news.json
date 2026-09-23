@@ -1,44 +1,242 @@
 {
-  "generatedAt": "2026-09-23T08:58:09.911510+00:00",
+  "generatedAt": "2026-09-23T14:34:58.437475+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Anthropic lancia Claude Opus 5.5: prestazioni top, ma il 40% più economico",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n671269/anthropic-claude-opus-5-5-prestazioni-costi/",
-      "excerpt": "Anthropic lancia Claude Opus 5.5, il nuovo modello di punta che promette prestazioni quasi allo stesso livello del suo modello più potente ma con un costo di utilizzo inferiore…",
-      "image": "https://hd2.tudocdn.net/1373006?w=660",
-      "publishedAt": "2026-09-23T08:55:00+00:00",
+      "title": "Sfida tra pieghevoli: Motorola Razr Fold vs Honor Magic V6 | Video",
+      "link": "https://www.hdblog.it/smartphone/comparazioni/n670604/razr-fold-vs-honor-v6-test-video/",
+      "excerpt": "iPhone Duo ha portato gli smartphone pieghevoli al centro dell’attenzione mediatica e finalmente sempre più persone stanno scoprendo questi smartphone “2 in 1”.",
+      "image": "https://hd2.tudocdn.net/1372262?w=660",
+      "publishedAt": "2026-09-23T14:31:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Affare sul Fold 8 Ultra: 1.400€ su Amazon con 900€ di sconto",
-      "link": "https://www.tomshw.it/smartphone/samsung-galaxy-z-fold-8-ultra-256gb-a-soli-1400eur-2026-09-23",
-      "excerpt": "Su Amazon è disponibile lo Samsung Galaxy Z Fold 8 Ultra 256GB nella colorazione Graphite. Il prezzo attuale è di 1400,00€, un'occasione perfetta per chi desidera uno smartphone…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114884/samsung-galaxy-z-fold-8-ultra-256gb-a-soli-1400eur-2026-09-23-P3n922fo2ggao6aepSdn.jpg",
-      "publishedAt": "2026-09-23T08:52:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Einhell TE-CD 18/40 a 126.1€, due batterie e 64 accessori pronti all’uso",
-      "link": "https://www.tomshw.it/altro/einhell-te-cd-1840-a-1261eur-due-batterie-e-64-accessori-pronti-alluso",
-      "excerpt": "Einhell TE-CD 18/40 Li-i +64 costa 126.1€ su Amazon e concentra in una sola valigetta trapano battente, due batterie, caricabatterie e 64 accessori. È una dotazione pensata per…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114872/tomshw-offer-1345324.png",
-      "publishedAt": "2026-09-23T08:51:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Tim Cook incontra von der Leyen: confronto su EU KIDS Act e sicurezza minori online",
-      "link": "https://www.hdblog.it/apple/articoli/n671294/tim-cook-incontra-von-der-leyen/",
-      "excerpt": "I due hanno condiviso la necessità di garantire maggiori protezioni ai più giovani e strumenti adeguati per i genitori.",
-      "image": "https://hd2.tudocdn.net/1337554?w=660",
-      "publishedAt": "2026-09-23T08:50:00+00:00",
+      "title": "Citroen OUTDOOR, il nuovo allestimento top di gamma: la parola d’ordine è avventura",
+      "link": "https://www.hdmotori.it/citroen-outdoor-nuovo-allestimento/",
+      "excerpt": "Citroen ha svelato OUTDOOR, una inedita linea che amplia le gamme C3, SUV C3 Aircross e Ami con un tocco di esclusività in più.",
+      "image": "https://hd2.tudocdn.net/1373199?w=660",
+      "publishedAt": "2026-09-23T14:30:13+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "APES sviluppa sensori AI per auto: perché usare la stampa 3D?",
+      "link": "https://www.tomshw.it/automotive/apes-sviluppa-sensori-ai-per-auto-perche-usare-la-stampa-3d",
+      "excerpt": "Great Lakes Semiconductor ha avviato il primo progetto della piattaforma Great American ChipForge insieme ad APES e ad altri cinque partner. L’obiettivo è sviluppare sensori per…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114956/apes-sviluppa-sensori-ai-per-auto-perche-usare-la-stampa-3d.png",
+      "publishedAt": "2026-09-23T14:30:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Philips 3400 da 449.99€ a 309.99€, purifica e umidifica: vale la spesa",
+      "link": "https://www.tomshw.it/altro/philips-3400-da-44999eur-a-30999eur-purifica-e-umidifica-vale-la-spesa",
+      "excerpt": "Il Philips 3400 2in1 costa 309.99€ su Amazon, con uno sconto del 31% che riduce di 140€ il prezzo di 449.99€. In un solo apparecchio affronta particelle sospese e aria secca,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114963/tomshw-offer-1345730.png",
+      "publishedAt": "2026-09-23T14:20:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Microsoft blocca EvilTokens: come proteggere gli account?",
+      "link": "https://www.tomshw.it/hardware/microsoft-blocca-eviltokens-come-proteggere-gli-account",
+      "excerpt": "Microsoft ha smantellato di recente EvilTokens, una piattaforma usata per compromettere 12.000 account appartenenti a 10.000 organizzazioni nel mondo. Il servizio aiutava i…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114955/microsoft-blocca-eviltokens-come-proteggere-gli-account.png",
+      "publishedAt": "2026-09-23T14:20:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Mac mini M6 e M5 Pro bloccano gli upgrade SSD: ti basterà lo spazio?",
+      "link": "https://www.tomshw.it/hardware/mac-mini-m6-e-m5-pro-bloccano-gli-upgrade-ssd-ti-bastera-lo-spazio",
+      "excerpt": "Apple ha saldato i chip di memoria nei nuovi Mac mini M6 e M5 Pro, eliminando la possibilità di sostituire l'unità interna dopo l'acquisto. La scelta cambia un aspetto pratico…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114940/mac-mini-m6-e-m5-pro-bloccano-gli-upgrade-ssd-ti-bastera-lo-spazio.png",
+      "publishedAt": "2026-09-23T14:10:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "UE, sui data center un'etichetta energetica obbligatoria come i frigoriferi, ma sui consumi reali manca trasparenza",
+      "link": "https://www.tomshw.it/business/ue-sui-data-center-unetichetta-energetica-obbligatoria-come-i-frigoriferi-ma-sui-consumi-reali-manca-trasparenza",
+      "excerpt": "La Commissione europea ha proposto, il 21 settembre 2026, un regolamento delegato che introduce un'etichetta comune di sostenibilità per i data center con potenza superiore a 500…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114724/09-ue-data-center-consumi-energetici.jpg",
+      "publishedAt": "2026-09-23T14:05:52+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Google Pixel, l'icona \"dinamica\" dell'app My Pixel in arrivo anche sui vecchi modelli",
+      "link": "https://www.hdblog.it/smartphone/articoli/n671346/google-pixel-10-9-my-pixel-icona-dinamica-colori/",
+      "excerpt": "Non solo nelle forme, ma anche nei colori.",
+      "image": "https://hd2.tudocdn.net/1338324?w=660",
+      "publishedAt": "2026-09-23T14:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Cinghia di distribuzione, l'errore che ti fa pagare la manodopera 2 volte",
+      "link": "https://www.hdmotori.it/cambio-distribuzione-paraolio-albero-motore/",
+      "excerpt": "Perché conviene sostituire il paraolio dell'albero motore insieme alla cinghia di distribuzione? Il consiglio del meccanico per non pagare due volte i lavori",
+      "image": "https://hd2.tudocdn.net/1373196?w=660",
+      "publishedAt": "2026-09-23T14:00:34+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Recensione Secretlab Magnus Pro: la miglior scrivania sul mercato?",
+      "link": "https://www.tomshw.it/hardware/secretlab-magnus-pro-recensione-completa",
+      "excerpt": "Secretlab si è costruita una reputazione con le sedie da gaming, la TITAN Evo in particolare, ma da qualche anno il marchio ha allargato il campo all'intera postazione. La MAGNUS…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114782/SecretLab-Magnus-Pro-6.jpg",
+      "publishedAt": "2026-09-23T14:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Detriti spaziali, l’ESA avverte: alcune orbite potrebbero diventare inutilizzabili",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n671342/detriti-spaziali-esa-rischio-collisioni-orbita/",
+      "excerpt": "Più satelliti e detriti aumentano il rischio di collisioni nelle orbite terrestri.",
+      "image": "https://hd2.tudocdn.net/1373191?w=660",
+      "publishedAt": "2026-09-23T13:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "OPPO Reno 15FS 5G a 329,90€, 512GB per non fare pulizia ogni mese",
+      "link": "https://www.tomshw.it/smartphone/oppo-reno-15fs-5g-a-32990eur-512gb-per-non-fare-pulizia-ogni-mese",
+      "excerpt": "OPPO Reno 15FS 5G costa 329,90€ su Amazon, anziché 340,80€, con uno sconto del 3%. La memoria da 512GB è l’elemento che lo rende interessante per chi accumula foto, video,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114937/tomshw-offer-1345719.png",
+      "publishedAt": "2026-09-23T13:49:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Qualcuno ha trasformato un Mac mini in una specie di console portatile",
+      "link": "https://www.hdblog.it/apple/articoli/n671340/mac-mini-m4-cyberdeck-console-portatile-joy-con/",
+      "excerpt": "Un \"cyberdeck\" con tastiera ma anche aggancio per i Joy-Con.",
+      "image": "https://hd2.tudocdn.net/1373187?w=660",
+      "publishedAt": "2026-09-23T13:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Prezzi mobile: WINDTRE sfida tutti con due promo shock a 5,99€",
+      "link": "https://www.tomshw.it/smartphone/prezzi-mobile-windtre-sfida-tutti-con-due-promo-shock-a-599eur",
+      "excerpt": "WINDTRE torna all'attacco nel mercato della telefonia mobile e lancia due promozioni shock destinate a sbaragliare la concorrenza. Con un prezzo aggressivo fissato a soli 5,99€ al…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114938/Prezzi-mobile-WINDTRE-sfida-tutti-con-due-promo-shock-a-5,99€.png",
+      "publishedAt": "2026-09-23T13:41:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Streaming musica, in arrivo le esclusive temporanee per gli utenti Premium",
+      "link": "https://www.hdblog.it/android/articoli/n671343/steaming-musica-universal-esclusiva-temporanea/",
+      "excerpt": "Spotify, Apple Music e le altre piattaforme potranno rendere disponibili agli utenti gratuiti le uscite degli artisti Universal 72 ore dopo averle sbloccate per quelli Premium.",
+      "image": "https://hd2.tudocdn.net/1342484?w=660",
+      "publishedAt": "2026-09-23T13:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Battuta BYD, la \"super ricarica\" di Geely è più veloce: dal 10 al 70% in 4 minuti e mezzo",
+      "link": "https://images.dday.it/w3b8Zg_MgoPrtGAHJyYiNmYEGNHjDfpOUdaXE0GpIbk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58838/57deb3_Screenshot_2026-09-23_alle_15.02.40.png",
+      "excerpt": "Il nuovo sistema Smart Charging usa l’IA per regolare potenza, temperatura e raffreddamento in tempo reale... Leggi tutto",
+      "image": "https://images.dday.it/w3b8Zg_MgoPrtGAHJyYiNmYEGNHjDfpOUdaXE0GpIbk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58838/57deb3_Screenshot_2026-09-23_alle_15.02.40.png",
+      "publishedAt": "2026-09-23T13:27:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "OPPO Enco Buds3 Pro a 29€ su Amazon: 54 ore di autonomia al nuovo minimo storico",
+      "link": "https://www.hdblog.it/indossabili/offerte/n671339/oppo-enco-buds3-pro-offerta-amazon-sconto/",
+      "excerpt": "Gli OPPO Enco Buds3 Pro scendono a 29,99€ su Amazon: driver da 12,4 mm, Bluetooth 5.4, IP55 e fino a 54 ore di autonomia.",
+      "image": "https://hd2.tudocdn.net/1235674?w=660",
+      "publishedAt": "2026-09-23T13:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "XMG rincara ancora i laptop: quanto ti costa la crisi della RAM?",
+      "link": "https://www.tomshw.it/hardware/xmg-rincara-ancora-i-laptop-quanto-ti-costa-la-crisi-della-ram",
+      "excerpt": "XMG ha annunciato un nuovo aumento dei prezzi per quasi tutti i suoi laptop. Il rincaro va da 100 a 300 euro a seconda del modello, mentre il nuovo NEO 16 (M26) resta escluso. Per…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114936/xmg-rincara-ancora-i-laptop-quanto-ti-costa-la-crisi-della-ram.png",
+      "publishedAt": "2026-09-23T13:20:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "SONOFF TRVZB a 32€: il riscaldamento si regola stanza per stanza",
+      "link": "https://www.tomshw.it/altro/sonoff-trvzb-a-32eur-il-riscaldamento-si-regola-stanza-per-stanza",
+      "excerpt": "SONOFF TRVZB costa 32€ su Amazon e consente di controllare il singolo radiatore attraverso l’app eWeLink, con programmazioni e automazioni basate sulle proprie abitudini. La…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114935/tomshw-offer-1345690.png",
+      "publishedAt": "2026-09-23T13:19:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "OpenAI darà all'Ucraina i suoi modelli IA per difendere le infrastrutture civili dagli attacchi informatici",
+      "link": "https://images.dday.it/ajV4qK-AEWpiRoegk6PXkL-16eQ4BG7ow2XnIUdMZaE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58837/6531c8_small_Immagine_Codex_23_set_2026__15_14_49_copia.png",
+      "excerpt": "L’Ucraina userà il programma di difesa Daybreak di OpenAI per respingere gli attacchi informatici russi. Nel frattempo i “cyber modelli” sono finiti anche nella mani dell’UE...…",
+      "image": "https://images.dday.it/ajV4qK-AEWpiRoegk6PXkL-16eQ4BG7ow2XnIUdMZaE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58837/6531c8_small_Immagine_Codex_23_set_2026__15_14_49_copia.png",
+      "publishedAt": "2026-09-23T13:17:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Lettori CD hi-fi in difficoltà: mancano i meccanismi per costruirli",
+      "link": "https://www.hdblog.it/altadefinizione/articoli/n671336/lettori-cd-hi-fi-crisi-drive-ottici/",
+      "excerpt": "I drive ottici fuori produzione mettono in difficoltà l’hi-fi: PS Audio ferma un modello e Naim elimina il lettore CD.",
+      "image": "https://hd2.tudocdn.net/1373178?w=660",
+      "publishedAt": "2026-09-23T13:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "MG paga il bollo su due modelli: la promozione anticipa il vantaggio del 2027",
+      "link": "https://www.hdmotori.it/mg-paga-bollo-mg3-zs/",
+      "excerpt": "Fino al 30 settembre MG sostiene il costo previsto per il bollo di MG3 Hybrid+ e MG ZS Hybrid+, entrambe con potenza di 75 kW ai fini dell'iniziativa",
+      "image": "https://hd2.tudocdn.net/1373177?w=660",
+      "publishedAt": "2026-09-23T13:00:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "MediaWorld compie 35 anni e guarda al futuro: più negozi, digitale e servizi",
+      "link": "https://images.dday.it/73USiZ-8rA4y3AQzDMOvI-ns7GHi_hbdOS5RalLR8mA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58835/d795c5_ape2.jpg",
+      "excerpt": "Dopo una fase difficile e cinque anni di ritorno alla crescita, MediaWorld punta ad accelerare con nuovi negozi, più digitale, servizi e investimenti in tecnologia e AI... Leggi…",
+      "image": "https://images.dday.it/73USiZ-8rA4y3AQzDMOvI-ns7GHi_hbdOS5RalLR8mA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58835/d795c5_ape2.jpg",
+      "publishedAt": "2026-09-23T12:09:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Epson annuncia la nuova gamma di videoproiettori Laser 4K: più luminosi e con supporto a Matter",
+      "link": "https://images.dday.it/DqLFgfYd5p3IKsjsiXYBEskcKtNkmMhAxRI8-5BSmEA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58836/50acc5_LS6000_W_stylish_02.jpg",
+      "excerpt": "Annunciati quattro nuovi modelli in tecnologia 3LCD con sorgente Laser. Illuminano schermo fino a 500 pollici, grazie ad un maggiore flusso luminoso, ma senza incidere sulla…",
+      "image": "https://images.dday.it/DqLFgfYd5p3IKsjsiXYBEskcKtNkmMhAxRI8-5BSmEA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58836/50acc5_LS6000_W_stylish_02.jpg",
+      "publishedAt": "2026-09-23T10:14:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Con Kindle Scribe leggi e scrivi. Il modello da 64 GB è in super-sconto su Amazon",
+      "link": "https://images.dday.it/qw7ydD3C-s-oD1auopE97nAUhJVcWVbhfigiIGjv-fY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58834/f70831_scribe.jpeg",
+      "excerpt": "Un ereader da 10,2\" che include anche una penna per prendere appunti e segnare annotazioni... Leggi tutto",
+      "image": "https://images.dday.it/qw7ydD3C-s-oD1auopE97nAUhJVcWVbhfigiIGjv-fY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58834/f70831_scribe.jpeg",
+      "publishedAt": "2026-09-23T09:44:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "COROS Pace 4 Pro è il nuovo sportwatch per gli amanti dell'endurance",
+      "link": "https://images.dday.it/Rz__uA_vRbX_Au9cWqcl0U2MjeqLF2HNs_FgMg7Dytk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58832/58be5d_pace4pro_1.jpg",
+      "excerpt": "Il nuovo sportwatch di COROS ha uno schermo OLED da 1,47 pollici e offre fino a 60 ore di tracciamento GPS con una carica per le attività di endurance più estreme... Leggi tutto",
+      "image": "https://images.dday.it/Rz__uA_vRbX_Au9cWqcl0U2MjeqLF2HNs_FgMg7Dytk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58832/58be5d_pace4pro_1.jpg",
+      "publishedAt": "2026-09-23T09:23:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Nissan torna nel segmento A con PIXO: city car elettrica da 259 km. Arriverà anche in Europa",
@@ -50,24 +248,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Enel Mobile arriva su Android e iPhone: cosa si può fare con l'app",
-      "link": "https://www.hdblog.it/smartphone/articoli/n671288/enel-mobile-app-ios-android-cosa-fa-download/",
-      "excerpt": "L'app Enel Mobile è ora disponibile su Play Store e App Store dopo il debutto del nuovo operatore virtuale. Dallo smartphone è possibile controllare consumi, credito e offerta",
-      "image": "https://hd2.tudocdn.net/1373047?w=660",
-      "publishedAt": "2026-09-23T08:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "POS Qonto: Pocket a 69€ e Pro a 139€, −30% fino al 16 ottobre",
-      "link": "https://www.tomshw.it/offerte/pos-qonto-pocket-a-69eur-e-pro-a-139eur-30-fino-al-16-ottobre",
-      "excerpt": "Il POS Pocket di Qonto passa da 99€ a 69€ e il POS Pro da 199€ a 139€, IVA esclusa, con uno sconto del 30% (30€ sul Pocket, 60€ sul Pro). L'offerta vale dal 16 settembre...",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114854/qonto-POS.jpg",
-      "publishedAt": "2026-09-23T08:43:25+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Trump ha cambiato il nome all’Intelligenza Artificiale: ora si chiama Super Intelligenza",
       "link": "https://images.dday.it/-QOAnG4YOD2mDgzQ3ULGNvfLKolzglNiVtEG2VCIvqM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58831/3978c5_small_Immagine_Codex_23_set_2026__10_35_17_copia.png",
       "excerpt": "Dopo golfi, monti e laghi, Trump ribattezza anche l’AI: nei documenti del governo americano diventerà “Super Intelligence”, abbreviata in SI... Leggi tutto",
@@ -75,105 +255,6 @@
       "publishedAt": "2026-09-23T08:37:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Mac mini M6 e M5 Pro fanno un passo indietro: addio upgrade fai da te alla memoria",
-      "link": "https://www.hdblog.it/apple/articoli/n671250/mac-mini-m6-m5-pro-ssd-saldato-upgrade-scheda/",
-      "excerpt": "Volevate risparmiare? Apple è di un'altra opinione.",
-      "image": "https://hd2.tudocdn.net/1372949?w=660",
-      "publishedAt": "2026-09-23T08:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "I migliori titoli indie in sconto su Instant Gaming",
-      "link": "https://www.tomshw.it/videogioco/i-migliori-titoli-indie-in-sconto-su-instant-gaming",
-      "excerpt": "Aggiornamento 23/09: tra le offerte più rilevanti dei giochi indie di questa settimana troviamo Kingdom Come: Deliverance, Where the Seeds Fall e altri. Se siete appassionati di…",
-      "image": "https://cdn.tomshw.it/storage/media/2025/12/78383/I-migliori-titoli-indie-in-sconto-su-Instant-Gaming.jpg",
-      "publishedAt": "2026-09-23T08:31:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Targa polacca, automobilista italiano pagherà oltre un milione di euro dopo un incidente",
-      "link": "https://www.hdmotori.it/targa-polacca-risarcimento-milione-di-euro/",
-      "excerpt": "L’ufficio delle assicurazioni polacche procederà con un’azione di rivalsa per un incidente mortale accaduto in Italia",
-      "image": "https://hd2.tudocdn.net/1373064?w=660",
-      "publishedAt": "2026-09-23T08:30:26+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Migliori fat bike elettriche (2026)",
-      "link": "https://www.tomshw.it/automotive/migliori-fat-bike-elettriche",
-      "excerpt": "Le migliori fat bike elettriche si scelgono in base a utilizzo, peso, autonomia reale e conformità stradale. Questa guida confronta modelli pieghevoli, da sterrato, da turismo e…",
-      "image": "https://cdn.tomshw.it/storage/media/2024/09/35458/Sconti-fino-a-750€-sulle-e-Bike-Engwe-copertina.jpg",
-      "publishedAt": "2026-09-23T08:29:30+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "ASUS ROG Azoth 96 HE arriva in Italia: 8.000 Hz e switch magnetici a 389,99 euro",
-      "link": "https://www.tomshw.it/hardware/asus-rog-azoth-96-he-arriva-in-italia-8000-hz-e-switch-magnetici-a-38999-euro",
-      "excerpt": "ASUS Republic of Gamers porta in Italia la nuova ROG Azoth 96 HE, una tastiera gaming analogica di fascia alta che abbina il formato compatto al 96% a una dotazione pensata per…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114863/asus-rog-azoth-96-he-tastiera-gaming-analogica-8000-hz.png",
-      "publishedAt": "2026-09-23T08:29:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "L'AI aziendale non deve sapere tutto, deve conoscere solo la tua azienda (podcast)",
-      "link": "https://www.tomshw.it/business/lai-aziendale-non-deve-sapere-tutto-deve-conoscere-solo-la-tua-azienda-podcast",
-      "excerpt": "UNaIVERSE, spin-off nato pochi mesi fa dalla ricerca del Siena Artificial Intelligence Lab dell'Università di Siena, ha costruito un sistema di intelligenza artificiale che impara…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114712/01-unaiverse-sanarico.jpg",
-      "publishedAt": "2026-09-23T08:25:32+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Apple M5 Ultra, trapelano i primi benchmark: molto vicino alle RTX 5080",
-      "link": "https://www.hdblog.it/hardware/articoli/n671287/apple-mac-studio-m5-ultra-benchmark-potenza/",
-      "excerpt": "Il passo avanti rispetto agli M3 Ultra è notevole, soprattutto considerando i soli 18 mesi di distanza tra l'uno e l'altro.",
-      "image": "https://hd2.tudocdn.net/1365006?w=660",
-      "publishedAt": "2026-09-23T08:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "NFL Game Pass è gratis per 7 giorni: potete vedere tutte le partite senza pagare",
-      "link": "https://www.tomshw.it/altro/nfl-game-pass-e-gratis-per-7-giorni-potete-vedere-tutte-le-partite-senza-pagare",
-      "excerpt": "Gli appassionati di football americano hanno ora un'occasione interessante per seguire la stagione NFL senza sostenere subito alcun costo. NFL Game Pass ha infatti attivato una…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114861/NFL-Game-Pass-è-gratis-per-7-giorni-potete-vedere-tutte-le-partite-senza-pagare.png",
-      "publishedAt": "2026-09-23T08:23:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori estrattori di succo (2026)",
-      "link": "https://www.tomshw.it/guide/migliori-estrattori-di-succo",
-      "excerpt": "Panasonic Slow Juicer MJ-L700KXE è il miglior estrattore di succo della selezione: punta su costruzione curata, apertura da 75 mm, separazione della polpa e arresto automatico…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114844/guide-thw-1345124.png",
-      "publishedAt": "2026-09-23T08:22:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "DJI Goggles 3 al minimo storico, 525,58€ per volare in FPV",
-      "link": "https://www.tomshw.it/altro/dji-goggles-3-al-minimo-storico-52558eur-per-volare-in-fpv",
-      "excerpt": "DJI Goggles 3 costa 525,58€ su Amazon, toccando il minimo storico con il 21% di sconto: da 669€ si risparmiano 143,42€. I display micro-OLED e la trasmissione O4 trasformano il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114858/tomshw-offer-1345240.png",
-      "publishedAt": "2026-09-23T08:19:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "iOS 27.2 entra nel vivo: nuova app Salute, Siri e FaceTime tra le novità",
-      "link": "https://www.hdblog.it/smartphone/articoli/n671282/ios-272-beta-pubblica-novita-iphone/",
-      "excerpt": "Apple apre i test pubblici di iOS 27.2, il prossimo importante aggiornamento per iPhone. La versione stabile è attesa a ottobre, mentre diverse nuove funzioni possono essere già…",
-      "image": "https://hd2.tudocdn.net/1348687?w=660",
-      "publishedAt": "2026-09-23T08:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "L’OLED di LG Display viaggia a 720 Hz per i monitor da esport da 24,5 pollici",
@@ -185,92 +266,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Questo lettore MP3 non solo sembra una cassetta, ma funziona come una cassetta",
-      "link": "https://www.hdblog.it/altadefinizione/articoli/n671248/lettore-mp3-audiocassetta-vintage-esp32-video-mod/",
-      "excerpt": "Non è un semplice guscio vintage: ecco com'è fatto dentro.",
-      "image": "https://hd2.tudocdn.net/1372945?w=660",
-      "publishedAt": "2026-09-23T08:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Renault Rafale Hypnotic, serie limitata da 300 CV: solo 100 esemplari per l’Italia",
-      "link": "https://www.hdmotori.it/renault-rafale-hypnotic-serie-limitata-prezzo/",
-      "excerpt": "Renault Rafale Hypnotic è la nuova serie limitata del SUV coupé: 1.500 esemplari in Europa, appena 100 per l’Italia, motore plug-in hybrid da 300 CV e prezzo di 60.700 euro",
-      "image": "https://hd2.tudocdn.net/1373039?w=660",
-      "publishedAt": "2026-09-23T08:00:45+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Un computer fatto di DNA riesce a sommare, moltiplicare e dividere. Senza alimentazione elettrica",
       "link": "https://images.dday.it/dEg_HYuMBHKTmDK-ataQXVzZhxuKOVvSQaPSoabPjks/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58829/1d5650_Depositphotos_330032498_XL.jpg",
       "excerpt": "I ricercatori della Maynooth University hanno realizzato un sistema molecolare basato su filamenti di DNA che esegue calcoli senza un’alimentazione elettrica continua... Leggi…",
       "image": "https://images.dday.it/dEg_HYuMBHKTmDK-ataQXVzZhxuKOVvSQaPSoabPjks/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58829/1d5650_Depositphotos_330032498_XL.jpg",
       "publishedAt": "2026-09-23T07:57:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Amazon Leo arriva in Uzbekistan: internet anche nei deserti",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n671275/amazon-leo-uzbekistan-internet-satellitare/",
-      "excerpt": "Amazon Leo e Uztelecom puntano a portare internet nelle aree più difficili da raggiungere.",
-      "image": "https://hd2.tudocdn.net/1373036?w=660",
-      "publishedAt": "2026-09-23T07:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Suunto Run 2 in prova: l'entry level sale di livello (e di prezzo), ma convince",
-      "link": "https://images.dday.it/XT6YUm77N32WCnKZLQ3zsPEvp-FIG5IWCkjOyCrY2fY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58818/db69a0_IMG_8067.jpg",
-      "excerpt": "Il nuovo sportwatch Suunto Run 2 offre dati ancora più precisi e con le mappe offline incluse diventa ancora più versatile, quasi quanto il Suunto Race 2 che costa di più... Leggi…",
-      "image": "https://images.dday.it/XT6YUm77N32WCnKZLQ3zsPEvp-FIG5IWCkjOyCrY2fY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58818/db69a0_IMG_8067.jpg",
-      "publishedAt": "2026-09-23T07:47:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Lanciati GPT-6 Sol e Luna: costano il 50% in meno, ma sui benchmark valgono quanto i GPT-5.6",
-      "link": "https://images.dday.it/pM0QF_VOWEt1PObxzdFviXOUzmnDgk_L0Qs5lq5hL8U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58828/c88a98_cove_rScreenshot_2026-09-23_alle_09.39.13_copia.png",
-      "excerpt": "I due modelli derivano da Astra e dimezzano i prezzi API. I test confrontabili con quelli di luglio non mostrano però progressi netti; i miglioramenti riguardano soprattutto…",
-      "image": "https://images.dday.it/pM0QF_VOWEt1PObxzdFviXOUzmnDgk_L0Qs5lq5hL8U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58828/c88a98_cove_rScreenshot_2026-09-23_alle_09.39.13_copia.png",
-      "publishedAt": "2026-09-23T07:40:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "È uscito Opus 5.5: costa meno, è “forte” quando Fable 5.1 ma Anthropic non lo dice",
-      "link": "https://images.dday.it/fHMr3LvL1y33jUpjja8c7iMpK1OtF-M_kgD2OiX2gIc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58827/75cf29_cove_rScreenshot_2026-09-23_alle_08.39.04_copia.png",
-      "excerpt": "Opus 5.5 supera Fable 5.1 in tutti i benchmark pubblicati da Anthropic, ma l’azienda ridimensiona il significato dei test. Costa molto meno e introduce risposte più concise...…",
-      "image": "https://images.dday.it/fHMr3LvL1y33jUpjja8c7iMpK1OtF-M_kgD2OiX2gIc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58827/75cf29_cove_rScreenshot_2026-09-23_alle_08.39.04_copia.png",
-      "publishedAt": "2026-09-23T06:40:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Snapdragon 8 Elite Gen 6 ufficiale. Per chi vuole il massimo c'è la versione Extreme",
-      "link": "https://images.dday.it/xs_XrtOWNEzNPOl7bmuzyNZRQWfXeUCuKHU7FYe4qDU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58826/b83a7a_IMG_7891.jpg",
-      "excerpt": "Qualcomm toglie i veli al suo nuovo processore top di gamma. Con una sorpresa: per i produttori che vorranno realizzare un prodotto \"ultra\" arriva anche una versione Extreme. Il…",
-      "image": "https://images.dday.it/xs_XrtOWNEzNPOl7bmuzyNZRQWfXeUCuKHU7FYe4qDU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58826/b83a7a_IMG_7891.jpg",
-      "publishedAt": "2026-09-23T03:00:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Xbox, di nuovo licenziamenti. Ninja Theory vicina alla chiusura",
-      "link": "https://images.dday.it/_F9nlYg1C4QL4RAVG19_qSu-ls_06gMB_TNCb51vKhs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58825/cc22bf_xbox.png",
-      "excerpt": "Matt Booty ha annunciato una nuova fase del “reset” di Xbox: Rare e World’s Edge passano sotto Activision, Obsidian sotto Bethesda... Leggi tutto",
-      "image": "https://images.dday.it/_F9nlYg1C4QL4RAVG19_qSu-ls_06gMB_TNCb51vKhs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58825/cc22bf_xbox.png",
-      "publishedAt": "2026-09-22T15:28:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Tesla FSD Supervised in Europa: approvato anche in Repubblica Ceca",
-      "link": "https://images.dday.it/r_Ou2554F7V5vytREahBGldzokqAwXRTOoVWBaHXCjY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58822/f33368_Depositphotos_169268944_XL.jpg",
-      "excerpt": "Praga ha riconosciuto l’approvazione provvisoria rilasciata dall’autorità olandese RDW ad aprile... Leggi tutto",
-      "image": "https://images.dday.it/r_Ou2554F7V5vytREahBGldzokqAwXRTOoVWBaHXCjY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58822/f33368_Depositphotos_169268944_XL.jpg",
-      "publishedAt": "2026-09-22T15:20:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
