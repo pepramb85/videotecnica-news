@@ -1,17 +1,251 @@
 {
-  "generatedAt": "2026-09-25T09:14:28.219439+00:00",
+  "generatedAt": "2026-09-25T14:53:27.745948+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Chrome ora ricorda la posizione dello scroll per le pagine condivise tra i dispositivi",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n671568/chrome-ricorda-posizione-scroll-pagine-condivise/",
-      "excerpt": "Il browser ora ricorda il punto esatto della pagina a cui si è arrivati quando la invia a un altro dispositivo: la novità di Chrome.",
-      "image": "https://hd2.tudocdn.net/1373703?w=660",
-      "publishedAt": "2026-09-25T09:10:00+00:00",
+      "title": "NBA, fine novembre a rischio per colpa di GTA 6 secondo il centro dei Rockets",
+      "link": "https://www.hdblog.it/games/articoli/n671635/nba-fine-novembre-rischio-colpa-gta-6/",
+      "excerpt": "Steven Adams degli Houston Rockets evidente prevede un calo delle prestazioni in NBA e negli altri campionati dopo l'uscita di GTA 6.",
+      "image": "https://hd2.tudocdn.net/1373853?w=660",
+      "publishedAt": "2026-09-25T14:50:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il CERN inizia a scollegare l'LHC: perché fermare l'acceleratore?",
+      "link": "https://www.tomshw.it/scienze/il-cern-inizia-a-scollegare-llhc-perche-fermare-lacceleratore",
+      "excerpt": "Il CERN ha tagliato la prima connessione tra i magneti del Large Hadron Collider, avviando lo smontaggio di alcune sezioni dell'acceleratore. L'intervento riguarda i magneti che…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115244/il-cern-inizia-a-scollegare-l-lhc-perche-fermare-l-acceleratore.png",
+      "publishedAt": "2026-09-25T14:50:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Bill Gates avverte: sull’AI i governi sono in ritardo",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n671647/bill-gates-intelligenza-artificiale-rischi-governi/",
+      "excerpt": "Gates chiede ai governi più regole per ridurre i rischi dell’AI senza fermarne i benefici.",
+      "image": "https://hd2.tudocdn.net/1373860?w=660",
+      "publishedAt": "2026-09-25T14:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Diesel e accise, da domani cambia tutto: un pieno costerà 3 euro in più",
+      "link": "https://www.hdmotori.it/prezzi-diesel-stangata-accise/",
+      "excerpt": "L'ultimo decreto del Governo toglie le ultime speranze ai proprietari di auto diesel. Secondo il Codacons un pieno arriverà a costare 3 euro in più",
+      "image": "https://hd2.tudocdn.net/1373877?w=660",
+      "publishedAt": "2026-09-25T14:30:47+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Ricaricare a 2.250 kW senza rovinare la batteria? Geely ci prova",
+      "link": "https://www.tomshw.it/automotive/geely-ripara-le-batterie-mentre-le-ricarica-dureranno-piu-a-lungo",
+      "excerpt": "Geely ha presentato Geely Smart Charging, un sistema che combina ricarica ultrarapida e gestione della batteria per ridurre il degrado legato alle soste ad alta potenza. La quinta…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115242/geely-ripara-le-batterie-mentre-le-ricarica-dureranno-piu-a-lungo.png",
+      "publishedAt": "2026-09-25T14:30:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Nintendo batte un pirata Switch: incasserà davvero 4,5 milioni?",
+      "link": "https://www.tomshw.it/videogioco/nintendo-batte-un-pirata-switch-incassera-davvero-45-milioni",
+      "excerpt": "Nintendo of America ha ottenuto una sentenza che impone a Williams, accusato di distribuire giochi pirata per Switch, di pagare 4,5 milioni di dollari di danni. Il tribunale ha…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115240/nintendo-batte-un-pirata-switch-incassera-davvero-4-5-milioni.png",
+      "publishedAt": "2026-09-25T14:20:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Wish You Were Here in Blu-ray scende a 18 euro: è l’edizione per il 50° anniversario",
+      "link": "https://images.dday.it/QXMKf7e_V_Jl8y_sNC17W-XivwGAd1QQk-G0yE1j3Nc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58881/454051_ape2.jpg",
+      "excerpt": "Il Blu-ray per i 50 anni di Wish You Were Here aggiunge all’album originale il mix in Dolby Atmos, sei demo e versioni alternative inedite e 16 registrazioni live del tour del…",
+      "image": "https://images.dday.it/QXMKf7e_V_Jl8y_sNC17W-XivwGAd1QQk-G0yE1j3Nc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58881/454051_ape2.jpg",
+      "publishedAt": "2026-09-25T14:19:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Lenovo Idea Tab a 229€ con penna inclusa, fatto per appunti e lezioni",
+      "link": "https://www.tomshw.it/smartphone/lenovo-idea-tab-a-229eur-con-penna-inclusa-fatto-per-appunti-e-lezioni",
+      "excerpt": "Il Lenovo Idea Tab costa 229€ su Amazon, invece di 249€, con uno sconto dell’8%. La Tab Pen inclusa e lo schermo 2.5K a 90 Hz lo rendono particolarmente interessante per studiare,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115241/tomshw-offer-1368276.png",
+      "publishedAt": "2026-09-25T14:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Blocco diesel Euro 5, slitta ancora nel Bacino Padano. Nuova scadenza a fine 2027",
+      "link": "https://images.dday.it/2CZL2WW-f_VMP5aSVjwbvwC94qXFCMjt0HGqn96MzG0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58883/cadc12_Depositphotos_113581652_XL.jpg",
+      "excerpt": "Il Consiglio dei Ministri ha approvato il decreto-legge che rinvia di un anno le limitazioni previste in Piemonte, Lombardia, Veneto ed Emilia-Romagna... Leggi tutto",
+      "image": "https://images.dday.it/2CZL2WW-f_VMP5aSVjwbvwC94qXFCMjt0HGqn96MzG0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58883/cadc12_Depositphotos_113581652_XL.jpg",
+      "publishedAt": "2026-09-25T14:17:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "ASUS Googlebook 14 è ufficiale: meno di 1kg, display OLED touch e AI integrata",
+      "link": "https://www.hdblog.it/portatili/articoli/n671643/googlebook-14-asus-laptop-caratteristiche-gemini/",
+      "excerpt": "Con Googlebook OS.",
+      "image": "https://hd2.tudocdn.net/1373870?w=660",
+      "publishedAt": "2026-09-25T14:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "OpenAI GPT-6 Cyber ha un nuovo strumento di controllo \"antifuga\"",
+      "link": "https://www.tomshw.it/business/openai-gpt-6-cyber-ha-un-nuovo-strumento-di-controllo-antifuga",
+      "excerpt": "OpenAI ha in programma di presentare nelle prossime settimane GPT-6 Cyber, il quarto modello dedicato alla cybersecurity che l'azienda rilascia nel 2026 dopo le versioni 5.4, 5.5…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115158/02-openai-gpt6-cyber-strumento-controllo.jpg",
+      "publishedAt": "2026-09-25T14:11:47+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "I wafer rischiano rincari nel 2027: perché l'AI fa salire i costi",
+      "link": "https://www.tomshw.it/hardware/i-wafer-rischiano-rincari-nel-2027-perche-lai-fa-salire-i-costi",
+      "excerpt": "I fornitori di wafer da 12 pollici si avvicinano al rinnovo dei contratti con prospettive di rincari nel 2027. La domanda di chip per l'intelligenza artificiale sta assorbendo più…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115239/i-wafer-rischiano-rincari-nel-2027-perche-l-ai-fa-salire-i-costi.png",
+      "publishedAt": "2026-09-25T14:10:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Samsung Galaxy Tab S12 Ultra e Plus in tante nuove immagini: ecco le differenze",
+      "link": "https://www.hdblog.it/tablet/articoli/n671644/samsung-galaxy-tab-s12-ultra-plus-differenze-foto/",
+      "excerpt": "Molto simili, ma non identici: cosa cambia.",
+      "image": "https://hd2.tudocdn.net/1373851?w=660",
+      "publishedAt": "2026-09-25T14:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nissan Z Kaze Concept: omaggio all’iconica 300ZX",
+      "link": "https://www.hdmotori.it/nissan-z-kaze-concept-omaggio-300zx/",
+      "excerpt": "Con una operazione nostalgia che farà salire le palpitazioni agli amanti del gusto retrò, Nissan ha svelato la Z Kaze Concept.",
+      "image": "https://hd2.tudocdn.net/1373861?w=660",
+      "publishedAt": "2026-09-25T14:00:12+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Gli aggiornamenti Windows bloccano il desktop: quali PC rischiano?",
+      "link": "https://www.tomshw.it/hardware/gli-aggiornamenti-windows-bloccano-il-desktop-quali-pc-rischiano",
+      "excerpt": "Microsoft ha confermato un problema introdotto dagli aggiornamenti di Windows distribuiti a partire dall'anteprima di agosto 2026: su alcuni sistemi il desktop non si carica dopo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115235/gli-aggiornamenti-windows-bloccano-il-desktop-quali-pc-rischiano.png",
+      "publishedAt": "2026-09-25T14:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Recensione Ace Combat 8 WIngs of Theve, l'asso dei cieli",
+      "link": "https://www.tomshw.it/videogioco/recensione-ace-combat-8-wings-of-theve-lasso-dei-cieli",
+      "excerpt": "Dopo un’attesa durata ben sette anni, dato che Ace Combat 7 è sbarcato sul mercato nell’oramai lontanissimo 2019, la celebre saga di Bandai Namco basata sulle battaglie aeree…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114982/Ace-Combat-8-Wings-of-Theve-(3).jpg",
+      "publishedAt": "2026-09-25T14:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Samsung pronta a stupire con nuovi top di gamma che emuleranno giochi per PC?",
+      "link": "https://www.hdblog.it/smartphone/articoli/n671629/smartphone-samsung-gaming/",
+      "excerpt": "Qualcomm prepara il supporto a DirectX 12 per i chip Snapdragon, facilitando l'emulazione di giochi PC sui Galaxy.",
+      "image": "https://hd2.tudocdn.net/1147592?w=660",
+      "publishedAt": "2026-09-25T13:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "GTA IV su iPhone esiste davvero, ma Rockstar non c’entra",
+      "link": "https://www.tomshw.it/videogioco/gta-iv-gira-nativamente-su-iphone-e-ipad-potremo-giocarci-tutti",
+      "excerpt": "GTA IV è stato portato su iPhone e iPad attraverso un progetto sperimentale descritto nei giorni scorsi. Il gioco viene eseguito nativamente sui chip Apple Silicon: è il primo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115234/gta-iv-gira-nativamente-su-iphone-e-ipad-potremo-giocarci-tutti.png",
+      "publishedAt": "2026-09-25T13:50:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Nissan Leaf, 1.000 batterie hanno già avuto una seconda vita",
+      "link": "https://www.tomshw.it/automotive/samsar-recupera-1000-batterie-nissan-leaf-la-vita-oltre-lauto",
+      "excerpt": "Samsar ha raggiunto il traguardo di 1.000 pacchi batteria Nissan Leaf recuperati attraverso il suo programma di rigenerazione. L’azienda statunitense afferma di aver rimesso in…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115225/samsar-recupera-1-000-batterie-nissan-leaf-la-vita-oltre-l-auto.png",
+      "publishedAt": "2026-09-25T13:50:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Oppo F35 e F35 Pro in arrivo: filtra la possibile data per il lancio globale",
+      "link": "https://www.hdblog.it/smartphone/articoli/n671632/oppo-f35-pro-data-lancio-globale-a7-batteria/",
+      "excerpt": "Il Pro è il gemello di un modello cinese che ha ben 10.000 mAh.",
+      "image": "https://hd2.tudocdn.net/1370854?w=660",
+      "publishedAt": "2026-09-25T13:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Netflix, più spazio ai bambini: nuove serie, giochi e strumenti per i genitori",
+      "link": "https://www.hdblog.it/applicazioni/articoli/n671634/netflix-spazio-bambini-nuove-serie-giochi/",
+      "excerpt": "Netflix continua ad ampliare la sua offerta dedicata ai bambini",
+      "image": "https://hd2.tudocdn.net/1373850?w=660",
+      "publishedAt": "2026-09-25T13:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Truffe dei conti correnti, 1,8 milioni di vittime in Italia nell'ultimo anno",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n671620/truffe-conti-correnti-italia-quante-vittime/",
+      "excerpt": "Il danno economico complessivo è stimato intorno a 1,1 miliardi di euro. Una vittima su tre non sporge neanche denuncia.",
+      "image": "https://hd2.tudocdn.net/1315314?w=660",
+      "publishedAt": "2026-09-25T13:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Ecco l'erede della BYD Dolphin Surf. La nuova generazione supera i 4,2 metri",
+      "link": "https://images.dday.it/h74vEJWKILp7pB294A9eJFf3St6LvWIcrDdgqM0mWg4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58882/6f537e_byd_great_seagull_second_generation-3.jpeg",
+      "excerpt": "La nuova elettrica cinese passa da quattro a cinque posti, guadagna potenza e autonomia e potrà avere anche il LiDAR. L’abitacolo rinuncia al quadro strumenti separato: gli sketch…",
+      "image": "https://images.dday.it/h74vEJWKILp7pB294A9eJFf3St6LvWIcrDdgqM0mWg4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58882/6f537e_byd_great_seagull_second_generation-3.jpeg",
+      "publishedAt": "2026-09-25T12:57:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Microsoft fa diventare Copilot una \"super app\": ora programma e lavora da sola",
+      "link": "https://images.dday.it/2o5xD0qcl_EeLv2wgr9iZT7QsN4WJGBaPJGf3f4Jm1Y/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58880/9ea550_OMB-Copilot-9-25-Hero-9_22_26-2.png",
+      "excerpt": "Microsoft rilancia Copilot con una nuova app che unisce chat, Office, sviluppo software e agenti autonomi... Leggi tutto",
+      "image": "https://images.dday.it/2o5xD0qcl_EeLv2wgr9iZT7QsN4WJGBaPJGf3f4Jm1Y/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58880/9ea550_OMB-Copilot-9-25-Hero-9_22_26-2.png",
+      "publishedAt": "2026-09-25T12:33:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "ChatGPT Voice ora legge la posta e lavora dentro Work, anche da smartphone",
+      "link": "https://images.dday.it/NIUa1VwJr2PXYxeJIWkAj0EFWH8cTf082X09K5j12sE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58879/98437c_Screenshot_2026-09-25_alle_12.35.38.png",
+      "excerpt": "L'aggiornamento collega la modalità vocale ai plugin come Gmail e Slack. Le azioni da autorizzare, come l'invio di una mail, vanno però confermate sullo schermo... Leggi tutto",
+      "image": "https://images.dday.it/NIUa1VwJr2PXYxeJIWkAj0EFWH8cTf082X09K5j12sE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58879/98437c_Screenshot_2026-09-25_alle_12.35.38.png",
+      "publishedAt": "2026-09-25T10:36:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Giradischi Lenco in offerta su Amazon: due modelli per tornare ad ascoltare i vinili",
+      "link": "https://images.dday.it/rNcxANCos5jJ1sCI-bkd1l9pRmw-JJGfAK3sfcwgBPU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58876/827dfb_81qovJCVznL._AC_SL1500_.jpeg",
+      "excerpt": "Lenco, storico marchio di giradischi, mette in offerta due modelli su Amazon. Scopri subito Lenco LBT-188PI e l’LS-100... Leggi tutto",
+      "image": "https://images.dday.it/rNcxANCos5jJ1sCI-bkd1l9pRmw-JJGfAK3sfcwgBPU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58876/827dfb_81qovJCVznL._AC_SL1500_.jpeg",
+      "publishedAt": "2026-09-25T10:24:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Antennagate, spunta dopo 16 anni il raro video integrale del confronto tra Steve Jobs e i giornalisti",
+      "link": "https://images.dday.it/3fQk5ZMGJO0rzUe3lqg01LysRRphC6jbb86eekvzeuk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58877/ffeb72_cove_rfrwfrw_copia.jpg",
+      "excerpt": "Un raro video riporta alla luce il confronto tra Steve Jobs e i giornalisti sull’Antennagate dell’iPhone 4. Apple all’epoca pubblicò solo la presentazione iniziale... Leggi tutto",
+      "image": "https://images.dday.it/3fQk5ZMGJO0rzUe3lqg01LysRRphC6jbb86eekvzeuk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58877/ffeb72_cove_rfrwfrw_copia.jpg",
+      "publishedAt": "2026-09-25T10:12:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Dash cam a meno di 30 euro. Ecco l'affare di oggi",
@@ -21,69 +255,6 @@
       "publishedAt": "2026-09-25T09:09:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Revolut violata di nuovo, cos'è successo stavolta?",
-      "link": "https://www.tomshw.it/altro/revolut-violata-di-nuovo-cose-successo-stavolta",
-      "excerpt": "I clienti di Revolut hanno subito il secondo incidente sui dati nel giro di un mese, ma stavolta la falla non riguarda i sistemi della fintech. A finire nel mirino è stata…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115129/revolut-violata-di-nuovo-cose-successo-stavolta-yk1w6dk.webp",
-      "publishedAt": "2026-09-25T09:06:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Google Foto, tante novità in arrivo, tra cui il tool per pixelare in automatico",
-      "link": "https://www.hdblog.it/google/articoli/n671586/google-foto-novita-moods-redact-ai-filtri/",
-      "excerpt": "C'è anche una serie di \"filtri\" molto avanzati, chiamata Moods, che applica gli stili di fotocamere vintage.",
-      "image": "https://hd2.tudocdn.net/1317024?w=660",
-      "publishedAt": "2026-09-25T09:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Software, installazione e configurazione \"inclusi\" nascondono quanto lavoro tecnico stai pagando",
-      "link": "https://www.tomshw.it/business/software-installazione-e-configurazione-inclusi-nascondono-quanto-lavoro-tecnico-stai-pagando",
-      "excerpt": "Se la parte hardware di un preventivo IT può nascondere il modello del processore, quella software può nascondere qualcosa di più semplice da confondere: se l'azienda sta…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114879/eletecno-preventivo-b2b-software.jpg",
-      "publishedAt": "2026-09-25T09:05:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Rapper girano un video e bloccano la superstrada: cosa rischiano per i reati commessi",
-      "link": "https://www.hdmotori.it/rapper-video-superstrada/",
-      "excerpt": "Il tratto Milano-Meda è rimasto bloccato per la registrazione di una clip musicale non autorizzata da parte di tre rapper. Rischiano fino a due anni di reclusione.",
-      "image": "https://hd2.tudocdn.net/1373732?w=660",
-      "publishedAt": "2026-09-25T09:00:48+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Google Messaggi, un bug manda fuori tempo il flash: come ovviare",
-      "link": "https://www.hdblog.it/smartphone/articoli/n671582/google-messaggi-bug-flash-fotocamera/",
-      "excerpt": "Google Messaggi presenta un bug nella fotocamera integrata che può far scattare il flash troppo presto o impedirne l'attivazione, producendo fotografie molto scure nelle chat",
-      "image": "https://hd2.tudocdn.net/1174404?w=660",
-      "publishedAt": "2026-09-25T08:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Arc Raiders cambia radicalmente con la nuova modalità, ma non è detto che rimanga",
-      "link": "https://www.tomshw.it/videogioco/arc-raiders-cambia-radicalmente-con-la-nuova-modalita-ma-non-e-detto-che-rimanga",
-      "excerpt": "Embark Studios ha annunciato il che Arc Raiders ospiterà un test della tanto richiesta modalità PvE, in programma dal 13 al 20 ottobre su tutte le piattaforme. Per una settimana i…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115130/arc-raiders-cambia-radicalmente-con-la-nuova-modalita-ma-non-4d8uyjf.webp",
-      "publishedAt": "2026-09-25T08:55:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "A noi umani piace comprare in negozio e l'AI per ora sta perdendo questa sfida",
-      "link": "https://www.tomshw.it/business/a-noi-umani-piace-comprare-in-negozio-e-lai-per-ora-sta-perdendo-questa-sfida",
-      "excerpt": "Ron Johnson, 66 anni, ha costruito la rete di negozi fisici Apple, arrivato in azienda nel 2000 quando l'e-commerce iniziava a decollare. Alla domanda se un cliente affiderebbe a…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114704/02-architetto-apple-store-ai-shopping.jpg",
-      "publishedAt": "2026-09-25T08:54:22+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Qualcuno sta scavando per cercare l’Arca di Noè, e ha pubblicato il primo video sul fondo di un foro di carotaggio",
@@ -100,177 +271,6 @@
       "excerpt": "La Goodtime State: Vice City Collection comprende 11 oggetti da collezione ispirati soprattutto a Macca l’Alligatore e alle Leonida Keys... Leggi tutto",
       "image": "https://images.dday.it/_-QD4Ld9DhqZzpB6TZBydLh6FnrgoxjORkp6Q0oDG5I/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58874/4e0853_GTAVI_CE_Box_Closed_Finalized_2160noise.jpeg",
       "publishedAt": "2026-09-25T08:50:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Makita HS7611 sotto i 140€, 1.600 W per affrontare i tagli impegnativi",
-      "link": "https://www.tomshw.it/altro/makita-hs7611-sotto-i-140eur-1600-w-per-affrontare-i-tagli-impegnativi",
-      "excerpt": "Makita HS7611 costa 139,99€ su Amazon: questa sega circolare portatile abbina un motore da 1.600 W a una lama da 190 mm. È pensata per chi affronta spesso tavole, pannelli e altri…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115155/tomshw-offer-1367618.png",
-      "publishedAt": "2026-09-25T08:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Un grande cambiamento per la strategia di comunicazione di Microsoft",
-      "link": "https://www.hdblog.it/microsoft/articoli/n671577/microsoft-comunicazione-legale-marketing/",
-      "excerpt": "Il team dedicato alla comunicazione passa dalla divisione Marketing a quella legale, capitanata dal presidente Brad Smith.",
-      "image": "https://hd2.tudocdn.net/1267866?w=660",
-      "publishedAt": "2026-09-25T08:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Feather, il robot da 26.000 euro che vuole diventare l’Android della robotica",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n671573/feather-robot-android-robotica-sviluppatori/",
-      "excerpt": "Feather vende un robot modulare su cui gli sviluppatori possono creare nuove applicazioni.",
-      "image": "https://hd2.tudocdn.net/1373717?w=660",
-      "publishedAt": "2026-09-25T08:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "I Copilot+ PC sono già morti: cos'è successo?",
-      "link": "https://www.tomshw.it/hardware/i-copilot-pc-sono-gia-morti-cose-successo",
-      "excerpt": "Il marchio Copilot+ PC sta scomparendo dalla comunicazione di Microsoft e dei suoi partner hardware, a poco più di due anni dal debutto. La categoria era stata lanciata nel 2024…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/104578/news-flash-614692.png",
-      "publishedAt": "2026-09-25T08:37:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "GTA 6, indiscrezioni sui preordini: PS5 sta stravincendo su Xbox Series",
-      "link": "https://www.hdblog.it/sony/articoli/n671560/gta-6-preordini-xbox-playstation-rapporto/",
-      "excerpt": "Fonti interne a Microsoft dicono che i numeri sono \"Fortemente sbilanciati\" a favore della piattaforma di Sony.",
-      "image": "https://hd2.tudocdn.net/1372026?w=660",
-      "publishedAt": "2026-09-25T08:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Addio all'incostanza dei prezzi: Alperia lancia l'offerta monoraria fissa per 36 mesi!",
-      "link": "https://www.tomshw.it/altro/addio-allincostanza-dei-prezzi-alperia-lancia-lofferta-monoraria-fissa-per-36-mesi",
-      "excerpt": "In un panorama energetico sempre più caratterizzato da forte incertezza e continue oscillazioni dei listini, il fornitore Alperia compie una mossa strategica lanciando la nuova…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115153/Alperia-copertina.png",
-      "publishedAt": "2026-09-25T08:35:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Scaricare app Android fuori dal Play Store diventa più facile: prova F-Droid 2.0",
-      "link": "https://www.tomshw.it/smartphone/scaricare-app-android-fuori-dal-play-store-diventa-piu-facile-prova-f-droid-20",
-      "excerpt": "Il progetto F-Droid ha annunciato il rilascio graduale di F-Droid 2.0, l'aggiornamento più profondo del suo store alternativo per Android dopo circa dieci anni. La nuova versione…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115135/scaricare-app-android-fuori-dal-play-store-diventa-piu-facil-j2tlkud.webp",
-      "publishedAt": "2026-09-25T08:31:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Bollo auto, Giorgetti: «La volontà è rendere strutturale l'eliminazione»",
-      "link": "https://www.hdmotori.it/bollo-auto-giorgetti-eliminazione/",
-      "excerpt": "Il Ministro dell'Economia fa il punto in Parlamento sull’eliminazione del bollo auto e sulle compensazioni per le Regioni in vista della manovra.",
-      "image": "https://hd2.tudocdn.net/1373721?w=660",
-      "publishedAt": "2026-09-25T08:30:10+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Guida a Well Dweller: trucchi e consigli per sopravvivere",
-      "link": "https://www.tomshw.it/videogioco/well-dweller-6-consigli-per-iniziare",
-      "excerpt": "Well Dweller è disponibile dal 22 settembre 2026 su PC, PlayStation 5, Xbox Series X|S, Nintendo Switch e Nintendo Switch 2. Sviluppato da Kyle Thompson e pubblicato da Top Hat…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109398/ar3z8j.jpg",
-      "publishedAt": "2026-09-25T08:26:15+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Apple, tre novità a ottobre? C’è anche il MacBook Pro con display touch",
-      "link": "https://www.hdblog.it/apple/articoli/n671575/apple-novita-ottobre-2026-macbook-pro-touch/",
-      "excerpt": "Il prossimo MacBook Pro potrebbe introdurre display OLED touch, Dynamic Island e persino connettività cellulare. Insieme sono attese anche una nuova Apple TV 4K e l’inedito HomePad",
-      "image": "https://hd2.tudocdn.net/1364307?w=660",
-      "publishedAt": "2026-09-25T08:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Gemini ora ha anche un volto: gli avatar AI di Google parlano in 97 lingue",
-      "link": "https://www.hdblog.it/google/articoli/n671566/gemini-volto-avatar-ai-google/",
-      "excerpt": "L'avatar è in grado di sincronizzare il labiale e mostrare diverse espressioni facciali.",
-      "image": "https://hd2.tudocdn.net/1373715?w=660",
-      "publishedAt": "2026-09-25T08:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Nintendo Joy-Con 2 da 89,99€ a 79,90€, per aggiungere un secondo giocatore",
-      "link": "https://www.tomshw.it/videogioco/nintendo-joy-con-2-da-8999eur-a-7990eur-per-aggiungere-un-secondo-giocatore",
-      "excerpt": "Il set Nintendo Joy-Con 2 costa 79,90€ su Amazon, contro un listino di 89,99€ e con lo sconto dell’11% applicato dal negozio. La combinazione blu e giallo chiaro permette di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115152/tomshw-offer-1367572.png",
-      "publishedAt": "2026-09-25T08:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Microsoft sta abbandonando il marchio PC Copilot+. Non serve più",
-      "link": "https://images.dday.it/Citdo9Pf5VgnIZL6edj0nsIjTkf-RuV9jsJ1lhipv6g/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58871/01fc97_Depositphotos_803051646_XL.jpg",
-      "excerpt": "I requisiti tecnici restano, ma il nome compare sempre meno nei nuovi Surface e nelle strategie dei partner. Microsoft e Qualcomm hanno confermato che l’attenzione si sta…",
-      "image": "https://images.dday.it/Citdo9Pf5VgnIZL6edj0nsIjTkf-RuV9jsJ1lhipv6g/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58871/01fc97_Depositphotos_803051646_XL.jpg",
-      "publishedAt": "2026-09-25T07:54:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Questo è Xiaomi 18 Pro Max: lo smartphone con schermo posteriore tra due mesi in Italia",
-      "link": "https://images.dday.it/euqGti5IuS0E74omUL_HEv5A7zgCAdhAQF8Ac8r7shY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58870/0b215e_xiaomi18.jpg",
-      "excerpt": "Xiaomi 17 Pro era stato presentato e venduto lo scorso anno solo in Cina. Xiaomi 18 Pro verrà invece distribuito tra due mesi circa a livello globale, e oltre al caratteristico…",
-      "image": "https://images.dday.it/euqGti5IuS0E74omUL_HEv5A7zgCAdhAQF8Ac8r7shY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58870/0b215e_xiaomi18.jpg",
-      "publishedAt": "2026-09-25T06:52:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Narwal V50 Cube in prova: la scopa elettrica che si accorcia, si svuota da sola e tiene tutti gli accessori nella base",
-      "link": "https://images.dday.it/jOH7vhnNPevjyXpnbc0sLbMT5W1RIO1M2PloBCkUopk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58700/6d5f01_ape2.jpg",
-      "excerpt": "Pesa 1,4 kg, si accorcia quando viene riposta e ha una stazione compatta che fa anche da base di ricarica e autosvuotamento. L’abbiamo messa alla prova per capire come aspira,…",
-      "image": "https://images.dday.it/jOH7vhnNPevjyXpnbc0sLbMT5W1RIO1M2PloBCkUopk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58700/6d5f01_ape2.jpg",
-      "publishedAt": "2026-09-25T06:32:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "IA da 120 miliardi di parametri anche senza cloud. Il segreto è MSI PRO MAX EDGE AI+",
-      "link": "https://images.dday.it/CqTV2pjW_JS6J1wfYmOmy3Xjz_4uD9jCSFPRZG79QxM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58746/abcb77_ape2.jpg",
-      "excerpt": "Un sistema desktop compatto da 4 litri offre memoria unificata ad alta capacità, inferenza privata sul dispositivo e scalabilità multisistema per i flussi di lavoro professionali…",
-      "image": "https://images.dday.it/CqTV2pjW_JS6J1wfYmOmy3Xjz_4uD9jCSFPRZG79QxM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58746/abcb77_ape2.jpg",
-      "publishedAt": "2026-09-25T01:03:04+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "L’IA di Anthropic ha trovato qualcosa di nuovo nel DNA dei virus, ma non si sa a cosa serva",
-      "link": "https://images.dday.it/Upb2O9CcQoQNT2MIn79uT-wCvRmYXLGN-J9Hklk9g3k/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58868/841a3f_cdadd.jpg",
-      "excerpt": "Claude ha individuato nei virus un sistema genetico mai descritto prima. La scoperta è stata verificata dai ricercatori, eppure gli agenti di Anthropic non sono riusciti a…",
-      "image": "https://images.dday.it/Upb2O9CcQoQNT2MIn79uT-wCvRmYXLGN-J9Hklk9g3k/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58868/841a3f_cdadd.jpg",
-      "publishedAt": "2026-09-24T15:33:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Bici elettriche in offerta su Amazon: una di queste potrebbe sorprenderti",
-      "link": "https://images.dday.it/fiEPLR5aLl3n_NzDwpQPTn07iNj6yRRJI-XGJfeb3Nc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58866/19a978_ape1.jpg",
-      "excerpt": "Batterie rimovibili, motori da 250 W, ammortizzatori e anche un modello pieghevole: ecco alcune bici elettriche che su Amazon sono disponibili a prezzo scontato... Leggi tutto",
-      "image": "https://images.dday.it/fiEPLR5aLl3n_NzDwpQPTn07iNj6yRRJI-XGJfeb3Nc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58866/19a978_ape1.jpg",
-      "publishedAt": "2026-09-24T14:20:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Netatmo, debutta la gamma ORIGINAl. Con Thermo Hub arriva il supporto a Matter",
-      "link": "https://images.dday.it/xAGPZYpQidL-qkAVo531W0MIyFIdNZbBm5gmgpL0zPE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58863/40cc37_NTE-Wall-Interaction-WEB-HD.jpg",
-      "excerpt": "Arrivano Termostato ORIGINAL, Valvola Termostatica Intelligente, Thermo Hub e nuovi accessori. Il sistema usa Zigbee, si integra con Apple Home, Google Home, Alexa e SmartThings e…",
-      "image": "https://images.dday.it/xAGPZYpQidL-qkAVo531W0MIyFIdNZbBm5gmgpL0zPE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58863/40cc37_NTE-Wall-Interaction-WEB-HD.jpg",
-      "publishedAt": "2026-09-24T13:26:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
