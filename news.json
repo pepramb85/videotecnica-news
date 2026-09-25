@@ -1,9 +1,243 @@
 {
-  "generatedAt": "2026-09-25T02:47:57.370977+00:00",
+  "generatedAt": "2026-09-25T09:14:28.219439+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Chrome ora ricorda la posizione dello scroll per le pagine condivise tra i dispositivi",
+      "link": "https://www.hdblog.it/applicazioni/articoli/n671568/chrome-ricorda-posizione-scroll-pagine-condivise/",
+      "excerpt": "Il browser ora ricorda il punto esatto della pagina a cui si è arrivati quando la invia a un altro dispositivo: la novità di Chrome.",
+      "image": "https://hd2.tudocdn.net/1373703?w=660",
+      "publishedAt": "2026-09-25T09:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Dash cam a meno di 30 euro. Ecco l'affare di oggi",
+      "link": "https://images.dday.it/adg78oTjI-xmBUASoNM573_6AHT_GadWErC9RjDCCQQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58743/1ad684_61J6TynlD4L._AC_SL1500_-1.jpg",
+      "excerpt": "La iZEEKER iD240 registra a 2560×1440P, ha un obiettivo grandangolare da 160° e permette di controllare i filmati dallo smartphone. Ora in sconto su Amazon a un prezzo davvero…",
+      "image": "https://images.dday.it/adg78oTjI-xmBUASoNM573_6AHT_GadWErC9RjDCCQQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58743/1ad684_61J6TynlD4L._AC_SL1500_-1.jpg",
+      "publishedAt": "2026-09-25T09:09:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Revolut violata di nuovo, cos'è successo stavolta?",
+      "link": "https://www.tomshw.it/altro/revolut-violata-di-nuovo-cose-successo-stavolta",
+      "excerpt": "I clienti di Revolut hanno subito il secondo incidente sui dati nel giro di un mese, ma stavolta la falla non riguarda i sistemi della fintech. A finire nel mirino è stata…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115129/revolut-violata-di-nuovo-cose-successo-stavolta-yk1w6dk.webp",
+      "publishedAt": "2026-09-25T09:06:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Google Foto, tante novità in arrivo, tra cui il tool per pixelare in automatico",
+      "link": "https://www.hdblog.it/google/articoli/n671586/google-foto-novita-moods-redact-ai-filtri/",
+      "excerpt": "C'è anche una serie di \"filtri\" molto avanzati, chiamata Moods, che applica gli stili di fotocamere vintage.",
+      "image": "https://hd2.tudocdn.net/1317024?w=660",
+      "publishedAt": "2026-09-25T09:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Software, installazione e configurazione \"inclusi\" nascondono quanto lavoro tecnico stai pagando",
+      "link": "https://www.tomshw.it/business/software-installazione-e-configurazione-inclusi-nascondono-quanto-lavoro-tecnico-stai-pagando",
+      "excerpt": "Se la parte hardware di un preventivo IT può nascondere il modello del processore, quella software può nascondere qualcosa di più semplice da confondere: se l'azienda sta…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114879/eletecno-preventivo-b2b-software.jpg",
+      "publishedAt": "2026-09-25T09:05:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Rapper girano un video e bloccano la superstrada: cosa rischiano per i reati commessi",
+      "link": "https://www.hdmotori.it/rapper-video-superstrada/",
+      "excerpt": "Il tratto Milano-Meda è rimasto bloccato per la registrazione di una clip musicale non autorizzata da parte di tre rapper. Rischiano fino a due anni di reclusione.",
+      "image": "https://hd2.tudocdn.net/1373732?w=660",
+      "publishedAt": "2026-09-25T09:00:48+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google Messaggi, un bug manda fuori tempo il flash: come ovviare",
+      "link": "https://www.hdblog.it/smartphone/articoli/n671582/google-messaggi-bug-flash-fotocamera/",
+      "excerpt": "Google Messaggi presenta un bug nella fotocamera integrata che può far scattare il flash troppo presto o impedirne l'attivazione, producendo fotografie molto scure nelle chat",
+      "image": "https://hd2.tudocdn.net/1174404?w=660",
+      "publishedAt": "2026-09-25T08:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Arc Raiders cambia radicalmente con la nuova modalità, ma non è detto che rimanga",
+      "link": "https://www.tomshw.it/videogioco/arc-raiders-cambia-radicalmente-con-la-nuova-modalita-ma-non-e-detto-che-rimanga",
+      "excerpt": "Embark Studios ha annunciato il che Arc Raiders ospiterà un test della tanto richiesta modalità PvE, in programma dal 13 al 20 ottobre su tutte le piattaforme. Per una settimana i…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115130/arc-raiders-cambia-radicalmente-con-la-nuova-modalita-ma-non-4d8uyjf.webp",
+      "publishedAt": "2026-09-25T08:55:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "A noi umani piace comprare in negozio e l'AI per ora sta perdendo questa sfida",
+      "link": "https://www.tomshw.it/business/a-noi-umani-piace-comprare-in-negozio-e-lai-per-ora-sta-perdendo-questa-sfida",
+      "excerpt": "Ron Johnson, 66 anni, ha costruito la rete di negozi fisici Apple, arrivato in azienda nel 2000 quando l'e-commerce iniziava a decollare. Alla domanda se un cliente affiderebbe a…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114704/02-architetto-apple-store-ai-shopping.jpg",
+      "publishedAt": "2026-09-25T08:54:22+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Qualcuno sta scavando per cercare l’Arca di Noè, e ha pubblicato il primo video sul fondo di un foro di carotaggio",
+      "link": "https://images.dday.it/iQeXp4Iq618LiCz26aObXl4Ph0bTT136zL6-ut-E6-4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58872/513b32_DJI_0108-a1.jpg",
+      "excerpt": "L’Arca non è stata ancora trovata, ma il video mostra il fondo raggiunto finora dai carotaggi a 18 metri di profondità. Si cercano cavità individuate con i georadar in un sito in…",
+      "image": "https://images.dday.it/iQeXp4Iq618LiCz26aObXl4Ph0bTT136zL6-ut-E6-4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58872/513b32_DJI_0108-a1.jpg",
+      "publishedAt": "2026-09-25T08:52:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "GTA 6, Rockstar lancia un'edizione speciale da 400 euro. Ma il gioco non è incluso",
+      "link": "https://images.dday.it/_-QD4Ld9DhqZzpB6TZBydLh6FnrgoxjORkp6Q0oDG5I/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58874/4e0853_GTAVI_CE_Box_Closed_Finalized_2160noise.jpeg",
+      "excerpt": "La Goodtime State: Vice City Collection comprende 11 oggetti da collezione ispirati soprattutto a Macca l’Alligatore e alle Leonida Keys... Leggi tutto",
+      "image": "https://images.dday.it/_-QD4Ld9DhqZzpB6TZBydLh6FnrgoxjORkp6Q0oDG5I/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58874/4e0853_GTAVI_CE_Box_Closed_Finalized_2160noise.jpeg",
+      "publishedAt": "2026-09-25T08:50:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Makita HS7611 sotto i 140€, 1.600 W per affrontare i tagli impegnativi",
+      "link": "https://www.tomshw.it/altro/makita-hs7611-sotto-i-140eur-1600-w-per-affrontare-i-tagli-impegnativi",
+      "excerpt": "Makita HS7611 costa 139,99€ su Amazon: questa sega circolare portatile abbina un motore da 1.600 W a una lama da 190 mm. È pensata per chi affronta spesso tavole, pannelli e altri…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115155/tomshw-offer-1367618.png",
+      "publishedAt": "2026-09-25T08:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Un grande cambiamento per la strategia di comunicazione di Microsoft",
+      "link": "https://www.hdblog.it/microsoft/articoli/n671577/microsoft-comunicazione-legale-marketing/",
+      "excerpt": "Il team dedicato alla comunicazione passa dalla divisione Marketing a quella legale, capitanata dal presidente Brad Smith.",
+      "image": "https://hd2.tudocdn.net/1267866?w=660",
+      "publishedAt": "2026-09-25T08:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Feather, il robot da 26.000 euro che vuole diventare l’Android della robotica",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n671573/feather-robot-android-robotica-sviluppatori/",
+      "excerpt": "Feather vende un robot modulare su cui gli sviluppatori possono creare nuove applicazioni.",
+      "image": "https://hd2.tudocdn.net/1373717?w=660",
+      "publishedAt": "2026-09-25T08:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "I Copilot+ PC sono già morti: cos'è successo?",
+      "link": "https://www.tomshw.it/hardware/i-copilot-pc-sono-gia-morti-cose-successo",
+      "excerpt": "Il marchio Copilot+ PC sta scomparendo dalla comunicazione di Microsoft e dei suoi partner hardware, a poco più di due anni dal debutto. La categoria era stata lanciata nel 2024…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/104578/news-flash-614692.png",
+      "publishedAt": "2026-09-25T08:37:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "GTA 6, indiscrezioni sui preordini: PS5 sta stravincendo su Xbox Series",
+      "link": "https://www.hdblog.it/sony/articoli/n671560/gta-6-preordini-xbox-playstation-rapporto/",
+      "excerpt": "Fonti interne a Microsoft dicono che i numeri sono \"Fortemente sbilanciati\" a favore della piattaforma di Sony.",
+      "image": "https://hd2.tudocdn.net/1372026?w=660",
+      "publishedAt": "2026-09-25T08:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Addio all'incostanza dei prezzi: Alperia lancia l'offerta monoraria fissa per 36 mesi!",
+      "link": "https://www.tomshw.it/altro/addio-allincostanza-dei-prezzi-alperia-lancia-lofferta-monoraria-fissa-per-36-mesi",
+      "excerpt": "In un panorama energetico sempre più caratterizzato da forte incertezza e continue oscillazioni dei listini, il fornitore Alperia compie una mossa strategica lanciando la nuova…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115153/Alperia-copertina.png",
+      "publishedAt": "2026-09-25T08:35:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Scaricare app Android fuori dal Play Store diventa più facile: prova F-Droid 2.0",
+      "link": "https://www.tomshw.it/smartphone/scaricare-app-android-fuori-dal-play-store-diventa-piu-facile-prova-f-droid-20",
+      "excerpt": "Il progetto F-Droid ha annunciato il rilascio graduale di F-Droid 2.0, l'aggiornamento più profondo del suo store alternativo per Android dopo circa dieci anni. La nuova versione…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115135/scaricare-app-android-fuori-dal-play-store-diventa-piu-facil-j2tlkud.webp",
+      "publishedAt": "2026-09-25T08:31:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Bollo auto, Giorgetti: «La volontà è rendere strutturale l'eliminazione»",
+      "link": "https://www.hdmotori.it/bollo-auto-giorgetti-eliminazione/",
+      "excerpt": "Il Ministro dell'Economia fa il punto in Parlamento sull’eliminazione del bollo auto e sulle compensazioni per le Regioni in vista della manovra.",
+      "image": "https://hd2.tudocdn.net/1373721?w=660",
+      "publishedAt": "2026-09-25T08:30:10+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Guida a Well Dweller: trucchi e consigli per sopravvivere",
+      "link": "https://www.tomshw.it/videogioco/well-dweller-6-consigli-per-iniziare",
+      "excerpt": "Well Dweller è disponibile dal 22 settembre 2026 su PC, PlayStation 5, Xbox Series X|S, Nintendo Switch e Nintendo Switch 2. Sviluppato da Kyle Thompson e pubblicato da Top Hat…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109398/ar3z8j.jpg",
+      "publishedAt": "2026-09-25T08:26:15+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Apple, tre novità a ottobre? C’è anche il MacBook Pro con display touch",
+      "link": "https://www.hdblog.it/apple/articoli/n671575/apple-novita-ottobre-2026-macbook-pro-touch/",
+      "excerpt": "Il prossimo MacBook Pro potrebbe introdurre display OLED touch, Dynamic Island e persino connettività cellulare. Insieme sono attese anche una nuova Apple TV 4K e l’inedito HomePad",
+      "image": "https://hd2.tudocdn.net/1364307?w=660",
+      "publishedAt": "2026-09-25T08:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Gemini ora ha anche un volto: gli avatar AI di Google parlano in 97 lingue",
+      "link": "https://www.hdblog.it/google/articoli/n671566/gemini-volto-avatar-ai-google/",
+      "excerpt": "L'avatar è in grado di sincronizzare il labiale e mostrare diverse espressioni facciali.",
+      "image": "https://hd2.tudocdn.net/1373715?w=660",
+      "publishedAt": "2026-09-25T08:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nintendo Joy-Con 2 da 89,99€ a 79,90€, per aggiungere un secondo giocatore",
+      "link": "https://www.tomshw.it/videogioco/nintendo-joy-con-2-da-8999eur-a-7990eur-per-aggiungere-un-secondo-giocatore",
+      "excerpt": "Il set Nintendo Joy-Con 2 costa 79,90€ su Amazon, contro un listino di 89,99€ e con lo sconto dell’11% applicato dal negozio. La combinazione blu e giallo chiaro permette di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115152/tomshw-offer-1367572.png",
+      "publishedAt": "2026-09-25T08:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Microsoft sta abbandonando il marchio PC Copilot+. Non serve più",
+      "link": "https://images.dday.it/Citdo9Pf5VgnIZL6edj0nsIjTkf-RuV9jsJ1lhipv6g/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58871/01fc97_Depositphotos_803051646_XL.jpg",
+      "excerpt": "I requisiti tecnici restano, ma il nome compare sempre meno nei nuovi Surface e nelle strategie dei partner. Microsoft e Qualcomm hanno confermato che l’attenzione si sta…",
+      "image": "https://images.dday.it/Citdo9Pf5VgnIZL6edj0nsIjTkf-RuV9jsJ1lhipv6g/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58871/01fc97_Depositphotos_803051646_XL.jpg",
+      "publishedAt": "2026-09-25T07:54:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Questo è Xiaomi 18 Pro Max: lo smartphone con schermo posteriore tra due mesi in Italia",
+      "link": "https://images.dday.it/euqGti5IuS0E74omUL_HEv5A7zgCAdhAQF8Ac8r7shY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58870/0b215e_xiaomi18.jpg",
+      "excerpt": "Xiaomi 17 Pro era stato presentato e venduto lo scorso anno solo in Cina. Xiaomi 18 Pro verrà invece distribuito tra due mesi circa a livello globale, e oltre al caratteristico…",
+      "image": "https://images.dday.it/euqGti5IuS0E74omUL_HEv5A7zgCAdhAQF8Ac8r7shY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58870/0b215e_xiaomi18.jpg",
+      "publishedAt": "2026-09-25T06:52:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Narwal V50 Cube in prova: la scopa elettrica che si accorcia, si svuota da sola e tiene tutti gli accessori nella base",
+      "link": "https://images.dday.it/jOH7vhnNPevjyXpnbc0sLbMT5W1RIO1M2PloBCkUopk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58700/6d5f01_ape2.jpg",
+      "excerpt": "Pesa 1,4 kg, si accorcia quando viene riposta e ha una stazione compatta che fa anche da base di ricarica e autosvuotamento. L’abbiamo messa alla prova per capire come aspira,…",
+      "image": "https://images.dday.it/jOH7vhnNPevjyXpnbc0sLbMT5W1RIO1M2PloBCkUopk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58700/6d5f01_ape2.jpg",
+      "publishedAt": "2026-09-25T06:32:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
     {
       "title": "IA da 120 miliardi di parametri anche senza cloud. Il segreto è MSI PRO MAX EDGE AI+",
       "link": "https://images.dday.it/CqTV2pjW_JS6J1wfYmOmy3Xjz_4uD9jCSFPRZG79QxM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58746/abcb77_ape2.jpg",
@@ -14,187 +248,7 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Bose Bass Module 500 a 399€, bassi più pieni in un cubo da 25,4 cm",
-      "link": "https://www.tomshw.it/altro/bose-bass-module-500-a-399eur-bassi-piu-pieni-in-un-cubo-da-254-cm",
-      "excerpt": "Il Bose Bass Module 500 costa 399€ su Amazon, con 100,95€ di risparmio rispetto ai 499,95€ di listino e uno sconto del 20%. È il modulo pensato per aggiungere bassi più presenti a…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115104/tomshw-offer-1365651.png",
-      "publishedAt": "2026-09-24T20:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Samsung Galaxy A27 5G in offerta a prezzo da outlet su eBay (-46%)",
-      "link": "https://www.hdblog.it/smartphone/offerte/n671528/samsung-galaxy-a27-5g-in-offerta-a-prezzo-da-outlet-su-ebay--46/",
-      "excerpt": "Display generoso, processore giusto per la fascia di prezzo, risultati della fotocamera posteriore apprezzabili.",
-      "image": "https://hd2.tudocdn.net/1373619?w=660",
-      "publishedAt": "2026-09-24T19:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "DEWALT XR 18V sotto i 100€, tre velocità per avvitare con più controllo",
-      "link": "https://www.tomshw.it/altro/dewalt-xr-18v-sotto-i-100eur-tre-velocita-per-avvitare-con-piu-controllo",
-      "excerpt": "Il DEWALT DCF887N XR costa 97,91€ su Amazon e mette a disposizione un sistema a percussione con tre velocità selezionabili. È una configurazione pensata per affrontare fissaggi…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115100/tomshw-offer-1365603.png",
-      "publishedAt": "2026-09-24T18:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Nasce a Torino l'hub energetico da 55 milioni, dedicato a idrogeno e batterie",
-      "link": "https://www.tomshw.it/business/nasce-a-torino-lhub-energetico-da-55-milioni-dedicato-a-idrogeno-e-batterie",
-      "excerpt": "L'Istituto Italiano di Tecnologia e il Politecnico di Torino hanno inaugurato a Environment Park, a Torino, il nuovo hub per la transizione energetica finanziato con il PNRR:…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114920/09-envipark-hub-energia-torino.jpg",
-      "publishedAt": "2026-09-24T18:40:58+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Volkswagen, nel 2027 videogame a bordo: l’AirConsole include anche Tetris",
-      "link": "https://www.hdmotori.it/volkswagen-2027-videogame-tetris/",
-      "excerpt": "Nel 2027 i modelli Atlas, Tiguan, Golf GTI, Golf R e ID. Buzz garantiranno la possibilità di giocare a Tetris e ad altri 19 giochi sul display dell'infotainment",
-      "image": "https://hd2.tudocdn.net/1373618?w=660",
-      "publishedAt": "2026-09-24T18:30:14+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Baseus Enerfill 140W scontato del 20%, due MacBook a 70W ciascuno",
-      "link": "https://www.tomshw.it/smartphone/baseus-enerfill-140w-scontato-del-20-due-macbook-a-70w-ciascuno",
-      "excerpt": "Baseus Enerfill 140W costa 39,89€ su Amazon anziché 49,99€, con uno sconto del 20%. La possibilità di alimentare quattro dispositivi contemporaneamente permette di sostituire…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115095/tomshw-offer-1365580.png",
-      "publishedAt": "2026-09-24T18:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Nuovo Honda SH Mode 125: tutte le novità del model year 2027",
-      "link": "https://www.hdmotori.it/nuovo-honda-sh-mode-125-2027-novita-caratteristiche/",
-      "excerpt": "Debutta il nuovo Honda SH Mode 125 2027: scudo ridisegnato, display TFT a colori da 4,2\", motore eSP+ Euro5+ da 50 km/l e quattro nuove livree per la mobilità urbana",
-      "image": "https://hd2.tudocdn.net/1373617?w=660",
-      "publishedAt": "2026-09-24T18:00:36+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Alimentatore che ticchetta in idle: come scoprire la causa",
-      "link": "https://www.tomshw.it/hardware/alimentatore-ticchettio-idle-controlli-ventola-carico",
-      "excerpt": "Se senti un ticchettio dall’alimentatore mentre il PC è in idle sul desktop, verifica prima se coincide con l’avvio o l’arresto della ventola, oppure continua quando questa è…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114635/cover.png",
-      "publishedAt": "2026-09-24T18:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Gli agenti Foundry di Microsoft isolano identità e sessioni",
-      "link": "https://www.tomshw.it/business/gli-agenti-foundry-di-microsoft-isolano-identita-e-sessioni",
-      "excerpt": "Microsoft separa due controlli distinti per isolare gli agenti ospitati in Microsoft Foundry: uno stabilisce di chi sono i dati che l'agente sta trattando, l'altro decide dove…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114913/08-microsoft-foundry-isolamento-agenti.jpg",
-      "publishedAt": "2026-09-24T17:58:22+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Xiaomi 17 12+512 da 1.099,90€ a 804,99€, 512GB che valgono la spesa",
-      "link": "https://www.tomshw.it/smartphone/xiaomi-17-12512-da-109990eur-a-80499eur-512gb-che-valgono-la-spesa",
-      "excerpt": "Xiaomi 17 12+512 costa 804,99€ su Amazon, con il 27% di sconto sul listino di 1.099,90€. Con 12GB di memoria e 512GB di archiviazione punta su spazio e praticità per chi usa lo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115091/tomshw-offer-1365566.png",
-      "publishedAt": "2026-09-24T17:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "BYD lancia il modello con l'autonomia migliore al mondo: dati impressionanti",
-      "link": "https://www.hdmotori.it/byd-modello-autonomia-migliore-al-mondo/",
-      "excerpt": "Lo sviluppo del colosso cinese BYD non si arresta e l’ultima novità si chiama Denza Z9S con un’autonomia pari a 1.100 km, a partire da una cifra ragionevole",
-      "image": "https://hd2.tudocdn.net/1373605?w=660",
-      "publishedAt": "2026-09-24T17:30:31+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "PRIMA, il nuovo telescopio NASA guarderà dove Webb non arriva",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n671496/nasa-prima-telescopio-infrarosso-lontano/",
-      "excerpt": "PRIMA studierà stelle, galassie e pianeti attraverso la luce infrarossa lontana.",
-      "image": "https://hd2.tudocdn.net/1373556?w=660",
-      "publishedAt": "2026-09-24T17:30:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "SONOFF TRV Gen2 a 35,78€, il radiatore segue davvero i tuoi orari",
-      "link": "https://www.tomshw.it/altro/sonoff-trv-gen2-a-3578eur-il-radiatore-segue-davvero-i-tuoi-orari",
-      "excerpt": "SONOFF TRV Gen2 costa 35,78€ su Amazon e porta la programmazione del singolo radiatore dentro un ecosistema Zigbee 3.0. Tre programmi, fino a 12 periodi giornalieri e il supporto…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115090/tomshw-offer-1365553.png",
-      "publishedAt": "2026-09-24T17:19:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Amazon è pronta a produrre più robot: annunciato nuovo stabilimento",
-      "link": "https://www.hdblog.it/amazon/articoli/n671480/amazon-robot-nuovo-stabilimento/",
-      "excerpt": "I dettagli",
-      "image": "https://hd2.tudocdn.net/1373586?w=660",
-      "publishedAt": "2026-09-24T17:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Opel riparte dalle station wagon: a Parigi il debutto della STX Concept",
-      "link": "https://www.hdmotori.it/opel-stx-concept-salone-parigi-anteprima/",
-      "excerpt": "Al Salone di Parigi debutta l'Opel STX Concept: la visione sulle station wagon del futuro tra nuovo design, la monoposto di Formula E e la Corsa GSE da 281 CV",
-      "image": "https://hd2.tudocdn.net/1373595?w=660",
-      "publishedAt": "2026-09-24T17:00:38+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Quando esce Minecraft Dungeons II? Data e cosa sappiamo",
-      "link": "https://www.tomshw.it/videogioco/quando-esce-minecraft-dungeons-ii-data-e-cosa-sappiamo",
-      "excerpt": "Minecraft Dungeons II esce il 29 settembre 2026. La data è ufficiale: chi aspetta il ritorno dell'avventura tra dungeon, equipaggiamento e combattimenti può quindi segnare un…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114623/cover.jpg",
-      "publishedAt": "2026-09-24T17:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "La NASA scopre un’ameba che sfida il caldo estremo",
-      "link": "https://www.hdblog.it/curiosita/articoli/n671501/ameba-record-calore-63-gradi-nasa/",
-      "excerpt": "In California scoperta un’ameba capace di riprodursi a 63 °C, un record per gli eucarioti.",
-      "image": "https://hd2.tudocdn.net/1373559?w=660",
-      "publishedAt": "2026-09-24T16:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "RAIBO2, il robot che completa una maratona con una sola carica",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n671503/raibo2-robot-maratona-una-carica/",
-      "excerpt": "RAIBO2 ha percorso 42,195 km in 4 ore e 19 minuti usando una sola carica.",
-      "image": "https://hd2.tudocdn.net/1373566?w=660",
-      "publishedAt": "2026-09-24T16:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Philips Serie 5000 a 64,99€, 25€ in meno per radersi anche sotto la doccia",
-      "link": "https://www.tomshw.it/altro/philips-serie-5000-a-6499eur-25eur-in-meno-per-radersi-anche-sotto-la-doccia",
-      "excerpt": "Philips Serie 5000 S5466/18 costa 64,99€ su Amazon, anziché 89,99€, con uno sconto del 28% e 25€ che restano in tasca. È pensato per alternare rasatura a secco e sotto la doccia,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115089/tomshw-offer-1365509.png",
-      "publishedAt": "2026-09-24T16:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "The Savant, dopo un anno di attesa spunta una nuova uscita su Apple TV",
-      "link": "https://www.hdblog.it/apple/articoli/n671495/the-savant-apple-tv-uscita-2027/",
-      "excerpt": "La serie con Jessica Chastain potrebbe debuttare nella primavera 2027.",
-      "image": "https://hd2.tudocdn.net/1373555?w=660",
-      "publishedAt": "2026-09-24T16:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "L’IA di Anthropic ha trovato qualcosa di nuovo nel DNA dei virus, ma non si a cosa serva",
+      "title": "L’IA di Anthropic ha trovato qualcosa di nuovo nel DNA dei virus, ma non si sa a cosa serva",
       "link": "https://images.dday.it/Upb2O9CcQoQNT2MIn79uT-wCvRmYXLGN-J9Hklk9g3k/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58868/841a3f_cdadd.jpg",
       "excerpt": "Claude ha individuato nei virus un sistema genetico mai descritto prima. La scoperta è stata verificata dai ricercatori, eppure gli agenti di Anthropic non sono riusciti a…",
       "image": "https://images.dday.it/Upb2O9CcQoQNT2MIn79uT-wCvRmYXLGN-J9Hklk9g3k/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58868/841a3f_cdadd.jpg",
@@ -217,60 +271,6 @@
       "excerpt": "Arrivano Termostato ORIGINAL, Valvola Termostatica Intelligente, Thermo Hub e nuovi accessori. Il sistema usa Zigbee, si integra con Apple Home, Google Home, Alexa e SmartThings e…",
       "image": "https://images.dday.it/xAGPZYpQidL-qkAVo531W0MIyFIdNZbBm5gmgpL0zPE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58863/40cc37_NTE-Wall-Interaction-WEB-HD.jpg",
       "publishedAt": "2026-09-24T13:26:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il Face ID fa riavviare alcuni iPhone 18 Pro: Apple al lavoro su un aggiornamento software",
-      "link": "https://images.dday.it/nzg2G63FJOAPmBg2zh1CejstNKA5kq4eV1IZP-w_0s8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58864/938b41_Screenshot_2026-09-24_alle_15.13.30.png",
-      "excerpt": "Quando si usa il Face ID alcuni iPhone 18 Pro si riavviano dopo essersi bloccati per un attimo. Apple ha confermato, e la soluzione dovrebbe essere in dirittura d’arrivo... Leggi…",
-      "image": "https://images.dday.it/nzg2G63FJOAPmBg2zh1CejstNKA5kq4eV1IZP-w_0s8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58864/938b41_Screenshot_2026-09-24_alle_15.13.30.png",
-      "publishedAt": "2026-09-24T13:15:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il frigo fa l’update e si pianta: pasticcio Samsung alla vigilia della festa del raccolto coreana",
-      "link": "https://images.dday.it/JjJZF9eUBS6wd3SoxkBWC4EhaLjEWVSzDBspDYR_wyQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58862/77d57b_Screenshot_2026-09-24_alle_14.34.53.png",
-      "excerpt": "Alcuni frigoriferi Samsung Bespoke AI hanno smesso di funzionare dopo un update via SmartThings. L’azienda ha fermato la distribuzione e avviato riparazioni gratuite... Leggi tutto",
-      "image": "https://images.dday.it/JjJZF9eUBS6wd3SoxkBWC4EhaLjEWVSzDBspDYR_wyQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58862/77d57b_Screenshot_2026-09-24_alle_14.34.53.png",
-      "publishedAt": "2026-09-24T12:37:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Bentley si dà all'elettrico, svelata Torcal. Fino a 888 CV e 600 km di autonomia",
-      "link": "https://images.dday.it/X-oCyvAcC1GfN8J2cXRnXXs_KgsOwhlaCKquvEWZNpg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58861/c52d25_Torcal_-_2.jpg",
-      "excerpt": "Debutta la quarta linea di prodotto Bentley, con architettura a 800 V, batteria da 113 kWh e ricarica fino a 400 kW. La versione S accelera da 0 a 100 km/h in 2,9 secondi... Leggi…",
-      "image": "https://images.dday.it/X-oCyvAcC1GfN8J2cXRnXXs_KgsOwhlaCKquvEWZNpg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58861/c52d25_Torcal_-_2.jpg",
-      "publishedAt": "2026-09-24T12:09:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il Technics SL-100C scende di prezzo su Amazon: trazione diretta e testina Audio-Technica inclusa",
-      "link": "https://images.dday.it/fU4zMSAJxfTitEb0Imd43xwZb3oKykjYfk2cSs-airs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58860/49d48a_71qzgelrYkS._AC_SL1200__2.jpeg",
-      "excerpt": "Ha tutto quello che serve per riscoprire i vecchi vinili, dalla trazione diretta alla testina Audio-Technica inclusa. Il Technics SL-100C ora è in offerta su Amazon... Leggi tutto",
-      "image": "https://images.dday.it/fU4zMSAJxfTitEb0Imd43xwZb3oKykjYfk2cSs-airs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58860/49d48a_71qzgelrYkS._AC_SL1200__2.jpeg",
-      "publishedAt": "2026-09-24T10:54:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "E se Venere avesse \"mangiato\" una sua eventuale luna?",
-      "link": "https://images.dday.it/KrlqPrypaJxcptmEk0aesguBO3BcYxy8huZWAqV5M18/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58859/9e693c_Depositphotos_212626402_XL.jpg",
-      "excerpt": "Un nuovo studio mostra che una luna venusiana avrebbe potuto spiraleggiare verso l’interno ed essere distrutta, senza bisogno di un secondo impatto catastrofico... Leggi tutto",
-      "image": "https://images.dday.it/KrlqPrypaJxcptmEk0aesguBO3BcYxy8huZWAqV5M18/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58859/9e693c_Depositphotos_212626402_XL.jpg",
-      "publishedAt": "2026-09-24T10:20:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Nikon Z5IIC, la full frame senza mirino per chi viene dagli smartphone",
-      "link": "https://images.dday.it/5ZAyWcdJjmY50pXq8rHfUDP2LdpITLIlgCbn6bYNAsk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58858/962040_Screenshot_2026-09-24_alle_12.07.17.png",
-      "excerpt": "Nikon Z5IIC riprende sensore e prestazioni della Z5II, ma rinuncia al mirino elettronico per diventare più compatta. Una macchina per chi comincia senza rinunciare al pieno…",
-      "image": "https://images.dday.it/5ZAyWcdJjmY50pXq8rHfUDP2LdpITLIlgCbn6bYNAsk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58858/962040_Screenshot_2026-09-24_alle_12.07.17.png",
-      "publishedAt": "2026-09-24T10:08:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
