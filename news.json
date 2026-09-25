@@ -1,62 +1,206 @@
 {
-  "generatedAt": "2026-09-25T14:53:27.745948+00:00",
+  "generatedAt": "2026-09-25T19:44:09.783951+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "NBA, fine novembre a rischio per colpa di GTA 6 secondo il centro dei Rockets",
-      "link": "https://www.hdblog.it/games/articoli/n671635/nba-fine-novembre-rischio-colpa-gta-6/",
-      "excerpt": "Steven Adams degli Houston Rockets evidente prevede un calo delle prestazioni in NBA e negli altri campionati dopo l'uscita di GTA 6.",
-      "image": "https://hd2.tudocdn.net/1373853?w=660",
-      "publishedAt": "2026-09-25T14:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il CERN inizia a scollegare l'LHC: perché fermare l'acceleratore?",
-      "link": "https://www.tomshw.it/scienze/il-cern-inizia-a-scollegare-llhc-perche-fermare-lacceleratore",
-      "excerpt": "Il CERN ha tagliato la prima connessione tra i magneti del Large Hadron Collider, avviando lo smontaggio di alcune sezioni dell'acceleratore. L'intervento riguarda i magneti che…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115244/il-cern-inizia-a-scollegare-l-lhc-perche-fermare-l-acceleratore.png",
-      "publishedAt": "2026-09-25T14:50:00+00:00",
+      "title": "Un malware AI ha preso il controllo di server Docker (ma erano aperti)",
+      "link": "https://www.tomshw.it/business/un-malware-ai-ha-preso-il-controllo-di-server-docker-ma-erano-aperti",
+      "excerpt": "Un malware che decide da solo quali comandi lanciare, dopo essere entrato da un server Docker lasciato aperto su Internet. Si chiama Carbonato, e ThreatDown, la divisione di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115163/06-carbonato-malware-docker-hermes-agent.jpg",
+      "publishedAt": "2026-09-25T18:57:56+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Bill Gates avverte: sull’AI i governi sono in ritardo",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n671647/bill-gates-intelligenza-artificiale-rischi-governi/",
-      "excerpt": "Gates chiede ai governi più regole per ridurre i rischi dell’AI senza fermarne i benefici.",
-      "image": "https://hd2.tudocdn.net/1373860?w=660",
-      "publishedAt": "2026-09-25T14:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Diesel e accise, da domani cambia tutto: un pieno costerà 3 euro in più",
-      "link": "https://www.hdmotori.it/prezzi-diesel-stangata-accise/",
-      "excerpt": "L'ultimo decreto del Governo toglie le ultime speranze ai proprietari di auto diesel. Secondo il Codacons un pieno arriverà a costare 3 euro in più",
-      "image": "https://hd2.tudocdn.net/1373877?w=660",
-      "publishedAt": "2026-09-25T14:30:47+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Ricaricare a 2.250 kW senza rovinare la batteria? Geely ci prova",
-      "link": "https://www.tomshw.it/automotive/geely-ripara-le-batterie-mentre-le-ricarica-dureranno-piu-a-lungo",
-      "excerpt": "Geely ha presentato Geely Smart Charging, un sistema che combina ricarica ultrarapida e gestione della batteria per ridurre il degrado legato alle soste ad alta potenza. La quinta…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115242/geely-ripara-le-batterie-mentre-le-ricarica-dureranno-piu-a-lungo.png",
-      "publishedAt": "2026-09-25T14:30:00+00:00",
+      "title": "Quattro telecamere Reolink 5MP registrano 24/7, il kit costa 467,49€",
+      "link": "https://www.tomshw.it/altro/quattro-telecamere-reolink-5mp-registrano-247-il-kit-costa-46749eur",
+      "excerpt": "Il kit Reolink RLK8-410B4-5MP costa 467,49€ su Amazon, anziché 549,99€, grazie a uno sconto del 15%. Quattro telecamere PoE e un NVR con disco da 2TB permettono di registrare…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115276/tomshw-offer-1368529.png",
+      "publishedAt": "2026-09-25T18:48:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Nintendo batte un pirata Switch: incasserà davvero 4,5 milioni?",
-      "link": "https://www.tomshw.it/videogioco/nintendo-batte-un-pirata-switch-incassera-davvero-45-milioni",
-      "excerpt": "Nintendo of America ha ottenuto una sentenza che impone a Williams, accusato di distribuire giochi pirata per Switch, di pagare 4,5 milioni di dollari di danni. Il tribunale ha…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115240/nintendo-batte-un-pirata-switch-incassera-davvero-4-5-milioni.png",
-      "publishedAt": "2026-09-25T14:20:00+00:00",
+      "title": "iRobot Roomba 205 scontato del 52%, fino a 60 giorni senza svuotarlo",
+      "link": "https://www.tomshw.it/altro/irobot-roomba-205-scontato-del-52-fino-a-60-giorni-senza-svuotarlo",
+      "excerpt": "iRobot Roomba 205 DustCompactor Combo costa 215€ su Amazon, anziché 449€, con uno sconto del 52%. La compattazione integrata trattiene lo sporco fino a 60 giorni senza richiedere…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115267/tomshw-offer-1368499.png",
+      "publishedAt": "2026-09-25T18:19:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "iPhone 18 Pro / Max, volete più controllo sulla fotocamera ad apertura variabile?",
+      "link": "https://www.hdblog.it/smartphone/articoli/n671678/iphone-18-pro-max-apertura-variabile-app-controllo/",
+      "excerpt": "Ci sono già due app nel Play Store che offrono 10 f-stop invece dei soli 4 dell'app standard.",
+      "image": "https://hd2.tudocdn.net/1369874?w=660",
+      "publishedAt": "2026-09-25T18:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Stampante offline: come riportarla online in pochi passi",
+      "link": "https://www.tomshw.it/hardware/stampante-wifi-offline-cambio-router",
+      "excerpt": "Se la stampante Wi-Fi risulta offline dopo il cambio del router, verifica prima che sia collegata alla nuova rete, poi confronta il suo indirizzo IP con quello usato da Windows…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114637/cover.png",
+      "publishedAt": "2026-09-25T18:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "BenQ TK705i a 1.256,54€, film e PS5 fino a 150 pollici in salotto",
+      "link": "https://www.tomshw.it/altro/benq-tk705i-a-125654eur-film-e-ps5-fino-a-150-pollici-in-salotto",
+      "excerpt": "Il BenQ TK705i costa 1.256,54€ su Amazon, con il 3% di sconto sul listino di 1.299€. È pensato per trasformare film, streaming e sessioni su console in immagini 4K HDR fino a 150…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115264/tomshw-offer-1368490.png",
+      "publishedAt": "2026-09-25T17:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Apple iPad 12, nuove conferme per il trittico di chip proprietari",
+      "link": "https://www.hdblog.it/tablet/articoli/n671676/apple-ipad-12-chip-novita-leak-quando/",
+      "excerpt": "Upgrade ad A19 per il Soc Principale, modem C1X e connettività wireless a corto raggio N1.",
+      "image": "https://hd2.tudocdn.net/1330579?w=660",
+      "publishedAt": "2026-09-25T17:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il revival di Neo Geo AES+: 106 titoli promossi al test",
+      "link": "https://www.tomshw.it/videogioco/neo-geo-aes-funziona-davvero-testati-106-titoli-e-annunciato-zero-wing",
+      "excerpt": "Il revival di Neo Geo AES ha finalmente superato la fase delle promesse. Dopo essere stato mostrato funzionante e giocabile al Tokyo Game Show, il 22 settembre 2026 il progetto…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114841/amarcord-cover-1345092.png",
+      "publishedAt": "2026-09-25T17:29:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Docker ammette che i container da soli non bastano più contro gli agenti AI",
+      "link": "https://www.tomshw.it/business/docker-ammette-che-i-container-da-soli-non-bastano-piu-contro-gli-agenti-ai",
+      "excerpt": "Nella sua stessa demo di lancio, Docker ha mostrato un agente AI scappare da un container normale. Il 24 settembre, alla conferenza WeAreDevelopers, l'azienda ha presentato Cloud…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115162/05-docker-cloud-sandboxes-container-agenti-ai.jpg",
+      "publishedAt": "2026-09-25T17:28:59+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Un'altra RTX 5090 fusa, PNY rifiuta RMA perché il cavo non era quello originale",
+      "link": "https://www.hdblog.it/hardware/articoli/n671675/nvidia-geforce-rtx-5090-fusa-pny-garanzia-rifiuto/",
+      "excerpt": "Non c'è traccia da nessuna parte di questa regola, però.",
+      "image": "https://hd2.tudocdn.net/1373920?w=660",
+      "publishedAt": "2026-09-25T17:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Fino a 150 km con doppia batteria: ENGWE M20 costa 1299€",
+      "link": "https://www.tomshw.it/automotive/fino-a-150-km-con-doppia-batteria-engwe-m20-costa-1299eur",
+      "excerpt": "ENGWE M20 costa 1299€ su Amazon nella versione nera con doppia batteria, una configurazione pensata per ampliare parecchio il raggio d’azione. L’autonomia dichiarata fino a 150 km…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115254/tomshw-offer-1368474.png",
+      "publishedAt": "2026-09-25T17:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Windows 11, c'è un trucco per rendere Esplora File molto più reattivo",
+      "link": "https://www.hdblog.it/microsoft/articoli/n671670/windows-11-trucco-esplora-file-dos-sfn/",
+      "excerpt": "Ha senso solo se siete sicuri che non installerete mai vecchie applicazioni o giochi, e se lavorate spesso con cartelle contenenti migliaia e migliaia di file.",
+      "image": "https://hd2.tudocdn.net/1351081?w=660",
+      "publishedAt": "2026-09-25T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La fibra dove arriva, il satellite dove serve: il test lombardo supera i 500 Mbps",
+      "link": "https://www.hdblog.it/mobile/articoli/n671668/fibra-satellite-internet-test-lombardia-velocita/",
+      "excerpt": "Fibra e satellite possono lavorare insieme per portare la Banda Ultra Larga nei piccoli comuni e nelle zone isolate: il test lombardo ha raggiunto oltre 500 Mbps in download",
+      "image": "https://hd2.tudocdn.net/1361835?w=660",
+      "publishedAt": "2026-09-25T17:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "F1, Horner si propone alla Ferrari: Vasseur sotto pressione",
+      "link": "https://www.hdmotori.it/f1-horner-ferrari-vasseur/",
+      "excerpt": "Christian Horner, ex numero 1 della Red Bull Racing, avrebbe la seria intenzione di rilanciarsi in Ferrari anche senza quote azionarie",
+      "image": "https://hd2.tudocdn.net/1373919?w=660",
+      "publishedAt": "2026-09-25T17:00:58+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Quando esce Star Wars: Galactic Racer? Data e cosa sappiamo",
+      "link": "https://www.tomshw.it/videogioco/quando-esce-star-wars-galactic-racer-data-e-cosa-sappiamo",
+      "excerpt": "Star Wars: Galactic Racer uscirà il 6 ottobre 2026 su PlayStation 5, Xbox Series X|S e PC. È la data ufficiale del lancio mondiale, valida anche per l’Italia: l’attesa ha quindi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114625/cover.jpg",
+      "publishedAt": "2026-09-25T17:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Armi americane già in orbita: cosa sappiamo e cosa resta segreto",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n671547/usa-armi-orbita-cina-corsa-armamenti-spazio/",
+      "excerpt": "Gli USA confermano armi in orbita. La Cina avverte del rischio di una corsa agli armamenti.",
+      "image": "https://hd2.tudocdn.net/1373682?w=660",
+      "publishedAt": "2026-09-25T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Insta360 ha conquistato il mercato delle fotocamere (e ora guarda agli occhiali)",
+      "link": "https://www.hdblog.it/fotografia/articoli/n671627/insta360-fotocamere-occhiali-smart/",
+      "excerpt": "Si parla anche di un \"robot cameraman\"",
+      "image": "https://hd2.tudocdn.net/1373886?w=660",
+      "publishedAt": "2026-09-25T16:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "HMD Aura 2 Pro, trapela la scheda tecnica: non sembra molto... \"Pro\"",
+      "link": "https://www.hdblog.it/smartphone/articoli/n671666/hmd-aura-2-pro-specifiche-immagini-batteria/",
+      "excerpt": "Dobbiamo dire, non sembra chissà che \"Pro\".",
+      "image": "https://hd2.tudocdn.net/1373909?w=660",
+      "publishedAt": "2026-09-25T16:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Spotify arriva su Meta Muse: l’AI sceglie cosa ascoltare",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n671642/meta-muse-spotify-playlist-podcast/",
+      "excerpt": "Muse può avviare l’ascolto, creare playlist e salvare contenuti su Spotify.",
+      "image": "https://hd2.tudocdn.net/1373881?w=660",
+      "publishedAt": "2026-09-25T16:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "WD Elements 2TB scontato del 41%, un affare per backup e archivi",
+      "link": "https://www.tomshw.it/hardware/wd-elements-2tb-scontato-del-41-un-affare-per-backup-e-archivi",
+      "excerpt": "WD Elements 2TB costa 79,99€ su Amazon, anziché il prezzo di listino di 135,99€, con uno sconto del 41%. Il formato portatile offre molto spazio per backup, raccolte fotografiche…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115250/tomshw-offer-1368431.png",
+      "publishedAt": "2026-09-25T16:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Schneider Electric vuole acquisire Shelly per 1,2 miliardi di euro. Gli utenti sono preoccupati",
+      "link": "https://images.dday.it/th7L8IGBicxvAr0gVqnGLzwZZfPVbdiAxk1P_UuGYfU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58885/f2e3bf_shelly.jpg",
+      "excerpt": "La multinazionale francese ha offerto 70 euro per azioni. Utenti preoccupati che ciò possa rovinare Shelly... Leggi tutto",
+      "image": "https://images.dday.it/th7L8IGBicxvAr0gVqnGLzwZZfPVbdiAxk1P_UuGYfU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58885/f2e3bf_shelly.jpg",
+      "publishedAt": "2026-09-25T15:07:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Prime impressioni su Cupra Raval, una delle elettriche più divertenti e meglio accessoriate del segmento B",
+      "link": "https://images.dday.it/RK9GhhcYWpoxePbKU3yurVRSxh4mUXUjH26hO1kWxAg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58884/fd85c0_P9240396.jpg",
+      "excerpt": "La nuova piccola di Cupra per contenuti e prezzo si posiziona tra le migliori alternative elettriche del segmento B: più grintosa di Renault 5, più completa di Peugeot e208 e…",
+      "image": "https://images.dday.it/RK9GhhcYWpoxePbKU3yurVRSxh4mUXUjH26hO1kWxAg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58884/fd85c0_P9240396.jpg",
+      "publishedAt": "2026-09-25T15:02:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Wish You Were Here in Blu-ray scende a 18 euro: è l’edizione per il 50° anniversario",
@@ -68,15 +212,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Lenovo Idea Tab a 229€ con penna inclusa, fatto per appunti e lezioni",
-      "link": "https://www.tomshw.it/smartphone/lenovo-idea-tab-a-229eur-con-penna-inclusa-fatto-per-appunti-e-lezioni",
-      "excerpt": "Il Lenovo Idea Tab costa 229€ su Amazon, invece di 249€, con uno sconto dell’8%. La Tab Pen inclusa e lo schermo 2.5K a 90 Hz lo rendono particolarmente interessante per studiare,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115241/tomshw-offer-1368276.png",
-      "publishedAt": "2026-09-25T14:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Blocco diesel Euro 5, slitta ancora nel Bacino Padano. Nuova scadenza a fine 2027",
       "link": "https://images.dday.it/2CZL2WW-f_VMP5aSVjwbvwC94qXFCMjt0HGqn96MzG0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58883/cadc12_Depositphotos_113581652_XL.jpg",
       "excerpt": "Il Consiglio dei Ministri ha approvato il decreto-legge che rinvia di un anno le limitazioni previste in Piemonte, Lombardia, Veneto ed Emilia-Romagna... Leggi tutto",
@@ -84,123 +219,6 @@
       "publishedAt": "2026-09-25T14:17:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "ASUS Googlebook 14 è ufficiale: meno di 1kg, display OLED touch e AI integrata",
-      "link": "https://www.hdblog.it/portatili/articoli/n671643/googlebook-14-asus-laptop-caratteristiche-gemini/",
-      "excerpt": "Con Googlebook OS.",
-      "image": "https://hd2.tudocdn.net/1373870?w=660",
-      "publishedAt": "2026-09-25T14:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "OpenAI GPT-6 Cyber ha un nuovo strumento di controllo \"antifuga\"",
-      "link": "https://www.tomshw.it/business/openai-gpt-6-cyber-ha-un-nuovo-strumento-di-controllo-antifuga",
-      "excerpt": "OpenAI ha in programma di presentare nelle prossime settimane GPT-6 Cyber, il quarto modello dedicato alla cybersecurity che l'azienda rilascia nel 2026 dopo le versioni 5.4, 5.5…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115158/02-openai-gpt6-cyber-strumento-controllo.jpg",
-      "publishedAt": "2026-09-25T14:11:47+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "I wafer rischiano rincari nel 2027: perché l'AI fa salire i costi",
-      "link": "https://www.tomshw.it/hardware/i-wafer-rischiano-rincari-nel-2027-perche-lai-fa-salire-i-costi",
-      "excerpt": "I fornitori di wafer da 12 pollici si avvicinano al rinnovo dei contratti con prospettive di rincari nel 2027. La domanda di chip per l'intelligenza artificiale sta assorbendo più…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115239/i-wafer-rischiano-rincari-nel-2027-perche-l-ai-fa-salire-i-costi.png",
-      "publishedAt": "2026-09-25T14:10:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Samsung Galaxy Tab S12 Ultra e Plus in tante nuove immagini: ecco le differenze",
-      "link": "https://www.hdblog.it/tablet/articoli/n671644/samsung-galaxy-tab-s12-ultra-plus-differenze-foto/",
-      "excerpt": "Molto simili, ma non identici: cosa cambia.",
-      "image": "https://hd2.tudocdn.net/1373851?w=660",
-      "publishedAt": "2026-09-25T14:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Nissan Z Kaze Concept: omaggio all’iconica 300ZX",
-      "link": "https://www.hdmotori.it/nissan-z-kaze-concept-omaggio-300zx/",
-      "excerpt": "Con una operazione nostalgia che farà salire le palpitazioni agli amanti del gusto retrò, Nissan ha svelato la Z Kaze Concept.",
-      "image": "https://hd2.tudocdn.net/1373861?w=660",
-      "publishedAt": "2026-09-25T14:00:12+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Gli aggiornamenti Windows bloccano il desktop: quali PC rischiano?",
-      "link": "https://www.tomshw.it/hardware/gli-aggiornamenti-windows-bloccano-il-desktop-quali-pc-rischiano",
-      "excerpt": "Microsoft ha confermato un problema introdotto dagli aggiornamenti di Windows distribuiti a partire dall'anteprima di agosto 2026: su alcuni sistemi il desktop non si carica dopo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115235/gli-aggiornamenti-windows-bloccano-il-desktop-quali-pc-rischiano.png",
-      "publishedAt": "2026-09-25T14:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Recensione Ace Combat 8 WIngs of Theve, l'asso dei cieli",
-      "link": "https://www.tomshw.it/videogioco/recensione-ace-combat-8-wings-of-theve-lasso-dei-cieli",
-      "excerpt": "Dopo un’attesa durata ben sette anni, dato che Ace Combat 7 è sbarcato sul mercato nell’oramai lontanissimo 2019, la celebre saga di Bandai Namco basata sulle battaglie aeree…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114982/Ace-Combat-8-Wings-of-Theve-(3).jpg",
-      "publishedAt": "2026-09-25T14:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Samsung pronta a stupire con nuovi top di gamma che emuleranno giochi per PC?",
-      "link": "https://www.hdblog.it/smartphone/articoli/n671629/smartphone-samsung-gaming/",
-      "excerpt": "Qualcomm prepara il supporto a DirectX 12 per i chip Snapdragon, facilitando l'emulazione di giochi PC sui Galaxy.",
-      "image": "https://hd2.tudocdn.net/1147592?w=660",
-      "publishedAt": "2026-09-25T13:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "GTA IV su iPhone esiste davvero, ma Rockstar non c’entra",
-      "link": "https://www.tomshw.it/videogioco/gta-iv-gira-nativamente-su-iphone-e-ipad-potremo-giocarci-tutti",
-      "excerpt": "GTA IV è stato portato su iPhone e iPad attraverso un progetto sperimentale descritto nei giorni scorsi. Il gioco viene eseguito nativamente sui chip Apple Silicon: è il primo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115234/gta-iv-gira-nativamente-su-iphone-e-ipad-potremo-giocarci-tutti.png",
-      "publishedAt": "2026-09-25T13:50:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Nissan Leaf, 1.000 batterie hanno già avuto una seconda vita",
-      "link": "https://www.tomshw.it/automotive/samsar-recupera-1000-batterie-nissan-leaf-la-vita-oltre-lauto",
-      "excerpt": "Samsar ha raggiunto il traguardo di 1.000 pacchi batteria Nissan Leaf recuperati attraverso il suo programma di rigenerazione. L’azienda statunitense afferma di aver rimesso in…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115225/samsar-recupera-1-000-batterie-nissan-leaf-la-vita-oltre-l-auto.png",
-      "publishedAt": "2026-09-25T13:50:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Oppo F35 e F35 Pro in arrivo: filtra la possibile data per il lancio globale",
-      "link": "https://www.hdblog.it/smartphone/articoli/n671632/oppo-f35-pro-data-lancio-globale-a7-batteria/",
-      "excerpt": "Il Pro è il gemello di un modello cinese che ha ben 10.000 mAh.",
-      "image": "https://hd2.tudocdn.net/1370854?w=660",
-      "publishedAt": "2026-09-25T13:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Netflix, più spazio ai bambini: nuove serie, giochi e strumenti per i genitori",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n671634/netflix-spazio-bambini-nuove-serie-giochi/",
-      "excerpt": "Netflix continua ad ampliare la sua offerta dedicata ai bambini",
-      "image": "https://hd2.tudocdn.net/1373850?w=660",
-      "publishedAt": "2026-09-25T13:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Truffe dei conti correnti, 1,8 milioni di vittime in Italia nell'ultimo anno",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n671620/truffe-conti-correnti-italia-quante-vittime/",
-      "excerpt": "Il danno economico complessivo è stimato intorno a 1,1 miliardi di euro. Una vittima su tre non sporge neanche denuncia.",
-      "image": "https://hd2.tudocdn.net/1315314?w=660",
-      "publishedAt": "2026-09-25T13:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Ecco l'erede della BYD Dolphin Surf. La nuova generazione supera i 4,2 metri",
@@ -253,24 +271,6 @@
       "excerpt": "La iZEEKER iD240 registra a 2560×1440P, ha un obiettivo grandangolare da 160° e permette di controllare i filmati dallo smartphone. Ora in sconto su Amazon a un prezzo davvero…",
       "image": "https://images.dday.it/adg78oTjI-xmBUASoNM573_6AHT_GadWErC9RjDCCQQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58743/1ad684_61J6TynlD4L._AC_SL1500_-1.jpg",
       "publishedAt": "2026-09-25T09:09:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Qualcuno sta scavando per cercare l’Arca di Noè, e ha pubblicato il primo video sul fondo di un foro di carotaggio",
-      "link": "https://images.dday.it/iQeXp4Iq618LiCz26aObXl4Ph0bTT136zL6-ut-E6-4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58872/513b32_DJI_0108-a1.jpg",
-      "excerpt": "L’Arca non è stata ancora trovata, ma il video mostra il fondo raggiunto finora dai carotaggi a 18 metri di profondità. Si cercano cavità individuate con i georadar in un sito in…",
-      "image": "https://images.dday.it/iQeXp4Iq618LiCz26aObXl4Ph0bTT136zL6-ut-E6-4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58872/513b32_DJI_0108-a1.jpg",
-      "publishedAt": "2026-09-25T08:52:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "GTA 6, Rockstar lancia un'edizione speciale da 400 euro. Ma il gioco non è incluso",
-      "link": "https://images.dday.it/_-QD4Ld9DhqZzpB6TZBydLh6FnrgoxjORkp6Q0oDG5I/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58874/4e0853_GTAVI_CE_Box_Closed_Finalized_2160noise.jpeg",
-      "excerpt": "La Goodtime State: Vice City Collection comprende 11 oggetti da collezione ispirati soprattutto a Macca l’Alligatore e alle Leonida Keys... Leggi tutto",
-      "image": "https://images.dday.it/_-QD4Ld9DhqZzpB6TZBydLh6FnrgoxjORkp6Q0oDG5I/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58874/4e0853_GTAVI_CE_Box_Closed_Finalized_2160noise.jpeg",
-      "publishedAt": "2026-09-25T08:50:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
