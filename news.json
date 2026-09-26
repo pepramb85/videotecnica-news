@@ -1,9 +1,90 @@
 {
-  "generatedAt": "2026-09-26T17:38:46.422664+00:00",
+  "generatedAt": "2026-09-26T20:27:36.367560+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Il piano a induzione Hisense da 7.000W scende sotto i 200€, vale la spesa",
+      "link": "https://www.tomshw.it/altro/il-piano-a-induzione-hisense-da-7000w-scende-sotto-i-200eur-vale-la-spesa",
+      "excerpt": "Il piano a induzione Hisense HIA64UK costa 199€ su Amazon, anziché 319€, con uno sconto del 38% e un risparmio di 120€. Quattro zone, 7.000 W e Zona Connect lo rendono…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115321/tomshw-offer-1387486.png",
+      "publishedAt": "2026-09-26T19:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Fino a 90 km con Nilox X6 SE, l’e-bike da 799,95€ per città e sentieri",
+      "link": "https://www.tomshw.it/automotive/fino-a-90-km-con-nilox-x6-se-le-bike-da-79995eur-per-citta-e-sentieri",
+      "excerpt": "Nilox X6 SE costa 799,95€ su Amazon e porta l’autonomia fino a 90 km in una mountain bike elettrica da 250W. Il formato è pensato per alternare tragitti urbani e percorsi outdoor,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115320/tomshw-offer-1387473.png",
+      "publishedAt": "2026-09-26T18:49:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "8 tecniche per scrivere buoni prompt su qualsiasi LLM",
+      "link": "https://www.tomshw.it/business/8-tecniche-per-scrivere-buoni-prompt-su-qualsiasi-llm",
+      "excerpt": "Anthropic, OpenAI e Google tengono ciascuno una propria guida ufficiale alla scrittura dei prompt, aggiornata a ogni nuovo modello. Messe a confronto, le tre guide raccomandano in…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115248/18-otto-tecniche-prompt-universali-llm.jpg",
+      "publishedAt": "2026-09-26T18:21:35+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "DJI Avata 360 a 679,49€ filma ogni direzione e fa la differenza in post",
+      "link": "https://www.tomshw.it/altro/dji-avata-360-a-67949eur-filma-ogni-direzione-e-fa-la-differenza-in-post",
+      "excerpt": "DJI Avata 360 con DJI RC 2 costa 679,49€ su Amazon anziché 729€, con uno sconto del 7%. La registrazione sferica in 8K permette di scegliere l’inquadratura dopo il volo,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115319/tomshw-offer-1387445.png",
+      "publishedAt": "2026-09-26T18:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "SSD NVMe assente nel setup di Windows 11: controlli su BIOS e driver",
+      "link": "https://www.tomshw.it/hardware/ssd-nvme-assente-installazione-windows-11-bios-driver",
+      "excerpt": "Se durante l’installazione di Windows 11 il tuo SSD NVMe non viene rilevato, ma compare nel BIOS/UEFI, il primo controllo riguarda il driver del controller storage. Sui PC Intel…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114649/cover.png",
+      "publishedAt": "2026-09-26T18:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il nuovo Apple Watch ti ascolta sempre, ma lo fa \"in totale sicurezza\" dice Apple",
+      "link": "https://www.tomshw.it/business/il-nuovo-apple-watch-ti-ascolta-sempre-ma-lo-fa-in-totale-sicurezza-dice-apple",
+      "excerpt": "Il nuovo Apple Watch Series 12 e l'Apple Watch Ultra 4 ascoltano quello che succede intorno a chi li indossa per tutto il giorno. La funzione si chiama Audio Intelligence,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115245/17-apple-watch-audio-intelligence-secure-exclave.jpg",
+      "publishedAt": "2026-09-26T17:49:09+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Samsung Galaxy Tab A11 con Kids Cover a 165.29€, pronto per tutta la famiglia",
+      "link": "https://www.tomshw.it/smartphone/samsung-galaxy-tab-a11-con-kids-cover-a-16529eur-pronto-per-tutta-la-famiglia",
+      "excerpt": "Samsung Galaxy Tab A11 con Kids Cover costa 165.29€ su Amazon, invece di 183.9€, con uno sconto del 10%. La custodia rinforzata e la maniglia girevole lo rendono particolarmente…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115318/tomshw-offer-1387434.png",
+      "publishedAt": "2026-09-26T17:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Google Pixel 10a, la versione da 256 GB è in sconto del 26% su eBay",
+      "link": "https://www.hdblog.it/smartphone/offerte/n671709/google-pixel-10a-256-gb-offerta-sett26-ebay/",
+      "excerpt": "Smartphone compatto, con un comparto fotografico superiore rispetto alla fascia di prezzo e un'ottima autonomia.",
+      "image": "https://hd2.tudocdn.net/1308534?w=660",
+      "publishedAt": "2026-09-26T17:39:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Motorola Edge 60 Neo in offerta a meno di 250€ su Amazon: a questo prezzo è un best buy",
+      "link": "https://www.hdblog.it/smartphone/offerte/n671710/motorola-edge-60-neo-249e-amazon-settembre-2026/",
+      "excerpt": "Il Motorola Edge 60 Neo è in offerta su Amazon e costa ora meno di 250 euro: è la scelta giusta tra i mid-range.",
+      "image": "https://hd2.tudocdn.net/1341241?w=660",
+      "publishedAt": "2026-09-26T17:30:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Aqara W600 a 55,99€ porta Matter sui radiatori e scalda solo quando serve",
       "link": "https://www.tomshw.it/altro/aqara-w600-a-5599eur-porta-matter-sui-radiatori-e-scalda-solo-quando-serve",
@@ -32,33 +113,6 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "L'harness da solo può farti spendere il doppio con lo stesso LLM",
-      "link": "https://www.tomshw.it/business/lharness-da-solo-puo-farti-spendere-il-doppio-con-lo-stesso-llm",
-      "excerpt": "Un nuovo studio del Sky Computing Lab di UC Berkeley, chiamato HarnessTax, isola l'effetto dell'harness (il livello software che gestisce istruzioni, strumenti e memoria intorno a…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115231/16-harnesstax-claude-code-pi-costo-doppio.jpg",
-      "publishedAt": "2026-09-26T16:48:20+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Anker Nano 70W a 35,80€ ricarica MacBook e iPhone con tre porte",
-      "link": "https://www.tomshw.it/smartphone/anker-nano-70w-a-3580eur-ricarica-macbook-e-iphone-con-tre-porte",
-      "excerpt": "Anker Nano 70W costa 35,80€ su Amazon, anziché 49,99€, con uno sconto del 20%. Le tre porte permettono di alleggerire la scrivania o il bagaglio affidando notebook, telefono e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115316/tomshw-offer-1387375.png",
-      "publishedAt": "2026-09-26T16:19:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Twitter è tornato: Twitter.now sfida X (e va in tribunale)",
-      "link": "https://www.tomshw.it/altro/twitter-e-tornato-con-luccellino-blu-twitternow-sfida-x-mentre-la-causa-resta-aperta",
-      "excerpt": "Twitter e il suo uccellino blu sono tornati, ma non dentro X e nemmeno per iniziativa di X Corp. Il 24 agosto 2026 la startup indipendente della Virginia Operation Bluebird ha…",
-      "image": "https://cdn.tomshw.it/storage/media/2025/10/74222/x-ritira-il-dominio-twitter-annuncio-discreto-2025-10-29-NmJOEK4gmkne87dmji0LiDveU.png",
-      "publishedAt": "2026-09-26T16:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Gli agenti di OpenAI hanno sondato e attaccato anche siti federali USA",
       "link": "https://images.dday.it/1ZyoAQVHV0farfFyFq7KdQuysBNNJu0Bh3G6SkGqtsU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58889/0185ce_Depositphotos_639977412_XL.jpg",
       "excerpt": "Nuovi incidenti per gli agenti di OpenAI. Accessi anomali a SEC e Census e un presunto tentativo di attacco al Dipartimento dell’Istruzione segnalato da un’organizzazione…",
@@ -66,42 +120,6 @@
       "publishedAt": "2026-09-26T16:05:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "GTA 6 arriverà mai su Switch 2? Un ex di Rockstar rompe il silenzio",
-      "link": "https://www.tomshw.it/videogioco/arrivera-mai-gta6-su-switch-2-rockstar-rompe-il-silenzio",
-      "excerpt": "La domanda circola da mesi tra gli appassionati e ora arriva una risposta, seppur non ufficiale: Grand Theft Auto VI difficilmente vedrà la luce su Nintendo Switch 2. A sostenerlo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115315/arrivera-mai-gta6-su-switch-2-rockstar-rompe-il-silenzio-yl1okt8.webp",
-      "publishedAt": "2026-09-26T16:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Una RTX 5090 via Wi-Fi? WiCi vuole eliminare anche l’ultimo cavo",
-      "link": "https://www.tomshw.it/hardware/rtx-5060-ti-diventa-wireless-con-wici-one-si-gioca-via-wi-fi",
-      "excerpt": "WiCi ha presentato WiCi One, una GPU esterna che si collega al dispositivo ospite tramite Wi-Fi anziché con un cavo Thunderbolt o OCuLink. La versione d’ingresso monta una GeForce…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115273/rtx-5060-ti-diventa-wireless-con-wici-one-si-gioca-via-wi-fi.png",
-      "publishedAt": "2026-09-26T16:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Google Pixel 10 vs Google Pixel 9: quale scegliere?",
-      "link": "https://www.tomshw.it/smartphone/google-pixel-10-vs-google-pixel-9-quale-scegliere",
-      "excerpt": "Google Pixel 10 giustifica il sovrapprezzo soprattutto per chi fotografa soggetti lontani: aggiunge uno zoom ottico 5x e la ricarica magnetica Qi2. Pixel 9 rimane l'acquisto più…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114663/google-pixel-10-vs-google-pixel-9-quale-scegliere.png",
-      "publishedAt": "2026-09-26T16:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Sonos Arc Ultra da 1.099€ a 799€, Dolby Atmos 9.1.4 con una sola soundbar",
-      "link": "https://www.tomshw.it/altro/sonos-arc-ultra-da-1099eur-a-799eur-dolby-atmos-914-con-una-sola-soundbar",
-      "excerpt": "Sonos Arc Ultra costa 799€ su Amazon, anziché 1.099€, con uno sconto del 27% e un risparmio di 300€. La sua architettura 9.1.4 punta a circondare il divano con un audio spaziale…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115314/tomshw-offer-1387358.png",
-      "publishedAt": "2026-09-26T15:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Gli agenti di OpenAI hanno pubblicato online senza permesso 53 immagini caricate dagli utenti",
@@ -199,24 +217,6 @@
       "excerpt": "Il sistema dice \"PIN sbagliato\" ancora prima che l'utente abbia finito di inserirlo.",
       "image": "https://hd2.tudocdn.net/1187814?w=660",
       "publishedAt": "2026-09-26T09:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Stellantis, boom in Brasile: nuovo primato di auto esportate nel mondo",
-      "link": "https://www.hdmotori.it/stellantis-brasile-primato-auto/",
-      "excerpt": "Crescita record per il Gruppo Stellantis che, in Brasile, ha celebrato un nuovo record. Da Goiana sono già state vendute all’estero 300.000 unità",
-      "image": "https://hd2.tudocdn.net/1373948?w=660",
-      "publishedAt": "2026-09-26T09:00:21+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung Galaxy Watch 8 in offerta su Amazon: un'ottima scelta per un nuovo smartwatch",
-      "link": "https://www.hdblog.it/indossabili/offerte/n671692/samsung-galaxy-watch-8--offerta-amazon-sett26/",
-      "excerpt": "Il Samsung Galaxy Watch 8 è in offerta su Amazon con un ottimo prezzo: è il momento giusto per acquistarlo.",
-      "image": "https://hd2.tudocdn.net/1327835?w=660",
-      "publishedAt": "2026-09-26T09:00:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
