@@ -1,9 +1,198 @@
 {
-  "generatedAt": "2026-09-26T02:50:59.258553+00:00",
+  "generatedAt": "2026-09-26T08:57:23.773947+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "L'AI supera un altro test di Turing: decifrati due messaggi Enigma",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n671639/ai-decifra-messaggi-enigma-turing/",
+      "excerpt": "Astra e Claude Opus hanno decifrato due messaggi Enigma rimasti irrisolti per decenni.",
+      "image": "https://hd2.tudocdn.net/1373941?w=660",
+      "publishedAt": "2026-09-26T08:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Braun Serie 9 BT9545 a 109,99€, 52 lunghezze per una barba precisa",
+      "link": "https://www.tomshw.it/smartphone/braun-serie-9-bt9545-a-10999eur-52-lunghezze-per-una-barba-precisa",
+      "excerpt": "Braun Serie 9 BT9545 costa 109,99€ su Amazon, anziché 159,99€, con uno sconto del 31%. Le 52 impostazioni di lunghezza permettono di passare dalla barba corta alle sfumature più…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115300/tomshw-offer-1387078.png",
+      "publishedAt": "2026-09-26T08:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Smartphone top gamma con Snapdragon 8 Elite Extreme Gen 6: ecco i modelli in arrivo",
+      "link": "https://www.hdblog.it/smartphone/articoli/n671574/snapdragon-8-elite-extreme-gen-6-quali-smartphone/",
+      "excerpt": "Si parte con Xiaomi 18 Pro Max.",
+      "image": "https://hd2.tudocdn.net/1373759?w=660",
+      "publishedAt": "2026-09-26T08:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Targhe polacche: il “rientro” in Italia costa caro",
+      "link": "https://www.hdmotori.it/focus/mercato/normative/targhe-polacche-rientro-italia/",
+      "excerpt": "Dopo il fenomeno delle targhe estere fittizie per risparmiare, si sta assistendo al fenomeno inverso, cioè il “rientro” delle auto in Italia. I costi per la reimmatricolazione...",
+      "image": "https://hd2.tudocdn.net/1373945?w=660",
+      "publishedAt": "2026-09-26T08:30:45+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Con Android Dex trasformi lo smartphone Android in un PC",
+      "link": "https://www.hdblog.it/smartphone/articoli/n671453/android-dex-app-smartphone-su-pc/",
+      "excerpt": "Come funziona l’alternativa a Samsung DeX",
+      "image": "https://hd2.tudocdn.net/1373445?w=660",
+      "publishedAt": "2026-09-26T08:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Bosch UniversalImpact 18V costa 109.99€ e arriva pronto per i lavori di casa",
+      "link": "https://www.tomshw.it/altro/bosch-universalimpact-18v-costa-10999eur-e-arriva-pronto-per-i-lavori-di-casa",
+      "excerpt": "Bosch UniversalImpact 18V costa 109.99€ su Amazon e arriva con batteria, caricabatteria, valigetta e un assortimento di bit e punte. È il kit da tenere pronto per montare mobili,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115299/tomshw-offer-1387043.png",
+      "publishedAt": "2026-09-26T08:19:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori antenne TV per DVB-T2 (2026)",
+      "link": "https://www.tomshw.it/altro/migliori-antenne-tv-per-dvb-t2",
+      "excerpt": "Meliconi AT49 R1 USB è la migliore antenna TV DVB-T2 della selezione per chi cerca una soluzione interna regolabile, orientabile e dotata di filtri 4G/5G. Funziona soprattutto…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115297/guide-thw-1386989.png",
+      "publishedAt": "2026-09-26T08:19:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La conoscenza aziendale è nella testa delle persone, va formalizzata prima di automatizzare",
+      "link": "https://www.tomshw.it/business/la-conoscenza-aziendale-e-nella-testa-delle-persone-va-formalizzata-prima-di-automatizzare",
+      "excerpt": "Il sapere che un'azienda userebbe per automatizzare i propri processi più complessi, spesso, esiste solo nella testa di una manciata di persone. UiPath lo ha messo al centro della…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115166/08-uipath-cartographer-conoscenza-informale-automazione.jpg",
+      "publishedAt": "2026-09-26T08:14:23+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Ferrari-F1, l’autunno “del nostro scontento”: adesso non bastano più nemmeno le curve",
+      "link": "https://www.hdmotori.it/ferrari-f1-lautunno-del-nostro-scontento-adesso-non-bastano-piu-nemmeno-le-curve/",
+      "excerpt": "La Rossa fatica a compensare i limiti del motore, mentre gli avversari crescono anche nei tratti guidati. Il Mondiale di F1 è andato",
+      "image": "https://hd2.tudocdn.net/1373944?w=660",
+      "publishedAt": "2026-09-26T08:00:05+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "I laser generano particelle per vedere oltre i muri, ma ci sono dei limiti",
+      "link": "https://www.tomshw.it/scienze/i-laser-generano-particelle-per-vedere-oltre-i-muri-con-quali-limiti",
+      "excerpt": "Un gruppo di ricercatori guidato da Kaixin Zhu ha ottenuto una radiografia con particelle prodotte da un acceleratore azionato da laser: in un singolo impulso ha ripreso oggetti…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115256/i-laser-generano-particelle-per-vedere-oltre-i-muri-con-quali-limiti.png",
+      "publishedAt": "2026-09-26T08:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "L’esperimento più lungo del mondo? Dura dal 1927",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n671640/esperimento-pece-pitch-drop-queensland/",
+      "excerpt": "Dal 1927 un esperimento dimostra quanto possa essere lento lo scorrimento della pece.",
+      "image": "https://hd2.tudocdn.net/1373938?w=660",
+      "publishedAt": "2026-09-26T07:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "EZVIZ EP7 scontato del 40%, un affare per aprire porta e cancello da remoto",
+      "link": "https://www.tomshw.it/altro/ezviz-ep7-scontato-del-40-un-affare-per-aprire-porta-e-cancello-da-remoto",
+      "excerpt": "EZVIZ EP7 costa 239.99€ su Amazon, con uno sconto del 40% sui 399.99€ di listino. Il kit porta video 2K, controllo degli accessi e alimentazione solare davanti a casa, senza…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115298/tomshw-offer-1387013.png",
+      "publishedAt": "2026-09-26T07:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Washington vuole un'AI senza regole pubblicamente, ma in privato sta trattando con Pechino",
+      "link": "https://www.tomshw.it/business/washington-vuole-unai-senza-regole-pubblicamente-ma-in-privato-sta-trattando-con-pechino",
+      "excerpt": "Trump ha scritto di voler lasciare il tema dell'intelligenza artificiale esattamente dov'è, due giorni dopo aver respinto pubblicamente, all'Assemblea Generale ONU, ogni forma di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115165/07-usa-cina-guardrail-ai-trump-bessent.jpg",
+      "publishedAt": "2026-09-26T07:42:03+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Google Messaggi cambia gli swipe, e per qualche giorno potresti sbagliare gesto",
+      "link": "https://www.hdblog.it/google/articoli/n671671/google-messaggi-swipe-nuovi/",
+      "excerpt": "Nuove gesture in distribuzione su Google Messaggi: lo swipe a sinistra mostra gli orari di tutti i messaggi visibili, mentre quello verso destra serve ora per inviare una risposta…",
+      "image": "https://hd2.tudocdn.net/1227591?w=660",
+      "publishedAt": "2026-09-26T07:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Super permuta Google: il tuo vecchio smartphone vale fino a 640€ per il nuovo Pixel",
+      "link": "https://www.tomshw.it/smartphone/super-permuta-google-il-tuo-vecchio-smartphone-vale-fino-a-640eur-per-il-nuovo-pixel",
+      "excerpt": "Se stavi aspettando il momento perfetto per aggiornare la tua dotazione tecnologica e passare all'ultima generazione di smartphone, la risposta è arrivata. Dal 25 al 28 settembre…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115133/Pixel-11-trade-in.png",
+      "publishedAt": "2026-09-26T07:25:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori monopattini elettrici (2026)",
+      "link": "https://www.tomshw.it/automotive/migliori-monopattini-elettrici",
+      "excerpt": "Il miglior monopattino elettrico del 2026 dipende dal tragitto: Segway-Ninebot E2 Plus E II per spendere meno, Xiaomi Electric Scooter 5 per equilibrio, NAVEE GT3 Max per…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/88191/migliori-monopattini-elettrici-copertina.jpg",
+      "publishedAt": "2026-09-26T07:23:46+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "MapQuest viaggia su Android Auto: ecco cosa offre e dove è disponibile",
+      "link": "https://www.hdblog.it/android/articoli/n671490/mapquest-arriva-su-android-auto-negli-usa/",
+      "excerpt": "Lo storico servizio debutta sul sistema di infotainment.",
+      "image": "https://hd2.tudocdn.net/1373546?w=660",
+      "publishedAt": "2026-09-26T07:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung Crystal UHD 4K da 429€ a 299€, un affare per film e gaming",
+      "link": "https://www.tomshw.it/altro/samsung-crystal-uhd-4k-da-429eur-a-299eur-un-affare-per-film-e-gaming",
+      "excerpt": "Samsung Crystal UHD 4K da 43 pollici costa 299€ su Amazon, anziché 429€, con uno sconto del 30%. È una TV pensata per concentrare film, serie, giochi e dispositivi connessi in uno…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115295/tomshw-offer-1386940.png",
+      "publishedAt": "2026-09-26T07:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Da Lenovo inizia il secondo weekend consecutivo con sconti fino al 58%",
+      "link": "https://www.hdblog.it/portatili/offerte/n671682/lenovo-secondo-weekend-sconti-58-per-cento/",
+      "excerpt": "Proseguono le offerte sui migliori laptop della casa asiatica.",
+      "image": "https://hd2.tudocdn.net/1373935?w=660",
+      "publishedAt": "2026-09-26T07:03:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apocalypse Speedster, il mostro 4x4 da 750 CV che non teme le supercar",
+      "link": "https://www.hdmotori.it/apocalypse-speedster-4x4-750-cv/",
+      "excerpt": "Negli Stati Uniti hanno creato una vettura irrefrenabile che può affrontare l’offroad con una potenza straordinaria.",
+      "image": "https://hd2.tudocdn.net/1373939?w=660",
+      "publishedAt": "2026-09-26T07:00:09+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Abbiamo provato i Googlebook. L'erede del Chromebook in chiave AI è ancora un work in progress",
+      "link": "https://images.dday.it/dlPbh3lGwbPUM-NAmEmZO-SnlZf1AL1w0lrkEQH3t8A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58869/9794d3_gbook.jpg",
+      "excerpt": "Abbiamo messo le mani sui nuovi Googlebook, abbiamo provato tutte le funzioni e parlato con chi ha sviluppato il sistema: l’idea che ha Google del futuro del computer è sensata,…",
+      "image": "https://images.dday.it/dlPbh3lGwbPUM-NAmEmZO-SnlZf1AL1w0lrkEQH3t8A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58869/9794d3_gbook.jpg",
+      "publishedAt": "2026-09-26T05:00:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
     {
       "title": "IA da 120 miliardi di parametri anche senza cloud. Il segreto è MSI PRO MAX EDGE AI+",
       "link": "https://images.dday.it/CqTV2pjW_JS6J1wfYmOmy3Xjz_4uD9jCSFPRZG79QxM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58746/abcb77_ape2.jpg",
@@ -12,186 +201,6 @@
       "publishedAt": "2026-09-26T01:03:05+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Belkin BoostCharge scontato del 62%, l’affare per iPhone e AirPods",
-      "link": "https://www.tomshw.it/smartphone/belkin-boostcharge-scontato-del-62-laffare-per-iphone-e-airpods",
-      "excerpt": "Belkin BoostCharge costa 24,99€ su Amazon: dai 66,50€ di listino, lo sconto del 62% fa risparmiare 41,51€. La base pieghevole ricarica insieme smartphone e AirPods, occupando il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115282/tomshw-offer-1368550.png",
-      "publishedAt": "2026-09-25T20:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Un malware AI ha preso il controllo di server Docker (ma erano aperti)",
-      "link": "https://www.tomshw.it/business/un-malware-ai-ha-preso-il-controllo-di-server-docker-ma-erano-aperti",
-      "excerpt": "Un malware che decide da solo quali comandi lanciare, dopo essere entrato da un server Docker lasciato aperto su Internet. Si chiama Carbonato, e ThreatDown, la divisione di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115163/06-carbonato-malware-docker-hermes-agent.jpg",
-      "publishedAt": "2026-09-25T18:57:56+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Quattro telecamere Reolink 5MP registrano 24/7, il kit costa 467,49€",
-      "link": "https://www.tomshw.it/altro/quattro-telecamere-reolink-5mp-registrano-247-il-kit-costa-46749eur",
-      "excerpt": "Il kit Reolink RLK8-410B4-5MP costa 467,49€ su Amazon, anziché 549,99€, grazie a uno sconto del 15%. Quattro telecamere PoE e un NVR con disco da 2TB permettono di registrare…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115276/tomshw-offer-1368529.png",
-      "publishedAt": "2026-09-25T18:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "iRobot Roomba 205 scontato del 52%, fino a 60 giorni senza svuotarlo",
-      "link": "https://www.tomshw.it/altro/irobot-roomba-205-scontato-del-52-fino-a-60-giorni-senza-svuotarlo",
-      "excerpt": "iRobot Roomba 205 DustCompactor Combo costa 215€ su Amazon, anziché 449€, con uno sconto del 52%. La compattazione integrata trattiene lo sporco fino a 60 giorni senza richiedere…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115267/tomshw-offer-1368499.png",
-      "publishedAt": "2026-09-25T18:19:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "iPhone 18 Pro / Max, volete più controllo sulla fotocamera ad apertura variabile?",
-      "link": "https://www.hdblog.it/smartphone/articoli/n671678/iphone-18-pro-max-apertura-variabile-app-controllo/",
-      "excerpt": "Ci sono già due app nel Play Store che offrono 10 f-stop invece dei soli 4 dell'app standard.",
-      "image": "https://hd2.tudocdn.net/1369874?w=660",
-      "publishedAt": "2026-09-25T18:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Stampante offline: come riportarla online in pochi passi",
-      "link": "https://www.tomshw.it/hardware/stampante-wifi-offline-cambio-router",
-      "excerpt": "Se la stampante Wi-Fi risulta offline dopo il cambio del router, verifica prima che sia collegata alla nuova rete, poi confronta il suo indirizzo IP con quello usato da Windows…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114637/cover.png",
-      "publishedAt": "2026-09-25T18:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "BenQ TK705i a 1.256,54€, film e PS5 fino a 150 pollici in salotto",
-      "link": "https://www.tomshw.it/altro/benq-tk705i-a-125654eur-film-e-ps5-fino-a-150-pollici-in-salotto",
-      "excerpt": "Il BenQ TK705i costa 1.256,54€ su Amazon, con il 3% di sconto sul listino di 1.299€. È pensato per trasformare film, streaming e sessioni su console in immagini 4K HDR fino a 150…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115264/tomshw-offer-1368490.png",
-      "publishedAt": "2026-09-25T17:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Apple iPad 12, nuove conferme per il trittico di chip proprietari",
-      "link": "https://www.hdblog.it/tablet/articoli/n671676/apple-ipad-12-chip-novita-leak-quando/",
-      "excerpt": "Upgrade ad A19 per il Soc Principale, modem C1X e connettività wireless a corto raggio N1.",
-      "image": "https://hd2.tudocdn.net/1330579?w=660",
-      "publishedAt": "2026-09-25T17:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il revival di Neo Geo AES+: 106 titoli promossi al test",
-      "link": "https://www.tomshw.it/videogioco/neo-geo-aes-funziona-davvero-testati-106-titoli-e-annunciato-zero-wing",
-      "excerpt": "Il revival di Neo Geo AES ha finalmente superato la fase delle promesse. Dopo essere stato mostrato funzionante e giocabile al Tokyo Game Show, il 22 settembre 2026 il progetto…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114841/amarcord-cover-1345092.png",
-      "publishedAt": "2026-09-25T17:29:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Docker ammette che i container da soli non bastano più contro gli agenti AI",
-      "link": "https://www.tomshw.it/business/docker-ammette-che-i-container-da-soli-non-bastano-piu-contro-gli-agenti-ai",
-      "excerpt": "Nella sua stessa demo di lancio, Docker ha mostrato un agente AI scappare da un container normale. Il 24 settembre, alla conferenza WeAreDevelopers, l'azienda ha presentato Cloud…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115162/05-docker-cloud-sandboxes-container-agenti-ai.jpg",
-      "publishedAt": "2026-09-25T17:28:59+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Un'altra RTX 5090 fusa, PNY rifiuta RMA perché il cavo non era quello originale",
-      "link": "https://www.hdblog.it/hardware/articoli/n671675/nvidia-geforce-rtx-5090-fusa-pny-garanzia-rifiuto/",
-      "excerpt": "Non c'è traccia da nessuna parte di questa regola, però.",
-      "image": "https://hd2.tudocdn.net/1373920?w=660",
-      "publishedAt": "2026-09-25T17:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Fino a 150 km con doppia batteria: ENGWE M20 costa 1299€",
-      "link": "https://www.tomshw.it/automotive/fino-a-150-km-con-doppia-batteria-engwe-m20-costa-1299eur",
-      "excerpt": "ENGWE M20 costa 1299€ su Amazon nella versione nera con doppia batteria, una configurazione pensata per ampliare parecchio il raggio d’azione. L’autonomia dichiarata fino a 150 km…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115254/tomshw-offer-1368474.png",
-      "publishedAt": "2026-09-25T17:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Windows 11, c'è un trucco per rendere Esplora File molto più reattivo",
-      "link": "https://www.hdblog.it/microsoft/articoli/n671670/windows-11-trucco-esplora-file-dos-sfn/",
-      "excerpt": "Ha senso solo se siete sicuri che non installerete mai vecchie applicazioni o giochi, e se lavorate spesso con cartelle contenenti migliaia e migliaia di file.",
-      "image": "https://hd2.tudocdn.net/1351081?w=660",
-      "publishedAt": "2026-09-25T17:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "La fibra dove arriva, il satellite dove serve: il test lombardo supera i 500 Mbps",
-      "link": "https://www.hdblog.it/mobile/articoli/n671668/fibra-satellite-internet-test-lombardia-velocita/",
-      "excerpt": "Fibra e satellite possono lavorare insieme per portare la Banda Ultra Larga nei piccoli comuni e nelle zone isolate: il test lombardo ha raggiunto oltre 500 Mbps in download",
-      "image": "https://hd2.tudocdn.net/1361835?w=660",
-      "publishedAt": "2026-09-25T17:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "F1, Horner si propone alla Ferrari: Vasseur sotto pressione",
-      "link": "https://www.hdmotori.it/f1-horner-ferrari-vasseur/",
-      "excerpt": "Christian Horner, ex numero 1 della Red Bull Racing, avrebbe la seria intenzione di rilanciarsi in Ferrari anche senza quote azionarie",
-      "image": "https://hd2.tudocdn.net/1373919?w=660",
-      "publishedAt": "2026-09-25T17:00:58+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Quando esce Star Wars: Galactic Racer? Data e cosa sappiamo",
-      "link": "https://www.tomshw.it/videogioco/quando-esce-star-wars-galactic-racer-data-e-cosa-sappiamo",
-      "excerpt": "Star Wars: Galactic Racer uscirà il 6 ottobre 2026 su PlayStation 5, Xbox Series X|S e PC. È la data ufficiale del lancio mondiale, valida anche per l’Italia: l’attesa ha quindi…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114625/cover.jpg",
-      "publishedAt": "2026-09-25T17:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Armi americane già in orbita: cosa sappiamo e cosa resta segreto",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n671547/usa-armi-orbita-cina-corsa-armamenti-spazio/",
-      "excerpt": "Gli USA confermano armi in orbita. La Cina avverte del rischio di una corsa agli armamenti.",
-      "image": "https://hd2.tudocdn.net/1373682?w=660",
-      "publishedAt": "2026-09-25T16:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Insta360 ha conquistato il mercato delle fotocamere (e ora guarda agli occhiali)",
-      "link": "https://www.hdblog.it/fotografia/articoli/n671627/insta360-fotocamere-occhiali-smart/",
-      "excerpt": "Si parla anche di un \"robot cameraman\"",
-      "image": "https://hd2.tudocdn.net/1373886?w=660",
-      "publishedAt": "2026-09-25T16:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "HMD Aura 2 Pro, trapela la scheda tecnica: non sembra molto... \"Pro\"",
-      "link": "https://www.hdblog.it/smartphone/articoli/n671666/hmd-aura-2-pro-specifiche-immagini-batteria/",
-      "excerpt": "Dobbiamo dire, non sembra chissà che \"Pro\".",
-      "image": "https://hd2.tudocdn.net/1373909?w=660",
-      "publishedAt": "2026-09-25T16:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Spotify arriva su Meta Muse: l’AI sceglie cosa ascoltare",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n671642/meta-muse-spotify-playlist-podcast/",
-      "excerpt": "Muse può avviare l’ascolto, creare playlist e salvare contenuti su Spotify.",
-      "image": "https://hd2.tudocdn.net/1373881?w=660",
-      "publishedAt": "2026-09-25T16:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Schneider Electric vuole acquisire Shelly per 1,2 miliardi di euro. Gli utenti sono preoccupati",
@@ -262,15 +271,6 @@
       "excerpt": "Lenco, storico marchio di giradischi, mette in offerta due modelli su Amazon. Scopri subito Lenco LBT-188PI e l’LS-100... Leggi tutto",
       "image": "https://images.dday.it/rNcxANCos5jJ1sCI-bkd1l9pRmw-JJGfAK3sfcwgBPU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58876/827dfb_81qovJCVznL._AC_SL1500_.jpeg",
       "publishedAt": "2026-09-25T10:24:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Antennagate, spunta dopo 16 anni il raro video integrale del confronto tra Steve Jobs e i giornalisti",
-      "link": "https://images.dday.it/3fQk5ZMGJO0rzUe3lqg01LysRRphC6jbb86eekvzeuk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58877/ffeb72_cove_rfrwfrw_copia.jpg",
-      "excerpt": "Un raro video riporta alla luce il confronto tra Steve Jobs e i giornalisti sull’Antennagate dell’iPhone 4. Apple all’epoca pubblicò solo la presentazione iniziale... Leggi tutto",
-      "image": "https://images.dday.it/3fQk5ZMGJO0rzUe3lqg01LysRRphC6jbb86eekvzeuk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58877/ffeb72_cove_rfrwfrw_copia.jpg",
-      "publishedAt": "2026-09-25T10:12:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
