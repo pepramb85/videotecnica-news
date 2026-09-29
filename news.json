@@ -1,9 +1,162 @@
 {
-  "generatedAt": "2026-09-29T17:23:36.018984+00:00",
+  "generatedAt": "2026-09-29T21:42:59.587742+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "be quiet! Silent Wings Pro 4 sotto i 29€, raffredda anche i PC più esigenti",
+      "link": "https://www.tomshw.it/hardware/be-quiet-silent-wings-pro-4-sotto-i-29eur-raffredda-anche-i-pc-piu-esigenti",
+      "excerpt": "La be quiet! Silent Wings Pro 4 120mm PWM costa 28,97€ su Amazon: il prezzo di listino è 37,39€, con uno sconto del 23% e 8,42€ risparmiati. Sotto i 29€, porta in un PC da gioco o…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115683/tomshw-offer-1424265.png",
+      "publishedAt": "2026-09-29T20:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Recensione iPhone 18 Pro, nel segno della continuità | Video",
+      "link": "https://www.hdblog.it/smartphone/recensioni/n671823/iphone-18-pro-test-specifiche-sconti-prezzo/",
+      "excerpt": "Abbiamo provato il nuovo iPhone 18 Pro, il top di gamma compatto Apple, ecco come è andata",
+      "image": "https://hd2.tudocdn.net/1374291?w=660",
+      "publishedAt": "2026-09-29T19:31:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La levigatrice Einhell a 59,99€ rinnova mobili e superfici senza complicazioni",
+      "link": "https://www.tomshw.it/altro/la-levigatrice-einhell-a-5999eur-rinnova-mobili-e-superfici-senza-complicazioni",
+      "excerpt": "La levigatrice eccentrica Einhell TC-RS 425 E costa 59,99€ su Amazon, una cifra accessibile per aggiungere un utensile versatile al laboratorio di casa. È pensata per preparare…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115675/tomshw-offer-1424240.png",
+      "publishedAt": "2026-09-29T18:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Apple aggiorna Final Cut Camera: su iPhone 18 Pro controlla anche il diaframma",
+      "link": "https://www.hdblog.it/smartphone/articoli/n672056/apple-aggiorna-final-cut-camera-iphone-18-pro/",
+      "excerpt": "Apple ha aggiornato Final Cut Camera alla versione 2.4, con una nuova interfaccia e diverse funzioni",
+      "image": "https://hd2.tudocdn.net/1370005?w=660",
+      "publishedAt": "2026-09-29T18:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "OpenAI lancia Dots, gli agenti AI che lavorano anche mentre non ci sei",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n672052/openai-dots-agenti-ai-chatgpt-astra-6-cosa-fa-come/",
+      "excerpt": "Ecco come funziona la risposta di OpenAI a Muse di Meta.",
+      "image": "https://hd2.tudocdn.net/1374829?w=660",
+      "publishedAt": "2026-09-29T18:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Come prevedere e controllare i costi AI in azienda",
+      "link": "https://www.tomshw.it/business/come-prevedere-e-controllare-i-costi-ai-in-azienda",
+      "excerpt": "Secondo Gartner, entro il 2028 il costo di inferenza per ogni flusso di lavoro agentico crescerà più di cinque volte, anche se il prezzo del singolo token continua a scendere. Un…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115611/01-costi-ai-previsione-unit-economics.jpg",
+      "publishedAt": "2026-09-29T18:20:26+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "SwitchBot K11+ a 199,49€, fino a 90 giorni senza svuotare la base",
+      "link": "https://www.tomshw.it/altro/switchbot-k11-a-19949eur-fino-a-90-giorni-senza-svuotare-la-base",
+      "excerpt": "SwitchBot K11+ costa 199,49€ su Amazon, invece di 209,99€, con uno sconto del 5%. La base da 4 litri può raccogliere la polvere fino a 90 giorni, riducendo gli interventi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115674/tomshw-offer-1424213.png",
+      "publishedAt": "2026-09-29T18:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Apple e pediatri, una nuova guida per un uso più sano di smartphone e tablet",
+      "link": "https://www.hdblog.it/smartphone/articoli/n672054/apple-pediatri-famiglie-gestire-smartphone-tablet/",
+      "excerpt": "Apple ha pubblicato insieme all'American Academy of Pediatrics (AAP) una nuova guida dedicata alle famiglie",
+      "image": "https://hd2.tudocdn.net/1374830?w=660",
+      "publishedAt": "2026-09-29T18:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "F-Droid, arriva il suo più grande aggiornamento di sempre",
+      "link": "https://www.hdblog.it/google/articoli/n672053/fdroid-versione-2-rivoluzione-dma-riscritto/",
+      "excerpt": "Il famoso marketplace alternativo finalmente ha un'interfaccia più graziosa, e soprattutto semplifica l'installazione di nuove app.",
+      "image": "https://hd2.tudocdn.net/1374824?w=660",
+      "publishedAt": "2026-09-29T18:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Windows 11 si riavvia di notte? Ecco cosa controllare",
+      "link": "https://www.tomshw.it/hardware/windows-11-riavvio-notte-aggiornamenti-orari",
+      "excerpt": "Se il PC con Windows 11 si riavvia da solo durante la notte, interrompendo download o rendering, controlla prima la cronologia degli aggiornamenti e gli eventi di sistema. Quando…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115453/cover.png",
+      "publishedAt": "2026-09-29T18:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "McDonald's, quanto costa un Big Mac? Dipende da dove lo prendi e lo decide l'AI",
+      "link": "https://www.hdblog.it/business/articoli/n672048/mcdonalds-ai-prezzo-panini-dinamico-usa/",
+      "excerpt": "Come faceva il jingle? \"Succede solo da McDonald's\".",
+      "image": "https://hd2.tudocdn.net/693030?w=660",
+      "publishedAt": "2026-09-29T17:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Perché l'87% delle aziende italiane paga il riscatto: dal recovery tradizionale alla resilienza by design",
+      "link": "https://www.tomshw.it/business/perche-l87-delle-aziende-italiane-paga-il-riscatto-dal-recovery-tradizionale-alla-resilienza-by-design",
+      "excerpt": "I dati non mentono, ma a volte rivelano verità scomode che richiedono una seria riflessione da parte dei C-level. La più recente ricerca globale dei Rubrik Zero Labs fotografa una…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115580/rubrik-riscatto-italia-resilienza.jpg",
+      "publishedAt": "2026-09-29T17:48:35+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "ASUS 4G-AC86U al -53%, internet 4G+ fino a 600 Mbps dove serve",
+      "link": "https://www.tomshw.it/hardware/asus-4g-ac86u-al-53-internet-4g-fino-a-600-mbps-dove-serve",
+      "excerpt": "ASUS 4G-AC86U costa 89€ su Amazon, con uno sconto del 53% sui 189€ di listino. È pensato per distribuire una connessione mobile veloce quando la linea fissa non arriva oppure non…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115673/tomshw-offer-1424201.png",
+      "publishedAt": "2026-09-29T17:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "HDR10+ Gaming sempre più diffuso: ci sarà anche su Call of Duty MW4",
+      "link": "https://www.hdblog.it/games/articoli/n672050/call-duty-mw4-hdr10-gaming-nuovi-titoli/",
+      "excerpt": "Lo standard ideato da Panasonic, Samsung e 20th Century Fox continua a diffondersi.",
+      "image": "https://hd2.tudocdn.net/1364388?w=660",
+      "publishedAt": "2026-09-29T17:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Sensore neuromorfico: rileva l'umidità a distanza con estrema precisione",
+      "link": "https://www.hdblog.it/domotica/articoli/n671930/memristore-sensore-umidita-senza-contatto/",
+      "excerpt": "Un memristore rileva l’umidità senza contatto e conserva memoria di ciò che ha percepito.",
+      "image": "https://hd2.tudocdn.net/1374526?w=660",
+      "publishedAt": "2026-09-29T17:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Raspberry Pi, arriva il modulo per semplificare i cartelloni digitali",
+      "link": "https://www.hdblog.it/business/articoli/n672047/raspberry-pi-smart-display-module-sdm/",
+      "excerpt": "Lo Smart Display Module (SDM) permette di inserire un Compute Module 5 direttamente nei display che aderiscono allo standard Intel SDM, riducendo cavi e complicazioni degli…",
+      "image": "https://hd2.tudocdn.net/1374816?w=660",
+      "publishedAt": "2026-09-29T17:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Oura doveva debuttare in Borsa, ma frena all'ultimo: tutta colpa del mercato",
+      "link": "https://www.hdblog.it/indossabili/articoli/n672042/oura-ipo-rinviata-nasdaq-smart-ring-settembre-2026/",
+      "excerpt": "Non è ancora l'Oura.",
+      "image": "https://hd2.tudocdn.net/1351787?w=660",
+      "publishedAt": "2026-09-29T17:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Nuki Smart Lock Go scende a 99€ e trasforma lo smartphone nella chiave di casa",
       "link": "https://www.tomshw.it/altro/nuki-smart-lock-go-scende-a-99eur-e-trasforma-lo-smartphone-nella-chiave-di-casa",
@@ -12,24 +165,6 @@
       "publishedAt": "2026-09-29T17:18:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Meta spende 600 miliardi nell’AI: ecco come vuole recuperarli",
-      "link": "https://www.hdblog.it/mercato/articoli/n671956/meta-enterprise-platform-ai-aziende/",
-      "excerpt": "Meta apre un nuovo business enterprise per vendere modelli, agenti AI e servizi alle aziende.",
-      "image": "https://hd2.tudocdn.net/1374581?w=660",
-      "publishedAt": "2026-09-29T17:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Un graffio sulla Porsche Taycan, poi la fattura choc: quasi 38.000 dollari di riparazione",
-      "link": "https://www.hdmotori.it/porsche-taycan-fattura-shock-graffio-38000-dollari/",
-      "excerpt": "La Porsche Taycan di Matt Farah sembrava avere soltanto un piccolo danno alla carrozzeria, ma la riparazione è arrivata a 37.890 dollari",
-      "image": "https://hd2.tudocdn.net/1374814?w=660",
-      "publishedAt": "2026-09-29T17:00:09+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Quando esce Castlevania: Belmont's Curse? Data e cosa sappiamo",
@@ -41,146 +176,11 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Otto ore senza atterrare: il nuovo drone elettrico Evo-LE punta lontano",
-      "link": "https://www.hdblog.it/droni/articoli/n671971/deltaquad-evo-le-drone-elettrico-8-ore/",
-      "excerpt": "DeltaQuad Evo-LE promette fino a 8 ore di autonomia e 480 km di percorrenza.",
-      "image": "https://hd2.tudocdn.net/1374603?w=660",
-      "publishedAt": "2026-09-29T16:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Neil Druckmann conferma: due progetti su The Last of Us in cantiere",
-      "link": "https://www.hdblog.it/games/articoli/n672040/the-last-of-us-due-progetti-neil-druckmann/",
-      "excerpt": "Interessante, ma... \"Progetti\", Neil? Quanti di questi sono videogiochi?",
-      "image": "https://hd2.tudocdn.net/1261295?w=660",
-      "publishedAt": "2026-09-29T16:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Truecaller porta Scam Checker sul web: truffe oltre le chiamate",
-      "link": "https://www.hdblog.it/mobile/articoli/n671970/truecaller-scam-checker-truffe-online/",
-      "excerpt": "Scam Checker verifica numeri, link e messaggi sospetti senza app né registrazione.",
-      "image": "https://hd2.tudocdn.net/1374601?w=660",
-      "publishedAt": "2026-09-29T16:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Apple TV 4K, spunta un nuovo indizio sul modello di quarta generazione",
-      "link": "https://www.hdblog.it/apple/articoli/n672033/apple-tv-4k-quarta-generazione-indizio-documento/",
-      "excerpt": "Ormai i segnali di un debutto vicino sono davvero tanti.",
-      "image": "https://hd2.tudocdn.net/1373903?w=660",
-      "publishedAt": "2026-09-29T16:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "L'AI in azienda si pianta sulle vecchie integrazioni",
       "link": "https://www.tomshw.it/business/lai-in-azienda-si-pianta-sulle-vecchie-integrazioni",
       "excerpt": "Circa due responsabili IT su tre hanno risposto che il debito lasciato dalle vecchie integrazioni impedisce loro di portare l'AI su larga scala. Erano 182 dirigenti di aziende con…",
       "image": "https://cdn.tomshw.it/storage/media/2026/09/115575/05-ai-azienda-vecchie-integrazioni.jpg",
       "publishedAt": "2026-09-29T16:31:38+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Fairbuds 2, ci siamo quasi: ecco quando arrivano e quanto costano",
-      "link": "https://www.hdblog.it/indossabili/articoli/n672036/fairbuds-2-quando-prezzo-novita-audio-qualita/",
-      "excerpt": "Costeranno meno, avranno più autonomia e supporteranno l'ottimo codec wireless LDAC di Sony.",
-      "image": "https://hd2.tudocdn.net/1370732?w=660",
-      "publishedAt": "2026-09-29T16:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Discord prepara Game Mode: meno utilizzo di CPU e GPU mentre si gioca",
-      "link": "https://www.hdblog.it/games/articoli/n671967/discord-game-mode-cpu-gpu/",
-      "excerpt": "Game Mode ridurrà l'uso di CPU e GPU di Discord durante le sessioni di gioco.",
-      "image": "https://hd2.tudocdn.net/1374600?w=660",
-      "publishedAt": "2026-09-29T16:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "SteelSeries Apex 3 TKL da 54,99€ a 49,99€, silenziosa anche di sera",
-      "link": "https://www.tomshw.it/hardware/steelseries-apex-3-tkl-da-5499eur-a-4999eur-silenziosa-anche-di-sera",
-      "excerpt": "SteelSeries Apex 3 TKL costa 49,99€ su Amazon, invece di 54,99€, con uno sconto del 9%. Il formato compatto e gli switch silenziosi la rendono particolarmente interessante per…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115669/tomshw-offer-1424154.png",
-      "publishedAt": "2026-09-29T16:19:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "GPT-6.1 Astra ingannava i tester: OpenAI cancella il debutto",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n672020/openai-gpt-6-1-astra-cancellato-sicurezza/",
-      "excerpt": "GPT-6.1 Astra non arriverà a ottobre: nei test sono emersi problemi di sicurezza e controllo.",
-      "image": "https://hd2.tudocdn.net/1374767?w=660",
-      "publishedAt": "2026-09-29T16:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "PS5 Jailbreak, non si salva più nessun modello: nemmeno la Pro",
-      "link": "https://www.hdblog.it/games/articoli/n672034/sony-ps5-pro-slim-jailbreak/",
-      "excerpt": "... a patto di non aver installato l'ultimo aggiornamento firmware in distribuzione da qualche giorno appena.",
-      "image": "https://hd2.tudocdn.net/1356471?w=660",
-      "publishedAt": "2026-09-29T16:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Configura con n8n un agente AI che monitora le scadenze fiscali e ti avvisa in tempo",
-      "link": "https://www.tomshw.it/aioperator/configura-con-n8n-un-agente-ai-che-monitora-le-scadenze-fiscali-e-ti-avvisa-in-tempo",
-      "excerpt": "Lo Scadenzario Fiscale dell'Agenzia delle Entrate elenca ogni mese versamenti F24, IVA e contributi, ma quasi nessuno lo controlla ogni giorno. La scadenza si scopre spesso a…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114425/04-amm10-cover.jpg",
-      "publishedAt": "2026-09-29T16:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Rowenta X-Pert 6.60 a 119,99€, soldi ben spesi per pulire senza filo",
-      "link": "https://www.tomshw.it/altro/rowenta-x-pert-660-a-11999eur-soldi-ben-spesi-per-pulire-senza-filo",
-      "excerpt": "Rowenta X-Pert 6.60 Allergy è a 119,99€ su Amazon, con 40€ di risparmio rispetto ai 159,99€ di listino e uno sconto del 25%. L’autonomia fino a 45 minuti e il design leggero…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115668/tomshw-offer-1424144.png",
-      "publishedAt": "2026-09-29T15:49:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "La NASA mescola plastica e polvere lunare: il risultato sorprende",
-      "link": "https://www.tomshw.it/scienze/la-nasa-rinforza-la-plastica-con-polvere-ricambi-sulla-luna",
-      "excerpt": "La NASA ha sviluppato una plastica rinforzata con polvere che imita quella della Luna e di Marte. Nei primi esperimenti, il materiale è risultato più resistente e più facile da…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115661/la-nasa-rinforza-la-plastica-con-polvere-ricambi-sulla-luna.png",
-      "publishedAt": "2026-09-29T15:20:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Ring Outdoor Camera Pro a 129.99€: 4K e radar per vedere chi si avvicina",
-      "link": "https://www.tomshw.it/altro/ring-outdoor-camera-pro-a-12999eur-4k-e-radar-per-vedere-chi-si-avvicina",
-      "excerpt": "Ring Outdoor Camera Pro costa 129.99€ su Amazon: il 35% di sconto sul listino di 199.99€ vale 70€ di risparmio e porta il prezzo al minimo storico. Retinal 4K, zoom 10x e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115665/tomshw-offer-1424125.png",
-      "publishedAt": "2026-09-29T15:19:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "I vostri account sono davvero al sicuro? 8 strumenti tech per aumentare subito la protezione",
-      "link": "https://www.tomshw.it/hardware/i-vostri-account-sono-davvero-al-sicuro-8-strumenti-tech-per-aumentare-subito-la-protezione",
-      "excerpt": "Gli attacchi di credential stuffing e phishing dimostrano quanto l'uso di semplici credenziali o dell'autenticazione tramite SMS non sia più sufficiente a garantire la protezione…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115637/I-vostri-account-sono-davvero-al-sicuro-8-strumenti-tech-per-aumentare-subito-la-protezione.png",
-      "publishedAt": "2026-09-29T15:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "L'Europa conta pochissimo nell'IT ma ha fame di data center",
-      "link": "https://www.tomshw.it/business/leuropa-conta-pochissimo-nellit-ma-ha-fame-di-data-center",
-      "excerpt": "La Global Electronics Association ha calcolato che le aziende con sede nell'UE incassano meno di un decimo della spesa europea per chip, server e cloud dei data center. Lo ha…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115557/07-europa-data-center-filiera.jpg",
-      "publishedAt": "2026-09-29T15:07:08+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
