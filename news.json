@@ -1,62 +1,260 @@
 {
-  "generatedAt": "2026-09-29T10:17:02.296394+00:00",
+  "generatedAt": "2026-09-29T17:23:36.018984+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Starliner ci riprova: la NASA punta a riportare astronauti nel 2028",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n671964/nasa-starliner-boeing-ritorno-volo-2028/",
-      "excerpt": "Boeing Starliner, NASA prepara il ritorno al volo e certifica Vulcan.",
-      "image": "https://hd2.tudocdn.net/1374597?w=660",
-      "publishedAt": "2026-09-29T10:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "VPN senza limiti per 28 mesi: la promo di NordVPN è la soluzione giusta (-70%)",
-      "link": "https://www.hdblog.it/tariffe/offerte/n671977/nordvpn-offerta-28-mesi-fine-settembre-2026/",
-      "excerpt": "Con NordVPN è possibile accedere a una VPN illimitata per 28 mesi di utilizzo a prezzo scontato, ecco la promo.",
-      "image": "https://hd2.tudocdn.net/1351357?w=660",
-      "publishedAt": "2026-09-29T10:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "World Labs è la nuova acquisizione di AMD: 8,6 miliardi per chip AI e spatial intelligence",
-      "link": "https://www.hdblog.it/business/articoli/n671958/world-labs-acquisizione-amd-chip-ai/",
-      "excerpt": "Con l'acquisizione di World Labs, AMD punta sulla spatial intelligence e rafforza la propria strategia AI; ruolo di vertice per Fei-Fei Li.",
-      "image": "https://hd2.tudocdn.net/1374583?w=660",
-      "publishedAt": "2026-09-29T10:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Perdere la patente senza aver mai guidato: il caso che fa discutere in Francia",
-      "link": "https://www.hdmotori.it/perdere-patente-senza-aver-mai-guidato/",
-      "excerpt": "La sicurezza stradale in Francia arriva al punto tale che si potrà confiscare la patente di guida a coloro che ancora devono mettere in moto un’auto.",
-      "image": "https://hd2.tudocdn.net/1374617?w=660",
-      "publishedAt": "2026-09-29T10:00:19+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Dove finiscono i tuoi dati con OpenRouter: routing UE, DPA e ZDR per chi lavora in azienda",
-      "link": "https://www.tomshw.it/aioperator/openrouter-dati-privacy-gdpr-azienda",
-      "excerpt": "OpenRouter instrada ogni richiesta verso uno dei suoi 300 e più modelli passando per un provider a valle diverso a ogni chiamata. Quel provider, non OpenRouter, è quello che…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114400/02-ort3-cover.jpg",
-      "publishedAt": "2026-09-29T10:00:00+00:00",
+      "title": "Nuki Smart Lock Go scende a 99€ e trasforma lo smartphone nella chiave di casa",
+      "link": "https://www.tomshw.it/altro/nuki-smart-lock-go-scende-a-99eur-e-trasforma-lo-smartphone-nella-chiave-di-casa",
+      "excerpt": "Nuki Smart Lock Go (2025) costa 99€ su Amazon anziché 149€, con uno sconto del 34%. Si monta all’interno della porta senza sostituire il cilindro e trasforma lo smartphone in una…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115672/tomshw-offer-1424191.png",
+      "publishedAt": "2026-09-29T17:18:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Galaxy S27 Ultra, Samsung cambia approccio: foto più calde e meno rumore",
-      "link": "https://www.hdblog.it/smartphone/articoli/n671975/galaxy-s27-ultra-cambiamenti-foto-migliorie-quali/",
-      "excerpt": "Galaxy S27 Ultra potrebbe gestire meglio insegne e sorgenti luminose intense durante gli scatti notturni, conservando più dettagli e riducendo contemporaneamente il rumore nelle…",
-      "image": "https://hd2.tudocdn.net/1364907?w=660",
-      "publishedAt": "2026-09-29T09:55:00+00:00",
+      "title": "Meta spende 600 miliardi nell’AI: ecco come vuole recuperarli",
+      "link": "https://www.hdblog.it/mercato/articoli/n671956/meta-enterprise-platform-ai-aziende/",
+      "excerpt": "Meta apre un nuovo business enterprise per vendere modelli, agenti AI e servizi alle aziende.",
+      "image": "https://hd2.tudocdn.net/1374581?w=660",
+      "publishedAt": "2026-09-29T17:15:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Un graffio sulla Porsche Taycan, poi la fattura choc: quasi 38.000 dollari di riparazione",
+      "link": "https://www.hdmotori.it/porsche-taycan-fattura-shock-graffio-38000-dollari/",
+      "excerpt": "La Porsche Taycan di Matt Farah sembrava avere soltanto un piccolo danno alla carrozzeria, ma la riparazione è arrivata a 37.890 dollari",
+      "image": "https://hd2.tudocdn.net/1374814?w=660",
+      "publishedAt": "2026-09-29T17:00:09+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Quando esce Castlevania: Belmont's Curse? Data e cosa sappiamo",
+      "link": "https://www.tomshw.it/videogioco/quando-esce-castlevania-belmonts-curse-data-e-cosa-sappiamo",
+      "excerpt": "Castlevania: Belmont's Curse uscirà il 15 ottobre 2026 su PC, PlayStation 5, Xbox Series X|S e Nintendo Switch. La data è ufficiale: l'attesa per il nuovo capitolo ha quindi un…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115441/cover.jpg",
+      "publishedAt": "2026-09-29T17:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Otto ore senza atterrare: il nuovo drone elettrico Evo-LE punta lontano",
+      "link": "https://www.hdblog.it/droni/articoli/n671971/deltaquad-evo-le-drone-elettrico-8-ore/",
+      "excerpt": "DeltaQuad Evo-LE promette fino a 8 ore di autonomia e 480 km di percorrenza.",
+      "image": "https://hd2.tudocdn.net/1374603?w=660",
+      "publishedAt": "2026-09-29T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Neil Druckmann conferma: due progetti su The Last of Us in cantiere",
+      "link": "https://www.hdblog.it/games/articoli/n672040/the-last-of-us-due-progetti-neil-druckmann/",
+      "excerpt": "Interessante, ma... \"Progetti\", Neil? Quanti di questi sono videogiochi?",
+      "image": "https://hd2.tudocdn.net/1261295?w=660",
+      "publishedAt": "2026-09-29T16:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Truecaller porta Scam Checker sul web: truffe oltre le chiamate",
+      "link": "https://www.hdblog.it/mobile/articoli/n671970/truecaller-scam-checker-truffe-online/",
+      "excerpt": "Scam Checker verifica numeri, link e messaggi sospetti senza app né registrazione.",
+      "image": "https://hd2.tudocdn.net/1374601?w=660",
+      "publishedAt": "2026-09-29T16:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple TV 4K, spunta un nuovo indizio sul modello di quarta generazione",
+      "link": "https://www.hdblog.it/apple/articoli/n672033/apple-tv-4k-quarta-generazione-indizio-documento/",
+      "excerpt": "Ormai i segnali di un debutto vicino sono davvero tanti.",
+      "image": "https://hd2.tudocdn.net/1373903?w=660",
+      "publishedAt": "2026-09-29T16:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "L'AI in azienda si pianta sulle vecchie integrazioni",
+      "link": "https://www.tomshw.it/business/lai-in-azienda-si-pianta-sulle-vecchie-integrazioni",
+      "excerpt": "Circa due responsabili IT su tre hanno risposto che il debito lasciato dalle vecchie integrazioni impedisce loro di portare l'AI su larga scala. Erano 182 dirigenti di aziende con…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115575/05-ai-azienda-vecchie-integrazioni.jpg",
+      "publishedAt": "2026-09-29T16:31:38+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Fairbuds 2, ci siamo quasi: ecco quando arrivano e quanto costano",
+      "link": "https://www.hdblog.it/indossabili/articoli/n672036/fairbuds-2-quando-prezzo-novita-audio-qualita/",
+      "excerpt": "Costeranno meno, avranno più autonomia e supporteranno l'ottimo codec wireless LDAC di Sony.",
+      "image": "https://hd2.tudocdn.net/1370732?w=660",
+      "publishedAt": "2026-09-29T16:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Discord prepara Game Mode: meno utilizzo di CPU e GPU mentre si gioca",
+      "link": "https://www.hdblog.it/games/articoli/n671967/discord-game-mode-cpu-gpu/",
+      "excerpt": "Game Mode ridurrà l'uso di CPU e GPU di Discord durante le sessioni di gioco.",
+      "image": "https://hd2.tudocdn.net/1374600?w=660",
+      "publishedAt": "2026-09-29T16:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "SteelSeries Apex 3 TKL da 54,99€ a 49,99€, silenziosa anche di sera",
+      "link": "https://www.tomshw.it/hardware/steelseries-apex-3-tkl-da-5499eur-a-4999eur-silenziosa-anche-di-sera",
+      "excerpt": "SteelSeries Apex 3 TKL costa 49,99€ su Amazon, invece di 54,99€, con uno sconto del 9%. Il formato compatto e gli switch silenziosi la rendono particolarmente interessante per…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115669/tomshw-offer-1424154.png",
+      "publishedAt": "2026-09-29T16:19:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "GPT-6.1 Astra ingannava i tester: OpenAI cancella il debutto",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n672020/openai-gpt-6-1-astra-cancellato-sicurezza/",
+      "excerpt": "GPT-6.1 Astra non arriverà a ottobre: nei test sono emersi problemi di sicurezza e controllo.",
+      "image": "https://hd2.tudocdn.net/1374767?w=660",
+      "publishedAt": "2026-09-29T16:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "PS5 Jailbreak, non si salva più nessun modello: nemmeno la Pro",
+      "link": "https://www.hdblog.it/games/articoli/n672034/sony-ps5-pro-slim-jailbreak/",
+      "excerpt": "... a patto di non aver installato l'ultimo aggiornamento firmware in distribuzione da qualche giorno appena.",
+      "image": "https://hd2.tudocdn.net/1356471?w=660",
+      "publishedAt": "2026-09-29T16:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Configura con n8n un agente AI che monitora le scadenze fiscali e ti avvisa in tempo",
+      "link": "https://www.tomshw.it/aioperator/configura-con-n8n-un-agente-ai-che-monitora-le-scadenze-fiscali-e-ti-avvisa-in-tempo",
+      "excerpt": "Lo Scadenzario Fiscale dell'Agenzia delle Entrate elenca ogni mese versamenti F24, IVA e contributi, ma quasi nessuno lo controlla ogni giorno. La scadenza si scopre spesso a…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114425/04-amm10-cover.jpg",
+      "publishedAt": "2026-09-29T16:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Rowenta X-Pert 6.60 a 119,99€, soldi ben spesi per pulire senza filo",
+      "link": "https://www.tomshw.it/altro/rowenta-x-pert-660-a-11999eur-soldi-ben-spesi-per-pulire-senza-filo",
+      "excerpt": "Rowenta X-Pert 6.60 Allergy è a 119,99€ su Amazon, con 40€ di risparmio rispetto ai 159,99€ di listino e uno sconto del 25%. L’autonomia fino a 45 minuti e il design leggero…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115668/tomshw-offer-1424144.png",
+      "publishedAt": "2026-09-29T15:49:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La NASA mescola plastica e polvere lunare: il risultato sorprende",
+      "link": "https://www.tomshw.it/scienze/la-nasa-rinforza-la-plastica-con-polvere-ricambi-sulla-luna",
+      "excerpt": "La NASA ha sviluppato una plastica rinforzata con polvere che imita quella della Luna e di Marte. Nei primi esperimenti, il materiale è risultato più resistente e più facile da…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115661/la-nasa-rinforza-la-plastica-con-polvere-ricambi-sulla-luna.png",
+      "publishedAt": "2026-09-29T15:20:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Ring Outdoor Camera Pro a 129.99€: 4K e radar per vedere chi si avvicina",
+      "link": "https://www.tomshw.it/altro/ring-outdoor-camera-pro-a-12999eur-4k-e-radar-per-vedere-chi-si-avvicina",
+      "excerpt": "Ring Outdoor Camera Pro costa 129.99€ su Amazon: il 35% di sconto sul listino di 199.99€ vale 70€ di risparmio e porta il prezzo al minimo storico. Retinal 4K, zoom 10x e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115665/tomshw-offer-1424125.png",
+      "publishedAt": "2026-09-29T15:19:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "I vostri account sono davvero al sicuro? 8 strumenti tech per aumentare subito la protezione",
+      "link": "https://www.tomshw.it/hardware/i-vostri-account-sono-davvero-al-sicuro-8-strumenti-tech-per-aumentare-subito-la-protezione",
+      "excerpt": "Gli attacchi di credential stuffing e phishing dimostrano quanto l'uso di semplici credenziali o dell'autenticazione tramite SMS non sia più sufficiente a garantire la protezione…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115637/I-vostri-account-sono-davvero-al-sicuro-8-strumenti-tech-per-aumentare-subito-la-protezione.png",
+      "publishedAt": "2026-09-29T15:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "L'Europa conta pochissimo nell'IT ma ha fame di data center",
+      "link": "https://www.tomshw.it/business/leuropa-conta-pochissimo-nellit-ma-ha-fame-di-data-center",
+      "excerpt": "La Global Electronics Association ha calcolato che le aziende con sede nell'UE incassano meno di un decimo della spesa europea per chip, server e cloud dei data center. Lo ha…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115557/07-europa-data-center-filiera.jpg",
+      "publishedAt": "2026-09-29T15:07:08+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Tesla Roadster, presentazione rinviata per maltempo",
+      "link": "https://images.dday.it/_4N_t9hvzKeCMjgzo5fT-WoV1k3y1gPI_qzPKGESYWU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58924/068260_Depositphotos_550431878_XL.jpg",
+      "excerpt": "L’evento, inizialmente previsto per il 1° ottobre in Texas, è stato rimandato di due settimane. La società ha fatto riferimento a condizioni meteo severe e la necessità di…",
+      "image": "https://images.dday.it/_4N_t9hvzKeCMjgzo5fT-WoV1k3y1gPI_qzPKGESYWU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58924/068260_Depositphotos_550431878_XL.jpg",
+      "publishedAt": "2026-09-29T15:01:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Technics porta la tecnologia Magnetic Fluid Driver sulle nuove cuffie Technics A1000",
+      "link": "https://images.dday.it/Hk9vjA0M1G9eSoRkTZwtjprx2rY1gr5PHZFKpVnfuDQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58900/8782cb_A1000_product_KV.jpg",
+      "excerpt": "L'apprezzata tecnologia Magnetic Fluid Driver degli auricolari AZ100 debutta anche sulle cuffie a padiglione chiuso con le nuove Technics A1000, con nuovi driver da 40 mm con…",
+      "image": "https://images.dday.it/Hk9vjA0M1G9eSoRkTZwtjprx2rY1gr5PHZFKpVnfuDQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58900/8782cb_A1000_product_KV.jpg",
+      "publishedAt": "2026-09-29T14:00:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Carburanti, anche Q8 taglia i prezzi: riduzione dal 1° ottobre per 30 giorni",
+      "link": "https://images.dday.it/pbupdkZL0SAdUVH1nm0vIfycE4bsyaE-izM67UuzqRs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58923/ef6a99_Depositphotos_478760264_XL.jpg",
+      "excerpt": "Kuwait Petroleum Italia è la terza società a intervenire dopo Eni e IP. Il tetto non sarà uniforme, ma varierà in base alle diverse realtà della rete di distribuzione... Leggi…",
+      "image": "https://images.dday.it/pbupdkZL0SAdUVH1nm0vIfycE4bsyaE-izM67UuzqRs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58923/ef6a99_Depositphotos_478760264_XL.jpg",
+      "publishedAt": "2026-09-29T13:25:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "È piccola, pesa poco e può tenere accesi 5 dispositivi: la power station EcoFlow è ora in offerta a meno di 160 euro",
+      "link": "https://images.dday.it/cARQEOVLXz9ACn_7V9j2dpVINEyX9iuzgvndt2a8nS8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58922/e99e2c_71c1skWChNL._AC_SL1500_.jpg",
+      "excerpt": "La RIVER 2 si porta facilmente ovunque, si ricarica in circa un'ora e può alimentare diversi dispositivi anche quando non c'è una presa di corrente. Su Amazon è ora disponibile a…",
+      "image": "https://images.dday.it/cARQEOVLXz9ACn_7V9j2dpVINEyX9iuzgvndt2a8nS8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58922/e99e2c_71c1skWChNL._AC_SL1500_.jpg",
+      "publishedAt": "2026-09-29T13:25:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Addio al Chromebook dal 2034. Basta aggiornamenti a Chrome OS",
+      "link": "https://images.dday.it/vhoOsmYgp9My8zT39KEeePfIwG8J9GN6GxJUxj015WI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58917/707d35_Depositphotos_361858482_XL.jpg",
+      "excerpt": "Google ha confermato la fine del supporto a ChromeOS nel 2034 dopo aver presentato i Googlebook... Leggi tutto",
+      "image": "https://images.dday.it/vhoOsmYgp9My8zT39KEeePfIwG8J9GN6GxJUxj015WI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58917/707d35_Depositphotos_361858482_XL.jpg",
+      "publishedAt": "2026-09-29T12:44:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "TIM lancia 5G Priority: se la rete mobile è satura, puoi pagare per avere la corsia preferenziale",
+      "link": "https://images.dday.it/IVoR1FaTET0Te6XlknWkfR6YWOULK3Cs7rwfGto0Gmo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58910/353ca9_Depositphotos_608003934_XL.jpg",
+      "excerpt": "Il pacchetto può essere attivato per l'intero mese o solo per due giorni e fornisce priorità rispetto agli utenti che non lo hanno, suddividendo le risorse in modo…",
+      "image": "https://images.dday.it/IVoR1FaTET0Te6XlknWkfR6YWOULK3Cs7rwfGto0Gmo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58910/353ca9_Depositphotos_608003934_XL.jpg",
+      "publishedAt": "2026-09-29T12:31:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Fosi Audio riscopre il lettore CD portatile (con disco che sporge). Autonomia di 2 ore",
+      "link": "https://images.dday.it/ePbkSi5V0a9pzb4qc3rPSDxt-wkD3VffwD6Wuia0LLc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58918/0f918e_2-ece76d68-7451-4ea0-b4e6-9f6d27e8b669.jpeg",
+      "excerpt": "Si chiama Disc Nano ed è un lettore CD portatile davvero piccolo, appena 10 cm di lato, che si pone in una fascia di mercato quasi deserta ... Leggi tutto",
+      "image": "https://images.dday.it/ePbkSi5V0a9pzb4qc3rPSDxt-wkD3VffwD6Wuia0LLc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58918/0f918e_2-ece76d68-7451-4ea0-b4e6-9f6d27e8b669.jpeg",
+      "publishedAt": "2026-09-29T10:57:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Le nuove soundbar JBL hanno qualcosa di speciale: si piegano \"a U\"",
+      "link": "https://images.dday.it/b5Bk0HXnr66RAYFohbcsX2LGjUMAkvhbbyrvB_92Jts/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58920/949d21_sb-595-800-1.jpeg",
+      "excerpt": "Non è un’idea strampalata. ma un'esigenza pratica per la logistica e i magazzini: con la piegatura gli imballi tornano dei normali parallelepipedi... Leggi tutto",
+      "image": "https://images.dday.it/b5Bk0HXnr66RAYFohbcsX2LGjUMAkvhbbyrvB_92Jts/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58920/949d21_sb-595-800-1.jpeg",
+      "publishedAt": "2026-09-29T10:16:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Hai una casa da proteggere? Su Amazon i dispositivi Blink sono in offerta",
@@ -68,209 +266,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "OPPO Pad SE a 151,99€, lo schermo opaco che vale la spesa",
-      "link": "https://www.tomshw.it/smartphone/oppo-pad-se-a-15199eur-lo-schermo-opaco-che-vale-la-spesa",
-      "excerpt": "OPPO Pad SE a 151,99€ su Amazon raggiunge il minimo storico: il listino è di 159,99€ e lo sconto è del 5%. Il display opaco da 11 pollici riduce i riflessi e rende più comode le…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115584/tomshw-offer-1423754.png",
-      "publishedAt": "2026-09-29T09:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "La Terra brilla nel buio: lo spettacolo visto dalla Stazione Spaziale",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n671935/terra-notte-iss-nasa-new-york/",
-      "excerpt": "La NASA mostra gli Stati Uniti di notte fotografati dalla ISS a 417 km di quota.",
-      "image": "https://hd2.tudocdn.net/1374537?w=660",
-      "publishedAt": "2026-09-29T09:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Sony salterà il CES 2027: meno dispositivi, più intrattenimento",
-      "link": "https://www.hdblog.it/sony/articoli/n671942/sony-salta-ces-2027-motivi/",
-      "excerpt": "Le priorità per la casa giapponese sono altre",
-      "image": "https://hd2.tudocdn.net/903846?w=660",
-      "publishedAt": "2026-09-29T09:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "I 10 affari più grossi dei Big Days di Unieuro: ecco cosa comprare",
-      "link": "https://www.tomshw.it/altro/i-10-affari-piu-grossi-dei-big-days-di-unieuro-ecco-cosa-comprare",
-      "excerpt": "I Big Days di Unieuro sono partiti, scatenando un'ondata di sconti davvero aggressivi su tutto il catalogo online e mettendo sul piatto ribassi che arrivano a toccare la soglia…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115578/I-10-affari-più-grossi-dei-Big-Days-di-Unieuro-ecco-cosa-comprare.jpg",
-      "publishedAt": "2026-09-29T09:40:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "WindTre Business, nuova soluzione per proteggere e gestire i dispositivi delle PMI",
-      "link": "https://www.hdblog.it/h3g/articoli/n671969/windtre-business-amplia-sicurezza-pmi/",
-      "excerpt": "WindTre Business amplia l'offerta per le piccole e medie imprese",
-      "image": "https://hd2.tudocdn.net/1374605?w=660",
-      "publishedAt": "2026-09-29T09:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "AI e procurement: la vera sfida non è automatizzare, ma decidere meglio",
-      "link": "https://www.tomshw.it/business/ai-e-procurement-la-vera-sfida-non-e-automatizzare-ma-decidere-meglio",
-      "excerpt": "L’intelligenza artificiale sta trasformando il procurement a una velocità senza precedenti. Attività che fino a poco tempo fa richiedevano giorni possono essere completate in…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115407/ai-procurement-decidere-meglio.jpg",
-      "publishedAt": "2026-09-29T09:34:46+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Alfa Romeo svela la 33 Stradale Perla Nera, opera d’arte dark senza eguali",
-      "link": "https://www.hdmotori.it/alfa-romeo-33-stradale-perla-nera/",
-      "excerpt": "Sono calati i veli sull’unica 33 Stradale a fregiarsi del nome “Perla Nera”, opportunamente scelto da un collezionista Alfa Romeo.",
-      "image": "https://hd2.tudocdn.net/1374609?w=660",
-      "publishedAt": "2026-09-29T09:30:16+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Pixel, problemi con l’NFC: pagamenti e Google Wallet ko. Che fare?",
-      "link": "https://www.hdblog.it/smartphone/articoli/n671966/pixel-problemi-nfc-pagamenti-wallet/",
-      "excerpt": "L’NFC smette improvvisamente di funzionare su alcuni Google Pixel, dai Pixel 8 fino alla serie Pixel 11. Il problema coinvolge Google Wallet e per ora non esiste una soluzione…",
-      "image": "https://hd2.tudocdn.net/1365928?w=660",
-      "publishedAt": "2026-09-29T09:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Regolabarba Braun 17-in-1 al -43%, per barba, capelli e corpo",
-      "link": "https://www.tomshw.it/altro/regolabarba-braun-17-in-1-al-43-per-barba-capelli-e-corpo",
-      "excerpt": "Il regolabarba Braun MGK7491 17-in-1 costa 99€ su Amazon, anziché 172,5€, con uno sconto del 43%. Riunisce in un unico apparecchio tutto ciò che serve per curare barba, capelli e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115579/tomshw-offer-1423681.png",
-      "publishedAt": "2026-09-29T09:19:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Con Kindle Scribe leggi e scrivi. Il modello da 64 GB è in super-sconto su Amazon",
       "link": "https://images.dday.it/qw7ydD3C-s-oD1auopE97nAUhJVcWVbhfigiIGjv-fY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58834/f70831_scribe.jpeg",
       "excerpt": "Un ereader da 10,2\" che include anche una penna per prendere appunti e segnare annotazioni... Leggi tutto",
       "image": "https://images.dday.it/qw7ydD3C-s-oD1auopE97nAUhJVcWVbhfigiIGjv-fY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58834/f70831_scribe.jpeg",
       "publishedAt": "2026-09-29T09:02:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "DOOM sbarca su World of Tanks Heat",
-      "link": "https://www.tomshw.it/videogioco/doom-sbarca-su-world-of-tanks-heat",
-      "excerpt": "Se amate le esperienze multigiocatore, molto probabilmente avrete già sentito parlare di World of Tanks Heat, titolo free-to-play di Wargaming che riesce a combinare saggiamente…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115520/World-of-Tanks-Heat-(1).jpg",
-      "publishedAt": "2026-09-29T09:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "È davvero la fine dei lettori CD hi-fi di fascia alta? PS Audio e Naim sono rimaste senza meccaniche",
-      "link": "https://images.dday.it/0XTOeUGnbhVfsM19IdBJYrb-4L-dLmKKGmV6vTsmf_4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58915/fa0d22_sacdt.jpg",
-      "excerpt": "Il PMG Signature SACD Transport esce di produzione dopo appena un anno, la Uniti Star di Naim diventa Star Lite e perde il lettore. L'ultimo grande fornitore di meccaniche per i…",
-      "image": "https://images.dday.it/0XTOeUGnbhVfsM19IdBJYrb-4L-dLmKKGmV6vTsmf_4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58915/fa0d22_sacdt.jpg",
-      "publishedAt": "2026-09-29T08:48:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "BLUETTI Elite 400 da 2499€ a 1699€, il backup di casa al minimo storico",
-      "link": "https://www.tomshw.it/altro/bluetti-elite-400-da-2499eur-a-1699eur-il-backup-di-casa-al-minimo-storico",
-      "excerpt": "BLUETTI Elite 400 costa 1699€ su Amazon, contro un listino di 2499€ e con uno sconto del 32%. I suoi 3840Wh puntano a mantenere operativa la casa durante un blackout e a portare…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115574/tomshw-offer-1423606.png",
-      "publishedAt": "2026-09-29T08:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Sconti da shock su Unieuro: arrivano i Big Days con prezzi tagliati fino al 50%",
-      "link": "https://www.tomshw.it/altro/sconti-da-shock-su-unieuro-arrivano-i-big-days-con-prezzi-tagliati-fino-al-50",
-      "excerpt": "I Big Days di Unieuro sono iniziati, portando con sé un’ondata di sconti davvero aggressivi su un catalogo ricchissimo che spazia dall'informatica al grande e piccolo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115573/Sconti-da-shock-su-Unieuro-arrivano-i-Big-Days-con-prezzi-tagliati-fino-al-50-.png",
-      "publishedAt": "2026-09-29T08:47:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Tesla FSD Supervised: 2 funzioni oltre i limiti rischiano lo stop UE",
-      "link": "https://www.tomshw.it/automotive/tesla-fsd-supervised-2-funzioni-oltre-i-limiti-rischiano-lo-stop-ue",
-      "excerpt": "Due funzioni di Tesla FSD Supervised possono portare l’auto oltre il limite di velocità rilevato, ed è su questo punto che si concentra l’opposizione dello European Transport…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115576/news-flash-1423625.png",
-      "publishedAt": "2026-09-29T08:40:34+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Audi A6 Sportback e-tron da record: 1.338 km con una sola ricarica. Ma ci ha impiegato 45 ore",
-      "link": "https://images.dday.it/LSzP0TE9P3LThKWklVNpjLlNSst3njN3ZTzg9YXIies/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58913/7611e3_audia6.jpg",
-      "excerpt": "Il pilota di rally Miko Marczyk ha attraversato la Polonia guidando per oltre 45 ore. L’elettrica Audi ha quasi raddoppiato i 774 km di autonomia dichiarata... Leggi tutto",
-      "image": "https://images.dday.it/LSzP0TE9P3LThKWklVNpjLlNSst3njN3ZTzg9YXIies/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58913/7611e3_audia6.jpg",
-      "publishedAt": "2026-09-29T08:36:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Anthropic va verso la Borsa e avvisa gli investitori che l'IA potrebbe minacciare l'umanità",
-      "link": "https://images.dday.it/Q-ppIPs7G4g0-EtVwZju8KsQZYpK3tNiBxlk2BZfPpU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58914/2ccece_Depositphotos_842698048_XL.jpg",
-      "excerpt": "Anthropic ha una perdita netta di 42 miliardi nel 2025, in gran parte contabile, e quasi un quarto dei ricavi arriva solo da due clienti. I rischi per l’umanità? Occupano quasi un…",
-      "image": "https://images.dday.it/Q-ppIPs7G4g0-EtVwZju8KsQZYpK3tNiBxlk2BZfPpU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58914/2ccece_Depositphotos_842698048_XL.jpg",
-      "publishedAt": "2026-09-29T08:36:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Huawei D3 in prova, lo smartwatch perfetto per gli ipertesi: misura bene la pressione ma lo conoscono in pochi",
-      "link": "https://images.dday.it/rXZ2XjzH0fFV4INg9BHPyPlzofl3fKNaeEh4qz6Y640/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58907/404b59_DSC02899.jpg",
-      "excerpt": "Più sottile e leggero, ora sembra un normale smartwatch ma nel cinturino nasconde un vero manicotto gonfiabile. Misura la pressione in modo certificato, in silenzio, anche di…",
-      "image": "https://images.dday.it/rXZ2XjzH0fFV4INg9BHPyPlzofl3fKNaeEh4qz6Y640/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58907/404b59_DSC02899.jpg",
-      "publishedAt": "2026-09-29T08:30:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Galaxy S27 Ultra, Samsung risolverà due vecchi problemi della fotocamera",
-      "link": "https://www.tomshw.it/smartphone/galaxy-s27-ultra-samsung-potrebbe-finalmente-correggere-due-difetti-storici-della-camera",
-      "excerpt": "Samsung sarebbe al lavoro su una revisione del comparto fotografico del Galaxy S27 Ultra capace di risolvere due difetti che accompagnano da anni i suoi top di gamma: le alte luci…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109183/comprare-galaxy-s26-ultra-ora-o-aspettare-galaxy-s27-ultra-detail.png",
-      "publishedAt": "2026-09-29T08:30:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Nothing lancia le Headphone (1) Pro: triplo driver, titanio, 10 microfoni e audio hi-res 24 bit/192 kHz",
-      "link": "https://images.dday.it/8dWdyzeAZak73Spe5TCOSG5OJHSKs_OXHiJ_UplohqI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58912/ea4312_Headphone_1__Pro__white__3_.jpg",
-      "excerpt": "L'azienda guidata da Carl Pei presenta il suo prodotto audio più ambizioso: le nuove Headphone (1) Pro vogliono essere una via di mezzo tra le cuffie lifestyle da strada e le…",
-      "image": "https://images.dday.it/8dWdyzeAZak73Spe5TCOSG5OJHSKs_OXHiJ_UplohqI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58912/ea4312_Headphone_1__Pro__white__3_.jpg",
-      "publishedAt": "2026-09-29T08:05:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Ecco Claude Sonnet 5.5: più potente, 30% più veloce ed è il primo Sonnet con le protezioni cyber dei modelli di punta",
-      "link": "https://images.dday.it/y3OhdfGoYq4oI_jaTlGP1OecDrAJw8cMaGXd6trjcCA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58911/0faa50_small_Screenshot_2026-09-29_alle_09.32.40_copia.png",
-      "excerpt": "Sonnet 5.5 si avvicina a Opus 5.5 in diversi benchmark, ma con costi inferiori. Anthropic lo destina ai compiti quotidiani ben definiti e rafforza le difese contro gli abusi…",
-      "image": "https://images.dday.it/y3OhdfGoYq4oI_jaTlGP1OecDrAJw8cMaGXd6trjcCA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58911/0faa50_small_Screenshot_2026-09-29_alle_09.32.40_copia.png",
-      "publishedAt": "2026-09-29T07:35:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il Googlebook Lenovo è uno spettacolo: 1.4 Kg, OLED 15\" 2.8K e processore Intel. In Italia a 1.199 euro",
-      "link": "https://images.dday.it/Nzo3FsG4lDCzYn24zOZ3vSmy2YCFH24l5PV1LQQd6HQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58906/cbf83b_Gemini_Generated_Image_ugwv50ugwv50ugwv.jpeg",
-      "excerpt": "Il nuovo Googlebook di Lenovo è probabilmente il laptop che tutti avrebbero voluto con Windows: un prodotto di fascia alta venduto ad un prezzo decisamente competitivo. Si parte…",
-      "image": "https://images.dday.it/Nzo3FsG4lDCzYn24zOZ3vSmy2YCFH24l5PV1LQQd6HQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58906/cbf83b_Gemini_Generated_Image_ugwv50ugwv50ugwv.jpeg",
-      "publishedAt": "2026-09-28T14:38:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Starship è entrata per la prima volta in orbita intorno alla Terra",
-      "link": "https://images.dday.it/ENRKn0Y_2UiV5-QmMuC1tHK10KAINfb78bQ9bH-4R_0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58904/22e43f_Starship.jpg",
-      "excerpt": "Con il volo di test numero 14, SpaceX raggiunge una doppia fondamentale pietra miliare per il suo programma Starship: per la prima volta la navicella è entrata in orbita intorno…",
-      "image": "https://images.dday.it/ENRKn0Y_2UiV5-QmMuC1tHK10KAINfb78bQ9bH-4R_0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58904/22e43f_Starship.jpg",
-      "publishedAt": "2026-09-28T14:33:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
