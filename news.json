@@ -1,188 +1,260 @@
 {
-  "generatedAt": "2026-09-29T03:33:29.058593+00:00",
+  "generatedAt": "2026-09-29T10:17:02.296394+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "HP OmniBook 3 da 16 pollici a 469,99€, più spazio per studio e lavoro",
-      "link": "https://www.tomshw.it/hardware/hp-omnibook-3-da-16-pollici-a-46999eur-piu-spazio-per-studio-e-lavoro",
-      "excerpt": "HP OmniBook 3 da 16 pollici costa 469,99€ su Amazon e punta su un display ampio senza spingere il budget verso le fasce superiori. Il pannello 2K IPS antiriflesso offre spazio e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115514/tomshw-offer-1410082.png",
-      "publishedAt": "2026-09-28T20:19:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Con Claude Sonnet 5.5 Anthropic alza ancora l’asticella dell’IA, ecco tutte le novità",
-      "link": "https://www.tomshw.it/hardware/con-claude-sonnet-55-anthropic-alza-ancora-lasticella-dellia-ecco-tutte-le-novita",
-      "excerpt": "Anthropic ha presentato Claude Sonnet 5.5, il secondo modello della famiglia Claude 5.5 e un importante aggiornamento rispetto alla precedente generazione. L’azienda promette un…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115513/Screenshot-2026-09-28-alle-22-25-44.png",
-      "publishedAt": "2026-09-28T19:27:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Bosch EasyPump a 56,99€ gonfia auto e bici e si ferma da solo",
-      "link": "https://www.tomshw.it/automotive/bosch-easypump-a-5699eur-gonfia-auto-e-bici-e-si-ferma-da-solo",
-      "excerpt": "Bosch EasyPump costa 56,99€ su Amazon, invece di 59,90€, con il 5% di sconto. L’Autostop permette di scegliere la pressione desiderata e lascia al compressore il compito di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115512/tomshw-offer-1410036.png",
-      "publishedAt": "2026-09-28T18:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Wall Street passa dal terrore alla festa in due settimane, l'AI fa impazzire i soldi",
-      "link": "https://www.tomshw.it/business/wall-street-passa-dal-terrore-alla-festa-in-due-settimane-lai-fa-impazzire-i-soldi",
-      "excerpt": "Tra il 14 e il 15 settembre l'indice Nasdaq 100 ha perso l'1,5%, bruciando oltre 600 miliardi di dollari di capitalizzazione, racconta Bloomberg su Business Times. La causa è un…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115392/08-wall-street-terrore-festa-ai.jpg",
-      "publishedAt": "2026-09-28T18:41:17+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Ora solare, quando si spostano le lancette?",
-      "link": "https://www.hdblog.it/eventi/articoli/n671863/ora-solare-quando-si-spostano-le-lancette/",
-      "excerpt": "L'autunno è arrivato e in molti si fanno già questa domanda",
-      "image": "https://hd2.tudocdn.net/1202908?w=660",
-      "publishedAt": "2026-09-28T18:20:00+00:00",
+      "title": "Starliner ci riprova: la NASA punta a riportare astronauti nel 2028",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n671964/nasa-starliner-boeing-ritorno-volo-2028/",
+      "excerpt": "Boeing Starliner, NASA prepara il ritorno al volo e certifica Vulcan.",
+      "image": "https://hd2.tudocdn.net/1374597?w=660",
+      "publishedAt": "2026-09-29T10:15:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Anker Nano Power Bank a 42,99€, 10.000 mAh senza portarsi dietro il cavo",
-      "link": "https://www.tomshw.it/smartphone/anker-nano-power-bank-a-4299eur-10000-mah-senza-portarsi-dietro-il-cavo",
-      "excerpt": "Anker Nano Power Bank costa 42,99€ su Amazon, passando da 49,99€ al prezzo attuale con il 14% di sconto. La capacità da 10.000 mAh e il cavo USB-C incorporato permettono di uscire…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115511/tomshw-offer-1410007.png",
-      "publishedAt": "2026-09-28T18:18:00+00:00",
+      "title": "VPN senza limiti per 28 mesi: la promo di NordVPN è la soluzione giusta (-70%)",
+      "link": "https://www.hdblog.it/tariffe/offerte/n671977/nordvpn-offerta-28-mesi-fine-settembre-2026/",
+      "excerpt": "Con NordVPN è possibile accedere a una VPN illimitata per 28 mesi di utilizzo a prezzo scontato, ecco la promo.",
+      "image": "https://hd2.tudocdn.net/1351357?w=660",
+      "publishedAt": "2026-09-29T10:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "World Labs è la nuova acquisizione di AMD: 8,6 miliardi per chip AI e spatial intelligence",
+      "link": "https://www.hdblog.it/business/articoli/n671958/world-labs-acquisizione-amd-chip-ai/",
+      "excerpt": "Con l'acquisizione di World Labs, AMD punta sulla spatial intelligence e rafforza la propria strategia AI; ruolo di vertice per Fei-Fei Li.",
+      "image": "https://hd2.tudocdn.net/1374583?w=660",
+      "publishedAt": "2026-09-29T10:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Perdere la patente senza aver mai guidato: il caso che fa discutere in Francia",
+      "link": "https://www.hdmotori.it/perdere-patente-senza-aver-mai-guidato/",
+      "excerpt": "La sicurezza stradale in Francia arriva al punto tale che si potrà confiscare la patente di guida a coloro che ancora devono mettere in moto un’auto.",
+      "image": "https://hd2.tudocdn.net/1374617?w=660",
+      "publishedAt": "2026-09-29T10:00:19+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Dove finiscono i tuoi dati con OpenRouter: routing UE, DPA e ZDR per chi lavora in azienda",
+      "link": "https://www.tomshw.it/aioperator/openrouter-dati-privacy-gdpr-azienda",
+      "excerpt": "OpenRouter instrada ogni richiesta verso uno dei suoi 300 e più modelli passando per un provider a valle diverso a ogni chiamata. Quel provider, non OpenRouter, è quello che…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/114400/02-ort3-cover.jpg",
+      "publishedAt": "2026-09-29T10:00:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Mouse Bluetooth a scatti? Ecco come risolverlo subito",
-      "link": "https://www.tomshw.it/hardware/mouse-bluetooth-scatti-windows-11-wifi-usb-risparmio-energia",
-      "excerpt": "Se il mouse Bluetooth ha lag su Windows 11, controlla prima batteria e superficie, poi confronta Wi-Fi, dispositivi USB e impostazioni energetiche cambiando una sola variabile per…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114658/cover.png",
-      "publishedAt": "2026-09-28T18:00:00+00:00",
+      "title": "Galaxy S27 Ultra, Samsung cambia approccio: foto più calde e meno rumore",
+      "link": "https://www.hdblog.it/smartphone/articoli/n671975/galaxy-s27-ultra-cambiamenti-foto-migliorie-quali/",
+      "excerpt": "Galaxy S27 Ultra potrebbe gestire meglio insegne e sorgenti luminose intense durante gli scatti notturni, conservando più dettagli e riducendo contemporaneamente il rumore nelle…",
+      "image": "https://hd2.tudocdn.net/1364907?w=660",
+      "publishedAt": "2026-09-29T09:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Hai una casa da proteggere? Su Amazon i dispositivi Blink sono in offerta",
+      "link": "https://images.dday.it/CPc9QJ4puZSicHo4O-cqEEhSJeeJuhchEaNjn-kzIgg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58916/d7e3f6_71maxTs6WwL._SL1000_.jpg",
+      "excerpt": "Videocamere per esterni, videocitofoni e kit per la sicurezza domestica sono tra i prodotti Blink ora disponibili a prezzo scontato su Amazon. Ecco alcuni dei modelli in…",
+      "image": "https://images.dday.it/CPc9QJ4puZSicHo4O-cqEEhSJeeJuhchEaNjn-kzIgg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58916/d7e3f6_71maxTs6WwL._SL1000_.jpg",
+      "publishedAt": "2026-09-29T09:49:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "OPPO Pad SE a 151,99€, lo schermo opaco che vale la spesa",
+      "link": "https://www.tomshw.it/smartphone/oppo-pad-se-a-15199eur-lo-schermo-opaco-che-vale-la-spesa",
+      "excerpt": "OPPO Pad SE a 151,99€ su Amazon raggiunge il minimo storico: il listino è di 159,99€ e lo sconto è del 5%. Il display opaco da 11 pollici riduce i riflessi e rende più comode le…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115584/tomshw-offer-1423754.png",
+      "publishedAt": "2026-09-29T09:48:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Google cerca di mettersi tra retailer e cliente. Poi paghi la commissione o il pizzo?",
-      "link": "https://www.tomshw.it/business/google-cerca-di-mettersi-tra-retailer-e-cliente-poi-paghi-la-commissione-o-il-pizzo",
-      "excerpt": "Google ha iniziato a testare in India un pulsante Compra che porta gli utenti di Gemini e AI Mode dritti al checkout di Flipkart, la piattaforma di e-commerce controllata da…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115391/06-google-flipkart-commissione-retailer.jpg",
-      "publishedAt": "2026-09-28T17:55:17+00:00",
+      "title": "La Terra brilla nel buio: lo spettacolo visto dalla Stazione Spaziale",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n671935/terra-notte-iss-nasa-new-york/",
+      "excerpt": "La NASA mostra gli Stati Uniti di notte fotografati dalla ISS a 417 km di quota.",
+      "image": "https://hd2.tudocdn.net/1374537?w=660",
+      "publishedAt": "2026-09-29T09:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Sony salterà il CES 2027: meno dispositivi, più intrattenimento",
+      "link": "https://www.hdblog.it/sony/articoli/n671942/sony-salta-ces-2027-motivi/",
+      "excerpt": "Le priorità per la casa giapponese sono altre",
+      "image": "https://hd2.tudocdn.net/903846?w=660",
+      "publishedAt": "2026-09-29T09:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "I 10 affari più grossi dei Big Days di Unieuro: ecco cosa comprare",
+      "link": "https://www.tomshw.it/altro/i-10-affari-piu-grossi-dei-big-days-di-unieuro-ecco-cosa-comprare",
+      "excerpt": "I Big Days di Unieuro sono partiti, scatenando un'ondata di sconti davvero aggressivi su tutto il catalogo online e mettendo sul piatto ribassi che arrivano a toccare la soglia…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115578/I-10-affari-più-grossi-dei-Big-Days-di-Unieuro-ecco-cosa-comprare.jpg",
+      "publishedAt": "2026-09-29T09:40:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Il più radicale aggiornamento di Excel nei suoi oltre quarant'anni di storia",
-      "link": "https://www.hdblog.it/microsoft/articoli/n671892/microsoft-excel-piu-valori-una-cella/",
-      "excerpt": "Il colosso di Redmond testa la possibilità di inserire più valori in una cella.",
-      "image": "https://hd2.tudocdn.net/1307427?w=660",
-      "publishedAt": "2026-09-28T17:50:00+00:00",
+      "title": "WindTre Business, nuova soluzione per proteggere e gestire i dispositivi delle PMI",
+      "link": "https://www.hdblog.it/h3g/articoli/n671969/windtre-business-amplia-sicurezza-pmi/",
+      "excerpt": "WindTre Business amplia l'offerta per le piccole e medie imprese",
+      "image": "https://hd2.tudocdn.net/1374605?w=660",
+      "publishedAt": "2026-09-29T09:35:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "SwitchBot cornice e-ink a 319,99€, due anni senza cavi valgono la spesa",
-      "link": "https://www.tomshw.it/altro/switchbot-cornice-e-ink-a-31999eur-due-anni-senza-cavi-valgono-la-spesa",
-      "excerpt": "La cornice e-ink SwitchBot da 13,3 pollici costa 319,99€ su Amazon anziché 379,99€, con uno sconto del 16%. La batteria integrata consente fino a due anni di utilizzo, lasciando…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115510/tomshw-offer-1409987.png",
-      "publishedAt": "2026-09-28T17:48:00+00:00",
+      "title": "AI e procurement: la vera sfida non è automatizzare, ma decidere meglio",
+      "link": "https://www.tomshw.it/business/ai-e-procurement-la-vera-sfida-non-e-automatizzare-ma-decidere-meglio",
+      "excerpt": "L’intelligenza artificiale sta trasformando il procurement a una velocità senza precedenti. Attività che fino a poco tempo fa richiedevano giorni possono essere completate in…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115407/ai-procurement-decidere-meglio.jpg",
+      "publishedAt": "2026-09-29T09:34:46+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Bose cavalca l'onda del revival degli auricolari col filo, senza rinunciare all'ANC",
-      "link": "https://www.hdblog.it/indossabili/articoli/n671889/bose-auricolari-filo-usb-c-anc-prezzo-quando/",
-      "excerpt": "Consegne da metà ottobre negli USA, preordini già aperti. E da noi?",
-      "image": "https://hd2.tudocdn.net/1374421?w=660",
-      "publishedAt": "2026-09-28T17:35:00+00:00",
+      "title": "Alfa Romeo svela la 33 Stradale Perla Nera, opera d’arte dark senza eguali",
+      "link": "https://www.hdmotori.it/alfa-romeo-33-stradale-perla-nera/",
+      "excerpt": "Sono calati i veli sull’unica 33 Stradale a fregiarsi del nome “Perla Nera”, opportunamente scelto da un collezionista Alfa Romeo.",
+      "image": "https://hd2.tudocdn.net/1374609?w=660",
+      "publishedAt": "2026-09-29T09:30:16+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Creality Ender-3 V3 KE a 239€, il minimo storico per stampare più veloce",
-      "link": "https://www.tomshw.it/hardware/creality-ender-3-v3-ke-a-239eur-il-minimo-storico-per-stampare-piu-veloce",
-      "excerpt": "La Creality Ender-3 V3 KE costa 239€ su Amazon: dal listino di 269€ si risparmiano 30€, con uno sconto dell’11% e il prezzo più basso raggiunto finora. La combinazione fra…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115509/tomshw-offer-1409965.png",
-      "publishedAt": "2026-09-28T17:18:00+00:00",
+      "title": "Pixel, problemi con l’NFC: pagamenti e Google Wallet ko. Che fare?",
+      "link": "https://www.hdblog.it/smartphone/articoli/n671966/pixel-problemi-nfc-pagamenti-wallet/",
+      "excerpt": "L’NFC smette improvvisamente di funzionare su alcuni Google Pixel, dai Pixel 8 fino alla serie Pixel 11. Il problema coinvolge Google Wallet e per ora non esiste una soluzione…",
+      "image": "https://hd2.tudocdn.net/1365928?w=660",
+      "publishedAt": "2026-09-29T09:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Regolabarba Braun 17-in-1 al -43%, per barba, capelli e corpo",
+      "link": "https://www.tomshw.it/altro/regolabarba-braun-17-in-1-al-43-per-barba-capelli-e-corpo",
+      "excerpt": "Il regolabarba Braun MGK7491 17-in-1 costa 99€ su Amazon, anziché 172,5€, con uno sconto del 43%. Riunisce in un unico apparecchio tutto ciò che serve per curare barba, capelli e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115579/tomshw-offer-1423681.png",
+      "publishedAt": "2026-09-29T09:19:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "LG StanbyMe 2 Max arriva finalmente in Italia, prezzo tutt'altro che popolare",
-      "link": "https://www.hdblog.it/tv/articoli/n671884/lg-stanbyme-2-max-32-4k-prezzo-batteria/",
-      "excerpt": "Autonomia e risoluzione notevoli, però.",
-      "image": "https://hd2.tudocdn.net/1374415?w=660",
-      "publishedAt": "2026-09-28T17:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Con Kindle Scribe leggi e scrivi. Il modello da 64 GB è in super-sconto su Amazon",
+      "link": "https://images.dday.it/qw7ydD3C-s-oD1auopE97nAUhJVcWVbhfigiIGjv-fY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58834/f70831_scribe.jpeg",
+      "excerpt": "Un ereader da 10,2\" che include anche una penna per prendere appunti e segnare annotazioni... Leggi tutto",
+      "image": "https://images.dday.it/qw7ydD3C-s-oD1auopE97nAUhJVcWVbhfigiIGjv-fY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58834/f70831_scribe.jpeg",
+      "publishedAt": "2026-09-29T09:02:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
-      "title": "Bosch, per allungare la vita delle elettriche servono batterie più economiche da riparare",
-      "link": "https://www.hdmotori.it/bosch-elettriche-batterie-economiche-riparare/",
-      "excerpt": "Il presidente della divisione Bosch Mobility Aftermarket dice la sua sulla vita utile dei veicoli elettrici e sul futuro del mercato autoriparativo con la diffusione massiva delle…",
-      "image": "https://hd2.tudocdn.net/1374420?w=660",
-      "publishedAt": "2026-09-28T17:00:37+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Quando esce The Duskbloods? Data e cosa sappiamo",
-      "link": "https://www.tomshw.it/videogioco/quando-esce-the-duskbloods-data-e-cosa-sappiamo",
-      "excerpt": "The Duskbloods è previsto nel 2026, in esclusiva per Nintendo Switch 2. Al 22 settembre 2026 non è ancora stato annunciato un giorno di uscita preciso: la risposta più concreta…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114750/cover.jpg",
-      "publishedAt": "2026-09-28T17:00:00+00:00",
+      "title": "DOOM sbarca su World of Tanks Heat",
+      "link": "https://www.tomshw.it/videogioco/doom-sbarca-su-world-of-tanks-heat",
+      "excerpt": "Se amate le esperienze multigiocatore, molto probabilmente avrete già sentito parlare di World of Tanks Heat, titolo free-to-play di Wargaming che riesce a combinare saggiamente…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115520/World-of-Tanks-Heat-(1).jpg",
+      "publishedAt": "2026-09-29T09:00:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Prime Video: tutte le novità di ottobre 2026",
-      "link": "https://www.hdblog.it/amazon/articoli/n671862/prime-video-ottobre-2026-novita-streaming/",
-      "excerpt": "Ecco le novità di ottobre 2026",
-      "image": "https://hd2.tudocdn.net/1374303?w=660",
-      "publishedAt": "2026-09-28T16:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "È davvero la fine dei lettori CD hi-fi di fascia alta? PS Audio e Naim sono rimaste senza meccaniche",
+      "link": "https://images.dday.it/0XTOeUGnbhVfsM19IdBJYrb-4L-dLmKKGmV6vTsmf_4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58915/fa0d22_sacdt.jpg",
+      "excerpt": "Il PMG Signature SACD Transport esce di produzione dopo appena un anno, la Uniti Star di Naim diventa Star Lite e perde il lettore. L'ultimo grande fornitore di meccaniche per i…",
+      "image": "https://images.dday.it/0XTOeUGnbhVfsM19IdBJYrb-4L-dLmKKGmV6vTsmf_4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58915/fa0d22_sacdt.jpg",
+      "publishedAt": "2026-09-29T08:48:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
-      "title": "Samsung prepara abbonamenti su misura per TV ed elettrodomestici AI",
-      "link": "https://www.hdblog.it/samsung/articoli/n671883/samsung-tv-elettrodomestici-ai-in-abbonamento-novita/",
-      "excerpt": "Samsung continua a investire negli elettrodomestici in abbonamento: AI Subscription Club sarà aggiornato con nuove opzioni pensate per adattarsi meglio alle esigenze e al budget…",
-      "image": "https://hd2.tudocdn.net/1342360?w=660",
-      "publishedAt": "2026-09-28T16:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "BLUETTI Elite 400 da 2499€ a 1699€, il backup di casa al minimo storico",
+      "link": "https://www.tomshw.it/altro/bluetti-elite-400-da-2499eur-a-1699eur-il-backup-di-casa-al-minimo-storico",
+      "excerpt": "BLUETTI Elite 400 costa 1699€ su Amazon, contro un listino di 2499€ e con uno sconto del 32%. I suoi 3840Wh puntano a mantenere operativa la casa durante un blackout e a portare…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115574/tomshw-offer-1423606.png",
+      "publishedAt": "2026-09-29T08:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Rubano due camion NVIDIA sperando nel colpaccio, portano a casa solo tanta sabbia",
-      "link": "https://www.hdblog.it/hardware/articoli/n671882/furto-camion-nvidia-gpu-sabbia-test-guida-autonoma/",
-      "excerpt": "Gli aspiranti Toretto sono rimasti fregati.",
-      "image": "https://hd2.tudocdn.net/1374408?w=660",
-      "publishedAt": "2026-09-28T16:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Sconti da shock su Unieuro: arrivano i Big Days con prezzi tagliati fino al 50%",
+      "link": "https://www.tomshw.it/altro/sconti-da-shock-su-unieuro-arrivano-i-big-days-con-prezzi-tagliati-fino-al-50",
+      "excerpt": "I Big Days di Unieuro sono iniziati, portando con sé un’ondata di sconti davvero aggressivi su un catalogo ricchissimo che spazia dall'informatica al grande e piccolo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115573/Sconti-da-shock-su-Unieuro-arrivano-i-Big-Days-con-prezzi-tagliati-fino-al-50-.png",
+      "publishedAt": "2026-09-29T08:47:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Edifier M230 II, lo speaker rétro ha 26 W e Bluetooth 6.0",
-      "link": "https://www.hdblog.it/tv/articoli/n671873/edifier-m230-ii-speaker-retro-bluetooth-6/",
-      "excerpt": "Design rétro, 26 W, Bluetooth 6.0 e fino a 30 ore di autonomia.",
-      "image": "https://hd2.tudocdn.net/1374387?w=660",
-      "publishedAt": "2026-09-28T16:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Tesla FSD Supervised: 2 funzioni oltre i limiti rischiano lo stop UE",
+      "link": "https://www.tomshw.it/automotive/tesla-fsd-supervised-2-funzioni-oltre-i-limiti-rischiano-lo-stop-ue",
+      "excerpt": "Due funzioni di Tesla FSD Supervised possono portare l’auto oltre il limite di velocità rilevato, ed è su questo punto che si concentra l’opposizione dello European Transport…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115576/news-flash-1423625.png",
+      "publishedAt": "2026-09-29T08:40:34+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Un leak confronta il pieghevole \"wide\" di Motorola con Samsung Galaxy Z Fold 8",
-      "link": "https://www.hdblog.it/smartphone/articoli/n671852/motorola-foldable-razr-galaxy-z-fold8-confronto/",
-      "excerpt": "Più piccolo del formato a passaporto di Samsung e Apple.",
-      "image": "https://hd2.tudocdn.net/1374373?w=660",
-      "publishedAt": "2026-09-28T16:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
+      "title": "Audi A6 Sportback e-tron da record: 1.338 km con una sola ricarica. Ma ci ha impiegato 45 ore",
+      "link": "https://images.dday.it/LSzP0TE9P3LThKWklVNpjLlNSst3njN3ZTzg9YXIies/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58913/7611e3_audia6.jpg",
+      "excerpt": "Il pilota di rally Miko Marczyk ha attraversato la Polonia guidando per oltre 45 ore. L’elettrica Audi ha quasi raddoppiato i 774 km di autonomia dichiarata... Leggi tutto",
+      "image": "https://images.dday.it/LSzP0TE9P3LThKWklVNpjLlNSst3njN3ZTzg9YXIies/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58913/7611e3_audia6.jpg",
+      "publishedAt": "2026-09-29T08:36:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Anthropic va verso la Borsa e avvisa gli investitori che l'IA potrebbe minacciare l'umanità",
+      "link": "https://images.dday.it/Q-ppIPs7G4g0-EtVwZju8KsQZYpK3tNiBxlk2BZfPpU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58914/2ccece_Depositphotos_842698048_XL.jpg",
+      "excerpt": "Anthropic ha una perdita netta di 42 miliardi nel 2025, in gran parte contabile, e quasi un quarto dei ricavi arriva solo da due clienti. I rischi per l’umanità? Occupano quasi un…",
+      "image": "https://images.dday.it/Q-ppIPs7G4g0-EtVwZju8KsQZYpK3tNiBxlk2BZfPpU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58914/2ccece_Depositphotos_842698048_XL.jpg",
+      "publishedAt": "2026-09-29T08:36:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Huawei D3 in prova, lo smartwatch perfetto per gli ipertesi: misura bene la pressione ma lo conoscono in pochi",
+      "link": "https://images.dday.it/rXZ2XjzH0fFV4INg9BHPyPlzofl3fKNaeEh4qz6Y640/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58907/404b59_DSC02899.jpg",
+      "excerpt": "Più sottile e leggero, ora sembra un normale smartwatch ma nel cinturino nasconde un vero manicotto gonfiabile. Misura la pressione in modo certificato, in silenzio, anche di…",
+      "image": "https://images.dday.it/rXZ2XjzH0fFV4INg9BHPyPlzofl3fKNaeEh4qz6Y640/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58907/404b59_DSC02899.jpg",
+      "publishedAt": "2026-09-29T08:30:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Galaxy S27 Ultra, Samsung risolverà due vecchi problemi della fotocamera",
+      "link": "https://www.tomshw.it/smartphone/galaxy-s27-ultra-samsung-potrebbe-finalmente-correggere-due-difetti-storici-della-camera",
+      "excerpt": "Samsung sarebbe al lavoro su una revisione del comparto fotografico del Galaxy S27 Ultra capace di risolvere due difetti che accompagnano da anni i suoi top di gamma: le alte luci…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109183/comprare-galaxy-s26-ultra-ora-o-aspettare-galaxy-s27-ultra-detail.png",
+      "publishedAt": "2026-09-29T08:30:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Nothing lancia le Headphone (1) Pro: triplo driver, titanio, 10 microfoni e audio hi-res 24 bit/192 kHz",
+      "link": "https://images.dday.it/8dWdyzeAZak73Spe5TCOSG5OJHSKs_OXHiJ_UplohqI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58912/ea4312_Headphone_1__Pro__white__3_.jpg",
+      "excerpt": "L'azienda guidata da Carl Pei presenta il suo prodotto audio più ambizioso: le nuove Headphone (1) Pro vogliono essere una via di mezzo tra le cuffie lifestyle da strada e le…",
+      "image": "https://images.dday.it/8dWdyzeAZak73Spe5TCOSG5OJHSKs_OXHiJ_UplohqI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58912/ea4312_Headphone_1__Pro__white__3_.jpg",
+      "publishedAt": "2026-09-29T08:05:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Ecco Claude Sonnet 5.5: più potente, 30% più veloce ed è il primo Sonnet con le protezioni cyber dei modelli di punta",
+      "link": "https://images.dday.it/y3OhdfGoYq4oI_jaTlGP1OecDrAJw8cMaGXd6trjcCA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58911/0faa50_small_Screenshot_2026-09-29_alle_09.32.40_copia.png",
+      "excerpt": "Sonnet 5.5 si avvicina a Opus 5.5 in diversi benchmark, ma con costi inferiori. Anthropic lo destina ai compiti quotidiani ben definiti e rafforza le difese contro gli abusi…",
+      "image": "https://images.dday.it/y3OhdfGoYq4oI_jaTlGP1OecDrAJw8cMaGXd6trjcCA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58911/0faa50_small_Screenshot_2026-09-29_alle_09.32.40_copia.png",
+      "publishedAt": "2026-09-29T07:35:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Il Googlebook Lenovo è uno spettacolo: 1.4 Kg, OLED 15\" 2.8K e processore Intel. In Italia a 1.199 euro",
@@ -199,78 +271,6 @@
       "excerpt": "Con il volo di test numero 14, SpaceX raggiunge una doppia fondamentale pietra miliare per il suo programma Starship: per la prima volta la navicella è entrata in orbita intorno…",
       "image": "https://images.dday.it/ENRKn0Y_2UiV5-QmMuC1tHK10KAINfb78bQ9bH-4R_0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58904/22e43f_Starship.jpg",
       "publishedAt": "2026-09-28T14:33:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Bosch taglia i prezzi su trapani, avvitatori e altri prodotti per il fai-da-te: ecco le offerte su Amazon",
-      "link": "https://images.dday.it/OhZgZ6_alzda4613Qxm-mpEPA84CnMcPo2u5XrCSxNg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58903/d74286_ape1.jpg",
-      "excerpt": "Ci sono diversi utensili Bosch in promozione, dai trapani agli strumenti multifunzione: abbiamo raccolto i modelli più interessanti in sconto ora attivo su Amazon... Leggi tutto",
-      "image": "https://images.dday.it/OhZgZ6_alzda4613Qxm-mpEPA84CnMcPo2u5XrCSxNg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58903/d74286_ape1.jpg",
-      "publishedAt": "2026-09-28T14:26:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Apple condannata a pagare 5,7 miliardi di dollari: violati brevetti per iPhone e Apple Watch",
-      "link": "https://images.dday.it/foCp48jGPWYUJKoUbmSP6vSqsEWgAG2wnba3ZaQLwws/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58905/b31ee1_Depositphotos_410410646_XL.jpg",
-      "excerpt": "Una giuria federale di San Diego ha dato ragione a Taction Technology in una causa su due brevetti legati alle vibrazioni tattili. Apple respinge il verdetto e annuncia ricorso...…",
-      "image": "https://images.dday.it/foCp48jGPWYUJKoUbmSP6vSqsEWgAG2wnba3ZaQLwws/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58905/b31ee1_Depositphotos_410410646_XL.jpg",
-      "publishedAt": "2026-09-28T13:44:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Maxi-richiamo Volkswagen, cosa sappiamo. Coinvolte milioni di auto prodotte dal 2013",
-      "link": "https://images.dday.it/Ml7jwVlWyN3jpuv8xRIDlaxZ0nvJ_nc7QNa_CsZ-R98/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58902/60812c_DB2018AU1653_large.jpg",
-      "excerpt": "Volkswagen sta richiamando oltre due milioni di veicoli in tutto il mondo. Coinvolti i marchi Audi e Volkswagen (e forse altri ancora): potenziale difetto di fabbrica all’impianto…",
-      "image": "https://images.dday.it/Ml7jwVlWyN3jpuv8xRIDlaxZ0nvJ_nc7QNa_CsZ-R98/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58902/60812c_DB2018AU1653_large.jpg",
-      "publishedAt": "2026-09-28T13:31:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "DJI Osmo Pocket 3 in offerta su Amazon: la videocamera tascabile ora costa meno",
-      "link": "https://images.dday.it/BCqcCgSfS3BU64DHu26WSSV0ySGJGqsaN1tQigs16bQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58901/385532_716AJXkN5zL._AC_SL1500_.jpeg",
-      "excerpt": "La compatta di DJI con sensore da 1\", registra in 4K a 120 fps e offre stabilizzazione a 3 assi: la DJI Osmo Pocket 3 è ora in offerta su Amazon ... Leggi tutto",
-      "image": "https://images.dday.it/BCqcCgSfS3BU64DHu26WSSV0ySGJGqsaN1tQigs16bQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58901/385532_716AJXkN5zL._AC_SL1500_.jpeg",
-      "publishedAt": "2026-09-28T13:11:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il robot lavapavimenti Dreame L40 Ultra AE crolla di prezzo: è al minimo storico",
-      "link": "https://images.dday.it/IiEFytzM4deeAJIc_LaaYW7HUJIFEMqz9jOcIhGm6mQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58895/4244ac_91BinusOkCL._AC_SL1500_.jpeg",
-      "excerpt": "Il robot aspirapolvere e lavapavimenti Dreame L40 Ultra AE raggiunge il prezzo più basso mai visto: 19.000 Pa di aspirazione, lavaggio con acqua calda a 75 °C e una base che si…",
-      "image": "https://images.dday.it/IiEFytzM4deeAJIc_LaaYW7HUJIFEMqz9jOcIhGm6mQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58895/4244ac_91BinusOkCL._AC_SL1500_.jpeg",
-      "publishedAt": "2026-09-28T10:55:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Giochi PS5 su PC, GTA V su iPhone e Steam su Android: l’IA sta abbattendo i muri tra le piattaforme",
-      "link": "https://images.dday.it/jio8DSZvkRlJmKE6pLFsrcsQPAr8imZwYrNMhI4-5KI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58898/9f494c_Screenshot-2026-09-27-alle-21.31.39.jpg",
-      "excerpt": "Da GameToMac a SteamOS ARM, da Madeira e Vapor agli emulatori PS5: una volta, per far girare un gioco su altre piattaforme, erano necessari mesi di porting. Ora l’IA sta…",
-      "image": "https://images.dday.it/jio8DSZvkRlJmKE6pLFsrcsQPAr8imZwYrNMhI4-5KI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58898/9f494c_Screenshot-2026-09-27-alle-21.31.39.jpg",
-      "publishedAt": "2026-09-28T10:31:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Lo scudo di Nvidia contro gli agenti IA fuori controllo: \"Avrebbe impedito l'attacco a Hugging Face\"",
-      "link": "https://images.dday.it/uyTtd3_mNqDHt3OkCDzFYQzv7IKDyhbd3qQn6tQl4vE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58897/bcbd95_Depositphotos_716321506_XL.jpg",
-      "excerpt": "La piattaforma introduce protezioni software e hardware pensate per impedire agli agenti di superare i propri limiti operativi. Secondo Nvidia, strumenti come OpenShell e Sentry…",
-      "image": "https://images.dday.it/uyTtd3_mNqDHt3OkCDzFYQzv7IKDyhbd3qQn6tQl4vE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58897/bcbd95_Depositphotos_716321506_XL.jpg",
-      "publishedAt": "2026-09-28T10:28:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Poste Italiane sale all’85% di TIM, controllo quasi totale. Ora può partire la fusione",
-      "link": "https://images.dday.it/Is6aq9ZmH9DKnrC3pPr07iaqAG9DD5N1JDzkEc0I3pc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58894/3b556c_Depositphotos_322076802_XL.jpg",
-      "excerpt": "L’offerta pubblica di acquisto e scambio si è chiusa senza raggiungere il 90% necessario per il diritto di acquisto sulle azioni residue, ma Poste consolida comunque il controllo…",
-      "image": "https://images.dday.it/Is6aq9ZmH9DKnrC3pPr07iaqAG9DD5N1JDzkEc0I3pc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58894/3b556c_Depositphotos_322076802_XL.jpg",
-      "publishedAt": "2026-09-28T08:32:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
