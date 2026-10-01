@@ -1,35 +1,152 @@
 {
-  "generatedAt": "2026-10-01T16:48:28.699047+00:00",
+  "generatedAt": "2026-10-01T22:11:23.596465+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Il nuovo MacBook Pro è più vicino del previsto: quando arriva?",
-      "link": "https://www.tomshw.it/hardware/il-nuovo-macbook-pro-e-piu-vicino-del-previsto-quando-arriva",
-      "excerpt": "Apple si prepara a chiudere il 2026 con una serie di lanci ravvicinati, e il prodotto più atteso resta il MacBook Pro ridisegnato con schermo touch. A indicarne i tempi è Mark…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116287/il-nuovo-macbook-pro-e-piu-vicino-del-previsto-quando-arriva-tuwbdht.webp",
-      "publishedAt": "2026-10-01T16:45:00+00:00",
+      "title": "I Galaxy Buds On sono ufficiali, Samsung entra nel settore degli auricolari open-ear",
+      "link": "https://www.tomshw.it/smartphone/i-galaxy-buds-on-sono-ufficiali-samsung-entra-nel-settore-degli-auricolari-open-ear",
+      "excerpt": "Samsung ha presentato il 1° ottobre, attraverso la newsroom coreana, i Galaxy Buds On: si tratta dei primi auricolari a clip del marchio e del primo modello open-ear della…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116303/galaxy-buds-on-3.jpg",
+      "publishedAt": "2026-10-01T21:30:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Vuoi una PS5 Pro? Sony ora ti chiede 60 ore di gioco",
-      "link": "https://www.tomshw.it/videogioco/vuoi-una-ps5-pro-sony-ora-ti-chiede-60-ore-di-gioco",
-      "excerpt": "Sony ha scelto un filtro inedito per decidere chi può comprare una PlayStation 5 Pro in Giappone: le ore di gioco effettivamente accumulate. Dal 28 settembre al 7 ottobre 2026 il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116288/vuoi-una-ps5-pro-sony-ora-ti-chiede-60-ore-di-gioco-tac3mso.webp",
-      "publishedAt": "2026-10-01T16:40:00+00:00",
+      "title": "Gemini Live diventa gli occhi per i non vedenti tramite una nuova funzione",
+      "link": "https://www.tomshw.it/smartphone/gemini-live-diventa-gli-occhi-per-i-non-vedenti-tramite-una-nuova-funzione",
+      "excerpt": "Google ha avviato il rilascio di Guided Vision, una funzione di Gemini Live pensata per le persone cieche e ipovedenti che trasforma la fotocamera dello smartphone in uno…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116301/gemini-live-diventa-gli-occhi-per-i-non-vedenti-tramite-una--cahgjdt.webp",
+      "publishedAt": "2026-10-01T21:20:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Raspberry Pi aumenta i prezzi, ecco quali sono i modelli più cari",
-      "link": "https://www.tomshw.it/hardware/raspberry-pi-aumenta-i-prezzi-ecco-quali-sono-i-modelli-piu-cari",
-      "excerpt": "Raspberry Pi è tornata a intervenire sui propri prezzi di listino, questa volta colpendo le configurazioni da 2 GB di Raspberry Pi 4 e Raspberry Pi 5. L'aumento, comunicato…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116286/raspberry-pi-aumenta-i-prezzi-ecco-quali-sono-i-modelli-piu--omk5ydb.webp",
-      "publishedAt": "2026-10-01T16:34:00+00:00",
+      "title": "ChatGPT prova i vestiti per voi prima di acquistarli, ecco come",
+      "link": "https://www.tomshw.it/hardware/chatgpt-prova-i-vestiti-per-voi-prima-di-acquistarli-ecco-come",
+      "excerpt": "OpenAI ha reso disponibili a livello globale due nuove funzioni di shopping per ChatGPT, annunciate giovedì 1 ottobre: una prova virtuale dei capi d'abbigliamento e un sistema per…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116299/chatgpt--Virtual-Try-On-jpg.webp",
+      "publishedAt": "2026-10-01T21:13:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Googlebook prepara il colpo grosso: arriva un’app che fa quasi tutto",
+      "link": "https://www.tomshw.it/hardware/googlebook-prepara-il-colpo-grosso-arriva-unapp-che-fa-quasi-tutto",
+      "excerpt": "Google ha pubblicato sul Play Store l'app Viewer, lo strumento di gestione e modifica dei contenuti multimediali pensato per i Googlebook, i primi portatili basati sulla nuova…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116295/googlebook-prepara-il-colpo-grosso-arriva-unapp-che-fa-quasi-8gqtafj.webp",
+      "publishedAt": "2026-10-01T21:03:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Google punta sui data center nello spazio, ma serve un’impresa titanica per riuscirci",
+      "link": "https://www.tomshw.it/hardware/google-punta-sui-data-center-nello-spazio-ma-serve-unimpresa-titanica-per-riuscirci",
+      "excerpt": "Google ha messo in orbita il primo prototipo del suo satellite per il calcolo spaziale, partito dalla California a bordo di un razzo SpaceX insieme a oltre cento altri carichi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/06/97511/negli-usa-la-ferc-accelera-gli-allacci-dei-datacenter-ai-ma-chiede-energia-propria.png",
+      "publishedAt": "2026-10-01T21:02:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Ubuntu 26.10 è quasi pronto: la nuova beta porta Linux 7.3 e GNOME 51",
+      "link": "https://www.tomshw.it/hardware/ubuntu-2610-e-quasi-pronto-la-nuova-beta-porta-linux-73-e-gnome-51",
+      "excerpt": "Canonical ha pubblicato il 1° ottobre la beta di Ubuntu 26.10, nome in codice Stonking Stingray, rendendo disponibili le immagini per le edizioni Desktop, Server, WSL e Cloud e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116297/ubuntu-2610-e-quasi-pronto-la-nuova-beta-porta-linux-73-e-gn-msfbcrn.webp",
+      "publishedAt": "2026-10-01T21:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Philips Air Performer 3-in-1 a 512,20€, comfort e aria pulita tutto l’anno",
+      "link": "https://www.tomshw.it/altro/philips-air-performer-3-in-1-a-51220eur-comfort-e-aria-pulita-tutto-lanno",
+      "excerpt": "Philips Air Performer 3-in-1 costa 512,20€ su Amazon anziché 649,99€, con uno sconto del 20%. Purifica l’aria, riscalda rapidamente e genera un flusso rinfrescante, sostituendo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116294/tomshw-offer-1434695.png",
+      "publishedAt": "2026-10-01T20:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Multe false con pagamento immediato: la nuova frontiera delle truffe automobilistiche",
+      "link": "https://images.dday.it/SKhvrdRJUoltuzcjxUP3ATEKcCm2t3NCVjITEyCl3lg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58955/914e9a_image-1200-9597f5de9b6ae3149769d7fb287e02c7.jpeg",
+      "excerpt": "La Polizia Locale intercetta falsi verbali cartacei che sfruttano codici QR contraffatti per reindirizzare le vittime a siti clone e rubare denaro e dati bancari.... Leggi tutto",
+      "image": "https://images.dday.it/SKhvrdRJUoltuzcjxUP3ATEKcCm2t3NCVjITEyCl3lg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58955/914e9a_image-1200-9597f5de9b6ae3149769d7fb287e02c7.jpeg",
+      "publishedAt": "2026-10-01T19:39:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Samsung alza i prezzi dei Galaxy S26: aumenti fino a 100 euro. I prezzi delle RAM fanno un’altra vittima",
+      "link": "https://images.dday.it/zrgGOCByMOA7dVp7mI4-p3bLAMXERDyyAXHJEU3jNTE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58956/bca53e_s26.jpg",
+      "excerpt": "Samsung ritocca al rialzo i listini dei Galaxy S26 nel mondo e anche in Italia. Gli aumenti vanno da circa 100 euro per S26 e S26+ fino a 200 euro per la versione più costosa…",
+      "image": "https://images.dday.it/zrgGOCByMOA7dVp7mI4-p3bLAMXERDyyAXHJEU3jNTE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58956/bca53e_s26.jpg",
+      "publishedAt": "2026-10-01T19:34:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Imou 3MP a 18,99€ su Amazon, distingue persone e animali",
+      "link": "https://www.tomshw.it/altro/imou-3mp-a-1899eur-su-amazon-distingue-persone-e-animali",
+      "excerpt": "La telecamera WiFi Imou 3MP costa 18,99€ su Amazon, anziché 19,99€, grazie allo sconto del 5%. Con video 2K, copertura panoramica e riconoscimento AI, permette di capire cosa…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116293/tomshw-offer-1434668.png",
+      "publishedAt": "2026-10-01T18:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Quando l'AI ti impedisce di lavorare, la risposta sono i modelli aperti",
+      "link": "https://www.tomshw.it/business/quando-lai-ti-impedisce-di-lavorare-la-risposta-sono-i-modelli-aperti",
+      "excerpt": "Al Dev Day di OpenAI del 29 settembre, mentre dal palco si parlava di velocità e risparmio, gli sviluppatori in corridoio raccontavano altro: i controlli di sicurezza di OpenAI e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116091/10-guardrail-ai-bloccano-attivita-legittime.jpg",
+      "publishedAt": "2026-10-01T18:25:10+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Samsung Galaxy S25 Edge 512GB a 599€, mai costato così poco",
+      "link": "https://www.tomshw.it/smartphone/samsung-galaxy-s25-edge-512gb-a-599eur-mai-costato-cosi-poco",
+      "excerpt": "Samsung Galaxy S25 Edge 512GB costa 599€ su Amazon, contro un listino di 632€ con il 5% di sconto: è il minimo storico. Il design sottile riunisce Galaxy AI, un ampio display e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116292/tomshw-offer-1434619.png",
+      "publishedAt": "2026-10-01T18:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Sogna una Lamborghini Miura ma non può permettersela, con il fai da te se la costruisce",
+      "link": "https://www.hdmotori.it/lamborghini-miura-replica/",
+      "excerpt": "Cosa accade quando un appassionato non può consentirsi l’auto dei sogni? Semplicemente scopriamolo nella realizzazione di una Lamborghini Miura",
+      "image": "https://hd2.tudocdn.net/1375582?w=660",
+      "publishedAt": "2026-10-01T18:00:59+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Primark è pronta a vendere vestiti in poliestere riciclato",
+      "link": "https://www.hdblog.it/green/articoli/n672321/primark-vestiti-poliestere-riciclato/",
+      "excerpt": "E anche in policotone di seconda generazione",
+      "image": "https://hd2.tudocdn.net/1215913?w=660",
+      "publishedAt": "2026-10-01T17:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Kawasaki Ninja 650 cambia passo: freni radiali e più tecnologia",
+      "link": "https://www.hdmotori.it/nuova-kawasaki-ninja-650-2027-caratteristiche/",
+      "excerpt": "Kawasaki rinnova la Ninja 650: arrivano la forcella a steli rovesciati Showa, freni radiali, display TFT con navigatore e il cambio elettronico quickshifter",
+      "image": "https://hd2.tudocdn.net/1375569?w=660",
+      "publishedAt": "2026-10-01T17:00:36+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "La ISS mostra i suoi anni: problemi al sistema che sposta Canadarm2",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n672256/iss-canadarm2-mobile-transporter-problema-nasa/",
+      "excerpt": "Canadarm2 funziona: NASA circoscrive il problema al Mobile Transporter della ISS.",
+      "image": "https://hd2.tudocdn.net/1375369?w=660",
+      "publishedAt": "2026-10-01T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
     },
     {
       "title": "Omoda X: il teaser del nuovo crossover sportivo con stile da fuoristrada",
@@ -50,33 +167,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "World of Warcraft sta per arrivare su console? Ecco cosa sappiamo",
-      "link": "https://www.tomshw.it/videogioco/world-of-warcraft-sta-per-arrivare-su-console-ecco-cosa-sappiamo",
-      "excerpt": "Le voci su un possibile approdo di World of Warcraft sulle console casalinghe sono tornate a circolare il 29 settembre 2026, quando un utente Reddit noto come 'Rychillie' ha…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116272/world-of-warcraft-sta-per-arrivare-su-console-ecco-cosa-sapp-95z02ds.webp",
-      "publishedAt": "2026-10-01T16:20:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Tre dispositivi in carica con Belkin BoostCharge al -47%, un affare in viaggio",
-      "link": "https://www.tomshw.it/smartphone/tre-dispositivi-in-carica-con-belkin-boostcharge-al-47-un-affare-in-viaggio",
-      "excerpt": "Il Belkin BoostCharge da 10.000 mAh costa 15,99€ su Amazon, con il 47% di sconto rispetto ai 29,99€ di listino. Le tre uscite permettono di alimentare più dispositivi nello stesso…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116285/tomshw-offer-1434489.png",
-      "publishedAt": "2026-10-01T16:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "OpenClaw Enterprise è gratuito e punta sul controllo degli agenti",
-      "link": "https://www.tomshw.it/business/openclaw-enterprise-e-gratuito-e-punta-sul-controllo-degli-agenti",
-      "excerpt": "OpenClaw Enterprise, il control plane per agenti AI persistenti nato dentro OpenAI e poi donato all'OpenClaw Foundation, è ora pubblico con licenza MIT. Red Hat e NVIDIA hanno…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116086/09-openclaw-enterprise-control-plane.jpg",
-      "publishedAt": "2026-10-01T16:16:49+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Venduta la Ferrari 550 Maranello appartenuta a Michael Jordan, il prezzo è da record",
       "link": "https://www.hdmotori.it/ferrari-550-maranello-michael-jordan-prezzo/",
       "excerpt": "Personalizzata per il fuoriclasse dei Chicago Bulls Michael Jordan, la Ferrari 550 Maranello è stata venduta per una cifra impressionante",
@@ -84,24 +174,6 @@
       "publishedAt": "2026-10-01T16:00:51+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPad Air (M4) vs iPad Air (M3): quale scegliere?",
-      "link": "https://www.tomshw.it/hardware/ipad-air-m4-vs-ipad-air-m3-quale-scegliere",
-      "excerpt": "iPad Air (M4) porta soprattutto più memoria, da 8 a 12 GB, e connessioni aggiornate: vantaggi che pesano per chi lavora con applicazioni impegnative e acquista il primo Air. È un…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115415/ipad-air-m4-vs-ipad-air-m3-quale-scegliere.png",
-      "publishedAt": "2026-10-01T16:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "8 errori che fanno fallire i progetti chatbot nel customer service (e come evitarli)",
-      "link": "https://www.tomshw.it/aioperator/8-errori-che-fanno-fallire-i-progetti-chatbot-nel-customer-service-e-come-evitarli",
-      "excerpt": "Sinch ha rilevato che il 74% delle aziende che hanno messo in produzione un agente AI nel servizio clienti lo ha poi disattivato o arretrato, spesso dopo che i clienti ne avevano…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/114448/04-cs11-cover.jpg",
-      "publishedAt": "2026-10-01T16:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Recensione iPhone 18 Pro Max. Altro che diaframma, è l'A20 Pro la vera star",
@@ -122,15 +194,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "200€ in meno sul Dell Tower Plus, RTX 5070 per chi crea sul serio",
-      "link": "https://www.tomshw.it/hardware/200eur-in-meno-sul-dell-tower-plus-rtx-5070-per-chi-crea-sul-serio",
-      "excerpt": "Il Dell Tower Plus costa 2299€ su Amazon: dal listino di 2499€ si risparmiano 200€, con uno sconto dell'8%. La combinazione di processore Intel a 20 core e grafica NVIDIA è…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116281/tomshw-offer-1434475.png",
-      "publishedAt": "2026-10-01T15:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Gallagher di nuovo insieme: arriva il film Disney sul tour reunion degli Oasis | Trailer",
       "link": "https://www.hdblog.it/curiosita/articoli/n657865/documentario-oasis-disney-plus-uscita/",
       "excerpt": "Gli Oasis tornano con un film evento diretto dai registi di Shut Up and Play the Hits.",
@@ -145,51 +208,6 @@
       "excerpt": "Il marchio automobilistico di Stellantis presenta la tredicesima evoluzione del suo storico stemma, pensato per la calandra illuminata dei futuri modelli a zero emissioni.",
       "image": "https://hd2.tudocdn.net/1375558?w=660",
       "publishedAt": "2026-10-01T15:30:31+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Usare la stessa password tra colleghi e agenti è una pessima idea, ecco perché",
-      "link": "https://www.tomshw.it/business/usare-la-stessa-password-tra-colleghi-e-agenti-e-una-pessima-idea-ecco-perche",
-      "excerpt": "Tra le aziende che impongono permessi agli agenti AI e ne hanno già in produzione, il 59% fa girare alcuni o la maggior parte dei loro agenti su credenziali condivise. Solo 15…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116084/08-agenti-credenziali-condivise-responsabilita.jpg",
-      "publishedAt": "2026-10-01T15:20:13+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Crisi dei chip, Raspberry Pi ritocca ancora i suoi listini, ecco cosa cambia",
-      "link": "https://www.hdblog.it/mercato/articoli/n672340/crisi-chip-aumenti-raspberry-pi-4-5-2-gb/",
-      "excerpt": "Colpiti i Pi 4 e 5 con tagli da 2 GB di RAM.",
-      "image": "https://hd2.tudocdn.net/1306535?w=660",
-      "publishedAt": "2026-10-01T15:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Digital Realty avvia ROM1: a Roma prende forma il nuovo campus di data center",
-      "link": "https://www.hdblog.it/business/articoli/n672338/digital-realty-presenta-rom1-roma-data-center/",
-      "excerpt": "Al via la prima fase operativa del nuovo campus di data center in costruzione a Roma",
-      "image": "https://hd2.tudocdn.net/1375551?w=660",
-      "publishedAt": "2026-10-01T15:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Toyota lancia una roulotte da 9 metri sulla nuova Hilux: omaggio a Top Gear",
-      "link": "https://www.hdmotori.it/toyota-nuova-hilux-test-roulotte-top-gear/",
-      "excerpt": "La Casa giapponese ha riproposto una leggendaria scena di Top Gear, facendo crollare una roulotte sul nuovo Hilux elettrico",
-      "image": "https://hd2.tudocdn.net/1375553?w=660",
-      "publishedAt": "2026-10-01T15:00:31+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Crew-13 pronta al lancio: segui la missione NASA in diretta",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n672334/nasa-crew-13-lancio-diretta-iss/",
-      "excerpt": "Crew-13 parte alle 17:10 italiane con quattro astronauti diretti verso la ISS.",
-      "image": "https://hd2.tudocdn.net/1375552?w=660",
-      "publishedAt": "2026-10-01T14:55:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -253,24 +271,6 @@
       "excerpt": "Peugeot rievoca lo spirito della mitica 205 GTi con una nuova versione di e-208 con motore elettrico da 281 cavalli con elettronica motorsport e nuovo assetto sportivo, per una…",
       "image": "https://images.dday.it/POHzEeIHoZcKAfVeKOOf81KorYEVxJHDPlt5BvO3XF0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58949/132cf6_PEUGEOT_E208GTITESTDRIVE_0344.jpg",
       "publishedAt": "2026-10-01T12:22:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "RAM, Micron avverte: la carenza di memoria potrebbe durare oltre il 2028",
-      "link": "https://images.dday.it/vNNEQzVXdzW3ZzEW5-uZFEdHgdVO5IZeeLryoBBys3o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58950/680a37_Depositphotos_723189374_XL.jpg",
-      "excerpt": "La domanda continuerà a superare l’offerta almeno per i prossimi due anni, secondo il produttore... Leggi tutto",
-      "image": "https://images.dday.it/vNNEQzVXdzW3ZzEW5-uZFEdHgdVO5IZeeLryoBBys3o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58950/680a37_Depositphotos_723189374_XL.jpg",
-      "publishedAt": "2026-10-01T11:50:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Promo energia, arriva anche Fastweb + Vodafone: fino a 200 euro di risparmio all’anno sulla luce",
-      "link": "https://images.dday.it/f8aSH_lmlhqPkPH7bKzeJaUMp7b2umaNgirqKsQaF1I/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58948/17d65e_Depositphotos_232780864_XL.jpg",
-      "excerpt": "Fastweb + Vodafone entra nella corsa alle promo energia con una nuova tariffa luce disponibile dal 10 al 31 ottobre. Il risparmio dichiarato arriva fino a 200 euro annui... Leggi…",
-      "image": "https://images.dday.it/f8aSH_lmlhqPkPH7bKzeJaUMp7b2umaNgirqKsQaF1I/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58948/17d65e_Depositphotos_232780864_XL.jpg",
-      "publishedAt": "2026-10-01T10:35:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
