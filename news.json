@@ -1,24 +1,123 @@
 {
-  "generatedAt": "2026-10-03T12:54:11.518360+00:00",
+  "generatedAt": "2026-10-03T17:41:57.200465+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "De'Longhi Magnifica Duo a 549,99€: minimo storico per 20 bevande",
-      "link": "https://www.tomshw.it/altro/delonghi-magnifica-duo-a-54999eur-minimo-storico-per-20-bevande",
-      "excerpt": "De'Longhi Magnifica Duo costa 549,99€ su Amazon, da 699,90€, con uno sconto del 21% e un risparmio di 149,91€. Il menu di 20 bevande calde e fredde permette di passare…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116556/tomshw-offer-1467376.png",
-      "publishedAt": "2026-10-03T12:19:00+00:00",
+      "title": "EcoFlow STREAM AC Pro a 609€, il minimo di sempre per accumulare il solare",
+      "link": "https://www.tomshw.it/altro/ecoflow-stream-ac-pro-a-609eur-il-minimo-di-sempre-per-accumulare-il-solare",
+      "excerpt": "EcoFlow STREAM AC Pro costa 609€ su Amazon, anziché 649€, con uno sconto del 6% e il prezzo più basso toccato finora. La capacità di 1,92 kWh, il controllo intelligente dei flussi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116568/tomshw-offer-1467622.png",
+      "publishedAt": "2026-10-03T17:18:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Kia vende il 58% di elettriche in più in Europa: ecco perché",
-      "link": "https://www.tomshw.it/automotive/kia-vende-il-58-di-elettriche-in-piu-in-europa-ecco-perche",
-      "excerpt": "Kia è il marchio in maggiore crescita tra i primi dieci costruttori di auto in Europa nei primi otto mesi del 2026. A spingere le immatricolazioni è soprattutto la gamma…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116523/kia-vende-il-58-di-elettriche-in-piu-in-europa-ecco-perche.png",
-      "publishedAt": "2026-10-03T12:00:00+00:00",
+      "title": "Huawei Watch Fit 4 Pro in offerta su Amazon: è lo smartwatch da prendere oggi",
+      "link": "https://www.hdblog.it/indossabili/offerte/n672524/huawei-watch-fit-4-pro-offerta-amazon-ottobre-2026/",
+      "excerpt": "Il Huawei Watch Fit 4 Pro è in offerta e si conferma la scelta gusta per un nuovo smartwatch da affianca",
+      "image": "https://hd2.tudocdn.net/1259655?w=660",
+      "publishedAt": "2026-10-03T17:00:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Quando esce Dragon's Dogma II: Dark Arisen? Data e cosa sappiamo",
+      "link": "https://www.tomshw.it/videogioco/quando-esce-dragons-dogma-ii-dark-arisen-data-e-cosa-sappiamo",
+      "excerpt": "Dragon's Dogma II: Dark Arisen uscirà il 9 ottobre 2026 su PlayStation 5, Xbox Series X|S, PC e Nintendo Switch 2. La data è ufficiale: l'espansione ha già un calendario…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115448/cover.jpg",
+      "publishedAt": "2026-10-03T17:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Redmi Note 17 Pro (12/256 GB) in sconto su Amazon: un battery phone per la fascia media",
+      "link": "https://www.hdblog.it/smartphone/offerte/n672523/xiaomi-redmi-note-17-pro-offerta-amazon-ott26/",
+      "excerpt": "Lo Xiaomi Redmi Note 17 Pro 5G è in offerta su Amazon con la versione 12/256 GB: è il battery phone da scegliere.",
+      "image": "https://hd2.tudocdn.net/1375851?w=660",
+      "publishedAt": "2026-10-03T16:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Wi-Fi 7 in tutta la casa con l'extender FRITZ!: sconto del 38% per i clienti Prime",
+      "link": "https://www.hdblog.it/hardware/offerte/n672521/extender-wi-fi-7-fritz-offerta-prime-anticipata/",
+      "excerpt": "I clienti Prime possono risparmiare il 38% sull'acquisto dell'extender Wi-Fi 7 di FRITZ!.",
+      "image": "https://hd2.tudocdn.net/1375850?w=660",
+      "publishedAt": "2026-10-03T16:21:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Braun Sensian 7 al -45%, misura la febbre senza svegliare i bambini",
+      "link": "https://www.tomshw.it/altro/braun-sensian-7-al-45-misura-la-febbre-senza-svegliare-i-bambini",
+      "excerpt": "Braun Sensian 7 costa 27,49€ su Amazon: il prezzo di listino è 49,99€, lo sconto è del 45% e il risparmio arriva a 22,50€. Per chi gestisce la febbre dei più piccoli, la lettura…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116567/tomshw-offer-1467567.png",
+      "publishedAt": "2026-10-03T16:19:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Huawei riduce gli ingombri del Kirin 9050 Pro: ecco come impila i chip",
+      "link": "https://www.tomshw.it/smartphone/huawei-riduce-gli-ingombri-del-kirin-9050-pro-ecco-come-impila-i-chip",
+      "excerpt": "Nuove immagini del die mostrano come Huawei abbia ridotto l'ingombro del Kirin 9050 Pro sovrapponendo due sezioni di silicio. Il chip, destinato alle varianti Pro Max e RS dei…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116527/huawei-riduce-gli-ingombri-del-kirin-9050-pro-ecco-come-impila-i-chip.png",
+      "publishedAt": "2026-10-03T16:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Google Pixel Watch 4 vs Pixel Watch 3: quale scegliere?",
+      "link": "https://www.tomshw.it/altro/google-pixel-watch-4-vs-pixel-watch-3-quale-scegliere",
+      "excerpt": "Google Pixel Watch 4 ha senso soprattutto per chi vuole più margine fra allenamenti, giornata lavorativa e monitoraggio del sonno: l'autonomia dichiarata sale fino a 40 ore…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115421/google-pixel-watch-4-vs-pixel-watch-3-quale-scegliere.png",
+      "publishedAt": "2026-10-03T16:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Frigorifero Hisense da 206 litri a 229€, mai costato così poco",
+      "link": "https://www.tomshw.it/altro/frigorifero-hisense-da-206-litri-a-229eur-mai-costato-cosi-poco",
+      "excerpt": "Il frigorifero Hisense MTM55205SE costa 229€ su Amazon, il minimo storico, anziché 299€ grazie a uno sconto del 23%. Le dimensioni compatte e lo spazio interno modulabile lo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116566/tomshw-offer-1467549.png",
+      "publishedAt": "2026-10-03T15:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Bosch Professional GBH 18V-22 a 304,45€, due batterie per il cantiere",
+      "link": "https://www.tomshw.it/altro/bosch-professional-gbh-18v-22-a-30445eur-due-batterie-per-il-cantiere",
+      "excerpt": "Bosch Professional GBH 18V-22 costa 304,45€ su Amazon, anziché 337,36€ di listino, con uno sconto del 6%. Le due batterie da 4,0 Ah e la struttura compatta lo preparano a…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116565/tomshw-offer-1467527.png",
+      "publishedAt": "2026-10-03T15:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "YouTube privilegerà gli Shorts originali: chi rischia meno visibilità?",
+      "link": "https://www.tomshw.it/hardware/youtube-privilegera-gli-shorts-originali-chi-rischia-meno-visibilita",
+      "excerpt": "YouTube aggiorna le raccomandazioni degli Shorts per dare più spazio ai video originali. La modifica riguarda soprattutto i canali che ripubblicano spezzoni realizzati da altri…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116526/youtube-privilegera-gli-shorts-originali-chi-rischia-meno-visibilita.png",
+      "publishedAt": "2026-10-03T15:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "AMD aveva in serbo una CPU da gaming segreta con 128 MB di cache, ma dov'è finita?",
+      "link": "https://www.tomshw.it/hardware/amd-aveva-in-serbo-una-cpu-da-gaming-segreta-con-128-mb-di-cache-ma-dove-finita",
+      "excerpt": "Un pezzo di storia mai arrivato nei negozi è riemerso dalla Cina: sul forum Chiphell l'utente Lingwu Road ha pubblicato il 2 ottobre le schermate di un engineering sample del…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116564/amd-aveva-in-serbo-una-cpu-da-gaming-segreta-con-128-mb-di-c-tmfpups.webp",
+      "publishedAt": "2026-10-03T14:20:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "ASUS Zenbook 14 sotto 1.200€, OLED e 1,02 kg per lavorare ovunque",
+      "link": "https://www.tomshw.it/hardware/asus-zenbook-14-sotto-1200eur-oled-e-102-kg-per-lavorare-ovunque",
+      "excerpt": "ASUS Zenbook 14 costa 1.199€ su Amazon, anziché 1.399€, con uno sconto del 15% e 200€ di risparmio. La combinazione di display OLED, chassis da 1,02 kg e processore Ryzen AI 7 lo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116563/tomshw-offer-1467471.png",
+      "publishedAt": "2026-10-03T14:19:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -32,33 +131,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Centrale Elettrica EcoFlow DELTA 2 a 499€ su Amazon",
-      "link": "https://www.tomshw.it/altro/centrale-elettrica-ecoflow-delta-2-a-499eur-su-amazon",
-      "excerpt": "EcoFlow DELTA 2 costa 499€ su Amazon, con il 17% di sconto sul listino di 599€ e 100€ risparmiati. È il minimo storico per una power station da 1 kWh che unisce ricarica rapida,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116553/tomshw-offer-1467334.png",
-      "publishedAt": "2026-10-03T11:19:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "GTA 6 sarà più violento e crudo dei precedenti: il PEGI rivela nuove meccaniche di gioco",
-      "link": "https://www.tomshw.it/videogioco/gta-6-sara-piu-estremo-dei-precedenti-il-rating-rivela-nuove-meccaniche-di-gioco",
-      "excerpt": "Grand Theft Auto 6 ha ricevuto la classificazione PEGI 18, il gradino più alto previsto dal sistema europeo di valutazione dei videogiochi. La scheda è comparsa per un breve…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116552/gta-6-sara-piu-estremo-dei-precedenti-il-rating-rivela-nuove-wc1czg4.webp",
-      "publishedAt": "2026-10-03T11:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Crew-13 può battere il record USA verso la ISS: quanto dura il volo?",
-      "link": "https://www.tomshw.it/scienze/crew-13-puo-battere-il-record-usa-verso-la-iss-quanto-dura-il-volo",
-      "excerpt": "La NASA ha confermato che la missione SpaceX Crew-13 ha raggiunto la Stazione spaziale internazionale in 7 ore e 55 minuti dal decollo. Secondo l'agenzia, è il trasferimento più…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116514/crew-13-puo-battere-il-record-usa-verso-la-iss-quanto-dura-il-volo.png",
-      "publishedAt": "2026-10-03T11:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Se i data center fossero immersi nella natura, sarebbero più accettabili?",
       "link": "https://www.hdblog.it/mercato/articoli/n672505/microsoft-data-center-biomimetica-natura/",
       "excerpt": "Alberi, giardini e habitat locali per rendere i data center meno invasivi.",
@@ -68,15 +140,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "TV Philips da 75 pollici a 493€, il minimo storico per film e sport",
-      "link": "https://www.tomshw.it/altro/tv-philips-da-75-pollici-a-493eur-il-minimo-storico-per-film-e-sport",
-      "excerpt": "La TV Philips 75PUS7000 da 75 pollici costa 493€ su Amazon, invece di 615,65€, con uno sconto del 20%. Una diagonale così ampia porta film, serie e grandi eventi sportivi al…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116551/tomshw-offer-1467324.png",
-      "publishedAt": "2026-10-03T10:49:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Meta vuole mettere la sua AI dentro qualsiasi gadget abbiate in casa",
       "link": "https://www.hdblog.it/tecnologia/articoli/n672506/meta-muse-gadgets-hardware-ai/",
       "excerpt": "Muse Gadgets permette di integrare l’AI di Meta in dispositivi e progetti hardware.",
@@ -84,33 +147,6 @@
       "publishedAt": "2026-10-03T10:25:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
-    },
-    {
-      "title": "EcoFlow DELTA 2 Max da 1.199€ a 899€, ne vale la spesa per casa e camper",
-      "link": "https://www.tomshw.it/altro/ecoflow-delta-2-max-da-1199eur-a-899eur-ne-vale-la-spesa-per-casa-e-camper",
-      "excerpt": "EcoFlow DELTA 2 Max costa 899€ su Amazon, anziché 1.199€: lo sconto del 25% vale 300€ di risparmio e porta la power station al minimo storico. La capacità espandibile da 2 a 6 kWh…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116550/tomshw-offer-1467286.png",
-      "publishedAt": "2026-10-03T10:19:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Google aumenta a sorpresa il prezzo di un Pixel",
-      "link": "https://www.tomshw.it/smartphone/google-aumenta-a-sorpresa-il-prezzo-di-un-pixel",
-      "excerpt": "Google ha alzato di 100 euro/dollari il prezzo del Pixel 10a, lo smartphone di fascia media lanciato a febbraio 2026: gli Stati uniti sono stati il primo paese ha ricevere…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/02/84273/Il-Pixel-10a-è-arrivato!-Tutte-le-offerte-del-Google-Store-per-averlo-subito.jpg",
-      "publishedAt": "2026-10-03T10:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Vaccini made in Africa, il vero ostacolo arriva dopo gli impianti",
-      "link": "https://www.tomshw.it/scienze/lafrica-fatica-a-produrre-i-propri-vaccini-cosa-la-frena",
-      "excerpt": "La Clinton Health Access Initiative (CHAI) ha esaminato i progetti di 27 produttori di vaccini in Africa e ha rilevato che autorizzazioni lente, finanziamenti incerti e difficoltà…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116513/l-africa-fatica-a-produrre-i-propri-vaccini-cosa-la-frena.png",
-      "publishedAt": "2026-10-03T10:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Samsung Galaxy pieno? Così puoi recuperare diversi GB in pochi minuti",
@@ -131,15 +167,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Turtle Beach Rematch Advanced al minimo storico: 29,99€ per Xbox e PC",
-      "link": "https://www.tomshw.it/videogioco/turtle-beach-rematch-advanced-al-minimo-storico-2999eur-per-xbox-e-pc",
-      "excerpt": "Turtle Beach Rematch Advanced costa 29,99€ su Amazon anziché 39,99€, con uno sconto del 25% e un risparmio di 10€. I grilletti a doppia corsa permettono di adattare la risposta…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116548/tomshw-offer-1467220.png",
-      "publishedAt": "2026-10-03T09:19:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Apple CarPlay fa alcune cose meglio di Android Auto: ecco quali",
       "link": "https://www.hdblog.it/google/articoli/n672298/apple-carplay-android-auto-cosa-meglio-ecco-quali/",
       "excerpt": "Un confronto tra i due sistemi di infotainment.",
@@ -154,33 +181,6 @@
       "excerpt": "Sono scatti di fotografi professionisti, ma è comunque un punto di partenza molto interessante.",
       "image": "https://hd2.tudocdn.net/1370650?w=660",
       "publishedAt": "2026-10-03T08:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Alfa Romeo porta Luna Rossa al Salone Nautico: quattro modelli speciali in mostra",
-      "link": "https://www.hdmotori.it/alfa-romeo-luna-rossa-salone-nautico/",
-      "excerpt": "Alfa Romeo è Official Car del Salone Nautico di Genova 2026 e porta la gamma Luna Rossa, compresa la Giulia Quadrifoglio prodotta in 10 esemplari",
-      "image": "https://hd2.tudocdn.net/1375831?w=660",
-      "publishedAt": "2026-10-03T08:00:11+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Realme GT 6T in offerta flash su Amazon: è ancora un'ottima scelta a poco più di 300€",
-      "link": "https://www.hdblog.it/smartphone/offerte/n672515/realme-gt-6t-offerta-amazon-ottobre-2026/",
-      "excerpt": "Il Realme GT 6T è in offerta su Amazon con uno sconto esclusivo per gli utenti Amazon Prime, ecco la promo.",
-      "image": "https://hd2.tudocdn.net/1167936?w=660",
-      "publishedAt": "2026-10-03T08:00:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Smartphone Android lento, queste app possono dargli nuova vita",
-      "link": "https://www.hdblog.it/smartphone/articoli/n672224/android-lento-applicazioni-come-velocizzare/",
-      "excerpt": "Poche app possono migliorare la reattività del dispositivo.",
-      "image": "https://hd2.tudocdn.net/1375291?w=660",
-      "publishedAt": "2026-10-03T07:55:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
