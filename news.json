@@ -1,9 +1,63 @@
 {
-  "generatedAt": "2026-10-04T17:55:37.817524+00:00",
+  "generatedAt": "2026-10-04T20:45:32.101380+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Windows XP non è morto e ora supporta le NVIDIA GTX 10, ecco come",
+      "link": "https://www.tomshw.it/hardware/windows-xp-non-e-morto-e-ora-supporta-le-nvidia-gtx-10-ecco-come",
+      "excerpt": "Windows XP continua a vivere nelle mani della comunità retrocomputing e ora può contare su schede video che NVIDIA non ha mai supportato ufficialmente su quel sistema operativo.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116604/windows-xp-non-e-morto-e-ora-supporta-le-nvidia-gtx-10-ecco--wlkolep.webp",
+      "publishedAt": "2026-10-04T20:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "GPT-6 Astra perde su StarCraft contro gli umani e fa una cosa impensabile",
+      "link": "https://www.tomshw.it/hardware/gpt-6-astra-perde-su-starcraft-contro-gli-umani-e-fa-una-cosa-impensabile",
+      "excerpt": "Lo scorso 2 ottobre, durante una partita a tre di StarSkirmish, il modello GPT-6 Astra di OpenAI ha smesso di giocare con il bot che aveva scritto e ha iniziato a usare quello di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116603/gpt-6-astra-perde-su-starcraft-contro-gli-umani-e-fa-una-cos-l25ss1a.webp",
+      "publishedAt": "2026-10-04T20:10:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Halo 2 arriva su PS5 grazie all'emulazione, e il risultato è sorprendente",
+      "link": "https://www.tomshw.it/videogioco/halo-2-arriva-su-ps5-grazie-allemulazione-e-il-risultato-e-sorprendente",
+      "excerpt": "Una PlayStation 5 con jailbreak può ora eseguire i giochi della prima Xbox, in uno dei paradossi più curiosi della scena homebrew. Lo sviluppatore ZiZc3 ha infatti pubblicato su…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/103296/Halo-2-CE.jpg",
+      "publishedAt": "2026-10-04T20:08:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Trapano brushless 21V a 63,99€, due batterie per lavorare senza pause",
+      "link": "https://www.tomshw.it/altro/trapano-brushless-21v-a-6399eur-due-batterie-per-lavorare-senza-pause",
+      "excerpt": "Il trapano avvitatore brushless 21V costa 63,99€ su Amazon, anziché 89,99€, con uno sconto del 29%. Due batterie intercambiabili da 2Ah permettono di continuare il lavoro…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116601/tomshw-offer-1486690.png",
+      "publishedAt": "2026-10-04T19:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "HUAWEI Pura 80 Pro a 749€, foto notturne e macro da vero top di gamma",
+      "link": "https://www.tomshw.it/smartphone/huawei-pura-80-pro-a-749eur-foto-notturne-e-macro-da-vero-top-di-gamma",
+      "excerpt": "HUAWEI Pura 80 Pro costa 749€ su Amazon, con un listino di 808,83€ e uno sconto del 7%. Il sensore da 1 pollice e il teleobiettivo macro lo rendono interessante soprattutto per…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116600/tomshw-offer-1486680.png",
+      "publishedAt": "2026-10-04T18:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Audio HDMI del monitor sparito: cose vedere dopo un upgrade della GPU",
+      "link": "https://www.tomshw.it/hardware/audio-hdmi-monitor-sparito-aggiornamento-driver-gpu",
+      "excerpt": "Se l’audio HDMI del monitor è sparito dalle uscite di Windows 11 dopo un aggiornamento del driver GPU, controlla prima i dispositivi disabilitati, poi il componente audio della…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115471/cover.png",
+      "publishedAt": "2026-10-04T18:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "Anker SOLIX C300X sotto 280€ porta 600W lontano dalle prese",
       "link": "https://www.tomshw.it/altro/anker-solix-c300x-sotto-280eur-porta-600w-lontano-dalle-prese",
@@ -46,60 +100,6 @@
       "excerpt": "GICON ha portato alla sua altezza finale una turbina eolica sperimentale a Schipkau, nella Germania orientale. Con le pale raggiunge 365 metri, un record mondiale per una turbina…",
       "image": "https://cdn.tomshw.it/storage/media/2026/10/116534/gicon-porta-l-eolico-a-365-metri-piu-energia-senza-occupare-piu-suolo.png",
       "publishedAt": "2026-10-04T16:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Thrustmaster T16000M FCS Flight Pack a 189,99€, il cockpit PC è completo",
-      "link": "https://www.tomshw.it/hardware/thrustmaster-t16000m-fcs-flight-pack-a-18999eur-il-cockpit-pc-e-completo",
-      "excerpt": "A 189,99€ su Amazon, il Thrustmaster T16000M FCS Flight Pack passa dal listino di 236,86€ al prezzo attuale con il 20% di sconto, pari a 46,87€ risparmiati. Joystick, manetta e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116596/tomshw-offer-1486548.png",
-      "publishedAt": "2026-10-04T15:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Dalla RTX 4090 cade un pezzo del dissipatore, il vero problema arriva dopo",
-      "link": "https://www.tomshw.it/hardware/una-rtx-4090-founders-edition-perde-un-pezzo-di-dissipatore-perche",
-      "excerpt": "Un proprietario di RTX 4090 Founders Edition ha segnalato il distacco di una sezione del dissipatore dopo aver spostato il proprio computer. Il pezzo è caduto dalla scheda,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116533/una-rtx-4090-founders-edition-perde-un-pezzo-di-dissipatore-perche.png",
-      "publishedAt": "2026-10-04T15:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Meglio comprare Meta Quest 3 ora o aspettare Meta Quest 4?",
-      "link": "https://www.tomshw.it/hardware/meglio-comprare-meta-quest-3-ora-o-aspettare-meta-quest-4",
-      "excerpt": "Meta Quest 3 è acquistabile nuovo in Italia a circa 618-620 euro nella versione da 512 GB: per chi vuole iniziare a giocare in realtà virtuale nei prossimi mesi, il consiglio è…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115437/meglio-comprare-meta-quest-3-ora-o-aspettare-meta-quest-4.png",
-      "publishedAt": "2026-10-04T15:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Dell 16 Plus 2-in-1 a 1.099€, minimo storico per lavoro e creatività",
-      "link": "https://www.tomshw.it/hardware/dell-16-plus-2-in-1-a-1099eur-minimo-storico-per-lavoro-e-creativita",
-      "excerpt": "Dell 16 Plus 2-in-1 costa 1.099€ su Amazon, anziché 1.729€, con uno sconto del 36% e un risparmio di 630€. Il touchscreen Mini-LED e la struttura convertibile lo preparano tanto…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116595/tomshw-offer-1486533.png",
-      "publishedAt": "2026-10-04T14:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "SONOFF S60TPF: due prese smart a 21,26€ per tagliare gli sprechi",
-      "link": "https://www.tomshw.it/altro/sonoff-s60tpf-due-prese-smart-a-2126eur-per-tagliare-gli-sprechi",
-      "excerpt": "Le due prese smart SONOFF S60TPF costano 21,26€ su Amazon, rispetto al listino di 26,45€ con il 20% di sconto. Monitoraggio energetico, timer e controllo remoto permettono di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116594/tomshw-offer-1486501.png",
-      "publishedAt": "2026-10-04T14:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Microsoft estende gli shader precompilati: quali GPU ne beneficiano?",
-      "link": "https://www.tomshw.it/hardware/microsoft-estende-gli-shader-precompilati-quali-gpu-ne-beneficiano",
-      "excerpt": "Microsoft amplia il supporto di Advanced Shader Delivery ai PC con GPU NVIDIA, Intel e Qualcomm. Gears of War: E-Day sarà il primo gioco a sfruttare la funzione su questa gamma di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116532/microsoft-estende-gli-shader-precompilati-quali-gpu-ne-beneficiano.png",
-      "publishedAt": "2026-10-04T14:00:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
