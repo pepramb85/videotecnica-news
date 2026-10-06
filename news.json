@@ -1,152 +1,188 @@
 {
-  "generatedAt": "2026-10-06T16:25:34.808709+00:00",
+  "generatedAt": "2026-10-06T22:04:57.081403+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "iPhone 18 Pro e iPhone Duo: nei piani di Apple dovevano avere 16 GB di RAM",
-      "link": "https://www.hdblog.it/smartphone/articoli/n672808/apple-iphone-18-pro-duo-12-16-gb-ram-memorie/",
-      "excerpt": "Ma poi a Cupertino avrebbero cambiato idea.",
-      "image": "https://hd2.tudocdn.net/1370648?w=660",
-      "publishedAt": "2026-10-06T16:20:00+00:00",
+      "title": "-44% sul Thrustmaster ESWAP X2 H.E., un affare con stick anti-drift",
+      "link": "https://www.tomshw.it/videogioco/44-sul-thrustmaster-eswap-x2-he-un-affare-con-stick-anti-drift",
+      "excerpt": "Il Thrustmaster ESWAP X2 H.E. costa 99,99€ su Amazon: il gamepad per Xbox e PC è scontato del 44% rispetto ai 179,99€ di listino. Gli stick Hall Effect prevengono il drift, mentre…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/117074/tomshw-offer-1520339.png",
+      "publishedAt": "2026-10-06T20:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Monitor Dell 34 Plus USB-C a 376,18€, 34 pollici per lavorare",
+      "link": "https://www.tomshw.it/offerte/monitor-dell-34-plus-usb-c-a-37618eur-34-pollici-per-lavorare",
+      "excerpt": "Il monitor Dell 34 Plus USB-C S3425DW costa 376,18 € su Amazon, con uno sconto del 5.46% e al prezzo più basso degli ultimi 30 giorni. Con la Festa delle Offerte Prime diventa una…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116163/B0F29SWF25.webp",
+      "publishedAt": "2026-10-06T20:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Canon EOS R100 al prezzo più basso del mese, la mirrorless per fotografare",
+      "link": "https://www.tomshw.it/offerte/canon-eos-r100-al-prezzo-piu-basso-del-mese-la-mirrorless-per-fotografare",
+      "excerpt": "Canon EOS R100 costa 529,00 € su Amazon, con uno sconto del 5,37% e senza un prezzo di listino indicato. Durante la Festa delle Offerte Prime, è una proposta per chi vuole passare…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116162/B0CVYLY7TG.webp",
+      "publishedAt": "2026-10-06T19:45:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Logitech G PRO X SE al prezzo più basso del mese, cuffie per giocare",
+      "link": "https://www.tomshw.it/offerte/logitech-g-pro-x-se-al-prezzo-piu-basso-del-mese-cuffie-per-giocare",
+      "excerpt": "Logitech G PRO X SE costa 54,99 € su Amazon, con uno sconto del 21,43%. Con la Festa delle Offerte Prime diventa una scelta concreta per chi cerca una cuffia cablata per giocare…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116161/B0CYJF4KG7.webp",
+      "publishedAt": "2026-10-06T19:30:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Motorola edge 70 fusion a 284,89€, il minimo storico per chi cambia smartphone",
+      "link": "https://www.tomshw.it/offerte/motorola-edge-70-fusion-a-28489eur-il-minimo-storico-per-chi-cambia-smartphone",
+      "excerpt": "Motorola edge 70 fusion è al minimo storico di 284,89 € su Amazon, con uno sconto del 5,01%. Durante la Festa delle Offerte Prime, è pensato per chi cerca un display da 6,78…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116160/B0H87TYB85.webp",
+      "publishedAt": "2026-10-06T19:15:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "LEGO Game Boy al minimo storico di 41,99€, da costruire per i fan",
+      "link": "https://www.tomshw.it/offerte/lego-game-boy-al-minimo-storico-di-4199eur-da-costruire-per-i-fan",
+      "excerpt": "LEGO Game Boy è al minimo storico di 41,99 € su Amazon, con uno sconto del 19,09%. Con la Festa delle Offerte Prime, il set permette agli appassionati Nintendo di costruire una…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116158/B0DWDGVHM6.webp",
+      "publishedAt": "2026-10-06T19:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Ci sono molte macchine per l'AI locale in commercio, e costano tanto. Eccone alcuni",
+      "link": "https://www.tomshw.it/business/ci-sono-molte-macchine-per-lai-locale-in-commercio-e-costano-tanto-eccone-alcuni",
+      "excerpt": "L’esecuzione di AI localmente, on-premise, richiama sempre più interesse da parte di aziende e professionisti, e forse anche qualche privato lo vuole prendere in considerazione.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116950/12-ghost-core-modelli-locali-on-prem.jpg",
+      "publishedAt": "2026-10-06T18:56:45+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Incisore laser xTool M2, tagli e stampi regali a colori a soli 996,55€",
+      "link": "https://www.tomshw.it/hardware/incisore-laser-xtool-m2-tagli-e-stampi-regali-a-colori-a-soli-99655eur",
+      "excerpt": "xTool M2 costa 996,55€ su Amazon, con uno sconto del 34% sul listino di 1.499€. Il modulo di stampa CMYK incluso permette di aggiungere immagini a colori agli oggetti tagliati con…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/117073/tomshw-offer-1520296.png",
+      "publishedAt": "2026-10-06T18:49:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "UGREEN NASync DH4300 Plus al minimo storico, archivia i file in rete",
+      "link": "https://www.tomshw.it/offerte/ugreen-nasync-dh4300-plus-al-minimo-storico-archivia-i-file-in-rete",
+      "excerpt": "UGREEN NASync DH4300 Plus è al minimo storico di 319,99 € su Amazon, con uno sconto del 5.88%. Con la Festa delle Offerte Prime, il NAS a 4 vani diventa un'opzione per famiglie,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116156/B0F6CR39WR.webp",
+      "publishedAt": "2026-10-06T18:45:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "MOVA LiDAX Ultra 1600 al minimo storico di 799€, taglia il prato da solo",
+      "link": "https://www.tomshw.it/offerte/mova-lidax-ultra-1600-al-minimo-storico-di-799eur-taglia-il-prato-da-solo",
+      "excerpt": "MOVA LiDAX Ultra 1600 è al minimo storico di 799,00 € su Amazon, con uno sconto del 15,81%. Durante la Festa delle Offerte Prime, è pensato per automatizzare il taglio anche nei…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116155/B0GD21LQFJ.webp",
+      "publishedAt": "2026-10-06T18:30:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Prova di Acer Nitro V16 AI con GeForce RTX 5070: potenza pura! | VIDEO",
+      "link": "https://www.hdblog.it/hardware/recensioni/n672134/acer-nitro-v-16-ai-test-prova-video/",
+      "excerpt": "Abbiamo provato il nuovo Acer Nitro V 16 AI, un portatile da gaming che punta tutto su un ottimo rapporto prezzo/prestazioni.",
+      "image": "https://hd2.tudocdn.net/1375839?w=660",
+      "publishedAt": "2026-10-06T18:22:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Ricarichi meno con HUAWEI WATCH FIT 4 Pro, fino a 10 giorni a 156,26€",
-      "link": "https://www.tomshw.it/smartphone/ricarichi-meno-con-huawei-watch-fit-4-pro-fino-a-10-giorni-a-15626eur",
-      "excerpt": "HUAWEI WATCH FIT 4 Pro a 156,26€ su Amazon offre fino a 10 giorni di autonomia per accompagnare allenamenti e giornate fuori casa. È uno smartwatch da considerare se vuoi tenere…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/117069/tomshw-offer-1520153.png",
-      "publishedAt": "2026-10-06T16:19:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "LG OLED evo AI B5 al minimo storico di 1.477,51€, per film e serie in salotto",
-      "link": "https://www.tomshw.it/offerte/lg-oled-evo-ai-b5-al-minimo-storico-di-147751eur-per-film-e-serie-in-salotto",
-      "excerpt": "LG OLED evo AI B5 è al minimo storico di 1477,51 € su Amazon, con uno sconto del 9,8%. Con la Festa delle Offerte Prime, il modello da 83 pollici diventa una soluzione per cinema…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116139/B0F44F4H9J.webp",
-      "publishedAt": "2026-10-06T16:15:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Arc Raiders e The Finals diventeranno film e serie TV",
-      "link": "https://www.hdblog.it/games/articoli/n672717/arc-raiders-the-finals-film-serie-tv/",
-      "excerpt": "Chernin porterà Arc Raiders e The Finals al cinema e in TV con nuovi progetti.",
-      "image": "https://hd2.tudocdn.net/1376244?w=660",
-      "publishedAt": "2026-10-06T16:10:00+00:00",
+      "title": "Svelati i colori di Galaxy S27 Ultra: una nuova immagine ci mostra come saranno",
+      "link": "https://www.hdblog.it/smartphone/articoli/n672751/samsung-galaxy-s27-ultra-colori-leak-2/",
+      "excerpt": "Condivisa online la prima immagine che mostra tutti i possibili colori di Samsung Galaxy S27 Ultra.",
+      "image": "https://hd2.tudocdn.net/1376292?w=660",
+      "publishedAt": "2026-10-06T18:21:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Alpine PS1: un misterioso concept in arrivo al Salone di Parigi",
-      "link": "https://www.hdmotori.it/alpine-ps1-un-misterioso-concept-in-arrivo-al-salone-di-parigi/",
-      "excerpt": "La Casa transalpina anticipa 'Projet Spécial 1', un prototipo inedito che esplora nuove frontiere del design e dell'innovazione tra tecnologia e grande sportività.",
-      "image": "https://hd2.tudocdn.net/1376412?w=660",
-      "publishedAt": "2026-10-06T16:00:09+00:00",
+      "title": "Aldi sfida Lidl: in arrivo friggitrice 11-in-1 e macchina da caffè compatibile Nespresso",
+      "link": "https://www.hdblog.it/home/articoli/n672725/aldi-friggitrice-aria-macchina-caffe-nespresso/",
+      "excerpt": "Da giovedì 15 ottobre.",
+      "image": "https://hd2.tudocdn.net/1376254?w=660",
+      "publishedAt": "2026-10-06T18:20:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "MacBook Air M5 vs MacBook Air M4: quale scegliere?",
-      "link": "https://www.tomshw.it/hardware/macbook-air-m5-vs-macbook-air-m4-quale-scegliere",
-      "excerpt": "MacBook Air M5 offre il doppio dello spazio nella configurazione base, un SSD più veloce e una GPU aggiornata: vantaggi concreti per chi conserva progetti sul portatile o usa…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116657/macbook-air-m5-vs-macbook-air-m4-quale-scegliere.png",
-      "publishedAt": "2026-10-06T16:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "LEGO ONE PIECE La nave pirata Going Merry a 90,99€, il set da costruire",
-      "link": "https://www.tomshw.it/offerte/lego-one-piece-la-nave-pirata-going-merry-a-9099eur-il-set-da-costruire",
-      "excerpt": "LEGO ONE PIECE La nave pirata Going Merry è al minimo storico di 90,99 € su Amazon, con uno sconto dell’8,92%. Con la Festa delle Offerte Prime, il set play-and-display propone…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116136/B0DWDQYB87.webp",
-      "publishedAt": "2026-10-06T16:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Costruisci il chatbot interno del reparto IT con Ollama, senza far uscire dati dalla rete",
-      "link": "https://www.tomshw.it/aioperator/costruisci-il-chatbot-interno-del-reparto-it-con-ollama-senza-far-uscire-dati-dalla-rete",
-      "excerpt": "Ollama e Open WebUI trasformano un server del reparto IT in un assistente che risponde dalle procedure interne, senza mandare una riga fuori dalla rete. Il tutorial ti porta dal…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115816/04-it10-cover.jpg",
-      "publishedAt": "2026-10-06T16:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Windows XP, ecco i segreti dietro la sua compatibilità leggendaria",
-      "link": "https://www.hdblog.it/windows/articoli/n672810/windows-xp-compatibilita-universale-app-segreti/",
-      "excerpt": "In quel periodo Microsoft investì parecchie risorse per assicurarsi che aziende e utenti non avessero ostacoli all'upgrade.",
-      "image": "https://hd2.tudocdn.net/1357134?w=660",
-      "publishedAt": "2026-10-06T15:55:00+00:00",
+      "title": "AMD spinge sull'acceleratore nel 2027: più chip per sostenere la domanda AI",
+      "link": "https://www.hdblog.it/amd/articoli/n672835/amd-chip-ai-produzione-2027-aumento-lisa-su-ceo/",
+      "excerpt": "Parole della CEO Lisa Su, in visita a Taiwan.",
+      "image": "https://hd2.tudocdn.net/1349884?w=660",
+      "publishedAt": "2026-10-06T18:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Ascolta senza distrazioni: Bose QuietComfort a 189,05€, il minimo di sempre",
-      "link": "https://www.tomshw.it/smartphone/ascolta-senza-distrazioni-bose-quietcomfort-a-18905eur-il-minimo-di-sempre",
-      "excerpt": "Bose QuietComfort Headphones a 189,05€ su Amazon, con uno sconto del 24% sul prezzo di listino di 249,95€. La cancellazione del rumore e i cuscinetti che avvolgono le orecchie…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/117059/tomshw-offer-1520132.png",
-      "publishedAt": "2026-10-06T15:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "La spazzatura fa odore? Soluzione tech e senza costi in arrivo",
-      "link": "https://www.hdblog.it/home/articoli/n672579/coperchio-solare-bidoni-cattivi-odori/",
-      "excerpt": "Un catalizzatore attivato dal Sole degrada le molecole responsabili dei cattivi odori.",
-      "image": "https://hd2.tudocdn.net/1375962?w=660",
-      "publishedAt": "2026-10-06T15:45:00+00:00",
+      "title": "Parigi 2026, Leapmotor cala il bis: in arrivo la compatta B03 e il maxi SUV D19",
+      "link": "https://www.hdmotori.it/leapmotor-b03-d19-anteprima-parigi-2026/",
+      "excerpt": "Anteprima europea a Parigi 2026: Leapmotor svela la berlina elettrica B03 con 392 km di autonomia e il maxi SUV D19 a 6 posti con tecnologia REEV extended range",
+      "image": "https://hd2.tudocdn.net/1376452?w=660",
+      "publishedAt": "2026-10-06T18:00:40+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "moto g57 da 256GB al minimo storico di 189,89€, hai spazio per app e foto",
-      "link": "https://www.tomshw.it/offerte/moto-g57-da-256gb-al-minimo-storico-di-18989eur-hai-spazio-per-app-e-foto",
-      "excerpt": "Moto g57 da 256GB è al minimo storico di 189,89 € su Amazon. Con la Festa delle Offerte Prime, è pensato per chi cerca uno smartphone capiente per messaggi, social e video, con…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116134/B0GKGHWVBG.webp",
-      "publishedAt": "2026-10-06T15:45:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Festa Prime, il meglio del giorno 1: i Bestseller da comprare subito",
-      "link": "https://www.tomshw.it/altro/festa-prime-il-meglio-del-giorno-1-i-bestseller-da-comprare-subito",
-      "excerpt": "La Festa Prime è entrata nel vivo e il primo giorno di offerte ha già messo sul piatto una lunga serie di occasioni interessanti. Per aiutarvi a orientarvi tra le numerose…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/117058/Festa-Prime,-il-meglio-del-giorno-1-i-Bestseller-da-comprare-subito.jpg",
-      "publishedAt": "2026-10-06T15:40:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Maxton Hall S3 su Prime Video, arriverà il 9 dicembre | Poster",
-      "link": "https://www.hdblog.it/spettacolo/articoli/n621314/maxton-hall-terza-stagione-prime-video/",
-      "excerpt": "La storia di Ruby e James proseguirà con una terza stagione su Prime Video",
-      "image": "https://hd2.tudocdn.net/1376257?w=660",
-      "publishedAt": "2026-10-06T15:35:00+00:00",
+      "title": "Googlebook, è ufficiale: supporto a sblocco del bootloader",
+      "link": "https://www.hdblog.it/google/articoli/n672838/googlebook-modding-sblocco-bootloader-android/",
+      "excerpt": "La società sembra sorprendentemente accomodante nei confronti degli appassionati di modding rispetto a quanto vediamo nel settore smartphone e tablet.",
+      "image": "https://hd2.tudocdn.net/1373357?w=660",
+      "publishedAt": "2026-10-06T17:55:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "CORSAIR VENGEANCE RGB RS DDR5 32GB a 369,99€, 32GB per giocare e lavorare",
-      "link": "https://www.tomshw.it/offerte/corsair-vengeance-rgb-rs-ddr5-32gb-a-36999eur-32gb-per-giocare-e-lavorare",
-      "excerpt": "CORSAIR VENGEANCE RGB RS DDR5 32GB è a 369,99 € su Amazon, con uno sconto del 13,95%. Con la Festa delle Offerte Prime, questo kit composto da due moduli da 16GB è pensato per…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116110/B0GGJ79NR3.webp",
-      "publishedAt": "2026-10-06T15:30:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
+      "title": "Sconto del 42% sul router Wi-Fi 7 di FRITZ!, ma solo per i clienti Prime",
+      "link": "https://www.hdblog.it/hardware/offerte/n672829/router-wi-fi-7-fritz-festa-offerte-prime-2026/",
+      "excerpt": "Durante la Festa delle Offerte Prime di Amazon il router Wi-Fi 7 di FRITZ! è scontato di oltre il 40%.",
+      "image": "https://hd2.tudocdn.net/1376449?w=660",
+      "publishedAt": "2026-10-06T17:49:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
     },
     {
-      "title": "Cosa sono i world model e in cosa differiscono dagli LLM",
-      "link": "https://www.tomshw.it/business/cosa-sono-i-world-model-e-in-cosa-differiscono-dagli-llm",
-      "excerpt": "Qualche giorno fa, AMD ha accettato di comprare World Labs, la società di Fei-Fei Li, per circa 8,2 miliardi di dollari in azioni. Una settimana dopo NVIDIA è entrata nel capitale…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116944/06-world-model-reactor-nvidia.jpg",
-      "publishedAt": "2026-10-06T15:21:34+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
+      "title": "Una possibile soluzione praticabile alle RTX che fondono",
+      "link": "https://www.hdblog.it/hardware/articoli/n672834/geforce-rtx-50-12vhpwr-fuso-soluzione/",
+      "excerpt": "Una scheda aggiuntiva con due \"cari vecchi\" connettori PCI a 8 pin. Forse non esattamente minimal, ma se permette di proteggere hardware che ormai costa come un'utilitaria usata...",
+      "image": "https://hd2.tudocdn.net/1376445?w=660",
+      "publishedAt": "2026-10-06T17:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Gli Emmy cambiano casa: dal 2027 saranno gratis su Amazon Prime Video",
+      "link": "https://www.hdblog.it/amazon/articoli/n672832/emmy-awards-prime-video-2027-streaming-gratis/",
+      "excerpt": "Sul piatto 120 milioni di dollari.",
+      "image": "https://hd2.tudocdn.net/1287448?w=660",
+      "publishedAt": "2026-10-06T17:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Un lettore CD portatile Bluetooth retro con scocca semitrasparente (anche fluorescente!)",
+      "link": "https://www.hdblog.it/altadefinizione/articoli/n672830/lettore-cd-retro-semitrasparente-fluorescente/",
+      "excerpt": "Arriva dal Giappone e si chiama Relax Pixel Tunes. Laggiù si può comprare all'equivalente di poco più di 70 euro.",
+      "image": "https://hd2.tudocdn.net/1376442?w=660",
+      "publishedAt": "2026-10-06T17:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
     },
     {
       "title": "Le Beats Solo 4 ora costano 129 euro: su Amazon l'offerta è davvero interessante",
@@ -158,24 +194,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "La fusione tra Paramount e Warner è ufficiale. Ristrutturazione in vista?",
-      "link": "https://www.hdblog.it/mercato/articoli/n672806/skydance-paramount-warner-discovery-acquisizione/",
-      "excerpt": "I documenti sono stati firmati poche ore fa, ma l'arrivo di un nuovo co-CEO da Mattel causa un po' di preoccupazioni.",
-      "image": "https://hd2.tudocdn.net/1376399?w=660",
-      "publishedAt": "2026-10-06T15:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Leapmotor supera i 1.000 punti vendita in Europa: uno è raggiungibile in media in 22 minuti",
-      "link": "https://www.hdmotori.it/leapmotor-punti-vendita-europa/",
-      "excerpt": "Leapmotor raggiunge 1.020 punti vendita in Europa grazie alla joint venture con Stellantis. Ad agosto il continente ha pesato per il 27% delle consegne globali",
-      "image": "https://hd2.tudocdn.net/1376398?w=660",
-      "publishedAt": "2026-10-06T15:00:19+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "L’europea Mistral AI torna con Large 4: “È il modello open più potente tra quelli sviluppati in USA ed Europa”",
       "link": "https://images.dday.it/VwMBO5jBZqiofsHsNgEUvR9mc1t5NOYoKB1JSIJIb8E/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59002/0b378b_ghghfgh.jpg",
       "excerpt": "Mistral AI rilancia con Large 4, addestrato in Francia su 3.800 GPU NVIDIA Grace Blackwell. I pesi aperti arriveranno a fine ottobre... Leggi tutto",
@@ -183,24 +201,6 @@
       "publishedAt": "2026-10-06T14:50:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Alexa Plus ha iniziato a canticchiare uno strano motivetto: fioccano le segnalazioni",
-      "link": "https://www.hdblog.it/amazon/articoli/n672795/alexa-plus-bug-canta-lalala/",
-      "excerpt": "Alexa Plus impazzisce e canta \"lalala\": Amazon conferma il bug sugli speaker Echo.",
-      "image": "https://hd2.tudocdn.net/1374690?w=660",
-      "publishedAt": "2026-10-06T14:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Festa delle Offerte Prime: le 20 offerte TOP da non lasciarsi sfuggire",
-      "link": "https://www.hdblog.it/amazon/offerte/n672798/migliori-offerte-festa-prime-20-top-sconti/",
-      "excerpt": "Le 20 migliori offerte del primo giorno di Festa Offerte Prime di ottobre 2026.",
-      "image": "https://hd2.tudocdn.net/1376394?w=660",
-      "publishedAt": "2026-10-06T14:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Le migliori occasioni della Festa delle Offerte Prime, in continuo aggiornamento",
