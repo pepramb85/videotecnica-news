@@ -1,9 +1,162 @@
 {
-  "generatedAt": "2026-10-07T18:13:05.333020+00:00",
+  "generatedAt": "2026-10-07T23:56:58.397004+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Anthropic annuncia Haiku 5.5: 75% più economico e prestazioni superiori",
+      "link": "https://www.tomshw.it/hardware/anthropic-annuncia-haiku-55-75-piu-economico-e-prestazioni-superiori-2026-10-07",
+      "excerpt": "Anthropic amplia la propria offerta di modelli linguistici con il lancio di Claude Haiku 5.5, presentato dall'azienda come il modello di piccole dimensioni più economico, veloce e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/117268/HAIKU-5-5.png",
+      "publishedAt": "2026-10-07T20:53:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "-42% sul Philips Serie 3000, un affare per raderti anche sotto la doccia",
+      "link": "https://www.tomshw.it/altro/42-sul-philips-serie-3000-un-affare-per-raderti-anche-sotto-la-doccia",
+      "excerpt": "Il Philips Serie 3000 costa 49,99€ su Amazon, con uno sconto del 42% sul listino di 85,99€. Il modello S3145/00 ti lascia scegliere tra una rasatura a secco e una sotto la doccia,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/117267/tomshw-offer-1543522.png",
+      "publishedAt": "2026-10-07T20:20:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Surface Laptop Ultra con RTX Spark: l'IA torna sul PC, ma a che prezzo?",
+      "link": "https://www.tomshw.it/hardware/surface-laptop-ultra-con-rtx-spark-lia-torna-sul-pc-ma-a-che-prezzo",
+      "excerpt": "1,6 milioni di token in ingresso, 10.500 in uscita, zero dollari spesi. Il numero mostrato con più orgoglio all'evento di San Francisco organizzato da Microsoft e NVIDIA non era…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/117265/Windows-RTX-Spark-event-6.jpg",
+      "publishedAt": "2026-10-07T20:10:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il futuro di Windows 11 è un PC con Copilot che usa il computer al posto tuo",
+      "link": "https://images.dday.it/vZ7LMMYO7DGzWdHxgRKu5E6ZoiG72Dulc0avjcneJo0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/59024/068484_msftmain.jpg",
+      "excerpt": "Windows traccia la strada per un futuro dove desktop e AI si dovranno inevitabilmente incontrare: nelle prossime versioni del sistema operativo arriverà la ricerca nella taskbar…",
+      "image": "https://images.dday.it/vZ7LMMYO7DGzWdHxgRKu5E6ZoiG72Dulc0avjcneJo0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/59024/068484_msftmain.jpg",
+      "publishedAt": "2026-10-07T20:00:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Computer desktop Dell Slim a 469€, per lavorare e studiare a casa",
+      "link": "https://www.tomshw.it/offerte/computer-desktop-dell-slim-a-469eur-per-lavorare-e-studiare-a-casa",
+      "excerpt": "Il computer desktop Dell Slim costa 469,00 € su Amazon, con uno sconto del 6,01%. Con la Festa delle Offerte Prime è pensato per lavoro quotidiano, studio e videochiamate, grazie…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116284/B0F4FSTXS3.webp",
+      "publishedAt": "2026-10-07T20:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "CORSAIR VENGEANCE RGB DDR5 32GB al minimo storico, più RAM per il gaming",
+      "link": "https://www.tomshw.it/offerte/corsair-vengeance-rgb-ddr5-32gb-al-minimo-storico-piu-ram-per-il-gaming",
+      "excerpt": "CORSAIR VENGEANCE RGB DDR5 32GB è al minimo storico di 429,99 € su Amazon, con uno sconto del 19.93%. Durante la Festa delle Offerte Prime, questo kit è indicato per aggiornare un…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116283/B0CD7WZRHF.webp",
+      "publishedAt": "2026-10-07T19:45:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Nikon Z50II al prezzo più basso del mese, per scattare foto e girare video",
+      "link": "https://www.tomshw.it/offerte/nikon-z50ii-al-prezzo-piu-basso-del-mese-per-scattare-foto-e-girare-video",
+      "excerpt": "Nikon Z50II costa 1199,00 € su Amazon, con uno sconto dell’11,77% e il prezzo più basso degli ultimi 30 giorni. Con la Festa delle Offerte Prime è indicata a chi cerca un corpo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116282/B0DP5D8657.webp",
+      "publishedAt": "2026-10-07T19:30:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Surface Laptop Ultra ufficiale. L’anti MacBook Pro di Microsoft parte da 2.599 dollari",
+      "link": "https://images.dday.it/ZbKRf1WDFa-X81DR2pdarZN1MsrJS91DnCE5R1qUqws/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59023/f467d5_SLU_Hero_Desktop_Poster__1_.jpg",
+      "excerpt": "15 pollici, un petaflop di potenza di calcolo AI, SSD removibile e configurazioni fino a 128 GB di memoria. Microsoft posiziona il suo nuovo Surface Laptop Ultra allo stesso…",
+      "image": "https://images.dday.it/ZbKRf1WDFa-X81DR2pdarZN1MsrJS91DnCE5R1qUqws/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59023/f467d5_SLU_Hero_Desktop_Poster__1_.jpg",
+      "publishedAt": "2026-10-07T19:23:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Insta360 Ace Pro 2 Xplorer al minimo storico di 379€, per riprendere l'azione",
+      "link": "https://www.tomshw.it/offerte/insta360-ace-pro-2-xplorer-al-minimo-storico-di-379eur-per-riprendere-lazione",
+      "excerpt": "Insta360 Ace Pro 2 Xplorer è al minimo storico di 379,00 € su Amazon, con uno sconto del 5,01%. Durante la Festa delle Offerte Prime, questa action cam combina ottica Leica e kit…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116280/B0F74W8T7X.webp",
+      "publishedAt": "2026-10-07T19:15:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Windows Search ora è più rapido che mai, con queste novità",
+      "link": "https://www.tomshw.it/hardware/windows-search-ora-e-piu-rapido-che-mai-con-queste-novita",
+      "excerpt": "Microsoft ha cambiato radicalmente una delle funzioni più utilizzate di Windows: la casella di ricerca che compare sulla barra delle applicazioni. A partire da oggi, gli Insider…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/117258/Nuovo-Windows-Search.jpg",
+      "publishedAt": "2026-10-07T19:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Intel Core Ultra 5 250KF Plus al minimo storico, per assemblare un PC",
+      "link": "https://www.tomshw.it/offerte/intel-core-ultra-5-250kf-plus-al-minimo-storico-per-assemblare-un-pc",
+      "excerpt": "Intel Core Ultra 5 250KF Plus è al minimo storico di 194,99 € su Amazon, con uno sconto del 6,2%. Con la Festa delle Offerte Prime diventa una base conveniente per assemblare un…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116279/B0GMLFFHS1.webp",
+      "publishedAt": "2026-10-07T19:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Vai al lavoro con Segway-Ninebot F65I: fino a 65 km a 557,05€",
+      "link": "https://www.tomshw.it/automotive/vai-al-lavoro-con-segway-ninebot-f65i-fino-a-65-km-a-55705eur",
+      "excerpt": "Segway-Ninebot F65I costa 557,05€ su Amazon e offre fino a 65 km di autonomia per chi usa il monopattino negli spostamenti quotidiani. Le ruote pneumatiche da 10 pollici e la…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/117257/tomshw-offer-1543477.png",
+      "publishedAt": "2026-10-07T18:49:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Amazon spegne una funzione storica di Alexa sui vecchi Echo",
+      "link": "https://www.hdblog.it/tv/articoli/n672884/amazon-alexa-echo-comandi-aux-rimossi/",
+      "excerpt": "Alexa non può più controllare via voce l’ingresso AUX di alcuni vecchi Amazon Echo.",
+      "image": "https://hd2.tudocdn.net/1374690?w=660",
+      "publishedAt": "2026-10-07T18:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "In Cina l'acqua di mare diventa idrogeno, acqua dolce e uranio",
+      "link": "https://www.hdblog.it/green/articoli/n672893/idrogeno-acqua-mare-impianto-cina/",
+      "excerpt": "Un impianto da 250 kW recupera il calore perso per produrre idrogeno e acqua dolce.",
+      "image": "https://hd2.tudocdn.net/1376527?w=660",
+      "publishedAt": "2026-10-07T18:44:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Porsche Mission S: il teaser anticipa la nuova supercar a motore centrale",
+      "link": "https://www.hdmotori.it/porsche-mission-s-teaser/",
+      "excerpt": "Il prossimo 15 ottobre il marchio tedesco svelerà la nuova concept, che rientra nel piano strategico “Sportwagenschmiede '35”.",
+      "image": "https://hd2.tudocdn.net/1376755?w=660",
+      "publishedAt": "2026-10-07T18:30:42+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Microsoft Surface Laptop Ultra, ci siamo: prezzi, configurazioni e disponibilità",
+      "link": "https://www.hdblog.it/portatili/articoli/n672997/microsoft-surface-laptop-ultra-prezzi-quando/",
+      "excerpt": "Per ora la disponibilità è solo USA. I prezzi? Meglio di quanto si temesse, tutto sommato.",
+      "image": "https://hd2.tudocdn.net/1346884?w=660",
+      "publishedAt": "2026-10-07T18:28:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple supera Samsung in Europa nel Q2 2026 nelle vendite tramite operatori",
+      "link": "https://www.hdblog.it/smartphone/articoli/n672990/apple-supera-samsung-europa-vendite-q2-2026/",
+      "excerpt": "La crisi delle memorie continua a penalizzare soprattutto la fascia bassa.",
+      "image": "https://hd2.tudocdn.net/1329756?w=660",
+      "publishedAt": "2026-10-07T18:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Google lancia Playground: l'AI che crea videogiochi con i prompt",
       "link": "https://www.hdblog.it/google/articoli/n672992/google-playground-videogiochi-ai-prompt-testo/",
@@ -14,15 +167,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Quando mandi gli agenti a lavorare nel web per te ma quelli tornano a mani vuote",
-      "link": "https://www.tomshw.it/business/quando-mandi-gli-agenti-a-lavorare-nel-web-per-te-ma-quelli-tornano-a-mani-vuote",
-      "excerpt": "Per molti di noi è ormai normale, o quasi, usare agenti AI e mandarli sul web a fare cose per noi. È senz'altro una tra le loro capacità più interessanti, ma si scontra con il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/117231/02-agenti-ai-accesso-siti-web.jpg",
-      "publishedAt": "2026-10-07T18:00:22+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Honda rinnova Rebel e Gold Wing: cosa cambia con il model year 2027",
       "link": "https://www.hdmotori.it/honda-rebel-gold-wing-2027-novita/",
       "excerpt": "Honda aggiorna la gamma 2027: la CMX500 Rebel guadagna la frizione elettronica E-Clutch e display TFT, mentre la Rebel 1100 e la Gold Wing rinnovano le colorazioni.",
@@ -30,42 +174,6 @@
       "publishedAt": "2026-10-07T18:00:21+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Wi-Fi lento col notebook a batteria? Ecco cosa controllare",
-      "link": "https://www.tomshw.it/hardware/wifi-lento-notebook-batteria-controlli-scheda-driver",
-      "excerpt": "Se il Wi-Fi lento sul notebook si manifesta soltanto a batteria, prima di acquistare una nuova scheda confronta alimentazione e batteria mantenendo posizione, access point e banda…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116861/cover.png",
-      "publishedAt": "2026-10-07T18:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "eufyCam S330 (eufyCam 3) 4-Cam Kit a 399,99€, 4 camere per sorvegliare casa",
-      "link": "https://www.tomshw.it/offerte/eufycam-s330-eufycam-3-4-cam-kit-a-39999eur-4-camere-per-sorvegliare-casa",
-      "excerpt": "eufyCam S330 (eufyCam 3) 4-Cam Kit è al minimo storico di 399,99 € su Amazon, con uno sconto del 5,21%. Con la Festa delle Offerte Prime, il sistema permette di sorvegliare più…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116273/B0BV6XCNLC.webp",
-      "publishedAt": "2026-10-07T18:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "SteelSeries Arctis Nova Pro Wireless a 241,26€, giochi senza pause di ricarica",
-      "link": "https://www.tomshw.it/hardware/steelseries-arctis-nova-pro-wireless-a-24126eur-giochi-senza-pause-di-ricarica",
-      "excerpt": "Le SteelSeries Arctis Nova Pro Wireless a 241,26€ su Amazon permettono di alternare due batterie e continuare a giocare mentre una si ricarica. La stazione base ospita la batteria…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/117254/tomshw-offer-1543437.png",
-      "publishedAt": "2026-10-07T17:50:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Hisense 85U79S Pro al minimo storico di 1.299€, film e serie in salotto",
-      "link": "https://www.tomshw.it/offerte/hisense-85u79s-pro-al-minimo-storico-di-1299eur-film-e-serie-in-salotto",
-      "excerpt": "Hisense 85U79S Pro è al minimo storico di 1299,00 € su Amazon, con uno sconto del 13,34%. Con la Festa delle Offerte Prime, il pannello da 85 pollici punta a cinema e videogiochi…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116271/B0GR6L8H6Z.webp",
-      "publishedAt": "2026-10-07T17:45:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "MovieBox sta diventando un'operazione di pirateria audio/video enorme",
@@ -86,101 +194,11 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Monitor Dell 24 al minimo storico di 87,40€, si regola per lavorare",
-      "link": "https://www.tomshw.it/offerte/monitor-dell-24-al-minimo-storico-di-8740eur-si-regola-per-lavorare",
-      "excerpt": "Il monitor Dell 24 Adjustable Stand SE2426HS è al minimo storico di 87,40 € su Amazon, con uno sconto del 5%. Con la Festa delle Offerte Prime diventa una soluzione accessibile…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116269/B0GVG3GHS8.webp",
-      "publishedAt": "2026-10-07T17:30:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Elettrodomestici, gli italiani guardano alla durata più che al prezzo",
       "link": "https://www.hdblog.it/home/articoli/n672936/elettrodomestici-italiani-durata-prezzo/",
       "excerpt": "L'acquisto di un frigo o di una lavatrice è considerato un investimento",
       "image": "https://hd2.tudocdn.net/1376651?w=660",
       "publishedAt": "2026-10-07T17:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Fondi UE per startup e PMI, chi può ancora entrare nell'ultima finestra del 2026?",
-      "link": "https://www.tomshw.it/business/fondi-ue-per-startup-e-pmi-chi-puo-ancora-entrare-nellultima-finestra-del-2026",
-      "excerpt": "L'EIC Accelerator, lo strumento di Horizon Europe con cui il Consiglio europeo per l'innovazione finanzia startup e PMI, ha il 4 novembre 2026 alle 17 di Bruxelles la sua ultima…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/117158/11-eic-accelerator-cutoff-novembre.jpg",
-      "publishedAt": "2026-10-07T17:20:38+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "400€ in meno sul Creality Sermoon S1, scansioni 3D per i tuoi progetti CAD",
-      "link": "https://www.tomshw.it/hardware/400eur-in-meno-sul-creality-sermoon-s1-scansioni-3d-per-i-tuoi-progetti-cad",
-      "excerpt": "Il Creality Sermoon S1 costa 2399€ su Amazon, con il 14% di sconto sul prezzo di listino di 2799€. È uno scanner 3D professionale per portare oggetti reali dentro un progetto CAD,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/117253/tomshw-offer-1543403.png",
-      "publishedAt": "2026-10-07T17:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "OpenAI pubblica 722 studi matematici: li ha prodotti un modello segreto",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n672875/openai-ai-problemi-matematici/",
-      "excerpt": "OpenAI pubblica 722 manoscritti matematici generati da un modello AI ancora inedito.",
-      "image": "https://hd2.tudocdn.net/1376494?w=660",
-      "publishedAt": "2026-10-07T17:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Sony MDR-7506 a 79€, cuffie da studio per registrare e mixare",
-      "link": "https://www.tomshw.it/offerte/sony-mdr-7506-a-79eur-cuffie-da-studio-per-registrare-e-mixare",
-      "excerpt": "Sony MDR-7506 costa 79,00 € su Amazon, con uno sconto del 22,16%. Con la Festa delle Offerte Prime diventa più accessibile una cuffia cablata pensata per registrazione, montaggio…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116268/B000AJIF4E.webp",
-      "publishedAt": "2026-10-07T17:15:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Queste celle da accumulo hanno ancora l'85% di capacità dopo quasi 14 anni",
-      "link": "https://www.tomshw.it/automotive/catl-celle-da-accumulo-quasi-14-anni-e-circa-l-85-di",
-      "excerpt": "Quasi 14 anni di servizio e circa l’85% dello stato di salute conservato: è il risultato dichiarato da CATL per le proprie celle LFP recuperate dall’impianto di accumulo di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/117245/news-flash-1543268.png",
-      "publishedAt": "2026-10-07T17:09:16+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Mai più chiusi fuori casa: la nuova serratura smart di Ring si ricarica 'a mano'",
-      "link": "https://www.hdblog.it/domotica/articoli/n672972/serratura-smart-ring-si-ricarica-con-una-ghiera/",
-      "excerpt": "Ring presenta la sua prima serratura smart a marchio proprio: senza chiavi, con quattro modi per aprire e una ghiera integrata per ricaricarla a mano se la batteria si scarica.…",
-      "image": "https://hd2.tudocdn.net/1376704?w=660",
-      "publishedAt": "2026-10-07T17:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Addio Land Rover, il fuoristrada britannico che ha scalzato dal trono la Defender",
-      "link": "https://www.hdmotori.it/addio-land-rover-defender-fuoristrada-britannico/",
-      "excerpt": "Non aspettatevi i bestioni della Land Rover, l'Ineos Grenadier è diventato il punto di riferimento per l’off-road in Europa",
-      "image": "https://hd2.tudocdn.net/1376730?w=660",
-      "publishedAt": "2026-10-07T17:00:23+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Amazon Ring, arrivano cinque nuove videocamere di sorveglianza",
-      "link": "https://www.hdblog.it/amazon/articoli/n672977/amazon-ring-nuove-videocamere-4k-retinal/",
-      "excerpt": "I nuovi modelli puntano molto su una miglior qualità dell'immagine.",
-      "image": "https://hd2.tudocdn.net/1376729?w=660",
-      "publishedAt": "2026-10-07T16:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "YFQ-48A Talon Blue vola da solo: nasce un nuovo caccia autonomo",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n672891/northrop-yfq-48a-talon-blue-caccia-autonomo/",
-      "excerpt": "Il Talon Blue completa il primo volo autonomo e punta ai futuri combattimenti aerei.",
-      "image": "https://hd2.tudocdn.net/1376517?w=660",
-      "publishedAt": "2026-10-07T16:50:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -253,24 +271,6 @@
       "excerpt": "Macchine automatiche, modelli a capsule e soluzioni 2 in 1: ci sono diverse proposte in sconto, anche per chi vuole preparare a casa espresso, cappuccino e caffè filtrato... Leggi…",
       "image": "https://images.dday.it/alouz3ZZ2niScIbAjgueCmZPkLMixzPJf5Da7il-sKc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59017/9125e8_81LGqqP2YPL._AC_SL1500_.jpg",
       "publishedAt": "2026-10-07T14:23:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Proiettori portatili, che offerte su Amazon! Si parte da 171 euro e c'è anche Google TV",
-      "link": "https://images.dday.it/8eC0zj4eOEGr9j_JJSj-obuvFn-GRUsiGLFNHPuTxdE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59014/a93052_517ZyqCjmxL._AC_SL1200_.jpg",
-      "excerpt": "TCL, XGIMI ed Epson sono tra i marchi in sconto: ecco i modelli più interessanti per guardare film e serie TV sul grande schermo... Leggi tutto",
-      "image": "https://images.dday.it/8eC0zj4eOEGr9j_JJSj-obuvFn-GRUsiGLFNHPuTxdE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59014/a93052_517ZyqCjmxL._AC_SL1200_.jpg",
-      "publishedAt": "2026-10-07T13:27:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Bici elettriche a prezzi mai visti su Amazon: questi modelli sono in offerta",
-      "link": "https://images.dday.it/7RQMpyAhbMc9KtlRRCl8scTAhU_ladA1a2K0BmslJdg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59013/6fc696_A1wL7OQZybL._AC_SL1500_.jpg",
-      "excerpt": "Ci sono e-bike, fat bike e modelli pieghevoli con batteria rimovibile e fino a 100 km di autonomia dichiarata: ecco le offerte ora attive su Amazon per la Festa delle Offerte…",
-      "image": "https://images.dday.it/7RQMpyAhbMc9KtlRRCl8scTAhU_ladA1a2K0BmslJdg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59013/6fc696_A1wL7OQZybL._AC_SL1500_.jpg",
-      "publishedAt": "2026-10-07T12:47:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
