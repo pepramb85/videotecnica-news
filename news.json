@@ -1,71 +1,242 @@
 {
-  "generatedAt": "2026-10-08T12:33:55.136129+00:00",
+  "generatedAt": "2026-10-08T19:35:25.096904+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Il Wi-Fi di casa rallenta: la colpa è della macchina del caffè?",
-      "link": "https://www.tomshw.it/hardware/keurig-k-supreme-smart-invia-1-tb-via-wi-fi-dove-vanno-i-dati",
-      "excerpt": "Una Keurig K-Supreme SMART è finita al centro di una segnalazione tecnica dopo che il sistema di gestione della rete domestica le ha attribuito oltre 1 TB di traffico in uscita in…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/117382/keurig-k-supreme-smart-invia-1-tb-via-wi-fi-dove-vanno-i-dati.png",
-      "publishedAt": "2026-10-08T12:30:00+00:00",
+      "title": "Trapano brushless al -40%, a soli 35,98€ con batteria e caricatore",
+      "link": "https://www.tomshw.it/altro/trapano-brushless-al-40-a-soli-3598eur-con-batteria-e-caricatore",
+      "excerpt": "Il trapano LEEIKOO 21V costa 35,98€ su Amazon, con uno sconto del 40% sul prezzo di listino di 59,99€. Batteria, caricatore e accessori inclusi permettono di affrontare montaggio…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/117445/tomshw-offer-1581339.png",
+      "publishedAt": "2026-10-08T18:50:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Google Cloud cambia Gemini: può lavorare da solo e avere anche una propria email",
-      "link": "https://www.hdblog.it/google/articoli/n673081/google-cloud-cambia-gemini/",
-      "excerpt": "Google Cloud ha presentato una nuova versione di Gemini pensata per le aziende",
-      "image": "https://hd2.tudocdn.net/1376905?w=660",
-      "publishedAt": "2026-10-08T12:25:00+00:00",
+      "title": "Pininfarina reinventa la NSX: solo 35 esemplari al mondo",
+      "link": "https://www.tomshw.it/automotive/jas-tensei-pininfarina-ridisegna-la-honda-nsx-solo-35-esemplari",
+      "excerpt": "Un V6 aspirato da 3,5 litri con limitatore a 8.500 giri/min e un cambio manuale a sei marce: la JAS Tensei reinterpreta la Honda NSX di prima generazione con una meccanica…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/117426/news-flash-1581149.png",
+      "publishedAt": "2026-10-08T18:44:38+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Porsche, addio a Boxster e Cayman termiche: l’annuncio che spiazza i puristi",
+      "link": "https://www.hdmotori.it/porsche-addio-boxster-cayman-termiche/",
+      "excerpt": "Nonostante i numeri non diano ragione a Porsche, la nuova generazione di Boxster e Cayman saranno solo elettriche.",
+      "image": "https://hd2.tudocdn.net/1376996?w=660",
+      "publishedAt": "2026-10-08T18:30:02+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "XBOX ci riprova con la TV e i film, nasce una nuova etichetta",
-      "link": "https://www.tomshw.it/altro/xbox-ci-riprova-con-la-tv-e-i-film-nasce-una-nuova-etichetta",
-      "excerpt": "XBOX ha annunciato l'8 ottobre 2026 la nascita di XP, una nuova divisione interna dedicata a tutto ciò che ruota attorno ai suoi giochi ma non è un gioco: film, serie televisive,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/117387/XP.png",
-      "publishedAt": "2026-10-08T12:21:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori offerte tech di oggi, 8 ottobre 2026: Xiaomi, ASUS, ECOVACS e tanti minimi storici",
-      "link": "https://www.hdblog.it/amazon/offerte/n673070/migliori-offerte-tech-oggi-8-ottobre-2026-amazon/",
-      "excerpt": "Le migliori offerte tech di oggi, 8 ottobre 2026: ribassi e minimi storici su monitor, notebook, robot aspirapolvere, TV, cuffie e molto altro.",
-      "image": "https://hd2.tudocdn.net/1376889?w=660",
-      "publishedAt": "2026-10-08T12:20:00+00:00",
+      "title": "GTA 6, possiamo già ascoltare la musica di Vice City: Rockstar svela alcune radio",
+      "link": "https://www.hdblog.it/games/articoli/n673129/gta-6-vi-radio-stazionio-flash-fm-anteprima-musica/",
+      "excerpt": "Pronti a sintonizzarvi ancora su Flash FM?",
+      "image": "https://hd2.tudocdn.net/1376990?w=660",
+      "publishedAt": "2026-10-08T18:25:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Samsung investe in DeepX: perché scommette sui chip AI efficienti",
-      "link": "https://www.tomshw.it/hardware/samsung-investe-in-deepx-perche-scommette-sui-chip-ai-efficienti",
-      "excerpt": "Samsung Securities e SVIC 33, un fondo gestito da Samsung Venture Investment, parteciperanno a un aumento di capitale di DeepX da 14,7 miliardi di won. La startup sudcoreana…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/117381/samsung-investe-in-deepx-perche-scommette-sui-chip-ai-efficienti.png",
-      "publishedAt": "2026-10-08T12:20:00+00:00",
+      "title": "Tante aziende hanno un piano di Cybersecurity, ma non si sa se funziona davvero",
+      "link": "https://www.tomshw.it/business/tante-aziende-hanno-un-piano-di-cybersecurity-ma-non-si-sa-se-funziona-davvero",
+      "excerpt": "Nelle aziende i controlli di cybersecurity sono ormai diffusi, ma di rado raggiungono un livello avanzato. Su oltre 300 società analizzate, circa il 53% gestisce gli incidenti…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/117441/01-ey-cyber-barometer-piani-cybersecurity.jpg",
+      "publishedAt": "2026-10-08T18:19:21+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Samsung R85H Micro RGB da 65″, 289€ in meno per giocare in 4K a 144 Hz",
-      "link": "https://www.tomshw.it/altro/samsung-r85h-micro-rgb-da-65-289eur-in-meno-per-giocare-in-4k-a-144-hz",
-      "excerpt": "Samsung R85H a 1.410€ su Amazon: il TV Micro RGB da 65 pollici è scontato del 16% rispetto al listino di 1.699€. Le quattro porte HDMI 4K a 144 Hz lo rendono particolarmente…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/117385/tomshw-offer-1580777.png",
-      "publishedAt": "2026-10-08T12:19:00+00:00",
+      "title": "Friggitrice ad aria Electrolux al -55%, 5 litri per i pasti di ogni giorno",
+      "link": "https://www.tomshw.it/altro/friggitrice-ad-aria-electrolux-al-55-5-litri-per-i-pasti-di-ogni-giorno",
+      "excerpt": "Electrolux EAF5B a 84,99€ su Amazon: la friggitrice ad aria da 5 litri è scontata del 55% rispetto al listino di 189,99€. Gli otto programmi preimpostati e le parti removibili…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/117444/tomshw-offer-1581320.png",
+      "publishedAt": "2026-10-08T18:19:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "L'Italia punta sui data center, ma monta la protesta: cosa succede a Milano e Roma",
-      "link": "https://www.hdblog.it/business/articoli/n673078/data-center-italia-pro-contro-proteste-ambiente/",
-      "excerpt": "L'Italia punta a diventare un hub digitale del Mediterraneo, ma la crescita dei data center divide imprese e territori. A Milano i comitati chiedono una moratoria sulle nuove…",
-      "image": "https://hd2.tudocdn.net/1356554?w=660",
-      "publishedAt": "2026-10-08T12:15:00+00:00",
+      "title": "La BMW iX3 si trasforma nella variante M, emozioni vere in stile bavarese",
+      "link": "https://www.hdmotori.it/bmw-ix3-variante-m/",
+      "excerpt": "La divisione M Performance ha lavorato sulle performance del nuovo SUV elettrico iX3, garantendo performance da vera regina.",
+      "image": "https://hd2.tudocdn.net/1376993?w=660",
+      "publishedAt": "2026-10-08T18:00:04+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Hard disk esterno illeggibile: come salvare i tuoi dati",
+      "link": "https://www.tomshw.it/hardware/disco-esterno-da-formattare-controlli-cavo-file-system",
+      "excerpt": "Se Windows 11 ti chiede di formattare un disco esterno che contiene già file, premi Annulla: prima verifica porta, cavo e adattatore, poi controlla capacità e file system in…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116863/cover.png",
+      "publishedAt": "2026-10-08T18:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Frullatore portatile Ninja a 49,99€, una comodità per i frullati fuori casa",
+      "link": "https://www.tomshw.it/altro/frullatore-portatile-ninja-a-4999eur-una-comodita-per-i-frullati-fuori-casa",
+      "excerpt": "Il Ninja Blast costa 49,99€ su Amazon e permette di preparare e bere un frullato usando lo stesso contenitore. La base ricaricabile e il coperchio con beccuccio lo rendono pratico…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/117442/tomshw-offer-1581304.png",
+      "publishedAt": "2026-10-08T17:49:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Apple annuncia l'evento \"Welcome home\" per il 13 ottobre: cosa ci aspettiamo",
+      "link": "https://www.hdblog.it/apple/articoli/n673125/apple-evento-13-ottobre-home-quando-data-italia/",
+      "excerpt": "Apple è pronta a giocare in casa.",
+      "image": "https://hd2.tudocdn.net/1376984?w=660",
+      "publishedAt": "2026-10-08T17:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Windows 12: a che punto siamo?",
+      "link": "https://www.hdblog.it/portatili/articoli/n673087/windows-12-quando-esce/",
+      "excerpt": "Delusi gli utenti che ieri si aspettavano la nuova versione",
+      "image": "https://hd2.tudocdn.net/1376976?w=660",
+      "publishedAt": "2026-10-08T17:30:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Smerigliatrice Bosch Professional a 88,2€, più controllo nei punti stretti",
+      "link": "https://www.tomshw.it/altro/smerigliatrice-bosch-professional-a-882eur-piu-controllo-nei-punti-stretti",
+      "excerpt": "Bosch Professional GWS 7-115 E a 88,2€ su Amazon: questa smerigliatrice combina un’impugnatura sottile e la possibilità di preselezionare la velocità in base al lavoro. La testa…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/117440/tomshw-offer-1581274.png",
+      "publishedAt": "2026-10-08T17:19:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Nuova Corolla Anniversary: la special edition dei 60 anni",
+      "link": "https://www.tomshw.it/automotive/toyota-corolla-touring-sports-anniversary-38-500-euro-per-i-60-anni",
+      "excerpt": "La Toyota Corolla Touring Sports Anniversary abbina una carrozzeria blu con tetto nero a un prezzo ufficiale di 38.500 euro. È l’edizione limitata dedicata ai 60 anni della…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/117423/1920_toy_corolla_60th_2026_hub_dig_16x9_02.png",
+      "publishedAt": "2026-10-08T17:16:10+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Fotoni quasi indistinguibili: un passo avanti per le reti quantistiche",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n673023/comunicazioni-quantistiche-fotoni-identici/",
+      "excerpt": "Fotoni indistinguibili al 90% grazie ai punti quantici: nuove prospettive per le comunicazioni.",
+      "image": "https://hd2.tudocdn.net/1376827?w=660",
+      "publishedAt": "2026-10-08T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Vaillant presenta aroTHERM plus, la pompa di calore a propano che ora si installa quasi ovunque",
+      "link": "https://images.dday.it/LOF4GuFdY9oAT9EIU3xuELgTe_sgNdVVkMORHDtmDtg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59033/36ce84_DSC00757.jpg",
+      "excerpt": "La nuova pompa di calore Vaillant usa il propano, il refrigerante più green, e con un brevetto riduce le zone di rispetto a soli 50 cm su un lato: così l'R290 si può installare…",
+      "image": "https://images.dday.it/LOF4GuFdY9oAT9EIU3xuELgTe_sgNdVVkMORHDtmDtg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59033/36ce84_DSC00757.jpg",
+      "publishedAt": "2026-10-08T17:14:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Nuova Audi Q7 e A6 allroad, l’eccellenza tedesca si presenta sulle colline italiane",
+      "link": "https://www.hdmotori.it/nuova-audi-q7-a6-eccellenza-tedesca/",
+      "excerpt": "Nella scenografica cornice del Casentino, in Toscana, le ultime due novità Audi si sono svelate con una formula che non tradisce la tradizione",
+      "image": "https://hd2.tudocdn.net/1376979?w=660",
+      "publishedAt": "2026-10-08T17:00:39+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Quando esce Nintendo Switch Sports Resort? Data e cosa sappiamo",
+      "link": "https://www.tomshw.it/videogioco/quando-esce-nintendo-switch-sports-resort-data-e-cosa-sappiamo",
+      "excerpt": "Nintendo Switch Sports Resort esce il 22 ottobre 2026, esclusivamente su Nintendo Switch 2. La data è ufficiale e riguarda anche l’Italia: l’attesa ha quindi un termine preciso,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116826/cover.jpg",
+      "publishedAt": "2026-10-08T17:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Googlebook, arriva Luminar: fotoritocco AI e supporto Continue On",
+      "link": "https://www.hdblog.it/google/articoli/n673046/googlebook-luminar-fotoritocco-ai-continue-on/",
+      "excerpt": "Luminar debutta su Googlebook con strumenti AI, editing RAW e continuità con Android.",
+      "image": "https://hd2.tudocdn.net/1376845?w=660",
+      "publishedAt": "2026-10-08T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Battlefield 6 incontra Dead Space: la Stagione 5 fa paura",
+      "link": "https://www.hdblog.it/games/articoli/n673051/battlefield-6-stagione-5-dead-space-las-vegas/",
+      "excerpt": "La Stagione 5 porta nuove mappe, armi, modalità e un evento crossover con Dead Space.",
+      "image": "https://hd2.tudocdn.net/1376850?w=660",
+      "publishedAt": "2026-10-08T16:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Caro carburanti, Meloni: «Pronti a intervenire con le accise mobili»",
+      "link": "https://www.hdmotori.it/caro-carburanti-meloni-accise-mobili/",
+      "excerpt": "Dopo la fine dello sconto sulle accise il diesel sale a 2,26 euro al litro: la premier apre all’introduzione delle accise mobili, ma le opposizioni chiedono interventi immediati.",
+      "image": "https://hd2.tudocdn.net/1376975?w=660",
+      "publishedAt": "2026-10-08T16:30:28+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Migliori conti deposito (ottobre 2026)",
+      "link": "https://www.tomshw.it/altro/migliori-conti-deposito",
+      "excerpt": "La scelta tra i conti deposito di ottobre 2026 dipende dal tempo per cui si possono lasciare ferme le somme, dalle condizioni di uscita e dalla copertura applicabile. Tra i…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/117013/02-protezione-3d.png",
+      "publishedAt": "2026-10-08T16:30:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Recensione TV Philips OLED+911: un nuovo campione di brillantezza",
+      "link": "https://images.dday.it/q6-McPZ0WX9QEnn3rxrf4rJlrQr24-pdsxu4kWUBHdk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58977/20acc5_PA080481.jpg",
+      "excerpt": "Il nuovo OLED di punta di TP Vision, si distingue non solo per il design curato e la funzione Ambilight, ma anche per la capacità di spingere l’ultima generazione di pannello OLED…",
+      "image": "https://images.dday.it/q6-McPZ0WX9QEnn3rxrf4rJlrQr24-pdsxu4kWUBHdk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58977/20acc5_PA080481.jpg",
+      "publishedAt": "2026-10-08T15:57:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Lo sapevi che puoi acquistare Microsoft 365 anche su Amazon? Oggi è pure in sconto",
+      "link": "https://images.dday.it/CvJu9l7Rf7-eDAIMcmrfrwhC_2stdV8lNceVSEUpfDs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/56219/9e5e7a_ape2.jpg",
+      "excerpt": "Microsoft 365 è acquistabile anche su Amazon in formato digitale, una soluzione pratica per attivare o rinnovare l’abbonamento. Disponibile subito in sconto ... Leggi tutto",
+      "image": "https://images.dday.it/CvJu9l7Rf7-eDAIMcmrfrwhC_2stdV8lNceVSEUpfDs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/56219/9e5e7a_ape2.jpg",
+      "publishedAt": "2026-10-08T15:21:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Amazon porta in Italia Kids+ e i Kids Tablet: giochi e film selezionati, zero pubblicità",
+      "link": "https://images.dday.it/uw_jsdFWFIdpnGDJHIen8zzUw95oHNP68fZsRQY5xYA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59035/d44f42_P1233895.jpg",
+      "excerpt": "A partire dal 19 ottobre debutta in Italia Kids+, il servizio in abbonamento per bambini dai 3 ai 12 anni con app, giochi, video e audiolibri senza pubblicità e senza acquisti…",
+      "image": "https://images.dday.it/uw_jsdFWFIdpnGDJHIen8zzUw95oHNP68fZsRQY5xYA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59035/d44f42_P1233895.jpg",
+      "publishedAt": "2026-10-08T14:54:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "ChatGPT passa a GPT-6, risponde con interfacce interattive e ora si possono caricare anche file audio",
+      "link": "https://images.dday.it/XN-lU6aXO0fR1KbIKssQbIBXOL0An72XsHb06U0vA1o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59032/280e4c_rerterte.jpg",
+      "excerpt": "La nuova Intelligent UI arriva anche sui piani gratuiti. Agli abbonati OpenAI apre il caricamento dei file audio fino a 512 MB, che abbiamo provato su registrazioni brevi e…",
+      "image": "https://images.dday.it/XN-lU6aXO0fR1KbIKssQbIBXOL0An72XsHb06U0vA1o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59032/280e4c_rerterte.jpg",
+      "publishedAt": "2026-10-08T13:30:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Amazon riporta i tablet in Italia: Android 16, Google Play e Alexa+ a partire da 229,99 euro. Prime impressioni",
+      "link": "https://images.dday.it/tcPIwCxrI6QLww7DWO7CeWsKsXzFVTL9kAj_1FiafQk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59021/3ba876_P1233913_t.jpg",
+      "excerpt": "Il modello di punta è Alexa Tablet 12 Pro: scocca unibody in alluminio, schermo opaco e Pro Pen e Pro Keyboard come accessori. Per tutti Alexa+ integrata, l'accesso al Play Store…",
+      "image": "https://images.dday.it/tcPIwCxrI6QLww7DWO7CeWsKsXzFVTL9kAj_1FiafQk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59021/3ba876_P1233913_t.jpg",
+      "publishedAt": "2026-10-08T13:00:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "I telefoni Samsung non starebbero più generando profitto dalla loro vendita. Colpa del costo delle memorie",
@@ -75,123 +246,6 @@
       "publishedAt": "2026-10-08T12:12:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "PC gaming, bastano ventole sul fondo per raffreddare meglio la CPU?",
-      "link": "https://www.tomshw.it/hardware/openreynolds-simula-case-pc-piu-freschi-perche-conta-laria-dal-basso",
-      "excerpt": "Una simulazione eseguita con OpenReynolds, lo strumento open source di Inviscid AI, ha confrontato due configurazioni di ventilazione per PC sotto carichi di gioco simulati:…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/117379/openreynolds-simula-case-pc-piu-freschi-perche-conta-l-aria-dal-basso.png",
-      "publishedAt": "2026-10-08T12:10:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "XBOX promette nuovi cambiamenti, ecco cosa comporteranno",
-      "link": "https://www.tomshw.it/videogioco/xbox-promette-nuovi-cambiamenti-ecco-cosa-comporteranno",
-      "excerpt": "Microsoft ha confermato di voler rendere più semplice portare un gioco su Xbox, raccogliendo le critiche arrivate negli anni dagli studi indipendenti. L'annuncio è arrivato il 7…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/03/88377/xbox-showcase-a-giug4n7jrbhu51bufpw2F4s.webp",
-      "publishedAt": "2026-10-08T12:08:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Google Find Hub, arriva il supporto ufficiale alla tecnologia NFC",
-      "link": "https://www.hdblog.it/google/articoli/n673079/google-find-hub-nfc-procedura-registrazione/",
-      "excerpt": "Anche la procedura di registrazione dei device alla rete sarà più completa.",
-      "image": "https://hd2.tudocdn.net/1363132?w=660",
-      "publishedAt": "2026-10-08T12:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Volkswagen apre le prevendite della ID. Polo GTI: si parte da 39.995 euro",
-      "link": "https://www.hdmotori.it/volkswagen-id-polo-gti-prevendite-prezzo/",
-      "excerpt": "La prima GTI 100% elettrica è realtà: 226 CV, 0-100 in 6,8 secondi e stile iconico. Volkswagen apre gli ordini della nuova ID. Polo GTI a partire da 39.995 euro.",
-      "image": "https://hd2.tudocdn.net/1376904?w=660",
-      "publishedAt": "2026-10-08T12:00:42+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Doom gira anche sulle videocassette! Il curioso esperimento di un modder",
-      "link": "https://www.hdblog.it/games/articoli/n673075/doom-super-mario-vhs-videogioco-interattivo/",
-      "excerpt": "Un appassionato di tecnologia vintage ha ripreso il concetto dell'ActionMax e l'ha reso più moderno e versatile.",
-      "image": "https://hd2.tudocdn.net/1376897?w=660",
-      "publishedAt": "2026-10-08T11:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Festa Prime finita, ma questi sconti Amazon superano ancora il 40%",
-      "link": "https://www.tomshw.it/offerte/festa-prime-finita-ma-questi-sconti-amazon-superano-ancora-il-40",
-      "excerpt": "La Festa Prime è ormai terminata, ma su Amazon non sono finite le occasioni per risparmiare. Anche dopo la chiusura della promozione, infatti, sono ancora disponibili numerosi…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/117380/Festa-Prime-finita,-ma-questi-sconti-Amazon-superano-ancora-il-40-.jpg",
-      "publishedAt": "2026-10-08T11:55:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "El Niño verso il picco: temperature record, conseguenze in tutto il mondo",
-      "link": "https://www.hdblog.it/green/articoli/n673072/el-nino-aumento-temperature-record-2026/",
-      "excerpt": "L'allarme della World Meteorological Organization.",
-      "image": "https://hd2.tudocdn.net/1376903?w=660",
-      "publishedAt": "2026-10-08T11:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "AMD ROCm 10.1 velocizza il passaggio SSD-GPU: cosa cambia per l'AI",
-      "link": "https://www.tomshw.it/hardware/amd-rocm-101-velocizza-il-passaggio-ssd-gpu-cosa-cambia-per-lai",
-      "excerpt": "AMD ha rilasciato ROCm 10.1, aggiornando il percorso con cui i dati passano dallo storage alle GPU nei carichi di intelligenza artificiale. Il pacchetto amplia AMD Infinity…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/117378/amd-rocm-10-1-velocizza-il-passaggio-ssd-gpu-cosa-cambia-per-l-ai.png",
-      "publishedAt": "2026-10-08T11:50:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Bose SoundLink Flex (2ª Gen) al -42%, un affare da portare all’aperto",
-      "link": "https://www.tomshw.it/altro/bose-soundlink-flex-2a-gen-al-42-un-affare-da-portare-allaperto",
-      "excerpt": "Bose SoundLink Flex (2ª Gen) costa 104,99€ su Amazon, con il 42% di sconto sul listino di 179,95€. Il formato compatto, il passante per agganciarlo alla borsa e la protezione da…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/117377/tomshw-offer-1580745.png",
-      "publishedAt": "2026-10-08T11:49:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il nuovo iPad Mini avrà uno schermo OLED, ma il refresh rate potrebbe deludere",
-      "link": "https://www.hdblog.it/tablet/articoli/n673066/ipad-mini-oled-60hz-refresh-rate-frequenza-schermo/",
-      "excerpt": "Lo schermo non sarà l'unica novità.",
-      "image": "https://hd2.tudocdn.net/1200560?w=660",
-      "publishedAt": "2026-10-08T11:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone Air 2 potrebbe essere ancora più sottile, ma con una batteria più capiente",
-      "link": "https://www.hdblog.it/smartphone/articoli/n673076/iphone-air-2-ancora-piu-sottile/",
-      "excerpt": "Apple starebbe lavorando a un iPhone Air 2 ancora più sottile rispetto al modello attuale,",
-      "image": "https://hd2.tudocdn.net/1358962?w=660",
-      "publishedAt": "2026-10-08T11:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Tecnologia made in USA, il piano di Trump rischia di costare caro",
-      "link": "https://www.tomshw.it/hardware/il-piano-tech-usa-di-trump-costerebbe-230-miliardi-chi-pagherebbe",
-      "excerpt": "La Consumer Technology Association ha quantificato il costo della spinta di Donald Trump verso una tecnologia prodotta interamente negli Stati Uniti: tra 185 e 230 miliardi di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/117372/il-piano-tech-usa-di-trump-costerebbe-230-miliardi-chi-pagherebbe.png",
-      "publishedAt": "2026-10-08T11:40:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "MSI Prestige N16 Flip AI+, disponibile il convertibile con AI da 1 petaflop",
-      "link": "https://www.hdblog.it/portatili/articoli/n673074/msi-prestige-n16-flip-ai-specifiche-disponibilita-prezzo/",
-      "excerpt": "MSI Prestige N16 Flip AI+ è pensato per sviluppatori AI e creativi: supporta grandi modelli locali, CUDA, Blender e DaVinci Resolve grazie alla piattaforma Nvidia RTX Spark e alla…",
-      "image": "https://hd2.tudocdn.net/1376891?w=660",
-      "publishedAt": "2026-10-08T11:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Blink Mini 2K+ è in offerta su Amazon a 19,99 euro: la videocamera compatta per controllare casa anche di notte",
@@ -217,60 +271,6 @@
       "excerpt": "Il nuovo portale di Google permette di verificare se immagini, video e audio contengono il watermark SynthID. La tecnologia resiste anche agli screenshot, ma può essere…",
       "image": "https://images.dday.it/Jxf63k-I4oO_kA7SYg0TToTY1ct3maDkzs4WyPZK3QM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59028/9c8f7a_Screenshot_2026-10-08_alle_11.06.19.png",
       "publishedAt": "2026-10-08T09:07:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Svelata Jaguar Type 01: cosa sappiamo del primo modello dell'era elettrica del Giaguaro",
-      "link": "https://images.dday.it/uNks9lDv5Zn-_R5ikk4gj8druR6XdCTwPhmGA8bP4m0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59026/5465d7_Design_Face_-_dimensioni_grandi.jpeg",
-      "excerpt": "Jaguar inaugura un nuovo capitolo della sua storia presentando la Type 01, una GT a quattro porte completamente elettrica che propone una potenza estrema e tecnologie inedite,…",
-      "image": "https://images.dday.it/uNks9lDv5Zn-_R5ikk4gj8druR6XdCTwPhmGA8bP4m0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59026/5465d7_Design_Face_-_dimensioni_grandi.jpeg",
-      "publishedAt": "2026-10-08T07:49:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Claude Haiku 5.5, il modello “stacanovista” di Anthropic è 3 volte più capace e costa fino al 90% in meno",
-      "link": "https://images.dday.it/hfdg9XDRtEgXqFEDpOgoqpmkgh1R-95p-JBgYMcU7ok/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59025/de0827_sall_Claude_Haiku_5.5__Collage_Astratta_copia.png",
-      "excerpt": "Claude Haiku 5.5 migliora nettamente rispetto al predecessore, soprattutto nel ragionamento e nell'uso autonomo del computer. Anthropic ha ridotto anche i prezzi e sfida GPT-6…",
-      "image": "https://images.dday.it/hfdg9XDRtEgXqFEDpOgoqpmkgh1R-95p-JBgYMcU7ok/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59025/de0827_sall_Claude_Haiku_5.5__Collage_Astratta_copia.png",
-      "publishedAt": "2026-10-08T07:29:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Roomba in offerta per tutto ottobre: su irobot.it si parte da 149 euro",
-      "link": "https://images.dday.it/OQ_8dfTkiG4YHlWD_hL7wfpk_hWYM7sxjeQmbIc4BiA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59015/b26f4c_cove_rScreenshot_2026-10-07_alle_16.13.01_copia.png",
-      "excerpt": "Dodici modelli scontati fino al 31 ottobre, dai Combo d'ingresso ai Max con la base che lava il rullo. E dall'8 ottobre sei robot in offerta anche su Amazon... Leggi tutto",
-      "image": "https://images.dday.it/OQ_8dfTkiG4YHlWD_hL7wfpk_hWYM7sxjeQmbIc4BiA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59015/b26f4c_cove_rScreenshot_2026-10-07_alle_16.13.01_copia.png",
-      "publishedAt": "2026-10-08T05:00:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Smetti di pagare il cloud ogni mese: ecco i NAS UGREEN scontati per la Festa delle Offerte Prime",
-      "link": "https://images.dday.it/y7A65BxrEHy07RA71BxAZuSHlJ4ixnyn-6cLGkKahfM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58921/59c37a_nas-cloud-personale-banner-pc.jpg",
-      "excerpt": "Lo sai quanto spenderai in abbonamenti cloud negli anni in cui custodirai i tuoi documenti e le tue foto? Con un NAS paghi una volta sola, e dal 6 all'11 ottobre UGREEN ha in…",
-      "image": "https://images.dday.it/y7A65BxrEHy07RA71BxAZuSHlJ4ixnyn-6cLGkKahfM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/58921/59c37a_nas-cloud-personale-banner-pc.jpg",
-      "publishedAt": "2026-10-08T01:03:05+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il futuro di Windows 11 è un PC con Copilot che usa il computer al posto tuo",
-      "link": "https://images.dday.it/vZ7LMMYO7DGzWdHxgRKu5E6ZoiG72Dulc0avjcneJo0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/59024/068484_msftmain.jpg",
-      "excerpt": "Windows traccia la strada per un futuro dove desktop e AI si dovranno inevitabilmente incontrare: nelle prossime versioni del sistema operativo arriverà la ricerca nella taskbar…",
-      "image": "https://images.dday.it/vZ7LMMYO7DGzWdHxgRKu5E6ZoiG72Dulc0avjcneJo0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/59024/068484_msftmain.jpg",
-      "publishedAt": "2026-10-07T20:00:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Surface Laptop Ultra ufficiale. L’anti MacBook Pro di Microsoft parte da 2.599 dollari",
-      "link": "https://images.dday.it/ZbKRf1WDFa-X81DR2pdarZN1MsrJS91DnCE5R1qUqws/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59023/f467d5_SLU_Hero_Desktop_Poster__1_.jpg",
-      "excerpt": "15 pollici, un petaflop di potenza di calcolo AI, SSD removibile e configurazioni fino a 128 GB di memoria. Microsoft posiziona il suo nuovo Surface Laptop Ultra allo stesso…",
-      "image": "https://images.dday.it/ZbKRf1WDFa-X81DR2pdarZN1MsrJS91DnCE5R1qUqws/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59023/f467d5_SLU_Hero_Desktop_Poster__1_.jpg",
-      "publishedAt": "2026-10-07T19:23:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
