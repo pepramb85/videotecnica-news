@@ -1,9 +1,108 @@
 {
-  "generatedAt": "2026-10-13T17:16:25.116031+00:00",
+  "generatedAt": "2026-10-13T22:07:33.232108+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Galaxy A16 sotto i 155€, sei anni di aggiornamenti per tenerlo a lungo",
+      "link": "https://www.tomshw.it/smartphone/galaxy-a16-sotto-i-155eur-sei-anni-di-aggiornamenti-per-tenerlo-a-lungo",
+      "excerpt": "Galaxy A16 a 154,5€ su Amazon mette sei anni di aggiornamenti di sicurezza alla portata di chi cerca un telefono economico da tenere a lungo. Il display Super AMOLED da 6,7…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118122/tomshw-offer-1650842.png",
+      "publishedAt": "2026-10-13T20:19:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Quattro accessi sotto controllo con Arlo Pro 6 a 349,99€, il minimo di sempre",
+      "link": "https://www.tomshw.it/altro/quattro-accessi-sotto-controllo-con-arlo-pro-6-a-34999eur-il-minimo-di-sempre",
+      "excerpt": "Arlo Pro 6 costa 349,99€ su Amazon, al minimo storico e con il 30% di sconto sui 499,99€ di listino. Il kit comprende quattro telecamere da esterno senza fili, per tenere d’occhio…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118121/tomshw-offer-1650803.png",
+      "publishedAt": "2026-10-13T18:49:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Xiaomi Smart Projector L1 Pro a 286,40€, film in grande con meno regolazioni",
+      "link": "https://www.tomshw.it/altro/xiaomi-smart-projector-l1-pro-a-28640eur-film-in-grande-con-meno-regolazioni",
+      "excerpt": "Xiaomi Smart Projector L1 Pro costa 286,40€ su Amazon, con il 13% di sconto rispetto ai 329,99€ di listino e un risparmio di 43,59€. È pensato per guardare film e serie su…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118120/tomshw-offer-1650763.png",
+      "publishedAt": "2026-10-13T18:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Addio ai giochi fisici? Nintendo dice la sua",
+      "link": "https://www.hdblog.it/nintendo/articoli/n673608/nintendo-giochi-fisici-cartucce-switch-2/",
+      "excerpt": "Sony punta tutto sul digitale, ma Nintendo ha un'altra idea. Almeno per ora.",
+      "image": "https://hd2.tudocdn.net/1377952?w=660",
+      "publishedAt": "2026-10-13T18:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Perché la stampante stampa bianco: guida ai rimedi",
+      "link": "https://www.tomshw.it/hardware/stampante-stampa-pagine-bianche-cartucce-testina",
+      "excerpt": "Se la stampante stampa pagine bianche, il primo controllo utile è una pagina di prova generata direttamente dalla macchina, senza inviare un documento dal computer. Se anche…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/117946/cover.png",
+      "publishedAt": "2026-10-13T18:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Creato un materiale quasi vivente: cambia forma per settimane",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n673496/idrogel-intelligente-cambia-forma-luce/",
+      "excerpt": "Un idrogel cambia forma per quattro settimane dopo un impulso luminoso grazie a particelle di gallio.",
+      "image": "https://hd2.tudocdn.net/1377680?w=660",
+      "publishedAt": "2026-10-13T17:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Le luci Philips Hue Play Gradient seguono film e giochi, con il 40% di sconto",
+      "link": "https://www.tomshw.it/altro/le-luci-philips-hue-play-gradient-seguono-film-e-giochi-con-il-40-di-sconto",
+      "excerpt": "Philips Hue Play Gradient da 65″ costa 130,99€ su Amazon, con il 40% di sconto sul prezzo di listino di 219,99€. La striscia estende sulla parete i colori di film e videogiochi,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118119/tomshw-offer-1650741.png",
+      "publishedAt": "2026-10-13T17:49:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Mazda CX-30 e CX-5, offerte fino a dicembre: tasso al 2,99%",
+      "link": "https://www.hdmotori.it/mazda-cx-30-cx-5-offerte/",
+      "excerpt": "Mazda lancia nuove offerte su CX-30 e CX-5 fino al 31 dicembre 2026: prezzi da 23.950 euro, rate da 159 euro al mese e finanziamento al 2,99%",
+      "image": "https://hd2.tudocdn.net/1377950?w=660",
+      "publishedAt": "2026-10-13T17:30:47+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple, l'ultimo aggiornamento del controllo parentale sta causando problemi",
+      "link": "https://www.hdblog.it/smartphone/articoli/n673588/apple-aggiornamento-controllo-parentale-problemi/",
+      "excerpt": "Che succede?",
+      "image": "https://hd2.tudocdn.net/1377939?w=660",
+      "publishedAt": "2026-10-13T17:30:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Dalla spazzatura spaziale agli scudi termici per Marte: cos'ha in serbo la NASA",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n673498/nasa-rifiuti-spaziali-test-scudi-termici/",
+      "excerpt": "La NASA sfrutta 12 capsule e una navetta carica di rifiuti per testare nuovi scudi termici.",
+      "image": "https://hd2.tudocdn.net/1377677?w=660",
+      "publishedAt": "2026-10-13T17:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Sega circolare da 1400W a 49,99€, il laser ti aiuta a seguire il taglio",
+      "link": "https://www.tomshw.it/altro/sega-circolare-da-1400w-a-4999eur-il-laser-ti-aiuta-a-seguire-il-taglio",
+      "excerpt": "La sega circolare da 1400W costa 49,99€ su Amazon e permette di affrontare i lavori di taglio domestici con una guida laser integrata. Per preparare tavole, accorciare elementi in…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118118/tomshw-offer-1650716.png",
+      "publishedAt": "2026-10-13T17:19:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "In vendita una vecchia Mercedes di Niki Lauda, prevista un’asta rovente",
       "link": "https://www.hdmotori.it/vendita-vecchia-mercedes-niki-lauda/",
@@ -32,7 +131,7 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "GTA 6 su PC potrebbe essere vicino: un leak svela la possibile finestra di lancio",
+      "title": "GTA 6 per PC potrebbe essere vicino: un leak svela la possibile finestra di lancio",
       "link": "https://www.hdblog.it/games/articoli/n673596/gta-6-vi-pc-uscita-data-2027-quando-rumor-q1/",
       "excerpt": "Una previsione che potrebbe stupire anche i più ottimisti.",
       "image": "https://hd2.tudocdn.net/1361474?w=660",
@@ -50,15 +149,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Data center sotto attacco: come evitare che i propri dati vadano in fumo",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n673570/data-center-attacco-evitare-perdita-dati/",
-      "excerpt": "La situazione russa è il pretesto per pensare a quanto (e se) ci prendiamo cura dei nostri dati",
-      "image": "https://hd2.tudocdn.net/1377888?w=660",
-      "publishedAt": "2026-10-13T16:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Belkin BoostCharge da 100W a 22,99€, un solo caricatore anche per il MacBook",
       "link": "https://www.tomshw.it/smartphone/belkin-boostcharge-da-100w-a-2299eur-un-solo-caricatore-anche-per-il-macbook",
       "excerpt": "Belkin BoostCharge da 100W costa 22,99€ su Amazon, con uno sconto dell’8% sul prezzo di listino di 24,99€ per ricaricare anche i notebook compatibili. Il formato compatto e la…",
@@ -66,24 +156,6 @@
       "publishedAt": "2026-10-13T16:18:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Fusione nucleare: svelato il nuovo progetto del reattore STEP",
-      "link": "https://www.hdblog.it/green/articoli/n673525/fusione-nucleare-regno-unito-reattore-step-spp3/",
-      "excerpt": "Il Regno Unito presenta STEP SPP3, un reattore a fusione pensato per produrre energia continua.",
-      "image": "https://hd2.tudocdn.net/1377723?w=660",
-      "publishedAt": "2026-10-13T16:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "500 moto vendute in 48 ore: la supermotard elettrica dei record è già introvabile",
-      "link": "https://www.hdmotori.it/stark-varg-sm-skoll-supermotard-elettrica-esaurita/",
-      "excerpt": "tark Future chiude le prenotazioni della VARG SM Sköll: 500 unità vendute in 48 ore dopo il record sull'ovale di Terramar. Nessuna riedizione per la Supermotard elettrica",
-      "image": "https://hd2.tudocdn.net/1377937?w=660",
-      "publishedAt": "2026-10-13T16:00:12+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Il super modello Gemini 4 Argon di Google esce dall'anteprima e arriva anche nell'app Gemini",
@@ -113,56 +185,11 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "L'AI è meno controllata del latte: l'allarme di Microsoft",
-      "link": "https://www.hdblog.it/microsoft/articoli/n673515/microsoft-regole-ai-sicurezza-regno-unito/",
-      "excerpt": "Microsoft chiede regole globali sull'AI e indica il Regno Unito come guida.",
-      "image": "https://hd2.tudocdn.net/1377717?w=660",
-      "publishedAt": "2026-10-13T15:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Sonos Beam Gen 2, un affare a 351,49€ per film e serie in Dolby Atmos",
       "link": "https://www.tomshw.it/altro/sonos-beam-gen-2-un-affare-a-35149eur-per-film-e-serie-in-dolby-atmos",
       "excerpt": "Sonos Beam Gen 2 costa 351,49€ su Amazon, contro i 499€ di listino, con uno sconto del 30%. La soundbar compatta nera accompagna film e serie con dialoghi nitidi e surround 3D…",
       "image": "https://cdn.tomshw.it/storage/media/2026/10/118115/tomshw-offer-1650621.png",
       "publishedAt": "2026-10-13T15:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Droni autonomi più sicuri: il MIT sviluppa il sistema SANDO",
-      "link": "https://www.hdblog.it/droni/articoli/n673488/mit-droni-autonomi-sando-ostacoli/",
-      "excerpt": "Il MIT sviluppa SANDO, un sistema che permette ai droni di evitare ostacoli mobili senza mappe.",
-      "image": "https://hd2.tudocdn.net/1377683?w=660",
-      "publishedAt": "2026-10-13T15:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Ben Affleck ha passato tre anni in casa a giocare a un capolavoro",
-      "link": "https://www.tomshw.it/videogioco/ben-affleck-confessa-tre-anni-chiuso-in-casa-con-starcraft-2026-10-13",
-      "excerpt": "Capita spesso che le grandi star di Hollywood, interrogate sui propri passatempi privati, rivelino abitudini sorprendentemente lontane dal glamour patinato dei red carpet. È il…",
-      "image": "https://cdn.tomshw.it/storage/media/2025/11/76584/starcraft.jpg",
-      "publishedAt": "2026-10-13T15:26:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Avviatore auto al -47%, riparti senza cercare un’altra vettura",
-      "link": "https://www.tomshw.it/automotive/avviatore-auto-al-47-riparti-senza-cercare-unaltra-vettura",
-      "excerpt": "L’avviatore auto da 8000A costa 37,38€ su Amazon, con uno sconto del 47% sul listino di 69,99€. La luce magnetica da 2000 lumen permette anche di illuminare il vano motore o una…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118113/tomshw-offer-1650548.png",
-      "publishedAt": "2026-10-13T15:23:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Gears of War: E-Day, come sta andando sul mercato?",
-      "link": "https://www.tomshw.it/videogioco/gears-of-war-e-day-conquista-la-vetta-xbox-2026-10-13",
-      "excerpt": "Il ritorno di una saga storica può ancora smuovere le classifiche videoludiche, e Gears of War: E-Day lo dimostra con i numeri. Il nuovo capitolo sviluppato da The Coalition ha…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/108932/Gears-of-War-E-DAY-(11).jpg",
-      "publishedAt": "2026-10-13T15:22:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -174,33 +201,6 @@
       "publishedAt": "2026-10-13T15:20:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Forza Horizon 2 è stato portato su PC ed è incredibile, guardate qui",
-      "link": "https://www.tomshw.it/videogioco/forza-horizon-2-rivive-grazie-a-una-porta-pc-amatoriale-2026-10-13",
-      "excerpt": "Quando un videogioco scompare dagli store digitali senza lasciare alternative legali, la comunità dei giocatori trova spesso strade alternative per mantenerlo in vita. È quello…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118114/FORZA-HORIZON-2.webp",
-      "publishedAt": "2026-10-13T15:20:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Malwarebytes Total al 50% di sconto: antivirus, VPN e protezione identità",
-      "link": "https://www.tomshw.it/offerte/malwarebytes-total-al-50-di-sconto-antivirus-e-vpn-insieme",
-      "excerpt": "Malwarebytes propone Total a 84,99 €/anno anziché 169,99 €/anno, con uno sconto del 50% valido per il primo anno. Il pacchetto riunisce antivirus, VPN e protezione dell’identit&...",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118111/malwarebytes-cover.png",
-      "publishedAt": "2026-10-13T15:10:44+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Halley ha un nucleo nero: le sonde svelano perché brilla",
-      "link": "https://www.tomshw.it/scienze/halley-ha-un-nucleo-nero-le-sonde-svelano-perche-brilla",
-      "excerpt": "L’ESA ha reso accessibili nuovi materiali digitalizzati della missione Giotto, in occasione dei quarant’anni dall’incontro con Halley. Comprendono il manuale operativo, un atlante…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118108/halley-ha-un-nucleo-nero-le-sonde-svelano-perche-brilla.png",
-      "publishedAt": "2026-10-13T15:10:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Questo è Apple HomeView, il display per la casa con Siri AI. In Europa non arriva",
