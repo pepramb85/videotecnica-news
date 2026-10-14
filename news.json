@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-10-14T19:53:25.147543+00:00",
+  "generatedAt": "2026-10-14T22:54:06.592350+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "HUAWEI WATCH GT 6 Pro, fino a 21 giorni senza ricarica a 299,49€",
+      "link": "https://www.tomshw.it/smartphone/huawei-watch-gt-6-pro-fino-a-21-giorni-senza-ricarica-a-29949eur",
+      "excerpt": "HUAWEI WATCH GT 6 Pro costa 299,49€ su Amazon, con uno sconto del 21% sul prezzo di listino di 379€. L'autonomia fino a 21 giorni lo rende interessante per chi vuole seguire…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118360/tomshw-offer-1671915.png",
+      "publishedAt": "2026-10-14T20:19:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "Netflix licenzia 1.000 persone ma continua a guadagnare: cosa succede?",
       "link": "https://www.tomshw.it/business/netflix-arriva-la-scure-dietro-1000-licenziati-ce-molto-piu-di-quanto-sembri",
@@ -12,6 +21,15 @@
       "publishedAt": "2026-10-14T19:23:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La password 123456 colpisce ancora: bucato un registro nazionale in Danimarca",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n673681/password-123456-registro-nazionale-danimarca/",
+      "excerpt": "Il registro dell'anagrafe danese è stato violato semplicemente usando la password 123456: sottratti dati per 8,8 milioni di cittadini.",
+      "image": "https://hd2.tudocdn.net/1378093?w=660",
+      "publishedAt": "2026-10-14T19:00:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
     },
     {
       "title": "Samsung conferma ufficialmente i problemi a Good Lock",
@@ -158,29 +176,11 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Bici elettrica con doppia sospensione a 699€ per spostarsi con più comfort",
-      "link": "https://www.tomshw.it/automotive/bici-elettrica-con-doppia-sospensione-a-699eur-per-spostarsi-con-piu-comfort",
-      "excerpt": "La bici elettrica T16 costa 699€ su Amazon e combina assistenza alla pedalata e doppia sospensione per gli spostamenti quotidiani. Sui percorsi con asfalto irregolare, il lavoro…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118347/tomshw-offer-1671794.png",
-      "publishedAt": "2026-10-14T17:19:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Siri AI arriverà anche sugli Apple HomePod di seconda generazione?",
       "link": "https://www.hdblog.it/apple/articoli/n673743/apple-homepod-2-gen-siri-ai-indizi-sito-ufficiale/",
       "excerpt": "Alcuni indizi sulla pagina prodotto del sito ufficiale sembrano suggerirlo, ma Apple per ora non si sbottona.",
       "image": "https://hd2.tudocdn.net/1077367?w=660",
       "publishedAt": "2026-10-14T17:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Cintura di sicurezza a infrarossi, arriva il nuovo sistema anti-furbetti",
-      "link": "https://www.hdmotori.it/cintura-sicurezza-infrarossi-come-funziona-euro-ncap/",
-      "excerpt": "Con le nuove norme e i test Euro NCAP, i sensori tradizionali non bastano più. Arriva la cintura a infrarossi che rileva se è indossata male",
-      "image": "https://hd2.tudocdn.net/1378277?w=660",
-      "publishedAt": "2026-10-14T17:00:49+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
