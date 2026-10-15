@@ -1,35 +1,197 @@
 {
-  "generatedAt": "2026-10-15T14:34:35.466350+00:00",
+  "generatedAt": "2026-10-15T19:35:18.720945+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Recensione LG Sound Suite con Dolby Atmos FlexConnect: Home Cinema facile",
-      "link": "https://www.hdblog.it/tv/recensioni/n671868/lg-soundsuite-atmos-flexconnect-soundbar-speaker/",
-      "excerpt": "Abbiamo testato Sound Suite, la prima soundbar di LG con supporto Dolby Atmos FlexConnect",
-      "image": "https://hd2.tudocdn.net/1374352?w=660",
-      "publishedAt": "2026-10-15T14:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Maserati presenta un progetto da brividi, anteprima GT2 Stradale Fuoriserie",
-      "link": "https://www.hdmotori.it/maserati-progetto-gt2-stradale-fuoriserie/",
-      "excerpt": "In occasione dell’evento di Villa La Massa Excellence 2026 Maserati esalta il suo programma Fuoriserie con una MC12 e una GT2 Stradale speciale",
-      "image": "https://hd2.tudocdn.net/1378450?w=660",
-      "publishedAt": "2026-10-15T14:30:18+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Intel Nova Lake avrebbe una NPU da 73 TOPS: cosa cambia per l'AI?",
-      "link": "https://www.tomshw.it/hardware/intel-nova-lake-avrebbe-una-npu-da-73-tops-cosa-cambia-per-lai",
-      "excerpt": "Una scheda madre industriale ha anticipato le possibili prestazioni AI di Intel Nova Lake: la NPU dei futuri processori desktop raggiungerebbe 73 TOPS, contro i 13 TOPS di Arrow…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118540/intel-nova-lake-avrebbe-una-npu-da-73-tops-cosa-cambia-per-l-ai.png",
-      "publishedAt": "2026-10-15T14:30:00+00:00",
+      "title": "Il Patch Tuesday di Microsoft è da record, ma non è una buona notizia",
+      "link": "https://www.tomshw.it/hardware/il-patch-tuesday-di-microsoft-e-da-record-ma-non-e-una-buona-notizia",
+      "excerpt": "Microsoft ha distribuito il Patch Tuesday di ottobre 2026, l'appuntamento mensile con gli aggiornamenti di sicurezza, sistemando 1.413 vulnerabilità, ciascuna identificata da un…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118584/il-patch-tuesday-di-microsoft-e-da-record-ma-non-e-una-buona-mlkigow.webp",
+      "publishedAt": "2026-10-15T19:03:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Windows 11 divora troppa RAM? Microsoft promette di salvare i PC con soli 8GB",
+      "link": "https://www.tomshw.it/hardware/windows-11-divora-troppa-ram-microsoft-promette-di-salvare-i-pc-con-soli-8gb",
+      "excerpt": "Microsoft ha pubblicato sul Windows Experience Blog un bilancio del lavoro svolto sulle prestazioni di Windows 11, sostenendo che il sistema operativo è ora fino al 20% più…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/01/82489/windows-11-in-crash-per-un-update-di-dicembre-2026-01-30-x55xLinsb3jfv0vdlh0UzV2fK.png",
+      "publishedAt": "2026-10-15T19:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "NVIDIA Broadcast 2.3 salva i vostri vecchi video grazie all'IA, ecco come",
+      "link": "https://www.tomshw.it/hardware/nvidia-broadcast-23-salva-i-vostri-vecchi-video-grazie-allia-ecco-come",
+      "excerpt": "NVIDIA ha distribuito la versione 2.3.0 della sua applicazione Broadcast, il software gratuito nato per ripulire audio e video di streamer e videoconferenze. L'aggiornamento,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118581/nvidia-broadcast-23-salva-i-vostri-vecchi-video-grazie-allia-kcaw6xv.webp",
+      "publishedAt": "2026-10-15T18:49:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "BLUETTI Apex 300 e B300K, energia anche per gli elettrodomestici del camper",
+      "link": "https://www.tomshw.it/altro/bluetti-apex-300-e-b300k-energia-anche-per-gli-elettrodomestici-del-camper",
+      "excerpt": "BLUETTI Apex 300 con B300K a 3.098€ su Amazon alimenta elettrodomestici, luci e dispositivi anche lontano dalla rete elettrica. Il kit mette insieme una capacità di 5.529,6Wh e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118580/tomshw-offer-1692445.png",
+      "publishedAt": "2026-10-15T18:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Anthropic teme che le IA possono clonarsi e riprodursi da sole",
+      "link": "https://www.tomshw.it/altro/anthropic-teme-che-le-ia-possono-clonarsi-e-riprodursi-da-sole",
+      "excerpt": "Anthropic ha pubblicato lo scorso lunedì un rapporto del suo Frontier Red Team in cui sostiene che i modelli di IA di piccole dimensioni potrebbero essere «a pochi mesi» dalla…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118582/anthropic-teme-che-le-ia-possono-clonarsi-e-riprodursi-da-so-bhxn3bp.webp",
+      "publishedAt": "2026-10-15T18:46:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "iPhone Duo, rompere lo schermo è un lusso: ripararlo costa una fortuna",
+      "link": "https://www.tomshw.it/smartphone/iphone-duo-riparare-lo-schermo-costa-fino-a-1719eur-2026-10-15",
+      "excerpt": "Chi decide di acquistare uno smartphone pieghevole sa già di dover affrontare una spesa iniziale fuori dal comune, ma è quando qualcosa va storto che le vere sorprese possono…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112765/Apple-iPhone-Duo-colors-260909_big-jpg-large_2x.jpg",
+      "publishedAt": "2026-10-15T18:28:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Philips Serie 5000 sotto i 42€, una piega curata anche a casa",
+      "link": "https://www.tomshw.it/altro/philips-serie-5000-sotto-i-42eur-una-piega-curata-anche-a-casa",
+      "excerpt": "Philips Serie 5000 costa 41,99€ su Amazon, con uno sconto dell’11% rispetto ai 46,99€ di listino. Il sensore ThermoShield controlla attivamente la temperatura dell’aria durante…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118579/tomshw-offer-1692415.png",
+      "publishedAt": "2026-10-15T18:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Apple e Nvidia donano 25 milioni di dollari per la sala da ballo di Trump",
+      "link": "https://www.hdblog.it/apple/articoli/n673886/apple-nvidia-donano-25-milioni-dollari-trump-ballo/",
+      "excerpt": "Anche Google e Microsoft si sono unite alle danze.",
+      "image": "https://hd2.tudocdn.net/1308560?w=660",
+      "publishedAt": "2026-10-15T18:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Anthropic fattura sempre di più, ma i costi sono ancora enormi",
+      "link": "https://www.tomshw.it/business/anthropic-fattura-sempre-di-piu-ma-i-costi-sono-ancora-enormi",
+      "excerpt": "Anthropic ha comunicato agli investitori che i ricavi del terzo trimestre hanno raggiunto 16,8 miliardi di dollari, il 45% in più dei tre mesi precedenti. Lo ha fatto mercoledì 14…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118469/09-anthropic-ricavi-costi-calcolo.jpg",
+      "publishedAt": "2026-10-15T18:08:40+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Ledger Atom ufficiale: un hardware wallet che sembra quasi uno smartphone Android",
+      "link": "https://www.hdblog.it/android/articoli/n673888/ledger-atom-hardware-wallet-android-crypto/",
+      "excerpt": "Supporta una eSIM, ma solo per la connessione dati. Niente telefonia. Il problema è che esce appena due giorni dopo la scoperta di una manomissione piuttosto clamorosa.",
+      "image": "https://hd2.tudocdn.net/1378502?w=660",
+      "publishedAt": "2026-10-15T18:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "BMW, ufficializzati i prezzi della X5 plug-in e della iX5 da 850 km",
+      "link": "https://www.hdmotori.it/bmw-prezzi-x5-plug-in-ix5/",
+      "excerpt": "La Casa bavarese ha accresciuto le opzioni della X5 con nuove versioni elettrificate. Scopriamo i prezzi scelti da BMW anche per la nuova iX5",
+      "image": "https://hd2.tudocdn.net/1378503?w=660",
+      "publishedAt": "2026-10-15T18:00:20+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il monitor del portatile non si accende? Cosa verificare subito",
+      "link": "https://www.tomshw.it/hardware/monitor-spento-portatile-chiuso-controlli-coperchio-gpu",
+      "excerpt": "Se il monitor esterno si spegne quando chiudi il coperchio del portatile, su Windows 11 controlla prima che la chiusura non mandi il computer in sospensione mentre è collegato…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/117950/cover.png",
+      "publishedAt": "2026-10-15T18:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "1.100€ in meno sul MacBook Pro M5 Max, per chi crea e lavora con l’AI",
+      "link": "https://www.tomshw.it/hardware/1100eur-in-meno-sul-macbook-pro-m5-max-per-chi-crea-e-lavora-con-lai",
+      "excerpt": "MacBook Pro M5 Max costa 4.099€ su Amazon, con uno sconto del 21% sul listino di 5.199€ e un risparmio di 1.100€. È la configurazione con display da 16,2 pollici, 36GB di memoria…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118567/tomshw-offer-1692394.png",
+      "publishedAt": "2026-10-15T17:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Adobe Photoshop e Premiere, arrivano le versioni ottimizzate per NVIDIA RTX Spark",
+      "link": "https://www.hdblog.it/nvidia/articoli/n673884/adobe-photoshop-premiere-nvidia-rtx-spark/",
+      "excerpt": "Della partita anche Sustance 3D.",
+      "image": "https://hd2.tudocdn.net/1359314?w=660",
+      "publishedAt": "2026-10-15T17:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Volkswagen, la gamma si snellisce: riduzione inevitabile",
+      "link": "https://www.hdmotori.it/volkswagen-gamma-riduzione/",
+      "excerpt": "In futuro il listino del marchio tedesco risulterà molto meno corposo rispetto a quello attuale. Scopriamo le scelte di Volkswagen",
+      "image": "https://hd2.tudocdn.net/1378491?w=660",
+      "publishedAt": "2026-10-15T17:30:29+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "REDMAGIC 12 Pro Plus ufficiale in Cina: un super smartphone gaming",
+      "link": "https://www.hdblog.it/smartphone/articoli/n673881/redmagic-12-pro-plus-specifiche-prezzo-immagini/",
+      "excerpt": "Potentissimo, autonomia pazzesca... e non traballa quando lo appoggi sulla scrivania!",
+      "image": "https://hd2.tudocdn.net/1378484?w=660",
+      "publishedAt": "2026-10-15T17:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Microsoft e il Giappone hanno fermato gli hacker dietro a un miliardo di messaggi truffaldini",
+      "link": "https://www.hdblog.it/smartphone/articoli/n673847/microsoft-giappone-hacker-messaggi-truffa/",
+      "excerpt": "Il gruppo era attivo da gennaio e operava in più di 150 Paesi",
+      "image": "https://hd2.tudocdn.net/1378471?w=660",
+      "publishedAt": "2026-10-15T17:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "iPhone Duo se la gioca con iPhone 18 Pro nei benchmark",
+      "link": "https://www.hdblog.it/smartphone/articoli/n673875/iphone-duo-benchmark-geekbench-18-pro-max-a20-pro/",
+      "excerpt": "Trapelano i primi test, e il Melafonino pieghevole non intende fare concessioni ai \"cugini candybar tradizionali.",
+      "image": "https://hd2.tudocdn.net/1370650?w=660",
+      "publishedAt": "2026-10-15T17:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "EICMA 2026 scalda i motori: 10 padiglioni, super campioni e test ride gratuiti",
+      "link": "https://www.hdmotori.it/eicma-2026-date-biglietti-orari-programma/",
+      "excerpt": "Dal 3 all’8 novembre a Fiera Milano Rho l’83ª edizione di EICMA sfonda i record: 10 padiglioni, oltre 2.100 marchi, mostre MotoGP e Dakar, test ride e i campioni di MotoLive.…",
+      "image": "https://hd2.tudocdn.net/1378480?w=660",
+      "publishedAt": "2026-10-15T17:00:54+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il controller PS5 è in offerta su Amazon: ora costa 59,99 euro",
+      "link": "https://www.hdblog.it/hardware/offerte/n673874/controller-ps5-offerta-amazon-ottobre-2026/",
+      "excerpt": "Il Controller per PS5 è in offerta su Amazon con un prezzo che si riduce fino a 59,99 euro.",
+      "image": "https://hd2.tudocdn.net/1366194?w=660",
+      "publishedAt": "2026-10-15T16:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "NVIDIA RTX Spark: AI, lavoro e gioco con tanta autonomia. È la svolta per ARM su Windows?",
+      "link": "https://images.dday.it/KyC4fV3_N0XhpK0WXbhQ-MUpBXJOfLwKzvUmQYur1rc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59106/8b02ab_P1244002_t.jpg",
+      "excerpt": "Dopo mesi di attesa possiamo finalmente dire come va la nuova piattaforma RTX Spark, il primo SoC integrato di NVIDIA per Windows basato su architettura Blackwell e CPU ARM. Lo…",
+      "image": "https://images.dday.it/KyC4fV3_N0XhpK0WXbhQ-MUpBXJOfLwKzvUmQYur1rc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59106/8b02ab_P1244002_t.jpg",
+      "publishedAt": "2026-10-15T16:12:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "DeLorean torna a volare, almeno in pista: entrerà nel campionato Airspeeder",
@@ -41,51 +203,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "GTA 6 si fa vedere in un nuovo trailer di lancio: Jason e Lucia tra crimini e amore",
-      "link": "https://www.hdblog.it/games/articoli/n673852/gta-6-vi-trailer-lancio-ufficiale-jason-lucia/",
-      "excerpt": "Un nuovo sguardo a Vice City quando manca poco più di un mese al lancio.",
-      "image": "https://hd2.tudocdn.net/1378446?w=660",
-      "publishedAt": "2026-10-15T14:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "NVIDIA Rubin, la svolta sulle memorie potrebbe saltare",
-      "link": "https://www.tomshw.it/hardware/nvidia-rubin-manterrebbe-hbm4-a-12-strati-tagliare-costa-di-piu",
-      "excerpt": "Gli acceleratori NVIDIA Rubin manterrebbero prevalentemente memorie HBM4 a 12 strati, nonostante le precedenti indiscrezioni su un maggiore impiego di configurazioni a otto…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118539/nvidia-rubin-manterrebbe-hbm4-a-12-strati-tagliare-costa-di-piu.png",
-      "publishedAt": "2026-10-15T14:20:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Internet senza linea fissa con HUAWEI 4G CPE 5s a 37,99€",
-      "link": "https://www.tomshw.it/hardware/internet-senza-linea-fissa-con-huawei-4g-cpe-5s-a-3799eur",
-      "excerpt": "HUAWEI 4G CPE 5s costa 37,99€ su Amazon, con uno sconto del 12% sul listino di 42,99€. È un router con SIM pensato per condividere la connessione mobile tra computer, tablet e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118543/tomshw-offer-1692119.png",
-      "publishedAt": "2026-10-15T14:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "I 10 giochi più spettacolari da vedere nel 2026",
-      "link": "https://www.tomshw.it/videogioco/i-10-giochi-piu-spettacolari-da-vedere-nel-2026",
-      "excerpt": "Parlare di grafica nel 2026 significa ormai ragionare su due piani diversi: da una parte la pura potenza tecnica, fatta di path tracing, illuminazione globale e simulazioni…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116075/Gears-of-War-E-day-(12).jpg",
-      "publishedAt": "2026-10-15T14:16:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Ecco la nuova Omoda 5 Next: nuovo volto e tech a bordo",
-      "link": "https://www.tomshw.it/automotive/omoda-5-next-cambia-volto-e-porta-lo-schermo-a-15-6",
-      "excerpt": "Un frontale più spiovente, gruppi ottici rivisti e una coda che il costruttore definisce mecha: la Omoda 5 Next cambia aspetto con l’aggiornamento presentato al Salone di Parigi…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118541/omoda5.jpg",
-      "publishedAt": "2026-10-15T14:15:59+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "GeForce Now, il DLSS 4.5 non dipende più soltanto dal gioco: Nvidia dà il controllo agli utenti",
       "link": "https://images.dday.it/UzioAkYjC0pWkIBsnev_1qRSjCi3SfIu5eSAMuFT2Qk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59107/07154b_GFN_Thursday_October_15_2026.jpg",
       "excerpt": "Nvidia porta i controlli DLSS 4.5 nell’app di GeForce NOW. Gli utenti possono scegliere come bilanciare qualità e prestazioni nei giochi compatibili. E da domani DLSS 5 anche in…",
@@ -93,69 +210,6 @@
       "publishedAt": "2026-10-15T14:12:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "IBM Storage Ceph accelera i cluster: ecco come sfrutta meglio gli SSD",
-      "link": "https://www.tomshw.it/hardware/ibm-storage-ceph-accelera-i-cluster-ecco-come-sfrutta-meglio-gli-ssd",
-      "excerpt": "IBM ha aggiornato Storage Ceph con un sistema che mantiene sui dispositivi più veloci i metadati utilizzati più spesso, per ridurre la latenza e rendere più costanti le…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118537/ibm-storage-ceph-accelera-i-cluster-ecco-come-sfrutta-meglio-gli-ssd.png",
-      "publishedAt": "2026-10-15T14:10:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Una RTX 5090D brucia i connettori: l'AI potrebbe essere il problema?",
-      "link": "https://www.tomshw.it/hardware/rtx-5090d-brucia-i-connettori-colpa-del-cavo-non-originale",
-      "excerpt": "Un proprietario di RTX 5090D ha riferito la bruciatura dei connettori di alimentazione della scheda video e dell’alimentatore, in un sistema che utilizzava un cavo non originale.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118523/rtx-5090d-brucia-i-connettori-colpa-del-cavo-non-originale.png",
-      "publishedAt": "2026-10-15T14:10:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "10 giochi dall'impatto visivo incredibile nel 2026",
-      "link": "https://www.tomshw.it/videogioco/gallerie/10-giochi-dallimpatto-visivo-incredibile-nel-2026/gears-of-war-e-day",
-      "excerpt": "Gears of War E-Day è probabilmente uno dei giochi più impressionanti visti in questa generazione e senza dubbio il titolo che sfrutta meglio il notevole Un...",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/116079/Gears-of-War-E-day-(16).jpg",
-      "publishedAt": "2026-10-15T14:05:48+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il piano marketing fatto con l'AI funziona solo finché non guardi il budget",
-      "link": "https://www.tomshw.it/business/il-piano-marketing-fatto-con-lai-funziona-solo-finche-non-guardi-il-budget",
-      "excerpt": "Gastmann e Bastos, della City St George's University of London, hanno chiesto a ChatGPT-4o la strategia social di due aziende reali, una di moda sostenibile e una chimica, e il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118433/04-piano-marketing-ai-budget.jpg",
-      "publishedAt": "2026-10-15T14:02:43+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Euro NCAP: record di punteggio per l’Audi Q7, 5 stelle anche per Xpeng X9 e Kia EV2",
-      "link": "https://www.hdmotori.it/euro-ncap-audi-q7-xpeng-x9-kia-ev2/",
-      "excerpt": "L'ente europeo per la sicurezza premia con il massimo punteggio i tre modelli, ma a fare notizia è il record di punteggio ottenuto dalla nuova Audi Q7 nella sicurezza…",
-      "image": "https://hd2.tudocdn.net/1378444?w=660",
-      "publishedAt": "2026-10-15T14:00:02+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Honor WIN Pad punta tutto sul gaming, anche a costo di scaldare",
-      "link": "https://www.tomshw.it/smartphone/honor-win-pad-avra-snapdragon-8-elite-gen-5-giochi-piu-fluidi",
-      "excerpt": "Honor WIN Pad utilizzerà lo Snapdragon 8 Elite Gen 5: l'azienda ha confermato la piattaforma del suo tablet gaming, correggendo i materiali promozionali iniziali che riportavano…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118522/honor-win-pad-avra-snapdragon-8-elite-gen-5-giochi-piu-fluidi.png",
-      "publishedAt": "2026-10-15T14:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "PlayStation Plus, Sony svela i giochi per PS5 e PS4 di ottobre",
-      "link": "https://www.hdblog.it/sony/articoli/n673849/playstation-plus-giochi-ottobre-2026-ps5-ps4/",
-      "excerpt": "Mafia: Terra Madre, Horizon Forbidden West, Dino Crisis 2 e non solo.",
-      "image": "https://hd2.tudocdn.net/1343474?w=660",
-      "publishedAt": "2026-10-15T13:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Panasonic crede ancora nell'audio domestico e lancia un nuovo sistema Hi-Fi a un prezzo davvero accessiible",
@@ -194,51 +248,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Genesis GV60 Magma, potenza fino a 650 CV e 425 km di autonomia: prezzi e prestazioni",
-      "link": "https://www.hdmotori.it/genesis-gv60-magma-prestazioni-prezzi/",
-      "excerpt": "Genesis GV60 Magma arriva in Italia con 650 CV in modalità Boost, batteria da 84 kWh e prezzi da 88.400 euro. Prime consegne entro il 2026",
-      "image": "https://hd2.tudocdn.net/1378432?w=660",
-      "publishedAt": "2026-10-15T13:00:43+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Fallout, The Elder Scrolls, Physint, Diablo e Minecraft esclusive? Xbox ci pensa",
-      "link": "https://www.hdblog.it/games/articoli/n673835/fallout-elder-scrolls-minecraft-esclusive-xbox/",
-      "excerpt": "Microsoft ha proposto un sondaggio per valutare le reazioni all'eventualità che alcuni grandi franchise diventino delle esclusive XBOX.",
-      "image": "https://hd2.tudocdn.net/1378415?w=660",
-      "publishedAt": "2026-10-15T12:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Microsoft Defender arriva sui desktop Linux: disponibile la preview",
-      "link": "https://www.hdblog.it/microsoft/articoli/n673844/microsoft-defender-su-linux-preview/",
-      "excerpt": "Microsoft Defender arriva ufficialmente sui desktop Linux attraverso una public preview dedicata alle aziende. La piattaforma offre protezione EDR, analisi delle minacce e…",
-      "image": "https://hd2.tudocdn.net/1378412?w=660",
-      "publishedAt": "2026-10-15T12:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Apple-1, venduto per oltre un milione di dollari un raro esemplare firmato da Woz",
-      "link": "https://www.hdblog.it/apple/articoli/n673843/apple-1-venduto-oltre-milione-raro-esemplare/",
-      "excerpt": "Due collezionisti hanno fatto salire il prezzo ben oltre gli 800.000 dollari della stima più alta",
-      "image": "https://hd2.tudocdn.net/1378426?w=660",
-      "publishedAt": "2026-10-15T12:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Luci Philips Hue più reattive con Google Home: le novità dell’aggiornamento",
-      "link": "https://www.hdblog.it/google/articoli/n673838/google-home-app-aggiornamento-philips-hue/",
-      "excerpt": "Google Home migliora il controllo locale dei dispositivi Matter e introduce un aggiornamento automatico per i bridge Philips Hue. Le luci smart potranno rispondere più rapidamente…",
-      "image": "https://hd2.tudocdn.net/1138343?w=660",
-      "publishedAt": "2026-10-15T12:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Monitor curvi in offerta su Amazon: prezzi scontati per Philips, Lenovo e AOC",
       "link": "https://images.dday.it/dhw1DVVkS2syiOvG4xa0LuOwLHqsQ_Xc0jK5HI-e0Mw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59102/9d54f8_91XkM6zwg6L._AC_SL1500_.jpg",
       "excerpt": "Dai modelli ultrawide per il gaming a quelli pensati per lavorare con più spazio sullo schermo, ecco alcuni monitor curvi in offerta su Amazon, con frequenze di aggiornamento fino…",
@@ -262,15 +271,6 @@
       "excerpt": "Prenotare i voli di Natale a fine ottobre può convenire, almeno negli Stati Uniti. Un'analisi di Google rivela quanto incidono sul prezzo il giorno della partenza e la scelta di…",
       "image": "https://images.dday.it/Pn_SUHCbT2TvJuqe1w2zM54xTlgNIPduWSCDUusW3Bw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59098/e62b99_Screenshot_2026-10-15_alle_11.20.16.png",
       "publishedAt": "2026-10-15T09:21:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Xbox Nano Controller, Microsoft lancia il suo controller tascabile da 50 euro",
-      "link": "https://images.dday.it/LXJs91rrt5U0HiM-CaGT8OX6cn6kW-9Lxtc8VcRSI5E/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59097/777de1_XBOX-Nano-Controller-textless-full-image-resize-163b4cf933e25ff565e2.jpg",
-      "excerpt": "Microsoft ha presentato Xbox Nano Controller, il più piccolo della gamma. Misura poco più di 13 centimetri e pesa circa 100 grammi, ma conserva tutti i comandi dei modelli…",
-      "image": "https://images.dday.it/LXJs91rrt5U0HiM-CaGT8OX6cn6kW-9Lxtc8VcRSI5E/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59097/777de1_XBOX-Nano-Controller-textless-full-image-resize-163b4cf933e25ff565e2.jpg",
-      "publishedAt": "2026-10-15T08:53:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
