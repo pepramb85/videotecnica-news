@@ -1,17 +1,197 @@
 {
-  "generatedAt": "2026-10-16T14:26:02.016101+00:00",
+  "generatedAt": "2026-10-16T19:09:26.032367+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Steam ha una sorpresa per chi insegue il 100% dei giochi",
-      "link": "https://www.tomshw.it/videogioco/steam-separa-gli-achievement-dei-dlc-cosi-salva-il-tuo-100",
-      "excerpt": "Valve introduce su Steam una nuova organizzazione degli achievement che permette agli sviluppatori di separare gli obiettivi del gioco base da quelli dei DLC. Nei titoli…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118747/steam-separa-gli-achievement-dei-dlc-cosi-salva-il-tuo-100.png",
-      "publishedAt": "2026-10-16T14:20:00+00:00",
+      "title": "Con l’IA è più facile creare startup?",
+      "link": "https://www.tomshw.it/business/con-lia-e-piu-facile-creare-startup",
+      "excerpt": "Nel primo semestre 2026 gli investimenti di venture capital in startup e scaleup italiane hanno raggiunto 679 milioni di euro, in crescita del 37% rispetto ai 494 milioni dello…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118678/01-vinci-ia-startup-validazione.jpg",
+      "publishedAt": "2026-10-16T18:48:35+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Ring Pan-Tilt 2K a soli 69,99€, segue persone e animali in casa",
+      "link": "https://www.tomshw.it/altro/ring-pan-tilt-2k-a-soli-6999eur-segue-persone-e-animali-in-casa",
+      "excerpt": "A 69,99€ su Amazon, Ring Pan-Tilt 2K permette di seguire persone e animali mentre si muovono in casa. La visuale a 360° e i movimenti gestibili dall’app Ring aiutano a controllare…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118790/tomshw-offer-1712934.png",
+      "publishedAt": "2026-10-16T18:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Barba e capelli a casa con Braun 6-in-1, il kit costa 36,99€",
+      "link": "https://www.tomshw.it/altro/barba-e-capelli-a-casa-con-braun-6-in-1-il-kit-costa-3699eur",
+      "excerpt": "Il Braun 6-in-1 costa 36,99€ su Amazon e permette di regolare barba e capelli a casa con un unico kit. Pettini fissi e scorrevoli aiutano a gestire lunghezze diverse, mentre il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118784/tomshw-offer-1712919.png",
+      "publishedAt": "2026-10-16T18:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "RetroBox Modem è il progetto perfetto per i nostalgici degli albori del Web",
+      "link": "https://www.hdblog.it/hardware/articoli/n674014/retrobox-modem-wifi-bbs-raspberry-pi/",
+      "excerpt": "Estetica anni Novanta e tutti quei bei suoni che facevano i modem dell'epoca.",
+      "image": "https://hd2.tudocdn.net/1378781?w=660",
+      "publishedAt": "2026-10-16T18:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Windows 11 fermo su arresto in corso: che fare",
+      "link": "https://www.tomshw.it/hardware/windows-11-fermo-arresto-in-corso-controlli-update-app",
+      "excerpt": "Se Windows 11 resta bloccato sulla schermata Arresto in corso a ogni spegnimento, controlla prima gli aggiornamenti da completare e le applicazioni ancora aperte. Quando il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/117952/cover.png",
+      "publishedAt": "2026-10-16T18:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Timex, arrivano cinque nuovi orologi dedicati a Harry Potter",
+      "link": "https://www.hdblog.it/accessori/articoli/n674013/timex-orologi-harry-potter-giratempo-immagini/",
+      "excerpt": "Ecco prezzi e immagini.",
+      "image": "https://hd2.tudocdn.net/1378780?w=660",
+      "publishedAt": "2026-10-16T17:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Questo strumento text-to-speech è perfetto per fare podcast professionali",
+      "link": "https://www.tomshw.it/business/questo-strumento-text-to-speech-e-perfetto-per-fare-podcast-professionali",
+      "excerpt": "Fish Audio ha reso disponibile il 13 ottobre Drama 3, un modello di sintesi vocale che si dirige con istruzioni scritte, come si farebbe con un attore. La regia va fra parentesi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118666/05-fish-audio-drama-3-podcast.jpg",
+      "publishedAt": "2026-10-16T17:49:23+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il case MSI MAG PANO bianco è al -45%, per un PC curato anche dentro",
+      "link": "https://www.tomshw.it/hardware/il-case-msi-mag-pano-bianco-e-al-45-per-un-pc-curato-anche-dentro",
+      "excerpt": "A 49,05€ su Amazon, MSI MAG PANO tocca il minimo di sempre con il 45% di sconto sugli 88,99€ di listino. La versione M100L PZ WHITE permette di costruire un PC bianco con…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118780/tomshw-offer-1712903.png",
+      "publishedAt": "2026-10-16T17:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Sbobba AI nella remaster di Total War Shogun 2, SEGA la ritira dalla vendita",
+      "link": "https://www.hdblog.it/games/articoli/n674010/total-war-shogun-2-sega-stop-vendita-sbobba-ai/",
+      "excerpt": "La società promette che sistemerà le cose.",
+      "image": "https://hd2.tudocdn.net/1378771?w=660",
+      "publishedAt": "2026-10-16T17:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Aqara G5 Pro, video e domotica con un solo cavo a 195,49€",
+      "link": "https://www.tomshw.it/altro/aqara-g5-pro-video-e-domotica-con-un-solo-cavo-a-19549eur",
+      "excerpt": "Aqara G5 Pro PoE costa 195,49€ su Amazon, con il 15% di sconto sul listino di 229,99€. Un solo cavo Ethernet alimenta la telecamera da esterno e trasporta il video, mentre l’hub…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118770/tomshw-offer-1712881.png",
+      "publishedAt": "2026-10-16T17:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Meta e Apple tornano a lavorare assieme: merito dell'AI",
+      "link": "https://www.hdblog.it/apple/articoli/n674007/meta-apple-collaborazione-muse-mac-studio/",
+      "excerpt": "Il nuovo modello open multimodale Muse Spark da ben 816 miliardi di parametri può essere eseguito completamente in locale, con due Mac Studio basati su M5 Ultra.",
+      "image": "https://hd2.tudocdn.net/1238853?w=660",
+      "publishedAt": "2026-10-16T17:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Shrek 2 Remastered prima di GTA 6 e il suo trailer lo chiarisce in maniera esilarante",
+      "link": "https://www.tomshw.it/videogioco/shrek-2-remastered-prima-di-gta-6-e-il-suo-trailer-lo-chiarisce-in-maniera-esilarante-2026-10-16",
+      "excerpt": "Un annuncio che doveva restare segreto per ancora qualche giorno è sfuggito di mano a Microsoft: lo store ufficiale di Xbox ha pubblicato in anteprima, seppur per errore, la…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118771/Screenshot-2026-10-16-alle-19-05-13.png",
+      "publishedAt": "2026-10-16T17:06:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Hyundai IONIQ 3 punta al titolo di Auto Europa 2027: è tra le sette finaliste",
+      "link": "https://www.hdmotori.it/hyundai-ioniq-3-punta-al-titolo-di-auto-europa-2027-e-tra-le-sette-finaliste/",
+      "excerpt": "Hyundai IONIQ 3 è tra le sette finaliste di Auto Europa 2027. La compatta elettrica offre fino a 497 km WLTP, 441 litri di bagagliaio e PLEOS Connect",
+      "image": "https://hd2.tudocdn.net/1378766?w=660",
+      "publishedAt": "2026-10-16T17:00:02+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Deputato legge il discorso dagli occhiali smart: scoppia il caso",
+      "link": "https://www.hdblog.it/indossabili/articoli/n673985/occhiali-smart-deputato-gobbo-parlamento/",
+      "excerpt": "Un deputato gallese usa gli occhiali smart come gobbo e scatena una polemica sulla privacy.",
+      "image": "https://hd2.tudocdn.net/1378738?w=660",
+      "publishedAt": "2026-10-16T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "L'hardware Microsoft alla svolta, su l'efficienza e giù i costi di esercizio",
+      "link": "https://www.tomshw.it/business/lhardware-microsoft-alla-svolta-su-lefficienza-e-giu-i-costi-di-esercizio",
+      "excerpt": "Microsoft ha presentato il 12 ottobre Maia 300, la terza generazione del sistema progettato in casa per l'inferenza, cioè la fase in cui un modello già addestrato risponde alle…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118651/04-microsoft-maia-300-hardware-efficienza.jpg",
+      "publishedAt": "2026-10-16T16:46:37+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Anna's Archive, la shadow library segnalata dalla RIAA al governo USA",
+      "link": "https://www.hdblog.it/applicazioni/articoli/n674004/riaa-annas-archive-pirateria-lista-entita-usa/",
+      "excerpt": "La shadow library che copiò il database di Spotify è stata aggiunta alla \"entity list\" di pirateria e contraffazione.",
+      "image": "https://hd2.tudocdn.net/1378760?w=660",
+      "publishedAt": "2026-10-16T16:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "MSI, arriva la GeForce RTX 5080 dedicata a Call of Duty MW4",
+      "link": "https://www.hdblog.it/hardware/articoli/n674000/msi-geforce-rtx-5080-call-duty-mw4/",
+      "excerpt": "Solo una livrea speciale o c'è anche della sostanza?",
+      "image": "https://hd2.tudocdn.net/1378755?w=660",
+      "publishedAt": "2026-10-16T16:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Conto deposito: quanto resta davvero su 10.000€ dopo il 26% e il bollo",
+      "link": "https://www.tomshw.it/altro/conto-deposito-quanto-resta-davvero-su-10-000-euro-dopo-il-26-percento-e-il-bollo",
+      "excerpt": "Su 10.000 euro tenuti un anno, un conto deposito al 3% lordo lascia 202 euro dopo la ritenuta del 26% e il bollo proporzionale dello 0,20%, per un totale di 10.202 euro. Il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118159/822518-conto-deposito-rendimento-netto-2026-10-14.png",
+      "publishedAt": "2026-10-16T16:30:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Yellowjackets, la quarta stagione arriva il 20 novembre su Paramount+",
+      "link": "https://www.hdblog.it/spettacolo/articoli/n673919/yellowjackets-4-teaser-data-uscita-stagione-finale/",
+      "excerpt": "Le sopravvissute tornano a casa nel teaser dell'ultima stagione, in arrivo il 20 novembre.",
+      "image": "https://hd2.tudocdn.net/1378549?w=660",
+      "publishedAt": "2026-10-16T16:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Linux su PS5, grandi progressi per le console con jailbreak",
+      "link": "https://www.hdblog.it/sony/articoli/n673995/sony-playstation-5-jailbreak-linux-progresso/",
+      "excerpt": "Ora è possibile installare il sistema operativo open-source su console con praticamente tutti i firmware, tranne gli ultimissimi due.",
+      "image": "https://hd2.tudocdn.net/1213134?w=660",
+      "publishedAt": "2026-10-16T16:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Tineco PURE ONE Station 5 Plus, l’aspirapolvere senza fili con stazione autopulente è in offerta su Amazon",
+      "link": "https://images.dday.it/eA1vInFsGe2TgAm8jWGMJ3tID1iNz_s8uMgt5Mi5yrQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59121/6d3df2_81MnaABTMXL._AC_SL1500_.jpg",
+      "excerpt": "Potenza di aspirazione da 220 AW, sensore intelligente che regola l’aspirazione in base allo sporco e una stazione che svuota il contenitore e pulisce spazzola, tubo e filtro:…",
+      "image": "https://images.dday.it/eA1vInFsGe2TgAm8jWGMJ3tID1iNz_s8uMgt5Mi5yrQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59121/6d3df2_81MnaABTMXL._AC_SL1500_.jpg",
+      "publishedAt": "2026-10-16T15:24:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Roborock Saros 20, tre robot e un solo obiettivo: fare quasi tutto da soli",
@@ -23,105 +203,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Sony WH-1000XM5 a 199€, mai costate così poco per musica e lavoro",
-      "link": "https://www.tomshw.it/smartphone/sony-wh-1000xm5-a-199eur-mai-costate-cosi-poco-per-musica-e-lavoro",
-      "excerpt": "Le Sony WH-1000XM5 costano 199€ su Amazon, il minimo di sempre, con uno sconto del 13% sul listino di 229,49€. Questa versione blu abbina la cancellazione del rumore alla custodia…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118752/tomshw-offer-1712666.png",
-      "publishedAt": "2026-10-16T14:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "DeepSeek si ferma per quasi 5 ore: è un problema di chip?",
-      "link": "https://www.tomshw.it/hardware/deepseek-si-ferma-per-quasi-5-ore-e-un-problema-di-chip",
-      "excerpt": "DeepSeek ha subito un'interruzione di 4 ore e 50 minuti che ha coinvolto il chatbot e i servizi API, lasciando utenti di tutto il mondo davanti a messaggi di server…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118746/deepseek-si-ferma-per-quasi-5-ore-e-un-problema-di-chip.png",
-      "publishedAt": "2026-10-16T14:10:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Nuova ID. Tiguan elettrica: ecco quanto costa davvero",
-      "link": "https://www.tomshw.it/automotive/volkswagen-id-tiguan-ordini-aperti-listino-da-44-750-euro",
-      "excerpt": "Per ordinare la Volkswagen ID. Tiguan in Italia il prezzo di listino parte da 44.750 euro. La cifra promozionale di 41.100 euro è invece subordinata a permuta o rottamazione.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118754/VW-ID-Tiguan_VW4_20261009_91_DB2026AU00927-1200x800.jpg",
-      "publishedAt": "2026-10-16T14:07:08+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "NOW: Cinema, Entertainment & Premium a 6,99€/mese per 12 mesi",
-      "link": "https://www.tomshw.it/offerte/now-cinema-ed-entertainment-a-699eurmese-premium-gratis-un-mese",
-      "excerpt": "Con il PASS Cinema, Entertainment & Premium di NOW, Cinema ed Entertainment costano 6,99€/mese invece di 16,99€/mese. Premium è gratis il primo mese, poi costa 10€/mese aggiu...",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118750/now-ottobre-cover.webp",
-      "publishedAt": "2026-10-16T14:04:38+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "BMW F 450 RR, l'anima racing da 420 cc per patente A2: parte da 7.150 euro",
-      "link": "https://www.hdmotori.it/bmw-f-450-rr-2027-scheda-tecnica-caratteristiche-prezzo/",
-      "excerpt": "BMW Motorrad svela la nuova F 450 RR: DNA da S 1000 RR, motore bicilindrico da 48 CV guidabile con patente A2 e ciclistica da vera supersportiva",
-      "image": "https://hd2.tudocdn.net/1378676?w=660",
-      "publishedAt": "2026-10-16T14:00:43+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "ASML studia l'hybrid bonding: cosa cambia per CPU e GPU",
-      "link": "https://www.tomshw.it/hardware/asml-studia-lhybrid-bonding-cosa-cambia-per-cpu-e-gpu",
-      "excerpt": "ASML sta lavorando all'hybrid bonding, una tecnica che permette di unire direttamente chip o wafer di silicio creando connessioni elettriche molto dense. Una nuova analisi dei…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118740/asml-studia-l-hybrid-bonding-cosa-cambia-per-cpu-e-gpu.png",
-      "publishedAt": "2026-10-16T14:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Un falso WhatsApp sul Play Store fa oltre 500.000 download: com'è possibile?",
-      "link": "https://www.tomshw.it/smartphone/after-chrome-we-now-have-a-whatsapp-dupe-on-the-play-store-with-500000-downloads",
-      "excerpt": "Un'applicazione che si spaccia per WhatsApp Messenger ha superato il mezzo milione di download sul Play Store, dove è rimasta disponibile per settimane prima delle segnalazioni…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118736/after-chrome-we-now-have-a-whatsapp-dupe-on-the-play-store-w-waqaxbr.webp",
-      "publishedAt": "2026-10-16T14:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il telefono salta a ogni buca? Ecco come scegliere un supporto auto davvero stabile",
-      "link": "https://www.tomshw.it/offerte/il-telefono-salta-a-ogni-buca-ecco-come-scegliere-un-supporto-auto-davvero-stabile",
-      "excerpt": "Guidare su asfalto irregolare, pavé cittadino o percorsi pieni di buche può trasformare ogni tragitto in una fonte costante di stress, specialmente se lo smartphone continua a…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118726/Il-telefono-salta-a-ogni-buca-Ecco-come-scegliere-un-supporto-auto-davvero-stabile.jpg",
-      "publishedAt": "2026-10-16T13:56:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Cybertech Europe 2026: come l'AI sta ridisegnando la cybersecurity",
-      "link": "https://www.tomshw.it/business/cybertech-europe-2026-come-lai-sta-ridisegnando-la-cybersecurity",
-      "excerpt": "L'intelligenza artificiale sta cambiando il modo in cui le aziende si difendono dagli attacchi informatici, ma anche quello in cui gli attacchi vengono preparati ed eseguiti. È…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118737/05-cybertech-europe-2026-ai-cybersecurity.jpg",
-      "publishedAt": "2026-10-16T13:54:31+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Revolut presenta Apex: la carta ispirata alle corse a 19,99 €",
-      "link": "https://www.tomshw.it/offerte/revolut-presenta-apex-la-carta-ispirata-alle-corse-a-1999-eur",
-      "excerpt": "Revolut aggiunge al catalogo la carta Apex, con un design ispirato alla pista e alle traiettorie di gara. Costa 19,99 € una tantum per carta e si può richiedere con qualsiasi…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118744/revolut-f1-team-apex-card-cover.jpg",
-      "publishedAt": "2026-10-16T13:49:04+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "BMW i3, 1.213 km con una sola carica: la nuova berlina elettrica supera ogni aspettativa",
-      "link": "https://www.hdmotori.it/nuova-bmw-i3-autonomia/",
-      "excerpt": "La capacità della batteria della nuova i3 è frutto di un lungo lavoro dei tecnici BMW che, con la Neue Klasse, hanno innalzato l’asticella delle performance",
-      "image": "https://hd2.tudocdn.net/1378664?w=660",
-      "publishedAt": "2026-10-16T13:30:44+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Il rimprovero di Renault: gli alleati devono diversificare le auto. C'entra Nissan Micra?",
       "link": "https://images.dday.it/TlgVHFY-LWP20r0Ku5Tw3xJnMR3jq__YDQ41N5DHVEs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59117/9eee65_Depositphotos_813846092_XL.jpg",
       "excerpt": "L'amministratore delegato François Provost vuole evitare che le auto costruite sulle piattaforme Renault risultino troppo simili ai modelli del gruppo... Leggi tutto",
@@ -129,51 +210,6 @@
       "publishedAt": "2026-10-16T13:27:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Call of Duty, Activision conferma una nuova saga: lo sviluppo è già iniziato",
-      "link": "https://www.hdblog.it/games/articoli/n673968/call-of-duty-nuova-sottoserie-activision-2027/",
-      "excerpt": "Il prossimo capitolo non sarà un Modern Warfare né un Black OPS.",
-      "image": "https://hd2.tudocdn.net/1378654?w=660",
-      "publishedAt": "2026-10-16T13:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Migliori offerte tech di oggi, 16 ottobre: Pixel 11 Pro, Apple Watch SE 3, Dreame e tanti minimi storici",
-      "link": "https://www.hdblog.it/amazon/offerte/n673966/migliori-offerte-tech-16-ottobre-2026/",
-      "excerpt": "Le migliori offerte tech del 16 ottobre 2026: nuovi minimi storici su Google Pixel 11 Pro, Apple Watch SE 3, robot aspirapolvere, TV, cuffie e accessori.",
-      "image": "https://hd2.tudocdn.net/1378659?w=660",
-      "publishedAt": "2026-10-16T13:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "L'app Foto di Windows 11 cambia pelle: tutte le novità annunciate da Microsoft",
-      "link": "https://www.hdblog.it/microsoft/articoli/n673964/app-foto-windows-11-cambia-pelle-tutte-novita/",
-      "excerpt": "Microsoft rinnova l'app Foto di Windows 11 con una galleria unificata, Moments, strumenti avanzati per l'editing e l'immancabile AI.",
-      "image": "https://hd2.tudocdn.net/1378641?w=660",
-      "publishedAt": "2026-10-16T13:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone Duo, preordini appena iniziati e consegne già slittate al prossimo anno",
-      "link": "https://www.hdblog.it/smartphone/articoli/n673974/iphone-duo-preordini-consegne-prossimo-anno/",
-      "excerpt": "I tempi di consegna si sono allungati fino al prossimo anno",
-      "image": "https://hd2.tudocdn.net/1370650?w=660",
-      "publishedAt": "2026-10-16T13:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "FIAT Grizzly, la robustezza formato SUV parte da 20.000 euro: stesso prezzo per la Fastback",
-      "link": "https://www.hdmotori.it/nuova-fiat-grizzly-prezzi/",
-      "excerpt": "Il marchio torinese ha ufficializzato i prezzi del SUV che rimpolperà una gamma che per molti anni non ha avuto un’auto come la Grizzly",
-      "image": "https://hd2.tudocdn.net/1370714?w=660",
-      "publishedAt": "2026-10-16T13:00:36+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Broadband Map, i dati sulla connettività italiana arriveranno alle amministrazioni via API. Basta download manuali",
@@ -192,33 +228,6 @@
       "publishedAt": "2026-10-16T12:39:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Lamborghini Temerario al servizio della Polizia di Dubai: la supercar entra in pattuglia",
-      "link": "https://www.hdmotori.it/polizia-dubai-lamborghini-supercar/",
-      "excerpt": "La Polizia di Dubai amplia la propria flotta di vetture con la Lamborghini Temerario, una ibrida da 920 CV in grado di toccare i 340 km/h",
-      "image": "https://hd2.tudocdn.net/1378645?w=660",
-      "publishedAt": "2026-10-16T12:30:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Piano B per il Galaxy S27 Ultra: Exynos al posto dello Snapdragon, che si surriscalda",
-      "link": "https://www.hdblog.it/smartphone/articoli/n673937/samsung-galaxy-s27-ultra-snapdragon-exynos/",
-      "excerpt": "Samsung Galaxy S27 Ultra potrebbe montare il chip Exynos 2700 al posto dello Snapdragon 8 Elite Extreme Gen 6.",
-      "image": "https://hd2.tudocdn.net/1365023?w=660",
-      "publishedAt": "2026-10-16T12:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "6G, Verizon ed Ericsson completano la prima chiamata pre-standard all'aperto",
-      "link": "https://www.hdblog.it/mobile/articoli/n673959/6g-verizo-ericsson-chiamata-pre-standard/",
-      "excerpt": "Prima chiamata pre-standard 6G su banda 7 GHz",
-      "image": "https://hd2.tudocdn.net/1342222?w=660",
-      "publishedAt": "2026-10-16T12:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Samsung ha qualche dubbio sullo Snapdragon 8 Elite Extreme Gen 6: il Galaxy S27 Ultra potrebbe arrivare con l'Exynos 2700",
@@ -262,15 +271,6 @@
       "excerpt": "Il filmato dura circa 90 secondi, approfondisce la trama e conferma Justice alla colonna sonora originale... Leggi tutto",
       "image": "https://images.dday.it/BJUGEYw_mnUjFwCF4o2lHsg8YI2kpHd_OoWwLx0lYcY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59111/37ff29_Screenshot_2026-10-16_alle_10.40.18.png",
       "publishedAt": "2026-10-16T08:34:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Meta apre a tutti i pesi del modello Muse Spark. Per farlo girare in casa servono due Mac Studio da 512 GB",
-      "link": "https://images.dday.it/w_s4g3EWIVsHvH_ny4tyoBUfNVMyXjRHrvtdLJPKPqA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59110/d2414e_Senza_titolo-1.jpg",
-      "excerpt": "816 miliardi di parametri e contesto da un milione di token. Meta lo presenta come il modello aperto americano più capace. La sfida ai cinesi è lanciata... Leggi tutto",
-      "image": "https://images.dday.it/w_s4g3EWIVsHvH_ny4tyoBUfNVMyXjRHrvtdLJPKPqA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59110/d2414e_Senza_titolo-1.jpg",
-      "publishedAt": "2026-10-16T07:59:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
