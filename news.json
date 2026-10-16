@@ -1,9 +1,72 @@
 {
-  "generatedAt": "2026-10-16T19:09:26.032367+00:00",
+  "generatedAt": "2026-10-16T22:21:25.347662+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Il vostro Google Pixel è diventato lento? La nuova beta potrebbe fare al caso vostro.",
+      "link": "https://www.tomshw.it/smartphone/il-vostro-google-pixel-e-diventato-lento-la-nuova-beta-potrebbe-fare-al-caso-vostro",
+      "excerpt": "Google ha avviato il 16 ottobre la distribuzione di Android 17 QPR2 Beta 7.1 per i Pixel iscritti all'Android Beta Program, a una sola settimana dalla precedente Beta 7. Sulla…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/115133/Pixel-11-trade-in.png",
+      "publishedAt": "2026-10-16T21:55:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "iPhone Duo è già introvabile e i bagarini festeggiano rivendendolo a prezzi folli",
+      "link": "https://www.tomshw.it/smartphone/iphone-duo-e-gia-introvabile-e-i-bagarini-festeggiano-rivendendolo-a-prezzi-folli",
+      "excerpt": "Apple ha aperto i preordini di iPhone Duo oggi alle 14:00 e nel giro di pochi minuti la data di consegna del 23 ottobre è sparita dall'Apple Store online. Mezz'ora dopo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/09/112771/iPhone-Duo.png",
+      "publishedAt": "2026-10-16T21:33:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Google risponderà soltanto alle vostre domande, proverà a vendervi qualcosa",
+      "link": "https://www.tomshw.it/smartphone/google-rispondera-soltanto-alle-vostre-domande-provera-a-vendervi-qualcosa",
+      "excerpt": "Google ha avviato il 15 ottobre negli Stati Uniti la distribuzione di Universal Cart, un carrello unico che raccoglie prodotti provenienti da negozi diversi e vive direttamente…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118803/Screenshot-2026-10-16-alle-23-23-49.png",
+      "publishedAt": "2026-10-16T21:25:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Xbox Mode si aggiorna su Windows 11: Microsoft ha aggiunto quel che mancava",
+      "link": "https://www.tomshw.it/hardware/xbox-mode-si-aggiorna-su-windows-11-microsoft-ha-aggiunto-quel-che-mancava",
+      "excerpt": "Microsoft ha distribuito il 16 ottobre 2026 un nuovo gruppo di build di anteprima di Windows 11 su tutti i canali del Windows Insider Program, e la novità più rilevante riguarda…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/109539/ROG-Xbox-Ally-X20-2.jpg",
+      "publishedAt": "2026-10-16T21:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Apple e il caso antitrust, gli sviluppatori lanciano l'allarme sul potenziale accordo",
+      "link": "https://www.tomshw.it/smartphone/apple-e-il-caso-antitrust-gli-sviluppatori-lanciano-lallarme-sul-potenziale-accordo",
+      "excerpt": "Epic Games e PayPal hanno portato le proprie obiezioni direttamente ai funzionari del Dipartimento di Giustizia statunitense, preoccupati che la causa antitrust contro Apple possa…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/07/101997/apple.jpg",
+      "publishedAt": "2026-10-16T21:15:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "HONOR Pad X9a sotto i 200€, uno schermo grande per studio e film",
+      "link": "https://www.tomshw.it/smartphone/honor-pad-x9a-sotto-i-200eur-uno-schermo-grande-per-studio-e-film",
+      "excerpt": "HONOR Pad X9a costa 199€ su Amazon, con il 20% di sconto sul listino di 249€. È un tablet da prendere in considerazione se alterni letture, lezioni e film e cerchi uno schermo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118797/tomshw-offer-1712988.png",
+      "publishedAt": "2026-10-16T20:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Perché sono tornato ad usare un computer con Windows On Arm e Snapdragon | VIDEO",
+      "link": "https://www.hdblog.it/portatili/speciali/n673230/windows-on-arm-snapdragon-due-anni-dopo/",
+      "excerpt": "Abbiamo usato per due anni i nuovi computer con Snapdragon e Windows On Arm. Ora con l'AI hanno tantissimo senso, ma non sono per tutti.",
+      "image": "https://hd2.tudocdn.net/1377466?w=660",
+      "publishedAt": "2026-10-16T19:00:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Con l’IA è più facile creare startup?",
       "link": "https://www.tomshw.it/business/con-lia-e-piu-facile-creare-startup",
@@ -59,24 +122,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Questo strumento text-to-speech è perfetto per fare podcast professionali",
-      "link": "https://www.tomshw.it/business/questo-strumento-text-to-speech-e-perfetto-per-fare-podcast-professionali",
-      "excerpt": "Fish Audio ha reso disponibile il 13 ottobre Drama 3, un modello di sintesi vocale che si dirige con istruzioni scritte, come si farebbe con un attore. La regia va fra parentesi…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118666/05-fish-audio-drama-3-podcast.jpg",
-      "publishedAt": "2026-10-16T17:49:23+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il case MSI MAG PANO bianco è al -45%, per un PC curato anche dentro",
-      "link": "https://www.tomshw.it/hardware/il-case-msi-mag-pano-bianco-e-al-45-per-un-pc-curato-anche-dentro",
-      "excerpt": "A 49,05€ su Amazon, MSI MAG PANO tocca il minimo di sempre con il 45% di sconto sugli 88,99€ di listino. La versione M100L PZ WHITE permette di costruire un PC bianco con…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118780/tomshw-offer-1712903.png",
-      "publishedAt": "2026-10-16T17:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Sbobba AI nella remaster di Total War Shogun 2, SEGA la ritira dalla vendita",
       "link": "https://www.hdblog.it/games/articoli/n674010/total-war-shogun-2-sega-stop-vendita-sbobba-ai/",
       "excerpt": "La società promette che sistemerà le cose.",
@@ -86,15 +131,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Aqara G5 Pro, video e domotica con un solo cavo a 195,49€",
-      "link": "https://www.tomshw.it/altro/aqara-g5-pro-video-e-domotica-con-un-solo-cavo-a-19549eur",
-      "excerpt": "Aqara G5 Pro PoE costa 195,49€ su Amazon, con il 15% di sconto sul listino di 229,99€. Un solo cavo Ethernet alimenta la telecamera da esterno e trasporta il video, mentre l’hub…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118770/tomshw-offer-1712881.png",
-      "publishedAt": "2026-10-16T17:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Meta e Apple tornano a lavorare assieme: merito dell'AI",
       "link": "https://www.hdblog.it/apple/articoli/n674007/meta-apple-collaborazione-muse-mac-studio/",
       "excerpt": "Il nuovo modello open multimodale Muse Spark da ben 816 miliardi di parametri può essere eseguito completamente in locale, con due Mac Studio basati su M5 Ultra.",
@@ -102,15 +138,6 @@
       "publishedAt": "2026-10-16T17:10:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Shrek 2 Remastered prima di GTA 6 e il suo trailer lo chiarisce in maniera esilarante",
-      "link": "https://www.tomshw.it/videogioco/shrek-2-remastered-prima-di-gta-6-e-il-suo-trailer-lo-chiarisce-in-maniera-esilarante-2026-10-16",
-      "excerpt": "Un annuncio che doveva restare segreto per ancora qualche giorno è sfuggito di mano a Microsoft: lo store ufficiale di Xbox ha pubblicato in anteprima, seppur per errore, la…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118771/Screenshot-2026-10-16-alle-19-05-13.png",
-      "publishedAt": "2026-10-16T17:06:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Hyundai IONIQ 3 punta al titolo di Auto Europa 2027: è tra le sette finaliste",
@@ -131,15 +158,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "L'hardware Microsoft alla svolta, su l'efficienza e giù i costi di esercizio",
-      "link": "https://www.tomshw.it/business/lhardware-microsoft-alla-svolta-su-lefficienza-e-giu-i-costi-di-esercizio",
-      "excerpt": "Microsoft ha presentato il 12 ottobre Maia 300, la terza generazione del sistema progettato in casa per l'inferenza, cioè la fase in cui un modello già addestrato risponde alle…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118651/04-microsoft-maia-300-hardware-efficienza.jpg",
-      "publishedAt": "2026-10-16T16:46:37+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Anna's Archive, la shadow library segnalata dalla RIAA al governo USA",
       "link": "https://www.hdblog.it/applicazioni/articoli/n674004/riaa-annas-archive-pirateria-lista-entita-usa/",
       "excerpt": "La shadow library che copiò il database di Spotify è stata aggiunta alla \"entity list\" di pirateria e contraffazione.",
@@ -158,29 +176,11 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Conto deposito: quanto resta davvero su 10.000€ dopo il 26% e il bollo",
-      "link": "https://www.tomshw.it/altro/conto-deposito-quanto-resta-davvero-su-10-000-euro-dopo-il-26-percento-e-il-bollo",
-      "excerpt": "Su 10.000 euro tenuti un anno, un conto deposito al 3% lordo lascia 202 euro dopo la ritenuta del 26% e il bollo proporzionale dello 0,20%, per un totale di 10.202 euro. Il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118159/822518-conto-deposito-rendimento-netto-2026-10-14.png",
-      "publishedAt": "2026-10-16T16:30:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Yellowjackets, la quarta stagione arriva il 20 novembre su Paramount+",
       "link": "https://www.hdblog.it/spettacolo/articoli/n673919/yellowjackets-4-teaser-data-uscita-stagione-finale/",
       "excerpt": "Le sopravvissute tornano a casa nel teaser dell'ultima stagione, in arrivo il 20 novembre.",
       "image": "https://hd2.tudocdn.net/1378549?w=660",
       "publishedAt": "2026-10-16T16:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Linux su PS5, grandi progressi per le console con jailbreak",
-      "link": "https://www.hdblog.it/sony/articoli/n673995/sony-playstation-5-jailbreak-linux-progresso/",
-      "excerpt": "Ora è possibile installare il sistema operativo open-source su console con praticamente tutti i firmware, tranne gli ultimissimi due.",
-      "image": "https://hd2.tudocdn.net/1213134?w=660",
-      "publishedAt": "2026-10-16T16:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
