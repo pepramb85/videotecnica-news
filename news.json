@@ -1,9 +1,144 @@
 {
-  "generatedAt": "2026-10-17T02:24:49.157406+00:00",
+  "generatedAt": "2026-10-17T08:09:55.026903+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Una parente dei cavoli fa ciò che sembrava impossibile",
+      "link": "https://www.tomshw.it/scienze/un-fungo-nutre-una-parente-dei-cavoli-serviranno-meno-concimi",
+      "excerpt": "Un gruppo dell’Università di Sheffield, guidato da Katie Field, ha dimostrato che Arabidopsis thaliana, una piccola pianta parente dei cavoli, può scambiare risorse con un fungo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118773/un-fungo-nutre-una-parente-dei-cavoli-serviranno-meno-concimi.png",
+      "publishedAt": "2026-10-17T08:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Vela Maps, l’alternativa a Google Maps che funziona senza account Google",
+      "link": "https://www.hdblog.it/smartphone/articoli/n673723/vela-maps-alternativa-google-maps/",
+      "excerpt": "L’applicazione non richiede un account Google.",
+      "image": "https://hd2.tudocdn.net/1378235?w=660",
+      "publishedAt": "2026-10-17T07:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Tapo C210 al -45%: controlli casa e parli con chi c’è",
+      "link": "https://www.tomshw.it/altro/tapo-c210-al-45-controlli-casa-e-parli-con-chi-ce",
+      "excerpt": "Tapo C210 costa 21,84€ su Amazon, con uno sconto del 45% sul listino di 39,99€. La telecamera Wi-Fi da interno permette di osservare la stanza e parlare con chi si trova davanti…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118811/tomshw-offer-1732344.png",
+      "publishedAt": "2026-10-17T07:49:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Costruire il futuro invece di subirlo con l'AI è ancora più difficile (podcast)",
+      "link": "https://www.tomshw.it/business/lai-sfugge-di-mano-ma-le-aziende-non-sanno-nemmeno-dove-siano-i-loro-dati-podcast",
+      "excerpt": "Nell'ultimo episodio di Two Humans in the Loop Valerio e Fabrizio hanno chiesto a Federica Maria Rita Livelli, esperta di gestione del rischio e della crisi, che cosa serva alle…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118698/03-two-humans-ai-sfugge-di-mano-rischi-aziende.jpg",
+      "publishedAt": "2026-10-17T07:43:36+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori hard disk esterni (2026)",
+      "link": "https://www.tomshw.it/hardware/migliori-hard-disk-esterni",
+      "excerpt": "Toshiba Canvio Basics 1TB è la scelta economica per documenti e foto; Toshiba Canvio Flex 4TB serve a chi alterna PC e Mac. Per backup voluminosi su una postazione fissa, Seagate…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/88519/migliori-hd-esterni-copertina.jpg",
+      "publishedAt": "2026-10-17T07:39:40+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori cuffie con cancellazione del rumore (2026)",
+      "link": "https://www.tomshw.it/guide/le-migliori-cuffie-con-riduzione-attiva-del-rumore",
+      "excerpt": "Le Sony WH-1000XM6 sono la scelta generale per ANC, musica e uso quotidiano. Le Sony WH-CH730N sono indicate per spendere meno; le Bose QuietComfort Ultra Headphones (2nd Gen) per…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/88360/migliori-cuffie-anc-copertina.jpg",
+      "publishedAt": "2026-10-17T07:33:31+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Claude risolve in 30 minuti un mistero della NSA rimasto irrisolto per 25 anni",
+      "link": "https://www.tomshw.it/altro/claude-risolve-in-30-minuti-un-mistero-della-nsa-rimasto-irrisolto-per-25-anni",
+      "excerpt": "Un modello di ricerca interno di Anthropic ha chiuso in meno di mezz'ora una questione aperta da circa venticinque anni nella crittografia: l'origine dei cosiddetti semi usati per…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118808/claude-risolve-in-30-minuti-un-mistero-della-nsa-rimasto-irr-aslg62n.webp",
+      "publishedAt": "2026-10-17T07:29:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori mouse da ufficio (2026)",
+      "link": "https://www.tomshw.it/guide/migliori-mouse-ufficio",
+      "excerpt": "Il Logitech MX Master 4 è la scelta per il lavoro avanzato con molte scorciatoie. Per lavorare in silenzio senza salire alla fascia premium, scegliete Logitech Signature M650 L se…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/87306/migliori-mouse-ufficio-copertina.jpg",
+      "publishedAt": "2026-10-17T07:28:06+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Apple prepara una stretta sulle app IA, ma le nuove regole basteranno?",
+      "link": "https://www.tomshw.it/smartphone/apple-prepara-una-stretta-sulle-app-ia-ma-le-nuove-regole-basteranno",
+      "excerpt": "Apple ha rivisto il 16 ottobre le App Review Guidelines, il regolamento che ogni sviluppatore deve rispettare per pubblicare sull'App Store, introducendo una linea guida dedicata…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/90414/lai-riaccende-lapp-store-nuove-app-su-del-104-2026-04-21.webp",
+      "publishedAt": "2026-10-17T07:28:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Apple cambia le regole dell'App Store: stretta sui deepfake AI",
+      "link": "https://www.hdblog.it/apple/articoli/n674022/apple-app-store-nuove-regole-deepfake-ai/",
+      "excerpt": "Apple rafforza i controlli su deepfake intimi, app nudify e funzioni nascoste.",
+      "image": "https://hd2.tudocdn.net/1342525?w=660",
+      "publishedAt": "2026-10-17T07:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Migliori stampanti multifunzione (2026)",
+      "link": "https://www.tomshw.it/guide/migliori-stampanti-multifunzione",
+      "excerpt": "Per casa, Epson Expression Home XP-3200 offre compattezza e stampa fronte-retro; Brother DCP-J1360DW aggiunge l'ADF per le scansioni multipagina. Per molte stampe a colori…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/04/89687/migliori-stampanti-multifunzione-copertina.jpg",
+      "publishedAt": "2026-10-17T07:21:37+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Google Pixel Flex al -50%, due dispositivi in carica e priorità al tuo Pixel",
+      "link": "https://www.tomshw.it/smartphone/google-pixel-flex-al-50-due-dispositivi-in-carica-e-priorita-al-tuo-pixel",
+      "excerpt": "Google Pixel Flex costa 32,50€ su Amazon, con il 50% di sconto sul listino di 64,99€. Il caricatore rapido Made by Google permette di collegare due dispositivi contemporaneamente…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118807/tomshw-offer-1732268.png",
+      "publishedAt": "2026-10-17T07:17:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Una rara Ferrari con soli 170 km percorsi finisce all'asta: vale più di 20 milioni",
+      "link": "https://www.hdmotori.it/ferrari-f50-170-km-asta-valore/",
+      "excerpt": "Poche vetture al mondo possono vantare la storia di una hypercar Ferrari. Un esemplare di F50 verrà messo all’incanto dagli specialisti di Broad Arrow",
+      "image": "https://hd2.tudocdn.net/1378788?w=660",
+      "publishedAt": "2026-10-17T07:00:08+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google, come evitare le risposte dell'IA nei risultati di ricerca",
+      "link": "https://www.hdblog.it/google/articoli/n673853/google-evitare-ai-overview-ricerca/",
+      "excerpt": "Le impostazioni per limitare l’intervento dell’intelligenza artificiale.",
+      "image": "https://hd2.tudocdn.net/1378439?w=660",
+      "publishedAt": "2026-10-17T06:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "No, la Tesla Roadster non è la prima auto a vincere la gravità",
+      "link": "https://www.hdmotori.it/no-la-tesla-roadster-non-e-la-prima-auto-a-vincere-la-gravita/",
+      "excerpt": "La tecnologia delle ventole per l'effetto suolo, pensate per sfidare la fisica, ha già un precedente firmato McMurtry Spéirling Pure.",
+      "image": "https://hd2.tudocdn.net/1378793?w=660",
+      "publishedAt": "2026-10-17T06:30:39+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Roomba 115, 415, 515 e 575, in promo i robot multifunzione che arrivano dove gli altri si fermano",
       "link": "https://images.dday.it/V5LhIZJWS1yr7LxzQqW61O6vs4XII_lLQd8O_sy12NQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59078/d6f9ca_frfffds.jpg",
@@ -23,60 +158,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Il vostro Google Pixel è diventato lento? La nuova beta potrebbe fare al caso vostro.",
-      "link": "https://www.tomshw.it/smartphone/il-vostro-google-pixel-e-diventato-lento-la-nuova-beta-potrebbe-fare-al-caso-vostro",
-      "excerpt": "Google ha avviato il 16 ottobre la distribuzione di Android 17 QPR2 Beta 7.1 per i Pixel iscritti all'Android Beta Program, a una sola settimana dalla precedente Beta 7. Sulla…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115133/Pixel-11-trade-in.png",
-      "publishedAt": "2026-10-16T21:55:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "iPhone Duo è già introvabile e i bagarini festeggiano rivendendolo a prezzi folli",
-      "link": "https://www.tomshw.it/smartphone/iphone-duo-e-gia-introvabile-e-i-bagarini-festeggiano-rivendendolo-a-prezzi-folli",
-      "excerpt": "Apple ha aperto i preordini di iPhone Duo oggi alle 14:00 e nel giro di pochi minuti la data di consegna del 23 ottobre è sparita dall'Apple Store online. Mezz'ora dopo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/112771/iPhone-Duo.png",
-      "publishedAt": "2026-10-16T21:33:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Google risponderà soltanto alle vostre domande, proverà a vendervi qualcosa",
-      "link": "https://www.tomshw.it/smartphone/google-rispondera-soltanto-alle-vostre-domande-provera-a-vendervi-qualcosa",
-      "excerpt": "Google ha avviato il 15 ottobre negli Stati Uniti la distribuzione di Universal Cart, un carrello unico che raccoglie prodotti provenienti da negozi diversi e vive direttamente…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118803/Screenshot-2026-10-16-alle-23-23-49.png",
-      "publishedAt": "2026-10-16T21:25:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Xbox Mode si aggiorna su Windows 11: Microsoft ha aggiunto quel che mancava",
-      "link": "https://www.tomshw.it/hardware/xbox-mode-si-aggiorna-su-windows-11-microsoft-ha-aggiunto-quel-che-mancava",
-      "excerpt": "Microsoft ha distribuito il 16 ottobre 2026 un nuovo gruppo di build di anteprima di Windows 11 su tutti i canali del Windows Insider Program, e la novità più rilevante riguarda…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109539/ROG-Xbox-Ally-X20-2.jpg",
-      "publishedAt": "2026-10-16T21:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Apple e il caso antitrust, gli sviluppatori lanciano l'allarme sul potenziale accordo",
-      "link": "https://www.tomshw.it/smartphone/apple-e-il-caso-antitrust-gli-sviluppatori-lanciano-lallarme-sul-potenziale-accordo",
-      "excerpt": "Epic Games e PayPal hanno portato le proprie obiezioni direttamente ai funzionari del Dipartimento di Giustizia statunitense, preoccupati che la causa antitrust contro Apple possa…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/07/101997/apple.jpg",
-      "publishedAt": "2026-10-16T21:15:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "HONOR Pad X9a sotto i 200€, uno schermo grande per studio e film",
-      "link": "https://www.tomshw.it/smartphone/honor-pad-x9a-sotto-i-200eur-uno-schermo-grande-per-studio-e-film",
-      "excerpt": "HONOR Pad X9a costa 199€ su Amazon, con il 20% di sconto sul listino di 249€. È un tablet da prendere in considerazione se alterni letture, lezioni e film e cerchi uno schermo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118797/tomshw-offer-1712988.png",
-      "publishedAt": "2026-10-16T20:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Perché sono tornato ad usare un computer con Windows On Arm e Snapdragon | VIDEO",
       "link": "https://www.hdblog.it/portatili/speciali/n673230/windows-on-arm-snapdragon-due-anni-dopo/",
       "excerpt": "Abbiamo usato per due anni i nuovi computer con Snapdragon e Windows On Arm. Ora con l'AI hanno tantissimo senso, ma non sono per tutti.",
@@ -86,33 +167,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Con l’IA è più facile creare startup?",
-      "link": "https://www.tomshw.it/business/con-lia-e-piu-facile-creare-startup",
-      "excerpt": "Nel primo semestre 2026 gli investimenti di venture capital in startup e scaleup italiane hanno raggiunto 679 milioni di euro, in crescita del 37% rispetto ai 494 milioni dello…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118678/01-vinci-ia-startup-validazione.jpg",
-      "publishedAt": "2026-10-16T18:48:35+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Ring Pan-Tilt 2K a soli 69,99€, segue persone e animali in casa",
-      "link": "https://www.tomshw.it/altro/ring-pan-tilt-2k-a-soli-6999eur-segue-persone-e-animali-in-casa",
-      "excerpt": "A 69,99€ su Amazon, Ring Pan-Tilt 2K permette di seguire persone e animali mentre si muovono in casa. La visuale a 360° e i movimenti gestibili dall’app Ring aiutano a controllare…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118790/tomshw-offer-1712934.png",
-      "publishedAt": "2026-10-16T18:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Barba e capelli a casa con Braun 6-in-1, il kit costa 36,99€",
-      "link": "https://www.tomshw.it/altro/barba-e-capelli-a-casa-con-braun-6-in-1-il-kit-costa-3699eur",
-      "excerpt": "Il Braun 6-in-1 costa 36,99€ su Amazon e permette di regolare barba e capelli a casa con un unico kit. Pettini fissi e scorrevoli aiutano a gestire lunghezze diverse, mentre il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118784/tomshw-offer-1712919.png",
-      "publishedAt": "2026-10-16T18:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "RetroBox Modem è il progetto perfetto per i nostalgici degli albori del Web",
       "link": "https://www.hdblog.it/hardware/articoli/n674014/retrobox-modem-wifi-bbs-raspberry-pi/",
       "excerpt": "Estetica anni Novanta e tutti quei bei suoni che facevano i modem dell'epoca.",
@@ -120,15 +174,6 @@
       "publishedAt": "2026-10-16T18:05:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Windows 11 fermo su arresto in corso: che fare",
-      "link": "https://www.tomshw.it/hardware/windows-11-fermo-arresto-in-corso-controlli-update-app",
-      "excerpt": "Se Windows 11 resta bloccato sulla schermata Arresto in corso a ogni spegnimento, controlla prima gli aggiornamenti da completare e le applicazioni ancora aperte. Quando il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/117952/cover.png",
-      "publishedAt": "2026-10-16T18:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Timex, arrivano cinque nuovi orologi dedicati a Harry Potter",
@@ -154,51 +199,6 @@
       "excerpt": "Il nuovo modello open multimodale Muse Spark da ben 816 miliardi di parametri può essere eseguito completamente in locale, con due Mac Studio basati su M5 Ultra.",
       "image": "https://hd2.tudocdn.net/1238853?w=660",
       "publishedAt": "2026-10-16T17:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Hyundai IONIQ 3 punta al titolo di Auto Europa 2027: è tra le sette finaliste",
-      "link": "https://www.hdmotori.it/hyundai-ioniq-3-punta-al-titolo-di-auto-europa-2027-e-tra-le-sette-finaliste/",
-      "excerpt": "Hyundai IONIQ 3 è tra le sette finaliste di Auto Europa 2027. La compatta elettrica offre fino a 497 km WLTP, 441 litri di bagagliaio e PLEOS Connect",
-      "image": "https://hd2.tudocdn.net/1378766?w=660",
-      "publishedAt": "2026-10-16T17:00:02+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Deputato legge il discorso dagli occhiali smart: scoppia il caso",
-      "link": "https://www.hdblog.it/indossabili/articoli/n673985/occhiali-smart-deputato-gobbo-parlamento/",
-      "excerpt": "Un deputato gallese usa gli occhiali smart come gobbo e scatena una polemica sulla privacy.",
-      "image": "https://hd2.tudocdn.net/1378738?w=660",
-      "publishedAt": "2026-10-16T16:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Anna's Archive, la shadow library segnalata dalla RIAA al governo USA",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n674004/riaa-annas-archive-pirateria-lista-entita-usa/",
-      "excerpt": "La shadow library che copiò il database di Spotify è stata aggiunta alla \"entity list\" di pirateria e contraffazione.",
-      "image": "https://hd2.tudocdn.net/1378760?w=660",
-      "publishedAt": "2026-10-16T16:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "MSI, arriva la GeForce RTX 5080 dedicata a Call of Duty MW4",
-      "link": "https://www.hdblog.it/hardware/articoli/n674000/msi-geforce-rtx-5080-call-duty-mw4/",
-      "excerpt": "Solo una livrea speciale o c'è anche della sostanza?",
-      "image": "https://hd2.tudocdn.net/1378755?w=660",
-      "publishedAt": "2026-10-16T16:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Yellowjackets, la quarta stagione arriva il 20 novembre su Paramount+",
-      "link": "https://www.hdblog.it/spettacolo/articoli/n673919/yellowjackets-4-teaser-data-uscita-stagione-finale/",
-      "excerpt": "Le sopravvissute tornano a casa nel teaser dell'ultima stagione, in arrivo il 20 novembre.",
-      "image": "https://hd2.tudocdn.net/1378549?w=660",
-      "publishedAt": "2026-10-16T16:25:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
