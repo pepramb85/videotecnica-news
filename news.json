@@ -1,35 +1,179 @@
 {
-  "generatedAt": "2026-10-18T08:26:51.609510+00:00",
+  "generatedAt": "2026-10-18T13:41:48.687715+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Salone di Parigi, una Mercedes finisce contro una parete: al volante c’è un bambino",
-      "link": "https://www.hdmotori.it/salone-di-parigi-una-mercedes-finisce-contro-una-parete-al-volante-ce-un-bambino/",
-      "excerpt": "Incidente insolito al Mondial de l’Auto di Parigi: un giovane appassionato fa sbattere un'auto esposta contro una parete dello stand",
-      "image": "https://hd2.tudocdn.net/1378829?w=660",
-      "publishedAt": "2026-10-18T08:25:02+00:00",
+      "title": "iPhone Duo, difficile acquistarlo al day one negli Apple Store senza averlo preordinato",
+      "link": "https://www.hdblog.it/smartphone/articoli/n674052/iphone-duo-difficile-acquistarlo-senza-preordine/",
+      "excerpt": "Le scorte in arrivo sarebbero infatti molto limitate, con la precedenza riservata a chi ha già effettuato un ordine.",
+      "image": "https://hd2.tudocdn.net/1356254?w=660",
+      "publishedAt": "2026-10-18T13:20:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Migliori orologi Casio G-Shock (2026)",
-      "link": "https://www.tomshw.it/altro/migliori-orologi-casio-g-shock",
-      "excerpt": "Il Casio G-Shock GA-2110SU-3AER è la scelta principale: combina movimento analogico-digitale al quarzo, cassa in resina rinforzata con carbonio e resistenza dichiarata a 20 bar. È…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118846/guide-thw-1753940.png",
-      "publishedAt": "2026-10-18T08:21:00+00:00",
+      "title": "-42% su HyperX SoloCast 2, la voce di live e podcast a 34,99€",
+      "link": "https://www.tomshw.it/hardware/42-su-hyperx-solocast-2-la-voce-di-live-e-podcast-a-3499eur",
+      "excerpt": "HyperX SoloCast 2 a 34,99€ su Amazon: il microfono USB-C per gaming, streaming e podcast raggiunge il minimo storico, con uno sconto del 42% sui 59,99€ di listino. Filtro anti-pop…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118857/tomshw-offer-1754277.png",
+      "publishedAt": "2026-10-18T13:17:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "UGREEN Revodok Pro 109 al -40%, colleghi monitor, rete e periferiche",
-      "link": "https://www.tomshw.it/hardware/ugreen-revodok-pro-109-al-40-colleghi-monitor-rete-e-periferiche",
-      "excerpt": "UGREEN Revodok Pro 109 costa 39,59€ su Amazon, con uno sconto del 40% sul listino di 65,99€. Riunisce in un hub USB-C 9 in 1 le connessioni per trasformare il notebook in una…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118848/tomshw-offer-1753971.png",
-      "publishedAt": "2026-10-18T08:18:00+00:00",
+      "title": "Gli hacker hanno trovato il modo di nascondersi dentro i firewall",
+      "link": "https://www.tomshw.it/hardware/peerstitch-infetta-i-firewall-fortigate-perche-sfugge-ai-controlli",
+      "excerpt": "I ricercatori di Unit 42, il team di Palo Alto Networks, hanno individuato PEERSTITCH, un malware per architettura ARM64 che si nasconde nella memoria dei firewall FortiGate. La…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118793/peerstitch-infetta-i-firewall-fortigate-perche-sfugge-ai-controlli.png",
+      "publishedAt": "2026-10-18T13:00:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Turtle Beach Victrix Pro BFG Reloaded a 162,52€, un pad per FPS e picchiaduro",
+      "link": "https://www.tomshw.it/videogioco/turtle-beach-victrix-pro-bfg-reloaded-a-16252eur-un-pad-per-fps-e-picchiaduro",
+      "excerpt": "Turtle Beach Victrix Pro BFG Reloaded costa 162,52€ su Amazon, con uno sconto del 19% sui 199,99€ di listino per il controller wireless bianco per PS5, PS4 e PC. Il modulo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118856/tomshw-offer-1754237.png",
+      "publishedAt": "2026-10-18T12:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Aspirabriciole 4 in 1 al -40%, pulisci auto e tastiera con un solo apparecchio",
+      "link": "https://www.tomshw.it/automotive/aspirabriciole-4-in-1-al-40-pulisci-auto-e-tastiera-con-un-solo-apparecchio",
+      "excerpt": "L’aspirabriciole 4 in 1 costa 35,99€ su Amazon, con uno sconto del 40% sul listino di 59,99€. Aspira le briciole dai sedili, soffia via la polvere dalla tastiera e aggiunge le…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118855/tomshw-offer-1754204.png",
+      "publishedAt": "2026-10-18T12:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "The Witcher 3, perché sprecare risorse quando basta una mod?",
+      "link": "https://www.tomshw.it/videogioco/the-witcher-3-regola-il-path-tracing-via-mod-piu-fps-dove-servono",
+      "excerpt": "Una nuova mod per The Witcher 3 su PC permette di cambiare automaticamente le impostazioni grafiche durante l’esplorazione, scegliendo dove utilizzare gli effetti di illuminazione…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118792/the-witcher-3-regola-il-path-tracing-via-mod-piu-fps-dove-servono.png",
+      "publishedAt": "2026-10-18T12:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Smartphone senza jack audio? Come aggiungerlo con un DAC USB-C",
+      "link": "https://www.hdblog.it/indossabili/articoli/n674021/come-aggiungere-jack-cuffie-smartphone-usb-c/",
+      "excerpt": "Come recuperare il jack cuffie e migliorare l'ascolto grazie a un piccolo DAC USB-C.",
+      "image": "https://hd2.tudocdn.net/1378792?w=660",
+      "publishedAt": "2026-10-18T11:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Avvitatore Makita LXT 18V sotto i 100€ per completare il tuo kit",
+      "link": "https://www.tomshw.it/altro/avvitatore-makita-lxt-18v-sotto-i-100eur-per-completare-il-tuo-kit",
+      "excerpt": "L’avvitatore Makita LXT 18V costa 92,87€ su Amazon e arriva nella versione solo corpo, pensata per completare un’attrezzatura già avviata. Il modello DTD153Z interessa soprattutto…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118854/tomshw-offer-1754165.png",
+      "publishedAt": "2026-10-18T11:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "L'IA crea proteine che ne tagliano altre: saranno utili contro l'Alzheimer?",
+      "link": "https://www.tomshw.it/scienze/lia-crea-proteine-che-ne-tagliano-altre-utili-contro-lalzheimer",
+      "excerpt": "Un gruppo di ricercatori, soprattutto del laboratorio di David Baker alla University of Washington, ha usato strumenti di intelligenza artificiale per progettare enzimi capaci di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118783/l-ia-crea-proteine-che-ne-tagliano-altre-utili-contro-l-alzheimer.png",
+      "publishedAt": "2026-10-18T11:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Windows 11 ha una modalità \"Ultra Performance\" nascosta: come attivarla",
+      "link": "https://www.hdblog.it/microsoft/articoli/n673892/windows-11-modalita-ultimate-performance-nascosta/",
+      "excerpt": "Potrebbe tornarvi utile in determinati carichi di lavoro \"Pro\".",
+      "image": "https://hd2.tudocdn.net/1361078?w=660",
+      "publishedAt": "2026-10-18T10:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Due stanze sotto controllo con Ring Indoor Camera a 79,99€ la coppia",
+      "link": "https://www.tomshw.it/altro/due-stanze-sotto-controllo-con-ring-indoor-camera-a-7999eur-la-coppia",
+      "excerpt": "Due Ring Indoor Camera (2ª gen.) costano 79,99€ su Amazon, con il 20% di sconto sui 99,98€ di listino. La confezione permette di seguire gli animali domestici in due ambienti, con…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118853/tomshw-offer-1754150.png",
+      "publishedAt": "2026-10-18T10:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Corsair RS120-R, tre ventole a 34,90€ per mostrare gli RGB anche in aspirazione",
+      "link": "https://www.tomshw.it/hardware/corsair-rs120-r-tre-ventole-a-3490eur-per-mostrare-gli-rgb-anche-in-aspirazione",
+      "excerpt": "Corsair RS120-R a 34,90€ su Amazon: il kit da tre ventole è scontato del 30% rispetto ai 49,90€ di listino. Il rotore inverso lascia in vista l’illuminazione anche quando monti le…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118852/tomshw-offer-1754107.png",
+      "publishedAt": "2026-10-18T10:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il vento ha un effetto nascosto sulle piante, ora sappiamo quale",
+      "link": "https://www.tomshw.it/scienze/il-vento-fa-perdere-piu-acqua-alle-piante-ecco-perche",
+      "excerpt": "Un gruppo internazionale con ricercatori dell’Accademia cinese delle scienze ha pubblicato su Nature Climate Change uno studio che collega venti più intensi a una minore…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/118782/il-vento-fa-perdere-piu-acqua-alle-piante-ecco-perche.png",
+      "publishedAt": "2026-10-18T10:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Google Maps ricorda più di quanto pensi: come ripulirlo",
+      "link": "https://www.hdblog.it/google/articoli/n673527/google-maps-cosa-ricorda-come-cancellare-dati/",
+      "excerpt": "Google Maps può salvare la posizione precisa del telefono, ogni ricerca e i luoghi visualizzati. Ecco cosa registra tra Timeline, Search Services History e profilo pubblico, e…",
+      "image": "https://hd2.tudocdn.net/1377726?w=660",
+      "publishedAt": "2026-10-18T09:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Auto Europa 2027: le sette finaliste del premio",
+      "link": "https://www.hdmotori.it/auto-europa-2027-le-sette-finaliste-del-premio/",
+      "excerpt": "Le sette finaliste del Premio Auto Europa 2027 raccontano le sfide e le trasformazioni dell’industria automobilistica del Vecchio Continente",
+      "image": "https://hd2.tudocdn.net/1378835?w=660",
+      "publishedAt": "2026-10-18T09:30:27+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il SUV sportivo secondo Mercedes-AMG: GT SUV ha 1.169 CV e fino a 700 km di autonomia",
+      "link": "https://images.dday.it/I8Cw1zWwPhPeT8QI2nYX8KLeMA3OBcnHoG-cuoUswL0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59124/0e44c6_26c0332_080.jpg",
+      "excerpt": "È il primo SUV full-size sviluppato interamente da AMG. Tre versioni e ricarica fino a 710 kW: il modello d’ingresso sarà ordinabile dal 20 ottobre... Leggi tutto",
+      "image": "https://images.dday.it/I8Cw1zWwPhPeT8QI2nYX8KLeMA3OBcnHoG-cuoUswL0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59124/0e44c6_26c0332_080.jpg",
+      "publishedAt": "2026-10-18T09:27:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Musicolet porta gli MP3 su Android Auto senza passare dai servizi streaming",
+      "link": "https://www.hdblog.it/android/articoli/n673958/musicolet-mp3-android-auto-senza-streaming/",
+      "excerpt": "Le piattaforme streaming hanno cambiato radicalmente le modalità di fruizione della musica, relegando i supporti fisici ad un ruolo sempre più marginale e riservato ai…",
+      "image": "https://hd2.tudocdn.net/1378631?w=660",
+      "publishedAt": "2026-10-18T08:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Monitor OLED AOC da 34'': il gigante per il gaming è al minimo storico, ma per poco",
+      "link": "https://www.hdblog.it/hardware/offerte/n674044/monitor-aoc-oled-34-curvo-minimo-storico/",
+      "excerpt": "Solo per poche ore, il monitor da gaming AOC AGON AG346UCD con pannello QD-OLED da 34'' può essere acquistato al minimo storico su Amazon.",
+      "image": "https://hd2.tudocdn.net/1378831?w=660",
+      "publishedAt": "2026-10-18T08:39:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Salone di Parigi, una Mercedes finisce contro una parete: al volante c’è un bambino",
+      "link": "https://www.hdmotori.it/salone-di-parigi-una-mercedes-finisce-contro-una-parete-al-volante-ce-un-bambino/",
+      "excerpt": "Incidente insolito al Mondial de l’Auto di Parigi: un giovane appassionato fa sbattere un'auto esposta contro una parete dello stand",
+      "image": "https://hd2.tudocdn.net/1378829?w=660",
+      "publishedAt": "2026-10-18T08:30:02+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
     },
     {
       "title": "Come Tesla ha sviluppato la Roadster (in segreto)",
@@ -41,15 +185,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Stelle verdi, rosa e viola? La scienza conferma che esistono",
-      "link": "https://www.tomshw.it/scienze/una-stella-ci-apparirebbe-verde-da-vicino-ecco-perche",
-      "excerpt": "Un gruppo guidato da Mark Hollands, astronomo dell’Università di Warwick, ha identificato una nana bianca che all’occhio umano apparirebbe verde, ricostruendone il colore…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118779/una-stella-ci-apparirebbe-verde-da-vicino-ecco-perche.png",
-      "publishedAt": "2026-10-18T08:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Notifiche Android, come diminuire le distrazioni causate dallo smartphone",
       "link": "https://www.hdblog.it/smartphone/articoli/n673765/notifiche-android-come-diminuire-distrazioni/",
       "excerpt": "Le impostazioni da modificare per ridurre gli avvisi.",
@@ -57,69 +192,6 @@
       "publishedAt": "2026-10-18T07:55:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Deumidificatore da 12 litri a 129€, per gestire l’umidità fino a 35 m²",
-      "link": "https://www.tomshw.it/altro/deumidificatore-da-12-litri-a-129eur-per-gestire-lumidita-fino-a-35-m2",
-      "excerpt": "DEOS EVO 12 costa 129€ su Amazon, contro un listino di 172,90€ e con uno sconto del 25%. È un deumidificatore portatile da 12 litri pensato per seguire le necessità delle diverse…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118847/tomshw-offer-1753950.png",
-      "publishedAt": "2026-10-18T07:47:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "L'auto resta ferma per giorni? Un avviatore portatile vi evita una batteria a terra",
-      "link": "https://www.tomshw.it/offerte/lauto-resta-ferma-per-giorni-un-avviatore-portatile-vi-evita-una-batteria-a-terra",
-      "excerpt": "Capita a tutti: si lascia l'auto parcheggiata sotto casa per un lungo periodo, al rientro da una vacanza o dopo diversi giorni di smart working, e al momento di girare la chiave…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118756/L'auto-resta-ferma-per-giorni-Un-avviatore-portatile-vi-evita-una-batteria-a-terra.jpg",
-      "publishedAt": "2026-10-18T07:13:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Riforma tariffe RC Auto, Urso: «Saranno premiati i cittadini virtuosi»",
-      "link": "https://www.hdmotori.it/riforma-tariffe-rc-auto-urso/",
-      "excerpt": "Il ministro Urso commenta l'imminente approvazione di un intervento legislativo volto a riformare le tariffe RCA per superare i limiti del meccanismo attuale.",
-      "image": "https://hd2.tudocdn.net/1378827?w=660",
-      "publishedAt": "2026-10-18T07:00:33+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "L'uragano Simon crea onde nell'alta atmosfera: ecco perché si vedono",
-      "link": "https://www.tomshw.it/scienze/luragano-simon-crea-onde-nellalta-atmosfera-ecco-perche-si-vedono",
-      "excerpt": "La NASA ha diffuso immagini satellitari di grandi increspature nell'alta atmosfera generate dall'uragano Simon, al largo della costa pacifica del Messico. Riprese durante un…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118778/l-uragano-simon-crea-onde-nell-alta-atmosfera-ecco-perche-si-vedono.png",
-      "publishedAt": "2026-10-18T07:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Ricerca lenta su Windows? Questo tool gratuito trova i file in un attimo",
-      "link": "https://www.hdblog.it/portatili/articoli/n673828/ricerca-lenta-windows-tool-gratuito-everything/",
-      "excerpt": "Everything migliora la ricerca dei file locali.",
-      "image": "https://hd2.tudocdn.net/1378395?w=660",
-      "publishedAt": "2026-10-18T06:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "TCL C1 proietta Netflix anche sul soffitto e costa 231,49€ su Amazon",
-      "link": "https://www.tomshw.it/altro/tcl-c1-proietta-netflix-anche-sul-soffitto-e-costa-23149eur-su-amazon",
-      "excerpt": "TCL C1 costa 231,49€ su Amazon, con uno sconto del 7% sui 249,99€ di listino e un risparmio di 18,50€. Il proiettore portatile integra un supporto gimbal per orientare la…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118844/tomshw-offer-1753897.png",
-      "publishedAt": "2026-10-18T06:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Xiaomi Redmi Note 15 Pro 5G, 512GB a 347€ per tenere foto e video",
-      "link": "https://www.tomshw.it/smartphone/xiaomi-redmi-note-15-pro-5g-512gb-a-347eur-per-tenere-foto-e-video",
-      "excerpt": "Xiaomi Redmi Note 15 Pro 5G costa 347€ su Amazon, con il 22% di sconto sul prezzo di listino di 449,90€. La versione da 12GB + 512GB interessa soprattutto a chi vuole conservare…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118843/tomshw-offer-1753786.png",
-      "publishedAt": "2026-10-18T06:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Roomba 115, 415, 515 e 575, in promo i robot multifunzione che arrivano dove gli altri si fermano",
@@ -138,69 +210,6 @@
       "publishedAt": "2026-10-18T01:03:06+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Con Braun Serie 7 12in1 regoli barba e capelli e radi il corpo a 93,21€",
-      "link": "https://www.tomshw.it/smartphone/con-braun-serie-7-12in1-regoli-barba-e-capelli-e-radi-il-corpo-a-9321eur",
-      "excerpt": "Braun Serie 7 12in1 costa 93,21€ su Amazon, con uno sconto del 6% sui 99,99€ di listino e un risparmio di 6,78€. Il kit riunisce gli strumenti per sistemare barba e capelli,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118841/tomshw-offer-1733090.png",
-      "publishedAt": "2026-10-17T19:47:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Makita 18V LXT, tagli e finiture senza filo a 141,32€",
-      "link": "https://www.tomshw.it/altro/makita-18v-lxt-tagli-e-finiture-senza-filo-a-14132eur",
-      "excerpt": "Il multifunzione Makita DTM51Z costa 141,32€ su Amazon e riunisce taglio, segatura e smerigliatura in un utensile a batteria. La versione solo corpo interessa soprattutto chi…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/118840/tomshw-offer-1733061.png",
-      "publishedAt": "2026-10-17T18:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Huawei Watch GT 7 in offerta su Amazon: la scelta giusta per uno smartwatch di qualità",
-      "link": "https://www.hdblog.it/indossabili/offerte/n674040/huawei-watch-gt-7-ifferte-amazon-ott26/",
-      "excerpt": "Il Huawei Watch GT 7 è in offerta su Amazon e diventa un best buy tra gli smartwatch da prendere oggi.",
-      "image": "https://hd2.tudocdn.net/1367686?w=660",
-      "publishedAt": "2026-10-17T15:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Sul Play Store c'era un WhatsApp falso con oltre 500.000 download",
-      "link": "https://www.hdblog.it/google/articoli/n674037/whatsapp-falso-play-store-download-app-truffa/",
-      "excerpt": "Occhio alle app truffaldine: sul Play Store continuano ad essere un problema.",
-      "image": "https://hd2.tudocdn.net/1378815?w=660",
-      "publishedAt": "2026-10-17T14:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone 18 Pro è già in offerta: un'occasione da cogliere al volo (-111€)",
-      "link": "https://www.hdblog.it/smartphone/offerte/n674038/iphone-18-pro-offerta-ottobre-2026/",
-      "excerpt": "iPhone 18 Pro è in offerta e diventa subito protagonista di una promo da cogliere al volo con 111 euro di sconto.",
-      "image": "https://hd2.tudocdn.net/1378451?w=660",
-      "publishedAt": "2026-10-17T14:00:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung Galaxy S26 FE ora ha più senso: sconto di 280€ sul modello da 256GB",
-      "link": "https://www.hdblog.it/smartphone/offerte/n674036/samsung-galaxy-s26-fe-sconto-versione-256gb/",
-      "excerpt": "Display Dynamic AMOLED 2X a 120Hz, tripla fotocamera e design premium per il Samsung Galaxy S26 FE, ora in offerta su Amazon.",
-      "image": "https://hd2.tudocdn.net/1378814?w=660",
-      "publishedAt": "2026-10-17T13:38:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone Duo, Apple conferma: c'è una domanda \"a dir poco straordinaria\"",
-      "link": "https://www.hdblog.it/smartphone/articoli/n674032/iphone-duo-apple-conferma-domanda-straordinaria/",
-      "excerpt": "Le prime disponibilità per il 23 ottobre sono terminate quasi subito",
-      "image": "https://hd2.tudocdn.net/1370646?w=660",
-      "publishedAt": "2026-10-17T13:11:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Le Headphone (1) Pro sono davvero eccezionali come Nothing vuole farci credere? Recensione",
@@ -262,15 +271,6 @@
       "excerpt": "Nelle ultime settimane sono aumentate le segnalazioni di problemi relativi al nuovo processore Qualcomm, che, spinto al limite, non sarebbe così stabile. Sembra che anche Samsung…",
       "image": "https://images.dday.it/FGX4nJa5kseYBMQyrGSLc-MlLxJnPqsaJEGJayrEoIg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/59113/37addf_s27.jpg",
       "publishedAt": "2026-10-16T10:54:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "ChatGPT per Chrome ora usa le schede aperte e può agire al loro interno",
-      "link": "https://images.dday.it/2faCU4_QG8HJK4HM7LtCNWh6fpnTArPoWVdCdxr2mxQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59112/ee8079_Screenshot_2026-10-16_120235.png",
-      "excerpt": "Con la modalità Work l’assistente compila moduli, invia messaggi e scarica file. Il pannello laterale ospita ora il ChatGPT completo con tutta la cronologia... Leggi tutto",
-      "image": "https://images.dday.it/2faCU4_QG8HJK4HM7LtCNWh6fpnTArPoWVdCdxr2mxQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59112/ee8079_Screenshot_2026-10-16_120235.png",
-      "publishedAt": "2026-10-16T10:03:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
