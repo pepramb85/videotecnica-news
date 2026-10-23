@@ -1,89 +1,197 @@
 {
-  "generatedAt": "2026-10-23T14:33:40.919683+00:00",
+  "generatedAt": "2026-10-23T19:40:34.802434+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Volkswagen T-Roc Full Hybrid, Porte Aperte il 24 e 25 ottobre: in offerta da 30.500 euro",
-      "link": "https://www.hdmotori.it/volkswagen-t-roc-full-hybrid-porte-aperte/",
-      "excerpt": "Volkswagen T-Roc Hybrid protagonista del Porte Aperte del 24 e 25 ottobre: test drive nelle concessionarie italiane e offerta speciale di lancio",
-      "image": "https://hd2.tudocdn.net/1380180?w=660",
-      "publishedAt": "2026-10-23T14:30:09+00:00",
+      "title": "Recensione Moulinex Ever Fry XXL Surface: quando le dimensioni (e il calore) contano davvero",
+      "link": "https://www.tomshw.it/altro/recensione-moulinex-ever-fry-xxl-surface-quando-le-dimensioni-e-il-calore-contano-davvero",
+      "excerpt": "C'è stato un momento, negli ultimi tre o quattro anni, in cui sembrava che chiunque non possedesse una friggitrice ad aria fosse destinato a una lenta ed inesorabile emarginazione…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/117868/Moulinex_friggitrice_EZ421_EVER_FRY_XXL_SURFACE_BIG_CAPACITY.png",
+      "publishedAt": "2026-10-23T19:22:57+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Pochi CIO dicono che l'AI ha reso davvero, ma i budget crescono lo stesso",
+      "link": "https://www.tomshw.it/business/pochi-cio-dicono-che-lai-ha-reso-davvero-ma-i-budget-crescono-lo-stesso",
+      "excerpt": "Gartner ha interpellato 2.002 CIO e dirigenti della tecnologia, e fra i CIO solo il 13% ha dichiarato che la propria azienda ha già ottenuto dall'AI un valore significativo o…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/119959/01-gartner-13-percento-ai.jpg",
+      "publishedAt": "2026-10-23T18:51:27+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Questa bici elettrica da 29 pollici costa solo 349€ e ha la batteria estraibile",
+      "link": "https://www.tomshw.it/automotive/questa-bici-elettrica-da-29-pollici-costa-solo-349eur-e-ha-la-batteria-estraibile",
+      "excerpt": "A 349€ su Amazon, la bici elettrica U1 da 29 pollici offre una batteria rimovibile e una dotazione pensata per gli spostamenti in città e i fondi irregolari. Il pacco da 648Wh si…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120106/tomshw-offer-1848390.png",
+      "publishedAt": "2026-10-23T18:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Abbiamo già i primi iPhone Duo rotti: cosa è andato storto",
+      "link": "https://www.tomshw.it/smartphone/the-first-broken-iphone-duos-are-here",
+      "excerpt": "Il primo smartphone pieghevole di Apple è arrivato ufficialmente nei negozi oggi, 23 ottobre 2026, ma nelle stesse ore sono comparse online le prime segnalazioni di unità con lo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120087/the-first-broken-iphone-duos-are-here-3unvmts.webp",
+      "publishedAt": "2026-10-23T18:44:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Con WWE 2K25 bastano 19,90€ per portare sul ring oltre 300 Superstar",
+      "link": "https://www.tomshw.it/videogioco/con-wwe-2k25-bastano-1990eur-per-portare-sul-ring-oltre-300-superstar",
+      "excerpt": "WWE 2K25 costa 19,90€ su Amazon, con uno sconto del 36% sul prezzo di listino di 30,99€. Il roster di oltre 300 Superstar permette di mettere sullo stesso ring protagonisti…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120098/tomshw-offer-1848365.png",
+      "publishedAt": "2026-10-23T18:19:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Audio HDMI sbagliato? I controlli da fare su Windows 11",
+      "link": "https://www.tomshw.it/hardware/audio-monitor-hdmi-casse-mute-windows-11",
+      "excerpt": "Se l’audio esce dal monitor HDMI invece che dalle casse collegate al jack del PC, apri Impostazioni > Sistema > Audio e seleziona l’uscita analogica degli altoparlanti. Impostala…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/119144/cover.png",
+      "publishedAt": "2026-10-23T18:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Pane e dolci con la planetaria KitchenAid Artisan, due ciotole a 479€",
+      "link": "https://www.tomshw.it/altro/pane-e-dolci-con-la-planetaria-kitchenaid-artisan-due-ciotole-a-479eur",
+      "excerpt": "A 479€ su Amazon, la planetaria KitchenAid Artisan Nero onice riunisce gli accessori per impastare, mescolare e montare in un unico apparecchio. Le due ciotole permettono di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120092/tomshw-offer-1848349.png",
+      "publishedAt": "2026-10-23T17:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Anche in Europa dovremmo seguire l'esempio degli USA su TikTok?",
+      "link": "https://www.hdblog.it/mercato/articoli/n674762/tiktok-europa-scorporo-bytedance-modello-usa/",
+      "excerpt": "Il proprietario e CEO dell'editore Axel Springer ne avrebbe parlato addirittura con l'ambasciatore francese degli USA, peraltro consuocero di Donald Trump.",
+      "image": "https://hd2.tudocdn.net/1358789?w=660",
+      "publishedAt": "2026-10-23T17:45:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "DeepSeek V4.1 Flash sorprende nei test, ma inciampa su un vecchio problema",
-      "link": "https://www.tomshw.it/hardware/deepseek-v41-flash-e-piu-efficiente-puoi-fidarti-delle-risposte",
-      "excerpt": "DeepSeek ha aggiornato il proprio modello con DeepSeek V4.1 Flash, una revisione che riduce sensibilmente la memoria necessaria durante l'esecuzione e punta a contenere il costo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120019/deepseek-v4-1-flash-e-piu-efficiente-puoi-fidarti-delle-risposte.png",
-      "publishedAt": "2026-10-23T14:30:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Chery vuole cancellare le lunghe attese alle colonnine elettriche, ecco come",
-      "link": "https://www.tomshw.it/automotive/chery-annuncia-il-caricatore-megawatt-addio-alle-lunghe-soste",
-      "excerpt": "Chery ha annunciato un sistema di ricarica da 1,44 MW capace, secondo i dati dichiarati dal costruttore, di aggiungere 500 km di autonomia in cinque minuti. La casa…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120018/chery-annuncia-il-caricatore-megawatt-addio-alle-lunghe-soste.png",
-      "publishedAt": "2026-10-23T14:20:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Apple iPad Air 13\" M4 da 1.189€ a 1.129€, spazio per lavorare anche in viaggio",
-      "link": "https://www.tomshw.it/smartphone/apple-ipad-air-13-m4-da-1189eur-a-1129eur-spazio-per-lavorare-anche-in-viaggio",
-      "excerpt": "Apple iPad Air 13 M4 costa 1.129€ su Amazon, con il 5% di sconto sul listino di 1.189€ per la versione da 128 GB con Wi-Fi 7 e 5G. Lo schermo ampio e la connessione mobile lo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120020/tomshw-offer-1848031.png",
-      "publishedAt": "2026-10-23T14:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "La prossima era glaciale era già iniziata: il riscaldamento globale l'ha fermata",
-      "link": "https://www.hdblog.it/green/articoli/n674730/era-glaciale-riscaldamento-clima-laurentide-barnes/",
-      "excerpt": "La scoperta della Columbia University.",
-      "image": "https://hd2.tudocdn.net/1380175?w=660",
-      "publishedAt": "2026-10-23T14:15:00+00:00",
+      "title": "iPhone Duo torna su Amazon: il pieghevole Apple è acquistabile su prenotazione",
+      "link": "https://www.hdblog.it/smartphone/offerte/n674760/iphone-duo-torna-amazon-acquistabile-prenotazione/",
+      "excerpt": "iPhone Duo su Amazon: puoi completare l'ordine e metterti in coda.",
+      "image": "https://hd2.tudocdn.net/1380210?w=660",
+      "publishedAt": "2026-10-23T17:39:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Social vietati ai minori di 15 anni, la Grecia approva la legge: cosa cambia e quando",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n674738/social-vietati-minori-15-anni-grecia-approva/",
-      "excerpt": "Dal 1° gennaio 2027 i minori di 15 anni non potranno più utilizzare i social network in Grecia.",
-      "image": "https://hd2.tudocdn.net/1308402?w=660",
-      "publishedAt": "2026-10-23T14:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Batteria auto scarica? Hyundai KONA e TUCSON ibride ripartono premendo un pulsante",
-      "link": "https://www.hdmotori.it/batteria-auto-scarica-hyundai-kona-tucson-ibride/",
-      "excerpt": "Hyundai Battery Reset permette di riavviare KONA e TUCSON ibride quando la batteria da 12 V si scollega. Come funziona e quando usare il pulsante",
-      "image": "https://hd2.tudocdn.net/1380173?w=660",
-      "publishedAt": "2026-10-23T14:00:06+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il libro che cerchi non è disponibile? Kobo prepara una soluzione",
-      "link": "https://www.tomshw.it/hardware/kobo-supporta-piu-tessere-biblioteca-meno-attese-per-gli-ebook",
-      "excerpt": "Rakuten Kobo ha annunciato che i suoi eReader supporteranno più tessere biblioteca, ampliando le possibilità di accesso agli eBook in prestito. Per i lettori iscritti a diversi…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120016/kobo-supporta-piu-tessere-biblioteca-meno-attese-per-gli-ebook.png",
-      "publishedAt": "2026-10-23T13:50:00+00:00",
+      "title": "Data center a gas, rischiamo di avere l'aria di vent'anni fa",
+      "link": "https://www.tomshw.it/business/data-center-a-gas-rischiamo-di-avere-laria-di-ventanni-fa",
+      "excerpt": "Nel 2031 gli ossidi di azoto emessi in Texas, tra i composti che formano lo smog, potrebbero crescere del 136% e avvicinarsi al volume del 2004, se tutta la nuova domanda dei data…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/119746/09-data-center-aria-texas.jpg",
+      "publishedAt": "2026-10-23T17:38:59+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Gelatiera Cuisinart a soli 265,90€, gelato in 40 minuti senza pre-raffreddamento",
-      "link": "https://www.tomshw.it/hardware/gelatiera-cuisinart-a-soli-26590eur-gelato-in-40-minuti-senza-pre-raffreddamento",
-      "excerpt": "Cuisinart FreezeEase Pro costa 265,90€ su Amazon, con uno sconto del 30% sul listino di 379,90€ e un risparmio di 114€. Il compressore integrato permette di preparare il gelato…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120013/tomshw-offer-1847986.png",
-      "publishedAt": "2026-10-23T13:48:00+00:00",
+      "title": "iPhone Duo e le app poco ottimizzate: la fotografia di una situazione che si risolverà in pochi mesi",
+      "link": "https://images.dday.it/KMTf7FFX7uC0PRW24Wniu1wNdfYDr7YO1CXlduBApTU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/59209/d7a5f6_duomain2.jpg",
+      "excerpt": "Le prime recensioni di iPhone Duo puntano il dito sulla scarsa ottimizzazione delle app: era prevedibile, gli sviluppatori hanno avuto poco tempo e soprattutto pochi hanno messo…",
+      "image": "https://images.dday.it/KMTf7FFX7uC0PRW24Wniu1wNdfYDr7YO1CXlduBApTU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/59209/d7a5f6_duomain2.jpg",
+      "publishedAt": "2026-10-23T17:21:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Ring Indoor Camera 4K, 99,99€ per vedere casa bene anche in controluce",
+      "link": "https://www.tomshw.it/altro/ring-indoor-camera-4k-9999eur-per-vedere-casa-bene-anche-in-controluce",
+      "excerpt": "A 99,99€ su Amazon, Ring Indoor Camera 4K permette di controllare casa anche quando la luce complica l’inquadratura. Il video Retinal 4K e l’HDR automatico aiutano a distinguere i…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120084/tomshw-offer-1848326.png",
+      "publishedAt": "2026-10-23T17:18:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Starlink vuole accedere alla metà dei ripetitori cellulari degli Stati Uniti",
+      "link": "https://www.hdblog.it/mobile/articoli/n674758/starlink-ripetitori-cellulari-accesso-trattative/",
+      "excerpt": "Secondo Bloomberg la società ha già avviato le trattative con Crown Castle, uno dei maggiori proprietari di infrastrutture di rete del Paese.",
+      "image": "https://hd2.tudocdn.net/1359283?w=660",
+      "publishedAt": "2026-10-23T17:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Renault dice addio ad Alpine Racing a Dumarey: salvi 150 lavoratori",
+      "link": "https://www.hdmotori.it/renault-addio-alpine-racing/",
+      "excerpt": "Non è il miglior lieto fine possibile per la divisione motoristica di Alpine, ma almeno tutti i dipendenti non perderanno il lavoro",
+      "image": "https://hd2.tudocdn.net/1380203?w=660",
+      "publishedAt": "2026-10-23T17:00:02+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Quando esce Metro 2039? Data e cosa sappiamo",
+      "link": "https://www.tomshw.it/videogioco/quando-esce-metro-2039-data-e-cosa-sappiamo",
+      "excerpt": "Metro 2039 uscirà il 4 febbraio 2027, anche in Italia. Il nuovo capitolo principale della serie sviluppata da 4A Games e pubblicata da Deep Silver ha quindi un appuntamento…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/119130/cover.jpg",
+      "publishedAt": "2026-10-23T17:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La NASA porta l'AI sulla Luna: un rover testerà i modelli linguistici",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n674662/nasa-intelligenza-artificiale-luna-rover-hpe/",
+      "excerpt": "Un computer con CPU e GPU testerà AI, navigazione e analisi dei dati sulla superficie lunare.",
+      "image": "https://hd2.tudocdn.net/1380087?w=660",
+      "publishedAt": "2026-10-23T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "IT-Wallet, ecco il regolamento ufficiale per accedere alla sperimentazione",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n674755/it-wallet-regolamento-ufficiale-adesione/",
+      "excerpt": "Soggetti pubblici e privati potranno testare la piattaforma e nuove soluzioni basate su di essa.",
+      "image": "https://hd2.tudocdn.net/1215282?w=660",
+      "publishedAt": "2026-10-23T16:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "OnePlus, addio a OxygenOS: ColorOS17 stabile arriva su OnePlus 15",
+      "link": "https://www.hdblog.it/smartphone/articoli/n674751/oneplus-15-addio-oxygenos-coloros-17-aggiornamento/",
+      "excerpt": "La fine di un'era. Che però era già annunciata da tempo.",
+      "image": "https://hd2.tudocdn.net/1355077?w=660",
+      "publishedAt": "2026-10-23T16:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Kernel Linux, divulgate pubblicamente per errore alcune falle non risolte",
+      "link": "https://www.hdblog.it/linux/articoli/n674753/linux-kernel-errore-vulnerabilita-pubblico/",
+      "excerpt": "I ricercatori di TrendMicro l'hanno fatta grossa.",
+      "image": "https://hd2.tudocdn.net/1353254?w=660",
+      "publishedAt": "2026-10-23T16:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Carrie 2 si farà: Prime Video rinnova la serie horror di Stephen King",
+      "link": "https://www.hdblog.it/amazon/articoli/n674656/carrie-2-seconda-stagione-prime-video-confermata/",
+      "excerpt": "Carrie torna con una seconda stagione su Prime Video dopo il successo in oltre 105 Paesi.",
+      "image": "https://hd2.tudocdn.net/1380037?w=660",
+      "publishedAt": "2026-10-23T16:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Volvo non frena i tagli: altri 2.500 licenziamenti per abbattere i costi",
+      "link": "https://www.hdmotori.it/volvo-cars-licenziamenti-tagli-personale-svezia/",
+      "excerpt": "Volvo Cars riduce i costi e annuncia 2.500 esuberi, di cui 2.000 in Svezia. È la seconda ondata di uscite dopo i 3.000 posti di lavoro già tagliati nel 2025",
+      "image": "https://hd2.tudocdn.net/1380196?w=660",
+      "publishedAt": "2026-10-23T16:00:23+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
     },
     {
       "title": "Samsung Secrets: mai più dialoghi difficili da ascoltare, il mix te lo fai tu con AI Sound Controller Pro",
@@ -95,33 +203,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "La modalità StandBy di iPhone Duo arriva su Android grazie a questa app",
-      "link": "https://www.hdblog.it/android/articoli/n674733/foldy-app-android-standby-iphone-duo-pieghevoli/",
-      "excerpt": "Foldy funziona anche sugli smartphone tradizionali: ecco come.",
-      "image": "https://hd2.tudocdn.net/1380166?w=660",
-      "publishedAt": "2026-10-23T13:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Anche i PC più potenti scattano nei giochi, ma Epic ha una soluzione",
-      "link": "https://www.tomshw.it/videogioco/unreal-engine-58-integra-shader-precompilati-meno-scatti-su-pc",
-      "excerpt": "Epic Games ha documentato l'integrazione di Microsoft DirectX 12 Advanced Shader Delivery in Unreal Engine 5.8: gli sviluppatori possono preparare database da utilizzare per…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120003/unreal-engine-5-8-integra-shader-precompilati-meno-scatti-su-pc.png",
-      "publishedAt": "2026-10-23T13:40:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Google Cloud ora vende anche Claude e GPT, l'esclusiva Microsoft su OpenAI ormai è un ricordo",
-      "link": "https://www.tomshw.it/business/google-cloud-ora-vende-anche-claude-e-gpt-lesclusiva-microsoft-su-openai-ormai-e-un-ricordo",
-      "excerpt": "Google Cloud ha aggiunto tre modelli GPT al proprio Model Garden, il catalogo da cui i clienti scelgono quale modello usare, e con questo mette sullo stesso scaffale Gemini,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/119737/04-openai-google-cloud-antigravity.jpg",
-      "publishedAt": "2026-10-23T13:36:05+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Plenitude On The Road, violati i dati dei clienti: sottratti anche codice fiscale e informazioni sulle ricariche",
       "link": "https://images.dday.it/V-gYv5LWHffwUm3sSTIVwb99HR2CEf2SsKHziqAJM1A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59208/333e39_Colonnina_di_ricarcica_Plenitude_On_The_Road.jpeg",
       "excerpt": "Accessi non autorizzati al database tra il 19 e il 20 ottobre. Coinvolti dati anagrafici, contatti e informazioni sull’utilizzo del servizio di ricarica, ma non le password...…",
@@ -129,15 +210,6 @@
       "publishedAt": "2026-10-23T13:34:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "FBI e CISA lanciano l'allarme su SafePay: come proteggere i backup",
-      "link": "https://www.tomshw.it/hardware/fbi-e-cisa-lanciano-lallarme-su-safepay-come-proteggere-i-backup",
-      "excerpt": "FBI e CISA hanno pubblicato un avviso congiunto sul ransomware SafePay, che ha compromesso circa 600 organizzazioni nel mondo, anche in diversi settori delle infrastrutture…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120001/fbi-e-cisa-lanciano-l-allarme-su-safepay-come-proteggere-i-backup.png",
-      "publishedAt": "2026-10-23T13:30:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Il \"Piracy Shield francese\" spinge il DNS Quad9 fuori dalla Francia",
@@ -149,33 +221,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Phantom Blade Zero sbanca su Steam prima ancora di uscire, ecco i dati",
-      "link": "https://www.tomshw.it/videogioco/phantom-blade-zero-sbanca-su-steam-prima-ancora-di-uscire-ecco-i-dati",
-      "excerpt": "A pochi giorni dal debutto, Phantom Blade Zero sta già muovendo numeri da grande produzione. Secondo le stime diffuse su LinkedIn da Rhys Elliott, responsabile dell'analisi di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/105953/Phantom-Blade-Zero-Teaser.jpg",
-      "publishedAt": "2026-10-23T13:21:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "La stampa 3D per gli aerei costa troppo? AIM3D cambia approccio",
-      "link": "https://www.tomshw.it/hardware/aim3d-qualifica-exam-a-510-per-laerospazio-cosa-cambia",
-      "excerpt": "AIM3D ha qualificato la ExAM A 510 per la stampa 3D di componenti destinati al settore aeronautico, lavorando con AM-MRO sulla stabilità del processo produttivo. Per i pezzi…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120000/aim3d-qualifica-exam-a-510-per-l-aerospazio-cosa-cambia.png",
-      "publishedAt": "2026-10-23T13:20:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "USA, scattano i primi blocchi della FCC sui dispositivi con chip cinesi",
-      "link": "https://www.hdblog.it/huawei/articoli/n674732/usa-stop-dispositivi-con-chip-cinesi/",
-      "excerpt": "Negli Stati Uniti la FCC ha respinto le richieste di autorizzazione per due dispositivi elettronici",
-      "image": "https://hd2.tudocdn.net/1380163?w=660",
-      "publishedAt": "2026-10-23T13:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "LG MiniRGB da 65 pollici in sconto a meno di 900 euro: ecco l’offerta Amazon",
       "link": "https://images.dday.it/ZqhlvRl_05xeW6yN1TcBj5RwhTF1OugHMveq6vGpl90/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59204/c1e5bd_813-Gm7UdDL._AC_SL1500_.jpg",
       "excerpt": "Dolby Vision, Dolby Atmos, Google Gemini e processore α8 Gen3: il TV Mini RGB LG Serie MRGB87 da 65 pollici è in offerta su Amazon a 899 euro... Leggi tutto",
@@ -185,15 +230,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Yamaha MT-125 2027: affilata, connessa e sempre più Hyper Naked",
-      "link": "https://www.hdmotori.it/yamaha-mt-125-2027-novita-design-uscita/",
-      "excerpt": "Restyling profondo per la 125 di Yamaha, tra fari LED a lama, cruscotto smart da 5\" e la nuova livrea Redline White. Invariati motore VVA e ciclistica Deltabox.",
-      "image": "https://hd2.tudocdn.net/1380162?w=660",
-      "publishedAt": "2026-10-23T13:00:11+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "vivo X500 Pro e X500 Pro Max, i prezzi in Italia: si parte da 1.399 e 1.599 euro",
       "link": "https://images.dday.it/xZ6cJcxm55mUhLJiTRzHnG9Md4zWoipU8EAYPbBHvUg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/59205/be38e5_vivo.jpg",
       "excerpt": "La settimana prossima vivo porterà in Italia la nuova serie X500. Sono due modelli, X500 Pro e X500 Pro Max, entrambi con 12 GB di RAM e 256 GB di memoria nella versione base. In…",
@@ -201,24 +237,6 @@
       "publishedAt": "2026-10-23T12:45:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Roblox è una VLOP, Altroconsumo lancia una petizione per forzare il rispetto del DSA",
-      "link": "https://www.hdblog.it/giochi/articoli/n674721/roblox-vlop-altroconsumo-petizione-rispetto-dsa/",
-      "excerpt": "Chat pericolose, acquisti con denaro reale e meccanismi che favoriscono l'uso compulsivo: Altroconsumo chiede nuove tutele a Roblox.",
-      "image": "https://hd2.tudocdn.net/1380135?w=660",
-      "publishedAt": "2026-10-23T12:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Migliori offerte tech di oggi, 23 ottobre: LG Mini RGB, Marshall, Huawei e tanti minimi storici",
-      "link": "https://www.hdblog.it/amazon/offerte/n674726/migliori-offerte-tech-23-ottobre-2026-amazon/",
-      "excerpt": "Le migliori offerte tech di oggi, 23 ottobre: forti ribassi su TV, cuffie, smartwatch, videocamere, power bank e prodotti per la rete, soprattutto su Amazon.",
-      "image": "https://hd2.tudocdn.net/1380151?w=660",
-      "publishedAt": "2026-10-23T12:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Roborock Saros 20 Neo è il robot aspirapolvere lavapavimenti che toglie di mezzo anche gli imprevisti",
@@ -239,15 +257,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Kindle Unlimited diventa Kindle+, ma la novità più importante è solo per gli USA",
-      "link": "https://www.hdblog.it/amazon/articoli/n674723/amazon-kindle-plus-cosa-cambia-prezzo/",
-      "excerpt": "Kindle+ amplia il catalogo negli Stati Uniti con migliaia di audiolibri, compresi alcuni realizzati con la tecnologia Virtual Voice. In Italia, invece, l'abbonamento continua per…",
-      "image": "https://hd2.tudocdn.net/1375489?w=660",
-      "publishedAt": "2026-10-23T12:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Samsung: Galaxy Z Fold8 vende il 45% in più di Fold7 in Europa",
       "link": "https://images.dday.it/4OgKlzru97llYU1cJtRvrAxmg6FaoQj_yWY80POE1s0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/59203/bd9a5e_samok.jpg",
       "excerpt": "Nelle prime nove settimane dal lancio del 7 agosto, Fold8 e Fold8 Ultra avrebbero superato del 45% le vendite di Fold7 nello stesso periodo del 2025. Le ricerche Google sui…",
@@ -262,15 +271,6 @@
       "excerpt": "Kindle Unlimited diventa Kindle+ anche in Italia, ma per ora cambia solo il nome. Negli Stati Uniti arrivano migliaia di audiolibri, anche con voci artificiali... Leggi tutto",
       "image": "https://images.dday.it/Irhza2IjlhMKUM6i-hN_uqdOyxcRHs9fZO9muTY6qQ4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59202/6ecbe7_Promozione_Kindle+_tra_Libri_Volanti.png",
       "publishedAt": "2026-10-23T09:53:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il rally può essere elettrificato: lo dimostra Opel con il debutto italiano dell'ADAC Opel GSe Rally Cup. Ci siamo stati",
-      "link": "https://images.dday.it/p-1wPxl_p_FFOm5ItioWXzl0C6unhfvntSim9HEtGRY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59201/dc1ce9_opel-mokka-gse-rally.jpg",
-      "excerpt": "Opel porta al debutto il suo campionato monomarca in Italia, in occasione della 73ª edizione del Rallye Sanremo. Com'è stare nella Mokka GSe Rally... Leggi tutto",
-      "image": "https://images.dday.it/p-1wPxl_p_FFOm5ItioWXzl0C6unhfvntSim9HEtGRY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59201/dc1ce9_opel-mokka-gse-rally.jpg",
-      "publishedAt": "2026-10-23T09:25:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
