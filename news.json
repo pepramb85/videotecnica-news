@@ -1,9 +1,63 @@
 {
-  "generatedAt": "2026-10-24T17:07:20.812624+00:00",
+  "generatedAt": "2026-10-24T20:01:34.066317+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Le luci Nanoleaf decorano albero e terrazzo con 300 LED, a 95€",
+      "link": "https://www.tomshw.it/altro/le-luci-nanoleaf-decorano-albero-e-terrazzo-con-300-led-a-95eur",
+      "excerpt": "La stringa Nanoleaf da 24 metri costa 95€ su Amazon, con il 5% di sconto rispetto ai 99,99€ di listino. I suoi 300 LED indirizzabili permettono di preparare decorazioni animate…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120140/tomshw-offer-1871458.png",
+      "publishedAt": "2026-10-24T19:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Reolink sorveglia casa 24/7, kit con 4 telecamere e HDD a soli 374,99€",
+      "link": "https://www.tomshw.it/altro/reolink-sorveglia-casa-247-kit-con-4-telecamere-e-hdd-a-soli-37499eur",
+      "excerpt": "Reolink RLK12-500WB4 a 374,99€ su Amazon: il kit con quattro telecamere registra 24/7 e include un hard disk da 1 TB. È pensato per sorvegliare più accessi alla casa e ritrovare…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120139/tomshw-offer-1871432.png",
+      "publishedAt": "2026-10-24T18:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Hisense HS2000, bassi integrati e meno ingombro per la TV a 75,99€",
+      "link": "https://www.tomshw.it/altro/hisense-hs2000-bassi-integrati-e-meno-ingombro-per-la-tv-a-7599eur",
+      "excerpt": "Hisense HS2000 costa 75,99€ su Amazon e riunisce soundbar e subwoofer in un solo dispositivo. È pensata per chi vuole affiancare un sistema audio dedicato alla TV senza trovare…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120138/tomshw-offer-1871411.png",
+      "publishedAt": "2026-10-24T18:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "OneDrive divora spazio? Ecco come liberare il disco",
+      "link": "https://www.tomshw.it/hardware/onedrive-occupa-spazio-disco-windows-11",
+      "excerpt": "Se OneDrive occupa troppo spazio sul disco del PC con Windows 11, puoi rimuovere le copie locali senza cancellare i file nel cloud: dopo aver verificato la sincronizzazione, fai…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/119146/cover.png",
+      "publishedAt": "2026-10-24T18:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Bose Portable Smart Speaker al -40%, un affare per la musica in casa e fuori",
+      "link": "https://www.tomshw.it/altro/bose-portable-smart-speaker-al-40-un-affare-per-la-musica-in-casa-e-fuori",
+      "excerpt": "Bose Portable Smart Speaker a 229,95€ su Amazon: il diffusore è scontato del 40% rispetto al listino di 380,61€. La maniglia e la doppia connessione Wi-Fi e Bluetooth permettono…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120137/tomshw-offer-1871399.png",
+      "publishedAt": "2026-10-24T17:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Stampi in 4 colori con Anycubic Kobra S1 ACE 2 Pro Combo, a 549,99€",
+      "link": "https://www.tomshw.it/hardware/stampi-in-4-colori-con-anycubic-kobra-s1-ace-2-pro-combo-a-54999eur",
+      "excerpt": "Anycubic Kobra S1 ACE 2 Pro Combo costa 549,99€ su Amazon, per stampare oggetti multicolore con una macchina CoreXY completamente chiusa e il sistema ACE 2 Pro. Puoi realizzare…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120136/tomshw-offer-1871378.png",
+      "publishedAt": "2026-10-24T17:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "Quando esce Tomb Raider: Legacy of Atlantis? Data e cosa sappiamo",
       "link": "https://www.tomshw.it/videogioco/quando-esce-tomb-raider-legacy-of-atlantis-data-e-cosa-sappiamo",
@@ -12,6 +66,15 @@
       "publishedAt": "2026-10-24T17:00:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Samsung Galaxy Z Fold8 Ultra: oggi risparmi il 41% sul prezzo di listino",
+      "link": "https://www.hdblog.it/smartphone/offerte/n674800/samsung-galaxy-z-fold8-ultra-promo-ebay/",
+      "excerpt": "Su eBay, il Samsung Galaxy Z Fold8 Ultra da 256GB è acquistabile ad un prezzo particolarmente competitivo: lo sconto sul costo di listino è del 41%.",
+      "image": "https://hd2.tudocdn.net/1370001?w=660",
+      "publishedAt": "2026-10-24T16:33:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
     },
     {
       "title": "iPhone Duo, com'è fatto dentro: scopriamolo nei primi teardown",
@@ -50,49 +113,13 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "L’aspirapolvere Shark si svuota da solo: 399,99€, il minimo di sempre",
-      "link": "https://www.tomshw.it/altro/laspirapolvere-shark-si-svuota-da-solo-39999eur-il-minimo-di-sempre",
-      "excerpt": "Shark PowerDetect a 399,99€ su Amazon: la versione Clean & Empty Pet combina aspirazione senza filo e una base che raccoglie lo sporco dopo ogni pulizia. È pensato soprattutto per…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120134/tomshw-offer-1871304.png",
-      "publishedAt": "2026-10-24T15:49:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Mercedes-Benz MB.DRIVE ASSIST PRO: ordini in Germania nel 2027",
-      "link": "https://www.tomshw.it/automotive/mercedes-benz-mb-drive-assist-pro-ordini-in-germania-nel-2027",
-      "excerpt": "Cambi di corsia, inserimenti, svolte e gestione dei semafori: MB.DRIVE ASSIST PRO assiste chi guida anche lungo i percorsi urbani. Mercedes-Benz ne ha annunciato l’introduzione in…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/119641/mercedes-benz-drive-assist-pro-deutschland-2026.jpg",
-      "publishedAt": "2026-10-24T15:37:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "ENGWE EP-2 3.0 BOOST si piega e arriva fino a 120 km, a 1.299€",
-      "link": "https://www.tomshw.it/automotive/engwe-ep-2-30-boost-si-piega-e-arriva-fino-a-120-km-a-1299eur",
-      "excerpt": "ENGWE EP-2 3.0 BOOST costa 1.299€ su Amazon: è una bici elettrica pieghevole con batteria rimovibile e sensore di coppia. L'autonomia raggiunge i 120 km in modalità PAS1, una…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120133/tomshw-offer-1871286.png",
-      "publishedAt": "2026-10-24T15:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Corsair ha trovato un modo per evitare che i connettori GPU si fondano",
-      "link": "https://www.tomshw.it/hardware/corsair-rm1200e-spegne-la-gpu-per-proteggerla-ecco-quando",
-      "excerpt": "Corsair ha lanciato una versione aggiornata dell’alimentatore Corsair RM1200e da 1.200 W, introducendo un sistema che può provocare lo spegnimento della scheda video quando rileva…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120104/corsair-rm1200e-spegne-la-gpu-per-proteggerla-ecco-quando.png",
-      "publishedAt": "2026-10-24T15:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "La TV Haier QLED da 98 pollici è al -60%, per film e partite in grande",
-      "link": "https://www.tomshw.it/altro/la-tv-haier-qled-da-98-pollici-e-al-60-per-film-e-partite-in-grande",
-      "excerpt": "Haier QLED 98 pollici a 1.199,99€ su Amazon: lo sconto del 60% porta questo televisore Full Array 4K ben sotto il listino di 2.999€. È un formato da considerare per vedere film,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120132/tomshw-offer-1871245.png",
-      "publishedAt": "2026-10-24T14:19:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
+      "title": "Mac Mini in offerta su Amazon: sconti per le versioni con M6 e M5 Pro (anche in 5 rate)",
+      "link": "https://www.hdblog.it/hardware/offerte/n674796/mac-mini-offerta-amazon-ottobre-2026/",
+      "excerpt": "Il Mac Mini con M6 o M5 Pro è in offerta su Amazon: è il momnento giusto per acquistarlo.",
+      "image": "https://hd2.tudocdn.net/1365971?w=660",
+      "publishedAt": "2026-10-24T14:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
     },
     {
       "title": "Julia 3.0, abbiamo provato l'IA di Roma Capitale: il certificato arriva in pochi secondi",
@@ -102,15 +129,6 @@
       "publishedAt": "2026-10-24T14:12:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
-    },
-    {
-      "title": "QNAP conferma le falle PHP2Shell nei NAS: come proteggere i dati",
-      "link": "https://www.tomshw.it/hardware/qnap-conferma-le-falle-php2shell-nei-nas-come-proteggere-i-dati",
-      "excerpt": "QNAP ha confermato che le vulnerabilità PHP2Shell interessano diversi suoi sistemi e applicazioni per NAS, estendendo agli archivi di rete un problema già emerso nei siti e nelle…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120103/qnap-conferma-le-falle-php2shell-nei-nas-come-proteggere-i-dati.png",
-      "publishedAt": "2026-10-24T14:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Windows usa troppa RAM? Questo strumento gratuito svela cosa succede",
@@ -172,24 +190,6 @@
       "excerpt": "Una soluzione per recuperare i dispositivi inutilizzati.",
       "image": "https://hd2.tudocdn.net/1379475?w=660",
       "publishedAt": "2026-10-24T09:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Missioni Artemis: la NASA rivoluziona i piani di SpaceX e Blue Origin",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n674776/nasa-artemis-nuovo-piano-luna-2028/",
-      "excerpt": "La NASA cambia Artemis: nuova strategia per Orion, Starship e Blue Moon in vista del 2028.",
-      "image": "https://hd2.tudocdn.net/1373628?w=660",
-      "publishedAt": "2026-10-24T09:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Come trasformare la PS Vita in un lettore musicale con VitaWave",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n674374/ps-vita-lettore-musicale-vitawave-guida/",
-      "excerpt": "Una guida per installare VitaWave e trasformare PS Vita in un lettore musicale offline.",
-      "image": "https://hd2.tudocdn.net/1380253?w=660",
-      "publishedAt": "2026-10-24T09:20:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
