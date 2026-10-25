@@ -1,9 +1,99 @@
 {
-  "generatedAt": "2026-10-25T14:02:08.284581+00:00",
+  "generatedAt": "2026-10-25T18:38:47.546216+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Con Nothing Phone (3) hai 512GB per foto e giochi, a soli 649€",
+      "link": "https://www.tomshw.it/smartphone/con-nothing-phone-3-hai-512gb-per-foto-e-giochi-a-soli-649eur",
+      "excerpt": "Nothing Phone (3) costa 649€ su Amazon, nella versione nera con 16GB di RAM e 512GB di memoria. È una configurazione da considerare se vuoi conservare foto, video e giochi sul…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120162/tomshw-offer-1891638.png",
+      "publishedAt": "2026-10-25T18:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Quando esce Ananta? Data e cosa sappiamo",
+      "link": "https://www.tomshw.it/videogioco/quando-esce-ananta-data-e-cosa-sappiamo",
+      "excerpt": "Ananta esce il 15 gennaio 2027: è la data ufficiale del lancio globale, che comprende anche l’Italia. Il gioco di ruolo d’azione a mondo aperto pubblicato da NetEase, conosciuto…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/119134/cover.jpg",
+      "publishedAt": "2026-10-25T18:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Braun Precision Trimmer sotto i 16€, per definire barba e contorni",
+      "link": "https://www.tomshw.it/altro/braun-precision-trimmer-sotto-i-16eur-per-definire-barba-e-contorni",
+      "excerpt": "Braun Precision Trimmer costa 15,99€ su Amazon, per curare i contorni della barba con una spesa contenuta. La testina piccola permette di lavorare sulle linee e sui dettagli che…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120161/tomshw-offer-1891630.png",
+      "publishedAt": "2026-10-25T17:49:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Nintendo, Miyamoto apre all'uso dell'AI per lo sviluppo dei videogiochi: ecco perché",
+      "link": "https://www.hdblog.it/nintendo/articoli/n674801/miyamoto-ai-nintendo-intelligenza-artificiale/",
+      "excerpt": "Il Miyamoto che non ti aspetti?",
+      "image": "https://hd2.tudocdn.net/1005586?w=660",
+      "publishedAt": "2026-10-25T17:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Auto e Moto d'Epoca 2026 chiude in crescita: il mercato delle classiche guarda all'estero",
+      "link": "https://www.hdmotori.it/auto-e-moto-depoca-2026-chiude-in-crescita-il-mercato-delle-classiche-guarda-allestero/",
+      "excerpt": "Auto e Moto d'Epoca 2026 chiude a Bologna con espositori esteri e visitatori internazionali in crescita del 30%. Il mercato premia le auto più rare",
+      "image": "https://hd2.tudocdn.net/1380379?w=660",
+      "publishedAt": "2026-10-25T17:30:06+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Galaxy Watch8 vs Galaxy Watch7: quale scegliere?",
+      "link": "https://www.tomshw.it/altro/galaxy-watch8-vs-galaxy-watch7-quale-scegliere",
+      "excerpt": "Galaxy Watch8 punta su una cassa più sottile e un display con picco 50% più luminoso: vantaggi concreti per chi lo indossa anche di notte o si allena all’aperto. Processore e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/119120/galaxy-watch8-vs-galaxy-watch7-quale-scegliere.png",
+      "publishedAt": "2026-10-25T17:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "L'IA crea enzimi per i farmaci anti-HIV: costeranno meno?",
+      "link": "https://www.tomshw.it/scienze/lia-crea-enzimi-per-i-farmaci-anti-hiv-costeranno-meno",
+      "excerpt": "Un gruppo dell’Università di Manchester, insieme all’Institute for Protein Design, ha dimostrato in laboratorio che enzimi progettati con l’intelligenza artificiale possono…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120148/l-ia-crea-enzimi-per-i-farmaci-anti-hiv-costeranno-meno.png",
+      "publishedAt": "2026-10-25T16:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "iPhone 17 torna in offerta ed è sempre un best buy tra gli smartphone Apple",
+      "link": "https://www.hdblog.it/smartphone/offerte/n674822/iphone-17-offerta-fine-ottobre-2026/",
+      "excerpt": "iPhone 17 torna in offerta e si conferma un best buy assoluto: è lui la scelta giustra per un nuovo smartphone Apple.",
+      "image": "https://hd2.tudocdn.net/1356729?w=660",
+      "publishedAt": "2026-10-25T15:30:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "OpenMobile-2 sfida le AI proprietarie su Android: ecco come",
+      "link": "https://www.tomshw.it/smartphone/openmobile-2-sfida-le-ai-proprietarie-su-android-ecco-come",
+      "excerpt": "I ricercatori dell’Università di Nanchino, di SenseTime e di altri atenei hanno presentato OpenMobile-2, un progetto aperto per agenti capaci di utilizzare le applicazioni su…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120149/openmobile-2-sfida-le-ai-proprietarie-su-android-ecco-come.png",
+      "publishedAt": "2026-10-25T15:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Hardware in affitto: perché il reverse engineering con l’AI fa paura a chi vende prodotti",
+      "link": "https://images.dday.it/90A-gqzkff1Tk5jDLxJMIr_aqJu1veQDd90Xlby3GnY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59215/390113_tvt.jpg",
+      "excerpt": "L’AI sta rendendo alla portata di tutti ciò che prima riusciva solo a chi aveva competenze rare: capire e modificare il software dei propri dispositivi. Per gli utenti è un modo…",
+      "image": "https://images.dday.it/90A-gqzkff1Tk5jDLxJMIr_aqJu1veQDd90Xlby3GnY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59215/390113_tvt.jpg",
+      "publishedAt": "2026-10-25T14:00:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
     {
       "title": "Il robot Eureka lava i moci a 80 °C e riduce la manutenzione, a 649,99€",
       "link": "https://www.tomshw.it/altro/il-robot-eureka-lava-i-moci-a-80-c-e-riduce-la-manutenzione-a-64999eur",
@@ -41,24 +131,6 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Le RTX 30 accelerano l'AI con una mod: quanto si guadagna davvero?",
-      "link": "https://www.tomshw.it/hardware/le-rtx-30-accelerano-lai-con-una-mod-quanto-si-guadagna-davvero",
-      "excerpt": "Lo sviluppatore Zagitta ha realizzato GPU Unlock, un progetto open source che rimuove una limitazione al calcolo dei Tensor Core delle GeForce RTX 30. Nei benchmark pubblicati il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120147/le-rtx-30-accelerano-l-ai-con-una-mod-quanto-si-guadagna-davvero.png",
-      "publishedAt": "2026-10-25T12:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "La troncatrice Einhell taglia listelli e cornici per soli 89,90€",
-      "link": "https://www.tomshw.it/altro/la-troncatrice-einhell-taglia-listelli-e-cornici-per-soli-8990eur",
-      "excerpt": "La Einhell TC-MS 2112 a 89,90€ su Amazon permette di attrezzare il banco del fai da te con uno sconto del 36% sul listino di 139,95€. È una troncatrice da considerare per…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120157/tomshw-offer-1891331.png",
-      "publishedAt": "2026-10-25T11:49:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "iPhone Duo, alcuni schermi si rompono dopo poche ore. Tutti nello stesso punto",
       "link": "https://images.dday.it/FRecXjirampiP9MNeIpi-ohH4sh4IVGF-m-Q8KNcQNI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59214/42bb50_rottot.jpg",
       "excerpt": "A 24 ore dal lancio del primo pieghevole Apple arrivano le prime segnalazioni di schermi rotti. Tutti nello stesso punto, cosa che lascia pensare a un problema nella cerniera per…",
@@ -68,24 +140,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "ECOVACS T90S PRO OMNI, 599€ per lavare casa con meno manutenzione",
-      "link": "https://www.tomshw.it/altro/ecovacs-t90s-pro-omni-599eur-per-lavare-casa-con-meno-manutenzione",
-      "excerpt": "ECOVACS T90S PRO OMNI Care Kit costa 599€ su Amazon, con il 25% di sconto rispetto al listino di 799€. Il rullo si risciacqua durante il lavaggio e la stazione lo pulisce dopo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120156/tomshw-offer-1891283.png",
-      "publishedAt": "2026-10-25T11:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "AMD FSR 4.1.2 gira sulle GPU Intel Arc: è meglio di XeSS?",
-      "link": "https://www.tomshw.it/hardware/amd-fsr-412-gira-sulle-gpu-intel-arc-e-meglio-di-xess",
-      "excerpt": "La community di OptiScaler ha portato AMD FSR 4.1.2 sulle GPU Intel Arc sfruttandone gli acceleratori per l'intelligenza artificiale. Le prime prove condivise dagli utenti…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120108/amd-fsr-4-1-2-gira-sulle-gpu-intel-arc-e-meglio-di-xess.png",
-      "publishedAt": "2026-10-25T11:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Siamo spiati e non si può fare nulla, falso: guida alla privacy per il cittadino digitale",
       "link": "https://www.hdblog.it/sicurezza/articoli/n673441/guida-privacy-cittadino-digitale-cosa-fare/",
       "excerpt": "Un click in più e un po' di attenzione possono bastare",
@@ -93,24 +147,6 @@
       "publishedAt": "2026-10-25T10:55:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
-    },
-    {
-      "title": "ASUS ROG Maximus Z890 Hero a 362,37€, mai costata così poco",
-      "link": "https://www.tomshw.it/hardware/asus-rog-maximus-z890-hero-a-36237eur-mai-costata-cosi-poco",
-      "excerpt": "ASUS ROG Maximus Z890 Hero costa 362,37€ su Amazon, il minimo storico per questa scheda madre ATX, con uno sconto del 14% sui 419,1€ di listino. I sei slot M.2 permettono di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120155/tomshw-offer-1891258.png",
-      "publishedAt": "2026-10-25T10:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "ELEGOO Mars 5 Ultra, miniature ricche di dettagli a 319,98€",
-      "link": "https://www.tomshw.it/hardware/elegoo-mars-5-ultra-miniature-ricche-di-dettagli-a-31998eur",
-      "excerpt": "ELEGOO Mars 5 Ultra costa 319,98€ su Amazon: una stampante 3D a resina per creare miniature ricche di dettagli e piccoli modelli. La risoluzione XY di 18 µm interessa soprattutto…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120154/tomshw-offer-1891221.png",
-      "publishedAt": "2026-10-25T10:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Windows 11 può pulire il disco da solo: basta attivare questa funzione",
@@ -163,33 +199,6 @@
       "excerpt": "Il Google Pixel 11 è in offerta con uno sconto al check-out che taglia il prezzo, ecco la promo.",
       "image": "https://hd2.tudocdn.net/1376245?w=660",
       "publishedAt": "2026-10-25T07:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Mazda, da Hiroshima ad Aielli: un murale per raccontare la pace attraverso l’arte",
-      "link": "https://www.hdmotori.it/mazda-da-hiroshima-ad-aielli-un-murale-per-raccontare-la-pace-attraverso-larte/",
-      "excerpt": "A Borgo Universo, in Abruzzo, l’artista Kotè firma un’opera ispirata a Sadako Sasaki. Un progetto di Mazda Italia che intreccia memoria storica, solidarietà e speranza in un...",
-      "image": "https://hd2.tudocdn.net/1380296?w=660",
-      "publishedAt": "2026-10-25T07:00:50+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Windows 11: ora puoi spostare la barra delle applicazioni dove vuoi (e c'è di più)",
-      "link": "https://www.hdblog.it/portatili/articoli/n674722/windows-11-opzioni-personalizzazione/",
-      "excerpt": "Nuove opzioni di personalizzazione con gli ultimi aggiornamenti.",
-      "image": "https://hd2.tudocdn.net/1380136?w=660",
-      "publishedAt": "2026-10-25T06:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Sicurezza: la NHTSA propone luci ciano per le auto a guida autonoma",
-      "link": "https://www.hdmotori.it/nhtsa-propone-luci-ciano-auto-guida-autonoma/",
-      "excerpt": "La nuova proposta di aggiornamento della norma FMVSS n. 108 introduce indicatori turchese opzionali per i veicoli senza conducente come il Cybercab.",
-      "image": "https://hd2.tudocdn.net/1380300?w=660",
-      "publishedAt": "2026-10-25T06:30:17+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -262,15 +271,6 @@
       "excerpt": "Dolby Vision, Dolby Atmos, Google Gemini e processore α8 Gen3: il TV Mini RGB LG Serie MRGB87 da 65 pollici è in offerta su Amazon a 899 euro... Leggi tutto",
       "image": "https://images.dday.it/ZqhlvRl_05xeW6yN1TcBj5RwhTF1OugHMveq6vGpl90/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59204/c1e5bd_813-Gm7UdDL._AC_SL1500_.jpg",
       "publishedAt": "2026-10-23T13:07:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "vivo X500 Pro e X500 Pro Max, i prezzi in Italia: si parte da 1.399 e 1.599 euro",
-      "link": "https://images.dday.it/xZ6cJcxm55mUhLJiTRzHnG9Md4zWoipU8EAYPbBHvUg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/59205/be38e5_vivo.jpg",
-      "excerpt": "La settimana prossima vivo porterà in Italia la nuova serie X500. Sono due modelli, X500 Pro e X500 Pro Max, entrambi con 12 GB di RAM e 256 GB di memoria nella versione base. In…",
-      "image": "https://images.dday.it/xZ6cJcxm55mUhLJiTRzHnG9Md4zWoipU8EAYPbBHvUg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/59205/be38e5_vivo.jpg",
-      "publishedAt": "2026-10-23T12:45:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
