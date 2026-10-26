@@ -1,9 +1,189 @@
 {
-  "generatedAt": "2026-10-26T16:23:21.395311+00:00",
+  "generatedAt": "2026-10-26T22:07:55.604738+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Dialoghi più chiari con JBL Cinema SB 550, a soli 169€ su Amazon",
+      "link": "https://www.tomshw.it/altro/dialoghi-piu-chiari-con-jbl-cinema-sb-550-a-soli-169eur-su-amazon",
+      "excerpt": "JBL Cinema SB 550 costa 169€ su Amazon, con uno sconto del 27% sul prezzo di listino di 229,99€. Il canale centrale dedicato alle voci è pensato per rendere più chiari i dialoghi,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120432/tomshw-offer-1912872.png",
+      "publishedAt": "2026-10-26T21:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "30€ in meno sul videocitofono SwitchBot, rispondi senza cercare il telefono",
+      "link": "https://www.tomshw.it/altro/30eur-in-meno-sul-videocitofono-switchbot-rispondi-senza-cercare-il-telefono",
+      "excerpt": "Il videocitofono SwitchBot costa 129,99€ su Amazon, con il 19% di sconto sui 159,99€ di listino. Il monitor incluso permette di vedere chi suona e rispondere senza dover cercare…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120431/tomshw-offer-1912829.png",
+      "publishedAt": "2026-10-26T19:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Chip IA, NVIDIA e soci avrebbero un piano da oltre 5 miliardi",
+      "link": "https://www.tomshw.it/hardware/nvidia-amd-e-intel-investirebbero-5-miliardi-perche-nei-substrati",
+      "excerpt": "NVIDIA, AMD e Intel avrebbero destinato oltre 5 miliardi di dollari alla filiera taiwanese dei substrati per assicurarsi capacità produttiva a lungo termine. L'indiscrezione…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120429/Chip-IA,-NVIDIA-e-soci-avrebbero-un-piano-da-oltre-5-miliardi.png",
+      "publishedAt": "2026-10-26T19:30:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Mail a freddo, in Italia funzionano anche meno che nel resto del mondo",
+      "link": "https://www.tomshw.it/business/mail-a-freddo-in-italia-funzionano-anche-meno-che-nel-resto-del-mondo",
+      "excerpt": "Su 556 campagne di mail a freddo inviate in Italia ad altre aziende, metà ha ottenuto meno dell'1,71% di risposte, cioè meno di una ogni 58 email. Una su quattro è rimasta sotto…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120353/02-mail-a-freddo-italia-risposte.jpg",
+      "publishedAt": "2026-10-26T19:21:05+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Paghi dal polso con HUAWEI WATCH FIT 5, ora a 143€",
+      "link": "https://www.tomshw.it/smartphone/paghi-dal-polso-con-huawei-watch-fit-5-ora-a-143eur",
+      "excerpt": "A 143€ su Amazon, HUAWEI WATCH FIT 5 costa 56€ in meno dei 199€ di listino, con uno sconto del 28%. Pagamenti dal polso e fino a 10 giorni di autonomia con uso leggero lo rendono…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120430/tomshw-offer-1912803.png",
+      "publishedAt": "2026-10-26T19:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Intel Raptor Lake NEXT appare nei registri: potremo riusare le DDR4?",
+      "link": "https://www.tomshw.it/hardware/intel-raptor-lake-next-appare-nei-registri-potremo-riusare-le-ddr4",
+      "excerpt": "Quattro processori desktop identificati come Intel Raptor Lake NEXT sono comparsi nei registri di spedizione NBD, aggiungendo codici prodotto, frequenze preliminari e capacità…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120424/intel-raptor-lake-next-appare-nei-registri-potremo-riusare-le-ddr4.png",
+      "publishedAt": "2026-10-26T19:10:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La fibra ottica tocca 3,2 Pb/s: è pronta per le reti reali?",
+      "link": "https://www.tomshw.it/hardware/la-fibra-ottica-tocca-32-pbs-e-pronta-per-le-reti-reali",
+      "excerpt": "Un gruppo di ricercatori cinesi ha dichiarato un nuovo record di trasferimento su fibra ottica: 3,2 petabit al secondo, ottenuti con elaborazione dei segnali in tempo reale e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120399/la-fibra-ottica-tocca-3-2-pb-s-e-pronta-per-le-reti-reali.png",
+      "publishedAt": "2026-10-26T19:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Schermo che sfarfalla? Colpa del dock USB-C: come fare",
+      "link": "https://www.tomshw.it/hardware/monitor-sfarfalla-dock-usb-c-cavi-alimentazione-hz",
+      "excerpt": "Se il monitor sfarfalla quando è collegato in HDMI alla dock USB-C, confronta prima il collegamento diretto e quello attraverso la dock alla stessa risoluzione e frequenza. Poi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/119150/cover.png",
+      "publishedAt": "2026-10-26T19:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Microsoft offre buonuscite a 60.000 dipendenti: ecco chi può aderire",
+      "link": "https://www.tomshw.it/hardware/microsoft-offre-buonuscite-a-60000-dipendenti-ecco-chi-puo-aderire",
+      "excerpt": "Microsoft ha esteso la propria offerta di buonuscite volontarie a una platea di fino a 60.000 dipendenti negli Stati Uniti, nel Regno Unito, in Canada e in India. L'azienda punta…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120427/microsoft-offre-buonuscite-a-60-000-dipendenti-ecco-chi-puo-aderire.png",
+      "publishedAt": "2026-10-26T18:50:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Metroid Prime 4: Beyond a 39,99€, minimo storico per chi ama esplorare",
+      "link": "https://www.tomshw.it/videogioco/metroid-prime-4-beyond-a-3999eur-minimo-storico-per-chi-ama-esplorare",
+      "excerpt": "Metroid Prime 4: Beyond costa 39,99€ su Amazon: l’edizione italiana su scheda raggiunge il minimo storico, con uno sconto del 33% sui 59,99€ di listino. Per chi aspettava di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120423/tomshw-offer-1912775.png",
+      "publishedAt": "2026-10-26T18:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "OnePlus Buds Clip ufficiali: quasi 10h di autonomia e speaker Dynaudio",
+      "link": "https://www.hdblog.it/indossabili/articoli/n674959/oneplus-buds-clip-specifiche-immagini-batteria/",
+      "excerpt": "Non saranno disponibili solo in Cina, ma per ora dettagli più precisi non se ne hanno. Rimane un mistero anche il prezzo.",
+      "image": "https://hd2.tudocdn.net/1380607?w=660",
+      "publishedAt": "2026-10-26T18:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "iPhone Duo, prima dichiarazione di Apple sulla questione delle unità che si guastano",
+      "link": "https://www.hdblog.it/smartphone/articoli/n674954/iphone-duo-risposta-apple-schermo-guasto/",
+      "excerpt": "Per ora rimane molto sul generico: poche unità difettose, sostituzione immediata dall'assistenza ufficiale, per il resto grande successo.",
+      "image": "https://hd2.tudocdn.net/1380602?w=660",
+      "publishedAt": "2026-10-26T17:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "iPhone Duo, primi schermi rotti: Samsung ne approfitta per un nuovo spot | VIDEO",
+      "link": "https://www.hdblog.it/smartphone/articoli/n674939/iphone-duo-schermi-rotti-samsung-spot/",
+      "excerpt": "Mossa di marketing intelligente o infantile?",
+      "image": "https://hd2.tudocdn.net/1380166?w=660",
+      "publishedAt": "2026-10-26T17:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "HONOR 600 Pro in sconto: è sempre più un flagship killer",
+      "link": "https://www.hdblog.it/smartphone/offerte/n674953/honor-600-pro-offerta-psprott26/",
+      "excerpt": "HONOR 600 Pro è in offerta: si tratta di un vero e proprio flagship killer da prendere oggi.",
+      "image": "https://hd2.tudocdn.net/1342583?w=660",
+      "publishedAt": "2026-10-26T17:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Claude scova crypto miner su un Mac e precisa: \"non ce l'ho messo io\"",
+      "link": "https://www.hdblog.it/apple/articoli/n674948/malware-claude-code-mac-1175-crypto-miner/",
+      "excerpt": "Un ottimo lavoro dell'AI, certo, \"impacchettato\" con un pizzico di dichiarazione sinistra...",
+      "image": "https://hd2.tudocdn.net/1354603?w=660",
+      "publishedAt": "2026-10-26T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Elvis Presley, causa ad Anthropic: 274 canzoni usate per l'AI",
+      "link": "https://www.hdblog.it/curiosita/articoli/n674945/elvis-presley-anthropic-causa-copyright-intelligen/",
+      "excerpt": "I titolari dei diritti di Elvis accusano Anthropic di aver usato 274 brani per addestrare Claude.",
+      "image": "https://hd2.tudocdn.net/1380594?w=660",
+      "publishedAt": "2026-10-26T17:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Consegnata la Pagani più estrema di sempre, 3,2 milioni e non può nemmeno circolare",
+      "link": "https://www.hdmotori.it/nuova-pagani-huayra-3-milioni-pista/",
+      "excerpt": "Le hypercar della Pagani solitamente non hanno problemi ad aggirarsi sulle strade di tutti i giorni. Questo modello fa eccezione",
+      "image": "https://hd2.tudocdn.net/1380595?w=660",
+      "publishedAt": "2026-10-26T17:00:44+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple Watch resta avanti: il curioso bug di watchOS 27 con l'arrivo dell'ora solare",
+      "link": "https://www.hdblog.it/indossabili/articoli/n674913/apple-watch-ora-solare-problem/",
+      "excerpt": "Alcuni Apple Watch con watchOS 27 mostrano l'ora errata in modalità Always-On dopo il passaggio all'ora solare.",
+      "image": "https://hd2.tudocdn.net/1352436?w=660",
+      "publishedAt": "2026-10-26T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple, settimana d'oro: altri prodotti sono in arrivo dopo l'iPad mini",
+      "link": "https://www.hdblog.it/tablet/articoli/n674920/apple-settimana-prodotti-arrivo-ipad-mini/",
+      "excerpt": "Attesa soprattutto per i MacBook touchscreen",
+      "image": "https://hd2.tudocdn.net/1201444?w=660",
+      "publishedAt": "2026-10-26T16:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Silvio Berlusconi aveva una Twingo davvero speciale: ne esistono soltanto 18",
+      "link": "https://www.hdmotori.it/silvio-berlusconi-spiaggina-francese/",
+      "excerpt": "Il quattro volte Presidente del Consiglio dei ministri della Repubblica Italiana, Silvio Berlusconi, non si è mai separato dalla sua mitica Spiaggina bianca",
+      "image": "https://hd2.tudocdn.net/1380590?w=660",
+      "publishedAt": "2026-10-26T16:30:06+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "LG richiama le batterie d’accumulo RESU: potrebbero prendere fuoco",
       "link": "https://images.dday.it/X57T3s609nBJPsK35ldUDq84slm2BUP-FO2pD_BzGZU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/59232/5658d8_batresu.jpg",
@@ -23,33 +203,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "La NASA vuole tagliare 15 mesi di attesa: ecco cosa cambierà",
-      "link": "https://www.tomshw.it/scienze/la-nasa-snellisce-la-scelta-delle-missioni-sonde-in-volo-prima",
-      "excerpt": "La NASA vuole accorciare il percorso che porta un'idea scientifica a diventare una sonda o un osservatorio spaziale. Nicky Fox, responsabile della direzione scientifica…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120384/la-nasa-snellisce-la-scelta-delle-missioni-sonde-in-volo-prima.png",
-      "publishedAt": "2026-10-26T16:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "3 accessori da acquistare se avete un Mac",
-      "link": "https://www.tomshw.it/hardware/3-accessori-da-acquistare-se-avete-un-mac",
-      "excerpt": "Apple ha sempre dedicato molta attenzione al design dei propri prodotti, ma non tutti gli accessori originali rappresentano necessariamente la soluzione migliore in termini di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120378/Benq-Desk-Mat--6.jpg",
-      "publishedAt": "2026-10-26T15:40:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Black Friday HITWAY: e-bike scontate e Mystery Box da scoprire",
-      "link": "https://www.tomshw.it/offerte/hitway-fino-a-250-eur-di-sconto-sulle-e-bike-black-friday-e-mystery-box",
-      "excerpt": "HITWAY anticipa il Black Friday con HITWAY Black Friday, una campagna che permette di risparmiare fino a 250 € extra sull’acquisto di e-bike anche già scontate al raggiungimento…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120382/hitway-bf2026-cover.jpg",
-      "publishedAt": "2026-10-26T15:39:33+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Questa cyclette per allenarsi a casa è in super offerta su Amazon",
       "link": "https://images.dday.it/fY4YRVKmy4ZKqUe74I-FpB5xIp_iUyQoLCMcg87ESgg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59229/17a9d6_71sQgPUVkTL._AC_SL1500_.jpg",
       "excerpt": "Display touchscreen, compatibilità con app per il ciclismo indoor e struttura regolabile: questa cyclette permette di allenarsi a casa con diverse opzioni per monitorare le…",
@@ -59,114 +212,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Volvo, arriva l'elettrica low cost: consegne dal 2027",
-      "link": "https://www.tomshw.it/automotive/volvo-nuova-elettrica-piu-accessibile-consegne-dopo-l-estate-2027",
-      "excerpt": "Una nuova elettrica destinata a un segmento europeo di grande volume e con un posizionamento di prezzo più accessibile: è il prossimo passo di Volvo Cars, che prevede le prime…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120253/news-flash-1911979.png",
-      "publishedAt": "2026-10-26T15:33:27+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Windows 11, Microsoft cambia una protezione sui nuovi processori",
-      "link": "https://www.tomshw.it/hardware/microsoft-separa-pluton-dal-tpm-cosa-cambia-sui-nuovi-pc",
-      "excerpt": "Microsoft Pluton non svolgerà più la funzione di TPM 2.0 sui processori AMD, Intel e Qualcomm introdotti nel 2026. Microsoft ha confermato il cambiamento nella propria…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120381/microsoft-separa-pluton-dal-tpm-cosa-cambia-sui-nuovi-pc.png",
-      "publishedAt": "2026-10-26T15:30:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Octopus Energy o Sorgenia: prezzo bloccato o indicizzato per luce e gas?",
-      "link": "https://www.tomshw.it/altro/octopus-energy-o-sorgenia-prezzo-bloccato-o-indicizzato-per-luce-e-gas",
-      "excerpt": "Con Octopus Fissa 24M il prezzo della materia prima luce e gas è bloccato per 24 mesi: 0,1815 €/kWh sulla luce monoraria e 0,82 €/Smc sul gas. Con Sorgenia Next Energy Puntuale la…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/119644/2026-10-26-octopus-energy-vs-sorgenia.png",
-      "publishedAt": "2026-10-26T15:30:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Dyson V10 Submarine aspira e lava senza filo, a soli 389€",
-      "link": "https://www.tomshw.it/altro/dyson-v10-submarine-aspira-e-lava-senza-filo-a-soli-389eur",
-      "excerpt": "Dyson Cyclone V10 Submarine costa 389€ su Amazon, con il 29% di sconto sul listino di 549€. La testina a rullo umido con microfibra aggiunge il lavaggio dei pavimenti duri alle…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120379/tomshw-offer-1912490.png",
-      "publishedAt": "2026-10-26T15:22:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Quiz: quanto conosci davvero Tomb Raider?",
-      "link": "https://www.tomshw.it/videogioco/quiz-quanto-conosci-davvero-tomb-raider",
-      "excerpt": "Ci sono personaggi che hanno definito un'epoca, e Lara Croft è senza dubbio tra questi. Quando nel 1996 il primo Tomb Raider arrivò su PlayStation, Sega Saturn e MS-DOS, i…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120328/quiz-quanto-conosci-h49oih5qnmifaKuS0UQ.png",
-      "publishedAt": "2026-10-26T15:19:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "HakuX 1.1.0: l'emulatore Xbox per Android fa un salto di qualità",
-      "link": "https://www.hdblog.it/games/articoli/n674934/xbox-android-emulatore-hakux-prestazioni/",
-      "excerpt": "HakuX migliora l'emulazione Xbox su Android: Halo 2 a 30 fps e supporto per più GPU.",
-      "image": "https://hd2.tudocdn.net/1380578?w=660",
-      "publishedAt": "2026-10-26T15:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Agenti AI: come proteggerli per ridurre il rischio umano",
-      "link": "https://www.tomshw.it/business/agenti-ai-come-proteggerli-per-ridurre-il-rischio-umano",
-      "excerpt": "Un'agentic AI sicura comporta la protezione dei sistemi di AI autonomi mentre pianificano, ragionano, accedono ai dati, utilizzano strumenti e compiono azioni in ambiente…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120341/01-proofpoint-agentic-ai-sicurezza.jpg",
-      "publishedAt": "2026-10-26T15:05:23+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Audi, fuga dall’Europa per conquistare gli USA: investimento da 4,2 miliardi",
-      "link": "https://www.hdmotori.it/audi-investimenti-risorse-usa/",
-      "excerpt": "Volkswagen ha deciso di avviare un maxi progetto per la creazione di un impianto Audi negli Stati Uniti: previsti 4.500 posti di lavoro.",
-      "image": "https://hd2.tudocdn.net/1380576?w=660",
-      "publishedAt": "2026-10-26T15:00:46+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Migliori tirabolli e kit per bolli auto e grandine (2026)",
-      "link": "https://www.tomshw.it/automotive/kit-riparazione-grandine",
-      "excerpt": "Il miglior tirabolli auto dipende dal danno: il Kit per la rimozione delle ammaccature serve per piccoli interventi a colla, Silverline Ventosa per bozze ampie e poco profonde. Le…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/119916/guida-refresh-1847221.png",
-      "publishedAt": "2026-10-26T14:57:57+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Samsung avrebbe tagliato la produzione dei Galaxy A per puntare sui flagship",
-      "link": "https://www.hdblog.it/smartphone/articoli/n674923/samsung-tagliato-produzione-galaxy-a/",
-      "excerpt": "I rincari di RAM e storage mettono sotto pressione la fascia entry level: Samsung avrebbe deciso di tagliare la produzione dei Galaxy A.",
-      "image": "https://hd2.tudocdn.net/1380560?w=660",
-      "publishedAt": "2026-10-26T14:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Android Auto prepara nuove funzioni per chiamate e tastierino",
-      "link": "https://www.hdblog.it/android/articoli/n674926/android-auto-numero-preferito-chiamate/",
-      "excerpt": "Android Auto potrebbe ricordare il numero preferito e introdurre un nuovo design per le chiamate.",
-      "image": "https://hd2.tudocdn.net/1380565?w=660",
-      "publishedAt": "2026-10-26T14:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "LEPAS AURA, il primo concept del marchio Chery traccia il design del futuro",
-      "link": "https://www.hdmotori.it/lepas-aura-concept/",
-      "excerpt": "LEPAS presenta AURA, il suo primo concept car, a Wuhu in Cina. Il prototipo anticipa il nuovo stile del marchio Chery, già presente in Italia con la L8",
-      "image": "https://hd2.tudocdn.net/1380572?w=660",
-      "publishedAt": "2026-10-26T14:30:26+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "eBay addestra l’IA con i dati degli utenti. Il selettore per opporsi è attivo da oltre un anno",
       "link": "https://images.dday.it/C2TuKZwdKGf_Wze4p6nrOoqcSlL_UGmr5luvMlSpM4Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59212/cce0f8_kyiv-ukraine-march-2021-ebay-Depositphotos_534948226_XL.jpg",
       "excerpt": "Dal 26 novembre cambia l’informativa privacy di eBay. L’opzione per escludersi dall’addestramento dell’IA generativa esiste da marzo 2025, ma in Italia è passata inosservata...…",
@@ -174,24 +219,6 @@
       "publishedAt": "2026-10-26T14:16:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Euclid scopre per caso una cometa: ecco cosa sappiamo",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n674847/euclid-scoperta-cometa-c-2026-s1/",
-      "excerpt": "Il telescopio europeo Euclid ha individuato una cometa mai osservata prima, lontanissima dalla Terra.",
-      "image": "https://hd2.tudocdn.net/1110027?w=660",
-      "publishedAt": "2026-10-26T14:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "È un caccia o un’auto? La Tesla Roadstar mostra un'interfaccia per piloti da aerei",
-      "link": "https://www.hdmotori.it/roadster-tesla-interfaccia-aerei/",
-      "excerpt": "Tesla mostra l'interfaccia della nuova Roadster, ispirata agli aerei da combattimento. Display, aerodinamica regolabile e sistema di propulsione a gas freddo",
-      "image": "https://hd2.tudocdn.net/1380564?w=660",
-      "publishedAt": "2026-10-26T14:00:45+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Il nuovo iPad mini ha il processore dell’iPhone, un display OLED ed è resistente all’acqua",
@@ -210,33 +237,6 @@
       "publishedAt": "2026-10-26T13:57:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Nuova Peugeot 208, rivoluzione BEV: fino a 480 km di autonomia e ricarica in 15 minuti",
-      "link": "https://www.hdmotori.it/nuova-peugeot-208-elettrica-piattaforma-stla-one-prezzo-autonomia/",
-      "excerpt": "Peugeot svela il futuro della 208 in arrivo nel 2027: piattaforma STLA One, batteria cell-to-body, sterzo Hypersquare e ricarica a 800V con prezzo da 25.000 euro",
-      "image": "https://hd2.tudocdn.net/1380554?w=660",
-      "publishedAt": "2026-10-26T13:00:33+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Migliori offerte tech di oggi, 26 ottobre: Apple Watch Ultra 3, Bose e Roborock ai minimi",
-      "link": "https://www.hdblog.it/amazon/offerte/n674916/migliori-offerte-tech-oggi-26-ottobre-amazon/",
-      "excerpt": "Apple Watch Ultra 3, robot Roborock, auricolari Bose, TV Philips e notebook Lenovo tra le migliori offerte tech di oggi, 26 ottobre 2026, soprattutto su Amazon.",
-      "image": "https://hd2.tudocdn.net/1380550?w=660",
-      "publishedAt": "2026-10-26T12:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "WhatsApp aggiunge un nuovo filtro per menzioni e risposte dirette nei gruppi",
-      "link": "https://www.hdblog.it/smartphone/articoli/n674890/whatsapp-filtro-menzioni-risposte-gruppi/",
-      "excerpt": "WhatsApp testa un filtro per individuare rapidamente le chat di gruppo con menzioni o risposte dirette all'utente.",
-      "image": "https://hd2.tudocdn.net/1380497?w=660",
-      "publishedAt": "2026-10-26T12:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Quando la musica si portava in spalla: Philips rilancia i boombox degli anni ’80",
