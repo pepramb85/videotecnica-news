@@ -1,26 +1,197 @@
 {
-  "generatedAt": "2026-10-27T15:37:54.500146+00:00",
+  "generatedAt": "2026-10-27T20:19:53.781328+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Torino 2027, il Salone dell'Auto torna gratis a settembre",
-      "link": "https://www.tomshw.it/automotive/salone-auto-torino-2027-ingresso-libero-dal-24-al-26-settembre",
-      "excerpt": "Ingresso libero, auto esposte nelle piazze e nei giardini del centro e test drive su strada: il Salone Auto Torino manterrà questa formula anche per la quarta edizione, in…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120638/news-flash-1934192.png",
-      "publishedAt": "2026-10-27T15:35:53+00:00",
+      "title": "eufy S340 a 129,99€, sorvegli il giardino senza costi mensili",
+      "link": "https://www.tomshw.it/altro/eufy-s340-a-12999eur-sorvegli-il-giardino-senza-costi-mensili",
+      "excerpt": "A 129,99€ su Amazon, eufy S340 costa il 24% in meno rispetto al listino di 169,99€. Il doppio obiettivo permette di osservare l'insieme e ingrandire i dettagli nella stessa…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120684/tomshw-offer-1934505.png",
+      "publishedAt": "2026-10-27T19:48:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Prezzo fisso o indicizzato al PUN: come scegliere la luce",
-      "link": "https://www.tomshw.it/altro/prezzo-fisso-o-indicizzato-al-pun-come-scegliere-la-luce",
-      "excerpt": "Il prezzo fisso tiene ferme, per un periodo scritto nel contratto, le componenti che il contratto indica. L’indicizzato segue un riferimento di mercato, che può salire o scendere:…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/119775/prezzo-fisso-o-indicizzato-al-pun-come-scegliere-la-luce-823543.png",
-      "publishedAt": "2026-10-27T15:30:00+00:00",
+      "title": "Vivobook 15 da 699€ a 469€, il minimo di sempre per studio e lavoro leggero",
+      "link": "https://www.tomshw.it/hardware/vivobook-15-da-699eur-a-469eur-il-minimo-di-sempre-per-studio-e-lavoro-leggero",
+      "excerpt": "A 469€ su Amazon, Vivobook 15 raggiunge il minimo storico con uno sconto del 33% sul listino di 699€. È un notebook pensato per studiare, scrivere e navigare, con uno schermo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120683/tomshw-offer-1934482.png",
+      "publishedAt": "2026-10-27T19:18:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Stampa solo metà pagina? Ecco come risolvere subito",
+      "link": "https://www.tomshw.it/hardware/stampante-stampa-meta-pagina-a4-windows-11",
+      "excerpt": "Se la stampante stampa solo metà pagina, confronta prima l’anteprima con il foglio: quando mancano righe o colonne, controlla formato A4, orientamento e scala; quando il documento…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120453/cover.png",
+      "publishedAt": "2026-10-27T19:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Logitech G G512 X 98, scegli tu quando scatta il tasto: 153,14€",
+      "link": "https://www.tomshw.it/hardware/logitech-g-g512-x-98-scegli-tu-quando-scatta-il-tasto-15314eur",
+      "excerpt": "La Logitech G G512 X 98 costa 153,14€ su Amazon, con il 30% di sconto sul listino di 219,99€. Permette di combinare switch meccanici e magnetici analogici, così da personalizzare…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120682/tomshw-offer-1934470.png",
+      "publishedAt": "2026-10-27T18:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Nintendo annuncia un Indie World, ed è vicinissimo: ecco data e ora",
+      "link": "https://www.hdblog.it/nintendo/articoli/n675090/nintendo-indie-world-28-ottobre-switch-2-data-ora/",
+      "excerpt": "Al solito Nintendo svela tutto all'ultimo minuto.",
+      "image": "https://hd2.tudocdn.net/1380941?w=660",
+      "publishedAt": "2026-10-27T18:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "SwitchBot Matter a 49,99€, colori per giocare e bianco dedicato per leggere",
+      "link": "https://www.tomshw.it/altro/switchbot-matter-a-4999eur-colori-per-giocare-e-bianco-dedicato-per-leggere",
+      "excerpt": "SwitchBot Matter costa 49,99€ su Amazon, con il 24% di sconto sul listino di 65,99€. Questa lampada da terra combina effetti colorati per il setup e LED bianchi dedicati, così…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120681/tomshw-offer-1934454.png",
+      "publishedAt": "2026-10-27T18:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Anduril e Qualcomm annunciano BlueChip: obiettivo computer \"Made in USA\"",
+      "link": "https://www.hdblog.it/portatili/articoli/n675085/qualcomm-anduril-bluechip-notebook-made-in-usa/",
+      "excerpt": "Quell'obiettivo è nel lungo termine, certo; per cominciare, nel più breve termine, si azzererà la dipendenza dalla Cina.",
+      "image": "https://hd2.tudocdn.net/1380928?w=660",
+      "publishedAt": "2026-10-27T18:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Quando esce Lords of the Fallen II? Data e cosa sappiamo",
+      "link": "https://www.tomshw.it/videogioco/quando-esce-lords-of-the-fallen-ii-data-e-cosa-sappiamo",
+      "excerpt": "Lords of the Fallen II è atteso nel primo trimestre del 2027, quindi tra gennaio e marzo. È la finestra ufficiale indicata da CI Games, mentre manca ancora un giorno preciso di…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120450/cover.jpg",
+      "publishedAt": "2026-10-27T18:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il MacBook Neo 2 sarebbe già in arrivo",
+      "link": "https://www.hdblog.it/portatili/articoli/n675066/macbook-neo-2-quando-esce/",
+      "excerpt": "La data di lancio della nuova versione è molto più vicina del previsto",
+      "image": "https://hd2.tudocdn.net/1326265?w=660",
+      "publishedAt": "2026-10-27T17:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Buoni Amazon o interessi: quale promo bancaria conviene davvero?",
+      "link": "https://www.tomshw.it/altro/buoni-amazon-o-interessi-quale-promo-bancaria-conviene-davvero",
+      "excerpt": "Il buono Amazon pesa di più con poco capitale e acquisti già programmati. Gli interessi crescono con la somma depositata e il tempo. Il premio ha un importo fissato dal…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/119547/823412-buoni-o-interessi-v2.png",
+      "publishedAt": "2026-10-27T17:30:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Arriva su Kickstarter il \"Super Mouse\", con display touch da 3,1\" sul dorso",
+      "link": "https://www.hdblog.it/hardware/articoli/n675077/super-mouse-touch-screen-tastiera-virtuale-macro/",
+      "excerpt": "Volendo si può anche digitare via tastiera virtuale, stile smartphone. Con tanto di swipe ed Emoji!",
+      "image": "https://hd2.tudocdn.net/1380918?w=660",
+      "publishedAt": "2026-10-27T17:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Xiaomi Redmi Pad 2 con cover a 235€, un bel formato per film e lettura",
+      "link": "https://www.tomshw.it/smartphone/xiaomi-redmi-pad-2-con-cover-a-235eur-un-bel-formato-per-film-e-lettura",
+      "excerpt": "Xiaomi Redmi Pad 2 con cover costa 235€ su Amazon ed è pensato per chi vuole leggere e guardare serie su uno schermo da 11 pollici. Il display 2.5K e i quattro altoparlanti Dolby…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120680/tomshw-offer-1934401.png",
+      "publishedAt": "2026-10-27T17:19:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Microsoft Excel, tutte le novità distribuite a ottobre 2026",
+      "link": "https://www.hdblog.it/microsoft/articoli/n675072/microsoft-excel-novita-ottobre-windows-apple-web/",
+      "excerpt": "La maggior parte all'insegna di AI e Copilot, naturalmente.",
+      "image": "https://hd2.tudocdn.net/1380910?w=660",
+      "publishedAt": "2026-10-27T17:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "MotoGP, addio a Phillip Island: Aprilia risponde con una RS 660 speciale",
+      "link": "https://www.hdmotori.it/aprilia-rs-660-phillip-island-tribute/",
+      "excerpt": "Aprilia celebra i 300 successi nel Motomondiale e l'addio a Phillip Island con la RS 660 Tribute: livrea speciale, 105 CV ed elettronica da top di gamma.",
+      "image": "https://hd2.tudocdn.net/1380912?w=660",
+      "publishedAt": "2026-10-27T17:00:37+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Mac mini M6 vs Mac mini M4: quale scegliere?",
+      "link": "https://www.tomshw.it/hardware/mac-mini-m6-vs-mac-mini-m4-quale-scegliere",
+      "excerpt": "Mac mini M6 punta su più potenza di calcolo e rete più veloce: è il candidato per chi lavora con elaborazioni frequenti o archivi su NAS, mentre M4 resta interessante vicino ai…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120435/mac-mini-m6-vs-mac-mini-m4-quale-scegliere.png",
+      "publishedAt": "2026-10-27T17:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Scegliere il fornitore IT con NIS2, DORA e Data Act: la checklist su contratto e uscita",
+      "link": "https://www.tomshw.it/aioperator/scegliere-il-fornitore-it-con-nis2-dora-e-data-act-la-checklist-su-contratto-e-uscita",
+      "excerpt": "Prima del listino di un fornitore IT conviene leggere tre testi europei: la NIS2, il DORA e il Data Act. Ciascuno vale per una categoria diversa di aziende, e la prima domanda è…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/119058/04-mgt06-cover.jpg",
+      "publishedAt": "2026-10-27T17:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il touchscreen diventa un tessuto: si piega e si lava in lavatrice",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n674976/touchscreen-vestiti-display-tessuto/",
+      "excerpt": "Creato a Singapore un tessuto touchscreen che riproduce video, riconosce il tocco e si lava.",
+      "image": "https://hd2.tudocdn.net/1380659?w=660",
+      "publishedAt": "2026-10-27T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "RTX 20, 30 e 40 raddoppiano la potenza di calcolo AI grazie al modding",
+      "link": "https://www.hdblog.it/hardware/articoli/n675069/geforce-rtx-40-30-20-exploit-raddoppio-core-ai/",
+      "excerpt": "Già è difficile il mercato delle schede grafiche gaming, ci mancava solo questa!",
+      "image": "https://hd2.tudocdn.net/1123474?w=660",
+      "publishedAt": "2026-10-27T16:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Auto Europa 2027: vince la Renault Clio, premiate anche Lancia Gamma e Hyundai Ioniq 3",
+      "link": "https://www.hdmotori.it/auto-europa-2027-vince-renault-clio/",
+      "excerpt": "L'Unione Italiana Giornalisti Automotive incorona Auto Europa 2027 la compatta francese al termine di una selezione tra giornalisti, opinion leader e giuria popolare.",
+      "image": "https://hd2.tudocdn.net/1380922?w=660",
+      "publishedAt": "2026-10-27T16:30:23+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "A Bologna è già possibile accendere i termosifoni",
+      "link": "https://www.hdblog.it/home/articoli/n675038/bologna-accensione-termosifoni/",
+      "excerpt": "Il Comune dà il via libera in via eccezionale",
+      "image": "https://hd2.tudocdn.net/1378383?w=660",
+      "publishedAt": "2026-10-27T16:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Volkswagen potrebbe adottare l’architettura di Xpeng per i suoi modelli europei",
+      "link": "https://images.dday.it/dCC8gIqO7LYkcRTUcAnYzvLnzMBCIRLNheD6d2gdxFU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59245/843593_DB2024AU00662_large.jpg",
+      "excerpt": "Secondo le indiscrezioni, Volkswagen starebbe valutando l’adozione in Europa delle tecnologie Xpeng, già in uso sui suoi modelli proposti in Cina... Leggi tutto",
+      "image": "https://images.dday.it/dCC8gIqO7LYkcRTUcAnYzvLnzMBCIRLNheD6d2gdxFU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59245/843593_DB2024AU00662_large.jpg",
+      "publishedAt": "2026-10-27T16:04:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Apple porta gli assistenti IA in Pages, Numbers e Keynote: potranno lavorare anche con agenti esterni",
@@ -32,24 +203,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "DJI Lito X1 Fly More sotto i 640€, tre batterie per riprendere in viaggio",
-      "link": "https://www.tomshw.it/altro/dji-lito-x1-fly-more-sotto-i-640eur-tre-batterie-per-riprendere-in-viaggio",
-      "excerpt": "DJI Lito X1 Fly More costa 639,49€ su Amazon, con tre batterie e radiocomando DJI RC 2 per organizzare le riprese aeree durante un viaggio. ActiveTrack aiuta a seguire il…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120639/tomshw-offer-1934185.png",
-      "publishedAt": "2026-10-27T15:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Apple svela il chatbot per Pages, Keynote e Numbers: chi potrà usarlo?",
-      "link": "https://www.tomshw.it/hardware/apple-svela-il-chatbot-per-pages-keynote-e-numbers-chi-potra-usarlo",
-      "excerpt": "Apple ha annunciato un assistente AI integrato in Pages, Keynote e Numbers, capace di intervenire su testi, presentazioni e fogli di calcolo comprendendo il contesto del…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120635/apple-svela-il-chatbot-per-pages-keynote-e-numbers-chi-potra-usarlo.png",
-      "publishedAt": "2026-10-27T15:10:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Street Fighter 5 messo offline: rischi a causa delle vulnerabilità di PHP",
       "link": "https://www.dday.it/news/7/street-fighter-5-messo-offline-rischi-a-causa-delle-vulnerabilita-di-php",
       "excerpt": "L'editore giapponese Capcom ha scelto di mettere offline temporaneamente il videogioco Street Fighter 5, in seguito alle vulnerabilità di sicurezza che hanno coinvolto il…",
@@ -57,42 +210,6 @@
       "publishedAt": "2026-10-27T15:08:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Zen 6 sorprende nei primi test: i futuri Ryzen promettono bene",
-      "link": "https://www.tomshw.it/hardware/amd-zen-6c-segna-165-nei-benchmark-sara-cosi-anche-sui-ryzen",
-      "excerpt": "Un nuovo benchmark attribuito a un processore AMD EPYC 9996 offre una prima indicazione delle prestazioni dell’architettura Zen 6: nel confronto con Zen 5, il vantaggio medio nei…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120634/amd-zen-6c-segna-16-5-nei-benchmark-sara-cosi-anche-sui-ryzen.png",
-      "publishedAt": "2026-10-27T15:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Recensione Razer Barracuda V2 Pro: vanno oltre il gaming",
-      "link": "https://www.tomshw.it/hardware/razer-barracuda-v2-pro-la-recensione-completa",
-      "excerpt": "Con le Barracuda V2 Pro, Razer aggiorna la sua cuffia wireless più versatile e la riposiziona su un prezzo di listino di poco più di 200 euro. Anche se siamo davanti a una cuffia…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120244/Razer-Barracuda--21.jpg",
-      "publishedAt": "2026-10-27T15:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Se non controlli che il backup funzioni, cosa l'hai fatto a fare?",
-      "link": "https://www.tomshw.it/business/se-non-controlli-che-il-backup-funzioni-cosa-lhai-fatto-a-fare",
-      "excerpt": "Finire un backup osservando con soddisfazione la spunta verde significa che ... non l'hai finito. Sì, perché il processo di per sé indica solo che sono stati scritti alcuni dati…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/117053/01-qnap-evento-ripristino-backup.jpg",
-      "publishedAt": "2026-10-27T14:57:21+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Shogun 2, una mod fa il miracolo? I test mostrano fino al 136% in più",
-      "link": "https://www.tomshw.it/videogioco/total-war-shogun-2-accelera-con-una-mod-chi-guadagna-piu-fps",
-      "excerpt": "Il modder Meisgoot312 ha pubblicato una nuova versione di s2fix, la modifica open source che interviene sulle prestazioni di Total War: Shogun 2. Nei test dello sviluppatore, le…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120633/total-war-shogun-2-accelera-con-una-mod-chi-guadagna-piu-fps.png",
-      "publishedAt": "2026-10-27T14:50:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "La Thailandia con un \"occhio\" full frame da 67 megapixel: le foto della Sony A7R VI",
@@ -113,15 +230,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "-56% sulle Corsair HS65 WIRELESS, un affare per giocare senza cavi",
-      "link": "https://www.tomshw.it/hardware/56-sulle-corsair-hs65-wireless-un-affare-per-giocare-senza-cavi",
-      "excerpt": "Corsair HS65 WIRELESS a 59,99€ su Amazon: con il 56% di sconto, giocare senza cavi costa 75€ meno dei 134,99€ di listino. La doppia connessione permette di usarle alla postazione…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120632/tomshw-offer-1934144.png",
-      "publishedAt": "2026-10-27T14:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "MacBook Pro arriva ai 2 nm: lanciato il 14 pollici con il processore M6",
       "link": "https://images.dday.it/6jHonL7ZVCkQxhCK9MuGqBwktNt91qgZfyZell0_4Ko/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59243/609562_Apple-MacBook-Pro-14-in-with-M6-hero-261027.jpg",
       "excerpt": "Il MacBook Pro da 14 pollici passa al chip M6 a 2 nm, con CPU e GPU più veloci, Wi-Fi 7 e Neural Engine raddoppiato. Ma costa 500 euro in più rispetto al modello precedente...…",
@@ -129,15 +237,6 @@
       "publishedAt": "2026-10-27T14:44:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Roblox accusata di scaricare modelli 3D: li ha usati per l'AI?",
-      "link": "https://www.tomshw.it/videogioco/roblox-accusata-di-scaricare-modelli-3d-li-ha-usati-per-lai",
-      "excerpt": "Open3DLab ha accusato Roblox di aver scaricato automaticamente 1.027 file provenienti da 712 progetti ospitati sui propri siti, includendo nella raccolta anche contenuti per…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120627/roblox-accusata-di-scaricare-modelli-3d-li-ha-usati-per-l-ai.png",
-      "publishedAt": "2026-10-27T14:40:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Ufficiale iMac con M6: più potenza, Wi-Fi 7 e IA in locale fino a 5 volte più veloce",
@@ -149,15 +248,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Gas serra fuori controllo: la CO2 raggiunge un nuovo record",
-      "link": "https://www.hdblog.it/green/articoli/n675049/gas-serra-record-co2-2025-clima/",
-      "excerpt": "La CO2 tocca 426,8 ppm nel 2025. L'OMM avverte sui rischi per il clima e sugli altri gas serra.",
-      "image": "https://hd2.tudocdn.net/1380879?w=660",
-      "publishedAt": "2026-10-27T14:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Bonus colonnine, fondi esauriti: sportello chiuso dopo circa 16.000 domande",
       "link": "https://images.dday.it/tgOWA_2k_KzdQQhWqKNMr5T9qNY3PGNweEwIL3nfZBs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59241/75840d_rome-italy-2022-electric-charging-Depositphotos_561751856_XL.jpg",
       "excerpt": "Le richieste presentate dal 22 settembre hanno esaurito le risorse disponibili per il 2026. Il contributo copre l’80% delle spese per l’acquisto e l’installazione di wallbox e…",
@@ -165,33 +255,6 @@
       "publishedAt": "2026-10-27T14:08:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Apple Creator Studio si aggiorna: grandi novità per Final Cut Pro e non solo",
-      "link": "https://www.hdblog.it/apple/articoli/n675040/apple-creator-studio-novita/",
-      "excerpt": "In arrivo a novembre.",
-      "image": "https://hd2.tudocdn.net/1380871?w=660",
-      "publishedAt": "2026-10-27T14:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "F1, Kimi Antonelli a un passo dalla gloria mondiale: in arrivo un incasso stellare",
-      "link": "https://www.hdmotori.it/f1-kimi-antonelli-mondiale-incasso/",
-      "excerpt": "Il bolognese della Mercedes sta per ricevere una somma extra per la conquista del Mondiale. Scopriamo come funzionano i bonus in F1.",
-      "image": "https://hd2.tudocdn.net/1380883?w=660",
-      "publishedAt": "2026-10-27T14:00:28+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "La mia wishlist su HDshopping: 8 prodotti tech che tengo d'occhio | Adamo Genco",
-      "link": "https://www.hdblog.it/tecnologia/speciali/n674842/wishlist-hdshopping-prodotti-tech-adamo-genco/",
-      "excerpt": "Ecco la mia wishlist su HDshopping",
-      "image": "https://hd2.tudocdn.net/1380489?w=660",
-      "publishedAt": "2026-10-27T13:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Il video di 110 robot cinesi che ballano sincronizzati. È record",
@@ -203,74 +266,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Apple presenta il nuovo iMac con M6: più potenza, Wi-Fi 7 e prezzi da 1.829 euro",
-      "link": "https://www.hdblog.it/apple/articoli/n675041/apple-presenta-imac-m6/",
-      "excerpt": "Apple aggiorna anche iMac da 24 pollici, che passa al nuovo chip M6",
-      "image": "https://hd2.tudocdn.net/1380848?w=660",
-      "publishedAt": "2026-10-27T13:04:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "SwitchBot AI Art Frame 2 arriva in Italia: tutte le novità e i prezzi",
-      "link": "https://www.hdblog.it/tecnologia/offerte/n674919/switchbot-ai-art-frame-2-arriva-in-italia-tutte-le-novita-e-i-prezzi/",
-      "excerpt": "SwitchBot presenta AI Art Frame 2, la seconda generazione della sua cornice digitale con display E Ink a colori, che debutta a un anno dal primo modello. La nuova versione punta…",
-      "image": "https://hd2.tudocdn.net/1380540?w=660",
-      "publishedAt": "2026-10-27T13:01:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "La nuova Dacia Sandero arriverà nel 2028: stile ancora più ricercato",
-      "link": "https://www.hdmotori.it/nuova-dacia-sandero-2028/",
-      "excerpt": "La prossima serie di Sandero risulterà ancora più curata. Valutiamo dai primi render le caratteristiche scelte da Dacia.",
-      "image": "https://hd2.tudocdn.net/1380849?w=660",
-      "publishedAt": "2026-10-27T13:00:24+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Apple presenta MacBook Pro 14 con M6: più potenza e fino a 24 ore di autonomia",
-      "link": "https://www.hdblog.it/portatili/articoli/n675035/apple-presenta-macbook-pro-m6/",
-      "excerpt": "Apple ha presentato il nuovo MacBook Pro da 14 pollici con chip M6",
-      "image": "https://hd2.tudocdn.net/1380827?w=660",
-      "publishedAt": "2026-10-27T12:19:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Temu e prodotti illegali, l'Ue approva il piano: ora 4 mesi per intervenire",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n675030/temu-articoli-contraffatti-piano-ue/",
-      "excerpt": "La Commissione europea ha accettato il piano d'azione di Temu per affrontare i rischi legati alla vendita di prodotti illegali o non conformi. La decisione arriva dopo la multa da…",
-      "image": "https://hd2.tudocdn.net/1322319?w=660",
-      "publishedAt": "2026-10-27T12:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Migliori VPN per Netflix del 2026 (Serie TV anche dall’estero)",
-      "link": "https://www.hdblog.it/sicurezza/guide/n587399/vpn-netflix-migliori/",
-      "excerpt": "Vuoi vedere Netflix Italia all’estero? Scopri come farlo con o senza VPN e quali sono le migliori VPN per Netflix, gratuite e a pagamento, nel 2026.",
-      "image": "https://hd2.tudocdn.net/1173536?w=660",
-      "publishedAt": "2026-10-27T12:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Cosa sono le news “brevi” che sono apparse in homepage su DDAY",
       "link": "https://images.dday.it/fV-1HdADW8LX5NadgBe3eTMU3q1cjEx7-rrpCXJL6qw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59238/51b390_IMG_4294.JPG",
       "excerpt": "Di fianco alle normali news arrivano le news “brevi”: le useremo per tenervi aggiornati in tempo reale su tutto quello che accade in rete (e fuori) ma che non merita, almeno per…",
       "image": "https://images.dday.it/fV-1HdADW8LX5NadgBe3eTMU3q1cjEx7-rrpCXJL6qw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59238/51b390_IMG_4294.JPG",
       "publishedAt": "2026-10-27T11:38:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "La live per testare la resistenza all'apertura dello schermo di iPhone Duo",
-      "link": "https://www.dday.it/news/5/la-live-per-testare-la-resistenza-all-apertura-dello-schermo-di-iphone-duo",
-      "excerpt": "La testata CNET ha deciso di mettere alla prova la resistenza dello schermo di iPhone Duo con un test della piega che avrà una serie di live programmate nel corso dei gioni. La…",
-      "image": "https://i.ytimg.com/vi/Y4DjuNHZfFU/hqdefault.jpg",
-      "publishedAt": "2026-10-27T11:17:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
