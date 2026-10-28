@@ -1,26 +1,206 @@
 {
-  "generatedAt": "2026-10-28T14:44:11.556800+00:00",
+  "generatedAt": "2026-10-28T20:42:12.978416+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Rayman Legends Retold avrà qualcosa di esclusivo per chi lo gioca su PS5",
-      "link": "https://www.tomshw.it/videogioco/rayman-legends-retold-avra-qualcosa-di-esclusivo-per-chi-lo-gioca-su-ps5",
-      "excerpt": "Ubisoft e Sony hanno annunciato il 28 ottobre, attraverso il PlayStation Blog, che la versione PlayStation 5 e PS5 Pro di Rayman Legends Retold includerà un costume esclusivo…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120806/Rayman-Legends-Retold.webp",
-      "publishedAt": "2026-10-28T14:30:00+00:00",
+      "title": "SwitchBot Curtain 3 apre le tende dall’app, senza cambiare il bastone",
+      "link": "https://www.tomshw.it/altro/switchbot-curtain-3-apre-le-tende-dallapp-senza-cambiare-il-bastone",
+      "excerpt": "SwitchBot Curtain 3 costa 89,99€ su Amazon, con il 10% di sconto sui 99,99€ di listino. Automatizza le tende che hai già, così puoi programmare l’apertura al mattino e gestire la…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120898/tomshw-offer-1937691.png",
+      "publishedAt": "2026-10-28T19:49:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "OpenAI toglie internet ai suoi modelli, ma il problema sono le persone che non controllano",
-      "link": "https://www.tomshw.it/business/openai-toglie-internet-ai-suoi-modelli-ma-il-problema-sono-le-persone-che-non-controllano",
-      "excerpt": "OpenAI ha deciso che i suoi modelli di frontiera si addestreranno senza accesso a internet, usando al suo posto un mondo offline di pagine web archiviate, dopo che il 20 settembre…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120759/02-openai-addestramento-senza-internet.jpg",
-      "publishedAt": "2026-10-28T14:27:04+00:00",
+      "title": "MacBook Pro OLED touch ufficiale: display PROLED XDR e chip M5",
+      "link": "https://www.hdblog.it/apple/articoli/n675205/apple-macbook-pro-oled-touchscreen-ufficiale/",
+      "excerpt": "Apple presenta MacBook Pro OLED touchscreen con Dynamic Island, chip M5 Pro e Max e macOS 27.",
+      "image": "https://hd2.tudocdn.net/1381238?w=660",
+      "publishedAt": "2026-10-28T19:32:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Alexa+, sensori per il sonno e l'inedito Time: così Amazon rivoluziona gli Echo | Prezzi",
+      "link": "https://www.hdblog.it/amazon/articoli/n675168/amazon-nuovi-echo-italia-funzioni-prezzi/",
+      "excerpt": "Arrivano in Italia quattro nuovi dispositivi Echo, mentre un quinto debutterà successivamente. Tra le novità ci sono una sveglia intelligente, uno speaker con visione artificiale…",
+      "image": "https://hd2.tudocdn.net/1381108?w=660",
+      "publishedAt": "2026-10-28T19:31:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Netflix : le novità in arrivo a novembre 2026",
+      "link": "https://www.hdblog.it/curiosita/articoli/n675157/netflix--le-novita-in-arrivo-a-novembre-2026/",
+      "excerpt": "Ecco le novità di novembre 2026 in arrivo su Netflix",
+      "image": "https://hd2.tudocdn.net/1381163?w=660",
+      "publishedAt": "2026-10-28T19:30:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "TP-Link Archer NX500 porta il 5G in Wi-Fi a casa e in ufficio, a 259,99€",
+      "link": "https://www.tomshw.it/hardware/tp-link-archer-nx500-porta-il-5g-in-wi-fi-a-casa-e-in-ufficio-a-25999eur",
+      "excerpt": "TP-Link Archer NX500 costa 259,99€ su Amazon e permette di condividere una connessione 5G tra i dispositivi di casa o dell’ufficio. Inserisci la SIM e hai un router Wi-Fi 6 al…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120893/tomshw-offer-1937661.png",
+      "publishedAt": "2026-10-28T19:18:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Da GTA 6 a GTA-AI nel mondo reale: assalti ai data center, oltre 100 milioni di danno",
+      "link": "https://www.tomshw.it/business/da-gta-6-a-gta-ai-nel-mondo-reale-assalti-ai-data-center-oltre-100-milioni-di-danno",
+      "excerpt": "Dal giugno scorso bande organizzate hanno rubato più di 100 milioni di dollari di attrezzature per data center, secondo un'inchiesta di NBC News, e il metodo mette insieme un…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120886/01-gta-ai-furti-data-center.jpg",
+      "publishedAt": "2026-10-28T19:08:55+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Perché la copia file si ferma al 99% e come risolvere",
+      "link": "https://www.tomshw.it/hardware/copia-file-ferma-99-percento-windows-11-disco-usb",
+      "excerpt": "Se la copia dei file da Windows 11 a un disco USB sembra bloccata al 99%, controlla prima se il trasferimento sta ancora lavorando: la percentuale, da sola, non dimostra un…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120455/cover.png",
+      "publishedAt": "2026-10-28T19:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Ora sappiamo il prezzo del Mac Studio con 512GB di RAM, ovviamente è fuori di testa",
+      "link": "https://www.tomshw.it/hardware/ora-sappiamo-il-prezzo-del-mac-studio-con-512gb-di-ram-ovviamente-e-fuori-di-testa",
+      "excerpt": "Apple ha svelato il prezzo della configurazione più costosa mai proposta su un Mac desktop: il Mac Studio con 512 GB di memoria unificata è ordinabile sullo store online…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120891/ora-sappiamo-il-prezzo-del-mac-studio-con-512gb-di-ram-ovvia-4glpfxe.webp",
+      "publishedAt": "2026-10-28T18:56:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "HyperX Cloud III a 75,62€, mai costate così poco per giocare su PC e console",
+      "link": "https://www.tomshw.it/hardware/hyperx-cloud-iii-a-7562eur-mai-costate-cosi-poco-per-giocare-su-pc-e-console",
+      "excerpt": "Le HyperX Cloud III bianche a 75,62€ su Amazon raggiungono il minimo storico, con il 24% di sconto sui 99,99€ di listino. Sono cuffie cablate pensate per accompagnare le sessioni…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120890/tomshw-offer-1937641.png",
+      "publishedAt": "2026-10-28T18:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il nuovo perimetro di difesa? La finestra temporale dei difensori",
+      "link": "https://www.tomshw.it/business/il-nuovo-perimetro-di-difesa-la-finestra-temporale-dei-difensori",
+      "excerpt": "La scorsa settimana sono emerse due vulnerabilità critiche in PHP, il linguaggio alla base di gran parte del web. Gli aggressori stavano testando gli exploit prima ancora che…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120874/01-php-finestra-temporale-difensori.jpg",
+      "publishedAt": "2026-10-28T18:44:05+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Con il termostato SwitchBot programmi il caldo dall’app a 33,99€",
+      "link": "https://www.tomshw.it/altro/con-il-termostato-switchbot-programmi-il-caldo-dallapp-a-3399eur",
+      "excerpt": "Il termostato SwitchBot a 33,99€ su Amazon permette di programmare il riscaldamento stanza per stanza, con il 15% di sconto rispetto ai 39,99€ di listino. Puoi impostare gli orari…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120888/tomshw-offer-1937617.png",
+      "publishedAt": "2026-10-28T18:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Apple presenta il primo MacBook Pro OLED, touch e con Dynamic Island: si parte da 3.399 euro. Tagli da 14” e 16”",
+      "link": "https://images.dday.it/PiURvfUcvQLc4PxEYQ_ozIo0aA3pNkxA1UrWMEORVJE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59255/eb1211_Screenshot_2026-10-28_alle_19.10.15.png",
+      "excerpt": "Apple si rimangia 16 anni di no al touchscreen e lo presenta insieme al suo primo schermo OLED per un MacBook. C’è anche la Dynamic Island ed è più leggero e sottile. I processori…",
+      "image": "https://images.dday.it/PiURvfUcvQLc4PxEYQ_ozIo0aA3pNkxA1UrWMEORVJE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59255/eb1211_Screenshot_2026-10-28_alle_19.10.15.png",
+      "publishedAt": "2026-10-28T18:05:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Huawei Pura 90 Plus ufficiale: ecco tutte le specifiche e i prezzi",
+      "link": "https://www.hdblog.it/smartphone/articoli/n675221/huawei-pura-90-plus-specifiche-prezzi-immagini/",
+      "excerpt": "Ottime fotocamere, buona autonomia... naturalmente niente servizi Google.",
+      "image": "https://hd2.tudocdn.net/1381251?w=660",
+      "publishedAt": "2026-10-28T18:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Moto Guzzi The Trip 500: 48 CV, 180 kg e il cuore dell'Aprilia 457",
+      "link": "https://www.hdmotori.it/moto-guzzi-the-trip-500-caratteristiche-motore-aprilia/",
+      "excerpt": "Mandello svela la nuova Moto Guzzi The Trip 500: roadster da 48 CV con motore bicilindrico Aprilia 457, ricca dotazione elettronica e debutto fissato a EICMA 2026.",
+      "image": "https://hd2.tudocdn.net/1381253?w=660",
+      "publishedAt": "2026-10-28T18:00:39+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Quando esce World of Warcraft: Forever? Data e cosa sappiamo",
+      "link": "https://www.tomshw.it/videogioco/quando-esce-world-of-warcraft-forever-data-e-cosa-sappiamo",
+      "excerpt": "In Italia World of Warcraft: Forever esce il 5 novembre 2026 alle 00:00 CET, nella notte tra mercoledì 4 e giovedì 5 novembre. La data è ufficiale e riguarda anche il pubblico…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120452/quando-esce-world-of-warcraft-forever-data-e-cosa-sappiamo.png",
+      "publishedAt": "2026-10-28T18:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Lavatrici AI, 4 modi in cui i prodotti Samsung semplificano il bucato",
+      "link": "https://www.hdblog.it/samsung/articoli/n675180/lavatrici-ai-samsung-semplificano-bucato/",
+      "excerpt": "Il lavaggio è più semplice, personalizzato ed efficiente",
+      "image": "https://hd2.tudocdn.net/1309388?w=660",
+      "publishedAt": "2026-10-28T17:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Crisi delle memorie, non ce ne libereremo presto: prezzi in aumento fino al 2030?",
+      "link": "https://www.hdblog.it/hardware/articoli/n675216/crisi-memorie-prezzi-aumento-2030-apple-sk-hynix/",
+      "excerpt": "Le previsioni di SK Hynix, uno dei colossi del settore, non sono certo rosee.",
+      "image": "https://hd2.tudocdn.net/1375645?w=660",
+      "publishedAt": "2026-10-28T17:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "iPhone Duo con WINDTRE, si parte da 59,99 euro al mese",
+      "link": "https://www.tomshw.it/smartphone/windtre-lancia-rata-light-per-iphone-duo-da-5999-euro-al-mese",
+      "excerpt": "WINDTRE ha introdotto una nuova formula di acquisto per iPhone Duo, il primo smartphone pieghevole di Apple. Per i nuovi clienti l’offerta parte da 59,99 euro in più al mese,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120880/windtre-iphone-duo-rata-light.png",
+      "publishedAt": "2026-10-28T17:50:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Gasolio, scattano le accise mobili: taglio di 4,9 centesimi fino al 7 novembre",
+      "link": "https://www.hdmotori.it/gasolio-accise-mobili-7-novembre/",
+      "excerpt": "Pubblicato in Gazzetta Ufficiale il decreto che riduce il prezzo del gasolio di 4,9 centesimi al litro grazie all'extragettito Iva.",
+      "image": "https://hd2.tudocdn.net/1329988?w=660",
+      "publishedAt": "2026-10-28T17:30:03+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Dite addio a Pokémon Unite: chiuderà nel 2027, è ufficiale",
+      "link": "https://www.hdblog.it/nintendo/articoli/n675204/pokemon-unite-addio-end-service-data-quando-2027/",
+      "excerpt": "Ecco esattamente quando e cosa cambierà in questi ultimi mesi.",
+      "image": "https://hd2.tudocdn.net/985292?w=660",
+      "publishedAt": "2026-10-28T17:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "L'US Air Force studia un nuovo motore a detonazione rotante",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n675114/usa-motore-detonazione-rotante-missili/",
+      "excerpt": "Gli USA sviluppano un motore a detonazione rotante per i missili ad alta velocità del futuro.",
+      "image": "https://hd2.tudocdn.net/1381044?w=660",
+      "publishedAt": "2026-10-28T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Amazon rinnova gli Echo e alza l'asticella delle funzioni. Ma anche quella dei prezzi",
+      "link": "https://images.dday.it/IJGr0jCN90r-s9n4lR4V9l-zxdxgHmBR-WX-ToPkL-0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59254/225414_Screenshot_2026-10-28_alle_16.10.23.png",
+      "excerpt": "Amazon porta in Italia quattro nuovi Echo, con più funzioni per la casa intelligente e prezzi che salgono fino a 260 euro. La novità più curiosa è Echo Time, una sveglia…",
+      "image": "https://images.dday.it/IJGr0jCN90r-s9n4lR4V9l-zxdxgHmBR-WX-ToPkL-0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59254/225414_Screenshot_2026-10-28_alle_16.10.23.png",
+      "publishedAt": "2026-10-28T15:15:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Questo è lo spazioplano segreto della Cina",
@@ -32,42 +212,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Steam invasa dai giochi spazzatura creati con l'IA, ma a Valve non frega nulla",
-      "link": "https://www.tomshw.it/videogioco/steam-invasa-dai-giochi-spazzatura-creati-con-lia-ma-a-valve-non-frega-nulla",
-      "excerpt": "Valve ha affrontato pubblicamente il tema dei giochi di bassa qualità che affollano Steam durante lo Steam Indie Connect, un evento tenuto martedì in Corea del Sud con una…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120805/steam-invasa-dai-giochi-spazzatura-creati-con-lia-ma-a-valve-k7fjvfb.webp",
-      "publishedAt": "2026-10-28T14:10:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "La rete si guasta? Oracle trova un'altra strada per l'AI",
-      "link": "https://www.tomshw.it/hardware/oracle-acceleron-aggira-i-guasti-di-rete-cosi-lai-non-si-ferma",
-      "excerpt": "Oracle ha presentato all'evento AI World di Las Vegas nuove funzionalità di Oracle Acceleron, la piattaforma di networking per Oracle Cloud Infrastructure (OCI). Gli aggiornamenti…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120792/oracle-acceleron-aggira-i-guasti-di-rete-cosi-l-ai-non-si-ferma.png",
-      "publishedAt": "2026-10-28T14:10:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "G-STAR 2026 arriva su Steam, ma Devolver prepara una sorpresa",
-      "link": "https://www.tomshw.it/videogioco/steam-portera-gli-indie-di-g-star-2026-online-li-scoprirai-da-casa",
-      "excerpt": "Il comitato organizzatore di G-STAR 2026 ha annunciato i partecipanti e il programma collegato a Steam di Indie Showcase 2.0: Galaxy. L'iniziativa coinvolgerà complessivamente 114…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120789/steam-portera-gli-indie-di-g-star-2026-online-li-scoprirai-da-casa.png",
-      "publishedAt": "2026-10-28T14:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "12 errori di prompt che rovinano un'immagine AI di prodotto, e come evitarli",
-      "link": "https://www.tomshw.it/aioperator/12-errori-di-prompt-che-rovinano-unimmagine-ai-di-prodotto-e-come-evitarli",
-      "excerpt": "Un'immagine di prodotto generata con l'AI viene scartata quasi sempre per gli stessi motivi, e di rado dipende dallo strumento. Chi prepara foto per catalogo, schede e-commerce o…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/119072/03-b132-cover.jpg",
-      "publishedAt": "2026-10-28T14:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "ChatGPT ora legge la posta e il calendario di iCloud, ma serve una password specifica per l’app",
       "link": "https://www.dday.it/news/8/chatgpt-ora-legge-la-posta-e-il-calendario-di-icloud-ma-serve-una-password-specifica-per-l-app",
       "excerpt": "OpenAI ha portato in ChatGPT i plugin per iCloud Mail e Calendario. Una volta collegati, si può chiedere al chatbot di trovare un’e-mail, recuperare la posta arretrata,…",
@@ -75,87 +219,6 @@
       "publishedAt": "2026-10-28T13:52:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "9.600 GPU NVIDIA A100 finiscono su eBay: a chi servono ancora?",
-      "link": "https://www.tomshw.it/hardware/9600-gpu-nvidia-a100-finiscono-su-ebay-a-chi-servono-ancora",
-      "excerpt": "Core 4 Solutions ha messo in vendita su eBay un cluster dismesso composto da 300 rack, con 9.600 NVIDIA A100 e una richiesta di 59,7 milioni di dollari. L'inserzione porta sul…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120788/9-600-gpu-nvidia-a100-finiscono-su-ebay-a-chi-servono-ancora.png",
-      "publishedAt": "2026-10-28T13:50:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Huawei vende oltre 10 milioni di FreeClip: ecco perché piacciono",
-      "link": "https://www.tomshw.it/smartphone/huawei-vende-oltre-10-milioni-di-freeclip-ecco-perche-piacciono",
-      "excerpt": "Huawei ha annunciato che la famiglia di auricolari FreeClip ha superato i 10 milioni di unità vendute. A comunicare il risultato è stato He Gang, CEO della divisione Consumer…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120787/huawei-vende-oltre-10-milioni-di-freeclip-ecco-perche-piacciono.png",
-      "publishedAt": "2026-10-28T13:40:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Le NAND scendono di prezzo, ma l'IA rischia di rovinare la festa",
-      "link": "https://www.tomshw.it/hardware/i-prezzi-spot-delle-nand-scendono-ssd-meno-cari-in-arrivo",
-      "excerpt": "TrendForce rileva una discesa dei prezzi delle NAND Flash sul mercato spot: i tagli promozionali degli smartphone hanno accentuato le vendite al ribasso da parte degli operatori,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120785/i-prezzi-spot-delle-nand-scendono-ssd-meno-cari-in-arrivo.png",
-      "publishedAt": "2026-10-28T13:30:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "110 robot umanoidi danzano in sincronia: è record mondiale | Video",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n675181/110-robot-umanoidi-danza-record-guinness-cina/",
-      "excerpt": "In Cina 110 robot umanoidi danzano in perfetta sincronia e conquistano un Guinness World Records.",
-      "image": "https://hd2.tudocdn.net/1381165?w=660",
-      "publishedAt": "2026-10-28T13:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il robot NARWAL lava con acqua pulita a 799,99€, il minimo di sempre",
-      "link": "https://www.tomshw.it/altro/il-robot-narwal-lava-con-acqua-pulita-a-79999eur-il-minimo-di-sempre",
-      "excerpt": "Il NARWAL Freo 20 costa 799,99€ su Amazon, con uno sconto del 20% sul listino di 999€. Il suo rullo FlowWash viene risciacquato durante il lavoro, così il pavimento viene lavato…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120791/tomshw-offer-1937100.png",
-      "publishedAt": "2026-10-28T13:19:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Amazon presenta Echo Show 16 e Alexa Photo Frame: nuovi display con Alexa+",
-      "link": "https://www.hdblog.it/tablet/articoli/n675178/amazon-echo-show-16-alexa-photo-frame/",
-      "excerpt": "Amazon ha presentato Echo Show 16, il nuovo smart display con Alexa+",
-      "image": "https://hd2.tudocdn.net/1381171?w=660",
-      "publishedAt": "2026-10-28T13:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Aston Martin Valhalla Spider: 1.079 CV e vento tra i capelli...a 350 km/h!",
-      "link": "https://www.hdmotori.it/aston-martin-valhalla-spider-caratteristiche-prestazioni/",
-      "excerpt": "La nuova Aston Martin Valhalla Spider unisce tecnologia F1 e 1.079 CV. Da 0 a 100 km/h in 2,5 secondi per la convertible più veloce del marchio inglese",
-      "image": "https://hd2.tudocdn.net/1381173?w=660",
-      "publishedAt": "2026-10-28T13:00:09+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Amazon, oggi è raffica di minimi storici: le migliori offerte tech del 28 ottobre",
-      "link": "https://www.hdblog.it/amazon/offerte/n675177/migliori-offerte-tech-amazon-28-ottobre-2026/",
-      "excerpt": "Le migliori offerte tech di oggi 28 ottobre 2026: minimi storici su robot aspirapolvere, cuffie, smart home, notebook e altri prodotti.",
-      "image": "https://hd2.tudocdn.net/1381164?w=660",
-      "publishedAt": "2026-10-28T12:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il guanto di sfida cinese a Rolls-Royce e Classe S: ecco la Yangwang Altior",
-      "link": "https://www.hdmotori.it/byd-yangwang-altior-sfida-rolls-royce-classe-s/",
-      "excerpt": "BYD svela i teaser della Yangwang Altior, ammiraglia da 5,5 metri che sfida Rolls-Royce Ghost e Mercedes Classe S. Debutto a Dubai il 5 novembre",
-      "image": "https://hd2.tudocdn.net/1381157?w=660",
-      "publishedAt": "2026-10-28T12:00:55+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Nespresso Essenza Mini con 100 capsule è in offerta su Amazon: caffè pronto e scorta inclusa",
@@ -167,24 +230,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "iPhone 18 Pro Max è già in sconto: il Black Friday arriva in anticipo",
-      "link": "https://www.hdblog.it/smartphone/offerte/n675175/iphone-18-pro-max-256-gb-offerta-ottobre-2026/",
-      "excerpt": "iPhone 18 Pro Max è in offerta e si conferma un vero best buy per chi è alla ricerca di uno smartphone Apple.",
-      "image": "https://hd2.tudocdn.net/1374262?w=660",
-      "publishedAt": "2026-10-28T11:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Un’alternativa europea alle AI americane e cinesi? La proposta svizzera si chiama Euria",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n674401/unalternativa-europea-alle-ai-americane-e-cinesi-la-proposta-svizzera-si-chiama-euria/",
-      "excerpt": "Infomaniak propone un’AI che non usa i contenuti degli utenti per addestrarsi, gira su infrastrutture proprie e si può provare senza account. Ecco come funziona e dove sono i…",
-      "image": "https://hd2.tudocdn.net/1379567?w=660",
-      "publishedAt": "2026-10-28T11:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "DAZN fa risparmiare 7 euro al mese: lanciata l’offerta sul piano Full mensile e annuale",
       "link": "https://images.dday.it/X29hTcd24MPAyI8EDG9z6tKUSh_0XsEs3kB3KwzU0zg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59253/48d73d_Screenshot_2026-10-28_alle_12.25.27.png",
       "excerpt": "DAZN sconta il piano Full: 29,99 euro al mese con vincolo annuale oppure 39,99 euro senza impegno. Un risparmio di 84 euro all'anno. Intanto, gli ascolti della Serie A continuano…",
@@ -192,33 +237,6 @@
       "publishedAt": "2026-10-28T11:26:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "C'è allerta per la nuova truffa WhatsApp con foto hot a visualizzazione unica",
-      "link": "https://www.hdblog.it/android/articoli/n675148/truffa-whatsapp-foto-visualizzazione-unica/",
-      "excerpt": "L'ennesima truffa su WhatsApp sfrutta le foto a visualizzazione unica per ricattare le vittime.",
-      "image": "https://hd2.tudocdn.net/1381087?w=660",
-      "publishedAt": "2026-10-28T11:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "DAZN offre per pochi giorni la Serie A e tutto lo sport a meno della metà",
-      "link": "https://www.hdblog.it/applicazioni/articoli/n675171/dazn-full-sconto-promozione-come-fare/",
-      "excerpt": "DAZN ripropone il piano Full a 19,99 euro al mese per 12 mesi, invece di 46,99 euro, con un risparmio complessivo di 324 euro. La promozione è riservata ad alcuni utenti senza…",
-      "image": "https://hd2.tudocdn.net/1308982?w=660",
-      "publishedAt": "2026-10-28T11:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Alexa+, sensori per il sonno e l'inedito Time: Amazon rivoluziona gli Echo | Prezzi",
-      "link": "https://www.hdblog.it/amazon/articoli/n675168/amazon-nuovi-echo-italia-funzioni-prezzi/",
-      "excerpt": "Arrivano in Italia quattro nuovi dispositivi Echo, mentre un quinto debutterà successivamente. Tra le novità ci sono una sveglia intelligente, uno speaker con visione artificiale…",
-      "image": "https://hd2.tudocdn.net/1381108?w=660",
-      "publishedAt": "2026-10-28T11:01:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Gemini Notebook ora ascolta per te: registra fino a un’ora e puoi chiedergli tutto quello che è stato detto",
@@ -253,24 +271,6 @@
       "excerpt": "Per SK hynix la crisi delle memorie durerà almeno fino al 2030. I grandi clienti cloud stanno prenotando la produzione con anni di anticipo, mentre PC e smartphone rischiano…",
       "image": "https://images.dday.it/lA6TtNuaISmmCGobh09UA2ljmvj9y_84MnqYvUIJYyo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59249/2322f1_ddr4-dram-memory-modules-red-Depositphotos_672981410_XL.jpg",
       "publishedAt": "2026-10-28T09:33:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Google presenta Genie 4, dai videogiochi inventati sul momento ai robot che imparano in mondi virtuali",
-      "link": "https://images.dday.it/zzxDO5jJ_1N0HEoFAVQwDIKLlwXcgjyHFZ28HT4r04A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59247/d7a884_Screenshot_2026-10-28_alle_09.29.59.png",
-      "excerpt": "Con Genie 4 si possono esplorare mondi creati dall'IA e modificarli mentre si gioca. Ma Google guarda anche alla robotica, con le simulazioni potrebbero diventare una palestra per…",
-      "image": "https://images.dday.it/zzxDO5jJ_1N0HEoFAVQwDIKLlwXcgjyHFZ28HT4r04A/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59247/d7a884_Screenshot_2026-10-28_alle_09.29.59.png",
-      "publishedAt": "2026-10-28T08:30:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Corse al buio dopo il cambio d'ora: gli OpenFit Air 2 di Shokz lasciano le orecchie libere",
-      "link": "https://images.dday.it/F-CLMfpfEsGP__8oOLFx6vQ_NL1HowgD2bYYV1wzlAs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59228/e565c7_small_Shokz_OpenFit_Air_2_BL_Lifestyle_012_copia.jpg",
-      "excerpt": "Auricolari open-ear leggerissimi, da 7,2 grammi, che fanno sentire il mondo intorno a sé mentre si ascolta musica. Utili anche per un’attività all’aperto più sicura... Leggi tutto",
-      "image": "https://images.dday.it/F-CLMfpfEsGP__8oOLFx6vQ_NL1HowgD2bYYV1wzlAs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59228/e565c7_small_Shokz_OpenFit_Air_2_BL_Lifestyle_012_copia.jpg",
-      "publishedAt": "2026-10-28T08:14:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
