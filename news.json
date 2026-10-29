@@ -1,9 +1,198 @@
 {
-  "generatedAt": "2026-10-29T01:27:20.206161+00:00",
+  "generatedAt": "2026-10-29T07:52:56.529603+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Il DNA può ingannarci? La risposta cambia da cellula a cellula",
+      "link": "https://www.tomshw.it/scienze/le-varianti-del-dna-pesano-sulle-malattie-perche-conta-la-cellula",
+      "excerpt": "I ricercatori del progetto TenK10K hanno presentato su Nature tre studi della sua prima fase, dedicati al rapporto tra varianti genetiche, attività dei geni e malattie. I lavori…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120913/le-varianti-del-dna-pesano-sulle-malattie-perche-conta-la-cellula.png",
+      "publishedAt": "2026-10-29T07:50:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Galaxy Tab A11+ da 11 pollici a 213€, più spazio per leggere e guardare serie",
+      "link": "https://www.tomshw.it/smartphone/galaxy-tab-a11-da-11-pollici-a-213eur-piu-spazio-per-leggere-e-guardare-serie",
+      "excerpt": "Galaxy Tab A11+ costa 213€ su Amazon, con uno schermo da 11 pollici da dedicare alla lettura e alle serie. È un formato da considerare se sul telefono passate spesso il tempo a…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120909/tomshw-offer-1957728.png",
+      "publishedAt": "2026-10-29T07:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "L’oceano antartico cambia dopo decenni e non è un buon segno",
+      "link": "https://www.tomshw.it/scienze/il-mare-antartico-e-piu-salato-cambiera-anche-il-nostro-clima",
+      "excerpt": "Un gruppo di ricercatori, di cui fa parte Bishakhdatta Gayen dell’Università di Melbourne, ha documentato un rapido aumento della salinità in uno strato dell’Oceano Australe che…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120912/il-mare-antartico-e-piu-salato-cambiera-anche-il-nostro-clima.png",
+      "publishedAt": "2026-10-29T07:45:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori congelatori: guida pozzetto e verticale (2026)",
+      "link": "https://www.tomshw.it/offerte/migliori-congelatori-guida-pozzetto-e-verticale",
+      "excerpt": "Candy Artico CCHH 145E è la scelta più equilibrata per scorte domestiche di medie dimensioni. Chi cerca un pozzetto capiente che riduca la formazione di ghiaccio può scegliere…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/08/110134/guide-thw-972470.png",
+      "publishedAt": "2026-10-29T07:44:43+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La Terra girava più veloce: quanto durava un giorno nell'antichità?",
+      "link": "https://www.tomshw.it/scienze/la-terra-girava-piu-veloce-quanto-durava-un-giorno-nellantichita",
+      "excerpt": "Un gruppo internazionale guidato da Hisashi Hayakawa dell’Università di Nagoya ha ricostruito un’eclissi osservata in Cina circa 2.700 anni fa, ottenendo vincoli più precisi sulla…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120911/la-terra-girava-piu-veloce-quanto-durava-un-giorno-nell-antichita.png",
+      "publishedAt": "2026-10-29T07:40:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "I farmaci contro il cancro hanno un problema: il DNA può aiutarli",
+      "link": "https://www.tomshw.it/scienze/il-dna-puo-guidare-i-farmaci-ai-tumori-meno-effetti-collaterali",
+      "excerpt": "Un gruppo della Carnegie Mellon University ha sviluppato un sistema per indirizzare piccoli trasportatori biologici verso cellule tumorali, usando sequenze di DNA come etichette…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120910/il-dna-puo-guidare-i-farmaci-ai-tumori-meno-effetti-collaterali.png",
+      "publishedAt": "2026-10-29T07:35:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Prima di nascere tanti neuroni hanno anomalie: che fine fanno?",
+      "link": "https://www.tomshw.it/scienze/il-cervello-elimina-neuroni-mutati-alla-nascita-ci-protegge",
+      "excerpt": "Diane Shao, neurogenetista pediatrica del Boston Children’s Hospital, e i suoi colleghi hanno trovato indizi di una selezione dei neuroni durante lo sviluppo del cervello umano.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120908/il-cervello-elimina-neuroni-mutati-alla-nascita-ci-protegge.png",
+      "publishedAt": "2026-10-29T07:30:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Si chiama iPad mini ma è un piccolo iPad Pro. Anteprima",
+      "link": "https://images.dday.it/rWBjmYVtGRDd0QDHxLH2M7LVRFH-art7RD8XBlugAqo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/59257/dfaa52_P1244117.jpg",
+      "excerpt": "Con il processore A20 Pro e lo schermo OLED nanotexture il piccolo tablet Apple, nonostante il nome “mini”, sembra un iPad Pro a tutti gli effetti. Se non fosse per la mancanza…",
+      "image": "https://images.dday.it/rWBjmYVtGRDd0QDHxLH2M7LVRFH-art7RD8XBlugAqo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/59257/dfaa52_P1244117.jpg",
+      "publishedAt": "2026-10-29T07:28:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Tempeste solari, la chiave per prevederle potrebbe essere nei vecchi dati",
+      "link": "https://www.tomshw.it/scienze/il-campo-magnetico-del-sole-e-mappato-in-3d-tempeste-piu-prevedibili",
+      "excerpt": "Un gruppo del National Solar Observatory, del centro statunitense NSF NCAR e del Southwest Research Institute ha ricostruito in tre dimensioni il campo magnetico della corona…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120907/il-campo-magnetico-del-sole-e-mappato-in-3d-tempeste-piu-prevedibili.png",
+      "publishedAt": "2026-10-29T07:25:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Migliori volanti gaming (2026)",
+      "link": "https://www.tomshw.it/videogioco/miglior-volante-da-gaming",
+      "excerpt": "I migliori volanti per PC dipendono dal budget: Thrustmaster T128 (PlayStation/PC) per iniziare spendendo meno, Logitech G923 per avere tre pedali e MOZA R5 Bundle per un…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/03/86814/migliori-volanti-gaming-copertina.jpg",
+      "publishedAt": "2026-10-29T07:20:52+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Una stella zombie è sopravvissuta: ora emerge un dettaglio inatteso",
+      "link": "https://www.tomshw.it/scienze/una-stella-resta-quasi-ferma-dopo-la-supernova-perche-non-vola-via",
+      "excerpt": "Un gruppo di astronomi che comprende Ilaria Caiazzo, dell’Institute of Science and Technology Austria, ha osservato con il telescopio Gemini North il resto di supernova Pa 30,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/120906/una-stella-resta-quasi-ferma-dopo-la-supernova-perche-non-vola-via.png",
+      "publishedAt": "2026-10-29T07:20:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Microsoft spegne Copilot sulle Smart TV: addio entro il 2026",
+      "link": "https://www.hdblog.it/microsoft/articoli/n675240/microsoft-copilot-addio-smart-tv-2026/",
+      "excerpt": "Microsoft interromperà Copilot sulle Smart TV entro il 2026, dopo le proteste degli utenti.",
+      "image": "https://hd2.tudocdn.net/1381306?w=660",
+      "publishedAt": "2026-10-29T06:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Gemini Live, Google sta ridisegnano l'interfaccia: come sarà",
+      "link": "https://www.hdblog.it/google/articoli/n675230/gemini-live-nuova-interfaccia-animazioni-google/",
+      "excerpt": "Google sta valutando diverse opzioni per l'UI: ecco l'ultima.",
+      "image": "https://hd2.tudocdn.net/1377619?w=660",
+      "publishedAt": "2026-10-29T06:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "NASA X-59, un anno di progressi per il jet supersonico: ora la prova decisiva",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n675231/nasa-x59-jet-supersonico-silenzioso-mach-153/",
+      "excerpt": "NASA X-59 completa 41 voli in un anno, raggiunge Mach 1,53 e prepara i test sul rumore.",
+      "image": "https://hd2.tudocdn.net/1381299?w=660",
+      "publishedAt": "2026-10-29T06:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Pixel Watch, alcuni utenti segnalano problemi di autonomia",
+      "link": "https://www.hdblog.it/indossabili/articoli/n675237/pixel-watch-batteria-consumo-anomalo-autonomia-bug/",
+      "excerpt": "Succede anche a voi?",
+      "image": "https://hd2.tudocdn.net/1364117?w=660",
+      "publishedAt": "2026-10-29T06:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Instagram e intelligenza artificiale: Mosseri teme nuove tensioni",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n675232/instagram-mosseri-rabbia-intelligenza-artificiale/",
+      "excerpt": "Instagram avverte: crescerà la rabbia contro l'AI, tra deepfake, lavoro e contenuti falsi.",
+      "image": "https://hd2.tudocdn.net/1381297?w=660",
+      "publishedAt": "2026-10-29T06:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Apple, ecco perché ha aspettato così tanto per portare il touch sui MacBook Pro",
+      "link": "https://www.hdblog.it/portatili/articoli/n675245/apple-perche-touchscreen-macbook-pro/",
+      "excerpt": "Apple ci ha messo molti anni per portare il touchscreen sui MacBook Pro",
+      "image": "https://hd2.tudocdn.net/1381301?w=660",
+      "publishedAt": "2026-10-29T06:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Meta lancia Waddle World: il Tamagotchi con AI che ti ascolta",
+      "link": "https://www.hdblog.it/android/articoli/n675233/meta-waddle-world-tamagotchi-ai/",
+      "excerpt": "Meta presenta Waddle World, un animale virtuale con AI che ascolta e racconta le tue giornate.",
+      "image": "https://hd2.tudocdn.net/1381293?w=660",
+      "publishedAt": "2026-10-29T06:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google Chrome diventa più intelligente: Gemini cerca i dati in Gmail",
+      "link": "https://www.hdblog.it/google/articoli/n675239/chrome-gemini-compilazione-automatica-gmail/",
+      "excerpt": "Chrome usa Gemini per trovare dati in Gmail e compilare automaticamente i moduli online.",
+      "image": "https://hd2.tudocdn.net/1381288?w=660",
+      "publishedAt": "2026-10-29T06:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "XREAL Aura ufficiali: display Micro-OLED e Android XR| Prezzi",
+      "link": "https://www.hdblog.it/indossabili/articoli/n675234/xreal-aura-occhiali-android-xreal/",
+      "excerpt": "XREAL Aura debutta con Android XR, Gemini, display Micro-OLED a 120 Hz e audio Bose.",
+      "image": "https://hd2.tudocdn.net/1381285?w=660",
+      "publishedAt": "2026-10-29T05:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Roblox accusata di fare scraping di una piattaforma di modelli 3D",
+      "link": "https://www.hdblog.it/games/articoli/n675226/roblox-scraping-modelli-3d-addestramento-ai/",
+      "excerpt": "Il sospetto, molto convincente, è che la società stia addestrando dei modelli AI.",
+      "image": "https://hd2.tudocdn.net/1210063?w=660",
+      "publishedAt": "2026-10-29T05:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
     {
       "title": "Quando la musica si portava in spalla: Philips rilancia i boombox degli anni ’80",
       "link": "https://images.dday.it/gDS2s411WCoBBGwF1IuAdXvUQ-ZBr_ivrhCEIk0pbtE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59176/a9469f_tpv_493059.jpeg",
@@ -32,15 +221,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Trust Yuno a 16,09€, il mouse verticale al minimo di sempre",
-      "link": "https://www.tomshw.it/hardware/trust-yuno-a-1609eur-il-mouse-verticale-al-minimo-di-sempre",
-      "excerpt": "Trust Yuno costa 16,09€ su Amazon, anziché 19,99€, con uno sconto del 20%. La sua impugnatura verticale a 57° con poggiapollice integrato favorisce una posizione più naturale di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120899/tomshw-offer-1937729.png",
-      "publishedAt": "2026-10-28T21:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Abbiamo provato il primo MacBook Pro con schermo OLED e touch screen",
       "link": "https://images.dday.it/eBo2oA1ID8bBLB0JhWWmkHbMsURvtPOqio0sWC_aS7E/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/59256/db5039_P1244111.jpg",
       "excerpt": "Abbiamo provato il nuovo MacBook Pro con schermo OLED e display touch. Lo schermo è senza dubbio l'elemento più wow: l'OLED da 2000 nits con contenuti HDR è un game changer. Il…",
@@ -50,105 +230,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "SwitchBot Curtain 3 apre le tende dall’app, senza cambiare il bastone",
-      "link": "https://www.tomshw.it/altro/switchbot-curtain-3-apre-le-tende-dallapp-senza-cambiare-il-bastone",
-      "excerpt": "SwitchBot Curtain 3 costa 89,99€ su Amazon, con il 10% di sconto sui 99,99€ di listino. Automatizza le tende che hai già, così puoi programmare l’apertura al mattino e gestire la…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120898/tomshw-offer-1937691.png",
-      "publishedAt": "2026-10-28T19:49:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "MacBook Pro OLED touch ufficiale: display PROLED XDR e chip M5",
-      "link": "https://www.hdblog.it/apple/articoli/n675205/apple-macbook-pro-oled-touchscreen-ufficiale/",
-      "excerpt": "Apple presenta MacBook Pro OLED touchscreen con Dynamic Island, chip M5 Pro e Max e macOS 27.",
-      "image": "https://hd2.tudocdn.net/1381238?w=660",
-      "publishedAt": "2026-10-28T19:32:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Alexa+, sensori per il sonno e l'inedito Time: così Amazon rivoluziona gli Echo | Prezzi",
-      "link": "https://www.hdblog.it/amazon/articoli/n675168/amazon-nuovi-echo-italia-funzioni-prezzi/",
-      "excerpt": "Arrivano in Italia quattro nuovi dispositivi Echo, mentre un quinto debutterà successivamente. Tra le novità ci sono una sveglia intelligente, uno speaker con visione artificiale…",
-      "image": "https://hd2.tudocdn.net/1381108?w=660",
-      "publishedAt": "2026-10-28T19:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Netflix : le novità in arrivo a novembre 2026",
-      "link": "https://www.hdblog.it/curiosita/articoli/n675157/netflix--le-novita-in-arrivo-a-novembre-2026/",
-      "excerpt": "Ecco le novità di novembre 2026 in arrivo su Netflix",
-      "image": "https://hd2.tudocdn.net/1381163?w=660",
-      "publishedAt": "2026-10-28T19:30:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "TP-Link Archer NX500 porta il 5G in Wi-Fi a casa e in ufficio, a 259,99€",
-      "link": "https://www.tomshw.it/hardware/tp-link-archer-nx500-porta-il-5g-in-wi-fi-a-casa-e-in-ufficio-a-25999eur",
-      "excerpt": "TP-Link Archer NX500 costa 259,99€ su Amazon e permette di condividere una connessione 5G tra i dispositivi di casa o dell’ufficio. Inserisci la SIM e hai un router Wi-Fi 6 al…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120893/tomshw-offer-1937661.png",
-      "publishedAt": "2026-10-28T19:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Da GTA 6 a GTA-AI nel mondo reale: assalti ai data center, oltre 100 milioni di danno",
-      "link": "https://www.tomshw.it/business/da-gta-6-a-gta-ai-nel-mondo-reale-assalti-ai-data-center-oltre-100-milioni-di-danno",
-      "excerpt": "Dal giugno scorso bande organizzate hanno rubato più di 100 milioni di dollari di attrezzature per data center, secondo un'inchiesta di NBC News, e il metodo mette insieme un…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120886/01-gta-ai-furti-data-center.jpg",
-      "publishedAt": "2026-10-28T19:08:55+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Perché la copia file si ferma al 99% e come risolvere",
-      "link": "https://www.tomshw.it/hardware/copia-file-ferma-99-percento-windows-11-disco-usb",
-      "excerpt": "Se la copia dei file da Windows 11 a un disco USB sembra bloccata al 99%, controlla prima se il trasferimento sta ancora lavorando: la percentuale, da sola, non dimostra un…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120455/cover.png",
-      "publishedAt": "2026-10-28T19:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Ora sappiamo il prezzo del Mac Studio con 512GB di RAM, ovviamente è fuori di testa",
-      "link": "https://www.tomshw.it/hardware/ora-sappiamo-il-prezzo-del-mac-studio-con-512gb-di-ram-ovviamente-e-fuori-di-testa",
-      "excerpt": "Apple ha svelato il prezzo della configurazione più costosa mai proposta su un Mac desktop: il Mac Studio con 512 GB di memoria unificata è ordinabile sullo store online…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120891/ora-sappiamo-il-prezzo-del-mac-studio-con-512gb-di-ram-ovvia-4glpfxe.webp",
-      "publishedAt": "2026-10-28T18:56:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "HyperX Cloud III a 75,62€, mai costate così poco per giocare su PC e console",
-      "link": "https://www.tomshw.it/hardware/hyperx-cloud-iii-a-7562eur-mai-costate-cosi-poco-per-giocare-su-pc-e-console",
-      "excerpt": "Le HyperX Cloud III bianche a 75,62€ su Amazon raggiungono il minimo storico, con il 24% di sconto sui 99,99€ di listino. Sono cuffie cablate pensate per accompagnare le sessioni…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120890/tomshw-offer-1937641.png",
-      "publishedAt": "2026-10-28T18:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il nuovo perimetro di difesa? La finestra temporale dei difensori",
-      "link": "https://www.tomshw.it/business/il-nuovo-perimetro-di-difesa-la-finestra-temporale-dei-difensori",
-      "excerpt": "La scorsa settimana sono emerse due vulnerabilità critiche in PHP, il linguaggio alla base di gran parte del web. Gli aggressori stavano testando gli exploit prima ancora che…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120874/01-php-finestra-temporale-difensori.jpg",
-      "publishedAt": "2026-10-28T18:44:05+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Con il termostato SwitchBot programmi il caldo dall’app a 33,99€",
-      "link": "https://www.tomshw.it/altro/con-il-termostato-switchbot-programmi-il-caldo-dallapp-a-3399eur",
-      "excerpt": "Il termostato SwitchBot a 33,99€ su Amazon permette di programmare il riscaldamento stanza per stanza, con il 15% di sconto rispetto ai 39,99€ di listino. Puoi impostare gli orari…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120888/tomshw-offer-1937617.png",
-      "publishedAt": "2026-10-28T18:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
       "title": "Apple presenta il primo MacBook Pro OLED, touch e con Dynamic Island: si parte da 3.399 euro. Tagli da 14” e 16”",
       "link": "https://images.dday.it/PiURvfUcvQLc4PxEYQ_ozIo0aA3pNkxA1UrWMEORVJE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59255/eb1211_Screenshot_2026-10-28_alle_19.10.15.png",
       "excerpt": "Apple si rimangia 16 anni di no al touchscreen e lo presenta insieme al suo primo schermo OLED per un MacBook. C’è anche la Dynamic Island ed è più leggero e sottile. I processori…",
@@ -156,78 +237,6 @@
       "publishedAt": "2026-10-28T18:05:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Huawei Pura 90 Plus ufficiale: ecco tutte le specifiche e i prezzi",
-      "link": "https://www.hdblog.it/smartphone/articoli/n675221/huawei-pura-90-plus-specifiche-prezzi-immagini/",
-      "excerpt": "Ottime fotocamere, buona autonomia... naturalmente niente servizi Google.",
-      "image": "https://hd2.tudocdn.net/1381251?w=660",
-      "publishedAt": "2026-10-28T18:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Moto Guzzi The Trip 500: 48 CV, 180 kg e il cuore dell'Aprilia 457",
-      "link": "https://www.hdmotori.it/moto-guzzi-the-trip-500-caratteristiche-motore-aprilia/",
-      "excerpt": "Mandello svela la nuova Moto Guzzi The Trip 500: roadster da 48 CV con motore bicilindrico Aprilia 457, ricca dotazione elettronica e debutto fissato a EICMA 2026.",
-      "image": "https://hd2.tudocdn.net/1381253?w=660",
-      "publishedAt": "2026-10-28T18:00:39+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Quando esce World of Warcraft: Forever? Data e cosa sappiamo",
-      "link": "https://www.tomshw.it/videogioco/quando-esce-world-of-warcraft-forever-data-e-cosa-sappiamo",
-      "excerpt": "In Italia World of Warcraft: Forever esce il 5 novembre 2026 alle 00:00 CET, nella notte tra mercoledì 4 e giovedì 5 novembre. La data è ufficiale e riguarda anche il pubblico…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120452/quando-esce-world-of-warcraft-forever-data-e-cosa-sappiamo.png",
-      "publishedAt": "2026-10-28T18:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Lavatrici AI, 4 modi in cui i prodotti Samsung semplificano il bucato",
-      "link": "https://www.hdblog.it/samsung/articoli/n675180/lavatrici-ai-samsung-semplificano-bucato/",
-      "excerpt": "Il lavaggio è più semplice, personalizzato ed efficiente",
-      "image": "https://hd2.tudocdn.net/1309388?w=660",
-      "publishedAt": "2026-10-28T17:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Crisi delle memorie, non ce ne libereremo presto: prezzi in aumento fino al 2030?",
-      "link": "https://www.hdblog.it/hardware/articoli/n675216/crisi-memorie-prezzi-aumento-2030-apple-sk-hynix/",
-      "excerpt": "Le previsioni di SK Hynix, uno dei colossi del settore, non sono certo rosee.",
-      "image": "https://hd2.tudocdn.net/1375645?w=660",
-      "publishedAt": "2026-10-28T17:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Gasolio, scattano le accise mobili: taglio di 4,9 centesimi fino al 7 novembre",
-      "link": "https://www.hdmotori.it/gasolio-accise-mobili-7-novembre/",
-      "excerpt": "Pubblicato in Gazzetta Ufficiale il decreto che riduce il prezzo del gasolio di 4,9 centesimi al litro grazie all'extragettito Iva.",
-      "image": "https://hd2.tudocdn.net/1329988?w=660",
-      "publishedAt": "2026-10-28T17:30:03+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Dite addio a Pokémon Unite: chiuderà nel 2027, è ufficiale",
-      "link": "https://www.hdblog.it/nintendo/articoli/n675204/pokemon-unite-addio-end-service-data-quando-2027/",
-      "excerpt": "Ecco esattamente quando e cosa cambierà in questi ultimi mesi.",
-      "image": "https://hd2.tudocdn.net/985292?w=660",
-      "publishedAt": "2026-10-28T17:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "L'US Air Force studia un nuovo motore a detonazione rotante",
-      "link": "https://www.hdblog.it/tecnologia/articoli/n675114/usa-motore-detonazione-rotante-missili/",
-      "excerpt": "Gli USA sviluppano un motore a detonazione rotante per i missili ad alta velocità del futuro.",
-      "image": "https://hd2.tudocdn.net/1381044?w=660",
-      "publishedAt": "2026-10-28T17:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Amazon rinnova gli Echo e alza l'asticella delle funzioni. Ma anche quella dei prezzi",
@@ -262,15 +271,6 @@
       "excerpt": "Scopri la Nespresso Essenza Mini di De’Longhi, ora in offerta speciale con 100 capsule incluse. Un'opportunità perfetta per gli amanti del caffè italiano... Leggi tutto",
       "image": "https://images.dday.it/arnmT6cBVsTVbqr-iUY2FzDPxKOKhDPRnqb0LIiiNDE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59251/5082be_61t4a9SXnpL._AC_SL1500_.jpg",
       "publishedAt": "2026-10-28T11:48:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "DAZN fa risparmiare 7 euro al mese: lanciata l’offerta sul piano Full mensile e annuale",
-      "link": "https://images.dday.it/X29hTcd24MPAyI8EDG9z6tKUSh_0XsEs3kB3KwzU0zg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59253/48d73d_Screenshot_2026-10-28_alle_12.25.27.png",
-      "excerpt": "DAZN sconta il piano Full: 29,99 euro al mese con vincolo annuale oppure 39,99 euro senza impegno. Un risparmio di 84 euro all'anno. Intanto, gli ascolti della Serie A continuano…",
-      "image": "https://images.dday.it/X29hTcd24MPAyI8EDG9z6tKUSh_0XsEs3kB3KwzU0zg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59253/48d73d_Screenshot_2026-10-28_alle_12.25.27.png",
-      "publishedAt": "2026-10-28T11:26:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
