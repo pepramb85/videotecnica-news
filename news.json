@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T22:44:11.805663+00:00",
+  "generatedAt": "2026-11-04T04:13:59.056013+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
@@ -95,15 +95,6 @@
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Apple Watch, watchOS 27.3 Beta introduce due nuove feature Audio Intelligence",
-      "link": "https://www.hdblog.it/indossabili/articoli/n675846/apple-watchos-27-3-audio-intelligence/",
-      "excerpt": "Iniziano i test.",
-      "image": "https://hd2.tudocdn.net/1370280?w=660",
-      "publishedAt": "2026-11-03T18:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "macOS e iOS, Apple rilascia le prime Beta della versione 27.3",
       "link": "https://www.hdblog.it/smartphone/articoli/n675843/macos-ios-ipados-27-3-novita-beta-sviluppatori/",
       "excerpt": "I test non si fermano mai!",
@@ -190,6 +181,15 @@
       "excerpt": "Un'indagine di Wired ha portato alla luce oltre 400 app con logiche di funzionamento da vero e proprio malware.",
       "image": "https://hd2.tudocdn.net/1317671?w=660",
       "publishedAt": "2026-11-03T16:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Italjet a EICMA 2026: Roadster 400 a 7.995 euro e tutte le novità Dragster",
+      "link": "https://www.hdmotori.it/italjet-eicma-2026-novita/",
+      "excerpt": "Italjet presenta a EICMA 2026 il Roadster 400 di serie, con motore da 42 CV e prezzo di 7.995 euro. Novità anche per Dragster, accessori GIVI e Moto2",
+      "image": "https://hd2.tudocdn.net/1382577?w=660",
+      "publishedAt": "2026-11-03T16:00:10+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
