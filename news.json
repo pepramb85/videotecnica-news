@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-11-04T20:37:16.328401+00:00",
+  "generatedAt": "2026-11-05T01:55:16.275671+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Dyson Supersonic Nural, asciugatura senza calore estremo a soli 249€",
+      "link": "https://www.tomshw.it/altro/dyson-supersonic-nural-asciugatura-senza-calore-estremo-a-soli-249eur",
+      "excerpt": "Dyson Supersonic Nural costa 249€ su Amazon, con il 29% di sconto sui 349€ di listino. È il minimo storico per questo asciugacapelli, che punta su un getto d’aria controllato per…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/122105/tomshw-offer-2065765.png",
+      "publishedAt": "2026-11-04T21:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "Claude abbatte il time to first token, ma non i costi delle conversazioni",
       "link": "https://www.tomshw.it/business/claude-abbatte-il-time-to-first-token-ma-non-i-costi-delle-conversazioni",
@@ -50,6 +59,24 @@
       "sourceColor": "#9B2D2D"
     },
     {
+      "title": "Elegoo Centauri Carbon 2 Combo in prova: stampante CoreXY con sistema CANVAS",
+      "link": "https://www.hdblog.it/hardware/recensioni/n675052/elegoo-centauri-carbon-2-combo-recensione-prova/",
+      "excerpt": "La stampante con sistema multi filamento dal miglior rapporto qualità prezzo. Ecco caratteristiche e prestazioni della ELEGOO Centauri Carbon 2 Combo.",
+      "image": "https://hd2.tudocdn.net/1382160?w=660",
+      "publishedAt": "2026-11-04T19:01:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Come ottenere un computer rigenerato gratis: le iniziative in Italia",
+      "link": "https://www.hdblog.it/hardware/articoli/n675891/pc-gratis-come-avere-esempi-iniziative-italia/",
+      "excerpt": "Le iniziative di Comuni e associazioni.",
+      "image": "https://hd2.tudocdn.net/1382751?w=660",
+      "publishedAt": "2026-11-04T19:00:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
       "title": "Windows 11: come risolvere il microfono che non funziona",
       "link": "https://www.tomshw.it/hardware/microfono-portatile-muto-windows-11-permessi-driver",
       "excerpt": "Se il microfono del portatile non funziona durante una videochiamata in Windows 11, controlla prima il silenziamento e seleziona il microfono integrato, poi prova a registrare la…",
@@ -82,15 +109,6 @@
       "excerpt": "Il 29 ottobre una versione manomessa dell'estensione Claude Code, la 2.1.313, è rimasta per circa undici ore nel marketplace di Cursor e potrebbe aver raggiunto fino a 5.000…",
       "image": "https://cdn.tomshw.it/storage/media/2026/11/121965/18-cursor-claude-code-estensione-manomessa.jpg",
       "publishedAt": "2026-11-04T18:42:42+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Persino Apple avverte che gli agenti AI possono agire di nascosto",
-      "link": "https://www.tomshw.it/business/persino-apple-avverte-che-gli-agenti-ai-possono-agire-di-nascosto",
-      "excerpt": "Apple ha inserito tra i rischi per il proprio business gli agenti AI che agiscono da soli: possono accedere a sistemi per cui non hanno autorizzazione, eseguire o modificare…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/121971/05-apple-avvertimento-agenti-ai.jpg",
-      "publishedAt": "2026-11-04T18:30:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -163,24 +181,6 @@
       "excerpt": "Uno studente costruisce Reaper, un drone a reazione da 790 km/h che pesa appena 5 kg.",
       "image": "https://hd2.tudocdn.net/1382781?w=660",
       "publishedAt": "2026-11-04T16:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Sony brevetta un sistema per ridurre i dati nel cloud gaming",
-      "link": "https://www.hdblog.it/sony/articoli/n675944/sony-cloud-gaming-ai-ricostruzione-immagini/",
-      "excerpt": "Sony studia un sistema AI che elimina e ricostruisce parti delle immagini nei giochi in streaming.",
-      "image": "https://hd2.tudocdn.net/1382766?w=660",
-      "publishedAt": "2026-11-04T16:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il Terminale Linux arriva finalmente anche su dispositivi con chip Snapdragon",
-      "link": "https://www.hdblog.it/smartphone/articoli/n675955/android-terminale-linux-chip-qualcomm-snapdragon/",
-      "excerpt": "C'è una prima conferma, anche se non ci sono annunci ufficiali: il RedMagic 12 Pro presentato proprio in questi giorni.",
-      "image": "https://hd2.tudocdn.net/1382469?w=660",
-      "publishedAt": "2026-11-04T16:35:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
