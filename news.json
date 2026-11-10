@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-11-09T20:18:56.673655+00:00",
+  "generatedAt": "2026-11-10T03:54:29.267690+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
+    {
+      "title": "Apple Watch Ultra 3 dura fino a 42 ore e a 699€ è al minimo di sempre",
+      "link": "https://www.tomshw.it/smartphone/apple-watch-ultra-3-dura-fino-a-42-ore-e-a-699eur-e-al-minimo-di-sempre",
+      "excerpt": "A 699€ su Amazon, Apple Watch Ultra 3 raggiunge il minimo di sempre, con il 14% di sconto sui 809€ di listino. L’autonomia fino a 42 ore nell’uso normale permette di organizzare…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/122957/tomshw-offer-2140822.png",
+      "publishedAt": "2026-11-09T21:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
     {
       "title": "Claude rilascia Fable 5.2 e Mythos 5.2: fino al 30% più veloci",
       "link": "https://www.tomshw.it/business/claude-fable-52-e-mythos-52-fino-al-30-piu-veloci",
@@ -39,6 +48,15 @@
       "publishedAt": "2026-11-09T19:18:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Come sfruttare al massimo un computer da gaming con l'AI on-device | Video",
+      "link": "https://www.hdblog.it/portatili/speciali/n675931/computer-gaming-ai-on-device-strata-video/",
+      "excerpt": "Abbiamo provato a dare una seconda vita ai computer da gaming con scheda video dedicata. Un notebook da gaming che pensavate di buttare può diventare un mini datacenter per…",
+      "image": "https://hd2.tudocdn.net/1382777?w=660",
+      "publishedAt": "2026-11-09T19:00:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
     },
     {
       "title": "Verso un contesto da 10 milioni di token, a che punto è la ricerca scientifica",
@@ -82,15 +100,6 @@
       "excerpt": "OpenAI ha chiuso 11 miliardi di dollari di nuovi finanziamenti, la prima parte di un round (una raccolta di capitale presso gli investitori) che la valuta 1.250 miliardi. Il…",
       "image": "https://cdn.tomshw.it/storage/media/2026/11/122768/11-openai-valutazione-rating-startup.jpg",
       "publishedAt": "2026-11-09T18:30:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Anker SOLIX S2000 a 985,94€ tiene accesi PC e router anche senza corrente",
-      "link": "https://www.tomshw.it/altro/anker-solix-s2000-a-98594eur-tiene-accesi-pc-e-router-anche-senza-corrente",
-      "excerpt": "Anker SOLIX S2000 costa 985,94€ su Amazon e offre una riserva da 2.010 Wh per alimentare la postazione di lavoro anche quando manca la corrente. La funzione UPS con commutazione…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/122952/tomshw-offer-2140711.png",
-      "publishedAt": "2026-11-09T18:18:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
@@ -176,15 +185,6 @@
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Melania Trump, la serie arriva su Prime Video il 20 novembre",
-      "link": "https://www.hdblog.it/amazon/articoli/n676367/melania-the-series-prime-video-trailer-data/",
-      "excerpt": "Melania Trump torna su Prime Video il 20 novembre con una docuserie in due episodi.",
-      "image": "https://hd2.tudocdn.net/1383687?w=660",
-      "publishedAt": "2026-11-09T16:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Renault entra nel mercato militare con un veicolo autonomo modulare",
       "link": "https://images.dday.it/uz4NuIwUA4eqfwLJcZ_lDUWyeIoYVgmeLDEL_LLm_UU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59393/305d01_Renault-Group-x-John-Cockerill-FOREFRONT-CONCEPT.jpg",
       "excerpt": "Renault ha svelato Forefront, un veicolo militare elettrico autonomo progettato per operare in contesti ad alto rischio... Leggi tutto",
@@ -239,7 +239,7 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "IA locale su un laptop da 1 Kg con 16 GB di RAM. Ecco può fare Lenovo Yoga Slim 7x con Snapdragon X2 Plus",
+      "title": "IA locale su un laptop da 1 Kg con 16 GB di RAM. Ecco cosa può fare Lenovo Yoga Slim 7x con Snapdragon X2 Plus",
       "link": "https://images.dday.it/2cK_I9DQZhCayUftNsmm7gXpC0uBcYF9yhxIjtyAqtU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59360/8fb833_cover9_7.jpg",
       "excerpt": "Abbiamo provato il Lenovo Yoga Slim 7x con Snapdragon X2 Plus, ma invece dei soliti benchmark abbiamo creato quattro applicazioni IA offline per scoprire cosa può fare davvero la…",
       "image": "https://images.dday.it/2cK_I9DQZhCayUftNsmm7gXpC0uBcYF9yhxIjtyAqtU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59360/8fb833_cover9_7.jpg",
@@ -248,19 +248,19 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Nvidia, il caso Jensen Huang: dal tradimento coniugale ai sospetti di spionaggio cinese",
-      "link": "https://images.dday.it/cvByQVdd_WSYAt9RHRWkr6sTUuprPgtgui_PsvpsS94/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59384/c8c7b6_small_Montaggio_cinematografico_tra_tecnologia_e_geopolitica_copia.png",
-      "excerpt": "Secondo l'intelligence americana, una dirigente cinese vicina a Jensen Huang avrebbe raccolto informazioni per Pechino. Nvidia apre un'indagine indipendente, mentre il suo…",
-      "image": "https://images.dday.it/cvByQVdd_WSYAt9RHRWkr6sTUuprPgtgui_PsvpsS94/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59384/c8c7b6_small_Montaggio_cinematografico_tra_tecnologia_e_geopolitica_copia.png",
+      "title": "In prova il giradischi completo di diffusori da 250 euro: come suona Philips The Stevie Pro?",
+      "link": "https://images.dday.it/FihrZn6YaTGXAtpzqlylCZxZ4rm8x146mEAjmM0MHlg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59303/857d96_giradisk.jpg",
+      "excerpt": "In poco più dello spazio di un normale giradischi, lo Stevie Pro contiene anche i diffusori e il bluetooth per iniziare semplicemente l’avventura con il vinile, il prezzo è molto…",
+      "image": "https://images.dday.it/FihrZn6YaTGXAtpzqlylCZxZ4rm8x146mEAjmM0MHlg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59303/857d96_giradisk.jpg",
       "publishedAt": "2026-11-09T09:07:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     },
     {
-      "title": "In prova il giradischi completo di diffusori da 250 euro: come suona Philips The Stevie Pro?",
-      "link": "https://images.dday.it/FihrZn6YaTGXAtpzqlylCZxZ4rm8x146mEAjmM0MHlg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59303/857d96_giradisk.jpg",
-      "excerpt": "In poco più dello spazio di un normale giradischi, lo Stevie Pro contiene anche i diffusori e il bluetooth per iniziare semplicemente l’avventura con il vinile, il prezzo è molto…",
-      "image": "https://images.dday.it/FihrZn6YaTGXAtpzqlylCZxZ4rm8x146mEAjmM0MHlg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59303/857d96_giradisk.jpg",
+      "title": "Nvidia, il caso Jensen Huang: dal tradimento coniugale ai sospetti di spionaggio cinese",
+      "link": "https://images.dday.it/cvByQVdd_WSYAt9RHRWkr6sTUuprPgtgui_PsvpsS94/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59384/c8c7b6_small_Montaggio_cinematografico_tra_tecnologia_e_geopolitica_copia.png",
+      "excerpt": "Secondo l'intelligence americana, una dirigente cinese vicina a Jensen Huang avrebbe raccolto informazioni per Pechino. Nvidia apre un'indagine indipendente, mentre il suo…",
+      "image": "https://images.dday.it/cvByQVdd_WSYAt9RHRWkr6sTUuprPgtgui_PsvpsS94/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59384/c8c7b6_small_Montaggio_cinematografico_tra_tecnologia_e_geopolitica_copia.png",
       "publishedAt": "2026-11-09T09:07:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
