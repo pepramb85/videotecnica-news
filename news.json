@@ -1,80 +1,242 @@
 {
-  "generatedAt": "2026-11-12T14:23:27.909428+00:00",
+  "generatedAt": "2026-11-12T21:58:48.181716+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "AMD Venice-X riporta la 3D V-Cache nei server: ecco a chi serve",
-      "link": "https://www.tomshw.it/hardware/amd-venice-x-riporta-la-3d-v-cache-nei-server-ecco-a-chi-serve",
-      "excerpt": "AMD Venice-X riporta la cache impilata nei processori EPYC per data center e la abbina a un boost fino a 5,3 GHz, il massimo della famiglia Venice. L'obiettivo sono i carichi di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/123635/amd-venice-x-riporta-la-3d-v-cache-nei-server-ecco-a-chi-serve.png",
-      "publishedAt": "2026-11-12T14:20:00+00:00",
+      "title": "ASUS V16 a 1.449€, mai costato così poco: si gioca con la RTX 5060",
+      "link": "https://www.tomshw.it/hardware/asus-v16-a-1449eur-mai-costato-cosi-poco-si-gioca-con-la-rtx-5060",
+      "excerpt": "A 1.449€ su Amazon, ASUS V16 raggiunge il minimo storico con uno sconto del 24% sui 1.899€ di listino. La GeForce RTX 5060 e il processore Intel Core 7 240H lo rendono…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/123685/tomshw-offer-2205666.png",
+      "publishedAt": "2026-11-12T21:18:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Tapo D210 ti fa rispondere alla porta da lontano per 69,99€",
-      "link": "https://www.tomshw.it/altro/tapo-d210-ti-fa-rispondere-alla-porta-da-lontano-per-6999eur",
-      "excerpt": "Tapo D210 costa 69,99€ su Amazon e permette di vedere chi suona alla porta e parlarci anche a distanza. Il videocitofono Wi-Fi a batteria combina riprese 2K e audio bidirezionale,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/123644/tomshw-offer-2205112.png",
-      "publishedAt": "2026-11-12T14:18:00+00:00",
+      "title": "Con Xiaomi Electric Scooter 5 Pro viaggi più comodo, a 549,90€ su Amazon",
+      "link": "https://www.tomshw.it/automotive/con-xiaomi-electric-scooter-5-pro-viaggi-piu-comodo-a-54990eur-su-amazon",
+      "excerpt": "Xiaomi Electric Scooter 5 Pro a 549,90€ su Amazon porta le sospensioni su entrambe le ruote nei tragitti quotidiani tra casa, ufficio e stazione. Le molle anteriori e posteriori…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/123683/tomshw-offer-2205629.png",
+      "publishedAt": "2026-11-12T19:48:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Gli hacker creano il firmware Vacuula per i robot aspirapolvere Neato senza più supporto",
-      "link": "https://www.tomshw.it/hardware/gli-hacker-creano-il-firmware-vacuula-per-i-robot-aspirapolvere-neato-senza-piu-supporto",
-      "excerpt": "I robot aspirapolvere Neato rimasti orfani dei servizi cloud possono tornare a essere comandati da remoto grazie al lavoro di un gruppo di sviluppatori indipendenti. La firmware…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/123646/gli-hacker-creano-il-firmware-vacuula-per-i-robot-aspirapolv-q4xrtoy.webp",
-      "publishedAt": "2026-11-12T14:14:00+00:00",
+      "title": "Black Friday, i negozi italiani sbagliano una cosa fondamentale",
+      "link": "https://www.tomshw.it/business/black-friday-i-negozi-italiani-sbagliano-una-cosa-fondamentale",
+      "excerpt": "A due settimane dal Black Friday, che quest'anno cade il 27 novembre, i negozi online italiani sembrano più impegnati a cercare clienti che a preparare il momento in cui il…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/123591/02-paypal-black-friday-checkout.jpg",
+      "publishedAt": "2026-11-12T19:27:46+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Il mercato crolla ma l'iPhone Duo vola, aumentate le aspettative di vendita",
-      "link": "https://www.tomshw.it/smartphone/il-mercato-crolla-ma-liphone-duo-vola-aumentate-le-aspettative-di-vendita",
-      "excerpt": "Il mercato globale degli smartphone arretra sotto il peso di un contesto economico difficile, ma il primo pieghevole di Apple si muove nella direzione opposta. Bloomberg…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/10/120880/windtre-iphone-duo-rata-light.png",
-      "publishedAt": "2026-11-12T14:14:00+00:00",
+      "title": "La piastra ghd Original fa anche onde e ricci e scende a 132,97€",
+      "link": "https://www.tomshw.it/altro/la-piastra-ghd-original-fa-anche-onde-e-ricci-e-scende-a-13297eur",
+      "excerpt": "La piastra ghd Original costa 132,97€ su Amazon, per chi vuole alternare capelli lisci, onde e ricci usando un solo strumento nella propria routine quotidiana. Il fusto…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/123682/tomshw-offer-2205604.png",
+      "publishedAt": "2026-11-12T19:18:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "GTA fuori dall'America? Il capo di Rockstar aumenta la speranza",
-      "link": "https://www.tomshw.it/videogioco/gta-fuori-dallamerica-il-capo-di-rockstar-aumenta-la-speranza",
-      "excerpt": "La serie di Grand Theft Auto ha costruito la propria identità su un immaginario rigorosamente statunitense, fatto di periferie assolate, grattacieli, corruzione e criminalità…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/110126/GTA-6-(1).jpg",
-      "publishedAt": "2026-11-12T14:13:00+00:00",
+      "title": "Il tuo portatile ripete le lettere? Prova questi test",
+      "link": "https://www.tomshw.it/hardware/tastiera-portatile-ripete-lettere-filtri-driver-test-usb",
+      "excerpt": "Se la tastiera del portatile ripete le lettere dopo un tocco breve, parti da due prove gratuite: scrivi in Blocco note e in un'altra applicazione, poi confronta tocchi rapidi e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/123034/cover.png",
+      "publishedAt": "2026-11-12T19:00:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "AMD Siren Halo potrebbe avere un asso nella manica per il gaming",
-      "link": "https://www.tomshw.it/hardware/amd-siren-halo-potrebbe-usare-gddr7-giochi-piu-fluidi",
-      "excerpt": "AMD Siren Halo potrebbe adottare memoria GDDR7, portando nella famiglia di processori con grafica integrata una tecnologia utilizzata per alimentare GPU ad alte prestazioni.…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/123633/amd-siren-halo-potrebbe-usare-gddr7-giochi-piu-fluidi.png",
-      "publishedAt": "2026-11-12T14:10:00+00:00",
+      "title": "Roborock Q7 L5+ si svuota da solo e costa 169,99€, il minimo di sempre",
+      "link": "https://www.tomshw.it/altro/roborock-q7-l5-si-svuota-da-solo-e-costa-16999eur-il-minimo-di-sempre",
+      "excerpt": "A 169,99€ su Amazon, Roborock Q7 L5+ raggiunge il minimo di sempre con il 35% di sconto sul listino di 259,99€. La stazione raccoglie automaticamente la polvere, così non devi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/123680/tomshw-offer-2205589.png",
+      "publishedAt": "2026-11-12T18:48:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Jenseng Huang dimesso ufficialmente, ecco chi sarà al comando di NVIDIA",
-      "link": "https://www.tomshw.it/hardware/jenseng-huang-si-dimette-ufficialmente-ecco-chi-sara-al-comando-di-nvidia",
-      "excerpt": "Jensen Huang ha lasciato la carica di amministratore delegato di NVIDIA, l'azienda che aveva cofondato 33 anni fa e trasformato nel motore dell'attuale boom dell'intelligenza…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/115106/jensen-huang-suggerisce-di-fermare-i-laboratori-se-gli-esper-lrbybam.webp",
-      "publishedAt": "2026-11-12T14:05:00+00:00",
+      "title": "Satispay porta in app investimenti in oro, materie prime e criptovalute",
+      "link": "https://www.tomshw.it/business/satispay-porta-in-app-investimenti-in-oro-materie-prime-e-criptovalute",
+      "excerpt": "Satispay amplia la sezione Investimenti dell’app e aggiunge due nuove famiglie di prodotti dedicate a materie prime e criptovalute. L’offerta comprende oltre 100 ETP negoziati sui…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/123587/satispay-investimenti-materie-prime-criptovalute-etp.jpg",
+      "publishedAt": "2026-11-12T18:47:09+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "YouTube senza video spazzatura (e poca pubblicità), puoi fartelo da solo in 2 ore",
-      "link": "https://www.tomshw.it/business/youtube-senza-video-spazzatura-e-poca-pubblicita-puoi-fartelo-da-solo-in-2-ore",
-      "excerpt": "Una sera di fine ottobre Andrej Karpathy, ricercatore di intelligenza artificiale fra i fondatori di OpenAI, ex direttore dell'AI di Tesla e autore di un canale di lezioni sull'AI…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/123533/01-hackertube-karpathy-youtube.jpg",
-      "publishedAt": "2026-11-12T14:02:47+00:00",
+      "title": "Termostato Wi-Fi Honeywell T6, casa calda al rientro per 145,18€",
+      "link": "https://www.tomshw.it/altro/termostato-wi-fi-honeywell-t6-casa-calda-al-rientro-per-14518eur",
+      "excerpt": "Il termostato Honeywell Home T6 costa 145,18€ su Amazon, con il 21% di sconto sui 182,90€ di listino. Il geofencing usa la posizione dello smartphone per adattare il riscaldamento…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/123679/tomshw-offer-2205569.png",
+      "publishedAt": "2026-11-12T18:18:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Trump propone Tim Cook come nuovo leader di NVIDIA",
+      "link": "https://www.hdblog.it/apple/articoli/n676883/tim-cook-guida-nvidia-jensen-huang-donald-trump/",
+      "excerpt": "Il presidente USA dice la sua su chi potrebbe raccogliere le redini di NVIDIA",
+      "image": "https://hd2.tudocdn.net/1384912?w=660",
+      "publishedAt": "2026-11-12T18:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Quando esce Eternal Anima? Data e cosa sappiamo",
+      "link": "https://www.tomshw.it/videogioco/quando-esce-eternal-anima-data-e-cosa-sappiamo",
+      "excerpt": "Eternal Anima ha una data d’uscita ufficiale: il 4 marzo 2027. Il nuovo gioco di ruolo di Marvelous è annunciato per Nintendo Switch 2, PlayStation 5, Xbox Series X|S e PC tramite…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/122998/cover.jpg",
+      "publishedAt": "2026-11-12T18:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Oppo Find X10 Ultra non si farà, ma i suoi componenti arriveranno comunque",
+      "link": "https://www.hdblog.it/smartphone/articoli/n676876/oppo-find-x10-ultra-cancellato-componenti-riciclo/",
+      "excerpt": "La società non vuole sprecare i componenti di altissimo livello che è riuscita a mettere a punto.",
+      "image": "https://hd2.tudocdn.net/1379593?w=660",
+      "publishedAt": "2026-11-12T17:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Microsoft down: problemi a Outlook, 365, Copilot, Xbox e tanti altri servizi",
+      "link": "https://www.hdblog.it/microsoft/articoli/n676880/microsoft-down-disservizi-cosa-succede-outlook/",
+      "excerpt": "Le segnalazioni stanno impennando per più o meno tutti i servizi del colosso di Redmond, ma ci sono picchi anche per aziende esterne, come Google / Gmail e Steam.",
+      "image": "https://hd2.tudocdn.net/1267866?w=660",
+      "publishedAt": "2026-11-12T17:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nuova BMW i3 50 xDrive: la Neue Klasse si confronta con la storia - Video",
+      "link": "https://www.hdmotori.it/prove/nuova-bmw-i3-50-xdrive-la-neue-klasse-si-confronta-con-la-storia-video/",
+      "excerpt": "Messa alla prova la nuova BMW i3, ci siamo trovati a pieno titolo all'interno del mondo della Neue Klasse. Tecnologia ai vertici della gamma",
+      "image": "https://hd2.tudocdn.net/1384906?w=660",
+      "publishedAt": "2026-11-12T17:30:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "iPhone Duo, il 30% degli utenti lo restituisce (per questi motivi)",
+      "link": "https://www.hdblog.it/smartphone/articoli/n676836/iphone-duo-il-30-degli-utenti-lo-restituisce/",
+      "excerpt": "E anche chi sceglie di tenerlo lo usa spesso come secondo telefono",
+      "image": "https://hd2.tudocdn.net/1384879?w=660",
+      "publishedAt": "2026-11-12T17:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Internet senza linea fissa con FRITZ!Box 6850 5G, ora a 339€",
+      "link": "https://www.tomshw.it/hardware/internet-senza-linea-fissa-con-fritzbox-6850-5g-ora-a-339eur",
+      "excerpt": "FRITZ!Box 6850 5G costa 339€ su Amazon, con uno sconto del 15% sul listino di 400,35€. Il modem mobile integrato permette di collegare casa tramite rete cellulare e di usare anche…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/123678/tomshw-offer-2205513.png",
+      "publishedAt": "2026-11-12T17:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Grok Build, oltre 35.000 app accessibili senza login: esposti anche documenti interni di SpaceXSI",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n676794/grok-build-app-esposte-dati-spacexsi/",
+      "excerpt": "Grok Build ha lasciato accessibili senza login oltre 35.000 app, comprese 24 di SpaceXSI e X.",
+      "image": "https://hd2.tudocdn.net/1384700?w=660",
+      "publishedAt": "2026-11-12T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Arrivano a Malta e si ritrovano davanti un tripudio di Subaru vintage [VIDEO]",
+      "link": "https://www.hdmotori.it/subaru-abbandonate-modelli-storici/",
+      "excerpt": "Può apparire un concessionario abbandonato, ma probabilmente è una collezione privata che fa da capsula del tempo per gli appassionati Subaru",
+      "image": "https://hd2.tudocdn.net/1384896?w=660",
+      "publishedAt": "2026-11-12T17:00:21+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "139,99 euro per una lavapavimenti: difficile trovare di meglio a questo prezzo. Ecco l'offerta",
+      "link": "https://images.dday.it/dlAJ11U-D0vs8SucCVQdg5BFm2ZAKdvOuCVU-hCbIrw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59440/299729_81Uy+iVOlNL._AC_SL1500_.jpg",
+      "excerpt": "Tineco Floor One S5 aspira e lava in un unico dispositivo, con rullo autopulente, display e funzionamento senza fili. Ora si trova in offerta per il Black Friday a soli 139,99…",
+      "image": "https://images.dday.it/dlAJ11U-D0vs8SucCVQdg5BFm2ZAKdvOuCVU-hCbIrw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59440/299729_81Uy+iVOlNL._AC_SL1500_.jpg",
+      "publishedAt": "2026-11-12T17:00:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Android, 11 anni senza riavviarsi: l'incredibile storia di un telefono",
+      "link": "https://www.hdblog.it/smartphone/articoli/n676784/smartphone-android-acceso-11-anni/",
+      "excerpt": "Un vecchio Android avrebbe funzionato per 11 anni e 5 mesi senza riavviarsi. Ecco a cosa serviva.",
+      "image": "https://hd2.tudocdn.net/1384689?w=660",
+      "publishedAt": "2026-11-12T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Meta, Santosh Janardhan lascia: arriva un veterano di Amazon",
+      "link": "https://www.hdblog.it/mercato/articoli/n676778/meta-santosh-janardhan-lascia-dave-brown/",
+      "excerpt": "Santosh Janardhan lascerà Meta nel 2027. Dave Brown, ex Amazon, guiderà le infrastrutture.",
+      "image": "https://hd2.tudocdn.net/1384666?w=660",
+      "publishedAt": "2026-11-12T16:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Il malware per Mac fa sempre più affidamento sull'inganno degli utenti",
+      "link": "https://www.hdblog.it/apple/articoli/n676870/malware-mac-report-bitdefender-clickfix/",
+      "excerpt": "In altre parole: ClickFix è sempre più diffuso.",
+      "image": "https://hd2.tudocdn.net/1383414?w=660",
+      "publishedAt": "2026-11-12T16:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Gemini sale a bordo delle auto con Apple CarPlay",
+      "link": "https://images.dday.it/AXzXGtZ0sAM9B6GdeXPiSizz5p_ROKo_-A1Zs0S98Fo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59434/259c23_small_Screenshot_2026-11-12_alle_14.33.36_copia.png",
+      "excerpt": "Dopo Android Auto, Google porta l’intelligenza artificiale a bordo di milioni di veicoli grazie all’integrazione su Apple CarPlay... Leggi tutto",
+      "image": "https://images.dday.it/AXzXGtZ0sAM9B6GdeXPiSizz5p_ROKo_-A1Zs0S98Fo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59434/259c23_small_Screenshot_2026-11-12_alle_14.33.36_copia.png",
+      "publishedAt": "2026-11-12T16:02:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Chi è Colette Kress, che sostituirà Jensen Huang come CEO di Nvidia",
+      "link": "https://images.dday.it/QDDS5rJ-NI7S7jBgQHvrS65MR5McLz82IyROv-Nq6Po/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59439/8d4c2f_colettekrees.jpg",
+      "excerpt": "Kress assumerà la guida della società ad interim, dopo che Huang si è dimesso a seguito dello scandalo recente che lo ha coinvolto... Leggi tutto",
+      "image": "https://images.dday.it/QDDS5rJ-NI7S7jBgQHvrS65MR5McLz82IyROv-Nq6Po/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59439/8d4c2f_colettekrees.jpg",
+      "publishedAt": "2026-11-12T15:40:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Xbox, il gioco in cloud gratis ma con pubblicità è disponibile per tutti. Ma i titoli compatibili sono ancora pochi",
+      "link": "https://images.dday.it/3nCINZnkhjt-5p7lRO9WWJY1LODilmJiC6pOKprGhsg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59438/7aaa40_xbox_thumb.jpg",
+      "excerpt": "Dopo aver guardato alcuni annunci consecutivi, ci sono trenta minuti di gioco gratuito. Vale solo per i giochi che l'utente ha già acquistato... Leggi tutto",
+      "image": "https://images.dday.it/3nCINZnkhjt-5p7lRO9WWJY1LODilmJiC6pOKprGhsg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59438/7aaa40_xbox_thumb.jpg",
+      "publishedAt": "2026-11-12T14:56:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Jensen Huang travolto dagli scandali: lascia Nvidia con effetto immediato",
+      "link": "https://images.dday.it/kJ4WeeJibYsh-v0xa8UjyHucZf7FNqsU0n2xeD-h-1M/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59437/2ce105_small_NVIDIA_sotto_pressioneivaletti_copia.png",
+      "excerpt": "Jensen Huang lascia Nvidia dopo 33 anni alla guida. Sullo sfondo due relazioni extraconiugali e le indagini su una dirigente legata alla Cina. Colette Kress assume il comando...…",
+      "image": "https://images.dday.it/kJ4WeeJibYsh-v0xa8UjyHucZf7FNqsU0n2xeD-h-1M/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59437/2ce105_small_NVIDIA_sotto_pressioneivaletti_copia.png",
+      "publishedAt": "2026-11-12T14:35:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "La ricerca: l’IA non toglie la creatività alla Gen Z, ma fa risparmiare tempo",
+      "link": "https://images.dday.it/mZTkJ24KP0R8lSSeqr60TxQOQUhQWe8SyGcFRsI8mSg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59436/81e80a_Lenovo_Generation-Creation-Report_Casa-Lago-121126-_11_.jpg",
+      "excerpt": "Presentati oggi a Milano i risultati del Lenovo Generation Creation Report, che affronta il rapporto tra le nuove generazioni e l’utilizzo dell’IA.... Leggi tutto",
+      "image": "https://images.dday.it/mZTkJ24KP0R8lSSeqr60TxQOQUhQWe8SyGcFRsI8mSg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59436/81e80a_Lenovo_Generation-Creation-Report_Casa-Lago-121126-_11_.jpg",
+      "publishedAt": "2026-11-12T14:27:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Quasi 400 euro di sconto sul nuovo LG OLED evo C6 da 65 pollici: basta un coupon",
@@ -86,87 +248,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Il prossimo PC inizia da qui: scheda madre AM5 a soli 82€, in attesa di RAM e SSD più economici",
-      "link": "https://www.tomshw.it/hardware/prezzo-bomba-scheda-madre-soyo-b850itx-amd-45-2026-11-12",
-      "excerpt": "Su AliExpress è disponibile la Scheda Madre SOYO B850ITX AMD, pensata per i processori Ryzen AM5 con supporto DDR5, PCIe 5.0x16, M.2 e connettività WIFI6. Grazie a un coupon di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/123640/prezzo-bomba-scheda-madre-soyo-b850itx-amd-45-2026-11-12-1hA9Zusg51mdghs7202xS1XVy.jpg",
-      "publishedAt": "2026-11-12T14:01:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "SpaceX lancia un'altra missione militare: a bordo satelliti spia?",
-      "link": "https://www.tomshw.it/scienze/spacex-lancia-unaltra-missione-militare-a-bordo-satelliti-spia",
-      "excerpt": "SpaceX ha effettuato un nuovo lancio per la forza spaziale statunitense dalla base di Vandenberg, in California. La missione si chiama USSF-627 ed è partita a bordo di un Falcon…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/123632/spacex-lancia-un-altra-missione-militare-a-bordo-satelliti-spia.png",
-      "publishedAt": "2026-11-12T14:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Jensen Huang si dimette da Nvidia: Colette Kress è la nuova CEO ad interim",
-      "link": "https://www.hdblog.it/nvidia/articoli/n676841/jensen-huang-dimette-nvidia-colette-kress/",
-      "excerpt": "A comunicare le dimissioni del fondatore è stata la stessa azienda,",
-      "image": "https://hd2.tudocdn.net/1372369?w=660",
-      "publishedAt": "2026-11-12T13:03:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Questione di sfumature: anche Google Contatti ha la sua nuova icona",
-      "link": "https://www.hdblog.it/google/articoli/n676826/google-contatti-icona-gradiente-aggiornamento/",
-      "excerpt": "Con l'ultimo aggiornamento arriva una nuova icona: cosa cambia.",
-      "image": "https://hd2.tudocdn.net/1384790?w=660",
-      "publishedAt": "2026-11-12T13:01:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "L’auto diesel da 111 km con 1 litro è in vendita: il prezzo è da record",
-      "link": "https://www.hdmotori.it/volkswagen-xl1-diesel-111-km-1-litro-vendita-record/",
-      "excerpt": "Pur non avendo avuto il successo atteso, Volkswagen XL1 è tra i progetti con la più alta efficienza al mondo",
-      "image": "https://hd2.tudocdn.net/1384802?w=660",
-      "publishedAt": "2026-11-12T13:00:33+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Vodafone down in Italia, problemi alla rete mobile e fissa: segnalazioni in aumento",
-      "link": "https://www.hdblog.it/mobile/articoli/n676838/vodafone-down-problemi-rete-mobile-fissa/",
-      "excerpt": "Le segnalazioni degli utenti sono aumentate rapidamente nelle ultime ore",
-      "image": "https://hd2.tudocdn.net/1334413?w=660",
-      "publishedAt": "2026-11-12T12:51:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "TV Samsung 75\" a 499€, Pixel 11 a 629€ e AirPods 5: le migliori offerte di oggi",
-      "link": "https://www.hdblog.it/amazon/offerte/n676814/migliori-offerte-tech-12-novembre-2026-/",
-      "excerpt": "Samsung 75\" a 499€, Pixel 11 a 629€ con coupon, Fitbit Versa 4 a 119€ e AirPods 5 a 134€: una selezione delle migliori offerte tech di oggi.",
-      "image": "https://hd2.tudocdn.net/1384755?w=660",
-      "publishedAt": "2026-11-12T12:50:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "MediaWorld passa sotto il controllo di JD.com: completata l'acquisizione",
-      "link": "https://www.hdblog.it/business/articoli/n676833/mediaworld-passa-sotto-controllo-jdcom/",
-      "excerpt": "Ad aver rilevato il 59,8% di Ceconomy, società tedesca proprietaria anche di MediaMarkt e Saturn",
-      "image": "https://hd2.tudocdn.net/1384794?w=660",
-      "publishedAt": "2026-11-12T12:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Unieuro, il Celebrity Black Friday continua: TV Mini LED a 399€ e Dreame a 569€",
-      "link": "https://www.hdblog.it/unieuro/offerte/n676701/unieuro-celebrity-black-friday-continua-offerte/",
-      "excerpt": "Nuove offerte Celebrity Black Friday da Unieuro su Dreame, Haier, Lenovo, OPPO e Samsung. Fino al 12 novembre anche il 22% sui prodotti ammessi con UE Club.",
-      "image": "https://hd2.tudocdn.net/1384788?w=660",
-      "publishedAt": "2026-11-12T12:30:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "La stampante 3D Anycubic Kobra X con stampa a 4 colori è in offerta su Amazon: è il momento di provarla",
       "link": "https://images.dday.it/ygkkKNxiut9ZQFWfxYwrMB7jORVsga7NNl2AN0dG-VI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59433/59259a_71s0j0sc1NL._AC_SL1500_.jpg",
       "excerpt": "Stampare oggetti multicolore senza complicazioni è possibile: la Kobra X combina fino a quattro colori nella stessa stampa. Ora su Amazon c'è un'occasione per acquistarla a prezzo…",
@@ -174,15 +255,6 @@
       "publishedAt": "2026-11-12T12:13:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Ring, doppio schianto della Drone Cam durante una demo con CBS",
-      "link": "https://www.hdblog.it/droni/articoli/n676830/ring-drone-cam-schianto-dimostrazione-tv/",
-      "excerpt": "Si trattava di un prototipo interno, e si è schiantato in una modalità operativa che non è prevista nelle unità retail.",
-      "image": "https://hd2.tudocdn.net/1384784?w=660",
-      "publishedAt": "2026-11-12T12:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Il filtro Bayer nei sensori d’immagine ha i giorni contati? Holocoder promette di sostituirlo, ma potrebbe avere dei limiti",
@@ -194,83 +266,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Rotatorie, cambia la precedenza con il nuovo Codice della Strada: cosa sapere",
-      "link": "https://www.hdmotori.it/rotatorie-novita-codice-della-strada/",
-      "excerpt": "Tra le novità del nuovo Codice della Strada vi è quella sulle rotatorie. Scopriamo come funzionerà la precedenza",
-      "image": "https://hd2.tudocdn.net/1384786?w=660",
-      "publishedAt": "2026-11-12T12:00:43+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Recensione Samsung OLED S99H: un TV OLED stupefacente sotto ogni punto di vista",
       "link": "https://images.dday.it/e5veb2GQlz6BzFhddQoabuOIgdVcc0QlZS9-25BVyFo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59403/924fa7_PB110653.jpg",
       "excerpt": "Il nuovo top di gamma OLED di Samsung combina l’ultima generazione della tecnologia QD-OLED con un design fuori dagli schemi. Un televisore che conquista per la sua spettacolare…",
       "image": "https://images.dday.it/e5veb2GQlz6BzFhddQoabuOIgdVcc0QlZS9-25BVyFo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59403/924fa7_PB110653.jpg",
       "publishedAt": "2026-11-12T11:46:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Vivo Headphones Studio, le prime over ear del marchio arrivano in Italia | PREZZO",
-      "link": "https://www.hdblog.it/indossabili/articoli/n676827/vivo-headphones-studio-disponibilita-italia-prezzo/",
-      "excerpt": "Le cuffie Vivo Headphones Studio supportano la connessione simultanea a tre dispositivi, l'audio spaziale Cinematic Spatial Audio e un equalizzatore a 10 bande. La rilevazione…",
-      "image": "https://hd2.tudocdn.net/1384774?w=660",
-      "publishedAt": "2026-11-12T11:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Dolce Gusto Mini Me 2 a soli 59.99 euro su Amazon, ma l'offerta scade il 15 novembre",
-      "link": "https://images.dday.it/tCj2WQSh-3O2hDbmRVCi30r8jNR0oqFDui0__Kzv2a4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59429/a1649d_71s0j0sc1NL._AC_SL1500_.jpg",
-      "excerpt": "Compatta e semplice da usare, la Mini Me 2 di Krups permette di preparare diverse bevande con le capsule Dolce Gusto. Ora si può acquistare a prezzo scontato su Amazon, ma…",
-      "image": "https://images.dday.it/tCj2WQSh-3O2hDbmRVCi30r8jNR0oqFDui0__Kzv2a4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59429/a1649d_71s0j0sc1NL._AC_SL1500_.jpg",
-      "publishedAt": "2026-11-12T11:34:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "GrapheneOS è quasi pronto per Pixel 11. Prima toccherà al Motorola Signature 27",
-      "link": "https://images.dday.it/YeAA2HLBw5nUK-8qfPFuggl-rVDHPYxooaLKGW7AHEs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59428/35b137_pixel11.jpeg",
-      "excerpt": "Il supporto alla protezione della memoria MTE in Android 17 QPR2 ha sbloccato il lavoro sui Pixel 11. Il team di GrapheneOS dice che il porting è quasi completo... Leggi tutto",
-      "image": "https://images.dday.it/YeAA2HLBw5nUK-8qfPFuggl-rVDHPYxooaLKGW7AHEs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59428/35b137_pixel11.jpeg",
-      "publishedAt": "2026-11-12T11:01:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Euclid rilascia il primo grande lotto di dati: oltre un miliardo di oggetti per la più grande mappa 3D dell’Universo",
-      "link": "https://images.dday.it/eEi5wu8zgV3BMrez2iYX27qHHW7-myDBBf0J69OO0vA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59418/42cc96_Euclid_looking_into_the_Universe_-_media--9a2dd926--query.0d65c134.jpg",
-      "excerpt": "Il telescopio spaziale ha esaminato solo il 14% del cielo e ha già trovato 900 milioni di galassie, circa 15000 candidate lenti gravitazionali forti e più di 60 milioni di…",
-      "image": "https://images.dday.it/eEi5wu8zgV3BMrez2iYX27qHHW7-myDBBf0J69OO0vA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59418/42cc96_Euclid_looking_into_the_Universe_-_media--9a2dd926--query.0d65c134.jpg",
-      "publishedAt": "2026-11-12T11:00:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Auto diesel Euro 5: rinviato lo stop alla circolazione nella Pianura Padana",
-      "link": "https://images.dday.it/SjtNOGvSMsC6h1cVKH8Iyq4uYsGzFhEwUQcAELCwtUU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59426/50a9d3_diesel_thumb.jpg",
-      "excerpt": "Lo stop alla circolazione dei veicoli diesel Euro 5 in Lombardia, Piemonte, Emilia Romagna e Veneto è stato rinviato al 1° ottobre 2027.... Leggi tutto",
-      "image": "https://images.dday.it/SjtNOGvSMsC6h1cVKH8Iyq4uYsGzFhEwUQcAELCwtUU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59426/50a9d3_diesel_thumb.jpg",
-      "publishedAt": "2026-11-12T10:13:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Terremoto Nvidia: un'altra relazione segreta di Jensen Huang, il board starebbe preparando la successione",
-      "link": "https://images.dday.it/oUjWmjM0oc6SMVMZoQRw2vMsNk4ZVsCWVZ_Udx69m-s/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59427/9b37e6_indonesia-april-2024-logo-nvidia-Depositphotos_716321542_XL.jpg",
-      "excerpt": "Huang avrebbe avuto una storia anche con una dirigente sua sottoposta. Il consiglio starebbe cercando un sostituto, ma l’azienda non ha un piano di successione... Leggi tutto",
-      "image": "https://images.dday.it/oUjWmjM0oc6SMVMZoQRw2vMsNk4ZVsCWVZ_Udx69m-s/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59427/9b37e6_indonesia-april-2024-logo-nvidia-Depositphotos_716321542_XL.jpg",
-      "publishedAt": "2026-11-12T08:53:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il Commodore 64 torna in versione mini: The C64 Mini Black è in offerta a prezzo speciale",
-      "link": "https://images.dday.it/agIiCWeYGhiKZ_r5bckAObdRXb-Cwzq00ZZme_l9hc8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59409/6d7963_ape1.jpg",
-      "excerpt": "Riproduce il design dello storico computer degli anni '80 ma in formato compatto, con joystick e 25 giochi inclusi. The C64 Mini Black è in offerta a tempo su Amazon... Leggi tutto",
-      "image": "https://images.dday.it/agIiCWeYGhiKZ_r5bckAObdRXb-Cwzq00ZZme_l9hc8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59409/6d7963_ape1.jpg",
-      "publishedAt": "2026-11-12T08:00:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
