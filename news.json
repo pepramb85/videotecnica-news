@@ -1,26 +1,242 @@
 {
-  "generatedAt": "2026-11-13T11:45:55.014846+00:00",
+  "generatedAt": "2026-11-13T19:00:19.358307+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Nissan Leaf, 622 km di autonomia? Dipende da quale scegliete",
-      "link": "https://www.tomshw.it/automotive/nissan-leaf-diventa-crossover-fino-a-622-km-con-la-engage-75",
-      "excerpt": "I 622 km di autonomia WLTP della nuova Nissan Leaf riguardano una configurazione precisa: la Engage con batteria da 75 kWh. La terza generazione dell’elettrica ha debuttato sulle…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/123782/thumbnail-720x404.jpg",
-      "publishedAt": "2026-11-13T11:45:00+00:00",
+      "title": "Garmin Edge 550 ti guida su strada e sentieri, ora al minimo di 399€",
+      "link": "https://www.tomshw.it/smartphone/garmin-edge-550-ti-guida-su-strada-e-sentieri-ora-al-minimo-di-399eur",
+      "excerpt": "Garmin Edge 550 costa 399€ su Amazon anziché 449€, con uno sconto dell’11%. Le mappe precaricate per strada, ghiaia e sentieri lo rendono interessante soprattutto per chi vuole…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/123980/tomshw-offer-2217930.png",
+      "publishedAt": "2026-11-13T18:48:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "La luce potrebbe darci un nuovo modo di riconoscere le sostanze",
-      "link": "https://www.tomshw.it/scienze/la-luce-attiva-molecole-nei-cristalli-nuovi-sensori-quantistici",
-      "excerpt": "Ricercatori delle università di Tokyo, Glasgow, Sheffield e Kobe hanno usato la luce per leggere lo stato magnetico degli elettroni in un cristallo poroso. Il risultato apre una…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/123783/la-luce-attiva-molecole-nei-cristalli-nuovi-sensori-quantistici.png",
-      "publishedAt": "2026-11-13T11:40:00+00:00",
+      "title": "Ryobi 3 in 1 a 69,97€, una levigatrice per piani, angoli e ritocchi",
+      "link": "https://www.tomshw.it/altro/ryobi-3-in-1-a-6997eur-una-levigatrice-per-piani-angoli-e-ritocchi",
+      "excerpt": "La levigatrice multifunzione Ryobi costa 69,97€ su Amazon, con uno sconto del 13% sul prezzo di listino di 79,99€. Le tre basi intercambiabili permettono di passare dalle…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/123968/tomshw-offer-2217915.png",
+      "publishedAt": "2026-11-13T18:18:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Quando esce Yu-Gi-Oh! Tag Force GX? Data e cosa sappiamo",
+      "link": "https://www.tomshw.it/videogioco/quando-esce-yu-gi-oh-tag-force-gx-data-e-cosa-sappiamo",
+      "excerpt": "Yu-Gi-Oh! Tag Force GX uscirà il 16 febbraio 2027, anche in Europa. Konami ha già annunciato una data precisa e aperto le prenotazioni: il ritorno all’Accademia del Duellante ha…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/123004/cover.jpg",
+      "publishedAt": "2026-11-13T18:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Honor 700 Series, ecco quando arriva e le specifiche complete",
+      "link": "https://www.hdblog.it/smartphone/articoli/n677016/honor-700s-700-pro-quando-data-specifiche/",
+      "excerpt": "La società ha annunciato ufficialmente la data di lancio.",
+      "image": "https://hd2.tudocdn.net/1383228?w=660",
+      "publishedAt": "2026-11-13T17:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Conto deposito o conto remunerato: cosa cambia e chi paga di più",
+      "link": "https://www.tomshw.it/altro/conto-deposito-o-conto-remunerato-cosa-cambia-e-chi-paga-di-piu",
+      "excerpt": "Il conto deposito remunera le somme accantonate; un “conto remunerato” riconosce interessi sul saldo. Dove finisce il denaro, la promozione, la durata, il capitale remunerato e i…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/122756/fintech-seo-cover-825525-conto-deposito-remunerato.png",
+      "publishedAt": "2026-11-13T17:30:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Frutta intera nell’estrattore Panasonic a 141,55€, meno lavoro in cucina",
+      "link": "https://www.tomshw.it/altro/frutta-intera-nellestrattore-panasonic-a-14155eur-meno-lavoro-in-cucina",
+      "excerpt": "A 141,55€ su Amazon, l’estrattore Panasonic prepara succhi di frutta e verdura e costa il 29% in meno rispetto ai 199€ di listino. L’apertura da 120 mm e le parti lavabili in…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/123950/tomshw-offer-2217867.png",
+      "publishedAt": "2026-11-13T17:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Nuova falla 0-day in Windows 11 permette di ottenere i privilegi più alti in assoluto",
+      "link": "https://www.hdblog.it/microsoft/articoli/n677011/windows-11-26h2-falla-privilegi-system-signdrop/",
+      "excerpt": "La faida tra Nightmare Eclipse e Microsoft continua.",
+      "image": "https://hd2.tudocdn.net/1382530?w=660",
+      "publishedAt": "2026-11-13T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Alleanza Garmin e Waze \"salva\" ciclisti: ora la bici si può vedere prima",
+      "link": "https://www.hdmotori.it/garmin-waze-avvisi-ciclisti-livetrack/",
+      "excerpt": "Grazie all'integrazione con Garmin LiveTrack, Waze segnala la presenza di ciclisti in tempo reale. Limiti, funzioni e il possibile arrivo su Google Maps",
+      "image": "https://hd2.tudocdn.net/1385216?w=660",
+      "publishedAt": "2026-11-13T17:00:13+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Nothing Phone (3) vs Nothing Phone (2): quale scegliere?",
+      "link": "https://www.tomshw.it/smartphone/nothing-phone-3-vs-nothing-phone-2-quale-scegliere",
+      "excerpt": "Nothing Phone (3) aggiunge un teleobiettivo dedicato, una batteria più capiente e un supporto software più lungo: tra 500 e 650 euro pende dalla sua parte il consiglio per chi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/122981/nothing-phone-3-vs-nothing-phone-2-quale-scegliere.png",
+      "publishedAt": "2026-11-13T17:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Check-in online e Alloggiati Web, come usare l'AI per facilitarsi il lavoro",
+      "link": "https://www.tomshw.it/aioperator/check-in-online-e-alloggiati-web-come-usare-lai-per-facilitarsi-il-lavoro",
+      "excerpt": "Alloggiati Web è il portale della Polizia di Stato su cui il gestore di una struttura ricettiva comunica alla Questura le generalità degli ospiti, e l'AI non ha accesso al…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/121497/04-hot1-cover.jpg",
+      "publishedAt": "2026-11-13T17:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Black Friday anticipato, Bose finisce sotto i riflettori: cuffie e auricolari in sconto su Amazon",
+      "link": "https://images.dday.it/UOrwnCuknnLo8x0JzhL6yjwmIfpWKjUBUsl9C6MfypQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59458/ca07aa_61LPUTqAdrL._AC_SL1500_.jpeg",
+      "excerpt": "Tanti prodotti Bose sono in offerta per il Black Friday anticipato Amazon: dalla cancellazione del rumore all'audio spaziale, ecco quali modelli si possono acquistare spendendo…",
+      "image": "https://images.dday.it/UOrwnCuknnLo8x0JzhL6yjwmIfpWKjUBUsl9C6MfypQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59458/ca07aa_61LPUTqAdrL._AC_SL1500_.jpeg",
+      "publishedAt": "2026-11-13T16:56:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Turtle Beach Kone II Air a 99,99€, 21 funzioni per giocare senza fili",
+      "link": "https://www.tomshw.it/hardware/turtle-beach-kone-ii-air-a-9999eur-21-funzioni-per-giocare-senza-fili",
+      "excerpt": "A 99,99€ su Amazon, Turtle Beach Kone II Air mette 21 funzioni personalizzabili a disposizione di chi gioca al PC. La forma ergonomica per mani medio-grandi accompagna una…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/123938/tomshw-offer-2217835.png",
+      "publishedAt": "2026-11-13T16:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "CXMT, piani di espansione super aggressivi: 10 nuove fabbriche di RAM entro il 2028",
+      "link": "https://www.hdblog.it/hardware/articoli/n677007/cxmt-crisi-chip-espansione-10-fabbriche-2-anni/",
+      "excerpt": "La società cinese accelera quanto più possibile.",
+      "image": "https://hd2.tudocdn.net/1323696?w=660",
+      "publishedAt": "2026-11-13T16:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "TCL CSOT presenta le sue ultime tecnologie di display: dal 115” 16K e 3D al primo 1250 Hz. E arrivano i display RGBCYW",
+      "link": "https://images.dday.it/7C7FfgG8wIz5xvbu87ZrkfolVeyHzDh5e5gMaecfZMw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59456/066b0f_DTC_open.jpg",
+      "excerpt": "Si è tenuta a Wuhan la Display Tech-ecosystem Conference 2026 del produttore di display CSOT, in cui ha annunciato alcune nuove tecnologie che debutteranno sui prodotti del…",
+      "image": "https://images.dday.it/7C7FfgG8wIz5xvbu87ZrkfolVeyHzDh5e5gMaecfZMw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59456/066b0f_DTC_open.jpg",
+      "publishedAt": "2026-11-13T16:33:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Recensione Shokz OpenDots 2: auricolari open-ear comodi, leggeri e con un'ottima autonomia",
+      "link": "https://www.tomshw.it/smartphone/recensione-shokz-opendots-2-auricolari-open-ear-comodi-leggeri-e-con-unottima-autonomia",
+      "excerpt": "Gli Shokz OpenDots 2 sono auricolari wireless open-ear che si agganciano all'orecchio attraverso un sistema a clip, senza entrare nel condotto uditivo. Pensati per chi desidera…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/123944/shokz-opendots-2-06.jpg",
+      "publishedAt": "2026-11-13T16:30:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Id Software sta lavorando a un nuovo, nonostante i licenziamenti",
+      "link": "https://www.tomshw.it/videogioco/id-software-sta-lavorando-a-un-nuovo-nonostante-i-licenziamenti",
+      "excerpt": "id Software è già al lavoro sul suo prossimo videogioco, a pochi mesi dai tagli al personale che hanno colpito lo studio texano. La conferma è arrivata nel corso dell'Xbox FanFest…",
+      "image": "https://cdn.tomshw.it/storage/media/2025/03/53492/doom.jpg",
+      "publishedAt": "2026-11-13T16:26:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Android Auto, arriva la versione 18.2",
+      "link": "https://www.hdblog.it/google/articoli/n677005/android-auto-18-2-novita-distribuzione-beta/",
+      "excerpt": "Poche le novità, speriamo siano tanti i bug fix, che ce n'è bisogno.",
+      "image": "https://hd2.tudocdn.net/1233403?w=660",
+      "publishedAt": "2026-11-13T16:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Lancia cambia rotta, la nuova Delta si ferma: spazio a una piccola city car",
+      "link": "https://www.hdmotori.it/lancia-delta-addio-definitivo/",
+      "excerpt": "Lancia ha scelto di rinunciare al progetto della futura Delta e sta considerando il debutto di un'utilitaria compatta",
+      "image": "https://hd2.tudocdn.net/1385194?w=660",
+      "publishedAt": "2026-11-13T16:00:52+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Microsoft, il disservizio è causato da un errore interno, non da un attacco",
+      "link": "https://www.hdblog.it/microsoft/articoli/n677000/microsoft-down-causa-hacker-guasto-bug/",
+      "excerpt": "Sono ormai passate 24 ore e ancora qualcosa di claudicante c'è. Ma è tutto in risoluzione.",
+      "image": "https://hd2.tudocdn.net/748787?w=660",
+      "publishedAt": "2026-11-13T15:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Patenti e dati rubati a migliaia di autisti Uber, la violazione tramite il provider Fireworks AI",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n676993/patenti-dati-rubati-autisti-uber-violazione/",
+      "excerpt": "Il data breach che ha colpito Fireworks AI ha coinvolto anche Uber: rubate informazioni e patenti a migliaia di suoi autisti negli USA.",
+      "image": "https://hd2.tudocdn.net/1385173?w=660",
+      "publishedAt": "2026-11-13T15:35:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Guida assistita Tesla, ok dalla Finlandia: ora è attiva in 11 Paesi UE",
+      "link": "https://www.hdmotori.it/tesla-assisted-driving-approvato-finlandia/",
+      "excerpt": "Via libera dalla Finlandia al Tesla Assisted Driving ex FSD: l'omologazione vale per i veicoli con Hardware 4 in attesa della decisione comunitaria di dicembre",
+      "image": "https://hd2.tudocdn.net/1385187?w=660",
+      "publishedAt": "2026-11-13T15:30:28+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung One UI 9.5: tutte le novità in arrivo, modelli compatibili e quando esce",
+      "link": "https://www.hdblog.it/smartphone/articoli/n676956/one-ui-9-5-samsung-galaxy-novita-attese-quando/",
+      "excerpt": "Cosa sappiamo.",
+      "image": "https://hd2.tudocdn.net/1385182?w=660",
+      "publishedAt": "2026-11-13T15:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Allarmi bomba: ecco da dove arrivano gli indirizzi email delle scuole usati per le minacce",
+      "link": "https://images.dday.it/FbvYov_Uu-8JhplJxTUBHr6kG2mQxxkzjwKqV-tMf4M/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/59455/2ec1f8_Gemini_Generated_Image_vkvsx1vkvsx1vkvs.jpg",
+      "excerpt": "Da giorni sono molti coloro che si chiedono dove abbiano gli indirizzi email delle scuole italiane coloro che hanno confezionato gli allarmi bomba scatenando il panico in Italia.…",
+      "image": "https://images.dday.it/FbvYov_Uu-8JhplJxTUBHr6kG2mQxxkzjwKqV-tMf4M/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/59455/2ec1f8_Gemini_Generated_Image_vkvsx1vkvsx1vkvs.jpg",
+      "publishedAt": "2026-11-13T14:32:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Microsoft 365, segnali di ripresa. Ma un disservizio che supera ormai le 20 ore è inaccettabile",
+      "link": "https://images.dday.it/uhZg_XX96dVQqb7h0KRSr0-2u6MjDPpr3B9WKiSYhYM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59453/599d15_Gemini_Generated_Image_o40agwo40agwo40a.jpeg",
+      "excerpt": "Microsoft non è ancora riuscita a ripristinare completamente i servizi di Microsoft 365, ma dopo una notte difficile arrivano in questi minuti i primi segnali di ripresa: ci sono…",
+      "image": "https://images.dday.it/uhZg_XX96dVQqb7h0KRSr0-2u6MjDPpr3B9WKiSYhYM/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59453/599d15_Gemini_Generated_Image_o40agwo40agwo40a.jpeg",
+      "publishedAt": "2026-11-13T12:23:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Le e-car di Stellantis si faranno a Pomigliano dal 2028. Si allarga l’alleanza con Leapmotor",
+      "link": "https://images.dday.it/i8xJnoTAgg2Kx882Q8uIFKxEdRbwh9mHyXE4tnnmeXs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59449/0a51df_filosa.jpeg",
+      "excerpt": "Antonio Filosa ha annunciato che Leapmotor contribuirà allo sviluppo di soluzioni elettroniche per alcuni impianti europei. A Pomigliano d’Arco è confermata la produzione delle…",
+      "image": "https://images.dday.it/i8xJnoTAgg2Kx882Q8uIFKxEdRbwh9mHyXE4tnnmeXs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59449/0a51df_filosa.jpeg",
+      "publishedAt": "2026-11-13T12:06:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Una dash cam a 39,99 euro per il Black Friday: questa 70mai ha Wi-Fi e visione notturna",
+      "link": "https://images.dday.it/PU12iA4NlXbFnPuwly30nbMx76q453TTw7px97BzmbA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59450/11c399_71VzBIGsbeL._AC_SL1500_.jpeg",
+      "excerpt": "La 70mai M310 Plus registra fino a 1620P, integra la modalità parcheggio e visione notturna. Per il Black Friday scende da 59,99 a 39,99 euro su Amazon... Leggi tutto",
+      "image": "https://images.dday.it/PU12iA4NlXbFnPuwly30nbMx76q453TTw7px97BzmbA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59450/11c399_71VzBIGsbeL._AC_SL1500_.jpeg",
+      "publishedAt": "2026-11-13T12:06:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "Disservizio globale Microsoft 365: tutti gli aggiornamenti",
@@ -30,69 +246,6 @@
       "publishedAt": "2026-11-13T11:35:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Le auto elettriche volano in Europa, ma qualcosa non torna",
-      "link": "https://www.tomshw.it/automotive/elettriche-e-plug-in-europa-36-a-ottobre-cina-giu-del-12",
-      "excerpt": "In Europa le vendite di auto elettriche a batteria crescono del 49% su base annua, mentre le ibride plug-in si fermano al +7%. I dati di ottobre 2026 di Benchmark Mineral…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/123780/news-flash-2217201.png",
-      "publishedAt": "2026-11-13T11:20:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Bose Bass Module 700 a 599,95€, il minimo di sempre per dare corpo ai film",
-      "link": "https://www.tomshw.it/altro/bose-bass-module-700-a-59995eur-il-minimo-di-sempre-per-dare-corpo-ai-film",
-      "excerpt": "Bose Bass Module 700 costa 599,95€ su Amazon, con il 33% di sconto sui 899,95€ di listino e 300€ di risparmio. È il subwoofer wireless da affiancare alla Bose Soundbar 900 per…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/123781/tomshw-offer-2217186.png",
-      "publishedAt": "2026-11-13T11:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori fotocamere mirrorless (2026)",
-      "link": "https://www.tomshw.it/guide/migliori-fotocamere-mirrorless",
-      "excerpt": "Sony Alpha 7 V è la scelta tuttofare per foto e video; Canon EOS R50 è indicata per iniziare. Sony Alpha 7C II copre il full frame compatto, mentre Canon EOS R7 privilegia sport e…",
-      "image": "https://cdn.tomshw.it/storage/media/2023/11/5175/FUJIFILM-Winter-Cashback-copertina.jpg",
-      "publishedAt": "2026-11-13T11:02:59+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Come creare una campagna Black Friday con Brevo, WhatsApp Business e Claude",
-      "link": "https://www.tomshw.it/aioperator/come-creare-una-campagna-black-friday-con-brevo-whatsapp-business-e-claude",
-      "excerpt": "Il Black Friday 2026 cade venerdì 27 novembre, e una campagna con Brevo e WhatsApp parte dal consenso dei contatti prima ancora che dal testo. Restano due settimane dal giorno di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/121491/02-ret1-cover.jpg",
-      "publishedAt": "2026-11-13T11:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori cornici digitali per la famiglia (2026)",
-      "link": "https://www.tomshw.it/altro/migliori-cornici-digitali-per-la-famiglia",
-      "excerpt": "La Rollei Smart Frame WiFi 103 è la scelta principale per ricevere fotografie dai familiari a distanza: offre touchscreen, memoria locale e un produttore identificabile. KODAK…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111984/guide-thw-1076667.png",
-      "publishedAt": "2026-11-13T10:55:30+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Sony DualSense Cosmic Red a 86,95€, il minimo di sempre per giocare su PS5",
-      "link": "https://www.tomshw.it/videogioco/sony-dualsense-cosmic-red-a-8695eur-il-minimo-di-sempre-per-giocare-su-ps5",
-      "excerpt": "Sony DualSense Cosmic Red costa 86,95€ su Amazon, con uno sconto del 7% sui 93€ di listino. La versione rossa del controller wireless per PlayStation 5 è un acquisto da…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/123777/tomshw-offer-2217115.png",
-      "publishedAt": "2026-11-13T10:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Volkswagen taglia i costi, ma a pagare è la fabbrica del futuro",
-      "link": "https://www.tomshw.it/automotive/volkswagen-cancella-il-centro-di-megafusione-a-wolfsburg",
-      "excerpt": "A Wolfsburg non verrà realizzato il centro di megafusione previsto per la produzione delle future elettriche Volkswagen. La decisione rientra nella revisione di Gamechanger: l’11…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/123767/news-flash-2217044.png",
-      "publishedAt": "2026-11-13T10:45:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Ricette dal Bimby e server MCP: grazie all'IA e all'opensource il robot da cucina Lidl ora ha i super poteri",
@@ -113,164 +266,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Samsung Galaxy A18 5G si avvicina: multipli avvistamenti sul Bluetooth SIG",
-      "link": "https://www.hdblog.it/smartphone/articoli/n676964/samsung-galaxy-a18-5g-avvistato-bluetooth/",
-      "excerpt": "Sei varianti certificate dal consorzio.",
-      "image": "https://hd2.tudocdn.net/1379669?w=660",
-      "publishedAt": "2026-11-13T10:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Bloccato il nuovo Codice della Strada: per il Consiglio di Stato il testo è da chiarire",
-      "link": "https://www.hdmotori.it/bloccato-nuovo-codice-strada-consiglio-stato/",
-      "excerpt": "Un pronunciamento di quarantasette pagine blocca la riforma del CdS: mancano i pareri di Regioni e Garante Privacy, mentre restano dubbi su multe e date di entrata in vigore.",
-      "image": "https://hd2.tudocdn.net/1264528?w=660",
-      "publishedAt": "2026-11-13T10:30:28+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Mercedes blocca gli investimenti, ora le fabbriche sono a rischio",
-      "link": "https://www.tomshw.it/automotive/mercedes-benz-sospende-gli-investimenti-e-valuta-chiusure-in-germania",
-      "excerpt": "Gli ulteriori investimenti di Mercedes-Benz nei siti tedeschi sono stati sospesi mentre prosegue il confronto sui costi del lavoro. Michael Schiebe, responsabile Produzione,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/123750/news-flash-2216849.png",
-      "publishedAt": "2026-11-13T10:30:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Samsung Galaxy S26 e S24 si aggiornano in Italia: le novità",
-      "link": "https://www.hdblog.it/smartphone/articoli/n676963/galaxy-s26-s24-aggiornamenti-italia-sicurezza/",
-      "excerpt": "Samsung avvia in Italia la distribuzione di nuovi aggiornamenti per Galaxy S26, S26+, S26 Ultra e Galaxy S24, S24+, S24 Ultra. I firmware hanno obiettivi differenti: patch di…",
-      "image": "https://hd2.tudocdn.net/1327047?w=660",
-      "publishedAt": "2026-11-13T10:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Perdi sempre le chiavi? Questo smart tag compatibile con Apple costa solo 5,69 euro su Amazon",
       "link": "https://images.dday.it/Rwf2wDFqzL4HSu4duLPkFsrx1A6DuzxkXepHQe1WXog/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59446/7acebe_81ZRhHf6LbL._AC_SL1500__2.jpeg",
       "excerpt": "Cellularline Tracy Tag si collega all'app Dov'è di Apple, permette di localizzare gli oggetti sulla mappa e di farli squillare quando sono vicini. Ora è in offerta su Amazon a…",
       "image": "https://images.dday.it/Rwf2wDFqzL4HSu4duLPkFsrx1A6DuzxkXepHQe1WXog/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59446/7acebe_81ZRhHf6LbL._AC_SL1500__2.jpeg",
       "publishedAt": "2026-11-13T10:24:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "PlayStation Pulse Elevate, Sony rimanda \"a tempo indeterminato\" il lancio",
-      "link": "https://www.hdblog.it/sony/articoli/n676962/sony-playstation-pulse-speaker-wireless-rimandati/",
-      "excerpt": "A quanto pare la società giapponese ha individuato un problema di produzione nelle fasi finali del controllo qualità, a ridosso del lancio.",
-      "image": "https://hd2.tudocdn.net/1363649?w=660",
-      "publishedAt": "2026-11-13T10:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "GTA 6: i 60 fps su PS5 Pro erano possibili, ma a patto di pagare un prezzo troppo alto",
-      "link": "https://www.hdblog.it/games/articoli/n676933/gta-6-60-fps-ps5-pro-prezzo-troppo-alto/",
-      "excerpt": "Una build interna di GTA 6 girava a 60 fps su PS5 Pro, ma per ottenere quel risultato Rockstar avrebbe rimosso molti, troppi contenuti.",
-      "image": "https://hd2.tudocdn.net/1385002?w=660",
-      "publishedAt": "2026-11-13T10:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Arlo: nuovo campanello smart con Wi-Fi dual band e risoluzione 2K",
-      "link": "https://www.hdblog.it/domotica/articoli/n676927/arlo-video-doorbell-3a-generazione-2k-dual-band/",
-      "excerpt": "La nuova video doorbell di Arlo punta su 2K, 180 gradi e Wi-Fi dual band a circa 71 euro, ma le funzioni AI e la registrazione continua richiedono un abbonamento a parte.",
-      "image": "https://hd2.tudocdn.net/1385009?w=660",
-      "publishedAt": "2026-11-13T10:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Leapmotor produrrà in Italia: l'indizio di Filosa porta a Pomigliano",
-      "link": "https://www.hdmotori.it/stellantis-leapmotor-produzione-auto-italia-pomigliano/",
-      "excerpt": "Antonio Filosa annuncia l'espansione della partnership tra Stellantis e Leapmotor in un impianto italiano: Pomigliano d'Arco in pole per le nuove e-car da 15.000 euro.",
-      "image": "https://hd2.tudocdn.net/1385086?w=660",
-      "publishedAt": "2026-11-13T10:00:55+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Black Friday: più di un italiano su tre sospetta sconti poco trasparenti",
-      "link": "https://www.hdblog.it/mercato/articoli/n676958/black-friday-sconti-sospetti-italiani/",
-      "excerpt": "Black Friday 2026, gli italiani continuano a partecipare alle promozioni ma cresce la diffidenza verso gli sconti. Secondo una ricerca Klarna, il 93% aderisce al Black Friday e…",
-      "image": "https://hd2.tudocdn.net/1305793?w=660",
-      "publishedAt": "2026-11-13T09:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Xbox 25° anniversario, DOOM e Master Chief arrivano su Candy Crush Saga",
-      "link": "https://www.hdblog.it/microsoft/articoli/n676954/xbox-candy-crush-saga-doom-halo-sigle/",
-      "excerpt": "Negli USA c'è anche un concorso a premi con spillette molto carine.",
-      "image": "https://hd2.tudocdn.net/1354362?w=660",
-      "publishedAt": "2026-11-13T09:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Android 17 QPR3 si aggiorna ancora: arriva la Beta 4 per i Pixel",
-      "link": "https://www.hdblog.it/google/articoli/n676938/android-17-qpr3-beta-4-disponibile/",
-      "excerpt": "Vediamo quali sono le novità dell'ultima beta",
-      "image": "https://hd2.tudocdn.net/1379610?w=660",
-      "publishedAt": "2026-11-13T09:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "MousePods, ovvero come usare le AirPods 3 su Linux come mouse",
-      "link": "https://www.dday.it/news/29/mousepods-ovvero-come-usare-le-airpods-3-su-linux-come-mouse",
-      "excerpt": "Un utente di Reddit, Matteocean, voleva usare il giroscopio delle AirPods 3 per controllare il mouse su Linux. Le cuffie funzionavano già come normale dispositivo audio Bluetooth,…",
-      "image": "https://opengraph.githubassets.com/1794560533/starman-tech/mousepods",
-      "publishedAt": "2026-11-13T09:00:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Samsung rivela specifiche e disponibilità dei suoi primi occhiali Smart con Gemini integrato",
-      "link": "https://images.dday.it/THTZpuuxS9Qq8pzDd_CiYENWDuobMZZabC693Lc2MKU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59443/da9036_Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_dl1.jpg",
-      "excerpt": "Gli occhiali saranno disponibili da dicembre in 30 stili diversi firmati Warby Parker e Monster Gentle. Sono basati su piattaforma Snapdragon AR1 Gen 1 e dotati di fotocamere HDR…",
-      "image": "https://images.dday.it/THTZpuuxS9Qq8pzDd_CiYENWDuobMZZabC693Lc2MKU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59443/da9036_Samsung-Mobile-Intelligent-Eyewear-Launch-Gentle-Monster-Warby-Parker_dl1.jpg",
-      "publishedAt": "2026-11-13T08:54:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "AMD ha speso 2,9 miliardi per Taalas, la startup che stampa l'IA nei chip",
-      "link": "https://www.dday.it/news/28/amd-ha-speso-2-9-miliardi-per-taalas-la-startup-che-stampa-l-ia-nei-chip",
-      "excerpt": "AMD ha rivelato per la prima volta quanto vale l’acquisizione di Taalas, annunciata ad agosto: circa 2,9 miliardi di dollari tra contanti e azioni. Taalas è una startup di Toronto…",
-      "image": null,
-      "publishedAt": "2026-11-13T08:11:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Microsoft 365, il guasto non finisce più: Outlook bloccato in tutto il mondo",
-      "link": "https://images.dday.it/-6DKVDNoMU53q54czEpinNfaSpNt1FPSNfyuOEDZVNE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59441/c714a9_Microsoft_Office_in_glitch_digitale.png",
-      "excerpt": "Microsoft 365 in difficoltà da oltre tredici ore: problemi alla posta di Outlook e alle funzioni collegate di Teams e Copilot. I server sono sovraccarichi e Microsoft non sa…",
-      "image": "https://images.dday.it/-6DKVDNoMU53q54czEpinNfaSpNt1FPSNfyuOEDZVNE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59441/c714a9_Microsoft_Office_in_glitch_digitale.png",
-      "publishedAt": "2026-11-13T07:54:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Scopri la nuova gamma di QD-Mini LED di TCL: il vero local dimming al giusto prezzo",
-      "link": "https://images.dday.it/F-B88JXTGzB0wiWAPW2wpQ09YAdU8dmt_kkHOTda0Uo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59362/4378dd_TCL.jpg",
-      "excerpt": "Oltre alla rivoluzionaria gamma SQD-Mini LED, TCL offre quest’anno anche modelli QD-Mini LED versatili e dall’ottimo rapporto qualità/prezzo, tutti con vero local dimming e…",
-      "image": "https://images.dday.it/F-B88JXTGzB0wiWAPW2wpQ09YAdU8dmt_kkHOTda0Uo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59362/4378dd_TCL.jpg",
-      "publishedAt": "2026-11-13T01:03:06+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "139,99 euro per una lavapavimenti: difficile trovare di meglio a questo prezzo. Ecco l'offerta",
-      "link": "https://images.dday.it/dlAJ11U-D0vs8SucCVQdg5BFm2ZAKdvOuCVU-hCbIrw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59440/299729_81Uy+iVOlNL._AC_SL1500_.jpg",
-      "excerpt": "Tineco Floor One S5 aspira e lava in un unico dispositivo, con rullo autopulente, display e funzionamento senza fili. Ora si trova in offerta per il Black Friday a soli 139,99…",
-      "image": "https://images.dday.it/dlAJ11U-D0vs8SucCVQdg5BFm2ZAKdvOuCVU-hCbIrw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59440/299729_81Uy+iVOlNL._AC_SL1500_.jpg",
-      "publishedAt": "2026-11-12T17:00:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
