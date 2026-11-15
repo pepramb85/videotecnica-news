@@ -1,44 +1,179 @@
 {
-  "generatedAt": "2026-11-15T08:40:27.767651+00:00",
+  "generatedAt": "2026-11-15T16:43:36.215107+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "La riunione è pronta, ma manca l'adattatore? Con questi sistemi non servirà più",
-      "link": "https://www.tomshw.it/offerte/la-riunione-e-pronta-ma-manca-ladattatore-con-questi-sistemi-non-servira-piu",
-      "excerpt": "Succede in quasi ogni ufficio: tutti sono seduti, la riunione sta per iniziare e il collega con il MacBook non ha l’adattatore USB-C/HDMI, mentre quello con il portatile Windows…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/123795/La-riunione-è-pronta,-ma-manca-l'adattatore-Con-questi-sistemi-non-servirà-più.png",
-      "publishedAt": "2026-11-15T08:10:00+00:00",
+      "title": "Soundcore Rave 3S, karaoke pronto con due microfoni a 239,99€",
+      "link": "https://www.tomshw.it/altro/soundcore-rave-3s-karaoke-pronto-con-due-microfoni-a-23999eur",
+      "excerpt": "Soundcore Rave 3S costa 239,99€ su Amazon, con il 31% di sconto sui 349,99€ di listino. I due microfoni wireless inclusi e la rimozione vocale AI permettono di organizzare una…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/124085/tomshw-offer-2249637.png",
+      "publishedAt": "2026-11-15T16:18:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "La balbuzie ha nuove linee guida: cosa cambia per chi balbetta",
-      "link": "https://www.tomshw.it/scienze/la-balbuzie-ha-nuove-linee-guida-cosa-cambia-per-chi-balbetta",
-      "excerpt": "Un gruppo internazionale di medici, logopedisti, ricercatori e persone che balbettano ha pubblicato in estate nuove linee guida sulla balbuzie, dedicate a diagnosi, trattamento e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/123985/la-balbuzie-ha-nuove-linee-guida-cosa-cambia-per-chi-balbetta.png",
+      "title": "Montalatte Nespresso Aeroccino 3 a 65€, cappuccino cremoso senza complicazioni",
+      "link": "https://www.tomshw.it/altro/montalatte-nespresso-aeroccino-3-a-65eur-cappuccino-cremoso-senza-complicazioni",
+      "excerpt": "Il montalatte Nespresso Aeroccino 3 a 65€ su Amazon prepara schiuma calda e fredda premendo un pulsante. È pensato per chi vuole un cappuccino cremoso a colazione e un apparecchio…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/124076/tomshw-offer-2249611.png",
+      "publishedAt": "2026-11-15T15:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Echo Dot Max avvia le routine con la presenza, a 129,49€ su Amazon",
+      "link": "https://www.tomshw.it/altro/echo-dot-max-avvia-le-routine-con-la-presenza-a-12949eur-su-amazon",
+      "excerpt": "Echo Dot Max costa 129,49€ su Amazon e riunisce altoparlante Alexa e hub per la casa intelligente in un unico dispositivo. Con la tecnologia Omnisense puoi attivare le routine…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/124069/tomshw-offer-2249582.png",
+      "publishedAt": "2026-11-15T15:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "eufy C28 Omni a 379€, il robot che lava anche il proprio rullo",
+      "link": "https://www.tomshw.it/altro/eufy-c28-omni-a-379eur-il-robot-che-lava-anche-il-proprio-rullo",
+      "excerpt": "eufy C28 Omni a 379€ su Amazon aspira e lava con un rullo che si pulisce durante il lavoro. La stazione automatica gestisce anche polvere e acqua, alleggerendo la manutenzione…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/124068/tomshw-offer-2249522.png",
+      "publishedAt": "2026-11-15T14:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "DeepSeek, nei suoi modelli spunta una possibile traccia di una GPU NVIDIA vietata",
+      "link": "https://www.tomshw.it/hardware/deepseek-v4-flash-mostra-tracce-di-nvidia-blackwell-divieti-aggirati",
+      "excerpt": "Unemployment Labs ha individuato nei pesi pubblici di DeepSeek-V4-Flash schemi numerici compatibili con l’impiego di GPU NVIDIA Blackwell nella fase di inizializzazione del…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/123990/deepseek-v4-flash-mostra-tracce-di-nvidia-blackwell-divieti-aggirati.png",
+      "publishedAt": "2026-11-15T14:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "REDMI Note 17 5G: autonomia eccezionale a prezzo ridotto con il Black Friday anticipato",
+      "link": "https://www.hdblog.it/smartphone/offerte/n677076/redmi-note-17-5g-black-friday-anticipato/",
+      "excerpt": "Sconto di 120€ su Amazon durante il Black Friday anticipato per lo Xiaomi REDMI Note 17 5G: batteria da 7700mah e ampio display AMOLED FHD+ da 6,99 pollici.",
+      "image": "https://hd2.tudocdn.net/1385341?w=660",
+      "publishedAt": "2026-11-15T13:56:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Samsung S95H OLED 55\", giochi in 4K con meno riflessi a 1.374,99€",
+      "link": "https://www.tomshw.it/altro/samsung-s95h-oled-55-giochi-in-4k-con-meno-riflessi-a-137499eur",
+      "excerpt": "Samsung S95H OLED 55 costa 1.374,99€ su Amazon, con uno sconto dell’8% sul prezzo di listino di 1.487,52€ e un risparmio di 112,53€. Motion Xcelerator a 165 Hz, FreeSync Premium…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/124067/tomshw-offer-2249483.png",
+      "publishedAt": "2026-11-15T13:48:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "BMW Alpina B6 2.8 ritrovata in fondo a un lago: il mistero di una delle 533 prodotte",
+      "link": "https://www.hdmotori.it/bmw-alpina-b6-2-8-ritrovata-in-fondo-a-un-lago-il-mistero-di-una-delle-533-prodotte/",
+      "excerpt": "Una rara BMW Alpina B6 2.8 è stata recuperata da un lago in Germania dopo decenni sott'acqua. La polizia cerca di risalire al proprietario",
+      "image": "https://hd2.tudocdn.net/1385337?w=660",
+      "publishedAt": "2026-11-15T13:30:14+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Monopattino con doppia sospensione a 349€, più comfort nei tragitti quotidiani",
+      "link": "https://www.tomshw.it/automotive/monopattino-con-doppia-sospensione-a-349eur-piu-comfort-nei-tragitti-quotidiani",
+      "excerpt": "Il monopattino Daytona 10 costa 349€ su Amazon e combina doppia sospensione e pneumatici tubeless da 10 pollici. È pensato per gli spostamenti quotidiani, con una dotazione che…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/124063/tomshw-offer-2249456.png",
+      "publishedAt": "2026-11-15T13:18:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Owlet avverte sui cavi dei baby monitor: cosa controllare subito",
+      "link": "https://www.tomshw.it/altro/owlet-avverte-sui-cavi-dei-baby-monitor-cosa-controllare-subito",
+      "excerpt": "Owlet ha diffuso un avviso di sicurezza dopo la morte di un bambino rimasto impigliato nel cavo allentato ed esposto di una sua videocamera per il monitoraggio dei più piccoli.…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/123988/owlet-avverte-sui-cavi-dei-baby-monitor-cosa-controllare-subito.png",
+      "publishedAt": "2026-11-15T13:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "TV TCL QD-Mini LED: come funzionano e cosa cambia tra A400U, C6K Pro e P8L",
+      "link": "https://www.hdblog.it/tv/speciali/n676399/tv-tcl-qd-mini-led-come-funzionano-e-cosa-cambia-tra-a400u-c6k-pro-e-p8l/",
+      "excerpt": "Siamo stati da TCL a scoprire la nuova gamma QD-Mini LED 2026. Vi raccontiamo i modelli che abbiamo visto e le rispettive caratteristiche tecniche.",
+      "image": "https://hd2.tudocdn.net/1383824?w=660",
+      "publishedAt": "2026-11-15T12:31:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Ring Floodlight Cam Wired Plus al -56%, sorveglia e illumina l’ingresso",
+      "link": "https://www.tomshw.it/altro/ring-floodlight-cam-wired-plus-al-56-sorveglia-e-illumina-lingresso",
+      "excerpt": "Ring Floodlight Cam Wired Plus costa 79,99€ su Amazon, con uno sconto del 56% rispetto ai 179,99€ di listino. I proiettori LED si accendono al movimento e affiancano la…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/124058/tomshw-offer-2249409.png",
+      "publishedAt": "2026-11-15T12:19:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Il magnetismo resiste in strati ultrasottili: l'IA consumerà meno?",
+      "link": "https://www.tomshw.it/scienze/il-magnetismo-resiste-in-strati-ultrasottili-lia-consumera-meno",
+      "excerpt": "Un gruppo della Brown University guidato da Lucas Caretta ha realizzato film ultrasottili di ferrite di bismuto che conservano le proprie proprietà elettriche e magnetiche anche…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/123982/il-magnetismo-resiste-in-strati-ultrasottili-l-ia-consumera-meno.png",
+      "publishedAt": "2026-11-15T12:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Casa fredda anche con 21 gradi? Il problema potrebbe non essere il riscaldamento",
+      "link": "https://www.hdblog.it/domotica/articoli/n677039/casa-fredda-cause-soluzioni/",
+      "excerpt": "Il termostato segna 21 gradi, ma senti ancora freddo? Ecco le possibili cause.",
+      "image": "https://hd2.tudocdn.net/1385271?w=660",
+      "publishedAt": "2026-11-15T09:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Programmi bloccati su Windows? Le alternative a Gestione attività",
+      "link": "https://www.hdblog.it/portatili/articoli/n676982/app-bloccate-windows-alternative-gestione-attivita/",
+      "excerpt": "Le diverse opzioni per forzare la chiusura delle app.",
+      "image": "https://hd2.tudocdn.net/1385147?w=660",
+      "publishedAt": "2026-11-15T08:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Tesla apre gli ordini del Cybercab ai privati: costa 29.990 dollari più abbonamento mensile",
+      "link": "https://www.hdmotori.it/tesla-ordini-cybercab-privati/",
+      "excerpt": "Il robotaxi a due posti di Tesla debutta per l'uso personale ad Austin: consegne da dicembre 2026 e canone di 299 dollari per la guida autonoma.",
+      "image": "https://hd2.tudocdn.net/1385330?w=660",
+      "publishedAt": "2026-11-15T08:00:28+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Mac Mini in offerta su Amazon: fino a 230€ di sconto per le varianti con M6 e M5 Pro",
+      "link": "https://www.hdblog.it/hardware/offerte/n677071/mac-mini-m6-m5-pro-offerta-amazon-nov26/",
+      "excerpt": "Il Mac Mini, con le varianti con M6 e M5 Pro, è in offerta su Amazon e diventa sempre di più un best buy da prendere oggi.",
+      "image": "https://hd2.tudocdn.net/1373929?w=660",
       "publishedAt": "2026-11-15T08:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
     },
     {
-      "title": "-57% su Logitech Brio 300, videochiamate in Full HD a soli 30€",
-      "link": "https://www.tomshw.it/hardware/57-su-logitech-brio-300-videochiamate-in-full-hd-a-soli-30eur",
-      "excerpt": "Logitech Brio 300 a 30€ su Amazon: lo sconto del 57% porta questa webcam Full HD al minimo di sempre. Correzione automatica della luce, microfono con riduzione del rumore e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/124048/tomshw-offer-2249168.png",
-      "publishedAt": "2026-11-15T07:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
+      "title": "SSD, attenzione ai software che possono usurare l’unità più velocemente",
+      "link": "https://www.hdblog.it/portatili/articoli/n676835/ssd-software-possono-usurarlo-velocemente/",
+      "excerpt": "L’utilizzo di alcuni programmi incide sulla longevità di un SSD.",
+      "image": "https://hd2.tudocdn.net/1384792?w=660",
+      "publishedAt": "2026-11-15T07:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
     },
     {
-      "title": "-49% sul robot da cucina Kenwood, fino a 7 pizze in un solo impasto",
-      "link": "https://www.tomshw.it/altro/49-sul-robot-da-cucina-kenwood-fino-a-7-pizze-in-un-solo-impasto",
-      "excerpt": "Kenwood Multi Tasker a 92,33€ su Amazon: il robot da cucina è scontato del 49% rispetto ai 179,90€ di listino. Puoi lavorare fino a 1,7 kg di impasto alla volta, una quantità…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/124047/tomshw-offer-2249070.png",
-      "publishedAt": "2026-11-15T07:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
+      "title": "Starship, impresa storica: SpaceX recupera Ship per la prima volta",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n677031/spacex-starship-prima-cattura-ship-42/",
+      "excerpt": "SpaceX recupera Ship 42 dopo 14 orbite: prima cattura dello stadio superiore di Starship.",
+      "image": "https://hd2.tudocdn.net/1385328?w=660",
+      "publishedAt": "2026-11-15T07:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
     },
     {
       "title": "Alfa Romeo Cuorerosso, il futuro del Biscione - Video",
@@ -46,24 +181,6 @@
       "excerpt": "",
       "image": "https://hd2.tudocdn.net/1385326?w=660",
       "publishedAt": "2026-11-15T07:00:10+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Windows può diventare più efficiente con gli strumenti di PowerToys",
-      "link": "https://www.hdblog.it/portatili/articoli/n676744/windows-piu-efficiente-strumenti-powertoys/",
-      "excerpt": "Un set di strumenti gratuiti per Windows.",
-      "image": "https://hd2.tudocdn.net/1384619?w=660",
-      "publishedAt": "2026-11-15T06:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Oppo Reno 17 e Reno 17 Pro, un leak svela tutto a un passo dalla presentazione",
-      "link": "https://www.hdblog.it/smartphone/articoli/n677065/oppo-reno-17-pro-specifiche-differenze-leak-lancio/",
-      "excerpt": "I segreti ormai sono davvero pochi.",
-      "image": "https://hd2.tudocdn.net/1385312?w=660",
-      "publishedAt": "2026-11-15T06:45:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
@@ -77,87 +194,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Google Pixel Buds 2a, musica e chiamate con meno rumore a soli 99€",
-      "link": "https://www.tomshw.it/smartphone/google-pixel-buds-2a-musica-e-chiamate-con-meno-rumore-a-soli-99eur",
-      "excerpt": "A 99€ su Amazon, le Google Pixel Buds 2a portano la cancellazione attiva del rumore sotto la soglia dei 100€. Lo stabilizzatore girevole permette di adattare l'aderenza alle…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/124046/tomshw-offer-2229574.png",
-      "publishedAt": "2026-11-14T20:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Xiaomi Pro 2 NE, il monopattino elettrico per tutti i giorni a 532,86€",
-      "link": "https://www.tomshw.it/automotive/xiaomi-pro-2-ne-il-monopattino-elettrico-per-tutti-i-giorni-a-53286eur",
-      "excerpt": "Xiaomi Pro 2 NE costa 532,86€ su Amazon e si rivolge a chi vuole affrontare in elettrico i propri tragitti quotidiani. Il suo acquisto ha senso soprattutto quando il monopattino…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/124045/tomshw-offer-2229549.png",
-      "publishedAt": "2026-11-14T19:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Samsung Galaxy S26 da 1.129€ a 749€, tre anni di garanzia per usarlo a lungo",
-      "link": "https://www.tomshw.it/smartphone/samsung-galaxy-s26-da-1129eur-a-749eur-tre-anni-di-garanzia-per-usarlo-a-lungo",
-      "excerpt": "Samsung Galaxy S26 da 256GB costa 749€ su Amazon, con uno sconto del 34% sul listino di 1.129€. La versione italiana Black include tre anni di garanzia del produttore e una…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/124044/tomshw-offer-2229532.png",
-      "publishedAt": "2026-11-14T19:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Laptop in standby che non si sveglia: guida ai rimedi",
-      "link": "https://www.tomshw.it/hardware/portatile-standby-schermo-nero-coperchio-windows-11",
-      "excerpt": "Se il portatile non esce dallo standby quando riapri il coperchio, collega l’alimentatore previsto dal produttore e prova una pressione breve del pulsante di accensione, senza…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/123043/cover.png",
-      "publishedAt": "2026-11-14T19:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "ASUS ROG Strix Scope II 96 libera spazio al mouse, ora a 134,90€",
-      "link": "https://www.tomshw.it/hardware/asus-rog-strix-scope-ii-96-libera-spazio-al-mouse-ora-a-13490eur",
-      "excerpt": "A 134,90€ su Amazon, ASUS ROG Strix Scope II 96 costa il 29% in meno rispetto ai 189,90€ di listino e libera spazio sulla scrivania grazie al formato al 96%. È una tastiera…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/124043/tomshw-offer-2229519.png",
-      "publishedAt": "2026-11-14T18:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Fino a 150 km con ENGWE M20, doppia batteria per esplorare più a lungo",
-      "link": "https://www.tomshw.it/automotive/fino-a-150-km-con-engwe-m20-doppia-batteria-per-esplorare-piu-a-lungo",
-      "excerpt": "ENGWE M20 costa 1299€ su Amazon nella versione nera con doppia batteria. L’autonomia fino a 150 km è ciò che interessa a chi vuole organizzare escursioni fuoristrada più lunghe,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/124042/tomshw-offer-2229489.png",
-      "publishedAt": "2026-11-14T18:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "WhatsApp come Instagram: sta arrivando la nuova funzione Instants",
-      "link": "https://www.hdblog.it/android/articoli/n677062/whatsapp-instants-foto-video-effimeri-instagram/",
-      "excerpt": "Ecco cosa fa.",
-      "image": "https://hd2.tudocdn.net/1370391?w=660",
-      "publishedAt": "2026-11-14T16:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "iPhone 20 Pro tutto curve: un leak video anticipa la rivoluzione nel design",
-      "link": "https://www.hdblog.it/smartphone/articoli/n677060/iphone-20-pro-leak-video-schermo-curvo-apple/",
-      "excerpt": "I melafonini del ventennale saranno così?",
-      "image": "https://hd2.tudocdn.net/1367099?w=660",
-      "publishedAt": "2026-11-14T15:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il Garmin Instinct 3 Solar non si scarica mai: sconto di 100€ con il Black Friday in anticipo",
-      "link": "https://www.hdblog.it/indossabili/offerte/n677051/garmin-instinct-3-solar-sconto-black-friday-amazon/",
-      "excerpt": "Il Garmin Instinct 3 Solar da 45mm è in offerta su Amazon con il Black Friday in anticipo: display SOLAR, resistenza 10ATM, torcia LED, oltre 90 app sportive, Garmin Pay e…",
-      "image": "https://hd2.tudocdn.net/1385291?w=660",
-      "publishedAt": "2026-11-14T13:28:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Insta360 X6, recensione. La promessa di un regista IA che monta i video al posto tuo",
       "link": "https://images.dday.it/QbbYkjfuk8dYXtP5-j3WNQYS6mBKWNis03W-3oq1nbc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/58774/530800_insta360_18.jpg",
       "excerpt": "Abbiamo provato in viaggio la nuova camera a 360° di Insta360. Dopo l’aggiunta delle lenti intercambiabili sulla X5 arrivano ora Dolby Vision e memoria interna. Insta360 lavora…",
@@ -165,42 +201,6 @@
       "publishedAt": "2026-11-14T13:04:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "I sensori di temperatura smart possono migliorare comfort e consumi in casa",
-      "link": "https://www.hdblog.it/domotica/articoli/n676868/sensori-temperatura-smart-comfort-consumi-casa/",
-      "excerpt": "Come sfruttare al meglio i sensori disposti nei vari ambienti.",
-      "image": "https://hd2.tudocdn.net/1384890?w=660",
-      "publishedAt": "2026-11-14T11:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Nissan Qashqai compie 20 anni: il crossover che ha cambiato le abitudini degli europei",
-      "link": "https://www.hdmotori.it/nissan-qashqai-compie-20-anni/",
-      "excerpt": "Nissan Qashqai festeggia vent'anni: oltre 4,1 milioni di vendite europee, successo in Italia e nuova tecnologia e-POWER. Arriva anche una livrea speciale",
-      "image": "https://hd2.tudocdn.net/1385284?w=660",
-      "publishedAt": "2026-11-14T11:00:11+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Schede di memoria false: come individuarle prima di perdere i tuoi dati",
-      "link": "https://www.hdblog.it/hardware/articoli/n676673/schede-memoria-false-come-individuare/",
-      "excerpt": "Schede di memoria contraffatte, gli strumenti per individuarle",
-      "image": "https://hd2.tudocdn.net/1122930?w=660",
-      "publishedAt": "2026-11-14T10:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il MacBook Pro con display PROLED è già in clima Black Friday con sconti che superano i 600€",
-      "link": "https://www.hdblog.it/portatili/offerte/n677046/macbook-pro-display-proled-offerta-nov26/",
-      "excerpt": "Il MacBook Pro con display PROLED è in offerta con sconti che superano i 600 euro, ecco la promo.",
-      "image": "https://hd2.tudocdn.net/1381283?w=660",
-      "publishedAt": "2026-11-14T10:30:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Black Friday anticipato, Bose finisce sotto i riflettori: cuffie e auricolari in sconto su Amazon",
