@@ -1,276 +1,276 @@
 {
-  "generatedAt": "2026-11-19T05:20:21.255022+00:00",
+  "generatedAt": "2026-11-19T14:59:14.242551+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Black Friday Laifen: offerte imperdibili su asciugacapelli, spazzolini e rasoi. Neo e Mini protagonisti",
-      "link": "https://images.dday.it/vsD76_a_OlSX4GOg8iKm62rLkybyDgUbvLWFhhMHSXg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59410/b53a9a_ape.jpg",
-      "excerpt": "Dal 19 al 30 novembre Laifen sconta alcuni dei suoi prodotti più richiesti: il Neo e il Mini scendono di prezzo, insieme allo spazzolino Wave Pro e ai rasoi P3. Ecco tutte le…",
-      "image": "https://images.dday.it/vsD76_a_OlSX4GOg8iKm62rLkybyDgUbvLWFhhMHSXg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59410/b53a9a_ape.jpg",
-      "publishedAt": "2026-11-19T01:03:06+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
+      "title": "PHP, patch per 17 bug critici: l'aggiornamento è urgente",
+      "link": "https://www.tomshw.it/hardware/php-corregge-17-falle-ecco-le-versioni-da-installare",
+      "excerpt": "Una connessione persistente verso PHP-FPM, riutilizzata dopo una lettura incompleta dei dati, può consentire l’inserimento di richieste FastCGI non autorizzate e portare…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/125313/news-flash-2301918.png",
+      "publishedAt": "2026-11-19T14:57:14+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Tesla rafforza i controlli FSD in Europa: cosa rischia chi si distrae?",
+      "link": "https://www.tomshw.it/automotive/tesla-rafforza-i-controlli-fsd-in-europa-cosa-rischia-chi-si-distrae",
+      "excerpt": "Un'indagine sui dati degli incidenti comunicati da Tesla alla NHTSA ha recentemente collegato diversi casi mortali all'impiego presunto di Autopilot e FSD. Le ricostruzioni hanno…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/125309/tesla-rafforza-i-controlli-fsd-in-europa-cosa-rischia-chi-si-distrae.png",
+      "publishedAt": "2026-11-19T14:50:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Google lancerà l'AI nello spazio: i primi satelliti nel 2029",
+      "link": "https://www.tomshw.it/scienze/google-project-suncatcher-punta-a-lanciare-satelliti-ai-nel-2029",
+      "excerpt": "Una capacità di calcolo indicativamente paragonabile a un rack di data center per ciascun satellite: è la dimensione prevista per la missione di Google Project Suncatcher affidata…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/125307/news-flash-2301852.png",
+      "publishedAt": "2026-11-19T14:47:20+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Black Friday 2026: i migliori powerbank & caricatori in offerta",
+      "link": "https://www.tomshw.it/offerte/black-friday-2026-i-migliori-powerbank-caricatori-in-offerta",
+      "excerpt": "Il Black Friday è il momento ideale per rinnovare i propri accessori dedicati alla ricarica, soprattutto quando si tratta di prodotti che utilizziamo quotidianamente come…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/125306/Black-Friday-2026-i-migliori-powerbank-&-caricatori-in-offerta.jpg",
+      "publishedAt": "2026-11-19T14:47:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "LEGO Game Boy a 44,99€, da costruire per chi è cresciuto con Nintendo",
+      "link": "https://www.tomshw.it/offerte/lego-game-boy-a-4094eur-da-costruire-per-chi-e-cresciuto-con-nintendo",
+      "excerpt": "LEGO Game Boy costa 44,99€ su Amazon, con uno sconto del 25%. Il set da 421 pezzi ricrea la console portatile Nintendo ed è pensato per gli adulti che vogliono costruire un…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/124615/B0DWDGVHM6.webp",
+      "publishedAt": "2026-11-19T14:45:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Dal 2028 in Valle d'Aosta il bollo auto costerà meno (ad una condizione)",
+      "link": "https://www.tomshw.it/automotive/la-valle-d-aosta-punta-al-bollo-scontato-con-addebito-nel-2028",
+      "excerpt": "Pagare il bollo auto con addebito sul conto corrente e ottenere una riduzione della tassa: è l’obiettivo della mozione approvata all’unanimità dal Consiglio regionale della Valle…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/121420/news-flash-2022807.png",
+      "publishedAt": "2026-11-19T14:43:36+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Addio touchscreen: Mercedes-Benz rilancia i tasti veri",
+      "link": "https://www.tomshw.it/automotive/mercedes-benz-torna-ai-pulsanti-fisici-il-ceo-spiega-perche",
+      "excerpt": "Una rotella per il volume può convivere con uno schermo da 39,1 pollici: la Mercedes-Benz GLC elettrica mostra già come il marchio sta ripensando i comandi dell’abitacolo. Durante…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/125209/news-flash-2301269.png",
+      "publishedAt": "2026-11-19T14:43:26+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "GTA 6, è ufficialmente il gioco con la media voto più alta di sempre",
+      "link": "https://www.tomshw.it/videogioco/gta-gioco-migliore-di-sempre-su-meta",
+      "excerpt": "Il lancio di Grand Theft Auto 6 si è trasformato in un primato statistico oltre che commerciale. Con la caduta dell'embargo sulle recensioni, il nuovo capitolo di Rockstar Games…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/10/116552/gta-6-sara-piu-estremo-dei-precedenti-il-rating-rivela-nuove-wc1czg4.webp",
+      "publishedAt": "2026-11-19T14:38:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "SwitchBot AI Art Frame, il quadro digitale per chi non ama la tecnologia | Test & Recensione",
+      "link": "https://www.tomshw.it/altro/switchbot-ai-art-frame-test-recensione",
+      "excerpt": "Lo SwitchBot AI Art Frame è un oggetto pensato per ridefinire il concetto di arte domestica, fondendo tecnologia e creatività in un unico elemento di design. Si tratta del primo…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/05/92473/Switchbot-AI-Frame-(5).jpg",
+      "publishedAt": "2026-11-19T14:36:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Black Friday 2026: i migliori smartwatch & wearable in offerta",
+      "link": "https://www.tomshw.it/offerte/black-friday-2026-i-migliori-smartwatch-wearable-in-offerta",
+      "excerpt": "Il Black Friday 2026 è entrato nel vivo e, tra le tantissime promozioni disponibili, abbiamo selezionato alcune delle offerte più interessanti dedicate al mondo degli smartwatch…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/125305/Black-Friday-2026-i-migliori-smartwatch-&-wearable-in-offerta.jpg",
+      "publishedAt": "2026-11-19T14:35:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
     },
     {
       "title": "Samsung Secrets: con Vision AI Companion lo Smart TV ha sempre la risposta pronta a ogni tua richiesta",
       "link": "https://images.dday.it/sMNC9FooG-svOU1OnYzndPiemspVk6u2JwVoE2H0jYQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59507/20c9eb_Vision_AI_Cover.jpg",
       "excerpt": "Samsung Vision AI Companion trasforma il tuo Smart TV in un vero assistente AI: capisce cosa ti piace, risponde alle curiosità su ciò che guardi e trova il film giusto al posto…",
       "image": "https://images.dday.it/sMNC9FooG-svOU1OnYzndPiemspVk6u2JwVoE2H0jYQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59507/20c9eb_Vision_AI_Cover.jpg",
-      "publishedAt": "2026-11-19T01:03:06+00:00",
+      "publishedAt": "2026-11-19T14:32:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     },
     {
-      "title": "Indeciso fra Narwal Flow 2 e Freo 20 Edge? Ecco la guida per scegliere",
-      "link": "https://images.dday.it/44y62bfmcG3-fq0sOY_Aad38xS5m4TWbvwIkwai1rr4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59389/c825fb_flow2_thumb.jpg",
-      "excerpt": "Hanno tante caratteristiche in comune ma anche importanti differenze. Come scegliere? Ecco una guida completa... Leggi tutto",
-      "image": "https://images.dday.it/44y62bfmcG3-fq0sOY_Aad38xS5m4TWbvwIkwai1rr4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59389/c825fb_flow2_thumb.jpg",
-      "publishedAt": "2026-11-19T01:03:06+00:00",
+      "title": "Plaud NotePin S, il registratore vocale AI da indossare è in offerta per il Black Friday",
+      "link": "https://images.dday.it/IFE4ewhy5NxmzXzeaQZ-3o7pLZPInIfAf6iiWFORcFk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59538/596a1b_61lv0ez1XML._AC_SL1200_.jpeg",
+      "excerpt": "Si indossa, registra conversazioni e riunioni e le trasforma in trascrizioni, riepiloghi e documenti grazie all'intelligenza artificiale. Plaud NotePin S è ora in offerta per il…",
+      "image": "https://images.dday.it/IFE4ewhy5NxmzXzeaQZ-3o7pLZPInIfAf6iiWFORcFk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59538/596a1b_61lv0ez1XML._AC_SL1200_.jpeg",
+      "publishedAt": "2026-11-19T14:27:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     },
     {
-      "title": "iRobot taglia i prezzi dei Roomba: con il Black Friday si risparmiano fino a 200 euro",
-      "link": "https://images.dday.it/vVz4_zIqvT38L4pusrrxr57EA0X_YnAmv_erROpXFUc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59454/5cf47f_Gemini_Generated_Image_q9ddk1q9ddk1q9dd.jpg",
-      "excerpt": "Dal 16 al 30 novembre su irobot.it nove Roomba costano meno, dai compatti che lavano i pavimenti ai Max con la base che fa quasi tutto da sola... Leggi tutto",
-      "image": "https://images.dday.it/vVz4_zIqvT38L4pusrrxr57EA0X_YnAmv_erROpXFUc/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59454/5cf47f_Gemini_Generated_Image_q9ddk1q9ddk1q9dd.jpg",
-      "publishedAt": "2026-11-19T01:03:06+00:00",
+      "title": "La nuova Volkswagen T-Roc R arriva a 333 CV. È la prima R mild hybrid",
+      "link": "https://images.dday.it/GFyN0bva7Bxz_IFs0NyARGlXm1475EcPG_hYIjVc63M/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59537/65eb81_trocr_thumb.jpg",
+      "excerpt": "Debutterà nel primo trimestre del 2027. Ha trazione integrale con ripartizione della coppia tra le ruote posteriori, sospensioni adattive e una modalità sviluppata per il…",
+      "image": "https://images.dday.it/GFyN0bva7Bxz_IFs0NyARGlXm1475EcPG_hYIjVc63M/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59537/65eb81_trocr_thumb.jpg",
+      "publishedAt": "2026-11-19T14:09:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     },
     {
-      "title": "Black Friday 2026: i migliori componenti PC in offerta",
-      "link": "https://www.tomshw.it/offerte/black-friday-2026-i-migliori-componenti-pc-in-offerta",
-      "excerpt": "Il Black Friday è entrato nel vivo e per chi sta pensando di assemblare un nuovo PC, aggiornare la propria configurazione o sostituire qualche componente, questo potrebbe essere…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/125007/Black-Friday-2026-i-migliori-componenti-PC-in-offerta.png",
-      "publishedAt": "2026-11-18T23:45:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
+      "title": "Black Friday 2026: 2x Shelly 1PM Mini Gen3 a 15€, super prezzo Amazon per la domotica economica",
+      "link": "https://www.hdblog.it/amazon/offerte/n677612/shelly-1pm-mini-gen3-black-friday-amazon-offerta-/",
+      "excerpt": "Shelly 1PM Mini Gen3 scende a soli 13€ per il Black Friday Amazon 2026: un piccolo dispositivo WiFi per controllare luci ed elettrodomestici dallo smartphone e monitorare i…",
+      "image": "https://hd2.tudocdn.net/1383436?w=660",
+      "publishedAt": "2026-11-19T13:53:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
     },
     {
-      "title": "Black Friday 2026: i migliori monitor in offerta",
-      "link": "https://www.tomshw.it/offerte/black-friday-2026-i-migliori-monitor-in-offerta",
-      "excerpt": "Il Black Friday è uno dei momenti più interessanti dell'anno per acquistare un nuovo monitor, soprattutto considerando le numerose promozioni che coinvolgono questa categoria. Per…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/125006/Black-Friday-2026-i-migliori-monitor-in-offerta.png",
-      "publishedAt": "2026-11-18T23:30:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Black Friday 2026: i migliori notebook in offerta",
-      "link": "https://www.tomshw.it/offerte/black-friday-2026-i-migliori-notebook-in-offerta",
-      "excerpt": "Il Black Friday è entrato nel vivo e, tra le categorie di prodotti che stanno beneficiando degli sconti più interessanti, troviamo sicuramente quella dei notebook. Che siate alla…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/125004/Black-Friday-2026-i-migliori-notebook-in-offerta.png",
-      "publishedAt": "2026-11-18T23:15:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "AliExpress dà il via al Black Friday: tutti i codici promozionali e i bonus PayPal",
-      "link": "https://www.tomshw.it/offerte/aliexpress-da-il-via-al-black-friday-tutti-i-codici-promozionali-e-i-bonus-paypal",
-      "excerpt": "Il Black Friday di AliExpress entra nel vivo dalla mezzanotte di oggi, tra il 18 e il 19 novembre, con una nuova tornata di promozioni pensata per chi vuole approfittare…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/124939/Aliexpress-Black-Friday-copertina-2026.png",
-      "publishedAt": "2026-11-18T23:02:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Comincia il Black Friday Amazon: tutte le migliori offerte tech, in continuo aggiornamento",
-      "link": "https://images.dday.it/hOAoJCRqgh2aVsVwvywQe4JeLvKMSPkL101-BR5oS-c/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59518/9611ac_ape2.jpg",
-      "excerpt": "I migliori prodotti in sconto: TV, smartphone, robot aspirapolvere, videogiochi e altro ancora... Leggi tutto",
-      "image": "https://images.dday.it/hOAoJCRqgh2aVsVwvywQe4JeLvKMSPkL101-BR5oS-c/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59518/9611ac_ape2.jpg",
-      "publishedAt": "2026-11-18T23:00:00+00:00",
+      "title": "La Commissione Europea ha subito un attacco informatico con uno strumento IA",
+      "link": "https://images.dday.it/1Dn1fZpLbcXsLHv0Cu1n8fR9oh5XnL85IjjAtUf9UD8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59536/eac547_european-union-flags-Depositphotos_58245389_XL.jpg",
+      "excerpt": "Gli aggressori avrebbero usato ARTEX, un software open source che sfrutta agenti IA per trovare vulnerabilità. La Commissione ha confermato l'attacco, ma non conosce ancora…",
+      "image": "https://images.dday.it/1Dn1fZpLbcXsLHv0Cu1n8fR9oh5XnL85IjjAtUf9UD8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59536/eac547_european-union-flags-Depositphotos_58245389_XL.jpg",
+      "publishedAt": "2026-11-19T13:45:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     },
     {
-      "title": "GTA VI a soli 59€ su AliExpress con i coupon Black Friday: appena 100 copie",
-      "link": "https://www.tomshw.it/offerte/gta-vi-a-soli-59eur-su-aliexpress-con-i-coupon-black-friday-appena-100-copie",
-      "excerpt": "È arrivato il momento che milioni di giocatori stavano aspettando: Grand Theft Auto VI è finalmente pronto a debuttare, con il lancio ufficiale fissato per il 19 novembre 2026 su…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/111006/GTA6.jpg",
-      "publishedAt": "2026-11-18T23:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Le migliori offerte del Black Friday sono qui: gli sconti più attesi dell'anno",
-      "link": "https://www.tomshw.it/offerte/le-migliori-offerte-del-black-friday-sono-qui-gli-sconti-piu-attesi-dellanno",
-      "excerpt": "Il Black Friday 2026 è arrivato e, come ogni anno, porta con sé alcune delle occasioni più attese dagli appassionati di tecnologia e non solo. Per aiutarvi a orientarvi tra le…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/124868/Le-migliori-offerte-del-Black-Friday-sono-qui-gli-sconti-più-attesi-dell'anno.png",
-      "publishedAt": "2026-11-18T23:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Automatizzare la casa: i prodotti SwitchBot da scegliere al Black Friday Amazon 2026",
-      "link": "https://www.hdblog.it/domotica/offerte/n677485/black-friday-amazon-2026-switchbot-domotica/",
-      "excerpt": "Dallo SwitchBot Bot a 21,69€ alla serratura Lock Ultra, passando per Hub Matter, sensori, tende motorizzate e robot aspirapolvere: 10 offerte SwitchBot per il Black Friday Amazon…",
-      "image": "https://hd2.tudocdn.net/1386420?w=660",
-      "publishedAt": "2026-11-18T22:35:00+00:00",
+      "title": "Beatbot lancia nuovi robot per la piscina: il top gamma AquaSense 3 e l'accessibile Sora Neo R",
+      "link": "https://www.hdblog.it/home/articoli/n677608/beatbot-aquasense-3-sora-neo-r-robot-piscina/",
+      "excerpt": "Caratteristiche e prezzi Italia.",
+      "image": "https://hd2.tudocdn.net/1386701?w=660",
+      "publishedAt": "2026-11-19T13:45:00+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
     },
     {
-      "title": "Black Friday 2026: le offerte Amazon su Echo, Fire TV e Kindle",
-      "link": "https://www.hdblog.it/amazon/offerte/n677330/black-friday-2026-amazon-offerte-echo-fire-tv-kind/",
-      "excerpt": "Echo da 39,99€, Fire TV Stick da 25,99€ e Kindle da 139,99€: le offerte Black Friday Amazon 2026 per casa, streaming e lettura.",
-      "image": "https://hd2.tudocdn.net/1386291?w=660",
-      "publishedAt": "2026-11-18T22:01:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "De'Longhi Magnifica Duo serve 20 bevande e costa 549,99€, il minimo di sempre",
-      "link": "https://www.tomshw.it/altro/delonghi-magnifica-duo-serve-20-bevande-e-costa-54999eur-il-minimo-di-sempre",
-      "excerpt": "De'Longhi Magnifica Duo costa 549,99€ su Amazon e prepara 20 bevande con un tocco. Le caraffe LatteCrema Hot e Cool permettono di scegliere anche la schiuma di latte calda o…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/125010/tomshw-offer-2299227.png",
-      "publishedAt": "2026-11-18T21:18:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "AMD non ha dimenticato i gamers (ma non sono il suo core business)",
-      "link": "https://www.tomshw.it/hardware/amd-ribadisce-l-attenzione-ai-gamer-dopo-il-focus-sui-data-center",
-      "excerpt": "«AMD loves gamers»: è la frase con cui AMD Japan ha chiuso il messaggio dedicato al rapporto con i giocatori, pubblicato il 17 novembre 2026. Il post accompagna la condivisione di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/124883/news-flash-2298267.png",
-      "publishedAt": "2026-11-18T20:20:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Anthropic punta all'IPO, Taylor: attenti alla bolla AI",
-      "link": "https://www.tomshw.it/business/anthropic-taylor-promuove-l-ipo-e-avverte-sul-rischio-bolla-ai",
-      "excerpt": "La quotazione di Anthropic trova un giudizio favorevole al vertice della concorrente OpenAI. Bret Taylor, presidente del consiglio di amministrazione di OpenAI, vede nel debutto…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/124878/news-flash-2298189.png",
-      "publishedAt": "2026-11-18T19:58:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Philips Hue Essential, 4 lampadine a colori a 44,99€: mai costate così poco",
-      "link": "https://www.tomshw.it/altro/philips-hue-essential-4-lampadine-a-colori-a-4499eur-mai-costate-cosi-poco",
-      "excerpt": "Philips Hue Essential costa 44,99€ su Amazon per la confezione da quattro lampadine E27, con il 36% di sconto sui 69,99€ di listino. Il kit permette di portare luce bianca e…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/125009/tomshw-offer-2299185.png",
-      "publishedAt": "2026-11-18T19:48:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Black Friday Amazon 2026: tutte le offerte e sconti in tempo reale | Live",
-      "link": "https://www.hdblog.it/amazon/offerte/n676463/black-friday-amazon-2026-offerte-sconti-live/",
-      "excerpt": "Black Friday Amazon 2026: segui la Live di HDblog con le migliori offerte.",
-      "image": "https://hd2.tudocdn.net/1383926?w=660",
-      "publishedAt": "2026-11-18T19:00:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "SwitchBot AI Art Frame 2: il display E-ink è il punto di forza ma il design è limitante",
-      "link": "https://www.hdblog.it/home/recensioni/n676335/switchbot-ai-art-frame-2-test-prova-prezzo-sconto/",
-      "excerpt": "Abbiamo provato la nuova SwitchBot AI Art Frame 2, una cornice digitale con display E-ink, ecco come è andata!",
-      "image": "https://hd2.tudocdn.net/1383619?w=660",
-      "publishedAt": "2026-11-18T18:59:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Peugeot Lion Days, prezzi da 14.950 euro e finanziamenti a tasso zero: fino al 30 novembre",
-      "link": "https://www.hdmotori.it/peugeot-lion-days-prezzi-finanziamenti-tasso-zero/",
-      "excerpt": "Peugeot Lion Days novembre 2026: 208 da 14.950 euro, 2008 da 19.950 euro e vantaggi fino a 9.850 euro sulla 3008. Porte aperte il 21 e 22 novembre",
-      "image": "https://hd2.tudocdn.net/1386425?w=660",
-      "publishedAt": "2026-11-18T17:30:06+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Spider-Man: Brand New Day torna al cinema con nuove scene",
-      "link": "https://www.hdblog.it/sony/articoli/n677477/spider-man-brand-new-day-versione-estesa-cinema/",
-      "excerpt": "Spider-Man: Brand New Day torna nelle sale italiane dal 3 dicembre in versione estesa.",
-      "image": "https://hd2.tudocdn.net/1386370?w=660",
-      "publishedAt": "2026-11-18T17:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Nuovo Casio G-Shock viola trasparente, è ispirato alle ostriche",
-      "link": "https://www.hdblog.it/indossabili/articoli/n677476/casio-g-shock-sneaker-politics-dw6900sp26-6/",
-      "excerpt": "G-Shock e Sneaker Politics firmano un DW6900 viola ispirato alle ostriche della Louisiana.",
-      "image": "https://hd2.tudocdn.net/1386353?w=660",
-      "publishedAt": "2026-11-18T17:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Tesla Model 3 da quasi 500.000 km, freni e batteria sorprendono: i risultati dopo anni di utilizzo",
-      "link": "https://www.hdmotori.it/tesla-model-3-mezzo-milione-km/",
-      "excerpt": "Un proprietario ha affrontato quasi 300.000 miglia (482.803 km) a bordo di una Model 3. Il risultato finale è stato sorprendente",
-      "image": "https://hd2.tudocdn.net/1386421?w=660",
-      "publishedAt": "2026-11-18T17:00:26+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "DLSS 4.5 arriva in EVE Vanguard, Teardown e Blender 5.3",
-      "link": "https://www.hdblog.it/hardware/articoli/n677429/nvidia-dlss-45-eve-vanguard-teardown-blender/",
-      "excerpt": "L’alpha di EVE Vanguard debutta con DLSS 4.5 e Blender 5.3 lo usa per le anteprime 3D.",
-      "image": "https://hd2.tudocdn.net/1386336?w=660",
-      "publishedAt": "2026-11-18T16:55:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Proton Lumo arriva su Windows, macOS e Linux",
-      "link": "https://www.hdblog.it/windows/articoli/n677452/proton-lumo-desktop-windows-macos-linux/",
-      "excerpt": "L’assistente di Proton arriva su computer con connettori, pianificazioni e istruzioni riutilizzabili.",
-      "image": "https://hd2.tudocdn.net/1386313?w=660",
-      "publishedAt": "2026-11-18T16:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Piani cottura a induzione, il Black Friday di Amazon è già iniziato: ecco le offerte",
-      "link": "https://images.dday.it/KtIv6TSyokzCGuSZgwe768Po8sNdqpPJkGDBv8D-mSw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59519/4e8dcd_81k4mzNcGKL._AC_SL1500_.jpeg",
-      "excerpt": "Dai modelli con quattro zone di cottura alle funzioni per velocizzare le preparazioni e contenere i consumi: ecco alcuni piani cottura a induzione già in offerta per il Black…",
-      "image": "https://images.dday.it/KtIv6TSyokzCGuSZgwe768Po8sNdqpPJkGDBv8D-mSw/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59519/4e8dcd_81k4mzNcGKL._AC_SL1500_.jpeg",
-      "publishedAt": "2026-11-18T16:05:00+00:00",
+      "title": "LG si riorganizza per il 2027: nasce una divisione ad hoc per il raffreddamento dei data center AI",
+      "link": "https://images.dday.it/IBu0CNFACsM9oOubpbiG4w4blpWfXEmWwucFY1zGo6Y/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59535/c03cf5_LG_Chiller_Facility_Image_2.jpg",
+      "excerpt": "L’azienda coreana snellisce la struttura manageriale e crea la nuova unità Applied Business, affiancata da una filiale produttiva negli Stati Uniti per i chiller. Focus anche su…",
+      "image": "https://images.dday.it/IBu0CNFACsM9oOubpbiG4w4blpWfXEmWwucFY1zGo6Y/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59535/c03cf5_LG_Chiller_Facility_Image_2.jpg",
+      "publishedAt": "2026-11-19T13:31:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     },
     {
-      "title": "I “Lego lunari” potrebbero costruire le basi del futuro: creati mattoncini dalla regolite simulata",
-      "link": "https://images.dday.it/VgygvYdW7dxcWRFMEbfWGo5q67fYTBH6K9grWz7SE5c/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59520/757eb2_2026-11-09_10-32-10-PM_83229.jpg",
-      "excerpt": "Non è la prima volta che si producono mattoni dalla regolite simulata, ma questi si incastrano come Lego e richiedono un laser poco potente. Sulla Luna anche l'energia è una…",
-      "image": "https://images.dday.it/VgygvYdW7dxcWRFMEbfWGo5q67fYTBH6K9grWz7SE5c/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59520/757eb2_2026-11-09_10-32-10-PM_83229.jpg",
-      "publishedAt": "2026-11-18T15:58:00+00:00",
+      "title": "Gruppo Piaggio, parte il Black Ride-Day: fino a 1.500 euro di vantaggi",
+      "link": "https://www.hdmotori.it/black-ride-day-2026-sconti-finanziamenti-moto-scooter-gruppo-piaggio/",
+      "excerpt": "Fino al 30 novembre il Gruppo Piaggio lancia il Black Ride-Day: fino a 1.500 euro di vantaggi, rate da 99 euro e tasso zero su moto e scooter Aprilia, Moto Guzzi e Piaggio.",
+      "image": "https://hd2.tudocdn.net/1386689?w=660",
+      "publishedAt": "2026-11-19T13:30:56+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Black Friday Amazon 2026: le 10 offerte scelte da HDblog",
+      "link": "https://www.hdblog.it/amazon/offerte/n677601/black-friday-amazon-2026-10-migliori-primo-giorno/",
+      "excerpt": "Google Pixel 11 Pro a 879€, Samsung Mini LED a 299€, Sony WF-1000XM6 a 239€ e il nuovo MacBook Pro M5 Pro: le 10 offerte Black Friday selezionate da HDblog.",
+      "image": "https://hd2.tudocdn.net/1386679?w=660",
+      "publishedAt": "2026-11-19T13:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Netflix, ecco la ricetta per crescere ancora: meno quantità e più qualità",
+      "link": "https://www.hdblog.it/mercato/articoli/n677596/netflix-strategia-crescita-qualita/",
+      "excerpt": "Netflix vuole continuare a crescere conquistando nuovi abbonati e una parte del pubblico ancora legata alla televisione tradizionale. Ted Sarandos spiega la strategia della…",
+      "image": "https://hd2.tudocdn.net/1358627?w=660",
+      "publishedAt": "2026-11-19T13:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Tablet per ogni esigenza e budget: le offerte al Black Friday 2026",
+      "link": "https://www.hdblog.it/tablet/offerte/n677605/offerte-tablet-black-friday-amazon-2026/",
+      "excerpt": "Il Black Friday di Amazon ha travolto anche la categoria dei tablet: i modelli da acquistare, da quelli più economici a quello premium.",
+      "image": "https://hd2.tudocdn.net/1386683?w=660",
+      "publishedAt": "2026-11-19T13:12:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "XPENG L03 Power X, il SUV coupé con range extender supera i 1.000 km e costa 38.970 euro",
+      "link": "https://www.hdmotori.it/xpeng-l03-power-x-autonomia-prezzo/",
+      "excerpt": "XPENG L03 Power X debutta in Italia con tecnologia range extender, autonomia superiore a 1.000 km, intelligenza artificiale e prezzi da 38.970 euro",
+      "image": "https://hd2.tudocdn.net/1386682?w=660",
+      "publishedAt": "2026-11-19T13:00:52+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google Telefono e Messaggi, arrivano le nuove icone con sfumature blu",
+      "link": "https://www.hdblog.it/smartphone/articoli/n677593/google-telefono-messaggi-nuove-icone/",
+      "excerpt": "Google Telefono e Google Messaggi ricevono le nuove icone dopo l'aggiornamento già distribuito per l'app Contatti. Il cambiamento riguarda colori, proporzioni ed effetti gradiente",
+      "image": "https://hd2.tudocdn.net/1363821?w=660",
+      "publishedAt": "2026-11-19T12:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Black Friday 2026: ecco 5 prodotti tech da non perdere | VIDEO",
+      "link": "https://www.hdblog.it/tecnologia/articoli/n677440/black-friday-2026-0-gadget-tech-sconti-reali/",
+      "excerpt": "Abbiamo selezionato per voi 10 prodotti tech con sconti reali da tenere d'occhio in questo Black Friday 2026",
+      "image": "https://hd2.tudocdn.net/1386310?w=660",
+      "publishedAt": "2026-11-19T12:31:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Lamborghini Temerario Spyder: 920 CV a cielo aperto",
+      "link": "https://www.hdmotori.it/lamborghini-temerario-spyder-caratteristiche-motore-prestazioni/",
+      "excerpt": "La nuova supersportiva scoperta di Sant'Agata Bolognese porta al debutto un inedito tetto rigido retrattile ad azionamento verticale e il powertrain V8 ibrido da 920 CV.",
+      "image": "https://hd2.tudocdn.net/1386678?w=660",
+      "publishedAt": "2026-11-19T12:30:14+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "AirPods 5: gli auricolari Apple scendono a 129 euro per il Black Friday",
+      "link": "https://images.dday.it/g7U8HZ86TZCSKJNGvYQycnTucwB-4fO_HFlk22mvXC8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59532/9d7b43_71B6YHpfBVL._AC_SL1500_.jpg",
+      "excerpt": "Cancellazione attiva del rumore, audio adattivo e traduzione in tempo reale: gli auricolari Apple arrivano a un prezzo interessante per il Black Friday... Leggi tutto",
+      "image": "https://images.dday.it/g7U8HZ86TZCSKJNGvYQycnTucwB-4fO_HFlk22mvXC8/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59532/9d7b43_71B6YHpfBVL._AC_SL1500_.jpg",
+      "publishedAt": "2026-11-19T12:04:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     },
     {
-      "title": "Haier: nel 2027 TV SQD Mini LED e RGB Mini LED. Obiettivo raggiungere il 5% di quota di mercato",
-      "link": "https://images.dday.it/7-fJws4I5A8swViI8XdP-aBpV5O5ej7vhAancR6c-Nk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59513/de84a8_IMG_8487.jpg",
-      "excerpt": "Haier fa il punto sull’ingresso nel mercato dei TV e anticipa il lancio di nuove tecnologie: il prossimo anno arriveranno i primi TV Haier RGB mini LED ma ci saranno anche degli…",
-      "image": "https://images.dday.it/7-fJws4I5A8swViI8XdP-aBpV5O5ej7vhAancR6c-Nk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59513/de84a8_IMG_8487.jpg",
-      "publishedAt": "2026-11-18T14:37:00+00:00",
+      "title": "L'allerta terremoti di Google debutta in Italia. Tre avvisi in base alla forza della scossa, vale solo per Android",
+      "link": "https://images.dday.it/knWjK-fqTBloPSZkSUQx9W6DSQro2qvAwJ9pU_BKuAg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59534/314327_terremoti_thumb.jpg",
+      "excerpt": "Il sistema di Google può avvisare gli utenti prima dell’arrivo delle scosse. Nei prossimi mesi gli avvisi \"Preparati\" saranno arricchiti con una mappa dell’area interessata, la…",
+      "image": "https://images.dday.it/knWjK-fqTBloPSZkSUQx9W6DSQro2qvAwJ9pU_BKuAg/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59534/314327_terremoti_thumb.jpg",
+      "publishedAt": "2026-11-19T12:00:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     },
     {
-      "title": "La nuova Lancia Delta? \"Non è una priorità\". In arrivo una piccola erede della Y10",
-      "link": "https://images.dday.it/Jd1x0C4LJKJoDdcr33NgWt-5EMoJcpyr5WLyL8bH6nA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59516/e0161c_lancia_thumb.jpg",
-      "excerpt": "Il responsabile del marchio Arnaud Belloni considera troppo ristretto il pubblico della Delta, prevista per il 2028. Sta lavorando a una citycar premium, ma il progetto deve…",
-      "image": "https://images.dday.it/Jd1x0C4LJKJoDdcr33NgWt-5EMoJcpyr5WLyL8bH6nA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59516/e0161c_lancia_thumb.jpg",
-      "publishedAt": "2026-11-18T14:13:00+00:00",
+      "title": "Huawei GT7 Pro provato sulla neve. Il primo smartwatch con una vera modalità sci",
+      "link": "https://images.dday.it/Bjve6IEt3LtSG1UvCYRe0tbYP6EI8godo-DfyEjbnIU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59297/b3ab7c_huawei_4.JPG",
+      "excerpt": "La stagione invernale si avvicina e il Huawei Watch GT 7 Pro potrebbe essere il compagno ideale per chi passa tanto tempo sulle piste. La nuova modalità sci e snowboard, con…",
+      "image": "https://images.dday.it/Bjve6IEt3LtSG1UvCYRe0tbYP6EI8godo-DfyEjbnIU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59297/b3ab7c_huawei_4.JPG",
+      "publishedAt": "2026-11-19T11:42:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     },
     {
-      "title": "In Svizzera hanno riacceso la radio pubblica in FM",
-      "link": "https://images.dday.it/3xQfdtVkrhj8loNG7aG7xKNWUNpSNn8_zDkwQzo0C-o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59517/d72a15_Radio_vintage_con_emblema_svizzero.png",
-      "excerpt": "Dopo aver spento la FM alla fine del 2024, la radio pubblica svizzera torna sui suoi passi. Pesano la decisione politica e il calo degli ascolti. Riaccesi i trasmettitori, ma con…",
-      "image": "https://images.dday.it/3xQfdtVkrhj8loNG7aG7xKNWUNpSNn8_zDkwQzo0C-o/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59517/d72a15_Radio_vintage_con_emblema_svizzero.png",
-      "publishedAt": "2026-11-18T14:13:00+00:00",
+      "title": "È questo il dispositivo AI di Nothing? Spunta sulla scrivania di un DJ",
+      "link": "https://images.dday.it/kdrEpMxCUjC2WO9gGMxwUMomRjW_JGV3UHgqFgYXSP4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59530/4b6db2_nothing.jpeg",
+      "excerpt": "Sebastian Ingrosso degli Swedish House Mafia ha mostrato il gadget in un post condiviso sui social, taggando Nothing. Potrebbe essere il prodotto anticipato da Carl Pei per…",
+      "image": "https://images.dday.it/kdrEpMxCUjC2WO9gGMxwUMomRjW_JGV3UHgqFgYXSP4/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59530/4b6db2_nothing.jpeg",
+      "publishedAt": "2026-11-19T11:31:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Sony A7 IV, arriva l’open gate 3:2 grazie a un mod non ufficiale",
+      "link": "https://www.dday.it/news/34/sony-a7-iv-arriva-l-open-gate-3-2-grazie-a-un-mod-non-ufficiale",
+      "excerpt": "Un hacker ha aggiunto alla Sony A7 IV la registrazione video in 3:2 \"open gate\" e ne ha pubblicato la prova su Reddit (r/SonyAlpha): secondo l'autore la lettura sfrutta tutta…",
+      "image": "https://images.dday.it/WdIC4pFNUCWW-IyFAXHRZNEz8syX3QLxGpEcoVvk79o/w:1200/h:934/rt:fill/plain/s3://dday-production/system/uploads/ai_pill/main_image/34/c25758_HXamW5xX0AEBTF1.jpeg",
+      "publishedAt": "2026-11-19T11:22:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
