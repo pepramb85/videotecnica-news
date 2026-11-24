@@ -1,107 +1,224 @@
 {
-  "generatedAt": "2026-11-23T16:58:54.846122+00:00",
+  "generatedAt": "2026-11-24T03:40:27.381791+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Xbox Project Helix: Steam e multiplayer senza Game Pass?",
-      "link": "https://www.tomshw.it/videogioco/xbox-project-helix-avrebbe-previsto-steam-e-multiplayer-senza-abbonamento",
-      "excerpt": "Giocare online senza un abbonamento obbligatorio sarebbe stato uno degli obiettivi iniziali di Xbox Project Helix, insieme alla possibilità di installare Steam. Le due funzioni…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/125944/news-flash-2368854.png",
-      "publishedAt": "2026-11-23T16:55:16+00:00",
+      "title": "Offerta shock per robot e lavapavimenti Roborock, risparmi fino a 700 euro",
+      "link": "https://images.dday.it/MxFU9qxH0HPGJVQUNynSJWerVVIYqF8fzzpiAs3geE0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59489/0c6cfd_ape1.jpg",
+      "excerpt": "Si parte da 299,99 euro per il Qrevo S Pro con due panni rotanti. A 349 euro il Qrevo Curv 2 Flow ha un rullo che si lava mentre pulisce, mentre i Saros arrivano a 36.000 Pa di…",
+      "image": "https://images.dday.it/MxFU9qxH0HPGJVQUNynSJWerVVIYqF8fzzpiAs3geE0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59489/0c6cfd_ape1.jpg",
+      "publishedAt": "2026-11-24T01:03:07+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Il Black Friday LG è una vera svolta: più compri e più risparmi. Extra sconto fino al 20% e paghi da febbraio 2027",
+      "link": "https://images.dday.it/TAmymLbCx4nyUyJq5DSwfIbibFRjkWazp9CuJWs_XDk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59472/c17c3c_lg_bf_thumb.jpg",
+      "excerpt": "Fino al 2 dicembre, i Member LG possono ottenere uno sconto crescente acquistando più prodotti: si parte dal 5% con un articolo e si arriva al 15% da tre prodotti in su. Ed è…",
+      "image": "https://images.dday.it/TAmymLbCx4nyUyJq5DSwfIbibFRjkWazp9CuJWs_XDk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59472/c17c3c_lg_bf_thumb.jpg",
+      "publishedAt": "2026-11-24T01:03:07+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Spazio su disco sempre più caro: perché conviene investire in uno storage che sopravvive al Mac e al PC",
+      "link": "https://images.dday.it/M01R4mbo_wG17puzbrOuF7ceU_xicjdfxW2wQEG3_rY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59459/17ea74_qnap.jpg",
+      "excerpt": "Da una parte i computer ai quali non si può aggiungere storage aftermarket, dall’altra i prezzi dei dischi che continuano a salire senza sosta. Per chi lavora con video e foto c’è…",
+      "image": "https://images.dday.it/M01R4mbo_wG17puzbrOuF7ceU_xicjdfxW2wQEG3_rY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59459/17ea74_qnap.jpg",
+      "publishedAt": "2026-11-24T01:03:07+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "ECOVACS GOAT O600 RTK al -40%: taglia il prato senza filo perimetrale",
+      "link": "https://www.tomshw.it/offerte/ecovacs-goat-o600-rtk-al-40-taglia-il-prato-senza-filo-perimetrale",
+      "excerpt": "ECOVACS GOAT O600 RTK costa 349,00€ su Amazon anziché 579,00€, con uno sconto del 40%: è il prezzo più basso del 2026. È pensato per automatizzare il taglio su prati fino a 600…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/125568/B0G5WQ1N37.webp",
+      "publishedAt": "2026-11-23T21:00:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "NVIDIA sale, chi è in short rischia la batosta",
-      "link": "https://www.tomshw.it/business/nvidia-sale-gli-short-rischiano-12-2-miliardi-secondo-ortex",
-      "excerpt": "Circa 12,2 miliardi di dollari di perdite non realizzate sulle posizioni ribassiste in NVIDIA: è la stima di ORTEX dopo il rialzo del titolo seguito al ritorno di Jensen Huang…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/125939/news-flash-2368839.png",
-      "publishedAt": "2026-11-23T16:52:09+00:00",
+      "title": "Samsung OLED S92H, film con meno riflessi a 1.399€: è il minimo di sempre",
+      "link": "https://www.tomshw.it/offerte/samsung-oled-s92h-film-con-meno-riflessi-a-1399eur-e-il-minimo-di-sempre",
+      "excerpt": "Samsung OLED S92H costa 1399,00€ su Amazon, anziché 1799,00€, con uno sconto del 22%: è il prezzo più basso del 2026. Lo schermo OLED da 65 pollici è pensato per chi cerca un…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/125566/B0GWMYLNDK.webp",
+      "publishedAt": "2026-11-23T20:30:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "CALL4INNOVIT apre due call per startup Life Sciences e PMI della longevità",
-      "link": "https://www.tomshw.it/business/call4innovit-apre-due-call-per-startup-life-sciences-e-pmi-della-longevita",
-      "excerpt": "INNOVIT apre due nuovi percorsi per portare l'innovazione italiana nelle scienze della vita a contatto con l'ecosistema di San Francisco e della Silicon Valley. Le call Startup…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/125925/08-call4innovit-life-sciences-longevita.jpg",
-      "publishedAt": "2026-11-23T16:32:16+00:00",
+      "title": "Veicoli industriali in crescita: +7,4% spinto dai trattori",
+      "link": "https://www.tomshw.it/automotive/i-veicoli-industriali-accelerano-al-7-4-grazie-ai-trattori",
+      "excerpt": "I trattori stradali raggiungono il massimo mensile dell’anno e sostengono la crescita del mercato italiano dei veicoli industriali. A ottobre 2026 ne sono stati immatricolati…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/125855/news-flash-2368218.png",
+      "publishedAt": "2026-11-23T20:10:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Starship torna dall'orbita, ma Musk non vuole farla ripartire",
-      "link": "https://www.tomshw.it/scienze/la-prima-starship-recuperata-non-volera-piu-ecco-perche",
-      "excerpt": "SpaceX vuole conservare la prima Starship recuperata dall’orbita con i bracci della torre di lancio. Elon Musk ha annunciato che Ship 42 sarà destinata all’esposizione pubblica,…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/125933/la-prima-starship-recuperata-non-volera-piu-ecco-perche.png",
-      "publishedAt": "2026-11-23T16:30:00+00:00",
+      "title": "LG UltraFine Ergo a 358,22€, il monitor 4K che si adatta a come lavori",
+      "link": "https://www.tomshw.it/offerte/lg-ultrafine-ergo-a-35822eur-il-monitor-4k-che-si-adatta-a-come-lavori",
+      "excerpt": "LG UltraFine Ergo 32UN880K costa 358,22€ su Amazon, anziché 399,88€, con uno sconto del 10%. Il pannello IPS da 32 pollici con risoluzione 4K e il supporto regolabile sono pensati…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/125564/B0DNRF5RDC.webp",
+      "publishedAt": "2026-11-23T20:00:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Canon EOS R100 a 489,99€, il minimo di sempre per iniziare con una mirrorless",
-      "link": "https://www.tomshw.it/offerte/canon-eos-r100-a-48999eur-il-minimo-di-sempre-per-iniziare-con-una-mirrorless",
-      "excerpt": "Canon EOS R100 costa 489,99€ su Amazon, anziché 559,00€, con uno sconto del 12%: è il prezzo più basso del 2026. È pensata per chi vuole iniziare a fotografare con obiettivi…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/125554/B0CVYLY7TG.webp",
-      "publishedAt": "2026-11-23T16:30:00+00:00",
+      "title": "Migliori VPN per Amazon Fire TV Stick (gratis e a pagamento)",
+      "link": "https://www.tomshw.it/hardware/migliori-vpn-fire-tv-stick",
+      "excerpt": "Per scegliere una VPN per Amazon Fire TV Stick, partite dal sistema operativo del dispositivo e dal piano che volete usare. NordVPN è al primo posto: ha app per Fire OS e Vega OS,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/125924/vpn-fire-tv-stick-827612-cover.png",
+      "publishedAt": "2026-11-23T19:30:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Microsoft 365, mancata consegna di email: tutti i dettagli",
-      "link": "https://www.tomshw.it/hardware/microsoft-365-non-ha-consegnato-alcune-email-ecco-quali",
-      "excerpt": "Tutte le email aziendali rimaste in coda durante il guasto di Microsoft 365 sono state consegnate. Alcuni messaggi destinati a caselle consumer sono invece scaduti prima di…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/125937/news-flash-2368787.png",
-      "publishedAt": "2026-11-23T16:26:21+00:00",
+      "title": "OqtaDrive, il dispositivo che porta lo ZX Spectrum online",
+      "link": "https://www.tomshw.it/hardware/oqtadrive-emula-8-microdrive-e-collega-i-sinclair-via-internet",
+      "excerpt": "Una catena di otto Microdrive emulati, utilizzabile anche insieme alle unità originali: è ciò che mette a disposizione OqtaDrive sui Sinclair ZX Spectrum dotati di Interface 1 e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/125835/news-flash-2368136.png",
+      "publishedAt": "2026-11-23T19:30:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Amazon garantisce patch al Kindle 2019 fino al 2026",
-      "link": "https://www.tomshw.it/hardware/amazon-kindle-2019-avra-patch-di-sicurezza-almeno-fino-al-2026",
-      "excerpt": "Per Kindle 2019 e Kindle Paperwhite 2018, entrambi di decima generazione, gli aggiornamenti di sicurezza sono garantiti almeno fino al 31 dicembre 2026. È il termine indicato da…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/125936/news-flash-2368790.png",
-      "publishedAt": "2026-11-23T16:25:32+00:00",
+      "title": "Cantina vino Hisense a 224€, il minimo di sempre per conservare 30 bottiglie",
+      "link": "https://www.tomshw.it/offerte/cantina-vino-hisense-a-224eur-il-minimo-di-sempre-per-conservare-30-bottiglie",
+      "excerpt": "La cantina vino Hisense costa 224,00€ su Amazon, anziché 299,99€, con uno sconto del 25%: è il prezzo più basso del 2026. È pensata per chi desidera conservare fino a 30 bottiglie…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/125563/B0C2VFH9RB.webp",
+      "publishedAt": "2026-11-23T19:30:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "The Witcher 4 cambia le missioni per l'impulsività di Ciri",
-      "link": "https://www.tomshw.it/videogioco/the-witcher-4-cambia-le-missioni-per-l-impulsivita-di-ciri",
-      "excerpt": "L'impulsività di Ciri influenzerà la costruzione delle missioni di The Witcher 4. La nuova protagonista è più emotiva e meno controllata di Geralt di Rivia: una differenza...",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109284/ar3nks.jpg",
-      "publishedAt": "2026-11-23T16:20:40+00:00",
+      "title": "Le Sennheiser Momentum 4 costano 169€: mai costate così poco",
+      "link": "https://www.tomshw.it/offerte/le-sennheiser-momentum-4-costano-169eur-mai-costate-cosi-poco",
+      "excerpt": "MOMENTUM 4 Wireless scende a 169,00€ su Amazon anziché 193,30€, con uno sconto del 13%: è il prezzo più basso del 2026. Queste cuffie sono pensate per ascoltare musica durante…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/125562/B0CQ56P6W5.webp",
+      "publishedAt": "2026-11-23T19:00:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "RTX 5090, un software gratuito potrebbe salvarvi da un brutto guaio",
-      "link": "https://www.tomshw.it/hardware/rtx-5090-ha-un-allarme-gratuito-il-connettore-resta-a-rischio",
-      "excerpt": "È disponibile RTX Lens, un software gratuito che monitora l'alimentazione delle schede video attraverso i sensori dell'hardware compatibile e permette di ricevere avvisi sul…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/125923/rtx-5090-ha-un-allarme-gratuito-il-connettore-resta-a-rischio.png",
-      "publishedAt": "2026-11-23T16:20:00+00:00",
+      "title": "Niente audio Bluetooth sul PC: come attivare l'A2DP",
+      "link": "https://www.tomshw.it/hardware/audio-bluetooth-telefono-pc-non-funziona-ricezione-a2dp",
+      "excerpt": "Se il telefono Android è collegato via Bluetooth al PC Windows 11 ma l'audio non funziona, verifica prima che il computer stia ricevendo la musica: l'associazione, da sola, non…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/124086/cover.png",
+      "publishedAt": "2026-11-23T19:00:00+00:00",
       "source": "Tom's Hardware",
       "sourceColor": "#9B2D2D"
     },
     {
-      "title": "Apple risolve uno dei problemi più fastidiosi di chi ha due iPhone",
-      "link": "https://www.tomshw.it/smartphone/ios-27-porta-lo-stesso-numero-su-due-iphone-squillano-entrambi",
-      "excerpt": "Apple introduce in iOS 27 una funzione che permette di usare lo stesso numero su due iPhone, passando dall'uno all'altro attraverso lo sblocco del dispositivo. Si chiama iPhone…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/125919/ios-27-porta-lo-stesso-numero-su-due-iphone-squillano-entrambi.png",
-      "publishedAt": "2026-11-23T16:10:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "BubbleLoader si nasconde in copie alterate di WinRAR e Windows Media Player",
-      "link": "https://www.hdblog.it/windows/articoli/n677880/bubbleloader-winrar-windows-media-player-malware/",
-      "excerpt": "I ricercatori hanno trovato copie manomesse di programmi Windows che caricano altro malware.",
-      "image": "https://hd2.tudocdn.net/1354522?w=660",
-      "publishedAt": "2026-11-23T15:55:00+00:00",
+      "title": "Mazda Black Friday: extra sconti fino a 2.000 euro su tutta la gamma",
+      "link": "https://www.hdmotori.it/mazda-black-friday-extra-sconti/",
+      "excerpt": "Fino al 7 dicembre la Casa giapponese taglia i prezzi con un extra sconto cumulabile con altre promozioni e che non prevede l’obbligo di permuta o finanziamento.",
+      "image": "https://hd2.tudocdn.net/1387580?w=660",
+      "publishedAt": "2026-11-23T18:30:12+00:00",
       "source": "HDblog.it",
       "sourceColor": "#0066CC"
+    },
+    {
+      "title": "MOVA S70 Ultra Roller a 599€, lava con acqua fresca e lascia asciutti i tappeti",
+      "link": "https://www.tomshw.it/offerte/mova-s70-ultra-roller-a-599eur-lava-con-acqua-fresca-e-lascia-asciutti-i-tappeti",
+      "excerpt": "MOVA S70 Ultra Roller costa 599,00€ su Amazon anziché 699,00€, con uno sconto del 14%: è il prezzo più basso del 2026. È pensato per chi vuole automatizzare aspirazione e lavaggio…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/125561/B0GTM5HFWW.webp",
+      "publishedAt": "2026-11-23T18:30:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "IT-Wallet arriva nell'app IO: nuovi documenti digitali, ma non è ancora disponibile per tutti",
+      "link": "https://www.hdblog.it/sicurezza/articoli/n677938/it-wallet-arriva-app-io-nuovi-documenti/",
+      "excerpt": "Il portafoglio digitale dell'app IO sta per cambiare",
+      "image": "https://hd2.tudocdn.net/1387459?w=660",
+      "publishedAt": "2026-11-23T18:22:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Jensen Huang torna alla guida di Nvidia: reintegrato come CEO e membro del consiglio",
+      "link": "https://www.hdblog.it/nvidia/articoli/n677951/jensen-huang-torna-nvidia-ceo/",
+      "excerpt": "E' arrivato il voto unanime del consiglio di amministrazione a favore del suo ritorno",
+      "image": "https://hd2.tudocdn.net/1137943?w=660",
+      "publishedAt": "2026-11-23T18:21:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Grand Theft Auto 6, arriva la prima patch: risolti alcuni dei bug più fastidiosi",
+      "link": "https://www.hdblog.it/games/articoli/n677998/gta-6-prima-patch-cosa-cambia-novita-salvataggi/",
+      "excerpt": "Sistemato soprattutto il sistema di salvataggi automatici, ma anche il bug delle chiamate che non avvengono e non permettono di far progredire la storia.",
+      "image": "https://hd2.tudocdn.net/1385408?w=660",
+      "publishedAt": "2026-11-23T17:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Si può dormire in auto senza prendere multe? Cosa dice la legge",
+      "link": "https://www.hdmotori.it/dormire-auto-legale-regole-multe/",
+      "excerpt": "Il Codice della strada non vieta di riposare in auto, ma esistono regole precise su parcheggi, autostrade, motore acceso e campeggio libero: ecco cosa sapere per evitare multe.",
+      "image": "https://hd2.tudocdn.net/1387581?w=660",
+      "publishedAt": "2026-11-23T17:30:36+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "MacBook Neo (512 GB) in offerta: è il momento giusto per acquistarlo",
+      "link": "https://www.hdblog.it/portatili/offerte/n677990/macbook-neo-512-gb-offerta-psprcyber26/",
+      "excerpt": "Il MacBook Neo da 512 GB cala di prezzo ed è ora disponibile in promo con oltre 100 euro di sconto.",
+      "image": "https://hd2.tudocdn.net/1331721?w=660",
+      "publishedAt": "2026-11-23T17:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Honor Earbuds Clip ufficiali: economici e con ottima autonomia",
+      "link": "https://www.hdblog.it/indossabili/articoli/n677989/honor-earbuds-clip-specifiche-immagini-auricolari/",
+      "excerpt": "Costano poco più di 60€ in Cina. Chissà quando arriveranno da noi?",
+      "image": "https://hd2.tudocdn.net/1387552?w=660",
+      "publishedAt": "2026-11-23T17:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Google Nest, resta poco tempo per passare all'app Home",
+      "link": "https://www.hdblog.it/google/articoli/n677979/google-nest-passaggio-app-home/",
+      "excerpt": "Nest sta per chiudere",
+      "image": "https://hd2.tudocdn.net/1030029?w=660",
+      "publishedAt": "2026-11-23T17:20:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "HMD riporta in vita i PureView? Il teaser anticipa un cameraphone misterioso",
+      "link": "https://www.hdblog.it/smartphone/articoli/n677982/hmd-pureview-ritorno-nokia-come-sara-foto/",
+      "excerpt": "HMD potrebbe riportare sul mercato il marchio PureView, reso celebre dagli smartphone Nokia. Un teaser pubblicato nella community dell'azienda mostra un nuovo dispositivo con…",
+      "image": "https://hd2.tudocdn.net/1387541?w=660",
+      "publishedAt": "2026-11-23T17:10:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Un quadro \"infestato\" che vi segue con lo sguardo, con ESP32",
+      "link": "https://www.hdblog.it/domotica/articoli/n677986/esp32-quadro-infestato-sguardo-segue-persone/",
+      "excerpt": "Ed è tutto \"fisico\", niente illusioni ottiche o display digitali!",
+      "image": "https://hd2.tudocdn.net/1387547?w=660",
+      "publishedAt": "2026-11-23T17:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Tre piani cottura a induzione sotto i 210 euro: Electrolux, Hisense e Candy a confronto",
+      "link": "https://images.dday.it/oGGbs8V8q4HPFkRkXnv5RALT5YEiXTUGVck57VPR81Y/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59597/e7465c_81Syyk25weL._AC_SL1500_.jpeg",
+      "excerpt": "Spendere meno di 210 euro per un piano cottura a induzione è possibile: questi tre modelli di Electrolux, Hisense e Candy sono in offerta su Amazon per il Black Friday... Leggi…",
+      "image": "https://images.dday.it/oGGbs8V8q4HPFkRkXnv5RALT5YEiXTUGVck57VPR81Y/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59597/e7465c_81Syyk25weL._AC_SL1500_.jpeg",
+      "publishedAt": "2026-11-23T16:25:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
     },
     {
       "title": "TCL CSOT mostra in un video come nascono gli OLED stampati a getto di inchiostro",
@@ -113,33 +230,6 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Chiara, il trailer del documentario Netflix su Chiara Ferragni",
-      "link": "https://www.hdblog.it/spettacolo/articoli/n677866/chiara-ferragni-documentario-netflix-trailer-23-novembre/",
-      "excerpt": "Netflix pubblica il trailer di Chiara, il documentario su Chiara Ferragni in arrivo il 23 novembre.",
-      "image": "https://hd2.tudocdn.net/1387300?w=660",
-      "publishedAt": "2026-11-23T15:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Commodore Talkback, auricolari con filo e taratura FiiO a 50 dollari",
-      "link": "https://www.hdblog.it/indossabili/articoli/n677960/commodore-talkback-auricolari-filo-fiio-prezzo/",
-      "excerpt": "I Talkback hanno jack da 3,5 mm, microfono e comandi sul cavo. Preordini aperti.",
-      "image": "https://hd2.tudocdn.net/1387518?w=660",
-      "publishedAt": "2026-11-23T15:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Microsoft lancia l'allarme: nel 2027 vedremo decine di servizi in down",
-      "link": "https://www.hdblog.it/microsoft/articoli/n677950/microsoft-2027-servizi-in-down/",
-      "excerpt": "Per questo motivo",
-      "image": "https://hd2.tudocdn.net/1387513?w=660",
-      "publishedAt": "2026-11-23T15:15:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Fino a 120 km di autonomia con una ricarica: questa bici elettrica da 250 W è in offerta per il Black Friday",
       "link": "https://images.dday.it/mheQ8f08SRafbzZunoCM62fIStT4qMwDgwOWY0eDKq0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59595/542fae_71DKPMtkbQL._AC_SL1254_.jpg",
       "excerpt": "Batteria da 36 V e 20 Ah, motore da 250 W e cambio a 7 velocità: questa bici elettrica promette tanta autonomia per gli spostamenti quotidiani e ora costa meno grazie al Black…",
@@ -147,15 +237,6 @@
       "publishedAt": "2026-11-23T15:03:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
-    },
-    {
-      "title": "Nuova Lexus NX, debutto in Europa con diversi motori ibridi: prezzo e caratteristiche",
-      "link": "https://www.hdmotori.it/nuova-lexus-nx-motori-ibridi-prezzo-caratteristiche/",
-      "excerpt": "Il nuovo Lexus NX è stata svelata in anteprima europea alle Nitto ATP Finals di Torino, in corso fino al 22 novembre 2026.",
-      "image": "https://hd2.tudocdn.net/1387524?w=660",
-      "publishedAt": "2026-11-23T15:00:03+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
     },
     {
       "title": "Bastano 25 euro per avere una dash cam in auto: ecco le offerte da cogliere al volo",
@@ -167,65 +248,11 @@
       "sourceColor": "#E63946"
     },
     {
-      "title": "Black Friday Amazon: Sennheiser IE 100 PRO a 69€, gli auricolari professionali scendono sotto i 70€",
-      "link": "https://www.hdblog.it/indossabili/offerte/n677955/sennheiser-ie-100-pro-auricolari-black-friday/",
-      "excerpt": "Sennheiser IE 100 PRO in offerta a 69€ per il Black Friday Amazon. Auricolari intrauricolari progettati per musicisti, DJ e produzione audio, con uno sconto del 22%.",
-      "image": "https://hd2.tudocdn.net/1387520?w=660",
-      "publishedAt": "2026-11-23T14:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Avengers: Doomsday: il trailer finale è da brividi",
-      "link": "https://www.hdblog.it/curiosita/articoli/n664853/avengers-doomsday-primo-trailer/",
-      "excerpt": "Il primo trailer svela Doctor Doom e anticipa lo scontro tra tutti gli eroi Marvel.",
-      "image": "https://hd2.tudocdn.net/1357691?w=660",
-      "publishedAt": "2026-11-23T14:45:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Samsung Odyssey G6, il monitor gaming da 1.100 Hz in HD",
-      "link": "https://www.hdblog.it/hardware/articoli/n677957/samsung-odyssey-g6-g60h-monitor-gaming-1100-hz/",
-      "excerpt": "Il G60H da 27 pollici arriva a 1.100 Hz in HD e a 600 Hz in QHD.",
-      "image": "https://hd2.tudocdn.net/1387510?w=660",
-      "publishedAt": "2026-11-23T14:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "BYD Ti7, vietata la vendita in Europa: è troppo simile al Defender",
-      "link": "https://www.hdmotori.it/byd-ti7-bloccata-vendita-defender/",
-      "excerpt": "Il Tribunale dell'Aia vieta la vendita della SUV cinese nell'UE: viola un design comunitario della Defender. BYD annuncia ricorso, multe fino a 10 milioni di euro.",
-      "image": "https://hd2.tudocdn.net/1384082?w=660",
-      "publishedAt": "2026-11-23T14:30:09+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Galaxy A38 non potrà certo vantarsi della fotocamera di due generazioni fa",
-      "link": "https://www.hdblog.it/smartphone/articoli/n677944/samsung-galaxy-a38-fotocamera/",
-      "excerpt": "Il nuovo Galaxy A38 potrebbe montare lo stesso sensore fotografico del Galaxy A36, ma con una batteria più capiente.",
-      "image": "https://hd2.tudocdn.net/1387475?w=660",
-      "publishedAt": "2026-11-23T14:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
       "title": "Come non detto: Jensen Huang torna alla guida di Nvidia undici giorni dopo le dimissioni",
       "link": "https://images.dday.it/fF2-H4E40qNynGO66gzIY2tH9-uDvEbuhPZepGMMU_Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59593/e969c7_small_Re_Nvidia_con_Mantello_Regale_copia.png",
       "excerpt": "Il consiglio di amministrazione lo ha reintegrato all'unanimità dopo aver sentito il governo americano. Prosegue però l'indagine interna sul presunto tentativo di spionaggio…",
       "image": "https://images.dday.it/fF2-H4E40qNynGO66gzIY2tH9-uDvEbuhPZepGMMU_Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59593/e969c7_small_Re_Nvidia_con_Mantello_Regale_copia.png",
       "publishedAt": "2026-11-23T14:22:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Il Black Friday LG è una vera svolta: più compri e più risparmi. Extra sconto fino al 20% e paghi da febbraio 2027",
-      "link": "https://images.dday.it/TAmymLbCx4nyUyJq5DSwfIbibFRjkWazp9CuJWs_XDk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59472/c17c3c_lg_bf_thumb.jpg",
-      "excerpt": "Fino al 2 dicembre, i Member LG possono ottenere uno sconto crescente acquistando più prodotti: si parte dal 5% con un articolo e si arriva al 15% da tre prodotti in su. Ed è…",
-      "image": "https://images.dday.it/TAmymLbCx4nyUyJq5DSwfIbibFRjkWazp9CuJWs_XDk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59472/c17c3c_lg_bf_thumb.jpg",
-      "publishedAt": "2026-11-23T14:05:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     },
@@ -244,33 +271,6 @@
       "excerpt": "Mozilla esce allo scoperto: non è possibile realizzare un browser alternativo “vero” per iPhone a causa delle restrizioni di Apple. Che non può però nominare, perché protette da…",
       "image": "https://images.dday.it/E2qgrYwpdAEhxjGunvtXMt6szDVe_lUpcp_5u7QR8eA/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/59592/f2dc99_ff.jpg",
       "publishedAt": "2026-11-23T13:34:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Droni a idrogeno verde trasportano materiali sanitari: il test a Padova",
-      "link": "https://images.dday.it/ltIDprfDKDL8TpmSYoOUNZQSrhEIKLGqxeoKo2gku7Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59583/c41827_drone_thumb.jpg",
-      "excerpt": "Il drone cargo può trasportare 4 kg fino a 100 km. Nel 2027 sono previsti test per collegare diversi poli della logistica sanitaria del Veneto... Leggi tutto",
-      "image": "https://images.dday.it/ltIDprfDKDL8TpmSYoOUNZQSrhEIKLGqxeoKo2gku7Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59583/c41827_drone_thumb.jpg",
-      "publishedAt": "2026-11-23T13:34:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Robot aspirapolvere Roborock in offerta per il Black Friday, cosa cambia tra Qrevo e Saros?",
-      "link": "https://images.dday.it/MxFU9qxH0HPGJVQUNynSJWerVVIYqF8fzzpiAs3geE0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59489/0c6cfd_ape1.jpg",
-      "excerpt": "Si parte da 299,99 euro per il Qrevo S Pro con due panni rotanti. A 349 euro il Qrevo Curv 2 Flow ha un rullo che si lava mentre pulisce, mentre i Saros arrivano a 36.000 Pa di…",
-      "image": "https://images.dday.it/MxFU9qxH0HPGJVQUNynSJWerVVIYqF8fzzpiAs3geE0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59489/0c6cfd_ape1.jpg",
-      "publishedAt": "2026-11-23T12:02:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "4 TB per archiviare tutto: il disco Seagate Expansion scende di prezzo",
-      "link": "https://images.dday.it/g8zqOvnNorZJV6BK9AgN_jXbYOmkw5EECLte0MIKk2U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59589/4ce1a7_71yUKd5SFsL._AC_SL1500_.jpeg",
-      "excerpt": "Con 4 TB a disposizione puoi archiviare foto, video e documenti senza dover scegliere cosa cancellare. Il Seagate Expansion con USB-C costa ora è in offerta a 163,99 euro: per chi…",
-      "image": "https://images.dday.it/g8zqOvnNorZJV6BK9AgN_jXbYOmkw5EECLte0MIKk2U/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59589/4ce1a7_71yUKd5SFsL._AC_SL1500_.jpeg",
-      "publishedAt": "2026-11-23T11:10:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
