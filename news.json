@@ -1,267 +1,240 @@
 {
-  "generatedAt": "2026-11-25T10:44:23.866348+00:00",
+  "generatedAt": "2026-11-25T20:54:27.712081+00:00",
   "count": 30,
   "sourcesOk": 3,
   "sourcesTotal": 3,
   "items": [
     {
-      "title": "Recensione Narwal Freo 20: in questa fascia di prezzo è uno dei modelli da battere",
-      "link": "https://images.dday.it/Ss-jv-8RrzofD8zml7o95b2vL6u5Gl1i_9-iy6OgYrQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/59625/71fb20_narwalfreo_main.jpg",
-      "excerpt": "Rispetto al modello top di gamma le differenze sono minime, ed è questo il motivo che rende il Freo 20 uno dei prodotti più completi nella sua fascia di prezzo. Soprattutto in…",
-      "image": "https://images.dday.it/Ss-jv-8RrzofD8zml7o95b2vL6u5Gl1i_9-iy6OgYrQ/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/59625/71fb20_narwalfreo_main.jpg",
-      "publishedAt": "2026-11-25T10:36:00+00:00",
+      "title": "Panasonic S65C, la TV da 40 pollici con Fire TV a 239€ per film e serie",
+      "link": "https://www.tomshw.it/offerte/panasonic-s65c-la-tv-da-40-pollici-con-fire-tv-a-239eur-per-film-e-serie",
+      "excerpt": "Panasonic S65C costa 239,00€ su Amazon, anziché 349,00€, con uno sconto del 32%: è il prezzo più basso del 2026. È pensata per chi cerca uno schermo da 40 pollici per film,…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/125911/B0H8SCWMYL.webp",
+      "publishedAt": "2026-11-25T20:30:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Quanto costano le navi ferme? 528 milioni l'anno in Italia",
+      "link": "https://www.tomshw.it/altro/le-navi-ferme-in-porto-costerebbero-all-italia-528-milioni-l-anno",
+      "excerpt": "Con 528 milioni di euro annui, l’Italia registra il totale nazionale più alto dei costi attribuiti alle emissioni delle navi ferme in porto nello studio di Transport &…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/126629/news-flash-2384127.png",
+      "publishedAt": "2026-11-25T20:07:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Jabra Speak2 75 al -49%, un affare per chi passa la giornata in call",
+      "link": "https://www.tomshw.it/offerte/jabra-speak2-75-al-49-un-affare-per-chi-passa-la-giornata-in-call",
+      "excerpt": "Jabra Speak2 75 costa 209,00€ su Amazon anziché 413,58€, con uno sconto del 49%. È pensato per le riunioni in cui più persone condividono lo stesso tavolo: i quattro microfoni…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/125909/B0BWKF1MKL.webp",
+      "publishedAt": "2026-11-25T20:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "HyperX SoloCast 2 al -45%, per farti sentire bene anche in diretta",
+      "link": "https://www.tomshw.it/offerte/hyperx-solocast-2-al-45-per-farti-sentire-bene-anche-in-diretta",
+      "excerpt": "HyperX SoloCast 2 costa 32,99€ su Amazon, anziché 59,99€, con uno sconto del 45%: è il prezzo più basso del 2026. È pensato per chi vuole registrare la voce o parlare durante le…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/125908/B0FLKJ7FH7.webp",
+      "publishedAt": "2026-11-25T19:30:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Allarme ACN, con gli agenti i cyberattacchi sono più veloci",
+      "link": "https://www.tomshw.it/business/allarme-acn-con-gli-agenti-i-cyberattacchi-sono-piu-veloci",
+      "excerpt": "Un agente AI attacca come lo farebbe un tecnico paziente: cerca errori di configurazione, collega tra loro vulnerabilità minori e prova un ingresso dopo l'altro, senza orari e…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/126273/03-acn-ai-agentica-rischi.jpg",
+      "publishedAt": "2026-11-25T19:09:41+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Congelatore a pozzetto Hisense, 297 litri a 219€ per fare scorta sul serio",
+      "link": "https://www.tomshw.it/offerte/congelatore-a-pozzetto-hisense-297-litri-a-219eur-per-fare-scorta-sul-serio",
+      "excerpt": "Il congelatore a pozzetto Hisense costa 219,00€ su Amazon, anziché 319,00€, con uno sconto del 31%. È pensato per chi vuole conservare scorte di surgelati oltre allo spazio…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/125907/B0D1VRNLB5.webp",
+      "publishedAt": "2026-11-25T19:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "Mouse wireless bloccato dopo lo standby? Ecco i rimedi",
+      "link": "https://www.tomshw.it/hardware/mouse-wireless-bloccato-dopo-inattivita-windows-11",
+      "excerpt": "Se il mouse wireless non risponde dopo alcuni minuti di inattività in Windows 11, mentre il PC resta acceso, verifica prima batteria e collegamento diretto del ricevitore USB, poi…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/125695/cover.png",
+      "publishedAt": "2026-11-25T19:00:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "TSMC, nuova espansione in Arizona: ci sarà anche Trump",
+      "link": "https://www.tomshw.it/hardware/tsmc-prepara-l-espansione-in-arizona-trump-atteso-il-4-dicembre",
+      "excerpt": "Il complesso TSMC di Phoenix, in Arizona, produce già chip NVIDIA Blackwell e si prepara a un’ulteriore espansione. Donald Trump dovrebbe presiedere la cerimonia di avvio dei…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/126673/news-flash-2384362.png",
+      "publishedAt": "2026-11-25T18:49:16+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "La spesa AI delle aziende non fa che salire, ma la capacità di usarla è ferma",
+      "link": "https://www.tomshw.it/business/la-spesa-ai-delle-aziende-non-fa-che-salire-ma-la-capacita-di-usarla-e-ferma",
+      "excerpt": "In Italia la spesa in intelligenza artificiale cresce molto più in fretta della capacità delle imprese di organizzarsi per usarla. Per il 2026 il mercato è stato stimato in oltre…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/126268/01-assintel-ai-adozione-29.jpg",
+      "publishedAt": "2026-11-25T18:45:52+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "iRobot Roomba 115 Combo a 164,92€, aspira, lava i pavimenti e si svuota da solo",
+      "link": "https://www.tomshw.it/offerte/irobot-roomba-115-combo-a-16492eur-aspira-lava-i-pavimenti-e-si-svuota-da-solo",
+      "excerpt": "Roomba 115 Combo costa 164,92€ su Amazon, anziché 219,00€, con uno sconto del 25%: è il prezzo più basso del 2026. Aspira e lava contemporaneamente, coprendo fino a 84 m² per…",
+      "image": "https://cdn.tomshw.it/storage/media/2026/11/125906/B0GQVYJFF9.webp",
+      "publishedAt": "2026-11-25T18:30:00+00:00",
+      "source": "Tom's Hardware",
+      "sourceColor": "#9B2D2D"
+    },
+    {
+      "title": "One UI 9 bug, salute batteria cala molto in fretta. Fix arriverà solo con One UI 9.5",
+      "link": "https://www.hdblog.it/smartphone/articoli/n678306/samsung-one-ui-9-bug-salute-batteria-fix/",
+      "excerpt": "OK, ma... è solo un problema di forma, vero Samsung? Non è che la batteria si sta effettivamente e irreversibilmente deteriorando?",
+      "image": "https://hd2.tudocdn.net/1316116?w=660",
+      "publishedAt": "2026-11-25T18:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Excel, ecco tutte le nuove funzionalità aggiunte questo mese",
+      "link": "https://www.hdblog.it/microsoft/articoli/n678276/excel-nuove-funzionalita-aggiunte-questo-mese/",
+      "excerpt": "Novità",
+      "image": "https://hd2.tudocdn.net/1307427?w=660",
+      "publishedAt": "2026-11-25T17:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "DART ha “asfaltato” un intero lato di Dimorphos: Hera mostra un cratere grande come un campo da calcio",
+      "link": "https://images.dday.it/5xfk5fX1uBC9y_hJahoDAl90MnKgSBkhq_xYc6-i5Nk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59636/f7a406_Hera_1.jpg",
+      "excerpt": "La sonda dell’Agenzia Spaziale Europea ha inviato le prime immagini dell’asteroide colpito dalla missione NASA nel 2022: un lato schiacciato da un cratere grande quanto l’intero…",
+      "image": "https://images.dday.it/5xfk5fX1uBC9y_hJahoDAl90MnKgSBkhq_xYc6-i5Nk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59636/f7a406_Hera_1.jpg",
+      "publishedAt": "2026-11-25T17:30:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     },
     {
-      "title": "Claude trasforma gli artefatti in app, ecco come funziona",
-      "link": "https://www.tomshw.it/hardware/claude-trasforma-gli-artefatti-in-app-come-funziona",
-      "excerpt": "Claude introduce Install as app, una funzione in beta che permette di aprire gli strumenti interattivi già creati come artefatto in una finestra dedicata su Mac e Windows. Ognuno…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/126248/claude-porta-gli-artefatti-sul-desktop-di-mac-e-pc-windows.png",
-      "publishedAt": "2026-11-25T10:35:50+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
+      "title": "Claude Ship può rivedere e correggere le pull request su GitHub",
+      "link": "https://www.hdblog.it/internet/articoli/n678154/claude-ship-pull-request-github/",
+      "excerpt": "Anthropic riunisce revisione, correzioni e approvazioni in un servizio per i team.",
+      "image": "https://hd2.tudocdn.net/1331727?w=660",
+      "publishedAt": "2026-11-25T17:30:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
     },
     {
-      "title": "JBL Tune 670NC al -50%, fino a 70 ore di musica con una carica",
-      "link": "https://www.tomshw.it/offerte/jbl-tune-670nc-al-50-fino-a-70-ore-di-musica-con-una-carica",
-      "excerpt": "JBL Tune 670NC scende a 50,49€ su Amazon, anziché 99,99€, con uno sconto del 50%: è il prezzo più basso del 2026. Sono cuffie indicate per musica e chiamate durante gli…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/125877/B0C665WWTD.webp",
-      "publishedAt": "2026-11-25T10:30:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
+      "title": "MacBook Air, la variante OLED è all'orizzonte: già entro fine 2027?",
+      "link": "https://www.hdblog.it/portatili/articoli/n678301/apple-macbook-air-oled-quando/",
+      "excerpt": "Nuove indiscrezioni da parte di Mark Gurman di Bloomberg.",
+      "image": "https://hd2.tudocdn.net/1380889?w=660",
+      "publishedAt": "2026-11-25T17:25:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
     },
     {
-      "title": "Un drone Amazon Prime Air consegna uno shampoo e si schianta sul garage",
-      "link": "https://www.tomshw.it/altro/un-drone-amazon-prime-air-consegna-uno-shampoo-e-cade-sul-garage",
-      "excerpt": "La consegna di uno shampoo era già terminata quando un drone di Amazon Prime Air è precipitato sul garage di un'abitazione a Huntington Woods, in Michigan. L'incidente è avvenuto…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/126444/90.png",
-      "publishedAt": "2026-11-25T10:24:49+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
+      "title": "Citizen Series8 831, un automatico bordeaux da 600 esemplari",
+      "link": "https://www.hdblog.it/accessori/articoli/n678158/citizen-series8-831-automatico-600-esemplari/",
+      "excerpt": "La variante NB6050-19W ha il calibro 9051 e costa 1.125 dollari negli Stati Uniti.",
+      "image": "https://hd2.tudocdn.net/1387938?w=660",
+      "publishedAt": "2026-11-25T17:15:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
     },
     {
-      "title": "La CIA violata con l’IA: sotto accusa lo stesso strumento usato contro la Commissione Europea",
-      "link": "https://images.dday.it/fo2Z-nlqYspbuol9e_wC5ZqFksA1PL7rmkVBhFeQ87Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59631/3cf57f_Aerial_view_of_CIA_headquarters__Langley__Virginia_14760v.jpg",
-      "excerpt": "Gli hacker avrebbero usato ARTEX, lo strumento IA open source già associato agli attacchi contro la Commissione Europea. Coinvolte almeno tre agenzie americane, ma nessun dato…",
-      "image": "https://images.dday.it/fo2Z-nlqYspbuol9e_wC5ZqFksA1PL7rmkVBhFeQ87Q/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59631/3cf57f_Aerial_view_of_CIA_headquarters__Langley__Virginia_14760v.jpg",
-      "publishedAt": "2026-11-25T10:18:00+00:00",
+      "title": "Nuovo smartphone Xiaomi certificato in Cina, potrebbe essere Redmi Note 18",
+      "link": "https://www.hdblog.it/smartphone/articoli/n678296/redmi-note-18-certificato-ricarica-velocita/",
+      "excerpt": "Non sembrano previste grosse novità per la velocità di ricarica, che si attesterà sempre intorno ai 45 W.",
+      "image": "https://hd2.tudocdn.net/1372272?w=660",
+      "publishedAt": "2026-11-25T17:05:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "WhatsApp, arrivano i messaggi programmati: cosa sono e come funzionano",
+      "link": "https://www.hdblog.it/android/articoli/n678272/whatsapp--messaggi-programmati-invio-data-ora-come/",
+      "excerpt": "Una novità semplice e utile: scopriamola.",
+      "image": "https://hd2.tudocdn.net/1388158?w=660",
+      "publishedAt": "2026-11-25T16:55:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Abbiamo provato MinervaE 20B, l'IA italiana che cerca sul web ma giura di non poterlo fare",
+      "link": "https://images.dday.it/dfY_AERxCVjjCiN-C67QiIPwyu_oyuQMydFo9Hfcp5g/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59642/600419_minervae-cover.jpg",
+      "excerpt": "Sapienza e Babelscape rilasciano in anteprima un modello da 20 miliardi di parametri. Nelle nostre prove nega di cercare sul web, e le chat possono finire nell'addestramento...…",
+      "image": "https://images.dday.it/dfY_AERxCVjjCiN-C67QiIPwyu_oyuQMydFo9Hfcp5g/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59642/600419_minervae-cover.jpg",
+      "publishedAt": "2026-11-25T16:51:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     },
     {
-      "title": "GTA VI su PC, Take-Two fa chiudere oltre 3.000 repository. I progetti proseguono in privato",
-      "link": "https://images.dday.it/fHS87Fr-3S4qKosB13eTo35d9aUevH9SZTMRgaKwafs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59629/facffa_gta6_thumb.jpg",
-      "excerpt": "Una richiesta di rimozione ha colpito il progetto Leonida e la sua rete su GitHub. Alcuni gruppi sostengono di aver raggiunto le prime sequenze giocabili, ma le dimostrazioni…",
-      "image": "https://images.dday.it/fHS87Fr-3S4qKosB13eTo35d9aUevH9SZTMRgaKwafs/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59629/facffa_gta6_thumb.jpg",
-      "publishedAt": "2026-11-25T10:14:00+00:00",
+      "title": "Gli Anelli del Potere, Prime Video conferma la quarta stagione",
+      "link": "https://www.hdblog.it/amazon/articoli/n678251/anelli-del-potere-4-prime-video-riprese/",
+      "excerpt": "Prime Video rinnova Gli Anelli del Potere. Le riprese della quarta stagione inizieranno nella primavera 2027 agli Shepperton Studios.",
+      "image": "https://hd2.tudocdn.net/1388124?w=660",
+      "publishedAt": "2026-11-25T16:50:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "Piatti Chiari: la guida gastronomica di Iliad diventa un'app gratis per smartphone",
+      "link": "https://www.hdblog.it/iliad/articoli/n678284/iliad-piatti-chiari-guida-gastronomica-app/",
+      "excerpt": "Altro che Guida Michelin!",
+      "image": "https://hd2.tudocdn.net/1388171?w=660",
+      "publishedAt": "2026-11-25T16:45:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "OpenAI, nuove accuse sulle registrazioni delle riunioni interne",
+      "link": "https://www.hdblog.it/internet/articoli/n678155/openai-accuse-registrazioni-riunioni-interne/",
+      "excerpt": "La procura USA riferisce di decine di conversazioni registrate. La difesa contesta le accuse.",
+      "image": "https://hd2.tudocdn.net/1384095?w=660",
+      "publishedAt": "2026-11-25T16:40:00+00:00",
+      "source": "HDblog.it",
+      "sourceColor": "#0066CC"
+    },
+    {
+      "title": "450 euro di sconto per una delle full frame Sony più conosciute: Alpha 7 III è in offerta",
+      "link": "https://images.dday.it/Eg0ODSiI_OLRBr7YulHa7sa73XwfFj6tO4P3-aXOgRk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59640/77a62d_ape1.jpg",
+      "excerpt": "La full frame Sony Alpha 7 III con obiettivo 28-70 mm scende a 1099 euro. Sensore da 24,2 MP, video 4K e obiettivo 28-70 mm: ora con uno sconto di 450 euro... Leggi tutto",
+      "image": "https://images.dday.it/Eg0ODSiI_OLRBr7YulHa7sa73XwfFj6tO4P3-aXOgRk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59640/77a62d_ape1.jpg",
+      "publishedAt": "2026-11-25T15:13:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     },
     {
-      "title": "Il carsharing dimezza la flotta in Italia: volano monopattini e e-bike",
-      "link": "https://www.tomshw.it/automotive/il-carsharing-dimezza-la-flotta-in-italia-restano-3-500-auto",
-      "excerpt": "Le biciclette e i monopattini trainano la mobilità condivisa italiana verso i 75 milioni di noleggi previsti per la fine del 2026. La stima attribuita all’Osservatorio Nazionale…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/126283/news-flash-2383227.png",
-      "publishedAt": "2026-11-25T10:12:48+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Migliori lampade da scrivania LED eye-care (2026)",
-      "link": "https://www.tomshw.it/hardware/migliori-lampade-da-scrivania-led-eye-care",
-      "excerpt": "La Philips Robot Plus è la scelta per studiare con luce neutra e intensità regolabile. Per libri e documenti affiancati scegli BenQ WiT e-Reading; per liberare il piano con un…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/09/113454/guide-thw-1209598.png",
-      "publishedAt": "2026-11-25T10:10:08+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Philips sconta tre rasoi Wet & Dry: anche i modelli premium costano meno. Si parte da 69,99 euro",
-      "link": "https://images.dday.it/JNsXJx8vgH1Y7yrYTfRU-dyRohMrA0xe4gzv2U5fk8s/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59630/27fc4e_81X+Gojb0UL._AC_SL1500_.jpeg",
-      "excerpt": "Dalla Serie 5000 ai più evoluti i9000 e i9000 Prestige, tre rasoi elettrici Philips con sconti fino al 50%. Ecco le differenze tra i modelli e quanto si risparmia... Leggi tutto",
-      "image": "https://images.dday.it/JNsXJx8vgH1Y7yrYTfRU-dyRohMrA0xe4gzv2U5fk8s/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59630/27fc4e_81X+Gojb0UL._AC_SL1500_.jpeg",
-      "publishedAt": "2026-11-25T10:05:00+00:00",
+      "title": "Formula E: GEN4 è il punto di svolta del motorsport elettrico. L'abbiamo vista da vicino ai test di Jarama",
+      "link": "https://images.dday.it/C8B_Fe0KDV1tlZhJqJ_x5tsf5GP0w1OcUIifp88ZzxE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59639/786ce6_DPPIPRODUCTION_00005305_0009.jpg",
+      "excerpt": "Dalla GEN1 alla nuova GEN4: tutte le novità tecniche e sportive del Mondiale 2026/2027 viste da vicino ai test di Jarama... Leggi tutto",
+      "image": "https://images.dday.it/C8B_Fe0KDV1tlZhJqJ_x5tsf5GP0w1OcUIifp88ZzxE/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59639/786ce6_DPPIPRODUCTION_00005305_0009.jpg",
+      "publishedAt": "2026-11-25T15:00:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     },
     {
-      "title": "Migliori frigoriferi da incasso (2026)",
-      "link": "https://www.tomshw.it/offerte/frigoriferi-da-incasso",
-      "excerpt": "Il miglior frigorifero da incasso deve essere compatibile con nicchia e ante. Per una colonna standard consigliamo Hisense RB3B250SAWE1; Samsung BRB80F30AES0EF richiede una…",
-      "image": "https://cdn.tomshw.it/storage/media/2023/12/8416/Migliori-frigoriferi-da-incasso-copertina.jpg",
-      "publishedAt": "2026-11-25T10:01:26+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Sony Alpha 7 III a 1.099€, il minimo di sempre per scattare in full frame",
-      "link": "https://www.tomshw.it/offerte/sony-alpha-7-iii-a-1099eur-il-minimo-di-sempre-per-scattare-in-full-frame",
-      "excerpt": "Sony Alpha 7 III costa 1099,00€ su Amazon, anziché 1549,00€, con uno sconto del 29%: è il prezzo più basso del 2026. È pensata per chi cerca una fotocamera full-frame da usare tra…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/125874/B0GSW2SCB5.webp",
-      "publishedAt": "2026-11-25T10:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Come si entra nel mercato USA se sei una startup italiana",
-      "link": "https://www.tomshw.it/business/come-si-entra-nel-mercato-usa-se-sei-una-startup-italiana",
-      "excerpt": "Il 27 ottobre 2026, al Faculty Club dell'Università della California a Berkeley, Rick Rasmussen ha spiegato alle startup deep tech italiane in visita con Area Science Park che per…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/123049/02-rasmussen-master-class-mercato-usa.jpg",
-      "publishedAt": "2026-11-25T10:00:00+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Alexa Tablet 12 Pro, recensione. Schermo eccellente, prezzo alto. Con lo sconto però...",
-      "link": "https://images.dday.it/yWqurJpMA4t61D5EuEzzTjfx3ZE4jdHPudZw9E4q2RY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/59626/d7700a_P1244326.jpg",
-      "excerpt": "Amazon riporta i tablet Fire sul mercato italiano: escono FireOS con le sue poche app e i suoi limiti ed entrano Google con Play Store e i suoi servizi. Oltre ad Alexa, con una…",
-      "image": "https://images.dday.it/yWqurJpMA4t61D5EuEzzTjfx3ZE4jdHPudZw9E4q2RY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/59626/d7700a_P1244326.jpg",
-      "publishedAt": "2026-11-25T09:59:00+00:00",
+      "title": "In OpenAI e Anthropic c'è chi teme di rilasciare i nuovi modelli. OpenAI propone un “numero” per capire quando fermarsi",
+      "link": "https://images.dday.it/IGWeNbTC7lZdzoy8BE8YfkyeKJTI8NorwNamGCeVEKo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59638/a01182_Gigante_sotto_la_cupola_di_vetro.png",
+      "excerpt": "Diversi ricercatori temono che i prossimi modelli non possano essere distribuiti in sicurezza. OpenAI propone di usare la perplexity come indicatore per rallentare lo sviluppo…",
+      "image": "https://images.dday.it/IGWeNbTC7lZdzoy8BE8YfkyeKJTI8NorwNamGCeVEKo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59638/a01182_Gigante_sotto_la_cupola_di_vetro.png",
+      "publishedAt": "2026-11-25T14:41:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     },
     {
-      "title": "The Witcher 4: Sony al fianco di CD Projekt Red",
-      "link": "https://www.tomshw.it/videogioco/sony-affianchera-cd-projekt-red-nel-marketing-di-the-witcher-4",
-      "excerpt": "Sony Interactive Entertainment collaborerà alla campagna marketing di The Witcher 4. L'intesa compare nei nuovi accordi firmati da CD Projekt Red il 24 novembre 2026 e descritti…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/08/109284/ar3nks.jpg",
-      "publishedAt": "2026-11-25T09:55:14+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Tenere gli agenti AI sotto controllo con un modello piccolo e una sandbox",
-      "link": "https://www.tomshw.it/business/tenere-gli-agenti-ai-sotto-controllo-con-un-modello-piccolo-e-una-sandbox",
-      "excerpt": "AWS ha rilasciato due strumenti open source per tenere a freno gli agenti AI, uno che affida a un modello piccolo le scelte più ripetitive e uno che chiude l'agente in una…",
-      "image": "https://cdn.tomshw.it/storage/media/2026/11/126073/05-aws-strands-decider-box.jpg",
-      "publishedAt": "2026-11-25T09:54:49+00:00",
-      "source": "Tom's Hardware",
-      "sourceColor": "#9B2D2D"
-    },
-    {
-      "title": "Il vero desktop di Windows XP gira su Linux grazie a Wine",
-      "link": "https://www.hdblog.it/windows/articoli/n678203/windows-xp-desktop-linux-debian-wine-win4wine/",
-      "excerpt": "Win4wine porta l’Explorer originale di Windows XP su Debian 13. Dal menu Start si possono avviare anche le app Linux.",
-      "image": "https://hd2.tudocdn.net/1387977?w=660",
-      "publishedAt": "2026-11-25T09:40:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Scoperti due enormi database di dati personali rubati: oltre 3,6 miliardi di record",
-      "link": "https://www.hdblog.it/sicurezza/articoli/n678217/archivio-dati-rubati-3-6-miliardi-record/",
-      "excerpt": "A quanto pare una collezione di precedenti data breach organizzata e consolidata in due archivi unici, per una più facile consultazione.",
-      "image": "https://hd2.tudocdn.net/1352063?w=660",
-      "publishedAt": "2026-11-25T09:35:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Recensione TCL OLED+ 32X3A, un monitor gaming con lo smoking",
-      "link": "https://www.hdblog.it/hardware/recensioni/n677918/tcl-oled-32x3a-monitor-gaming-test-prezzo/",
-      "excerpt": "Abbiamo provato il TCL OLED+ 32X3A, un monitor OLED con design super curato ma un'anima decisamente gaming, ecco come va",
-      "image": "https://hd2.tudocdn.net/1387454?w=660",
-      "publishedAt": "2026-11-25T09:31:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Suzuki Ignis rinasce elettrica: la sfida giapponese al mercato delle citycar",
-      "link": "https://www.hdmotori.it/suzuki-ignis-elettrica-2027/",
-      "excerpt": "Suzuki presenta la nuova Ignis elettrica di segmento A, sviluppata sulla piattaforma HEARTECT-e con batteria LFP. In Europa dall’estate 2027",
-      "image": "https://hd2.tudocdn.net/1388040?w=660",
-      "publishedAt": "2026-11-25T09:30:21+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Galaxy S27 Series: ecco quali modelli avranno UFS 5.0 e RAM LPDDR6",
-      "link": "https://www.hdblog.it/smartphone/articoli/n678204/galaxy-s27-ultra-pro-lpddr6-ufs-5-0-esclusiva/",
-      "excerpt": "Le UFS 5.0 non arriveranno sui tagli di memoria di fascia più bassa",
-      "image": "https://hd2.tudocdn.net/1384574?w=660",
-      "publishedAt": "2026-11-25T09:25:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Black Friday LG: più acquisti, più risparmi. Offerte per i Member fino al 2 dicembre",
-      "link": "https://www.hdblog.it/lg/articoli/n675940/lg-black-friday-2026-offerte-oled-tv-sound/",
-      "excerpt": "TV OLED C6 e G6, Sound Suite H7, come funzionano gli sconti LG e il pagamento da febbraio 2027 sui prodotti selezionati.",
-      "image": "https://hd2.tudocdn.net/1382770?w=660",
-      "publishedAt": "2026-11-25T09:21:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Il vecchio Kindle diventa una stazione meteo: basta affidarsi all'AI",
-      "link": "https://www.hdblog.it/amazon/articoli/n678201/kindle-vecchi-come-trasformare-stazione-meteo/",
-      "excerpt": "Jailbreak e Claude, e il gioco è fatto.",
-      "image": "https://hd2.tudocdn.net/1388024?w=660",
-      "publishedAt": "2026-11-25T09:20:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Satispay lancia il suo POS con commissioni agevolate per alcuni commercianti",
-      "link": "https://www.hdblog.it/business/articoli/n678211/satispay-pos-pagamenti-debutto-costi/",
-      "excerpt": "Satispay entra nel mercato dei terminali di pagamento con Smart POS, sviluppato in collaborazione con Adyen. Il dispositivo permette ai commercianti di accettare carte di credito…",
-      "image": "https://hd2.tudocdn.net/1388023?w=660",
-      "publishedAt": "2026-11-25T09:10:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "GTA 6, Take-Two interviene contro i porting PC fatti dalla community",
-      "link": "https://www.hdblog.it/windows/articoli/n678210/gta-6-porting-pc-community-take-two-stop/",
-      "excerpt": "Rockstar e Take-Two sembrano combattere contro i mulini a vento - o l'idra. Ogni volta che chiudono un progetto, ne saltano fuori tanti altri.",
-      "image": "https://hd2.tudocdn.net/1387990?w=660",
-      "publishedAt": "2026-11-25T09:05:00+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Hisense, un utente decifra il traffico della TV: trasmette ogni 2.7 secondi quel che vedi ad una azienda pubblicitaria",
-      "link": "https://www.dday.it/news/39/hisense-un-utente-decifra-il-traffico-della-tv-trasmette-ogni-2-7-secondi-quel-che-vedi-ad-una-azienda-pubblicitaria",
-      "excerpt": "Un utente ha decifrato il traffico della sua Hisense 55U65QEVS (sistema VIDAA) e dice che la TV copia l'audio che sta riproducendo, microfono escluso, anche quando arriva da una…",
-      "image": "https://images.dday.it/nuyiKjzxGyH4JJ8nYLGsZdd0GdV5TO63s77vS6ABFHM/w:1200/h:934/rt:fill/plain/s3://dday-production/system/uploads/ai_pill/main_image/39/04144b_hds.jpg",
-      "publishedAt": "2026-11-25T09:04:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "OccupySaaS: l’IA gli ha tolto il lavoro, loro la usano per demolire il software in abbonamento",
-      "link": "https://images.dday.it/mZsD9NAr_la83lJ1fA96YMb7fNJTWEWSJ83te1JlrmY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59624/a06f94_Hacker_in_ufficio_tra_luci_al_neon.png",
-      "excerpt": "Il movimento OccupySaaS riunisce ingegneri licenziati per colpa dell’IA che ora usano gli agenti artificiali per replicare e distribuire gratuitamente i software venduti in…",
-      "image": "https://images.dday.it/mZsD9NAr_la83lJ1fA96YMb7fNJTWEWSJ83te1JlrmY/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59624/a06f94_Hacker_in_ufficio_tra_luci_al_neon.png",
-      "publishedAt": "2026-11-25T09:02:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Ferrari Luce, il design non ha convinto al debutto? Per Vigna è anche colpa delle foto",
-      "link": "https://www.hdmotori.it/ferrari-luce-presentazione-errori-vigna/",
-      "excerpt": "L’unveiling della Ferrari Luce ha lasciato gli appassionati storici del Cavallino attoniti. Il motivo? Secondo Vigna è stato commesso un errore fotografico.",
-      "image": "https://hd2.tudocdn.net/1388033?w=660",
-      "publishedAt": "2026-11-25T09:00:23+00:00",
-      "source": "HDblog.it",
-      "sourceColor": "#0066CC"
-    },
-    {
-      "title": "Ti servono 8 TB di spazio? Questo hard disk Seagate ora costa meno",
-      "link": "https://images.dday.it/q1NETs45UVFxQLvdp0BV5PDMCtUi-UXdz4MzUrVagTo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59620/8f6a14_71XnnpPBXQL._AC_SL1500_.jpeg",
-      "excerpt": "L'hard disk esterno Seagate One Touch Desktop da 8 TB con USB-C passa a 269,99 euro. Una soluzione capiente per backup e archivio su PC e Mac, con 2 anni di garanzia e servizio…",
-      "image": "https://images.dday.it/q1NETs45UVFxQLvdp0BV5PDMCtUi-UXdz4MzUrVagTo/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59620/8f6a14_71XnnpPBXQL._AC_SL1500_.jpeg",
-      "publishedAt": "2026-11-25T07:00:00+00:00",
-      "source": "DDay.it",
-      "sourceColor": "#E63946"
-    },
-    {
-      "title": "Le idee regalo UGREEN per il Black Friday UGREEN. Ecco i migliori sconti",
-      "link": "https://images.dday.it/LZpP4rEWGv_1s0f-SGVVPtmrjoA4bghJrexKfSqB-7E/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59401/6eac4d_Screenshot_2026-11-10_alle_16.22.35.jpeg",
-      "excerpt": "NAS per tenere in casa foto e documenti di famiglia, un power bank magnetico, un caricatore da scrivania da 300 W e un dock Thunderbolt 5. Con gli sconti attivi su Amazon e sullo…",
-      "image": "https://images.dday.it/LZpP4rEWGv_1s0f-SGVVPtmrjoA4bghJrexKfSqB-7E/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59401/6eac4d_Screenshot_2026-11-10_alle_16.22.35.jpeg",
-      "publishedAt": "2026-11-25T07:00:00+00:00",
+      "title": "Pirateria IPTV, Europol segue i soldi: tracciati 26 milioni di euro in criptovalute. Tra i Paesi coinvolti anche l'Italia",
+      "link": "https://images.dday.it/DbiZQkX6drN19bw71dGeob9GZYTjQDKs7yyixHH3xpU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/59637/bddf35_bclock.jpg",
+      "excerpt": "11 Paesi coinvolti, 26 milioni di euro tracciati e un'operazione che ha visto la collaborazione di Binance, Coinbase e Chainalysis. L'obiettivo non era spegnere i server, ma…",
+      "image": "https://images.dday.it/DbiZQkX6drN19bw71dGeob9GZYTjQDKs7yyixHH3xpU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/main_image/59637/bddf35_bclock.jpg",
+      "publishedAt": "2026-11-25T14:12:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     },
@@ -270,7 +243,34 @@
       "link": "https://images.dday.it/MxFU9qxH0HPGJVQUNynSJWerVVIYqF8fzzpiAs3geE0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59489/0c6cfd_ape1.jpg",
       "excerpt": "Si parte da 299,99 euro per il Qrevo S Pro con due panni rotanti. A 349 euro il Qrevo Curv 2 Flow ha un rullo che si lava mentre pulisce, mentre i Saros arrivano a 36.000 Pa di…",
       "image": "https://images.dday.it/MxFU9qxH0HPGJVQUNynSJWerVVIYqF8fzzpiAs3geE0/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59489/0c6cfd_ape1.jpg",
-      "publishedAt": "2026-11-25T01:03:06+00:00",
+      "publishedAt": "2026-11-25T13:51:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Telepass, ennesimo rincaro: da febbraio sale il costo del canone per aziende e professionisti. Ecco le alternative",
+      "link": "https://images.dday.it/OntrpyMHu89BWuYlZr6MWEzla5cRbcS12Ujuzde4OZI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59635/07628f_telepass_thumb.jpg",
+      "excerpt": "Il rincaro riguarda ciascun dispositivo Telepass con Viacard, che oggi costa 3,90 euro più IVA. Chi non accetta può recedere entro il 31 gennaio 2027... Leggi tutto",
+      "image": "https://images.dday.it/OntrpyMHu89BWuYlZr6MWEzla5cRbcS12Ujuzde4OZI/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59635/07628f_telepass_thumb.jpg",
+      "publishedAt": "2026-11-25T12:34:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Bticino, il videocitofono con monitor da 7 pollici costa solo 132 euro",
+      "link": "https://images.dday.it/6Q1X5uMFq98IBXbumESlzI9UoIMmGNbjouWm2U7gggU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59634/51833e_81qsFEW7TTL._AC_SL1500_.jpeg",
+      "excerpt": "Il kit videocitofono monofamiliare Bticino, con monitor a colori da 7\" e telecamera con visione notturna, è in offerta per il Black Friday a 132 euro... Leggi tutto",
+      "image": "https://images.dday.it/6Q1X5uMFq98IBXbumESlzI9UoIMmGNbjouWm2U7gggU/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59634/51833e_81qsFEW7TTL._AC_SL1500_.jpeg",
+      "publishedAt": "2026-11-25T11:53:00+00:00",
+      "source": "DDay.it",
+      "sourceColor": "#E63946"
+    },
+    {
+      "title": "Il Black Friday LG è una vera svolta: più compri e più risparmi. Extra sconto fino al 20% e paghi da febbraio 2027",
+      "link": "https://images.dday.it/TAmymLbCx4nyUyJq5DSwfIbibFRjkWazp9CuJWs_XDk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59472/c17c3c_lg_bf_thumb.jpg",
+      "excerpt": "Fino al 2 dicembre, i Member LG possono ottenere uno sconto crescente acquistando più prodotti: si parte dal 5% con un articolo e si arriva al 15% da tre prodotti in su. Ed è…",
+      "image": "https://images.dday.it/TAmymLbCx4nyUyJq5DSwfIbibFRjkWazp9CuJWs_XDk/w:329/h:256/rt:fill/plain/s3://dday-production/system/uploads/news/square_crop_img/59472/c17c3c_lg_bf_thumb.jpg",
+      "publishedAt": "2026-11-25T11:10:00+00:00",
       "source": "DDay.it",
       "sourceColor": "#E63946"
     }
